@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="255-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe69764"> <!-- alias="vn58an-a72q1" -->
+      <head xml:id="vn58an-fe69764-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe69764-d1e107">
+        <lb ed="#Bb" n="39"/>Irca primum arguitur quod appropriatio non sit possibilis: in diuinis, Primo sic. Quae  
+        <lb ed="#Bb" n="40"/>cunque aequaliter &amp; vniformiter communia sunt pluribus: nullum eorum possibi 
+        <lb ed="#Bb" n="41"/>le est alicui ipsorum appropriari sine iniuria alterius. Omne commune in diui 
+        <lb ed="#Bb" n="42"/>nis aequaliter &amp; vniformiter commune est tribus personis: quia singulum eorum 
+        <lb ed="#Bb" n="43"/>non magis conuenit vni personae quam alteri: nec aliquod illorum magis conuenit 
+        <lb ed="#Bb" n="44"/>vni personae quam aliud: nec possibile est in diuinis alicui personae fieri iniutiam. 
+        <lb ed="#Bb" n="45"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe69764-d1e125">
+        ⁋ Secundo sic. sicut se habet commune ad proprium, sic se habet econuerso proprium a 
+        <lb ed="#Bb" n="46"/>ad commune. sed proprium impossibile est pluribus communicari: ergo impossibile est commune 
+        <lb ed="#Bb" n="47"/>alicui appropriari. 
+      </p>
+      <p xml:id="vn58an-fe69764-d1e132">
+        ⁋ Confirmando rationem istam per locum a maiori negatiue, arguitur ad idem  
+   <!--525.xml-->
+        <pb ed="#Bb" n="255-v"/>
+        <lb ed="#Bb" n="1"/>tertio sic. magis nata est conuenire deo ratio primi quam econuerso: quia primum semper est principi 
+        <lb ed="#Bb" n="2"/>um &amp; origo secundi quoquo modo: &amp; principiatum natum est magis tenere in se rationem prin 
+        <lb ed="#Bb" n="3"/>cipii quam econuerso. In diuinis autem communia prima sunt respectu propriorum: &amp; secundum ra- 
+        <lb ed="#Bb" n="4"/>tionem intelligendi sunt priora illis. communicari autem est ratio communis: appropriari autem 
+        <lb ed="#Bb" n="5"/>est ratio proprii: quia a proprio dicitur appropriari: &amp; a conmuni dicitur communicari. Magis ergo  
+        <lb ed="#Bb" n="6"/>proprium natum est communicari &amp; trahi ad commune: quam commune appropriari &amp; trahi ad pro 
+        <lb ed="#Bb" n="7"/>prium, quare cum impossibile sit proprium communicari: multo ergo est impossibilius commu- 
+        <lb ed="#Bb" n="8"/>ne appropriari. 
+      </p>
+      <p xml:id="vn58an-fe69764-d1e157">
+        ⁋ Et hoc est quod quarto ostensiue concluditur sic. Omne appropriatum secundum ra 
+        <lb ed="#Bb" n="9"/>tionem suam praesupponit proprium. sed in diuinis nullum commune potest praesupponere pro- 
+        <lb ed="#Bb" n="10"/>prium: sed magis econuerso. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe69764-d1e164">
+        ⁋ Quinto sic, quod est occasio errandi impossibile est in diuinis 
+        <lb ed="#Bb" n="11"/>quia error in diuinis maximum est inconueniens. Et secundum <name ref="#Anselm">Anselmus</name> minimum inconueniens in di- 
+        <lb ed="#Bb" n="12"/>uinis maximum est impossibile. Appropriatio communium in diuinis personis est occasio errandi:  
+        <lb ed="#Bb" n="13"/>quia ex illa potest intelligi quod appropriatum illi soli conueniat cui appropriatur: aut quod magis &amp; 
+        <lb ed="#Bb" n="14"/>verius ac perfectius ei conveniat quam alteri: &amp; ita quod gradus sunt in diuinis: quod erroneum est. ergo &amp;c. 
+        <lb ed="#Bb" n="15"/>
+      </p>
+      <p xml:id="vn58an-fe69764-d1e181">
+        ⁋ In contrarium est Augustinus: qui libro primo de doctrina christiana, appropriat vnitatem pa- 
+        <lb ed="#Bb" n="16"/>tri: aequalitatem filio: &amp; concordiam spiritui sancto. Et Hila. qui appropriat aeternitatem patri: spe 
+        <lb ed="#Bb" n="17"/>ciem filio: vsum spiritui sancto: vt habitum est supra articulo. lxviii. quaesti. ii. &amp; Apostolus cum. i 
+        <lb ed="#Bb" n="18"/>Corinthciumi. dicit Christum dei virtutem &amp; dei sapientiam, appropriando filio virtutem &amp; sapientiam. 
+        <lb ed="#Bb" n="19"/>
+      </p>
+      <p xml:id="vn58an-fe69764-d1e192">
+        ⁋ Dico ad intellectum sequentium quod inter ista sex quae sunt commune, proprium- 
+        <lb ed="#Bb" n="20"/>appropriatum, communiter, proprie, &amp; appropriate, differentia est: quod prima tria sunt significatiua respe 
+        <lb ed="#Bb" n="21"/>ctus: alia autem tria sunt significatiua modorum dicendi. Sicut enim dicit Priscivitius de nominis qua-  
+        <lb ed="#Bb" n="22"/>litate appellatiua &amp; propria: ipsae in hoc differunt, quod commune est illud quod pluribus conuenit per 
+        <lb ed="#Bb" n="23"/>appellationem: &amp; pluribus appellatis siue suppositis. Proprium autem est quod vni soli conuenit per 
+        <lb ed="#Bb" n="24"/>appellationem, idest vnico appellato siue supposito tantum. Sed vtrunque ipsorum dicitur dupliciter. 
+        <lb ed="#Bb" n="25"/>Commune enim aliquid dicitur vno modo vniuersalitate: alio modo communione. Et commu- 
+        <lb ed="#Bb" n="26"/>ne primo modo est quodcunque vniuersale: large sumendo vniuersale ad vniuocum, analogum, &amp; 
+        <lb ed="#Bb" n="27"/>aequiuocum: &amp; proprium ei respondens est quodcunque singulare sub vniuersali. hoc enim modo ho-  
+        <lb ed="#Bb" n="28"/>mo est commune: Petrus autem &amp; Paulus sunt propria. Commune vero secundo modo in diui- 
+        <lb ed="#Bb" n="29"/>nis est quodcunque essentiale: &amp; proprium ei respondens est vnaquaeque trium personarum: &amp; hoc 
+        <lb ed="#Bb" n="30"/>communiter loquendo de proprio: prout proprium dicitur quodcunque suppositum singula- 
+        <lb ed="#Bb" n="31"/>re respectu alicuius communis quod conuenit pluribus suppositis. Proprie autem loquendo de pro 
+        <lb ed="#Bb" n="32"/>prio, non dicitur proprium in diuinis nisi proprietas quae vnico supposito singulari conuenit: &amp; 
+        <lb ed="#Bb" n="33"/>quae in creaturis conuenit soli alicui speciei &amp; suppositis eius: vt risibile homini. Proprium autem 
+        <lb ed="#Bb" n="34"/>&amp; appropriatum in hoc differunt tam in diuinis quam in creaturis: aut quod in diuinis conuenit vni so 
+        <lb ed="#Bb" n="35"/>li singulari personae, aut in creaturis vni speciei sicut dictum est. Appropriatum est autem commu- 
+        <lb ed="#Bb" n="36"/>ne aliquod pluribus vni illorum ascriptum singulariter vt pro illo singulariter supponat: &amp; hoc pro  
+        <lb ed="#Bb" n="37"/>pter aliquid in illo quo singulariter illud respicit: vt iam amplius exponetur. Dici autem communi- 
+        <lb ed="#Bb" n="38"/>ter &amp; proprie vno modo respondent illis duobus quae sunt proprium &amp; commune: vt non dicatur 
+        <lb ed="#Bb" n="39"/>communiter dici nisi commune, neque proprie nisi proprium: &amp; omne commune dicatur commu 
+        <lb ed="#Bb" n="40"/>niter dici de illis quibus est commune: &amp; omne proprium dicatur dici proprie quia de seipso so- 
+        <lb ed="#Bb" n="41"/>lum. &amp; hoc quemadmodum omne appropriatum dicitur dici appropriate de eo cui est appropria 
+        <lb ed="#Bb" n="42"/>tum. Et proprie dici hoc modo opponitur ei quod est communiter dici, siue distinguitur contra ipsum 
+        <lb ed="#Bb" n="43"/>sicut distinguitur proprium contra commune. Alio autem modo communiter &amp; proprie non re 
+        <lb ed="#Bb" n="44"/>spondent illis duobus quae sunt commune &amp; proprium: vt scilicet non dicatur communiter nisi commu 
+        <lb ed="#Bb" n="45"/>ne: nec proprie nisi proprium: sicut respondet appropriate ei quod est appropriatum: quia non dici- 
+        <lb ed="#Bb" n="46"/>tur appropriate quicquam de alio: nisi communiter de illo cui est appropriatum. Sed communiter &amp; 
+        <lb ed="#Bb" n="47"/>proprie isto secundo modo non dicitur nisi id quod est commune pluribus: quod cum hoc quod communi 
+        <lb ed="#Bb" n="48"/>ter dicitur de illis secundum primum modum dicendi communiter iam dictum: de illorum aliquo  
+        <lb ed="#Bb" n="49"/>dicitur proprie, dicitur &amp; principaliter: de aliis autem vel de alio dicitur quoquo modo improprie 
+        <lb ed="#Bb" n="50"/>&amp; non principaliter: quod appellatur dici communiter secundo modo: &amp; opponitur sicut dici im 
+        <lb ed="#Bb" n="51"/>proprie ei quod est dici proprie. Et tale commune non est nisi illud quod analogice dicitur de pluribus: quod  
+        <lb ed="#Bb" n="52"/>communiter &amp; improprie dicitur de illo cui nomen convenit posterius: &amp; proprie cui conuenit prius. 
+   <!--526.xml-->
+        <pb ed="#Bb" n="256-r"/>
+        <lb ed="#Bb" n="1"/>Verbi gratia: ens proprie dicitur substantia sola: quia proprie loquendo secundum philosophum. viii. Metaph. accidens 
+        <lb ed="#Bb" n="2"/>non est ens sed entis. Communiter autem etiam accidens dicitur ens. Et communiter dicitur lex de toto ve 
+        <lb ed="#Bb" n="3"/>teri testamento, &amp; de vna parte eius proprie: vt de solis libris Moysi: &amp; communiter &amp; improprie 
+        <lb ed="#Bb" n="4"/>siue minus proprie de aliis libris veteris testamenti. Et similiter communiter dicitur prophetia de li 
+        <lb ed="#Bb" n="5"/>bro psalmorum Dauid: &amp; de libris aliorum prophetarum: quia de libro Psalmorum dicitur coma 
+        <lb ed="#Bb" n="6"/>muniter &amp; minus proprie: proprie autem de libris aliorum prophetarum. Appropriate autem non  
+        <lb ed="#Bb" n="7"/>dicitur nisi id quod est commune pluribus: &amp; vniuoce dicitur de illis: quod cum hoc quod communiter dicitur 
+        <lb ed="#Bb" n="8"/>de illis secundum primum modum dicendi coniter, de quolibet aliorum dicitur proprie: sed de aliquo illorum  
+        <lb ed="#Bb" n="9"/>tantum dicitur appropriate: vt in creaturis vrbs de aliis ciuitatibus dicitur coniter &amp; proprie: appropriate 
+        <lb ed="#Bb" n="10"/>autem de Roma: &amp; apsts coniter dicitur de aliis apilersoalis, &amp; solum appropriate de Paulo. Et in diuinis omnia essen 
+        <lb ed="#Bb" n="11"/>tialia dicuntur coniter de illis quibus non appropriantur. Appropriate autem solummodo de illis quibus ap-  
+        <lb ed="#Bb" n="12"/>propriantur. Et sic omne cone quod in diuinis dicitur appropriate de aliquo, etiam dicitur proprie de illo. sed  
+        <lb ed="#Bb" n="13"/>non econuerso: ens enim proprie dicitur substantia, sed non appropriate. Vnde <name ref="#Augustine">Augustinus</name> quaestionem de appro- 
+        <lb ed="#Bb" n="14"/>priatis &amp; appropriatione pertractans, xv. de trinitate. cap. xvii. ostendit appropriatione communium fore in  
+        <lb ed="#Bb" n="15"/>diuinis per hoc quod ea quae communia sunt pluribus, &amp; communiter dicuntur de illis, etiam de aliqui- 
+        <lb ed="#Bb" n="16"/>bus personis dicuntur proprie: sumens ibi proprie pro appropriate. Et quod aliquid dicitur communiter &amp; 
+        <lb ed="#Bb" n="17"/>proprie declarat ibidem in nomine legis (vt dictum est) &amp; nomine prophetiae: per haec duo exempla 
+        <lb ed="#Bb" n="18"/>quasi per similia concludens quod vnum &amp; idem potest sumi communiter &amp; proprie: &amp; arguens quod ea quae 
+        <lb ed="#Bb" n="19"/>in diuinis sunt communia: &amp; dicuntur communiter de tribus: possunt dici proprie &amp; appropriate de ali- 
+        <lb ed="#Bb" n="20"/>quo illorum: puta cum sapientia sit communis omnibus diuinis personis: appropriate tamen dici- 
+        <lb ed="#Bb" n="21"/>tur de filio, cum ait Apostolus. Praedicamus Christum dei virtutem, &amp; dei sapientiam. Et similiter 
+        <lb ed="#Bb" n="22"/>de illis quae ponuntur in appropriationibus <name ref="#Augustine">Augustinus</name> &amp; Hila. Reuera bene <name ref="#Augustine">Augustinus</name> arguit quod ali 
+        <lb ed="#Bb" n="23"/>quid quandoque potest dici communiter: quandoque autem proprie: &amp; hoc in diuinis sicut &amp; in creatu 
+        <lb ed="#Bb" n="24"/>ris. Sed ex illis duobus exemplis in quibus bene declarat aliquid dici communiter &amp; proprie, non po 
+        <lb ed="#Bb" n="25"/>test concludere quod in diuinis aliquid possit dici communiter &amp; proprie: sumendo proprie pro appropria 
+        <lb ed="#Bb" n="26"/>te: quia illa duo similia quae inducit Augustinus, non sunt omnino similia: vbi lex &amp; prophetae omni 
+        <lb ed="#Bb" n="27"/>no. vniuoce dicuntur de praedictis: quoniam appropriatio vere non habet locum nisi in communi vniuoco, 
+        <lb ed="#Bb" n="28"/>quod communiter dicitur de pluribus: aeque tamen proprie loquendo de proprie quod opponitur ei quod est 
+        <lb ed="#Bb" n="29"/>improprie: puta cum vniuoce dicitur de pluribus communiter ciuitas, &amp; sic Apostolus, significando  
+        <lb ed="#Bb" n="30"/>idem commune quod proprie dicitur de vno, vt Ciuitas de Roma, &amp; Apostolus de Paulo. Et simili 
+        <lb ed="#Bb" n="31"/>ter cum sapientia dicitur vniuoce de tribus personis diuinis: significando idem singulare quod pro 
+        <lb ed="#Bb" n="32"/>prie dicitur de filio. ibi enim proprie idem est quod appropriate. Sed cum ens aequiuoce siue analogice di 
+        <lb ed="#Bb" n="33"/>citur de substantia &amp; accidente: nec est aliquid vnum significatum nomine entis vniuoce ad suba 
+        <lb ed="#Bb" n="34"/>stantiam &amp; accidens: licet ens proprie dicatur de substantia: non tamen dicitur de substantia appro 
+        <lb ed="#Bb" n="35"/>priate: sed potius propriate: quia appropriatio aliquid apponit super propriationem: vt intelligamus 
+        <lb ed="#Bb" n="36"/>appropriationem fieri non solum secundum nomen ei cui conuenit proprie: sicut ens si diceretur appro 
+        <lb ed="#Bb" n="37"/>priari substantiae: quia nihil omnino commune ad substantiam &amp; accidens significatum est nomine sub 
+        <lb ed="#Bb" n="38"/>stantiae: sed etiam secundum rationem eius quid significatum est ipso nomine: sicut Ciuitas appro- 
+        <lb ed="#Bb" n="39"/>priatur Romae, &amp; Apostolus Paulo, &amp; sapientia filio dei. 
+      </p>
+      <p xml:id="vn58an-fe69764-d1e364">
+        ⁋ Ad hoc ergo quod quaeritur: Vtrum in diui- 
+        <lb ed="#Bb" n="40"/>nis sit possibilis appropriatio communis ad proprium: Dico quod sic: quia in diuinis est reperire ali- 
+        <lb ed="#Bb" n="41"/>quid commune vniuocum scilicet secundum idem nomen, &amp; idem nominis significatum commune plu- 
+        <lb ed="#Bb" n="42"/>ribus, quod alicui illorum conuenit proprie: vt sapientia filio: &amp; secundum quod dicit Ioan. in canonica 
+        <lb ed="#Bb" n="43"/>sua, Charitas ex deo est. quod appropriate dicitur de spiritu sancto: &amp; hoc prout arguit Augu. ex di 
+        <lb ed="#Bb" n="44"/>cto loannis vbi supra: quia in deo manemus, &amp; ipse est in nobis: quoniam de spiritu suo dedit no- 
+        <lb ed="#Bb" n="45"/>bis. ldem etiam dicit loannem. quod charitas deus est: quod communiter dicitur de tribus personis. Sed haec appro 
+        <lb ed="#Bb" n="46"/>priatio qualiter &amp; qua de causa fiat, in sequentibus quaestionibus amplius declarabitur. Quantum 
+        <lb ed="#Bb" n="47"/>tamen ad praesentem quaestionem pertinet, sciendum quod secundum iam praetacta aliquid commune 
+        <lb ed="#Bb" n="48"/>vniuocum dupliciter est: vel significando vnum commune vniuersalitate: vel significando vnum coma 
+        <lb ed="#Bb" n="49"/>mune communione. Et sic est dupliciter appropriatio, siue duplex modus appropriationis: quorum pri- 
+        <lb ed="#Bb" n="50"/>mus est per excellentiam eius cui commune appropriatur super alia quibus communiter conuenit. 
+        <lb ed="#Bb" n="51"/>Alius per correspondentiam communis quod appropriatur ad proprium illius cui appropriatur: quod  
+        <lb ed="#Bb" n="52"/>proprium est proprietas: &amp; proprium proprie dictum in diuinis eius quod est proprium &amp; persona singu- 
+        <lb ed="#Bb" n="53"/>laris. De appropriatione primo modo dico quod nullo modo possibilis est in diuinis. In tali enim modo appropriatio 
+        <lb ed="#Bb" n="54"/>nis appropriatum quod est, &amp; verius &amp; perfectius convenit illi cui appropriatur quam alteri. Quemadmodum nomen ci 
+        <lb ed="#Bb" n="55"/>uitatis appropriatur Romae: &amp; nomen Apostoli. Paulo appropriatur: qua. scilicet Roma excellere solebat caeteras 
+   <!--527.xml-->
+        <pb ed="#Bb" n="256-v"/>
+        <lb ed="#Bb" n="1"/>ciuitates dignitate imperatoria: quando talis appropriatio facta est illi: &amp; Paulus caeteros apost 
+        <lb ed="#Bb" n="2"/>los tempore suo excellebat in praedicatione veritatis euangelicae. Quae appropriatio impossil 
+        <lb ed="#Bb" n="3"/>in diuinis: quia in illis in nullo verius aut perfectius commune appropriandum potest convenire vni 
+        <lb ed="#Bb" n="4"/>personae quam alteri: sed si in diuinis aliqua fieret appropriatio per excellentiam, illa facienda esset soli pa 
+        <lb ed="#Bb" n="5"/>tri propter auctoritatem ex suo proprio: vt infra videbitur. Appropriatio autem quae cadit in diuinis 
+        <lb ed="#Bb" n="6"/>non est nisi appropriatio secundo modo: in qua (prout in sequentibus quaestionibus declarabitur) vnum 
+        <lb ed="#Bb" n="7"/>&amp; idem commune pluribus propter correspondentiam secundum similitudnem ad aliquod, proprium ali- 
+        <lb ed="#Bb" n="8"/>cui illorum illi appropriatur. De qua appropriatione bene procedit vltima ratio.  
+      </p>
+      <p xml:id="vn58an-fe69764-d1e423">
+        <lb ed="#Bb" n="9"/>⁋ Ad primum in oppositum: quod commune pluribus non potest alicui illorum appro 
+        <lb ed="#Bb" n="10"/>priari sine alterius eorum iniuria &amp;c. Dico quod commune appropriari non potest ad proprium sine 
+        <lb ed="#Bb" n="11"/>praerogatiua aliqua quam habet proprium super illud commune: quae est causa seu ratio illius appropriatio- 
+        <lb ed="#Bb" n="12"/>nis: sed talis praerogatiua aut est super ipsum commune: aut super aliquod coniunctum ei. Si primo modo  
+        <lb ed="#Bb" n="13"/>verum est quod commune pluribus non potest vni appropriari sine aliorum praeiudicio: quia talis appropria 
+        <lb ed="#Bb" n="14"/>tio non esset nisi per hoc quod commune illud magis conueniret vel principalius illi cui appropriaretur quam 
+        <lb ed="#Bb" n="15"/>aliis: quod impossibile est in diuinis: quia in diuinis omne commune aequaliter &amp; vniformiter conuenit 
+        <lb ed="#Bb" n="16"/>illi cui appropriatur &amp; aliis: nec magis illi quam aliis: vt assumitur in argumento. Si secundo modo, hoc con 
+        <lb ed="#Bb" n="17"/>tingit dupliciter: quia illa praerogatiua aut est in aliquo absoluto: aut in aliquo relatiuo. Si primo 
+        <lb ed="#Bb" n="18"/>modo, sic commune pluribus bene potest appropriari vni illorum sine praeiudicio aut iniuria aliorum 
+        <lb ed="#Bb" n="19"/>sed non sine inaequalitate illius ad alia in communicatione illius absoluti. Quemadmodum Vrbs appro 
+        <lb ed="#Bb" n="20"/>priatur Romae propter praerogatiuam in dignitate imperii &amp; regis: &amp; nomen Apostoli appropriatur 
+        <lb ed="#Bb" n="21"/>Paulo propter praerogatiuam in executione officii apostolatus. Sed nec isto modo possibile est fieri ap-  
+        <lb ed="#Bb" n="22"/>propriationem aliquam alicuius communis in diuinis: quia nullum absolutum seu coniunctum abso- 
+        <lb ed="#Bb" n="23"/>luto inaequaliter diuinae personae communicant. Si secundo modo, sic commune in diuinis pluribus perso- 
+        <lb ed="#Bb" n="24"/>nis appropriatur vni illarum absque omni iniuria aliarum: quia sit ex ratione correspondentiae eius quid  
+        <lb ed="#Bb" n="25"/>appropriatur, ad proprium relatiuum eius cui appropriatur: vt iam dictum est: &amp; inferius decla- 
+        <lb ed="#Bb" n="26"/>rabitur iam in corpore quaestionis sequentis. 
+      </p>
+      <p xml:id="vn58an-fe69764-d1e466">
+        ⁋ Ad secundum, quod impossibile est in diuinis proprium 
+        <lb ed="#Bb" n="27"/>pluribus communicari: ergo similiter impossibile est commune vni appropriari: Dico quod bene con- 
+        <lb ed="#Bb" n="28"/>cluderet &amp; sequeretur si diceretur, ergo impossibile est commune appropriari &amp; fieri proprium. 
+        <lb ed="#Bb" n="29"/>Se habet enim communicari ad propriari: sicut commune ad proprium: &amp; tenet in eis commu- 
+        <lb ed="#Bb" n="30"/>tata proportio. Si proprium non potest communicari: nec etiam commune potest propriari. Cui 
+        <lb ed="#Bb" n="31"/>proportioni innititur argumentum: sed non bene concludit virtute commutatae proportionis: er- 
+        <lb ed="#Bb" n="32"/>go commune non potest appropriari. Non enim se habet communicari ad appropriari: sicut con- 
+        <lb ed="#Bb" n="33"/>mune ad proprium: quia communicari &amp; appropriari non distinguuntur ex opposito sicut distin  
+        <lb ed="#Bb" n="34"/>guitur commune &amp; proprium. Est tamen bene possibile idem communicari &amp; appropriari. multum 
+        <lb ed="#Bb" n="35"/>enim differunt propriari &amp; appropriari. Commune enim non propriatur nisi fiat proprium, quod est impossibi 
+        <lb ed="#Bb" n="36"/>le: appropriatur autem proprio manens commune, quod est bene possibile: vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe69764-d1e490">
+        ⁋ Quia confirmando  
+        <lb ed="#Bb" n="37"/>dictam rationem arguitur tertio ad idem quod proprium in diuinis est secundum respectu communis: &amp; ra- 
+        <lb ed="#Bb" n="38"/>tio primi magis nata est conuenire secundo quam econuerso: ergo proprium magis natum est commu- 
+        <lb ed="#Bb" n="39"/>nicari quam commune appropriari: Dico quod &amp; in communi &amp; in proprio circa diuina est considerare du-  
+        <lb ed="#Bb" n="40"/>licem rationem &amp; duplicem ordinem penes primum &amp; secundum: sed modo contrario: sicut &amp; 
+        <lb ed="#Bb" n="41"/>de vniuersali &amp; particulari siue singulari circa creaturas. Est enim in vniuersali &amp; singulari circa 
+        <lb ed="#Bb" n="42"/>creaturas primo considerare rationem vniuersalitatis &amp; singularitatis, quae sunt intentiones secundae 
+        <lb ed="#Bb" n="43"/>circa rem substratam: quae vna est &amp; eadem sub ratione vniuersalitatis &amp; singularitatis, neutram il- 
+        <lb ed="#Bb" n="44"/>larum sibi determinans: sed possibilis &amp; quasi materialis est ad vtramque: puta rationem speciei circa ho 
+        <lb ed="#Bb" n="45"/>minem &amp; asinum: siue circa humanitatem &amp; asinitatem: &amp; rationem singularitatis siue rationem in-  
+        <lb ed="#Bb" n="46"/>diuidui circa singularia illorum. Homo enim siue humanitas secundum se &amp; ex se nec est vniuersa 
+        <lb ed="#Bb" n="47"/>lis nec singularis, sed humanitas tantum: vt dicit Auicen. Et secundum philosophum non est differentia inter dice 
+        <lb ed="#Bb" n="48"/>re homo iste &amp; homo: ita quod non sit alia res significata per id quid est vniuersale: &amp; per id quid est singu 
+        <lb ed="#Bb" n="49"/>lare: sed omnino differens ratione tantum: vt scilicet est susceptibilis vniuersalitatis &amp; singularitatis. Vnde est etiam 
+        <lb ed="#Bb" n="50"/>considerare circa easdem creaturas in vniuersali &amp; singulari rationem rei secundum se, quae substra- 
+        <lb ed="#Bb" n="51"/>ta est illis intentionibus: puta rationem humanitatis &amp; afinitatis simpliciter, &amp; huiusmodi humanita- 
+        <lb ed="#Bb" n="52"/>tis &amp; asinitatis. Consimiliter etiam circa diuina in communi &amp; proprio est considerare rationem com 
+        <lb ed="#Bb" n="53"/>munitatis &amp; proprietatis quae sunt tanquam secundae intentiones circa rem substratam: quae vna est &amp; 
+        <lb ed="#Bb" n="54"/>eadem sub ratione communitatis, &amp; sub ratione proprietatis: neutram illarum sibi determinans: sed pos- 
+        <lb ed="#Bb" n="55"/>sibilis existens: quasi materialis atque indifferens ad vtramque. Puta circa deitatem simpliciter est con- 
+   <!--528.xml-->
+        <pb ed="#Bb" n="257-r"/>
+        <lb ed="#Bb" n="1"/>siderare rationem conitati: &amp; circa personas rationem proprietatis, Deus enim siue deitas secundum se &amp; ex se nec communis est 
+        <lb ed="#Bb" n="2"/>nec, propria: sed est deitas tantum: &amp; non est differentia inter dicere deus iste &amp; deus simpliciter: ita quod non sit 
+        <lb ed="#Bb" n="3"/>alia res significata per id quod in diuinis est cone quod est deus: &amp; per id quid est, proprium quod est iste quid est deus: sed  
+        <lb ed="#Bb" n="4"/>eadem omnino, differens ratione tantum &amp; vt est susceptibilis conitatis proprietatis. Vnde circa diuina est etiam conside 
+        <lb ed="#Bb" n="5"/>rare rationem rei secundum se quae substrata est illis intentionibus, puta rationem deitati simpliciter: &amp; rationem eius rei vt 
+        <lb ed="#Bb" n="6"/>est huius &amp; illius personae. Aspiciendo autem ad rationes rei isto secundo modo, dico quod commune se 
+        <lb ed="#Bb" n="7"/>cundum istam rationem communis primum est, &amp; proprium est secundum in diuinis: sicut &amp; in creaturis vniversale prius est 
+        <lb ed="#Bb" n="8"/>particulari siue singulari. Sicut enim in creaturis res vna plurificatur secundum rem, &amp; deriuatur in plura 
+        <lb ed="#Bb" n="9"/>singularia: &amp; quoid vnum est secundum se &amp; in esse existentiae &amp; in consideratione intellectus, plurificatur in plu 
+        <lb ed="#Bb" n="10"/>ra singularia in esse existentiae, puta humanitas simpliciter in humanitate huius &amp; illius: &amp; sicut illud quod  
+        <lb ed="#Bb" n="11"/>est vniuersale, primum &amp; principium est respectu plurium singularium: sic &amp; in diuinis res vna. scilicet deitas 
+        <lb ed="#Bb" n="12"/>quasi deriuatur &amp; plurificatur secundum rationem in plura supposita: &amp; quoid vnum est secundum se in esse simplici 
+        <lb ed="#Bb" n="13"/>ter &amp; in consideratione intellectus, quasi plurificatur in suppositis secundum esse existentiae in illis: &amp; sic id 
+        <lb ed="#Bb" n="14"/>quod est cone primum &amp; principium est respectu plurium suppositorum. Praeter hoc quod id quod est vniversale in creaturis, 
+        <lb ed="#Bb" n="15"/>vt dicit Dam. vnum est ratione: quod vero est in singularibus, plurificatum est secundum rem. secundum quod alia secundum  
+        <lb ed="#Bb" n="16"/>rem est humanitas in Sorte: &amp; alia in Platone. Id vero quid est cone in diuinis, vnum est secundum rem: quod  
+        <lb ed="#Bb" n="17"/>vero in suppositis, est plurificatum secundum rationem tantum. secundum quod alia ratio est existendi deitatem magni- 
+        <lb ed="#Bb" n="18"/>tudinem &amp; caetera attributa in vna persona &amp; in altera: sed est res eadem. Et secundum hanc considerationem 
+        <lb ed="#Bb" n="19"/>id quod est vniversale in creaturis: &amp; similiter id quid est cone in diuinis, est vnum in multis: non dicens rationem vniversalis aut  
+        <lb ed="#Bb" n="20"/>communis: quod dicit rationem secundae intentionis non primae. Et secundum istam etiam rationem proprii &amp; conis scilicet con 
+        <lb ed="#Bb" n="21"/>siderando id quod est, proprium &amp; id quid est commune praecise: proprio potius convenit ratio communis quam econverso: sicut 
+        <lb ed="#Bb" n="22"/>in creaturis ratio rei primae intentionis quae est id quod est vniversale inquantum ei nata est convenire ratio vniversalitatis inten 
+        <lb ed="#Bb" n="23"/>tionis secundae, potius nata est convenire singulari &amp; illi attribui per praedicationem quam econverso: &amp; hoc 
+        <lb ed="#Bb" n="24"/>quia singulare (vt dictum est) per deriuationem quandam ab eo quod est re vniversale vel cone, trahit quicquid rei in  
+        <lb ed="#Bb" n="25"/>se habet: &amp; per hoc id quid est cone in diuinis, appropriatur quodammodo secundum se rationi respectus quo proprium in 
+        <lb ed="#Bb" n="26"/>diuinis formaliter est, proprium: &amp; hoc sicut vniversale in creaturis particulatur &amp; indiuiduatur in particularia seu 
+        <lb ed="#Bb" n="27"/>singularia: &amp; aliquod assumptum absolute siue positiuum siue priuatiuum siue saltem per agens, secundum quod 
+        <lb ed="#Bb" n="28"/>alibi exposuimus. Vnde singulare &amp; proprium potius assumunt denominationem ab vniuersali &amp; 
+        <lb ed="#Bb" n="29"/>communi: sicut dicitur Petrus aut Paulus est homo, pater aut filius est deus: quam econverso. Aspiciendo au 
+        <lb ed="#Bb" n="30"/>tem ad rationes vniversalis &amp; communis singularis &amp; proprii primo modo dictorum: Dico quod in diuinis secundum  
+        <lb ed="#Bb" n="31"/>illas rationes commune secundum est, &amp; proprium primum: sicut &amp; in creaturis singulare siue parti- 
+        <lb ed="#Bb" n="32"/>culare prius est vniuersali. Sicut enim in creaturis id quod est secundum rem in singularibus siue partim 
+        <lb ed="#Bb" n="33"/>cularibus plurificatum, per rationem &amp; intellectum ab illis abstrahitur &amp; ad vnitatem in consideratione 
+        <lb ed="#Bb" n="34"/>redigitur: &amp; sic vniuersale est vnum a multis: quod postquam sic abstractum fuerit, ad illa a quibus abstra 
+        <lb ed="#Bb" n="35"/>ctum est per praedicationem implicatur: &amp; est vnum de multis: atque per hoc assumit sibi rationem vniuersalitatis:  
+        <lb ed="#Bb" n="36"/>Sic in diuinis id quod est secundum rationem in propriis plurificatum, per rationem &amp; intellectum 
+        <lb ed="#Bb" n="37"/>ab illis abstrahitur: &amp; ad vnam rationem in consideratione rationis redigitur: &amp; sic abstractum ad 
+        <lb ed="#Bb" n="38"/>illud idem vt est secundum rationem plurificatum, ibi eidem plurificato per praedicationem impli- 
+        <lb ed="#Bb" n="39"/>catur: per quod assumit sibi rationem communis. Et secundum istam considerationem proprii 
+        <lb ed="#Bb" n="40"/>&amp; communis, considerando scilicet id quod est proprium &amp; id quid est commune sub ratione proprii &amp; commu- 
+        <lb ed="#Bb" n="41"/>nis, quae sunt quasi intentiones secundae in diuinis: communi tamen secundo potius convenit ratio pro- 
+        <lb ed="#Bb" n="42"/>prii tanquam primae quam econuerso. Sicut in creaturis vniuersali sub ratione vniuersalis: quia secundum 
+        <lb ed="#Bb" n="43"/>Philosophum aut nihil est, aut posterius est: potius nata est convenire ratio particularis inquantum particulare est: 
+        <lb ed="#Bb" n="44"/>uae est ratio particularitatis, quam econverso. Et sic vniversale &amp; commune potius sibi assumunt denominationem a par 
+        <lb ed="#Bb" n="45"/>ticulari &amp; proprio, cum vniversale vniversalcommune dicitur appropriari, quam econverso. Appropriatio enim dicitur a proprio 
+        <lb ed="#Bb" n="46"/>quod in creaturis est particulare siue singulare. Et hoc quemadmodum econverso id quod est in diuinis 
+        <lb ed="#Bb" n="47"/>re commune secundum praecedentem considerationem potius dicitur propriari quam proprium conica 
+        <lb ed="#Bb" n="48"/>ri: &amp; in creaturis id quod est re vniuersale potius dicitur indiuiduum siue particulare, quam singulare siue par 
+        <lb ed="#Bb" n="49"/>ticulare dicatur vniuersale. Et sic patet quomodo eidem re in diuinis conueniunt subiectiue ista tria 
+        <lb ed="#Bb" n="50"/>scilicet propriari communicari &amp; appropriari. Dicitur enim propriari inquantum id quod est re praecise sub 
+        <lb ed="#Bb" n="51"/>proprietate relatiua alia &amp; alia in alia &amp; alia persona est aliud &amp; aliud secundum rationem. Dicitur autem  
+        <lb ed="#Bb" n="52"/>communicari inquantum sub ratione communis propriis pluribus applicatur per praedicationem 
+        <lb ed="#Bb" n="53"/>Dicitur autem appropriari inquantum per specialem correspondentiam ad aliquod, proprium (de qua sermo erit in sequen 
+        <lb ed="#Bb" n="54"/>ti quaestione) illi singulariter ascribitur cum per se ponitur. 
+      </p>
+      <p xml:id="vn58an-fe69764-d1e655">
+        ⁋ Per praedicta iam patet responsio ad 
+        <lb ed="#Bb" n="55"/>quartum, cum dicitur quod appropriatum praesupponit, proprium: commune autem non praesupponit proprium: sed  
+   <!--529.xml-->
+        <pb ed="#Bb" n="257-v"/>
+        <lb ed="#Bb" n="1"/>econverso. ergo cone non potest esse appropriatum. Dicendum est enim quod in ocmuni duo consideranm scilicet id quod est cone, &amp; 
+        <lb ed="#Bb" n="2"/>id quod est quasi prima intentio in diuinis: &amp; cone sub ratione communis quod est quasi secundae intentionis. Et cone pri 
+        <lb ed="#Bb" n="3"/>mo modo non supponit, proprium: sed proprium potius supponit illud cone tamquam primum &amp; principium illius. Super 
+        <lb ed="#Bb" n="4"/>ponit etiam illud cone appropriatum: &amp; ideo cone sub tali ratione non appropriatur: sed potius propriatur secundum  
+        <lb ed="#Bb" n="5"/>iam dicta. Commune autem secundo modo supponit, proprium tanquam primum &amp; secundum rationem intellectus 
+        <lb ed="#Bb" n="6"/>nostri praecedens: quia (vt dictum est) id quod est cone per abstractionem a proprio assumit intentionem communis: &amp; pro 
+        <lb ed="#Bb" n="7"/>prium non supponit illud: sed appropriatum supponit illud: quia nihil appropriatur nisi cone: &amp; vt est sub ratio 
+        <lb ed="#Bb" n="8"/>ne communis. &amp; sic in argumento aequiuocatur ratio communis. 
+      </p>
+      <p xml:id="vn58an-fe69764-d1e681">
+        ⁋ Ad quintum quod illud quod est occasio errandi impossibile 
+        <lb ed="#Bb" n="9"/>est in diuinis: Dico quod verum est vt procedit obiectio de eo quod est occasio errandi data. Non autem verum est 
+        <lb ed="#Bb" n="10"/>de eo quod est errandi occasio accepta. Nunc autem appropriatio in diuinis nulli est occasio errandi data ex 
+        <lb ed="#Bb" n="11"/>actu appropriandi: quia talis occasio faceret errare: sicut scandalum actiuum quod est occasio scandalizandi data 
+        <lb ed="#Bb" n="12"/>facit vt aliquis scandalizetur: sed appropriatio est potius occasio data dirigendi in credendis circa propria: quia 
+        <lb ed="#Bb" n="13"/>appropriata sunt declaratiua propriorum &amp; manuductiua in cognitionem propriorum tanquam minus notorum 
+        <lb ed="#Bb" n="14"/>er magis nota. Magis autem nota nobis sunt communia essentialia quam, propria personalia: quemadmodum in naturali 
+        <lb ed="#Bb" n="15"/>bus nobis primum manifesta &amp; certa sunt confusa magis: posterius autem ex his fiunt nota elementa.  Vnde  
+        <lb ed="#Bb" n="16"/>ex vniuersalibus in singularia oportet deuenire, vt dicitur in principio Physi. Et contingit hoc nobis de 
+        <lb ed="#Bb" n="17"/>ocomunibus &amp; propriis in diuinis: sicut illud contingit de vniversalibus &amp; singularibus in creaturis: quia sicut in il 
+        <lb ed="#Bb" n="18"/>lis vniversale nobis notius est: quia notum quoddam &amp; confusum est respectu singularium: &amp; confusa magis nota nobis 
+        <lb ed="#Bb" n="19"/>sunt secundum sensum, vt dicit ibidem: &amp; omnis nostra cognitio naturalis a sensu ortum capit, vt dicitur in  
+        <lb ed="#Bb" n="20"/>principio &amp; in fine libri posteriorum: sic in istis cone nobis notius est, proprio: quia communia diuina quae in creatu 
+        <lb ed="#Bb" n="21"/>ris ad dignitatem pertinent simpliciter, magis nota nobis sunt secundum intellectum quam, propria illorum: &amp; ex illis 
+        <lb ed="#Bb" n="22"/>conibus in creaturis repartis deuenire possumus ductu naturalis rationis per certitudinem in cognitionem con- 
+        <lb ed="#Bb" n="23"/>munium essentialium diuinorum: non sic autem ex aliquibus quae cognoscimus in creaturis, possumus deuenire per  
+        <lb ed="#Bb" n="24"/>certitudinem in aliquam cognitionem illorum quae sunt, propria in diuinis, secundum quod haec patent ex supra determi- 
+        <lb ed="#Bb" n="25"/>natis. Sunt autem communia essentialia declaratiua nobis propriorum in diuinis, tanquam manuductiua in cognitio- 
+        <lb ed="#Bb" n="26"/>nem illorum: &amp; hoc vel per modum similitudinis vel modum dissimilitudinis. Per modum similitudinis, ad mo 
+        <lb ed="#Bb" n="27"/>dum quo similitudine imaginis vel vestigii in creaturis inuenta manuducimur in cognitionem propriorum 
+        <lb ed="#Bb" n="28"/>in diuins, vt cum per generationem quam videmus in creaturis manifestamus generationem diuinam: &amp; per conceptum verbi 
+        <lb ed="#Bb" n="29"/>nostri manifestamus conceptum verbi diuini: &amp; per processum amoris nii processum amori diuini. Per modum dissi 
+        <lb ed="#Bb" n="30"/>militudinis, put declarabitur in sequenti quaestione. Eit autem appropriatio communium in diuins per quandam cortntiam 
+        <lb ed="#Bb" n="31"/>communium ad propria: &amp; hoc vel per viam similitudinis vel per viam dissimilitudinis. Per viam similitudinis ad  
+        <lb ed="#Bb" n="32"/>cognitionem veritatis. Per viam autem dissimilitudinis ad remotionem erroris, vt patebit in sequenti quaestio 
+        <lb ed="#Bb" n="33"/>ne. Quae correspondentia percepta in appropriatione multum valet ad percipiendum propria per commu 
+        <lb ed="#Bb" n="34"/>nia, vt declarabitur ibidem. 
+      </p>
+      <p xml:id="vn58an-fe69764-d1e740">
+        ⁋ Quod autem assumitur in argumento, quod appropriatio est occasio errandi  
+        <lb ed="#Bb" n="35"/>in diuinis: quia ex illa potest intelligi quod appropriatum illi soli conveniat cui appropriatur, aut quod ma-  
+        <lb ed="#Bb" n="36"/>gis ei conueniat &amp;c. Dico quod non est verum quantum est ex parte siue ex ratione appropriationis: sed si 
+        <lb ed="#Bb" n="37"/>illud contingat, hoc solum prouenit ex paruerso intellectu illius: non ex eo quod dicitur aliquod appropriari 
+        <lb ed="#Bb" n="38"/>quantum enim est de significato appropriationis &amp; ratione, bene intelligenti illam insinuatur quod appropriatum sit pluri 
+        <lb ed="#Bb" n="39"/>pus cone: quia vt dictum est non appropriatur nisi cone inquantum est cone. Sed si quis ex appropriatione in  
+        <lb ed="#Bb" n="40"/>telligat quod appropriatum vni soli conveniat: hoc contingit illi ex hoc solummo scilicet quia non intelligit quid signi 
+        <lb ed="#Bb" n="41"/>ficetur nomine appropriationis: sed nomine appropriationis intelligit, propriationem: in quae proprietas dicitur propriari pro 
+        <lb ed="#Bb" n="42"/>prio personae alicuius, puta paternitas patri, quae est constitutiua eius vt proprii: &amp; non est nata alteri conve- 
+        <lb ed="#Bb" n="43"/>nire. Intelligit autem ille dicto modo nomine appropriationis propriationem: eo quod appropriatio videtur esse quaedam 
+        <lb ed="#Bb" n="44"/>ratio proprii: sicut conicatio est quaedam ratiommunis, vt tactum est in tertio argumento praecedente. Sed non intelligitur nomine ap  
+        <lb ed="#Bb" n="45"/>propriationis propriatio modo quo proprietas dicitur propriari: quia sit ita esset: tunc ratio qua vnum cone distinguitur ab 
+        <lb ed="#Bb" n="46"/>alio, non solum haberet maiorem convenientiam cum vno proprio quam cum altero: propter quam appropriare- 
+        <lb ed="#Bb" n="47"/>tur: sed esset omnino propria, ita conveniens vni quod non alteri. Quod excludit <name ref="#Augustine">Augustinus</name> vi. de triniitate. ostendens quod sapiem 
+        <lb ed="#Bb" n="48"/>tia appropriata filio non est propria illi per hoc quod pater non est sapiens sapientia quam genuit: quasi solus 
+        <lb ed="#Bb" n="49"/>filius sit sapientia &amp; non pater nisi per filium: sed vterque per se est sapientia: &amp; ambo simul sunt vna 
+        <lb ed="#Bb" n="50"/>sapientia: quae est ipsorum vna essentia. Nec etiam appropriatio est quaedam ratio proprii: sicut conicatio est quaedam 
+        <lb ed="#Bb" n="51"/>ratio communis: quia communicatio est quaedam ratio communis subiectiue vt eius quod communicatur: sed appropria- 
+        <lb ed="#Bb" n="52"/>tio est quaedam ratio proprii non subiectiue sed obiectiue vt eius cui appropriatur: sicut &amp; propriatio est quaedam ratio 
+        <lb ed="#Bb" n="53"/>prii: &amp; hoc vniversaliobiectiue vt eius quod quaedammodo fit proprium: cuiusmodi in diuins est persona constituta in esse personali 
+        <lb ed="#Bb" n="54"/>ex essentia &amp; proprietate secundum superius determiata: vniversal obiectiue vt eius cui aliquid propriatur: &amp; hoc vniversali vt constitu 
+        <lb ed="#Bb" n="55"/>tiuum, proprii: sicut proprietas propriatur proprio puta personae: vniversalivt tractum ad quandam rationem proprii: sicut cone rea- 
+   <!--530.xml-->
+        <pb ed="#Bb" n="258-r"/>
+        <lb ed="#Bb" n="1"/>le: quod inquantum quod reale est, propriatur: inquantum vero cone est intentionale appropriatur, sicut dictum est. in qua qui  
+        <lb ed="#Bb" n="2"/>dem propriatione proprietas &amp; commune scilicet essentia, propriantur subiectiue.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

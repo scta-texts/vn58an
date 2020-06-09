@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="203-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwa33"> <!-- alias="vn58an-a33prae" -->
+      <head xml:id="vn58an-qwwa33-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwa33-d1e107">
+        <lb ed="#Ba" n="40"/>Articulus. &amp; XXIll 
+        <lb ed="#Ba" n="41"/>Equitur Art. &amp; XXIll. de proprietatibus communibus sub 
+        <lb ed="#Ba" n="42"/>stantialibus diuinae essentiae a creaturis attributis in speciali. Et quia omnia 
+        <lb ed="#Ba" n="43"/>essentialia attributa diuina pertinent vel ad intellectum vel ad volun.- 
+        <lb ed="#Ba" n="44"/>tatem in deo, vt patebit ex consequenter determinandis, ideo cir- 
+        <lb ed="#Ba" n="45"/>ca ea quae sunt diuini intellectus &amp; voluntatis versatur tota consideratio 
+        <lb ed="#Ba" n="46"/>de huiusmodi attributis: circa quae tria sunt consideranda.  
+        <lb ed="#Ba" n="47"/>Primum absolute de eis quae pertinent ad intellectum: quia intellectus 
+        <lb ed="#Ba" n="48"/>praeuius est ad voluntatem. 
+        <lb ed="#Ba" n="49"/>Secundum est absolute de illis quae pertinent ad voluntatem. 
+        <lb ed="#Ba" n="50"/>Tertium de eis quae pertinent ad ambo, comparatis adinuicem. 
+        <lb ed="#Ba" n="51"/>Et quia ad perfectionem intellectus quatuor concurrunt, intelligibile 
+        <lb ed="#Ba" n="52"/>vt obiectum, ipse intellectus vt potentia intellectiua, intelligere vt actus eius, notitia siue scientia de 
+        <lb ed="#Ba" n="53"/>intelligibili ex actu intelligendi habita in intellecti tanquam habitus: Idcirco circa primum illorum re 
+        <lb ed="#Ba" n="54"/>stant quatuor inquirenda.  
+   <!--422.xml-->
+        <pb ed="#Ba" n="204-r"/>
+        <lb ed="#Ba" n="1"/>Primum de intelligibili.  Secundum de intellectu. 
+        <lb ed="#Ba" n="2"/>Tertium de notitia intellectus.  Quartum de ipso intelligere. 
+        <lb ed="#Ba" n="3"/>Et quia intelligibile inquantum est intelligibile &amp; obiectum intellectus, habet rationem veri, ideo cir 
+        <lb ed="#Ba" n="4"/>ca primum istorum restant duo quaerenda.  
+        <lb ed="#Ba" n="5"/>Primum, de ratione intelligibilis in ipso simpliciter.  Secundum, de ratione veritatis in eo. 
+      </p>
+      <p xml:id="vn58an-qwwa33-d1e157">
+        <lb ed="#Ba" n="6"/>⁋ Circa primum istorum quaeruntur tria. 
+        <lb ed="#Ba" n="7"/>Primum: vtrum deus sit intelligibilis. 
+        <lb ed="#Ba" n="8"/>Secundum: vtrum deus seipso sit intelligibilis. 
+        <lb ed="#Ba" n="9"/>Tertium: vtrum ratio intelligendi deum sit ratio intelligendi omnia alia ab eo.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

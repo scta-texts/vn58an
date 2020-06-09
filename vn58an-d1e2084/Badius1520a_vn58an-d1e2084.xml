@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="174-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2084"> <!-- alias="vn58an-a29q6" -->
+      <head xml:id="vn58an-d1e2084-Hd1e104">Quaestio 6</head>
+      <head xml:id="vn58an-d1e2084-Hd1e107" type="question-title">Utrum, ut finis cum ordinabili ad finem, ad constituendum universum</head>
+      <p xml:id="vn58an-d1e2084-d1e110">
+        <lb ed="#Ba" n="45"/>CIrca. vi. arguitur quod deus habeat compositionem cum aliis sicut finis cum eis quae sunt ad finem 
+        <lb ed="#Ba" n="46"/>ad perficiendum vnitatem vniuersi. Primo sic: Non est ordo naturalis nisi ex aliqua con 
+        <lb ed="#Ba" n="47"/>nexione naturali ordinatorum. In nullo enim connexa naturaliter ordinem non habent 
+        <lb ed="#Ba" n="48"/>adinuicem nisi accidentalem: sicut indiuidua diuersa sub eadem specie inter se &amp; respe 
+        <lb ed="#Ba" n="49"/>ctu speciei. ordo naturalis est in vniuerso inter deum &amp; creaturam mundi. Aliter enim 
+        <lb ed="#Ba" n="50"/>mundus non nisi accidentaliter dependeret a deo. ergo deus &amp; creatura aliqua naturali 
+        <lb ed="#Ba" n="51"/>connexione connexi sunt: quae non est sine connexorum aliqua compositione. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2084-d1e128">
+        ⁋ Secundo sic. creaturae omnes 
+        <lb ed="#Ba" n="52"/>se habent ad deum: sicut ad suum finem: vt commilitones exercitus ad ducem: secundum philosophum in xii. Meta. sed dux ex 
+        <lb ed="#Ba" n="53"/>ercitus aliquam compositionem habet cum militibus ad constituendum vnitatem exercitus. lpse enim exercitus caput 
+        <lb ed="#Ba" n="54"/>est: &amp; milites membra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2084-d1e138">
+        ⁋ In contrarium est quod componentia semper sunt vt imperfectum &amp; in potentia re 
+        <lb ed="#Ba" n="55"/>spectu totius compositi. Deus nullam patitur imperfectionem: neque est ad aliquod in potentia. ergo &amp;c. 
+   <!--363.xml-->
+        <pb ed="#Ba" n="174-v"/>
+      </p>
+      <p xml:id="vn58an-d1e2084-d1e147">
+        <lb ed="#Ba" n="1"/>⁋ Dicendum ad hoc: quod cum deus se habet ad creata in triplici genere causae: formalis, es- 
+        <lb ed="#Ba" n="2"/>ficientis, &amp; finalis: sicut cum eis nullam potest habere compositionem vt forma: quia non est forma inhaerens: sed  
+        <lb ed="#Ba" n="3"/>exemplaris: vt habitum est supra: neque vt efficiens: quia nihil mouet vel agit per aliquam naturalem colligantiam 
+        <lb ed="#Ba" n="4"/>ad motum &amp; actum: vt habitum est iam: sic in rei veritate non potest cum eis habere aliquam compositionem vt finis: quia 
+        <lb ed="#Ba" n="5"/>per nullam dependentiam se hiys ad ea quae sunt ad ipsum sicut ad finem. Non en mouet ad se alia a se: vt ab eis aliquid  
+        <lb ed="#Ba" n="6"/>bonitatis &amp; perfectionis accipiat: dicente Dauid ad deum in persona omnis creaturae: Bonorum meorum non eges:  
+        <lb ed="#Ba" n="7"/>sed vt eis suam bonitatem &amp; perfectionem conicet: ad quam consequendam omnia alia agunt &amp; mouent. Vnde <name ref="#Aristotle">Philosophus</name> in  
+        <lb ed="#Ba" n="8"/>xii. Metaphysicae. quaerit quomodo in natura totius vniuersi sit bonum &amp; nobile: vtrum scilicet sit aliquod bonum di 
+        <lb ed="#Ba" n="9"/>stinctum per se &amp; absolutum bonum: non recipiens bonitatem ex ordine ad aliud: an sit bonum vniuersi per ordi- 
+        <lb ed="#Ba" n="10"/>nem. Et respondet quod vtroque modo est bonum in vniuerso: vt in exercitum &amp; ciuitate est bonum quoddam in or- 
+        <lb ed="#Ba" n="11"/>dine: &amp; bonum aliud absolutum est in duce exercitus &amp; ciuitatis: quod non est ei bonum ex ordine quem habet ad  
+        <lb ed="#Ba" n="12"/>exercitum vel ciuitatem: sed econverso, in exercitu vel ciuitate non est bonum nisi ex ordine ad ducem. &amp; sic 
+        <lb ed="#Ba" n="13"/>secundum philosophum: omnia quae sunt in vniuerso ordinata sunt inter se: &amp; ad primum agens tanquam ad vltimum fi 
+        <lb ed="#Ba" n="14"/>nem qui deus est: ipse autem ad nihil est ordinatus: quia nihil habet bonitatis ex ordine ad aliud: sed abun  
+        <lb ed="#Ba" n="15"/>dantia bonitatis suae fluit bonitatem super omnia alia: per quam ipsa in se reducit: &amp; hoc non necessitate natu 
+        <lb ed="#Ba" n="16"/>rali: vt posuerunt philosophi: quia hoc non posset esse sine colligantia &amp; compositione: vt dictum est: sed libera vo- 
+        <lb ed="#Ba" n="17"/>luntate. Vnde absolute dicendum, quod deus cum vniuerso nullam habet compositionem omnino: vt nec pers vniuersi vl- 
+        <lb ed="#Ba" n="18"/>lo modo dici possit: sed talem colligantiam in ordine ad ipsum habent inter se tamquam partes vniuersi omnes creaturae:  
+        <lb ed="#Ba" n="19"/>in quo concurrunt ad componendum mundum: sicut exponendum est loquendo de vnitate mundi. Secundum enim quod di-  
+        <lb ed="#Ba" n="20"/>cit Comment. super. xii. Meta, quemadmodum princeps ciuitatis necesse est vt habeat aliquam actionem, propriam no 
+        <lb ed="#Ba" n="21"/>bilissimam quam intendunt omnes quid sunt sub eo: &amp; ponunt actiones suas seruientes actioni primi: iuuantes sein 
+        <lb ed="#Ba" n="22"/>uicem in seruando bonam quietem: sicut accidit in artificiis: quae iuuant se erga vnum artificiale: sic est vnus princeps 
+        <lb ed="#Ba" n="23"/>deus in vniuerso: hamens actionem nobilissimam quam intendunt omnia quae sunt in mundo: &amp; tendunt in illam iuuantia seiuicem. 
+      </p>
+      <p xml:id="vn58an-d1e2084-d1e203">
+        <lb ed="#Ba" n="24"/>⁋ Ad primum in oppositum: quod inter deum &amp; creaturam est ordo naturalis, ergo &amp; con 
+        <lb ed="#Ba" n="25"/>nexio: Dicendum quod ordo inter deum &amp; creaturam non est per aliquam dependentiam aut necessitatem 
+        <lb ed="#Ba" n="26"/>naturae ex parte dei: sed est solum relatio quaedam: quae secundum rem solum est in creatura propter dependentiam eius 
+        <lb ed="#Ba" n="27"/>ad creatorem ex naturalis necessitatis indigentia: in deo autem secundum dici solum: quia nullam dependentiam 
+        <lb ed="#Ba" n="28"/>naturalis necessitatis habet ad ipsam. Non tamen est ordo accidentalis inter deum &amp; creaturam: quia natu- 
+        <lb ed="#Ba" n="29"/>rali necessitate creatura habet dependentiam ad ipsum: licet non econuerso: &amp; non est ordo accidenta 
+        <lb ed="#Ba" n="30"/>lis ad aliqua nisi quando neutrum essentialiter ordinatur ad alterum. 
+      </p>
+      <p xml:id="vn58an-d1e2084-d1e221">
+        ⁋ Ad secundum quod deus se habet ad crea- 
+        <lb ed="#Ba" n="31"/>turas sicut dux ad exercitum vel ciuitatem: Dicendum quod dux exercitus vel ciuitatis potest dupliciter conside 
+        <lb ed="#Ba" n="32"/>rari. Vno modo vt alios praecellens in sapientia &amp; virtute: sicut decet principem: vt determinat <name ref="#Aristotle">Philosophus</name> in tertio 
+        <lb ed="#Ba" n="33"/>Polit. Alio modo vt homo similis in natura cum aliis. Primo modo dux in nullo indiget exercitu vel ciuitate: sed  
+        <lb ed="#Ba" n="34"/>econverso: &amp; hoc modo valet similitudo ad propositum: vt iam expositum est. Nec habet dux connexionem cum aliis 
+        <lb ed="#Ba" n="35"/>sicut neque deus cum mundo: nisi propter bonum aliorum: non propter bonum, proprium: nisi per accidens: inquantum est homo similis 
+        <lb ed="#Ba" n="36"/>aliis. &amp; illo modo non valet similitudo: nisi quo ad hoc quod dux etiam inquantum homo debet in naturalibus praecellere 
+        <lb ed="#Ba" n="37"/>alios: vt determinat Philosophus. i. &amp;. iii. Polit. Et quod assumitur in argumento: quod dux est caput: Dicendum quod caput 
+        <lb ed="#Ba" n="38"/>&amp; hir rationem praecellentis in corpore: &amp; hi rationem membri in ipso. Quo ad primam conditionem, dux inquantum dux ca 
+        <lb ed="#Ba" n="39"/>put est ciuitatis: sicut deus vniuersi: &amp; non quo ad secundam, non eni. ponit caput connexionem vel compositio 
+        <lb ed="#Ba" n="40"/>nem cum membris: nisi inquantum habet rationem membri, non autem inquantum habet rationem praecellentis tantum: vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

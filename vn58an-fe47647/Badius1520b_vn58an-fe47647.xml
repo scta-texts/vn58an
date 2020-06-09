@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="174-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe47647"> <!-- alias="vn58an-a61q2" -->
+      <head xml:id="vn58an-fe47647-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe47647-d1e107">
+        <lb ed="#Bb" n="45"/>CIrca secundum arguitur quod spirari non sit proprium spiritui sancto, Primo sic 
+        <lb ed="#Bb" n="46"/>llli cui conuenit spirare, non est proprium spirari: quia nihil potest esse propri- 
+        <lb ed="#Bb" n="47"/>um alicui cui conuenit contrarium illius. spirare autem conuenit spiritui san- 
+        <lb ed="#Bb" n="48"/>cto. loannis. iiii. Spiritus vbi vult spirat. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe47647-d1e118">
+        ⁋ Secundo sic, quid spiratur, pro- 
+        <lb ed="#Bb" n="49"/>cedit a termino in terminum. aer enim non spiratur, nisi cum procedit intus ab  
+        <lb ed="#Bb" n="50"/>extra per inspirationem, vel extra abintus per respirationem. Spiritus sanctus au 
+        <lb ed="#Bb" n="51"/>tem in sua emanatione non procedit a termino in terminum: quia non recedit ab eo a quo ema- 
+        <lb ed="#Bb" n="52"/>nat. ergo spiritus sanctus non spiratur. si autem non spiratur, spirari non est proprium ei. ergo &amp;c. 
+        <lb ed="#Bb" n="53"/>
+      </p>
+      <p xml:id="vn58an-fe47647-d1e131">
+        ⁋ Contra. Spiritus sanctus spiritus dicitur quia spiratur, vt iam tactum est. &amp; hoc non nisi quia spi 
+        <lb ed="#Bb" n="54"/>rari est ei proprium, sicut generari est proprium filio vt. supra expositum est. ergo &amp;c. 
+        <lb ed="#Bb" n="55"/>
+      </p>
+      <p xml:id="vn58an-fe47647-d1e139">
+        ⁋ Dico quod sicut secundum superius determinata aliquid dupliciter dicitur gene- 
+   <!--363.xml-->
+        <pb ed="#Bb" n="174-v"/>
+        <lb ed="#Bb" n="1"/>rari: Vno modo vt subiectum generationis: alio modo vt terminus generationis: Consimiliter ali- 
+        <lb ed="#Bb" n="2"/>quid dicitur spirari vno modo vt subiectum spirationis de quo spirans spirat. Alio modo vt ter- 
+        <lb ed="#Bb" n="3"/>minus spirationis: vt ille qui spiratur. Primo autem modo spirari potius proprium est ei de quo 
+        <lb ed="#Bb" n="4"/>spiratur, quam ei qui spiratur: &amp; non est proprium ei qui spiratur nisi per quandam reductionem eius 
+        <lb ed="#Bb" n="5"/>de quo spiratur ad illum qui spiratur: ad modum quo hoc superius est expositum de generari, quod con 
+        <lb ed="#Bb" n="6"/>uenit vt subiecto ei de quo generatur. Secundo autem modo spirari proprium est ei qui spiratur: vt 
+        <lb ed="#Bb" n="7"/>spiritui sancto, sicut secundum praedeterminata generari est proprium ei qui generatur, vt filio: sicut 
+        <lb ed="#Bb" n="8"/>procedit vltima obiectio. Illa enim quae superius exposita sunt circa proprietatem filii quae est gene 
+        <lb ed="#Bb" n="9"/>rari: hic intelligenda sunt circa proprietatem spiritus sancti quae est spirari. lpsum enim spirari est 
+        <lb ed="#Bb" n="10"/>proprietas constitutiua personae spiritus sancti secundum eundem modum quo generari est proprie 
+        <lb ed="#Bb" n="11"/>tas constitutiua personae filii. Et similiter potentia spirandi passiue est proprietas spiritus sancti &amp; 
+        <lb ed="#Bb" n="12"/>in spiritu sancto, secundum eundem modum quo potentia generandi passiue est proprietas filii &amp; 
+        <lb ed="#Bb" n="13"/>in filio. &amp; sic de pluribus aliis quae supra exposita sunt circa personam filii. 
+        <lb ed="#Bb" n="14"/>
+      </p>
+      <p xml:id="vn58an-fe47647-d1e176">
+        ⁋ Ad primum in oppositum: quod spiritui sancto conuenit spirare: ergo non est pro 
+        <lb ed="#Bb" n="15"/>prium ei spirari: Dico quod spirare aequiuocum est sicut &amp; generare &amp; procedere. Est enim quaedam  
+        <lb ed="#Bb" n="16"/>generatio aeterna, &amp; simpliciter processio, qua in diuinis vna persona ab alia generatur &amp; procedit. 
+        <lb ed="#Bb" n="17"/>Et similiter est quaedam generatio temporalis, qua in creaturis aliquid recipit esse per creationem 
+        <lb ed="#Bb" n="18"/>a personis diuinis: &amp; hoc extendendo nomen generationis modo quo extenditur Genesis. ii. vbi di- 
+        <lb ed="#Bb" n="19"/>citur. Istae sunt generationes caeli &amp; terrae. vbi exponitur quod non loquitur nisi de generatione crea- 
+        <lb ed="#Bb" n="20"/>tionis. vnde subdit. In die qua creauit dominus caelum &amp; terram. Quae quidem generationes etiam 
+        <lb ed="#Bb" n="21"/>possunt dici processiones: &amp; hoc praeter illam processionem qua in missione ad aliquem effectum 
+        <lb ed="#Bb" n="22"/>in creaturis, vna diuinarum personarum temporaliter dicitur procedere ab alia vel ab aliis: de qua  
+        <lb ed="#Bb" n="23"/>processione habendus est sermo inferius in tractatu de prouidentia dei &amp; gubernatione creatura 
+        <lb ed="#Bb" n="24"/>rum. Et consimiliter est quaedam spiratio aeterna: qua scilicet in diuinis tertia persona procedit a 
+        <lb ed="#Bb" n="25"/>duabus primis. &amp; talis spiratio passiua siue tali spiratione spirari proprium est spiritui sancto se- 
+        <lb ed="#Bb" n="26"/>cundum iam dicta. Est autem alia spiratio temporalis: qua in creaturis aliquid spirituale procedit 
+        <lb ed="#Bb" n="27"/>a diuinis personis, quod quia est donum gratiae &amp; bonitatis diuinae: licet tali spiratione tota trinitas 
+        <lb ed="#Bb" n="28"/>spirat: ipsa tamen appropriate attribuitur spiritui sancto: de qua procedit obiectio. Et de tali spira 
+        <lb ed="#Bb" n="29"/>tione loquitur beatus Petrus quando dicit. ii. Pe. i. Spiritu sancto inspirati loquuti sunt sancti dei 
+        <lb ed="#Bb" n="30"/>homines. De qua dicit <name ref="#Augustine">Augustinus</name> super Ioan. ser. i. 
+      </p>
+      <p xml:id="vn58an-fe47647-d1e216">
+        ⁋ Ad secundum cum dicitur, id quid spiratur procedit a ter 
+        <lb ed="#Bb" n="31"/>mino in terminum &amp;c. Dico quod aliquid potest intelligi procedere a termino in terminum dupliciter. 
+        <lb ed="#Bb" n="32"/>Vno enim modo vt aliquid praeexistens in vtroque termino tanquam habens esse actu in illis. &amp; sic exi- 
+        <lb ed="#Bb" n="33"/>stens in illo ab illo procedit vt existat in aliud: Et quid sic spiratione procedit ab vno termino in alte- 
+        <lb ed="#Bb" n="34"/>rum, non habet esse per spirationem: sed solummodo per spirationem habet transitum ab vno termi- 
+        <lb ed="#Bb" n="35"/>no in alterum praesupposito esse eius. Et talis spiratio solum conuenit rebus corporalibus aliquam  
+        <lb ed="#Bb" n="36"/>spiritualitatem ratione suae subtilitatis habentibus: propter quod earum transitus talis, spiratio quaedam 
+        <lb ed="#Bb" n="37"/>dicitur: quemadmodum aer dicitur spirari quando abextra trahitur inspiratione in pulmonem 
+        <lb ed="#Bb" n="38"/>&amp; expellitur a pulmone per expirationem: de qua principaliter procedit obiectio. Alio autem modo ali- 
+        <lb ed="#Bb" n="39"/>quid intelligitur procedere a termino in terminum non vt aliquid praeexistens in vtroque termino: tanquam habens esse 
+        <lb ed="#Bb" n="40"/>actu in illis: sed solummodo vt existens virtute in termino a quo procedit, inquantum procedit ab illo. &amp; sic 
+        <lb ed="#Bb" n="41"/>existens in illo, ab illo procedit in alterum: in quo a primo habet esse in illum secundum actum. Et quid sic spi 
+        <lb ed="#Bb" n="42"/>ratione procedit ab vno termino in alterum, non solum procedit in alterum terminum per spirationem 
+        <lb ed="#Bb" n="43"/>vt habeat esse suum in illo: sed etiam vt habeat esse in seipso simpliciter: &amp; in seipso sit terminus spirationis. 
+        <lb ed="#Bb" n="44"/>Et ideo quod sic spiratur, per spirationem non habet transitum ab vno termino in alterum supposito esse eius 
+        <lb ed="#Bb" n="45"/>in vno. Immo per ipsam spirationem habet esse non solum in altero: sed etiam in seipso. Et talis spiratio 
+        <lb ed="#Bb" n="46"/>passiua conuenit alicui dupliciter. Vno modo vt producto in esse ab alio vt a principio producen- 
+        <lb ed="#Bb" n="47"/>te: non autem vt a subiecto &amp; materia. &amp; hoc modo dona sapientiae &amp; bonitatis spiritualiter spi 
+        <lb ed="#Bb" n="48"/>ratione quadam praedicta producuntur in animas sanctas a tota trinitate principaliter: sed appro 
+        <lb ed="#Bb" n="49"/>priate a spiritu sancto: vt iam dictum est. Alio autem modo vt cui per productionem communica 
+        <lb ed="#Bb" n="50"/>tur esse ab alio vt a principio producente: &amp; vt a principio quasi subiecto &amp; materiali de quo produ 
+        <lb ed="#Bb" n="51"/>citur. &amp; hoc modo spiritus sanctus spiratione producitur a patre &amp; filio per voluntatem eorum concordem 
+        <lb ed="#Bb" n="52"/>vt est nuda &amp; conuersa super seipsam informatam amore simplici &amp; essentiali: &amp; habet esse ab vtroque  
+        <lb ed="#Bb" n="53"/>&amp; est tertia persona in diuinis: &amp; de substantia ipsorum: vt ipsa est voluntas informata amore simplici &amp; 
+        <lb ed="#Bb" n="54"/>essentiali. secundum quod haec determinata sunt superius. Producitur etiam hoc modo spiritus sanctus a patre in  
+   <!--364.xml-->
+        <pb ed="#Bb" n="175-r"/>
+        <lb ed="#Bb" n="1"/>filium, vt in terminum: &amp; econuerso a filio in patrem: secundum quod iam declarabitur inferius. Et 
+        <lb ed="#Bb" n="2"/>est hic aduertendum quod ista productio spiritus sancti inquantum habet esse a producentibus, non dif 
+        <lb ed="#Bb" n="3"/>sert a modo producendi filium: nisi quod productio filii est a solo patre: &amp; per principium quod est intellectus 
+        <lb ed="#Bb" n="4"/>Productio autem spiritus sancti est simul a patre &amp; filio: &amp; per principium quod est voluntas, secundum mo 
+        <lb ed="#Bb" n="5"/>dum superius expositum. Inquantum vero ista productio spiritus sancti habet esse ab illo de quo vt de qua  
+        <lb ed="#Bb" n="6"/>si subiecto &amp; principio materiali producitur: differt a modo producendi filium non solum in hoc quod  
+        <lb ed="#Bb" n="7"/>productio filii est de intellectu simplici conuerso super se vt est informatus notitia simplici &amp; essentia 
+        <lb ed="#Bb" n="8"/>li: productio vero spiritus sancti est de voluntate informata amore simplici &amp; essentiali secundum 
+        <lb ed="#Bb" n="9"/>modum superius expositum: sed etiam differt ab illo in hoc, quod productio filii est de intellectu vt de 
+        <lb ed="#Bb" n="10"/>subiecto &amp; quasi materia per quasi illius informationem &amp; impressionem factam in illo ab intellectu in- 
+        <lb ed="#Bb" n="11"/>formato notitia simplici: a quo in intellectu quasi formatur notitia declaratiua quae verbum est &amp; fi 
+        <lb ed="#Bb" n="12"/>lius. Productio autem spiritus sancti est de voluntate informata amore essentiali: vt de subiecto &amp; quasi 
+        <lb ed="#Bb" n="13"/>materia, non per quasi informationem aut impressionem quacumque: sed potius per quasi excussionem 
+        <lb ed="#Bb" n="14"/>siue exusfiationem, siue expressionem, aut expulsionem quandam factam a voluntate nuda: a qua vt 
+        <lb ed="#Bb" n="15"/>a ratione spiratiua existente in patre &amp; filio, quasi excutitur de voluntate informata amore simpli 
+        <lb ed="#Bb" n="16"/>ci amor incentiuus qui est spiritus sanctus: secundum quod supra declaratum est: &amp; iam amplius decla 
+        <lb ed="#Bb" n="17"/>rabitur inferius. Talis autem excussio siue exufflatio spiritualis spiratio dicitur: &amp; est similis spiratio 
+        <lb ed="#Bb" n="18"/>ni corporali qua virtute cordis excuteretur siue exufflaretur aer per expirationem de pulmone vt de 
+        <lb ed="#Bb" n="19"/>subiecto &amp; principio materiali: qui prius non fuisset contentus in pulmone per inspirationem in ips 
+        <lb ed="#Bb" n="20"/>sum attractus. Sed est differentia in hoc: quod aer iste excuteretur de pulmone per quendam transitum 
+        <lb ed="#Bb" n="21"/>&amp; recessum ab illo. Spiritus sanctus autem excutitur de voluntate informata amore simplici abs 
+        <lb ed="#Bb" n="22"/>quod transitu &amp; recessu ex parte spiritus sancti a patre &amp; filio, aut ab eo de quo producitur. Nihilomi- 
+        <lb ed="#Bb" n="23"/>nus tamen procedit ab illo, modo praedicto: &amp; sic vere spiratur: licet aliter quam aliquid spiretur tempo 
+        <lb ed="#Bb" n="24"/>raliter: vt patet ex iam dictis. Et quia secundum modum iam dictum spiritus sanctus in sua emana- 
+        <lb ed="#Bb" n="25"/>tione non solum procedit a producentibus: sed etiam ab illo de quo emanat: inquantum videlicet 
+        <lb ed="#Bb" n="26"/>ab illo excutitur: filius autem in sua emanatione solummodo procedit a producente: nullo autem mo-  
+        <lb ed="#Bb" n="27"/>do ab illo de quo emanat, inquantum videlicet in illo quasi imprimitur: propter hoc licet communiter 
+        <lb ed="#Bb" n="28"/>vtraque emanatio dicatur processio: proprie tamen emanatio spiritus sancti, dicitur processio: non au 
+        <lb ed="#Bb" n="29"/>tem filii: &amp; hoc non ratione eius quod spiritus sanctus habet procedere a producentibus: sed solummo-  
+        <lb ed="#Bb" n="30"/>do ratione qua procedit modo iam dicto a principio quasi materiali &amp; subiecto. Propter quod eti 
+        <lb ed="#Bb" n="31"/>am talis emanatio proprie dicitur spiratio: sicut emanatio filii proprie dicitur generatio. Vnde ex 
+        <lb ed="#Bb" n="32"/>parte modi producendi personas de aliquo vt de subiecto &amp; quasi materia, debet accipi differentia 
+        <lb ed="#Bb" n="33"/>emanationum: non autem ex parte modi producendi ab ipsis producentibus: secundum quod superi 
+        <lb ed="#Bb" n="34"/>us eorum differentiam assignauimus.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="113-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1437"> <!-- alias="vn58an-a18q1" -->
+      <head xml:id="vn58an-d1e1437-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1437-Hd1e107" type="question-title">Utrum hominis sit scientiam sitam exponere</head>
+      <p xml:id="vn58an-d1e1437-d1e110">
+        <lb ed="#Ba" n="30"/>CIrca primum arguitur, quod sit hominis eam exponere. 
+        <lb ed="#Ba" n="31"/>Primo sic. eius est exponere cuius est docere: quia 
+        <lb ed="#Ba" n="32"/>non docet doctor nisi exponendo. sed hominis vt dictum 
+        <lb ed="#Ba" n="33"/>est supra, est hanc scientiam docere. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1437-d1e121">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="34"/>Augustinus dicit primo de doctrina chiri,. quod Philippus eunu 
+        <lb ed="#Ba" n="35"/>cho legenti Esaiam: &amp; non intelligenti: quod in scriptura te 
+        <lb ed="#Ba" n="36"/>ctum erat aperuit. Hoc autem erat exponere. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1437-d1e131">
+        ⁋ In oppositum arguitur Primo sic. Cuius est condere 
+        <lb ed="#Ba" n="37"/>legem, eius est eam exponere. Condere hanc scientiam diuinae legis solius dei erat: quia ipse solus nouit quae 
+        <lb ed="#Ba" n="38"/>verbis suis expressit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1437-d1e138">
+        ⁋ Secundo sic. temerarium est dicere in scripturis hominem quae Chri 
+        <lb ed="#Ba" n="39"/>stus non dixit. secundum quod <name ref="#Augustine">Augustinus</name> super Ioan. parte. ii. ser. xlii. exponens illud, Adhuc multa habeo 
+        <lb ed="#Ba" n="40"/>vobis dicere, sed non potestis portare modo: vbi Christus non exposuit quae erant illa, dicit. Quaenam sint 
+        <lb ed="#Ba" n="41"/>ista quae ipse non dixit, temerarium est velle dicere. sed in omni expositione scripturae dicitur aliquid  
+        <lb ed="#Ba" n="42"/>quod Christus non dixit: quia quod dixit, textus fuit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1437-d1e152">
+        <lb ed="#Ba" n="43"/>⁋ Dicendum. ad hoc quod cuicumque conceditur scientiam aliquam docere: necessarium est ponere 
+        <lb ed="#Ba" n="44"/>&amp; concedere eum illam aliquo modo exponere: quia vt dicit <name ref="#Augustine">Augustinus</name> de moribus ecclesiae: quis me- 
+        <lb ed="#Ba" n="45"/>diocriter sanus non facile intelligit scripturarum expositionem ab iis petendam esse: qui earum do-  
+        <lb ed="#Ba" n="46"/>ctores se esse profitentur: Cum ergo supra concessum est: hominem aliquo modo esse doctorem hu 
+        <lb ed="#Ba" n="47"/>ius scientiae: necesse est consimiliter concedere eum esse eius expositorem: &amp; hoc secundum eundem 
+        <lb ed="#Ba" n="48"/>modum quo est eius doctor, qui supra declaratus est. 
+      </p>
+      <p xml:id="vn58an-d1e1437-d1e171">
+        ⁋ Secundum hoc ergo concedenda sunt duo  
+        <lb ed="#Ba" n="49"/>obiecta ad primam partem. 
+      </p>
+      <p xml:id="vn58an-d1e1437-d1e176">
+        <lb ed="#Ba" n="50"/>⁋ Ad primum in oppositum, quod hominis non erat hanc scientiam condere: Dicendum secundum  
+        <lb ed="#Ba" n="51"/>quod supra determinatum est quod homo non potest dici conditor huius scientiae principalis sed instrumen 
+        <lb ed="#Ba" n="52"/>talis. Et. ita consimiliter bene concedendum est quod non potest dici principalis expositor: quia non ha 
+        <lb ed="#Ba" n="53"/>bet a se regulas secundum quas conditae sunt &amp; exponendae: sed solum deus. habet tamen eas sibi a deo ad  
+        <lb ed="#Ba" n="54"/>ministratas. Secundum quas idcirco ministerialiter hanc scientiam homo exponit: sicut &amp; editor eius 
+   <!--241.xml-->
+        <pb ed="#Ba" n="113-v"/>
+        <lb ed="#Ba" n="1"/>fuit. Vnde in huius significationem legitur Matth. xiiii. de quinque panibus, per quos secundum Glos. intel 
+        <lb ed="#Ba" n="2"/>ligitur sacra scriptura, quod Christus eos benedixit &amp; fregit: &amp; dedit discipulis. Per quod intelligitur sua 
+        <lb ed="#Ba" n="3"/>expositio prima: qua eam in cordibus apostolorum exponit. secundum quod ibi dicit Glos. Benedixit, &amp; fregit: 
+        <lb ed="#Ba" n="4"/>quia prius dedit discipulis sensum, vt intelligerent scripturas. Discipuli autem eos confractos appo- 
+        <lb ed="#Ba" n="5"/>suerunt: quia iuxta expositionem quam a Christo susceperant: turbis exponere vlterius debebant. secundum quod  
+        <lb ed="#Ba" n="6"/>ibi dicit Glos. Dedit discipulis, discipuli autem turbis, vt per ministerium discipulorum aliis exponantur. 
+      </p>
+      <p xml:id="vn58an-d1e1437-d1e207">
+        <lb ed="#Ba" n="7"/>⁋ Ad secundum, quod temerarium est dicere in scripturis quod Christus non dixit: Dicendum quod verum est 
+        <lb ed="#Ba" n="8"/>de eo quod nullibi dixit: ita quod nec in scriptura, aut explicite, aut implicite, nec in obseruatione communi 
+        <lb ed="#Ba" n="9"/>&amp; auctoritate ecclesiae tenetur. Haec enim censentur esse Christi dicta. Secundum enim quod dicit Augu. ad lanua 
+        <lb ed="#Ba" n="10"/>rium: quae non scripta, sed tradita custodimus: quae quidem toto terrarum orbe obseruantur: dantur 
+        <lb ed="#Ba" n="11"/>intelligi vel ab ipsis apostolis, vel plenariis conciliis: quorum est in ecclesia saluberrima auctoritas con 
+        <lb ed="#Ba" n="12"/>mendata atque statuta teneri. Et quaecumque talia sunt: intelliguntur ex dictis &amp; factis Christi: quae quo  
+        <lb ed="#Ba" n="13"/>dam modo dicta sunt descendisse per apostolos, vel reuelatione quam memoriter retinuit ecclesia, vniversl 
+        <lb ed="#Ba" n="14"/>per scripturas, aut implicite, aut explicite: vt possit veridicae rationis consequentia ex illis explicari- 
+        <lb ed="#Ba" n="15"/>Vnde cum nihil debet assumi in expositione nisi iuxta regulam fidei vt dictum est supra: &amp; omne 
+        <lb ed="#Ba" n="16"/>tale, vel ex scriptura, vel obseruatione communi ecclesiae habetur: nihil omnino debet assumi in ex- 
+        <lb ed="#Ba" n="17"/>positione sacrae scripturae: nisi aliquo modo dictum a Christo. Et ideo per illud quod nullo mo-  
+        <lb ed="#Ba" n="18"/>do potest ostendi dictum a Christo: quale est illud de quo est sermo: omnino esset temerarium scri 
+        <lb ed="#Ba" n="19"/>pturam exponere. Vnde <name ref="#Augustine">Augustinus</name> de hoc in serm. dicto. Quae cum ipse tacuerit, quis nostrum 
+        <lb ed="#Ba" n="20"/>dicat: ista vel illa sunt: aut si dicere audeat, vnde probat: Quis enim est tam vanus, aut temerarius:  
+        <lb ed="#Ba" n="21"/>qui cum dixerit etiam vera, sine vllo testimonio diuino affirmet ea esse: quae tunc dominus dicere 
+        <lb ed="#Ba" n="22"/>voluit: Et ideo dicit <name ref="#JohnDamascenus">Damascenus</name> in principio sententiarum suam. Omnia quae tradita sunt nobis 
+        <lb ed="#Ba" n="23"/>&amp; per legem &amp; prophetas &amp; apostolos &amp; euangelistas, suscipimus &amp; veneramur &amp; cognoscimus:  
+        <lb ed="#Ba" n="24"/>nihil vltra hoc inquirentes.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="140-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1782"> <!-- alias="vn58an-a24q5" -->
+      <head xml:id="vn58an-d1e1782-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e1782-Hd1e107" type="question-title">Utrum quid Deus non sit, possit sciri non sciendo quid sit, vel econverso</head>
+      <p xml:id="vn58an-d1e1782-d1e110">
+        <lb ed="#Ba" n="4"/>CIrca Quintum arguitur: quod non contingit cognoscere de deo quid non est: non 
+        <lb ed="#Ba" n="5"/>cognoscendo quid est. Primo sic. scire quid non est deus: est scire de aliquo quia 
+        <lb ed="#Ba" n="6"/>est aliud a deo. Non scitur autem quia est aliud a deo, nisi sciatur quod est deus: quia  
+        <lb ed="#Ba" n="7"/>aliud est relatiuum diuersitatis: &amp; cognito vno relatiuorum necesse est cognosci 
+        <lb ed="#Ba" n="8"/>reliquum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1782-d1e123">
+        ⁋ Secundo sic. ex eodem habet cognosci quid est rei alicui idem: 
+        <lb ed="#Ba" n="9"/>&amp; quid diuersum ab eodem: quia ab eodem est in re identitas sibi: &amp; diuersitas 
+        <lb ed="#Ba" n="10"/>ab alio: &amp; sicut vnumquodque se habet ad esse, &amp; ad cognitionem. sed non cognito de aliquo quid sit, 
+        <lb ed="#Ba" n="11"/>non potest cognosci quid sit idem sibi: vt in exemplo Themistii de seruo fugitiuo: qui enim non co 
+        <lb ed="#Ba" n="12"/>gnoscit eum, non potest scire si ipse est cum eum inuenerit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1782-d1e135">
+        ⁋ In oppositum est <name ref="#Augustine">Augustinus</name> in dua-  
+        <lb ed="#Ba" n="13"/>bus auctoritatibus dictis in quaestione praecedenti. In prima vbi dicit. Non parua notitiae pars est, si 
+        <lb ed="#Ba" n="14"/>antequam scire possimus quid sit deus: possumus scire quid non sit. Et. in secunda vbi dicit. Non esse hoc 
+        <lb ed="#Ba" n="15"/>quod quaerimus nouimus: quamuis illud nondum quale sit nouerimus. 
+      </p>
+      <p xml:id="vn58an-d1e1782-d1e147">
+        ⁋ Item quod econverso non potest sciri 
+        <lb ed="#Ba" n="16"/>quid sit: non sciendo quid non sit: videtur, quia secundum philosophum: quid bene definiunt contraria consignificant. Con 
+        <lb ed="#Ba" n="17"/>traria autem sunt quod res est: &amp; quod non est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1782-d1e154">
+        ⁋ In contrarium est: quoniam qui scit de deo quia est 
+        <lb ed="#Ba" n="18"/>id quod caeteris est anteponendum, scit aliquo modo quod est: quia hoc conuenit ei ratione suae quiditatis super 
+        <lb ed="#Ba" n="19"/>alia. sed hoc sciens de deo bene ignorat quid non sit. Nam vt dicit <name ref="#Augustine">Augustinus</name> i de doc. Christiana cum alii alios 
+        <lb ed="#Ba" n="20"/>&amp; alios deos colunt: siue in caelo, siue in terra, omnes tamen certatim pro excellentia dei dimicant: nec quisquam  
+        <lb ed="#Ba" n="21"/>inueniri potest hic, qui deum esse credat quo est aliquid melius. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1782-d1e168">
+        <lb ed="#Ba" n="22"/>⁋ Dicendum ad hoc quod ista quaestio quaerit an vna &amp; eadem cognitione cognoscitur de 
+        <lb ed="#Ba" n="23"/>deo quod est, &amp; quid non est: vt quid cognoscit vnum de ipso, cognoscat &amp; aliud. Et est dicendum quod de deo  
+        <lb ed="#Ba" n="24"/>duplex est cognitio quod est, praeter illam quae est determinata per nudam essentiam: quae non potest sciri quid sit 
+        <lb ed="#Ba" n="25"/>nisi sciendo quoid non sit simul perfecte: &amp; econverso non potest sciri perfecte quid non sit, nisi perfecte sciendo  
+        <lb ed="#Ba" n="26"/>id sit. vt semper affirmatio sit causa perfectae cognitionis ipsius negationis: &amp; praeter illam etiam quae est 
+        <lb ed="#Ba" n="27"/>indeterminata per esse confusum in eis quae sunt creaturarum: de qua videbimus in sequenti quaestione: quae non 
+        <lb ed="#Ba" n="28"/>est cognitio discreta: &amp; ideo non habet locum quaestio ista de cognitione illa: quia non cognoscitur quid non 
+        <lb ed="#Ba" n="29"/>sit res nisi discernendo eius esse &amp; non esse, praeter has inquam duas cognitiones de deo eius quod quod est 
+        <lb ed="#Ba" n="30"/>sunt aliae duae. Vna omnino generalissima: qua cognoscitur simpliciter quod est optimum in eis quae sunt, non 
+        <lb ed="#Ba" n="31"/>determinando conditiones bonitatis &amp; praeeminentiae eius super alia. &amp; illa est cognitio qua scitur quid  
+        <lb ed="#Ba" n="32"/>dicitur per nomen: non quid est res. Alia vero est specialis quae cognoscitur quod optimum est &amp; caeteris praeeminens 
+        <lb ed="#Ba" n="33"/>&amp; cum hoc quae sunt conditiones praeeminentiae: videlicet quod habet omnem rationem perfectionis: &amp; nullam patitur 
+        <lb ed="#Ba" n="34"/>rationem imperfectionis &amp; defectus: quod sit simplicissimum &amp; immutabilissimum &amp; caetera huiusmodi. Loquendo de 
+        <lb ed="#Ba" n="35"/>cognitione de deo quod est primo modo, contingit scire de deo quid est, non sciendo vnivlrstle quid non est scilicet quo ad  
+        <lb ed="#Ba" n="36"/>omnia quae non sunt quod deus est: licet forte sciatur de pluribus: vt de illis in quibus non inuenit illam esse 
+        <lb ed="#Ba" n="37"/>eminentiam quam reputat diuinam: vt ostendit vltima ratio. aliter enim idololatrae dicentes deum esse opti 
+        <lb ed="#Ba" n="38"/>mun: non ponerent illud optimum esse caelum, aut aliquod lucidum in caelo: quod in rei veritate deus non est. Loquendo  
+        <lb ed="#Ba" n="39"/>autem de cognitione quod est de deo secundo modo: non contingit scire de deo quid est, non sciendo quid non est 
+        <lb ed="#Ba" n="40"/>oppositum illi in quo cognoscitur de deo quid est: nec econverso. Sciendo enim quod est: sciendo scilicet omnes rationes 
+        <lb ed="#Ba" n="41"/>perfectionis esse in ipso: necesse est quod simul sciat vniversale de omnibus quid non est: &amp; quod nulla creaturarum 
+        <lb ed="#Ba" n="42"/>sit: vt quod omne habens in se aliquam rationem imperfectionis, non sit deus: &amp; tale est omnis creatura. Sciendo vero 
+        <lb ed="#Ba" n="43"/>quid sit secundum aliquam perfectionem: &amp; non secundum omnes: necesse est simul scire quid non sit secundum ipefectionem oppo 
+        <lb ed="#Ba" n="44"/>sitam illi: licet non secundum omnem. Vnde sciens de deo quia est perfectus in simplicitate, scit quod non est aliquid cor- 
+        <lb ed="#Ba" n="45"/>poreum. Sciens vero quod est perfectus in immutabilitate, scit quod non est aliqua substantiarum simplicium quae sunt 
+        <lb ed="#Ba" n="46"/>mutabiles. Et econverso sciens quod non est aliqua illarum propter imperfectionem quam inuenit in illis: necesse ha 
+        <lb ed="#Ba" n="47"/>bet simul scire quid sit deus quo ad oppositam perfectionem: &amp; sciens quid non est secundum omnes perfectiones quae sunt 
+        <lb ed="#Ba" n="48"/>in creaturis: necessario scit simul quod est secundum omnes perfectiones respondentes imperfectionibus illis quae  
+        <lb ed="#Ba" n="49"/>sunt in creaturis. Vnde idololatra cognoscens aliquas perfectiones de deo: sciendo quo ad illas quod est deus 
+        <lb ed="#Ba" n="50"/>scit creaturas illas non esse deum in quibus inuenit imperfectiones oppositas: vt sciens quod sit cognoscens 
+        <lb ed="#Ba" n="51"/>&amp; intelligens, scit quod non est aliquod brutum animal. Econtrario autem nesciens quod est simplicissimum: &amp; 
+        <lb ed="#Ba" n="52"/>spiritus quidam: nescit quod non sit corpus: vt caelum vel ignis. <name ref="#Aristotle">Philosophus</name> autem bene instructus: sciendo vniuer- 
+        <lb ed="#Ba" n="53"/>saliter omnes conditiones perfectionis diuinae: in quibus econtra creatura habet in se aliquam imperfectionem 
+        <lb ed="#Ba" n="54"/>quam similiter nouit: Sciendo inquam quid est deus secundum omnes rationes suae perfectionis, necesse est eum scire simul 
+        <lb ed="#Ba" n="55"/>quod non sit deus: &amp; hoc vniversali. &amp; econverso sciendo vniverstale quid non sit deus: necesse est eum simul scire vnivelrsale quid  
+   <!--296.xml-->
+        <pb ed="#Ba" n="141-r"/>
+        <lb ed="#Ba" n="1"/>sit deus. Et sic cognitio de deo quid est, determinando conditiones praeeminentiae eius, &amp; cognitio quid  
+        <lb ed="#Ba" n="2"/>non est ei opposita, currunt eodem cursu, quantum enim scit homo de vno, &amp; de altero. Qui enim per 
+        <lb ed="#Ba" n="3"/>fecte quo ad omnes conditiones praeeminentiae scit quid est, perfecte scit quo ad omnes creaturas quid  
+        <lb ed="#Ba" n="4"/>non sit. Qui autem quo ad aliquas conditiones praeeminentiae scit quid est, &amp; quo ad aliquas creaturas 
+        <lb ed="#Ba" n="5"/>scit quid non est: &amp; quo ad aliquas non scit hoc. Scit enim quo ad illas, in quibus est imperfectio ope 
+        <lb ed="#Ba" n="6"/>posita perfectioni quam nouit in deo. Quo ad alias autem non. &amp; hoc ideo quia negatio non cogno  
+        <lb ed="#Ba" n="7"/>scitur nisi per affirmationem, sicut priuatio per habitum. secundum quod dicit Auicen. i. metaphysicae. 
+        <lb ed="#Ba" n="8"/>Esse cognoscitur per se: non esse vero per esse aliquo modo. &amp; secundum quod dicit <name ref="#Anselm">Anselmus</name> de casu diabo- 
+        <lb ed="#Ba" n="9"/>li. Remotio alicuius rei significari nullatenus potest: nisi cum significatione eius cuius significatur 
+        <lb ed="#Ba" n="10"/>remotio. Nullus enim intelligit quid significat non homo, nisi intelligendo quid sit homo. Et sic 
+        <lb ed="#Ba" n="11"/>patet quod essentialior via ex parte rei cognitae in cognoscendo quod quid est de deo, &amp; quid non est, 
+        <lb ed="#Ba" n="12"/>est procedere a cognitione quid est deus, ad sciendum quid non est in creaturis. licet sit econverso 
+        <lb ed="#Ba" n="13"/>ex parte nostra idoneor via procedendo a cognitione quid non est, ad cognoscendum quid est, via. scilicet 
+        <lb ed="#Ba" n="14"/>remotionis. secundum quod dicit Damascenus. Oportet eum qui vult substantiam alicuius dicere, quid  
+        <lb ed="#Ba" n="15"/>est enunciare, non quid non est. Veruntamen in deo quid est dicere, impossibile est secundum substan- 
+        <lb ed="#Ba" n="16"/>tiam. Facilius autem magis ex omni ablatione facere rationem. Sic enim per rationes imperfectionis 
+        <lb ed="#Ba" n="17"/>via remotionis omnis imperfectionis a deo &amp; attributionis eminentiae incipit homo cognoscere 
+        <lb ed="#Ba" n="18"/>de deo quid sit in speciali, vt in sequenti quaestione dicetur. Et sic cognoscendo quid est, per ipsum quid  
+        <lb ed="#Ba" n="19"/>est perfecte nouit quid non est, &amp; per quid non est amplius nouit quid est. Et ideo qui bene defi- 
+        <lb ed="#Ba" n="20"/>niunt hoc modo per cognitionem de deo quid non est, vel quod est deus: contraria consignificant: vt pro 
+        <lb ed="#Ba" n="21"/>cessit penultima ratio, &amp; duae primae rationes. Non autem qui bene definiunt quid est cognitione 
+        <lb ed="#Ba" n="22"/>generali, quid est scilicet quod dicitur per nomen, oportet quod contraria consignificent, vt dictum est. Neque qui  
+        <lb ed="#Ba" n="23"/>bene definiunt quid non est, per cognitionem quid est generalem, oportet quod contrarium consignifi- 
+        <lb ed="#Ba" n="24"/>cent definiendo vniuersaliter quid est cognitione speciali: vt processit ratio ex duabus auctori- 
+        <lb ed="#Ba" n="25"/>tatibus <name ref="#Augustine">Augustinus</name> 
+      </p>
+      <p xml:id="vn58an-d1e1782-d1e312">
+        ⁋ Et sic patet ad quaestionem &amp; ad obiecta simul. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

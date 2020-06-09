@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="269-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe73871"> <!-- alias="vn58an-a73q4" -->
+      <head xml:id="vn58an-fe73871-Hd1e104">Quaestio 4</head>
+      <p xml:id="vn58an-fe73871-d1e107">
+        <lb ed="#Bb" n="50"/>Irca quartum arguitur quod nomina significantia deum &amp; creaturam significant il 
+        <lb ed="#Bb" n="51"/>los pure aequiuoce, Primo sic. Quae maiorem diuersitatem habent inter se, magis 
+        <lb ed="#Bb" n="52"/>habent aequiuoce significari eodem nomine quam quae minorem: quia aequiuocatio est le- 
+        <lb ed="#Bb" n="53"/>cundum significatorum diuersitatem, vt patet ex definitione aequiuocorum. maiorem 
+        <lb ed="#Bb" n="54"/>autem diuersitatem habent inter se deus &amp; creatura, quam diuersa indiuidua sub 
+        <lb ed="#Bb" n="55"/>eadem specie: quia illa in aliquo reali conicant: licet vniuersali: Deus autem &amp; 
+   <!--554.xml-->
+        <pb ed="#Bb" n="270-r"/>
+        <lb ed="#Bb" n="1"/>creatura nequaquam. sed diuersa indiuidua eiusdem speciei pure aequiuoce significantur eodem nomine: vt 
+        <lb ed="#Bb" n="2"/>duo Alexandri secundum Boethium super praedicamenta Aristelonus ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe73871-d1e131">
+        ⁋ Secundo sic. Nomen signi- a 
+        <lb ed="#Bb" n="3"/>ficans plura absque omni illorum vniuocatione necessario significat illa pure aequiuoce: quia aequiuo 
+        <lb ed="#Bb" n="4"/>ca &amp; vniuoca ex opposito distinguuntur sub vnitate vocis. sed nomen significans deum &amp; creaturam 
+        <lb ed="#Bb" n="5"/>significat illos absque omni vniuocatione: quia dei &amp; creaturae nulla omnino est ratio substantiae 
+        <lb ed="#Bb" n="6"/>eadem: quod requirunt vniuoca secundum illorum definitionem: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe73871-d1e142">
+        ⁋ In contrarium est quod illa quae conmu  
+        <lb ed="#Bb" n="7"/>nicant idem nomen non absque ordine quo nomen non convenit vni per prius &amp; alteri per posterius, 
+        <lb ed="#Bb" n="8"/>illo nomine non significantur pure aequiuoce: quia non aequaliter sunt sub voce significata. deus &amp; crea- 
+        <lb ed="#Bb" n="9"/>tura sunt huiusmodi: quia in nullo aequari possunt: ergo &amp;c. 
+        <lb ed="#Bb" n="10"/>
+      </p>
+      <p xml:id="vn58an-fe73871-d1e154">
+        ⁋ Dico quod licet omne nomen aequiuocum significet plura non sub vna ratione rei: quia 
+        <lb ed="#Bb" n="11"/>nihil significat commune reale, siue singulare, siue vniuersale ad illa: quale est omne nomen vniuocum 
+        <lb ed="#Bb" n="12"/>illa tamen plura non semper vniformiter se habent ad rationem secundum quam nomen rei imponitur. In impo- 
+        <lb ed="#Bb" n="13"/>sitione enim nominis rei cui imponitur consideranda est ratio rei secundum quam nomen illi imponitur: quia res 
+        <lb ed="#Bb" n="14"/>eadem aliquando habet plures rationes: &amp; licet ipsa sit vna &amp; eadem, tamen voce bene imponitur secundum rationem 
+        <lb ed="#Bb" n="15"/>vnam &amp; secundum aliam: puta eadem res significatur nomine substantiae aut accidentis, aut nomine entis: sed secundum  
+        <lb ed="#Bb" n="16"/>aliam &amp; aliam rationem: quia sub nomine entis secundum rationem actualitatis simpliciter: sub nomine substantiae secundum  
+        <lb ed="#Bb" n="17"/>rationem actualis existentis in seipso, non autem in alio: sub nomine accidentis secundum rationem actualis existentis non 
+        <lb ed="#Bb" n="18"/>nisi in alio. Quae quidem ratio est alia &amp; alia: secundum modum quo conceptus ab imponente circa rem est alius &amp; 
+        <lb ed="#Bb" n="19"/>alius. Distinguendum igitur est de rebus aequiuoce significatis sub eodem nomine. Aut enim aliquam habitudi  
+        <lb ed="#Bb" n="20"/>nem habent propter quam vox illis coniter imponitur, aut nullam. Si nullam, tunc est pura aequiuocatio: &amp; 
+        <lb ed="#Bb" n="21"/>est illorum quae vocantur aequiuoca casu, quibus idem nomen aeque primo &amp; principaliter imponitur: vt 
+        <lb ed="#Bb" n="22"/>duo viri sub hoc nomine Alexander. Si vero aliquam habent habitudinem propter quam vox illis coniter 
+        <lb ed="#Bb" n="23"/>imponitur, tunc non est pura aequiuocatio, &amp; est illorum quae vocantur aequiuoca habitudine, &amp; hoc vel ha 
+        <lb ed="#Bb" n="24"/>bitudine illorum quam habent inter se ex rationibus inaequalibus: propter quam vnum illorum mutuat nomen 
+        <lb ed="#Bb" n="25"/>ab altero, vel amborum ad tertium inaequaliter: propter quam ambo ab illo nomen mutuant inaequa- 
+        <lb ed="#Bb" n="26"/>liter. Et continet ista aequiuocatio quae est habitudine, quatuor modos, &amp; praecedens vnum. <name ref="#Boethius">Boethius</name>  enim  
+        <lb ed="#Bb" n="27"/>in commento libri praedicamentorum Aristoteles super capitulum de aequiuocis distinguit quinque modos aequi- 
+        <lb ed="#Bb" n="28"/>uocationis de rebus quae significantur aequiuoce sub eadem voce. Sunt enim vt dicit aequiuoca casu: vt duo  
+        <lb ed="#Bb" n="29"/>Alexandri. Proportione, vt principium dicuntur vnitas &amp; punctus. Relatione, vt salutaris dicitur vectio &amp; 
+        <lb ed="#Bb" n="30"/>esca. Similitudine: vt homo verus &amp; pictus. Descensu: vt animal dicitur sanum &amp; vrina. Casu sub hoc nomine 
+        <lb ed="#Bb" n="31"/>Alexander duo viri nuncupantur: quia absque causa &amp; ratione ad hoc inducente ex natura rerum signi- 
+        <lb ed="#Bb" n="32"/>ficatarum, eo quod nullam habitudinem habent neque inter se neque ad tertium propter quam vnum nomen ha-  
+        <lb ed="#Bb" n="33"/>beant. Proportione autem aequiuocantur sub hoc nomine principium vnitas &amp; punctus: quia licet vnitas &amp; 
+        <lb ed="#Bb" n="34"/>punctus inter se habeant habitudinem in hoc convenientiae &amp; modo similitudinis: quia vnitas est a qua  
+        <lb ed="#Bb" n="35"/>numerus procedit: &amp; punctus a quo linea: &amp; secundum hanc habitudinem communem fit eis impositio huius 
+        <lb ed="#Bb" n="36"/>nominis principium: tamen ista proportione se habet vnitas ad numerum in principiando ipsum, &amp; punctus ad li 
+        <lb ed="#Bb" n="37"/>neam: quia vnitas principiat numerum vt pars suum totum: punctus autem non sic lineam: sed solummodo  
+        <lb ed="#Bb" n="38"/>vt terminus terminatum: &amp; sic perfectius rem principiando convenit vnitati quam puncto. propter quod etiam 
+        <lb ed="#Bb" n="39"/>convenit primo nomen principii vnitati: secundo autem puncto per transumptionem ab vnitate. Relatione 
+        <lb ed="#Bb" n="40"/>autem ad idem scilicet ad sanitatem animalis cuius sunt causatiua aut conseruatiua, dicitur salutaris id est sanatiua ve- 
+        <lb ed="#Bb" n="41"/>ctio, &amp; similiter esca: sed esca primo &amp; principaliter, &amp; vectio secundo, &amp; hoc quia vectio non est sanati 
+        <lb ed="#Bb" n="42"/>ua nisi quia confert ad digestionem escae quae est per se sanatiua. &amp; sic perfectius ratio sanandi convenit escae 
+        <lb ed="#Bb" n="43"/>quam vectioni. Propter quod etiam prius convenit escae nomen sanitatis: secundario autem convenit vectioni. Similie 
+        <lb ed="#Bb" n="44"/>tudine autem ad verum hominem dicitur pictura vel imago hominis homo, &amp; sic perfectius est ratio hominis in ho 
+        <lb ed="#Bb" n="45"/>mine vero quam in eius pictura. Propter quod nomen convenit primo homini, &amp; secundario picturae. Descen- 
+        <lb ed="#Bb" n="46"/>su vero quo effectus &amp; quod est in eo descendit in sua causa: quia. scilicet impressiones quae sunt signa sani 
+        <lb ed="#Bb" n="47"/>tatis quae est in animali, vrina recipit a sanitate animalis. &amp; sic perfectius est ratio sanitatis in animali quam in  
+        <lb ed="#Bb" n="48"/>vrina. Propter quod animali primo &amp; per se convenit nomen sanitatis, &amp; vrinae secundo, &amp; hoc per quam 
+        <lb ed="#Bb" n="49"/>dam transumptionem nominis a causa ad causatum. Et vocatur talis aequiuocatio quae est in istis qua-  
+        <lb ed="#Bb" n="50"/>tuor modis, proprie anologia: quia nomen per prius &amp; posterius dicitur de pluribus, &amp; per prius 
+        <lb ed="#Bb" n="51"/>&amp; posterius significat illa. Et per talem habitudinem quodammodo ista aequiuocatio declinat a 
+        <lb ed="#Bb" n="52"/>pura aequiuocatione ad vniuocationem, secundum quam aequiuocationem secundum aliquem dictorum quatuor  
+        <lb ed="#Bb" n="53"/>modorum aequiuoce dicuntur de deo &amp; creatura nomina quae significant vtrumque: &amp; tali aequiuocatio 
+        <lb ed="#Bb" n="54"/>ne aequiuoce significant illa. Semper enim nomen tale prius conuenit vni illorum quam alii, &amp; nunquam  
+   <!--555.xml-->
+        <pb ed="#Bb" n="270-v"/>
+       <!--555.xml-->
+            <pb ed="#Bb" n="270-v"/>
+        <lb ed="#Bb" n="1"/>aeque primo &amp; principaliter, sicut convenit vbi est pura aequiuocatio. Et secundum hoc concedenda est 
+        <lb ed="#Bb" n="2"/>vltima obiectio. Cui autem illorum, deo scilicet an creaturae conueniat prius &amp; principalius nomen con- 
+        <lb ed="#Bb" n="3"/>mune eis, &amp; cui non, videbitur in sequenti quaestione.  
+      </p>
+      <p xml:id="vn58an-fe73871-d1e270">
+        <lb ed="#Bb" n="4"/>⁋ Ad primum in oppositum quod maiorem diuersitatem habent inter se deus &amp; crea- 
+        <lb ed="#Bb" n="5"/>tura quam diuersa indiuidua eiusdem speciei specialissimae, quae non continentur ab eodem nomine 
+        <lb ed="#Bb" n="6"/>nisi aequiuoce: quare nec deus &amp; creatura: Dico quod verum esset si propter diuersitatem rerum quae  
+        <lb ed="#Bb" n="7"/>aequiuocantur diceretur pura aequiuocatio. Nunc autem ex diuersitate rerum diuersarum defi- 
+        <lb ed="#Bb" n="8"/>nitionum significatarum sub eodem nomine contingit aequiuocatio simpliciter secundum eius de- 
+        <lb ed="#Bb" n="9"/>finitionem: sed quod sit pura &amp; mera aequiuocatio non declinans in aliquo ad vniuocationem, hoc 
+        <lb ed="#Bb" n="10"/>solummodo ideo contingit, quod illa scilicet diuersa non habent aliquam habitudinem inter se vel ad ter 
+        <lb ed="#Bb" n="11"/>tium: propter quam vox illa conmuniter eis conuenit, qualem habent deus &amp; creatura quando- 
+        <lb ed="#Bb" n="12"/>cumque sub eodem nomine aequiuocantur: vt patebit in sequenti quaestione. Propter istam enim ha 
+        <lb ed="#Bb" n="13"/>bitudinem ex eodem sonte nomen deriuatur pluribus: ex diuersis autem cum defuit talis ha-  
+        <lb ed="#Bb" n="14"/>bitudo. secundum quod <name ref="#Augustine">Augustinus</name> distinguens aequiuocationem in Dialectica sua. c. x. dicit sic. Duas 
+        <lb ed="#Bb" n="15"/>habet formas. Nam sunt ex eadem origine aut ex diuersis. Et exponendo seipsum continue sub 
+        <lb ed="#Bb" n="16"/>dit. Ex eadem origine appello quae quamuis vno nomine at non sub vna definitione teneantur, vnota- 
+        <lb ed="#Bb" n="17"/>men quasi fonte manant: vt est illud quod Tullius &amp; homo, &amp; statua, &amp; codex, &amp; cadauer intelligi 
+        <lb ed="#Bb" n="18"/>potest. Non possunt quidem ista vna definitione concludi, sed tamen habent vnum sontem verum 
+        <lb ed="#Bb" n="19"/>scilicet hominem, cuius &amp; illa statua, &amp; ille liber, &amp; illud cadauer est. Ex diuersa origine: cum ne- 
+        <lb ed="#Bb" n="20"/>pos longe ex diuersa filium filii &amp; luxuriosum significet. Et sic ex diuerso fonte procedere intel 
+        <lb ed="#Bb" n="21"/>git aequiuoca casu secundum primum modum aequiuocationis. Ex eodem vero fonte procedere intelli 
+        <lb ed="#Bb" n="22"/>git aequiuoca secundum alios quatuor modos, &amp; hoc diuersimode, videlicet aut quia vnum illorum 
+        <lb ed="#Bb" n="23"/>scilicet cui nomen primo conuenit, est sons alterius cui nomen secundo conuenit: vt contingit in  
+        <lb ed="#Bb" n="24"/>aequiuocis proportione &amp; similitudine &amp; descensu: sed diuersimode. Punctus enim est princi- 
+        <lb ed="#Bb" n="25"/>ium per vnitatem: inquantum vnitas descendit in punctum, &amp; numerus in magnitudinem: &amp; 
+        <lb ed="#Bb" n="26"/>ictura est homo per hoc quod homini vero assimilatur, &amp; vrina est sana quia descendit a sanitate 
+        <lb ed="#Bb" n="27"/>animalis, secundum quod patet ex praedictis. Aut quia plurium quibus nomen convenit secundo, est sons 
+        <lb ed="#Bb" n="28"/>vnus cui nomen conuenit primo: vt contingit in aequiuocis relatione. Sed hoc dupliciter ex par 
+        <lb ed="#Bb" n="29"/>te illorum quibus convenit nomen secundo: quia aut gradatim descendunt a fonte primo: vt contingit 
+        <lb ed="#Bb" n="30"/>in exemplo <name ref="#Boethius">Boethii</name>  de vectione &amp; esca respectu sanitatis animalis. Propter quod non solum primo 
+        <lb ed="#Bb" n="31"/>convenit nomen sanitati animalis quae est sons, quam escae aut vectioni: sed etiam primo conuenit escae, &amp; per 
+        <lb ed="#Bb" n="32"/>illam vectioni vt dictum est. Aut descendunt immediate a fonte primo, sicut contingit in exemplo Philhsophi. v. 
+        <lb ed="#Bb" n="33"/>Meta. de nomine natura, quod primo dicitur de forma, &amp; secundo de aliis: sed non convenit vni per alterum. secun 
+        <lb ed="#Bb" n="34"/>dum enim quod dicit Commen. ibidem, Natura primo dicitur de forma, &amp; secundo de aliis vt de materia: quia 
+        <lb ed="#Bb" n="35"/>recipit in se istam naturam quae est forma. Nec dicitur nomen naturae de motu: nisi quia est via ad il- 
+        <lb ed="#Bb" n="36"/>lam naturam. Et sub isto modo aequiuocationis continentur omnia nomina quae <name ref="#Aristotle">Philosophus</name> distinguit in v. Me- 
+        <lb ed="#Bb" n="37"/>taphysiy, quia illorum distinctio est in plura sub eodem nomine per attributionem &amp; habitudinem aliorum 
+        <lb ed="#Bb" n="38"/>ad vnum cui nomen dignius &amp; verius convenit. Propter quod illis convenit primo, &amp; aliis secundario.  
+        <lb ed="#Bb" n="39"/>sicut etiam contingit in exemplo Augustini de hoc nomine Tullius, quod Tullius dicitur homo rhetor, &amp; sta 
+        <lb ed="#Bb" n="40"/>tua illius, &amp; liber quem composuit, &amp; eius cadauer: sed hoc vbique per translationem a vicinitate: prout se 
+        <lb ed="#Bb" n="41"/>cundum <name ref="#Augustine">Augustinus</name> vbi supra, Tullius, &amp; ille in quo magna eloquentia fuit &amp; statua eius, dicitur ex si 
+        <lb ed="#Bb" n="42"/>militudine. Ex toto vero pars nominatur: vt cum cadauer illud Tullius dici possit. Ex parte autem to 
+        <lb ed="#Bb" n="43"/>tum: vt cum tectum dicitur tota domus: aut a genere species: aut a specie genus: aut ab efficiente effe- 
+        <lb ed="#Bb" n="44"/>ctum: vt Cicero est liber Ciceronis: aut ab effectu efficiens: vt terror qui terrorem facit: aut a conti- 
+        <lb ed="#Bb" n="45"/>nente quod continetur, vt domus &amp; qui in domo sunt dicuntur, aut conuersa vice, vt castanea &amp; arbor 
+        <lb ed="#Bb" n="46"/>dicitur in qua non est, vel si quid aliud inueniri potest quod ex eodem ordine quasi transferendo co- 
+        <lb ed="#Bb" n="47"/>gnominetur. Vnde dicit ibidem cap. vi. Vicinitas late patet: &amp; per multas partes secatur: aut per efficien 
+        <lb ed="#Bb" n="48"/>tiam: aut per effectum: vt puteus quod eius effectus potatio est: aut per id quod continet: vt vrbem ab vrbo ap-  
+        <lb ed="#Bb" n="49"/>pellari volunt: aut per id quod continetur: vt si quis horreum mutata dlitterae dicat ab hordeo nominatum: vel a par 
+        <lb ed="#Bb" n="50"/>te totum: vt cum Mucronis nomine quae summa pars gladii est, totum gladium vocant: vel a toto pars 
+        <lb ed="#Bb" n="51"/>vt capillus quasi capitis pilus. In quibus vt subdit ca. vii. quot modis origo verbi corruptione 
+        <lb ed="#Bb" n="52"/>vocum varietur, ineptum est prosequi &amp; nimis longum. 
+      </p>
+      <p xml:id="vn58an-fe73871-d1e391">
+        ⁋ Nota quod <name ref="#Augustine">Augustinus</name> hic &amp; iam su- 
+        <lb ed="#Bb" n="53"/>pra: vt habitum est in quaestione prima, originem verbi aequiuocat. Hic enim vbi appellat son- 
+        <lb ed="#Bb" n="54"/>tem: originem vocat rem cui primo conuenit nomen a quo transfertur ad aliud. Vbi autem oni 
+   <!--556.xml-->
+        <pb ed="#Bb" n="271-r"/>
+        <lb ed="#Bb" n="1"/>ginem vocat, modos originandi vocum impositiones: vt patet inspicienti dicta hic &amp; ibi. Et similiter 
+        <lb ed="#Bb" n="2"/>aequiuocatur similitudo quando primum modum originis dicit esse per similitudinem rerum 
+        <lb ed="#Bb" n="3"/>&amp; vocum, &amp; quando secundum dicit per similitudinem rerum, &amp; quando dicit hic statuam hominis 
+        <lb ed="#Bb" n="4"/>per similitudinem dici hominem, cum tamen pertineat ad modum originandi secundum vicinita- 
+        <lb ed="#Bb" n="5"/>tem, secundum quod haec patent ex praedictis. 
+      </p>
+      <p xml:id="vn58an-fe73871-d1e416">
+        ⁋ Ad secundum, quod dei &amp; creaturae nulla est ratio substantiae 
+        <lb ed="#Bb" n="6"/>eadem, ergo pura aequiuocatio eorum sub eodem nomine: Dico secundum iam dicta quod medium il- 
+        <lb ed="#Bb" n="7"/>lud non probat nisi quod sit aequiuocatio simpliciter: non quod pura sit aequocatio: quia huius est altera causa 
+        <lb ed="#Bb" n="8"/>vt dictum est, quae non concurrit cum eodem nomine significantur deus &amp; creatura, vt patet ex dictis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="192-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe52657"> <!-- alias="vn58an-a62q4" -->
+      <head xml:id="vn58an-fe52657-Hd1e104">Quaestio 4</head>
+      <p xml:id="vn58an-fe52657-d1e107">
+        <lb ed="#Bb" n="18"/>CIrca quartum arguitur quod relationes communes in creaturis sunt relationes secundum  
+        <lb ed="#Bb" n="19"/>rationem &amp; non secundum rem, sic. Super illa quae non habent inter se habitudinem 
+        <lb ed="#Bb" n="20"/>siue ordinem nisi attributalem, non fundantur relationes reales: quia relatio- 
+        <lb ed="#Bb" n="21"/>nes reales non sunt nisi habitudines essentiales relatorum, aut non sunt sine 
+        <lb ed="#Bb" n="22"/>illis: vt patet in actiuis &amp; passiuis, quae patenter adinuicem se habent per poten 
+        <lb ed="#Bb" n="23"/>tiam actiuam &amp; passiuam essentialiter: &amp; in mensurato, de quo patet quod essentia- 
+        <lb ed="#Bb" n="24"/>liter se habet ad mensuram. Vnde quia mensurae nullus est ordo essentialis siue habitudo ad men- 
+        <lb ed="#Bb" n="25"/>suram, sicut est econuerso: nec vniuersaliter dei ad creaturas, sicut est econuerso: idcirco nulla est 
+        <lb ed="#Bb" n="26"/>relatio realis mensurae ad mensuratum: nec vniuersaliter dei ad creaturas. sed indiuidua sub ea- 
+        <lb ed="#Bb" n="27"/>dem specie specialissima, substantiae scilicet quantitatis aut qualitatis, in quibus fundantur relationes con- 
+        <lb ed="#Bb" n="28"/>munes: puta haec substantia &amp; illa, in quibus fundatur identitas aut diuersitas: hoc quantum &amp; il- 
+        <lb ed="#Bb" n="29"/>lud, in quibus fundatur aequalitas aut inaequalitas: hoc album &amp; illud, in quibus fundatur similitudo  
+        <lb ed="#Bb" n="30"/>&amp; dissimilitudo: nullum ordinem neque habitudinem habent inter se nisi accidentalem: quia inter 
+        <lb ed="#Bb" n="31"/>illa quae sunt sub eadem specie, nulla est habitudo siue ordo essentialis. secundum Commen. ii. Metaph. &amp; 
+        <lb ed="#Bb" n="32"/>secundum ipsum Philosophum. v. eiusdem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e142">
+        ⁋ Quia autem relationes communes in diuinis sint relatio- 
+        <lb ed="#Bb" n="33"/>nes secundum rem &amp; non secundum rationem: arguitur sic. Vnumquodque verius habet esse vbi est secundum rem 
+        <lb ed="#Bb" n="34"/>quam vbi est secundum rationem tantum. Ens enim secundum rationem quod est ens secundum animam, est ens diminutum secundum  
+        <lb ed="#Bb" n="35"/>Philosophum. vi. Metaph. Ens vero secundum rem, est ens perfectum. sed relationes communes praedictae verissime 
+        <lb ed="#Bb" n="36"/>habent esse in diuinis &amp; perfectissime, quia in diuinis est verissima &amp; perfectissima identitas, similiter 
+        <lb ed="#Bb" n="37"/>equalitas &amp; similitudo: vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e155">
+        ⁋ Item Grego. dicit in praesatione de trinitate. In  
+        <lb ed="#Bb" n="38"/>essentia vnitas, in personis proprietas, &amp; in maiestate adoretur aequalitas. nihil est autem adorandum nisi 
+        <lb ed="#Bb" n="39"/>sit res aut reale. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e163">
+        ⁋ Item relationes secundum rationem, conveniunt deo de nouo &amp; ex tempore, 
+        <lb ed="#Bb" n="40"/>sicut patet cum dicitur domins &amp; creator. sed relationes communes conueniunt deo &amp; diuinis personis 
+        <lb ed="#Bb" n="41"/>ab aeterno, &amp; non de nouo, &amp; ex tempore, quia pater &amp; filius sicut ab aeterno sunt &amp; fuerunt pater 
+        <lb ed="#Bb" n="42"/>&amp; filius: sic ab aeterno sunt &amp; fuerunt iidem, aequales, &amp; similes. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e172">
+        ⁋ Item relatio secundum ra- 
+        <lb ed="#Bb" n="43"/>tionem potest abesse illi cui inest absque sui mutatione sicut potest adesse: puta sicut deus de non 
+        <lb ed="#Bb" n="44"/>domino potest fieri non domins absque sui mutatione, sic de domino potest fieri dominus fine sui mutatione.  
+        <lb ed="#Bb" n="45"/>sed deus fine sui mutatione non potest secundum relationem communem de eodem, aequali, aut simili fie 
+        <lb ed="#Bb" n="46"/>ri non idem, non aequalis, aut non similis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e183">
+        ⁋ In contrarium est <name ref="#Aristotle">Philosophus</name> de creaturis. v. Metap. 
+        <lb ed="#Bb" n="47"/>bi dicit. Omnia quae dicuntur modo numeri &amp; potentiae, sunt relatiua, quia eorum essentia dicitur 
+        <lb ed="#Bb" n="48"/>ad aliquid id est secundum Commetnore, quia relatio est in substantia siue in essentia vtriusque. Talia autem sunt 
+        <lb ed="#Bb" n="49"/>relationes secundum rem, &amp; non secundum rationem tantum. &amp; intelligit per relationes modo numeri, rela- 
+        <lb ed="#Bb" n="50"/>tiones cones: quia omnes sequuntur vnum &amp; multum: vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e197">
+        ⁋ In contrarium est etiam 
+        <lb ed="#Bb" n="51"/>de deo, quod in diuinis non sunt relationes reales nisi notiones sint &amp; distinctiuae personarum: qua  
+        <lb ed="#Bb" n="52"/>les non sunt relationes communes: quia sunt personarum iam distinctarum. ergo &amp;c. 
+        <lb ed="#Bb" n="53"/>
+      </p>
+      <p xml:id="vn58an-fe52657-d1e206">
+        ⁋ Dico quod relationes duplicem ordinem habent. Vnum ad sua opposita relatiue: puta 
+        <lb ed="#Bb" n="54"/>paternitas ad filiationem &amp; econuerso. Alium ad sua subiecta siue ad relata per ipsas, in quibus 
+   <!--400.xml-->
+        <pb ed="#Bb" n="193-r"/>
+        <lb ed="#Bb" n="1"/>habent principia sua causatiua &amp; fundamentalia, de quibus est sermo inferius. Secundum primum or 
+        <lb ed="#Bb" n="2"/>dinem relatio omnis habitudo quaedam est relatorum alterius ad alterum: quam dupliciter contingit es 
+        <lb ed="#Bb" n="3"/>se inter illa. Vno modo quia vtralibet earum est alterius simpliciter. Alio modo quia est alterius sub 
+        <lb ed="#Bb" n="4"/>modo determinato. Et isto secundo modo sunt relatiua aliqua secundum dici tantum: quae secundum rem 
+        <lb ed="#Bb" n="5"/>sunt in aliis praedicamentis. sic enim caput dicitur capitati caput: quia. scilicet est pars illius: &amp; capitatum ca 
+        <lb ed="#Bb" n="6"/>pite capitatum: quia est totum illius. Primo autem modo sunt relatiua secundum esse: &amp; isto modo 
+        <lb ed="#Bb" n="7"/>relationis esse non est nisi ratio quaedam qua (vt alias declarauimus) distinguitur praedicamentum re 
+        <lb ed="#Bb" n="8"/>lationis contra praedicamenta absoluta. Et est ista ratio eadem &amp; vniuoca omnibus contentis sub praedicamento 
+        <lb ed="#Bb" n="9"/>relationis seu pertinentibus ad illud &amp; in deo &amp; in creaturis: nec ex parte illius cadit aliqua distinctio 
+        <lb ed="#Bb" n="10"/>relationum aut secundum rem aut secundum rationem, neque secundum genus aut speciem aut aliquo 
+        <lb ed="#Bb" n="11"/>alio modo. Secundum ordinem quidem secundum relationis esse est realitas quaedam naturae aut rationis 
+        <lb ed="#Bb" n="12"/>qua habet ab alio esse: &amp; secundum illud habet vlterius ad aliud esse: &amp; hoc modo per se vel per accidens. se 
+        <lb ed="#Bb" n="13"/>cundum enim quod dicit Commnet. super. x. meta. relatiuum est duobus modis: quorum vnus est relatiuum 
+        <lb ed="#Bb" n="14"/>per se, &amp; alius per aliud. scilicet quia aliud comparatur ad ipsum. Sensatum enim &amp; intellectus sunt relatiua: quia intel 
+        <lb ed="#Bb" n="15"/>lectus &amp; sensus sunt relatiua. Sed realitas illa non est propria praedicamento relationis: nec habet eam rela 
+        <lb ed="#Bb" n="16"/>tio a ratione sui praedicamenti: sed solummodo ab aliis praedicamentis, super quae fundatur totum prae- 
+        <lb ed="#Bb" n="17"/>dicamentum relationis, &amp; a quibus oritur &amp; causatur: &amp; per quae etiam distinguitur secundum genus &amp; spe 
+        <lb ed="#Bb" n="18"/>ciem &amp; numerum in contenta sub se, vt similiter alias declarauimus, &amp; amplius declarabitur infe 
+        <lb ed="#Bb" n="19"/>rius. Ad quam distinctionem pertinet differentia inter relationes secundum rem &amp; secundum rationem, quae sunt rela- 
+        <lb ed="#Bb" n="20"/>tiones per se. Appellantur enim relationes secundum rem illae quae totaliter &amp; completiue habent esse &amp; causari 
+        <lb ed="#Bb" n="21"/>ab aliquo quod naturaliter &amp; realiter habet esse in subiecto siue relato super quod fundatur in illo, vt paterni 
+        <lb ed="#Bb" n="22"/>tas in patre super potentiam actiuam eius, quod est formale in illo: &amp; filiatio in filio super potentiam passi- 
+        <lb ed="#Bb" n="23"/>uam, quod est materiale in illo, vel quasi materiale. Propter quod talis relatio dicitur realis realitate na- 
+        <lb ed="#Bb" n="24"/>turae. Appellantur autem relationes secundum rationem illae quae totaliter aut saltem completiue habent 
+        <lb ed="#Bb" n="25"/>esse &amp; causari a consideratione rationis secundum modum iam exponendum: non autem ab eo quod naturali- 
+        <lb ed="#Bb" n="26"/>ter &amp; realiter habet esse in subiecto relato. Propter quod talis relatio dicitur rationalis: &amp; non realis simpliciter 
+        <lb ed="#Bb" n="27"/>sed re rationis tantum. Et sumitur differentia ista ex dicto illo Philosophi. v. metaphy. Omnia quae dicum 
+        <lb ed="#Bb" n="28"/>tur modo numeri &amp; potentiae, sunt relatiua: quia essentia eorum dicitur ad aliquid: &amp; non quia aliud  
+        <lb ed="#Bb" n="29"/>dicitur ad illa. Et (vt dicit Commen. intendebat quod relatio duobus modis est: aut in substantia vtriusque  
+        <lb ed="#Bb" n="30"/>relatiuorum: aut in substantia alterius, &amp; in alterum propter istud scilicet in cuius substantia est per se. Est 
+        <lb ed="#Bb" n="31"/>autem relatio in substantia vtriusque relatiuorum quando relatiua habent in se realiter super quod funda 
+        <lb ed="#Bb" n="32"/>tur relatio: &amp; ex hoc essentia illorum dicitur ad aliquid dici. Propter quod relatiua etiam dicuntur rea 
+        <lb ed="#Bb" n="33"/>liter referri adinuicem: &amp; relationes eorum esse reales, vt contingit in actiuis &amp; passiuis, &amp; illis quae  
+        <lb ed="#Bb" n="34"/>sunt modo numeri: aut in altero tantum, vt in mensurato, quod realiter &amp; relatione reali refertur ad mensuram 
+        <lb ed="#Bb" n="35"/>&amp; non mensura ad illud nisi quia illud refertur ad mensuram. Non enim in mensura est quo referatur ad mensu 
+        <lb ed="#Bb" n="36"/>ratum: sed solummodo in consideratione intellectus: qua mensura refertur ad ipsum sub ratione mensurati 
+        <lb ed="#Bb" n="37"/>consideratum econverso id quod est mensura referri ad mensuratum sub ratione mensurantis. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e295">
+        ⁋ Ad quaestionem 
+        <lb ed="#Bb" n="38"/>igitur descendendo dico quod relationes communes quando fundantur ex natura rei in subiectis &amp; fundamentis e 
+        <lb ed="#Bb" n="39"/>suis: tunc sunt reales: vt contingit vniversale in creaturis quo ad aequalitatem &amp; similitudinem &amp; quo ad iden  
+        <lb ed="#Bb" n="40"/>titatem specie aut genere. Quando autem non sunt in subiectis completiue nisi ex consideratione ratio 
+        <lb ed="#Bb" n="41"/>nis, vt contingit vniuersaliter in diuinis quo ad omne genus relationis communis, &amp; etiam in creatu 
+        <lb ed="#Bb" n="42"/>ris quo ad identitatem numeralem, secundum quod haec omnia declarabuntur inferius in sequentibus 
+        <lb ed="#Bb" n="43"/>tunc sunt relationes rationales. Et secundum hoc concedendae sunt duae vltimae rationes. 
+        <lb ed="#Bb" n="44"/>
+      </p>
+      <p xml:id="vn58an-fe52657-d1e314">
+        ⁋ Ad primum in oppositum, quod indiuidua sub eadem specie in quibus fundantur identitas 
+        <lb ed="#Bb" n="45"/>aequalitas &amp; similitudo non habent habitudinem neque ordinem essentialem inter se: quare nec illae relationes: Di 
+        <lb ed="#Bb" n="46"/>co quod indiuidua sub eadem specie dupliciter comparantur adinuicem. Vno modo vt simpliciter consideram l 
+        <lb ed="#Bb" n="47"/>tur secundum se. Alio modo vt continentur sub coni specie: &amp; in se illam partitam continent. Et primo modo nullum in  
+        <lb ed="#Bb" n="48"/>ter se habent ordinem &amp; habitudinem secundum Philosophous: nec fundantur super illa conmunes reales rela- 
+        <lb ed="#Bb" n="49"/>tiones dictae vt procedit obiectio. Secundo autem modo habent inter se habitudinem essentialeum. scilicet per 
+        <lb ed="#Bb" n="50"/>habitudinem essentialem convenientiae quam habent ambo ad communem speciem in qua sunt vnum specie 
+        <lb ed="#Bb" n="51"/>quod habent in se plurificatum secundum numerum. &amp; hoc modobene in creaturis fundantur super indiuidua 
+        <lb ed="#Bb" n="52"/>eiusdem speciei tales habitudines praedictae: &amp; hoc quia omnes causantur ab vno: non vt vnicum siue genere 
+        <lb ed="#Bb" n="53"/>siue specie, siue numero: sed vt vnum genere plurificatum est per vnum &amp; vnum secundum speciem: vel 
+        <lb ed="#Bb" n="54"/>vt vnum specie plurificatum est per vnum &amp; vnum secundum numerum: vel vt vnum numero secundum rem plurificatum 
+        <lb ed="#Bb" n="55"/>est per vnum &amp; vnum secundum rationem, vt inferius exponetur. Et per hunc modum relationes communes fundatae  
+   <!--401.xml-->
+        <pb ed="#Bb" n="193-v"/>
+        <lb ed="#Bb" n="1"/>in creaturis super vnum genere vel specie, bene possunt esse reales: licet fundatae super vnum nume 
+        <lb ed="#Bb" n="2"/>ro, semper sint rationales in creaturis sicut &amp; in diuinis. Relationes autem dictis contrarae scilicet diuer- 
+        <lb ed="#Bb" n="3"/>sitatis inaequalitatis &amp; dissimilitudinis, quae in solis creaturis inueniuntur, fundatae super multum: 
+        <lb ed="#Bb" n="4"/>quia ex natura ipsarum rerum semper fundantur in illis: semper sunt relationes secundum rem, secun- 
+        <lb ed="#Bb" n="5"/>dum quod haec inferius declarabuntur. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e355">
+        ⁋ Sed contra hoc arguitur ex eo quod dicit Porph. Genus ad species habitu 
+        <lb ed="#Bb" n="6"/>dinem habet. Species autem ad indiuidua nullam. Dico quod verum est loquendo de habitudine artificia 
+        <lb ed="#Bb" n="7"/>li: quia descendentes a genere vsque ad indiuidua, iubet Plato quiescere: ea videlicet de causa: quia de 
+        <lb ed="#Bb" n="8"/>indiuiduis non est ars neque scientia. Non autem verum est de habitudine naturali. naturalem enim habi- 
+        <lb ed="#Bb" n="9"/>tudinem habent indiuidua ad speciem: &amp; sunt vera subiecta naturae: licet non artis aut scientiae. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e366">
+        ⁋ Ad 
+        <lb ed="#Bb" n="10"/>secundum quod dictae relationes in diuinis sunt reales, quia verissime habent esse in illis: Dico quod rela- 
+        <lb ed="#Bb" n="11"/>tionum secundum rationem quaedam sunt omnino secundum rationem &amp; originaliter &amp; completiue: quaedam 
+        <lb ed="#Bb" n="12"/>etiam originaliter habent esse a rebus &amp; in rebus: sed completiue a ratione &amp; in ratione. Eorum autem 
+        <lb ed="#Bb" n="13"/>quae omnino sunt secundum rationem: quaedam sunt secundum rationem &amp; quo ad ipsos respectus relationum: &amp; 
+        <lb ed="#Bb" n="14"/>uo ad relata atque fundamenta relationum in relatis. Quaedam autem non quo ad relata aut fundamenta in  
+        <lb ed="#Bb" n="15"/>illis: sed solum quo ad respectus relationum oppositaru: &amp; hoc vniversaliquo ad respectus vtriusque relationum 
+        <lb ed="#Bb" n="16"/>oppositarum seu in diuersis seu in eodem, vel alterius tantum. Primo modo secundum rationem sunt re- 
+        <lb ed="#Bb" n="17"/>lationes non entium inter se: vel non entis ad ens. Quae naturam habent entitatis secundo modo, sunt 
+        <lb ed="#Bb" n="18"/>relationes secundum rationem quo ad respectus vtriusque relationum oppositarum, vel quo ad alterum 
+        <lb ed="#Bb" n="19"/>tantum. Primo modo relationes oppositae habent esse in diuersis. vt si aliquis habeat vnam columnam a dextri 
+        <lb ed="#Bb" n="20"/>suis, &amp; aliam a sinistris: comparando illas columnas inter se secundum ordinem quem habent ad de- 
+        <lb ed="#Bb" n="21"/>xtrum &amp; ad sinistrum in animali, vna dicetur dextra alteri respectu alterius: &amp; altera econuerso si- 
+        <lb ed="#Bb" n="22"/>nistra. In eodem autem habent esse huiusmodi relationes dupliciter: vel in ordine ad eundem: quemadmodum  
+        <lb ed="#Bb" n="23"/>imago hominis habet in se dextrum &amp; sinistrum in ordine &amp; consideratione ad dextrum &amp; sini- 
+        <lb ed="#Bb" n="24"/>strum in homine cuius est imago: vel in ordine ad diuersos: quemadmodum columna existens inter 
+        <lb ed="#Bb" n="25"/>duos homines dextra est in ordine ad vnum: &amp; sinistra ad alium: &amp; sic in se habet secundum ratio 
+        <lb ed="#Bb" n="26"/>nem &amp; dextrum &amp; sinistrum. Quo ad respectum alterius relationum oppositarum tantum, sunt relatio 
+        <lb ed="#Bb" n="27"/>nes omnino secundum rationem dupliciter. Quia quaedam sunt secundum rationem quia alterum est ad 
+        <lb ed="#Bb" n="28"/>ipsum secundum rem: quemadmodum mensura dicitur relatiue ad mensuratum quia mensuratum dicitur ad illam se 
+        <lb ed="#Bb" n="29"/>cundum rem: &amp; sicut scibile ad scientiam quia scientia dicitur ad scibile secundum rem. Quaedam vero sunt secundum  
+        <lb ed="#Bb" n="30"/>rationem non quia alterum dicatur ad ipsum secundum rem: sed quia consideratur in ordine ad illud quod est secundum  
+        <lb ed="#Bb" n="31"/>rem: quemadmodum columna quae est a dextris animalis, dicitur animali sinistra, &amp; dicitur relatiue ad dextrum anima 
+        <lb ed="#Bb" n="32"/>lis: &amp; econverso animal dextro suo dicitur secundum rationem relatiue ad sinistrum columnae: quia illud secundum  
+        <lb ed="#Bb" n="33"/>rationem dicitur ad animalis dextrum, quod relatiue dicitur ad sinistrum in eodem secundum rem. Et sunt omnes istae relatio 
+        <lb ed="#Bb" n="34"/>nes secundum ronem totaliter: &amp; verum est de omnibus istis quod non habent nisi diminutam rationem esse siue 
+        <lb ed="#Bb" n="35"/>entis: sed de numero talium non sunt relationes communes in deo: quia omnes originaliter habent esse in  
+        <lb ed="#Bb" n="36"/>re quae est natura diuina: &amp; ab ipsa: sed completiue a ratione. Hoc enim modo idem in deo originaliter fundatur 
+        <lb ed="#Bb" n="37"/>super naturam diuinam inquantum substantia habilis est &amp; apta naturaliter vt circa ipsam conside 
+        <lb ed="#Bb" n="38"/>retur personarum identitas: &amp; similiter fundatur in ipso aequale super quantitatem, simile super qualitatem, siue super 
+        <lb ed="#Bb" n="39"/>diuinam naturam inquantum est quantitas &amp; quaelitas. Propter quod tales relationes in deo licet habeant esse di 
+        <lb ed="#Bb" n="40"/>minutum quo ad suum esse completum: quia habent illud a ratione &amp; in ratione tantum: tamen inquantum originaliter habent 
+        <lb ed="#Bb" n="41"/>esse suum a natura rei, verissime habent esse in deo: &amp; verius, licet in eo sint tantum rationales, quam habeant 
+        <lb ed="#Bb" n="42"/>esse in creaturis, in quibus sunt omnino reales: quanto verius in deo quam in creaturis habet esse natu- 
+        <lb ed="#Bb" n="43"/>ra &amp; vnitas ipsius naturae habens rationem substantiae quantitatis &amp; qualitatis, in qua originaliter fun 
+        <lb ed="#Bb" n="44"/>dantur. &amp; per hoc quoquo modo originaliter habent esse a natura rei, &amp; quodammodo sunt relationes secun 
+        <lb ed="#Bb" n="45"/>dum rem: aut eis multum vicinantur: &amp; mendiae sunt inter illas quae omnino sunt reales, &amp; illas quae omnino sunt 
+        <lb ed="#Bb" n="46"/>rationales: &amp; quo ad hoc relationes communes verissime habent esse in deo: &amp; esset haereticus censen 
+        <lb ed="#Bb" n="47"/>dus qui negaret identitatem, aequalitatem, aut similitudinem diuinarum personarum: sicut qui ne 
+        <lb ed="#Bb" n="48"/>garet eius substantiam magnitudinem aut bonitatem: licet completiue sint rationales: &amp; quo ad  
+        <lb ed="#Bb" n="49"/>hoc verius habent esse in creaturis in quibus sunt reales, quam in deo. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e455">
+        ⁋ Per idem patet responsio ad ter 
+        <lb ed="#Bb" n="50"/>tium quod aequalitas est adoranda: &amp; eadem ratione similitudo &amp; identitas: quare sunt res aut reale 
+        <lb ed="#Bb" n="51"/>quid. Dicendum quod verum est inquantum ortum habent originaliter a re. Aliter autem non: quia 
+        <lb ed="#Bb" n="52"/>completiue sunt rationales, per quod distinguuntur contra omnino reales. Relationes enim secundum 
+        <lb ed="#Bb" n="53"/>rem &amp; secundum rationem distinguimus secundum esse suum completiuum. Propter quod relationes cones in 
+        <lb ed="#Bb" n="54"/>diuinis non dicimus reales: quia completiue sunt a ratione. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e468">
+        ⁋ Ad quartum, quod relationes secundum ra- 
+        <lb ed="#Bb" n="55"/>tionem non conueniunt deo nisi ex nouo &amp; ex tempore: istae autem conueniunt ei ab aeterno: Dico quod  
+   <!--402.xml-->
+        <pb ed="#Bb" n="194-r"/>
+        <lb ed="#Bb" n="1"/>omnes relationes quae deo conveniunt per se siue secundum rem siue secundum rationem, ab aeterno ei conuene 
+        <lb ed="#Bb" n="2"/>runt. Sed in illis quae sunt in eo secundum rationem, bene contingit noua nominatio ex tpere iuxta realem 
+        <lb ed="#Bb" n="3"/>nouitatem in creatura, secundum quod hoc alias satis declarauimus. Et sic non est verum quod per istam 
+        <lb ed="#Bb" n="4"/>distinctionem ab aeterno &amp; ex tempore siue de nouo distinguantur secundum rem &amp; secundum rationem. 
+      </p>
+      <p xml:id="vn58an-fe52657-d1e486">
+        <lb ed="#Bb" n="5"/>⁋ Per idem patet ad quintum, quod dictae relationes non possunt deo adesse &amp; abesse sicut possunt rela- 
+        <lb ed="#Bb" n="6"/>tiones secundum rationem. Dicendum quod nulla relationum adintra vnquam in deo potuit ei abesse: nec vnquam ei  
+        <lb ed="#Bb" n="7"/>abfuit aliqua quam haberet adextra aut abesse potuit: sed verum est quod nominatio quam habet aut ha-  
+        <lb ed="#Bb" n="8"/>buit potest &amp; potuit ei abesse. &amp; sic neque etiam penes talem distinctionem distinguuntur in deo re 
+        <lb ed="#Bb" n="9"/>lationes secundum rem &amp; secundum rationem. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

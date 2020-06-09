@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="251-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe68615"> <!-- alias="vn58an-a71q2" -->
+      <head xml:id="vn58an-fe68615-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe68615-d1e107">
+        <lb ed="#Bb" n="15"/>CIrca secundum arguitur quod in diuinis non sit plena perfecta &amp; omnimoda si- 
+        <lb ed="#Bb" n="16"/>militudo: Primo sic. Non est plena perfecta &amp; omnimoda similitudo in aliqui- 
+        <lb ed="#Bb" n="17"/>bus nisi sit in omnibus illis comparatis inter se: puta in. x. hominibus nisi sit in  
+        <lb ed="#Bb" n="18"/>singulis comparatis ad singulos. sed non est similitudo in omnibus quae sunt in  
+        <lb ed="#Bb" n="19"/>diuinis comparatis inter se. Non enim est similitudo deitatis ad bonitatem: ne 
+        <lb ed="#Bb" n="20"/>quod bonitatis ad veritatem: neque paternitatis ad filiationem: &amp; sic de caeteris tali- 
+        <lb ed="#Bb" n="21"/>bus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe68615-d1e125">
+        ⁋ Secundo sic. Non est plena perfecta &amp; omnimoda similitudo in aliquibus qua ali- 
+        <lb ed="#Bb" n="22"/>qua maior est in aliis: aut nata est esse. Sed maior est aut nata est esse similitudo in personis crea- 
+        <lb ed="#Bb" n="23"/>tis comparatis inter se quam in personis diuinis. sed personae creatae semper similes sunt secundum ra- 
+        <lb ed="#Bb" n="24"/>tionem formae substantialis: &amp; sunt aut natae sunt esse similes secundum rationem formae acciden 
+        <lb ed="#Bb" n="25"/>talis: puta Petrus &amp; Paulus sunt similes secundum humanitatem: &amp; similes nati sunt esse secun- 
+        <lb ed="#Bb" n="26"/>dum bonitatem &amp; sapientiam. personae autem diuinae puta pater &amp; filius solummodo sunt &amp; na- 
+        <lb ed="#Bb" n="27"/>tae sunt esse similes secundum rationem formae accidentalis: non autem secundum rationem formae 
+        <lb ed="#Bb" n="28"/>substantialis. Non enim dicimus quod sunt similes deitate: sed solummodo bonitate: sapientia: &amp; hu- 
+        <lb ed="#Bb" n="29"/>iusmodi: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe68615-d1e145">
+        ⁋ Ad idem tertio posset adduci ratio quarta adducta in secunda quaestione de aequa a 
+        <lb ed="#Bb" n="30"/>litate, consimilis isti quaestioni. sicut enim inaequalitas est de ratione perfectionis creaturae: sic &amp; dis 
+        <lb ed="#Bb" n="31"/>similitudo. 
+      </p>
+      <p xml:id="vn58an-fe68615-d1e153">
+        ⁋ In contrarium est argumentum adductum ad contrariam partem in dicta quaestio- 
+        <lb ed="#Bb" n="32"/>ne. 
+      </p>
+      <p xml:id="vn58an-fe68615-d1e158">
+        ⁋ Praeterea similitudo secundum eandem qualitatem numero necessario est omnimode plena 
+        <lb ed="#Bb" n="33"/>&amp; perfecta: quia nullo modo &amp; in nullo potest habere defectum similitudinis. similitudo in diui- 
+        <lb ed="#Bb" n="34"/>nis est huiusmodi: secundum praedeterminata. ergo &amp;c. 
+        <lb ed="#Bb" n="35"/>
+      </p>
+      <p xml:id="vn58an-fe68615-d1e167">
+        ⁋ Dico iuxta dicta in principio solutionis secundae quaestionis de aequalitate prae 
+        <lb ed="#Bb" n="36"/>missae: quod illa plene perfecte &amp; omnimode sunt similia quae sunt similia quo ad omnia existentia &amp; 
+        <lb ed="#Bb" n="37"/>nata existere similia in eis: &amp; similiter secundum omnia existentia &amp; nata existere similia in eis se- 
+        <lb ed="#Bb" n="38"/>cundum quae nata sunt existentia in eis esse similia: &amp; secundum quae tantum sunt similia quae eis 
+        <lb ed="#Bb" n="39"/>nata sunt esse similia, quantum secundum illa nata sunt aliqua esse similia. Quare cum secundum su- 
+        <lb ed="#Bb" n="40"/>perius determinata, quaecunque sunt similia solum sunt similia secundum qualitatem existentem 
+        <lb ed="#Bb" n="41"/>in eis: secundum omnem autem qualitatem existentem in diuinis quaecumque in diuinis nata sunt esse 
+        <lb ed="#Bb" n="42"/>similia secundum illa sunt similia, &amp; tantum similia quantum secundum qualitatem aliqua nata sunt 
+        <lb ed="#Bb" n="43"/>esse similia: necessarium est igitur ponere quod in diuinis sit perfecta plena &amp; omnimoda &amp; sic summa 
+        <lb ed="#Bb" n="44"/>similitudo. vt declarat dictum <name ref="#Augustine">Augustinus</name> inductum in primo argumento proposito ad hoc ex quaestio 
+        <lb ed="#Bb" n="45"/>ne secunda de aequalitate. Cuius causa &amp; ratio est eadem qualitas singularis in similibus, vt pro- 
+        <lb ed="#Bb" n="46"/>cedit argumentum secundum. 
+        <lb ed="#Bb" n="47"/>
+      </p>
+      <p xml:id="vn58an-fe68615-d1e199">
+        ⁋ Quod arguitur primo in contrarium, quod non est plena perfecta &amp; omnimoda 
+        <lb ed="#Bb" n="48"/>similitudo in diuinis: quia non est similitudo in omnibus quae sunt in diuinis comparatis inter se: 
+        <lb ed="#Bb" n="49"/>Dico quod omnino similitudo est in omnibus existentibus vel natis existere in diuinis in quibus na- 
+        <lb ed="#Bb" n="50"/>ta est existere similitudo: quae sunt illa solummodo in quibus nata est existere qualitas spiritualis, 
+        <lb ed="#Bb" n="51"/>secundum quam nata est existere similitudo in diuinis: cuiusmodi sunt personae tantummodo. Bonitas enim 
+        <lb ed="#Bb" n="52"/>&amp; sapientia, fortitudo, potestas, pulchritudo, &amp; decor, &amp; huiusmodi quae sunt diuinae qualitates, 
+   <!--517.xml-->
+        <pb ed="#Bb" n="251-v"/>
+       <!--517.xml-->
+            <pb ed="#Bb" n="251-v"/>
+        <lb ed="#Bb" n="1"/>solummodo habent esse in personis ipsas denominando quales: quaelibet enim diuinarum persona 
+        <lb ed="#Bb" n="2"/>rum bona est &amp; sapiens &amp; caetera huiusmodi: non autem in eis quae sunt aliquid personae vel personarum 
+        <lb ed="#Bb" n="3"/>Non enim dicimus proprie quod deitas, paternitas, filiatio &amp; caeterorum aliquod est sapiens: fortis, &amp; caetera hu 
+        <lb ed="#Bb" n="4"/>iusmodi: nec quod sapientia est bona, fortis &amp; caetera huiusmodi. &amp; sic de caeteris talibus. Dico autem quod non 
+        <lb ed="#Bb" n="5"/>proprie dicimus in diuinis quod sapientia est bona aut magnitudo aut aliquod talium: &amp; hoc inquan  
+        <lb ed="#Bb" n="6"/>tum illa bonitas nominat qualitatem. Sed bonitas inquantum nominat id quod pertinet ad rationem 
+        <lb ed="#Bb" n="7"/>perfectionalem in essentia deitatis, nominat omnia quae sunt in diuinis, scilicet prout bonitas est no 
+        <lb ed="#Bb" n="8"/>men bonitatis naturae non moris. Dicitur enim bene quod deitas est bona: quod sapientia est bona: &amp; sic 
+        <lb ed="#Bb" n="9"/>de omnibus quae sunt in diuinis: sicut dicitur de omnibus quae sunt ens bonum, cum verum &amp; ens 
+        <lb ed="#Bb" n="10"/>in vnoquoque conuertuntur: non sic autem bonum quod habet rationem moris, dicitur de omnibus 
+        <lb ed="#Bb" n="11"/>quae sunt in diuinis. Similiter verum &amp; ens &amp; bonum conuertuntur: non autem verum quod ha-  
+        <lb ed="#Bb" n="12"/>bet rationem moris. &amp; sic de pulchro, &amp; caeteris huiusmodi: siquae sunt in diuinis alia, secundum 
+        <lb ed="#Bb" n="13"/>quae aliqua in diuinis non sunt nata dici similia vno modo: &amp; secundum quae aliqua nata sunt di 
+        <lb ed="#Bb" n="14"/>ci similia alio modo. Licet ergo non sit similitudo in talibus attributis comparatis inter se postquam 
+        <lb ed="#Bb" n="15"/>non est nata inesse illis qualitas, secundum quam solam nata sunt dici similia quaecunque sunt similia, 
+        <lb ed="#Bb" n="16"/>aut nata sunt esse similia in diuinis, hoc in nullo impedit perfectam similitudinem esse in diuinis:  
+        <lb ed="#Bb" n="17"/>postquam perfecta similitudo in diuinis est in illis quibus inest qualitas: secundum quam nata sunt ali- 
+        <lb ed="#Bb" n="18"/>qua dici similia in diuinis: vt sunt solae personae, prout declarabitur in quarta quaestione sequenti. 
+        <lb ed="#Bb" n="19"/>
+      </p>
+      <p xml:id="vn58an-fe68615-d1e262">
+        ⁋ Ad secundum quod non est plena perfecta &amp; omnimoda similitudo in diuinis: quia maior nata est esse 
+        <lb ed="#Bb" n="20"/>imilitudo in personis creatis inter se quam in diuinis: dico quod falsum est &amp; impossibile, quia in perso- 
+        <lb ed="#Bb" n="21"/>nis creatis diuersis nullo modo possibile est esse eandem qualitatem numero: sicut est in personis 
+        <lb ed="#Bb" n="22"/>diuinis: &amp; quanto est maior vnitas in eo secundum quod est similitudo aequalitas aut identitas, tanto 
+        <lb ed="#Bb" n="23"/>similitudo aequalitas aut identitas est maior. Potest tamen esse verum quod secundum plura sunt similes personae crea 
+        <lb ed="#Bb" n="24"/>tae quam increatae, vt procedit vlterius obiectio. Personae enim diuinae secundum rationem formae substantialis, pu 
+        <lb ed="#Bb" n="25"/>ta deitatis, non dicuntur similes: sed solummodo secundum rationem formae quasi accidentalis: pu- 
+        <lb ed="#Bb" n="26"/>ta bonitatis, sapientiae, &amp; huiusmodi. Personae vero creatae secundum rationem vtriusque formae dicun- 
+        <lb ed="#Bb" n="27"/>tur similes propter causam iam dictam in solutione secundi argumenti quaestionis praecedentis. 
+        <lb ed="#Bb" n="28"/>Sed non sequitur, si aliqua secundum plura sunt similia quam alia, quae quidem similia non sunt nata 
+        <lb ed="#Bb" n="29"/>esse similia secundum tot: tamen eo vno quo sunt similia perfectius sunt similia, quam alia aliqua eo- 
+        <lb ed="#Bb" n="30"/>rum quibus similantur, sunt similia: quod illa quae secundum plura sunt similia magis sunt similia quam  
+        <lb ed="#Bb" n="31"/>illa sunt similia quae similia sunt secundum vnicum tantum. 
+      </p>
+      <p xml:id="vn58an-fe68615-d1e291">
+        ⁋ Ad tertium quod non est omnimo-  
+        <lb ed="#Bb" n="32"/>da similitudo in diuinis, quia in ipsis est aliqua dissimilitudo: dico quod falsum est. Ad probatio- 
+        <lb ed="#Bb" n="33"/>nem autem eius quod dissimilitudo est de ratione perfectionis simpliciter in creaturis: Dico quod hoc si 
+        <lb ed="#Bb" n="34"/>militer falsum est. Ad probationem autem illius quod si non esset dissimilitudo in creaturis non esset 
+        <lb ed="#Bb" n="35"/>perfectio in illis: Dico quod etsi hoc verum sit: tamen non sequitur ex hoc quod dissimilitudo habeat ra- 
+        <lb ed="#Bb" n="36"/>tionem perfectionis simpliciter: quia hoc in creaturis contingit propter creaturae imperfectio- 
+        <lb ed="#Bb" n="37"/>nem: vt dictum est supra de inaequalitate. Quia enim vna creatura secundum speciem quae omnimo 
+        <lb ed="#Bb" n="38"/>dam similitudinem haberet in suis suppositis, capere non potest totam perfectionem quae nata est 
+        <lb ed="#Bb" n="39"/>esse in toto genere creaturarum, ideo oportuit ad perfectionem vniuersi ex creaturis constituti dis 
+        <lb ed="#Bb" n="40"/>similes secundum qualitates rationales &amp; accidentales institui creaturas quae in se habere possent 
+        <lb ed="#Bb" n="41"/>diuersos gradus perfectionum. Nunc autem quaelibet diuina persona totam perfectionem quae na 
+        <lb ed="#Bb" n="42"/>ta est esse in diuinis, in se capere potest. Propter quod ad perfectionem diuinarum personarum perti- 
+        <lb ed="#Bb" n="43"/>net quod in eis sit persecta similitudo absque omni dissimilitudine.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="2-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe307d"> <!-- alias="vn58an-a41q2" -->
+      <head xml:id="vn58an-fe307d-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe307d-d1e107">
+        <lb ed="#Bb" n="7"/>CIrca secundum arguitur: quod deus non potest dici summe bonus, quoniam summum dicit 
+        <lb ed="#Bb" n="8"/>gradum determinatum eminentiae in eo cui additur. sed deo non conuenit esse bonum 
+        <lb ed="#Bb" n="9"/>secundum aliquem gradum boni determinatum: quia est bonus secundum rationem omnis gra-  
+        <lb ed="#Bb" n="10"/>dus bonitatis: quia (vt dictum est iam) ipse est omnis boni bonum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe307d-d1e118">
+        ⁋ Secundo  
+        <lb ed="#Bb" n="11"/>sic. bonum quod habet recipere additionem vt fiat melius, non est summum bonum simplici 
+        <lb ed="#Bb" n="12"/>ter. bonum autem diuinum est huiusmodi: quia addito ei bono creaturae melius est vtrumque si- 
+        <lb ed="#Bb" n="13"/>mul quam per se alterum tantum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe307d-d1e127">
+        ⁋ Tertio sic. bonum illud gloriosius &amp; laudabi  
+        <lb ed="#Bb" n="14"/>lius habetur quod habetur voluntatis libertate quam naturae necessitate. dicente Hieronysius. in Homil. super Mis 
+        <lb ed="#Bb" n="15"/>sus est angelus. Angelicam gloriam quaerere maius est quam habere: dum hoc homo viribus habere niti 
+        <lb ed="#Bb" n="16"/>tur quod habet angelus ex natura. &amp; loquitur de castitate virginali. Et Philosophous dicit. ii. Ethicorum quod eis quae 
+        <lb ed="#Bb" n="17"/>insunt nobis a natura, neque laudamur neque vituperamur, sicut eis quae nobis insunt voluntate.  
+        <lb ed="#Bb" n="18"/>Deo autem inest bonum naturae necessitate, non voluntatis libertate: quia non est bonus quia libere vult 
+        <lb ed="#Bb" n="19"/>bonum, sed econuerso quia est bonus, ideo libere vult bonum. Deus ergo non habet bonum quemadmo-  
+        <lb ed="#Bb" n="20"/>dum gloriosius &amp; laudabilius haberi potest. sed tale non est summum bonum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe307d-d1e146">
+        ⁋ In contrarium  
+        <lb ed="#Bb" n="21"/>est illud <ref xml:id="vn58an-fe307d-Rd1e150">
+        <name ref="#Augustine">Augustinus</name> primo de trinitate. ca. ii.</ref> Suscipiemus quantum possumus reddere rationem quod trinitas sit 
+        <lb ed="#Bb" n="22"/>vnus solus &amp; verus deus. &amp; infra. Et esse illud summum bonum quod purgatissimis mentibus cernitur 
+        <lb ed="#Bb" n="23"/>
+      </p>
+      <p xml:id="vn58an-fe307d-d1e161">
+        ⁋ Dicendum ad hoc, quod summum secundum aliquam speciem aut formam dicitur ali 
+        <lb ed="#Bb" n="24"/>quid vel aliquis dupliciter: aut comperatiue: aut simpliciter &amp; absolute. Et comparatiue dupliciter: 
+        <lb ed="#Bb" n="25"/>aut comparatione, propria, aut impropria. Primo modo deus non potest dici summe bonus: quia bonitas non est 
+        <lb ed="#Bb" n="26"/>vniuoce &amp; secundum eandem rationem in deo &amp; in creaturis, sicut neque sapientia aut aliquod aliorum, vt 
+        <lb ed="#Bb" n="27"/>infra videbitur loquendo de diuinis praedicationibus: &amp; habitum est supra. Comperatio autem proprie dicta non est ni 
+        <lb ed="#Bb" n="28"/>si in vere vniuocis, vt vult <ref xml:id="vn58an-fe307d-Rd1e174">Philosophus. vii. phyii.</ref> Secundo autem modo comparationis deus dicitur summe bonus: quia 
+        <lb ed="#Bb" n="29"/>excedit omnem creaturam in analogica bonitate: quemadmodum quodammodo substantia dicitur summe ens re- 
+        <lb ed="#Bb" n="30"/>spectu accidentium. In analogo enim sit aliquo modo comparatio, licet non in aequiuoco. Nullo enim modo reci 
+        <lb ed="#Bb" n="31"/>pitur comparatio qua dicitur quod vox est albior colore: quia pure aequoce dicitur album in voce &amp; album in colo 
+        <lb ed="#Bb" n="32"/>re. secundum <name ref="#Aristotle">Philosophum</name> in Top. Sed ex tali comparatione non intelligitur immensitas suae bonitatis propter quam dici 
+        <lb ed="#Bb" n="33"/>tur summe bonus: quia etsi esset bonum in determinato gradu finitum, adhuc esset summe bonus in compera 
+        <lb ed="#Bb" n="34"/>tione. Vnde inquirendum est quom dicendus sit summe bonus simpliciter &amp; absolute. Loquendo igitur de sum. 
+        <lb ed="#Bb" n="35"/>mo simpliciter &amp; absolute, dicimus quod deus propriissime dicitur summe bonus dupliciter, &amp; quantitatiue, &amp; 
+        <lb ed="#Bb" n="36"/>qualitatiue. Quantitatiue, tum ex parte ipsius bonitatis, tum ex parte habentis eam. Ex parte ipsius bonitatis: quia in se 
+        <lb ed="#Bb" n="37"/>habet omne bonum &amp; omnem rationem &amp; gradum perfectionis in bono, vt videbitur infra. Ex parte habentis bonitatem: quia infini 
+        <lb ed="#Bb" n="38"/>tas quasi capacitatis suae omni bono repleta est. &amp; sic quantitatiue dicitur summe bonus: quemadmodum  
+        <lb ed="#Bb" n="39"/>vas diceretur summe plenum liquore aliquo, quod tantum esset repletum quod non restaret neque ex parte capien- 
+        <lb ed="#Bb" n="40"/>tis quod posset plus capere: neque ex parte recepti quod recipi posset. Dicitur etiam deus summe bonus quali 
+        <lb ed="#Bb" n="41"/>tatiue: &amp; hoc dupliciter: tum ex parte ipsius bonitatis habitae: tum ex parte modi habendi. Ex parte boni 
+        <lb ed="#Bb" n="42"/>tatis habitae: quia alterius rationis &amp; in infinitum eminentioris est bonitas illa quae est in deo: quam sit illa quae  
+        <lb ed="#Bb" n="43"/>est in creaturis. Similiter quaelitatiue deus dicendus est esse summe bonus ex parte modi habendi: &amp; hoc 
+        <lb ed="#Bb" n="44"/>tam ex parte modi habendi bonitatem naturalem quae consistit in essentia rei creatae qua perficitur in esse, quam boni 
+        <lb ed="#Bb" n="45"/>tatem quasi superadditam qua perficitur quasi in bene esse. Prima enim bonitas etsi consistat in natura &amp; es 
+        <lb ed="#Bb" n="46"/>sentia rei tam creatae quam increatae: quia omne quod est, inquantum est per suam essentiam siue essentialiter, bo 
+        <lb ed="#Bb" n="47"/>num est, vt probat <name ref="#Boethius">Boethius</name>  libro de hebd. nihilominus tamen vt determinat in eodem, quia creaturae esse suum 
+        <lb ed="#Bb" n="48"/>&amp; bonitatem habent ab alio: ideo creaturae participatione bonae sunt, Deus autem quia ex seipso habet esse bonus:  
+        <lb ed="#Bb" n="49"/>quemadmodum ex seipso habet esse. secundum modum supra determinatum: ideo solus essentialiter bonus est: &amp; ideo 
+        <lb ed="#Bb" n="50"/>lumme. Secunda vero bonitas etsi in creaturis re differat a prima, in deo sola ratione differt: &amp; ideo in deo 
+        <lb ed="#Bb" n="51"/>essentialis est, &amp; ex necessitate naturae: non ex aliqua sua actione aut dono alterius acquisita aut quasi ac 
+        <lb ed="#Bb" n="52"/>qusita. In creaturis autem habet esse acquisita ex dono &amp; gratia alterius, &amp; merito, propriae actionis. Nunc autem 
+        <lb ed="#Bb" n="53"/>in infinitum magis est &amp; nobilius habere bonitatem suam naturaliter &amp; absque vlla opeatione, quam opeatione 
+        <lb ed="#Bb" n="54"/>quantuncumque modica, quod enim eget operatione aliqua ad bonum suae perfectionis acquirendum: hoc venit ex defectu 
+   <!--19.xml-->
+        <pb ed="#Bb" n="2-v"/>
+        <lb ed="#Bb" n="1"/>rei &amp; imperfectione. dicente <ref xml:id="vn58an-fe307d-Rd1e246">
+        <name>Philosopho</name> in ii. cae. &amp; mundo.</ref> Res bona est completa existens absque opera- 
+        <lb ed="#Bb" n="2"/>tione qua acquirit bonitatem: &amp; res propinqua illi recipit eam opeatione vna parua: &amp; res login- 
+        <lb ed="#Bb" n="3"/>qua est res quae recipit eam operationibus multis. Et dat exemplum de sanitate in hominibus, quod quid 
+        <lb ed="#Bb" n="4"/>dam sunt sani absque omni operatione exercitii diaetae aut minutionis: quidam vero acquirunt sibi sans 
+        <lb ed="#Bb" n="5"/>tatem modico exercitio: quidam non nisi multis horum. Vnde homo propter imperfectionem naturae in genere in 
+        <lb ed="#Bb" n="6"/>telligentium, perfectam bonitatem qua supernaturaliter perficitur, &amp; appropinquat summo bono, non habet 
+        <lb ed="#Bb" n="7"/>nisi per multam operationem. Angelus vero quia superioris &amp; perfectioris naturae est, habet eam vnica ope 
+        <lb ed="#Bb" n="8"/>ratione: quia in primo actu suae conversionis ad deum. Deus autem quia est supremae &amp; perfectissimae naturae 
+        <lb ed="#Bb" n="9"/>integram hambens bonitatem, ideo habet eam absque omni opeatione qua sibi eam acquirat. Et ideo vere est 
+        <lb ed="#Bb" n="10"/>summe bonus naturae suae necessitate propter eius omnimodam perfectionem, vt perfectio naturae suae sit ra- 
+        <lb ed="#Bb" n="11"/>tio quae est bonus perfecta bonitate, non aliqua operatione voluntati in ipso, econtrario ei quod contingit in creaturis. 
+        <lb ed="#Bb" n="12"/>
+      </p>
+      <p xml:id="vn58an-fe307d-d1e277">
+        ⁋ Ad primum in oppositum: quod summum dicit gradum determinatum: Dicendum quod  
+        <lb ed="#Bb" n="13"/>gradus potest dici determinatus ex parte modi comparationis, vel ex parte rei comparatae. Primo mo- 
+        <lb ed="#Bb" n="14"/>do summum dicit semper gradum determinatuum scilicet superlatiuum. Secundo modo dicit gradum determi 
+        <lb ed="#Bb" n="15"/>natum in solis creaturis, in quibus comprabilia non habent esse nisi finitum: in deo autem nequaquam: quia 
+        <lb ed="#Bb" n="16"/>eius bonitas infinita est, vt infra patebit. 
+      </p>
+      <p xml:id="vn58an-fe307d-d1e288">
+        ⁋ Ad secundum quod bonum creaturae additum bono creatoris fa- 
+        <lb ed="#Bb" n="17"/>cit bonum melius: Dicendum quod non est verum: quia quod duo bona coniuncta faciant melius vtroque sepa- 
+        <lb ed="#Bb" n="18"/>to: hoc non contingit nisi in pure vniuocis bonis, quae sunt nata facere vnum vel vniri in aliquo vno 
+        <lb ed="#Bb" n="19"/>bono: quemadmodum melius est denarius argenteus cum denario cupreo quam alter per se: quia bonum praecii 
+        <lb ed="#Bb" n="20"/>vtriusque natum est vniri in precio denarii aurei: non autem in aequiuocis vel analogis: quae sic se habent 
+        <lb ed="#Bb" n="21"/>quod ratio vnius perfecte includitur in ratione alterius: qualia sunt bona creatoris &amp; creaturae, ex quibus non 
+        <lb ed="#Bb" n="22"/>est natum fieri vnum: quia non habent rationem vnam boni, neque nata sunt vniri in vna ratione boni: quem 
+        <lb ed="#Bb" n="23"/>admodum neque album in voce, &amp; album in colore: &amp; ideo non est albius vtrumque simul quam seorsum. Bo 
+        <lb ed="#Bb" n="24"/>num etiam creaturae perfecte includitur in bono creatoris: &amp; ideo non resultat aliquod melius ex ambobus quam est 
+        <lb ed="#Bb" n="25"/>solum bonum creatoris. Sicut econuerso bonum substantiae &amp; accidentis, licet sint analoga, simul 
+        <lb ed="#Bb" n="26"/>constituunt aliquod melius quam sit aliud per se: &amp; hoc ideo: quia ratio bonitatis accidentis non includitur 
+        <lb ed="#Bb" n="27"/>omnino in ratione bonitatis substantiae. 
+      </p>
+      <p xml:id="vn58an-fe307d-d1e314">
+        ⁋ Ad dissolutionem tertiae rationis sciendum, quod est duplex bo- 
+        <lb ed="#Bb" n="28"/>num in creaturis, vt dictum est supra. Vnum quod consistit in natura &amp; essentia rei: &amp; pertinet ad rei perfectio- 
+        <lb ed="#Bb" n="29"/>nem in suo esse primo substantiali. Alid quod est supadditum naturae &amp; essentiae: &amp; pertinet ad perfectio 
+        <lb ed="#Bb" n="30"/>nem in suo secundo accidentali, siue in suo bene esse. Propter quod, bonum primum est esse rei simpliciter 
+        <lb ed="#Bb" n="31"/>&amp; bonum secundum quid. Bonum vero secundum, est bonum rei simpliciter &amp; esse secundum quid. Bonum pri 
+        <lb ed="#Bb" n="32"/>mo modo inest cuilibet rei tam creatae quam increatae necessitate naturae: sed creatori ex se &amp; per essentiam 
+        <lb ed="#Bb" n="33"/>&amp; creaturae participatione, &amp; ab alio: &amp; ideo perfectius conuenit deo quam creaturae, vt dictum est. Bonum se 
+        <lb ed="#Bb" n="34"/>cundo modo in deo incidit in idipsum cum bono primo modo, quo ad modum habendi: &amp; differt 
+        <lb ed="#Bb" n="35"/>ab illo sola ratione nostri intellectus: &amp; habetur in deo sola necessitate naturae: &amp; est in ipso quasi 
+        <lb ed="#Bb" n="36"/>habitus naturalis voluntatis diuinae, inclinans ipsum ad volendum omne bonum, vt determinabi 
+        <lb ed="#Bb" n="37"/>tur infra: vt actus diuinae voluntatis non sit aliquo modo etiam secundum rationem nostri intelle- 
+        <lb ed="#Bb" n="38"/>ctus, ratio qua deus sit bonus: sed econuerso quod est bonus: est ratio suae voluntatis. Quia id cuius 
+        <lb ed="#Bb" n="39"/>voluntas est ratio, est quasi acquisitum bonum per voluntatis operationem. Nunc autem perfecti 
+        <lb ed="#Bb" n="40"/>us est bonum habere absque operatione qua acquirat illud sibi. hoc enim est de imperfectione: quod sibi 
+        <lb ed="#Bb" n="41"/>desit aliquid de sua perfectione in bene esse, vt dictum est secundum Philosophum. Et sic glo- 
+        <lb ed="#Bb" n="42"/>riosius &amp; laudabilius habet deus quod sit bonus ex necessitate naturae suae etiam de bono quod pertinet 
+        <lb ed="#Bb" n="43"/>quasi ad bene esse naturae, quam habeat creatura illud quacunque voluntatis operatione. Et de tali bo- 
+        <lb ed="#Bb" n="44"/>no quod pertinet in creaturis ad bene esse: &amp; in deo quasi ad bene esse, procedit obiectio. 
+      </p>
+      <p xml:id="vn58an-fe307d-d1e353">
+        ⁋ Ad quam di  
+        <lb ed="#Bb" n="45"/>cendum quod aliquid potest haberi libertate voluntatis vel propriae vel alienae. Si alienae: sic omnino per- 
+        <lb ed="#Bb" n="46"/>fectius &amp; nobilius gloriosius &amp; laudabilius habet id quod habet necessitate naturae propriae, quemad-  
+        <lb ed="#Bb" n="47"/>modum habetur bonum vtriusque modi a deo: quam id quod habetur libertate voluntatis alienae: quemadmodum  
+        <lb ed="#Bb" n="48"/>habetur bonum vtriusque modi a creaturis, quia a libera voluntate dei, vt infra videbitur. Si propriae 
+        <lb ed="#Bb" n="49"/>&amp; hoc quemadmodum in hominibus &amp; angelis habetur gloria merito voluntatis propriae cum gra 
+        <lb ed="#Bb" n="50"/>tia secundum fidem catholicam: vel quemadmodum secundum Philosophum, sola operatione pro- 
+        <lb ed="#Bb" n="51"/>pria illa quae sunt post bonum primum perfectum acqurunt sibi bonum suum perfectum: tunc distinguen 
+        <lb ed="#Bb" n="52"/>dum: quia aut bonum vtrunque (scilicet quod in vno habetur necessitate naturae, in alio vero volunta- 
+        <lb ed="#Bb" n="53"/>tis libertate) pertinet ad bene esse vel quasi: vel vnum in vno ad esse: aliud vero in alio ad bene esse. 
+        <lb ed="#Bb" n="54"/>Si primo modo: sic adhuc gloriosius habetur cum habetur necessitate naturae: &amp; est deus gloriosus iu 
+   <!--20.xml-->
+        <pb ed="#Bb" n="3-r"/>
+        <lb ed="#Bb" n="1"/>stus pius &amp; huiusmodi, necessitate naturae: quam creatura, quacumque operatione voluntatis. Et si sola voluntate 
+        <lb ed="#Bb" n="2"/>propria sibi bonum perfectum acquireret, sic etiam creatura angelica bonum pertinens ad suum bene esse, 
+        <lb ed="#Bb" n="3"/>quod habet a deo ex necessitate suae naturae, vt est habitus cognitiuus cognitione naturali, perfectius 
+        <lb ed="#Bb" n="4"/>habet illud &amp; gloriosius quam habet homo ex acquisitione. Vnde &amp; si angelus habitum gloriae haberet ne 
+        <lb ed="#Bb" n="5"/>cessitate naturae suae: sicut habet habitus scientiae naturalis: quem quidem habitum gloriae modo habet 
+        <lb ed="#Bb" n="6"/>ex gratia &amp; ex merito voluntatis propriae: multo gloriosius eum haberet quam habet modo: quia tunc es 
+        <lb ed="#Bb" n="7"/>set impeccabilis natura: quae multo dignior esset quam sit modo cum possit peccare: sed non esset eiusdem 
+        <lb ed="#Bb" n="8"/>naturae cum illa natura angelica quae modo est. Et forte natura creaturae non est capax talis perfectionis 
+        <lb ed="#Bb" n="9"/>secundum fidem catholicam, vt declarandum est loquendo de bonitate creaturae. Si vero bonum in vno quid  
+        <lb ed="#Bb" n="10"/>est ei necessitate naturae, pertineat ad esse: quod vero est in alio opeatione, propriae voluntatis, pertineat ad bene 
+        <lb ed="#Bb" n="11"/>esse: hoc modo gloriosius habetur in hominibus bonum virtutis &amp; gloriae quam in angelis bonum natu- 
+        <lb ed="#Bb" n="12"/>rae: &amp; hoc non propter modum habendi, sed propter rem habitam: quia bonum quod perficit in bene esse, habet ra 
+        <lb ed="#Bb" n="13"/>tionem boni simpliciter: quod vero perficit in esse, habet rationem boni secundum quid. De tali autem bono quod ha 
+        <lb ed="#Bb" n="14"/>betur necessitate naturae in angelo comparato ad bonum habitum libertate voluntatis in homine, loquum 
+        <lb ed="#Bb" n="15"/>tur Hieronys. &amp; Philosophus. Bonum enim castitatis virginalis in angelo pertinet ad bonum naturae: nec est 
+        <lb ed="#Bb" n="16"/>virtus in ipso: nec habet rationem virtutis: quia angelica natura vel voluntas nullo modo ordinatur 
+        <lb ed="#Bb" n="17"/>ad vitium contrarium illi in se suscipiendum, cuiusmodi est luxuria: quia dependet a corpore cui naturali 
+        <lb ed="#Bb" n="18"/>ter vnitur anima: &amp; est pure aequiuoca castitas illa in angelo &amp; in homine. Similiter bona naturalia 
+        <lb ed="#Bb" n="19"/>in homine omnino habentur ab alio: bonum autem virtutis aliquo modo ab opeatione propria. Propter quod  
+        <lb ed="#Bb" n="20"/>laus est homini a bono virtutis: nequaquam autem a bono naturae. Si vero bonum quod natum est acqui- 
+        <lb ed="#Bb" n="21"/>ri a duobus operatione voluntatis: vni daretur a deo cum operatione voluntatis: alteri autem sine opeatione 
+        <lb ed="#Bb" n="22"/>gloriosius haberetur ab eo qui haberet illud cum operatione voluntatis suae, quam qui sine. 
+        <lb ed="#Bb" n="23"/>lrca tertium arguitur: quod in deo sit ponere aliquod malum, Primo sic. nullus facit al- 
+        <lb ed="#Bb" n="24"/>teri malum nisi insit ei malum: quia non est malum nisi a malo. Deus facit alteri ma 
+        <lb ed="#Bb" n="25"/>um, quia dicitur Amos. iii. Non est malum in ciuitate quod non faciat domins. ergo &amp;c. 
+        <lb ed="#Bb" n="26"/>
+      </p>
+      <p xml:id="vn58an-fe307d-d1e439">
+        ⁋ Secundo sic. non praecipit mala nisi in quo est malum. quia a bono non procedunt praece  
+        <lb ed="#Bb" n="27"/>pta nisi bona. deus praecipit mala, quia dicitur Exe. xx. Dedit eis praecepta non bona. ergo &amp;c. 
+        <lb ed="#Bb" n="28"/>
+      </p>
+      <p xml:id="vn58an-fe307d-d1e446">
+        ⁋ Contra est. Deuter. xxxii, Deus fidelis &amp; absque vlla iniquitate. ergo non est in eo ali 
+        <lb ed="#Bb" n="29"/>quod malum culpae. Item nec malum poenae: quia immortalis &amp; impassibilis est. 
+        <lb ed="#Bb" n="30"/>
+      </p>
+      <p xml:id="vn58an-fe307d-d1e453">
+        ⁋ Dicendum ad hoc: quod cum non sit malum nisi culpae aut pecenae: &amp; vtrunque est ex 
+        <lb ed="#Bb" n="31"/>defectu boni, cuius priuatio est ipsum malum, &amp; hoc in aliobono permanente in ipsa: quia non ha- 
+        <lb ed="#Bb" n="32"/>bet esse malum nisi in bono, vt debet declarari loquendo de malo in creaturis: quia malum quod est 
+        <lb ed="#Bb" n="33"/>priuatio omnis boni, non est in rerum natura: sed illud est purum non esse: deus autem quia est summum bonum, &amp; 
+        <lb ed="#Bb" n="34"/>summe bonus, vt iam ostensum est, non habet in se alicuius boni priuationem aut defectum: sed ma 
+        <lb ed="#Bb" n="35"/>gis omnis boni perfectionem: Idcirco dicendum quod in deo nullum omnino est malum: nec solum non  
+        <lb ed="#Bb" n="36"/>habet: sed nec etiam habere potest: quia vt ostensum est: ipse est de necessitate bonus &amp; summe bonus, 
+        <lb ed="#Bb" n="37"/>vt nihil suae bonitatis &amp; perfectionis suae possit amittere: &amp; hoc quia non est in potentia ad hoc. Nullum 
+        <lb ed="#Bb" n="38"/>autem esse secundum perfectionem suam vltimam in quo non est aliquod in potentia: sequitur malum. Non enim 
+        <lb ed="#Bb" n="39"/>sequitur malum nisi hoc in cuius natura est aliquid in potentia, vt dicit Auicen. ix. metaphysicae suae 
+        <lb ed="#Bb" n="40"/>cap. lii. Et ideo (vt dicit ibidem) quia res non est in potentia nisi propter materiam, malum sequitur 
+        <lb ed="#Bb" n="41"/>materiam. Et quia materiam non posuit nisi in istis inferioribus: ideo dicit ibidem quod causae mali non  
+        <lb ed="#Bb" n="42"/>inueniuntur nisi in iis quae sunt sub circulo lunae. In quo non consentit ei fides: quia deus in ange- 
+        <lb ed="#Bb" n="43"/>lis suis reperit prauitatem, vt dicitur lob. iiii. 
+        <lb ed="#Bb" n="44"/>
+      </p>
+      <p xml:id="vn58an-fe307d-d1e486">
+        ⁋ Ad primum in oppositum dicendum: quod exponendo illud dictum Amos prophe 
+        <lb ed="#Bb" n="45"/>tae de malo culpae, illud dicitur facere permissiue non effectiue: quia fieri non posset nisi ipse per- 
+        <lb ed="#Bb" n="46"/>mitteret. sed quod permittit, iuste permittit: quod autem iuste fit, bene fit. Et ideo non est malus ille a quom 
+        <lb ed="#Bb" n="47"/>isto modo sit malum culpae: sed solum ille a quo sit effectiue: quemadmodum habet causam efficien- 
+        <lb ed="#Bb" n="48"/>tem, scilicet in suo effectu deficientem, secundum quod haec omnia alias debent declarari suo loco. 
+        <lb ed="#Bb" n="49"/>
+      </p>
+      <p xml:id="vn58an-fe307d-d1e499">
+        ⁋ Exponendo vero illud de malo poenae: Dicendum quod in malo poenae est aliquid positiuum: sci- 
+        <lb ed="#Bb" n="50"/>licet applicatio instrumentorum poenalium, &amp; ordinatio culpae per poenam secundum viam iu- 
+        <lb ed="#Bb" n="51"/>stitiae: &amp; aliquid priuatiuum, scilicet priuatio delectationis &amp; pacis. Quo ad primum, pce- 
+        <lb ed="#Bb" n="52"/>na est a deo: sed in hoc nullam habet rationem mali: sed boni tantum: &amp; hoc intendit in poenis quas infligit 
+        <lb ed="#Bb" n="53"/>tanquam bonum. Quod vero est priuationis, non est ab ipso: quia non intendit eam, licet incidat in eo 
+   <!--21.xml-->
+        <pb ed="#Bb" n="3-v"/>
+        <lb ed="#Bb" n="1"/>quod agit &amp; intendit. Nec imputari debet ei quod incidat: quia quod agit &amp; intendit, non nisi iuste agit &amp; in  
+        <lb ed="#Bb" n="2"/>tendit secundum omnes boni circunstantias. Nunc autem peccans licet non intendat ad malum aut de- 
+        <lb ed="#Bb" n="3"/>fectum, malum tamen incidit in opus quod agit &amp; intendit non vbi, quando, &amp; quomodo, aut secun- 
+        <lb ed="#Bb" n="4"/>dum alias circunstantias boni secundum quas debet agere: propter quod malum incidens sibi imputatur. 
+        <lb ed="#Bb" n="5"/>Quomodo autem defectus qui contingit in malo poenae, deo non debeat imputari, expositum est in qua 
+        <lb ed="#Bb" n="6"/>dam quaestione de quolibet. 
+      </p>
+      <p xml:id="vn58an-fe307d-d1e528">
+        ⁋ Per idem patet responsio ad secundum, quoniam praecepta domini inquantum 
+        <lb ed="#Bb" n="7"/>erant ex domini ferentis vel praecipientis intentione, bona erant: &amp; illi populo congruentia exigente 
+        <lb ed="#Bb" n="8"/>ustitia. sed malitia eorum factum est vt eis essent non bona propter transgressionem: secundum quod latius 
+        <lb ed="#Bb" n="9"/>expositum est supra. Nunc autem non est malus nisi qui praecipit mala: vel ex genere operis: vel ex 
+        <lb ed="#Bb" n="10"/>mala &amp; peruersa intentione praecipientis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

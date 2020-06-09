@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="210-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe57644"> <!-- alias="vn58an-a66q2" -->
+      <head xml:id="vn58an-fe57644-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe57644-d1e107">
+        <lb ed="#Bb" n="44"/>rca secundum arguitur quod diuersa genera relationum conmunium: puta identitatis aequa  
+        <lb ed="#Bb" n="45"/>litatis similitudinis &amp; eorum contraria vniformiter habent fundari in rebus trium prae 
+        <lb ed="#Bb" n="46"/>dicamentorum absolutorum scilicet substantiae quantitatis &amp; qualitatis: Primo sic. Rlatio communis 
+        <lb ed="#Bb" n="47"/>non fundatur super res illorum praedica mentorum: sicut neque genus relationis simplici 
+        <lb ed="#Bb" n="48"/>ter: nisi pro quanto modus essendi ad aliud consequitur naturam illarum rerum: vt di- 
+        <lb ed="#Bb" n="49"/>ctum est in quaestione praecedente. sed modus essendi ad aliud idem &amp; vniformis est in  
+        <lb ed="#Bb" n="50"/>toto praedicamento relationis, vt similiter ibi dictum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe57644-d1e125">
+        ⁋ Secundo sic. quae super idem peni- 
+        <lb ed="#Bb" n="51"/>tus fundantur: &amp; sunt penitus vniformia inter se: vniformiter fundantur super illud super quod fundantur. 
+        <lb ed="#Bb" n="52"/>Si enim talia difformiter fundarentur, super idem penitus fundari non possent: quia idem penitus nul- 
+        <lb ed="#Bb" n="53"/>lius difformitatis potest esse causa. Relationes communes omnium sunt vniformes inter se quantum ad ge  
+        <lb ed="#Bb" n="54"/>nus relationis pertinet: quia non dicunt nisi esse ad aliud: sicut neque relationes aliae: &amp; super idem 
+        <lb ed="#Bb" n="55"/>penitus fundari possunt: quia homo homini est idem &amp; aequalis &amp; similis secundum vnum &amp; idem 
+   <!--436.xml-->
+        <pb ed="#Bb" n="211-r"/>
+        <lb ed="#Bb" n="1"/>penitus: quia secundum humanitatem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe57644-d1e145">
+        ⁋ In contrarium est: quia similitudo recipit magis &amp; i 
+        <lb ed="#Bb" n="2"/>minus: non sic autem identitas: &amp; aequalitas &amp; similitudo aliquando est inaequalium, &amp; aequalitas dissimilium: 
+        <lb ed="#Bb" n="3"/>&amp; hoc ex natura fundamentorum &amp; fundatione relationum super illa. talia autem non sunt conformia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe57644-d1e153">
+        <lb ed="#Bb" n="4"/>⁋ Dico quod in fundatione relationum super res praedicamentorum absolutorum est tria 
+        <lb ed="#Bb" n="5"/>considerare. scilicet relationes quae fundantur: &amp; ipsas res super quas fundantur: &amp; accidentia seu proprietates sua- 
+        <lb ed="#Bb" n="6"/>rum rerum. Ex parte autem relationum est attendendum quod non fundantur super res aliorum praedicamentorum nisi 
+        <lb ed="#Bb" n="7"/>ratione modi illius qui proprius est praedicamento relationis scilicet ad aliud esse: &amp; hoc praecipue quo ad re 
+        <lb ed="#Bb" n="8"/>lationes reales. Rationales enim aliquae super purum conceptum fundantur. Ex eo enim quod illae relationes reales na 
+        <lb ed="#Bb" n="9"/>turas rerum absolutarum consequuntur: &amp; ab illis realitatem trahunt vt dicatur modus realis: relationes 
+        <lb ed="#Bb" n="10"/>teales dicuntur fundari super dictas res. Ex eo vero quod quaedam relationes rationales non consequuntur 
+        <lb ed="#Bb" n="11"/>vllo modo ex natura illarum rerum: sed ex sola consideratione intellectus circa illas: modus ille rea- 
+        <lb ed="#Bb" n="12"/>litatem non contrahit: sed est purus modus rationis siue rationalis circa rem: ex eo vero quod quaedam rela- 
+        <lb ed="#Bb" n="13"/>tiones rationales partim consequuntur ex natura rerum: secundum hoc dicuntur fundari super res absolutas:  
+        <lb ed="#Bb" n="14"/>&amp; secundum quod partim consequuntur ex consideratione intellectus, sunt aliquid rationis: &amp; sic partim sunt 
+        <lb ed="#Bb" n="15"/>reales: partim rationales. Aspiciendo ergo ad prim. scilicet ad ipsas relationes fundatas super res praedicamen- 
+        <lb ed="#Bb" n="16"/>torum absolutorum: Dico quod omnino vniformiter fundantur relationes cones super res trium praedicamentorum 
+        <lb ed="#Bb" n="17"/>absolutas: secundum quod processit prima obiectio. Ex parte autem secundi &amp; tertii bene contingit quod difformi 
+        <lb ed="#Bb" n="18"/>ter fundentur in dictis rebus: &amp; hoc aut propter diuersitatem illarum rerum: aut propter diuersitatem acci 
+        <lb ed="#Bb" n="19"/>dentium earundem. Difformiter enim fundantur relationes cones in substantia ex vna parte: &amp; in quantita 
+        <lb ed="#Bb" n="20"/>te &amp; qualitate ex alia: quia in substantia ex eo quod est ens in se fundatur bene identitas vt est aliquid exi- 
+        <lb ed="#Bb" n="21"/>stens in se: licet etiam fundetur in ipsa vt est aliquid existens in supposito: vt iam tactum est in quaestione proxi- 
+        <lb ed="#Bb" n="22"/>ma praecedente ante solutionem primi argumenti: &amp; etiam in fine praecedentis articuli: &amp; secundum quod pa- 
+        <lb ed="#Bb" n="23"/>tebit inferius. Quantitas vero &amp; qualitas secundum rationem quantitatis &amp; qualitatis tam in diuinis quam in  
+        <lb ed="#Bb" n="24"/>creaturis, quia non sunt ens nisi in alio: in ipsis non fundantur nisi vt sunt entia in alio. Vt enim consi 
+        <lb ed="#Bb" n="25"/>derantur secundum se, rationem habent: &amp; non fundatur in illis nisi identitas. Quia ergo res in se conside 
+        <lb ed="#Bb" n="26"/>rata in creaturis sub quolibet praedicamento, censetur nomine substantiae inquantum sic in se consideratur: &amp; di 
+        <lb ed="#Bb" n="27"/>stinguitur sub ratione vnius secundum rationem indiuidui speciei &amp; generis: quia in quolibet praedicamen 
+        <lb ed="#Bb" n="28"/>to est vnum genere, vnum specie, vnum numero: idcirco identitas &amp; suum contrarium quod est diuersitas, sequun 
+        <lb ed="#Bb" n="29"/>tur quodlibet genus praedicamenti secundum rationem indiuidui speciei &amp; generis: licet modo contrario 
+        <lb ed="#Bb" n="30"/>vt dictum est supra in quaestione prima articuli praecedentis. Res autem considerata vt existens in alio non sic 
+        <lb ed="#Bb" n="31"/>distinguitur: sed solummodo distinguitur vt est existens in alio &amp; in alio per conformitatem aut difformita 
+        <lb ed="#Bb" n="32"/>tem. Per conformitatem enim ad vnum in diuinis personis sequuntur idem &amp; aequale atque simile: &amp; aequale &amp; si 
+        <lb ed="#Bb" n="33"/>mile in creaturis: licet diuersimode in deo &amp; in creaturis quantum est ex parte vnius: vt dictum est in  
+        <lb ed="#Bb" n="34"/>tertia quaestione articuli praecedentis. Et econtra. scilicet per difformitatem ad multum: non sequuntur nisi inaequa- 
+        <lb ed="#Bb" n="35"/>le &amp; dissimile. In solis enim creaturis (vt dictum est prima quaestione articuli illius: &amp; vt iam amplius ex 
+        <lb ed="#Bb" n="36"/>ponetur) propter diuersitatem accidentium tribus rebus trium praedicamentorum absolutorum difformiter 
+        <lb ed="#Bb" n="37"/>fundantur in illis relationes cones: &amp; hoc vel propter diuersitatem accidentium conmunium illorum vel proprio- 
+        <lb ed="#Bb" n="38"/>rum. Sunt autem accidentia coniter illis convenientia vnum &amp; multum, quae descendunt in illis vt mensurae illo 
+        <lb ed="#Bb" n="39"/>rum secundum praedeterminata. Et secundum diuersitatem talium accidentim. scilicet vnius &amp; multi inter se, diffor- 
+        <lb ed="#Bb" n="40"/>miter fundantur super dictas res relationes cones quae sequuntur ad vnum: &amp; contrariae illarum, illae scilicet quae se- 
+        <lb ed="#Bb" n="41"/>quuntur ad multum. conformiter tamen in contrario siue in opposito: vt tactum est in secunda quaestione ar-  
+        <lb ed="#Bb" n="42"/>ticuli praecedentis. Et similiter secundum diuersitatem vnius in substantia ad quod sequitur idem: &amp; vnius in quantitate 
+        <lb ed="#Bb" n="43"/>ad quid sequitur aequale: &amp; vnius in qualitate ad quid sequitur simile: quandoque difformiter fundantur idem in sub 
+        <lb ed="#Bb" n="44"/>stantia: aequale in quantitate: &amp; simile in qualitate: &amp; quandoque vniformiter fundantur in illis, prout expositum 
+        <lb ed="#Bb" n="45"/>est in tertia quaestione articuli praecedentis. Et hoc comparando relationes cones inter se tripliciter. Vno mo 
+        <lb ed="#Bb" n="46"/>do idem aequale &amp; similie vt sunt in diuinis tantum: in quibus omnino vniformiter habent fundari quantum est ex 
+        <lb ed="#Bb" n="47"/>ratione vnius. Et alio modo comparando illa vt sunt in creaturis tantum: in quibus vniformiter aequale &amp; 
+        <lb ed="#Bb" n="48"/>simile habent fundari quantum est ex ratione vnius: sed difformiter illis idem siue relatio identitatis habet 
+        <lb ed="#Bb" n="49"/>fundari in substantia. Tertio autem modo comparando illas tres relationes vt sunt in diuinis ex vna par 
+        <lb ed="#Bb" n="50"/>te: &amp; in creaturis ex alia: identitas eiusdem ad se vniformiter sequitur vnum in diuinis &amp; in creaturis. ldem 
+        <lb ed="#Bb" n="51"/>titas autem distincti ad distinctum in solis diuinis habet esse: non autem in creaturis. Aequale autem &amp; si 
+        <lb ed="#Bb" n="52"/>mile in creaturis difformiter sequuntur vnum: &amp; identitas tam in diuinis quam in creaturis, &amp; similiter 
+        <lb ed="#Bb" n="53"/>aequale &amp; simile in creaturis, omnino difformiter sequuntur vnum: &amp; aequale &amp; simile in diuinis:  
+        <lb ed="#Bb" n="54"/>secundum quod haec omnia patent ex tactis in praedicta quaestione. Sunt autem accidentia, propria illis 
+   <!--437.xml-->
+        <pb ed="#Bb" n="211-v"/>
+        <lb ed="#Bb" n="1"/>praedicamentis, videlicet quod substantiae &amp; qualitati ex vna parte non conuenit inquantum sunt substan- 
+        <lb ed="#Bb" n="2"/>tia aut qualitas, habere partes in natura &amp; essentia sua: sicut hoc conuenit quantitati. Propter quod 
+        <lb ed="#Bb" n="3"/>difformiter fundantur in quantitatibus diuersis relationes cones ex parte quantitatum: non autem in substan 
+        <lb ed="#Bb" n="4"/>tiis aut qualitatibus ex parte ipsarum: sed aliter ex parte quantitatis molis: aliter vero ex parte quam 
+        <lb ed="#Bb" n="5"/>titatis virtutis. Quantitas enim molis eadem numero habet partem extra partem, &amp; gradus secundum  
+        <lb ed="#Bb" n="6"/>illas: &amp; dicitur quaedam linea pedalis, quaedam bipedalis, quaedam tripedalis: &amp; sic de caeteris gradibus secundum  
+        <lb ed="#Bb" n="7"/>rationes numerorum: &amp; similiter de superficie &amp; corpore. Et secundum hoc accidunt lineae longum &amp; bre 
+        <lb ed="#Bb" n="8"/>ue, latum &amp; strictum, &amp; corpori spissum &amp; tenue secundum profundum: quae sequuntur ex vna linea con- 
+        <lb ed="#Bb" n="9"/>parata alteri secundum longum &amp; breue: &amp; similiter superficies superficiei secundum latum &amp; strictum: &amp; cor 
+        <lb ed="#Bb" n="10"/>pus corpori secundum haec eadem, quia in se continet lineam &amp; superficien: aut secundum spissum &amp; tenue: 
+        <lb ed="#Bb" n="11"/>quia continet &amp; se &amp; esse corporis: aut est maior, aut minor, aut aequalis. Et opponuntur maius &amp; mi- 
+        <lb ed="#Bb" n="12"/>nus aequali secundum priuationem &amp; habitum: cum non sunt nata fieri nisi circa idem in forma &amp; specie: &amp; 
+        <lb ed="#Bb" n="13"/>sumitur aequale ab vno quid est in eodem gradu diuersarum quantitatum nunero: &amp; inaequale &amp; multum ab vno 
+        <lb ed="#Bb" n="14"/>quod est in diuersis gradibus siliter diuersarum quantitatum nunero: sed earundem specie. Requirit enim aequalitas 
+        <lb ed="#Bb" n="15"/>solam graduum conformitatem: &amp; inaequalitas solam graduum difformitatem: &amp; hoc vtrobique in eadem specie 
+        <lb ed="#Bb" n="16"/>quantitatis propter oppositionem secundum habitum &amp; priuationem, quae non sunt nata fieri nisi cir- 
+        <lb ed="#Bb" n="17"/>ca idem in specie &amp; forma: &amp; diuersa genere tantum. Et sicut hoc est in magnitudine continua permanen 
+        <lb ed="#Bb" n="18"/>ti in magnitudine: sic est &amp; in tempore quod est quantitas continua non permanens: cui ad modum lineae 
+        <lb ed="#Bb" n="19"/>accidunt longum &amp; breue: sic etiam &amp; in loco, cui ad modum superficiei accidunt latum &amp; strictum. Et sicut est 
+        <lb ed="#Bb" n="20"/>hoc in quantitate continua: sic &amp; in quantitate discreta accidit idem: puta in numero cui per suas par- 
+        <lb ed="#Bb" n="21"/>tes &amp; gradus in illis accidunt multum &amp; paucum: &amp; similiter in oratione, cui ad modum numeri accidit 
+        <lb ed="#Bb" n="22"/>multum &amp; paucum inquantum habet rationem discreti: &amp; longum &amp; breue ad modum temporis inquantum habet 
+        <lb ed="#Bb" n="23"/>rationem continui. Nec est in hoc differentia ex parte continui &amp; discreti nisi in hoc quod in eodem singu 
+        <lb ed="#Bb" n="24"/>lari continuo: puta linea, superficie, corpore, tempore, aut loco, aut oratione inquantum habet rationem 
+        <lb ed="#Bb" n="25"/>continui, sunt secundum ill. scilicet longum &amp; breue &amp;c. in virtute omnes gradus &amp; perfectiones quae possunt 
+        <lb ed="#Bb" n="26"/>cadere inter diuersa continua comparata inter se: &amp; hoc semper parte existente extra partem in eodem sin-  
+        <lb ed="#Bb" n="27"/>gulari continuo: licet non distincta ab alia aut diuisione aut signatione: sed distinguibili solummodo  
+        <lb ed="#Bb" n="28"/>vel diuisione continui in duo, vel signatione puncti vnius inter duas partes eiusdem lineae, vel instan- 
+        <lb ed="#Bb" n="29"/>tis vnius inter duas partes vnius temporis continui. Et hoc contingit quia continuum omne diuisibile est 
+        <lb ed="#Bb" n="30"/>in infinitum: &amp; in tot partes est diuisibile minimum continuum in quot maximum: licet non in aequales. In eodem 
+        <lb ed="#Bb" n="31"/>autem singulari discreto puta denario non est nisi certus numerus partium &amp; proportionum secundum il- 
+        <lb ed="#Bb" n="32"/>las: &amp; hoc parte existente actu extra partem propter actualem distinctionem &amp; diuisionem ratione discre- 
+        <lb ed="#Bb" n="33"/>tionis partium inter se. Vnde considerando diuisionem numeri diuersimode per quiquod scilicet &amp; quindque, &amp; per. vi. &amp; 
+        <lb ed="#Bb" n="34"/>quatuor, &amp; per tria &amp;. vii. &amp; per. viii. &amp; duo, &amp; per. ix. &amp;. id i. semper sunt aliae &amp; aliae proportiones: &amp; hoc tam 
+        <lb ed="#Bb" n="35"/>inter partes quam inter totum &amp; quamlibet partium. Puta inter quinque &amp; quanque est proportio aequalitatis: inter de 
+        <lb ed="#Bb" n="36"/>cem vero &amp; quiandque est proportio dupli ad subduplum: &amp; sic de caeteris. Et sic considerando totum &amp; quanli 
+        <lb ed="#Bb" n="37"/>bet partem secundum gradus illorum semper est in illis relatio communis penes inaequalitatem: cum tamen consideram 
+        <lb ed="#Bb" n="38"/>do illa secundum suam substantiam sit inter illa relatio identitatis &amp; diuersitatis mixtim: vt supra exposi 
+        <lb ed="#Bb" n="39"/>tum est. Sic ergo vniformiter fundantur aequale &amp; simile in eisdem specie: difformiter inaequale &amp; dissimi 
+        <lb ed="#Bb" n="40"/>le: quia inaequale non est nisi in eisdem specie: sicut neque aequale. Dissimile autem non est nisi in diuer- 
+        <lb ed="#Bb" n="41"/>sis specie: &amp; simile non est nisi in eisdem specie. Quantitas vero virtutis non habet eadem numero partem 
+        <lb ed="#Bb" n="42"/>extra partem: neque gradus secundum partes: sed quaelibet illarum maior habet in se in natura simplici 
+        <lb ed="#Bb" n="43"/>vnite omnes partes quae natae sunt in aliis &amp; aliis minoribus existere seorsum &amp; separate. Sed hoc 
+        <lb ed="#Bb" n="44"/>dupliciter: quia quandoque in natura simplici habentur vnite &amp; inuariabiliter: quandoque vero vnite &amp; vari 
+        <lb ed="#Bb" n="45"/>abiliter. Primo modo est quantitas virtutis in substantiis. Omnia enim contenta in praedicamento substam 
+        <lb ed="#Bb" n="46"/>tiae: vt species specialissimae diuersae: diuersos &amp; certos gradus perfectionum important: nec est vna 
+        <lb ed="#Bb" n="47"/>&amp; eadem variabilis ab vno gradu in alterum: sed semper vna est in superiori gradu quantitatis perfectio 
+        <lb ed="#Bb" n="48"/>nalis quam altera: &amp; continet semper supiori virtute omnem quantitatem omnis perfectionis &amp; aliquod finitum amplius: 
+        <lb ed="#Bb" n="49"/>sicut deitas continet omnem quantitatem perfectionalem cuiuscumque creaturae &amp; amplius in infinitum. Secun- 
+        <lb ed="#Bb" n="50"/>do autem modo est quantitas virtutis in qualitatibus recipientibus magis &amp; minus: &amp; hoc non secun- 
+        <lb ed="#Bb" n="51"/>dum quod considerantur secundum se vt sunt aliquid in suo praedicamento per essentiam: aut vt ponuntur se- 
+        <lb ed="#Bb" n="52"/>paratae per existentiam: sicut ideae Platonicae. sic enim semper nominant rem in summo secundum gradum quid compe- 
+        <lb ed="#Bb" n="53"/>tit suae speciei, secundum quod exposuimus alias in quadam quaestione Quolibet. xiiii. &amp; sic habent rationem 
+        <lb ed="#Bb" n="54"/>substantiae: vt in proxima sequente quaestione declarabimus: sed solummodo secundum quod habent esse 
+        <lb ed="#Bb" n="55"/>in subiecto &amp; in materia: vbi per transmutationem naturalem eadem qualitas susceptibilis est eius quod est 
+   <!--438.xml-->
+        <pb ed="#Bb" n="212-r"/>
+        <lb ed="#Bb" n="1"/>maius &amp; minus in sua essentia. Puta albendo &amp; calor nata sunt fieri in eodem singulari: maior de mi- 
+        <lb ed="#Bb" n="2"/>nori: &amp; minor de maiori: &amp; secundum hoc denominare habent subiectum album vel calidum secun- 
+        <lb ed="#Bb" n="3"/>dum magis &amp; minus: secundum quod alias in quadam quaestione de eo quod est magis &amp; minus satis decla 
+        <lb ed="#Bb" n="4"/>rauimus. Et sic secundum quantitatem virtutis perfectionalis primo modo non est inter diuersa entia 
+        <lb ed="#Bb" n="5"/>nisi inaequalitas, praeterquam duntaxat inter substantias contentas sub eadem specie specialissima: quae aequa-  
+        <lb ed="#Bb" n="6"/>les semper sunt quantitate perfectionis. Et quo ad hoc conformis est ista aequalitas perfectionis aequalitati quam 
+        <lb ed="#Bb" n="7"/>titatis molis. Non est enim vtraque nisi inter differentia solo numero. Sed inaequalitas perfectionalis non  
+        <lb ed="#Bb" n="8"/>est conformis inaequalitati in quantitate molis: neque dissimilitudini: sed solummodo diuersitati: quia 
+        <lb ed="#Bb" n="9"/>quaecumque diuersa specie aut genere sunt inaequalia quantitate perfectionis: inaequalia autem quantitate molis: non  
+        <lb ed="#Bb" n="10"/>sunt nisi differentia numero: &amp; dissimilia non nisi differentia specie specialissima. Secundum quantita 
+        <lb ed="#Bb" n="11"/>tem aut virtutis perfectionalis secundo modo: quae scilicet est in accidente susceptibili: magis &amp; minus in sub 
+        <lb ed="#Bb" n="12"/>iecto: non est aequalitas aut inaequalitas nisi inter eadem specie: sicut neque in quantitate molis. Et sicut 
+        <lb ed="#Bb" n="13"/>in illis quantitatibus molis potest esse aequalitas &amp; inaequalitas partium inter se: &amp; ad totum in eodem 
+        <lb ed="#Bb" n="14"/>tempore: sic in istis qualitatibus quo ad quantitates virtutis potest esse inaequalitas &amp; aequalitas eius 
+        <lb ed="#Bb" n="15"/>dem ad seipsum pro alio &amp; alio tempore: secundum quod minus calidum in vno tempore potest esse magis cali- 
+        <lb ed="#Bb" n="16"/>dum in alio tempore, vel aeque calidum. Ex quibus patet quod aequalitas &amp; inaequalitas fundatae in quan 
+        <lb ed="#Bb" n="17"/>titate molis, aut in quantitate virtutis in qualitate inquantum ipsa recipit magis &amp; minus: quia se ha 
+        <lb ed="#Bb" n="18"/>bent secundum priuationem &amp; habitum: necessario sunt circa eadem in forma &amp; specie. Similitudo autem &amp; dissi 
+        <lb ed="#Bb" n="19"/>militudo fundatae in qualitate simpliciter quia se habent sicut contraria: necessario similitudo est inter 
+        <lb ed="#Bb" n="20"/>eadem specie &amp; forma: dissimilitudo vero necessario est inter diuersa atque inter contraria forma &amp; 
+        <lb ed="#Bb" n="21"/>specie: &amp; non inter alia. ldentitas autem &amp; diuersitas &amp; aequalitas atque inaequalitas fundatae in substan- 
+        <lb ed="#Bb" n="22"/>tia quia se habent sicut contradictoria: eo quod quaelibet duo entia substantialia aut modum substantiae ha 
+        <lb ed="#Bb" n="23"/>bentia aut sunt eadem aut diuersa: aut aequalia aut inaequalia: idcirco licet identitas sit solummodo eorundem 
+        <lb ed="#Bb" n="24"/>numero specie aut genere: &amp; aequalitas siue molis siue virtutis in substantia aut qualitate: &amp; similiter inae 
+        <lb ed="#Bb" n="25"/>qualitas molis non est nisi eorundem specie specialissima: Diuersitas tamen &amp; inaequalitas substantialis quo  
+        <lb ed="#Bb" n="26"/>runcumque duorum entium sese habent penes gradus, &amp; differentiae entium secundum gradus &amp; differentias nu 
+        <lb ed="#Bb" n="27"/>merorum. Sicut enim numeri proueniunt ab vnitate secundum quandam participationem formae illius: &amp; pro- 
+        <lb ed="#Bb" n="28"/>pterea omnes numeri quodammodo sunt eiusdem speciei: vt tactum est supra: sic omnes creaturae procedunt 
+        <lb ed="#Bb" n="29"/>a deo secundum quandam participationem formae illius. Et propterea omnes creaturae quodammodo sunt respe 
+        <lb ed="#Bb" n="30"/>ctu dei eiusdem formae siue speciei: quia non sunt nisi quaedam participatio formae diuinae. Et per hoc inquam 
+        <lb ed="#Bb" n="31"/>tum omnes numeri sunt quodammodo vnius speciei: &amp; similiter omnes creaturae inter se: vniuersaliter 
+        <lb ed="#Bb" n="32"/>aequale &amp; inaequale non sunt nisi in eadem forma &amp; specie. Quo ad hoc enim se habent secundum diuersos 
+        <lb ed="#Bb" n="33"/>gradus suos: quibus inaequales dicuntur inter se diuersi numeri &amp; diuersarum specierum creaturae: si- 
+        <lb ed="#Bb" n="34"/>cut se habent diuersae qualitates sub eadem specie: puta caloris aut albedinis secundum diuersos gradus 
+        <lb ed="#Bb" n="35"/>quibus dicuntur inaequales inter se duo calores aut albedines duae: quibus subiecta etiam dicuntur calida 
+        <lb ed="#Bb" n="36"/>seu alba: &amp; secundum magis &amp; minus inaequaliter calida aut inaequaliter alba. Et sic inaequalia secundum 
+        <lb ed="#Bb" n="37"/>quantitatem virtutis: sicut etiam aliquando aliqua sunt inaequalia secundum quantitatem molis: licet ratione quali 
+        <lb ed="#Bb" n="38"/>tatis, puta caloris aut albedinis, simpliciter sunt similia: aliquando secundum quantitatem molis aut virtu 
+        <lb ed="#Bb" n="39"/>tis sunt etiam inaequalia: &amp; econtra dissimilia sunt aequalia. Et quo ad hoc bene difformiter fundantur re 
+        <lb ed="#Bb" n="40"/>lationes cones super quantitatem &amp; qualitatem vt procedit tertia obiectio: quae difformitas a fundamentis oritur 
+        <lb ed="#Bb" n="41"/>sed in subiectis fundamentorum existit: quae difformiter ab ipsis denominantur: in hoc scilicet quod similitudo est inaequa-  
+        <lb ed="#Bb" n="42"/>lium. Et etiam in hoc est difformitas, quod similitudo magis &amp; minus recipit: non autem identitas aut aequalitas. 
+        <lb ed="#Bb" n="43"/>Similitudo enim magis &amp; minus recipit propter diuersos gradus in quantitate virtutis qualitatis eiusdem 
+        <lb ed="#Bb" n="44"/>secundum speciem. Dicitur enim similitudo inter haec duo alba maior quam inter alia duo alba: &amp; hoc album dicitur ma-  
+        <lb ed="#Bb" n="45"/>gis simile illi albo quam aliud: &amp; hoc eo quod maior similitudo fundatur super qualitates magis ad aequalitatem 
+        <lb ed="#Bb" n="46"/>appropiquantes. &amp; secundum hoc etiam dicuntur subiecta magis similia. Et sic quod similitudo recipit magis aut mi 
+        <lb ed="#Bb" n="47"/>nus: hoc non contingit nisi quia inaequalitas virtualis magis &amp; minus recipit: &amp; semper maius &amp; mi- 
+        <lb ed="#Bb" n="48"/>nus in ipsis relationibus, &amp; magis &amp; minus in ipsis relatis, potius sequuntur quantitates virtuales in  
+        <lb ed="#Bb" n="49"/>relatis quam ipsas relationes. Non sic autem aequalitas recipit magis &amp; minus sicut similitudo: &amp; hoc quia aequa  
+        <lb ed="#Bb" n="50"/>litas non consistit nisi in graduum conformitate: sicut neque identitas maxime numeralis: quia non fundatur 
+        <lb ed="#Bb" n="51"/>nisi super vno dicto ab vnitate, in qua non est difformitas. 
+        <lb ed="#Bb" n="52"/>
+      </p>
+      <p xml:id="vn58an-fe57644-d1e507">
+        ⁋ Ex dictis etiam patet responsio ad obiectum secundum: quod bene verum est quod relationes 
+        <lb ed="#Bb" n="53"/>communes non fundantur difformiter quantum est ex ratione respectus qui est ad aliud esse: neque quantum 
+        <lb ed="#Bb" n="54"/>est ex ratione fundamentorum quando fundantur super idem. tunc enim tria ex vna parte. scilicet idem aequale &amp; similter 
+        <lb ed="#Bb" n="55"/>&amp; tria ex ali. scilicet diuersum inaequale &amp; dissimile vniformiter se habent, &amp; conversim consequuntur se: 
+   <!--439.xml-->
+        <pb ed="#Bb" n="212-v"/>
+        <lb ed="#Bb" n="1"/>vt si aliquid est idem: est aequale &amp; simile &amp; econverso: &amp; quantum est idem, tantum est aequale &amp; similier &amp; econverso 
+        <lb ed="#Bb" n="2"/>Et non sunt ista aequalitas &amp; similitudo nisi substantiales: sicut &amp; identitas: quae identitas multum diffo 
+        <lb ed="#Bb" n="3"/>miter siue aliter fundatur in substantia vel in re alia vt habet rationem substantiae: quam aequalitas &amp; similitu 
+        <lb ed="#Bb" n="4"/>do in rebus quae sunt accidentia, &amp; habentia rationem accidentium in subiecto: &amp; similiter eorum contraria. Si 
+        <lb ed="#Bb" n="5"/>cut enim aequalitas &amp; similitudo consequuntur identitatem &amp; econverso: sic &amp; eorum contraria sese conse- 
+        <lb ed="#Bb" n="6"/>quuntur. Quando autem fundantur super diuersa: non oportet quod tantam vniformitatem habeant secundum fun- 
+        <lb ed="#Bb" n="7"/>damenta: vt patet ex dictis. Et secundum hoc procedit vltimum obiectum. 
+      </p>
+      <p xml:id="vn58an-fe57644-d1e536">
+        ⁋ Et est vniuersaliter sentiendum quod  
+        <lb ed="#Bb" n="8"/>tanto verius &amp; conformius habent rationes communes esse in aliquibus: quanto verius &amp; conformi 
+        <lb ed="#Bb" n="9"/>us habent esse in illis illarum fundamenta. Quae quia conformius habent esse in diuinis quam in creaturis 
+        <lb ed="#Bb" n="10"/>&amp; verius: idcirco relationes communes quae habent esse in diuinis &amp; in creaturis: verius &amp; conformius 
+        <lb ed="#Bb" n="11"/>habent esse in diuinis quam in creaturis. Propter quod etiam quo ad hoc difformiter relationes communes 
+        <lb ed="#Bb" n="12"/>habent esse in diuinis &amp; in creaturis: secundum quod haec quo ad diuina clarius patebunt inferius.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

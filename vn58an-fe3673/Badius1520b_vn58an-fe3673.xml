@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="14-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe3673"> <!-- alias="vn58an-a44q2" -->
+      <head xml:id="vn58an-fe3673-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe3673-d1e107">
+        <lb ed="#Bb" n="30"/>CIrca secundum arguitur: quod infinitas non significat circa deum aliquod positiue: sed priua 
+        <lb ed="#Bb" n="31"/>tiue siue negatiue tantum. Primo sic. Deus dicitur infinitus ex opposito eius quo  
+        <lb ed="#Bb" n="32"/>creatura dicitur finita: quia penes finitum &amp; infinitum describitur distantia inter crea 
+        <lb ed="#Bb" n="33"/>torem &amp; creaturam. sed creatura quod dicitur finita: hoc est ex positione finis limi- 
+        <lb ed="#Bb" n="34"/>tantis naturam eius &amp; essentiam: quia esse cuiuslibet creaturae sub certis limi- 
+        <lb ed="#Bb" n="35"/>tibus continetur: vt declarari habet loquendo de creaturis. ergo quod creator deus 
+        <lb ed="#Bb" n="36"/>dicatur infinitus: hoc erit ex remotione finis limitantis naturam &amp; essentiam. Ex hoc autem solum dicitur 
+        <lb ed="#Bb" n="37"/>infinitus priuatiue. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe3673-d1e127">
+        ⁋ Secundo sic. Ratio infiniti sequitur rationem perfecti &amp; completi. Cum enim ali- 
+        <lb ed="#Bb" n="38"/>quid est completum &amp; perfectum &amp; totum simpliciter: tunc demum potest dici infinitum. secundum quod dicit 
+        <lb ed="#Bb" n="39"/>Comment. versus finem. viii. Meta. Si aliqua linea recta est completa, inquantum non potest fieri additio, necesse 
+        <lb ed="#Bb" n="40"/>est vt sit infinita. sed completio, perfectio, &amp; totalitas comprehendit quicquid positiue significat in re: quia 
+        <lb ed="#Bb" n="41"/>quicquod est citra vltimum positiuum in re: incompletum est &amp; imperfectum: &amp; rationem partis habet. sed  
+        <lb ed="#Bb" n="42"/>vltra vltimum positiuum in re nihil est significandum nisi priuatiue. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe3673-d1e140">
+        ⁋ In oppositum est: quoniam eo 
+        <lb ed="#Bb" n="43"/>deus maxime est infinitum: quo excedit rationem omnis finiti: quia non excedens alterum aequatur ei: &amp; ideo si 
+        <lb ed="#Bb" n="44"/>vnum eorum est finitum, &amp; alterum. sed deus rationem omnis finiti excedit in positiuo, &amp; non in priuatiuo:  
+        <lb ed="#Bb" n="45"/>quia id in quo excedit, aliquid dignitatis importat. priuatio autem per se nihil dignitatis importat: sed  
+        <lb ed="#Bb" n="46"/>magis defectus: qui in deo nullo modo poni potest. ergo &amp;c. 
+        <lb ed="#Bb" n="47"/>
+      </p>
+      <p xml:id="vn58an-fe3673-d1e154">
+        ⁋ Hic oportet primo distinguere modos infiniti. Dicitur enim infinitum multis 
+        <lb ed="#Bb" n="48"/>modis. Vno enim modo dicitur infinitum: quod non est natum finiri: quia non habet processum omni 
+        <lb ed="#Bb" n="49"/>no neque qui natus est finiri: neque qui non natus est finiri: ad modum quo vox dicitur inuisibilis. Et hoc 
+        <lb ed="#Bb" n="50"/>iuxta primum modum infiniti in magnitudine: quem ponit philosophus in iii. Physiscicae. quo videlicet vt dicit Con 
+        <lb ed="#Bb" n="51"/>ment. ibidem, dicitur quod punctus est infinitus: quia non habet longitudinem finitam aut infinitam. Et est iste modus in  
+        <lb ed="#Bb" n="52"/>fi niti priuationis eius quod non est nata res subiecta neque secundum speciem neque secundum genus habere. 
+        <lb ed="#Bb" n="53"/>quemadmodum arbor dicitur non habere visum. vnde tale infinitum proprie dicitur negatiue. Et tali mo 
+        <lb ed="#Bb" n="54"/>do infinitatis dicunt aliqui quod deus dicitur infinitus: quia nec habet nec natus est habere aliquam  
+        <lb ed="#Bb" n="55"/>finitatem. Secundo modo dicitur infinitum cuius processus non habet finem: natum tamen fini- 
+   <!--43.xml-->
+        <pb ed="#Bb" n="14-v"/>
+        <lb ed="#Bb" n="1"/>ri: vt est quantitas omnis dimensiua. Etsi enim imaginetur infinita: nata tamen est finiri inquantum 
+        <lb ed="#Bb" n="2"/>dimensio est: &amp; nata est stare omnis linea inter punctos inquantum linea est: &amp; superficies inter li 
+        <lb ed="#Bb" n="3"/>neas, &amp; corpus inter superficies. Et talem modum infinitatis nemo potest tribuere deo: quia non caret 
+        <lb ed="#Bb" n="4"/>omnino aliquo quod natus est habere. hoc enim esset imperfectionis in ipso: vt patet ex supra determi- 
+        <lb ed="#Bb" n="5"/>natis. Tertio modo dicitur infinitum: cuius processus semper protenditur: &amp; non habet finem in quo deficit: nec 
+        <lb ed="#Bb" n="6"/>natum est finiri. &amp; iuxta hunc modum (vt credimue) deus dici debet infinitus. Et est infinitum secun- 
+        <lb ed="#Bb" n="7"/>dum istum modum, vere positiuum alicuius in re: &amp; si secundum rationem &amp; impositionem nominis nega- 
+        <lb ed="#Bb" n="8"/>tionem importat: illa est eius quod realiter negatio vel priuatio est: &amp; sic etiam illa negatio quam importat 
+        <lb ed="#Bb" n="9"/>veram positionem vel affirmationem affert &amp; includit: vt iam patebit. Primo ergo modo infinitum 
+        <lb ed="#Bb" n="10"/>proprie dicitur negatiue: quia nihil ponit circa subiectum positiue. Secundo modo dicitur proprie infi- 
+        <lb ed="#Bb" n="11"/>nitum priuatiue: quia ponit aptitudinem ad contrarium circa subiectum. Tertio modo infinitur et 
+        <lb ed="#Bb" n="12"/>si secundum impositionem &amp; modum nominis priuatiue aut negatiue dicitur, secundum rem tamen positiue di 
+        <lb ed="#Bb" n="13"/>citur: quia illa negatio nobis dat intelligere verissimam affirmationem. Non enim est negatio vel priuatio 
+        <lb ed="#Bb" n="14"/>alicuius positiui vel affirmationis, sed priuatiui &amp; negationis magis: ad modum quo in genere sub 
+        <lb ed="#Bb" n="15"/>stantiae incorporeum dicitur priuatio vel incorruptibile. 
+      </p>
+      <p xml:id="vn58an-fe3673-d1e211">
+        ⁋ Sunt autem aliqui qui in scriptis posuerunt deum 
+        <lb ed="#Bb" n="16"/>esse infinitum negatiue solum: &amp; hoc dupliciter ponunt. Quidam enim ponit quod deus dicitur infinitus ne- 
+        <lb ed="#Bb" n="17"/>gatiue a negatione alicuius finitantis ipsum &amp; mensurantis extra: quia impossibile est ipsum finiri 
+        <lb ed="#Bb" n="18"/>loco, tempore, aut intellectu aliquo creato. Ipse enim solus seipsum perfecte intelligit: &amp; sic ipse solus se- 
+        <lb ed="#Bb" n="19"/>ipsum finiens est: &amp; suo intellectu mensurans: quia ipse tantum seipsum intelligit quantus est. Alius vero 
+        <lb ed="#Bb" n="20"/>ponit quod deus dicitur infinitus negatiue: a negatione finientis ipsum &amp; terminantis intra: eo quod nul- 
+        <lb ed="#Bb" n="21"/>lus perfectionis suae est terminus &amp; finis. &amp; hoc loquendo de fine &amp; termino consumente quantitatem 
+        <lb ed="#Bb" n="22"/>bonitatis &amp; perfectionis eius, ad modum quo punctus finit &amp; terminat quantitatem lineae. 
+      </p>
+      <p xml:id="vn58an-fe3673-d1e229">
+        ⁋ Reuera be 
+        <lb ed="#Bb" n="23"/>ne verum est quod illis modis deus est infinitus. nullo enim termino consumente neque intra neque extra 
+        <lb ed="#Bb" n="24"/>clauditur suae perfectionis quantitas &amp; magnitudo. Sed quod ad hoc significandum imponitur nomen cum di- 
+        <lb ed="#Bb" n="25"/>citur deus esse infinitus: vt cogamur dicere quod infinitas in deo non dicitur nisi negatiue: hoc non vi 
+        <lb ed="#Bb" n="26"/>detur. Primo ex natura negationis quam importat hoc nomen infinitum. Secundo ex natura rei signi- 
+        <lb ed="#Bb" n="27"/>ficatae per nomen. Tertio ex modo impositionis ipsius nominis. Ex natura negationis hoc bene appa- 
+        <lb ed="#Bb" n="28"/>ret: quia negatio cum nihil ponat ratione qua negatio est, nihil dignitatis apponit ei de quo aliquoid negat.  
+        <lb ed="#Bb" n="29"/>nisi forte per accidens ratione subiecti cui de necessitate alterum contrariorum inest: vt si homo est, &amp; 
+        <lb ed="#Bb" n="30"/>non est caecus, est videns: quod non ponit illa negatio ex natura sui: quoniam si sic: vbicur que poneretur: idem 
+        <lb ed="#Bb" n="31"/>poneret: &amp; sequeretur, lapis non est caecus, ergo est videns. Vnde magis hoc congruit ei ratione qua  
+        <lb ed="#Bb" n="32"/>habet vim priuationis quam negationis. Priuatio enim vt priuatio, semper requirit subiectum in quo  
+        <lb ed="#Bb" n="33"/>sit quasi forma quaedam &amp; dispositio subiecti: negatio autem nequaquam. Vnde differentia est inter nega 
+        <lb ed="#Bb" n="34"/>tionem &amp; priuationem: vt vult philosophus quarto Meta. quod negatio est ab solutio simpliciter alicuius. Pri 
+        <lb ed="#Bb" n="35"/>uatio vero habet naturam subiectam. Vbi dicit Comment. Negatio est absolutio negati simpliciter. Priuatio 
+        <lb ed="#Bb" n="36"/>autem est absolutio eius a natura determinata. Et cum illa natura fuerit disposita per priuationem: erit 
+        <lb ed="#Bb" n="37"/>in forma affirmationis. Propter quod dicit philosophus. ii. Physicae. Priuatio species quodammodo est. Si ergo solum 
+        <lb ed="#Bb" n="38"/>negatiue praedicaretur infinitum: &amp; nihil positiue significaret circa deum: tunc nihil dignitatis &amp; perfe 
+        <lb ed="#Bb" n="39"/>ctionis diceret infinitum circa ipsum: nisi per accidens ratione subiecti. Quantum enim est de se, pura negatio in  
+        <lb ed="#Bb" n="40"/>differenter conuenit enti &amp; non enti: sicut patet de negatione termini infiniti. Sed hoc nihil ad ra 
+        <lb ed="#Bb" n="41"/>tionem dignitatis in significato eius quod est infinitum: sicut neque innascibilitas in patre ex hoc est notio 
+        <lb ed="#Bb" n="42"/>dignitatis in patre quod imponitur a negatione qua non habet esse ab alio per natiuitatem: sed ratione primita 
+        <lb ed="#Bb" n="43"/>tis affirmatae sub negatione: neque incorporale est differentia constitutiua speciei ratione negationis 
+        <lb ed="#Bb" n="44"/>sed affirmationis alicuius incogniti subintellecti. 
+      </p>
+      <p xml:id="vn58an-fe3673-d1e279">
+        ⁋ ldem etiam patet secundo scilicet ex natura rei, quae dici 
+        <lb ed="#Bb" n="45"/>tur infinita ex conditione eius secundum quam dicitur infinita. Ad cuius intellectum oportet considerare  
+        <lb ed="#Bb" n="46"/>gradus secundum rationem intelligendi, quibus res eadem in esse suo perficitur. Cum enim perfectio omnis est in re a fine, &amp; si 
+        <lb ed="#Bb" n="47"/>nis &amp; bonum idem, secundum philosophum. iii. Meta. res igitur quaecumque in natura essentiae suae ex hoc dicitur bona: quod  
+        <lb ed="#Bb" n="48"/>attingit aliquo modo finem in complemento naturae &amp; essentiae suae. Sed non dicitur ex hoc perfecta nisi attingat 
+        <lb ed="#Bb" n="49"/>complete finem illum: vt nullius completionis pertinentis ad illam naturam ei possit fieri vlterior additio. 
+        <lb ed="#Bb" n="50"/>Hlaec enim est definitio completi: vt dicit Comment. super finem. viii. Phycita. &amp; patet ex praedeterminatis. Sed  
+        <lb ed="#Bb" n="51"/>adhuc ex hac ratione non dicitur totum: sed ex hoc scilicet quod continet in se omnia illa ex quibus completur tanquam compo 
+        <lb ed="#Bb" n="52"/>situm ex rationibus completionis quasi ex partibus: quia. scilicet continet in se omnes rationes perfectionis quasi 
+        <lb ed="#Bb" n="53"/>partes ex quibus completur &amp; constituitur in esse, &amp; nulla earum est extra. haec enim est definitio totius: vt dicit 
+        <lb ed="#Bb" n="54"/>philosophus. iii. Physicae. &amp; habitum est supra. Et licet valde propinqua sint secundum hoc in significato suo perfectum 
+        <lb ed="#Bb" n="55"/>&amp; totum: vt idem significent re: significant tamen differenti ratione vt dictum est: &amp; praecedit secundum  
+   <!--44.xml-->
+        <pb ed="#Bb" n="15-r"/>
+        <lb ed="#Bb" n="1"/>rationem intelligendi, ratio perfecti rationem totius: quia ex eo quod res habet completionem &amp; est consummata 
+        <lb ed="#Bb" n="2"/>in natura sua: vt nihil ei addendum sit: ex hoc habet totalitatem qua continet omnia quae suae naturae sunt: 
+        <lb ed="#Bb" n="3"/>vt nihil eorum sit extra. Et propter istam propinquitatem dicit philosophus. iii. Phyisiae. quod totum &amp; perfectum: aut idem si 
+        <lb ed="#Bb" n="4"/>gnificant penitus: aut proximum secundum naturam. Vbi dicit Comment. Aut sunt nomina synonyma: aut con 
+        <lb ed="#Bb" n="5"/>sequentia. &amp; verum est quod sunt synonyma ex parte rei significatae: consequentia autem sunt quantum ad rationem 
+        <lb ed="#Bb" n="6"/>significandi: vt dictum est supra. Ex hoc autem quod res est perfectum quid, &amp; totum, non ex hoc adhuc habet quica 
+        <lb ed="#Bb" n="7"/>quod dignitatis natum est esse in re. Si enim res sic perfecta est vt naturae suae habeat completionem: &amp; sic tota 
+        <lb ed="#Bb" n="8"/>est vt quaecunque naturae suae sunt, in se contineat: si cum hoc in vtrcque sic sit protensa: vt quicumque intel 
+        <lb ed="#Bb" n="9"/>lectus finitus aliquid eius quod est completionis &amp; totalitatis suae concipiat: &amp; in concipiendo semper vl- 
+        <lb ed="#Bb" n="10"/>terius procedere possit: vt semper concipiendo magis ac magis concipiat: &amp; sic in concipiendo semper ma 
+        <lb ed="#Bb" n="11"/>gis ac magis proficiat: ita vt nunquam quo vltio standum sit inueniat: &amp; sic numquam a procedendo deficiat: quod cum 
+        <lb ed="#Bb" n="12"/>hoc omnia illa secundum quae procedendo proficit res illa in se actu contineat: hoc magnae dignitatis &amp; perfe- 
+        <lb ed="#Bb" n="13"/>ctionis est: non solum negatiue sed positiue significando. Ad hoc ergo significandum debet esse aliquod  
+        <lb ed="#Bb" n="14"/>nomen impositum, quod rationem superioris gradus dignitatis significat in re quam significet hoc nomen per  
+        <lb ed="#Bb" n="15"/>fectum: aut hoc nomen totum. Et si illud nomen non sit hoc nomen infinitum: quia non significat aliquid po 
+        <lb ed="#Bb" n="16"/>sitiue circa deum: debet esse aliud. Quare cum aliud non inuenimus: &amp; tamen illum gradum dignitatis circa 
+        <lb ed="#Bb" n="17"/>rem diuinam concipimus &amp; exprimimus in communi vsu: &amp; non nisi hoc nomine infinitum: oportet ergo con- 
+        <lb ed="#Bb" n="18"/>cedere quod infinitum aliquod positiue circa deum significet: vt sic ista quatuor nomina, bonum, perfectum, totum, 
+        <lb ed="#Bb" n="19"/>infinitum, se habeant per ordinem in significando gradus conceptionum nostrarum circa simplex diuinum esse. 
+        <lb ed="#Bb" n="20"/>Vt bonum significet absolute in ipso esse aliquid in quo finitur fine esse diuinae naturae complente: iu 
+        <lb ed="#Bb" n="21"/>xta illud Psal. Bonus es tu. Glos. Proprie est bonus &amp; ex se. Perfectum vero significat bonitatem esse in ip 
+        <lb ed="#Bb" n="22"/>so: in quae diuinum esse consummate &amp; complete finitur. iuxta illud Psal. Dis consummationis vidi finem. Glos. 
+        <lb ed="#Bb" n="23"/>Intrauerat iste in sanctuarium dei: viderat altissima quae non possunt explicari: sed breui scientia conclu 
+        <lb ed="#Bb" n="24"/>sit dicens: Dis consummationis vidi fi. Glos. Consummatio est omnium virtutum perfectio. i. perfectio 
+        <lb ed="#Bb" n="25"/>in virtute: quae nihil aliud est quam vltima potentia in bonitate. Virtus enim est vltimum de potentia. ii. 
+        <lb ed="#Bb" n="26"/>cael. &amp; Mum. Vnde talis completio in bonitate: dicitur virtus. De qua dicit etiam philosophus. vii. Metaphysicae. quod tunc 
+        <lb ed="#Bb" n="27"/>vnumquodque perfectum est cum attingit, propriae virtuti. De qua etiam dicit quod virtus est dispositio perfecti 
+        <lb ed="#Bb" n="28"/>ad optimum. Totum vero significat ipsam consummationem. inquantum in se omnis boni &amp; perfectionis 
+        <lb ed="#Bb" n="29"/>actu simul est contentiua. iuxta illud quod dicit Dominus Moysi. Exo. xxxiii. Ostendam tibi omne bonum. 
+        <lb ed="#Bb" n="30"/>Infinitum vero significat ipsam consummationem omnino perfectionem omnem continentem: vt semper in vlterius &amp; 
+        <lb ed="#Bb" n="31"/>profundius procedentem quocumque finito in eo per intellectum concepto. Vt ad hoc adducamus quod dicitur de 
+        <lb ed="#Bb" n="32"/>sapientia. Sapientiam. vii. Infinitus thesaurus est hominibus. Glos. Quanto quisque profundius discit: tanto profunditatem co 
+        <lb ed="#Bb" n="33"/>gnoscit. Cum igitur ad tale quid positiuum significandum vtimur principaliter in deo hoc nomine infinitum, ponendum est 
+        <lb ed="#Bb" n="34"/>simpliciter quod infinitum principaliter significat aliquid positiue in deo. Illud enim debet dici nominis significatum ad quod si- 
+        <lb ed="#Bb" n="35"/>gnificandum eo vtimur coniter: quia loquendum est vt plures: secundum quod dicit Philosophus. Ene tamen verum est quod in hoc 
+        <lb ed="#Bb" n="36"/>nomine infinitum positiuo huic annexa est negatio quam significat ex ratione impositionis nominis: &amp; hoc non 
+        <lb ed="#Bb" n="37"/>primo &amp; principaliter sicut illi dicunt: sed secundario &amp; ex consequente: vt circa diuinam bonitatem siue 
+        <lb ed="#Bb" n="38"/>in essentia: siue in potentia: siue in quocumque alio attributo (Infinitas enim omnia consequitur quae sunt in deo 
+        <lb ed="#Bb" n="39"/>vt supra dictum est) dicamus infinitum significare rationem semper vlterius procedendi quocumque termino signato:  
+        <lb ed="#Bb" n="40"/>quod est positiuum quid, cui annexa est negatio termini &amp; finis consumentis, a quae sit nominis impositio. ad modum  
+        <lb ed="#Bb" n="41"/>quo linea semper in vlterius protensa, infinita dicitur quia sic protensa est: cui protensioni necessario annexa est priuatio 
+        <lb ed="#Bb" n="42"/>termini, vt puncti signati: in quo deficit protensio lineae. Imponitur enim sic nomen infinitum in linea imaginata sem 
+        <lb ed="#Bb" n="43"/>per protensa. Nihil enim potest esse semper protensum nisi careat termio in quo stat protensio: &amp; sic illi affirmationi necessa 
+        <lb ed="#Bb" n="44"/>rio consequens &amp; annexa est ista negatio: a quae tamquam ab eo quod nobis notius est, per habitum. scilicet siniti sibi contrarium, 
+        <lb ed="#Bb" n="45"/>quam sit illa protensio, sit nominis impositio. Et consiliter in proposito nomen infiniti circa deum imponitur a negatione termini 
+        <lb ed="#Bb" n="46"/>siue finis, tamquam ab eo quod nobis notius est per finitum sibi contrarium in creaturis quibus nomina primo sunt imposita: &amp; 
+        <lb ed="#Bb" n="47"/>deinm ad deum translata. Vnde et si interius velimus considerare significata horum nominium infinitum, finitum, patebit 
+        <lb ed="#Bb" n="48"/>nobis tertio quod hoc nomen infinitum circa deum vel quodcumque semper protensum non imponitur ad significandum negatio 
+        <lb ed="#Bb" n="49"/>nem termini consumentis: vt propter hoc infinitum in deo non dicatur nisi negatiue. Et hoc parti ex ipsius nominis impo 
+        <lb ed="#Bb" n="50"/>ntione. Clarum enim est nobis quod hoc nomen finitum inquantum significat finem consumentem realiter priuationem importat  
+        <lb ed="#Bb" n="51"/>vlterioris protensionis: infinitum autem simpliciter in creaturis si ponatur esse in actu, importat huius priuationis pri 
+        <lb ed="#Bb" n="52"/>uationem: in deo autem negationem. Priuatio autem vel negatio priuationis realis affirmatio est. In eo igitur 
+        <lb ed="#Bb" n="53"/>in quo infinitum videtur significare negationem aut priuationem, realiter significat affirmationem. Et sic ab  
+        <lb ed="#Bb" n="54"/>solute dicendum quod infinitum in deo affirmationem &amp; positiuum quid significat non negatiuum: etsi nomen a nega- 
+        <lb ed="#Bb" n="55"/>tione imponitur. Dico a negatione: non a priuatione: quia infinitum priuatiue dictum nullo modo cadit in deo: sicut ca 
+        <lb ed="#Bb" n="56"/>dit in quantitate dimensionali. Nam huiusmodi quantitas nata est habere finem. Quantitas autem spiritualis indeo finem na 
+   <!--45.xml-->
+        <pb ed="#Bb" n="15-v"/>
+        <lb ed="#Bb" n="1"/>ta habere non est. Vnde quantitas dimensionalis infinita dicitur subtractione eius quod nata est habere. Quam 
+        <lb ed="#Bb" n="2"/>titas vero spiritualis in deo dicitur infinita subtractione eius quod non est ipsa nata habere: sed quod 
+        <lb ed="#Bb" n="3"/>nata est habere creatura a qua nomen mutuauit: cuius est ratio finitatis: quae nota nobis est &amp; co- 
+        <lb ed="#Bb" n="4"/>gnita: &amp; per ipsam infinitum inquantum dicit eius negationem vel priuationem. Patet igitur ex nominis 
+        <lb ed="#Bb" n="5"/>impositione tam in deo quam in creatura, quod hoc nomen infinitum non significat principaliter negatio 
+        <lb ed="#Bb" n="6"/>nem vel priuationem: sed potius alicuius positionem: quoniam infinitum secundum philosophum, inquantum infinitum incognitum est. 
+        <lb ed="#Bb" n="7"/>Non est autem incognitum secundum quod importat negationem vel priuationem finis consumentis: vt dictum 
+        <lb ed="#Bb" n="8"/>est: oportet igitur quod infinitum inquantum infinitum significet positionem contrariam illi fini consumenti: se- 
+        <lb ed="#Bb" n="9"/>cundum quam est incognitum, &amp; hoc intellectui creato vt dictum est. Quod autem significat infinitum 
+        <lb ed="#Bb" n="10"/>inquantum infinitum est: hoc est significatum principale. Infinitum ergo non tantum in deo: sed &amp; in creatura 
+        <lb ed="#Bb" n="11"/>principaliter significat positionem siue aliquod affirmatiue. Vnde quod mundus quem philosophus posuit esse totum 
+        <lb ed="#Bb" n="12"/>&amp; summe perfectum, non potuit dici ab eo infinitus: hoc non erat tam quia terminum habebat scilicet supersi 
+        <lb ed="#Bb" n="13"/>ciem extremae sphaerae: quam quia non habebat aliquam vlteriorem protensionem. Vnde patet quod talis finitas mundi rea 
+        <lb ed="#Bb" n="14"/>lem importat negationem: licet imponatur a modo affirmationis. Propter quod non est mirum, si econtrario infi 
+        <lb ed="#Bb" n="15"/>nitum tam in deo quam in creaturis realiter importet affirmationem, licet imponatur a modo negationis vel 
+        <lb ed="#Bb" n="16"/>priuationis, quia negatio per quam via remotionis a deo quod est in creaturis, cognoscimus aliquid in  
+        <lb ed="#Bb" n="17"/>deo, nobis notior est quam affirmatio absoluta eius quid secundum veritatem est in deo. Et hoc est quod dicit Dio 
+        <lb ed="#Bb" n="18"/>niy. tagens vtrumque in significato huius nominis infiniti. ca. ii. cael. Hier. loquens de diuina essentia. Aliquando dissi 
+        <lb ed="#Bb" n="19"/>milibus manifestationibus ab ipsis eloquiis supermundane laudatur, eam inuisibilem &amp; infinitam &amp; incon 
+        <lb ed="#Bb" n="20"/>prehensibilem vocantibus: ex quibus non quid est: sed quid non est significatur. hoc enim (vt aestimo- 
+        <lb ed="#Bb" n="21"/>patentius est in ipsa. Ecce quo ad significatum negatiuum: &amp; sequitur quo ad affirmatiuum. lgnoramus 
+        <lb ed="#Bb" n="22"/>autem superessentialem ipsius, &amp; inuisibilem, &amp; ineffabilem infinalitatem. Et quod illa ineffabilis infinali 
+        <lb ed="#Bb" n="23"/>tas re affirmatio est, licet modo negationis propter defectum nostri intellectus in ipsam compre- 
+        <lb ed="#Bb" n="24"/>hendendo significata, aperte declarat Dionysius. in similitudinibus ca. vii. de di. no. vbi dicit sic. Consuetu 
+        <lb ed="#Bb" n="25"/>do est theologis contrario mentis affectu a deo quae sunt priuationes depellere: sicut &amp; inuisibilem 
+        <lb ed="#Bb" n="26"/>aiunt eloquia claram lucem &amp; multum laudabilem, &amp; multiuocum, ineffabilem, &amp; innominabilem: &amp; 
+        <lb ed="#Bb" n="27"/>omnibus praesentem: &amp; ex omnibus inuentum incomprehensibilem &amp; non inuestigabilem. Ecce quia dicimus deum 
+        <lb ed="#Bb" n="28"/>tanquam claram lucem inuisibilem: vt contrario affectu negationis vel priuationis nomine exprimi- 
+        <lb ed="#Bb" n="29"/>mus, realem priuationem vel negationem depellamus: &amp; apicem visibilitatis exprimamus: a cuius visi 
+        <lb ed="#Bb" n="30"/>one apex mentis niae necesse habet deficere. Propter quod cum nomina imponimus rebus sicut ipsas con 
+        <lb ed="#Bb" n="31"/>prehendimus, sub modo priuationis nomen imponimus propter nostram defectibilitatem circa ipsam: 
+        <lb ed="#Bb" n="32"/>per quam tamen intendimus insinuare nobis incomprehensibilem positionem. Et sic deum qui est finis omnis 
+        <lb ed="#Bb" n="33"/>consummationis, dicimus infinitum: insfinuando in ipso finem consummantem vltra capacitatem omnis crea- 
+        <lb ed="#Bb" n="34"/>turae semper vlterius protensum. Et quod dictum est de inuisibili &amp; infinito: hoc intelligatur de quolibet no 
+        <lb ed="#Bb" n="35"/>mine priuatiuo in deo. 
+      </p>
+      <p xml:id="vn58an-fe3673-d1e511">
+        ⁋ Et quod illa ad literam sit intentio Diony. patet: quia per hoc exponit illud  
+        <lb ed="#Bb" n="36"/>Apostoli. Quid stultum est dei, sapientius est hominibus, dicens. Eodem modo &amp; diuinus Apostolus laudasse dici 
+        <lb ed="#Bb" n="37"/>tur stultitiam ineffabilem: &amp; ante omnem rationem referens veritatem, hanc igitur irrationalem 
+        <lb ed="#Bb" n="38"/>&amp; mente carentem. 
+        <lb ed="#Bb" n="39"/>
+      </p>
+      <p xml:id="vn58an-fe3673-d1e522">
+        ⁋ Ad primum igitur in oppositum quod creatura dicitur finita positiue: ergo econtra deus di 
+        <lb ed="#Bb" n="40"/>citur infinitus negatiue: Dicendum secundum iam dicta, quod verum est: sed illa affirmatio finis quam dicit finitum 
+        <lb ed="#Bb" n="41"/>in creatura, est per carentiam perfectissimae positionis scilicet protensionis in infinitum, eius cuius non tam 
+        <lb ed="#Bb" n="42"/>consummationem quam consumptionem dicit finis in creaturis: &amp; ad illius protensionem circa naturam diuinam 
+        <lb ed="#Bb" n="43"/>significandam, vtimur hoc nomine infinitum: licet imponatur a negatione finis consumentis, quem posi 
+        <lb ed="#Bb" n="44"/>tiue dicit finitum in creatura. Et sic quo ad modum significandi &amp; nominis impositionem finitum magis signi- 
+        <lb ed="#Bb" n="45"/>ficat aliquid positiue quam infinitum: quantum tamen ad rem intentam significari est econverso: vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe3673-d1e539">
+        ⁋ Ad secun 
+        <lb ed="#Bb" n="46"/>dum quod vltra rationem completi, perfecti, &amp; totius significat aliquod hoc nomen infinitum, quod non potest esse aliquid posi 
+        <lb ed="#Bb" n="47"/>tiuum: Dicendum secundum praedicta quod infinitum non significat aliquid vltra rationem totius &amp; perfecti quod omni- 
+        <lb ed="#Bb" n="48"/>no sit extra rationem perfecti &amp; totius: sed quod in ipsa concluditur sicut determinatum in indeterminato. Sic 
+        <lb ed="#Bb" n="49"/>enim perfectum addit super rationem boni simpliciter accepti rationem completionis &amp; consummationis in bonitate: quam bo 
+        <lb ed="#Bb" n="50"/>num absolute dictum non explicat suo nomine: includit tamen ipsam sicut confusum determinatum. Ratio enim con- 
+        <lb ed="#Bb" n="51"/>pletionis est ratio bonitatis cuiusdam. Vnde cum nihil potest esse actu infinitum quin sit persectissimum: &amp; 
+        <lb ed="#Bb" n="52"/>summe totum: licet infinitum in potentia: rationem imperfecti &amp; partis habet vt dictum est supra: tunc 
+        <lb ed="#Bb" n="53"/>demum dicitur aliquid vere infinitum cum perfectioni suae &amp; totalitati eius non potest fieri additio. Quod non solum 
+        <lb ed="#Bb" n="54"/>est propter negationem, vel priuationem finis consumentis: sed magis propter protensionem quae omnem huiusmodi 
+        <lb ed="#Bb" n="55"/>finem excludit. &amp; est vera ratio positiua: non vltra rationem positiuam in nomine imperfecti vel totius 
+   <!--46.xml-->
+        <pb ed="#Bb" n="16-r"/>
+        <lb ed="#Bb" n="1"/>lta quod sit extra ipsum: sed quae est inclusa in ipsa vt in confuso: &amp; explicata determinate nomine in  
+        <lb ed="#Bb" n="2"/>finiti, vt dictum est. Et sic ratio infiniti est vltima ratio determinata positiua, quae in re quacunque 
+        <lb ed="#Bb" n="3"/>potest haberi: Et exprimit summe rationem dignitatis diuinae. 
+      </p>
+      <p xml:id="vn58an-fe3673-d1e574">
+        ⁋ Et quod arguitur, quod id quod est citra 
+        <lb ed="#Bb" n="4"/>vltimum positiuum in re, habet rationem imperfecti &amp; incompleti: &amp; sic completum, perfectum, &amp; totum si 
+        <lb ed="#Bb" n="5"/>gnificant id quod est vltimo positiuum in re: Dicendum quod positiuum in re significatum vltra rationem totis 
+        <lb ed="#Bb" n="6"/>&amp; perfecti, potest intelligi dupliciter: vel quod illud positiuum sit omnino extra rationem totius &amp; perfecti: vel 
+        <lb ed="#Bb" n="7"/>inclusum vt in confuso. Primo modo verum est assumptum: &amp; hoc modo nullum est attributum diuinum quid si 
+        <lb ed="#Bb" n="8"/>gnificat in deo aliquid positiue super ditiinam essentiam: &amp; quod est citra tale positiuum in re significatum non po 
+        <lb ed="#Bb" n="9"/>test esse nisi imperfectum &amp; incompletum. Secundo modo bene significant attributa diuina aliquid positi 
+        <lb ed="#Bb" n="10"/>ue super diuinam essentiam, &amp; vnum attributum super aliud: &amp; sic non est verum quod id quod citra tale positiuum in re 
+        <lb ed="#Bb" n="11"/>significatur: non sit nisi imperfectum: immo est aeque perfectum secundum rem: licet non secundum rationem in  
+        <lb ed="#Bb" n="12"/>telligendi: secundum quod esse in deo continet omnem diuinam perfectionem. sed secundum rationem intelligendi sub perfe- 
+        <lb ed="#Bb" n="13"/>ctiori ratione significat viuere in deo quam esse. Et sic vltra rationem totius &amp; perfecti significat rationem po 
+        <lb ed="#Bb" n="14"/>sitiuam hoc nomen infinitum: quia explicat rationem perfecti &amp; totius, quod hoc nomen totum vel perfectum non ex 
+        <lb ed="#Bb" n="15"/>plicat: ita quod perfectum &amp; totum simpliciter &amp; in summo non intelliguntur in deo: nisi quia includant 
+        <lb ed="#Bb" n="16"/>rationem infiniti: vt sic nullum finitum inquantum finitum per limitationem protensionis spiritualis bonitatis 
+        <lb ed="#Bb" n="17"/>&amp; perfectionis habet rationem perfecti simpliciter &amp; absolute: sed solum infinitum. &amp; si finitum habeat ratio 
+        <lb ed="#Bb" n="18"/>nem totius &amp; perfecti: hoc est in genere aliquo non absolute. Quomodo autem talis ratio positiua in diuinis 
+        <lb ed="#Bb" n="19"/>attributis super rationem essentiae non sumitur ex aliquo absoluto: sed solum respectiuo: videbitur 
+        <lb ed="#Bb" n="20"/>infra cum erit sermo de diuersitate attributorum.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

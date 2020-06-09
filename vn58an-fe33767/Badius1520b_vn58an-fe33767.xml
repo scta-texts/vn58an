@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="123-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe33767"> <!-- alias="vn58an-a58q1" -->
+      <head xml:id="vn58an-fe33767-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe33767-d1e107">
+        <lb ed="#Bb" n="37"/>CIrca primum arguitur: quod generare non sit proprietas patris: quia non convenit ei, Pri 
+        <lb ed="#Bb" n="38"/>mo sic. Generare non est in re nisi propter suam defectibilitatem. secundum Philosophum. ii. de anima. 
+        <lb ed="#Bb" n="39"/>Data est vis generatiua rebus vt quod in vno saluari non potuerit saluetur in simili. sed  
+        <lb ed="#Bb" n="40"/>in picre diuino nulla defectibilitas est: quia deus est immutabilis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e118">
+        ⁋ Secundo sic  
+        <lb ed="#Bb" n="41"/>non est transitus circa subiectum aliquod in terminum vbi nulla est distantia termini 
+        <lb ed="#Bb" n="42"/>ab ipso subiecto. generatio est transitus quidam circa substantiam quae est in potentia ad  
+        <lb ed="#Bb" n="43"/>esse, ad ipsum esse: in diuinis autem non est substantia in potentia ad esse distans ab esse. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e127">
+        ⁋ Deinde ar  
+        <lb ed="#Bb" n="44"/>guitur quod non convenit ei vt proprium, Primo sic. Eodem modo conveniunt rei secundum rationem proprii &amp; communis po 
+        <lb ed="#Bb" n="45"/>tentia &amp; actus: quia non est, propria potentia nisi sit proprius actus, nec econverso. Sed potentia generandi non 
+        <lb ed="#Bb" n="46"/>est, proprium patris: quia eadem potentia generandi quae convenit pri &amp; est in prse, conuenit filio &amp; est in filio. 
+        <lb ed="#Bb" n="47"/>Aliter enim aliqua esset potentia pris quae non est filii, nec esset filius omnipotens sicut est pitr, quod falsum est. ergo &amp;c. 
+        <lb ed="#Bb" n="48"/>
+      </p>
+      <p xml:id="vn58an-fe33767-d1e141">
+        ⁋ Secundo sic. Actio &amp; passio non habent esse in agente sed in passo. secundum Philosophum. iii. physi. Sed generatio  
+        <lb ed="#Bb" n="49"/>actio est, &amp; generare agere: ergo est in patiente non in agente siue generante. cum ergo pater sit ge- 
+        <lb ed="#Bb" n="50"/>nerans, generare non est in patre: sed proprietas est in persona cuius est, proprietas. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e148">
+        ⁋ Quia au li 
+        <lb ed="#Bb" n="51"/>tem generare conveniat patri, habetur in Psalmo. vbi dicit pater ad filium. Ego hodie genui te. 
+        <lb ed="#Bb" n="52"/>Quia autem ita conueniat ei quod sit proprium eius, patet: quia ei soli convenit: quia (vt patet ex supra 
+        <lb ed="#Bb" n="53"/>determinatis) in diuinis oportet esse vnicam personam quae non habet esse ab alia: &amp; ab illa sola vni- 
+   <!--261.xml-->
+        <pb ed="#Bb" n="123-v"/>
+        <lb ed="#Bb" n="1"/>ca emanatione procedere solum vnicam. Illud autem proprium siue proprietas est personae, quid solum vni 
+        <lb ed="#Bb" n="2"/>convenit. Manifestum est quod illa emanatio qua vnica persona procedit ab illa persona quae non est ab alia 
+        <lb ed="#Bb" n="3"/>proprietas est patris: ipse enim solus est illa persona quae non est ab alia: vt habitum est iam supra. Vnde cum 
+        <lb ed="#Bb" n="4"/>generatio nominat emanationem quandam, quaestio ista intendit quaerere an illa emanatio qua a 
+        <lb ed="#Bb" n="5"/>solo patre emanat alius, sit generatio quaedam siue dici possit generatio, ita quod nulla alia emanatio 
+        <lb ed="#Bb" n="6"/>possit dici generatio: vt sic sit proprietas patris &amp; propria, vt nulli alii conueniat. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e174">
+        <lb ed="#Bb" n="7"/>⁋ Et quo ad primum articulum expediemus nos hic declarando quod illa emanatio de 
+        <lb ed="#Bb" n="8"/>bet dici generatio: quo ad secundum articulum reseruamus declarationem vsque ad quaestionem de proprie 
+        <lb ed="#Bb" n="9"/>tate spirationis, quomodo est, proprietas patris, &amp; vtrum sit in eo alia proprietas a generatione.  
+        <lb ed="#Bb" n="10"/>Supposito igitur ex supra determinatis quod in diuinis est emanatio principalis qua a solo ingeni 
+        <lb ed="#Bb" n="11"/>to procedit vnicus, difficile est adhuc videre quomodo illa emanatio possit dici generatio, &amp; ta- 
+        <lb ed="#Bb" n="12"/>men conandum est nobis aliquid exinde scire. dicente Hila. iii. de triniitate. cap. ix. Noli nescire quod ab  
+        <lb ed="#Bb" n="13"/>ingenito &amp; perfecto patre vnigenitus perfectus natus dei filius sit: quia sensum &amp; sermonem humanae na 
+        <lb ed="#Bb" n="14"/>turae virtus generationis exeedat. Sed hoc circa diuina coniicere non possumus nisi ex generatione 
+        <lb ed="#Bb" n="15"/>quam circa creaturam videmus. Propter quod domins generationem suam circa creaturas nobis suadet Esaiae 
+        <lb ed="#Bb" n="16"/>vlti. Ego quid generationem caeteris tribuo sterilis ero: Quod exponit Glos. de generatione aeterna. Artta 
+        <lb ed="#Bb" n="17"/>men similie omnino circa generationem creaturarum non inuenimus. Vnde comparando generationem diuinam &amp; hu 
+        <lb ed="#Bb" n="18"/>manam quae perfectissima est in creaturis, dicit Damasc. lib. i. c. x. Sicut non simliter facit homo &amp; deus, ita neque  
+        <lb ed="#Bb" n="19"/>similiter homo generat &amp; deus. Et propter hoc ea quae scriptura modo humano loquitur de gene 
+        <lb ed="#Bb" n="20"/>ratione diuina, modo quo naturae diuinae sermo competit intelligendus est. dicente Ambrosio. ist de 
+        <lb ed="#Bb" n="21"/>trinitate in exponendo illud Adeo exiui. Cum in vsu nostro id sit exire quod iam sit, &amp; ex in-  
+        <lb ed="#Bb" n="22"/>terioribus secretis prodire videatur quod exire perhibetur, angustis licet sermonibus proprie- 
+        <lb ed="#Bb" n="23"/>tatem diuinae generationis aduertimus: vt non ex loco aliquo videatur exisse, sed vt deus de deo 
+        <lb ed="#Bb" n="24"/>filius ex patre. Sic &amp; in aliis quae deo ex creaturarum generatione attribuimus, vt deo nata sunt con 
+        <lb ed="#Bb" n="25"/>uenire attribuere debemus, amouendo quid defectus est &amp; imperfectionis circa creaturas, &amp; asserem 
+        <lb ed="#Bb" n="26"/>do quod est perfectionis. Propter quod dicit Damascenus. Deus sine tempore ens, &amp; sine principio, &amp; 
+        <lb ed="#Bb" n="27"/>impassibilis, &amp; influxibilis, &amp; incorporeus, &amp; solus, &amp; infinitus, sine tempore, &amp; sine principio, &amp; 
+        <lb ed="#Bb" n="28"/>non fuxibiliter &amp; sine coitu generat. Semper enim secundum naturarum diuersitatem diuersus modus ge  
+        <lb ed="#Bb" n="29"/>nerationis inuenitur: &amp; quanto natura est inferior, tanto generatio exterior &amp; planior: &amp; quanto 
+        <lb ed="#Bb" n="30"/>superior tanto intimior &amp; occultior. Ab infimo igitur modo generationis ascendendo dicimus quod  
+        <lb ed="#Bb" n="31"/>ille est accidentium: propter quod <name ref="#Aristotle">Philosophus</name> in i. de generatione, generationem accidentium non appellat simpliciter 
+        <lb ed="#Bb" n="32"/>generationem, sed aliquam generationem. Generationem vero substantiarum appellat simpliciter generationem. 
+        <lb ed="#Bb" n="33"/>&amp; hoc ideo: quia eorum generatio est de subiecto in subiectum, generatio vero substantiarum est de non 
+        <lb ed="#Bb" n="34"/>subiecto in subiectum: vt dicit quinto physicorum. Et est generatio diuina in aliquo habens simile 
+        <lb ed="#Bb" n="35"/>cum generatione accidentium, &amp; in aliquo cum generatione substantiarum. Cum generatione ac- 
+        <lb ed="#Bb" n="36"/>cidentium: quia in ipsa generatione diuina est quasi subiectum existens in actu ipsa diuina essen 
+        <lb ed="#Bb" n="37"/>tia: &amp; in generatione accidentium subiectum est existens in forma substantiali: differt autem in aliis. 
+        <lb ed="#Bb" n="38"/>Conuenit autem cum generatione substantiarum, quia vtrobique generatum est aliquid subsi- 
+        <lb ed="#Bb" n="39"/>stens: licet hic relatiue, ibi vero absolute: in aliis autem differt. In substantiis autem est quaedam ge- 
+        <lb ed="#Bb" n="40"/>neratio aequiuoca: vt cum a calore solis per putrefactionem generatur vermis: cui minime conue- 
+        <lb ed="#Bb" n="41"/>nit ista generatio: quia procedit secundum rationem similitudinis. Vnde maxime assimilatur illi gene 
+        <lb ed="#Bb" n="42"/>rationi quae est similis ex simili: differt tamen a qualibet illarum: quaelibet enim illarum est per mutatio- 
+        <lb ed="#Bb" n="43"/>nem mediam inter generans &amp; genitum circa illud ex quo sit generatio: quia ex quo sit generatio non  
+        <lb ed="#Bb" n="44"/>est nisi ens in potentia: quod per mutationem factam ab agente transit ad actum secundum aliud in forma rea- 
+        <lb ed="#Bb" n="45"/>liter a forma generantis. In generatione autem diuina id ex quo est generatio est aliquid existens in poten- 
+        <lb ed="#Bb" n="46"/>tia, non quod per generationem fit in actu aliquid acquirendo in seipso per quod in actu fiat ex potentia 
+        <lb ed="#Bb" n="47"/>existente: sed quod per generationem idipsum numero secundum eundem actum formae sit geniti quod est generan 
+        <lb ed="#Bb" n="48"/>tis: vt cum generatio sit sine motu &amp; mutatione, non est in ipsa plus ex parte generantis quam respe 
+        <lb ed="#Bb" n="49"/>ctus siue relatio ad genitum: vnde nec similiter in genito plusquam respectus eius ad generantem: qui respectus 
+        <lb ed="#Bb" n="50"/>sunt fundati in ipsa essentia ex qua est generatio, cum qua sunt constitutiui personarum generantis &amp; ge 
+        <lb ed="#Bb" n="51"/>niti. Vnde sicut generatio in corporalibus intelligitur modo corporali: sic in deo modo spiritua 
+        <lb ed="#Bb" n="52"/>li. Et quia deus est intellectualis natura, modo intellectualis emanationis debet intelligi genera 
+        <lb ed="#Bb" n="53"/>tio diuina. &amp; hoc secundum aliquos per hunc modum. Dicunt enim sic. Deus seipsum intelligit: omne au  
+        <lb ed="#Bb" n="54"/>tem intellectum inquantum intelligitur oportet esse in intelligente. vnde etiam intellectus noster 
+   <!--262.xml-->
+        <pb ed="#Bb" n="124-r"/>
+        <lb ed="#Bb" n="1"/>seipsum intelligens est in seipso, non solum vt idem sibi per essentiam: sed etiam vt a seipso apprehensum intel- 
+        <lb ed="#Bb" n="2"/>ligendo. Oportet igitur quod deus in seipso sit vt intellectum in intelligente. Hoc totum verum est: sed quod 
+        <lb ed="#Bb" n="3"/>addunt continue: intellectum autem in intelligente est intentio intellecta &amp; verbum: est igitur in  
+        <lb ed="#Bb" n="4"/>deo intelligente seipsum verbum dei quasi deus intellectus, sicut verbum lapidis in intellectu est la- 
+        <lb ed="#Bb" n="5"/>pis intellectus: Hoc non est sufficiens vsquequaque. Deus enim trinitas intelligit seipsum, &amp; similiter 
+        <lb ed="#Bb" n="6"/>quaelibet personarum diuinarum. Per actum autem intelligendi intellectum in intelligente semper est intentio 
+        <lb ed="#Bb" n="7"/>intellecta, non tamen semper est verbum: quia in proposito tale intelligere essentiale est. Vnde non magis 
+        <lb ed="#Bb" n="8"/>intentio intellecta est verbum cum pater intelligit seipsum: quam cum silius intelligit seipsum, aut spiritus san- 
+        <lb ed="#Bb" n="9"/>ctus, aut vna personarum intelligit alteram. Propterea cum pater intelligit seipsum:, ipse est in seipso 
+        <lb ed="#Bb" n="10"/>scilicet pater in patre vt in intelligente. Si ergo omne intellectum in intelligente esset verbum &amp; filius, 
+        <lb ed="#Bb" n="11"/>tunc pater esset verbum &amp; filius suiipsius: quod falsum est. Non ergo omne quod est in alio vt intel- 
+        <lb ed="#Bb" n="12"/>lectum in intelligente verbum est, neque in deo, neque in hominibus: sed aliquod sic, &amp; aliquod non. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e314">
+        ⁋ Ad quod  
+        <lb ed="#Bb" n="13"/>discernendum sciendum est, quod cum dicitur, intellectum existens in intelligente est verbum eius, ali- 
+        <lb ed="#Bb" n="14"/>quid attendendum est ex parte intelligentis, aliquid vero ex parte intellecti existentis in intelligen- 
+        <lb ed="#Bb" n="15"/>te. Ex parte enim intelligentis attendendum quod aliquid vt deus est intelligens secundum actum: quia ipse 
+        <lb ed="#Bb" n="16"/>intelligens est ipsum intellectum. Et ideo intelligere quo dicitur intelligens, non est intelligere per 
+        <lb ed="#Bb" n="17"/>aliquam actionem alicuius mouentis intellectum eius, nisi secundum rationem tantum: sed est intelligere per 
+        <lb ed="#Bb" n="18"/>essentiam. Et est istud intelligere operatio quaedam essentialis intelligentis, non autem aliquid operatum in in-  
+        <lb ed="#Bb" n="19"/>telligente, nec ab aliquo quid est intra aut extra eum nisi secundum rationem: intelligendo scilicet in, eo 
+        <lb ed="#Bb" n="20"/>idem sub ratione intelligibilis mouentis &amp; intellectus moti, &amp; actus intelligendi formati in intelle- 
+        <lb ed="#Bb" n="21"/>ctu: quemadmodum ista habent differre &amp; esse secundum rem in actu nostro simplicis intelligentiae: in  
+        <lb ed="#Bb" n="22"/>telligibili extra agente in nostrum intellectum, vt formetur in ipso actus intelligendi: respectu cuius 
+        <lb ed="#Bb" n="23"/>intellectus noster pure passiuus est. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e340">
+        ⁋ Ex parte vero intellecti est attendendum quod intellectum con 
+        <lb ed="#Bb" n="24"/>tingit esse in intellectu dupliciter. Vno modo essentialiter: quia intellectum est ipsum intelli- 
+        <lb ed="#Bb" n="25"/>gens: vt sit esse in, secundum rationem tantum: quia absque omni actione siue operatione alicuius in in-  
+        <lb ed="#Bb" n="26"/>tellectum secundum rem ad ipsius formationem: vt iam dictum est. Et quod sic est in intelligen- 
+        <lb ed="#Bb" n="27"/>te, non est verbum nisi essentiale, &amp; sola ratione differens ab intelligente. Non tamen etiam se- 
+        <lb ed="#Bb" n="28"/>cundum rationem est opus intelligentis secundum quod est intelligens: immo est forma qua intelligens est 
+        <lb ed="#Bb" n="29"/>intelligens: nec etiam est opus intellectus vt intellectus solum: quia vt est purus &amp; nudus ab  
+        <lb ed="#Bb" n="30"/>omni informatione respectu actus intelligendi, non est nisi passiuus: sed est solummodo opus rei 
+        <lb ed="#Bb" n="31"/>intellectae: propter quod nec verbum intellectus potest dici: vt infra amplius declarabitur. Alio 
+        <lb ed="#Bb" n="32"/>vero modo contingit intellectum esse in intelligente causaliter: quia est aliquid operatum in in  
+        <lb ed="#Bb" n="33"/>telligente: vt sit esse in secundum rem. Sed in intelligente potest esse intellectum operatum duplici 
+        <lb ed="#Bb" n="34"/>ter. Vno modo ab aliquo obiecto agente in intellectum: vt per actum intelligendi quem format 
+        <lb ed="#Bb" n="35"/>in intellectu habeat esse intelligens secundum actum, &amp; ipsum obiectum intellectum in intelligen- 
+        <lb ed="#Bb" n="36"/>te. Sed non vt verbum intellectus in huiusmodi intellectu habent esse actus intelligendi, aut ipsum  
+        <lb ed="#Bb" n="37"/>obiectum: quia non est ab ipso intellectu actus intelligendi in intellectu formatus: sed ab obie- 
+        <lb ed="#Bb" n="38"/>cto, propter quid si verbum diceretur, potius diceretur verbum obiecti quam intellectus. Hoc modo in-  
+        <lb ed="#Bb" n="39"/>tellectum esse in intelligente contingit in solis creaturis: quia non intelligunt se &amp; alia per suam 
+        <lb ed="#Bb" n="40"/>essentiam: sicut solus deus. Et ideo per hunc modum nihil est in deo vt intellectum in intelli- 
+        <lb ed="#Bb" n="41"/>gente, nisi secundum rationem tantum: vt dictum est. Et quo ad hoc verbum essentiale potius dicitur esse, in-  
+        <lb ed="#Bb" n="42"/>tellectum in intelligente simplicis notitiae in creaturis quam in deo: quia illud est operatum realiter 
+        <lb ed="#Bb" n="43"/>&amp; vera actione in intellectu creaturae, licet non ab intellectu, sed ab obiecto: vt dictum est: &amp; dif 
+        <lb ed="#Bb" n="44"/>fert secundum rem ab ipso intellectu, licet non ab intelligente inquantum intelligens est: quia est 
+        <lb ed="#Bb" n="45"/>forma qua formaliter intelligit: in deo autem (vt dictum est) non est operatum nec differens ab  
+        <lb ed="#Bb" n="46"/>intellectu nisi sola ratione. Alio autem modo potest aliquid in intellectu esse operatum ab ipso 
+        <lb ed="#Bb" n="47"/>intelligente inquantum est intelligens in actu, &amp; sic ab opere intellectus secundum quod est actus intelli- 
+        <lb ed="#Bb" n="48"/>gens &amp; informatus intellectione actuali qua agit in seipsum inquantum est intellectus purus 
+        <lb ed="#Bb" n="49"/>&amp; quasi materialis, secundum quod supra expositum est in quaestione, an actus generandi &amp; spiram 
+        <lb ed="#Bb" n="50"/>di sint quaedam intelligere &amp; velle, de formatione verbi in intellectu creato, &amp; per simile quo-  
+        <lb ed="#Bb" n="51"/>dammodo in intellectu increato. Vnde quia non est verbum aliquod nisi ab opere intellectus 
+        <lb ed="#Bb" n="52"/>conceptum in ipso intellectu per actum suum qui est dicere: illud ergo intellectum quod est in  
+        <lb ed="#Bb" n="53"/>intelligente non per actum intellectus qui est dicere: sed ex sola actione rei intellectae in intelle- 
+        <lb ed="#Bb" n="54"/>ctum: vt quo ad ipsum actum intellectus sit pure passiuus, &amp; nullo modo actiuus: nullo modo est 
+        <lb ed="#Bb" n="55"/>verbum. Et tale est omne quod dicimus intelligi intellectu simplici: quoniam talem intellectum non  
+   <!--263.xml-->
+        <pb ed="#Bb" n="124-v"/>
+        <lb ed="#Bb" n="1"/>agit nisi res intellecta: vt secundum se est quoddam intelligibile: cuius actio pure naturalis est, non per 
+        <lb ed="#Bb" n="2"/>cognitionem: quemadmodum calidum agit calefactionem. Propter quod talis actio nullo modo est di- 
+        <lb ed="#Bb" n="3"/>cere: quia dicere est actio quae fit per cognitionem. Vnde isto modo ponere generationem in di- 
+        <lb ed="#Bb" n="4"/>uinis, non est ponere ipsam modo intellectualis operationis, sed praecise naturalis: nec est genera 
+        <lb ed="#Bb" n="5"/>tio notitiae de notitia: sed de re cognita: vt dictum est. Licet ergo aliquid sit in seipso: non solum 
+        <lb ed="#Bb" n="6"/>vt idem per essentiam: sed vt comprehensum a se in intelligendo: non ex hoc verbum est ipsum 
+        <lb ed="#Bb" n="7"/>comprehensum aut intellectio: sed solummodo illud intellectum quod est in intelligente per 
+        <lb ed="#Bb" n="8"/>actum intellectus qui est dicere, verbum eius est. Et tale est omne quod dicimus intelligi in-  
+        <lb ed="#Bb" n="9"/>tellectu declaratiuo siue manifestatiuo: quoniam talem intellectum non agit res intellecta vt est 
+        <lb ed="#Bb" n="10"/>res secundum se: sed vt iam est intellecta &amp; forma intellectus per actionem intelligendi simplicis 
+        <lb ed="#Bb" n="11"/>notitiae qua intellectus sic informatus est intelligere quoddam in actu: ita quod totus intellectus vt sic 
+        <lb ed="#Bb" n="12"/>informatus est, &amp; intelligere quoddam in actu, est quoddam intelligibile: quod quemadmodum quod  
+        <lb ed="#Bb" n="13"/>dam obiectum natum est quasi reflecti in ipsum intellectum eundem, vt intellectus est purus, mouendo ipsum  
+        <lb ed="#Bb" n="14"/>ad actum intelligendi seipsum iam informatum actu intelligendi simplicis notitiae. Talem autem actum 
+        <lb ed="#Bb" n="15"/>non agit res intellecta vt res est secundum se: sed vt iam intellecta est: immo ipse intellectus vt iam 
+        <lb ed="#Bb" n="16"/>est intellectus &amp; intelligere quoddam in actu per ipsam rem intellectam: propter quod non est praecise na- 
+        <lb ed="#Bb" n="17"/>turalis: sed naturalis per cognitionem: &amp; ab intellectu informato notitia simplicis intelligentiae qua  
+        <lb ed="#Bb" n="18"/>intelligit rem intellectam, generatur in eodem notitia declaratiua qua intelligit se intelligere rem 
+        <lb ed="#Bb" n="19"/>intellectam. Propter quod proprie dicitur esse modo operationis intellectualis, &amp; est generata no 
+        <lb ed="#Bb" n="20"/>titia de notitia: videlicet de notitia simplicis intelligentiae, notitia manifestatiua siue declarati 
+        <lb ed="#Bb" n="21"/>ua illius notitiae quae concepta est simplici intelligentia: quae quia sic generatur &amp; de tali gene- 
+        <lb ed="#Bb" n="22"/>rante, eius generatio proprie dicere quoddam est, &amp; eius genitum proprie verbum generantis est. De talis 
+        <lb ed="#Bb" n="23"/>igitur verbi emanatione oportet nos videre quomodo vere &amp; secundum naturam rei debeat dici ge 
+        <lb ed="#Bb" n="24"/>neratio: sed modo intellectualis operationis. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e468">
+        ⁋ Dicendum igitur quod secundum supra determinata ipsa 
+        <lb ed="#Bb" n="25"/>diuina essentia est fundamentum omnium diuinarum proprietatum: sed quasi primo constitutiua pro 
+        <lb ed="#Bb" n="26"/>prietatis personae primae: sub qua quidem proprietate inquantum est vt quoddam intelligere essentiale in  
+        <lb ed="#Bb" n="27"/>intelligente (vt iam dictum est) est primo foecunda ad actum primae emanationis qua emanat persona prima 
+        <lb ed="#Bb" n="28"/>emanans. Ex cuius modo emanandi clare patet quod debet dici vera generatio. Intellectus enim diuin 
+        <lb ed="#Bb" n="29"/>nus in persona illa prima quae non est ab alia, a qua procedit ista prima emanatio, vt secundum iam dictum 
+        <lb ed="#Bb" n="30"/>modum est intelligere quoddam in actu, est ratio qua habet elicere actum huiusmodi emanationis. Et 
+        <lb ed="#Bb" n="31"/>est illud intelligere in tali persona, sicut actualis memoria: quam oportet esse actualem: quia ex quo per 
+        <lb ed="#Bb" n="32"/>fectissima est ista emanatio, debet esse summe actuale id quod est ratio eliciendi ipsam. Et est il- 
+        <lb ed="#Bb" n="33"/>le actus intelligendi secundum quem est in actu, pure essentialis: in quo sunt idem re, differentia sola ra- 
+        <lb ed="#Bb" n="34"/>tione, intelligens, intellectum, actus intelligendi, &amp; caetera huiusmodi. ldem vero intellectus 
+        <lb ed="#Bb" n="35"/>in eadem persona existens, vt est quasi in potentia ad actum intelligendi declaratiuum, est id  
+        <lb ed="#Bb" n="36"/>a quo habet produci emanans quod est ipsa notitia declaratiua siue intellectio in actu intelli- 
+        <lb ed="#Bb" n="37"/>gendi declaratiuo existens in persona a qua emanat: vt verbum in intelligentia non inhaerens sed suba 
+        <lb ed="#Bb" n="38"/>sistens, &amp; declaratiuum notitiae illius a quo formatur, distinctum ab eo in quo est. dicente Damasceno 
+        <lb ed="#Bb" n="39"/>assignando differentiam inter verbum nostrum &amp; verbum diuinum. lib. i. c. vi. Semper habet suiipsius 
+        <lb ed="#Bb" n="40"/>verbum, non secundum verbum nostrum non subsistens, sed subsistens, omnia habens quaecumque genitor 
+        <lb ed="#Bb" n="41"/>habet. Sicut enim verbum nostrum de intellectu nostro procedens, neque per omnia idem est cum 
+        <lb ed="#Bb" n="42"/>intellectu, neque omnifariam aliud: nam ex intellectu ens aliud est praeter ipsum: ipsum autem intellectum in  
+        <lb ed="#Bb" n="43"/>apertum ducens: neque adhuc omnifariam aliud praeter intellectum: sed secundum naturam vnum ens aliud  
+        <lb ed="#Bb" n="44"/>est subiecto: ita &amp; dei verbum in eo quidem quod subsistit secundum se, distinguitur ab eo a quo habet exi- 
+        <lb ed="#Bb" n="45"/>stentiam: in eo vero quod eadem ostendit in seipso quae circa deum inspiciuntur, idem est secundum naturam cum 
+        <lb ed="#Bb" n="46"/>illo. Sicut enim quod in omnibus perfectum, in patre consideratur, ita &amp; in eo quod ex eo genitum est verbum 
+        <lb ed="#Bb" n="47"/>considerabitur. Cuius reuera emanatio ex modo emanandi ostenditur vera generatio: quia ex hoc ema 
+        <lb ed="#Bb" n="48"/>natio dicitur vera generatio quod agens est in actu secundum formam qua agit, &amp; hoc imprimendo for- 
+        <lb ed="#Bb" n="49"/>mam eius in subiecto passibili materiali, &amp; per hoc producendo sibi simile in natura &amp; forma: 
+        <lb ed="#Bb" n="50"/>quemadmodum ignis generat ignem ex materia, &amp; homo hominem. Per omnem autem talem modum emanat in di 
+        <lb ed="#Bb" n="51"/>uinis persona a persona, propter quod vera &amp; naturalis debet dici generatio. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e530">
+        ⁋ Quia autem ita sit, patet ex 
+        <lb ed="#Bb" n="52"/>comparatione huius emanationis ad illam quae est vera generatio in creaturis: quae in hoc solo differunt:  
+        <lb ed="#Bb" n="53"/>quod ibi agens formam suam naturaliter imprimit in exteriorem materiam, aliam secundum numerum ab illa quae  
+        <lb ed="#Bb" n="54"/>in se est sub sua forma: propter quod etiam communicat ei aliam formam secundum numerum, &amp; produ 
+        <lb ed="#Bb" n="55"/>cit aliud re absoluta. Hic autem persona a qua est prima emanatio, suam formam quae est quae  
+   <!--264.xml-->
+        <pb ed="#Bb" n="125-r"/>
+        <lb ed="#Bb" n="1"/>dam notitia essentialis qua secundum actum intelligit se: quasi imprimit in proprium intellectum, vt 
+        <lb ed="#Bb" n="2"/>in quasi subiectum &amp; in quasi materiam modo intellectuali passibilem ab illa forma vt a proprio intelligi 
+        <lb ed="#Bb" n="3"/>bili. Propter quod conicat ei eandem formam secundum numerum qua agit, &amp; idem quasi subiectum in quod agit: 
+        <lb ed="#Bb" n="4"/>&amp; producit re absoluta non nisi idem, distinctum solum penes ab alio habere esse, &amp; penes a quo alius 
+        <lb ed="#Bb" n="5"/>habet esse, &amp; penes esse notitiam simpliciter, &amp; penes esse notitiam declaratiuam, qui sunt modi ha 
+        <lb ed="#Bb" n="6"/>bendi tantum. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e559">
+        ⁋ Ad ampliorem autem aliqualem declarationem huiusmodi generationis incomprehen 
+        <lb ed="#Bb" n="7"/>sibilis: Sciendum quod in ipsa est considerare generans &amp; formam qua generat communicandam gene- 
+        <lb ed="#Bb" n="8"/>rato, &amp; subiectum de quo generat, cui quasi formam sui imprimit eam quasi educendo vt de 
+        <lb ed="#Bb" n="9"/>quodam quasi potentiali. lpsa enim persona ingenita tota generans est per suam formam quae est 
+        <lb ed="#Bb" n="10"/>diuina essentia, inquantum est intelligere quoddam essentiale secundum actum intelligendi seipsum. 
+        <lb ed="#Bb" n="11"/>Per hoc eni generans secundum suam formam est foecundus actiue ad simile sibi secundum formam producen- 
+        <lb ed="#Bb" n="12"/>dum: &amp; ad formam suam illi communicandam. Per idem etiam intellectus paternus qui est ipsa diuina 
+        <lb ed="#Bb" n="13"/>essentia, inquantum est intelligentia quaedam, qui est subiectum de quo generat formam suam quasi 
+        <lb ed="#Bb" n="14"/>imprimendo eam secundum praedictum modum, est foecundus quasi passiue, modo quo superius poten 
+        <lb ed="#Bb" n="15"/>tiam passiuam in deo posuimus: &amp; est quasi dispositus vt materia, quae dicitur necessitas ad for- 
+        <lb ed="#Bb" n="16"/>mam de ipsa quasi producendam siue ei imprimendam. Secundum hoc enim dicitur habere rationem vteri 
+        <lb ed="#Bb" n="17"/>iuxta illud Psal. Ex vtero ante Luciferum genui te. In tali enim vtero per actionem formae suae dicit 
+        <lb ed="#Bb" n="18"/>Sapientia genita se conceptam esse. Prouerbiorum. viii. Nondum erant abyssi: &amp; ego concepta 
+        <lb ed="#Bb" n="19"/>eram. Dicitur autem conceptio: quia virtute formae qua agit, formatur in intellectu: absque tamen 
+        <lb ed="#Bb" n="20"/>omni imperfectione: sicut contingit in conceptu materiali. Nec differt ista conceptio a generatione 
+        <lb ed="#Bb" n="21"/>nisi ratione. Dicitur enim generatio, quia perfectum esse secundum formam habet in intellectu paterno 
+        <lb ed="#Bb" n="22"/>&amp; quia in deo idem est generare &amp; parere, genitus dicitur partus. Differunt tamen ratione: quia 
+        <lb ed="#Bb" n="23"/>partus dicitur non ex hoc quod est perfectus secundum formam: sed ex hoc quod est distinctus a parente. 
+        <lb ed="#Bb" n="24"/>Vnde in corporalibus perfectus secundum formam dicitur generatus generatione in vtero antequam pariatur 
+        <lb ed="#Bb" n="25"/>ex vtero &amp; separetur ab vtero. Et quia in istis inter generationem in vtero &amp; partum, medium 
+        <lb ed="#Bb" n="26"/>est parturire, quod est quidam motus ad pariendum in quo cruciantur matres: licet diuinum con 
+        <lb ed="#Bb" n="27"/>cipere generare &amp; parere sit totum simul &amp; aeternum absque successione omni: vti tamen voluit 
+        <lb ed="#Bb" n="28"/>scriptura hoc nomine in diuina generatione: cum dixit Prouerbiorum. viii. Ante colles ego partu- 
+        <lb ed="#Bb" n="29"/>riebar, quamuis idem omnino sint in deo parere &amp; parturire. Haec enim omnia quae diuersa sunt in  
+        <lb ed="#Bb" n="30"/>creaturis: quia aliquid perfectionis praeter defectum eis annexum important: ideo singula scriptura 
+        <lb ed="#Bb" n="31"/>diuina tranfferre dignata est ad significandum generationem diuinam, quae perfectissima est: nec assi 
+        <lb ed="#Bb" n="32"/>milatur ei aliqua alia generatio aut productio. In hoc enim consistit generatio quod genitum assimi- 
+        <lb ed="#Bb" n="33"/>lat generanti: &amp; modo assimilandi procedit: non sic autem productio alia: per quod in diuinis differunt ge- 
+        <lb ed="#Bb" n="34"/>neratio &amp; spiratio, vt infra videbitur. Vnde &amp; in rebus naturalibus generans quantum est in se 
+        <lb ed="#Bb" n="35"/>statim perfecte assimilaret sibi genitum prout esset possibile, nisi esset indispositio materiae &amp; de 
+        <lb ed="#Bb" n="36"/>bilitas virtutis actiuae: &amp; hoc non solum in substantialibus: sed in accidentalibus: non solum 
+        <lb ed="#Bb" n="37"/>ex parte corporis, sed etiam ex parte animae in hominibus. dicente Philosophous in primo Politicorum. Digni 
+        <lb ed="#Bb" n="38"/>ficant quemadmodum ex homine hominem, &amp; ex bestiis fieri bestiam: sic &amp; ex bonis fieri bonum. 
+        <lb ed="#Bb" n="39"/>Natura autem vult hoc facere multotiens: non tamen potest. Quia ergo perfectio generationis in hoc 
+        <lb ed="#Bb" n="40"/>consistit quod genitum generanti assimilat: vbi ergo verior &amp; perfectissima est assimilatio, &amp; verior &amp; perfe 
+        <lb ed="#Bb" n="41"/>ctissima generatio: quia omnis similitudo fundatur super identitatem in forma. secundum Philosophum. ix. Meta. Vbi ergo est 
+        <lb ed="#Bb" n="42"/>maior in forma identitas, &amp; maior similitudo: haec autem est in summo inter generans &amp; genitum: quia 
+        <lb ed="#Bb" n="43"/>sunt vnum &amp; idem in forma deitatis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e642">
+        ⁋ Quare igitur emanatio illa qua a persona in-  
+        <lb ed="#Bb" n="44"/>genita alia emanat, propria est illi personae: quia nulli alii potest conuenire secundum supra deter- 
+        <lb ed="#Bb" n="45"/>minata: &amp; secundum iam determinata illa est verissima generatio. Generare igitur proprium si- 
+        <lb ed="#Bb" n="46"/>ue proprietas est illius personae quae est pater. Idcirco absolute dicendum quod generare est pro 
+        <lb ed="#Bb" n="47"/>prietas patris. 
+        <lb ed="#Bb" n="48"/>
+      </p>
+      <p xml:id="vn58an-fe33767-d1e655">
+        ⁋ Ad primum in oppositum: quod generare non est in re nisi propter suam defectibilitatem, &amp; 
+        <lb ed="#Bb" n="49"/>ita propter imperfectionem: Dicendum quod generationem esse in rebus propter imperfectionem &amp; defe- 
+        <lb ed="#Bb" n="50"/>ctibilitatem, potest dupliciter intelligi. Vno modo quod ipsa generatio siue ipsum generare sit aliquid  
+        <lb ed="#Bb" n="51"/>imperfectionis aut defectus in generantibus. Alio modo: quod non est nisi in habentibus imperfectio- 
+        <lb ed="#Bb" n="52"/>nem &amp; defectibilitatem propter quam est in eis. Primo modo falsa est propositio, &amp; falso intelli- 
+        <lb ed="#Bb" n="53"/>gitur. generatio enim non dicit in re defectum &amp; imperfectionem: sed potius perfectionem, quae  
+        <lb ed="#Bb" n="54"/>data est creaturis imperfectis propter supplendam suam imperfectionem, vt dicit auctoritas philosophi adducta 
+   <!--265.xml-->
+        <pb ed="#Bb" n="125-v"/>
+        <lb ed="#Bb" n="1"/>in argumento. Et sic secundo modo vera est propositio, &amp; verum habet intellectum: sed non nisi in crea 
+        <lb ed="#Bb" n="2"/>turis, intelligendo scilicet generationem non esse rebus datam nisi propter earum imperfectionem. 
+        <lb ed="#Bb" n="3"/>Dictum autem illud vniuersaliter sumptum, non est verum: quia in diuinis est generatio propter perfe- 
+        <lb ed="#Bb" n="4"/>ctionem. vnde non procedit argumentum. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e684">
+        ⁋ Ad secundum: quod generatio est transitus circa subiectum ab eo 
+        <lb ed="#Bb" n="5"/>quod est in potentia ad id quod est in actu &amp;c. Dicendum quod hoc verum est in creaturis: in quibus genera- 
+        <lb ed="#Bb" n="6"/>re &amp; generari, &amp; vniversale agere &amp; pati siue actio &amp; passio sunt motus aut mutatio: non autem in deo: quid 
+        <lb ed="#Bb" n="7"/>immutabiliter generat. dicente Damasceno li. i. ca. viii. In filii generatione impium est dicere tem- 
+        <lb ed="#Bb" n="8"/>pus mediare: vel post patrem filii existentiam genitam esse. Et infra. Sed generatio est sine principio &amp; 
+        <lb ed="#Bb" n="9"/>eterna, naturae opus existens. &amp; infra. Neque similiter deus generat &amp; homo. Deus enim sine tempore 
+        <lb ed="#Bb" n="10"/>quid ens, &amp; sine principio, &amp; impassibilis &amp; influxibilis impassibiliter &amp; sine tempore &amp; non fuxi 
+        <lb ed="#Bb" n="11"/>biliter generat. Et infra. Homo autem manifestum quod contrarie generat sub generatione existens &amp; cor 
+        <lb ed="#Bb" n="12"/>ruptione &amp; fuxu. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e704">
+        ⁋ Ad cuius ampliorem intellectum sciendum quod in creaturis quia non est genera 
+        <lb ed="#Bb" n="13"/>tio nisi ex eo quod est in potentia quantum est ex se, &amp; non in actu nisi per agens generans: propter hoc 
+        <lb ed="#Bb" n="14"/>necessario motu vel mutatione vadit ad actum de potentia: qui quidem motus aut mutatio siuxus qui  
+        <lb ed="#Bb" n="15"/>dam est ab agente in passum: qui dicitur actio vt est ab agente, &amp; passio vt recipitur in passo: ita quod  
+        <lb ed="#Bb" n="16"/>actio &amp; passio inquantum sunt huiusmodi fluxus, constituunt duo praedicamenta accidentium: vnum 
+        <lb ed="#Bb" n="17"/>vt est ab agente, quod dicitur actio: alterum vt in recipiente, quod dicitur passio: &amp; ambo habent esse 
+        <lb ed="#Bb" n="18"/>in passo recipiente vt in subiecto, sicut determinat philosophus. iii. Physicorum. Et hoc modo generare &amp; 
+        <lb ed="#Bb" n="19"/>generari non habent esse: neque actio aut passio omnino. Alio autem modo considerantur ge- 
+        <lb ed="#Bb" n="20"/>nerare &amp; generari &amp; vniuersaliter actio &amp; passio non secundum quod sunt motus aut mutatio 
+        <lb ed="#Bb" n="21"/>siue fluxus: sed solum secundum rationes respectuum fundatorum in actiuo &amp; passiuo, quibus se mu- 
+        <lb ed="#Bb" n="22"/>tuo respiciunt secundum habitudinem qua vnum eorum habet esse ab alio: &amp; sic amittunt rationem prae- 
+        <lb ed="#Bb" n="23"/>dicamenti actionis aut passionis, &amp; pertinent ad praedicamentum relationis. Habent tamen in diui 
+        <lb ed="#Bb" n="24"/>nis vere &amp; perfecte quicquod est de perfectione actionis &amp; passionis. Hluxus eni ille non est nisi propter 
+        <lb ed="#Bb" n="25"/>defectum in agente &amp; patiente: maxime in patiente: quia in ipso naturaliter actus distat a potem 
+        <lb ed="#Bb" n="26"/>tia. Est etiam defectus huiusmodi in agente, quando est in tali dispositione quod non est natum agere 
+        <lb ed="#Bb" n="27"/>Propter quod necesse est ipsum deduci ad huiusmodi dispositionem per motum aut mutationem, nec 
+        <lb ed="#Bb" n="28"/>mouet nisi motum. Si autem fuerit agens natum mouere non motum, &amp; passum, in quo non di- 
+        <lb ed="#Bb" n="29"/>stant naturaliter potentia &amp; actus, coniunctum agenti, agens natum est ei suam speciem quasi impri- 
+        <lb ed="#Bb" n="30"/>mere seu conmunicare absque fluxu medio: &amp; passum absque omni fluxu natum est eam recipere. &amp; 
+        <lb ed="#Bb" n="31"/>hoc modo actio &amp; passio, &amp; generare &amp; generari, habent esse in diuinis: licet magis proprie ea quae  
+        <lb ed="#Bb" n="32"/>pertinent ad actionem quam ad passionem, vt habitum est supra. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e751">
+        ⁋ Ad illud quod arguitur Primo: quod ge- 
+        <lb ed="#Bb" n="33"/>nerare non conuenit patri vt proprium, quia potentia generandi non est, propria ei: eo quod etiam est 
+        <lb ed="#Bb" n="34"/>in filio: Dicendum secundum positionem eorum qui dicunt quod potentia significat substantiam absolutam:  
+        <lb ed="#Bb" n="35"/>quod licet eadem potentia qua pater generat sit in filio: alio tamen &amp; alio modo habet eam pater &amp; 
+        <lb ed="#Bb" n="36"/>filius: vt generare per illam soli patri conueniat, vt supra expositum est. Secundum autem aliam positio- 
+        <lb ed="#Bb" n="37"/>nem quam veriorem credimus: Dicendum quod potentia generandi actiue non est in filio, sed in solo 
+        <lb ed="#Bb" n="38"/>patre, vt supra dictum est. 
+      </p>
+      <p xml:id="vn58an-fe33767-d1e767">
+        ⁋ Et quod assumitur ad eius probationem, quod aliter sequeretur quod aliqua  
+        <lb ed="#Bb" n="39"/>otentia esset in patre quae non est in filio: &amp; quod non esset filius aeque omnipotens vt pater: Di- 
+        <lb ed="#Bb" n="40"/>cendum quod hoc nomen omnipotens, impositum est potentiae actiuae quae proprie in diuinis est: non 
+        <lb ed="#Bb" n="41"/>autem passiuae. &amp; componitur ex omni &amp; potens per apocopen: dicendo pro omnium omni. &amp; est lx omni 
+        <lb ed="#Bb" n="42"/>omnis generis: &amp; inquantum est neutri generis, est idem omnipotens quod potens omnia: hoc est quod habens 
+        <lb ed="#Bb" n="43"/>potentiam agendi quodcumque est aliquid absolutum in rerum natura. Inquantum vero est mascu- 
+        <lb ed="#Bb" n="44"/>lini generis, idem est omnipotens quod potens omnem, hoc est habens potentiam agendi quemcunque 
+        <lb ed="#Bb" n="45"/>qui est aliquis in supposito siue absoluto, siue respectiuo. Inquantum vero sumitur communiter 
+        <lb ed="#Bb" n="46"/>vt est omnis generis, idem est omnipotens quod potens omne &amp; omnem: hoc est habens potentiam agendi 
+        <lb ed="#Bb" n="47"/>siue producendi quemcumque &amp; quodcumque. Secundum primum modum aeque omnipotentes sunt tres personae  
+        <lb ed="#Bb" n="48"/>diuinae. iuxta illud Athana. Dipotens pater, omnipotens filius, omnipotens spiritus sanctus. Et 
+        <lb ed="#Bb" n="49"/>ad infinuandum quod ista omnipotentia essentialis est, &amp; respectu eorum quae deus potest ratione es 
+        <lb ed="#Bb" n="50"/>sentiae vt est essentia existens in personis simpliciter, non autem vt determinate est sub aliqua pro  
+        <lb ed="#Bb" n="51"/>prietate: &amp; ita quod non sit nisi omnipotentia essentialis: ideo continue subdit. Et tamen non tres 
+        <lb ed="#Bb" n="52"/>omnipotentes: sed vnus omnipotens. sumendo l vnus essentialiter: &amp; distribuit ly omnipotens 
+        <lb ed="#Bb" n="53"/>pro omni absoluto. Secundum modum secundum potest omnipotens distribuere pro suppositis absolu- 
+        <lb ed="#Bb" n="54"/>tis, qualia sunt in creaturis: &amp; sic adhuc aeque omnipotentes sunt: &amp; non tres omnipotentes: sed  
+        <lb ed="#Bb" n="55"/>vnus omnipotens: vel pro suppositis respectiuis, qualia sunt in diuinis: sic alicui supposito diui 
+   <!--266.xml-->
+        <pb ed="#Bb" n="126-r"/>
+        <lb ed="#Bb" n="1"/>no nulla conuenit potentia: quia nullum potest producere: vt spiritus sanctus: alicui vero vna 
+        <lb ed="#Bb" n="2"/>tantum: quia tantum vnum potest producere vt filius spiritum sanctum tantum: alicui vero omnis: quia omnem pro 
+        <lb ed="#Bb" n="3"/>ducibilem in diuinis potest producere vt pater. Propter quod isto modo solus pater dicitur omni- 
+        <lb ed="#Bb" n="4"/>otens. Vnde dicendo, omne quod potest pater potest filius, potest &amp; spiritus sanctus, verum est: di- 
+        <lb ed="#Bb" n="5"/>cendo veroiomnem quem potest pater potest filius, potest &amp; spiritus sanctus, falsum est. Pater enim 
+        <lb ed="#Bb" n="6"/>potest producere filium quem non potest producere filius nec spiritus sanctus: &amp; vterque spiritum san 
+        <lb ed="#Bb" n="7"/>ctum, quem non potest producere spiritus sanctus. Vnde si arguatur sic: Omne quod potest pater potest 
+        <lb ed="#Bb" n="8"/>filius, potest &amp; spiritus sanctus: filium potest producere pater: filium ergo potest producere filius, potest &amp; 
+        <lb ed="#Bb" n="9"/>spiritus sanctus: non sequitur, quia argumentum peccat in forma conmutando quid in ad aliquid. Et 
+        <lb ed="#Bb" n="10"/>hoc, quia vt dictum est supra secundum Magistrum Sententiarum, posse generare filium: non est posse alquid sed ad 
+        <lb ed="#Bb" n="11"/>aliquid. &amp; ly omne distribuit pro eo quod est quid tantum. Si vero arguatur sic: quemcunque potest pater produ 
+        <lb ed="#Bb" n="12"/>cere potest producere filius aut spiritus sctuns: filium potest pter producere: ergo filium potest producere filius aut spiritus 
+        <lb ed="#Bb" n="13"/>sctuns: bene sequitur: sed argumentum peccat in materia. maior enim est falsa. Secundum vero tertium modum omnipo- 
+        <lb ed="#Bb" n="14"/>tens simul distribuit pro absolutis &amp; rebus &amp; suppositis: &amp; cum hoc etiam pro suppositis relatiuis. Et 
+        <lb ed="#Bb" n="15"/>ideo istis vltimis duobus modis solus pater omnipotens dicitur: &amp; non est nisi vnus omnipotens vno personaliter 
+        <lb ed="#Bb" n="16"/>accepto: quia de patre verum est dicere quod potest aut potuit producere omne &amp; omnem: non autem verum 
+        <lb ed="#Bb" n="17"/>est dicere quod filius aut spiritus sanctus potuit producere omne &amp; omnem: quia licet potest filius 
+        <lb ed="#Bb" n="18"/>producere omne: non tamen omnem: &amp; hoc non quia non potuit: sed quia non oportuit, vt supra 
+        <lb ed="#Bb" n="19"/>expositum est. Quemadmodum etiam potest dici de patre quod non genuit duos filios non quia non po 
+        <lb ed="#Bb" n="20"/>tuit: sed quia non oportuit. Et sic est aliquid proprium quod pertinet ad omnipotentiam patris: quod non pertinet ad  
+        <lb ed="#Bb" n="21"/>omnipotentiam filii: aut spiritus sancti: quod nullum est inconueniens: quia potentia aut omnipo 
+        <lb ed="#Bb" n="22"/>tentia etsi dicat substantiam, non tamen nisi vt tracta est ad relationem secundum superius dicta. 
+        <lb ed="#Bb" n="23"/>quia potentia, propria patri significat substantiam sub vno modo existendi determinato: quem quidem 
+        <lb ed="#Bb" n="24"/>modum non significat potentia sed paterna proprietas: quae secundum <ref xml:id="vn58an-fe33767-Rd1e862">
+        <name ref="#JohnDamascenus">Damascenum</name> lib. i. ca. ix.</ref> non signifi- 
+        <lb ed="#Bb" n="25"/>cat substantiae differentiam aut dignitatem: sed modum existentiae. vt in hoc differat significatio substam 
+        <lb ed="#Bb" n="26"/>tiae, potentiae, proprietatis: quod substantia significat rem absolutam simpliciter: Potentia vero si- 
+        <lb ed="#Bb" n="27"/>gnificat eandem rem: non autem aliquam differentiam eius: neque ipsum modum existendi, sed ipsam rem 
+        <lb ed="#Bb" n="28"/>solam vt sub illo modo existit: siue sub illo modo existentem. Proprietas vero significat non sub 
+        <lb ed="#Bb" n="29"/>stantiam neque differentiam substantiae: sed praecise modum existentiae: qui est quasi differentia personae cuius 
+        <lb ed="#Bb" n="30"/>est ille modus existendi: &amp; sub quo substantia existit in persona. Qui modus cum est, proprius vni perso 
+        <lb ed="#Bb" n="31"/>nae, substantia sub illo existit tantum in vna persona &amp; non in alia. Et propter hoc ipsa substantia est aliqua  
+        <lb ed="#Bb" n="32"/>potentia in illa persona &amp; illius personae, quae non est in alia &amp; quae non est alterius personae. Sed sic am- 
+        <lb ed="#Bb" n="33"/>pliando significatum &amp; distributionem omnipotentiae vt soli patri conveniat, non loquuntur sancti de 
+        <lb ed="#Bb" n="34"/>omnipotentia dei: sed solum secundum quod dicit posse quid quod est omne agere vel operari, vel opeatum 
+        <lb ed="#Bb" n="35"/>quod est absolutum quid: siue sit aliqua actio, siue operatio essentialis in deo manens intra, siue transiens 
+        <lb ed="#Bb" n="36"/>in creaturam siue respectu creaturae extra, siue sit ipsum extra operatum. Posse autem ad aliquid vt actio- 
+        <lb ed="#Bb" n="37"/>nem relatiuam vel suppositum relatiuum productum per actionem relatiuam, non comprehendunt sub 
+        <lb ed="#Bb" n="38"/>omnipotentia, neque etiam potentiam quae est ad talem actum dicunt pertinere ad omnipotentiam. Vnde 
+        <lb ed="#Bb" n="39"/>&amp; potentia quam dicunt sancti conem tribus personis, est potentia pure essentialis &amp; respectu actus 
+        <lb ed="#Bb" n="40"/>essentialis. Est enim potentia ad actus notionales quasi medium inter pure notionalia &amp; pure 
+        <lb ed="#Bb" n="41"/>essentialia in eo quod est substantiale tractum ad notionale secundum praedicta: omnipotentia autem inter pu 
+        <lb ed="#Bb" n="42"/>re essentialia computatur. dicente Ambrosio. ii. de trinitate. exponendo illud loannis. v. Omnia quae ha-  
+        <lb ed="#Bb" n="43"/>bet pater mea sunt. Quae sunt omnia: Non vtique locutus est de creaturis. Haec enim facta sunt 
+        <lb ed="#Bb" n="44"/>per filium. Sed ea quae pater habet. i. aeternitatem, maiestatem, deitatem, quae nascendo possedit. Er- 
+        <lb ed="#Bb" n="45"/>go cum ea habet quae pater habet (Scriptum est enim, Omnia quae habet pater mea sunt) omni 
+        <lb ed="#Bb" n="46"/>potentem esse dubitare non possumus. Vnde &amp; per posse ea quae pertinent ad actiones essentiales dei,  
+        <lb ed="#Bb" n="47"/>probat filium esse aequipotentem patri subdens. Certe ostendat aliquis quid sit quod non possit dei fi- 
+        <lb ed="#Bb" n="48"/>lius. Quis ei adiutor cum caelum faceret fuit: quis adiutor cum conderet mundum: An quid in con 
+        <lb ed="#Bb" n="49"/>stitutione angelorum &amp; dominationum adiutorio non eguit, eguit vt hominem liberaret: Scriptum est in  
+        <lb ed="#Bb" n="50"/>quit. Pater si possibile est transfer a me calicem hunc. Et ideo si omnipotens est, quomodo de possi 
+        <lb ed="#Bb" n="51"/>bilitate ambigit: Ergo quia omnipotentem probaui, probaui vtique ambigere non posse eum de possi- 
+        <lb ed="#Bb" n="52"/>bilitate. Ecce plane per illas actiones dicit se probasse filii omnipotentiam. Vnde &amp; per huiusmodi 
+        <lb ed="#Bb" n="53"/>actiones filius probat quod sit patri aequalis secundum diuinitatem. dicente Ambrosio ibidem. Dei filius vt 
+        <lb ed="#Bb" n="54"/>dei se filium &amp; aequalem probaret, quaecunque inquit pater fecerit, eadem &amp; filius facit similiter 
+        <lb ed="#Bb" n="55"/>Hlinc etiam dicit Hil. x. de triniitate. In eo vero quid dicitur Pater maior, confessionem paternae aucto- 
+   <!--267.xml-->
+        <pb ed="#Bb" n="126-v"/>
+        <lb ed="#Bb" n="1"/>ritatis intellige. sicunt &amp; illud est, Non potest filius a se facere quicquam nisi quod viderit patrem facientem 
+        <lb ed="#Bb" n="2"/>Quaecumque enim ille facit, eadem &amp; filius facit similiter. Dum vero a se facit id quid agitur secundum nati- 
+        <lb ed="#Bb" n="3"/>uitatem, sibi pater auctor est: &amp; tamen cum quaecumque facit pater, &amp; filius facit similiter, non in aliud  
+        <lb ed="#Bb" n="4"/>aliquod quam in deum subsistat ad facienda omnia quae Deus pater faciat paternae omnipotentiae natura in se 
+        <lb ed="#Bb" n="5"/>subsistente. Vbi nota quod non dicit paterna omnipotentia, sed paternae omnipotentiae natura: qua  
+        <lb ed="#Bb" n="6"/>eadem omnipotentia essentialis eis communiter inest: licet aliquid conuenit patri proprie ratione suae 
+        <lb ed="#Bb" n="7"/>omnipotentiae, vt dictum est. Posse ergo in aliquam opeationem notionalem vnam personam &amp; non aliam, aut  
+        <lb ed="#Bb" n="8"/>aliquem producere actione notionali quem in diuinis non potest producere aliqua alia persona, de hoc ni 
+        <lb ed="#Bb" n="9"/>hil ad omnipotentiam dei essentialem, siue ad aequalitatem personarum secundum potentiam &amp; omnipoten- 
+        <lb ed="#Bb" n="10"/>tiam, de qua loquuntur sancti, &amp; de qua inferius debet esse sermo. Vnde ad probandum aequalitatem 
+        <lb ed="#Bb" n="11"/>suam cum patre, nequaquam dicit filius: Quemcumque producit pater, eundem &amp; filius similiter producit. Hoc 
+        <lb ed="#Bb" n="12"/>enim solum pertinet ad omnipotentiam patris, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

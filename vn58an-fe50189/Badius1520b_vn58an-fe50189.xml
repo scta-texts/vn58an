@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="183-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe50189"> <!-- alias="vn58an-a61q8" -->
+      <head xml:id="vn58an-fe50189-Hd1e104">Quaestio 8</head>
+      <p xml:id="vn58an-fe50189-d1e107">
+        <lb ed="#Bb" n="20"/>CIrca octauum arguitur quod spiritus sanctus non procedit vt donum, Primo sic. pro- 
+        <lb ed="#Bb" n="21"/>cedens vt ratio donandi omnia, non procedit vt donum: quia aliud est donum, &amp; 
+        <lb ed="#Bb" n="22"/>aliud ratio donandi illud: sicut aliud est ratio diligendi &amp; aliud dilectum spiritus 
+        <lb ed="#Bb" n="23"/>sanctus procedit vt ratio donandi singula dona: quia est ratio donandi omnia do-  
+        <lb ed="#Bb" n="24"/>na. ex hoc eim dona gratuita &amp; liberaliter a deo donata dicuntur esse dona spiritus san 
+        <lb ed="#Bb" n="25"/>cti, quamquam a tota trinitate coniter donantur, vt patebit in quaestione sequente. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe50189-d1e123">
+        ⁋ Se- 
+        <lb ed="#Bb" n="26"/>cundo sic. si spiritus sanctus procedit vt donum: donum autem relatiue dicitur non  
+        <lb ed="#Bb" n="27"/>solum ad dantem ipsum: sed etiam ad recipientem. dicente <name ref="#Augustine">Augustinus</name> ii. de triniitate. ca. xiiii. Quod datum est 
+        <lb ed="#Bb" n="28"/>&amp; ad eum qui dedit refertur &amp; ad eos quibus dedit: spiritus sanctus ergo &amp; dei est qui dedit, &amp; nostri 
+        <lb ed="#Bb" n="29"/>qui accepimus. ergo spiritus sanctus ex processione sua habet quod relatiue dicatur non solum ad dan-  
+        <lb ed="#Bb" n="30"/>tem: sed etiam ad creaturam cui datur. Relatio autem quae habetur ex processione, realis est: sicut &amp; ipsa pro 
+        <lb ed="#Bb" n="31"/>cessio realis est. Relatio enim rationalis non nisi ex actu rationis siue rationali circa relatum oritur. 
+        <lb ed="#Bb" n="32"/>haberet ergo spiritus sanctus relationem realem ad creaturam. consequens falsum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe50189-d1e144">
+        ⁋ Contra 
+        <lb ed="#Bb" n="33"/>rium habetur ibidem secundo de triniitate. vbi dicit <name ref="#Augustine">Augustinus</name> de spiritu sancto. Ipse exit a patre sicut in euan- 
+        <lb ed="#Bb" n="34"/>gelio habetur. Exit enim non quomodo natus: sed quom datus. &amp; hoc non nisi quia exiuit vt donum 
+        <lb ed="#Bb" n="35"/>aptum &amp; habile dari ab aeterno prius quam actu detur. ergo &amp;c. 
+        <lb ed="#Bb" n="36"/>
+      </p>
+      <p xml:id="vn58an-fe50189-d1e159">
+        ⁋ Dico quod postquam secundum praedicta verum est quod spiritus sanctus proprie donum 
+        <lb ed="#Bb" n="37"/>est: proprium autem non est aliquid in diuinis alicui persona nisi ex suo modo procedendi: quia omnis proptie 
+        <lb ed="#Bb" n="38"/>tas notionalis &amp; proprietas reducta ad ipsam necessario ad originem pertinet secundum praedetermina 
+        <lb ed="#Bb" n="39"/>ta: necessario ergo concedendum est quod spiritus sanctus procedat vt donum. Et non restat hic videre nisi quom spiritu 
+        <lb ed="#Bb" n="40"/>sancto ex ratione originis siue modi procedendi conveniat quod sit et dicatur donum: &amp; tactum est hoc i 
+        <lb ed="#Bb" n="41"/>parte atque expositum in quaestione tertia praecedente, &amp; dissolutione rationis. viii. Vt enim dictum est ibi: 
+        <lb ed="#Bb" n="42"/>quemadmodum filius procedit vt imago: &amp; habet ex suo modo procedendi quod sit imago: sic spiritus san- 
+        <lb ed="#Bb" n="43"/>ctus procedit vt donum: &amp; ex modo suo procedendi habet quod sit donum. Sicut enim filius quia pro- 
+        <lb ed="#Bb" n="44"/>cedit vt simile productum de simili producente: &amp; vt notitia de notitia modo operationis naturae qua 
+        <lb ed="#Bb" n="45"/>si per impressionem formae generantis similis ei de quo generatur secundum modum superius expositum: ideo 
+        <lb ed="#Bb" n="46"/>dicitur imago &amp; procedit vt imago: lmago enim dicitur quasi alterius imitago: sic spiritus sanctus quia procedit vt amor 
+        <lb ed="#Bb" n="47"/>de voluntate producente modo opeationis voluntariae &amp; liberalis quasi per excussionem ab eo de quo producitur siue ex 
+        <lb ed="#Bb" n="48"/>cutitur in alium tendens. secundum superius etiam determinata: ideo dicitur esse donum &amp; procedere vt donum. Donum 
+        <lb ed="#Bb" n="49"/>enim dicitur dabile liberaliter in aliud directum vt ei conferendum. Non enim spiritus sanctus procedit solum 
+        <lb ed="#Bb" n="50"/>modo vt amor manens in eo cuius est, sicut perfectio voluntatis illius a quo procedit: sicut solummodo o- 
+        <lb ed="#Bb" n="51"/>cedit filius vt notitia manens: &amp; sicut perfectio in intellectu eius a quo procedit, vt patet ex supra de- 
+        <lb ed="#Bb" n="52"/>claratis: sed etiam vlterius procedit vt tendens in alterum ad perfectionem illius in quem tendit, vt a 
+        <lb ed="#Bb" n="53"/>patre in filium &amp; econuerso: &amp; ab ambobus in creaturam intellectualem. Et in hoc partim differt a 
+        <lb ed="#Bb" n="54"/>proprietate filii quae est verbum: &amp; partim conuenit cum illa. Differt siquidem in hoc quod verbum procedit a 
+        <lb ed="#Bb" n="55"/>patre vt manens in ipso, &amp; non procedens ab ipso in alium vel in aliud: sicut filius non procedit a 
+   <!--382.xml-->
+        <pb ed="#Bb" n="184-r"/>
+        <lb ed="#Bb" n="1"/>patre in alium vel in aliud. Propter quod filius siue verbum solius illius est a quo procedit, &amp; non di 
+        <lb ed="#Bb" n="2"/>citur filius siue verbum nisi patris. Donum autem procedit a donante non solum manens in ipso, sed  
+        <lb ed="#Bb" n="3"/>vt vlterius procedens in alium vel in aliud. propter quod non solum dicitur donum donantis, sed etiam il 
+        <lb ed="#Bb" n="4"/>lius cui donatur. secundum quod de hoc habetur ab <name ref="#Augustine">Augustinus</name> v. de Trini. c. xiiii. Conuenit autem proprietas 
+        <lb ed="#Bb" n="5"/>doni cum proprietate verbi in hoc, quod verbum secundum superius determinata non solum habet re 
+        <lb ed="#Bb" n="6"/>spectum ad dicentem, sed etiam ad dicta &amp; manifestata siue declarata verbo: &amp; consimiliter etiam 
+        <lb ed="#Bb" n="7"/>donum ad id cui datur, licet alio &amp; alio modo relationis. Quia donum refertur ad recipientem secundum 
+        <lb ed="#Bb" n="8"/>relationem aequiparantiae: Verbum autem refertur ad declarata verbo secundum relationem mensurae. 
+        <lb ed="#Bb" n="9"/>Et similiter zelus relationem dicit ad ea ad quae diligens inflammatur zelo, prout expositum est, secun 
+        <lb ed="#Bb" n="10"/>dum modum relationis conformen illi quo verbum refertur ad declarata verbo. 
+      </p>
+      <p xml:id="vn58an-fe50189-d1e232">
+        ⁋ Ad cuius amplio 
+        <lb ed="#Bb" n="11"/>rem intellectum est aduertendum quod voluntas liberalis est, vt amans siue volens non solum per amo 
+        <lb ed="#Bb" n="12"/>rem in bono amato secundum se quiescat: sed etiam vt eundem amorem suum in amatum transtun- 
+        <lb ed="#Bb" n="13"/>dat: qui amatur sibi actum amandi rependat, &amp; in se viceversa conquiescat: &amp; non solum hoc, sed  
+        <lb ed="#Bb" n="14"/>vt etiam ambo eundem amorem in tertium tranffundant, vt id quid quisque eorum diligit, alter con 
+        <lb ed="#Bb" n="15"/>diligat &amp; in eodem conquiescat, vt ab eodem vterque eorum diligatur. Amor enim perfectus non so- 
+        <lb ed="#Bb" n="16"/>lum quaerit dilectum, sed rediligentem &amp; condiligentem &amp; condilectum. dicente Ricar. iii. de Trini. cap. xi. 
+        <lb ed="#Bb" n="17"/>In mutuo amore multumque feruente nihil praeclarius quam vt ab eo quem summe diligis, &amp; a quo summe di 
+        <lb ed="#Bb" n="18"/>ligeris, alium aequae diligi velis. Summe igitur dilectorum vterque oportet vt pari voto &amp; dilectum requirat. &amp;. xix. 
+        <lb ed="#Bb" n="19"/>cap. Quando vnus alteri amorem impendit &amp; solum diligit, dilectio quidem, sed condilectio non est 
+        <lb ed="#Bb" n="20"/>Condilectio autem iure dicitur vt a duobus tertius concorditer diligatur: &amp; duorum affectus ter- 
+        <lb ed="#Bb" n="21"/>tii amoris incendio in vnum conferatur. Et secundum hoc pater diligendo filium spirat in ipsum amo 
+        <lb ed="#Bb" n="22"/>rem qui est spiritus sanctus, &amp; econverso: &amp; illo mutuo sese diligunt vt dono suo, &amp; illud etiam diligunt 
+        <lb ed="#Bb" n="23"/>vt requiescant in illo: atque viceversa rediliguntur ab illo, &amp; illud requiescit in illis, &amp; ambo etiam spirant 
+        <lb ed="#Bb" n="24"/>ipsum temporaliter in dilectum creatum, vt ambo eum condiligant &amp; condiligantur ab eodem 
+        <lb ed="#Bb" n="25"/>prout haec aliqualiter tacta sunt in vii. quaestione praecedente. Est etiam aduertendum quod differentia est 
+        <lb ed="#Bb" n="26"/>inter donum &amp; datum. Datum enim dicit actum dandi simpliciter, siue detur quid liberaliter siue non, 
+        <lb ed="#Bb" n="27"/>&amp; generaliter notat in se dabilitatem siue potentiam nudam qua potest dari. Donum autem dicit actum 
+        <lb ed="#Bb" n="28"/>dandi sicut datum, non simpliciter sed liberaliter, &amp; notat in se non nudam dabilitatem siue potem 
+        <lb ed="#Bb" n="29"/>tiam qua potest dari etiam liberaliter, sed etiam notat in se habilitatem &amp; aptitudinem qua quam  
+        <lb ed="#Bb" n="30"/>tum est ex se &amp; ex conditione sua, ordinatur vt alteri detur. Qualem aptitudinem ex conditione &amp; ex 
+        <lb ed="#Bb" n="31"/>modo suo procedendi, secundum iam dicta, habet in se spiritus sanctus, vt non solum dicatur donum ex 
+        <lb ed="#Bb" n="32"/>actu dandi quo datur, &amp; quando datur, sed etiam ex habilitate sua ad donandum passiue, &amp; hoc non  
+        <lb ed="#Bb" n="33"/>solum ex libertate siue ex liberalitate dantis, sed etiam ex habilitate dati vt detur siue donetur, prius 
+        <lb ed="#Bb" n="34"/>quam detur aut donetur. Secundum hoc enim non omne datum donum potest dici: nec econuerso omne 
+        <lb ed="#Bb" n="35"/>donum datum, quia est aliquid datum quod nec liberaliter datum, nec ex se habilitatem naturalem ha 
+        <lb ed="#Bb" n="36"/>bet vt detur. Omne etiam datum ex libertate licet communiter loquendo donum dici posset: proprie 
+        <lb ed="#Bb" n="37"/>tamen donum dici non potest nisi ex conditione &amp; natura sua habeat rationem donabilem, sicut eam ha 
+        <lb ed="#Bb" n="38"/>bet spiritus sanctus, &amp; hoc ipse solus, propter quod ipse solus proprie donum dici potest, prout proce 
+        <lb ed="#Bb" n="39"/>dit vltima ratio.  
+        <lb ed="#Bb" n="40"/>
+      </p>
+      <p xml:id="vn58an-fe50189-d1e300">
+        ⁋ Ad primam rationem in contrarium cum dicitur quod procedens vt ratio donan- 
+        <lb ed="#Bb" n="41"/>di non procedit vt donum, quia aliud est donum, aliud ratio donandi: sicut aliud est dilectum: 
+        <lb ed="#Bb" n="42"/>aliud vero diligendi &amp;c. Dico quod est quoddam donum, &amp; similiter quoddam dilectum habens per se ra 
+        <lb ed="#Bb" n="43"/>tionem doni &amp; diligibilis, &amp; quoddam habens per accidens rationem doni &amp; diligibilis. Primo mo-  
+        <lb ed="#Bb" n="44"/>do a matre habet proles rationem diligibilis: eo quod id quod est, a matre est. Secundo modo rationem dili 
+        <lb ed="#Bb" n="45"/>gibilis a matre prolis habet nutrix: quia scilicet fouet prolem. De eo autem quod est per se ratio diligen- 
+        <lb ed="#Bb" n="46"/>di, id bene est dilectum per se: sed de eo quod est ratio diligendi secundo modo, scilicet per accidens, ve 
+        <lb ed="#Bb" n="47"/>rum est quod non est dilectum per accidens, quemadmodum proles quae est ratio diligendi per accidens scilicet 
+        <lb ed="#Bb" n="48"/>nutricem, nequaquam diligitur per accidens: est tamen dilectum per se &amp; simpliciter. Et consimiliter omne aliud  
+        <lb ed="#Bb" n="49"/>donum a spiritu sancto sicut donabile per accidens, quia scilicet habet in se rationem aliquam boni a 
+        <lb ed="#Bb" n="50"/>spiritu scton, propter quam est donabile: spiritus sanctus qui est ratio donandi alia, nequaquam est donabile per 
+        <lb ed="#Bb" n="51"/>accidens: est tamen in se simpliciter &amp; per se donabilis. 
+      </p>
+      <p xml:id="vn58an-fe50189-d1e326">
+        ⁋ Ad secundum quod si spiritus sanctus procederet vt 
+        <lb ed="#Bb" n="52"/>donum, ex processione sua relatiue diceretur ad id cui donabile est, &amp; sic relatione reali: Dico quod ex pro 
+        <lb ed="#Bb" n="53"/>cessione oritur relatio procedentis ad illum a quo procedit, &amp; illa semper realis est: &amp; non est spiritus 
+        <lb ed="#Bb" n="54"/>sanctus qui est donum nisi ad patrem &amp; filium, a quibus procedit. Oritur etiam relatio proceden- 
+        <lb ed="#Bb" n="55"/>tis ex sua processione ad aliquem vel ad aliquid aliud quam a quo procedit: quam nequaquam oportetur esse realem 
+   <!--383.xml-->
+        <pb ed="#Bb" n="184-v"/>
+        <lb ed="#Bb" n="1"/>sicut est realis ipsa processio. Puta verbum in diuinis ex sua processione habet quod sit verbum, &amp; relationem ha 
+        <lb ed="#Bb" n="2"/>bens ad omnia dicenda verbo: ad quaedam tamen illorum non habet relationem nisi rationalem secun 
+        <lb ed="#Bb" n="3"/>dum superius determinata. Et quod arguitur quod actus processionis in diuinis est realis, &amp; relatio rationalis 
+        <lb ed="#Bb" n="4"/>non est nisi ex actione rationali: quare talis cum sit relatio ad creaturam, rationalis est: non ergo est 
+        <lb ed="#Bb" n="5"/>ex actione reali: Dicendum quod relatio dei ad creaturas reuera non est nisi rationalis, etsi econuerso re 
+        <lb ed="#Bb" n="6"/>latio creaturae ad deum est realis aliquando, prout in quaestionibus de Quolibet latius, &amp; aliquantu 
+        <lb ed="#Bb" n="7"/>lum etiam in superius determinatis declarauimus. Et sicut relatio dei ad creaturas non est nisi rationalis 
+        <lb ed="#Bb" n="8"/>sic non est nisi ex actione rationali: quae est rationis secundum intellectum aut voluntatem sicuti intellige 
+        <lb ed="#Bb" n="9"/>re aut velle. Sed in proposito relatio doni ad creaturam ex actu voluntatis &amp; amoris est tendens in id  
+        <lb ed="#Bb" n="10"/>cui datur &amp; cui donabile est: &amp; hoc ex ratione suae processionis qua in se habet esse, non absolute ma-  
+        <lb ed="#Bb" n="11"/>nens in eo a quo procedit. In quo (vt dictum est) differt in diuinis verbum ab amore procedente siue 
+        <lb ed="#Bb" n="12"/>dono. Verbum enim solummodo declaratiuum est apud dicentem verbo illius quod dicitur verbo. Aelus 
+        <lb ed="#Bb" n="13"/>autem siue amor procedens non solum est inflammatiuus eius quod aelat zelo in id quod ipso zelo zelatur:  
+        <lb ed="#Bb" n="14"/>sed etiam tendit a zcelante a quo procedit vt donum in id quod aelatur: &amp; illi datur: &amp; ita refertur ad illud  
+        <lb ed="#Bb" n="15"/>quod aelatur, non solum ad id quod zelo zelatur: quemadmodum verbum non solum refertur ad id quid verbo dicitur: 
+        <lb ed="#Bb" n="16"/>sed etiam ad id cui donatur, quod est propria relatio in spiritum sanctum inquantum est donum: qualis nul 
+        <lb ed="#Bb" n="17"/>la correspondens est in filio: licet relationi qua spiritus sanctus spiratur vt ens, &amp; refertur ad spiran 
+        <lb ed="#Bb" n="18"/>tem, respondeat in filio relatio ad patrem qua generatur ab illo vt est filius: &amp; relationi qua flagra- 
+        <lb ed="#Bb" n="19"/>tur vt est zelus, &amp; refertur ad flagrantem, respondeat relatio in filio qua dicitur a patre vt est verbum: &amp; 
+        <lb ed="#Bb" n="20"/>relationi qua spiritus sanctus vt est zelus refertur ad zelata aelo, respondeat relatio qua verbum re- 
+        <lb ed="#Bb" n="21"/>fertur ad dicta verbo. Et sicut dicere verbo essentiale est: licet praesupponat dicere notionale: &amp; per 
+        <lb ed="#Bb" n="22"/>hoc relatio verbi rationalis ad dicta verbo consequitur actionem notionalem qua procedit verbum a patre: consi 
+        <lb ed="#Bb" n="23"/>militer zelare zelo essentiale est: licet praesupponat flagrare siue zelare notionale: &amp; per hoc etiam rela 
+        <lb ed="#Bb" n="24"/>tio zeli rationalis etiam ad zelata zelo consequitur actionem notionalem qua zaelus procedit a xelan- 
+        <lb ed="#Bb" n="25"/>te seu flagrante ipsum: &amp; vlterius etiam zeli relatio rationalis ad id cui donatur seu donabile est, con 
+        <lb ed="#Bb" n="26"/>sequitur actionem notionalem eandem. &amp; praesupponit actio essentialis donandi actionem notiona- 
+        <lb ed="#Bb" n="27"/>lem qua spiritus sanctus seu zelus procedit vt donum. Et est ista processio qua procedit vt donum 
+        <lb ed="#Bb" n="28"/>a flagrante, aeterna. Illa autem qua procedit vlterius in id cui donatur, quandoque est aeterna quandoque  
+        <lb ed="#Bb" n="29"/>temporalis. Aeterna autem, quando datur ei qui est aeternus, vt filio a patre &amp; econuerso: de quo erit 
+        <lb ed="#Bb" n="30"/>sermo in sequenti quaestione. Temporalis vero quando datur ei qui est temporalis vt creaturae. Et dif 
+        <lb ed="#Bb" n="31"/>fert donatio qua donatur ab aeterno, ab illa qua donatur ex tempore: in hoc quod illa donatio qua  
+        <lb ed="#Bb" n="32"/>donatur ab aeterno filio a patre &amp; econuerso: nihil aliud est quam ipsa processio aeterna qua procedit a 
+        <lb ed="#Bb" n="33"/>patre in filium &amp; econuerso. Illa vero qua datur ex tempore creaturae alia est a processione qua pro 
+        <lb ed="#Bb" n="34"/>cedit ab aeterno a patre &amp; filio: sicut alia est processio spiritus sancti temporalis ab aeterna.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

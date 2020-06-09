@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="89-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1083"> <!-- alias="vn58an-a12q7" -->
+      <head xml:id="vn58an-d1e1083-Hd1e104">Quaestio 7</head>
+      <head xml:id="vn58an-d1e1083-Hd1e107" type="question-title">Utrum quilibet homo ad auditum eius admittendus sit</head>
+      <p xml:id="vn58an-d1e1083-d1e110">
+        <lb ed="#Ba" n="11"/>CIrca. vii. arguitur quod quilibet homo indifferenter ad auditum huius scientiae admit 
+        <lb ed="#Ba" n="12"/>ti debet. Primo sic. Misericordia ad omnes indifferenter extendenda est tam bo 
+        <lb ed="#Ba" n="13"/>nos quam malos. Matth. v. dicitur. Diligite inimicos vestros: benefacite his qui ode 
+        <lb ed="#Ba" n="14"/>tunt vos: vt sitis si pis v. qui in caelis est: qui solem suum facit oriri super bonos &amp; 
+        <lb ed="#Ba" n="15"/>malos, &amp; pluit super iustos &amp; iniustos. sed proponere in auditum aliorum sa- 
+        <lb ed="#Ba" n="16"/>cram scripturam est opus misericordiae: quia non in solo pane viuit homo: sed  
+        <lb ed="#Ba" n="17"/>in omni verbo quod procedit de ore dei. Deut. viii. ergo sacra scriptura in auditum omnium est proponem 
+        <lb ed="#Ba" n="18"/>da: &amp; ita ad eius auditum omnes indifferenter debent admitti. 
+      </p>
+      <p xml:id="vn58an-d1e1083-d1e130">
+        ⁋ Secundo sic. Matth. xiii. Simile est 
+        <lb ed="#Ba" n="19"/>reg. cae. sagenae missae in mari: &amp; ex omni genere piscium congreganti. Glos. Euangelica praedicatio, quae  
+        <lb ed="#Ba" n="20"/>omnes ad veniam vocat, omnis generis homines. hoc autem non faceret nisi omnes ad suam audi 
+        <lb ed="#Ba" n="21"/>entiam admitteret. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1083-d1e140">
+        ⁋ Contra est illud Matt. vii. Nolite sanctum dare canibus: neque marg.  
+        <lb ed="#Ba" n="22"/>mittere ante porcos. Gloss. Verbum praedicationis sicut periculosum est abscondere: ita periculo- 
+        <lb ed="#Ba" n="23"/>sum est canibus dare. per quos quoddam genus hominum intelligitur, non ergo omnes sunt ad eius 
+        <lb ed="#Ba" n="24"/>auditum admittendi.  
+      </p>
+      <p xml:id="vn58an-d1e1083-d1e149">
+        <lb ed="#Ba" n="25"/>⁋ Dicendum ad hoc: quod cum sacra scriptura tradita sit non pro salute vnius generis ho 
+        <lb ed="#Ba" n="26"/>minum tantum: sed pro salute totius orbis: vt dicit Gloss. super illud Matth. v. Vos estis sal terrae: ab ini- 
+        <lb ed="#Ba" n="27"/>tio omnibus est proponenda, &amp; bonis &amp; malis: &amp; in hoc nulla debet esse distinctio: vt nemo manens 
+        <lb ed="#Ba" n="28"/>in infidelitate, aut errore pro defectu eius se possit excusare, quia loananem, xv. dicitur. Si non venissem, &amp; locutus 
+        <lb ed="#Ba" n="29"/>eis non fuissem peccatum non haberent. Nunc autem excusationem non habent de peccato suo.  
+        <lb ed="#Ba" n="30"/>Aoio x. dicitur. Quomodo credent ei quem non audierunt: quasi dicat nullo modo. Et tamen vt dicitur 
+        <lb ed="#Ba" n="31"/>ibidem, non omnes obediunt euangelio: licet omnes audierunt. secundum quod continuo sequitur. 
+        <lb ed="#Ba" n="32"/>Nunquid non audierunt: &amp; quidem In omnem terram exi. so. eorum: &amp; in fi. or. ter. ver. eorum. se- 
+        <lb ed="#Ba" n="33"/>cundum quod praeceperat eis Christus. Matth. xxiiii. Et quidem praedicabitur hoc euangelium in vni 
+        <lb ed="#Ba" n="34"/>uerso mundo: in testimonium omnibus gentibus. Ab initio ergo antequam constat de obstinatione &amp; 
+        <lb ed="#Ba" n="35"/>rebellione alicuius contra veritatem euangelii, nemo excludendus est ab auditu huius scientiae:  
+        <lb ed="#Ba" n="36"/>neque in lectione neque in praedicatione. Sed quia post auditum non omnes obediunt euangelio: sed  
+        <lb ed="#Ba" n="37"/>aliqui inimici eius fiunt, &amp; rebelles, &amp; impugnatores eius post eius auditum: quos dominus signa 
+        <lb ed="#Ba" n="38"/>uit nomine canum &amp; porcorum: secundum quod dicit Gloss. Matth. vii. Canes sunt qui oblatrant: &amp; 
+        <lb ed="#Ba" n="39"/>quod integrum est dilacerant: porci vero vilipendunt &amp; conculcant: Quicunque tales inuenti fuerint ad  
+        <lb ed="#Ba" n="40"/>auditum huius scientiae non sunt admittendi: sed praecludendi: &amp; est eis sacrae scripturae litera pe- 
+        <lb ed="#Ba" n="41"/>nitus occultanda &amp; subtrahenda: &amp; solis beniuolis proponenda: quousque &amp; ipsi rebelles beniuoli si 
+        <lb ed="#Ba" n="42"/>ant: &amp; digni quid ad eius auditum admittantur. secundum quod dicitur Matt. xv. Non est bonum sumere panem filio 
+        <lb ed="#Ba" n="43"/>rum &amp; dare canibus. Glos. Canina rabie latrantibus. Vnde &amp; Christus omnibus claram doctrinam primo proposuit: sed  
+        <lb ed="#Ba" n="44"/>postquam multi ex scribis &amp; Pharissaeis &amp; turbis rebelles erant doctrinam eius impugnantes, statim incepit 
+        <lb ed="#Ba" n="45"/>eis doctrinam suam abscondere, &amp; in parabolis loq. Et licet consequenter talibus ea quae sunt sacrae scri 
+        <lb ed="#Ba" n="46"/>pturae debent abscondi: tamen maxime debent eis abscondi illa preciosa in quibus latent profunda my- 
+        <lb ed="#Ba" n="47"/>steria: clara autem &amp; viliora quandoque eis proponi possunt. secundum quod dicit Glos. Matthia. vii. Talibus 
+        <lb ed="#Ba" n="48"/>mystica non sunt aperienda: sed velo tegenda sunt sancta sanctorum: apertiora vero &amp; quasi vili- 
+        <lb ed="#Ba" n="49"/>ora dici possunt. Sed si desinunt esse canes latrantes: &amp; fiunt catuli obedientes: dandum est eis: se- 
+        <lb ed="#Ba" n="50"/>cundum quod respondit mulier Chananaea Christo in persona gentium dicens. Etiam domine. Gloss. Ve 
+        <lb ed="#Ba" n="51"/>rum est scilicet quod non est bonum dare canibus: catellis tamen licitum est. &amp; ideo consequenter adiugit:  
+        <lb ed="#Ba" n="52"/>Nam &amp; catelli edunt de micis quae cadunt de mensa dominorum suorum. vbi dicit Gloss. Sub per 
+        <lb ed="#Ba" n="53"/>sona mulieris mira fides ecclesiae: &amp; patientia, &amp; humilitas praedicatur. Eides: qua credit: patientia 
+        <lb ed="#Ba" n="54"/>qua perstat: humilitas: qua se non canibus sed catulis comparat. Mensa est sacra scriptura: dominorum, 
+   <!--193.xml-->
+        <pb ed="#Ba" n="89-v"/>
+        <lb ed="#Ba" n="1"/>ludaeorum: quibus scriptura primo loco apposita est: catuli, gentiles homines paruuli: quia scriptu 
+        <lb ed="#Ba" n="2"/>rae subditi, de qua edunt. Et ideo Apostoli. ludaeos obstinatos relinquentes sacram scripturam transtulerunt 
+        <lb ed="#Ba" n="3"/>ad gentes: secundum quod legitur Actu. xiii. Vniuersa ciuitas convenit audire verbum dei. Videntes 
+        <lb ed="#Ba" n="4"/>autem turbas ludaei repleti sunt aelo: &amp; contradicebant his quae a Paulo dicebantur blasphemantes. 
+        <lb ed="#Ba" n="5"/>Tunc constanter Paulus &amp; Barnabas dixerunt. Vobis oportebat primum loqui verbum dei: sed quam 
+        <lb ed="#Ba" n="6"/>do repulistis istud, &amp; indignos vos iudicastis aeternae vitae: ecce conuertimur ad gentes. sic enim no 
+        <lb ed="#Ba" n="7"/>bis praecepit dominus. Et impletum est illud. Matt. xiii. Qui habet dabitur ei. Glos. Qui habet ver- 
+        <lb ed="#Ba" n="8"/>bi amorem, dabitur ei sensus intelligendi, &amp; abundabit intelligentia. Qui autem non habet. Glos. amo 
+        <lb ed="#Ba" n="9"/>rem verbi. Et quod habet. Glos. vel naturali igenio, vel studio literarum. Auferetur ab eo. Multo ergo magis 
+        <lb ed="#Ba" n="10"/>&amp; exterior scriptura, quia vt dicit alia Gloss. nulla pars sapientiae dulcedine gaudebit. Est autem ta- 
+        <lb ed="#Ba" n="11"/>libus sacra scriptura omnino auferenda: quia vt dicit Chryso. si eam discant geminum est inde damnum: 
+        <lb ed="#Ba" n="12"/>cum certe &amp; ipsi nihil fructificent inde: immo magis magisque laedantur: &amp; ecclesiae negocia atque pericula 
+        <lb ed="#Ba" n="13"/>mille commoueant: secundum quod infra exponemus in quaestione: an omnibus indifferenter debeat ista 
+        <lb ed="#Ba" n="14"/>scriptura exponi. Vnde &amp; tempore Antichristi: quando fere omnes obstinati erunt &amp; rebelles lumini ac ve- 
+        <lb ed="#Ba" n="15"/>ritati sacrae scripturae, auditus huius scientiae &amp; publica lectione &amp; praedicatione omnino subtrahe- 
+        <lb ed="#Ba" n="16"/>tur. secundum quod dicitur Amos. viii. Ecce dies veniunt dicit dominus: &amp; mittam famen in terram: non 
+        <lb ed="#Ba" n="17"/>famen panis, neque sitim aquae: sed audiendi verbum dei. Glos. Mittet dominus in eis qui terrena sapi 
+        <lb ed="#Ba" n="18"/>unt, famen audiendi verbum dei: quando propter peccata deficit doctrina in ecclesiis. 
+      </p>
+      <p xml:id="vn58an-d1e1083-d1e260">
+        <lb ed="#Ba" n="19"/> ⁋ Ad illud quod arguitur primo in oppositum: quod opus misericordiae debet exerceri 
+        <lb ed="#Ba" n="20"/>indifferenter ad omnes: Dicendum quod duplex est misericordia: quaedam corporalis quam facimus de no 
+        <lb ed="#Ba" n="21"/>stro: quaedam spiritualis quam dispensamus de eis quae sunt dei. secundum quod distinguit Chryso. super 
+        <lb ed="#Ba" n="22"/>illud Matth. vii. Nolite sanctum dare canibus. In primo misericordia facienda est ad omnes pro tem 
+        <lb ed="#Ba" n="23"/>pore &amp; loco. In secundo autem nequaquam nisi ad dignos. secundum quod etiam deus ad cuius exemplum Christus 
+        <lb ed="#Ba" n="24"/>nos voluit esse misericordes, materialia beneficia praestat bonis &amp; malis: dignis &amp; indignis: non au-  
+        <lb ed="#Ba" n="25"/>tem spiritualia nisi dignis &amp; bonis solum. Non enim vt ait Chryso. dicit scriptura: qui spiritum sanctum iu 
+        <lb ed="#Ba" n="26"/>bet descendere super gratos &amp; ingratos: sicut Qui pluit super iustos &amp; iniustos: &amp; facit oriri solem 
+        <lb ed="#Ba" n="27"/>suum super bonos &amp; malos. Propter quod in vestris estote simplices &amp; benigni: in eis autem quae dei 
+        <lb ed="#Ba" n="28"/>sunt prudentes &amp; cauti. 
+      </p>
+      <p xml:id="vn58an-d1e1083-d1e284">
+        ⁋ Ad secundum de sagena: Dicendum quod sicut sagena materialis congre- 
+        <lb ed="#Ba" n="29"/>gat de omni genere piscium: capiens secundum Gloss, quicquid incidit bonos &amp; malos: quos trahit 
+        <lb ed="#Ba" n="30"/>ad littus: sic ab initio auditus huius scientiae &amp; praedicatione &amp; lectione omnibus est concedendus &amp; 
+        <lb ed="#Ba" n="31"/>nulli denegandus: siue sint boni siue mali: dum tamen stent absconditi sine rebellione &amp; contradi 
+        <lb ed="#Ba" n="32"/>ctione sacrae scripturae, quibus tamen postquam facti sunt rebelles ei &amp; obstinati contra veritatem: bene 
+        <lb ed="#Ba" n="33"/>est auditus eius omnino denegandus. In apertis enim bene iudicat ecclesia &amp; separat in praesenti bonos 
+        <lb ed="#Ba" n="34"/>a malis: &amp; a conmunicatione sacramentorum omnium &amp; beneficiorum ecclesiae, licet non in occultis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

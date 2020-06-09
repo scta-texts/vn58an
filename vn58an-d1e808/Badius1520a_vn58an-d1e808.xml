@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="67-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e808"> <!-- alias="vn58an-a8q5" -->
+      <head xml:id="vn58an-d1e808-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e808-Hd1e107" type="question-title">Utrum simul tota erat conscribenda</head>
+      <p xml:id="vn58an-d1e808-d1e110">
+        <lb ed="#Ba" n="40"/>CIrca quintum arguitur, quod haec scientia tota simul &amp; perfecta erat conscriben 
+        <lb ed="#Ba" n="41"/>da, non vna prius: vt vetus testamentum: altera posterius: vt nouum testamen 
+        <lb ed="#Ba" n="42"/>tum. Primo sic. Natura facit semper quod melius est. secundum quod est possibilius:  
+        <lb ed="#Ba" n="43"/>vt dicit philosophus. multo fortius ergo &amp; auctor naturae, qui melior est &amp; 
+        <lb ed="#Ba" n="44"/>perfectior. sed melius fuit recipere scientiam simul totam perfectam quam par- 
+        <lb ed="#Ba" n="45"/>tem, &amp; hoc erat possibile dare auctori huius scientiae: deo scilicet. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e808-d1e126">
+        <lb ed="#Ba" n="46"/>⁋ Secundo sic: Quanto scientia perfectior est: tanto melius &amp; facilius instruit. sed propter hominis 
+        <lb ed="#Ba" n="47"/>instructionem ista scientia conscripta est. vt dictum est. ergo tota perfecta debuit conscribi. 
+      </p>
+      <p xml:id="vn58an-d1e808-d1e134">
+        ⁋ Contra est 
+        <lb ed="#Ba" n="48"/>apostolus cum dicit <ref xml:id="vn58an-d1e808-Rd1e138">primae Corinthicorm decimoquinto</ref>. <quote xml:id="vn58an-d1e808-Qd1e141" source="http://scta.info/resource/Icor15_46">Non prius quod est <unclear>spirituale</unclear> quam quod animale</quote>. 
+        <lb ed="#Ba" n="49"/>sed quod animale quam quid spirituale. vetus testamentum est animale, nouum spirituale. iuxta apostoli 
+        <lb ed="#Ba" n="50"/>intentionem ibidem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e808-d1e152">
+        ⁋ Item Gali. iii. Lex paedagogus fuit in Christo: vt ex fide iustifice 
+        <lb ed="#Ba" n="51"/>mur id est in nouam legem fidei Christianus Sed paedagogus debet praecedere illum cuius est paedagogus. 
+        <lb ed="#Ba" n="52"/>Vetus ergo testamentum prius debuit conscribi quam nouum, quare cum ambo sint partes huius 
+        <lb ed="#Ba" n="53"/>scientiae: non simul debuerunt conscribi: sed partes successiue. 
+      </p>
+      <p xml:id="vn58an-d1e808-d1e161">
+   <!--149.xml-->
+            <pb ed="#Ba" n="67-v"/>
+        <lb ed="#Ba" n="1"/>⁋ Dicendum ad hoc: quod cum vt dictum est: scientia ista non nisi in vsum &amp; auxilium ho- 
+        <lb ed="#Ba" n="2"/>minum literis describenda erat: eo modo &amp; tempore describenda erat quo vsui hominis magis competit. Nunc 
+        <lb ed="#Ba" n="3"/>autem ita est: vt patet ex dictis: quod homo per hanc scientiam ab imperfecto ducendus est ad perfectum: 
+        <lb ed="#Ba" n="4"/>quod oportuit fieri gradatim a minus perfecto ascendendo ad magis perfectum. Et hoc non tan-  
+        <lb ed="#Ba" n="5"/>tum in cognoscendis: vt declaratum est supra eodem articulo, quaestione tertia: sed etiam in agen- 
+        <lb ed="#Ba" n="6"/>dis: vt iam restat declarare. Cum enim vt dictum est quaest. proxima hominibus submersis in pro- 
+        <lb ed="#Ba" n="7"/>fundo peccatorum scientia ista conscribenda erat: qui omnino inhabiles erant ad perfectiora ope 
+        <lb ed="#Ba" n="8"/>ra virtutum exercenda: sed sufficiebat eis si ab initio possent vsum peccatorum dimittere: 
+        <lb ed="#Ba" n="9"/>&amp; tunc demum ad opera perfectionis &amp; virtutum anhelare: Idcirco eis ab initio ista scientia per 
+        <lb ed="#Ba" n="10"/>fecte describi non debuit: sed aliquis gradus in ea: vt in minori assuefacti ad magis perfectum 
+        <lb ed="#Ba" n="11"/>suscipiendum fierent idonei. vt sic primo pars illa quae faciliora &amp; minus perfecta describeret, in veteri 
+        <lb ed="#Ba" n="12"/>testamento: deinde consequenter illa quae difficiliora &amp; perfectiora edicta continet in nouo testamen- 
+        <lb ed="#Ba" n="13"/>to traderetur: vt per primam partem fugere peccata disceret timore poenae: per secundam virtu 
+        <lb ed="#Ba" n="14"/>tes amare zelo iustitiae. Propter quod dixit apostolus. Ad nihil perfectum ducit lex: sed paedagogus 
+        <lb ed="#Ba" n="15"/>noster fuit in Christo. Hinc est quod dicitur in collatione praedicta. Quia lex naturalis corrupta fuerat 
+        <lb ed="#Ba" n="16"/>vsu libidineque peccandi apposita est adiutrix naturae legis Mosaicae seuera districtio: vt vel me- 
+        <lb ed="#Ba" n="17"/>tu poenae praesentis non penitus litera scientiae naturalis extingueretur, quae tantum du-  
+        <lb ed="#Ba" n="18"/>rare debuit quo pristinae legis naturae possent sustinere mandata, quae in lege euangelii erant 
+        <lb ed="#Ba" n="19"/>diuulganda. Quoniam vt dicit Ambrosius super Lucam, lob, Melchisedech, Abraham, lsaac, Ia- 
+        <lb ed="#Ba" n="20"/>cob per fidem sine lege viuebant. Praeuenientes enim legem patriarchae sancti praeceptorum vincu- 
+        <lb ed="#Ba" n="21"/>lis absoluti libera &amp; consimili nobis euangelii gratia refulserunt. &amp; sequitur. Multo melius egis- 
+        <lb ed="#Ba" n="22"/>set circuncisus populus: si vitam maiorum voluisset imitari. Sic enim fuisset vna aedificatio prio 
+        <lb ed="#Ba" n="23"/>rum ac sequentium. Sed quia primum illum vitae actum posterioris infirmitas non potuit implere 
+        <lb ed="#Ba" n="24"/>tanquam medius paries interiectus est: ne continua bonorum morum aedificatio rumperetur. Et 
+        <lb ed="#Ba" n="25"/>ideo vt dicitur in dicta collatione: non erat possibile euangelicam perfectionem tradi ante legis 
+        <lb ed="#Ba" n="26"/>custodiam. Non enim poterant audire, Qui te percusserit in dextera maxilla praebe illi &amp; alteram, 
+        <lb ed="#Ba" n="27"/>qui contenti non erant tali aequalitate iniurias, proprias vindicare, sed telorum vulnera pro alapa le 
+        <lb ed="#Ba" n="28"/>uissima rependebant: &amp; pro vno dente animas percutientium expetebant. Sed nec dici illis poterat, Di 
+        <lb ed="#Ba" n="29"/>ligite inimicos vestros: in quibus magni fructus dicebantur vt amicos suos diligerent, declinarent 
+        <lb ed="#Ba" n="30"/>vero ab inimicis: &amp; solo ab illis odio dissiderent: nec opprimere illos &amp; occidere festinarent. Mo- 
+        <lb ed="#Ba" n="31"/>saicae igitur iustitiae modus a talibus prius custodiendus erat: non excedere in vindicta modum,  
+        <lb ed="#Ba" n="32"/>ne plus rependat quisque quam acceperit, &amp; tunc demum nouae legis gratiam valet suscipere, vt non so- 
+        <lb ed="#Ba" n="33"/>lum vindictam non expetat: sed etiam totam remittat: insuper &amp; iniurianti beneficia cumulet. 
+        <lb ed="#Ba" n="34"/>secundum illud. Si sitit inimicus tuus, potum da illi. Quia vt dicit Augustinus. i. de ser. do. in monte. 
+        <lb ed="#Ba" n="35"/>Magnus hic iustitiae gradus oculum pro oculo, dentem pro dente: quibus nominibus signatur modus: vt 
+        <lb ed="#Ba" n="36"/>iniuria vindictam non transeat: &amp; haec est quaedam pacis inchoatio. Perfecta vero pax est talem peni- 
+        <lb ed="#Ba" n="37"/>tus nolle vindictam. Inter ergo illud primum quod praeter legem est: vt maius malum pro minore red- 
+        <lb ed="#Ba" n="38"/>datur: &amp; hoc quod dominus discipulis dicit: ne pro malo vllum reddatur malum, medium quemdam 
+        <lb ed="#Ba" n="39"/>locum tenet: vt tantum reddatur quantum acceptum est. Per quod a summa discordia ad summam con 
+        <lb ed="#Ba" n="40"/>cordiam: pro temporum distributrione transitus factus est: vt homo per legem Moysi adiutus: ipsa 
+        <lb ed="#Ba" n="41"/>tanquam paedagoga vtatur: &amp; ad legis naturae praecepta non in tabulis lapideis: sed in tabulis cordis scri 
+        <lb ed="#Ba" n="42"/>pta reuertatur. dicente domino per Hieremiam prophetam: quod &amp; assumit apostolus. Heb. x. Ecce dies ve- 
+        <lb ed="#Ba" n="43"/>niunt, &amp; consummabo super domum luda &amp; super domum lsrael testamentum nouum: non secundum  
+        <lb ed="#Ba" n="44"/>pactum quod pepigi cum pluribus eorum in die qua apprehendi eos: vt educerem eos de terra 
+        <lb ed="#Ba" n="45"/>aegypti: sed hoc erit pactum meum: dabo legem meam in visceribus eorum: &amp; in corde eorum 
+        <lb ed="#Ba" n="46"/>scribam eam. Esa. xi. Lex mea in corde ipsorum. Glos. interli. Euangelium. Vnde statim deficien 
+        <lb ed="#Ba" n="47"/>te lege naturae non erat describenda lex euangelii, sicut nec Christus eam scripsit: quia non erat 
+        <lb ed="#Ba" n="48"/>literis conscribenda: vt discatur: sed solum praedicationibus proponenda: vt in cordibus homi- 
+        <lb ed="#Ba" n="49"/>num scripta legatur. Sed quia post praedicationem euangelii (vt dicit Chrysostomus) sicut prio 
+        <lb ed="#Ba" n="50"/>res a lege naturae: sic &amp; posteriores multi a recto calle euangelicae praedicationis detorserant, 
+        <lb ed="#Ba" n="51"/>eius rursus quae constat ex literis eguerunt: &amp; opus erat vt scriberentur euangelia: quae non  
+        <lb ed="#Ba" n="52"/>nisi ad naturalis legis recordationem erant diuulganda. 
+      </p>
+      <p xml:id="vn58an-d1e808-d1e281">
+        ⁋ Ad primum quod auctor naturae facit 
+        <lb ed="#Ba" n="53"/>quod melius est: dicendum quod verum est quando est possibilius &amp; congruentius. Nunc autem non ita 
+        <lb ed="#Ba" n="54"/>conueniens &amp; congruum fuit homini totam simul conscribere: vt per partes: sicut dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e808-d1e288">
+        <lb ed="#Ba" n="55"/>⁋ Ad secundum quod scientia perfectior perfectius &amp; facilius instruit, dicendum quod verum est, quando  
+   <!--150.xml-->
+        <pb ed="#Ba" n="68-r"/>
+        <lb ed="#Ba" n="1"/>recipiens ad perfectionem scientiae est dispositus. sed quando est indispositus, imperfectior scientia 
+        <lb ed="#Ba" n="2"/>facilius &amp; perfectius secundum suum statum instrueret eum, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

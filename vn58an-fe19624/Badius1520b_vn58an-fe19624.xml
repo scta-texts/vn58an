@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="72-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe19624"> <!-- alias="vn58an-a53a9" -->
+      <head xml:id="vn58an-fe19624-Hd1e104">Quaestio 9</head>
+      <p xml:id="vn58an-fe19624-d1e107">
+        <lb ed="#Bb" n="10"/>Irca nonum arguitur, quod in deo non sint nisi duae personae. Primo sic. in diuinis non est ni- 
+        <lb ed="#Bb" n="11"/>si persona quae non est ab alia, &amp; persona quae est ab alia. sed ita est quod persona quae  
+        <lb ed="#Bb" n="12"/>non est ab alia, non potest esse nisi vnica, propter perfectionem quam requirit in illa 
+        <lb ed="#Bb" n="13"/>ratio illa quae est non esse ab alia: vt iam patebit, quare cum in persona non minorem per 
+        <lb ed="#Bb" n="14"/>fectionem requirit ratio essendi personam ab alia, quam ratio essendi personam non ab  
+        <lb ed="#Bb" n="15"/>alia: consimiliter ergo propter perfectionem quam requirit in persona ratio illa quae  
+        <lb ed="#Bb" n="16"/>est non esse ab alia, persona illa quae est ab alia non potest esse nisi vnica. in deo ergo tantum est vnica perso- 
+        <lb ed="#Bb" n="17"/>na quae est ab alia, &amp; tantum vnica quae non est ab alia. ergo tantum duae personae sunt in ipso. 
+      </p>
+      <p xml:id="vn58an-fe19624-d1e127">
+        ⁋ Quia sint 
+        <lb ed="#Bb" n="18"/>plures arguitur sic. in deo est ponere rem quae generat, vt personam patris, &amp; rem quae generatur 
+        <lb ed="#Bb" n="19"/>vt personam filii, &amp; rem quae spiratur, vt personam spiritus sancti, &amp; rem quae nec generatur nec spiratur 
+        <lb ed="#Bb" n="20"/>vt communem essentiam: quae non est nisi essentia singularis intellectualis naturae. &amp; talis non est. ni 
+        <lb ed="#Bb" n="21"/>si persona, ergo in deo sunt ad minus quatuor personae. 
+      </p>
+      <p xml:id="vn58an-fe19624-d1e138">
+        ⁋ Quia in diuinis personae sint infinitae: arguitur sic. 
+        <lb ed="#Bb" n="22"/>n diuinis plures sunt personae in eadem essentia propter eius infinitatem &amp; illimitationem qua con- 
+        <lb ed="#Bb" n="23"/>municabilis est in sua singularitate. sed communicabile propter suam infinitatem non minus est con- 
+        <lb ed="#Bb" n="24"/>municabile infinitis: eo quod infinitas nullum numerum sibi determinat. ergo &amp;c. 
+        <lb ed="#Bb" n="25"/>
+      </p>
+      <p xml:id="vn58an-fe19624-d1e150">
+        ⁋ In hac quaestione supposito ex praedeterminatis quod in deo necesse est ponere plures 
+        <lb ed="#Bb" n="26"/>esse personas: Primo explicandum est quomodo in diuinis non possint esse tantum duae personae: sed quod  
+        <lb ed="#Bb" n="27"/>oportet esse tres: &amp; deinde quod non possunt esse plures tribus: vt secundum hoc sint tres, &amp; tantum 
+        <lb ed="#Bb" n="28"/>tres, nec plures, nec pauciores. Est igitur sciendum, quod sicut persona in deo non accipitur penes ali 
+        <lb ed="#Bb" n="29"/>quid absolutum: sed solummodo penes relatiuam proprietatem: &amp; ideo propter naturam proprietatis relatiuae 
+        <lb ed="#Bb" n="30"/>constituentis personam, necessario debet poni pluralitas personarum in deo: &amp; non vnitas tantum: vt habitum 
+        <lb ed="#Bb" n="31"/>est in praecedente quaestione: Sic consimiliter in deo non accipitur persona penes relatiuam proprietatem quan- 
+        <lb ed="#Bb" n="32"/>cumque, sed penes illam solam quae pertinet ad rationem originis &amp; emanationis vnius personae ab altera. Alia enim 
+        <lb ed="#Bb" n="33"/>proprietas relatiua in diuinis realis non est, neque personae distinctiua: vt infra videbitur. Propter 
+        <lb ed="#Bb" n="34"/>quod penes rationum diuinarum emanationem necessario debet poni numerus personarum diuinarum. Ema 
+        <lb ed="#Bb" n="35"/>nationum enim termini sunt ipsae personae relationibus constitutae. Quia ergo in deo sunt tantum duo  
+        <lb ed="#Bb" n="36"/>modi emanandi personam a persona. scilicet per modum naturae vnius, &amp; per modum voluntatis alius, vt infra vi- 
+        <lb ed="#Bb" n="37"/>debitur: quarum prima procedit a persona quae penitus non est ab alia: vt similiter videbitur inferius: secun- 
+        <lb ed="#Bb" n="38"/>da vero simul ab illa, &amp; ab alia quae emanat per illam, &amp; terminatur in personam tertiam: vt similiter vide- 
+        <lb ed="#Bb" n="39"/>bitur inferius: Idcirco secundo in deo non possunt esse pauciores quam tres modi personae: vt sunt in diuinis 
+        <lb ed="#Bb" n="40"/>persona quae a nulla est, &amp; persona quae ab vna est, &amp; persona quae ab aliis est. Praeterea quia illi duo  
+        <lb ed="#Bb" n="41"/>modi emanandi sic singulares sunt: vt nullo modo possint plurificari, vt similiter infra patebit:  
+        <lb ed="#Bb" n="42"/>&amp; singulares emanationes necessario habent singulares terminos: idcirco tertio in deo personae non 
+        <lb ed="#Bb" n="43"/>possunt esse plures tribus: &amp; sic tantum tres, ita quod nec plures nec pauciores. Sed quia pluratex his 
+        <lb ed="#Bb" n="44"/>adhuc obscura sunt, primum (vt ait <name ref="#Augustine">Augustinus</name> i de trinitate. c. ii. secundum auctoritatem scripturarum sanctarum, vtrum 
+        <lb ed="#Bb" n="45"/>ita se habeat fides demonstrandum est: deinde rationibus magis lucidis quasi a posteriori acceptis de 
+        <lb ed="#Bb" n="46"/>clarandum est. Auctoritates autem diuinarum scripturarum veteris ac noui testamenti ad demonstrandum quod per  
+        <lb ed="#Bb" n="47"/>sonae sint tres, inducit sufficienter Magister Sententiarum litid is. distin ii. &amp; ab illo cap. Proponamus er 
+        <lb ed="#Bb" n="48"/>go in medium, vsque in finem illius distinctionis, quas propterea non oportet hic recitare. Rationes ad  
+        <lb ed="#Bb" n="49"/>hoc idem demonstrandum acceptas a vestigio dei in creaturis generaliter, &amp; a ratione imaginis in  
+        <lb ed="#Bb" n="50"/>creatura rationali specialiter, sufficienter inducit per totam tertiam distinct. propter quod eas hic repete- 
+        <lb ed="#Bb" n="51"/>re non oportet. Sed vnam explicat specialiter Augustini quam non explicat Magister, cum dicit li. lxxxiii, quod  
+        <lb ed="#Bb" n="52"/>quest. xviii. Omne quod est, aliud est quo constat, aliud quo discernitur, aliud quo congruit. Causam 
+        <lb ed="#Bb" n="53"/>quoque eius trinam esse qua sit, qua hoc sit, qua sibi anmica sit. Creaturae autem causa. id est auctorem deum dici 
+        <lb ed="#Bb" n="54"/>mus. Oportet igitur esse trinitatem. Sed haec ratio &amp; omnes consimiles a vestigio &amp; imagine crea- 
+        <lb ed="#Bb" n="55"/>turarum inductae probabilitatem &amp; nullam necessitatem inducunt, eo quod quicquid est in creaturis, attestatur 
+   <!--159.xml-->
+        <pb ed="#Bb" n="72-v"/>
+        <lb ed="#Bb" n="1"/>principaliter eis quae sunt essentialia in deo &amp; communia tribus personis: licet per appropriationem 
+        <lb ed="#Bb" n="2"/>singula singulis personis adaptantur. 
+      </p>
+      <p xml:id="vn58an-fe19624-d1e229">
+        ⁋ Sed rationes acceptae ab illis quae sunt in deo, &amp; pertinent 
+        <lb ed="#Bb" n="3"/>ad eius perfectionem, ad idem demonstrandum hic inducendae sunt. Quarum prima sumitur ex bo- 
+        <lb ed="#Bb" n="4"/>nitate, amore, charitate, existente in deo. quam ponit Ricar. iii. de triniitate. sparsim in diuersis capitu- 
+        <lb ed="#Bb" n="5"/>lis, in ca. xi. inquiens. In mutuo amore nihil praeclarius quam vt ab eo quem summe diligis, &amp; a quo sum 
+        <lb ed="#Bb" n="6"/>me diligeris, alium aeque diligi velis. Demus ergo summo quod praecipuum &amp; optimum est. Vides ergo quo 
+        <lb ed="#Bb" n="7"/>modo charitatis consummatio personarum trinitatem requirit. Vt enim dicit cap. xiii. Charitas vt es 
+        <lb ed="#Bb" n="8"/>se vera possit, pluralitatem exigit: vt vero consummata sit, trinitatem personarum requirit. Et cap. xix. 
+        <lb ed="#Bb" n="9"/>uando solus solum diligit, dilectio quidem est: condilectio non est. Condilectio vero dicitur vbi duo  
+        <lb ed="#Bb" n="10"/>rum affectus tertii amoris incendio conflatur. 
+      </p>
+      <p xml:id="vn58an-fe19624-d1e249">
+        ⁋ Secunda vero ratio sumitur ab eodem ex parte 
+        <lb ed="#Bb" n="11"/>felicitatis &amp; iucunditatis, quam ponit in cap. xvii. sic dicens. Completio verae felicitatis &amp; summae nullo 
+        <lb ed="#Bb" n="12"/>videtur posse subsistere sine geminatione personae. Et cap. xviii. Et certe si in illa personarum pluralita 
+        <lb ed="#Bb" n="13"/>te tertia persona deesset, in sola geminatione personae non esset. Et cap. xx. Nam plenitudo summae feli- 
+        <lb ed="#Bb" n="14"/>citatis requirit plenitudinem summae iucunditatis: plenitudo summae iucunditatis requirit plenitu- 
+        <lb ed="#Bb" n="15"/>dinem summae charitatis: plenitudo summae charitatis exigit plenitudinem trinitatis. 
+      </p>
+      <p xml:id="vn58an-fe19624-d1e262">
+        ⁋ Ratio vero 
+        <lb ed="#Bb" n="16"/>qua probari debet quod in diuinis non sint plures quam tres personae, accepta est a natura rei, talis. In diui 
+        <lb ed="#Bb" n="17"/>nis non est personarum pluralitas, nisi propter emanationem personalem &amp; relatiuas proprietates, quibus ordi- 
+        <lb ed="#Bb" n="18"/>nem habet ad actus emanationum personalium: vt dictum est supra. Nunc autem in diuinis non potest es 
+        <lb ed="#Bb" n="19"/>se nisi tantum vnica persona quae non est ab alia, &amp; a qua aliae, nec possunt esse in diuinis plures ra 
+        <lb ed="#Bb" n="20"/>tiones, vel modi emanationum quam duo, ita quod quamlibet illarum necesse est esse singularem &amp; vnicam: 
+        <lb ed="#Bb" n="21"/>per quas non possunt procedere nisi duae personae singulares &amp; vnicae, secundum quod in sequentibus omnia 
+        <lb ed="#Bb" n="22"/>ista habent declarari. Vna autem singularis persona quae non est ab alia, &amp; a qua sunt aliae, &amp; duae singula 
+        <lb ed="#Bb" n="23"/>res quae sunt ab alia, non sunt personae nisi tres: in diuinis ergo non possunt plures esse personae quam tres. 
+        <lb ed="#Bb" n="24"/>
+      </p>
+      <p xml:id="vn58an-fe19624-d1e284">
+        ⁋ Ad primum in oppositum, quod propter perfectionem suam persona quae non est ab alia est 
+        <lb ed="#Bb" n="25"/>nica, ergo propter aequalem perfectionem illa persona quae non est ab alia debet esse vnica, Dicen- 
+        <lb ed="#Bb" n="26"/>dum quod non est ita, quoniam sic est in omnibus quae pluralitatem habent in vniuersa rerum natura, quod  
+        <lb ed="#Bb" n="27"/>ordinem aliquem habent adinuicem secundum rationem principii &amp; principiati: vt sit omnium illorum  
+        <lb ed="#Bb" n="28"/>principium vnum, a quo habent educi, &amp; in quod habent reduci, secundum quod in prima quaest. no-  
+        <lb ed="#Bb" n="29"/>stri sexti Quodlibet exposuimus diffusius, ordiendo Hierarchicum ordinem vniuersi. Et sic primum 
+        <lb ed="#Bb" n="30"/>principium in ordine quocumque requirit vnitatem, non sic autem procedens a principio. Propter quod  
+        <lb ed="#Bb" n="31"/>licet in ordine diuinarum personarum sit necesse fore vnicam personam quae non est ab alia, non tamen necesse est fore 
+        <lb ed="#Bb" n="32"/>vnicam illam quae est ab alia. immo bene potest esse quod sint plures, &amp; hoc propter emanationum pluralitatem: vt dictum 
+        <lb ed="#Bb" n="33"/>est: &amp; infra declarabitur. Nec sequitur conclusum, eo quod non tenet forma argumenti: quoniam in diuinis est ac 
+        <lb ed="#Bb" n="34"/>cipere duplicem rationem perfectionis, licet ipsa perfectio non sit nisi vnica, quia de essentialibus est. 
+        <lb ed="#Bb" n="35"/>Vnam quae est dei inquantum deus est: aliam quae est singularis personae, inquantum talis persona est: vt 
+        <lb ed="#Bb" n="36"/>patris, inquantum pater est: &amp; filii, inquantum filius est: &amp; spiritus sancti inquantum spiritus sanctus 
+        <lb ed="#Bb" n="37"/>est. Ratio autem perfectionis dei inquantum deus est, in essentialibus, &amp; absolutis consistit. in qua  
+        <lb ed="#Bb" n="38"/>vniuoce aequales sunt pater &amp; filius &amp; spiritus sanctus, &amp; aeque perfecti, non tamen tres perfecti, sed  
+        <lb ed="#Bb" n="39"/>vnus perfectus. Et propter istam perfectionem persona non habet esse persona, nec vnica, nec plures, 
+        <lb ed="#Bb" n="40"/>sed deus tantum: de qua supra tractatum est. Ratio vero perfectionis personae singularis, inquantum 
+        <lb ed="#Bb" n="41"/>singularis persona, consistit in relatiuis &amp; personalibus, in qua nec vniuocantur nec conveniunt diuer 
+        <lb ed="#Bb" n="42"/>sae personae diuinae: scilicet illa a qua est alia, &amp; quae est ab alia: quia personalis proprietas vnius non est con- 
+        <lb ed="#Bb" n="43"/>munis alteri. Ratio enim perfectionis patris siue ratio secundum quam perfectio est in patre inquan- 
+        <lb ed="#Bb" n="44"/>tum pater, est propria patri: &amp; non conuenit filio nec spiritui sancto. Consistit enim in sua innasci- 
+        <lb ed="#Bb" n="45"/>bilitate, in qua habet foecunditatem vt ab ipso procedat omnis alius, &amp; omne aliud: vt infra pate 
+        <lb ed="#Bb" n="46"/>bit. Ratio vero perfectionis filii consistit in sua natiuitate, in qua habet foecunditatem commu- 
+        <lb ed="#Bb" n="47"/>nem cum patre: vt ab ipso procedat vnus alius: &amp; omne aliud. Ratio vero perfectionis spiritus 
+        <lb ed="#Bb" n="48"/>sancti consistit in sua processione passiua, in qua habet foecunditatem communem cum patre &amp; si 
+        <lb ed="#Bb" n="49"/>lio: vt ab ipso procedat omne aliud. Et sic ratio perfectionis patris vt pater, non conuenit filio:  
+        <lb ed="#Bb" n="50"/>nec spiritui sancto: nec econuerso. Sicut nec filio conuenit quod sit pater nec spiritus sanctus, nec econ 
+        <lb ed="#Bb" n="51"/>uerso. Propter quod omnis actio personalis quae conuenit patri, convenit filio, aut spiritui sancto. Sed  
+        <lb ed="#Bb" n="52"/>in aliqua ratione perfectionis conuenit cum patre filius, non autem spiritus sanctus, quae scilicet con- 
+        <lb ed="#Bb" n="53"/>sistit in eorum processibilitate, in qua habent communem foecunditatem vt ab ipsis procedat spiritus san 
+        <lb ed="#Bb" n="54"/>ctus. Propter quod dicit Ricar. iii. de triniitate. cap, xv. Sane in diuinis illis personis perfectio vnius exigit 
+   <!--160.xml-->
+        <pb ed="#Bb" n="73-r"/>
+        <lb ed="#Bb" n="1"/>adiunctionem alterius: &amp; consequenter in geminis, perfectio vtriusque requirit cohaerendum tertiae. Quia 
+        <lb ed="#Bb" n="2"/>ergo persona quae non est ab alia sed a qua est alia, &amp; persona quae est ab illa non conveniunt: &amp; per con 
+        <lb ed="#Bb" n="3"/>sequens nec vniuocantur in suis rationibus perfectionum personalibus: ideo non sequitur quod licet 
+        <lb ed="#Bb" n="4"/>vna persona propter suam perfectionem requirat quod sit vnica tantum, quod hoc similiter requirat &amp; alia 
+        <lb ed="#Bb" n="5"/>vt quod si persona quae non est ab alia &amp; a qua est alia, sit vnica, quod similiter persona quae est ab alia sit vni 
+        <lb ed="#Bb" n="6"/>ca tantu scilicet illa quae prima emanatione procedit: quamuis sua perfectio requirit quod sit tantum vnica in ratio- 
+        <lb ed="#Bb" n="7"/>ne suae personalitatis. Quemadmodum enim perfectio patris vt pater est, requirit quod in diuinis non sit nisi 
+        <lb ed="#Bb" n="8"/>tantum vnus pater: sic perfectio filii vt filius, requirit quod in diuinis non sit nisi tantum vnus filius. Non tamen 
+        <lb ed="#Bb" n="9"/>quemadmodum perfectio patris qua non est ab alio simpliciter, requirit quod non sit in diuinis alius qui 
+        <lb ed="#Bb" n="10"/>non est ab alio, siue ille alius intelligatur fore pater, siue non pater: Sic perfectio filii qua est ab alio 
+        <lb ed="#Bb" n="11"/>simpliciter, requirit quod non sit in diuinis alius quid non est ab alio, siue ille alius fuerit filius siue non filius 
+        <lb ed="#Bb" n="12"/>secundum quod haec omnia melius clarescent inferius. 
+      </p>
+      <p xml:id="vn58an-fe19624-d1e382">
+        ⁋ Ad secundum dicendum: quod licet in deo sit po 
+        <lb ed="#Bb" n="13"/>nere rem substantiae vnicam, &amp; rem relationis in personis triplicem: tamen illa res substantiae vt substam 
+        <lb ed="#Bb" n="14"/>tia est siue essentia, licet sit natura intellectualis non habet propriam rationem personalitatis. Quo 
+        <lb ed="#Bb" n="15"/>niam (vt supra expositum est) res quae est essentia secundum quod est essentia siue sit singularis siue non- 
+        <lb ed="#Bb" n="16"/>non habet rationem personae nisi habeat rationem incommunicabilis: &amp; ideo non connumeratur 
+        <lb ed="#Bb" n="17"/>cum triplici re personali, nec distinguitur contra eas in constituendo personam, vt posuit loachim. 
+        <lb ed="#Bb" n="18"/>
+      </p>
+      <p xml:id="vn58an-fe19624-d1e399">
+        ⁋ Ad tertium dicendum, quod si non esset in diuina essentia alia ratio qua esset communicabilis, &amp; alia 
+        <lb ed="#Bb" n="19"/>qua est istis communicabilis: tunc argumentum procederet. Nunc autem non est ita. licet enim sit  
+        <lb ed="#Bb" n="20"/>communicabilis simpliciter propter rationem suae infinitatis &amp; illimitationis: vt propterea in sin-  
+        <lb ed="#Bb" n="21"/>gularitate essentiae procedit communicatio in diuinis: cum tamen in illa statur in creaturis (vt ali 
+        <lb ed="#Bb" n="22"/>bi expressius declarauimus ) non tamen est communicabilis nisi determinatis personis propter 
+        <lb ed="#Bb" n="23"/>determinatum numerum radicum diuinarum emanationum in diuina essentia: cuiusmodi sunt 
+        <lb ed="#Bb" n="24"/>intellectus &amp; voluntas, vt determinauimus in sexto Quodlibet in quaestione de numero persona- 
+        <lb ed="#Bb" n="25"/>rum, &amp; adhuc amplius declarabitur. Rationes autem quas Ricar. adducit de triniitate. quod non possunt per 
+        <lb ed="#Bb" n="26"/>sonae diuinae esse infinitae, logicales sunt omnes, &amp; solum probabilitatem inducunt, sicut &amp; illae per 
+        <lb ed="#Bb" n="27"/>quas probat personarum trinitatem.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

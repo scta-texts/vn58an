@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="256-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2797"> <!-- alias="vn58an-a40q1" -->
+      <head xml:id="vn58an-d1e2797-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e2797-Hd1e107" type="question-title">Utrum Deus sit intelligens</head>
+      <p xml:id="vn58an-d1e2797-d1e110">
+        <lb ed="#Ba" n="25"/>CIrca primum arguitur, quod deus non sit intelligens. Primo sic. Intelligere pati quoda 
+        <lb ed="#Ba" n="26"/>dam est: vt dicitur tertio de anima. Pati autem minime convenit deo inter omnia 
+        <lb ed="#Ba" n="27"/>entia, cum sit summe formalis &amp; abstractus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2797-d1e119">
+        ⁋ Secundo sic. Nihil in  
+        <lb ed="#Ba" n="28"/>telligit nisi per hoc quod intellectum est forma intellectus in intelligente. Forma 
+        <lb ed="#Ba" n="29"/>enim intelligibilis principium est omnis intellectualis operationis. sed intel- 
+        <lb ed="#Ba" n="30"/>lectus diuinus nullo modo habet informari, ne in deo ponatur compositio. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2797-d1e129">
+        <lb ed="#Ba" n="31"/>⁋ Quaestio ista determinata est in praecedentibus. Cum enim, vt habitum est, intelle- 
+        <lb ed="#Ba" n="32"/>ctus sit in deo tanquam potentia ad intelligendum, &amp; habitus intellectuales tanquam rationes intelligen 
+        <lb ed="#Ba" n="33"/>di: tale autem quod ex habitu per intellectum habet concipere obiecta cognoscibilia, quorum in se habet ha 
+        <lb ed="#Ba" n="34"/>bitus, quod est intelligere siue esse intelligentem: Ideo oportet dicere simpliciter quod deus sit intelli- 
+        <lb ed="#Ba" n="35"/>gens. Vnde &amp; deus dicitur a de Suc:i quod est considerare, quia omnia intellectu suo considerat.  
+        <lb ed="#Ba" n="36"/>Quod maxime apparet ex hoc quod in deum reducitur omne agens &amp; mouens motum, tanquam in agens &amp; mouens 
+        <lb ed="#Ba" n="37"/>primum non motum. Cum igitur sub ipso sit quoddam agens mouens seipsum, quid non mouet se nisi per apprehen 
+        <lb ed="#Ba" n="38"/>sionem &amp; appetitum: multo ergo fortius deus primum mouens mouet vt appetens &amp; intelligens. Aliter enim 
+        <lb ed="#Ba" n="39"/>mouens per intellectum esset instrumentum eius quod mouet non per intellectum: &amp; non intelligens 
+        <lb ed="#Ba" n="40"/>finem praestitueret intelligenti, &amp; imperfectum prius esset perfecto, &amp; esset aliqua imperfectio in deo, 
+        <lb ed="#Ba" n="41"/>quae omnia sunt inconuenientia. 
+      </p>
+      <p xml:id="vn58an-d1e2797-d1e155">
+        <lb ed="#Ba" n="42"/>⁋ Ad primum in oppositum, quod intelligere pati quoddam est, quod non cadit in deo: di-  
+        <lb ed="#Ba" n="43"/>cendum quod duplex est modus intelligendi. Vnus ad quem intellectus quantum est de se est in potentia tantum, &amp; non 
+        <lb ed="#Ba" n="44"/>in actu, nisi per agens quod est obiectum intelligibile, quid non est penitus idem sibi, nec semper est intellectum ei coniun 
+        <lb ed="#Ba" n="45"/>ctum in ratione mouentis aut motiui: sed quandoque sic, &amp; quandoque non. Alius vero est modus intelligendi. secundum quod  
+        <lb ed="#Ba" n="46"/>intellectus intelligentis semper est in actu intelligendi, &amp; hoc per agens intelligibile penitus idem sibi, &amp; ideo 
+        <lb ed="#Ba" n="47"/>semper praesens ei in ratione mouentis siue motiui. Primo modo intelligit omnis intellectus creatus. Et de isto dicit 
+        <lb ed="#Ba" n="48"/>Philosophus quod intelligere est pati. Est enim in eo modus verae passionis, per hoc quod intellectiuum de potentia 
+        <lb ed="#Ba" n="49"/>distante &amp; differente ab actu in actum reducitur per obiectum. Secundo modo intelligit solus intellectus increatus: &amp; 
+        <lb ed="#Ba" n="50"/>ideo in eo non est aliquis modus verae passionis realis: sed secundum rationem tantum: quemadmodum determinatum est su 
+        <lb ed="#Ba" n="51"/>pra quod ratio passionis cadit in deo, &amp; quod intellectus diuinus habet rationem potentiae. Hmodi autem differen- 
+        <lb ed="#Ba" n="52"/>tiae in modo intelligendi ratio est, quod intellectus quantum ad actum intelligendi in creaturis passius est, &amp; vt passi 
+        <lb ed="#Ba" n="53"/>ideo in actum intelligendi non procedit nisi per speciem siue formam rei intellectae: quae principium formale est, &amp; ratio 
+        <lb ed="#Ba" n="54"/>eliciendi actum intelligendi in intellectu. In deo autem forma intellecta non est nisi sua essentia, quae est ratio intel 
+   <!--528.xml-->
+        <pb ed="#Ba" n="257-r"/>
+        <lb ed="#Ba" n="1"/>gendi se &amp; omnia alia, secundum quod est ratio omnium diuinarum actionum: vt habitum est supra. Ipsa autem 
+        <lb ed="#Ba" n="2"/>essentia diuina penitus est: idipsum re cum ipso diuino intellectu, &amp; differunt sola ratione. Qua-  
+        <lb ed="#Ba" n="3"/>re cum sibiipsi non potest esse absens, non potest secundum rationem nostram intelligendi diuina es- 
+        <lb ed="#Ba" n="4"/>sentia esse non mouens ad actum intelligendi quaecumque intelligibilia. Quare cum idem secundum rem 
+        <lb ed="#Ba" n="5"/>non mouet seipsum, neque agit in seipsum nisi secundum rationem nostram intelligendi, intelligere dei 
+        <lb ed="#Ba" n="6"/>semper in actu ponitur, &amp; non est in ipso intellectus in potentia nisi coniunctus actui, &amp; secundum ratio 
+        <lb ed="#Ba" n="7"/>nem nostri intellectus. In creatura autem forma primo intellecta non est sua essentia: quia ipsa non est 
+        <lb ed="#Ba" n="8"/>prima ratio intelligendi in intellectu creato, eo quod ipsa essentia cuiuslibet rei vt est huius vel il- 
+        <lb ed="#Ba" n="9"/>lius, singularis est: &amp; proprium obiectum intellectus creati vniuersale est, quod est ei ratio cognoscendi omnia 
+        <lb ed="#Ba" n="10"/>singularia sub ipso, &amp; ita seipsam, quia est sub aliquo vniuersali: vt sic intelligat se sicut alia. Il 
+        <lb ed="#Ba" n="11"/>la autem ratio vniuersalis intellectum non mouet nisi ex habitu intellectuali, vel ex specie existen- 
+        <lb ed="#Ba" n="12"/>te in phantasmate, vt habitum est in quadam quaestione de quolibet. Habitus autem re aliud est ab  
+        <lb ed="#Ba" n="13"/>eo cuius est habitus. Idcirco intellectus creatus quia ad actum intelligendi semper mouetur aliquo  
+        <lb ed="#Ba" n="14"/>alio a se, vere passiuus est, eductus de potentia intelligendi in actum intelligendi. 
+      </p>
+      <p xml:id="vn58an-d1e2797-d1e220">
+        ⁋ Ad secundum,  
+        <lb ed="#Ba" n="15"/>quod intelligibile est forma intellectus in intelligente, quod non conuenit intellectui diuino: Dicen- 
+        <lb ed="#Ba" n="16"/>dum per eundem modum, quod intelligibile est forma intellectus: vel vt aliquid distans vel diffe- 
+        <lb ed="#Ba" n="17"/>rens quodammodo secundum rem ab ipso intellectu: vel vt differens secundum rationem tantum. Primum contin-  
+        <lb ed="#Ba" n="18"/>git in primo genere intelligendi, &amp; in creato intellectu tantum, &amp; non in diuino: vt procedit obiectio. 
+        <lb ed="#Ba" n="19"/>Secundum vero contingit in secundo genere intelligendi, &amp; in solo intellectu diuino: vt iam patebit.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

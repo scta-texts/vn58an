@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwea9"> <!-- alias="vn58an-a9prae" -->
+      <head xml:id="vn58an-qwwea9-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwea9-d1e107">
+        ⁋ Arti. lXxde auctore seu effectore Theologiae. 
+        <lb ed="#Ba" n="21"/>Equitur de causa efficiente huius scientiae . i. de auctore.  
+        <lb ed="#Ba" n="22"/>Et quia auctori scientiae succedit doctor eiusdem, &amp; doctori respon 
+        <lb ed="#Ba" n="23"/>det auctor: Ideo circa hoc tria sunt inquirenda. 
+        <lb ed="#Ba" n="24"/>Primum de auctore.  
+        <lb ed="#Ba" n="25"/>Secundum de doctore. 
+        <lb ed="#Ba" n="26"/>Tertium de auditore.  
+        <lb ed="#Ba" n="27"/>Et quia ab auctore suo scientia ipsa habet auctoritatem: ideo circa 
+        <lb ed="#Ba" n="28"/>hoc quaeruntur duo.  
+        <lb ed="#Ba" n="29"/>Primum de auctore huius scientiae. 
+        <lb ed="#Ba" n="30"/>Secundum de eius auctoritate.  
+      </p>
+      <p xml:id="vn58an-qwwea9-d1e131">
+        <lb ed="#Ba" n="31"/>⁋ Item quia propter auctoritatem dei creditur etiam huic scientiae:  
+        <lb ed="#Ba" n="32"/>sdeo circa hoc quaeruntur tria. 
+        <lb ed="#Ba" n="33"/>Primum: vtrum idem sit auctor vtriusque testamenti. 
+        <lb ed="#Ba" n="34"/>Secundum: vtrum deus sit auctor sacrae scripturae.
+   <!-- line error here in image coords; line 35 is split in two -->
+        <lb ed="#Ba" n="35"/>propter dei auctoritatem principaliter credendum est sacrae scripturae. 
+        <lb ed="#Ba" n="36"/>Tertium: vtrum  <!-- something missing heere -->
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

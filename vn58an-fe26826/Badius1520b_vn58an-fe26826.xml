@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="98-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe26826"> <!-- alias="vn58an-a54q7" -->
+      <head xml:id="vn58an-fe26826-Hd1e104">Quaestio 7</head>
+      <p xml:id="vn58an-fe26826-d1e107">
+        <lb ed="#Bb" n="3"/>CIrca septimum arguitur, quod persona quae communiter emanat ab illa quae non est ab alia, &amp; abilla 
+        <lb ed="#Bb" n="4"/>quae est ab alia, vt spiritus sanctus a patre &amp; filio, non emanat ab illis aeque primo: quia quid  
+        <lb ed="#Bb" n="5"/>conuenit principio &amp; principiato, ordine naturalis originis conuenit eis, vt pa 
+        <lb ed="#Bb" n="6"/>tet ex habitis supra. spirare spiritum sanctum convenit patri &amp; filio vt principio 
+        <lb ed="#Bb" n="7"/>&amp; principiato: quia patri ex se, filio autem a patre, vt similiter habitum est supra. 
+        <lb ed="#Bb" n="8"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e123">
+        ⁋ Quia non aeque principaliter, quia dicit Augustinus, xv. de trinita. ca. 
+        <lb ed="#Bb" n="9"/>xvii. &amp;. xxvi. quod spiritus sanctus principaliter procedit de patre. Item Hieronymus di- 
+        <lb ed="#Bb" n="10"/>cit quod spiritus sanctus procedit proprie a patre, vt ostendit Magister. i. Sententiarum distinctione. xii. in ca. 
+        <lb ed="#Bb" n="11"/>Ex eodem, triplici auctoritate. sed non dicitur proprie procedere a pre nisi ad differentiam aliquam quod non pro 
+        <lb ed="#Bb" n="12"/>cedit ita proprie a filio. cum autem procedit aliquid a duobus, ab vno proprie, ab alio non proprie 
+        <lb ed="#Bb" n="13"/>principaliter procedit ab illo a quo procedit proprie. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e136">
+        ⁋ Quia non aeque immediate, arguitur: quia 
+        <lb ed="#Bb" n="14"/>procedit a patre per filium, vt ostendit Magister distinctione dicta, ca. Eorte. pluribus auctoritatibus Hi 
+        <lb ed="#Bb" n="15"/>la. Nihil autem aeque immediate procedit a duobus quando ab vno procedit per alterum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e144">
+        ⁋ Quia 
+        <lb ed="#Bb" n="16"/>non aeque per se, quia quod per se convenit alicui, convenit ei non ab alio. sed filio convenit spirare ab alio sicut 
+        <lb ed="#Bb" n="17"/>&amp; esse, vt a patre. patri autem a se. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e151">
+        ⁋ Quia non eodem modo, arguitur primo sic. quia procedit 
+        <lb ed="#Bb" n="18"/>a patre amore procedente in filium, a filio autem econuerso amore procedente a se in patrem, vt dictum 
+        <lb ed="#Bb" n="19"/>est supra. Amor autem est ratio producendi spiritum sanctum ab vtroque: non autem idem modus iste 
+        <lb ed="#Bb" n="20"/>&amp; ille. ergo non est idem modus ratione procedendi spiritum sanctum ab vtroque. sed vbi non est ratio 
+        <lb ed="#Bb" n="21"/>penitus eiusdem modi, nec idem modus procedendi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e162">
+        ⁋ Secundo sic. causa primaria &amp; secundaria 
+        <lb ed="#Bb" n="22"/>non producunt eodem modo effectum vnum, secundum primam propositionem de causis. pater in pro 
+        <lb ed="#Bb" n="23"/>ductione spiritus sancti est causa primaria: filius quasi secundaria: quia filius habet a patre quod pro- 
+        <lb ed="#Bb" n="24"/>ducit spiritum sanctum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e171">
+        ⁋ Tertio sic. propter quod vnumquodque tale, &amp; illud magis. si ergofi- 
+        <lb ed="#Bb" n="25"/>ius spirat propter patrem a quo habet: magis ergo spirat pater, quare non eodem modo. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e176">
+        ⁋ Con- 
+        <lb ed="#Bb" n="26"/>tra, quaecumque sunt vnum simpliciter in agendo aliquem actum, agunt aeque primo principaliter im- 
+        <lb ed="#Bb" n="27"/>mediate per se &amp; eodem modo, quia opposita horum non habent locum in eodem simplici. pater &amp; filius 
+        <lb ed="#Bb" n="28"/>sunt vnum simpliciter in spirando spiritum sanctum, vt habitum est supra. ergo &amp;c. 
+        <lb ed="#Bb" n="29"/>
+      </p>
+      <p xml:id="vn58an-fe26826-d1e187">
+        ⁋ Dicendum ad primum argumentum iuxta praedicta in principio dissolutionis 
+        <lb ed="#Bb" n="30"/>astionis proxime praecedentis, quod sicut multitudinem procedentem ab vno oportet ordine quodam reduci ad vnum 
+        <lb ed="#Bb" n="31"/>vnde ambo procedunt: vt ideo non aeque primo possint plures procedere ab vno, secundum quod ibi de- 
+        <lb ed="#Bb" n="32"/>claratum est: Sic ex parte ista pluralitatem a qua procedit vnus, oportet ordine quodam reduci ad  
+        <lb ed="#Bb" n="33"/>vnum, vnde ambo procedunt, scilicet &amp; ille vnus qui ab ambobus, &amp; similiter alter illorum a quo il- 
+        <lb ed="#Bb" n="34"/>le vnus procedit: vt ideo non aeque primo possit vna persona procedere a pluribus. Veruntamen 
+        <lb ed="#Bb" n="35"/>aliter hic quam ibi. Ibi enim nullo modo duo sic aeque primo procedunt ab vno, quin sit ibi aliquis or- 
+        <lb ed="#Bb" n="36"/>do, vt ibi exposit am est. Hic vero quodammodo sic, &amp; quodammodo non. luxta enim quandam di 
+        <lb ed="#Bb" n="37"/>stinctionem in quaestione praecedente positam, l aeque primo potest determinare actum spiran- 
+        <lb ed="#Bb" n="38"/>di, vt refertur ad agens vt agens est &amp; praecise eliciens actum, intelligendo potentiam spirandi ex 
+        <lb ed="#Bb" n="39"/>parte actus, &amp; includi sub illa determinatione: vel vt refertur ad agens eliciens actum vi spiratiu 
+        <lb ed="#Bb" n="40"/>vim spiratiuam intelligendo ex parte agentis non inclusam sub illa determinatione. Primo modo di  
+        <lb ed="#Bb" n="41"/>co quod pater &amp; filius non aeque primo spirant, sed ordine quodam, scilicet quo habent vim spiratiuam 
+        <lb ed="#Bb" n="42"/>pater scilicet a se, filius a patre. sic enim conuenit patri primo spirare &amp; filio secundario: &amp; hoc non ra 
+        <lb ed="#Bb" n="43"/>tione ipsius actus: sed ratione virtutis spiratiuae intellectae circa actum, quam ordine quodam habent ptr &amp; filius, quia 
+        <lb ed="#Bb" n="44"/>filius a patre, quemadmodum secundum Hila. filius est secundus a prse, inquantum habet esse a pre. Secundo modo dico quod ptr 
+        <lb ed="#Bb" n="45"/>&amp; filius aeque primo absque omni ordine spirant: quia sunt vnum principium in origine spirationis, vt supra 
+        <lb ed="#Bb" n="46"/>dictum est. Argumentum contra hoc inductum solum procedit in primo membro distinctionis. 
+        <lb ed="#Bb" n="47"/>vt patet inspicienti. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e230">
+        ⁋ Ad secundum argumentum de principaliter, distinguendum est distinctio- 
+        <lb ed="#Bb" n="48"/>ne iam posita: &amp; eodem modo est vera, &amp; falsa. Vnde <name ref="#Augustine">Augustinus</name> cap. xvii. subdens quare di- 
+        <lb ed="#Bb" n="49"/>xit principaliter, dicit. Ideo addidi principaliter: quia &amp; de filio spiritus sanctus procedere repe- 
+        <lb ed="#Bb" n="50"/>ritur: sed hoc quoque illi pater dedit. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e242">
+        ⁋ Et cum principalitas dicitur quadrupliciter: scilicet Virtute 
+        <lb ed="#Bb" n="51"/>quemadmodum pater principaliter generat non mater, vt in creaturis: Actione, quemadmodum forma 
+        <lb ed="#Bb" n="52"/>ignis principaliter generat ignem non calor eius: Dignitate, quemadmodum causa primaria &amp; vni- 
+        <lb ed="#Bb" n="53"/>uersalis principaliter agit respectu causae secundariae &amp; particularis: Et auctoritate, quemadmodum 
+        <lb ed="#Bb" n="54"/>princeps principaliter praecipit respectu Baliui: solum isto modo vltimo sumitur principalitas in diuinis 
+   <!--212.xml-->
+        <pb ed="#Bb" n="99-r"/>
+        <lb ed="#Bb" n="1"/>&amp; in proposito, licet non omnino eoclem modo, vt infra declarabitur. &amp; sic convenit principalitas soli patri 
+        <lb ed="#Bb" n="2"/>non solum in spirando: sed in omni actione quam communiter agit cum alia persona vna vel pluribus 
+        <lb ed="#Bb" n="3"/>quia nomen auctoris proprie non conuenit alicui respectu alterius quando habeat ex se quod alter procedit 
+        <lb ed="#Bb" n="4"/>ab ipso. dicente Hila. iiii. de triniitate. lpso quo pater dicitur eius quem genuit auctor ostenditur, adhi- 
+        <lb ed="#Bb" n="5"/>bens nomen quod neque ex alio profectum intelligatur, &amp; ex quo is qui genitus est substitisse doceatur 
+        <lb ed="#Bb" n="6"/>Vnde si pater haberet esse ab alio, non principaliter diceretur auctor filii. &amp; propter hoc secundum 
+        <lb ed="#Bb" n="7"/>quod dictum est supra, filius ea quae sibi conueniunt, patri solet ascribere. Extendendo tamen nomen au-  
+        <lb ed="#Bb" n="8"/>ctoris dicit Hila. quod spiritus sanctus procedit a patre &amp; filio auctoribus: appellando auctorem omnem 
+        <lb ed="#Bb" n="9"/>illum a quo habet alius esse: &amp; sic spiritus sanctus non dicitur auctor nisi respectu creaturarum. 
+        <lb ed="#Bb" n="10"/>Et quia in isto modo auctoris non concurrit auctoritas dignitatis: quemadmodum concurrit in prin 
+        <lb ed="#Bb" n="11"/>cipe respectu Baliui: ideo in diuinis auctoritati in vna persona non respondet subauctoritas in al- 
+        <lb ed="#Bb" n="12"/>tera, secundum quod inferius declarabitur: sicut auctoritati in principe respondet subauctoritas in  
+        <lb ed="#Bb" n="13"/>Baliuo: &amp; hoc quia in Baliuo sub inferiori gradu recipitur potentia regis quam sit in ipso: in diuinis 
+        <lb ed="#Bb" n="14"/>autem penitus aequalis virtus ab auctore recipitur in eo qui ab ipso est. &amp; sic patet quod in primo mem 
+        <lb ed="#Bb" n="15"/>bro distinctionis praedictae procedit dictum Augustini. Et similiter potest distingui dictum Hie- 
+        <lb ed="#Bb" n="16"/>rony. &amp; in sensu eiusdem membri procedit. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e292">
+        ⁋ Quamquam proprie tripliciter dicitur: Vno modo secundum quod distingui 
+        <lb ed="#Bb" n="17"/>tur contra participatiue: quemadmodum deus dicitur esse proprie quia essentialiter, &amp; omnia alia 
+        <lb ed="#Bb" n="18"/>participatiue: Alio modo contra commune: quemadmodum risibile dicitur proprium homini: quia non est ei 
+        <lb ed="#Bb" n="19"/>cum alio aliquo cone: Tertio modo contra ab alio esse: quemadmodum ille proprie dicitur regnare qui ex 
+        <lb ed="#Bb" n="20"/>se habet esse rex, a nullo alio habendo quod regnet: non autem ille qui ab alio habet &amp; tenet regnum suum 
+        <lb ed="#Bb" n="21"/>Et in omnibus istis modis dicit specialem modum habendi aliquid: tamen in diuinis non accipitur nisi 
+        <lb ed="#Bb" n="22"/>iuxta tertium modum eius quod est proprie: &amp; sic solus pater dicitur proprie spirare spiritum sanctum: quia 
+        <lb ed="#Bb" n="23"/>a seipso non ab alio habet quod spirat eum: non autem filius: quia habet a patre. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e310">
+        ⁋ Ad tertium argu- 
+        <lb ed="#Bb" n="24"/>mentum de aeque immediate, dicendum secundum praedictam distinctionem quod si refertur ad agentes  
+        <lb ed="#Bb" n="25"/>ratione virtutis in ipsis: sic aeque immediate procedit ab ambobus: quia illa vnica est &amp; aeque simplex 
+        <lb ed="#Bb" n="26"/>in ambobus, in qua nulla potest cadere mediatio. Si vero ratione qua agentes sunt, sic dupliciter con 
+        <lb ed="#Bb" n="27"/>tingit loqui de ipsis. Vno modo inquantum vterque illorum virtutem spirandi habet in seipso: &amp; sic 
+        <lb ed="#Bb" n="28"/>ambo aeque immediate spirant. Alio modo inquantum filius habet a patre quod spirat. sic pater spi 
+        <lb ed="#Bb" n="29"/>rat mediante filio: &amp; secundum hoc non aeque immediate. &amp; non est contradictio neque contrarietas: quia est 
+        <lb ed="#Bb" n="30"/>secundum diuersas rationes &amp; considerationes. Et cum medium pluribus modis reperiatur, me- 
+        <lb ed="#Bb" n="31"/>dium in proposito est solum medium naturali ordine: quia ordine tali filius vim spiratiuam habeta 
+        <lb ed="#Bb" n="32"/>patre, vt patet ex supra determinatis. Vnde etiam cum pluribus modis dicatur aliquis operari per alium, vt 
+        <lb ed="#Bb" n="33"/>supra declarauimus in quaestione de vniformitate diuinarum actionum, in proposito secundum ean 
+        <lb ed="#Bb" n="34"/>dem rationem qua pater dicitur spirare mediante filio, etiam dicitur spirare per filium, vt confirmat 
+        <lb ed="#Bb" n="35"/>Magister Sententiarum. xii. distinctione praedicta auctoritatibus Hila. in cap. Eorte. vt pitur dicatur spirare per fi 
+        <lb ed="#Bb" n="36"/>lium: quia vis spiratiua sub eadem ratione praecisa qua conuenit patri in spirando spiritum sanctum, con 
+        <lb ed="#Bb" n="37"/>uenit &amp; filio in spirando eundem: praeter hoc quod illam habet pater ex se, &amp; filius a patre habet eam- 
+        <lb ed="#Bb" n="38"/>vt patet ex iam determinatis, &amp; iam amplius declarabitur. Nec est inconveniens quod ab vna persona 
+        <lb ed="#Bb" n="39"/>sic procedat alia mediate &amp; immediate: quia hoc est secundum diuersum modum: quoniam eandem 
+        <lb ed="#Bb" n="40"/>virtutem quam alteri dat mediante quo spirat, etiam sibi retinet, vt per ipsam immediate spirare pos- 
+        <lb ed="#Bb" n="41"/>sit. Et per hoc patet ad argumentum contra hoc. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e352">
+        ⁋ Est autem intelligendum ad intellectum huius pro- 
+        <lb ed="#Bb" n="42"/>positionis, pater spirat vel agit aliquid per filium: quod haec praepositio per semper circa suum casua- 
+        <lb ed="#Bb" n="43"/>le notat aliquam rationem causalitatis super actum quem determinat: sed illam causalitatem quam 
+        <lb ed="#Bb" n="44"/>doque notat super actum vt fluit ab agente: &amp; sic etiam aliquam causalitatem circa id per quod  
+        <lb ed="#Bb" n="45"/>agit: &amp; hoc vel finalem, vt cum dicitur quod artifex operatur per amorem lucri: vel formalem, vt 
+        <lb ed="#Bb" n="46"/>cum dicitur quod operatur per artem: vel efficientem, vt cum dicitur quod baliuus aliquid agit per 
+        <lb ed="#Bb" n="47"/>regem: vel materialem, vt cum dicitur homo pati per potentiam passiuam. Et nullo istorum modo  
+        <lb ed="#Bb" n="48"/>rum pater agit per filium, quia filius nullam habet causalitatem super actum aliquem vt egredi ha 
+        <lb ed="#Bb" n="49"/>bet a patre, vt sit ratio, causa, vel principium egrediendi actum ab ipso. Immo isto modo quasi se- 
+        <lb ed="#Bb" n="50"/>cundum genus causae efficientis filius econverso dicitur agere quaecunque agit per patrem, vt expositum 
+        <lb ed="#Bb" n="51"/>est in quaestione praetacta: quia pitur est ratio &amp; principium quod actus quicunque egrediatur a filio, eo quod virtutem 
+        <lb ed="#Bb" n="52"/>ad hoc habet ab ipso. Quandoque vero notat illam causalitatem super actum solummodo vt transit in effectum si- 
+        <lb ed="#Bb" n="53"/>ue in principiatum. &amp; hoc contigit tripliciterer Quandoque enim illud per quod alius agit habet virtutem aliquam agendi ex 
+        <lb ed="#Bb" n="54"/>seipso, quae fortificatur per virtutem alterius. sic rex dicitur agere per Baliuum. Quandoque autem ni 
+        <lb ed="#Bb" n="55"/>hil habet virtutis in agendo ex se sed ab alio. &amp; hoc dupliciter: quia aut recipit virtutem defiuen- 
+   <!--213.xml-->
+        <pb ed="#Bb" n="99-v"/>
+        <lb ed="#Bb" n="1"/>tem ab illo, &amp; aliam: sicut artifex operatur cultellum per malleum: aut recipit eandem. Isto modo agit 
+        <lb ed="#Bb" n="2"/>pater per filium, &amp; eisdem modis quibus dicitur aliquid agere per aliud, &amp; mediante illo, &amp; secun 
+        <lb ed="#Bb" n="3"/>dum idem genus causae, vt patet inspicienti. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e396">
+        ⁋ Ad quartum de per se, dicendum quod ly per se potest 
+        <lb ed="#Bb" n="4"/>sumi in proposito orationaliter, vt l se sit pronomen reciprocum: &amp; dictionaliter &amp; significatiue secun 
+        <lb ed="#Bb" n="5"/>dum se, vel dictionaliter vt sit quaedam aduerbialis circumlocutio determinans praedicatum in rela- 
+        <lb ed="#Bb" n="6"/>tione ad rationem siue ad causam inhaerentiae praedicati in subiecto, &amp; ly se non sit dictio secundum  
+        <lb ed="#Bb" n="7"/>se significatiua: sed solummodo pars dictionis. Si primo modo, dicendum quod pater &amp; filius eius per se 
+        <lb ed="#Bb" n="8"/>spirant spiritum sanctum: licet non ambo aeque a se: quia vterque eorum spirat per essentiam diuinam 
+        <lb ed="#Bb" n="9"/>quae sua est: &amp; ideo per se: licet pater eam habeat a se: filius autem a patre. &amp; propter hoc dicitur quod 
+        <lb ed="#Bb" n="10"/>pater spirat a se, non sic autem filius. Et secundum hunc modum pater aeque per se generat &amp; spirat 
+        <lb ed="#Bb" n="11"/>inquantum ambo immediate agit: licet non sic inquantum alterum eorum agit per alium, vt quod spirat 
+        <lb ed="#Bb" n="12"/>per filium: quemadmodum non aeque principaliter pater generat &amp; spirat, inquantum spirat per filium, vt habi- 
+        <lb ed="#Bb" n="13"/>tum est supra secundum Ricardum. Si autem l per se accipiatur dictionaliter, dicendum quod cum (vt di- 
+        <lb ed="#Bb" n="14"/>ctum est in praenotata quaestione) per pluribus modis accipiatur, &amp; secundum multiplex genus cau 
+        <lb ed="#Bb" n="15"/>sae (vt etiam iam expositum est in modis dicendi per se) accipi potest secundum omne genus causae, vt 
+        <lb ed="#Bb" n="16"/>patet ex primo posteriorum: sed in proposito non pertinet nisi ad modum per se secundum genus cau 
+        <lb ed="#Bb" n="17"/>sae formalis: quia per se est conditio medii siue rationis inhaerentiae praedicati in subiecto, &amp; haecin pro  
+        <lb ed="#Bb" n="18"/>posito est ipsa vis spiratiua, vt habitum est. Et dicitur aliquid agere per se, quoniam habet essentialiter 
+        <lb ed="#Bb" n="19"/>in se vt aliquid sui id quo agit: &amp; quae aeque essentialiter habent illud in se, aeque essentialiter dicuntur 
+        <lb ed="#Bb" n="20"/>agere propter illud per se: vt non habeat hic locum distinctio praetacta praedictis articulis applica- 
+        <lb ed="#Bb" n="21"/>ta. Quare cum pater &amp; filius aeque essentialiter habent in se vim spiratiuam spiritus sancti: quemadmodum  
+        <lb ed="#Bb" n="22"/>dicitur Ioan. v. Sicut piter habet vitam in semetipso, sicdedit &amp; filio vitam habere in semetipso: Sic potest dici, 
+        <lb ed="#Bb" n="23"/>sicut pter habet vim spiratiuam in semetipso, sic dedit filio habere vim spiratiuam in semetipso, &amp; hoc 
+        <lb ed="#Bb" n="24"/>aeque essentialiter vtrobique. iuxta quod <name ref="#Augustine">Augustinus</name> exponit praedictum verbum super loannem sermo 
+        <lb ed="#Bb" n="25"/>ne. xxii. Ait in semetipso, vt non participatione viuat: sed vt communiter viuat, &amp; ipse omnino sit vita 
+        <lb ed="#Bb" n="26"/>Quid interest: quia ille dedit: ille accepit. Propterea igitur aeque per se pater &amp; filius spirant spiri- 
+        <lb ed="#Bb" n="27"/>tum sanctum, &amp; hoc iuxta secundum modum dicendi per se: quemadmodum illa est per se, pater est deus 
+        <lb ed="#Bb" n="28"/>iuxta primum modum dicendi per se. Nulla tamen illarum, pater est deus, pater spirat, filius est deus 
+        <lb ed="#Bb" n="29"/>filius spirat, est per se &amp; primo: quia nulli illorum ratio inhaerentiae praedicati in subiecto propria est 
+        <lb ed="#Bb" n="30"/>sed communis ambobus: &amp; sic vtrique conuenit per se: quemadmodum in demonstratiuis communis pas 
+        <lb ed="#Bb" n="31"/>sio per communem causam convenit pluribus: quemadmodum commutabilis proportio convenit nu 
+        <lb ed="#Bb" n="32"/>meris &amp; magnitudinibus, sicut dicit <name ref="#Aristotle">Philosophus</name> in primo posteriorum. De illo autem praedicatur tale con 
+        <lb ed="#Bb" n="33"/>mune solummodo primo &amp; per se, quod est cone vtrique illorum, siquod fuerit tale. ista enim est per se &amp; primo, pr 
+        <lb ed="#Bb" n="34"/>generat. &amp; propter hoc licet ptir aeque immediate generat &amp; spirat (vt iam dictum est) non tamen aeque per se ge- 
+        <lb ed="#Bb" n="35"/>nerat &amp; spirat, secundum quod per se sumitur dictionaliter. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e475">
+        ⁋ Ad obiectum in oppositum: quod convenit alicui per se 
+        <lb ed="#Bb" n="36"/>non conuenit ei ab alio: dicendum quod aliquid conuenit alicui a se siue ex se formaliter siue effectiue si 
+        <lb ed="#Bb" n="37"/>ue principiatiue. Primo modo convenit vtrique illorum ex se quod sit deus &amp; quod spirat: quia per id quid est for 
+        <lb ed="#Bb" n="38"/>ma essentialis in ipsis. Et quid sic non convenit alicui ex se: sed solum ab alio: non convenit ei per se. Secundo au  
+        <lb ed="#Bb" n="39"/>tem modo filio nihil conuenit ex se: quia non habet nisi quod habet a patre: sed quid sic principiatiue ha- 
+        <lb ed="#Bb" n="40"/>bet ab alio, bene habet formaliter ex se &amp; ita per se. 
+      </p>
+      <p xml:id="vn58an-fe26826-d1e488">
+        ⁋ Ad quintum argumentum de eodem modo, di 
+        <lb ed="#Bb" n="41"/>cendum quod hic non habet locum praedicta distinctio: quia modus actionis solummodo respicit modum 
+        <lb ed="#Bb" n="42"/>emanandi ipsam a virtute agentis. Sed est hic distiguendum de ipsa actione: quoniam dupliciter potest circa ipsam 
+        <lb ed="#Bb" n="43"/>considerari modus, secundum duplicem comparationem quam habet. Vno modo secundum quod per virtutem agentis ema 
+        <lb ed="#Bb" n="44"/>nat ab ipso: alio modo vt transit in terminum siue obiectum. Primo modo non est difformitas ex parte 
+        <lb ed="#Bb" n="45"/>actionis in diuinis vbi personae agunt immutabili necessitate secundum modum virtutis suae, nisi sit 
+        <lb ed="#Bb" n="46"/>aliqua diuersitas in virtute quae agunt. Ista autem virtus in actione spirandi quae est concors voluntas duorum in mu 
+        <lb ed="#Bb" n="47"/>tuo amore vnius in alterum (vt dictum est supra) potest considerari dupliciter. vno modo ratione principalis signi 
+        <lb ed="#Bb" n="48"/>ficativoluntatis &amp; amoris. alio modo ratione connotati ex parte voluntatis per hoc quod intelligitur concors, &amp; ex 
+        <lb ed="#Bb" n="49"/>parte amoris per hoc quod intelligitur mutuus. Primo modo cum voluntas &amp; amor &amp; ratione essentialis in ipsis &amp; ratione 
+        <lb ed="#Bb" n="50"/>respectus notionalis sub quo sunt ratio spirandi, sunt vnum &amp; idipsum in patre &amp; filio: &amp; sunt pater &amp; si 
+        <lb ed="#Bb" n="51"/>lius vnum principum secundum hoc (vt habitum est supra) &amp; ex eodem secundum quod idem non est nata procede- 
+        <lb ed="#Bb" n="52"/>re actio vna nisi vno &amp; eodem modo: dico quod pater &amp; filius spirant spiritum sanctum omnino vno &amp; eo 
+        <lb ed="#Bb" n="53"/>dem modo. dicente Augustino, xv. de trinitate cap vigesimoseptio. Spiritus sanctus simul de vtroque 
+        <lb ed="#Bb" n="54"/>procedit: quamuis hoc filio pater dedit, vt quemadmodum de se ita de illo quoque procedat. Cuius rationem 
+        <lb ed="#Bb" n="55"/>subdit dicens. Sicut pater cum habeat vitam in semetipso, dedit &amp; filio habere vitam in semet: sic 
+   <!--214.xml-->
+        <pb ed="#Bb" n="100-r"/>
+        <lb ed="#Bb" n="1"/>dedit ei vitam quae spiritus sanctus est, procedere de illo sicut procedit de ipso. Et Ricardus. vi. 
+        <lb ed="#Bb" n="2"/>de trinitate dicit sic. Prorsus vno eodemque modo procedit tam a patre quam a filio. Siquidem vtrobi- 
+        <lb ed="#Bb" n="3"/>quod vna eademque per omnia ratio. Si secundo autem modo consideratur ratio spirandi ratione connota 
+        <lb ed="#Bb" n="4"/>ti circa voluntatem per hoc quod dicitur concors: cum concordia non est nisi in vniformitate: quo ad hoc 
+        <lb ed="#Bb" n="5"/>iterum ambo spirant vno eodemque modo, &amp; propterea spiritus sanctus non plus nec minus aut  
+        <lb ed="#Bb" n="6"/>magis spiratur ab vno quam ab altero. Si vero consideretur ratione connotati circa amorem ex hoc quod  
+        <lb ed="#Bb" n="7"/>dicitur mutuus, cum ratione qua mutuus, respicit diuersos terminos: quia ex hoc quod est mutuus est 
+        <lb ed="#Bb" n="8"/>patris in filium &amp; filii in patrem: quo ad hoc non vniformiter aut eodem modo spirant. Sed ista 
+        <lb ed="#Bb" n="9"/>difformitas consistit in ratione spirandi solummodo vt est in spirantibus se reciprocatiue amanti- 
+        <lb ed="#Bb" n="10"/>bus: non autem vt respicit actum: &amp; ideo nec redundat in spirandi actum, vt aliquo modo plurifi- 
+        <lb ed="#Bb" n="11"/>cetur propter ipsos: sicut nec pluralitas eorum qui spirant. Si vero consideretur actus spirandi vt transit in ob 
+        <lb ed="#Bb" n="12"/>iectum, hoc potest esse dupliciter. Vno modo vt transit in obiectum quod est terminus actionis consti- 
+        <lb ed="#Bb" n="13"/>tutus per ipsam. Alio modo vt mediante illo transit in obiectum quod est terminus actionis tantum: &amp; 
+        <lb ed="#Bb" n="14"/>non constitutus per ipsam. Primo modo ipse spiritus sanctus est terminus actus spirandi procedens ab  
+        <lb ed="#Bb" n="15"/>ipso vt persona in se subsistens: &amp; hoc modo vniformiter &amp; eodem modo procedit ab ipsis: quia nec 
+        <lb ed="#Bb" n="16"/>plenius nec perfectius ab vno quam ab altero. Secundo modo terminus actus spirandi sunt pater &amp; fi- 
+        <lb ed="#Bb" n="17"/>lius: qui mutuo sibi spirant, sicut &amp; mutuo se diligunt. Per actum enim spirandi spiritus sanctus pro 
+        <lb ed="#Bb" n="18"/>cedit vt persona in se subsistens: &amp; sic vt terminus actus constitutus per ipsum. Procedit etiam a pa- 
+        <lb ed="#Bb" n="19"/>tre in filium, &amp; a filio in patrem vt in terminum actionis, quid est terminus tantum non constitutum per ipsam. 
+        <lb ed="#Bb" n="20"/>&amp; hoc ideo: quia procedit per modum amoris mutui: &amp; ipse est amor procedens in quo completur mu 
+        <lb ed="#Bb" n="21"/>tuus amor eorum tanquam in eo quo mutuo se amant, &amp; sic procedit a patre in filium vt quo pater per 
+        <lb ed="#Bb" n="22"/>fecte amat filium, &amp; a filio in patrem vt quo filius perfecte amat patrem: &amp; ita est nexus amborum 
+        <lb ed="#Bb" n="23"/>quo mutuo perfecte se amant, non est enim amor nisi tendat in alterum. Hoc ergo modo inquan- 
+        <lb ed="#Bb" n="24"/>tum spirant spiritum sanctum mutuo vnus in alterum, non omnino eodem modo spirant: sed haec 
+        <lb ed="#Bb" n="25"/>difformitas nec redundat in spiratum, nec in actum spirandi: quia solum consistit ex parte termi- 
+        <lb ed="#Bb" n="26"/>norum scilicet patris &amp; filii, inquantum sibi mutuo spirant spiritum sanctum, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

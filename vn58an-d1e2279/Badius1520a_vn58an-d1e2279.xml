@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="189-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2279"> <!-- alias="vn58an-a32q2" -->
+      <head xml:id="vn58an-d1e2279-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e2279-Hd1e107" type="question-title">Utrum quaelibet res cuiusque praedicamenti indifferenter sit Deo attribuenda</head>
+      <p xml:id="vn58an-d1e2279-d1e110">
+        <lb ed="#Ba" n="46"/>CIrca secundum arguitur, quod quaelibet res cuiuslibet praedicamenti indifferenter deo 
+        <lb ed="#Ba" n="47"/>possit attribui. Primo sic. Quae per aequalem distantiam se habent ad idem, si vnum 
+        <lb ed="#Ba" n="48"/>illorum potest attribui illi propter approximationem aliquam ad illud, &amp; reliquum. sed  
+        <lb ed="#Ba" n="49"/>omnes creaturae per aequalem distantiam se habent ad deum: quia per infinitam. Cum 
+        <lb ed="#Ba" n="50"/>ergo aliqua ex creaturis deo attribuuntur, quia aliquam rationem perfectionis im- 
+        <lb ed="#Ba" n="51"/>portant, per quam ad ipsum habent approximationem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e126">
+        ⁋ Secundo sic. Illud  
+        <lb ed="#Ba" n="52"/>spotest deo attribui, quod ipse habet in seipso, &amp; a quo ipse denominatur: quia in de- 
+        <lb ed="#Ba" n="53"/>nominando denominans attribuitur denominato, &amp; ipsa denominatio est quaedam attributio. quae  
+        <lb ed="#Ba" n="54"/>libet autem res cuiuslibet praedicamenti est huiusmodi. luxta illud quod dicit Dionys. c. i. de di. no. Oia 
+   <!--393.xml-->
+        <pb ed="#Ba" n="189-v"/>
+        <lb ed="#Ba" n="1"/>simpliciter &amp; indefinita in ipso, quae sunt, praeambiuit perfectissimis vnius suae &amp; causalissimae pro 
+        <lb ed="#Ba" n="2"/>uidentiae bonitatibus, &amp; ex omnibus quae sunt, laudatur &amp; nominatur. Quod etiam patere potest in-  
+        <lb ed="#Ba" n="3"/>ducendo exempla rerum cuiuslibet praedicamenti, quibus deus inuenitur in scripturis denominari. Dicitur 
+        <lb ed="#Ba" n="4"/>enim secundum substantiam spiritus, secundum quantitatem magnus, secundum relationem pater, secundum qualitatem bonus, 
+        <lb ed="#Ba" n="5"/>secundum agere creare, secundum pati irasci, secundum quando semper esse, secundum vbi vbique esse, secundum 
+        <lb ed="#Ba" n="6"/>situm sedere, secundum habitum amictus lumine. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e153">
+        ⁋ In contrarium est: quia vt dicit in eodem, omnium qui-  
+        <lb ed="#Ba" n="7"/>dem est quae sunt causale: ipsum autem nihil in omnibus quae sunt supressentialiter exaltatum. sed ni 
+        <lb ed="#Ba" n="8"/>hil potest deo attribui, nisi quod est ipse. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e160">
+        ⁋ Praeterea si indifferenter etiam quaelibet res cuiusli 
+        <lb ed="#Ba" n="9"/>bet praedicamenti deo attribueretur, tunc sicut per attributionem iustitiae vel sapientiae ad deum, dicitur 
+        <lb ed="#Ba" n="10"/>deus iustus vel sapiens, similiter per attributionem ligni aut lapidis ad ipsum diceretur lignum aut  
+        <lb ed="#Ba" n="11"/>lapis. consequens est falsum. ergo &amp; antecedens. 
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e169">
+        <lb ed="#Ba" n="12"/>⁋ Ad intellectum quaestionis huius &amp; distinctionis eius a quaestione vltimo proposita 
+        <lb ed="#Ba" n="13"/>in hoc articulo, Sciendum quod aliud est res praedicamenti, aliud ratio praedicamenti circa rem intellecta: 
+        <lb ed="#Ba" n="14"/>vt ratio substantiae est subsistere siue substare: res praedicamenti substantiae est omne illud cui conue- 
+        <lb ed="#Ba" n="15"/>nit ista ratio. Ratio quantitatis est secundum partes rem mensurare. Res quantitatis est omne id in quo  
+        <lb ed="#Ba" n="16"/>per se ratio talis inuenitur: vt est primo quantitas discreta: deinde continua: vt determiat philosophus. iiii. meta. 
+        <lb ed="#Ba" n="17"/>Ratio propria qualitatis est subiectum informare. Est enim secundum philosophum qualitas: secundum quam quales es- 
+        <lb ed="#Ba" n="18"/>se dicimur. Res qualitatis est omne cui talis ratio convenit. Et differunt in hoc res praedicamenti &amp; 
+        <lb ed="#Ba" n="19"/>ratio, quod bene potest alicuius praedicamenti res ad diuina tranfferri, absque eo quod ratio praedicamenti illius 
+        <lb ed="#Ba" n="20"/>deo attribuatur, ad modum quo res generis bene attribuitur speciei dicendo homo est animal, non  
+        <lb ed="#Ba" n="21"/>autem ratio eius, secundum quam dicitur genus, scilicet quod est praedicabilis de pluribus differentibus spe 
+        <lb ed="#Ba" n="22"/>cie. Et secundum hoc multum refert interrogatum in hac prima quaestione &amp; in illa vltima. secundum quod  
+        <lb ed="#Ba" n="23"/>manifeste apparebit ex earum pertractatione. 
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e198">
+        ⁋ Quantum ergo pertinet ad hanc primam quaestionem, Di 
+        <lb ed="#Ba" n="24"/>cendum quod attributionem rei alicuius praedicamenti fieri deo, dupliciter potest intelligi: vel per similitudi  
+        <lb ed="#Ba" n="25"/>nem, vel per proprietatem. Per similitudinem res accepta a creaturis aliquando deo attribuitur, quae per  
+        <lb ed="#Ba" n="26"/>proprietatem suae naturae esse in deo non potest. Et est ista attributio non proprie attributio: sed magis 
+        <lb ed="#Ba" n="27"/>translatio quaedam ad aliquid per similitudinem illam explicandum. Vnde res praedicamentorum inquantum 
+        <lb ed="#Ba" n="28"/>sic deo attribuuntur, non proprie: sed communiter &amp; translatiue dicuntur attributa. Per proprietatem 
+        <lb ed="#Ba" n="29"/>autem res a creaturis accepta deo attribuitur, quae per substantiam &amp; rei veritatem in deo esse intel- 
+        <lb ed="#Ba" n="30"/>ligitur, licet modo eminentiori, vt iam dicetur. Quorum est attributio proprie dicta, &amp; ipsa proprie at- 
+        <lb ed="#Ba" n="31"/>tributa sunt. Primo modo ea quae inueniuntur in creaturis deo attribuuntur secundum illum modum quo in-  
+        <lb ed="#Ba" n="32"/>ueniuntur in creaturis, secundum quem deus dicitur bos, leo, ouis, &amp; huiusmodi. Secundo modo ea quae  
+        <lb ed="#Ba" n="33"/>inueniuntur in creaturis deo attribuuntur secundum alium modum &amp; sublimiorem quam inueniuntur 
+        <lb ed="#Ba" n="34"/>in creaturis. secundum quem deus dicitur bonus, sapiens, iustus, &amp; huiusmodi. Hanc differentiam 
+        <lb ed="#Ba" n="35"/>attributorum insinuat nobis <name ref="#Augustine">Augustinus</name> super Io exponens illud Io. xiiii. Ego sum vitis vera. vbi dicit. 
+        <lb ed="#Ba" n="36"/>Dicitur vitis per similitudinem, non per proprietatem, quemadmodum dicitur ouis, agnus, petra, lapis, &amp;c. huius 
+        <lb ed="#Ba" n="37"/>modi, quae magis sunt similitudines quam proprietates. Et eam similiter exprimit Ambroius ii. de trinitate. dicens. 
+        <lb ed="#Ba" n="38"/>Sunt quaedam nomina quae euidenter diuinitatis proprietatem ostendunt, &amp; perspicuam diuinae maiestatis 
+        <lb ed="#Ba" n="39"/>exprimunt veritatem. Alia vero sunt quae translatiue &amp; per similitudinem de deo dicuntur. Sed hoc du 
+        <lb ed="#Ba" n="40"/>pliciter fieri potest. Vno modo per similitudinem alicuius proprietatis quam habet in sua essentia. Alio 
+        <lb ed="#Ba" n="41"/>modo per similitudinem ipsius essentiae suae. Primo modo deus dicitur leo, propter leonis fortitudinem: 
+        <lb ed="#Ba" n="42"/>quia ipse fortis est: &amp; ouis propter ouis mansuetudinem: quia ipse mansuetus est. &amp; haec est translatio 
+        <lb ed="#Ba" n="43"/>nis attributio magis vsitata in sacra scriptura: largo tamen modo dicta attributio. Secundo modo  
+        <lb ed="#Ba" n="44"/>nomine cuiuslibet creaturae potest: deus nominari, non solum quia idea eius est in ipso deo, sed quia ratio 
+        <lb ed="#Ba" n="45"/>erfectionis eius propria in dei perfectione includitur, in qua fundatur ratio idealis inquantum concipitur a 
+        <lb ed="#Ba" n="46"/>diuina sapientia: vt infra declarabitur. &amp; est similiter attributio largo modo dicta. Loquendo er- 
+        <lb ed="#Ba" n="47"/>go de attributis largo modo, dicendum ad quaestionem, quod quaelibet res cuiuslibet praedicamenti quantum 
+        <lb ed="#Ba" n="48"/>adiprimum modum eius deo potest attribui. Non enim est aliqua res in creaturis, quin sit similitu 
+        <lb ed="#Ba" n="49"/>do aliqua eius quod est in creatore, quamquam in multo dissimilis. secundum quod dicit Diony. c. ii. cae. Hier. In- 
+        <lb ed="#Ba" n="50"/>telligere oportet nihil eorum quae sunt esse vniuersaliter boni participatione priuatum. Est igitur 
+        <lb ed="#Ba" n="51"/>vt ibidem sequitur, ex omnibus intelligere bonas speculationes, ex materialibusque formare dissimiles 
+        <lb ed="#Ba" n="52"/>similitudines, altero modo intellectualibus habentibus quae sensibilibus aliter distributa sunt. &amp; infra 
+        <lb ed="#Ba" n="53"/>Est itaque non dissonas formare caelestibus formas ex vilibus materiae partibus: quoniam &amp; ipsa ex ve- 
+        <lb ed="#Ba" n="54"/>ro bono substantiam possidens, per omnem sui materialem dispositionem imagines quasdam intellectua- 
+        <lb ed="#Ba" n="55"/>lis pulchritudinis habet, &amp; possibile est per eas reduci ad imateriales primas formas. de quibus plu 
+   <!--394.xml-->
+        <pb ed="#Ba" n="190-r"/>
+        <lb ed="#Ba" n="1"/>rima exempla ponit ibidem, &amp; in c. iii. Et propter hanc similitudinem quamquam multum dissimilem: omnia deo 
+        <lb ed="#Ba" n="2"/>possunt attribui. secundum quod dicit. i. c. de di. no. Oim causalem theosophi multiuoce ex omnibus crea 
+        <lb ed="#Ba" n="3"/>turis laudant: vt optimum: vt bonum: vt sapientem, vt sanctum, vt aeternum, vt existentem, vt sapientiam, vt 
+        <lb ed="#Ba" n="4"/>intellectum, vt virtutem, vt regem, vt antiquum, vt iustificationem, vt sanctificationem, vt magnitudinem 
+        <lb ed="#Ba" n="5"/>omnia excellentem, &amp; in animabus, &amp; in corporibus, &amp; in caelo, &amp; in terra simul, solem, stellam, ignem, aquam, 
+        <lb ed="#Ba" n="6"/>spiritum roris, nebulam, lapidem, petram. Ex quibus concludit sic. Ex omnibus igitur quae sunt harmoniace lauda 
+        <lb ed="#Ba" n="7"/>tur &amp; nominatur. Nec mirum quod propter huiusmodi similitudinem omnia deo possunt attribui: quia &amp; pro- 
+        <lb ed="#Ba" n="8"/>pter eandem omnia quodammodo habent esse in ipso, quod patet ex hoc, quod esse &amp; bene esse habent ab ipso 
+        <lb ed="#Ba" n="9"/>vt infra patebit loquendo de diuina perfectione. Vnde dicit Dionys. v. c. de di. no. In monade omnis 
+        <lb ed="#Ba" n="10"/>numerus vniformiter ante subsistit, &amp; habet numerum omnem monas in semetipsa singulariter. &amp; 
+        <lb ed="#Ba" n="11"/>infra. Sed &amp; in tota omnium natura omnes secundum singulas naturae rationes convolutae sunt per vnam inconfusam 
+        <lb ed="#Ba" n="12"/>vnitatem. Nihil ergo (vt dicit) inconveniens ex obscuris imaginibus in omnium causale ascendentes su- 
+        <lb ed="#Ba" n="13"/>permundanis oculis contemplari omnia in omnium causali, &amp; sibiinuicem opposita vniformiter &amp; vnite. 
+        <lb ed="#Ba" n="14"/>Principium enim existentium, ex quo &amp; ipsum esse &amp; omnia vtcumque existentia, omne principium, omnis 
+        <lb ed="#Ba" n="15"/>finis, omnis vita, omnis immortalitas, omnis sapientia, omnis ordo, omnis harmonia &amp;c. huiusmodi. secundum quod  
+        <lb ed="#Ba" n="16"/>ipse annumerat. Ex quibus post pauca concludit. Deinde &amp; omnino de deo &amp; simul praedicantur. sed  
+        <lb ed="#Ba" n="17"/>hoc secundum similitudinis (vt dictum est) translationem: non autem secundum naturae proprietatem. Vnde sta- 
+        <lb ed="#Ba" n="18"/>tim subdit. Et nihil est existentium, formosissimum, speciosissimum, sine forma, sine specie, principia, 
+        <lb ed="#Ba" n="19"/>&amp; media, &amp; fines existentium immensurate &amp; convolute in semetipso perambiens, &amp; omnibus esse iuxta 
+        <lb ed="#Ba" n="20"/>primam &amp; suprunicam causam incontaminate declarans. &amp; subdit exemplum de sole dicens. Sicut enim iuxta 
+        <lb ed="#Ba" n="21"/>nos sol sensibilium essentias &amp; qualitates &amp; multas &amp; discretas existentes, tamen ipse vnus ens, &amp; vni 
+        <lb ed="#Ba" n="22"/>formiter illuminans vnit, custodit, &amp; perficit, &amp; caetera quae annumerat: multo magis in omnium cau- 
+        <lb ed="#Ba" n="23"/>sali praeextitisse omnium existentium paradigmata secundum vnam superessentialem vnitatem concedendum est. Et se 
+        <lb ed="#Ba" n="24"/>cundum hoc concessum est supra &amp; determinatum quod omnia in vsum theologicae scientiae cadunt, &amp; ad ip- 
+        <lb ed="#Ba" n="25"/>sam vt materia eius pertinent: &amp; vt ea quae ad subiecti sui cognitionem, quid deus est, referantur. Et hoc est quod 
+        <lb ed="#Ba" n="26"/>continuo concludit Dionysius. dicens. Per haec proportionali scientia in omnium causam quantum potentes su- 
+        <lb ed="#Ba" n="27"/>mus ascendamus. Dia igitur (vt concludit) hinc existentia secundum vnam omnium excellentem scientiam referendum.  
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e336">
+        <lb ed="#Ba" n="28"/>⁋ Loquendo autem de attributione proprie &amp; secundum proprietatem, tunc ex parte eorum quae attributa sunt 
+        <lb ed="#Ba" n="29"/>distinguendum. Aut enim intelligitur attributio facienda vniuoce, attribuendo deo veritatem rei quae 
+        <lb ed="#Ba" n="30"/>est in creaturis secundum modum quo est in creaturis. Aut intelligitur facienda aequiuoce, attribuendo scilicet 
+        <lb ed="#Ba" n="31"/>ea quae sunt in creaturis, deo secundum modum supereminentem. Primo modo nulla res creata cuiuscumque  
+        <lb ed="#Ba" n="32"/>praedicamenti deo potest attribui: quia in nullo potest vniuocari creator cum creatura: vt infra di- 
+        <lb ed="#Ba" n="33"/>cetur. immo sic accipiendo rem praedicamenti, quaelibet res cuiuslibet praedicamenti vere ab ipso remo- 
+        <lb ed="#Ba" n="34"/>uetur. secundum quod dicit Diony. iiii. c. de mystica theologia. Causa super omnia ens neque essentia est, neque  
+        <lb ed="#Ba" n="35"/>vita: neque irrationalis, neque insensibilis, neque corpus est, neque figura, neque species, neque quaelitatem aut quam 
+        <lb ed="#Ba" n="36"/>titatem habet, neque in loco est. &amp;. c. v. Neque anima est, neque intellectus, neque phantasiam, neque opinionem, 
+        <lb ed="#Ba" n="37"/>aut virtutem, aut intelligentiam habet: neque ratio est neque intelligere, neque dicitur, neque intelligitur, 
+        <lb ed="#Ba" n="38"/>&amp; caetera huiusmodi, secundum quod annumerat, neque sapientia, neque vnum, neque vnitas, neque diuinitas, aut  
+        <lb ed="#Ba" n="39"/>bonitas, neque spiritus est, sicut nos sumus, neque filialitas, neque paternitas, neque aliquid quicquid no-  
+        <lb ed="#Ba" n="40"/>bis aut alicui existentium cognitum. &amp; addit in fine. Sed eorum quae post eam sunt positiones &amp; abla 
+        <lb ed="#Ba" n="41"/>tiones facientes, ipsam neque auferimus, neque ponimus, quoniam &amp; super omnem positionem est perfecta &amp; sin  
+        <lb ed="#Ba" n="42"/>gularis omnium causa: &amp; super omnem ablationem excellentia omnium simpliciter perfectione &amp; summitas omnium. Secundo 
+        <lb ed="#Ba" n="43"/>modo subdistinguendum, aut enim intelligitur attributio facienda sub ratione nominis appropriati creaturae, 
+        <lb ed="#Ba" n="44"/>aut sub ratione alicuius nominis generalis. Isto secundo modo omnia quae sunt in creaturis deopabent attribui 
+        <lb ed="#Ba" n="45"/>Primo autem modo aliqua ex creaturis deo paret attribui ex aliquibus praedicamentis, &amp; aliqua non, &amp; ex aliquibus nul 
+        <lb ed="#Ba" n="46"/>la, &amp; ex nullo omnia. Ad quorum discretionem intelligendum, quod secundum quod amplius declarabitur loquendo de 
+        <lb ed="#Ba" n="47"/>perfectionibus omnium rerum in deo, quaelibet creatura in suo esse formali quod participat a deo iuxta gradum 
+        <lb ed="#Ba" n="48"/>naturae suae, &amp; essentiae, quaedam in gradu superiori, alia in gradu inferiori per maiorem vel minorem 
+        <lb ed="#Ba" n="49"/>approximationem ad esse primi, &amp; hoc ascendendo ab vltima creatura vsque ad supremam, habet ali- 
+        <lb ed="#Ba" n="50"/>quam rationem diuinae perfectionis in se. In qua quidem est considerare trinia. scilicet rationem ipsius perfectionis sim 
+        <lb ed="#Ba" n="51"/>pliciter &amp; absolute, &amp; rationem proprietatis essentiae &amp; naturae cuius est perfectio, &amp; rationem imitatio- 
+        <lb ed="#Ba" n="52"/>nis in gradu conpetenti creaturae. Considerando quancumque creaturam in quaecumque re cuiuscumque praedicamenti 
+        <lb ed="#Ba" n="53"/>primo modo esse eius est aliquod dignitatis &amp; nobilitatis simpliciter Quare cum omne tale vt dictum est deo de 
+        <lb ed="#Ba" n="54"/>bet attribui, hoc modo quaelibet res cuiuscumque praedicamenti deo habet per proprietatem attribui: sed non sub 
+        <lb ed="#Ba" n="55"/>nomine proprio creaturae: vt carnis vel ossis ligni vel lapidis: sed sub comomuni nomine dignitatis, exprimentia 
+   <!--395.xml-->
+        <pb ed="#Ba" n="190-v"/>
+        <lb ed="#Ba" n="1"/>scilicet dignitatem perfectionis cuiusque inquantum perfectio est, cuiusmodi est nomen bonitatis, quia 
+        <lb ed="#Ba" n="2"/>perfectio est in fine rei &amp; complemento. Bonitas autem est, propria ratio finis: vt infra declarabitur. Pro 
+        <lb ed="#Ba" n="3"/>pter quod bonitas est generale attributum deo, quod omne ens inquantum habet perfectionem aliquam in suo 
+        <lb ed="#Ba" n="4"/>complemento consequitur: &amp; circuit etiam ipsum esse quod est primumum quo ratio formalis omnis perfectionis consistit. 
+        <lb ed="#Ba" n="5"/>Complementum enim cuiusque in suo esse dicitur bonitas esse eius, &amp; in eius sapientia dicitur bonitas sapien- 
+        <lb ed="#Ba" n="6"/>tiae eius, &amp; in eius pulchritudine dicitur bonitas pulchritudinis eius, &amp; similiter perfectio in forma 
+        <lb ed="#Ba" n="7"/>asininitatis, lapideitatis, &amp; caeterorum huiusmodi dicitur bonitas eius, qua. scilicet perfecte potest quae sunt illius 
+        <lb ed="#Ba" n="8"/>naturae, &amp; hoc iuxta modum illum quo tale vltimum &amp; complementum in virtutibus actiuis, dicitur virtus 
+        <lb ed="#Ba" n="9"/>quae est vltimum de potentia. secundum <name ref="#Aristotle">Philosophum</name> in primo cae. &amp; mundo. Vnde secundum Diony. iiii. c. de di. no. nihil 
+        <lb ed="#Ba" n="10"/>significatur seu intelligitur hoc nomine malum quod est contrarium bono in quocumque, praeterquam non posse quae sunt 
+        <lb ed="#Ba" n="11"/>proprie naturae perfectae. Hoc modo ergo non sub proprio vocabulo attribuitur res alicuius praedicamenti 
+        <lb ed="#Ba" n="12"/>deo: sed solum sub hoc nomine generali quod est bonum. secundum quod docet <name ref="#Augustine">Augustinus</name> viii. de trinitate. cum dicit. Bonum 
+        <lb ed="#Ba" n="13"/>hoc, bonum illud &amp;c. vt satis expositum est supra. Tertio modo licet esse creaturae cuiuscumque aliquid  
+        <lb ed="#Ba" n="14"/>dignitatis in se habet ratione perfectionis propriae: quia tamen vt propria est, &amp; in gradu creaturae existit, 
+        <lb ed="#Ba" n="15"/>limitationem habet, &amp; sic aliquid indignitatis &amp; ignobilitatis habet ex natura suae essentiae ratione 
+        <lb ed="#Ba" n="16"/>qua creatura est diuersa &amp; diuisa ab essentia diuina, &amp; per hoc est quod diminutum in natura &amp; essentia sua 
+        <lb ed="#Ba" n="17"/>quod appellatur esse creaturae proprium: hoc igitur modo &amp; vt sic significatur esse creaturae sub proprio vo- 
+        <lb ed="#Ba" n="18"/>cabulo quod a propria essentia creaturae vt creatura est ei imponitur, veluti lignum, lapis, caro, os &amp; hu 
+        <lb ed="#Ba" n="19"/>iusmodi, quia nihil quod imperfectionis aut indignitatis alicuius est, deo attribui potest, nulla res crea 
+        <lb ed="#Ba" n="20"/>turae cuiusque praedicamenti sub suo proprio nomine creaturae per proprietatem potest deo attribui. Vnde 
+        <lb ed="#Ba" n="21"/>&amp; res illa quae sapientia, seu virtus, aut pulchritudo, aut aliquid huiusmodi in creatura dicitur 
+        <lb ed="#Ba" n="22"/>sub ratione illa quae in essentia sua est creatura aliqua &amp; limitata, nullo modo deo attribui potest, nisi per  
+        <lb ed="#Ba" n="23"/>similitudinem, quod intellexit Dionysius. cum dixit. Neque essentia est, neque vita, aut bonitas, aut spiritus, quod 
+        <lb ed="#Ba" n="24"/>etiam bene expressit per hoc quid subdit. Sicut nos sumus. vt habitum est supra. Esse vero creaturae se 
+        <lb ed="#Ba" n="25"/>cundo modo: medio modo se habet, &amp; penes hunc modum nomina imposita sunt rebus scilicet iuxta rationem 
+        <lb ed="#Ba" n="26"/>proprietatis essentiae earum, qualis debet esse vera impositio realis, non sicut illa quae tantum est vo- 
+        <lb ed="#Ba" n="27"/>calis: vt exponendum est loquendo de dei nominibus. &amp; hoc modo quaedam ex rebus aliquorum praedica- 
+        <lb ed="#Ba" n="28"/>mentorum deo habent attribui, &amp; aliquorum praedicamentorum nulla: sed nullius praedicamenti omnia. 
+        <lb ed="#Ba" n="29"/>Et est hic difficultas quaestionis. 
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e473">
+        ⁋ Ad cuius intellectum sciendum: quod quaedam sunt res praedicamentorum 
+        <lb ed="#Ba" n="30"/>aliquorum quibus de natura &amp; proprietate essentiae suae convenit aliquid quod est simpliciter dignita- 
+        <lb ed="#Ba" n="31"/>tis &amp; nobilitatis quantuncumque sit ipsa rei essentia limitata inquantum est creatura. Quaedam autem 
+        <lb ed="#Ba" n="32"/>aliae sunt res in quolibet praedicamento, quibus de natura sua &amp; proprietate essentiae suae non conve- 
+        <lb ed="#Ba" n="33"/>nit aliquid quod est dignitatis simpliciter aut nobilitatis. Verbi gratia. Ex natura &amp; proprietate es 
+        <lb ed="#Ba" n="34"/>sentiae creatae quae sapientia dicitur, est notitia &amp; illustratio quaedam, cuius propria actio est illustra- 
+        <lb ed="#Ba" n="35"/>re id cuius est: &amp; pulchritudo nihil aliud est quam decentia quaedam, cuius opus est, id cuius est de- 
+        <lb ed="#Ba" n="36"/>cens &amp; acceptabile facere: quae dignitatis sunt &amp; nobilitatis in quocumque inueniantur: ita quod aliis eis- 
+        <lb ed="#Ba" n="37"/>dem retentis melius dignius &amp; nobilius est in quocumque, sapientia illustratum esse, quam non illustratum, 
+        <lb ed="#Ba" n="38"/>pulchritudine decoratum esse, quam non decoratum. Ex natura autem &amp; proprietate essentiae lapidis vt est 
+        <lb ed="#Ba" n="39"/>lapis, ligni vt est lignum, &amp; caeterorum huiusmodi, non conuenit lapidi, aut ligno, aliquid quod est di- 
+        <lb ed="#Ba" n="40"/>gnitatis simpliciter aut nobilitatis: vt scilicet quodcunque ens dignius sit &amp; nobilius ex esse illius in ipso 
+        <lb ed="#Ba" n="41"/>quam ex non esse eius in illo. immo lapidi, aut ligno quicquid nobilitatis inest ex hoc quod tale est, hoc 
+        <lb ed="#Ba" n="42"/>non esset nobilitatis in alio quocunque, licet nobilitatis est in ligno aut lapide. Bene enim verum 
+        <lb ed="#Ba" n="43"/>est quod ex proprietate naturae &amp; essentiae suae quaelibet res aliquid habet quod est sibi dignitatis &amp; no-  
+        <lb ed="#Ba" n="44"/>bilitatis, &amp; quod est sibi optimum: vt oliua ratione essentiae suae aliquod esse habet quod est sibi optimum 
+        <lb ed="#Ba" n="45"/>&amp; melius inquantum est oliua, quam quodlibet aliud esse cuiuslibet alterius rei. Non tamen illud est opti 
+        <lb ed="#Ba" n="46"/>mun simpliciter &amp; nobilius, neque cuiuscumque alteri: quia est aliud esse alteri melius &amp; nobilius sim- 
+        <lb ed="#Ba" n="47"/>pliciter illo, &amp; etiam illi alteri est melius &amp; nobilius licet non oliuae: vt esse leonis simpliciter melius est 
+        <lb ed="#Ba" n="48"/>&amp;inobilius, &amp; etiam leoni est melius &amp; nobilius quam esse oliuae, licet non sit melius oliuae inquantum 
+        <lb ed="#Ba" n="49"/>est oliua. Licet enim melius esset simpliciter in rerum natura quod modo est oliua si esset leo: non tamen hoc 
+        <lb ed="#Ba" n="50"/>esset melius oliuae inquantum oliua est, quia tunc oliua non esset omnino, &amp; bonum cuiuscumque &amp; nobi 
+        <lb ed="#Ba" n="51"/>le in suo esse specifico consistit. Et hoc est quod dicit Philosophous. ii. physiti. Quod quid est finis &amp; 
+        <lb ed="#Ba" n="52"/>forma hoc erat quod aliquid erat esse: &amp; propter hoc dignius est non simpliciter: sed ad vniuscuiusque 
+        <lb ed="#Ba" n="53"/>substantiam. vbi dicit Commen. Eorma est in rebus naturalibus: vt ens sit in dispositione nobiliori 
+        <lb ed="#Ba" n="54"/>secundum quod est illud ens, non nobilius simpliciter. Nobilius enim in oliua est oliuam esse oliuam, 
+        <lb ed="#Ba" n="55"/>non nobilius simpliciter. Res praedicamenti cuiusque de primo modo per proprietatem potest deo attribui 
+   <!--396.xml-->
+        <pb ed="#Ba" n="191-r"/>
+        <lb ed="#Ba" n="1"/>secundum idem significatum nominis, analogice tamen vt infra patebit. Quicquid enim est sim- 
+        <lb ed="#Ba" n="2"/>pliciter &amp; absolute dignitatis &amp; perfectionis, deo tribuendum est: vt sunt spiritus, vita, intel- 
+        <lb ed="#Ba" n="3"/>lectus, intelligentia, &amp; huiusmodi de praedicamento substantiae: magnum, immensum, infinitum, 
+        <lb ed="#Ba" n="4"/>de praedicamento quantitatis: bonum, sapiens, iustum, &amp; huiusmodi de praedicamento qualita- 
+        <lb ed="#Ba" n="5"/>tis: paternitas, filiatio, &amp; huiusmodi, de praedicamento relationis: creare, gubernare, &amp; huius- 
+        <lb ed="#Ba" n="6"/>modi de praedicamento actionis: generari, spirari, &amp; huiusmodi de praedicamento passionis. &amp; 
+        <lb ed="#Ba" n="7"/>hoc sit absoluendo de huiusmodi rebus &amp; significatis nominum suorum omnem rationem im 
+        <lb ed="#Ba" n="8"/>perfectionis quam in se includunt vt sunt in creaturis: quia modo sublimiori &amp; omnino perfe 
+        <lb ed="#Ba" n="9"/>cto habent esse in deo. secundum quod dicit Dionysius capite secundo de diuinis nominibus. Abun- 
+        <lb ed="#Ba" n="10"/>danter &amp; supersubstantialiter ea quae sunt causatorum praeinsunt in causis. &amp; per hoc analo 
+        <lb ed="#Ba" n="11"/>gice: vt infra dicetur. Res vero cuiuscumque praedicamenti de secundo modo nullo modo per pro- 
+        <lb ed="#Ba" n="12"/>prietatem deo potest attribui: quia nihil deo potest attribui quod non sit simpliciter dignitatis &amp; perfectio 
+        <lb ed="#Ba" n="13"/>nis alicuius: quia quicquid ei attribuitur, ipse est per suam substantiam, qui perfectissimus est, &amp; nobi- 
+        <lb ed="#Ba" n="14"/>lissimus &amp; dignissimus, cui nihil convenire potest nisi supeminenter, &amp; per superabundantiam dictum, 
+        <lb ed="#Ba" n="15"/>iuxta doctrinam Diony. Tales sunt res specierum specialissimarum quasi omnium in praedicamento substantiae:  
+        <lb ed="#Ba" n="16"/>vt sunt homo, asinus, lignum, lapis, &amp; huiusmodi: &amp; similiter in praedicamento quantitatis: vt sunt 
+        <lb ed="#Ba" n="17"/>triangulus, quadragulus, &amp; caeterae species figurarum: &amp; plures in praedicamento qualitatis: vt albe 
+        <lb ed="#Ba" n="18"/>do, nigredo, calidum, frigidum, &amp; huiusmodi: &amp; in relatione, duplum, subduplum, maius, minus &amp; 
+        <lb ed="#Ba" n="19"/>huiusmodi: in actione calefacere, frigefacere: &amp; in passione dolere, irasci, &amp; huiusmodi: &amp; quaecumque sunt in aliis 
+        <lb ed="#Ba" n="20"/>praedicamentis. iiii, non nisi translatiue deo attribuuntur. secundum quod dicit <name ref="#Augustine">Augustinus</name> v. de trinitate. Situs, habitus, 
+        <lb ed="#Ba" n="21"/>&amp; loca, &amp; tempora, non dicuntur de deo proprie: sed translatiue, ac per similitudinem dicuntur in illo. 
+        <lb ed="#Ba" n="22"/>Nam &amp; sedere super Cherubim dicitur quo ad situm: &amp; abyssum tanquam vestimentum amictus eius, quo ad 
+        <lb ed="#Ba" n="23"/>habitum: &amp; Anni tui non deficient, quo ad tempus: Si ascendero in caelum tu illic es, quo ad locum. 
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e590">
+        ⁋ Di 
+        <lb ed="#Ba" n="24"/>ctam regulam de attribuendis deo per proprietatem, &amp; non attribuendis, considerauit <name ref="#Anselm">Anselmus</name> quando  
+        <lb ed="#Ba" n="25"/>dixit mon. xv. c. Si quis diligenter singula intueatur, quicquid est aut tale est vt ipsum omnino vni- 
+        <lb ed="#Ba" n="26"/>uersaliter in quolibet existenti melius sit quam non ipsum: aut tale vt non ipsum in aliquo melius sit 
+        <lb ed="#Ba" n="27"/>quam ipsum, licet non in quolibet alio. lpsum autem &amp; non ipsum (vt dicit) non aliud hic intelligitur quam veluti 
+        <lb ed="#Ba" n="28"/>corpus non corpus, verum non verum: &amp; similia. Melius quidem omnino est ipsum quam non ipsum: vt sapiens 
+        <lb ed="#Ba" n="29"/>quam non sapiens. Quamuis enim iustus non sapiens melior videatur quam non iustus sapiens: quia coniunctum 
+        <lb ed="#Ba" n="30"/>illud melius est quam istud: eo quod iustitia melior est quam sapientia: non tamen est melius simpliciter non sa 
+        <lb ed="#Ba" n="31"/>piens quam sapiens. Omne quippe non sapiens simpliciter inquantum non sapiens, minus est quam sapiens: quia omnis 
+        <lb ed="#Ba" n="32"/>non sapiens melior esset si esset sapiens. Melius autem est in aliquo non ipsum quam ipsum: vt non aurum quam au 
+        <lb ed="#Ba" n="33"/>rum. Nam melius est homini esse non aurum quam aurum. quamuis forsitan alicui melius esset esse aurum 
+        <lb ed="#Ba" n="34"/>quam non aurum: vt plumbo. Cum enim vtrumque, scilicet homo &amp; plumbum, sit non aurum, tanto me- 
+        <lb ed="#Ba" n="35"/>lius aliquid est homo quam aurum, quanto homo inferioris esset naturae si esset aurum: &amp; plumbum tan  
+        <lb ed="#Ba" n="36"/>to melius esset, quanto preciosius esset si aurum esset. hoc est dicere: quod modo est plumbum: si idipsum 
+        <lb ed="#Ba" n="37"/>a deo factum esset aurum, vel conversum in ipsum: quanto aurum melius est &amp; preciosius plumbo, 
+        <lb ed="#Ba" n="38"/>tanto illa res melior esset &amp; preciosior eo quod modo est plumbum. Non tamen sequitur ex hoc 
+        <lb ed="#Ba" n="39"/>quod plumbum esset melius plumbum, vel quod plumbum esse aurum esset melius plumbo, quam esse 
+        <lb ed="#Ba" n="40"/>plumbum, sicut patet ex eo quod supra dictum est de oliua. propter quod (vt credo) dixit forsitan. 
+        <lb ed="#Ba" n="41"/>Nec etiam ex hoc sequitur quod melius esset vniuerso si totum plumbum conversum esset in au-  
+        <lb ed="#Ba" n="42"/>rum: quia tunc deficeret ei vna species, &amp; melius &amp; preciosius est vniuerso quod in ipso sint plun- 
+        <lb ed="#Ba" n="43"/>bum &amp; aurum, quam quod omne plumbum esset aurum. Ex quo (vt videtur) apparet quod nulla sit di- 
+        <lb ed="#Ba" n="44"/>uisio <name ref="#Anselm">Anselmus</name> praedicta: quoniam nihil est inuenire in creaturis quin non ipsum in aliquo melius sit 
+        <lb ed="#Ba" n="45"/>quam ipsum. Quicquid enim non est plumbum, siue sit creatura superior in gradu siue inferior, me- 
+        <lb ed="#Ba" n="46"/>lius est plumbo non esse illud quam esse illud: &amp; hoc eadem ratione qua (vt dictum est) melius est plun- 
+        <lb ed="#Ba" n="47"/>bo non esse aurum quam esse aurum. &amp; eadem ratione est melius simpliciter vniuerso plumbo se- 
+        <lb ed="#Ba" n="48"/>cundum totam suam speciem non esse illud quam esse illud. Ealsum est ergo illud primum mem- 
+        <lb ed="#Ba" n="49"/>brum diuisionis quod aliquid in creaturis sit tale vt omnino sit melius esse ipsum quam non ipsum. 
+        <lb ed="#Ba" n="50"/>Et est dicendum ad intellectum regulae, quod esse ipsum potest dici aliquid de alio, &amp; similiter non  
+        <lb ed="#Ba" n="51"/>ipsum dupliciter, vel per existentiam, vel per denominationem. Per existentiam, dicendo hoc est 
+        <lb ed="#Ba" n="52"/>hoc per essentiam: vt quod homo est animal rationale. Per denominationem, dicendo hoc est hoc per 
+        <lb ed="#Ba" n="53"/>inhaerentiam: vt quod homo est albus: quia homo nihil est in re, nisi id quod re est animalitas cum 
+        <lb ed="#Ba" n="54"/>rationalitate. Non autem est re id quod est albedo: sed albedo inest ei. Primo modo procedit obiectio. 
+   <!--397.xml-->
+        <pb ed="#Ba" n="191-v"/>
+        <lb ed="#Ba" n="1"/>Nihil enim est in creaturis quod omnino id est cuilibet vniuersaliter melius est esse ipsum quam non ipsum. im 
+        <lb ed="#Ba" n="2"/>mo non est aliquid quin cuilibet alteri melius sit non esse ipsum quam esse ipsum: siue illud ipsum fuerit 
+        <lb ed="#Ba" n="3"/>substantia siue accidens. Melius enim est plumbo non esse angelum quam esse: similiter non esse secundum rem 
+        <lb ed="#Ba" n="4"/>accidens illud quod est sapientia, quam esse: vt patet ex dictis. Secundo modo regula est vera, &amp; illo modo i- 
+        <lb ed="#Ba" n="5"/>telligenda. Hoc enim modo siue per possibile, siue per impossibile melius esset cuilibet rei quod esset sa 
+        <lb ed="#Ba" n="6"/>piens quam non sapiens, iustum quam non iustum, &amp; huiusmodi. Vnde de accidentibus in creaturis quae iuxta 
+        <lb ed="#Ba" n="7"/>dictam regulam aliquid nobilitatis simpliciter important, intelliguntur sumi deo attribuenda: vnde &amp; sola 
+        <lb ed="#Ba" n="8"/>talia a creaturis ad deum translata proprie attributa dicenda sunt. &amp; sunt quasi dispositiones in deo 
+        <lb ed="#Ba" n="9"/>&amp; verae dispositiones accidentales in creaturis. Et tunc non valet exemplum <name ref="#Anselm">Anselmus</name> de non ipso 
+        <lb ed="#Ba" n="10"/>quod melius est alicui quam ipsum: vt homini non esse aurum quam aurum: quia de substantiis nihil ad istam 
+        <lb ed="#Ba" n="11"/>regulam: sed debet sumi exemplum de non ipso: vt non esse amarum melius est vino quam esse amarum: quam- 
+        <lb ed="#Ba" n="12"/>uis sine forte melius est alicui esse amarum quam non esse: vt absinthio. Regulam ergo suam sic intellectam 
+        <lb ed="#Ba" n="13"/>vt iam dictum est, <name ref="#Anselm">Anselmus</name> applicat ad propositum, dicens. Cum igitur quicquid est si singula respi- 
+        <lb ed="#Ba" n="14"/>ciantur, aut sit melius ipsum quam non ipsum, aut non ipsum in aliquo sit melius quam ipsum, sicut nefas 
+        <lb ed="#Ba" n="15"/>est putare vt substantia supremae naturae sit aliquid quo melius aliquo modo sit non ipsum, sic ne- 
+        <lb ed="#Ba" n="16"/>cesse est vt sit quicquid omnino melius est ipsum quam non ipsum. Illa enim sola est qua penitus nihil melius: 
+        <lb ed="#Ba" n="17"/>&amp; quae melius est omnibus quae non sunt quod ipsa est. Ex quo concludit determinationem nostram circa non at  
+        <lb ed="#Ba" n="18"/>tribuenda deo per proprietatem, &amp; attribuenda, dicene. Non igitur deus est corpus, vel aliquid eo 
+        <lb ed="#Ba" n="19"/>rum quae corporei sensus discernunt. quippe omnibus his aliquid melius est, quod non est quod ipsa sunt. 
+        <lb ed="#Ba" n="20"/>Mens enim rationalis quae nullo modo corporeo sensu quid vel qualis vel quanta sit percipitur, quanto 
+        <lb ed="#Ba" n="21"/>minor esset si esset aliquid eorum quae corporeis sensibus subiacent, tanto est melior quam quodlibet eo- 
+        <lb ed="#Ba" n="22"/>rum. Penitus enim ipsa summa essentia tacenda est esse quodlibet eorum quibus est aliquid me- 
+        <lb ed="#Ba" n="23"/>lius quod non sunt ipsa: &amp; est omnino sicut ratio docet, quodlibet eorum quibus omne quod non sunt ipsa 
+        <lb ed="#Ba" n="24"/>inferius est, quare (vt concludit) necesse est eam esse viuentem, sapientem, potentem, substantiam aeternam 
+        <lb ed="#Ba" n="25"/>&amp; quicquid absolute melius est ipsum quam non ipsum. Quid ergo quaeritur amplius, quid summa sit illa 
+        <lb ed="#Ba" n="26"/>natura, si manifestum sit quid omnium sit, aut quid non sit: Reuera nihil. Euacuat enim dicta regula to 
+        <lb ed="#Ba" n="27"/>tum quaesitum, &amp; fundatur super significata nominium rebus praedicamentalibus impositorum. In rebus enim 
+        <lb ed="#Ba" n="28"/>in quibus ipsum est omnino melius quam non ipsum, nomina earum imponuntur ad significandum earum naturas 
+        <lb ed="#Ba" n="29"/>&amp; essentias: vt habentes rationem perfectionis &amp; dignitatis simpliciter &amp; absolute. &amp; sic simpliciter &amp; absolute 
+        <lb ed="#Ba" n="30"/>ipsas perfectiones earum &amp; dignitates significant, non sub ratione alicuius limitationis in gradu digni 
+        <lb ed="#Ba" n="31"/>tatis naturae suae, propter quod nullo impediente possunt extendi ad significandum per analogiam id quod eis 
+        <lb ed="#Ba" n="32"/>de perfectione respondet in creatore, &amp; per hoc deo eminentiori modo attribui quam attribuuntur creatu- 
+        <lb ed="#Ba" n="33"/>rae, licet sub eisdem nominibus quibus attribuuntur creaturis. Vnde <name ref="#Augustine">Augustinus</name> lib, xv. de trinitate. c. iiii. Oportet 
+        <lb ed="#Ba" n="34"/>eum summe viuere, cuncta sentire atque intelligere, non corpus esse, sed spiritum, potentissimum, speciosis- 
+        <lb ed="#Ba" n="35"/>simum, optimum, iustissimum, beatissimumque. &amp; sequitur in principio. v. c. Haec omnia &amp; quaecumque alia consi- 
+        <lb ed="#Ba" n="36"/>milia more locutionis humanae digne de deo dici videntur. Quomodo autem a talibus ascen- 
+        <lb ed="#Ba" n="37"/>dendum est vt cognoscamus sub modo eminentiori esse in creatore ea quae dignitatis videmus in  
+        <lb ed="#Ba" n="38"/>creaturis, &amp; sic intelligamus ea significari nominibus creaturarum, determinatum est in praecedentibus. In  
+        <lb ed="#Ba" n="39"/>rebus vero ex quibus alicui melius est esse nou ipsum quam ipsum: nomina earum imponuntur ad signifi 
+        <lb ed="#Ba" n="40"/>candum earum naturas &amp; essentias, non vt habentes rationem perfectionis &amp; dignitatis simpliciter: sed ali 
+        <lb ed="#Ba" n="41"/>cui tantum: &amp; sic non absolute ipsas perfectiones earum significant: sed sub ratione alicuius limitationis in  
+        <lb ed="#Ba" n="42"/>gradu aliquo dignitatis naturae, propter quod impediente ratione limitationis cadente in nominis si 
+        <lb ed="#Ba" n="43"/>gnificatione non possunt extendi ad significandum per analogiam id quod eis de perfectione respondet in  
+        <lb ed="#Ba" n="44"/>creatore. Et ideo nec deo possunt attribui, nisi per similitudinem, quia id quod in deo eis respondet 
+        <lb ed="#Ba" n="45"/>omnino illimitatum est. 
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e777">
+        <lb ed="#Ba" n="46"/>⁋ Ad primum in oppositum quod omnes creaturae per aequalem distantiam se habent ad deum  
+        <lb ed="#Ba" n="47"/>ergo aequaliter possunt ei attribui, Dicendum quod licet omnes creaturae per aequalem distantiam ad deum se habe 
+        <lb ed="#Ba" n="48"/>rent: &amp; omnes essent aequales quo ad gradus naturae, quod non est verum: vt patet ex dictis: &amp; licet etiam quo  
+        <lb ed="#Ba" n="49"/>ad rationem infinitati eius omnia aequalitur distent ab eo, supiora. scilicet &amp; inferiora: vt procedit obiectio: tamen quia aliquae  
+        <lb ed="#Ba" n="50"/>res etiam inferioris gradus dicunt aliquid quod simpliciter est melius ipsum quam non ipsum: aliqua vero superioris gradus di 
+        <lb ed="#Ba" n="51"/>cunt aliquid quod non simpliciter est melius ipsum quam non ipsum. Verbi gratia, Lux inferioris gradus est sole quid est fons 
+        <lb ed="#Ba" n="52"/>luminis &amp; subiectum, &amp; luminis naturalis origo: quia tamen lux significat id quid melius est omnino ipsum quam  
+        <lb ed="#Ba" n="53"/>non ipsum. Quodlibet enim melius est si luceat quam si non luceat, aliis eisdem retentis. Lux enim imponitur ad signi 
+        <lb ed="#Ba" n="54"/>ficandum rem sumb ratione cuiusdam manifestationis per ipsam faciendae. dicente apso Ephsophu. v. Dem enim quod mani- 
+        <lb ed="#Ba" n="55"/>festatur lumen est: propter quod proprie attribuitur deo dicendo quod deus lux est. Sol vero significat id quo aliquid me 
+   <!--398.xml-->
+        <pb ed="#Ba" n="192-r"/>
+        <lb ed="#Ba" n="1"/>lius est non ipsum quam ipsum: vt est mens rationalis humana vel angelica. Et ideo deo attribui non 
+        <lb ed="#Ba" n="2"/>potest dicendo deus est sol, nisi per quandam similitudinem: dicente <name ref="#Augustine">Augustinus</name> v. de trinitate. c. i. Quod non inueni 
+        <lb ed="#Ba" n="3"/>mus in meliore nostro, non debemus in illo quaerere quod longe melius est meliore nostro. 
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e815">
+        ⁋ Ad secun 
+        <lb ed="#Ba" n="4"/>dum quod deus omnia quae sunt praehabuit: &amp; ab omnibus denominatur: ergo &amp;c. Dicendum quod omnia praehabere 
+        <lb ed="#Ba" n="5"/>facit quod omnia possunt attribui per similitudinem, non autem per proprietatem. ad hoc enim plus requi 
+        <lb ed="#Ba" n="6"/>ritur: vt iam expositum est. Ex parte autem denominationis etiam dicendum est, quod est quaedam denomina 
+        <lb ed="#Ba" n="7"/>tio per attributionem similitudinis, &amp; hoc modo secundum Diony. ab omnibus denominatur, &amp; nominibus omnium 
+        <lb ed="#Ba" n="8"/>nominatur, secundum quod probat inductio facta in argumento. Est autem alia denominatio per attributionem 
+        <lb ed="#Ba" n="9"/>proprietatis, &amp; haec est duplex: vel vniuoce, vniversalianalogice. Primo modo nullius rei creatae nomen ei at-  
+        <lb ed="#Ba" n="10"/>tribuitur: quia in nullo cum creatura vniuocatur: nec sic res alicuius creaturae est in deo: vt infra 
+        <lb ed="#Ba" n="11"/>videbitur. Secundo modo nomina aliquorum, &amp; non omnium ei attribuuntur: vt dictum est. Et propter hanc diuersi 
+        <lb ed="#Ba" n="12"/>tatem dicit Dionysius. in eodem. c. i. de di. no. quod theosophi deum multiuoce ex omnibus creaturis laudant: vt 
+        <lb ed="#Ba" n="13"/>bonum: vt sapientem: vt solem, stellam, ignem, &amp; huiusmodi. post quae subdit. Et est omnia quae sunt, &amp; ni- 
+        <lb ed="#Ba" n="14"/>hil eorum quae sunt. Sic igitur omnium causae &amp; super omnia enti &amp; innominabili adunabuntur omnia: &amp; omnia eorum 
+        <lb ed="#Ba" n="15"/>quae sunt nomina. 
+      </p>
+      <p xml:id="vn58an-d1e2279-d1e844">
+        ⁋ Per iam dicta patet quomodo respondendum ad argumenta duo in oppositum. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="258-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2842"> <!-- alias="vn58an-a40q5" -->
+      <head xml:id="vn58an-d1e2842-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e2842-Hd1e107" type="question-title">Utrum uno simplici intuitu intelligat Deus se et alia</head>
+      <p xml:id="vn58an-d1e2842-d1e110">
+   <!--531.xml-->
+            <pb ed="#Ba" n="258-v"/>
+        <lb ed="#Ba" n="1"/>CIrca quintum arguitur, quod deus non intelligit vno simplici intuitu seipsum &amp; 
+        <lb ed="#Ba" n="2"/>quaecumque intelligit in seipso. Primo sic. Intellectus formatur in actu intelligen 
+        <lb ed="#Ba" n="3"/>di secundum rationem intellecti: quia ipsum est principium formale eliciendi intelle- 
+        <lb ed="#Ba" n="4"/>ctualem operationem: vt dictum est. Quare cum essentia diuina &amp; intelligibilia in  
+        <lb ed="#Ba" n="5"/>ea, distincta sunt, &amp; distincte intelliguntur: distincti ergo actus intelligendi eis 
+        <lb ed="#Ba" n="6"/>respondent, quare non vno simplici: sed pluribus illa intelligit. 
+      </p>
+      <p xml:id="vn58an-d1e2842-d1e130">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="7"/>Simplex ad quodcumque se convertit, totaliter se conuertit. Cum ergo diuinus intellectus sit simpli- 
+        <lb ed="#Ba" n="8"/>cissimus, totaliter se conuertit ad quodcumque intelligit. sed tale vnico simplici intuitu non intelli 
+        <lb ed="#Ba" n="9"/>git nisi illud. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2842-d1e140">
+        ⁋ In contrarium est illud quod dicit Augu. xi. de ciui. dei. c. xxi. Neque eius in-  
+        <lb ed="#Ba" n="10"/>tentio de cognitione in cognitionem transit, in cuius incorporeo intuitu simul aspicit cuncta quae nouit. 
+      </p>
+      <p xml:id="vn58an-d1e2842-d1e145">
+        <lb ed="#Ba" n="11"/>⁋ Dicendum ad hoc, quod cum forma per se intellecta vt per se obiectum intellectus sit pro  
+        <lb ed="#Ba" n="12"/>se &amp; propria ratio formalis actus intelligendi vt dictum est, ex qua in actu intelligendi fit vnum 
+        <lb ed="#Ba" n="13"/>inquantum intellectus secundum actum est ipsum intellectum secundum actum, &amp; econverso: vbi igitur est vna 
+        <lb ed="#Ba" n="14"/>simplex ratio formalis intelligendi plurium, &amp; vnus simplex intuitus quo illa intelliguntur. &amp; vbi 
+        <lb ed="#Ba" n="15"/>sunt diuersae rationes intelligendi plura, necesse est quod pluribus actibus intelligendi intelligantur. 
+        <lb ed="#Ba" n="16"/>Aliter enim sequeretur quod idem intellectus simul esset plures secundum vnum genus entis: quia omne intelligibile 
+        <lb ed="#Ba" n="17"/>inquantum intelligibile, habet rationem vnius generis entis in intellectu, licet extra sit sub diuer 
+        <lb ed="#Ba" n="18"/>sis generibus entis. &amp; illud est impossibile: sicut est impossibile quod idem sit informatum pluribus 
+        <lb ed="#Ba" n="19"/>albedinibus. Vnde cum multa in re extra habent vnam rationem formalem in intellectu, illa simul 
+        <lb ed="#Ba" n="20"/>vnico intuitu intelliguntur: vt partes totius continui, &amp; diuersae vnitates vnius numeri: diuina 
+        <lb ed="#Ba" n="21"/>autem essentia est vna simplex ratio formalis qua deus intelligit quaecumque in se sunt intelligibilia 
+        <lb ed="#Ba" n="22"/>quia pluralitas intelligibilium in ipso non est nisi secundum rationes respectuum qui fundantur in ipsa es 
+        <lb ed="#Ba" n="23"/>sentia, &amp; nihil habent realitatis neque intelligibilitatis nisi per ipsam essentiam &amp; in ipsa essentia: quia 
+        <lb ed="#Ba" n="24"/>ipsa simplex subintrat rationes omnium respectuum attributorum, &amp; perfectionum, &amp; idearum, quae distinguuntur 
+        <lb ed="#Ba" n="25"/>in ea secundum operationem intellectus per hoc quod ipsa ab ipso diuino intellectu intelligitur, secun- 
+        <lb ed="#Ba" n="26"/>dum quod praedictum est. 
+      </p>
+      <p xml:id="vn58an-d1e2842-d1e182">
+        <lb ed="#Ba" n="27"/>⁋ Ad primum in oppositum quod diuina essentia &amp; quae in ea intelliguntur disticta sunt &amp; disti 
+        <lb ed="#Ba" n="28"/>cte intelliguntur: dicendum quod verum est, non sicut obiecta formalia diuersa distincta inter se absolute absque  
+        <lb ed="#Ba" n="29"/>actu intelligendi: sed tanquam respectus concepti circa formale obiectum per actum intelligendi completiue di 
+        <lb ed="#Ba" n="30"/>stincti. Nunc autem intelligibilia distincta distincte intellecta, non intelliguntur diuersis &amp; distinctis 
+        <lb ed="#Ba" n="31"/>actibus, nisi quantum secundum se absolute absque conceptione intellectus sunt formalia obiecta 
+        <lb ed="#Ba" n="32"/>diuersa. Quando vero in vno formali obiecto realiter conueniunt, in quo nullam habent distinctio 
+        <lb ed="#Ba" n="33"/>nem sed vnitatem: sed tamen habent radicem secundum quam completiue distingui possunt in ipsa ope- 
+        <lb ed="#Ba" n="34"/>ratione intellectus, vno simplici intuitu possunt intelligi distincte vnico actu intelligendi omni-  
+        <lb ed="#Ba" n="35"/>no indistincto. 
+      </p>
+      <p xml:id="vn58an-d1e2842-d1e204">
+        ⁋ Ad secundum quod simplex vnico simplici intellectu non conuertit se simul nisi 
+        <lb ed="#Ba" n="36"/>ad vnum: dicendum quod verum est sicut ad per se &amp; formalem rationem obiecti. potest tamen ad plura 
+        <lb ed="#Ba" n="37"/>simul se convertere, sicut ad concepta in illo: maxime quando non distinguuntur nisi secundum ra- 
+        <lb ed="#Ba" n="38"/>tiones respectuum, sicut contingit in proposito: vt patet ex iam praedeterminatis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

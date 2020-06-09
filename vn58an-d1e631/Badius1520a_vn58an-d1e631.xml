@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="49-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e631"> <!-- alias="vn58an-a7q3" -->
+      <head xml:id="vn58an-d1e631-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e631-Hd1e107" type="question-title">Utrum sit universalis super alias</head>
+      <p xml:id="vn58an-d1e631-d1e110">
+        <lb ed="#Ba" n="31"/>lrca tertium arguitur quod theologia sit scientia vniversalis, primo sic. illa scia est vniversalis quae est con 
+        <lb ed="#Ba" n="32"/>tentiua cognitionis omnium: quia naturae vniuersalis est quod sit naturaliter plurium 
+        <lb ed="#Ba" n="33"/>vt dicitur. vii. metaphysicae. theologia est huiusmodi. secundum quod dicit Ambrosius in quaestione praeceden 
+        <lb ed="#Ba" n="34"/>ti. Quae illi in suis sermonibus mirabilia putant, in scripturis diuinis inueniet. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e121">
+        <lb ed="#Ba" n="35"/>⁋ Secundo sic. illa scientia est vniversalis cuius maxime est scire. secundum quod dicit <name ref="#Aristotle">Philosophus</name> in  
+        <lb ed="#Ba" n="36"/>primo metaphysicae. Maxime necesse est scire habentem scientiam vniuersalem. theologiae 
+        <lb ed="#Ba" n="37"/>maxime est scire, cum maxime est sapientia, vt habitum est supra: &amp; sapientiae maxime scire 
+        <lb ed="#Ba" n="38"/>in etiam difficillima homini, vt dicit <name ref="#Aristotle">Philosophus</name> ibidem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e140">
+        ⁋ Tertio sic. in. vi. metaphysicae dicit Phi 
+        <lb ed="#Ba" n="39"/>losophus. Si aliqua substantia immobilis fuerit: erit primum: &amp; scientia eius est philosophia prima. haec 
+        <lb ed="#Ba" n="40"/>autem substantia deus est solus, vt infra videbitur, de quo est ista scientia: ergo ipsa est philosophia 
+        <lb ed="#Ba" n="41"/>prima. talis secundum <name ref="#Aristotle">Philosophum</name> ibidem est scientia vniuersalis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e152">
+        ⁋ Quarto sic. scientia 
+        <lb ed="#Ba" n="42"/>quae non est vniuersalis necessario est aliqua particularium: quia sub scientia vniuersali continentur 
+        <lb ed="#Ba" n="43"/>omnes aliae. habens enim scientiam vniuersalem quodammodo scit omnia subiecta. ista scientia non  
+        <lb ed="#Ba" n="44"/>potest esse aliqua particularium: quia est nobilissima omnium scientiarum: &amp; vniuersalis scientia 
+        <lb ed="#Ba" n="45"/>semper est nobilior particulari. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e163">
+        ⁋ Contrarium arguitur Primo sic. scientia vniuersalis non  
+        <lb ed="#Ba" n="46"/>est alicuius generis determinati. secundum Philosophum. iiii. &amp;. vi. metaphysicae. Scientia ista ma-  
+        <lb ed="#Ba" n="47"/>xime est generis determinati: quia determinate de vnico ente simplicissimo minime vniuersali vel 
+        <lb ed="#Ba" n="48"/>communicabili vt de deo, considerat vt de subiecto. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e172">
+        ⁋ Secundo sic. principiis scientiae vniuer 
+        <lb ed="#Ba" n="49"/>salis vtuntur omnes scientiae particulares sub ipsa, secundum modum sui subiecti: &amp; ea supponunt 
+        <lb ed="#Ba" n="50"/>vt dicit Philosophus. 4. metaphysicae. nulla autem scientia particularis vtitur aliquo principio hu 
+        <lb ed="#Ba" n="51"/>ius scientiae: aut supponit ipsum: immo magis scientiae philosophicae contrariantur eis secundum modum  
+        <lb ed="#Ba" n="52"/>determinandum inferius: &amp; praeterea principia huius scientiae credibilia sunt: &amp; accipiuntur vt credita: illae autem  
+        <lb ed="#Ba" n="53"/>scientiae non procedunt nisi ex scitis &amp; intellectis, vt vult <name ref="#Aristotle">Philosophus</name> in primo posteriorum ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e189">
+        ⁋ Tertio sic 
+        <lb ed="#Ba" n="54"/>Philosophus dicit in primo Topicis de methodo siue arte vniuersali, quod difficile est eam inuenire: &amp; inuen 
+        <lb ed="#Ba" n="55"/>ta omnino incerta est &amp; raro vtilis. sed haec scientia certissima est, vt habitum est supra: &amp; vtilissima- 
+   <!--114.xml-->
+        <pb ed="#Ba" n="50-r"/>
+        <lb ed="#Ba" n="1"/>vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e202">
+        ⁋ Quarto sic. sicut se habet subiectum ad subiectum: &amp; scientia ad scientiam. 
+        <lb ed="#Ba" n="2"/>ied subiectum huius scientiae non se habet vt vniversale respectu subiectorum aliarum scientiarum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e208">
+        <lb ed="#Ba" n="3"/>⁋ Quinto sic. <name ref="#Aristotle">Philosophus</name> in primo Posteriru. vult quod scientia particularis est qua cognoscitur aliquid  
+        <lb ed="#Ba" n="4"/>secudum ipsum. vniversalis vero quando secundum aliud. est enim particularis cognitio de Chorisco musico cum co- 
+        <lb ed="#Ba" n="5"/>gnoscimus ipsum esse musicum. vniuersalis vero cum cognoscimus hominem esse musicum. sed ista 
+        <lb ed="#Ba" n="6"/>scientia docet cognoscere vnumquodque secundum ipsum in particulari: &amp; secundum aliud in generali: quia 
+        <lb ed="#Ba" n="7"/>circuit omnia: si ergo dicatur vniversalis, debet dici &amp; particularis simul. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e225">
+        ⁋ Sexto sic. per id habet vnumquodque  
+        <lb ed="#Ba" n="8"/>distigui ab alio per quod in se habet esse. scientia autem quod sit scientia habet a subiecto. ergo &amp; quod ab alia distin 
+        <lb ed="#Ba" n="9"/>guitur. sed subiectum huius scientiae quod deus est, neque est vniuersale neque particulare, vt infra vide- 
+        <lb ed="#Ba" n="10"/>bitur. ergo neque vniuersalis neque particularis debet dici. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e234">
+        <lb ed="#Ba" n="11"/>⁋ Dicendum ad hoc: quod illa scientia est prima &amp; vniuersalis simpliciter respectu o- 
+        <lb ed="#Ba" n="12"/>mnium scientiarum, cuius est considerare primum ens simpliciter. Secundum quod dicit Philosophus. vi. metaphy 
+        <lb ed="#Ba" n="13"/>sicae. Si aliqua substantia immobilis fuerit, illa erit prima: &amp; scientia eius erit prima &amp; vniversalis. Et huius 
+        <lb ed="#Ba" n="14"/>ratio est: quia ad illam scientiam ad quam pertinet consideratio primi in aliquo genere, ad illam eandem 
+        <lb ed="#Ba" n="15"/>pertinet consideratio naturae simpliciter illius generis, vt cuius est considerare de ente primo &amp; de 
+        <lb ed="#Ba" n="16"/>ente simpliciter quocunque inquantum est ens. secundum quod dicitur in iiii. eiusdem. Vnius scientiae est con 
+        <lb ed="#Ba" n="17"/>siderare de ente &amp; de re quae est entis per se. ens enim dicitur multipliciter &amp; non aequoce: sed attribui 
+        <lb ed="#Ba" n="18"/>tur vni naturae. Quare cum haec scientia considerat de ente primo quid est deus: et propter illud et per at 
+        <lb ed="#Ba" n="19"/>tributionem ad illud considerat de quolibet alio ente, vt infra videbitur: 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e256">
+        ⁋ Absolute dicendum quod ista 
+        <lb ed="#Ba" n="20"/>scientia debet dici vniuersalis, &amp; magis vniversalis quam metaphysica: inquantum ex consideratione sua in primo prim 
+        <lb ed="#Ba" n="21"/>cipio potest quantum est de se pertingere ad particularia omnium rerum consideranda, inquantum pertinent ad istam 
+        <lb ed="#Ba" n="22"/>scientia per attributionem ad ipsum primum, vt dictum est supra. Metaphysica autem per ea quae considerat de pri 
+        <lb ed="#Ba" n="23"/>mo principio, non potest attingere ad consideranda de entibus aliis nisi communia &amp; generalia conuenientia 
+        <lb ed="#Ba" n="24"/>eis inquantum entia sunt: non autem particularia: quia tunc supfluerent scientiae philosophicae particula- 
+        <lb ed="#Ba" n="25"/>res: et non esset nisi vnica scientia philosophica, metaphysica scilicet: sicut non est nobis nisi vnica scientia theo 
+        <lb ed="#Ba" n="26"/>logica, vt dictum est supra. Nec refert in aliquo quantum ad scientiae vniversalitatem causandum siue scientia ipsa 
+        <lb ed="#Ba" n="27"/>quae vniversalis dicenda est, sit de ente simpliciter vt de subiecto sub quo continetur ens primum, siue solum 
+        <lb ed="#Ba" n="28"/>sit de ente primo vt de subiecto: et alia considerat vt materialia quaedam attributa subiecto. quod con 
+        <lb ed="#Ba" n="29"/>tingit in hac scientia, vt infra videbitur loquendo de subiecto eius, quoniam vtroque modo consideratio vniversalis 
+        <lb ed="#Ba" n="30"/>est de toto ente: licet alio &amp; alio modo, vt videbitur loquendo de subiecto huius scientiae. Et huius pro 
+        <lb ed="#Ba" n="31"/>batio est illud quod dicit <name ref="#Aristotle">Philosophus</name> in. vi. metaphysicae: quod si non esset hic alia substantia a substantiis na 
+        <lb ed="#Ba" n="32"/>turalibus, tunc prima philosophia &amp; scientia vniversalis esset scientia naturalis. Et hoc ideo: quia tunc substantia natura 
+        <lb ed="#Ba" n="33"/>lis esset primum ens cui attribuerentur omnia alia entia. scilicet accidentia, quae entia dicuntur per attributio- 
+        <lb ed="#Ba" n="34"/>nem quam habent ad substantiam, vt dicit. 4. metaphysicae scilicet quia sunt dispositio entis quod est substantia 
+        <lb ed="#Ba" n="35"/>vt dicit in septimo. &amp; ideo naturalis philosophia considerans de substantia naturali necesse haberet con 
+        <lb ed="#Ba" n="36"/>siderare de ente simpliciter inquantum est ens. Propter quod quidam antiqui naturales non opinantes aliquam 
+        <lb ed="#Ba" n="37"/>substantiam esse nisi substantiam naturalem mobilem &amp; tramnsmutabilem, intromiserunt se ad determinandum  
+        <lb ed="#Ba" n="38"/>de natura entis simpliciter, qui tamen errabant, vt dicit in. 4. metaphysicae. cum sit aliqua substantia ma-  
+        <lb ed="#Ba" n="39"/>gis alta substantiis naturalibus scilicet illa quae est prima et principium omnium entium. Et tamen constat quod  
+        <lb ed="#Ba" n="40"/>licet naturalis philosophia esset prima philosophia, &amp; non esset nisi substantia naturalis: quod non esset 
+        <lb ed="#Ba" n="41"/>de subiecto alio quam de corpore mobili: cum non nisi de diuersis partibus corporis mobilis determinaretur 
+        <lb ed="#Ba" n="42"/>in diuersis partibus philosophiae naturalis: sicut et modo determinatur. et forte non diceretur scientia na 
+        <lb ed="#Ba" n="43"/>turalis scientia vniuersalis nisi pro prima eius parte quae est scientia physicorum: quae modo est scientia vniuer 
+        <lb ed="#Ba" n="44"/>salis: et canon vniversalis omnium scientiarum naturalium: quia de principiis vniuersalibus primi corporis mo 
+        <lb ed="#Ba" n="45"/>bilis et motus: &amp; tunc esset scientia vniversalis considerando de eisdem, et cum hoc de principiis entis simpliciter: quia 
+        <lb ed="#Ba" n="46"/>substantia naturalis esset ens primum: sicut nunc metaphysica considerat de prima substantia et de 
+        <lb ed="#Ba" n="47"/>ente simpliciter. Vnde et quidam adhuc solebant dicere quod non ens in communi est subiectum metaphysi- 
+        <lb ed="#Ba" n="48"/>cae: sed ens primum: et quod non tamquam de principali subiecto aut partibus eius considerat de ente in commu- 
+        <lb ed="#Ba" n="49"/>ni aut de aliis entibus ab ente primo: sed solum per quandam attributionem aliorum entium ad ens 
+        <lb ed="#Ba" n="50"/>primum: sicut currit consideratio istius scientiae, vt infra videbitur. Et quod metaphysicus non considerat de ente in  
+        <lb ed="#Ba" n="51"/>coni nisi propter ens primum, manifeste patet ex dictis Philosophi iam recitatis ex. 4. et. 4. meta. Vnde &amp; in. &amp;. meta. il 
+        <lb ed="#Ba" n="52"/>lam scientiam diuinam vocat, quasi sentiat eam esse de deo vt de principali subiecto, non solum vt de parte nobi- 
+        <lb ed="#Ba" n="53"/>liori subiecti, probando per hoc quod caeteris sit nobilior, dicens. Scientia nobilis debet esse nobilis gene 
+        <lb ed="#Ba" n="54"/>ris. quod genus ad literam retorquet ibi ad nobilitatem entis primi quod deus est, propter quod diuina 
+        <lb ed="#Ba" n="55"/>appellatur. Quid si sic esset, nihilominus dicitur metaphysica scientia vniuersalis propter vniuersalitatem 
+   <!--115.xml-->
+        <pb ed="#Ba" n="50-v"/>
+        <lb ed="#Ba" n="1"/>considerationis non subiecti. Quamquam ergo theologia non sit nisi de solo deo vt de subiecto simplicissimo: quia 
+        <lb ed="#Ba" n="2"/>tamen propter ipsum considerat generaliter de ente quolibet, vt infra dicetur, bene potest esse scientia vniversalis. licet enim sit 
+        <lb ed="#Ba" n="3"/>determinati generis quantum ad principale subiectum suum: non tamen est determinati generis quantum ad materiam 
+        <lb ed="#Ba" n="4"/>quo ad alia entia quae considerat circa subiectum: &amp; cum hoc etiam vniversalitas quodammodo pot ei attribui propter vniversali 
+        <lb ed="#Ba" n="5"/>tatem subiecti: non in praedicando: sed in cognoscendo: quia ipse deus est ratio perfectae cognitionis omnium: quia in se ratio 
+        <lb ed="#Ba" n="6"/>nes formales omnium continet. propter quod etiam ista scientia de deo vnica est &amp; simplicissima, etiam ad omnium 
+        <lb ed="#Ba" n="7"/>particularia cognoscenda se extendens: inquantum se habet per attributionem ad subiectum eius, vt dictum 
+        <lb ed="#Ba" n="8"/>est supra. Hinc dicit Diony. ca. vii. de di. no. Deus laudatur a sacris eloquiis non solum quia &amp; rationis &amp; 
+        <lb ed="#Ba" n="9"/>intellectus &amp; sapientiae est largitor: sed quia omnium causas in seipso vniformiter praeambiuit. &amp; infra 
+        <lb ed="#Ba" n="10"/>Simpla &amp; vere exins veritas circa quam vt puram &amp; non errantem scientiam diuina fides est vnicum creden 
+        <lb ed="#Ba" n="11"/>tium fundamentum eos collocans veritati: &amp; eis veritatem incredibilem incommutabilem simplam veri- 
+        <lb ed="#Ba" n="12"/>tatis scientiam habentibus credulis. Ipsa enim est scientia adunatrix cognoscentium &amp; cognitorum. &amp; 
+        <lb ed="#Ba" n="13"/>infra. lgitur diuinae sapientiae principes duces pro veritate moriuntur omni die testimonium phibentes, vt 
+        <lb ed="#Ba" n="14"/>est consequens &amp; verbo omnino &amp; opere vnitae propter christianos verae scientiae omnibus ipsam esse &amp; lim 
+        <lb ed="#Ba" n="15"/>pliciorem &amp; digniorem: magis autem esse ipsam solam veram &amp; vnam &amp; simplam diuinam scientiam 
+        <lb ed="#Ba" n="16"/>ldem in mystica theologia. i. ca. Hic diuinus Barptolemaeus ait: et multam esse theologiam &amp; minimam. mi 
+        <lb ed="#Ba" n="17"/>hi videtur supnaturalis intellectus: quia &amp; multiloqua est optima omnium causa &amp; breuiloqua simul: &amp; 
+        <lb ed="#Ba" n="18"/>sine verbo. &amp; hoc iuxta illud quod infra determinabitur de eius perfectione: &amp; omnium attributione ad ipsam. Et 
+        <lb ed="#Ba" n="19"/>quod dicit de di. no. ca. v. loquens de prima causa omnium. Omnium est vt causalis omnium: &amp; in ipso omnia 
+        <lb ed="#Ba" n="20"/>principia omnes fines omnes conclusiones omnia existentia coambiens &amp; praehabens &amp;c. Vbi post multa circa hoc 
+        <lb ed="#Ba" n="21"/>partractata in fine dicit. Per hoc proportionali scientia in quantum omnium quantum potentes sumus, camm ascenda- 
+        <lb ed="#Ba" n="22"/>mus. Omnia ergo huic existentia secundum vnam excellentem scientiam referendum. Propter quod iuxta di 
+        <lb ed="#Ba" n="23"/>ctum Philosophi in primo metaphysicae, dea scientiarum merito nuncupatur. vt enim dicit glos. interius super leu. ii. 
+        <lb ed="#Ba" n="24"/>de oblationibus. Dona sancta est omnis boni scientia: sed sancta sanctorum quae de dei scientia disputat. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e396">
+        <lb ed="#Ba" n="25"/>⁋ Per haec patet ad argumentum in contrarium: Dicendo quod scientia vniuersalis non  
+        <lb ed="#Ba" n="26"/>est alicuius generis determinati quo ad considerationem: quia de omnibus debet considerare. Quia tamen sit ge 
+        <lb ed="#Ba" n="27"/>neris determinati quo ad suum subiectum principale: hoc non obest vniuersalitati eius: &amp; maxime quod  
+        <lb ed="#Ba" n="28"/>cum hoc quod est sic determinatum, quod est vnius naturae simplicissimae &amp; minime conicabilis, vt infra dicetur: ha 
+        <lb ed="#Ba" n="29"/>bet respectu omnium aliorum rationem vniversalis in hoc quod est tanquam prima ratio cognoscendi omnia verissime continens il 
+        <lb ed="#Ba" n="30"/>se formales perfectiones in actu: non solum in potentia: sicut genus vniversale continet in se perfectiones specie- 
+        <lb ed="#Ba" n="31"/>rum. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e414">
+        ⁋ Ad secundum quod nulla alia scientia vtitur principiis huius scientiae aut supponit ea: Dicendum quod  
+        <lb ed="#Ba" n="32"/>licet theologia vere debeat dici scientia vniuersalis, vt dictum est, aliqua tamen est ratio vniuersalitatis me 
+        <lb ed="#Ba" n="33"/>taphysicae &amp; non huius scientiae propter quam aliae scientiae vtuntur principiis illius non autem istius. Ista ei vniversalis 
+        <lb ed="#Ba" n="34"/>est propter considerationis generalitatem: non propter aliquam sibi realem communitatem vniuocam vel analo- 
+        <lb ed="#Ba" n="35"/>gam, quali communitate subiecti metaphysica dicitur scientia vniversalis, vt dictum est. Et ideo illa condi-  
+        <lb ed="#Ba" n="36"/>tio quae conuenit vniversalitati metaphysicae ratione communitatis sui subiecti: non oportet quod huic scientiae con- 
+        <lb ed="#Ba" n="37"/>ueniat: licet vniversalis sit. Talis conditio est illa quod aliae scientiae vtuntur principiis metaphysicae. Illa enim prin 
+        <lb ed="#Ba" n="38"/>cipia prima metaphysicae sequuntur subiecti communitatem vt ens inquantum ens est: &amp; ideo oportet quod 
+        <lb ed="#Ba" n="39"/>sequantur quodlibet ens subiectum in quacumque scientia particulari, &amp; vtantur eis secundum quantitatem sibi 
+        <lb ed="#Ba" n="40"/>sufficientem: vt dicitur. iiii. metaphysicae. hoc est secundum quod aptantur ad subiectum, proprium cuiuslibet scien 
+        <lb ed="#Ba" n="41"/>tiae. Quare cum in hac scientia licet sit vniversalis non est subiectum conmune quod arctatur per subiecta, propria scien 
+        <lb ed="#Ba" n="42"/>tiarum particularium, non oportet quod propriis principiis huius scientiae communicent aliae scientiae contentae sub 
+        <lb ed="#Ba" n="43"/>ipsa. dico vt eis vtantur ad probandas suas conclusiones. omnes tamen eis debent vti tanquam regulis: quibus omnem 
+        <lb ed="#Ba" n="44"/>suam inuestigationem debent regulare approbando conuenientia: &amp; respuendo inconuenientia. &amp; 
+        <lb ed="#Ba" n="45"/>propter hoc ista scientia quo ad eius principia prima cognoscenda primo ante omnes alias est ad-  
+        <lb ed="#Ba" n="46"/>discenda vt sit prima intentio nosse istam scripturam: &amp; si non plene intellectam saltem non omnino inco- 
+        <lb ed="#Ba" n="47"/>gnitam habere. nam caeteras securius leget, vt dictum est supra secundum <name ref="#Augustine">Augustinus</name> secundo de doc. 
+        <lb ed="#Ba" n="48"/>Christianua 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e458">
+        ⁋ Ad tertium quod ars vniuersalis difficilis est ad inueniendum &amp; raro vtilis: Dicendum quod ars di 
+        <lb ed="#Ba" n="49"/>citur vniversalis: quia non est scientia nisi de vniuersali vt de subiecto. sic enim omnis scientia philosophica diceretur vniuer 
+        <lb ed="#Ba" n="50"/>salis: non quia considerat de universali, vt dicitur primo Poster. sed quia habet vniuersalem considerationem 
+        <lb ed="#Ba" n="51"/>Quod potest esse dupliciter. vel quia considerat de pluribus in vniversali secundum communia principia &amp; proprietates 
+        <lb ed="#Ba" n="52"/>illorum plurium quae in aliis scientiis particularibus habent considerari singula in singulis scientiis propriis secundum princi- 
+        <lb ed="#Ba" n="53"/>pia, propria et proprietates. vniversalquia considerat de philosopbus i generali secundum principia communia et propria et secundum proprietates 
+        <lb ed="#Ba" n="54"/>cones et proprias singulorum. Primomodo metaphysica est scientia vniversalis, et sciens in ipsa proprie dicitur sciens vniversalis: quia vniversalia et communia 
+   <!--116.xml-->
+        <pb ed="#Ba" n="51-r"/>
+        <lb ed="#Ba" n="1"/>singulorum nouit: non autem propria. &amp; de scientia vniuersali non sic loquitur <name ref="#Aristotle">Philosophus</name> in primo Top. sed in. i 
+        <lb ed="#Ba" n="2"/>Poster. vbi probat quod demonstratio vniversalis potior est quam particularis, ea potissimum ratione quod vniuersale est ma 
+        <lb ed="#Ba" n="3"/>gis causa &amp; propter quid: eo quod est prima causa: quam aliquod aliorum &amp; particularium sub ipso: &amp; ideo 
+        <lb ed="#Ba" n="4"/>est terminus in quo cessat interrogatio causae. vt cuius causa venit: vt accipiat argentum: hoc autem qua  
+        <lb ed="#Ba" n="5"/>tenus reddat cui debuit: hoc autem est vt non iiuste agat. sic procedentes cum non est amplius propter aliud  
+        <lb ed="#Ba" n="6"/>dicimus finem venire, &amp; cognoscere magis propter quid venit. Scientia vero vniuersali secundo modo sciens 
+        <lb ed="#Ba" n="7"/>dicitur generalis: quia nouit de vnoquoque non solum vniversalia: sed &amp; particularia. Et talis scientia vni- 
+        <lb ed="#Ba" n="8"/>uersalis aut est humana, et humana inuestigatione habita: aut est diuina &amp; diuina reuelatione con 
+        <lb ed="#Ba" n="9"/>scripta. De scientia vniversali primo modo loquitur <name ref="#Aristotle">Philosophus</name> ad literam: in primo Topi. Qualis esset illa methodus 
+        <lb ed="#Ba" n="10"/>vna quae doceret generaliter terminare omne genus problematis. talis enim methodus difficillima es 
+        <lb ed="#Ba" n="11"/>set ad inueniendum: quia difficillimum est ex principiis vniversalbus elicere conclusiones singulorum particula- 
+        <lb ed="#Ba" n="12"/>res incipiendo semper a primis: &amp; hoc in eadem scientia. Sed si ad determinandum particularia circa vnum 
+        <lb ed="#Ba" n="13"/>quodque proponantur propria in singulis methodis principia, tunc facilius est vnumquodque prosequi. Vnde sub 
+        <lb ed="#Ba" n="14"/>dit ibidem. Propria autem in vnoquoque determinatorum generum assignata methodo, facile ex his quae cir- 
+        <lb ed="#Ba" n="15"/>ca vnumquodque convenientibus exitus propositi. Esset etiam homini talis scientia circa particularia, incerta:  
+        <lb ed="#Ba" n="16"/>quia non habetur certa scientia nisi ex principiis propriis expressis, quae non determinaret illa scientia vniversalis 
+        <lb ed="#Ba" n="17"/>sicut ea determinant diuersae scientiae particulares. Esset praeterea talis scientia humana homini raro vti- 
+        <lb ed="#Ba" n="18"/>lis: quia talis scientia esset quasi infinitorum sub vno communi confuso contentorum. Infinitas au-  
+        <lb ed="#Ba" n="19"/>tem impedit cognitionem, quae est fructus &amp; vtilitas scientiae. Ista autem confusio &amp; infinitas eui 
+        <lb ed="#Ba" n="20"/>tatur quando quodlibetur genus scibilium consideratur in propria scientia circa subiectum vniuersale pro 
+        <lb ed="#Ba" n="21"/>prium. Et ideo dicit <name ref="#Aristotle">Philosophus</name> primo Poster,m quod quaecumque scientia secundum partes in infinita cadit. vni 
+        <lb ed="#Ba" n="22"/>uersale autem in simplex. Infinita autem secundum quod sunt infinita non sunt scibilia: sed secundum quod sunt fi- 
+        <lb ed="#Ba" n="23"/>nita. De scientia vero vniuersali generali cognitione singulorum: non solum quo ad communia singu- 
+        <lb ed="#Ba" n="24"/>lorum: sed etiam quo ad propria ex diuina reuelatione conscripta, non potest se extendere dictum Philosophi 
+        <lb ed="#Ba" n="25"/>quia non considerat singula ex consideratione alicuius vniuersalis quod continet in potentia ea quae sunt parti- 
+        <lb ed="#Ba" n="26"/>cularium: sicut consideraret metaphysica si esset vna scientia omnium: &amp; non essent diuersae scientiae 
+        <lb ed="#Ba" n="27"/>particulares sub ipsa: quae idcirco difficilis esset &amp; incerta: &amp; raro vtilis vt dictum est de vniversali methodo: 
+        <lb ed="#Ba" n="28"/>sed considerat singula ex consideratione alicuius vnitatis summae &amp; simplicissimae, quae actu in se 
+        <lb ed="#Ba" n="29"/>continet rationes omnium scibilium circa particularia scibilia: ex cuius cognitione facillime, certissi- 
+        <lb ed="#Ba" n="30"/>me, &amp; vtilissime omnia alia cognoscuntur: sicut cognoscentur clara visione in patria: &amp; sicut hic co- 
+        <lb ed="#Ba" n="31"/>gnoscuntur ex ista scientia quantum pertinet ad eam per attributionem ad eius subiectum, vt dictum est 
+        <lb ed="#Ba" n="32"/>supra. Ex quo plane patet quomodo ista scientia debet dici vniuersalis: immo generalis: quod non potest 
+        <lb ed="#Ba" n="33"/>dici metaphysica: &amp; sic in vniuersalitatis ratione multum excedit eam, quantum excedit vniuersali- 
+        <lb ed="#Ba" n="34"/>tas cognitionis qua cognoscitur vnumquodque non solum inquantum ens est: sed etiam inquantum tale ens 
+        <lb ed="#Ba" n="35"/>est: vniuersalitatem cognitionis qua cognoscitur solum inquantum ens est, non autem inquantum tale ens est. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e563">
+        ⁋ Ad  
+        <lb ed="#Ba" n="36"/>quartum dicendum quod subiectum huius scientiae non est vniuersale respectu aliarum scientiarum est 
+        <lb ed="#Ba" n="37"/>tamen consideratio eius vniuersalis, imo generalis super omnia determinata in aliis scientiis. &amp; hoc suffi- 
+        <lb ed="#Ba" n="38"/>cit ad vniuersalitatem scientiae, vt dictum est. Et cum hoc etiam licet subiectum huius scientiae non  
+        <lb ed="#Ba" n="39"/>sit vniuersale praedicatione de pluribus vniuoce vel analogice: sicut commune est ens quod est subie- 
+        <lb ed="#Ba" n="40"/>ctum metaphysicae, &amp; ad deum &amp; ad creaturam, vt dicit Auicen. i. metaphysicae: est tamen vniversale exemplaritate 
+        <lb ed="#Ba" n="41"/>prioritate &amp; causalitate, ratione qua excedit ipsum subiectum metaphysicae, nec continetur sub ip- 
+        <lb ed="#Ba" n="42"/>so, vt dictum est. Vnde dicitur vniuersale bonum: vniuersale potens &amp; huiusmodi. Sic etiam pri- 
+        <lb ed="#Ba" n="43"/>ma principia communia omnium scientiarum dicuntur vniuersalia: quia sunt principia &amp; simpli- 
+        <lb ed="#Ba" n="44"/>cissima virtute, qua in omnia alia principia singularum scientiarum descendunt: non autem aliqua  
+        <lb ed="#Ba" n="45"/>communitate praedicationis. &amp; sufficit ad hoc talis vniuersalitas, vt scientia dicatur vniuersalis. vni 
+        <lb ed="#Ba" n="46"/>uersalitas enim primitatis in subiecto &amp; primis principiis est principalis causa &amp; ratio propter quam 
+        <lb ed="#Ba" n="47"/>scientia aliqua dicitur vniuersalis, non autem aliqua conmunitas praedicationis, nisi secundario, 
+        <lb ed="#Ba" n="48"/>vt dictum est, inquantum scientia considerans primum &amp; optimum in aliquo genere debet consi 
+        <lb ed="#Ba" n="49"/>derare naturam illius generis simpliciter. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e596">
+        ⁋ Ad quintum quod haec scientia est simul vniuersalis &amp; par 
+        <lb ed="#Ba" n="50"/>ticularis: quias in ea aliquid cognoscitur secundum ipsum: &amp; secundum aliud: Dicendum quod co- 
+        <lb ed="#Ba" n="51"/>gnitio secundum ipsum &amp; secundum aliud, alio modo dicitur scientia &amp; particularis, quam accipiantur vniversale &amp; par 
+        <lb ed="#Ba" n="52"/>ticulare in proposito. illa enim vniversalis &amp; particularis scientia est eiusdem circa vniversale &amp; proprium particulare 
+        <lb ed="#Ba" n="53"/>quod includitur in ipso vniuersali: &amp; ideo non diuersificant scientiam: sed sunt secundum eandem scientiam 
+        <lb ed="#Ba" n="54"/>&amp; differunt solum in hoc quod potior est illa quae est vniversalis quam illa quae est particularis. secundum quod probat ibi Philoso 
+        <lb ed="#Ba" n="55"/>phus, quod demonstratio vniuersalis qua cognoscitur quod omnis triangulus habet tres: potior est quam parti 
+   <!--117.xml-->
+        <pb ed="#Ba" n="51-v"/>
+        <lb ed="#Ba" n="1"/>cularis qua cognoscitur quod ifosceles habet tres: quia vt dicit ibidem, qui tale vniuersale cognoscit: 
+        <lb ed="#Ba" n="2"/>cognoscit &amp; particulare, non econuerso. Isto autem modo quo loquimur hic de scientia vniversali &amp; particu 
+        <lb ed="#Ba" n="3"/>lari:, ipsa est diuersorum circa idem: quorum vnum non includit in sua cognitione alterum: vt sunt co 
+        <lb ed="#Ba" n="4"/>gnitio qua cognoscitur aliquid inquantum ens simpliciter, &amp; inquantum est tale ens. vnde &amp; diuer 
+        <lb ed="#Ba" n="5"/>fificant scientias habitas humana inuentione: quia alia sunt principia prima quibus cognoscitur de aliquo quia est 
+        <lb ed="#Ba" n="6"/>enis simpliciter: &amp; alia quibus cognoscitur quod est tale ens, homo vel asinus. Scientiam autem habitam diuina inspiratione 
+        <lb ed="#Ba" n="7"/>non diuersificant: quia in illa idem est principium cognoscendi omnia secundum rationem vniversalis &amp; secundum ra 
+        <lb ed="#Ba" n="8"/>tionem particularis, quod est deus: &amp; hoc non solum aperta visione in patria: sed in praesenti ad cogno  
+        <lb ed="#Ba" n="9"/>scendum omnia inquantum attribuuntur subiecto huius scientiae, sufficientis virtutis est ipsa, siquis 
+        <lb ed="#Ba" n="10"/>sufficeret virtutem principiorum eius illustratione diuinitus sibi data ad illa extendere: Non ta-  
+        <lb ed="#Ba" n="11"/>men dicendum quod ideo haec scientia dicenda est simul vniuersalis &amp; particularis: sed tantum vniversalis: quia non  
+        <lb ed="#Ba" n="12"/>dicitur scientia particularis quia considerat rationem naturae ipsius particularis, secundum quam  
+        <lb ed="#Ba" n="13"/>est particulare: sed quia considerat ipsam praecise non simul considerando in ipsa rationem naturae 
+        <lb ed="#Ba" n="14"/>vniuersalis: sicut considerant scientiae particulares sub metaphysica. Vnde ista scientia est quodammodo 
+        <lb ed="#Ba" n="15"/>ita vniversalis quantum esset metaphysica si simul cum sua consideratione vniuersali consideraret quicquid  
+        <lb ed="#Ba" n="16"/>considerant scientiae particulares sub ipsa: &amp; esset solum vna scientia philosophica, sicut est tantum vna theo 
+        <lb ed="#Ba" n="17"/>logica, vel sicut est vna scientia vniuersalis de omni problemate determinate, considerando principalitur problema 
+        <lb ed="#Ba" n="18"/>de definitione in quo rationes generales aliorum problematum incidunt: licet habeant sua, propria 
+        <lb ed="#Ba" n="19"/>principia per quae terminantur diuersimode: propter quod de ipsis fiunt diuersae methodi. vt dicitur in  
+        <lb ed="#Ba" n="20"/>primo Top. &amp; expositum est supra. Propter quod ibi haec diuersitas diuersificat methodos: non autem 
+        <lb ed="#Ba" n="21"/>consimilis diuersitas diuersificat hic scientiam. Et est conuenientius exemplum quod potest assignari de 
+        <lb ed="#Ba" n="22"/>vniversalitate huius scientiae: quia in deo qui est subiectum huius scientiae, concurrunt rationes omnium aliorum  
+        <lb ed="#Ba" n="23"/>entium. Sicut in problemate de definitione quod esset subiectum illius scientiae vniuersalis topicae, con 
+        <lb ed="#Ba" n="24"/>currunt rationes aliorum problematum. 
+      </p>
+      <p xml:id="vn58an-d1e631-d1e668">
+        ⁋ Ad sextum quod deus neque est vniversale neque particulare: ergo pro 
+        <lb ed="#Ba" n="25"/>pter ipsum scientia ista non debet dici neque vniuersalis neque particularis: Dicendum quod scientia habet esse 
+        <lb ed="#Ba" n="26"/>scientia non solum a ratione sui subiecti, secundum id quid est: sed etiam a ratione modi considerandi  
+        <lb ed="#Ba" n="27"/>ipsum. Vnde ex solo modo considerandi idem diuersimode, bene habentur diuersae scientiae, vt dictum 
+        <lb ed="#Ba" n="28"/>est supra. Et sic ista scientia non solum rationem scientiae vnius habet ratione vnitatis ipsius subiecti, quod ne 
+        <lb ed="#Ba" n="29"/>quod vniuersale est neque particulare: sed &amp; ratione vnius modi considerandi ipsum scilicet ratione qua est 
+        <lb ed="#Ba" n="30"/>principium &amp; ratio omnium entium: &amp; in hoc habens rationem vniuersalis, tum quia vniverslter de omni- 
+        <lb ed="#Ba" n="31"/>bus considerat vt tali principio attribuuntur, tum quia tale principium inquantum huiusmodi habet ra 
+        <lb ed="#Ba" n="32"/>tionem vniuersalis exemplaritate: licet non praedicatione, qua in se omnia alia in actu quodammodo con 
+        <lb ed="#Ba" n="33"/>tinet: non solum in potentia: sicut continet suum particulare vniuersale per praedicationem, vt dictum 
+        <lb ed="#Ba" n="34"/>est supra. Vnde ex praedictis possumus considerare triplicem modum scientiae vniversalis. Vno enim modo di-  
+        <lb ed="#Ba" n="35"/>citur scientia vniversalis quando aliquid scitur de vniuersali subiecto vniuersaliter sumpto per causam primam. 
+        <lb ed="#Ba" n="36"/>Secundum quem modum determinat <name ref="#Aristotle">Philosophus</name> in primo Poster, quod demonstratio vniversalis potior est parti 
+        <lb ed="#Ba" n="37"/>culari: quia tunc magis scimus quando scimus vniversale: quam quando scimus particulare: vt quod omnis trian- 
+        <lb ed="#Ba" n="38"/>gulus habet tres, quam quod omnis isosceles. &amp; hoc modo scientia vniuersalis in actu includit scientiam particu 
+        <lb ed="#Ba" n="39"/>larem. Alio modo dicitur scientia vniversalis qua scitur aliquid in vniversali de subiecto communi &amp; vniuersali: vt qua  
+        <lb ed="#Ba" n="40"/>fcitur aliquid de aliquo homine secundum quod est animal: non autem secundum quod est homo. tali modo metaphysica est scien 
+        <lb ed="#Ba" n="41"/>tia vniversalis: &amp; includit talis scientia vniversalis particularem potentia &amp; virtute: non autem actu. &amp; talis est ad  
+        <lb ed="#Ba" n="42"/>huc potior scientia particulari: quia scit per prima &amp; altissima principia: quibus maxime contingit 
+        <lb ed="#Ba" n="43"/>scire habentem vniuersalem scientiam, vt dicit <name ref="#Aristotle">Philosophus</name> in primo metaphysicae. Tertio modo dici 
+        <lb ed="#Ba" n="44"/>tur vniuersalis scientia, scientia generalis qua sciuntur singula &amp; in vniuersali &amp; in particulari quantum per 
+        <lb ed="#Ba" n="45"/>tinet ad illam scientiam. &amp; talis scientia vniuersalis est theologia: &amp; esset sic talis scientia topica, si vnica me 
+        <lb ed="#Ba" n="46"/>thodo doceret omne genus problematis, vt expositum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

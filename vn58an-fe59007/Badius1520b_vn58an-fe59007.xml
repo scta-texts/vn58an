@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="215-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe59007"> <!-- alias="vn58an-a67q1" -->
+      <head xml:id="vn58an-fe59007-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe59007-d1e107">
+        <lb ed="#Bb" n="47"/>CIrca primum arguitur quod non oportet quod relata relatione communi sint alia &amp; alia 
+        <lb ed="#Bb" n="48"/>inter se, Primo sic. omnes relationes communes secundum superius determina- 
+        <lb ed="#Bb" n="49"/>ta causantur in relatis ab vno &amp; multo: puta idem aequale &amp; simile ab vno: &amp; 
+        <lb ed="#Bb" n="50"/>contraria illorum a multo. Multum autem causatur ab vno: quare &amp; omnis 
+        <lb ed="#Bb" n="51"/>relatio communis originaliter causatur ab vno, quia quicquid est causa causae est causa 
+        <lb ed="#Bb" n="52"/>causati. Sed vnum non requirit ea in quibus est: cuiusmodi sunt ipsa relata re 
+        <lb ed="#Bb" n="53"/>latione coni esse alia abinuicem: quare nec relationes ab vno causatae requirunt relata per illas esse abinuicem alia. 
+        <lb ed="#Bb" n="54"/>
+      </p>
+      <p xml:id="vn58an-fe59007-d1e127">
+        ⁋ Secundo sic. Si in omni relatione communi relata essent alia inter se abinuicem, tunc nihil omnino referretur relatione con 
+   <!--446.xml-->
+        <pb ed="#Bb" n="216-r"/>
+        <lb ed="#Bb" n="1"/>muni ad seipsum: quia ipsum &amp; aliud ex opposito distinguuntur. consequens falsum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe59007-d1e136">
+        <lb ed="#Bb" n="2"/>⁋ In contrarium est: quod in omni relatione sunt relatum &amp; id ad quod relatum est, quod similiter vice 
+        <lb ed="#Bb" n="3"/>versa est relatum ad id quod per ipsum relatum est. quod autem refertur &amp; id ad quid refertur necessario 
+        <lb ed="#Bb" n="4"/>sunt aliud &amp; aliud. iuxta definitionem relatiuorum: quae dicit quod relatiuorum esse est ad aliud se ha 
+        <lb ed="#Bb" n="5"/>bere. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe59007-d1e148">
+        <lb ed="#Bb" n="6"/>⁋ Dico quod prout procedit vltima ratio, &amp; vt amplius est explicatum supra in pri- 
+        <lb ed="#Bb" n="7"/>ma quaestione de relationibus communibus in comparatione ad sua principia causatiua, in omni re  
+        <lb ed="#Bb" n="8"/>latione &amp; communi &amp; propria necessario sunt alia &amp; alia: sed hoc vel secundum rem vel secundum rationem. 
+        <lb ed="#Bb" n="9"/>quia quae neutro modo sunt alia inter se: nequaquam sunt relata inter se, aut plura omnino. Si enim ali- 
+        <lb ed="#Bb" n="10"/>quid sit relatum, oportet quod ad aliquid sit relatum, &amp; quod sit relatio qua refertur. Si autem quod est, tantum 
+        <lb ed="#Bb" n="11"/>vnum omnino est: &amp; praeter ipsum non sit aliud re &amp; ratione: non est omnino ad quod refertur: quia 
+        <lb ed="#Bb" n="12"/>saltem alia est ratio relati &amp; eius ad quod refertur. &amp; si non est id ad quod refertur: &amp; ipsum non est relatum. 
+        <lb ed="#Bb" n="13"/>sicut si non sit, nec natum sit esse aliquid praeciabile, nec nummus est aut natus est esse precium: &amp; si non 
+        <lb ed="#Bb" n="14"/>est relatum non est relatio, quia non est relatio nisi referat. 
+        <lb ed="#Bb" n="15"/>
+      </p>
+      <p xml:id="vn58an-fe59007-d1e172">
+        ⁋ Ad primum in oppositum quod omnis relatio communis causatut ab vno quid non re 
+        <lb ed="#Bb" n="16"/>quirit alia esse abinuicem ea in quibus est: cuiusmodi sunt ipsa relata: Dico secundum quod tactum 
+        <lb ed="#Bb" n="17"/>est in quaestione praedicta, hoc verum esse de vno semel accepto &amp; existente singulari seu hoc aliquid  
+        <lb ed="#Bb" n="18"/>Sed ab vno tali sic accepto nulla causatur relatio communis omnino. Non est autem verum de vno 
+        <lb ed="#Bb" n="19"/>pluries accepto &amp; replicato quam est vnum commune ad plura vna singularia contenta sub illo vno comomuni 
+        <lb ed="#Bb" n="20"/>Dico autem plura vel secundum rem, vel secundum rationem, put iam inferius amplius declarabitur. Et de tali vno solum 
+        <lb ed="#Bb" n="21"/>modo verum est quod ad ipsum sequuntur relationes communes: vt idem aequale &amp; simile immediate 
+        <lb ed="#Bb" n="22"/>diuersum inaequale &amp; dissimile mediante multo secundum superius determinata: inquantum scilicet mul- 
+        <lb ed="#Bb" n="23"/>tum procedit ab vno singulari replicato, vt procedit obiectio. Et quia tale vnum postquam replicatum 
+        <lb ed="#Bb" n="24"/>est necessario habet esse in multis: eo quod est vniuersale &amp; comnmune: quod non habet esse in se: sed so- 
+        <lb ed="#Bb" n="25"/>lummodo in singularibus contentis sub illo: &amp; ideo necessario relatio communis requirit relata per il 
+        <lb ed="#Bb" n="26"/>lam esse plura &amp; alia abinuicem. 
+      </p>
+      <p xml:id="vn58an-fe59007-d1e198">
+        ⁋ Ad secundum si relata relatione communi essent alia abinuicem, tunc 
+        <lb ed="#Bb" n="27"/>nihil omnino referretur ad seipsum. &amp;c. Dico quod verum est si essent solummodo alia abinuicem secundum  
+        <lb ed="#Bb" n="28"/>rem: quod non est verum postquam relationi communi sufficit alietas relatorum secundum rationem. Potest enim 
+        <lb ed="#Bb" n="29"/>aliquid a seipso distingui secundum rationem, &amp; bis accipi: &amp; per hoc referri ad seipsum semel acce 
+        <lb ed="#Bb" n="30"/>ptum vt relatum: &amp; semel vt ad quid refertur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="53-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e654"> <!-- alias="vn58an-a7q5" -->
+      <head xml:id="vn58an-d1e654-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e654-Hd1e107" type="question-title">Utrum subalternetur alicui aliarum</head>
+      <p xml:id="vn58an-d1e654-d1e110">
+        <lb ed="#Ba" n="43"/>CIrca quintum arguitur quod scientia theologiae subalternetur alicui alii scientiae. Pri- 
+        <lb ed="#Ba" n="44"/>mo sic. Scientia illa quae habet principia ignota de quibus dicit solum quia est. 
+        <lb ed="#Ba" n="45"/>debet habere scientiam superiorem in qua notificantur quae dicit de eis propter quid. ali 
+        <lb ed="#Ba" n="46"/>ter videretur vt scientia quia: quia ex simpliciter ignotis procederet: &amp; ita non esset vere 
+        <lb ed="#Ba" n="47"/>scientia: quia non est scientia nisi ex notis. primo poster. Scientia illa non est nisi 
+        <lb ed="#Ba" n="48"/>subalternans istam: quia secundum quod dicit <name ref="#Aristotle">Philosophus</name> primo poster. propter 
+        <lb ed="#Ba" n="49"/>quid &amp; quia non differunt per aliam &amp; aliam scientiam nisi quod vna sit sub altera. 
+        <lb ed="#Ba" n="50"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e133">
+        ⁋ Secundo quod subalternetur metaphysicae arguitur sic. Si subiectum est sub subiecto: &amp; scien 
+        <lb ed="#Ba" n="51"/>tia sub scientia. Subiectum theologiae quod deus est, est sub subiecto metaphysicae quod est ens simpliciter 
+        <lb ed="#Ba" n="52"/>ergo &amp; theologia est sub metaphysica: non vt aliqua particularium: quia est de primo ente de quo  
+        <lb ed="#Ba" n="53"/>etiam considerat metaphysica: quae non considerat de subiecto alicuius scientiae particularis. ergo 
+        <lb ed="#Ba" n="54"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e145">
+        ⁋ Tertio sic. videtur quod subalternetur cuilibet alteri, sic. Scientia quae dicit quia de eo quod sumit, 
+   <!--121.xml-->
+        <pb ed="#Ba" n="53-v"/>
+        <lb ed="#Ba" n="1"/>ab altera quae de illo dicit propter quid, subalternatur illi. Scientia ista est huiusmodi respectu cuiuslibet 
+        <lb ed="#Ba" n="2"/>alterius: quia sumit in vsum suum, propria omnium scientiarum quae supponit ab illis a quibus probantur, vt in-  
+        <lb ed="#Ba" n="3"/>fra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e158">
+        ⁋ Contrarium arguitur primo sic. illa scientia quae superior &amp; dignior est respectu o- 
+        <lb ed="#Ba" n="4"/>mnium aliarum, &amp; cui aliae sunt administratiuae, nulli potest esse subalternata: quia scientia subal- 
+        <lb ed="#Ba" n="5"/>ternata inferior est regulata a subalternanteriorum Ista scientia sic se habet respectu cuiuslibet alterius scientiae 
+        <lb ed="#Ba" n="6"/>a vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e167">
+        ⁋ Secundo sic. scientia subalternans semper dicit propter quid eius cuius scientia 
+        <lb ed="#Ba" n="7"/>subalternata dicit quia, vt dictum est: sed nulla alia scientia potest dicere propter quid de articulis fidei, 
+        <lb ed="#Ba" n="8"/>de quibus ista scientia dicit quia: quia sunt supra naturalem rationem, ad quae nulla scientia potest attingere vt 
+        <lb ed="#Ba" n="9"/>infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e176">
+        <lb ed="#Ba" n="10"/>⁋ Ad hoc plana est responsio dicendo quo ad omnes scientias humanas, philosophi- 
+        <lb ed="#Ba" n="11"/>cas scilicet quod ista nulli earum subalternetur, cum ipsa omnes sibi subalternet vt praedeterminatum est: &amp; cum sit 
+        <lb ed="#Ba" n="12"/>principalis super omnes vt infra dicetur, &amp; semper scientia subalternans aliquam principalitatem habet super 
+        <lb ed="#Ba" n="13"/>subalternatam, vt patet in omnibus modis subalternationis. Discurrendo etiam per singulos modos subalterna 
+        <lb ed="#Ba" n="14"/>tionis, patet quod impossibile est istam scientiam alicui subalternari. Non primo modo neque secundo: quia 
+        <lb ed="#Ba" n="15"/>in illis scientia subalternans nouit propter quid &amp; causam, de quo subalternata solum nouit quia. Nunc 
+        <lb ed="#Ba" n="16"/>autem vt argutum est, impossibile est vt humana scientia philosophica. scilicet agnoscat causam, &amp; dicat propter 
+        <lb ed="#Ba" n="17"/>quid eorum quae sunt fidei, de quibus haec scientia dicit quia: quia excedunt naturalem rationem. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e196">
+        ⁋ Specia- 
+        <lb ed="#Ba" n="18"/>liter autem patet quod non subalternatur alicui earum in secundo modo subalternationis, quia ibi subalter 
+        <lb ed="#Ba" n="19"/>natur scientiae cognitiuae scientia operatiua, quae minime est speculatiua aut sapientia. Ista autem scientia ma 
+        <lb ed="#Ba" n="20"/>xime sapientia est, vt praedeterminatum est, &amp; omnino speculatiua, vtinfra determinabitur. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e205">
+        ⁋ Specialiter etiam pa 
+        <lb ed="#Ba" n="21"/>tet quod aliis non subalternatur tertio vel quarto modo, quia non habet subiectum determinabile quod requiritur in  
+        <lb ed="#Ba" n="22"/>illis modis, neque principia sua quibus vtitur habet probata in aliqua aliarum scientiarum: quod requirunt illi 
+        <lb ed="#Ba" n="23"/>duo modi. Et licet haec scientia nulli scientiae humanae philosophicae subalternetur: aliqui tamen volunt quod  
+        <lb ed="#Ba" n="24"/>subalternetur scientiae suphumanae scilicet diuinae vel angelicae. Cuius rationem assignant assumptam in argumen 
+        <lb ed="#Ba" n="25"/>to quodam: quoniam cuiuslibet scientiae principia debent esse per se nota. Hoc enim quantum est de se est de 
+        <lb ed="#Ba" n="26"/>ratione principiorum, quod si non in vna scientia, saltem oportet quod sint per se nota in alia. Aliter enim non  
+        <lb ed="#Ba" n="27"/>essent principia, quia non essent nota omnino. Eadem enim videtur esse distinctio notitiae principiorum ex 
+        <lb ed="#Ba" n="28"/>parte scientiarum, &amp; ex parte scientium. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e226">
+        ⁋ Ex parte autem scientium vt vult <name ref="#Boethius">Boethius</name> , oportet quod id quod est 
+        <lb ed="#Ba" n="29"/>principium, sit per notum, vel omnibus vel doctioribus saltem. quod si neutro modo esset per se notum non esset 
+        <lb ed="#Ba" n="30"/>principium omnino. quod maxime patet ex hoc, quia etiam illud quod est principium doctioribus venit 
+        <lb ed="#Ba" n="31"/>ex illo quod est notum omnibus. Si ergo principia theologiae quae non sunt nota in ipsa non essent nota 
+        <lb ed="#Ba" n="32"/>in alia scientia, nullo modo essent nota: sed scientia non est scientia nisi quia procedit ex principiis no-  
+        <lb ed="#Ba" n="33"/>tis: Theologia igitur quae ex solis talibus procedit, aut non erit scientia, aut sua principia quae non 
+        <lb ed="#Ba" n="34"/>sunt nota in ipsa, erunt nota in alia superiori. Sed concessum est supra quod theologia est scientia, ergo vt 
+        <lb ed="#Ba" n="35"/>videtur oportet nos cum eis concedere quod principia theologiae sunt per se nota in aliqua superiori scien- 
+        <lb ed="#Ba" n="36"/>tia. Tali autem scientiae in qua principia alterius sunt per se nota, subalternatur scientia quae supponit sua 
+        <lb ed="#Ba" n="37"/>principia ab alia esse nota: igitur vt videtur oportet concedere quod theologia subalternetur scientiae superiori 
+        <lb ed="#Ba" n="38"/>scilicet diuinae vel angelicae. Ista positio ex simplicitate &amp; ignorantia naturae subalternationis venit. 
+        <lb ed="#Ba" n="39"/>In subalternatione enim vt dictum est supra, hoc est per se &amp; essentiale, quod scientia subalternans dicat pro 
+        <lb ed="#Ba" n="40"/>pter quid de quo subalternata dicit quia. Nunc autem principia theologiae cum sint de omnino &amp; simplici 
+        <lb ed="#Ba" n="41"/>ter primis, propter quid sciri non possunt in quacumque scientia: quia cognitio propter quid semper est per 
+        <lb ed="#Ba" n="42"/>prius &amp; notius. licet ergo principia theologiae sciantur clarius in scientia superiori, propter quid tamen 
+        <lb ed="#Ba" n="43"/>non plus sciuntur in illa scientia quam in ista: Immo multo minus, quia scientia dei &amp; beatorum discursiua 
+        <lb ed="#Ba" n="44"/>non est a primo in postremum per medium sicut est nostra, vt alias forte videbitur. Non est autem scientia 
+        <lb ed="#Ba" n="45"/>propter quid nisi per medium discursus. Notum ergo &amp; non notum non faciunt distinctionem scientiae a scien- 
+        <lb ed="#Ba" n="46"/>tia, vt subalternantis a subalternata, sed quod id quid solum notum est quia est, in vna scientia, notum est propter quid in 
+        <lb ed="#Ba" n="47"/>alia. Sed illud dictum eorum de comparatione notitiae principiorum in hac scientia &amp; in illa superio- 
+        <lb ed="#Ba" n="48"/>ri bene facit quod vna scientia sit principalis super aliam &amp; regula illius. Est enim diuina &amp; bea- 
+        <lb ed="#Ba" n="49"/>torum maxime sapientia &amp; regula prima omnium humanarum scientiarum. Absolute igitur dicendum quod  
+        <lb ed="#Ba" n="50"/>theologia nulli scientiae subalternatur neque diuinae neque humanae, licet scientia diuina principalis sit su- 
+        <lb ed="#Ba" n="51"/>per eam. Alia enim est ratio quare vna scientia dicitur subalternare alteram, de qua habitum est supra. Alia vero 
+        <lb ed="#Ba" n="52"/>est ratio quare vna scientia dicitur esse principalis respectu alterius, de qua videbitur infra. Concedendae ergo  
+        <lb ed="#Ba" n="53"/>sunt rationes probantes quod theologia nulli scientiae subalternatur, quae tamen probant solum quod nulli scientiae humanae. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e286">
+        <lb ed="#Ba" n="54"/>⁋ Ad primum in oppositum quod theologia habet principia ignota, dicendum quod li 
+   <!--122.xml-->
+        <pb ed="#Ba" n="54-r"/>
+        <lb ed="#Ba" n="1"/>cet hoc verum sit: non tamen oportet quod subalternetur scientiae, in qua sunt nota, nisi essent nota in 
+        <lb ed="#Ba" n="2"/>illa scientia notitia propter quid &amp; per medium: quod non est verum. Immo cognoscuntur in illa simplici 
+        <lb ed="#Ba" n="3"/>apprehensione sine omni discursu, vt dictum est. Si vero illud appelletur subalternatio quando vna 
+        <lb ed="#Ba" n="4"/>scientia habet claram &amp; apertam notitiam principiorum, cuius auctoritate altera scientia recipit ea- 
+        <lb ed="#Ba" n="5"/>dem principia tanquam obscura &amp; nota solummodo per fidem, scientiae diuinae vel beatorum ista scien 
+        <lb ed="#Ba" n="6"/>tia subalternatur. Sed postquam notum fuerit de rebus, &amp; intelligamus quid dicere velimus, disputa- 
+        <lb ed="#Ba" n="7"/>tionem de nominibus particularibus relinquamus: &amp; videat qui hoc poterit, vtrum naturae suba 
+        <lb ed="#Ba" n="8"/>alternationis iuxta determinationem Philosophi congruat. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e312">
+        ⁋ Ad secundum quod subiectum theologiae est 
+        <lb ed="#Ba" n="9"/>sub subiecto metaphysicae: ergo ei subalternatur: Dicendum duplicite. Primo quod falsum est: licet enim deus sit per 
+        <lb ed="#Ba" n="10"/>subiecti metaphysicae inquantu cognoscibilis est in scientia philosophica ex puris naturalibus: inquantum tamen est co 
+        <lb ed="#Ba" n="11"/>gnoscibilis per fidem &amp; intelligentiam supernaturalem tamquam subiectum in hac scientia: non continetur sub subiecto 
+        <lb ed="#Ba" n="12"/>metaphysicae: sed in ratione cognoscendi praecedit eius subiectum illud, &amp; seipsum vt pars est illius sub 
+        <lb ed="#Ba" n="13"/>iecti, vt infra videbitur. Vel aliter dicendum: quod licet subiectum huius scientiae sit sub subiecto illius scien 
+        <lb ed="#Ba" n="14"/>tiae: non tamen oportet quod illa subalternet istam. Non enim requiritur ad subalternationem quod subiectum 
+        <lb ed="#Ba" n="15"/>sit sub subiecto. In duobus enim, primis modis subalternationis, non est subiectum subalternatae sub 
+        <lb ed="#Ba" n="16"/>subiecto subalternantis, vt patet. Neque sequitur econverso, quod si subiectum sit sub subiecto, quod scientia scien 
+        <lb ed="#Ba" n="17"/>tiam subalternet. sub subiecto enim libri Phyiciae, quod est corpus mobile simpliciter considerandum secun 
+        <lb ed="#Ba" n="18"/>dum generalia principia &amp; passiones motus &amp; mobilis, est subiectum libri cae. &amp; mundo, quod est corpus 
+        <lb ed="#Ba" n="19"/>mobile ad situm: &amp; tamen scientia Physicae. non subalternat sibi scientiam cael. &amp; mundo. Vnde metaphysi 
+        <lb ed="#Ba" n="20"/>ca quamuis sub subiecto eius sint subiecta omnium particularium scientiarum, vt dicitur. iiii. metaphy 
+        <lb ed="#Ba" n="21"/>sicae, nullam tamen scientiarum particularium sibi subalternat: quia propria principia aliarum scien 
+        <lb ed="#Ba" n="22"/>tiarum nullo modo habet probare: neque cognoscere nisi in vniuersali. aliter enim non essent illae scientia 
+        <lb ed="#Ba" n="23"/>aliae ab ipsa, neque etiam habet defendere principia propria scientiarum contra negantes ipsa, nisi 
+        <lb ed="#Ba" n="24"/>quatenus redundat falsitas contra illa in sua principia propria, vt infra dicetur. Vnde quod defendit alia 
+        <lb ed="#Ba" n="25"/>rum scientiarum principia, hoc non est quia subalternet eas aliquo modo: sed quia est scientia vni- 
+        <lb ed="#Ba" n="26"/>uersalis super eas: &amp; illud conuenit ei quia considerat id quod est primum &amp; optimum in genere entis 
+        <lb ed="#Ba" n="27"/>vt dictum est supra. Et ex hoc etiam sic principalis est super omnes alias, quod aliae omnes famulentur 
+        <lb ed="#Ba" n="28"/>ei &amp; subministrent: sed hoc nihil ad subalternationem. Subministratio enim &amp; famulatus omnino aliud  
+        <lb ed="#Ba" n="29"/>est a subalternatione: &amp; est fatuum dicere quod subministratio sit aliquis modus subalternationis. hoc enim 
+        <lb ed="#Ba" n="30"/>nullus dicit nisi ignorans Philosophi determinationem circa scientiarum subalternationem. Submini 
+        <lb ed="#Ba" n="31"/>stratio enim est ex hoc quod scientia inferior parat aliquid in vsum superioris, vt dictum est supra. Subal 
+        <lb ed="#Ba" n="32"/>ternatio autem est ex hoc magis quod scientia subalternata mendicat aliquid a superiori: &amp; deficit 
+        <lb ed="#Ba" n="33"/>circa proprium cognoscibile ibi aliquid non cognoscendo quod cognitum est a scientia superiori, vt dictum 
+        <lb ed="#Ba" n="34"/>est. 
+      </p>
+      <p xml:id="vn58an-d1e654-d1e371">
+        ⁋ Ad tertium quod theologia sumit ab aliis scientiis: &amp; dicit quia, de quibus ipsae dicunt propter quid: Dicendum ac 
+        <lb ed="#Ba" n="35"/>hoc, quod licet consideratio quia &amp; propter quid distinguunt, vt dictum est, scientiam subalternantem &amp; subalternatam:  
+        <lb ed="#Ba" n="36"/>non tamen semper scientia dicens quia de aliquo principio quid sumit ab alia, subalternatur illi a quae sumit, quae de eodem 
+        <lb ed="#Ba" n="37"/>dicit propter quid. Sed tres conditiones cum hoc requiruntur. Prima quod illud tanquam principium descendat in totam 
+        <lb ed="#Ba" n="38"/>scientiam quae sumit illud ab alia. Secunda quod ipsa assumat illud mendicando propter suam indigen 
+        <lb ed="#Ba" n="39"/>tiam: non autem principando propter suum vsum. Tertia quod illud assumat quia subiectum scientiae a quo  
+        <lb ed="#Ba" n="40"/>assumit accipit tanquam principale suae considerationis. Principia enim arithmeticae cadunt in totam mu- 
+        <lb ed="#Ba" n="41"/>sicam: quae musica mendicat quia non habet alia sibi propria: &amp; super numerum qui est subiectum 
+        <lb ed="#Ba" n="42"/>arithmeticae, cadit sua principalis consideratio vt dictum est. Et similiter est de principiis altimetriae respectu 
+        <lb ed="#Ba" n="43"/>perspectiuae, vt patet ex praedeterminatis. Propter defectum primi membri Medicina non subalternatur 
+        <lb ed="#Ba" n="44"/>geometriae: licet geometria de aliquo dicit propter quid de quo medicina dicit quia: neque physi- 
+        <lb ed="#Ba" n="45"/>ca similiter perspectiuae: &amp; hoc ideo, quia illud principium de quo dicit propter quid geometria 
+        <lb ed="#Ba" n="46"/>&amp; medicina quia, non cadit in totam scientiam medicinae: sed est circa aliquam conclusionem eius 
+        <lb ed="#Ba" n="47"/>tantum. Similiter est de perspectiua respectu physicae. ita quod Aristoteles remouet ab istis subalternatio- 
+        <lb ed="#Ba" n="48"/>nem: cum dicit in primo Posterio. de iride. lpsum quia Physici est scire: sed propter quid est spe 
+        <lb ed="#Ba" n="49"/>culatiui. Multae autem &amp; non subinuicem scientiarum se habent sic, vt medicina ad geometriam. quod enim 
+        <lb ed="#Ba" n="50"/>vulnera circularia sanantur tardius medici est scire quia: propter quid autem geometrae. Propter 
+        <lb ed="#Ba" n="51"/>defectum secundi membri theologia non subalternatur alicui scientiae a qua sumit id de quo dicit 
+        <lb ed="#Ba" n="52"/>quia, &amp; alia propter quid: quia non assumit mendicando tanquam principia suae scientiae &amp; regulas suae 
+        <lb ed="#Ba" n="53"/>conditionis. Immo habet principia propria superiora principiis omnium aliarum scientiarum. Suba 
+        <lb ed="#Ba" n="54"/>alternata autem scientia mendicando principia sua accipit a supiori scientia: quia nulla habet pro 
+        <lb ed="#Ba" n="55"/>pria. Sed theologia assumit ab omnibus scientiis eis principando &amp; in vsum suum ad declarandum ea 
+   <!--123.xml-->
+        <pb ed="#Ba" n="54-v"/>
+        <lb ed="#Ba" n="1"/>quae ex suis principiis propriis propter eorum elongationem a nobis, manifesta esse non possunt, ni 
+        <lb ed="#Ba" n="2"/>si adminiculo nobis cognitorum ex sensibilibus &amp; probatis &amp; manifestatis in aliis scientiis: &amp; sic ordinat 
+        <lb ed="#Ba" n="3"/>&amp; regulat ea quae sunt aliarum scientiarum in finem eorum vltimum, quod ipsaemet facere non possunt. Sicut 
+        <lb ed="#Ba" n="4"/>scientia militaris accipit instrumenta sua ab aliis artibus sibi subiectis, quibus vtitur dirigendo eas in  
+        <lb ed="#Ba" n="5"/>debitos fines, vt inferius amplius declarabitur. Propter defectum tertii membri geometria non subalterna 
+        <lb ed="#Ba" n="6"/>tur arithmeticae, licet principia declarata in arithmetica descendunt in totam geometriam, &amp; ita geome 
+        <lb ed="#Ba" n="7"/>tra dicit quia de quo arithmeticus dicit propter quid: quia licet ratio numeri qui est subiectum ari 
+        <lb ed="#Ba" n="8"/>thmeticae descendit in magnitudinem, de numero tamen vt est numerus non est speculatio principalis geome- 
+        <lb ed="#Ba" n="9"/>triae: sed de magnitudine vt est magnitudo. Vnde dicit <name ref="#Aristotle">Philosophus</name> primo Poste. Tria sunt in de- 
+        <lb ed="#Ba" n="10"/>modostrationibus. Vnum quod demonstratur: conclusio autem hoc. Vnum autem dignitates, ex quibus est demonstratio.  
+        <lb ed="#Ba" n="11"/>Tertio autem genus subiectum, cuius sunt passiones. ex quibus igitur demonstratio sit contigit eadem esse. Quorum 
+        <lb ed="#Ba" n="12"/>genus est alterum, non est arithmeticam demonstrationem convenire in magnitudinibus accidentia: nisi ma 
+        <lb ed="#Ba" n="13"/>gnitudines numeri sunt. Et sic connexae scientiae sunt, &amp; quodammodo eadem scientia arithmetica 
+        <lb ed="#Ba" n="14"/>&amp; geometria: non tamen sicut subalternans &amp; subalternata, propter causam dictam. Si enim nullo modo es- 
+        <lb ed="#Ba" n="15"/>sent eadem numquam descenderent principia demonstrationis arithmeticae in geometriam. Semper enim scientiae 
+        <lb ed="#Ba" n="16"/>sunt aliquo modo eadem scientia, quarum vna dicit quia, &amp; alia propter quid. propter quod dicit Philoso- 
+        <lb ed="#Ba" n="17"/>phus ibidem. Aut simpliciter necesse est idem esse genus, aut sic, si debet demonstratio descendere 
+        <lb ed="#Ba" n="18"/>Aliter autem impossibile esse manifestum est. ex eodem enim genere necesse est vltima esse &amp; media. 
+        <lb ed="#Ba" n="19"/>Dicit autem simpliciter, propter subalternantes &amp; subalternatas, quae sunt in omnibus modis suis quasi eadem 
+        <lb ed="#Ba" n="20"/>scientia, vt patet inspicienti. Dicit autem sic, propter scientias quae se habent adinuicem secundum ordinem 
+        <lb ed="#Ba" n="21"/>quendam &amp; connexionem, licet vna non sit alteri subalternata, sicut arithmetica &amp; geometria.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

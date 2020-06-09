@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="107-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe29433"> <!-- alias="vn58an-a55q3" -->
+      <head xml:id="vn58an-fe29433-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe29433-d1e107">
+        <lb ed="#Bb" n="46"/>Irca Tertium arguitur quod in deo non sunt plures proprietates duabus, quia non 
+        <lb ed="#Bb" n="47"/>est, proprietas in deo nisi ex modo habendi vnam personam ad aliam: quia nulla est ab 
+        <lb ed="#Bb" n="48"/>soluta, vt infra dicetur. Sed in diuinis solum duo sunt modi habendi personam vnam 
+        <lb ed="#Bb" n="49"/>ad aliam, scilicet vt a quae, &amp; vt quae ab alia, vt patet ex supra determinatis. ergo in di 
+        <lb ed="#Bb" n="50"/>uinis sunt solum duae proprietates. 
+      </p>
+      <p xml:id="vn58an-fe29433-d1e120">
+        ⁋ Quia sint tantum tres. dicit Ricardus. v. de trinitate. 
+        <lb ed="#Bb" n="51"/>ca. xxv. luxta numerum proprietatum est numerus personarum: &amp; sicut quartam proprie- 
+        <lb ed="#Bb" n="52"/>ltatem, sic quartam personam nullatenus inuenire poterimus. 
+      </p>
+      <p xml:id="vn58an-fe29433-d1e127">
+        ⁋ Quia sint tantum quatuor 
+        <lb ed="#Bb" n="53"/>arguitur, quia non est proprietas in deo nisi sit relatiua, vt infra videbitur. Et similiter non est relatio 
+        <lb ed="#Bb" n="54"/>in deo nisi sit proprietas. Est enim proprietas in re quicquod est in ea praeter substantiam suam. sed in deo tantum 
+        <lb ed="#Bb" n="55"/>sunt quatuor relationes secundum duas emanationes, vt patet ex praedeteriatis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe29433-d1e137">
+        ⁋ Quia autem sint 
+   <!--230.xml-->
+        <pb ed="#Bb" n="108-r"/>
+        <lb ed="#Bb" n="1"/>plures quianque &amp; quasi infinitae, arguitur ex eo quod dicit Ambrosius. ii. de trinitate. in principio. Proprietates 
+        <lb ed="#Bb" n="2"/>sunt generatio, deus filius, verbum, similitudo, character, splendor, virtus, veritas, vita &amp; caetera huiusmodi, quae 
+        <lb ed="#Bb" n="3"/>sunt circa solum filium, &amp; plurima alia sunt circa patrem, vt ingenitum, primum principium, &amp; huiusmodi. Et 
+        <lb ed="#Bb" n="4"/>plurima circa spiritum sanctum, vt amor, donum, &amp; huiusmodi. Item plurima circa tres communiter, vt 
+        <lb ed="#Bb" n="5"/>aequalitas similitudo, &amp; huiusmodi, quae sunt quasi infinita, quare &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe29433-d1e155">
+        <lb ed="#Bb" n="6"/>⁋ Dicendum ad hoc: quod proprietas quadrupliciter dicitur in diuinis, largissime, large 
+        <lb ed="#Bb" n="7"/>stricte &amp; strictissime. Largissime in diuinis proprietates appellantur quaecumque habent considerari circa per 
+        <lb ed="#Bb" n="8"/>sonas: quemadmodum attributa appellantur quaecuque habent considerari circa diuinam essentiam: &amp; sic loqu-  
+        <lb ed="#Bb" n="9"/>tur Ambrosius de trinitate. in assumpta auctoritate. Et hoc modo loquendo de proprietatibus dicit Prae 
+        <lb ed="#Bb" n="10"/>positinus, quod quidam pene infinitas indeo constituunt proprietates. Dicunt enim quod quaedam proprietates sequuntur 
+        <lb ed="#Bb" n="11"/>secundum essentiam, vt aequalitas, coaeternitas, similitudo, quaedam vero secundum hypostasim, vt paternitas, filia- 
+        <lb ed="#Bb" n="12"/>tio, &amp; huiusmodi. Hoc est modo omnia diuina attributa essentialia possunt dici proprietates. iuxta illud philosophi, quid 
+        <lb ed="#Bb" n="13"/>dicit de numero ternario in principio caeli &amp; mundi. Per hunc numerum adhibuimus nos magnifica- 
+        <lb ed="#Bb" n="14"/>re vnum deum eminentem proprietatibus eorum quae sunt. Large autem loquendo, vt dicit idem Praepositinus, ma 
+        <lb ed="#Bb" n="15"/>gistri nri dicunt quinque solummodo esse proprietates: duas in solo patre, quae sunt paternitas &amp; innascibilitas, 
+        <lb ed="#Bb" n="16"/>vnam in solo filio scilicet filiationem, vnam in spiritu sancto scilicet passiuam productionem, &amp; vnam in duobus coniter scilicet in  
+        <lb ed="#Bb" n="17"/>patre &amp; filio, quae dicitur spiratio actiua. Stricte autem loquendo proprietates non sunt nisi quaetuor: quia spiratio 
+        <lb ed="#Bb" n="18"/>actiua eo quod communis est duobus, &amp; nulli propria, proprie proprietas dici non potest. Strictissime autem proprie- 
+        <lb ed="#Bb" n="19"/>tates non sunt nisi tres, quae sunt paternitas, filiatio, &amp; spiratio passiua: eo quod solummodo sunt constituti 
+        <lb ed="#Bb" n="20"/>uae &amp; distinctiuae personarum abinuicem. Vnde &amp; non sunt nisi secundum numerum personarum. dicente Ric. iii. de 
+        <lb ed="#Bb" n="21"/>trinitate. ca. xvi. Pluralitas personarum manifestat quod in illa trinitate proprietatum differentia non potest deesse. 
+        <lb ed="#Bb" n="22"/>Et ca. xvii. In trinitate absque dubio oportet tot personales proprietates esse quot sunt personae. Et li. v. 
+        <lb ed="#Bb" n="23"/>ca. xv. Proprietatum autem distinctio versatur circa duo: constat enim in dando &amp; in accipiendo. vnius enim pro 
+        <lb ed="#Bb" n="24"/>prietas consistit in solum dando: alterius in solum accipiendo: inter has autem media tam in dando quam in accipiendo.  
+        <lb ed="#Bb" n="25"/>Et quia istae tres proprietates solae constituunt &amp; distinguunt personas: ideo proprietates personales dicuntur, 
+        <lb ed="#Bb" n="26"/>vt dicit Praepositinus: non autem solum proprietates personae: cum reliquae omnes dicuntur proprietates personarum tantum. 
+        <lb ed="#Bb" n="27"/>
+      </p>
+      <p xml:id="vn58an-fe29433-d1e205">
+        ⁋ Ad primum: quod in diuinis non sunt nisi duo modi se habendi &amp;c. Dicendum quod verum 
+        <lb ed="#Bb" n="28"/>est communes tantum &amp; generales, sub quibus alii speciales continentur: quia modus habendi vt a quo 
+        <lb ed="#Bb" n="29"/>alius, necessario ponit modum se habendi vt a nullo. Aliter enim ex parte quasi anteriori procederetur 
+        <lb ed="#Bb" n="30"/>in infinitum: vt semper ille a quo est alius, esset ab aliquo alio. Et sic etiam modus non essendi ab alio 
+        <lb ed="#Bb" n="31"/>includitur in modo a quo alius: &amp; ille continet duos: quorum vnus est per generationem: alter vero per 
+        <lb ed="#Bb" n="32"/>spirationem actiuam. Similiter modus qui ab alio, continet duos: vnum per generationem, alium per spi 
+        <lb ed="#Bb" n="33"/>rationem passiuam. &amp; sic ad illos duos modos alii. v. reducuntur. 
+      </p>
+      <p xml:id="vn58an-fe29433-d1e221">
+        ⁋ Ad secundum, quod sunt tantum tres:  
+        <lb ed="#Bb" n="34"/>Dicendum quod verum est personales siue personarum constitutiuae. per quid tamen non excluduntur aliae duae, vt ta 
+        <lb ed="#Bb" n="35"/>ctum est, &amp; inferius magis patebit. 
+      </p>
+      <p xml:id="vn58an-fe29433-d1e228">
+        ⁋ Ad tertium: quod in diuinis non sunt nisi quatuor relationes: qua  
+        <lb ed="#Bb" n="36"/>re nec nisi quaetuor proprietates. Dicendum secundum iam dicta, verum est positiue dictae, &amp; quae sumuntur secundum hy 
+        <lb ed="#Bb" n="37"/>postases. Praeter has tamen est vna negatiua significata nomine innascibilis: &amp; similiter plures aliae quae 
+        <lb ed="#Bb" n="38"/>sumuntur secundum essentiam, de quibus infra erit sermo. 
+      </p>
+      <p xml:id="vn58an-fe29433-d1e237">
+        ⁋ Ad vltimum: quod sunt plures &amp; quasi infinitae:  
+        <lb ed="#Bb" n="39"/>Dicendum secundum iam dicta quod verum est largissime loquendo de proprietate.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="163-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1932"> <!-- alias="vn58an-a27q2" -->
+      <head xml:id="vn58an-d1e1932-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e1932-Hd1e107" type="question-title">Utrum Deo conveniat vita</head>
+      <p xml:id="vn58an-d1e1932-d1e110">
+        <lb ed="#Ba" n="49"/>CIrca secundum arguitur quod vita non sit attribuenda deo. Primo sic. nihil viuit ni 
+        <lb ed="#Ba" n="50"/>si habens principium motus manentis in seipso. Vnde non viuentia quae appa- 
+        <lb ed="#Ba" n="51"/>rent in se habere principia sui motus, quodammodo dicuntur viua, vt aqua vi- 
+        <lb ed="#Ba" n="52"/>ua, vniversalis rgentum viuum: &amp; econtra habentia in se vitam in rei veritate, quia tamen non 
+        <lb ed="#Ba" n="53"/>percipiuntur sensu ex se moueri, a multis putantur esse non viua vt plantae. sed deus non habet in se 
+        <lb ed="#Ba" n="54"/>enu principium motus manentis in seipso: quia est omnino immutabilis, vt infra dicetur. ergo &amp;c. 
+   <!--342.xml-->
+        <pb ed="#Ba" n="164-r"/>
+      </p>
+      <p xml:id="vn58an-d1e1932-d1e130">
+        <lb ed="#Ba" n="1"/>⁋ Secundo sic. deo non convenit aliquod determinatum esse: quia est esse purum, vt habitum est supra. vi- 
+        <lb ed="#Ba" n="2"/>ta siue viuere est quoddam determinatum esse: quia viuere est determinatus modus essendi, vt ha 
+        <lb ed="#Ba" n="3"/>bitum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1932-d1e140">
+        ⁋ In contrarium est illud Deuter. xxxii. vbi ipse dicit. Viuo ego in aeternum. 
+      </p>
+      <p xml:id="vn58an-d1e1932-d1e143">
+        <lb ed="#Ba" n="4"/>⁋ Dicendum ad hoc. Cum secundum iam determinata viuere dicantur viuentia ex eo quod sunt in  
+        <lb ed="#Ba" n="5"/>tali esse quod habeant vim agendi aliquid in seipsa &amp; ex seipsis: quanto igitur hoc perfectius alicui conue- 
+        <lb ed="#Ba" n="6"/>nit: tanto perfectius dicendum est viuere: &amp; perfectior vita ei inesse. Tanto autem perfectius habet vim agen  
+        <lb ed="#Ba" n="7"/>di &amp; operandi ex seipso &amp; in seipso, quanto vim agendi habet minus dependentem ab alio tanquam a mouen 
+        <lb ed="#Ba" n="8"/>te primo qui mouet: aut sicut finis motus: aut sicut impellens in motum. agens ergo non dependens omni- 
+        <lb ed="#Ba" n="9"/>no a tali motore: neque vt a fine, neque vt ab impellente, maxime debet dici viuere: &amp; post talem agentem ille qui  
+        <lb ed="#Ba" n="10"/>dependet vt a fine, libere tamen siue vlla necessitate impellente mouet ex se in finem, magis dicetur vi- 
+        <lb ed="#Ba" n="11"/>uere illo qui nonlibere: sed sola necessitate impellentis fertur in finem: &amp; generaliter quanto minori impul 
+        <lb ed="#Ba" n="12"/>su: &amp; quanto magis libere agens feratur in finem, tanto magis dicetur viuere &amp; verius: &amp; minus, quam 
+        <lb ed="#Ba" n="13"/>to maiori impulsu &amp; minus libere agit. 
+      </p>
+      <p xml:id="vn58an-d1e1932-d1e167">
+        ⁋ Ad cuius intellectum circa viuere in creaturis, vt per hoc 
+        <lb ed="#Ba" n="14"/>magis eluceat nobis viuere in deo, Sciendum quod in creaturis quaedam sunt quae habent vim agendi &amp; mo 
+        <lb ed="#Ba" n="15"/>uendi in seipsis seipsa ad aliquem finem sine omni apprehensione finis: sed per solum impulsum primi 
+        <lb ed="#Ba" n="16"/>mouentis: &amp; propriae formae inclinationem motum exequitur, si non fuerit prohibens extra, quibus sicut determi- 
+        <lb ed="#Ba" n="17"/>natur a natura forma quae agunt, similiter &amp; finis ad quem agunt. Et talia sunt in duplici genere, quaedam enim eorum in se 
+        <lb ed="#Ba" n="18"/>ipsis habent vim mouendi ex seipsis: sed per accns: quemadmodum grauia &amp; leuia cum sunt extra sua loca na- 
+        <lb ed="#Ba" n="19"/>turalia, vt determinat Philosophus. viii. physicae. sed in loco proprio naturali carent principio motiuo. &amp; ideo omnia talia 
+        <lb ed="#Ba" n="20"/>sunt ianimata: &amp; dicuntur non viuentia, vt patet ex praecedenti quaestione. Quaedam vero in seipsis habent vim mouendi  
+        <lb ed="#Ba" n="21"/>ex se &amp; per seipsa: &amp; talia sunt plantae: quae a principio intra mouent seipsas attractione alimenti, nu- 
+        <lb ed="#Ba" n="22"/>tritione, augmento, &amp; diminutione. Et ideo dicit <name ref="#Aristotle">Philosophus</name> in libro de plantis. Planta non est de his quae 
+        <lb ed="#Ba" n="23"/>carent vita: quia in illa est aliqua pars animae: &amp; est in eis infimus gradus vitae. secundum quod de eis dicit Dio 
+        <lb ed="#Ba" n="24"/>ni. cap. vi. de di. no. Secundum nouissimam consonantiam vitae habent viuere. Alia sunt quae in seipsis habent 
+        <lb ed="#Ba" n="25"/>vim mouendi se ex se &amp; per se: sed cum impulsu primi agentis &amp; formae propriae: &amp; cum apprehensione 
+        <lb ed="#Ba" n="26"/>finis: &amp; appetitu concupiscentiae ad prosequendum, vel timoris ad fugiendum. finem enim talibus non tam de 
+        <lb ed="#Ba" n="27"/>terminat natura quam apprehensio sensus. Talia sunt bruta animalia, quae habent in se secundum gradum vi- 
+        <lb ed="#Ba" n="28"/>tae, quem etiam habent secundum diuersos gradus: secundum quod quaedam habent perfectiorem sensum &amp; ma 
+        <lb ed="#Ba" n="29"/>gis approximatum intellectui: quaedam vero imperfectiorem &amp; magis elongatum quanto enim perfectiorem 
+        <lb ed="#Ba" n="30"/>habent sensum, tanto perfectius mouent se: &amp; superiorem habent gradum vitae: &amp; tanto inferiorem 
+        <lb ed="#Ba" n="31"/>quanto se mouent minus perfecte. Vnde &amp; quaedam eorum modicum excedunt vitam plantae: &amp; sunt quae 
+        <lb ed="#Ba" n="32"/>si media inter plantam &amp; animalia: naturam vtriusque participantia: vt conchylia. secundum quod dicit Phi 
+        <lb ed="#Ba" n="33"/>losophus in libro de plantis. Scimus quod conchylia sunt animalia: suntque plantae &amp; animalia. Et ideo dicitur in se- 
+        <lb ed="#Ba" n="34"/>cundo de anima, quod sunt animalia imperfecta, solum tactum &amp; gustum habentia: &amp; mouent se tantum motu 
+        <lb ed="#Ba" n="35"/>nutrimenti &amp; motu dilatationis &amp; contractionis ad praesentiam obiecti sibi coniuncti, quod habent de natu 
+        <lb ed="#Ba" n="36"/>ra animalium: fixa autem sunt in loco suo carentia omnino motu progressiuo, quod habent ex natura plam 
+        <lb ed="#Ba" n="37"/>tae. Alia vero sunt mouentia se ad obiectum per concupiscentiam vel ab ipso per fugam: &amp; hoc motu 
+        <lb ed="#Ba" n="38"/>locali progressiuo: quae sunt apprehendentia suum obiectum a remotis, visim. scilicet vel auditu vel odora- 
+        <lb ed="#Ba" n="39"/>tu: quibus inest superior gradus vitae: sed imperfectus: quia post apprehensionem non libere: sed im 
+        <lb ed="#Ba" n="40"/>petu &amp; impulsu quodam naturae mouentur ab obiecto vel ad obiectum. Vnde secundum Dam. ma 
+        <lb ed="#Ba" n="41"/>gis aguntur quam agunt. In homine autem est adhuc superior &amp; perfectior gradus vitae: quia habet prim 
+        <lb ed="#Ba" n="42"/>cipium mouendi se a seipso absque omni impulsu agentis &amp; formae naturalis: sed libere ex sola appre 
+        <lb ed="#Ba" n="43"/>hensione rationis &amp; intellectus determinantis finem: sed per discursum &amp; deductionem non per 
+        <lb ed="#Ba" n="44"/>simplicem apprehensionem: quemadmodum determinatur in angelo siue in intelligentia. Propter quod ex 
+        <lb ed="#Ba" n="45"/>peditiora sunt intellectualia quam rationalia, vt per liberam electionem moueant se ad finem vel a fine 
+        <lb ed="#Ba" n="46"/>Et ideo licet omnia liberum arbitrium habentia gradum vitae habent eminentem super bruta anima 
+        <lb ed="#Ba" n="47"/>lia: intellectualia tamen habent gradum vitae eminentem super vitam rationalium: in quibus licet 
+        <lb ed="#Ba" n="48"/>post apprehensionem primum moues ex se &amp; per se sine alio impulsu sit liberi arbitrii: ipsum tamen non 
+        <lb ed="#Ba" n="49"/>mouet sine apprehensione alterius a se quod mouet intelligentiam sub ratione veri: &amp; ad quid mouetur 
+        <lb ed="#Ba" n="50"/>appetitus sub ratione boni: &amp; sic absolute sine omni impulsu ab eo vel in illud quod est extra se non  
+        <lb ed="#Ba" n="51"/>habet in se principium mouendi se aliqua natura rationalis aut intellectualis creata quantuncunque  
+        <lb ed="#Ba" n="52"/>fuerit eleuata. Etsi enim angelus seipsum intelligit, habet tamen respectu suiipsius rationem impellentis, &amp; edu 
+        <lb ed="#Ba" n="53"/>centis intelligens de potentia in actum: &amp; ideo non habet in se supremum gradum vitae: quia nec omni- 
+        <lb ed="#Ba" n="54"/>no liberum principium mouendi se ex se absque omni forma exterius quae impellit cognitiuam, aut ad quam se 
+   <!--343.xml-->
+        <pb ed="#Ba" n="164-v"/>
+        <lb ed="#Ba" n="1"/>impellit affectiua: immo cum omne quod mouetur ab alio aut per aliud, necesse est reduci ad aliquid quod mo 
+        <lb ed="#Ba" n="2"/>uetur ex se &amp; per se omnino, secundum artem Philosophi in. viii. physi. ideo super omnem vitam naturae 
+        <lb ed="#Ba" n="3"/>quae non mouetur nisi quodammodo vel ab alio vel ad aliud naturaliter impulsa, necesse est ponere 
+        <lb ed="#Ba" n="4"/>vitam superiorem in natura aliqua, cuius est omnino libertas mouendi se ex se &amp; per se absque admini 
+        <lb ed="#Ba" n="5"/>culo omni cuiuscumque alterius naturae: cuiusmodi non est nisi vita dei, qui non intelligit per formam alicuius veri 
+        <lb ed="#Ba" n="6"/>aliam quam sit illa quae ipse est: neque vult aliud bonum quam quod ipse est, qui quia ipse est principium (non dico ha 
+        <lb ed="#Ba" n="7"/>bet principium) quod mouet se libere omnino absque omni impulsu alterius ex se: &amp; per se: large accipien 
+        <lb ed="#Ba" n="8"/>do motum pro omni actione aut operatione: ipse debet dici viuere summo gradu vitae: a qua est omnis 
+        <lb ed="#Ba" n="9"/>alia vita: quia ipse non est nisi vita quae est sua essentia, &amp; omnis alia vita ab ipso participata est in essen 
+        <lb ed="#Ba" n="10"/>tia creaturae: quia ex se non est vita: sed viuens per vitam, vt patet ex praecedenti quaestione. Vnde dicit Dio 
+        <lb ed="#Ba" n="11"/>ny. ca. vi. de di. no. Plus quam vita &amp; vitarum principalis vita &amp; omnis vitae causa est: &amp; vt non indigens: magi 
+        <lb ed="#Ba" n="12"/>autem plus quam vita per seipsam viuens: &amp; super omnem vitam viuificans &amp; plus viuens. Vnde &amp; <name ref="#Aristotle">Philosophus</name> 
+        <lb ed="#Ba" n="13"/>ex conditione actionis eius intellectualis concludit nobilitatem vitae eius: cum dicit in. xii. metaphy 
+        <lb ed="#Ba" n="14"/>sicae. Est vita: quia actio intelligens est vitam: &amp; est intelligens per se: &amp; habet vitam nobilem &amp; semper aeternam. &amp; in pri 
+        <lb ed="#Ba" n="15"/>mo cap. &amp;. iii. dicit. Est fixum non mutatum: neque recipit impressiones. Vita ergo est sempiterna in se- 
+        <lb ed="#Ba" n="16"/>cula seculorum: quia neque finitur: neque deficit: &amp; est melior vita. 
+      </p>
+      <p xml:id="vn58an-d1e1932-d1e304">
+        ⁋ Absolute ergo dicendum quod deo pri 
+        <lb ed="#Ba" n="17"/>cipalissime attribuenda est vita large sumendo nomen attributi. attributa enim sunt quasi proprietates essen- 
+        <lb ed="#Ba" n="18"/>tiae ratione differentes ab ipsa, vt infra videbitur. vita autem non solum est ipsa essentia re: sicut sunt alia 
+        <lb ed="#Ba" n="19"/>attributa: immo ratio vitae est ratio essentiae: &amp; ratio viuere est ratio ipsius esse quodammodo, vt 
+        <lb ed="#Ba" n="20"/>patet ex quaestione praecedenti. 
+      </p>
+      <p xml:id="vn58an-d1e1932-d1e315">
+        <lb ed="#Ba" n="21"/>⁋ Ad primum in oppositum quod deus est immutabilis: &amp; ideo non habet in se principium 
+        <lb ed="#Ba" n="22"/>motus: Dicendum quod secundum quod dictum est, motus accipitur ibi large extendendo nomen motus ad actio- 
+        <lb ed="#Ba" n="23"/>nem siue operationem etiam spiritualem quam agit res quaecunque in seipsa: sicut accepit motum Plato 
+        <lb ed="#Ba" n="24"/>cum dixit animam seipsam mouere. sic enim velle &amp; intelligere quocunque modo fiant: motus quidam di 
+        <lb ed="#Ba" n="25"/>cuntur: &amp; tali motu deus sine mutatione sui mouetur. 
+      </p>
+      <p xml:id="vn58an-d1e1932-d1e328">
+        ⁋ Ad secundum quod viuere est determina- 
+        <lb ed="#Ba" n="26"/>tum esse, quod repugnat deo: Dicendum quod determinatio determinatiua alicuius in deo alia re vel inten- 
+        <lb ed="#Ba" n="27"/>tione ab ipso determinabili non convenit deo: quia aliquam compositionem poneret in ipso. Bne ta- 
+        <lb ed="#Ba" n="28"/>men conuenit ei determinatio importans rationem perfectionis differens sola ratione ab ipso deter- 
+        <lb ed="#Ba" n="29"/>minabili. tali enim modo omnia diuina attributa determinationes sunt diuinae essentiae, vt patebit infra, 
+        <lb ed="#Ba" n="30"/>loquendo de comparatione diuinorum attributorum inter se, &amp; ad ipsam diuinam essentiam.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

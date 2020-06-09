@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="123-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1575"> <!-- alias="vn58an-a21q2" -->
+      <head xml:id="vn58an-d1e1575-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e1575-Hd1e107" type="question-title">Utrum in esse communicet cum creaturis</head>
+      <p xml:id="vn58an-d1e1575-d1e110">
+        <lb ed="#Ba" n="49"/>CIrca secundum quod deus in esse conicet cum creatur. id est quod esse sit aliquid cone deo &amp; creaturl arguitur 
+        <lb ed="#Ba" n="50"/>Primo sic. illud quo aliqua differunt ab alio &amp; non inter se, cone &amp; idem est illis: quia si non  
+        <lb ed="#Ba" n="51"/>esset eis cone, illo differrent inter se: non coniter a tertio. sed deus &amp; creatura entitate sua 
+        <lb ed="#Ba" n="52"/>simpliciter differunt coniter secundum rationem intelligendi, ab eo quod non est, quod dicit puram priuatio 
+        <lb ed="#Ba" n="53"/>nem esse. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e123">
+        ⁋ Secundo sic. cum idem &amp; diuersum diuidunt totum ens: si deus &amp; crea 
+        <lb ed="#Ba" n="54"/>tura non essent idem neque communicarent in ente, differrent in ente: &amp; diuersa essent 
+        <lb ed="#Ba" n="55"/>abinuicem in eo quod entia sunt, quare cum idem &amp; diuersum secundum <name ref="#Aristotle">Philosophum</name> reducuntur 
+   <!--262.xml-->
+        <pb ed="#Ba" n="124-r"/>
+        <lb ed="#Ba" n="1"/>ad vnum &amp; multum: Deus igitur &amp; creatura essent multa in ente. Quare cum omnem multitudinem oportet 
+        <lb ed="#Ba" n="2"/>reduci ad vnitatem, super ens in quo differunt deus &amp; creatura, &amp; in quo sunt multa, esset aliquod in quo  
+        <lb ed="#Ba" n="3"/>convenirent &amp; essent vnum. hoc autem est impossibile: quia ratio illius esset prior ratione entis: quae prima est secundum  
+        <lb ed="#Ba" n="4"/>Auicen. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e147">
+        ⁋ Tertio sic. dictum de pluribus quod habet per se intellectum praeter intellectus illorum, est aliquid  
+        <lb ed="#Ba" n="5"/>reale commune ad illos: quia omnis conceptus fundatur in re aliqua. ens est huiusmodi: quia secundum Auicen. ens impri- 
+        <lb ed="#Ba" n="6"/>mitur impressione prima etiam antequam in ipsa imprimitur intellectus aut creaturae aut dei. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e154">
+        ⁋ In contra 
+        <lb ed="#Ba" n="7"/>rium arguitur primo sic, quoniam quaecumque sunt diuersa inter se &amp; in aliquo communi conveniunt: necessario secun 
+        <lb ed="#Ba" n="8"/>dum esse differunt in illo communi, vt homo &amp; asinus sub animali. Si ergo esset esse aliquod commune deo &amp; creatu 
+        <lb ed="#Ba" n="9"/>rae, sub illo secundum esse differrent. Erit ergo duplex esse deo. vnum in quo cum creatura convenit siue com 
+        <lb ed="#Ba" n="10"/>municat. alid in quo a creatura differt. hoc autem est impossibile: quia tunc non esset in deo esse omnino simplex 
+        <lb ed="#Ba" n="11"/>nec esset esse purum: cuius contrarium infra patebit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e167">
+        ⁋ Secundo sic. accidens quia distat a natura substan- 
+        <lb ed="#Ba" n="12"/>tiae cui convenit esse simpliciter, non dicitur simpliciter ens, quia autem aliquo modo appropinquat ipsi vt dispon 
+        <lb ed="#Ba" n="13"/>ipsius, aliquo modo nomen entis conicat cum substantia, vt dicatur ens quia est dispositio entis quod est substantia 
+        <lb ed="#Ba" n="14"/>vt dicit <name ref="#Aristotle">Philosophus</name> in vii. meta. ita quod si non appropiquaret hoc modo accidens substantiae, non conicaret cum eo in 
+        <lb ed="#Ba" n="15"/>esse vt diceretur ens: quia est entis quod est substantia sc lset esse creaturae non appropiquat in aliquo naturae creatorli: 
+        <lb ed="#Ba" n="16"/>quia inter eos est infinita distantia. creatura ergo in nullo conicat esse cum creatore per aliquam attributionem ad ipsum  
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e184">
+        <lb ed="#Ba" n="17"/>⁋ Dicendum ad hoc: cum ens vt infra dicetur non significat aliquam vnam intentionem commu 
+        <lb ed="#Ba" n="18"/>nem substantiae &amp; accidenti: sed significat significatione prima vnumquodque. x. praedicamentorum, nulla conitate rea 
+        <lb ed="#Ba" n="19"/>li ipsum ens potest esse cone substantiae &amp; accidenti. Quare cum multo minus in aliquo vno reali conveniunt 
+        <lb ed="#Ba" n="20"/>creator &amp; creatura quam duae creaturae: substantia. scilicet &amp; accns: immo multo plus distat ratio essendi creatoris 
+        <lb ed="#Ba" n="21"/>a ratione essendi creaturae quam differat ratio essendi vnius creaturae a ratione essendi alterius: nullo modo ens potest esse ali 
+        <lb ed="#Ba" n="22"/>quod cone reale deo &amp; creaturae. Et ideo absolute dicendum: quod esse non est aliquod cone reale in quo deus conicet cum crea 
+        <lb ed="#Ba" n="23"/>turis: &amp; ita si ens aut esse praedicatur de deo &amp; creaturis, hoc est sola nomins conitate, nulla rei: &amp; ita non vniuo 
+        <lb ed="#Ba" n="24"/>ce per definitionem vniuocorum: nec tamen pure aequoce. secundum definitionem aequocorum casu: sed medio modo vt 
+        <lb ed="#Ba" n="25"/>analogice. 
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e206">
+        ⁋ Ad cuius intellectum notandum quod convenientia rei ad rem maxime in forma attenditur: &amp; hoc dupliciter 
+        <lb ed="#Ba" n="26"/>secundum quod duplex est modus conicandi aliqua in forma. vna secundum eandem rationem: quae dicitur convenientia similitudis: &amp; est eorum  
+        <lb ed="#Ba" n="27"/>quae vna forma participant secundum rem, vt albedie duo alba, &amp; humanitate duo homines: quae facit convenientiam vniuo 
+        <lb ed="#Ba" n="28"/>cationis: qualis vt dictum est, non est dei &amp; creaturae in esse. alia vero est convenientia in forma secundum aliam &amp; 
+        <lb ed="#Ba" n="29"/>aliam rationem: quae dicitur convenientia imitationis &amp; est vniversalter in efficientibus &amp; factis, causis &amp; causatis. Cum ei omne 
+        <lb ed="#Ba" n="30"/>agens etiam quantuncunque contrarium secundum <name ref="#Aristotle">Philosophum</name> agit in finem inquantum simile: agens autem inquantum simile non producit 
+        <lb ed="#Ba" n="31"/>nisi simile: agit etiam omne agens per suam formam: &amp; producit causatum in aliquo esse formali: Necesse est ergo in  
+        <lb ed="#Ba" n="32"/>omnibus talibus vt semper in causato &amp; effectu sit similitudo formae agentis. &amp; si non secundum eandem rationem speciei, sit 
+        <lb ed="#Ba" n="33"/>similitudo inter ipsos: sicut est hominis generantis ad generatum: erit tamen secundum quandam imitationem. Sicut aliquod generatum a 
+        <lb ed="#Ba" n="34"/>sole: etsi n accedat ad similitudinem speciei cu sole, vt recipiat formam solis: accedit tamen ad aliquam imitatio 
+        <lb ed="#Ba" n="35"/>nem speciei solis: vt recipiat formam aliquo modo proportionabilem &amp; correspondentem formae solis: &amp; vniverslter quam 
+        <lb ed="#Ba" n="36"/>to agens est propiquius &amp; immediatius producto, tanto maior est convenientia imitationis producentis ad productum: &amp; 
+        <lb ed="#Ba" n="37"/>tanto minor quanto agens est mediatius &amp; remotius. Et ideo cum deus sit cam effectiua omnium creaturarum: licet quaerum 
+        <lb ed="#Ba" n="38"/>dam mediantibus aliis causis: quaerum quo ad hoc est primum principium remotissimum: necessario omnis creatura cum 
+        <lb ed="#Ba" n="39"/>deo secundum formam aliquam habet convenientiam: saltem secundum imitationem formae ad formam. Quare cum forma 
+        <lb ed="#Ba" n="40"/>diuina sit ipsum esse, vt infra videbitur: a quo omnis creatura mutuat nomen essendi inquantum est cam eius, vt infra dicetur: 
+        <lb ed="#Ba" n="41"/>Necesse est dicere quod saltem in esse convenientia imitationis conicet creatura cum creatore. Et ita quamuis in nulla con 
+        <lb ed="#Ba" n="42"/>uenientia realis similitudis in aliqua forma significata nomine entis conicent: conveniunt tamen in ente convenientia imi 
+        <lb ed="#Ba" n="43"/>tationis formae ad formam: quaerum vnam significat ens inquantum convenit deo: aliam vero inquantum convenit creatu 
+        <lb ed="#Ba" n="44"/>rae. Non ergo esse convenit deo &amp; creaturi vniuoce: quia non secundum eandem formam ad quam nomen entis ad signi 
+        <lb ed="#Ba" n="45"/>ficandum imponitur. Nec tamen pure aequoce: cum non aeque primo &amp; principalitur significet formam dei &amp; creaturae: si- 
+        <lb ed="#Ba" n="46"/>cut aequoca casu aeque primo &amp; principaliter significant ambo significata sua: vt hoc nomen Aiax Tela 
+        <lb ed="#Ba" n="47"/>monium &amp; GOilei filium: sed medio mod scilicet analogice: quia significat vnum suorum significatorum primo &amp; prim 
+        <lb ed="#Ba" n="48"/>cipaliter: alterum vero in ordie &amp; respectu siue proportione ad illud: vt primo &amp; principalitur formam quae habet esse 
+        <lb ed="#Ba" n="49"/>deus: in ordie autem ad illam, formam quae habet esse creatura. Sicut contingit in substantia &amp; accunte: in quibus ens primo 
+        <lb ed="#Ba" n="50"/>&amp; principaliter significat substantiam: accidens vero quia ordinem habet &amp; respectum ad substantiam. &amp; secundum hoc 
+        <lb ed="#Ba" n="51"/>substantia dicitur ens primo: &amp; accidens dicitur ens sub ordie ad substantiam: itaquod ens primo significat substantiam: &amp; ex 
+        <lb ed="#Ba" n="52"/>ordie quem habet accns ad substantiam mutuat nomen entis a substantia. secundum quod dicitur. vii. metaphysicae. 
+        <lb ed="#Ba" n="53"/>Ens dicitur multis modis. &amp; primum istorum est quod significat substantiam: &amp; alia dicuntur entia: quia sunt entis quod est 
+        <lb ed="#Ba" n="54"/>huiusmodi. Et. 4. eiusdem Ens dicitur multipliciter non aequoce: sed omnes modi attribuuntur vni rei &amp; vni naturae. Et 
+        <lb ed="#Ba" n="55"/>secundum hunc modum ens communissime dictum primo significat deum: secundario creaturam: sicut ens 
+   <!--263.xml-->
+        <pb ed="#Ba" n="124-v"/>
+        <lb ed="#Ba" n="1"/>creatum primo significat substantiam: secundario accidens: sed alio &amp; alio modo attributionis: quia alia 
+        <lb ed="#Ba" n="2"/>entia attribuuntur substantiae vt vni subiecto: omnes vero creaturae attribuuntur deo vt vni fini: &amp; vni for 
+        <lb ed="#Ba" n="3"/>mae: &amp; vni efficienti. vt fini, a quo perficiuntur quo ad bene esse: vt formae, a qua participant quod dicantur ha-  
+        <lb ed="#Ba" n="4"/>bere esse essentiae: vt efficienti, a quo habent quod eis conveniat simpliciter esse actualis existentiae. Cum enim res 
+        <lb ed="#Ba" n="5"/>vt dicitur a reor reris nomen est indifferens ad ens &amp; non ens: ex hoc quod conceptum hoc nomine quod est 
+        <lb ed="#Ba" n="6"/>res, habet rationem exemplaris in primo agente, ad quam nata est per eius effectiuam potentiam produci 
+        <lb ed="#Ba" n="7"/>in esse actuali: attribuitur ei esse essentiae: a quo res ipsa concepta dicitur esse ens aut essentia ali- 
+        <lb ed="#Ba" n="8"/>qua, quod enim in primo rationem exemplarem non habet purum non ens est. Haec autem res quae est ens siue natura &amp; es 
+        <lb ed="#Ba" n="9"/>ientia aliqua ex eo quod ei attribuitur esse propter rationem exemplarem quam habet in primo, adhuc est indif 
+        <lb ed="#Ba" n="10"/>ferens ad ens &amp; non ens in existentia actuali: cui ex hoc quod facta est a deo: &amp; eius effectus, attribuitur 
+        <lb ed="#Ba" n="11"/>esse actualis existentiae a quo res ipsa dicitur esse existens in actu. Quod enim non est effectus dei vel im- 
+        <lb ed="#Ba" n="12"/>mediate vel mediantibus aliis causis, nullo modo existit in actu: quia omnia per ipsum facta sunt: 
+        <lb ed="#Ba" n="13"/>&amp; sine ipso factum est nihil, vt dicitur Ioan. primo. Vtrumque ergo esse conuenit creaturae non nisi per ali 
+        <lb ed="#Ba" n="14"/>quam attributionem ad ens primum. 
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e311">
+        ⁋ Refert adhuc &amp; in alio: quia ordine rei &amp; nostrae cognitionis 
+        <lb ed="#Ba" n="15"/>substantia prior est accidente: quia est causa accidentium: &amp; cadit in eorum definitione: &amp; ita vtroque mo 
+        <lb ed="#Ba" n="16"/>do: &amp; quantum est ex parte rei: &amp; quantum est ex parte nostrae cognitionis ens primo significat sub 
+        <lb ed="#Ba" n="17"/>stantiam &amp; impositum est ad significandum eam: secundario vero accidens. In deo vero &amp; creatura: alius 
+        <lb ed="#Ba" n="18"/>est ordo rei: alius vero nostrae cognitionis. Deus enim ordine rei &amp; naturae prior est creatura. ordine 
+        <lb ed="#Ba" n="19"/>vero cognitionis nostrae secundum statum vitae huius in naturali cognitione pura &amp; distincta, econ 
+        <lb ed="#Ba" n="20"/>trario prior est creatura deo: quia ex creaturis deuenimus in cognitionem dei. Et ideo contigit quod  
+        <lb ed="#Ba" n="21"/>ordine rerum esse prius dicitur de deo quam de creaturis: quia tamen ordo impositionis nominis sequitur ordi- 
+        <lb ed="#Ba" n="22"/>nem nostrae cognitionis: quia nemo nomen imponit quid rem non nouit: ordine nostrae cognitionis &amp; im 
+        <lb ed="#Ba" n="23"/>positionis nominis esse primo dicitur de creaturis: secundario de deo: quia sic est in hoc nomine ens: sicut &amp; 
+        <lb ed="#Ba" n="24"/>in aliis nominibus quae deo attribuimus acceptis a creaturis, vt infra videbitur. Et hoc contingit in  
+        <lb ed="#Ba" n="25"/>pluribus scilicet quod illud quod est prius &amp; dignius simpliciter, non est prius secundum famositatem nominis. 
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e338">
+        <lb ed="#Ba" n="26"/>⁋ Ad primum in oppositum quod deus &amp; creatura in esse differunt a non ente no in  
+        <lb ed="#Ba" n="27"/>ter se: ergo conueniunt in ipso: Dicendum quod verum est convenientia imitationis formae creaturae ad spe 
+        <lb ed="#Ba" n="28"/>ciem dei hincinde significatarum nomine entis: non autem convenientia reali alicuius similitudinis, vt di- 
+        <lb ed="#Ba" n="29"/>ctum est. 
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e349">
+        ⁋ Ad secundum quod si deus &amp; creatura sunt diuersa in ente, reducitur multitudo illorum ad vni 
+        <lb ed="#Ba" n="30"/>tatem: Dicendum quod verum est: non ad vnitatem tertiam aliam ab illis multis: sicut procedit obiectum: nec 
+        <lb ed="#Ba" n="31"/>est hoc semper necessarium: sed ad vnitatem in altero illorum: &amp; sic quicquid est in creatura per attri 
+        <lb ed="#Ba" n="32"/>butionem quandam reducitur in deum, vt dictum est: &amp; sic omnis entium multitudo reducitur ad  
+        <lb ed="#Ba" n="33"/>vnitatem primi entis: sicut &amp; omnis numerus reducitur ad vnitatem primam a qua incipit &amp; quam conti 
+        <lb ed="#Ba" n="34"/>net in se. 
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e362">
+        ⁋ Ad tertium, quod ens simpliciter concipitur ante conceptum entis quod est deus aut creatura: Di- 
+        <lb ed="#Ba" n="35"/>cendum quod non est verum. Nunquam enim potest concipi aliquis intellectus entis simpliciter absque eo 
+        <lb ed="#Ba" n="36"/>quod homo concipit aliquem intellectum dei aut creaturae, vt concipiat aliquem vnicum intellectum 
+        <lb ed="#Ba" n="37"/>simplicem communem ad deum &amp; creaturam, alium praeter intellectum dei aut creaturae: quia nullus 
+        <lb ed="#Ba" n="38"/>potest esse talis. sed si aliquod concipit homo, illud est aut quid pertinet ad esse dei tantum: aut quid pertinet ad  
+        <lb ed="#Ba" n="39"/>esse creaturae tantum. Sed vtrumque eorum indifferenter &amp; aeque simul quantum est ex parte vocis natum 
+        <lb ed="#Ba" n="40"/>est praesentari in significato eius quod est esse. Et ideo vbicumque ponitur in enunciatione siue exterius expressa 
+        <lb ed="#Ba" n="41"/>siue in mente concepta, semper facit enunciationem esse multiplicem &amp; distinguendam. secundum quod istam 
+        <lb ed="#Ba" n="42"/>enunciationem qua dicitur ens est, distinguit Philosophus. i. Phyia. contra Parmeni. &amp; Melissum: quod aut significat 
+        <lb ed="#Ba" n="43"/>ens quod est substantia: aut ens accidens. Omnis ergo conceptus realis quo aliquid rei concipitur con- 
+        <lb ed="#Ba" n="44"/>cipiendo esse simpliciter, aut est conceptus rei quae deus est: aut quae creatura est: non alicuius communis 
+        <lb ed="#Ba" n="45"/>ad vtrumque. Videtur tamen hoc non potentibus distinguere multiplicitatem entis &amp; esse creatoris ab esse 
+        <lb ed="#Ba" n="46"/>creaturae: sicut nec potuit Plato ponens ens esse genus, tanquam sit nominis entis vnum aliquid commu 
+        <lb ed="#Ba" n="47"/>ne conceptum, quod non videtur subtilioribus potentibus distinguere ens, &amp; eius significata discerne 
+        <lb ed="#Ba" n="48"/>re qualis erat Aristoteles Quia autem nomine entis videatur concipi aliquid commune, est quia siue concipia 
+        <lb ed="#Ba" n="49"/>tur aliquid quod est res diuina, siue quod est creatura: tamen cum concipitur esse absque eo quod determinate &amp; di 
+        <lb ed="#Ba" n="50"/>stincte concipitur esse dei vel creaturae, illud non concipitur nisi indeterminate scilicet non determinando intelle 
+        <lb ed="#Ba" n="51"/>ctum ad esse dei vel esse creaturae. Et habendo respectum ad distinctum intellectum dei aut creaturae. 
+        <lb ed="#Ba" n="52"/>intellexit Auicen. Gsim bene intellexit) quod intellectus entis prior est intellectu dei aut creaturae. Intelligendum  
+        <lb ed="#Ba" n="53"/>tamen quod illa indeterminatio alia est respectu esse dei, &amp; alia respectu esse creaturae: quia duplex est in  
+        <lb ed="#Ba" n="54"/>determinatio: vna negatiue, altera vero priu atiue dicta. Est enim negatiua indeterminatio quan-  
+        <lb ed="#Ba" n="55"/>do indeterminatum non est natum determ inari: ad modum quo deus dicitur esse infinitus: quia non 
+   <!--264.xml-->
+        <pb ed="#Ba" n="125-r"/>
+        <lb ed="#Ba" n="1"/>est natus finiri. Est autem priuatiua indeterminatio quando indeterminatum natum est determinari: 
+        <lb ed="#Ba" n="2"/>ad modum quo punctus dicitur infinitus cum non est determinatus lineis quibus natus est deter 
+        <lb ed="#Ba" n="3"/>minari. Secundum istam autem duplicem indeterminationem oportet intelligere quod concipiendo esse 
+        <lb ed="#Ba" n="4"/>simpliciter &amp; indeterminate quod est dei: tunc est indeterminatio negatiua: quia esse dei nullo est 
+        <lb ed="#Ba" n="5"/>natum determinari, vt si postquam intellexeris in creaturis hoc esse &amp; illud esse: si intellexeris esse simpli- 
+        <lb ed="#Ba" n="6"/>citer per abnegationem quod sit neque huius determinati: neque illius vel alicuius alterius determinati: in  
+        <lb ed="#Ba" n="7"/>telligis esse dei. secundum quod dicit Augustius viii. de triniitate. Intelligis bonum hoc, bonum illud, intellige bonum 
+        <lb ed="#Ba" n="8"/>simpliciter &amp; deum intellexeris. Similiter si intelligis hoc ens &amp; illud ens: si intelligis ens simpliciter: 
+        <lb ed="#Ba" n="9"/>deum intelligis. &amp; hoc concipiendo esse simpliciter &amp; indeterminatum indeterminatione negationis, vt di- 
+        <lb ed="#Ba" n="10"/>ctum est. Concipiendo autem ipsum esse indeterminate indeterminatione priuationis illorum quibus na 
+        <lb ed="#Ba" n="11"/>tum est determinari, concipitur esse quod creaturae est: quia esse creaturae per proprias naturas quibus inuicem differunt, natum 
+        <lb ed="#Ba" n="12"/>est determinari. Quod enim dicitur ens simpliciter ex eo quod habet rationem exemplaris in primo, vt iam dictum 
+        <lb ed="#Ba" n="13"/>est, duplici natura habet determinari: quae non dicitur esse simpliciter: sed esse aliquid: cuiusmodi est natu- 
+        <lb ed="#Ba" n="14"/>ra substantiae &amp; accidentis. Nomen enim substantiae dicit aliquid quid est ens non existens in alio vt in  
+        <lb ed="#Ba" n="15"/>subiecto, nomen vero accidentis dicit ens quod est existens in alio vt in subiecto: &amp; secundum hoc substantia 
+        <lb ed="#Ba" n="16"/>&amp; accidens constituunt diuersa genera praedicamentorum, vt infra videbitur. vt alio &amp; alioconveniat omni creaturae 
+        <lb ed="#Ba" n="17"/>ex eo quod est res praedicamenti, quod habet esse, &amp; quod habet esse aliquid, esse enim convenit ei ex participatione per at  
+        <lb ed="#Ba" n="18"/>tributionem ad ens primum inquantum est ens, vt dictum est, esse vero aliquid conuenit ei ex de 
+        <lb ed="#Ba" n="19"/>terminatione propriae naturae. secundum quod dicit <name ref="#Boethius">Boethius</name>  de Hebd. Omne quod est participat eo quod est esse 
+        <lb ed="#Ba" n="20"/>vt sit: alio vero participat vt aliquid sit. vnde <name>Commentator</name> exponens illud <name ref="#Boethius">Boethii</name>  de triniitate. Deus est 
+        <lb ed="#Ba" n="21"/>forma quae est ipsum esse &amp; ex qua esse est. dicitid est est forma quae non ab alio mutuat hanc dictio- 
+        <lb ed="#Ba" n="22"/>nem est: &amp; quae caeteris omnibus quadam extrinsecus participatione communicat. Cum enim (vt dicit 
+        <lb ed="#Ba" n="23"/>in principio expositionis Hebd. dicimus homo est, vel corpus est, vel huiusmodi: theologi hoc esse dictum 
+        <lb ed="#Ba" n="24"/>intelligunt quadam extrinsecus denominatione ab esse sui principii. Non enim dicunt corporeitate 
+        <lb ed="#Ba" n="25"/>corpus esse: sed esse aliquid: nec humanitate hominem esse: sed esse aliquid. Et ad eundem modum quid  
+        <lb ed="#Ba" n="26"/>quod operante summo principio est, eadem principali &amp; increata essentia dicitur esse: suo vero quolibet genere esse ali 
+        <lb ed="#Ba" n="27"/>quid. Quod tamen, vt infra videbitur: non dicitur nisi aliqua participatione diuini esse: inquantum omnium en- 
+        <lb ed="#Ba" n="28"/>tium perfectiones in se continet. Per hunc ergo modum esse indeterminatum per abnegationem conve 
+        <lb ed="#Ba" n="29"/>nit deo: &amp; per priuationem creaturae. Et quia indeterminatio per abnegationem &amp; per priuationem propinquae sunt: 
+        <lb ed="#Ba" n="30"/>quia ambae tollunt determinationem, vna tantum secundum actum: alia secundum actum simul &amp; potentiam: ideo  
+        <lb ed="#Ba" n="31"/>non potentes distinguere inter huiusmodi diuersa pro eodem concipiunt esse simpliciter &amp; esse indetermina 
+        <lb ed="#Ba" n="32"/>tum: siue vno modo siue altero: siue sit dei: siue creaturae. Natura enim est intellectus non potentis di 
+        <lb ed="#Ba" n="33"/>stinguere ea quae propinqua sunt, concipere ipsa vt vnum: quae tamen in rei veritate non faciunt vnum 
+        <lb ed="#Ba" n="34"/>conceptum. Et ideo est error in illius conceptu. Verus enim conceptus primo concipiendo esse sim- 
+        <lb ed="#Ba" n="35"/>pliciter indeterminatum quod ratione suae indeterminationis nihil ponit omnino neque determinat, vt 
+        <lb ed="#Ba" n="36"/>ex hoc nihil sit re commune deo &amp; creaturae positiuum: sed negatiuum solum: &amp; si aliquid sit posi 
+        <lb ed="#Ba" n="37"/>tiuum substratum negationi, illud est alterius &amp; alterius rationis: sicut quod est per essentiam &amp; quid est per participa 
+        <lb ed="#Ba" n="38"/>tionem: quae consequenter rectus intellectus bene distinguit concipiendo esse indeterminatum vel negati 
+        <lb ed="#Ba" n="39"/>ue vel priuatiue. &amp; secundum hoc bene processit primum argumentum in oppositum. 
+      </p>
+      <p xml:id="vn58an-d1e1575-d1e508">
+        ⁋ Ad secundum, vero 
+        <lb ed="#Ba" n="40"/>quod videtur ostendere quod deus &amp; creatura nullo modo in esse communicant: neque participatione neque imi 
+        <lb ed="#Ba" n="41"/>tatione: quia in infinitum distat creatura a creatore: Dicendum ad hoc quod licet creatura non appropin- 
+        <lb ed="#Ba" n="42"/>quat creatori, vt sit aliquid naturae eius vel dispositio eius: sicut accidens appropinquat substantiae 
+        <lb ed="#Ba" n="43"/>vt procedit obiectio: appropinquat tamen ei inquantum est aliquid eius vt exemplatum vel effectus hamiens 
+        <lb ed="#Ba" n="44"/>aliquam eius imitationem, propter quam in esse communicat cum ipso: sicut accidens cum subiecto: non quod ali 
+        <lb ed="#Ba" n="45"/>quod commune ambobus ab ipsis abstractum per intellectum significetur nomine entis, vt intelligendo hoc ens 
+        <lb ed="#Ba" n="46"/>quod est deus, &amp; hoc ens quod est creatura, dimittam hoc &amp; hoc: &amp; intelligam ens commune ipsis: sicut 
+        <lb ed="#Ba" n="47"/>cum intelligo hunc hominem Sortem &amp; hunc Platonem, dimitto hunc &amp; hunc, &amp; intelligo hominem sim 
+        <lb ed="#Ba" n="48"/>pliciter. Hocenim potest fieri hic non ibi. quia hic est secundum speciem vna forma naturalis humanitatis 
+        <lb ed="#Ba" n="49"/>existens in ambobus partita &amp; determinata per materias: Propter quod dimittendo materias &amp; determinatio 
+        <lb ed="#Ba" n="50"/>nes formae per ipsas, potest intelligi ipsa forma simpliciter vt est vniversalis facta per intellectum, &amp; essentialis 
+        <lb ed="#Ba" n="51"/>similitudo suppositorum Sortis &amp; Platonis. Non autem potest hoc fieri ibi, quia non est ibi vna forma 
+        <lb ed="#Ba" n="52"/>naturalis existens in creatura &amp; creatore in ambobus partita &amp; determinata. Et ideo dimittendo hoc 
+        <lb ed="#Ba" n="53"/>&amp; hoc, nunquam intelligo vnum aliquid cone eis factum per intellectum quod est eorum similitudo. Sed intelligo  
+        <lb ed="#Ba" n="54"/>quoddam determinatum ad vnum &amp; ad alterum: non vnica indeterminatione: sed duplici, vt dictum est. 
+        <lb ed="#Ba" n="55"/>Sed quia natura qua habet esse creatura, imitatio est naturae qua habet esse deus (non dico similitu 
+   <!--265.xml-->
+        <pb ed="#Ba" n="125-v"/>
+        <lb ed="#Ba" n="1"/>do: sicut humanitas in Sorte est proprie similitudo humanitatis in Platone, vel simile ei) ideo esse 
+        <lb ed="#Ba" n="2"/>creaturae etiam imitatio &amp; conformitas quaedam est ad esse creatoris, &amp; ista eorum conformitas est illa eorum 
+        <lb ed="#Ba" n="3"/>communitas quam habent in esse creator &amp; creatura: non communitas realis in aliqua re vna, quae significe 
+        <lb ed="#Ba" n="4"/>tur nomine entis. Vnde et si talis imitatio non esset esse creaturae ad esse creatoris: nulla diceretur 
+        <lb ed="#Ba" n="5"/>esse inter eos communitas in ente nisi vocis solum, &amp; esset ens pure aequiuocum ad creatorem &amp; crea 
+        <lb ed="#Ba" n="6"/>turam: cum modo sit analogum vt dictum est. secundum etiam quod &amp; accidens quia participat esse per sub- 
+        <lb ed="#Ba" n="7"/>stantiam, quia est dispositio eius, ideo est aliqua communicatio analogiae eorum in ente, quae quidem 
+        <lb ed="#Ba" n="8"/>non esset si accidens non haberet esse per substantiam, sed per esse non existendo in substantia. Tunc 
+        <lb ed="#Ba" n="9"/>enim pure aequiuoce diceretur ens de substantia &amp; accidente, sicut dicitur de qualitate &amp; quantitate, nisi 
+        <lb ed="#Ba" n="10"/>forte qualitas habeat esse in subiecto mediante quantitate. &amp; secundum hoc ens per prius dicitur de 
+        <lb ed="#Ba" n="11"/>vno quam de altero, &amp; de vno per alterum: &amp; ita quodam modo analogice.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

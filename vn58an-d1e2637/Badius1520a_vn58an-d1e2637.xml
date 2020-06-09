@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="240-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2637"> <!-- alias="vn58an-a37q1" -->
+      <head xml:id="vn58an-d1e2637-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e2637-Hd1e107" type="question-title">Utrum in Deo sit ponere rationem habitus</head>
+      <p xml:id="vn58an-d1e2637-d1e110">
+        <lb ed="#Ba" n="31"/>CIrca primum arguitur, quod in deo non sit ponere rationem habitus. Primo sic. 
+        <lb ed="#Ba" n="32"/>Habitus medium est inter potentiam &amp; actum qui per ipsum elicitur de po- 
+        <lb ed="#Ba" n="33"/>tentia, &amp; ita est quasi imperfectum quid respectu actus. nulla autem ratio imperfe- 
+        <lb ed="#Ba" n="34"/>ctionis in deo poni debet: secundum praedeterminata. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2637-d1e121">
+        ⁋ Secundo sic. Habi- 
+        <lb ed="#Ba" n="35"/>tus est perfectio potentiae eius in quo est. in deo autem potentia non perficitur 
+        <lb ed="#Ba" n="36"/>per habitum: quia in eo nihil est perfectibile: sed totum perfectum est quicquid  
+        <lb ed="#Ba" n="37"/>in eo est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2637-d1e131">
+        ⁋ Tertio sic. Sicut se habet in deo essentia ad esse, sic se ha-  
+        <lb ed="#Ba" n="38"/>bet scientia ad scire, &amp; sapientia ad sapere, &amp; caetera quae in deo videntur se habere per modum 
+        <lb ed="#Ba" n="39"/>habitus respectu suorum actuum. sed essentia dei respectu esse non se habet in ratione habitus:  
+        <lb ed="#Ba" n="40"/>quia ratio esse prima est in omnibus diuinis rationibus etiam respectu essentiae: vt supra deter 
+        <lb ed="#Ba" n="41"/>minatum est. Ratio autem habitus secundum rationem intelligendi semper prima est respectu 
+        <lb ed="#Ba" n="42"/>rationis actus ad quem est. ergo scientia, sapientia, &amp; huiusmodi in deo non habent rationem ha-  
+        <lb ed="#Ba" n="43"/>bitus, quare nec alia: quia ista maxime habent rationem habitus in deo. 
+      </p>
+      <p xml:id="vn58an-d1e2637-d1e147">
+        ⁋ Quarto sic. Sicut se 
+        <lb ed="#Ba" n="44"/>habet esse in deo ad essentiam, sic scire ad scientiam, sapere ad sapientiam, &amp; sic de caeteris. ergo  
+        <lb ed="#Ba" n="45"/>permutatim, sicut scire, sapere, &amp; caeterae actiones diuinae se habent ad esse, sic scientia, sapientia, &amp; 
+        <lb ed="#Ba" n="46"/>caetera huiusmodi, quae videntur in deo habere rationem habituum, se habent ad essentiam. sed  
+        <lb ed="#Ba" n="47"/>omnes actiones illae se habent ad esse dei, quod sunt quaedam rationes ipsius esse: quia reducuntur 
+        <lb ed="#Ba" n="48"/>ad esse. Intelligere enim in deo, est ipsi esse. &amp; sic de aliis actibus. ergo scientia, sapientia, &amp; huius- 
+        <lb ed="#Ba" n="49"/>modi sunt quaedam rationes ipsius essentiae, &amp; reducuntur ad ipsam. sed ratio essentiae non est ratio 
+        <lb ed="#Ba" n="50"/>habitus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2637-d1e165">
+        ⁋ In contrarium est, quoniam habitus est perfectio potentiae qua faciliter &amp; expedi 
+        <lb ed="#Ba" n="51"/>te potest quis in opus. qui ergo expeditissime potest in opus &amp; facillime, maxime debet dici ha- 
+        <lb ed="#Ba" n="52"/>bere habitus. deus est huiusmodi. ergo &amp;c. 
+   <!--495.xml-->
+        <pb ed="#Ba" n="240-v"/>
+      </p>
+      <p xml:id="vn58an-d1e2637-d1e176">
+        <lb ed="#Ba" n="1"/>⁋ Dicendum ad hoc secundum praedeterminata, quod illud quod est perfectionis &amp; dignita- 
+        <lb ed="#Ba" n="2"/>tis simpliciter, semper in deo ponendum est. Nunc autem cum habitus est perfectio potentiae respectu 
+        <lb ed="#Ba" n="3"/>actus egredientis a potentia, &amp; perfectionis simpliciter est in actione, quod egrediatur de potentia per 
+        <lb ed="#Ba" n="4"/>habitum: quia agere ex habitu semper in vnoquoque melius est &amp; perfectius quam non agere ex habi- 
+        <lb ed="#Ba" n="5"/>tu: quia habitus ratione qua habitus est, semper promptitudinem &amp; expeditionem ponit in eliciendo  
+        <lb ed="#Ba" n="6"/>actum: vt procedit vltimum argumentum, &amp; hoc in vnoquoque agente semper melius est ipsum quam non  
+        <lb ed="#Ba" n="7"/>ipsum: Idcirco simpliciter ponendi sunt habitus in deo ex hoc circa actus qui in deo sunt, quorum 
+        <lb ed="#Ba" n="8"/>perfectio est in creaturis, a quibus sit attributio eorum quae sunt dignitatis ad deum. Quicquid enim 
+        <lb ed="#Ba" n="9"/>in creaturis inuenitur quod est simpliciter melius &amp; dignius ipsum quam non ipsum, deo est attribuen 
+        <lb ed="#Ba" n="10"/>dum, modo tamen supereminenti &amp; alia ratione quam inuenitur in creaturis: vt sit re id quod ipsa diuina essen- 
+        <lb ed="#Ba" n="11"/>tia, differens ab ea sola ratione. Vnde sicut in deo ponimus potentiam ad actum intelligendi intel 
+        <lb ed="#Ba" n="12"/>lectum, sic ponimus habitum notitiae in ipso ad expedite eliciendum, re tamen eundem cum ipsa potentia &amp; suba 
+        <lb ed="#Ba" n="13"/>stantia: vt quemadmodum ipsa substantia dicitur potentia inquantum respicit actum vt eius elicitiuum sim 
+        <lb ed="#Ba" n="14"/>pliciter: sic dicitur habitus in potentia inquantum respicit actum vt expedite elicitiuum, &amp; sicut de 
+        <lb ed="#Ba" n="15"/>isto, sic &amp; de aliis quae perfectionem notant simpliciter respectu actus. 
+      </p>
+      <p xml:id="vn58an-d1e2637-d1e211">
+        <lb ed="#Ba" n="16"/>⁋ Ad primum in oppositum, quod habitus est medium inter potentiam &amp; actum &amp;c. Di 
+        <lb ed="#Ba" n="17"/>cendum quod verum est non vt differens in deo secundum rem ab vtroque, sicut differt in creaturis: sed secundum ra 
+        <lb ed="#Ba" n="18"/>tionem solum. Vbi autem differt secundum rem, verum est quod habet rationem imperfecti: quia talis ha-  
+        <lb ed="#Ba" n="19"/>bitus quantum est de se potest distare ab actu, &amp; est res per habitum talem similis dormienti. Propter 
+        <lb ed="#Ba" n="20"/>quod felicitatem quae debet esse in nobis bonum perfectissimum, non ponit <name ref="#Aristotle">Philosophus</name> secundum habitum: sed secundum  
+        <lb ed="#Ba" n="21"/>actum. Vbi vero differt ab actu sola ratione, habet rationem perfecti sicut &amp; actus. De ratione 
+        <lb ed="#Ba" n="22"/>enim talis habitus est: vt sit semper in actu: sicut est &amp; de ratione actus vt sit semper ex habitu. 
+      </p>
+      <p xml:id="vn58an-d1e2637-d1e232">
+        ⁋ Per 
+        <lb ed="#Ba" n="23"/>idem patet ad secundum: dicendo quod in deo potentia perficitur per habitum secundum rationem intelligen  
+        <lb ed="#Ba" n="24"/>di tantum: vt differens sola ratione ab illa. Tale perfectibile secundum rem est semper perfectum, &amp; ni 
+        <lb ed="#Ba" n="25"/>hil imperfectionis ponit: quia eius perfectibilitas est non vt distet a perfectione, neque potens dista 
+        <lb ed="#Ba" n="26"/>re, scilicet posse distare, quod omnino imperfectionis est, sicut contingit in creaturis vbi re sunt 
+        <lb ed="#Ba" n="27"/>diuersa: sed est eius perfectibilitas: vt semper sit indistans a sua perfectione quae est habitus, si- 
+        <lb ed="#Ba" n="28"/>cut est habitus quod sit semper indistans a suo actu, quod omnino est perfectionis. 
+      </p>
+      <p xml:id="vn58an-d1e2637-d1e249">
+        ⁋ Ad tertium 
+        <lb ed="#Ba" n="29"/>quod ratio esse prima est respectu rationis essentiae: ergo essentia non est vt habitus respectu esse &amp;c. 
+        <lb ed="#Ba" n="30"/>Dicendum ad hoc: quod licet deus non sit nisi actus purus &amp; esse quoddam: vt supra determinatum est 
+        <lb ed="#Ba" n="31"/>&amp; ideo quicquid est in deo actus est, &amp; ad esse dei purum habet reduci: sicut ex illo secundum ratio-  
+        <lb ed="#Ba" n="32"/>nem intelligendi habet educi: Alia tamen ratio actus &amp; alia importatur per quaedam quae intelliguntur in  
+        <lb ed="#Ba" n="33"/>deo, quam per alia, &amp; aliter habent in esse diuinum quaedam eorum reduci quam alia. &amp; pertinet primum ad dif 
+        <lb ed="#Ba" n="34"/>solutionem huius tertiae rationis: secundum ad dissolutionem vltimae. Circa primum igitur sciendum quod 
+        <lb ed="#Ba" n="35"/>licet omnia quae sunt in deo, vere actus sunt: cum tamen actus significatur dupliciter, vel vt habitus, 
+        <lb ed="#Ba" n="36"/>vel vt agere, &amp; vtroque modo vel vt primus, vel vt secundus: Verbi gratia in creaturis actus 
+        <lb ed="#Ba" n="37"/>primus vt habitus anima est: actus secundus vt habitus scientia est in anima: actus primus 
+        <lb ed="#Ba" n="38"/>vt agere, est esse procedens ab anima: actus secundus vt agere est scire seu intelligere procedens 
+        <lb ed="#Ba" n="39"/>ex scientia: in deo ergo vt in ipso ponatur perfectio secundum omnem rationem actus, quaedam significan 
+        <lb ed="#Ba" n="40"/>tur &amp; intelliguntur in ipso sicut actus primus vt habitus, quemadmodum essentia &amp; vita: quaedam si 
+        <lb ed="#Ba" n="41"/>cut actus secundus vt habitus, sicut sapientia, scientia: quaedam sicut actus primus vt agere: sicut 
+        <lb ed="#Ba" n="42"/>esse &amp; viuere: quaedam sicut actus secundus vt agere, sicut scire &amp; intelligere, &amp; huiusmodi. In 
+        <lb ed="#Ba" n="43"/>quibus sciendum quod non sicut se habent adinuicem in deo actus primi vt habitus &amp; vt agere. scilicet essentia 
+        <lb ed="#Ba" n="44"/>&amp; esse, vita &amp; viuere, sic se habent adinuicem actus secundi vt habitus &amp; vt agere. scilicet scientia &amp; scire seu 
+        <lb ed="#Ba" n="45"/>intelligere: vt supponit argumentum: sed multo aliter. Quoniam in deo illi actus primi ab eadem ratione 
+        <lb ed="#Ba" n="46"/>imponuntur: differunt autem secundum modum significandi dictionis. Esse enim &amp; essentia, viuere &amp; vita, non  
+        <lb ed="#Ba" n="47"/>differunt in deo nisi sicut currere &amp; cursus: vt expositum est supra: licet in creaturis a diuersis 
+        <lb ed="#Ba" n="48"/>rebus aut intentionibus imponuntur essentia &amp; esse: vt supra habitum est. Actus vero secundi 
+        <lb ed="#Ba" n="49"/>in deo a diuersis rationibus imponuntur: quemadmodum in creaturis imponuntur a diuersis 
+        <lb ed="#Ba" n="50"/>rebus. Non enim se habet scientia ad scire sicut cursus ad currere: sed sicut ars currendi in cur 
+        <lb ed="#Ba" n="51"/>rente ad ipsum currere. Et ideo licet in deo prior est ratio essendi secundum modum significan- 
+        <lb ed="#Ba" n="52"/>di importatum per esse, quam secundum modum significatum per essentiam: quia ille modus importat ma 
+        <lb ed="#Ba" n="53"/>iorem actualitatem vt dictum est supra: &amp; non potest se habere essentia in deo per modum elicientis 
+        <lb ed="#Ba" n="54"/>actum essendi, nec esse dei potest se habere per modum eliciti, sed omnino primi, sicut se habet in  
+   <!--496.xml-->
+        <pb ed="#Ba" n="241-r"/>
+        <lb ed="#Ba" n="1"/>creaturis: in quibus ratio essentiae praecedit rationem esse, vt habitum est supra: &amp; hoc propter iden 
+        <lb ed="#Ba" n="2"/>titatem rationis a qua imponuntur nomen essentiae &amp; esse in deo, &amp; diuersitatis rerum aut inten- 
+        <lb ed="#Ba" n="3"/>tionum a quibus imponuntur nomen essentiae &amp; esse in creaturis. In deo tamen prior est ratio scientiae quam 
+        <lb ed="#Ba" n="4"/>scire: quia scire eo quod habet rationem actus secundi vt agere, se habet per modum eliciti: &amp; ita respi 
+        <lb ed="#Ba" n="5"/>cit secundum modum intelligendi vt praecedens id a quo elicitur, quod habet scilicet rationem potentiae 
+        <lb ed="#Ba" n="6"/>inquantum significatur vt principium eliciendi principale, &amp; rationem habitus inquantum signi 
+        <lb ed="#Ba" n="7"/>ficatur vt dispositio in illo ad expedite eliciendum. 
+      </p>
+      <p xml:id="vn58an-d1e2637-d1e327">
+        ⁋ Per hoc patet in parte ad vltimum, quoniam fal- 
+        <lb ed="#Ba" n="8"/>sum est quod in maiori propositione assumitur: sicut se habet esse ad essentiam: sic scire ad scientiam 
+        <lb ed="#Ba" n="9"/>Licet enim aliquo modo vera esset comparatio in creaturis: quia esse praecedit essentiam: non tamen 
+        <lb ed="#Ba" n="10"/>in deo: quia modus esse praecedit modum essentiae. Et ideo non sequitur commutata proportio ne 
+        <lb ed="#Ba" n="11"/>quod processus vlterior: quod sicut se habet scire ad esse: &amp; scientia ad essentiam. Ealsum etiam assumi- 
+        <lb ed="#Ba" n="12"/>tur in processu vltimo: cum dicitur quod scire reducitur ad esse: sicut ratio quaedam ipsius esse. Immo 
+        <lb ed="#Ba" n="13"/>alia est ratio omnino ipsius esse: &amp; alia omnium actuum secundorum in ipso vt agere: sicut &amp; alia 
+        <lb ed="#Ba" n="14"/>est ratio scientiae in deo quam essentiae. Vnde non se habent actus vt agere secundi, sicut scire, velle, &amp; hu 
+        <lb ed="#Ba" n="15"/>iusmodi in deo adesse: sicut se habet viuere ad esse: neque actus secundi vt habitus, sicut sapientia, scien 
+        <lb ed="#Ba" n="16"/>tia, &amp; huiusmodi in deo ad essentiam: sicut se habet vita ad essentiam, quoniam in deo ab eadem ratione secun- 
+        <lb ed="#Ba" n="17"/>dum diuersum modum eiusdem esse &amp; essentiae imponuntur esse &amp; viuere, essentia &amp; vita: omni 
+        <lb ed="#Ba" n="18"/>no autem a diuersis rationibus imponuntur in deo esse &amp; scire, essentia &amp; scientia, vt dictum est. 
+        <lb ed="#Ba" n="19"/>Vnde scire non reducitur ad esse sicut ratio quaedam ipsius esse: quemadmodum reducitur viuere ad 
+        <lb ed="#Ba" n="20"/>esse: sed solum sicut ratio posterior ad priorem: similiter nec scientia ad essentiam tanquam ratio quae  
+        <lb ed="#Ba" n="21"/>dam ipsius: quemadmodum ad ipsam reducitur vita: sed scire &amp; omnis actus secundus vt agere, 
+        <lb ed="#Ba" n="22"/>reducitur ad esse: &amp; similiter scientia &amp; omnis actus secundus vt habitus, reducitur ad es- 
+        <lb ed="#Ba" n="23"/>sentiam, tanquam ad prima principia seu fundamenta eorum ad quae habent reduci secundum no-  
+        <lb ed="#Ba" n="24"/>stram rationem intelligendi. Et sit ista reductio secundum duas coordinationes, reducendo quaecum 
+        <lb ed="#Ba" n="25"/>quod in deo significant per modum agere, ad esse, tanquam ad primum in genere ipsorum: &amp; quaecunque si 
+        <lb ed="#Ba" n="26"/>gnificant per modum habitus, ad essentiam, tanquam ad primum in genere ipsorum. vt secundum hoc actio 
+        <lb ed="#Ba" n="27"/>nes diuinas significatas per modum agere respectu creaturarum, vt creare, gubernare, &amp; huiusmodi, redu 
+        <lb ed="#Ba" n="28"/>camus ad actiones personales quae sunt generare, spirare: &amp; illas ad actiones essentiales quae sunt vel- 
+        <lb ed="#Ba" n="29"/>lse, &amp; intelligere: &amp; illas ad actiones primas quae sunt viuere &amp; esse: &amp; etiam ipsum viuere ad esse. Alia simili 
+        <lb ed="#Ba" n="30"/>ter quaecunque in deo significant per modum habitus, consimiliter reducuntur in essentiam &amp; vi- 
+        <lb ed="#Ba" n="31"/>tam: &amp; etiam ipsa vita ad essentiam. Quare cum essentia reducitur ad esse tanquam ad primum sim- 
+        <lb ed="#Ba" n="32"/>plicissimum sub perfectissima ratione deum reprsesentans, mediante etiam essentia reducuntur ad esse quae  
+        <lb ed="#Ba" n="33"/>cumque reducuntur ad essentiam: &amp; sic vniuersaliter quaecunque in deo considerantur, ad esse eius ha-  
+        <lb ed="#Ba" n="34"/>bent reduci. Est &amp; alius modus reducendi omnia illa in diuinum esse secundum vnam coordinatio 
+        <lb ed="#Ba" n="35"/>nem, iuxta modum &amp; ordinem quem habent iuxta rationem conceptus nostri ab ipso educi: vt pri- 
+        <lb ed="#Ba" n="36"/>mus sit esse: &amp; inde per ordinem essentia: viuere: vita: veritas: potentia: intellectus: scientia: intelligere si 
+        <lb ed="#Ba" n="37"/>ue scire: bonitas: voluntas: amor: velle: generare: spirare: creare: gubernare.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="113-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe31107"> <!-- alias="vn58an-a56q2" -->
+      <head xml:id="vn58an-fe31107-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe31107-d1e107">
+        <lb ed="#Bb" n="43"/>CIrca secundum arguitur, quod in vna persona non possunt esse plures proprietates 
+        <lb ed="#Bb" n="44"/>Primo sic. Magister dicit primo Sententiarum distinctione. xxxiii. cap. Quorum. 
+        <lb ed="#Bb" n="45"/>n ipsis hypostasibus sic sunt proprietates quod eas determinant. sed personam non 
+        <lb ed="#Bb" n="46"/>determinat proprietas nisi eam constituat: quia determinando constituit: &amp; 
+        <lb ed="#Bb" n="47"/>vna persona non constituitur nisi vna proprietate. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe31107-d1e120">
+        ⁋ Secundo sic. cum 
+        <lb ed="#Bb" n="48"/>proprietas in diuinis secundum determinata res sit, si in vna persona essent plu 
+        <lb ed="#Bb" n="49"/>res proprietates, cum proprietates denominant personam, vna persona esset plu- 
+        <lb ed="#Bb" n="50"/>res res. 
+      </p>
+      <p xml:id="vn58an-fe31107-d1e129">
+        ⁋ In contrarium est, quoniam persona non distinguitur a persona nisi proprietate. Cum er 
+        <lb ed="#Bb" n="51"/>go vna persona distinguitur a pluribus, oportet ponere quod in vna persona sint plures proprie- 
+        <lb ed="#Bb" n="52"/>tates. 
+        <lb ed="#Bb" n="53"/> 
+      </p>
+      <p xml:id="vn58an-fe31107-d1e139">
+        ⁋ Dicendum ad hoc. secundum praedeterminata, quod strictissime loquendo de proprietate non sunt 
+   <!--242.xml-->
+        <pb ed="#Bb" n="114-r"/>
+        <lb ed="#Bb" n="1"/>proprietates plures in vna persona: quia non sunt plures nisi tres personales constitutiuae trium personarum. Lar 
+        <lb ed="#Bb" n="2"/>gius autem loquendo secundum quod innascibilitas &amp; communis spiratio dicuntur proprietates, planum est quod duae  
+        <lb ed="#Bb" n="3"/>sunt proprie in patre, innascibilitas &amp; generare: &amp; vna coniter in ipso &amp; filio, scilicet communis spiratio actiua. 
+      </p>
+      <p xml:id="vn58an-fe31107-d1e152">
+        <lb ed="#Bb" n="4"/>⁋ Ad primum in oppositum, quod non est proprietas in persona nisi eam determinet 
+        <lb ed="#Bb" n="5"/>&amp; tales non sunt nisi tres constitutiuae: Dicendum est quod illud dictum est solum de tribus proprietatibus persona 
+        <lb ed="#Bb" n="6"/>libus. Veruntamen distinguendum est, quod determinare potest proprietas personam vel in se &amp; respectu alte-  
+        <lb ed="#Bb" n="7"/>rius personae simul, vel respectu alterius personae tantum. Tertium membrum, scilicet in se tantum, est impossibile: quia in  
+        <lb ed="#Bb" n="8"/>diuinis secundum supra determinata non est persona nisi relatiua. Primo modo non determinant personam 
+        <lb ed="#Bb" n="9"/>nisi tres proprietates personales. Secundo modo potest proprietas determinare personam dupliciter, aut  
+        <lb ed="#Bb" n="10"/>positiue, aut negatiue. Primo modo determinat communis spiratio personas patris &amp; filii distiguem 
+        <lb ed="#Bb" n="11"/>do eas a persona spiritus sancti. aliter enim non esset in eis principium emanationis spiritus sancti. Ni 
+        <lb ed="#Bb" n="12"/>hil enim producitur proprietate aliqua, quod non determinatur per eam. Vnde Magister primo Sententiarum di-  
+        <lb ed="#Bb" n="13"/>stinctione. xxxii. cap. Quorum. dicit. Licet paternitas &amp; filiatio sint in essentia diuina: cum eam non de 
+        <lb ed="#Bb" n="14"/>terminent: non ideo potest dici quod diuina essentia generet &amp; generetur: vel quod eadem res sit pater 
+        <lb ed="#Bb" n="15"/>&amp; filius. ita enim proprietas determinat personas, vt hac proprietate hypostasis sit generans: &amp; illa alia 
+        <lb ed="#Bb" n="16"/>hypostasis sit generata. Secundo modo ingenitum determinat personam patris respectu non genito 
+        <lb ed="#Bb" n="17"/>ris, vt tactum est supra: &amp; inferius amplius declarabitur. 
+      </p>
+      <p xml:id="vn58an-fe31107-d1e185">
+        ⁋ Ad secundum, quod plures res essent in ea 
+        <lb ed="#Bb" n="18"/>dem persona: dicendum secundum quod dicit Alexander in summa sua, proprietas non dicit rem proprie: sed ra 
+        <lb ed="#Bb" n="19"/>tionem rei. Et huius ratio est, quia res secundum quod sumitur in diuinis, non dicitur a reor reris: sed tantum 
+        <lb ed="#Bb" n="20"/>aratitudine: &amp; non est nisi duplex ratitudo scilicet existendi &amp; subsistendi. Ratitudine existendi non est res in di- 
+        <lb ed="#Bb" n="21"/>uinis, nisi essentia in quae existunt personae, &amp; quaecumque sunt in deo. Ratitudine vero subsistendi non est res in  
+        <lb ed="#Bb" n="22"/>diuinis nisi persona in qua subsistit essentia, &amp; quaecumque sunt in diuinis. propter quod proprietas licet in di- 
+        <lb ed="#Bb" n="23"/>uinis dicitur relatio realis, vt supra determinatum est: non tamen proprie potest dici res nisi cum deter- 
+        <lb ed="#Bb" n="24"/>minatione: dicendo res relationis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="54-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e665"> <!-- alias="vn58an-a7q6" -->
+      <head xml:id="vn58an-d1e665-Hd1e104">Quaestio 6</head>
+      <head xml:id="vn58an-d1e665-Hd1e107" type="question-title">Utrum sit principalis super omnes alias</head>
+      <p xml:id="vn58an-d1e665-d1e110">
+        <lb ed="#Ba" n="22"/>CIrca. vi. arguitur quod ista scientia non sit principalior scientiarum. Primo sic. probata a 
+        <lb ed="#Ba" n="23"/>scientia principali sumunt &amp; supponunt aliae, non econtrario. vt aliae scientiae sumunt 
+        <lb ed="#Ba" n="24"/>&amp; supponunt probata a metaphysica, &amp; generaliter scientia subalternata a scientia sub 
+        <lb ed="#Ba" n="25"/>alternante. Nulla autem aliarum scientiarum sumit &amp; supponit aliquid probatum ab ista 
+        <lb ed="#Ba" n="26"/>scientia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e123">
+        ⁋ Secundo sic. illa scientia est principalior aliis quae est vniuersalior, sub cuius 
+        <lb ed="#Ba" n="27"/>subiecto continentur subiecta aliarum. secundum quod metaphysica principalis est inter 
+        <lb ed="#Ba" n="28"/>scientias philosophicas, secundum Philosophum. i. &amp;. iiii. Metaph. &amp; talis non est ista scien 
+        <lb ed="#Ba" n="29"/>tia: quia subiectum eius quod est deus, est sub subiecto metaphysicae quod est ens: &amp; est quasi quaedam pers entis secundum  
+        <lb ed="#Ba" n="30"/>Auicen. i. Metaphysicae suae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e135">
+        ⁋ Tertio sic. illa scientia non est principalis quae supponit tanquam  
+        <lb ed="#Ba" n="31"/>subiectum suum quod in alia scientia probatur: ista scientia est huiusmodi. Supponit enim tamquam suum subiectum 
+        <lb ed="#Ba" n="32"/>scilicet deum esse, quid secundum Auicen. probatur in scientia philosophica. Supponit etiam &amp; sumit in suum 
+        <lb ed="#Ba" n="33"/>vsum alia plura probata in aliis scientiis, vt infra patebit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e144">
+        ⁋ Quarto sic. Philosophous dicit. i. 
+        <lb ed="#Ba" n="34"/>Metaphi. de scientia illa. Potior hac neque vna. sed illa quae est potior est principalior, ergo illa est princi- 
+        <lb ed="#Ba" n="35"/>palior omnibus: non ergo ista. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e151">
+        ⁋ Quinto sic. Scientia principalior aliis debet esse iudex &amp; regula alia 
+        <lb ed="#Ba" n="36"/>rum secundum Philosophum. iiii. Metaphysicae. quod non potest esse ista scientia, quia secundum <name ref="#Augustine">Augustinus</name> xiii. de 
+        <lb ed="#Ba" n="37"/>Tri. id est eius non est cognoscere nisi ea quae sunt fidei. per quae non possunt iudicarivel regulari ea quae sunt alia 
+        <lb ed="#Ba" n="38"/>rum scientiarum, quia quae sunt fidei non cognoscuntur nisi lumine supernaturali. quae sunt aliarum scien- 
+        <lb ed="#Ba" n="39"/>tiarum iudicari, cognosci, &amp; regulari habent lumine naturali. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e165">
+        ⁋ Sexto sic. nullus bene iudi- 
+        <lb ed="#Ba" n="40"/>cat nisi quae nouit: sed huius scientiae non est noscere illa quae sunt aliarum scientiarum, vt quod anguli trianguli 
+        <lb ed="#Ba" n="41"/>sunt aequales duobus rectis, &amp; caetera huiusmodi. scientiae autem principalis est iudicare illa quae sunt 
+        <lb ed="#Ba" n="42"/>aliarum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e174">
+        ⁋ Contra est, quoniam scientia quae est aliarum sapientia principalis est super alias, secun- 
+        <lb ed="#Ba" n="43"/>dum Philosophum. i. Metaph. haec scientia est huiusmodi vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e179">
+        <lb ed="#Ba" n="44"/>⁋ Dicendum ad hoc, primo intelligendo quod scientia vna non dicitur altera principa 
+        <lb ed="#Ba" n="45"/>lior ex hoc quod melior est &amp; vtilior, honorabilior, dignior, certior, aut aliquid huiusmodi: sed solum ex hoc 
+        <lb ed="#Ba" n="46"/>quod habet praerogatiuam aliquam super illam in dirigendo &amp; regulando eam aliquo modo. vnde etsi libera- 
+        <lb ed="#Ba" n="47"/>les scientiae speculatiuae digniores &amp; meliores &amp; certiores dicantur scientiis mechanicis, &amp; vniuersaliter 
+        <lb ed="#Ba" n="48"/>scientiis practicis: non tamen dicuntur principales respectu illarum, quia nullam praerogatiuam regiminis habent 
+        <lb ed="#Ba" n="49"/>super eas, neque eis principantur in aliquo. Sed scientia ciuilis dicitur principalis respectu omnium artium 
+        <lb ed="#Ba" n="50"/>mechanicarum quae exercendae sunt in ciuitate, quia omnes ordinat disponit &amp; regulat, vt dicit Philoso- 
+        <lb ed="#Ba" n="51"/>phus. i. Ethicorum Sciendum igitur cum duo sint genera scientiarum liberalium ad quae omnes aliae reducuntur: Quae- 
+        <lb ed="#Ba" n="52"/>dam enim sunt practicae, quarum finis est bonum siue operatio: Quaedam vero speculatiuae, quarum finis est ve 
+        <lb ed="#Ba" n="53"/>ritas siue cognitio, vt dicit Philosophous. ii. Metaph. Regimen autem omne consistit in directione rei in  
+        <lb ed="#Ba" n="54"/>suum finem: si igitur aliqua scientia dicitur principalis respectu omnium aliarum, hoc erit respectu speculatiua 
+        <lb ed="#Ba" n="55"/>rum dirigendo eas in cognitione veri, &amp; respectu practicarum dirigendo eas in opeatione boni. &amp; illa quae talis 
+   <!--124.xml-->
+        <pb ed="#Ba" n="55-r"/>
+        <lb ed="#Ba" n="1"/>est: ipsa reuera principalis debet dici respectu omnium scientiarum: talis autem est haec scientia theologiae 
+        <lb ed="#Ba" n="2"/>Idcirco absolute dicendum quod theologia simpliciter est scientia principalis &amp; principalissima omnium scientia- 
+        <lb ed="#Ba" n="3"/>rum: &amp; speculatiuarum regulando omnes speculatiuas in finem suum quo ad cognitionem veri: &amp; practicarum 
+        <lb ed="#Ba" n="4"/>regulando omnes practicas in suum finem quo ad operationem boni. secundum quod istae duae causae primum verum 
+        <lb ed="#Ba" n="5"/>&amp; vltimum bonum, principaliter cadunt in cognitione huius scientiae. Propter quod etiam dicta est sapientia supe 
+        <lb ed="#Ba" n="6"/>omnes alias scientias, vt determinatum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e226">
+        ⁋ Ad cuius intellectum sciendum quod duplex est modus principali 
+        <lb ed="#Ba" n="7"/>tatis scientiae vnius super alias: quorum vnus est in scientiis speculatiuis: alius vero est in scientiis practicis. In scien 
+        <lb ed="#Ba" n="8"/>tiis enim speculatiuis est principalitas vniversalitatis. secundum quod in scientiis speculatiuis illa dicitur esse principalis quae est 
+        <lb ed="#Ba" n="9"/>super omnes alias vniversalis. In scientiis vero practicis est principalitas respectu actionis. secundum quod in scientiis practicis illa 
+        <lb ed="#Ba" n="10"/>dicitur principalis quae super omnes alias dominium habet atque imperium. secundum quod <name ref="#Aristotle">Philosophus</name> in primo Ethicorum vo- 
+        <lb ed="#Ba" n="11"/>cat scientiam ciuilem principalem &amp; architectonicam super omnes scientias practicas tam liberales quam mechanicas. De 
+        <lb ed="#Ba" n="12"/>scientia igitur principali in speculatiuis, Sciendum primo quod in scientiis speculatiuis illa dicitur principalis &amp; 
+        <lb ed="#Ba" n="13"/>vniversalis respectu aliarum, quae considerat causas altissimas &amp; prima principia omnium: cum aliae considerent cau 
+        <lb ed="#Ba" n="14"/>sas inferiores quae per illas causas primas &amp; altissimas regi habent. Propter quid sicut patet primo &amp; 
+        <lb ed="#Ba" n="15"/>quarto metaphysicae., <name ref="#Aristotle">Philosophus</name> metaphysicam principalem &amp; vniuersalem scientiam super alias ponit: vo- 
+        <lb ed="#Ba" n="16"/>cans eam sapientiam &amp; primam philosophiam. Nunc autem ita est quod theologia simpliciter considerat de rebus 
+        <lb ed="#Ba" n="17"/>magis altis in omnibus entibus: &amp; quae intellectum naturalis rationis excedunt: etsi aliqua ex illis non omnino  
+        <lb ed="#Ba" n="18"/>eum excedunt: quia magis vniversalia sunt &amp; prima: &amp; ideo remotissima a sensu difficillima sunt homini co- 
+        <lb ed="#Ba" n="19"/>gnoscere, vt dicitur in primo metaphysicae: cum aliae scientiae considerent de eis quae naturali rationi sub 
+        <lb ed="#Ba" n="20"/>sunt, vt dictum est supra. &amp; sunt illa altissima prima in esse &amp; in veritate: quia diuina: &amp; ideo cau- 
+        <lb ed="#Ba" n="21"/>sae omnium aliorum: per quaes ipsa non solum in esse: sed in veritate &amp; cognitione habent regulari: &amp; in vniversali quo ad con- 
+        <lb ed="#Ba" n="22"/>munia &amp; generalia principia cuiuslibet generis entis: de quibus considerat metaphysica in particulari quo ad 
+        <lb ed="#Ba" n="23"/>propria principia vniuscuiusque generis entis de quibus considerant diuersae scientiae particulares. Deus enim vt 
+        <lb ed="#Ba" n="24"/>dicit Philosophus, causarum &amp; omnium principium quoddam est. Quia igitur de deo considerat theologia illa quae ipsi soli 
+        <lb ed="#Ba" n="25"/>sunt naturaliter cognita: sed creaturae rationali supnaturaliter reuelata: &amp; quae naturali ratione non est possi- 
+        <lb ed="#Ba" n="26"/>bile perscrutari. secundum quae deus est principium omnium &amp; origo: vt sunt regulae artis diuinae in verbo, &amp; vo 
+        <lb ed="#Ba" n="27"/>luntatis in spiritusan. &amp;c. huiusmodi quae extendunt se ad particcularia rerum: haec scientia sequitur modum diuinae 
+        <lb ed="#Ba" n="28"/>sapientiae, vt poterit attingere particularia aliarum scientiarum secundum quod rationem subiecti huius scientiae in-  
+        <lb ed="#Ba" n="29"/>duunt, &amp; cognoscere ea, vt sic ratione virtutis principiorum &amp; subiecti huius scientiae: licet sit simplicis 
+        <lb ed="#Ba" n="30"/>simum &amp; minime commune in se, ista scientia vniversalior dicatur omnibus etiam metaphysica. &amp; secundum hoc ipsa 
+        <lb ed="#Ba" n="31"/>certissime regulare habet omnes scientias considerantes causata ab istis primis principiis quae de deo con- 
+        <lb ed="#Ba" n="32"/>siderat ista scientia: &amp; hoc approbando bene dicta &amp; condennando errata in eis. Et ideo dicit Augu. in 
+        <lb ed="#Ba" n="33"/>libs sanctae viduitatis de hac scientia: quod doctrinae nostrae regulam figit. &amp; lib. ii. contra Chrysosto. Salu- 
+        <lb ed="#Ba" n="34"/>bri vigilantia canon ecclesiasticus constitutus est: ad quem certi &amp; prophetarum &amp; apsorum libri pertinent: quos omni 
+        <lb ed="#Ba" n="35"/>no diiudicare non audemus: et secundum quos de caeteris literis vel fidelium vel infidelium libere iudi- 
+        <lb ed="#Ba" n="36"/>cemus. &amp; secundo de doc. Christoteana dicit de hac scientia. Quicquod homo extra eam didicit si noxium est ibi damna 
+        <lb ed="#Ba" n="37"/>tur: si verum, ibi inueniturid i. ex eis quae ibi tractantur verum esse cognoscit. Quaecunque enim eis quae  
+        <lb ed="#Ba" n="38"/>fidei sunt consentanea in aliis scientiis, proculdubio vera sunt censenda: quaecunque vero repugnan 
+        <lb ed="#Ba" n="39"/>tia falsa sunt omnino iudicanda. Vnde ea quae sunt huius scientiae, regulae sunt omnis veritatis omnium 
+        <lb ed="#Ba" n="40"/>scientiarum etiam in discendo eas. secundum quod dicit <name ref="#Augustine">Augustinus</name> ii. de doc. Christan quod instructus fide 
+        <lb ed="#Ba" n="41"/>charitatis diuinarum scripturarum caeteras scripturas securius leget: ne praeoocupent imbecillum 
+        <lb ed="#Ba" n="42"/>animum: &amp; periculosis mendaciis atque phantasmaticis eludentes praeiudicent aliquid contra intelligen 
+        <lb ed="#Ba" n="43"/>tiam sanam. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e318">
+        ⁋ De scientia vero principali in scientiis practicis sciendum est secundo quod in illis scien 
+        <lb ed="#Ba" n="44"/>tiis scientia illa dicitur principalis &amp; architectonica respectu aliarum &amp; regula directiua illarum quae 
+        <lb ed="#Ba" n="45"/>vltimum finem operandorum considerat: ad quem fines omnium aliarum ordinantur. secundum enim 
+        <lb ed="#Ba" n="46"/>quod dicit <name ref="#Aristotle">Philosophus</name> in principio Ethicorum ciuilis scientia principalis est &amp; architectonica respectu omnium 
+        <lb ed="#Ba" n="47"/>artium quae obseruantur in ciuitatibus: quia ordinat quas disciplinarum debitum est esse in ciui- 
+        <lb ed="#Ba" n="48"/>tatibus: &amp; quales vnumquemque addiscere &amp; vsquequo: &amp; quia continet omnes alias sub se: &amp; leges po- 
+        <lb ed="#Ba" n="49"/>nit vniuersales quid oportet opari &amp; a quibus abstinere in ciuitatibus &amp; praecipit caeteris: &amp; quod hoc convenit 
+        <lb ed="#Ba" n="50"/>ei: quia finis eius complectitur fines omnium aliarum. Nunc autem ita est quod theologia finem vltimum omnium ope- 
+        <lb ed="#Ba" n="51"/>randorum considerat: ad quem fines omnium operationum &amp; scientiarum practicarum ordinantur 
+        <lb ed="#Ba" n="52"/>scilicet diuinam visionem &amp; amorem: quia in eis consistit vltima beatitudo: &amp; ideo omnes alias in finem 
+        <lb ed="#Ba" n="53"/>suum habet ordinare &amp; dirigere &amp; regulare eas: &amp; determinare quas illarum oportet vnumquenque  
+        <lb ed="#Ba" n="54"/>addiscere &amp; vsque ad quod tempus: &amp; a quibus abstinere: &amp; debet leges viuendi omnibus imponere: &amp; 
+        <lb ed="#Ba" n="55"/>bene acta in singulis commendare &amp; male acta improbare. secundum quod de his omnibus <name ref="#Augustine">Augustinus</name> xiiii. 
+   <!--125.xml-->
+        <pb ed="#Ba" n="55-v"/>
+        <lb ed="#Ba" n="1"/>de Ci. dei dicit sic. Quicquod Philosophi inter falsa quae opinati sunt verum videre potuerunt, &amp; laborio 
+        <lb ed="#Ba" n="2"/>sis disputationibus suis persuadere moliti sunt, videlicet quemadmodum mundum fecerit deus: eumque ipse prudem 
+        <lb ed="#Ba" n="3"/>tissimus administret, de honestate virtutum, de amore patriae, de fide amicitiae, de bonis operibus atque 
+        <lb ed="#Ba" n="4"/>omnibus ad mores probos pertinentibus rebus, quamuis nescientes ad quem finem &amp; quonam essent omnia 
+        <lb ed="#Ba" n="5"/>ista referenda, propheticis, hoc est diuinis vocibus potius quam per homines illos populo commenda- 
+        <lb ed="#Ba" n="6"/>ta sunt, non argumentationum concertationibus inculcata, vt non hominis ingenium sed dei eloquium con 
+        <lb ed="#Ba" n="7"/>tennere formidaret, qui illa cognosceret. &amp; ibidem. Quid aget: vel quo vel qua vt ad beatitudinem per 
+        <lb ed="#Ba" n="8"/>ueniat humana se porriget infelicitas, si diuina non ducit auctoritas: quasi dicat, certe omnino nescit 
+        <lb ed="#Ba" n="9"/>Vnde principia huius scientiae continent virtute principia omnium aliarum scientiarum, &amp; per hoc etiam quodam 
+        <lb ed="#Ba" n="10"/>modo ista scientia continet in se omnes alias: &amp; quaecumque in aliis scientiis continentur. sicut dicit Ambrs 
+        <lb ed="#Ba" n="11"/>super Lucam in principio. quod bene exposuit <name ref="#Augustine">Augustinus</name> cum dixit in epistola ad Volusianum. Hic physica 
+        <lb ed="#Ba" n="12"/>quoniam omnes omnium naturarum causae in deo sunt: hic Ethica, quoniam vita bona &amp; honesta non aliunde sumitur, quam cum 
+        <lb ed="#Ba" n="13"/>ea quae diligenda sunt diliguntur quemadmodum sunt diligenda, hoc est deus &amp; proximus. hic logica: quoniam veritas 
+        <lb ed="#Ba" n="14"/>lumenque animae rationalis non nisi deus est. Hic laudabilis reipublicae salus. Neque enim custodiuntur 
+        <lb ed="#Ba" n="15"/>optimae ciuitates nisi fundamento &amp; vinculo fidei fraternaeque concordiae cum bonum commune diligitur 
+        <lb ed="#Ba" n="16"/>quod summum &amp; potissimum deus est, atque in illo syncerissime se homines diligunt. Vnde vt determinat <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Ba" n="17"/>in epistola ad Diosco. errores gentilium siue de moribus, siue de natura, siue de ratione inuestigandae 
+        <lb ed="#Ba" n="18"/>veritatis: in quibus Platonici Stoicis &amp; Epicureis maxime resistere arbitrati sunt ad suum pertinere 
+        <lb ed="#Ba" n="19"/>officium: durasse vsque ad tempora christiana constat. Cum enim Plato a Cicerone apertissime ostenditur 
+        <lb ed="#Ba" n="20"/>non in humana sapientia sed diuina, vnde humana quodammodo attenditur, veritatem constituisse, &amp; 
+        <lb ed="#Ba" n="21"/>finem boni, &amp; causas rerum &amp; ratiocinandi fiduciam, Epicureis &amp; Stoicis regulam comprehendendae ve 
+        <lb ed="#Ba" n="22"/>ritatis in sensibilibus ponentibus, quis istis contradicentibus audiret Platonicos non valentes auctorita 
+        <lb ed="#Ba" n="23"/>te turbas terrenarum rerum delectatione caecatas ad inuisibilium lumen ducere: Quos certe nos sic obmu 
+        <lb ed="#Ba" n="24"/>tuisse conspicimus, vt siqua secta erroris contra ecclesiam Christi emerserit, nisi nomine cooperta chri- 
+        <lb ed="#Ba" n="25"/>stiano prosilire non audeat. Ex quo intelligitur ipsos quoque platonicae gentis philosophos paucis muta 
+        <lb ed="#Ba" n="26"/>tis quae christiana improbat disciplina, inuictissimo regi Christo ceruices oportere submittere, quid ius- 
+        <lb ed="#Ba" n="27"/>sit &amp; creditum est, quod illi vel proferre metuebant. Non enim putandum est ad sequendam veritatem me- 
+        <lb ed="#Ba" n="28"/>lius consuli potuisse generi humano, quam vt homo ab ipsa veritate susceptus recta praecipiendo &amp; di- 
+        <lb ed="#Ba" n="29"/>uina faciendo salubriter credi suaderet, quod nondum prudenter posset intelligi. Tunc enim Platonis scho- 
+        <lb ed="#Ba" n="30"/>la Romae floruit habens acutissimos &amp; solertissimos viros: qui cum Christi nomen terrenis regnis ammiranti 
+        <lb ed="#Ba" n="31"/>bus crebresceret, emergere coeperunt ad proferendum atque aperiendum quid Plato sensit. itaque totum 
+        <lb ed="#Ba" n="32"/>culmen auctoritatis lumenque rationis in illo vno salutari nomine atque in vna eius ecclesia recreando atque  
+        <lb ed="#Ba" n="33"/>reformando humano generi constitutum est. vnde patet quod omnis humanae scientiae altercatio per istam 
+        <lb ed="#Ba" n="34"/>vt per finem &amp; regulam aliarum terminata est. Absolute ergo dicendum est quod theologia super omnem scien 
+        <lb ed="#Ba" n="35"/>tiam &amp; speculatiuam &amp; practicam principalis est: &amp; hoc secundum illum modum quo dictum est supram 
+        <lb ed="#Ba" n="36"/>quod ambas subalternat, vt patet ex praedeterminatis: &amp; habet omnes gubernare &amp; regere tam in cogni- 
+        <lb ed="#Ba" n="37"/>tione veri quam in operatione boni. lta quod quicquod regulis fidei non congruat, quantumcumque humanae 
+        <lb ed="#Ba" n="38"/>sapientiae appareat, respuendum est: quicquid autem congruat, quantumcunque humanae sapien- 
+        <lb ed="#Ba" n="39"/>tiae contradicat sustinendum est. Eides enim est mensura scientiae dei. vt dicit Glos. super illud Leuit. 
+        <lb ed="#Ba" n="40"/>ii. Tollet pugillum similae. Vnde &amp; iure diuino debet regi vniuersa in espublica mundi, &amp; re vera 
+        <lb ed="#Ba" n="41"/>regitur, inquantum a regulis diuinae legis omnes aliae leges deriuantur, &amp; per ipsas mensurantur vt ap- 
+        <lb ed="#Ba" n="42"/>probentur vel reprobentur. Homo igitur fidelis maxime cui credibilia huius scientiae facta sunt intelli- 
+        <lb ed="#Ba" n="43"/>gibilia, iam spiritualis existens, ex hac scientia omnia tam in speculandis quam in agendis habet iudica 
+        <lb ed="#Ba" n="44"/>re sufficienter ex hac scientia instructus: cum ipse in eis quae sunt huius scientiae, a nemine iudicandus 
+        <lb ed="#Ba" n="45"/>sit. Quia si pauci ad hanc perfectionem deueniunt non est defectus ex parte scientiae, sed nostra, vt dictum 
+        <lb ed="#Ba" n="46"/>est supra. &amp; ideo dicit Apostolus. i. Col. ii. Aialis homo non percipit ea quae spiritus dei sunt &amp; non potest in  
+        <lb ed="#Ba" n="47"/>telligere. Spiritualis autem iudicat omnia, &amp; ipse a nemine iudicatur. vbi dicit Glos. super illud. Iudicat 
+        <lb ed="#Ba" n="48"/>omnia. Non quidem quae continet diuina sapientia, sed quae ad iustitiam &amp; vitam sufficiunt. i. omnia iu 
+        <lb ed="#Ba" n="49"/>dicanda iudicat certa fide, nec solum est principalis super omnes cognitiuas speculatiuas &amp; pra- 
+        <lb ed="#Ba" n="50"/>cticas: immo etiam super omnes operatiuas. Omnis enim ad regulam debet suum opus dirigere inquantum 
+        <lb ed="#Ba" n="51"/>subalternat etiam eas vt dictum est supra.
+      </p>
+      <p xml:id="vn58an-d1e665-d1e474">
+        <lb ed="#Ba" n="52"/>⁋ Ad primum in oppositum quod nulla scientia supponit ab ista, sed ista supponit ab  
+        <lb ed="#Ba" n="53"/>omnibus: dicendum quod aliquid supponitur in vna scientia vt per se notum, quid supponitur ab alia tamquam subiectum 
+   <!--126.xml-->
+        <pb ed="#Ba" n="56-r"/>
+        <lb ed="#Ba" n="1"/>scientiae, vel principium probandi proprias conclusiones scientiae, aut tanquam adminiculans ad notificandum ea quae  
+        <lb ed="#Ba" n="2"/>per se considerantur in scientia: quod tamen neque est subiectum neque per se principium probandi proprias conclu 
+        <lb ed="#Ba" n="3"/>siones scientiae. Quando scientia vna supponit ab alia subiectum suum, vel principium aliquod probandi suas 
+        <lb ed="#Ba" n="4"/>proprias conclusiones: tunc illa scientia a qua tale supponitur, est scientia principalis. Hoc modo ista scientia 
+        <lb ed="#Ba" n="5"/>a nulla alia sumit aut supponit: sed magis omnes aliae scientiae ab ista vt iam dicetur. Quando vero 
+        <lb ed="#Ba" n="6"/>vna scientia supponit ab alia adminiculans solum ad declarandum illa quae pertinent ad suam scien- 
+        <lb ed="#Ba" n="7"/>tiam, tunc non oportet quin scientia quae tale quid supponit ab alia, sit scientia principalis. secundum quod me- 
+        <lb ed="#Ba" n="8"/>taphysica multa talia supponit a physica: &amp; tamen metaphysica est scientia principalis ad physicam. Hoc 
+        <lb ed="#Ba" n="9"/>modo ista scientia supponit &amp; sumit ab aliis scientiis quaecumque ab eis assumit ad vsum suum. Vel 
+        <lb ed="#Ba" n="10"/>potest dici secundum praedicta, quod scientia vna supponit aliquid &amp; sumit ab alia: aut tanquam mendicans 
+        <lb ed="#Ba" n="11"/>a praedominante: aut tanquam vtens a subministrante. Primo modo accipere ab alio est contra naturam 
+        <lb ed="#Ba" n="12"/>scientiae principalis. Secundo modo non. &amp; hoc modo theologia sumit ab aliis scientiis declarata, vt dictum 
+        <lb ed="#Ba" n="13"/>est supra. sicut &amp; metaphysica sumit declarata a physica. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e513">
+        ⁋ Ad secundum, quod subiectum huius scien- 
+        <lb ed="#Ba" n="14"/>tiae est sub subiecto metaphysicae: non ergo haec est principalis ad illam: Dicendum ad hoc quod deum con 
+        <lb ed="#Ba" n="15"/>tingit considerare dupliciter. Vno modo secundum id quid est in se cognoscibile de ipso, non ex con 
+        <lb ed="#Ba" n="16"/>paratione ad creaturam. Alio modo secundum id quod cognoscibile est de eo in comparatione ad crea 
+        <lb ed="#Ba" n="17"/>turam. Vtroque modo consideratio de deo cadit sub hac scientia. Secundo modo solum sub scientiis phi 
+        <lb ed="#Ba" n="18"/>losophicis. Et ideo ista scientia primo considerat de deo rationes quae conueniunt ipsi absque omni re- 
+        <lb ed="#Ba" n="19"/>spectu ad creaturas: vt sunt maxime ea quae pertinent ad trinitatem personarum. Secundo vero con 
+        <lb ed="#Ba" n="20"/>siderat in eo rationes secundum quas procedunt creaturae in esse ab ipso. Tertio vero &amp; vltimo con 
+        <lb ed="#Ba" n="21"/>siderat de ipsis creaturis: inquantum. scilicet manet in ipsis impressum diuini esse vestigium, &amp; dimittit con 
+        <lb ed="#Ba" n="22"/>sideranda scientiis philosophicis entia creata secundum id quod sunt in se in natura &amp; quiditate sua: si- 
+        <lb ed="#Ba" n="23"/>cut metaphysica considerat de vnoquoque, inquantum ens est simpliciter, &amp; dimittit scientiis parti 
+        <lb ed="#Ba" n="24"/>cularibus considerare diuersa entia particularia inquantum sunt entia talia mobilia vel immobilia &amp; 
+        <lb ed="#Ba" n="25"/>huiusmodi. Scientiae vero aliae primo considerant de creaturis: vltimo vero de deo inquantum relucet 
+        <lb ed="#Ba" n="26"/>cognitio eius ex creaturis scilicet inquantum ex creaturis cognoscitur esse principium earum secundum po- 
+        <lb ed="#Ba" n="27"/>tentiam in producendo, secundum sapientiam in disponendo, secundum bonitatem in ordinando.  
+        <lb ed="#Ba" n="28"/>Et quia isto modo considerandi deum vt scilicet consideratur in scientiis philosophicis, non est deus id  
+        <lb ed="#Ba" n="29"/>quod primo mens in rebus concipit (dico conceptione discretiua discernendo ipsum ab aliis. conce 
+        <lb ed="#Ba" n="30"/>ptione enim absoluta est id quod etiam in naturali notitia mens primo concipit, vt infra ostendetur)  
+        <lb ed="#Ba" n="31"/>immo primus conceptus discretiuus naturalis cognitionis ex creaturis est ratio entis simpliciter 
+        <lb ed="#Ba" n="32"/>sub quo concipit secundario rationem entis principiati &amp; principiantis. considerando enim id quod  
+        <lb ed="#Ba" n="33"/>est creatum: quia mobile &amp; transmutabile est, non potest habere esse a se: sed necessario recipit ip- 
+        <lb ed="#Ba" n="34"/>sum ab ente aliquo immutabili: Sub consideratione entis simpliciter <name ref="#Aristotle">Philosophus</name> deuenit in co- 
+        <lb ed="#Ba" n="35"/>gnitionem dei non secundum id quod est in se absolutum a creaturis, sed secundum quod est crea 
+        <lb ed="#Ba" n="36"/>turarum principium: &amp; secundum illa quae concurrunt ad rationem principiandi in actu creatu- 
+        <lb ed="#Ba" n="37"/>ras, quae ratio non manifestatur naturali cognitioni intellectus nisi ex productione creaturae, si- 
+        <lb ed="#Ba" n="38"/>cut neque esse deum. Hoc ergo modo cognoscendi deum deus cadit sub subiecto metaphysicae quod est 
+        <lb ed="#Ba" n="39"/>ens simpliciter, eo quod intentio entis simpliciter prior est nobis quam intentio principii: quia vt dicit Aui 
+        <lb ed="#Ba" n="40"/>cen. primo metaphysicae suae, ens absolute non est principium: sed accidit ei esse principium alterius 
+        <lb ed="#Ba" n="41"/>vt creaturae. Est enim deo quasi accidens quod sit creaturae principium. accidit enim enti simpliciter 
+        <lb ed="#Ba" n="42"/>habere principium essendi: quia non omne ens est huiusmodi. Deus enim non habet essendi prin- 
+        <lb ed="#Ba" n="43"/>cipium. Quia vero modus considerandi deum inquantum scilicet cadit vt subiectum in considera- 
+        <lb ed="#Ba" n="44"/>tione huius scientiae, scilicet quo ad cognitionem de eo secundum se non ex creaturis habitam: ne 
+        <lb ed="#Ba" n="45"/>quod natam haberi ex creaturis: quae est infallibilis ratio acquirendi etiam notitiam illam quae nata 
+        <lb ed="#Ba" n="46"/>est haberi de ipso ex ipsis creaturis: &amp; etiam eius quae nata est haberi de ipsis creaturis: lsto modo  
+        <lb ed="#Ba" n="47"/>cognoscendi deum, deus nequaquam cadit sub ente simpliciter quod est subiectum metaphysicae. Immo 
+        <lb ed="#Ba" n="48"/>praeterit totam rationem &amp; communitatem illius entis. illud enim ens nihil continet nisi quod est principi 
+        <lb ed="#Ba" n="49"/>um vel principiatum inquantum huiusmodi: &amp; ideo licet continet omne creatum secundum o- 
+        <lb ed="#Ba" n="50"/>mnem rationem quiditatis &amp; essentiae creaturae, deum tamen non continet vt in se aliquid est: sed  
+        <lb ed="#Ba" n="51"/>solum inquantum principium quoddam est, quod cognitum est de ipso a posteriori in scientia philo- 
+        <lb ed="#Ba" n="52"/>sophica &amp; a priori in scientia ista. Et inquantum cognitum a posteriori naturali cognitione ex crea 
+        <lb ed="#Ba" n="53"/>turis, cadit intentio principii sub intentione entis simpliciter. Inquantum vero cognitum a prio- 
+        <lb ed="#Ba" n="54"/>ri cognitione supernaturali non cadit intentio principii in deo sub ratione entis simpliciter: quod con 
+   <!--127.xml-->
+        <pb ed="#Ba" n="56-v"/>
+        <lb ed="#Ba" n="1"/>mune est creatori &amp; creaturae: quia est posterioris naturae. Sicut &amp; posterioris naturae est ipsa crea- 
+        <lb ed="#Ba" n="2"/>tura: quae est pars quaedam a qua abstrahitur intentio entis simpliciter. Et hoc modo deus est id 
+        <lb ed="#Ba" n="3"/>quod prius per intellectum supernaturaliter concipitur, quam intentio entis simpliciter: &amp; ipse deus, vt in  
+        <lb ed="#Ba" n="4"/>fra videbitur, est vera ratio concipiendi tale ens simpliciter. Et sic patet suppositum supra, quomodo ista 
+        <lb ed="#Ba" n="5"/>scientia ratione sui subiecti vniuersalis habet dici super omnem scientiam philosophicam &amp; metaphy 
+        <lb ed="#Ba" n="6"/>sicam. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e625">
+        ⁋ Ad tertium quod ista scientia supponit suum subiectum scilicet deum esse a metaphysica: quia hoc 
+        <lb ed="#Ba" n="7"/>ibi probatur: Dicendum secundum iam dicta, quod deum esse inquantum habet rationem causae, vt a 
+        <lb ed="#Ba" n="8"/>quo iam aliquid est causatum in effectu, hoc modo probatur deum esse in metaphysica: &amp; secun- 
+        <lb ed="#Ba" n="9"/>dum istam rationem cadit deus sub scientia philosophica sicut pars subiecti: &amp; secundum istam 
+        <lb ed="#Ba" n="10"/>rationem praecisam non cadit vt subiectum sub ista scientia. Deum autem esse cognoscitur secundum id quod 
+        <lb ed="#Ba" n="11"/>est in se: &amp; secundum rationem qua est causatiuum omnium, etiam antequam creaturam produxerit. 
+        <lb ed="#Ba" n="12"/>hoc modo cadit vt subiectum in hac scientia: &amp; hoc modo non potest probari esse ex scientia philoso 
+        <lb ed="#Ba" n="13"/>phica: quia nec sic omnino cognoscibilis est ex scientia philosophica. Et ideo haec scientia non sumit 
+        <lb ed="#Ba" n="14"/>aut supponit subiectum suum a prima philosophia: sed magis a diuina auctoritate: qua dicitur 
+        <lb ed="#Ba" n="15"/>Deutero. vi. Audi Israel: dominus deus tuus, deus vnus est. Immo vt aliquid amplius dicamus 
+        <lb ed="#Ba" n="16"/>prima philosophia &amp; omnis philosophica scientia potius suum subiectum sumit &amp; supponit ab ista scien 
+        <lb ed="#Ba" n="17"/>tia. Ista enim scientia vt dictum est considerat de deo secundum id quid est in se: &amp; vt omnium est 
+        <lb ed="#Ba" n="18"/>causatiuum etiam antequam fierent. considerat etiam omnia causata ab ipso inquantum in se habent es- 
+        <lb ed="#Ba" n="19"/>figiem quandam diuini esse. Aliae vero scientiae considerant res causatas a deo secundum quidita 
+        <lb ed="#Ba" n="20"/>tes &amp; essentias earum, in quibus effigies diuini esse fundatur: &amp; ipsum deum inquantum actu 
+        <lb ed="#Ba" n="21"/>est causa illorum. Et ideo sicut a metaphysica omnes aliae scientiae philosophicae sumunt &amp; suppo- 
+        <lb ed="#Ba" n="22"/>nunt sua subiecta: quia ipsa considerat vt subiectum suum ens simpliciter secundum commu- 
+        <lb ed="#Ba" n="23"/>nem rationem entis: quaelibet autem alia scientia considerat aliquod particulare ens secundum ali 
+        <lb ed="#Ba" n="24"/>quam particularem rationem entis: sub ratione entis simpliciter contentam, vt dicitur quarto me- 
+        <lb ed="#Ba" n="25"/>taphysicae: consimiliter quia ista scientia considerat vt subiectum suum deum ipsum secundum se: 
+        <lb ed="#Ba" n="26"/>&amp; omnia alia inquantum habent in se diuini esse effigiem, ex qua habent rationem entis quod sunt 
+        <lb ed="#Ba" n="27"/>quiditas &amp; natura alicuius praedicamenti, vt infra dicetur: quae omnis scientia philosophica considerat  
+        <lb ed="#Ba" n="28"/>secundum suas quiditates naturas &amp; essentias, quae sunt sicut particularis ratio in ipsis sub ratio- 
+        <lb ed="#Ba" n="29"/>ne diuini esse in ipsis, omnis alia scientia competenter dicenda est sumere &amp; supponere subiectum 
+        <lb ed="#Ba" n="30"/>suum ab ista: &amp; sic omnino contrario modo se habet res quam supponatur in argumento. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e680">
+        ⁋ Ad quar-  
+        <lb ed="#Ba" n="31"/>tum: quod prima philosophia est potior scientiarum: Dicendum quod verum est inter scientias philo- 
+        <lb ed="#Ba" n="32"/>sophicas ad quas <name ref="#Aristotle">Philosophus</name> in dicto suo respectum habuit: non autem respectu huiuis, ad quam  
+        <lb ed="#Ba" n="33"/>non aduertit: aut ad illam suam scientiam, si verum dixit, comparari non intendit: quia ista potior est omni- 
+        <lb ed="#Ba" n="34"/>bus scientiis philosophicis vt in praedeterminatis patuit, &amp; in sequenti quaestione patebit. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e695">
+        ⁋ Ad qun 
+        <lb ed="#Ba" n="35"/>tum quod ista scientia non potest esse iudex &amp; regula aliarum: &amp; ideo non est principalis: Dicendum 
+        <lb ed="#Ba" n="36"/>secundum praedicta, quod in veritate ista scientia iudex est aliarum &amp; regula. Et quod assumitur in ar-  
+        <lb ed="#Ba" n="37"/>gumento: quod per ea quae sunt fidei iudicari non possunt illa quae sunt aliarum scientiarum neque re- 
+        <lb ed="#Ba" n="38"/>gulari: quia alio modo cognoscuntur haec &amp; illa: Dicendum quod hoc non impedit: quoniam scientia superior 
+        <lb ed="#Ba" n="39"/>principalis non iudicat neque probat ea quae negantur in scientia inferiori, nisi secundum suum modum non se 
+        <lb ed="#Ba" n="40"/>cundum modum scientiae inferioris: sicut primus <name ref="#Aristotle">Philosophus</name> in prima philosophia reprobat er- 
+        <lb ed="#Ba" n="41"/>rorem dicentem quod ens est vnum per diuisionem vnius &amp; entis, quae pertinent ad considerationem 
+        <lb ed="#Ba" n="42"/>metaphysici non naturalis. 
+      </p>
+      <p xml:id="vn58an-d1e665-d1e718">
+        ⁋ Ad sextum: quod huius scientiae non est noscere illa quae sunt alia- 
+        <lb ed="#Ba" n="43"/>rum scientiarum: quare neque iudicare: Dicendum ad hoc: quod sicut dupliciter est iudicare aliquid esse 
+        <lb ed="#Ba" n="44"/>rectum: vno modo ex natura propria recti in se considerata, prospiciendo an medium exeat ab ex 
+        <lb ed="#Ba" n="45"/>tremis: Alio modo ex applicatione ad regulam rectam, de qua non dubitatur quod recta sit: Primum dif 
+        <lb ed="#Ba" n="46"/>ficile multum est: &amp; solum artificis in scientia speciali: Secundum vero facile &amp; cuiuslibet qui va- 
+        <lb ed="#Ba" n="47"/>let aspicere regulam: Consimiliter iudicium quo ad veritatem &amp; falsitatem eorum quae tangun- 
+        <lb ed="#Ba" n="48"/>tur in scientia, dupliciter fit, quia veritas &amp; falsitas eorum quae tanguntur in scientia: aut redun- 
+        <lb ed="#Ba" n="49"/>dant in prima principia scientiae superioris vt appareant illis conuenire vel contrariari: aut non  
+        <lb ed="#Ba" n="50"/>Si primo modo, tunc scientia superior principalis habet iudicare quasi per regulam rectam pri- 
+        <lb ed="#Ba" n="51"/>morum principiorum de eis quae tractantur in scientia inferiori, vera approbando tanquam suis princi 
+        <lb ed="#Ba" n="52"/>cipiis conuenientia, &amp; falsa reprobando tanquam suis principiis repugnantia. Si secundo modo: 
+        <lb ed="#Ba" n="53"/>tunc scientia propria solum habet iudicare quae vera &amp; quae falsa tanguntur in ea ex propria na- 
+   <!--128.xml-->
+        <pb ed="#Ba" n="57-r"/>
+        <lb ed="#Ba" n="1"/>tura reii. verbi gratia, Errorem qui dicit in naturali philosophia quod ens est vnum &amp; immobile: quia destruit sub 
+        <lb ed="#Ba" n="2"/>iectum scientiae naturalis: quae supponit plura entia esse &amp; mobilia: &amp; ita redundat in primam philo- 
+        <lb ed="#Ba" n="3"/>sophiam: a qua sumit hoc principium: non habet scientia naturalis iudicare: neque reprobare, sed pri- 
+        <lb ed="#Ba" n="4"/>ma philosophia. Est enim error in ipsis principiis. Errorem vero qui dicit, quod in corporalibus moto vno 
+        <lb ed="#Ba" n="5"/>mouentur omnia: non habet metaphysicus reprobare: quia non ponit inconueniens apparenter redun 
+        <lb ed="#Ba" n="6"/>dans in sua principia: sed solum istum habet iudicare &amp; improbare ex propriis principiis suis natu- 
+        <lb ed="#Ba" n="7"/>ralis philosophia. Est enim error post principia scientiae naturalis. Dicendum igitur ad propositum, quod  
+        <lb ed="#Ba" n="8"/>ista scientia habet iudicare quasi ad regulam articulorum fidei vel primorum, vel posteriorum appli- 
+        <lb ed="#Ba" n="9"/>cando quid verum &amp; quid falsum in qualibet scientia, inquantum redundat in principia sua talia:  
+        <lb ed="#Ba" n="10"/>dicendo esse verum quicquid eis conuenit, &amp; falsum quicquid eis contrariatur: &amp; approbare quae  
+        <lb ed="#Ba" n="11"/>vera sunt: &amp; reprobare falsa quantum possibile est ex suis principiis talibus. licet capere talem pro- 
+        <lb ed="#Ba" n="12"/>bationem non posset animalis homo: solum innitens naturali rationi. Quid autem sit verum &amp; 
+        <lb ed="#Ba" n="13"/>quid falsum in aliis scientiis, si tamen non redundat in articulos fidei per conuenientiam aut repu 
+        <lb ed="#Ba" n="14"/>gnantiam, non habet ista scientia iudicare omnino, neque quo ad hoc alias scientias regulare: quia non  
+        <lb ed="#Ba" n="15"/>est eius propria cuiuslibet scientiae considerare. Siue enim quis dicat in geometria quod anguli trian 
+        <lb ed="#Ba" n="16"/>guli sunt aequales duobus rectis, siue quod tribus: nihil ad articulos fidei. &amp; ideo circa iudicium talium 
+        <lb ed="#Ba" n="17"/>esse sollicitum, nihil pertinet aditheologum: sicut etiam neque ad metaphysicum, quia non redundat hoc 
+        <lb ed="#Ba" n="18"/>apparenter in contrarietatem principiorum metaphysicae. Nihiloeminus tamen est scientia principa- 
+        <lb ed="#Ba" n="19"/>lis ad omnes philosophicas. Similiter ergo &amp; theologia scientia est principalis &amp; iudex respectu aliarum: 
+        <lb ed="#Ba" n="20"/>licet de propriis scientiarum conclusionibus nihil considerat: nisi inquantum in sua principia redun- 
+        <lb ed="#Ba" n="21"/>dant, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

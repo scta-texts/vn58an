@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="234-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe64064"> <!-- alias="vn58an-a69q1" -->
+      <head xml:id="vn58an-fe64064-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe64064-d1e107">
+        <lb ed="#Bb" n="14"/>CIrca primum arguitur quod non sit ponere indentitatem indi-  
+        <lb ed="#Bb" n="15"/>uinis, sic. Non est identitas nisi alicuius ad seipsum vel 
+        <lb ed="#Bb" n="16"/>ad alterum. sed neutro modo habet esse identitas in diuinis. ergo &amp;c. Probatio assumptae est primo de identi 
+        <lb ed="#Bb" n="17"/>tate alicuius ad seipsum duplici medio, Primo sic. omnis identitas est secundum vnitatem substantiae communis illis quae  
+        <lb ed="#Bb" n="18"/>ea referuntur. Eadem enim sunt secundum Philosophum. v. meta, quorum substantia est vna. sed nulla substantia vna communs 
+        <lb ed="#Bb" n="19"/>est in diuinis ipsis relatis: tum quia omne relatum in diuinis est substantia: &amp; sic substantiae esset substantia: tum quia  
+        <lb ed="#Bb" n="20"/>substantiae quae relatiue dicitur esset substantia alia secundum quam relatiue dicitur ommunis cum illo ad quod relatiue dicitur. 
+        <lb ed="#Bb" n="21"/>consequens falsum est praecipue in diuinis: quia non est aliqua substantia in diuinis nisi vnica singularis, quod etiam si 
+        <lb ed="#Bb" n="22"/>poneretur, de illa posset formari eadem quaestio scilicet an esset eadem sibi, &amp; esset processus in infinitum &amp; impossibile. 
+        <lb ed="#Bb" n="23"/>i ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe64064-d1e131">
+        ⁋ Secundo sic. si substantia diuinitatis esset eadem sibi: aut ergo seipsa est eadem sibi: aut aliquo  
+        <lb ed="#Bb" n="24"/>sibi addito, non seipsa: quia cum identitas sit relatio: tunc essentia esset relatio. ex quo sequaretur errox scilicet quod sentia 
+        <lb ed="#Bb" n="25"/>non sit essentia sed relatio. dicente Aug. ibidem. Si filius ponatur essentia relatiue dici ad patrem, conficit iopina 
+        <lb ed="#Bb" n="26"/>tissimus sensus, vt ipsa essentia non sit essentia: vel certe cum dicitur essentia, non essentia led re 
+        <lb ed="#Bb" n="27"/>latiuum dicatur. &amp; sequitur post pauca. Si essentia ipsa relatiue dicitur essentia, essentia ipsa non est es 
+        <lb ed="#Bb" n="28"/>sentia. Et hoc quia in diuinis essentia distinguitur contra relationem. Si autem substantia deitatis sit eacem 
+        <lb ed="#Bb" n="29"/>sibiipsi aliquo addito, hoc additum non potest esse nisi id quo relatiue dicitur, quod non est nisi substan 
+        <lb ed="#Bb" n="30"/>tia: &amp; hoc est impossibile: quia in diuinis non est nisi vnica substantia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe64064-d1e149">
+        ⁋ Quia autem non siti 
+        <lb ed="#Bb" n="31"/>diuinis identitas alicuius ad alterum puta patris ad filium: arguitur similiter duplici medio, Primo sic. 
+        <lb ed="#Bb" n="32"/>omnis alteritas est propter diuersitatem. Non est enim alteritas nisi vbi est substantiae diuersitas: qua  
+        <lb ed="#Bb" n="33"/>quidem diuersitas est contraria identitati, quare si aliquid esset idem alteri, esset simul idem &amp; diuersum: &amp; essent contra- 
+        <lb ed="#Bb" n="34"/>ria in eodem, quod est impossibile. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe64064-d1e161">
+        ⁋ Secundo sic. quaecumque sunt altera abinuicem quantuncumque habeant in se 
+        <lb ed="#Bb" n="35"/>aliquid vnum, substantialiter differunt, puta in creaturis indiuidua sub eadem specie, &amp; in diuinis ipse personae. sed  
+        <lb ed="#Bb" n="36"/>alia potius sunt diuersa quam eadem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe64064-d1e168">
+        ⁋ In contrarium est, quod idem &amp; diuersum diuidunt totum ens secundum  
+        <lb ed="#Bb" n="37"/>Philosophum. ix. meta. &amp; habitum est. sed in diuinis nulla cadit diuersitas, secundum Boethicorum de triniitate. cap iii. ergo &amp;c. 
+        <lb ed="#Bb" n="38"/>
+      </p>
+      <p xml:id="vn58an-fe64064-d1e175">
+        ⁋ Dico quod cum secundum superius determinata identitas sequatur vnitatem in lubstam 
+        <lb ed="#Bb" n="39"/>ia: &amp; in diuinis in substantia est summa vnitas: quia non est in illis nisi vna substantia singularis, quae ca- 
+        <lb ed="#Bb" n="40"/>dit in significatione omnium quae sunt in diuinis: Nomen enim essentiae cuiusmodi est deus aut deitas, vt con 
+        <lb ed="#Bb" n="41"/>sideratur in ordine ad alia quae sunt in diuinis secundum praedeterminata in proxima quaestione praecedente, a sola essen 
+        <lb ed="#Bb" n="42"/>tia sub ratione substantiae imponitur ad significandum: Nomina autem attributorum &amp; a substantia &amp; ab essentia impo 
+        <lb ed="#Bb" n="43"/>nuntur ad significandum: sed sub absoluta ratione determinata praeter rationem substantiae aut essentiae secundum su 
+        <lb ed="#Bb" n="44"/>perius determinata: Nomina vero relationum vt sunt paternitas, filiatio, identitas, aequalitas, &amp; similitudo  
+        <lb ed="#Bb" n="45"/>similiter ad significandam substantiam siue essentiam imponuntur: sed sub ratione respectus quid est relatio: Nomina ve 
+        <lb ed="#Bb" n="46"/>ro personarum cuiusmodi sunt pitur &amp; filius &amp; spiritus sanctus: imponuntur ad significandum essentiam cum respectu quid est 
+        <lb ed="#Bb" n="47"/>relatio: secundum quod ambo cadunt in significatione personae, vt determinatum est supius: Idcirco ergo in diuinis est suma 
+        <lb ed="#Bb" n="48"/>identitas quantum est ex parte substantiae seu essentiae singularis significatae in omnibus quae sunt in diuinis: licet diuer 
+        <lb ed="#Bb" n="49"/>simode, vt dictum est. Veruntamen cum dicit <name ref="#Aristotle">Philosophus</name> quod idem sequitur vnum in substantia, intelligendum est quod ibi sumitur 
+        <lb ed="#Bb" n="50"/>substantia conissime ad tres modos substantiae. Vno enim modo substantia est natura &amp; essentia substantialis de prae 
+        <lb ed="#Bb" n="51"/>dicamento substantiae: quae in diuinis est sola deitas: &amp; se habet ad modum spae secundae in praedicamento spae, in eo vi- 
+        <lb ed="#Bb" n="52"/>delicet quod communis &amp; conicabilis est pluribus diuinis suppositi. Al o autem modo suba est suppositum hamens in se subam 
+        <lb ed="#Bb" n="53"/>&amp; naturam primo modo dictam: &amp; se habet in diuinis ad modum subae primae in praedicamento subae: qualis suba 
+        <lb ed="#Bb" n="54"/>in diuinis est quaelibet persona diuina. Tertio modo est suba largissime accipiendo subam omne quod considera 
+   <!--484.xml-->
+        <pb ed="#Bb" n="235-r"/>
+        <lb ed="#Bb" n="1"/>tur per modum substantiae, sicut est cuiusque praedicamenti vt consideratur secundum id quod est aliquid in se: &amp; exins 
+        <lb ed="#Bb" n="2"/>in praedicamento suo. Et ad vnum in substantia quolibet horum modorum est identitas sui ad seipsum. 
+        <lb ed="#Bb" n="3"/>Et ideo loquendo de identitate alicuius ad seipsum: identitas omne ens consequitur tam existens in di 
+        <lb ed="#Bb" n="4"/>uinis quam in creaturis. Est enim deitas idem sibi: similiter bonitas, veritas, &amp; quodlibet significans attributum 
+        <lb ed="#Bb" n="5"/>aliquod in diuinis idem est sibi. Similiter paternitas est eadem sibi &amp; filiatio: &amp; quodlibet significans rela- 
+        <lb ed="#Bb" n="6"/>tionem. Similiter pater est idem sibi: similiter filius sibi: &amp; spiritus sanctus sibi. Et hoc secundum 
+        <lb ed="#Bb" n="7"/>primum modum identitatis superius tactum. Sed loquendo de substantia primo modo specialiter, a qua impo- 
+        <lb ed="#Bb" n="8"/>nitur ad significandum nomen pure absolute absque omni ratione respectus determinati, &amp; quae est fundamen 
+        <lb ed="#Bb" n="9"/>tum primum omnium determinatarum rationum &amp; absolutorum &amp; respectuum in diuinis: Sciendum quod ipsa dupliciter 
+        <lb ed="#Bb" n="10"/>habet considerari. Vno modo vt est aliquid in seipsa &amp; secundum seipsam, puta deitas vt est deitas simpli 
+        <lb ed="#Bb" n="11"/>citer. Alio autem modo vt est aliquid alicuius. Et primo modo ad seipsam sequitur sola identitas secundum  
+        <lb ed="#Bb" n="12"/>primum modum identitatis scilicet sui ad seipsam, qua ipsa dicitur eadem sibi secundum seipsam. Secundo au  
+        <lb ed="#Bb" n="13"/>tem modo ad ipsam sequitur identitas penes secundum modum identitatis scilicet alicuius ad alterum, qua quaecumque  
+        <lb ed="#Bb" n="14"/>quae sunt in diuinis diuersa seu distincta ratione, vt sunt attributa &amp; relationes omnes: aut diuersa seu di 
+        <lb ed="#Bb" n="15"/>stincta secundum rem, vt sunt personae: dicuntur esse eadem inter se. Secundum hunc enim modum dicimus 
+        <lb ed="#Bb" n="16"/>quod in diuinis bonitas est eadem veritati &amp; econverso: quia vna substantia diuinitatis significata in vtro 
+        <lb ed="#Bb" n="17"/>quod, licet secundum aliam rationem &amp; sub alio respectu. Et secundum hunc modum dictum est supra quod vnum 
+        <lb ed="#Bb" n="18"/>quodque eorum scilicet diuinorum attributorum non minus est idem alteri quam sibi. Secundum hunc etiam modum in diui 
+        <lb ed="#Bb" n="19"/>nis paternitas est eadem filiationi &amp; non econverso: quia vna substantia diuinitatis significatur in vtro 
+        <lb ed="#Bb" n="20"/>quod: licet sub ratione alterius respectus. Et secundum hunc modum etiam vnaquaeque relationum in diuinis non mi 
+        <lb ed="#Bb" n="21"/>nus est eadem alteri quam sibi. Secundum hunc etiam modum pater est idem filio &amp; econuerso: quia. scilicet vna singula 
+        <lb ed="#Bb" n="22"/>ris deitas est in vtroque. Et secundum hunc etiam modum vnaquaeque diuinarum personarum non minus est 
+        <lb ed="#Bb" n="23"/>eadem alteri quam sibi. immo isto modo, quo scilicet aliquid dicitur idem substantia vt ipsa est aliquid sui, nihil dici 
+        <lb ed="#Bb" n="24"/>tur sibi idem: sed alteri tantum, vt habitum supra. Et vt generaliter loquar, isto medo eadem sunt inuicem 
+        <lb ed="#Bb" n="25"/>singula quae sunt in diuinis singulis, puta bonitas, sapientia, prnitas, filiatio, pater, filius, &amp; sic de caeteris. 
+        <lb ed="#Bb" n="26"/>Et secundum hoc aduertendum, quod cum substantia quae deitas est in diuinis dicatur esse aliquod alicuius, substam 
+        <lb ed="#Bb" n="27"/>tia largissime accipitur scilicet &amp; prout alicuius dicitur substantia deitatis quia cum aliquo alio cadit in  
+        <lb ed="#Bb" n="28"/>significato alicuius quod quasi integratur ex vtroque illorum: quemadmodum in persona cadunt substantia &amp; 
+        <lb ed="#Bb" n="29"/>relatio personae constitutiua: &amp; prout substantia deitatis cadit in significato alicuius sub ratione absoluta 
+        <lb ed="#Bb" n="30"/>sed accepta ex habitudine seu respectu &amp; comparatione ad aliud, vt in attributis: vel qui est relatio, vt 
+        <lb ed="#Bb" n="31"/>in nominibus relationum. Et secundum hoc concedenda est vltima ratio pro ista parte adducta. 
+        <lb ed="#Bb" n="32"/>
+      </p>
+      <p xml:id="vn58an-fe64064-d1e289">
+        ⁋ Ad primam in oppositum quae probat quod in diuinis non est identitas, quia identitas 
+        <lb ed="#Bb" n="33"/>est secundum vnitatem substantiae communis illis quae sunt eadem: qualis non potest esse in diuinis: quia substantiae relata 
+        <lb ed="#Bb" n="34"/>&amp; substantiae ad quam refertur esset substantia aliqua communis secundum quam referretur vnum eorum ad alterum: Dico quod ve 
+        <lb ed="#Bb" n="35"/>rum est, quia sicut secundum Augustius vii. de triniitate. ca. primo, omnis essentia quae relatiue dicitur est aliquid excepto 
+        <lb ed="#Bb" n="36"/>relatiuo: vt necesse sit differre relatum &amp; relationem secundum quam formaliter refertur: sic omne relatum 
+        <lb ed="#Bb" n="37"/>est aliquid excepto eo secundum quod refertur fundamentaliter. &amp; sic identitate substantia refertur secundum substam 
+        <lb ed="#Bb" n="38"/>tiam vnam communem relatis: sed tamen substantia quae refertur: &amp; substantia ad quam refertur: &amp; substantia secundum  
+        <lb ed="#Bb" n="39"/>quam refertur: aliter non est nisi penitus vna &amp; eadem substantia: puta quando est relatio identitatis alicuius ad  
+        <lb ed="#Bb" n="40"/>eipsum: &amp; hoc siue in diuinis siue in creaturis. Eadem enim substantia est vtriusque extremorum relatorum: quae secun 
+        <lb ed="#Bb" n="41"/>dum rationem differt vt illa est vnum extremorum: &amp; vt est alterum: &amp; vt est substantia secundum quam referuntur, quae  
+        <lb ed="#Bb" n="42"/>inquantum huiusmodi communis est illis secundum rationem, non vt aliquid illorum, sicut communis est substantia eadem nunero in diuin 
+        <lb ed="#Bb" n="43"/>nis in relatis identitate secundo modo vt in patre &amp; filio: neque vt contracta in illis, sicut communis est eadem sub 
+        <lb ed="#Bb" n="44"/>stantia specie aut genere in creaturis relatis identitate forma enim speciei aut generis est aliquid cone suppo 
+        <lb ed="#Bb" n="45"/>sitis quae illa referunt, puta humanitas Petro &amp; Paulo cum dicuntur idem homo secundum speciem: vel animalitas 
+        <lb ed="#Bb" n="46"/>Petro &amp; Brunello cum dicuntur idem animal secundum genus. Continet enim quodlibet suppositorum substantiae 
+        <lb ed="#Bb" n="47"/>creatae in se substantiam quae est forma speciei vel generis cum ratione determinante essentiam commu- 
+        <lb ed="#Bb" n="48"/>nem in supposito: sicut quodlibet suppositum diuinum continet in se substantiam deitatis cum rela 
+        <lb ed="#Bb" n="49"/>tione determinante suppositum continens essentiam communem. Sed substantia secundum quam  
+        <lb ed="#Bb" n="50"/>referuntur relata primo modo identitatis, est totum quod sunt illa quae referuntur. Quae enim referuntur primo modo identita 
+        <lb ed="#Bb" n="51"/>tis, referuntur inter se secundum substantiam: quae est totum id quod sunt relata. Referuntur enim inter se ratione totalitatis 
+        <lb ed="#Bb" n="52"/>suae. Pltur enim in diuinis est idem prim siue sibiipsi secundum totum quod est pitir, continems scilicet essentiam cum, proprietate relati 
+        <lb ed="#Bb" n="53"/>ua. Non sic autem referuntur inter se illa quae referuntur secundo modo identitati: sed referuntur inter se secundum substantiam 
+        <lb ed="#Bb" n="54"/>quae est aliquid eorum quae referuntur, vel saltem aliquod alterius eorum. Non autem referuntur secundum substantiam quae est totum quid sunt 
+        <lb ed="#Bb" n="55"/>ambo. Persona ei vna est eadem alteri personae, &amp; relatio relationi, &amp; attributum attributo, &amp; singsa singulis 
+   <!--485.xml-->
+        <pb ed="#Bb" n="235-v"/>
+        <lb ed="#Bb" n="1"/>in diuinis, vt dictum est. Quae omnia differunt inter se secundum rationes vel respectus diuersos in relatis:  
+        <lb ed="#Bb" n="2"/>&amp; cum ratione vel respectu continent in suo significato communem essentiam. Quando vero est comparatio 
+        <lb ed="#Bb" n="3"/>secundum identitatem inter diuinam essentiam &amp; personam aut attributum aut aliquam relationem: tunc est relatio se 
+        <lb ed="#Bb" n="4"/>cundum substantiam quae est aliquid alterius relatorum tantum, essentia enim est aliquid personae &amp; caeterorum: sed non est 
+        <lb ed="#Bb" n="5"/>aliquid sui: sed est totum quod est ipsa. Quod ergo dicitur in argumento, quod in diuinis non est aliqua substantia 
+        <lb ed="#Bb" n="6"/>communis alicui cum alio: Dico quod verum est substantia quae est re differens ab illis. Est tamen bene communis 
+        <lb ed="#Bb" n="7"/>substantia differens ratione a relatis secundum illam, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe64064-d1e361">
+        ⁋ Et quod arguitur contra hoc: quod tunc de 
+        <lb ed="#Bb" n="8"/>illa substantia communi eadem quaestio formaretur, an esset eadem sibi secundum substantiam: &amp; dicendum esset quod sic: 
+        <lb ed="#Bb" n="9"/>semper enim eadem est sibi secundum substantiam: alia tamen secundum rationem modo iam dicto: Et quod additur quod tunc 
+        <lb ed="#Bb" n="10"/>processus iret in infinitum, Dico quod verum est: &amp; hoc bene possibile est in illis quae solum habent esse secundum rationem: 
+        <lb ed="#Bb" n="11"/>licet non sit possibile in illis quae habent esse secundum rem &amp; naturam. 
+      </p>
+      <p xml:id="vn58an-fe64064-d1e372">
+        ⁋ Ad secundum, si substantia deitatis esset 
+        <lb ed="#Bb" n="12"/>adem sibi: aut ergo seipsa id est substantia quae ipsa est: aut aliquo alio: Dico secundum superius determinata in 
+        <lb ed="#Bb" n="13"/>quarta quaestione articuli praecedentis quod aliquo siue secundum aliquid referri aliqua relatione quacumque potest 
+        <lb ed="#Bb" n="14"/>intelligi dupliciter, vel materialiter siue fundamentaliter, vel formaliter. Et dico quod substantia deitatis 
+        <lb ed="#Bb" n="15"/>est eadem sibi seipsa non alio fundamentaliter loquendo. Diuersa tamen secundum rationem sicut dictum est. Eorma 
+        <lb ed="#Bb" n="16"/>iter autem loquendo est eadem sibi alio quam substantia. scilicet relatione quae est identitas: quae est alia &amp; alia secundum ratio- 
+        <lb ed="#Bb" n="17"/>nem in vtroque extremorum, vt patet ex praedeterminatis: &amp; etiam alia a substantia relata sola ratione. Error autem  
+        <lb ed="#Bb" n="18"/>qui concluditur sequi secundum Aug. non sequitur nisi ponendo quod secundum substantiam aut essentiam 
+        <lb ed="#Bb" n="19"/>ponatur aliquid referri formaliter. Et quod arguitur in fine, si aliquo alio dicitur diuina essentia eadem sibi quam seipsa 
+        <lb ed="#Bb" n="20"/>hoc non potest esse nisi illud sit id quod relatiue dicitur: Dico quod verum est formaliter: &amp; tunc falsum est quod  
+        <lb ed="#Bb" n="21"/>istud non est nisi substantia, quoniam id quo aliquod relatiue dicitur, formaliter non est substantia: sed relatio 
+        <lb ed="#Bb" n="22"/>uae est aliquid praeter substantiam quae relatiue dicitur: &amp; praeter substantiam secundum quam relatiue dicitur: sicut substantia est 
+        <lb ed="#Bb" n="23"/>aliquid praeter illam. Sed omnis ista diuersitas in relatione identitatis primo modo est secundum rationem tantum. In rela 
+        <lb ed="#Bb" n="24"/>tione autem identitatis secundo modo substantia secundum quam relatiue dicitur, puta qua pater idem filio dicitur 
+        <lb ed="#Bb" n="25"/>est aliud a relatione alietate quae est inter deitatem siue essentiam quae est in patre &amp; filio communis secundum rem 
+        <lb ed="#Bb" n="26"/>&amp; relationem siue identitatem quae est aliquid commune in illis secundum rationem. Substantia vero quae relatiue dicitur: 
+        <lb ed="#Bb" n="27"/>est aliud a relatione alietate quae est inter diuinum suppositum quod est aliquid secundum rem: &amp; identitatem in illa 
+        <lb ed="#Bb" n="28"/>quae non est aliquid nisi secundum rationem. Vnde dictum Augustius vii. de trinitate Omnis essentia quae relatiue dicitur est aliquid  
+        <lb ed="#Bb" n="29"/>excepto relatiuo: aliter intelligitur in diuinis personis quo ad tertium modum relationis: &amp; aliter &amp; in di 
+        <lb ed="#Bb" n="30"/>uinis &amp; in creaturis quo ad primum modum relationis. In diuinis enim personis essentia quae relatiue 
+        <lb ed="#Bb" n="31"/>dicitur tertio genere relationis: est suppositum reale &amp; relatiuum: &amp; relatio ipsa qua essentia relatiue dicitur, 
+        <lb ed="#Bb" n="32"/>est aliquid secundum rationem tantum. Essentia vero quae dicitur relatiue primo genere relationis, &amp; ipsa relatio secundum quam 
+        <lb ed="#Bb" n="33"/>relatiue dicitur: ambo sunt secundum rem. Sed differunt in diuins &amp; creaturi: quia in diuinis essentia quae relatiue di 
+        <lb ed="#Bb" n="34"/>citur est ipsum suppositum. Relatio vero qua dicitur relatiue, puta pater ad filium, est aliquid suppositi illius 
+        <lb ed="#Bb" n="35"/>&amp; de constitutione illius, puta paternitas in patre. In creaturis vero essentia quae relatiue dicitur est suppo 
+        <lb ed="#Bb" n="36"/>situm. Relatio vero est aliquid extra siue praeter constitutionem suppositi. prout <name ref="#Augustine">Augustinus</name> continue declarat 
+        <lb ed="#Bb" n="37"/>exemplariter dicens. Sicut homo domins, &amp; homo seruus. Homo &amp; homo ad se dicuntur: Dominus vero &amp; ser- 
+        <lb ed="#Bb" n="38"/>uus ad aliquid relatiue. Sed si non esset homo id est aliqua substantia, non esset qui relatiue dominus di 
+        <lb ed="#Bb" n="39"/>ceretur: sed econverso si non esset domins autem seruus: esset homo qui diceretur. In diuinis autem cum relatiue 
+        <lb ed="#Bb" n="40"/>dicitur deus pater &amp; deus filius, deus &amp; deus ad se dicuntur. Pater vero &amp; filius ad aliquod relatiue dicun 
+        <lb ed="#Bb" n="41"/>tur: &amp; si non esset deusid i. aliqua substantia, non esset quid relatiue diceretur pater aut filius: &amp; econverso si non 
+        <lb ed="#Bb" n="42"/>esset pater aut filius: non esset qui deus diceretur: quia non esset deus nisi subsistens in supposito relati 
+        <lb ed="#Bb" n="43"/>uo secundum superius declarata. &amp; sic dictum <name ref="#Augustine">Augustinus</name> praecise intellectum in solis creaturis veritatem ha-  
+        <lb ed="#Bb" n="44"/>bet. 
+      </p>
+      <p xml:id="vn58an-fe64064-d1e453">
+        ⁋ Ad primum vero eorum quae probant quod in diuinis nihil est idem alteri a se: quia alteritas ponit di 
+        <lb ed="#Bb" n="45"/>uersitatem: &amp; ita esset simulidem &amp; diuersum: Dico quod quantuncumque sint aliqua abinuicem altera: dum 
+        <lb ed="#Bb" n="46"/>tamen eorum sit substantia vna, secundum illam habent identitatem inter se. Sed hoc quo ad vnitatem 
+        <lb ed="#Bb" n="47"/>substantiae numeralem est impossibile contingere in aliis quam in illis solis quae altera sunt solis respecti 
+        <lb ed="#Bb" n="48"/>bus aut relationibus, vt contingit in solis diuinis. Altera enim aliquibus absolutis vt sunt supposi 
+        <lb ed="#Bb" n="49"/>ta in creaturis, impossibile est habere eandem substantiam numeralem: sed solummodo eandem spe 
+        <lb ed="#Bb" n="50"/>cie aut genere. Et ideo in diuinis in quibus est alteritas secundum relationes &amp; respectus solummodo 
+        <lb ed="#Bb" n="51"/>bene potest esse identitas alicuius ad alterum a se quod non differt ab ipso re absoluta. 
+      </p>
+      <p xml:id="vn58an-fe64064-d1e471">
+        ⁋ Et quod assumitur quod  
+        <lb ed="#Bb" n="52"/>tunc aliquid alteri simul esset idem &amp; diuersum: quia alteritas ponit diuersitatem: Dico quod non quae  
+        <lb ed="#Bb" n="53"/>libet alteritas ponit diuersitatem: sed solummodo illa quae est ex absoluto. Illa vero quae est ex 
+        <lb ed="#Bb" n="54"/>respectiuo, nullam omnino ponit diuersitatem, nisi extendendo nomen diuersitatis: quia se- 
+        <lb ed="#Bb" n="55"/>cundum respectum non sunt nata dici aliqua eadem vel diuersa, vt habitum est supra. 
+   <!--486.xml-->
+        <pb ed="#Bb" n="236-r"/>
+      </p>
+      <p xml:id="vn58an-fe64064-d1e487">
+        <lb ed="#Bb" n="1"/>⁋ Per hoc patet ad secundum, dicendo quod licet altera abinuicem semper formaliter differant: si tamen 
+        <lb ed="#Bb" n="2"/>illud formale sit respectiuum: secundum illud nequaquam dicuntur diuersa: sed solummodo dicuntur 
+        <lb ed="#Bb" n="3"/>eadem secundum substantiam absolutam quam habent communem vel simpliciter, vt in diuinis, vbi 
+        <lb ed="#Bb" n="4"/>est alterorum eadem substantia numero, vel cum determinatione secundum speciem vel secundum genus, vt in 
+        <lb ed="#Bb" n="5"/>creaturis, vbi eadem est alterorum substantia secundum speciem aut secundum genus tantum. Sicut enim secundum <name ref="#Augustine">Augustinus</name>  
+        <lb ed="#Bb" n="6"/>v. de triniitate. ca. iii. cum dicitur vnum, vt non addatur secundum quid vnum, cum plura vnum dicuntur, ea 
+        <lb ed="#Bb" n="7"/>dem natura non dissidens significatur: sic cum dicitur idem, &amp; non additur secundum quid idem: cum plu- 
+        <lb ed="#Bb" n="8"/>ra dicuntur idem, identitas simpliciter in eadem natura non dissidente intelligitur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

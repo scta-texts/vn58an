@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="187-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2236"> <!-- alias="vn58an-a31q3" -->
+      <head xml:id="vn58an-d1e2236-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e2236-Hd1e107" type="question-title">Utrum aeternitas possit distingui secundum differentias temporis, quae sunt praesens praeteritum et futurum</head>
+      <p xml:id="vn58an-d1e2236-d1e110">
+        <lb ed="#Ba" n="6"/>CIrca Tertium arguitur quod aeternitas non possit distigui secundum praesens, praeteritum, &amp; fu 
+        <lb ed="#Ba" n="7"/>turum, vt secundum ipsam deus dicatur esse, fuisse, vel fore. Primo sic. Aeternitas in nu 
+        <lb ed="#Ba" n="8"/>lo est dissimilis: quia esse dei ad quid sequitur: est numquam dissimiliter se habere: vt iam prae 
+        <lb ed="#Ba" n="9"/>dictum est. illa tria esse, fuisse, &amp; fore, ponunt in duratione essendi aliquam dissimili 
+        <lb ed="#Ba" n="10"/>tudinem: quia aliter essent synonyma. quod falsum videtur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2236-d1e123">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="11"/>Anselmus dicit in Monol. xxxiiii. Suma essentia constat sine principio &amp; sine fine 
+        <lb ed="#Ba" n="12"/>nec habere potest praeteritum aut futurum: nec hoc praesens quo nos vtimur. Sed aeternitas non potest distin  
+        <lb ed="#Ba" n="13"/>gui penes ea quae deus in se habere non potest: quia ipse est sua aeternitas, vt dictum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2236-d1e133">
+        ⁋ Contra 
+        <lb ed="#Ba" n="14"/>est illud Apocs i Qui est, &amp; quid erat, &amp; quid venturus est. 
+      </p>
+      <p xml:id="vn58an-d1e2236-d1e138">
+        ⁋ Item <name ref="#Anselm">Anselmus</name> in Mon. c. xx. Suma essentia ne 
+        <lb ed="#Ba" n="15"/>cesse est vt sit vbique &amp; sempie id i. in omni loco, &amp; in omni epere. Sed non est in omni tpore nisi eius aeternitas omnem 
+        <lb ed="#Ba" n="16"/>differentiam temporis in se contineat. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2236-d1e148">
+        <lb ed="#Ba" n="17"/>⁋ Dicendum ad hoc: quod sicut est in aliis attributis deo ex eis quae exprimunt aliquod esse 
+        <lb ed="#Ba" n="18"/>in creaturis: quod quicquod est nobilitatis &amp; dignitatis in creaturis: sed sub aliqua ratione defectus &amp; 
+        <lb ed="#Ba" n="19"/>ignobilitatis: deo attribuimus quod nobilitatis est &amp; dignitatis amouendo ab eo quod indignitatis est 
+        <lb ed="#Ba" n="20"/>&amp; ignobilitatis, vt infra videbitur: Sic est &amp; circa durationem dei quae dicitur aeternitas. Deo attribuere 
+        <lb ed="#Ba" n="21"/>debemus quicquid dignitatis est &amp; nobilitatis in duratione creaturarum amoto omni eo quod indigni 
+        <lb ed="#Ba" n="22"/>tatis est &amp; ignobilitatis. Nunc autem ita est quod circa illas differentias quae sunt esse, fuisse, &amp; fore, duo est 
+        <lb ed="#Ba" n="23"/>considerare. Quorum vnum est ratio durationis in esse: quod est nobilitatis &amp; dignitatis. Dignius enim. &amp; 
+        <lb ed="#Ba" n="24"/>melius est esse quam non esse, fuisse quam non fuisse, fore quam non fore. Aliud vero est indignitatis quod est eis anne 
+        <lb ed="#Ba" n="25"/>xum: vt ei quod est fuisse, praeteritio: qua id quod habitum est iam non sit: &amp; ei quod est fore, futuritio: quae id quod fu 
+        <lb ed="#Ba" n="26"/>turum est, nondum sit: &amp; ei quid est esse, transitus: quo praesens non perseuerans sit: quod omnino imperfectionis est &amp; 
+        <lb ed="#Ba" n="27"/>ignobilitatis. Quantum ergo est ex parte durationis in eo quod est esse, fuisse, &amp; fore, absolute concedendum 
+        <lb ed="#Ba" n="28"/>est quod aeternitas quae est dei duratio, possit distingui secundum praesens, praeteritum, &amp; futurum, vt secundum ipsam 
+        <lb ed="#Ba" n="29"/>deus dicatur esse, fuisse, &amp; fore, distinctione dico non rei sed rationis: distinguendo scilicet secundum rationem intelle 
+        <lb ed="#Ba" n="30"/>ctus nostri simplicitatem aeternitatis iuxta rationes vicissitudinis tporis: sicut intellectus noster distin 
+        <lb ed="#Ba" n="31"/>guit simplicitatem attributorum quae idem sunt in deo: iuxta rationem diuersitatis eorum in creaturis. Intellect 
+        <lb ed="#Ba" n="32"/>enim noster non potens attingere infinitam simplicitatem in deo, ea quae in ipso sunt simplicia quodammodo di 
+        <lb ed="#Ba" n="33"/>uidit &amp; distinguit, vt infra dicetur loquendo de creaturis attributis. Et hoc bene est secundum naturam 
+        <lb ed="#Ba" n="34"/>rei: quia quaecumque sunt re distincta in creaturis &amp; dignitatis alicuius, in deo sunt vnita &amp; virtute 
+        <lb ed="#Ba" n="35"/>in vno simplici adunata, vt infra dicetur loquendo de diuina perfectione. Vnde aeternitas virtute in se 
+        <lb ed="#Ba" n="36"/>continet quicquod durationis in tempore est: sicut mensura supior quidcquod est in inferiori. Quantum vero est 
+        <lb ed="#Ba" n="37"/>ex parte praeteritionis circa fuisse: &amp; expectationis circa fore: &amp; fluxus circa esse: omnino abnegandum est 
+        <lb ed="#Ba" n="38"/>in aeternitate distingui esse, fuisse, aut fore. lta quod secundum illas rationes defectus &amp; imperfectionis circa 
+        <lb ed="#Ba" n="39"/>esse, fuisse, &amp; fore. secundum quaes reperiuntur in tmporalibus: Dicendum est deum, proprie nec esse, nec fuisse, nec 
+        <lb ed="#Ba" n="40"/>fore. Et hoc est quod dicit <name ref="#Augustine">Augustinus</name> de vera rel. Mentis aspectu ab aeternitate omnem mutabilitatem seiugo 
+        <lb ed="#Ba" n="41"/>&amp; in ipsa aeternitate nulla spatia temporis cerno: quia spatia temporis praeteritis &amp; futuris rerum mo 
+        <lb ed="#Ba" n="42"/>tibus constant: nihil autem praeterit in aeterno: &amp; nihil futurum est: quia &amp; quod praeterit esse desinit: &amp; 
+        <lb ed="#Ba" n="43"/>quod futurum est nondum esse coepit. Aeternitas autem tantummodo est, nec fuit quasi iam non sit, nec erit 
+        <lb ed="#Ba" n="44"/>quasi adhuc non sit. ldem super Ion ser. xxxiiii. In omnibus actionibus &amp; motibus nostris &amp; in omni prori 
+        <lb ed="#Ba" n="45"/>sus agitatione creaturae duo tempora inuenio: praeteritum &amp; futurum. Praesens quaero. Nihil stat: 
+        <lb ed="#Ba" n="46"/>quod dixi, iam non est: quod dicturus sum, nondum est: quod feci, iam non est: quod facturus sum, nondum 
+        <lb ed="#Ba" n="47"/>est: quod vixi, iam non est: quod victurus sum, nondum est. Praeteritum &amp; futurum inuenio 
+        <lb ed="#Ba" n="48"/>in omni motu rerum: in veritate quae manet, praeteritum &amp; futurum non inuenio: sed solum 
+        <lb ed="#Ba" n="49"/>praesens: &amp; hoc incorruptibiliter, quod in creatura non est. Discute rerum mutationes: inuenies 
+        <lb ed="#Ba" n="50"/>fuit, &amp; erit: cogita deum, inuenies est: vbi fuit, &amp; erit esse non possit. Quod verum est quantum est ex 
+        <lb ed="#Ba" n="51"/>parte rei aeternae, &amp; imperfectionis quam important praeteritum &amp; futurum circa durationem. 
+        <lb ed="#Ba" n="52"/>Quantum tamen est ex nostrae considerationis ratione: &amp; eius quod perfectionis important, bene contingit 
+        <lb ed="#Ba" n="53"/>ponere in diuina duratione praeteritum &amp; futurum cum praesenti. Secundum quod dicit <name ref="#Anselm">Anselmus</name> in prosoli. xix. inter 
+        <lb ed="#Ba" n="54"/>rogando &amp; soluendo. Si per aeternitatem tuam fuisti, &amp; es, &amp; eris, &amp; fuisse non est futurum esse: &amp; esse non  
+        <lb ed="#Ba" n="55"/>est fuisse vel futurum esse: quom aeternitas tota est simul: an de aeternitate tua nihil praeterit vt iam non 
+   <!--389.xml-->
+        <pb ed="#Ba" n="187-v"/>
+        <lb ed="#Ba" n="1"/>sit: nec aliquod futurum est quasi non sit: Non ergo fuisti heri, aut eris cras: sed heri, &amp; hodie, &amp; cras es. 
+        <lb ed="#Ba" n="2"/>Immo nec heri, nec hodie, nec cras es: sed simpliciter es extra omne tempus. Nam nihil aliud est heri, &amp; ho 
+        <lb ed="#Ba" n="3"/>die, &amp; cras: quam in tempore. Per quod innuit aparte quod deus peraeternitatem suam habet quod est, fuit, &amp; erit quo-  
+        <lb ed="#Ba" n="4"/>dammodo: &amp; quod alio modo non est, non fuit, non erit: &amp; vnum ratione perfectionis quam important in duratione essen 
+        <lb ed="#Ba" n="5"/>di: alia vero ratione imperfectionis quam important circa rem temporalem secundum quod sunt differentiae temporis. Vnde  
+        <lb ed="#Ba" n="6"/>dicit in Monoli. xxii. c. Nec ideo quoniam fuit aut erit aut est, aeternitati eius euanuit aliquid a praesenti tem 
+        <lb ed="#Ba" n="7"/>pore cum praeterito quod iam non est, aut transiit cum praesenti quod vix est: aut futurum est cum futuro quid nondum  
+        <lb ed="#Ba" n="8"/>est. Quamuis enim de illa re &amp; de temporalibus sit vna prolatio propter loquendi consuetudinem, diuersus 
+        <lb ed="#Ba" n="9"/>tamen est intellectus propter rerum dissimilitudinem: nec in se recipit temporum distinctiones, vt nunc, vel tunc 
+        <lb ed="#Ba" n="10"/>vel aliquando, nec secundum labile praesens tempus quo vtimur: quoniam aeternitas eius nihil aliud est: quam ipsa immu 
+        <lb ed="#Ba" n="11"/>tabilis, &amp; sine partibus. Et <name ref="#Augustine">Augustinus</name> de sent. Prosperi. Quamuis natura immutabilis non accipiat fuit, &amp; erit, 
+        <lb ed="#Ba" n="12"/>sed tantum est: ipse enim veraciter est: quia aliter quam est, esse non potest: tamen propter mutabilitatem temporum, in quibus 
+        <lb ed="#Ba" n="13"/>nostra versatur mortalitas, non mendaciter dicimus &amp; fuit, &amp; est, &amp; erit. Fuit enim in praeteritis seculis. 
+        <lb ed="#Ba" n="14"/>est in praesentibus, erit in futuris. Euit quippe, quia nunquam defuit: erit quia numquam deerit: est quia semper est. 
+        <lb ed="#Ba" n="15"/>Neque enim velut qui iam non sit: cum praeterit, occidit: aut cum praesentibus tamquam non manens labitur: aut cum fu- 
+        <lb ed="#Ba" n="16"/>turis tamquam non fuerit orietur. Proinde cum secundum volumina temporum locutio varietur, quid pro nullo deesse po 
+        <lb ed="#Ba" n="17"/>tuit, aut potest, aut poterit tempore, vere dicuntur de illo cuiuslibet temporis verba. 
+      </p>
+      <p xml:id="vn58an-d1e2236-d1e286">
+        <lb ed="#Ba" n="18"/>⁋ Per haec patent obiecta. Cum enim dicitur in primo: quod est, fuit, &amp; erit, ponunt in dura 
+        <lb ed="#Ba" n="19"/>tione essendi dissimilitudinem: Dicendum quod verum est in tpore, vbi re differunt: &amp; hoc propter successio- 
+        <lb ed="#Ba" n="20"/>nem &amp; mutabilitatem in mensurato: non autem in aeternitate, vbi differunt sola ratione in eodem fixo &amp; 
+        <lb ed="#Ba" n="21"/>pmanenti vt dictum est. Vnde dicit <name ref="#Anselm">Anselmus</name> in Prosol. c. xx. Transis omnia etiam aeterna: quia tua &amp; illorum aeterni 
+        <lb ed="#Ba" n="22"/>tas, tota tibi praesens est: cum illa nondum habent de sua aeternitate quod venturum est: sicut iam non habent prae- 
+        <lb ed="#Ba" n="23"/>teritum. Tua aeternitas continet secula temporum: quae seculum quidem est propter indiuisibilem vnitatem: se 
+        <lb ed="#Ba" n="24"/>cula propter interminabilem immensitatem. Vnde &amp; dicit in Mon. xxviii. Propter incommutabilem aeternita 
+        <lb ed="#Ba" n="25"/>tem suam nullo modo secundum aliquem motum potest dici quia fuit vel erit: sed simpliciter est: nec mutabiliter est 
+        <lb ed="#Ba" n="26"/>aliquod quod aliquando non fuit aut non erit. Vnde patet quod non distinguitur aeternitas dei secundum praesens, praeteritum- 
+        <lb ed="#Ba" n="27"/>&amp; futurum propter aliquam horum diuersitatem in ipsa, sed propter respectum ad diuersa tpora secundum illa 
+        <lb ed="#Ba" n="28"/>distincta: quibus praesens est simplex aeternitas tota. secundum quod dicit <name ref="#Augustine">Augustinus</name> super Ion Cum de sempiterna re 
+        <lb ed="#Ba" n="29"/>proprie dicatur est. secundum nos proprie dicitur fuit, &amp; erit. Euit: quia numquam defuit, vel deest, vel deerit. Et secundum 
+        <lb ed="#Ba" n="30"/>hunc modum vnum nunc aeternitatis: omnia complectitur tpora. secundum quod dicit hoe. in fi. de conso. Est autem deo  
+        <lb ed="#Ba" n="31"/>semper aeternus &amp; praesentaneus status: in sua manet simplicitate praesentiae, infinitaque praeteriti &amp; futuri 
+        <lb ed="#Ba" n="32"/>spatia complectens, quasi iam gerantur. Quom autem se habent adinuicem nunc aeternitatis, aeui, &amp; tporis secundum con 
+        <lb ed="#Ba" n="33"/>uenientiam &amp; differentiam, exponi debet loquendo de aeuo &amp; tpere cum creaturis. 
+      </p>
+      <p xml:id="vn58an-d1e2236-d1e330">
+        ⁋ Ad secundum patet per di- 
+        <lb ed="#Ba" n="34"/>cta. Bene enim verum est quod aeternitas non potest distingui per praesens, praeteritum, &amp; futurum, tamquam per differentia 
+        <lb ed="#Ba" n="35"/>re: quia sic non habet ea in se. potest tamen distingui secundum ea differentia rationis: quia rationes illorum in se habet 
+        <lb ed="#Ba" n="36"/>&amp; continet, sicut dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e2236-d1e339">
+        ⁋ Ad primum in oppositum de Apo. Dicendum quod loquitur de esse, fuisse, &amp; fore,  
+        <lb ed="#Ba" n="37"/>secundum expositum modum. 
+      </p>
+      <p xml:id="vn58an-d1e2236-d1e345">
+        ⁋ Similiter ad dictum <name ref="#Anselm">Anselmus</name> quoniam loquitur de esse in tpore: non sicut mensuratur in mensu 
+        <lb ed="#Ba" n="38"/>rato: sicut praetendit obiectio: quia sua stante aeternitate est in omni esse &amp; ente quod est, inquantum in esse continet 
+        <lb ed="#Ba" n="39"/>ipsum. &amp; quid sic est in tpore, non oportet quod eius duratio sequatur differentias tporis. secundum quod omnia haec expresse 
+        <lb ed="#Ba" n="40"/>dicit <name ref="#Anselm">Anselmus</name> prosol. xxii. In nullo (inquit) tpere proprie dicitur esse: quia omnino a nullo alio continetur: &amp; tamen 
+        <lb ed="#Ba" n="41"/>in omni tempore quodammodo dici potest esse: quoniam quicquod aliud est ne in nihilum cadat ab ea praesente 
+        <lb ed="#Ba" n="42"/>sustinetur. Suma ergo substantia nulla temporum lege ad partium multiplicitatem cogatur: aut praesens 
+        <lb ed="#Ba" n="43"/>esse tota pluribus temporibus prohibeatur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

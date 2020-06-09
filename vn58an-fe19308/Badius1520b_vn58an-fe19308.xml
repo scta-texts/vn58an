@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="71-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe19308"> <!-- alias="vn58an-a53a8" -->
+      <head xml:id="vn58an-fe19308-Hd1e104">Quaestio 8</head>
+      <p xml:id="vn58an-fe19308-d1e107">
+        <lb ed="#Bb" n="7"/>Irca. 8 arguitur, quod in deo non sint ponendae plures personae. Primo sic. De quibus nomen spe 
+        <lb ed="#Bb" n="8"/>ciale pliciter enunciari potest, &amp; generale: siue illud speciale fuerit nomen rei siue nomen i 
+        <lb ed="#Bb" n="9"/>tentionis, veluti cum Abraham, lsaac, &amp; lacob sunt tres homines, &amp; tria animalia: seu cum sunt 
+        <lb ed="#Bb" n="10"/>tria indiuidua hominis vel animalis, &amp; tres homines vniversalitria animalia. secundum <name ref="#Augustine">Augustinus</name> v. de trinitate. c. vi. 
+        <lb ed="#Bb" n="11"/>Deus &amp; persona se habent in dinis sicut generale &amp; speciale. Est eim deus quod cone ad personam, 
+        <lb ed="#Bb" n="12"/>siue persona sit nomen rei siue nomen intentionis. Si es in deo ptr, &amp; filius, &amp; spiritus san. sunt 
+        <lb ed="#Bb" n="13"/>plures personae: &amp; plures dii. consequens falsum est, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe19308-d1e128">
+        ⁋ Secundo sic. <name ref="#Boethius">Boethius</name>  dicit li. i. de trinitate. ca. iiii. In 
+        <lb ed="#Bb" n="14"/>deo nulla est ex diuersitate philosophitas sci si non est philosophtas personarum nisi ex aliqua earum diuersitate: quia vbi est omnino 
+        <lb ed="#Bb" n="15"/>identitas, perfecta est vnitas, &amp; ita nulla omnino pluralitas, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe19308-d1e138">
+        ⁋ ldem ibidem. Vbi nulla est differentia 
+        <lb ed="#Bb" n="16"/>nulla omnino est pluralitas, quare nec numerus: sed vnitas tantum. Haec maxime contingunt in deo. er- 
+        <lb ed="#Bb" n="17"/>go in deo nullus est omnino numerus. sed non est personarum pluralitas sine omni numero. ergo &amp;c. 
+        <lb ed="#Bb" n="18"/>
+      </p>
+      <p xml:id="vn58an-fe19308-d1e148">
+        ⁋ Item quaecumque in aliquo sunt vnius &amp; eiusdem rationis, vno non multiplicato nec alterum poterit multi- 
+        <lb ed="#Bb" n="19"/>plicari, persona &amp; esse in pre &amp; fi. &amp; spii. san. sunt vnius &amp; eiusdem rationis. dicente Augu. vii. de trinitate. c. vi. 
+        <lb ed="#Bb" n="20"/>quod hoc est illi esse quod personam esse, quare cum esse non plurificatur in pre &amp; fi. &amp; spii. san, nec persona, ergo &amp;c. 
+        <lb ed="#Bb" n="21"/>
+      </p>
+      <p xml:id="vn58an-fe19308-d1e157">
+        ⁋ Item simplicitas sequitur vnitatem: vt habitum est supra. vbi ergo maior vnitas, &amp; maior simplicitas. 
+        <lb ed="#Bb" n="22"/>sed maior est vnitas vbi cum vnitate essentiae est vnitas personae, quam vbi est pluralitas personae, ergo &amp; ma-  
+        <lb ed="#Bb" n="23"/>ior simplicitas. sed in deo summa posita est simplicitas, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe19308-d1e164">
+        ⁋ In contrarium arguitur, quia in quo est 
+        <lb ed="#Bb" n="24"/>ponere personarum alietatem, &amp; philosophtatem, quia non est alietas nisi ex pluralitate. in deo est ponere personarum 
+        <lb ed="#Bb" n="25"/>alietatem. secundum quod dicitur in symbolo Athanasii. Alia est persona pris, alia filii, alia spiritus sancti. ergo &amp;c. 
+        <lb ed="#Bb" n="26"/>
+      </p>
+      <p xml:id="vn58an-fe19308-d1e173">
+        ⁋ Dicendum ad hoc: quod cum secundum praedetermiata in deo non sit ponere personam penes aliquam 
+        <lb ed="#Bb" n="27"/>rationem absolutam accipiendam, sed solummodo penes relationem siue proprietatem relatiuam, &amp; hoc non quam 
+        <lb ed="#Bb" n="28"/>cumque, sed solummodo per illam quae ordinatur persona ad actum emanationis, vt a quae emanat id quod procedit, vel vt quae  
+        <lb ed="#Bb" n="29"/>per emanationem procedit: quae non est nisi relatio pertinens ad originem: quae etiam in deo non est accipienda ad ali- 
+        <lb ed="#Bb" n="30"/>quid extra vt ad creaturam: quia relatio dei ad creaturam, est secundum dici tantum, &amp; quasi accidentalis: ratio autem per  
+        <lb ed="#Bb" n="31"/>sonalitati essential est ei cuius est: Proprietas autem relatiua numquam est singularitur siue vnica &amp; solitaria: Plu- 
+        <lb ed="#Bb" n="32"/>res ergo debent esse in deo proprietates relatiuae penes quaes accipitur ratio personae in ipsis: &amp; ideo nccanrio in 
+        <lb ed="#Bb" n="33"/>deo sunt plures personae ponendae. vt sic in deo cum vnitate in siptua, de quae tractatum est supra, nccen sit ponere 
+        <lb ed="#Bb" n="34"/>philosophtatem in personis. Quod bene ostendunt <name ref="#Augustine">Augustinus</name> &amp; Hila. auctoritate sacrae scripturae, vt partractat Magtur lib. i. 
+        <lb ed="#Bb" n="35"/>Sentem. dist. ii. c. Personarum quoque pluralitatem. Sed vnitati stnae contrariatur Arrius diuidens sbuas, ponendo  
+        <lb ed="#Bb" n="36"/>tot seunas in diuinis quot personas. Distinctioni autem personarum contrariatur Sabellius, ponens vnum suppositum ab 
+        <lb ed="#Bb" n="37"/>solutum, &amp; illudiesem patrem cum generat, &amp; filium cum generatur, &amp; spcntum sanctum cum procedit. secundum quod tactum est su 
+        <lb ed="#Bb" n="38"/>pra. Et procedit dicta ratio ponendi plures personas in deo, a ratione formali propria personae constitutiua. 
+        <lb ed="#Bb" n="39"/>
+      </p>
+      <p xml:id="vn58an-fe19308-d1e207">
+        ⁋ Sed Ric. iii. li. de trinitate. sumit ad idem alias rationes a rationibus communibus, quasi consequentibus esse personae iam con- 
+        <lb ed="#Bb" n="40"/>stitutae: quaerum primam accipit in ca  ex ratione perfectae bonitatl siue amorl aut charitati: quam nccen est po 
+        <lb ed="#Bb" n="41"/>nere in deo: quae talis est. In deo est totius bonitati plenitudo atque perfectio: cui vera &amp; suma charitas de- 
+        <lb ed="#Bb" n="42"/>esse non praet. Nullus autem pro priuato suiipsius amore dicitur proprie hre charitatem. Oportet namque vt amor in al 
+        <lb ed="#Bb" n="43"/>terum tendat vt charitas esse quaeat. Oportet ergo vt in deo sit vnus &amp; alter, &amp; ita plures personae, vt chari 
+        <lb ed="#Bb" n="44"/>tas perfecta in ipso esse possit, non enm potest dici quod illam habeat ad creaturam, eo quod non est summe diligibilis. secundum  
+        <lb ed="#Bb" n="45"/>quod partractat ibidem. Secundam vero rationem accipit in iii. c. ex ratione summae felicitatl &amp; iucunditatis, quam 
+        <lb ed="#Bb" n="46"/>siliter nccem est ponere in deo, sic. In plenitudie summae felicitati non potest deesse id quo nihil est iucundius, non 
+        <lb ed="#Bb" n="47"/>potest amor esse iucundus nisi sit mutus. quia (vt ca. xvi. dicit) intimae charitati delitiae hauriuntur ex corde 
+        <lb ed="#Bb" n="48"/>alieno. In amore autem mutuo oportet vt sit &amp; quid amorem impendat, &amp; quid amorem rependat. vbi autem vnus &amp; 
+        <lb ed="#Bb" n="49"/>alter esse convicitur, vera pluralitas deprehenditur. &amp; &amp;c. Tertiam accipit ex ratione summae beniuolentiae. c. iiii. sic 
+        <lb ed="#Bb" n="50"/>Si tantum vnica esset persona in deitate, non hiret cui conicaret suam abundantiam. &amp; hoc aut quia conicantem hire non 
+        <lb ed="#Bb" n="51"/>possit cum velit, aut quia nolit cum possit. Sed proculdubio omnipotens per impossibilitatem excusari non praet: nec 
+        <lb ed="#Bb" n="52"/>etiam per defectum beniuolentiae: quia hoc esset defectus in ipso, vt manifeste partractat. &amp;S &amp;c. Nec est in hac verita 
+        <lb ed="#Bb" n="53"/>te scrupulus aliquis dubitationis, nisi quia (vt dicit ibid. c. ix. miratur homo quom possit esse plus quam vna perso 
+        <lb ed="#Bb" n="54"/>na, vbi non est plus quam vna substantia. Sed hunc scrupulum redarguit a contrario: cum videmus quod in homine 
+        <lb ed="#Bb" n="55"/>vbi est plus quam vna substantia, non tamen est plus quam vna persona: cum tamen illae substantiae sint tam diuersae sicut 
+        <lb ed="#Bb" n="56"/>corpus &amp; anima, vt partractat ca. x. Vnde &amp; dicit li. iiii. c. x. Sicut esse substantialiter aliud &amp; aliud non tollit 
+        <lb ed="#Bb" n="57"/>vbique vnitatem personae: sic esse personaliter alium &amp; alium, non scindit vbique vnitatem substantiae. nam in humana &amp;c. 
+   <!--157.xml-->
+        <pb ed="#Bb" n="71-v"/>
+      </p>
+      <p xml:id="vn58an-fe19308-d1e253">
+        <lb ed="#Bb" n="1"/>⁋ Alia autem ratione ostenditur pluralitas personarum in deo, scilicet ratione originis &amp; modi emanandi  
+        <lb ed="#Bb" n="2"/>vnam personam ab alia. Cum enim ratio originis vel emanationis necessario ponenda est in deo: vt infra vide- 
+        <lb ed="#Bb" n="3"/>bitur, ratio autem origis seu emanationis non est nisi vnius personae ab alia, &amp; ita non nisi plurium. dicit enim Hi 
+        <lb ed="#Bb" n="4"/>la. i. de triniitate. c. ix. Deo ex deo nato neque eundem natiuitas permittit esse, neque aliud. hoc est, nec eundem in  
+        <lb ed="#Bb" n="5"/>persona, nec alium in substantia. Idcirco necesse est ponere in deo plures esse personas. Et secundum hoc di- 
+        <lb ed="#Bb" n="6"/>cit Ricar. li. iiii. c. xiii. Existentia tribus modis potest variari, aut secundum solam rei qualitatem, aut secundumsolam 
+        <lb ed="#Bb" n="7"/>rei originem, aut secundum vtriusque concursionem. Secundum solam rei quaelitatem variatur existentia quando pluribus per 
+        <lb ed="#Bb" n="8"/>sonis est vna eademque origo per omnia, singula propriaque substantia. Plures namque substantiae non possunt esse 
+        <lb ed="#Bb" n="9"/>sine differenti qualitate. Secundum solam originem differunt, si vnus originem habet, alter origine caret, vel 
+        <lb ed="#Bb" n="10"/>si originem habentium origo vnius differt ab origine alterius. Tam secundum qualitatem quam secundum originem variatur 
+        <lb ed="#Bb" n="11"/>existentia, vbi singulis personis est singularis substantia, &amp; propria origo diuersa. Et tunc sequitur ca. xiiii. 
+        <lb ed="#Bb" n="12"/>in humana natura personarum existentia tam secundum qualitatem quam secundum originem variatur. In angelica vero 
+        <lb ed="#Bb" n="13"/>natura nulla est propagatio sed sola simplex creatio: idcirco oportet qualitate differre. Et sequitur 
+        <lb ed="#Bb" n="14"/>capite, xv. In diuinis autem nullo modo possunt aliqua qualitatis differentia abinuicem differre. Re 
+        <lb ed="#Bb" n="15"/>inquitur ergo vt dicantur iuxta modum originis aliquam differentiam habere. nam vbi nul- 
+        <lb ed="#Bb" n="16"/>la est differentia, nulla pluralitas esse potest. 
+        <lb ed="#Bb" n="17"/>
+      </p>
+      <p xml:id="vn58an-fe19308-d1e293">
+        ⁋ Ad argu. primum in oppositum, quod deus &amp; prosona in diuinis habent se sicut generale 
+        <lb ed="#Bb" n="18"/>&amp; speciale, ergo &amp;c. Dicendum quod differunt esse cone, &amp; esse generale aut speciale: quia omne generale 
+        <lb ed="#Bb" n="19"/>&amp; speciale est commune: sed non econverso. Non est enim generale aut speciale nisi quod est commune secund 
+        <lb ed="#Bb" n="20"/>diuersitatem naturae subiectae in subiectis, vt est animal in homine &amp; asino, &amp; homo in lsaac &amp; lacob. Estau 
+        <lb ed="#Bb" n="21"/>tem commune aliquid in identitate naturae, etsi sit in diuersis suppositis: vt est deitas in personis diui 
+        <lb ed="#Bb" n="22"/>nis: &amp; similiter ratio personae simpliciter in singulis personis. Sed aliter deitas est cone, aliter persona: quia deitas 
+        <lb ed="#Bb" n="23"/>secundum vnam &amp; eandem rationem deitatis communis est pluribus, persona autem non nisi secundum aliam &amp; aliam ra- 
+        <lb ed="#Bb" n="24"/>tionem personalitatis. Et commune primo istorum duorum modorum nullo modo habet rationem vniuersa 
+        <lb ed="#Bb" n="25"/>lis neque generalis aut specialis. Cone vero secundo modo &amp; similiter primo principali habet rationem vniuer- 
+        <lb ed="#Bb" n="26"/>salis &amp; generalis aut specialis, secundum quod determinatum est supra in quaestione de communitate perso 
+        <lb ed="#Bb" n="27"/>nae. Et verum est in talibus, quod de quibus speciale potest pluraliter enunciari, &amp; generale: sed sic non est deus 
+        <lb ed="#Bb" n="28"/>in diuinis commune, generale, aut speciale ad personam: quia eiusdem communitatis est quo ad subiecta 
+        <lb ed="#Bb" n="29"/>deus &amp; persona simpliciter: licet alio &amp; alio modo: vt iam dictum est. Et propter illum modum 
+        <lb ed="#Bb" n="30"/>communitatis alium &amp; alium, pluraliter persona praedicatur de patre &amp; filio &amp; spiritu sancto: sed non deus 
+        <lb ed="#Bb" n="31"/>aut deitas, siue diuina essentia. Per quod patet prolixa partractatio huius materiae. vii. de triniitate. <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Bb" n="32"/>ni, maxime. iiii. &amp;. vi. c. 
+      </p>
+      <p xml:id="vn58an-fe19308-d1e331">
+        ⁋ Ad secundum dicendum, quod diuersitas sumitur proprie vel large. Proprie enim 
+        <lb ed="#Bb" n="33"/>notat alietatem in substantia siue essentia. Large autem notat solam alietatem &amp; distinctionem secundum respe 
+        <lb ed="#Bb" n="34"/>ctus relationum. Primo modo nulla est in deo ex diuersitate pluralitas. Est tamen Secundo modo  
+        <lb ed="#Bb" n="35"/>propter hoc quod dicit <name ref="#Augustine">Augustinus</name> vii. de triniitate. quod dicendo tres personas, istis nominibus intelligi ecclesia non di 
+        <lb ed="#Bb" n="36"/>uersitatem voluit: sed singularitatem noluit. 
+      </p>
+      <p xml:id="vn58an-fe19308-d1e345">
+        ⁋ Per idem patet ad tertium: quia vbi nulla est diuersi- 
+        <lb ed="#Bb" n="37"/>tas omnino, nec primo modo, nec secundo, ibi nulla est pluralitas quocumque modo nec numerus. Sed  
+        <lb ed="#Bb" n="38"/>vbi est diuersitas aliquo modorum. secundum illum est pluralitas &amp; numerus. Et sic in deo est plurali 
+        <lb ed="#Bb" n="39"/>tas &amp; aliquis modus numeri secundum modum quo in ipso est diuersitas: vt amplius patet ex supra 
+        <lb ed="#Bb" n="40"/>determinatis circa modum ponendi numerum in deo. 
+      </p>
+      <p xml:id="vn58an-fe19308-d1e356">
+        ⁋ Ad quartum quod in deo persona &amp; esse sunt 
+        <lb ed="#Bb" n="41"/>eiusdem rationis, dicendum quod verum est secundum modum praedicandi &amp; dicendi in seipsis: quia in se 
+        <lb ed="#Bb" n="42"/>psis ambo dicuntur ad se, &amp; secundum substantiam. Secundum tamen modum praedicandi &amp; dicendi in suis pro 
+        <lb ed="#Bb" n="43"/>priis subiectis, sunt alterius rationis: quia esse in deo omnino dicitur ad se, persona vero in subie- 
+        <lb ed="#Bb" n="44"/>tis dicitur ad aliud: vt amplius patet ex iam determinatis. 
+      </p>
+      <p xml:id="vn58an-fe19308-d1e367">
+        ⁋ Ad vltimum dicendum est secundum quod expo 
+        <lb ed="#Bb" n="45"/>itum est supra in prima quaestione de simplicitate dei, quod duplex est vnitas, quaedam quae secundum graecos di 
+        <lb ed="#Bb" n="46"/>citur monas, quae est vnitas repugnans multitudini discretorum in diuersis, quaedam vero quae dicitur henas 
+        <lb ed="#Bb" n="47"/>repugnans multitudini vnitorum in eodem. Vnitatem isto secundo modo sequitur simplicitas: &amp; vbi est maior 
+        <lb ed="#Bb" n="48"/>vnitas, &amp; maior simplicitas. &amp; conuenit cuilibet personae in se sicut &amp; essentiae. Est enim persona aeque 
+        <lb ed="#Bb" n="49"/>simplex cum essentia: vt habitum est supra, &amp; amplius habebitur infra. Vnitatem vero primo modo non sequi- 
+        <lb ed="#Bb" n="50"/>tur simplicitas. Sic enim vnum non oportet quod sit simplex: vt patet in mundo. Et non sequitur quod sit ma- 
+        <lb ed="#Bb" n="51"/>ior simplicitas vbi est maior vnitas. Isto enim modo maior est vnitas mundi quam angeli, &amp; tamen non se 
+        <lb ed="#Bb" n="52"/>queretur quod non possent esse plures angeli, licet non possint esse plures mundi. Et conuenit ista 
+        <lb ed="#Bb" n="53"/>secunda vnitas diuinae essentiae, inquantum non possunt esse plures essentiae diuinae: &amp; similiter perso 
+        <lb ed="#Bb" n="54"/>nae secundum quamlibet rationem personae, inquantum non pabet esse plures patres in diuinis, nec plures filii, sicut 
+        <lb ed="#Bb" n="55"/>nec plures dii: vt infra videbitur: sed non conuenit personae secundum rationem personae simpliciter, quia 
+   <!--158.xml-->
+        <pb ed="#Bb" n="72-r"/>
+        <lb ed="#Bb" n="1"/>plures personae sunt in deo, licet non plures essentiae: vt iam expositum est, &amp; infra amplius exponetur. 
+        <lb ed="#Bb" n="2"/>De vnitate ergo secundo modo, maior est vera, vt dictum est, &amp; minor falsa. Non enim est maior 
+        <lb ed="#Bb" n="3"/>vnitas quae dicitur henas, vbi est vnitas essentiae cum vnitate personae, quam vbi est eum pluralitate in di- 
+        <lb ed="#Bb" n="4"/>uinis vt dictum est. De prima vero vnitate econuerso maior est falsa, vt dictum est, &amp; minor vera:  
+        <lb ed="#Bb" n="5"/>sed talis vnitas ex parte personae simpliciter non potest esse summa in deo: quia excluderet personarum 
+        <lb ed="#Bb" n="6"/>omnimodam pluralitatem, quae sequitur summam vnitatem secundo modo. &amp; sic non est in deo summa vni 
+        <lb ed="#Bb" n="7"/>tas, sicut est summa simplicitas: quia secundum omnem rationem est ibi summa simplicitas, &amp; vnitas simplicita 
+        <lb ed="#Bb" n="8"/>tis, non tamen secundum omnem modum est ibi summa vnitas discretion is &amp; singularitatis, quia illa repugnat sum 
+        <lb ed="#Bb" n="9"/>mae simplicitati. summa enim simplicitas deitatis requirit quod in ea sit personarum pluralitas &amp; non vnitas.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

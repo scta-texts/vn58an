@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="146-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1826"> <!-- alias="vn58an-a24q9" -->
+      <head xml:id="vn58an-d1e1826-Hd1e104">Quaestio 9</head>
+      <head xml:id="vn58an-d1e1826-Hd1e107" type="question-title">Utrum homo cognoscendo alia per id quod Deus est, discernat illud ab aliis</head>
+      <p xml:id="vn58an-d1e1826-d1e110">
+        <lb ed="#Ba" n="3"/>CIrca nonum arguitur quod homo cognoscit &amp; discernit quod quid est de deo: quod est ra 
+        <lb ed="#Ba" n="4"/>tio ei ad cognoscendum quod quid est in creatura, primo sic. Propter quod vnumquodque 
+        <lb ed="#Ba" n="5"/>tale &amp; illud magis. Si ergo propter illud quod quid est dei cognoscitur &amp; discernitur quod quid es 
+        <lb ed="#Ba" n="6"/>creaturae, multo magis cognoscitur &amp; discernitur quod quid est creatoris. 
+      </p>
+      <p xml:id="vn58an-d1e1826-d1e121">
+        ⁋ Ad idem sunt 
+        <lb ed="#Ba" n="7"/>omnes rationes inductae supra articulo. i. q. iii. ad probandum quod homo videt &amp; discer- 
+        <lb ed="#Ba" n="8"/>nit lucem aeternam, in qua videt &amp; discernit alia. 
+      </p>
+      <p xml:id="vn58an-d1e1826-d1e129">
+        ⁋ In contrarium est, quoniam si illud quod 
+        <lb ed="#Ba" n="9"/>est causa cognoscendi alterum cognoscitur discretiue, cognosci posset sine cogni 
+        <lb ed="#Ba" n="10"/>tione illius: quia cognitio causae non dependet a cognitione effectus: sicut neque esse suum ab esse 
+        <lb ed="#Ba" n="11"/>illius. auferendo autem omnino creaturae cognitionem, non contingit hominem habere de deo 
+        <lb ed="#Ba" n="12"/>aliam cognitionem quid sit: quia omnis nostra cognitio naturalis in sensus reducenda est, vt dictum 
+        <lb ed="#Ba" n="13"/>est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1826-d1e142">
+        <lb ed="#Ba" n="14"/>⁋ Dicendum ad hoc secundum determinata: quod id quo alterum cognoscitur, 
+        <lb ed="#Ba" n="15"/>aut se habet vt ratio cognoscendi tantum: aut cum hoc vt obiectum cognitionis: &amp; quod illud quod est 
+        <lb ed="#Ba" n="16"/>ratio cognoscendi vt ratio tantum: non vt obiectum simul: nullo modo cognoscitur in eo quod aliud co- 
+        <lb ed="#Ba" n="17"/>gnoscitur per ipsum. &amp; hoc modo deus vt lux est &amp; veritas prima &amp; ratio cognoscendi alia, in eo quod 
+        <lb ed="#Ba" n="18"/>per ipsum alia cognoscuntur &amp; discernuntur, ipse nec cognoscitur nec discernitur. Sed de cognoscendo 
+        <lb ed="#Ba" n="19"/>quod quid est de deo, inquantum tantum est ratio cognoscendi quod quod est creaturae non est hic sermo: sed  
+        <lb ed="#Ba" n="20"/>supra articulo. i. q. iii. Immo hic solummodo sermo est de cognoscendo quod quid est de deo: inquantum 
+        <lb ed="#Ba" n="21"/>est ratio cognoscendi quod quid est creaturae, in eo quod est primum cognitum. De quo sciendum secun- 
+        <lb ed="#Ba" n="22"/>dum praedeterminata: quod id quod quid est primo cognitum de deo, potest esse primo cognitum vel in spe 
+        <lb ed="#Ba" n="23"/>ciali in natura diuina determinata, vel in generali in aliquo eius attributo. Primo modo cognoscen 
+        <lb ed="#Ba" n="24"/>do quod quid est de creatura per hoc quod quid est de deo, non solum cognoscit homo quid est deus, 
+        <lb ed="#Ba" n="25"/>sed etiam distincta cognitione id cognoscit: ad modum quo cum cognoscitur imago Herculis, in ipso Her 
+        <lb ed="#Ba" n="26"/>cule videndo ipsum, distincte &amp; perfecte cognoscitur &amp; videtur ipse Hercules. sed talis cognitio eius 
+        <lb ed="#Ba" n="27"/>quod quid est de deo, non est propria viae: sed patriae, vt dictum est supra. Secundo modo cognoscere quid 
+        <lb ed="#Ba" n="28"/>quid est de creatura per cognitionem eius quod quid est de deo, in eius scilicet generali attributo, contigit 
+        <lb ed="#Ba" n="29"/>dupliciter intelligere: secundum quod de re qualibet particulari duplex potest esse cognitio. Vna communis genera 
+        <lb ed="#Ba" n="30"/>lis vel specialis: alia vero particularis: secundum quod in ea est natura vniversalis, generalis, vel specialis, &amp; parti 
+        <lb ed="#Ba" n="31"/>cularis. Generali enim cognitione cognoscimus de Callia quod sit animal, speciali quod sit homo: particulari 
+        <lb ed="#Ba" n="32"/>quod sit Callias. Primo modo per generalem cognitionem quam habemus de re in forma generis, puta animalis 
+        <lb ed="#Ba" n="33"/>vel per specialem in forma speciei, puta hominis, cognoscimus de quolibet particulari tanquam per medi 
+        <lb ed="#Ba" n="34"/>um primo cognitum &amp; conmunem rationem cognoscendi, de quolibet quod nobis occurrit, an sit animal vel 
+        <lb ed="#Ba" n="35"/>homo: non prius ipso cognito in esse suo particulari. Per hanc notitiam generalem vel specialem 
+        <lb ed="#Ba" n="36"/>cognoscimus omnia quae nobis historice de partibus hominis narrantur &amp; credenda proponun- 
+        <lb ed="#Ba" n="37"/>tur. secundum quod dicit Augustius viii. de trinita. cap. v. Habemus quasi regulariter infixam naturae 
+        <lb ed="#Ba" n="38"/>humanae notitiam: secundum quam quicquid tale aspicimus: statim hominem esse cognoscimus vel ho 
+        <lb ed="#Ba" n="39"/>minis formam. Secundum hanc notitiam cognitio nostra informatur cum credimus pro nobis deum hominem 
+        <lb ed="#Ba" n="40"/>factum. Nam &amp; ipsius facies dominicae carnis innumerabilium cognitionum diuersitate variatur &amp; fin- 
+        <lb ed="#Ba" n="41"/>gitur: quae tamen vna erat quaecumque erat: neque in fide nfa quam de domino nio lesu Christo habemus, illud salubre est 
+        <lb ed="#Ba" n="42"/>quod sibi animus fingit longe fortasse aliter quam res habet: sed illud quid secundum speciem de homine co 
+        <lb ed="#Ba" n="43"/>gitamus. Necesse enim est cum aliqua corporalia lecta vel audita quae non vidimus credimus, fin- 
+        <lb ed="#Ba" n="44"/>gat sibi animus aliquod in lineamentis formisque corporum: sicut occurrit cogitanti: quod aut verum non sit 
+        <lb ed="#Ba" n="45"/>aut etiam si verum est (quod rarissime potest accidere) non hoc tamen fide teneamus quicquam prodest: 
+        <lb ed="#Ba" n="46"/>sed aliud aliquid quod per hoc insinuatur: &amp; secundum species &amp; genera rerum vel natura insita: vel 
+        <lb ed="#Ba" n="47"/>experientia collecta, de factis huiusmodi cogitamus ne fides nostra ficta sit. Neque enim nouimus faciem 
+        <lb ed="#Ba" n="48"/>virginis Mariae: in quibus membrorum lineamentis fuit Lazarus: nequeBethaniam: neque sepulcrum: ne 
+        <lb ed="#Ba" n="49"/>quod omnino scimus quicunque ista non vidimus: an ita sint vt ea cogitamus: immo probabilius aesti 
+        <lb ed="#Ba" n="50"/>mamus ita non esse. nanque cum alicuius species eadem occurrit oculis nostris quae occurrebat ani 
+        <lb ed="#Ba" n="51"/>mo, cum eam prius quam videremus cogitabamus, non paruo miraculo mouemur: ita raro &amp; pene nun 
+        <lb ed="#Ba" n="52"/>quam accidit. est tamen possibile. secundum quod exponit Commen. super. iii. de anima. &amp; tamen ea firmis 
+        <lb ed="#Ba" n="53"/>sime credimus: quia secundum speciem generalemve notitiam quae certa nobis est cogitamus. Sed  
+        <lb ed="#Ba" n="54"/>hoc modo aliquid in generali attributo cognitum de deo non potest esse ratio cognoscendi aliquod: quia ipse non 
+        <lb ed="#Ba" n="55"/>est forma creaturarum: neque generalis: neque specialis: neque etiam alicuius in seipso: quia in ipso non est sumere rationem 
+   <!--307.xml-->
+        <pb ed="#Ba" n="146-v"/>
+        <lb ed="#Ba" n="1"/>vniuersalis &amp; particularis, vt infra determinabitur. Vnde quod supra determinauimus, quia de deo pos 
+        <lb ed="#Ba" n="2"/>sumus cognoscere quid sit notitia generali: non sumitur ibi notitia generalis sicut hic: vt modo cognosca 
+        <lb ed="#Ba" n="3"/>mus quid sit deus quasi in forma vniuersali: &amp; videndo nudam essentiam cognoscamus quid sit 
+        <lb ed="#Ba" n="4"/>in forma particulari: prius cognoscendo quid sit deus quam quid sit iste deus: sicut prius cognosci- 
+        <lb ed="#Ba" n="5"/>mus quid sit homo quam quid sit iste homo: eo modo quo indiuiduum est quid sub specie. Sed sumitur 
+        <lb ed="#Ba" n="6"/>ibi generalis notitia pro notitia in aliquo eius attributo quod communitate analogiae est communi- 
+        <lb ed="#Ba" n="7"/>ter conveniens ipsi &amp; creaturae, respectu cuius dicitur specialis illa notitia, quae est in nuda eius essentia: 
+        <lb ed="#Ba" n="8"/>in qua omne attributum eius est idipsum: licet modo nostro intelligendi generalius intelligimus ratio 
+        <lb ed="#Ba" n="9"/>nem attributi quam intelligenda est nuda essentia: &amp; alia ratione concipimus attributum quam concipienda 
+        <lb ed="#Ba" n="10"/>est essentia: &amp; alia ratione vnum attributum quam aliud, vt declarabitur inferius loquendo de attri- 
+        <lb ed="#Ba" n="11"/>butis. Si igitur isto secundo modo cognitionis vniversalis generalis vel specialis de deo in aliquo eius attribu- 
+        <lb ed="#Ba" n="12"/>to tanquam in primo cognito intelligatur quod quid est deus, ratio cognitionis de alio, in cognoscendo scilicet ei 
+        <lb ed="#Ba" n="13"/>naturam propriam &amp; particularem: hoc modo concessimus in quaestione praecedenti quod cognitio eius quod quid  
+        <lb ed="#Ba" n="14"/>est de deo, est ratio cognoscendi quod quod est in omni creatura: ex hoc videlicet quod quid est deus primum 
+        <lb ed="#Ba" n="15"/>conceptum est in generalibus &amp; primis conceptibus entis: qui quidem primi conceptus generalium atque vni 
+        <lb ed="#Ba" n="16"/>uersalium intentionum entis sunt primo cognita: &amp; per hoc ratio cognoscendi omnes alios conceptus sub 
+        <lb ed="#Ba" n="17"/>ente in quacumque re, esse enim est primo cognitum &amp; conceptum in quolibet ente: &amp; est ratio concipiendi 
+        <lb ed="#Ba" n="18"/>quamlibet aliam intentionem rei sub esse, vt dicitur in Commen. primae propositionis de causis. Quare 
+        <lb ed="#Ba" n="19"/>per hunc etiam modum vt dictum est cognitio eius quod quid est de deo in eius generalibus attributis est pri 
+        <lb ed="#Ba" n="20"/>mum obiectum conceptum ab intellectu nostro: etiam ante maxime vniversales conceptus alicuius intentionis in 
+        <lb ed="#Ba" n="21"/>creaturis, vt dictum est in quaest. ante praecedentem: &amp; est prima ratio cognoscendi quod quod est in qualibet crea 
+        <lb ed="#Ba" n="22"/>tura, vt dictum est in quaest. proxima praecedenti. Vnde non restat dubium quantum pertinet ad istam quaestionem: 
+        <lb ed="#Ba" n="23"/>nisi an in eo quod quid est dei, est ratio cognoscendi quod quod est in creatura: &amp; primo cognitum ita sit primo cognitum, 
+        <lb ed="#Ba" n="24"/>quod distincte cognoscatur &amp; discernatur ab eo quod per ipsum cognitum est in creatura. Vbi notandum quod aliud est aliquid co 
+        <lb ed="#Ba" n="25"/>gnoscere. Aliud vero in cognoscendo ipsum ab alio discernere. Cognitio enim est quilibet simplex conceptus rei per 
+        <lb ed="#Ba" n="26"/>intellectum: etsi intellectus rem conceptam non aduertat: sicut ille qui alibi mente intentus est, con 
+        <lb ed="#Ba" n="27"/>cipit oculo corporali per speciem receptam in oculo coram se transeuntem: quem postea interro- 
+        <lb ed="#Ba" n="28"/>gatus negat se vidisse: quia non aduertit ipsum. Cognitio autem discretiua est cum animaduersio 
+        <lb ed="#Ba" n="29"/>ne notitia, qua scilicet cognitum vnum discernit ab alio. 
+      </p>
+      <p xml:id="vn58an-d1e1826-d1e303">
+        ⁋ Dicendum igitur ad quaestionem. quod  
+        <lb ed="#Ba" n="30"/>est primum cognitum a nobis de deo, quod est ratio cognoscendi quod quid est in creaturis: non est ni 
+        <lb ed="#Ba" n="31"/>si quod quid est deus in suis generalibus attributis modo generalissimo: &amp; hoc quo ad primum &amp; se 
+        <lb ed="#Ba" n="32"/>cundum eius gradum, vt quod sit bonum pulchrum aut aliquid huiusmodi simpliciter: sub tail scilicet mo 
+        <lb ed="#Ba" n="33"/>do concipiendi quodlibet istorum, sub quo communiter potest conuenire creaturae &amp; creatori: non  
+        <lb ed="#Ba" n="34"/>sub aliquo modo conuenienti deo specialiter: &amp; non creaturis: vt quod est bonum vel pulchrum sub- 
+        <lb ed="#Ba" n="35"/>sistens: &amp; hoc modo generalissimo in tertio eius gradu: vel quod sit bonum praeeminentissimum: &amp; hoc 
+        <lb ed="#Ba" n="36"/>modo cognoscendi deum generalius: vel quod sit bonum quod est ipsa bonitas, ita quod pura rei entitas: &amp; 
+        <lb ed="#Ba" n="37"/>hoc modo cognoscendi deum generaliter: &amp; sic de aliis attributis nobilitatis primis in quibus cogno  
+        <lb ed="#Ba" n="38"/>scitur quid est deus. Isto autem modo cognoscendi de deo quod quid est: &amp; ex hoc quod quid est in creaturis 
+        <lb ed="#Ba" n="39"/>dicendum quod etsi deus isto modo cognoscendi cognoscatur &amp; intelligatur vt primum cognitum 
+        <lb ed="#Ba" n="40"/>&amp; ratio cognoscendi aliud, non tamen cognitione ista quod quid est de deo, distiguitur ab eo quod quid 
+        <lb ed="#Ba" n="41"/>est creaturae: quia sub nulla ratione determinante aut appropriante attributum illud deo, concipi- 
+        <lb ed="#Ba" n="42"/>tur: immo si hoc modo concipitur sub ratione entis, non distinguitur esse eius ab esse creaturae. Si sub 
+        <lb ed="#Ba" n="43"/>ratione boni, non distinguitur secundum intellectum bonum quod est in deo ab eo quod est bonum in creatura: sed i 
+        <lb ed="#Ba" n="44"/>tellectus ambo concipit quasi vnum: eo quod proprie sunt existentia, vt dictum est supra. Vnde ista cogni 
+        <lb ed="#Ba" n="45"/>tio eius quod quid est de deo non habetur per inuestigationem &amp; discursum rationis: sed naturaliter 
+        <lb ed="#Ba" n="46"/>&amp; simplici conceptu: sicut &amp; concipiuntur prima principia complexa &amp; incomplexa, inter quae conceptus 
+        <lb ed="#Ba" n="47"/>dei sub ratione entis aut boni simpliciter alicuius huiusmodi intentionis generalis est: aut primoprimus 
+        <lb ed="#Ba" n="48"/>quem non discernit propter eius simplicitatem ab intentionibus huiusmodi convenientibus creaturis: a qui-  
+        <lb ed="#Ba" n="49"/>bus concipitur quod in eis convenit creatori: sicut etiam intelligendo entia particularia in quibus primo 
+        <lb ed="#Ba" n="50"/>conceptu homo intelligit intentionem entis simpliciter &amp; vniuersalis ad omne ens creatum, non dis 
+        <lb ed="#Ba" n="51"/>cernit illam propter eius simplicitatem ab aliis intentionibus communibus &amp; particularibus: quamuis 
+        <lb ed="#Ba" n="52"/>non sit tantae simplicitatis, vt est intellectus entis simpliciter communis de deo &amp; creaturis: &amp; maxi- 
+        <lb ed="#Ba" n="53"/>me vt est intentio entis quae soli deo conuenit. 
+      </p>
+      <p xml:id="vn58an-d1e1826-d1e358">
+        <lb ed="#Ba" n="54"/>⁋ Ad primum quod arguitur in oppositum, propter quod vnumquodque tale &amp; illud magis, dicendum  
+   <!--308.xml-->
+        <pb ed="#Ba" n="147-r"/>
+        <lb ed="#Ba" n="1"/>quod illud dictum intelligitur in cognoscendis: quando illud propter quod aliud, est per se absolutum obiectum actus cognoscendi 
+        <lb ed="#Ba" n="2"/>vt cum cognoscimus conclusiones propter principia, magis cognoscimus principia: quia sunt per se &amp; 
+        <lb ed="#Ba" n="3"/>absolute obiectum cognitionis. Similiter si diligo nutricem propter filium, magis diligo filium: quia est 
+        <lb ed="#Ba" n="4"/>obiectum absolutum dilectionis. Vbi autem illud propter quod aliud non est absolutum obiectum actus: non opor 
+        <lb ed="#Ba" n="5"/>tet: vt si videmus colorem propter lucem: non oportet tamen quod magis videmus lucem: quia non vi 
+        <lb ed="#Ba" n="6"/>detur distincta a colore: &amp; in eo quod propter ipsum videtur, color magis se habet vt ratio viden  
+        <lb ed="#Ba" n="7"/>di quam vt obiectum. &amp; similiter est in proposito, vt patet ex dictis. 
+      </p>
+      <p xml:id="vn58an-d1e1826-d1e382">
+        ⁋ Argumenta superius inducta non 
+        <lb ed="#Ba" n="8"/>habent locum nisi de illo quod ratio est cognoscendi tantum, secundum determinationem habitam in il- 
+        <lb ed="#Ba" n="9"/>la quaestione, vbi argumenta illa soluta sunt. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

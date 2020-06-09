@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="75-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e903"> <!-- alias="vn58an-a10q3" -->
+      <head xml:id="vn58an-d1e903-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e903-Hd1e107" type="question-title">Utrum auctoritas huius scripturae possit esse contraria rationi naturali</head>
+      <p xml:id="vn58an-d1e903-d1e110">
+        <lb ed="#Ba" n="47"/>CIrca tertium arguitur quod auctoritas huius scientiae possit esse contraria ratio- 
+        <lb ed="#Ba" n="48"/>ni. Primo sic. illa bene sunt contraria quae contraria suadent. auctoritas huius 
+        <lb ed="#Ba" n="49"/>scientiae &amp; ratio sunt huiusmodi: quia ratio suadet nihil fieri posse nisi quod est secun- 
+        <lb ed="#Ba" n="50"/>dum naturam: Auctoritas autem huius scientiae suadet fieri posse aliquid con- 
+        <lb ed="#Ba" n="51"/>tra naturam, quia super illud primae Corinth. ii. Si quis inter vos videtur esse sapiens 
+        <lb ed="#Ba" n="52"/>in hoc seculo, stultus fiat. dicit Gl. Et deum contra naturam credat posse quod mun- 
+        <lb ed="#Ba" n="53"/>dus fieri posse negat. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e903-d1e128">
+        ⁋ Secundo sic. in epistola Consentii ad <name ref="#Augustine">Augustinus</name> di 
+   <!--166.xml-->
+        <pb ed="#Ba" n="76-r"/>
+        <lb ed="#Ba" n="1"/>citur de haereticis. Non sic errarent si scripturis magis quam suis rationibus accommodare fidem mal 
+        <lb ed="#Ba" n="2"/>lent. Ducit ergo eos ratio in errorem contra dicta scripturae. Sed quod ducit in errorem contra id 
+        <lb ed="#Ba" n="3"/>quod sub auctoritate alterius continetur est contrarium auctoritati illius. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e903-d1e146">
+        ⁋ In oppositum est 
+        <lb ed="#Ba" n="4"/>illud <name ref="#Augustine">Augustinus</name> ad Marcellum. Si ratio contra diuinarum scripturarum auctoritatem redditur quam 
+        <lb ed="#Ba" n="5"/>tuncunque acuta fuerit veri similitudine fallit. Nam vera esse non potest. Sed non est ratio si non sit 
+        <lb ed="#Ba" n="6"/>vera: immo sophisma. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e903-d1e158">
+        <lb ed="#Ba" n="7"/>⁋ Dicendum ad hoc, supposito quod huic scientiae non subiacet nisi verum, vt pro- 
+        <lb ed="#Ba" n="8"/>batur <ref xml:id="vn58an-d1e903-Rd1e164" target="http://scta.info/resource/gd-p1d9">multis cap. ix. dist. Decretorum</ref>. Aliter enim nulla esset eius auctoritas, vt dictum est in quaestio 
+        <lb ed="#Ba" n="9"/>ne praecedenti. Supposito etiam ex supra determinatis in quaestione, an veritas huius scientiae contra 
+        <lb ed="#Ba" n="10"/>rietur veritati alicuius alterius scientiae: quod quaecunque vera sunt iudicio &amp; auctoritate huius scien 
+        <lb ed="#Ba" n="11"/>tiae, falsa nullo modo esse possunt iudicio rectae rationis &amp; naturalis: sed si ea quae sunt huius scien 
+        <lb ed="#Ba" n="12"/>tiae, ab aliquo falsa esse creduntur &amp; censentur, hoc est per errorem iudicii &amp; defectum rationis rectae. His inquam super 
+        <lb ed="#Ba" n="13"/>positis, cum ex eis manifestum sit quod tam auctoritas huius scientiae quam ratio quae recta &amp; vera dici po 
+        <lb ed="#Ba" n="14"/>test, veritati innitantur: &amp; secundum Philosophum, verum vero contrarium esse non potest: absolute dicen 
+        <lb ed="#Ba" n="15"/>dum, quod auctoritati huius scripturae ratio nullo modo potest esse contraria. immo omnis ratio recta 
+        <lb ed="#Ba" n="16"/>ei consonat, quia vero omnia consonant, vt dicitur. i. Ethicorum Siqua autem ratio inueniatur contrariari 
+        <lb ed="#Ba" n="17"/>auctoritati huius scientiae, non vera neque recta ratio: sed falsa ratio &amp; sophisma debet iudicari. secun 
+        <lb ed="#Ba" n="18"/>dum quod sufficienter probatum est pluribus rationibus in quaestione supradicta. Et <name ref="#Augustine">Augustinus</name> in ti id est super Gene. 
+        <lb ed="#Ba" n="19"/>Respondendum est (inquit) hominibus quid calumniari libris nostrae salutis affectant, vt quicquid de ipsa re- 
+        <lb ed="#Ba" n="20"/>rum natura veracibus documentis demonstrare potuerint: ostendamus nostris literis non esse contrarium:  
+        <lb ed="#Ba" n="21"/>quicquod autem his nostris lireis. i. catholicae fidei de quibuslibet suis voluminibus contrarium protulerint: aut ali 
+        <lb ed="#Ba" n="22"/>qua falsitate ostendamus, aut nulla dubitatione credamus esse falsissimum: &amp; quantum valemus ita 
+        <lb ed="#Ba" n="23"/>defendamus ad literam, vt qui non rationabiliter moti propter animi prauitatem vel hebetatem credere 
+        <lb ed="#Ba" n="24"/>ista detractent: nullam tamen inueniant rationem vnde falsa esse convincant: sicut dicit lib. viii. in prin. 
+      </p>
+      <p xml:id="vn58an-d1e903-d1e206">
+        <lb ed="#Ba" n="25"/>⁋ Ad primum in oppositum, quod auctoritas huius scientiae &amp; ratio suadent contraria. 
+        <lb ed="#Ba" n="26"/>dicendum quod non est verum nisi de ratione erronea. Quia autem assumitur quod auctoritas suadet deum posse agere con- 
+        <lb ed="#Ba" n="27"/>tra naturam: cuius contrarium suadet ratio, quae non suadet secundum naturam: Dicendum quod sicut 
+        <lb ed="#Ba" n="28"/>secundum Philosophum. ii. Physicae. natura dicitur materia, &amp; natura dicitur forma: &amp; secundum quod dicit. i. de genera 
+        <lb ed="#Ba" n="29"/>tione, materiae proprium est pati: formae autem agere: Consimiliter a natura quae est forma, dicitur na- 
+        <lb ed="#Ba" n="30"/>tura actio procedens secundum cursum principiorum naturalium actiuorum: &amp; contra huiusmodi naturam dicitur esse illa 
+        <lb ed="#Ba" n="31"/>actio quae agit contraria tali actioni: &amp; a natura quae est materia, dicitur natura passio recepta secundum ca- 
+        <lb ed="#Ba" n="32"/>pacitatem principiorum naturalium passiuorum: &amp; contra huiusmodi naturam dicitur illa passio quae est contraria re 
+        <lb ed="#Ba" n="33"/>ceptioni naturali. Primo modo deus bene agit contra naturam: quia contrarium effectum illi ad quem principia natu- 
+        <lb ed="#Ba" n="34"/>ralia actiua naturae nituntur ducere, vt patet in Exechia, quem principia actiua naturalia corruptionis de 
+        <lb ed="#Ba" n="35"/>ducere nitebantur ad mortem: &amp; deus eum restituit ad sanitatem actione contraria actioni naturae. Sed non es 
+        <lb ed="#Ba" n="36"/>set recta ratio quae concluderet contrarium huius scilicet quod deus non potuisset eum ad sanitatem reducere: 
+        <lb ed="#Ba" n="37"/>nec posset esse aliqua actio ad hoc secundum naturam: quia ista actio dei est supra actionnem naturae: &amp; licet 
+        <lb ed="#Ba" n="38"/>ipsa sit contraria alicui actioni naturali: non tamen sequitur quod recta ratio secundum naturam posset esse contra ipsam:  
+        <lb ed="#Ba" n="39"/>quia vna actio naturalis bene potest esse contraria alteri ambabus existentibus secundum naturam: vt sunt generatio 
+        <lb ed="#Ba" n="40"/>&amp; corruptio: &amp; tamen contra neutram potest esse ratio vera secundum naturam. Secundo autem modo deus nihil agit contra 
+        <lb ed="#Ba" n="41"/>naturam: quia nihil agit in rebus naturalibus nec agere potest, quod natura non potest per principia naturalia rece 
+        <lb ed="#Ba" n="42"/>ptiua suscipere, quibus creatura subiicitur perfecta obedientia actioni creatoris: ita quod si aliquod impossibile 
+        <lb ed="#Ba" n="43"/>esset naturam in se recipere, impossibile esset omnino deum id in rerum natura agere: quia quod deus agit in rerum 
+        <lb ed="#Ba" n="44"/>natura, natura ipsa hoc recipit: &amp; non recipit: nisi quod possibile est eam recipere: quia non est actus nisi cuius est po 
+        <lb ed="#Ba" n="45"/>tentia, vt dicitur de som. &amp; vi. Vnde si recta ratio secundum naturam ostenderet quod natura n posset tale quid in se recipre 
+        <lb ed="#Ba" n="46"/>reuera nec deus illud posset agere. Nunc autem nec est recta ratio secundum naturam probans naturam non posse reci 
+        <lb ed="#Ba" n="47"/>pere: aut deum non posse agere id quod in veritate potest agere &amp; natura recipere. Vnde licet deus in natura agit 
+        <lb ed="#Ba" n="48"/>quod natura agere non posset: nihil tamen agit in ea contra eam: quia nihil agit in ea quod ipsa non potest recipere 
+        <lb ed="#Ba" n="49"/>&amp; sic quod agit in ea quasi contra vnam naturam, agit secundum aliam naturam: nihil autem agit contra naturam simplici 
+        <lb ed="#Ba" n="50"/>ter &amp; omnino. Vnde super illud Ephe. iii. Quae sit dispensatio sacramenti absconditi in deo. dicit Glos. Habet enim 
+        <lb ed="#Ba" n="51"/>deus in seipso absconsas quorundam factorrum causas quas rebus conditis non inseruit, easque implet non il 
+        <lb ed="#Ba" n="52"/>lo opere prouidentiae quo naturas substituit vt sint: sed eo quo illas administrat vt voluerit, quas 
+        <lb ed="#Ba" n="53"/>vt voluit condidit. In mundo enim sunt absconditae rationales causae omnium rerum quae natu- 
+        <lb ed="#Ba" n="54"/>taliter fiunt: sicut absconditus erat Leui in lumbis Abrahae. Sed in deo sunt absconditae causae 
+   <!--167.xml-->
+        <pb ed="#Ba" n="76-v"/>
+        <lb ed="#Ba" n="1"/>eorum quae per gratiam fiunt: siue eorum quae ad haec signanda mirabiliter non naturaliter fiunt. 
+        <lb ed="#Ba" n="2"/>vt quod de osse viri dormientis facta est mulier. &amp; in locum costae non costa: sed caro suppleta est: non  
+        <lb ed="#Ba" n="3"/>habuit hoc prima conditio rerum vt fcemina ex eo sic fieret: sed hoc habuit quod sic fieri posset: ne con 
+        <lb ed="#Ba" n="4"/>tra causas quas voluntate instituit: mutabili voluntate aliquid faceret. Reuera non habuit prima 
+        <lb ed="#Ba" n="5"/>conditio rerum vt fcemina sic de costa fieret scilicet actiue, virtute qua natura id facere posset: sed ha-  
+        <lb ed="#Ba" n="6"/>buit vt sic de costa fieri posset scilicet passiue. habuit enim in se potentiam qua reciperet quod natura in ea 
+        <lb ed="#Ba" n="7"/>agere non posset: sed virtus diuina supernaturalis. vnde ad plura est natura in potentia passiua quam in 
+        <lb ed="#Ba" n="8"/>actiua. Est etiam deus ad plura in potentia actiua quam sit natura in potentia passiua. Plura enim po- 
+        <lb ed="#Ba" n="9"/>test per se facere quam natura habet recipere: vel quam sint illa quae ex ea fieri possunt. contra id quod imponi 
+        <lb ed="#Ba" n="10"/>tur Philosopho. xi. metaphysicae, licet nunquam illud dixit scilicet quod omnes formae quae sunt in motore pri- 
+        <lb ed="#Ba" n="11"/>mo in actu, sunt in materia prima in potentia. hoc enim est falsissimum. nulla enim fortassis species 
+        <lb ed="#Ba" n="12"/>animalis perfecti est in materia in potentia, cuius non sunt aliqua indiuidua in actu: quia secun- 
+        <lb ed="#Ba" n="13"/>dum <name ref="#Aristotle">Philosophum</name> in libro de Plan. natura non cessat nec cessauit generare animalia &amp; plantas &amp; cun- 
+        <lb ed="#Ba" n="14"/>ctas suas species. Et dicit. xi. metaphysicae, quod perfecta in omni genere entis priora sunt imperfectis: vt 
+        <lb ed="#Ba" n="15"/>animal semine ex quo generatur. Constat autem quod possibile est deo nouas species animalium &amp; 
+        <lb ed="#Ba" n="16"/>plantarum quales mundus non habet in se, de nouo creare: licet inaniter philosophantes hic contra- 
+        <lb ed="#Ba" n="17"/>dicerent: dicendo deum nihil noui posse facere immediate neque aliquid aliud facere in mundo quam quid  
+        <lb ed="#Ba" n="18"/>iam fecit. De quibus possumus dicere illud Psal. Narrauerunt mihi iniqui fabulationes: sed non vt 
+        <lb ed="#Ba" n="19"/>lex tua. 
+      </p>
+      <p xml:id="vn58an-d1e903-d1e322">
+        ⁋ Ad secundum: dicendum quod ratio ducit haereticos in errorem contra auctoritatem huius 
+        <lb ed="#Ba" n="20"/>scientiae: Dicendum quod dictum illud suam expositionem secum portat &amp; solutionem rationis, non  
+        <lb ed="#Ba" n="21"/>enim dicit quod non errarent si scripturis magis quam rationibus mallent accommodare fidem: sed signanter ad 
+        <lb ed="#Ba" n="22"/>dit suis: vt per hoc intelligamus rationes illas quae sunt deficientes. Rationes enim verae non sunt haeretico- 
+        <lb ed="#Ba" n="23"/>rum, propriae neque nostrae: sed ipsius veritatis &amp; dei: quia deus veritas est. secundum quod dicit Augus. 
+        <lb ed="#Ba" n="24"/>super Ioan. ser. v. exponens illud Euang. Qui loquitur mendacium de suo loquitur. Non enim (inquit) ha 
+        <lb ed="#Ba" n="25"/>bet homo de suo nisi mendacium &amp; peccatum. Si quid autem habet homo veritatis ac iustitiae 
+        <lb ed="#Ba" n="26"/>de deo loquitur. &amp;. xii. confes. Veritas tua: non mea est nec illius aut vllius: sed omnium nostrum. Si ambo vi 
+        <lb ed="#Ba" n="27"/>demus verum vbi quaeso id videmus: Nec ego vtique in me nec tu in me: sed ambo in ipsa quae supra 
+        <lb ed="#Ba" n="28"/>mentes nostras est incommutabili veritate. secundum quod hoc expositum est supra. Vel potest dici quod ad  
+        <lb ed="#Ba" n="29"/>literam Consentius aestimauit quod in sacra scriptura rationes non erant adducendae: sed cauendae quasi 
+        <lb ed="#Ba" n="30"/>essent omnino causa erroris: &amp; contrariae auctoritati: &amp; dictis sacrae scripturae: non discutiendo ra- 
+        <lb ed="#Ba" n="31"/>tionem veram a non vera. Vnde etiam <name ref="#Augustine">Augustinus</name> in quadam epistola ad ipsum super hoc eum reprhendit di 
+        <lb ed="#Ba" n="32"/>cens. Non ratio: sed falsa ratio cauenda &amp; detestanda est. Nam si ratio vera esset, non vtique erras- 
+        <lb ed="#Ba" n="33"/>sent haeretici propter eam. &amp; addit. Quapropter sicut non debes omnem vitare sermonem quia est 
+        <lb ed="#Ba" n="34"/>&amp; sermo falsus: ita non debes vitare omnem rationem quia est &amp; falsa ratio.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

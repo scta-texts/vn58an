@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="128-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1609"> <!-- alias="vn58an-a21q5" -->
+      <head xml:id="vn58an-d1e1609-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e1609-Hd1e107" type="question-title">Utrum Deus habeat esse a seipso</head>
+      <p xml:id="vn58an-d1e1609-d1e110">
+        <lb ed="#Ba" n="48"/>CIrca quintum arguitur quod deus non habet esse a seipso, primo sic. Si deus haberet esse a se- 
+        <lb ed="#Ba" n="49"/>dando sibiipsi esse: ipse esset causa sui esse, quia causa est illud a quo est aliud. con 
+        <lb ed="#Ba" n="50"/>sequens est falsum: nihil enim est causa esse suiipsius. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1609-d1e119">
+        ⁋ Secundo sic, quid  
+        <lb ed="#Ba" n="51"/>habet esse ab aliquo principiatum, est ab eo, esse in deo non potest esse principiatum 
+        <lb ed="#Ba" n="52"/>omnino. ergo nec deus habet esse a se. Probatio mediae. dupliciter. Primo, quia in deo nihil est 
+        <lb ed="#Ba" n="53"/>principiatum nisi persona subsistens, quia inter principium &amp; principiatum est relatiua opposi 
+        <lb ed="#Ba" n="54"/>tio, quae non est in deo nisi personae ad personam. vt infra videbitur, esse autem in deo non est persona subsistens: quia 
+   <!--272.xml-->
+        <pb ed="#Ba" n="129-r"/>
+        <lb ed="#Ba" n="1"/>est essentiale quid in quo omnes personae diuinae communicant. Secundo quia ratio principii prior est ratione princi 
+        <lb ed="#Ba" n="2"/>piati. Ratio autem eius quod est esse, est prima ratio quae de deo nata est concipi: vt dictum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e1609-d1e140">
+        <lb ed="#Ba" n="3"/>⁋ In contrarium est, quoniam illud a quo omne aliud habet esse: necessario habet esse a se: quia si non, necessario 
+        <lb ed="#Ba" n="4"/>haberet esse ab alio: &amp; esset ire in infinitum: vel oporteret stare in illo quod haberet esse a se: non ab alio: 
+        <lb ed="#Ba" n="5"/>illud autem est ipse deus: vt dictum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1609-d1e149">
+        <lb ed="#Ba" n="6"/>⁋ Dicendum ad hoc breuiter: quod lv a se potest dicere circunstantiam causae agentis siue essi 
+        <lb ed="#Ba" n="7"/>cientis, vel formalis. Si primo modo, sic dicendum quod deus non habet esse a se: immo nec etiam ab alio. Non a se, quia se 
+        <lb ed="#Ba" n="8"/>cundum Augu. nihil seipsum producit ad esse vt sit, quia necessario prius secundum intellectum &amp; rationem 
+        <lb ed="#Ba" n="9"/>causandi habet esse causa quam causatum: &amp; quod non est non potest alicui esse causa esse. si ergo ipsa aliquod  
+        <lb ed="#Ba" n="10"/>esse causat in se: oportet quod prius habeat aliud esse praecedens: &amp; sic non erit ipsum esse eius simplex 
+        <lb ed="#Ba" n="11"/>&amp; vnicum: &amp; praeterea illud esse secundum necessario erit etiam constitutum in esse per principia ipsius essen 
+        <lb ed="#Ba" n="12"/>tiae primi esse: &amp; sic necessario erit: ei esse accidentale tanquam, proprium consequens speciem: vt risibile hominem: quod 
+        <lb ed="#Ba" n="13"/>iterum est impossibile: quia esse accidentale non consequitur essentiam rei nisi prius constitutam in esse sub 
+        <lb ed="#Ba" n="14"/>stantiali: quia aliter prius accidens existeret in actu quam suum subiectum: &amp; effectus quam causa: &amp; si haec sunt 
+        <lb ed="#Ba" n="15"/>impossibilia in creaturis, ergo multo fortius &amp; in creatore: in quo nullum cadit esse accidentale. Si er- 
+        <lb ed="#Ba" n="16"/>go diuinae essentiae acquiratur esse: hoc sit necessario ab alio agente. Agens autem aliud a diuina essentia 
+        <lb ed="#Ba" n="17"/>est agens aliud a deo. esset ergo causa esse dei, alius a deo. Quare cum deus non potest esse alicuius causa 
+        <lb ed="#Ba" n="18"/>agens: nisi sibi acquisito esse in sua essentia qua aget: deus ergo non esset prima causa agens: sed alia quae  
+        <lb ed="#Ba" n="19"/>ageret ipsum in esse: vt ipse agere posset vlterius: &amp; esset mouens motum: quod est contra praedeterminata. Et 
+        <lb ed="#Ba" n="20"/>iterum si ita esset, cum in actiuis &amp; passiuis essentialiter ordiatis semper productum verius est in cam quam in cau 
+        <lb ed="#Ba" n="21"/>sato: illud agens verius haberet esse quam ipsa essentia diuina, quae est ipse deus: &amp; sic deus ipse haberet esse 
+        <lb ed="#Ba" n="22"/>principiatum: nec posset esse primum ens. Et iterum, cum omne quid esse incipit ab alio: de se est in potentia ad esse: 
+        <lb ed="#Ba" n="23"/>aliter enim nunquam reciperet esse: sic ergo in deo esset potentia: non ergo de se esset purus actus: nec omnino simplex 
+        <lb ed="#Ba" n="24"/>sed compositus ex potentia &amp; actu, siue ex essentia &amp; esse: cuius oppositum inferius demonstrabitur. Vnde Auicen. i. 
+        <lb ed="#Ba" n="25"/>Metaph. suae, vocans deum necesse esse: quoniam necesse esse significat vehementiam essendi quae propria est deo: eo quod  
+        <lb ed="#Ba" n="26"/>ipse solus non potest non esse: vt in sequenti quaest. patebit: &amp; omne alid potest non esse: vt patebit in quaestionibus de esse crea 
+        <lb ed="#Ba" n="27"/>turarum: dicit. Quoniam autem necesse esse non habet causam manifestum est: si enim haberet causam esse, perfectio esse 
+        <lb ed="#Ba" n="28"/>eius esset per illam, quicquod autem est cuius perfectio est per aliud: si consideratum fuerit per se sine alio non habet esse 
+        <lb ed="#Ba" n="29"/>necessarium: nec est necesse esse per se. In hoc membro processerunt duo argumenta ad primam partem. 
+      </p>
+      <p xml:id="vn58an-d1e1609-d1e204">
+        ⁋ Si vero 
+        <lb ed="#Ba" n="30"/>secundo modo l a se dicat circunstantiam causae formalis: sic dicendum quod deus habet esse a seipso. habet 
+        <lb ed="#Ba" n="31"/>enim esse ex hoc quod est forma &amp; actus purus, quae est ipsum esse omnino indifferens: nec aliquid praeter ipsum esse: 
+        <lb ed="#Ba" n="32"/>vt probatum est supra. Et hoc dictum est loquendo de esse essentiali in diuinis: non de esse personali: prout 
+        <lb ed="#Ba" n="33"/>scilicet esse attribuitur vni deo in tribus personis. loquendo enim de esse essentiali: sicut ipsa diuina essen- 
+        <lb ed="#Ba" n="34"/>tia in se nec principiat aliquid per se: nec ipsa ab alio principiatur: sic &amp; ipsum esse diuinae essentiae nec aliquid princi- 
+        <lb ed="#Ba" n="35"/>piat, nec ab aliquo principiatur. Prout autem esse istud hir esse in personis diuinis principiatis: vt in filio, &amp; spiritus scton 
+        <lb ed="#Ba" n="36"/>&amp; sic contrahitur ad esse personale: secus est: quoniam filius &amp; spiritus sctuns habent esse suum personale ab alio non a se. Di 
+        <lb ed="#Ba" n="37"/>co effectiue siue principiatiue vt a pre: sed formaliter habent esse a seipsis vniformiter cum pre. &amp; hoc est 
+        <lb ed="#Ba" n="38"/>vel propter vnitatem diuinae essentiae: qua habent vnum esse essentiale: vel propter formales proprietates quibus 
+        <lb ed="#Ba" n="39"/>abinuicem ipsae personae distinguuntur: &amp; a quibus diuersa esse personalia eis attribuuntur. Vnde solus pater non 
+        <lb ed="#Ba" n="40"/>habet esse ab aliquo effectiue siue principiatiue: neque essentialiter: neque personaliter: sicut nec deus ipse essen 
+        <lb ed="#Ba" n="41"/>tialiter dictus suum esse essentiale habet ab alio. Hilius autem &amp; spiritus sanctus a patre habent esse suum &amp; essentiale, 
+        <lb ed="#Ba" n="42"/>&amp; personale effectiue siue principiatiue. formaliter autem a seipsis habent vtrumque esse: esse scilicet essentiale ab  
+        <lb ed="#Ba" n="43"/>ipsa diuina essentia existente in eis: esse vero personale a sua personali proprietate: sicut &amp; formaliter deus 
+        <lb ed="#Ba" n="44"/>ipse habet esse suum essentiale a se. i. ab ipsa diuina essentia quae est ipse: &amp; quae est ipsum esse dei, vt dictum est 
+        <lb ed="#Ba" n="45"/>supra. Pater autem habet formaliter esse suum personale a seipso: hoc est a sua personali proprietate, quae est id quod ip 
+        <lb ed="#Ba" n="46"/>se, vt infra dicetur. Et sic patet quod in diuinis personis aliquid habet esse: &amp; a nullo principiatiue necesse 
+        <lb ed="#Ba" n="47"/>esse per se &amp; per aliud. Eilius enim &amp; spiritus sanctus habent quod sunt necesse esse, a sua diuina essentia quam habent 
+        <lb ed="#Ba" n="48"/>in se formaliter: &amp; ita per se. habent etiam necesse esse a patre: a quo habent ipsam diuinam essentiam prin- 
+        <lb ed="#Ba" n="49"/>cipiatiue. Solus autem deus pater &amp; deus trinitas habet suum necesse esse ita per se formaliter: quod per nul- 
+        <lb ed="#Ba" n="50"/>lum alium effectiue siue principiatiue. Sed quod Auicen. &amp; generaliter omnes philosophi habent pro inconvenienti 
+        <lb ed="#Ba" n="51"/>quod aliquod habet a se quod sit necesse esse: &amp; similiter ab alio: non est inconveniens: nisi contra ponentes deum 
+        <lb ed="#Ba" n="52"/>essentialiter dictum esse necesse esse per se: &amp; per aliud. Dicit enim Auicen. sic. Patet etiam quod impossibile est: vt aliquid  
+        <lb ed="#Ba" n="53"/>idem sit necesse esse per se: &amp; necesse esse per aliud. Si enim esset necesse esse per aliud, tunc impossibile esset 
+        <lb ed="#Ba" n="54"/>illud inueniri sine illo alio. impossibile ergo esset inueniri necesse esse per se: quia esset necessarium per se 
+        <lb ed="#Ba" n="55"/>iam habere esse: &amp; illud aliud nihil ageret ad esse eius necessarium. quicquid enim est in quod agit aliud  
+   <!--273.xml-->
+        <pb ed="#Ba" n="129-v"/>
+        <lb ed="#Ba" n="1"/>ad suum esse: esse eius non est necessarium in se: quicquid autem possibile est consideratum in se: eius 
+        <lb ed="#Ba" n="2"/>esse &amp; eius non esse: vtrumque est per causam. Cum enim habuit esse: tunc acquisitum est sibi esse desertum 
+        <lb ed="#Ba" n="3"/>a non esse: cum vero desierit esse, iam acquisitum est sibi non esse desertum ab esse. igitur non opor 
+        <lb ed="#Ba" n="4"/>tet esse quin vtrumque istorum sibi acquisitum sit ab alio a se. Et per hunc modum de esse iam dicto 
+        <lb ed="#Ba" n="5"/>in diuinis, quod formaliter potest persona aliqua habere esse a se: &amp; principiatiue ab alio: etiam aliqui dice 
+        <lb ed="#Ba" n="6"/>bant quod in creaturis posset esse aliquod aseipso formaliter: licet dicatur esse ab alio vt a primo agente effecti 
+        <lb ed="#Ba" n="7"/>ue: dicendo quod corpus caeleste &amp; omnes substantiae separatae sunt substantiae sempiternae: ita quod quantum est ex 
+        <lb ed="#Ba" n="8"/>sua natura formali: non possunt non esse: licet esse effectiue solum habeant ab alio: quod est omnino impossi- 
+        <lb ed="#Ba" n="9"/>bile: vt infra videbitur: quoniam tunc sequaeretur: aut quod tales creaturae etiam quantum est ex parte causae efficientis non 
+        <lb ed="#Ba" n="10"/>possent non esse: etiam si virtutem qua ipsa in esse continet, eis subtraheret: aut quod virtutem suam qua eis 
+        <lb ed="#Ba" n="11"/>esse tribuit &amp; conseruat, eis subtrahere non posset: &amp; quod ab eis omnino separari non posset: quia in eis se 
+        <lb ed="#Ba" n="12"/>cundum ipsos non est omnino potentia ad non esse, neque ad esse: quae alia est ab actu essendi. Et hoc sentie- 
+        <lb ed="#Ba" n="13"/>bat ille Auer. cum dixit: quod id quod de se est corporale, non est necessarium &amp; perpetuum aliunde, quorum  
+        <lb ed="#Ba" n="14"/>falsitas inferius manifestabitur. 
+      </p>
+      <p xml:id="vn58an-d1e1609-d1e298">
+        <lb ed="#Ba" n="15"/>⁋ Per haec patent obiecta. cum arguitur primo quod deus non habet esse a se: quia esset 
+        <lb ed="#Ba" n="16"/>causa suiipsius: Dicendum quod verum est: si haberet a se esse principiatiue: hoc enim est impossibile: quia 
+        <lb ed="#Ba" n="17"/>nihil est principiatiuum suiipsius. formaliter tamen bene est possibile aliquid habere esse a se: vt dictum 
+        <lb ed="#Ba" n="18"/>est. 
+      </p>
+      <p xml:id="vn58an-d1e1609-d1e309">
+        ⁋ Per idem patet secundum. bene enim probat quod deus non habet esse a se principiatiue: non tamen probat quiando ha 
+        <lb ed="#Ba" n="19"/>beat esse a se formaliter. 
+      </p>
+      <p xml:id="vn58an-d1e1609-d1e314">
+        ⁋ Per idem patet argumentum in oppositum, quod si deus non haberet esse a se: habe 
+        <lb ed="#Ba" n="20"/>ret esse ab alio. Dicendum quod verum est si formaliter non haberet esse a se, quod enim tale est ex se solum 
+        <lb ed="#Ba" n="21"/>est possibile ad esse: quod non habet esse nisi acquisitum ab alio: non autem oportet quod illud habeat esse ab  
+        <lb ed="#Ba" n="22"/>alio quod non habet a se este effectiue: quoniam omne agens reducitur ad agens primum, cuius actio reducitur 
+        <lb ed="#Ba" n="23"/>ad formam suam qua agit primo formaliter actum primum in seipso qui est esse: immo (vt verius lo- 
+        <lb ed="#Ba" n="24"/>quar) cuius actio quae est este: ipse est: vt nihil aliud sit quam ipsum esse: &amp; cuius esse est eius forma &amp; essentia 
+        <lb ed="#Ba" n="25"/>vt dictum est supra: per quam agit consequenter actus sequentes: tam intra se siue sint essentiales: vt sunt in-  
+        <lb ed="#Ba" n="26"/>telligere velle &amp; huiusmodi: siue notionales: vt sunt generare, spirare: quam extra se: vt sunt creare, guberna 
+        <lb ed="#Ba" n="27"/>re &amp; huiusmodi: qui omnes habent reduci ad actum primum qui est esse, quem agit formaliter in  
+        <lb ed="#Ba" n="28"/>se non effectiue.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

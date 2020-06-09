@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="225-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2496"> <!-- alias="vn58an-a35q5" -->
+      <head xml:id="vn58an-d1e2496-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e2496-Hd1e107" type="question-title">Utrum sit una potentia activa in eo an plures</head>
+      <p xml:id="vn58an-d1e2496-d1e110">
+        <lb ed="#Ba" n="17"/>CIrca. v. arguitur quod non sunt in deo plures potentiae actiuae, Primo sic, quoniam secundum Augus. 
+        <lb ed="#Ba" n="18"/>de triniitate. in deo sunt idem posse &amp; esse. sed esse nisi deo non est vnum &amp; idem: quia  
+        <lb ed="#Ba" n="19"/>in ipso omnia diuina attributa tanquam in simplicissimo vniuntur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2496-d1e119">
+        ⁋ Secundo  
+        <lb ed="#Ba" n="20"/>sic. in. xv. propositione de causis dicitur, quod quanto virtus est magis vnita, tanto 
+        <lb ed="#Ba" n="21"/>est magis infinita. sed dei virtus siue potentia actiua est summe infinita, vt iam 
+        <lb ed="#Ba" n="22"/>patebit. Virtus enim secundum philosophum est vltimum de potentia: ergo maxime debet esse vni 
+        <lb ed="#Ba" n="23"/>ta, &amp; minime multiplicata, quid non potest esse nisi sit tantum vnita. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2496-d1e131">
+        ⁋ Contra. potentiae distinguun- 
+        <lb ed="#Ba" n="24"/>tur secundum actus. sed deo convenit diuersitas actuum. agit enim actus essentiales &amp; in se, vt intelligere, 
+        <lb ed="#Ba" n="25"/>velle, &amp; respectu creaturae, vt creare, gubernare. Similiter &amp; agit actus personales: vt generare, spi- 
+        <lb ed="#Ba" n="26"/>rare: qui in deo dicuntur esse diuersi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2496-d1e140">
+        <lb ed="#Ba" n="27"/>⁋ Dicendum ad hoc secundum supra determinata de distinctione &amp; diuersitate potem 
+        <lb ed="#Ba" n="28"/>tiarum passiuarum ex respectu ad actus ad quos sunt: quod distinctio &amp; diuersitas potentiarum actiuarum 
+        <lb ed="#Ba" n="29"/>consimiliter debet sumi ex respectu ad actus ad quos sunt, qui non sunt actus vt habitus: sed actus 
+        <lb ed="#Ba" n="30"/>vt agere egrediens ab habitu. ld enim quod actus est respectu potentiae passiuae, potentia est respectu agere. 
+        <lb ed="#Ba" n="31"/>agere enim, formae proprium est inquantum huiusmodi. Quamquam ergo potentia in deo considerata secundum id quod est in ra 
+        <lb ed="#Ba" n="32"/>dice sua prima: cuiusmodi est ipsa diuina essentia: sit vna tantum, sicut est ipsa essentia, debent tamen dici potem 
+        <lb ed="#Ba" n="33"/>tiae actiuae diuersae esse in deo propter diuersitatem actionum ad quas sunt, quae sunt velle &amp; intelligere. 
+        <lb ed="#Ba" n="34"/>&amp; illae quae sequuntur ad istas, quarum diuersitas patebit inferius, loquendo de diuinis actionibus. Patet er 
+        <lb ed="#Ba" n="35"/>go quod multum peccant dicentes quod potentia actiua in deo simpliciter est vna, &amp; absolute: quia ipsa diuina 
+        <lb ed="#Ba" n="36"/>essentia in qua omnis diuina potentia radicatur, est vnum &amp; idem principium omnium diuinorum actuum: quo-  
+        <lb ed="#Ba" n="37"/>quo autem modo plures: inquantum. scilicet respicit plures actus ad quos refertur &amp; magis &amp; verius convenit rei quod ei 
+        <lb ed="#Ba" n="38"/>convenit ex se &amp; in se absolute, quam quod ex ordine &amp; comperatione ad aliud. Quod non est verum omnino nisi in illis quae 
+        <lb ed="#Ba" n="39"/>de ratione sui nominis dicunt quod absolutum. Illis enim quae de ratione sui nominis non dicunt nisi quid respectiuum, quia ratio 
+        <lb ed="#Ba" n="40"/>respectus est eis essentialior quam ratio absoluti, verius &amp; magis convenit, quod convenit eis ex comperatione &amp; re 
+        <lb ed="#Ba" n="41"/>spectu suo ad aliud, quam ex ratione sua absoluta. &amp; de numero talium est omnis potentia, vt dictum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e2496-d1e175">
+        <lb ed="#Ba" n="42"/>⁋ Ad primum in oppositum quod in deo sunt idem esse &amp; posse, &amp; non est in eo nisi idem esse. 
+        <lb ed="#Ba" n="43"/>Dicendum secundum quod inferius declarabitur, quod esse est prima actio diuina, quae dicitur operatio manens 
+        <lb ed="#Ba" n="44"/>in ipso agente, vt visio in vidente, &amp; viuere in viuente, in qua consistit eius summa perfectio continens omnium 
+        <lb ed="#Ba" n="45"/>rerum perfectiones, quae includit in se omnem aliam actionem diuinam, &amp; a qua procedit: siue sit operatio ma-  
+        <lb ed="#Ba" n="46"/>nens intra, vt sunt intelligere, velle: siue actio in aliud transiens, vel infra suam substantiam: vt sunt gene 
+        <lb ed="#Ba" n="47"/>rare, spirare: vel extra suam substantiam, vt sunt creare gubernare: &amp; in qua omnis huiusmodi operatio po 
+        <lb ed="#Ba" n="48"/>sterior secundum rationem nostram intelligendi reducitur, vt omnis actio diuina sit ipsum esse diuinum, Qua-  
+        <lb ed="#Ba" n="49"/>re cum in deo idem sit omnino re, potentia &amp; actio: &amp; ideo posse esse in eo idem est re quod suum esse. luxta 
+        <lb ed="#Ba" n="50"/>etiam quod dicit <name ref="#Aristotle">Philosophus</name> de omnibus perpetuis in iii. Physicae. Contingere ab esse nihil differt in perpetuis. In-  
+        <lb ed="#Ba" n="51"/>quantum igitur omne posse reducitur ad posse esse in deo: sicut omnis diuina actio ad esse eius: omne posse in 
+        <lb ed="#Ba" n="52"/>in deo vnum &amp; idem est sicut sua essentia, &amp; hoc vel secundum rem qua est ipsum esse quod est ipsa diuina essen- 
+        <lb ed="#Ba" n="53"/>tia: vel in ratione respectus vnius, inquantum omnium posse diuinorum respectuum reducuntur ad 
+        <lb ed="#Ba" n="54"/>posse esse dei quod habet in eius esse. Nihilominus tamen diuersa bene possunt esse in deo secundum diues 
+   <!--466.xml-->
+        <pb ed="#Ba" n="226-r"/>
+        <lb ed="#Ba" n="1"/>sos respectus suos quos habet ad diuersos actus sibi correspondentes reductos ad actum essendi 
+        <lb ed="#Ba" n="2"/>dei. de quibus infra videbitur. 
+      </p>
+      <p xml:id="vn58an-d1e2496-d1e218">
+        ⁋ Ad secundum quod diuina virtus siue potentia maxime est infini- 
+        <lb ed="#Ba" n="3"/>ta, ergo debet esse maxime vnita: Dicendum quod verum est in natura &amp; essentia, &amp; sic est ipsa. c- 
+        <lb ed="#Ba" n="4"/>mnis enim diuina potentia &amp; actio in simplicitatem esse &amp; essentiae eius reducitur, &amp; ab ipsa manat,  
+        <lb ed="#Ba" n="5"/>vt infra videbitur. Sed ex hoc non repugnat multitudini respectuum: immo sequitur ex hoc quod pro 
+        <lb ed="#Ba" n="6"/>pter omnes rationes perfectionum omnium plurimos habeat respectus, vt infra videbitur. Et ideo cum po 
+        <lb ed="#Ba" n="7"/>tentia suo nomine non dicit nisi rationem respectus super diuinam essentiam quam ipsa non impor- 
+        <lb ed="#Ba" n="8"/>tat de se, vt dictum est iam, non obstante virtutis &amp; potentiae infinitate, possunt &amp; debent esse in deo 
+        <lb ed="#Ba" n="9"/>plures potentiae actiua.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

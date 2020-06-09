@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="177-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2106"> <!-- alias="vn58an-a29q8" -->
+      <head xml:id="vn58an-d1e2106-Hd1e104">Quaestio 8</head>
+      <head xml:id="vn58an-d1e2106-Hd1e107" type="question-title">Utrum Deus omnino careat omni modo compositionis</head>
+      <p xml:id="vn58an-d1e2106-d1e110">
+        <lb ed="#Ba" n="9"/>CIrca octauum arguitur quod deus non careat omni modo compositionis Primo sic. 
+        <lb ed="#Ba" n="10"/>quod cum alio habet convenientiam &amp; differentiam: habet in se diuersa: quia ab eodem 
+        <lb ed="#Ba" n="11"/>non differt aliquid eo quo cum eo conuenit. deus cum creatura convenientiam ha-  
+        <lb ed="#Ba" n="12"/>bet &amp; differentiam, vt habitum est supra. Deus ergo habet in se diuersa. nullum tale 
+        <lb ed="#Ba" n="13"/>implex est carens omni modo compositionis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2106-d1e123">
+        ⁋ Secundo sic. <name ref="#Boethius">Boethius</name>  di 
+        <lb ed="#Ba" n="14"/>cit de hebdo. Quod est participat aliquo vt sit: alio vero vt aliquid sit. Deus au  
+        <lb ed="#Ba" n="15"/>tem est, &amp; est aliquid in natura &amp; essentia, vt habitum est supra. ergo participat 
+        <lb ed="#Ba" n="16"/>alio &amp; alio. nullum tale est omnino simplex sine omni compositione. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2106-d1e136">
+        ⁋ In contrarium est. 
+        <lb ed="#Ba" n="17"/>quoniam simplex semper praeponendum est composito: &amp; minus compositum magis composito. secundum quod dicit <name ref="#Augustine">Augustinus</name> de 
+        <lb ed="#Ba" n="18"/>quantitate animae cap. xii. Pluris profecto habendum est id quod diuidi non potest: praeponamus igitur necesse est &amp; quid  
+        <lb ed="#Ba" n="19"/>minus diuidi potest. omnino ergo praeponendum est quod omnino diuidi non potest: &amp; omni compositione ca 
+        <lb ed="#Ba" n="20"/>ret. deo autem tribuendum est omne quod in rebus praeponendum est, vt infra dicetur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2106-d1e150">
+        <lb ed="#Ba" n="21"/>⁋ Dicendum ad hoc: quod ista quaestio est conclusio omnium praedictarum quaestionum 
+        <lb ed="#Ba" n="22"/>de simplicitate dei: &amp; est vtrum sit summe simplex: &amp; ita summe vnus in natura &amp; essentia sua. Et vt 
+        <lb ed="#Ba" n="23"/>puto, in praetactis quaestionibus explicata est omnis ratio compositionis qua aliquid habet componi vel ex 
+        <lb ed="#Ba" n="24"/>aliis vel cum alio vt per hoc ei conueniat aliqua ratio compositionis. Vnde cum vt patet ex praedeter- 
+        <lb ed="#Ba" n="25"/>minatis, in deo nullo dictorum modorum est inuenire aliquam rationem compositionis: absolute profitendum 
+        <lb ed="#Ba" n="26"/>est quod deus caret omni compositione: &amp; quod est omnino simplex in fine simplicitatis &amp; vnitatis. Cu 
+        <lb ed="#Ba" n="27"/>ius maxima ratio est communis ad omnia praedeterminata de compositione ex aliis: quia quod vllo modo  
+        <lb ed="#Ba" n="28"/>compositum est, ex componentibus habet suam vnitatem: quare non ex seipso per seipsum, sed per aliquid sui: 
+        <lb ed="#Ba" n="29"/>&amp; ita neque similiter esse. secundum enim quod dicit <name ref="#Augustine">Augustinus</name> de moribus Manich. nihil aliud est esse qui vnum es- 
+        <lb ed="#Ba" n="30"/>se: itaque inquantum vnitatem adipiscitur intantum est. Vnitas enim est ordinatio &amp; concordia qua sunt inquam 
+        <lb ed="#Ba" n="31"/>tum sunt ea quae composita sunt. Nam simplicia per se sunt: quia per se vnum sunt, quae autem non sunt 
+        <lb ed="#Ba" n="32"/>simplicia, concordia partium imitantur vnitatem: &amp; intantum sunt inquantum eam consequuntur. Deus autem  
+        <lb ed="#Ba" n="33"/>ex se &amp; per se habet esse: quia est ipsum necesse esse, vt habitum est supra. Nullo ergo modo possibile 
+        <lb ed="#Ba" n="34"/>est ponere deum esse compositum ex aliis &amp; diuersis: neque etiam cum alio: quia nihil possibile est con- 
+        <lb ed="#Ba" n="35"/>poni cum alio nisi cum quo natum est facere tertium conpositum: quod omnino impossibile est circadeum- 
+        <lb ed="#Ba" n="36"/>quoniam diuersa diuisa ex quibus potest fieri aliquod vnum, quantuncumque etiam vnum eorum est in potentia &amp; alterum 
+        <lb ed="#Ba" n="37"/>in actu, necessario egent vniente &amp; coniugente illa, qualis est primus motor in omnibus in quibus 
+        <lb ed="#Ba" n="38"/>est compositio tanquam ex materia &amp; forma, vt dicitur in fine. viii. meta. Tale autem semper de necessitate na 
+        <lb ed="#Ba" n="39"/>tura prius habet esse compositis: quia agens prius est patienti: &amp; faciens facto. Deus autem nihil orius se 
+        <lb ed="#Ba" n="40"/>habere potest. compositio ergo cum alio nec in deo cadere potest. Nulla igitur ratio compositionis po- 
+        <lb ed="#Ba" n="41"/>test esse in ipso: sed est simplicissimus in fine simplicitatis existens, respectu cuius omne aliud ens quo 
+        <lb ed="#Ba" n="42"/>dammodo est compositum, vt habitum est supra: &amp; sic per consequens deus est summae &amp; perfectae vnitatis 
+        <lb ed="#Ba" n="43"/>respectu cuius omnia alia quodammodo sunt multa. Propter quod dicit beatus Ber. v. ad Eug. Inter omnia 
+        <lb ed="#Ba" n="44"/>quae vnum dicuntur arcem tenet vnitas diuinae trinitatis. &amp; Hug. super cap. vii. cael. Hier. dicit. Vnum 
+        <lb ed="#Ba" n="45"/>collectione dicitur, &amp; vnum compositione, &amp; vnum similitudine. Quae omnia quia non totum quiod sunt 
+        <lb ed="#Ba" n="46"/>vnum sunt: vere vnum non sunt: &amp; vnitatis nomen similitudine tantum mutuantur non proprietate. Diui 
+        <lb ed="#Ba" n="47"/>nae autem naturae cuius est vnum esse: &amp; simplex esse: totum quod est, vere vnum esse est. Et ideo recte non solum mo 
+        <lb ed="#Ba" n="48"/>nas: sed henas quoque appellari debuit: quia vnitas eius in vera eiusdem atque indiuisae substantiae semper 
+        <lb ed="#Ba" n="49"/>simplicitate subsistit. Quomodo autem huic &amp; tantae simplicitati non repugnat trinitas personarum aut  
+        <lb ed="#Ba" n="50"/>attributorum pluralitas vel vnio cum humanitate in Christo, in propriis locis exponendum est. 
+      </p>
+      <p xml:id="vn58an-d1e2106-d1e221">
+        <lb ed="#Ba" n="51"/>⁋ Ad primum in oppositum quod deus est compositus: quia cum alio habet coueniem 
+        <lb ed="#Ba" n="52"/>tiam &amp; differentiam: Dicendum quod est convenientia vniuocationis, quae est ex participatione eiusdem naturae per de 
+        <lb ed="#Ba" n="53"/>finitionem vniuocorum: &amp; est convenientia analogiae siue proportionis, quae est ex similitudine &amp; imita- 
+        <lb ed="#Ba" n="54"/>tione naturae ad naturam in diuersis. Differentia &amp; conuenientia primo modo necessario ponit con 
+   <!--370.xml-->
+        <pb ed="#Ba" n="178-r"/>
+        <lb ed="#Ba" n="1"/>positionem in eo quod differt &amp; convenit cum alio. &amp; nullo modo convenit deo: sed solum eis quae in eo 
+        <lb ed="#Ba" n="2"/>dem praedicamento communicant rationem generis vel speciei: quod nullo modo conuenit deo, vt supra ha- 
+        <lb ed="#Ba" n="3"/>bitum est. Conuenientia autem secundo modo cum dicitur ad aliquid vnum, nequaquam ponit compositio 
+        <lb ed="#Ba" n="4"/>nem in eo quod conuenit &amp; differt: quia eodem simplici est conuenientia &amp; differentia: sed secundum 
+        <lb ed="#Ba" n="5"/>aliam &amp; aliam rationem. Deus enim per suam essentiam a creaturis differt: quia nulla creatura naturae di 
+        <lb ed="#Ba" n="6"/> 
+        <lb ed="#Ba" n="7"/>uinae est: &amp; eadem cum eis conuenit: quia eam omnis creatura in natura &amp; essentia sua quodammodo 
+        <lb ed="#Ba" n="8"/>imitatur. &amp; per hoc deus nihil est eorum quae sunt: &amp; quodammodo est omnia quae sunt, vt dictum 
+        <lb ed="#Ba" n="9"/>est supra, &amp; amplius dicetur infra. 
+      </p>
+      <p xml:id="vn58an-d1e2106-d1e256">
+        ⁋ Ad secundum de dicto <name ref="#Boethius">Boethii</name> : Dicendum secundum praedeterminata, &amp; 
+        <lb ed="#Ba" n="10"/>secundum quod sonant verba, quod dictum illud solum veritatem habet in creaturis tantum, de quibus indicat se 
+        <lb ed="#Ba" n="11"/>loqui explicando verbum participationis, Deus autem cum est omnino esse per essentiam, nullo participat 
+        <lb ed="#Ba" n="12"/>neque vt sit: neque vt aliquid sit: sicut facit creatura, vt habitum est supra. Proprie enim deus non est nisi 
+        <lb ed="#Ba" n="13"/>esse absolute: quia est esse subsistens omnino indeterminatum priuatione cuiuslibet rationis determinantis. Eem autem ali 
+        <lb ed="#Ba" n="14"/>quod convenit ei minus proprie, inquantum. scilicet esse dei concipimus modo nostro, vt scilicet subsistens in supposito in  
+        <lb ed="#Ba" n="15"/>quo non habet alio esse &amp; esse aliquid, sed eodem omnino. secundum quod dicit <name ref="#Augustine">Augustinus</name> xi. de ciui. dei.  
+        <lb ed="#Ba" n="16"/>ldeo simplex dicitur, quoniam est hoc quod habet. vnde dictum est supra quod in ipso nulla compositio cadit ex 
+        <lb ed="#Ba" n="17"/>natura &amp; supposito: sicut est in creaturis. Vnde quia modo essentiae creaturarum quodammodo capimus 
+        <lb ed="#Ba" n="18"/>diuinam essentia. scilicet vt in supposito absoluto, sed non bene, cum dicimus ens: vt absolutam vero cum 
+        <lb ed="#Ba" n="19"/>dicimus esse: ideo dicit Diony. v. ca. de di. no. Deus non est ens: sed simpliciter &amp; incircunfinite to- 
+        <lb ed="#Ba" n="20"/>tum in seipso esse. Vnde diuina natura vt est subsistens in supposito vel potius ipse deus, non proprie dicitur 
+        <lb ed="#Ba" n="21"/>esse aliquid, sed ad aliquid. Non enim subsistit nisi ad aliquid, vt infra patebit.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

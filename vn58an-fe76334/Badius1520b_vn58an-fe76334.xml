@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 10</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 10</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="279-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe76334"> <!-- alias="vn58an-a73q10" -->
+      <head xml:id="vn58an-fe76334-Hd1e104">Quaestio 10</head>
+      <p xml:id="vn58an-fe76334-d1e107">
+   <!--572.xml-->
+            <pb ed="#Bb" n="279-r"/>
+        <lb ed="#Bb" n="1"/>CIrca decimum arguitur quod deus non verius intelligitur quam nominetur aut signi- 
+        <lb ed="#Bb" n="2"/>cetur, Primo sic. Intellectus imponentis nomen mensurat nominationem aut si ( 
+        <lb ed="#Bb" n="3"/>nificationem, secundum quod rem significatam intelligit, quia qui verius &amp; perfe  
+        <lb ed="#Bb" n="4"/>ctius rem intelligit, verius &amp; perfectius eam nominat aut significat: &amp; qui minus ve- 
+        <lb ed="#Bb" n="5"/>re &amp; perfecte rem intelligit, minus vere &amp; perfecte eam nominat &amp; significat. 
+        <lb ed="#Bb" n="6"/>Sed illa aequalia sunt quorum vnum habet esse ad mensuram alterius, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe76334-d1e127">
+        <lb ed="#Bb" n="7"/>⁋ Secundo sic. Quicunque vno &amp; eodem significant aliquid &amp; nominant, aequali- a 
+        <lb ed="#Bb" n="8"/>ter significant &amp; nominant illud, quia non nominant aut significant nisi secundum exigentiam si 
+        <lb ed="#Bb" n="9"/>gni quo omnes eiusdem linguae rem eandem eodem nomine nominant &amp; significant, non omnes 
+        <lb ed="#Bb" n="10"/>tamen aequaliter eam intelligunt. Hoc autem non esset nisi minus intelligens rem verius significa 
+        <lb ed="#Bb" n="11"/>ret quam intelligeret: quia verius intelligens rem, verius nominat &amp; significat eam quam eam intelligit mi 
+        <lb ed="#Bb" n="12"/>nus vere intelligens eam. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe76334-d1e143">
+        ⁋ In contrarium est Augustinus. vii. de Trinita. ca. iiii. vbi dicit. 
+        <lb ed="#Bb" n="13"/>Excedit supereminentia deitatis vsitati eloquii facultatem. verius etenim cogitatur deus quam dici- 
+        <lb ed="#Bb" n="14"/>tur, &amp; verius est quam cogitatur. 
+        <lb ed="#Bb" n="15"/>
+      </p>
+      <p xml:id="vn58an-fe76334-d1e153">
+        ⁋ Dico quod significare &amp; nominare rem intellectui circa diuina contingit duplici- 
+        <lb ed="#Bb" n="16"/>ter. Vno modo significando &amp; nominando illam aut per verba de nouo a nominante &amp; significan 
+        <lb ed="#Bb" n="17"/>te formata &amp; imposita secundum possibilitatem intelligentiae illius, aut per verba prius ab aliis imposita aequali 
+        <lb ed="#Bb" n="18"/>ter &amp; intellectui significantis &amp; nominantis rem illam, &amp; similiter intellectui primo imponentis no-  
+        <lb ed="#Bb" n="19"/>men correspondentia. Alio modo significando &amp; nominando illam per verba siue nomina prius a 
+        <lb ed="#Bb" n="20"/>perfectius intelligente imposita secundum possibilitatem intelligentiae illius. Et isto secundo modo 
+        <lb ed="#Bb" n="21"/>bene contingit quod deus ab aliquo verius nominetur siue significetur ab aliquo hoc minus intelligen 
+        <lb ed="#Bb" n="22"/>te: quam ab eodem intelligatur, prout in parte procedit secunda obiectio. Tali enim nomine aequaliter 
+        <lb ed="#Bb" n="23"/>significant &amp; nominant rem eandem minus intelligens &amp; magis intelligens illam. Et si magis intel- 
+        <lb ed="#Bb" n="24"/>ligens non desiit sequi rationem sui intellectus: aliquando verius nominat &amp; significat rem minus 
+        <lb ed="#Bb" n="25"/>intelligens quam magis intelligens illam, puta minus intelligens pluralitatem diuinarum personarum 
+        <lb ed="#Bb" n="26"/>si dicat illas esse plures per distinctionem, aeque perfecte illam significat illi qui intelligit eam ma- 
+        <lb ed="#Bb" n="27"/>gis si eodem nomine exprimat illam, &amp; perfectius illam significat &amp; nominat minus intelligens si 
+        <lb ed="#Bb" n="28"/>illam velit exprimere magis intelligens, dicendo quod sunt plures per diuersitatem aut differentiam. 
+        <lb ed="#Bb" n="29"/>Si primo modo, subdistinguo cum quaeritur vtrum deus verius intelligatur quam significetur aut no 
+        <lb ed="#Bb" n="30"/>minetur: quia quaestio ista potest intelligi dupliciter. Vno modo circa vnum &amp; eundem intelligen 
+        <lb ed="#Bb" n="31"/>tem &amp; significantem siue nominantem rem eandem. Alio modo circa vnum in comparatione ad  
+        <lb ed="#Bb" n="32"/>alium etiam ad intelligentem &amp; significantem siue nominantem rem eandem. Et isto secundo mo-  
+        <lb ed="#Bb" n="33"/>do quanto vnus rem aliquam verius &amp; perfectius intelligit in vno tempore quam in alio aut quam alius: tanto 
+        <lb ed="#Bb" n="34"/>verius &amp; perfectius significat illam, aequaliter tamen proportione arithmetica, licet inaequaliter pro- 
+        <lb ed="#Bb" n="35"/>portione geometrica. Si enim vnus &amp; idem in vno tempore duplo perfectius intelligit rem quam in alio, aut  
+        <lb ed="#Bb" n="36"/>quam alter, duplo perfectius significat &amp; nominat eam: &amp; si triplo, triplo, &amp; sic de caeteris proportionibus 
+        <lb ed="#Bb" n="37"/>&amp; hoc tam in intelligendo quam significando aliquid sub ratione incomplexi ratione definitiua ipsius intellecti, 
+        <lb ed="#Bb" n="38"/>quam sub ratione complexi intellecti sub ratione syllogistica. Primo autem horum modorum principaliter intel- 
+        <lb ed="#Bb" n="39"/>ligitur quaestio, &amp; est simpliciter concedendum quod deus &amp; quodlibet diuinorum verius &amp; perfectius intelligitur quam nomina 
+        <lb ed="#Bb" n="40"/>tur aut significatur, &amp; hoc quia voces magis materiales sunt quam acumen rationis, &amp; ideo non potest tantum in-  
+        <lb ed="#Bb" n="41"/>tellectus in significando quantum ratio potest illa penetrare in intelligendo. Et non solum verum est hoc in di- 
+        <lb ed="#Bb" n="42"/>uinis, de quibus loquitur <name ref="#Augustine">Augustinus</name> in vltimo argumento, quid secundum hoc concedendum est, sed etiam in creaturis, &amp; 
+        <lb ed="#Bb" n="43"/>hoc praecipue in exprimendo siue significando per nomina siue verba vocalia illa quae sunt cognita de re 
+        <lb ed="#Bb" n="44"/>intellecta, aut intelligentia collatiua siue ratiocinatiua rei sub ratione complexi, aut intelligentia di- 
+        <lb ed="#Bb" n="45"/>uisiua &amp; compositiua rei sub ratione incomplexi &amp; definiti: quae est cognitio determinata &amp; distin 
+        <lb ed="#Bb" n="46"/>cta respectu cognitionis confusae quae est definibilis, in qua per verba communiter imposita po- 
+        <lb ed="#Bb" n="47"/>test minus intelligens defacili aeque perfecte exprimere conceptum suum vt magis intelligens. 
+        <lb ed="#Bb" n="48"/>Vnde de cognitione determinata &amp; distincta rei intellectae via definitiua &amp; argumentatiua praeci- 
+        <lb ed="#Bb" n="49"/>pue verum est quod deus &amp; quicquid in eo est verius intelligitur quam nominatur aut significatur. Quo 
+        <lb ed="#Bb" n="50"/>ad talem enim notitiam deus &amp; quae in eo sunt propter suam &amp; illorum immensitatem excedit super- 
+        <lb ed="#Bb" n="51"/>eminentia deitatis vsitati eloquii facultatem. Et non solum deus verius est quam cogitatur, secundum quod  
+        <lb ed="#Bb" n="52"/>dicit <name ref="#Augustine">Augustinus</name> de verbis domini ser. xxxviii. Ante omnia seruate hoc, quicquid de creatura potuerimus col 
+        <lb ed="#Bb" n="53"/>ligere aut sensu corporis aut cogitatione animi, inenarrabiliter transcendere creatorem: sed etiam verius in 
+        <lb ed="#Bb" n="54"/>telligitur &amp; cogitatur quam dicatur siue nominetur aut significetur. &amp; hoc praecipue intelligentia defi- 
+        <lb ed="#Bb" n="55"/>nitiua aut syllogistica. de qua dicit <name ref="#Augustine">Augustinus</name> super Ion ser. xix. Aliquando sermo deficit vbi intellectus pro  
+   <!--573.xml-->
+        <pb ed="#Bb" n="279-v"/>
+        <lb ed="#Bb" n="1"/>ficit: quanto magis sermo patitur defectionem quando intellectus non habet perfectionem: Proficit quidem 
+        <lb ed="#Bb" n="2"/>intellectus in cognitione diuinorum per lumen gratiae &amp; fidei inuestigatione rationis in cognoscen- 
+        <lb ed="#Bb" n="3"/>do illa quae potest attingere circa diuinorum notitiam: nec potest cognita sermone vt intellecta sunt 
+        <lb ed="#Bb" n="4"/>exprimere circa perfectionem diuinae immensitatis: nam circa illam intellectus creatus quicunque non  
+        <lb ed="#Bb" n="5"/>habet perfectionem: &amp; ideo sermo ad illam exprimendam omnimode patitur defectionem. Vt enim 
+        <lb ed="#Bb" n="6"/>dicit in dicto ser. de verbis domini, Homo non potest dicere quod etiam non sentire potest: potest etiam 
+        <lb ed="#Bb" n="7"/>sentire quod non potest dicere. Dico autem praecipue intelligentia determinata definitiua aut syllogistica: quia 
+        <lb ed="#Bb" n="8"/>ad illam requiruntur verba propria &amp; limitata: &amp; hoc respectu intelligentiae confusae rei sub ratione de 
+        <lb ed="#Bb" n="9"/>finitiua, ad quam exprimendam non requiruntur nisi verba communia. 
+        <lb ed="#Bb" n="10"/>
+      </p>
+      <p xml:id="vn58an-fe76334-d1e278">
+        ⁋ Quod ergo arguitur primo quod intellectus mensurat nominationem siue significa- 
+        <lb ed="#Bb" n="11"/>tionem: Dico quod verum est secundum iam dicta, proportione arithmetica, quae non est nisi secundum eandem 
+        <lb ed="#Bb" n="12"/>pportionem. de qua sequitur in argumenturo quod qui verius &amp; perfectius &amp;c. Quod autem assumitur, quod illa aequam  
+        <lb ed="#Bb" n="13"/>lia sunt quorum vnum est mensura alterius: Dico quod non est verum nisi de illis quorum vnum est 
+        <lb ed="#Bb" n="14"/>mensura geometrica, quae semper est secundum eandem quantitatem: quali modo non est intellectus 
+        <lb ed="#Bb" n="15"/>mensura significationis: sed potius mensura geometriica, quilibet enim quantum est ex se proportionali 
+        <lb ed="#Bb" n="16"/>ter suae intelligentiae format verba de intellectis: sed tamen non significantia aequaliter intellectioni, 
+        <lb ed="#Bb" n="17"/>vt patet ex dictis. 
+      </p>
+      <p xml:id="vn58an-fe76334-d1e296">
+        ⁋ Ad secundum, quod qui eodem nomine suos intellectus significant, aequaliter illos si 
+        <lb ed="#Bb" n="18"/>gnificant: Dico secundum praedicta quod verum est: sed ex hoc non sequitur quin si non essent nomina com 
+        <lb ed="#Bb" n="19"/>muniter imposita rebus, illis qui sunt eiusdem linguae: vnus intellectum suum verius &amp; perfectius ex- 
+        <lb ed="#Bb" n="20"/>primeret quam alius. Etiam non sequitur ex hoc quin verba imposita congruentius &amp; congruentiora pos- 
+        <lb ed="#Bb" n="21"/>set vnus addducere ad intellectum suum approbandum secundum illam quam intellexit in rebus &amp; in  
+        <lb ed="#Bb" n="22"/>verbis quam alter. 
+      </p>
+      <p xml:id="vn58an-fe76334-d1e309">
+        ⁋ Quod ergo assumitur quod illud non esset nisi aliquis verius significaret quam intelligeret: 
+        <lb ed="#Bb" n="23"/>Dico quod verum est secundum dictum modum: sed hoc non est ex arte &amp; ratione intellectus: sed potius ex 
+        <lb ed="#Bb" n="24"/>vsu &amp; casu: qui tamen significando pluralitatem personarum non potius dicit ipsas esse diuersas aut differem 
+        <lb ed="#Bb" n="25"/>tes quam distinctas: quod facit ex arte &amp; ratione intellectus ille qui verius rem intelligit. Et de tali significa 
+        <lb ed="#Bb" n="26"/>catione intellectorum, non autem de casuali, intelligitur quaestio, &amp; intelliguntur dicta <name ref="#Augustine">Augustinus</name> ad illam.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

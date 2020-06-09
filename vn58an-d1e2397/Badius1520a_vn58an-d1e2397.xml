@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="214-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2397"> <!-- alias="vn58an-a34q3" -->
+      <head xml:id="vn58an-d1e2397-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e2397-Hd1e107" type="question-title">Utrum veritas sit in Deo ratione eius essentiae secundum se et absolute, 
+   an ex respectu aliquo ad eius intellectum</head>
+      <p xml:id="vn58an-d1e2397-d1e110">
+        <lb ed="#Ba" n="5"/>CIrca Tertium arguitur: quod in deo sit veritas ratione suae essentiae absolute: &amp;i 
+        <lb ed="#Ba" n="6"/>ex aliquo respectu ad eius intellectum. Primo sic. secundum quod iam dictum est pe phlosophus 
+        <lb ed="#Ba" n="7"/>Dispositio vniuscuiusque in esse: est dispositio sua in veritate. Sed dispositiam 
+        <lb ed="#Ba" n="8"/>in esse convenit deo ratione essentiae in se &amp; absolute: quia esse primus conu 
+        <lb ed="#Ba" n="9"/>ptus est simplicissimus. secundum Auic. &amp; ita absolutissimus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2397-d1e123">
+        ⁋ Secund 
+        <lb ed="#Ba" n="10"/>sic. <name ref="#Augustine">Augustinus</name> dicit in li. solil. Verum est id quod est. hoc autem conuenit rei ratione si 
+        <lb ed="#Ba" n="11"/>essentiae absolute, &amp; deo maxime, vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2397-d1e134">
+        ⁋ Tertio sic. veritas vt respiciti 
+        <lb ed="#Ba" n="12"/>tellectum, est diminuta entitas. Est autem perfecta entitas, vt consideratur in ipsa re intellecta. Solum aute 
+        <lb ed="#Ba" n="13"/>perfectum &amp; non diminutum deo est attribuendum, vt iam dictum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2397-d1e141">
+        ⁋ Quarto sic. <name ref="#Augustine">Augustinus</name> dici 
+        <lb ed="#Ba" n="14"/>in solil. Si dicis nihil esse verum per se, nihil erit per se. Sed quod est per se tale: est hoc ratione suae essentiae 
+        <lb ed="#Ba" n="15"/>absolute: non autem ex aliquo respectu: ergo est ponere verum ratione essentiae absolute. sed quae deo  
+        <lb ed="#Ba" n="16"/>conveniunt, in summa absolutione ei conveniunt. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2397-d1e153">
+        ⁋ In contrarium est: quoniam veritas est adeuatio 
+        <lb ed="#Ba" n="17"/>quaedam rei &amp; intellectus, vt dicit lsido. in lii. de definitionibus. &amp; secundum eundem modum dicit hnselmus 
+        <lb ed="#Ba" n="18"/>in lii. de veritate: quod veritas est rectitudo quaedam. sed rectitudo adaequationis siue adaequatio in  
+        <lb ed="#Ba" n="19"/>rectitudine tali non est nisi in aliquo respectu ad intellectum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2397-d1e162">
+        <lb ed="#Ba" n="20"/>⁋ Ad istam quaestionem oportet respondere aspiciendo ad significatum termini: quae  
+        <lb ed="#Ba" n="21"/>videlicet sit propria ratio quam addit verum super ens. Et potest quaestio ista esse generalis ad veritatem 
+        <lb ed="#Ba" n="22"/>creatam &amp; increatam: sicut &amp; quaestio sequens. Ad huius ergo quaestionis intellectum sciendum: quod sicut in in-  
+        <lb ed="#Ba" n="23"/>tellectu complexo oportet fieri reductionem in aliquod primum principium conplexum omnino intelle- 
+        <lb ed="#Ba" n="24"/>ctui per se notum: Aliter enim procederet in infinitum: Sic in conceptu intellectus incomplexi de eo quod quid 
+        <lb ed="#Ba" n="25"/>est: quod dicitur per nomen: quod est propria ratio termini a qua imponitur ad significandum: oportet &amp;- 
+        <lb ed="#Ba" n="26"/>huiusmodi conceptus reducere ad aliquem conceptum incomplexum primum &amp; notissimum, in quem omnes ali 
+        <lb ed="#Ba" n="27"/>habent reduci: &amp; qui includitur in omnibus aliis. Et est iste conceptus entis inquantum ens est. 
+        <lb ed="#Ba" n="28"/>secundum Auic. in primo Metaphysicae. vt saepius habitum est supra. Et hoc est quod significat certitudilem 
+        <lb ed="#Ba" n="29"/>qua est vnumquodque id quod est in natura &amp; essentia sua absolute absque omni conditione &amp; additione.  
+        <lb ed="#Ba" n="30"/>lta quod omnis alius conceptus rationem aliquam addit super iam dictam rationem entis: quae tamen non  
+        <lb ed="#Ba" n="31"/>potest esse extranea ab ente: quia ratio entis omnes rationes subintrat. Vnde &amp; ens propterea 
+        <lb ed="#Ba" n="32"/>non potest habere rationem generis, vt supra expositum est. Quicquid enim quocumque modo additur 
+        <lb ed="#Ba" n="33"/>super rationem entis: hoc est ratio aliqua, vel modus essendi: quae nomine entis non explicatur nec 
+        <lb ed="#Ba" n="34"/>intelligitur. Et quia tales rationes non discernit neque distinguit natura rei extra, sicut neque di 
+        <lb ed="#Ba" n="35"/>stinguit diuina attributa ipsa diuina essentia vt essentia est in seipsa: sed solum ratio intellectus 
+        <lb ed="#Ba" n="36"/>quae indiuisa &amp; indistincta diuidit &amp; distinguit. secundum Comm. super. xii. Metaph. nihil autem est 
+        <lb ed="#Ba" n="37"/>nata ratio intellectus distinguere, nisi inquantum cadit vel natum est cadere sub eius apprehen 
+        <lb ed="#Ba" n="38"/>sione: Ratio autem entis non determinat in re aliquam rationem apprehensibilis ab intellectu vel 
+        <lb ed="#Ba" n="39"/>non apprehensibilis: sicut neque sensibilis aut non sensibilis: Licet secundum Auicen. in primo Metaph 
+        <lb ed="#Ba" n="40"/>de nullo potest formari conceptus menti, nisi habeat rationem entis: Oportet igitur quod super 
+        <lb ed="#Ba" n="41"/>rationem entis, vt determinetur ad rationem intelligibilis, sit ratio apprehensibilis: quia ens respe 
+        <lb ed="#Ba" n="42"/>ctum habet ad intellectum vt motiuum intellectus: lta quod ratio entis apprehensibilis ab intelle- 
+        <lb ed="#Ba" n="43"/>ctu non esset, nisi huiusmodi rationis in se esset susceptibilis. Haec enim ratio est in ente per hoc quod est 
+        <lb ed="#Ba" n="44"/>natum sibi assimilare intellectum. Assimilatio enim intellectus ad cognitum, est causa &amp; ratio 
+        <lb ed="#Ba" n="45"/>cognitionis. Prima ergo ratio qua ens secundum rationem suam absolutam absque omni conditione 
+        <lb ed="#Ba" n="46"/>assumit supra se intellectus considerationem, est ratio conformandi sibi intellectum. Conforma 
+        <lb ed="#Ba" n="47"/>tio autem huiusmodi, adaequatio quaedam est &amp; rectitudo qua intellectus per id quid concipit dere 
+        <lb ed="#Ba" n="48"/>ipsa, rei adaequatur &amp; correspondet. Haec autem est ratio illa a qua imponitur hoc nomen ve 
+        <lb ed="#Ba" n="49"/>rum siue veritas: &amp; addit eam super ens: vt verum nihil aliud sit quam ens assimilatiuum: vel aequa 
+        <lb ed="#Ba" n="50"/>tiuum: vel declaratiuum eius quod est apud intellectum: &amp; hoc vel actu, vel habitu: secundum quod habet per 
+        <lb ed="#Ba" n="51"/>fectiorem vel minus perfectam rationem veri, vt amplius patebit in sequenti quaestione. Et sic 
+        <lb ed="#Ba" n="52"/>ratio entis non includit ex suo nomine rationem veri intelligibilis: vel declaratiui sui apud ani 
+        <lb ed="#Ba" n="53"/>mam: sed econuerso ratio veri includit rationem entis: quia licet primus conceptus intellectus 
+        <lb ed="#Ba" n="54"/>obiectiue sit ratio entis: non tamen concipitur nisi sub ratione veri. Et licet ratio veri sit primara- 
+   <!--444.xml-->
+        <pb ed="#Ba" n="215-r"/>
+        <lb ed="#Ba" n="1"/>tio concipiendi: non tamen est ratio quae primo concipitur. Obiectiue enim &amp; vt concipitur id  
+        <lb ed="#Ba" n="2"/>quod est ens inquantum est ens, primus conceptus est: &amp; deinde verum: vt tamen ens in se inclu 
+        <lb ed="#Ba" n="3"/>dit. Dispositiue autem &amp; vt ratio secundum quam concipitur id quod obiectiue concipitur, verum est 
+        <lb ed="#Ba" n="4"/>prima ratio concipiendi &amp; sola, vt dictum est supra: ita quod circuit totum ens &amp; seipsum &amp; omnes 
+        <lb ed="#Ba" n="5"/>rationes entis: quia nihil concipitur nisi sub ratione veri, neque ens, neque verum, neque bonum, neque  
+        <lb ed="#Ba" n="6"/>pulchrum, neque aliquod caeterorum. Tmo cum concipitur ratio entis vel boni vel pulchri vt obiectum 
+        <lb ed="#Ba" n="7"/>circa ens: non oportet quod concipiatur ratio veri. 
+      </p>
+      <p xml:id="vn58an-d1e2397-d1e260">
+        ⁋ His visis patet quid dicendum sit ad quaestio- 
+        <lb ed="#Ba" n="8"/>nem. Cum enim verum de suo nomine &amp; impositione qua addit aliquid super ens: non dicit 
+        <lb ed="#Ba" n="9"/>nisi rationem manifestatiui vel declaratiui eius quod est apud intellectum: &amp; ratio talis non  
+        <lb ed="#Ba" n="10"/>est aliquid super ens absolutum: sed solum ratio respectus: Dicendum est absolute quod veritas sicut neque  
+        <lb ed="#Ba" n="11"/>in aliis rebus: sic nec in deo est ratione suae essentiae absolute: sed solum ex aliquo respectu ad aliud,  
+        <lb ed="#Ba" n="12"/>vt ad intellectum, sicut dictum est: &amp; hoc non ex respectu ad aliquem intellectum extra deum creatum 
+        <lb ed="#Ba" n="13"/>cui imprimit notitiam suam: quia talis respectus ei accidit: quemadmodum &amp; omnes alii quos 
+        <lb ed="#Ba" n="14"/>habet ad creaturas, vt infra dicendum est: sed ex respectu ad ipsum intellectum diuinum non vt ad 
+        <lb ed="#Ba" n="15"/>suam causam: quemadmodum veritas per se non est in aliqua re naturali creata nisi ex respe- 
+        <lb ed="#Ba" n="16"/>ctu ad intellectum increatum: vt patebit loquendo de veritate creaturae: sed solum ex respectu 
+        <lb ed="#Ba" n="17"/>ad intellectum diuinum vt absolute comprehendentem id quod est in natura &amp; essentia sua secundum ra 
+        <lb ed="#Ba" n="18"/>tionem veritatis, vt amplius patebit in sequenti quaestione.  
+      </p>
+      <p xml:id="vn58an-d1e2397-d1e286">
+        <lb ed="#Ba" n="19"/>⁋ Ad primum in oppositum: quod dispositio in esse conuenit deo ratione essentiae suae 
+        <lb ed="#Ba" n="20"/>absolute: ergo &amp; in veritate: Dicendum quod illud dictum philosophi intelligitur non quo ad mo 
+        <lb ed="#Ba" n="21"/>dum &amp; rationem quibus res habet esse, &amp; esse verum: secundum quod nititur procedere obiectio: quo  
+        <lb ed="#Ba" n="22"/>ad hoc enim alia est dispositio rei in esse &amp; in veritate: quia vt dictum est, &amp; amplius dicetur in sequem 
+        <lb ed="#Ba" n="23"/>ti quaestione, dispositio rei in esse: est ex ratione absoluta: dispositio vero in sua veritate est ex 
+        <lb ed="#Ba" n="24"/>dispositione respectiua: Sed intelligitur quo ad gradus essendi in esse &amp; in veritate: vt id quid est 
+        <lb ed="#Ba" n="25"/>superioris gradus in esse: superioris gradus est in veritate, &amp; econverso: &amp; quod inferioris, inferio- 
+        <lb ed="#Ba" n="26"/>ris. Vnde dicit ibi philosophus. Necesse est principia rerum quae sunt semper, sint in fine veritatis. vbi 
+        <lb ed="#Ba" n="27"/>dicit Comm. Causa in quolibet genere entium magis digna est in esse &amp; in veritate, quam illa quorum est 
+        <lb ed="#Ba" n="28"/>causa in illo genere. Et manifestum est quod si haec est causa prima omnium entium, illa est magis di 
+        <lb ed="#Ba" n="29"/>gna in esse &amp; veritate quam alia entia.  Dia enim entia non acquirunt sibi esse &amp; veritatem nisi ab illa. 
+        <lb ed="#Ba" n="30"/>Ex quo concludit assumptum in argumento: quod dispositio &amp;c. Vbi dicit Comm. Idest, quod quanto ma-  
+        <lb ed="#Ba" n="31"/>gis fuerint perfecta in esse: tanto magis sunt perfecta in essendo verum. Et (vt dicit) intendebat 
+        <lb ed="#Ba" n="32"/>per hoc notificare nobilitatem veritatis: in qua considerat ista vniuersalis ars: quae considerat de 
+        <lb ed="#Ba" n="33"/>principiis vltimis. 
+      </p>
+      <p xml:id="vn58an-d1e2397-d1e322">
+        ⁋ Ad secundum quod verum est id quod est: Dicendum quod aliqui volentes sub 
+        <lb ed="#Ba" n="34"/>tiliare, dicunt quod litera <name ref="#Augustine">Augustinus</name> quae sic iacet, Verum mihi videtur esse id quod est: sic debet or- 
+        <lb ed="#Ba" n="35"/>dinari: id quod est esse, mihi videtur verum: vt sit de dicto: non de re. &amp; vocat propositionem esse 
+        <lb ed="#Ba" n="36"/>veram quae enunciat quod est esse. Sed sic non intenderet ibi <name ref="#Augustine">Augustinus</name> definire verum: quod falsum est. 
+        <lb ed="#Ba" n="37"/>Vnde praemittit: Dico, &amp; sic definio. Nec similiter valeret instantia quam statim infert contra suam 
+        <lb ed="#Ba" n="38"/>definitionem, cum subdit. Nihil ergo est falsum, quia verum est quicquid est. Sed dicendum quod 
+        <lb ed="#Ba" n="39"/>Augustinus intendit definire verum: &amp; est propositio sua de re: sed est materialis per id circa 
+        <lb ed="#Ba" n="40"/>quod habet esse verum: non formalis per id quid formaliter est de ratione veri. 
+      </p>
+      <p xml:id="vn58an-d1e2397-d1e346">
+        ⁋ Ad tertium: quod ve 
+        <lb ed="#Ba" n="41"/>ritas quae respicit intellectum: est diminuta rei entitas, quae non convenit deo: Dicendum quod veritas 
+        <lb ed="#Ba" n="42"/>quae est diminuta rei entitas, est illa quae habet esse in intellectu de re per aliud ab ipsa re intellecta 
+        <lb ed="#Ba" n="43"/>abstractum ab ipsa: vt lapis per verbum formatum in intellectu creato de lapide: quod est quo  
+        <lb ed="#Ba" n="44"/>dammodo lapis: &amp; non vere lapis: sed diminute. Et est talis veritas solummodo in intellectu 
+        <lb ed="#Ba" n="45"/>creato de re per verbum quod est aliud ab ipsa re quam concipit: non autem in intellectu increato 
+        <lb ed="#Ba" n="46"/>qui suam essentiam per seipsum apprehendit: &amp; ideo tam perfecta entitas est vt capitur a di- 
+        <lb ed="#Ba" n="47"/>uino intellectu, quam in se est. Nec etiam intelligitur de veritate qua res vera est in se ex sola ratio- 
+        <lb ed="#Ba" n="48"/>ne respectus ad intellectum absque eo quod actu intelligatur. Illa enim veritas est perfecta rei enti- 
+        <lb ed="#Ba" n="49"/>tas. de qua dicit <name ref="#Augustine">Augustinus</name> in soglie. Si dixeris nihil esse verum per se: nihil erit per se. Vnde enim lignum 
+        <lb ed="#Ba" n="50"/>est hoc, inde etiam verum lignum est. vnde sumptum fuit quartum argumentum. 
+      </p>
+      <p xml:id="vn58an-d1e2397-d1e373">
+        ⁋ Ad quod dicen- 
+        <lb ed="#Ba" n="51"/>dum, quod Aug. ibi loquitur contra illam definitionem veri apparentem quam posuerat, quae dicit: ve- 
+        <lb ed="#Ba" n="52"/>rum est quod ita est vt videtur, &amp; quod falsum est quod aliter est quam videtur. contra quas statim ar 
+        <lb ed="#Ba" n="53"/>guit. Quod si ita esset: ablato ergo cui videtur: nec falsum quicquam, nec verum est: nec lapi- 
+        <lb ed="#Ba" n="54"/>des veri lapides essent qui sunt in abditissimo terrae gremio: vbi non sunt qui sentiant. Et 
+   <!--445.xml-->
+        <pb ed="#Ba" n="215-v"/>
+        <lb ed="#Ba" n="1"/>sic ly per se, non excludit in dicto suo rationem respectus ad intellectum quem habet ex sua natura: 
+        <lb ed="#Ba" n="2"/>non per aliquod additum ei: sed excludendo adminiculum exterioris cognoscentis, explicat quod verita. 
+        <lb ed="#Ba" n="3"/>potest esse in re: etsi nullus actualiter eius notitiam habeat. Vnde subdit immediate. Nec fieri potest: 
+        <lb ed="#Ba" n="4"/>vt per seipsum dis. sine cognitione) lignum sit: &amp; verum lignum non sit. Ex quo vlterius statim concludit 
+        <lb ed="#Ba" n="5"/>definitionem praedictam. Verum est id quod est. vbi clarum est, quod ibi appellat quod est: rem absolutam ab actu co- 
+        <lb ed="#Ba" n="6"/>gnoscentis: quamquam includit in se respectum ad ipsam, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

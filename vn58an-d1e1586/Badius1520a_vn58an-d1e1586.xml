@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="125-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1586"> <!-- alias="vn58an-a21q3" -->
+      <head xml:id="vn58an-d1e1586-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e1586-Hd1e107" type="question-title">Utrum esse Dei sit aliquid praeter eius essentiam</head>
+      <p xml:id="vn58an-d1e1586-d1e110">
+        <lb ed="#Ba" n="12"/>CIrca tertium arguitur quod esse dei sit aliquid praeter eius essentiam. primo sic. Si esse dei 
+        <lb ed="#Ba" n="13"/>non esset aliquid praeter eius essentiam, sed penitus idem ipsi, certitudo quae esset cir 
+        <lb ed="#Ba" n="14"/>ca deum de vno esset &amp; de altero, quia eidem inquantum idem semper natum est ac  
+        <lb ed="#Ba" n="15"/>cidere idem. consequens falsum est: quoniam deum habere in se diuinam essentiam 
+        <lb ed="#Ba" n="16"/>est per se notum de deo, quia essentia cuiuscumque est sua certitudo qua est id quod est. 
+        <lb ed="#Ba" n="17"/>vt dicitur in. v. Metaphysicae. c. de ente. Deum autem habere esse non est perse notum 
+        <lb ed="#Ba" n="18"/>quoniam hoc potest non concedi: sed est quaesitum in prima philosophia. vt dicit Auicen- 
+        <lb ed="#Ba" n="19"/>in principio Metaphy. suae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1586-d1e130">
+        ⁋ Secundo sic. id quo res vna conuenit cum alia, est aliquid in  
+        <lb ed="#Ba" n="20"/>eadem praeter id quo differt ab illa, quia vno &amp; eodem non potest res vna convenire cum alia &amp; differre 
+        <lb ed="#Ba" n="21"/>ab eadem inquantum vnum est &amp; idem omnino, Deus suo esse conuenit cum aliis rebus &amp; sua essentia differt 
+        <lb ed="#Ba" n="22"/>ab eisdem. Vnde secundum Auic. Deus ratione qua est ens consideratur in eadem scientia cum aliis rebus, in qua est 
+        <lb ed="#Ba" n="23"/>subiectum ens simpliciter inquantum est ens. Ratione vero qua deus est, est pars illius scientiae diuersa ab aliis 
+        <lb ed="#Ba" n="24"/>differens ab illis sub ente sicut principium &amp; principiatum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1586-d1e144">
+        ⁋ In contrarium est, quoniam si in deo esse esset 
+        <lb ed="#Ba" n="25"/>aliquid praeter eius essentiam: tunc in deo necesse esset ponere aliquam compositionis rationem. conse- 
+        <lb ed="#Ba" n="26"/>quens falsum est, vt infra patebit. &amp; consequentia patet: quia quaecumque sic se habent quod vnum est aliquid prae- 
+        <lb ed="#Ba" n="27"/>ter aliud in eodem, necessario ei coniungitur per vnionem, non per identitatem. 
+      </p>
+      <p xml:id="vn58an-d1e1586-d1e153">
+        <lb ed="#Ba" n="28"/>⁋ Dicendum ad hoc paulo altius ordiendo sermonem a quocumque esse generaliter 
+        <lb ed="#Ba" n="29"/>quod secundum Philosophum. v. Metaphysicae. in modis entis, ens prima diuisione diuiditur in ens per se, &amp; in enim 
+        <lb ed="#Ba" n="30"/>per accidens. Esse autem in ente per accidens significat de duobus hoc accidere huic. quod contingit 
+        <lb ed="#Ba" n="31"/>dupliciter scilicet secundum accidens absolute, &amp; accidentaliter per accidens. Primo modo vnum accidit alteri 
+        <lb ed="#Ba" n="32"/>vt quod homo est musicus aut albus est homini esse per accidens, quia accidit homini esse musicum aut  
+        <lb ed="#Ba" n="33"/>album. Secundo modo quando ambo accidunt eidem, vt quod album sit musicum contingit albo acciden 
+        <lb ed="#Ba" n="34"/>taliter per accidens, quia ambo accidunt eidem vt homini subiecto. &amp; quia id quo res habet esse ta- 
+        <lb ed="#Ba" n="35"/>le est accidens eius essentialiter differens ab ea: ideo esse tale semper est aliquid praeter essentiam eius cuius 
+        <lb ed="#Ba" n="36"/>est, &amp; est accidens ei. Et quia in deo nullum cadit accidens, vt infra patebit: ideo tale esse in deo non ca- 
+        <lb ed="#Ba" n="37"/>dit, sed solum ens &amp; esse per se. quod habet duos modos: vt distinguit Philosophus. v. Metaph. Est enim 
+        <lb ed="#Ba" n="38"/>ens per se duplex: &amp; illud quod significat essentiam rei, &amp; illud quod significat veritatem rei. Et dicitur 
+        <lb ed="#Ba" n="39"/>hic veritas, non quae idem est quod rei per se entitas in natura &amp; essentia eius qua habet esse in se: sed dimi 
+        <lb ed="#Ba" n="40"/>nuta rei entitas qua habet esse apud animam apprehendentem eam. vt dicitur. vi. Metaph. Tale enim ens est 
+        <lb ed="#Ba" n="41"/>ens verum &amp; pertinet ad praedicamentum accidentis, non accidentis ipsi rei in se, sed prout ab intelligen 
+        <lb ed="#Ba" n="42"/>te concipitur. &amp; ideo est accidens non in intellecto: sed in intelligente. Ens autem quod significat essen- 
+        <lb ed="#Ba" n="43"/>tiam rei, magis pertinet ad praedicamentum generis. vt dicit Commnetor super. v. Metaph. Et (vt dicit ibidem) Ari 
+        <lb ed="#Ba" n="44"/>stoteles intendebat distinguere inter hoc nomen ens quod significat complexionem in intellectu, &amp; quid si 
+        <lb ed="#Ba" n="45"/>gnificat essentiam quae est extra intellectum. Vnde cum dicitur fortes est, hoc quod est est, vno modo significat 
+        <lb ed="#Ba" n="46"/>rem existere in actum &amp; praedicat esse rei in seipsa. alio modo significat compositionem esse cum homine 
+        <lb ed="#Ba" n="47"/>esse veram &amp; praedicat esse rei in anima. Quibus modis procedit illa communis distinctio propositionum: quod  
+        <lb ed="#Ba" n="48"/>propositio aut est de re aut de dicto. Est enim de re propositio ista, sortes est, quando hoc verbum est co- 
+        <lb ed="#Ba" n="49"/>pulat circa subiectum existentiam eius absolute sub hoc sensu, sortes est id ist esse conuenit sorti. Est autem de 
+        <lb ed="#Ba" n="50"/>dicto, quando compositionem esse cum subiecto indicat esse veram sub hoc sensu, sortes est id est sortem esse 
+        <lb ed="#Ba" n="51"/>est verum. De isto modo esse per se scilicet diminuto, verum est quod semper est aliquid praeter essentiam rei cuius 
+        <lb ed="#Ba" n="52"/>est, quia est aliquod non in ipsa re, sed in cognoscente &amp; apprehendente ipsam. &amp; esse dei modo isto scilicet 
+        <lb ed="#Ba" n="53"/>esse quod est verum existens de deo apud intellectum creatum cognoscentem &amp; apprehendentem deum, est aliquid  
+        <lb ed="#Ba" n="54"/>praeter essentiam dei, non in ipso deo, neque aliquid in eius essentia existens, sed in creato intellectu appre 
+        <lb ed="#Ba" n="55"/>hendente ipsum. Nec de tali esse dei intelligenda est proposita quaestio, sed de esse eius primo modo  
+   <!--266.xml-->
+        <pb ed="#Ba" n="126-r"/>
+        <lb ed="#Ba" n="1"/>quod conuenit ei in natura &amp; essentia sua, quae est extra intellectum, quia secundum <name ref="#Aristotle">Philosophum</name> vbi supra. v. 
+        <lb ed="#Ba" n="2"/>metaphy. diuiditur in ens actu &amp; in ens potentia: ita quod ens simpliciter dictum, vt commune ad  
+        <lb ed="#Ba" n="3"/>ens actu &amp; ens potentia, est ens largissimo modo acceptum quod secundum Auicen. est subiectum 
+        <lb ed="#Ba" n="4"/>metaphy. &amp; est commune analogum ad creatorem &amp; creaturam, continens sub se ens principium 
+        <lb ed="#Ba" n="5"/>&amp; ens principiatum quia secundum Auicen, non omne ens est principium, nec cuiuslibet entis est 
+        <lb ed="#Ba" n="6"/>principium. Et significat hoc ens commune creatori &amp; creaturae prima significatione non aliquid vtri 
+        <lb ed="#Ba" n="7"/>quod commune reale: sed significat prima significatione hinc creatorem: hinc creaturam, vt expositum 
+        <lb ed="#Ba" n="8"/>est supra. Et ens quod est principium non est nisi purus actus. Ens autem principiatum quantum 
+        <lb ed="#Ba" n="9"/>est de se non est nisi in potentia pura. Esse enim in potentia nullo modo conuenit deo, vt infra vide 
+        <lb ed="#Ba" n="10"/>bitur: nec in esse hoc communicat cum creatura: est enim esse secundum quid: quia ens in potentia 
+        <lb ed="#Ba" n="11"/>solum inquantum huiusmodi simpliciter est non ens: quale ens quantum est de se, est omne creatum. 
+        <lb ed="#Ba" n="12"/>Quia si conueniat ei actus &amp; esse in actu: hoc solum conuenit ei ex participatione ab esse creatoris, vt di- 
+        <lb ed="#Ba" n="13"/>ctum est: &amp; sic inquantum creaturae conuenit esse in actu: &amp; conuenit quodam modo cum creato 
+        <lb ed="#Ba" n="14"/>re: non conuenientia alicuius realis communitatis: sed solum imitationis, vt dictum est. &amp; hoc tam 
+        <lb ed="#Ba" n="15"/>quo ad esse illud quod conuenit rei ratione essentiae suae &amp; naturae per definitionem eius, expres- 
+        <lb ed="#Ba" n="16"/>sum in habente definitionem: secundum quod definitio dicitur oratio indicans quid est esse: quam quo ad eius 
+        <lb ed="#Ba" n="17"/>esse quod convenit ei ratione suae actualis existentiae, vt expositum est supra. Loquendo autem de esse quid  
+        <lb ed="#Ba" n="18"/>conuenit rei ratione suae essentiae &amp; a quo dicitur res etiam creata esse natura &amp; essentia quaedam, vt di- 
+        <lb ed="#Ba" n="19"/>ctum est supra: de quo dicit Auicietn, quod est illud quod naturaliter primo de re concipitur: prius enim 
+        <lb ed="#Ba" n="20"/>res quaecunque nata est mouere intellectum ratione qua ens est indeterminate conceptum sub indif- 
+        <lb ed="#Ba" n="21"/>ferentia ad duplicem determinationem praedictam: quam ratione qua deus creator est: aut creatura: Lo 
+        <lb ed="#Ba" n="22"/>quendo inquam de tali esse quid sit aliquid aliud a re, siue sit substantia creata siue increata, quam eius essen 
+        <lb ed="#Ba" n="23"/>tia: hoc omnino est impossibile. Cum enim illa res alia quae est ipsum esse, si ponatur esse aliud a na- 
+        <lb ed="#Ba" n="24"/>tura &amp; essentia rei, dat illi rei de cuius esse loquimur esse primum quod habet: verius ipsa dicetur esse essen 
+        <lb ed="#Ba" n="25"/>tia illius rei quam quaecumque alia res: quia id est quiditas &amp; essentia: in vnoquoque quod dat ei esse primo. ab  
+        <lb ed="#Ba" n="26"/>actu enim essendi dicitur essentia id quod est, vt infra videbitur. Aut ergo erit processus in infinitum: quod semper 
+        <lb ed="#Ba" n="27"/>id quod est in re, natura &amp; essentia sua habebit esse per aliudre ab ipsa: aut quodcumque ens etiam creatum di-  
+        <lb ed="#Ba" n="28"/>cetur esse simpliciter per suam essentiam non per rem aliam additam essentiae. Quare cum impos- 
+        <lb ed="#Ba" n="29"/>sibile sit procedere in infinitum: tunc enim non est ponere in re cui primo conueniret esse: quare ne 
+        <lb ed="#Ba" n="30"/>quod vltimum: quod falsum est: Et qua ratione est standum in aliquo quod habet esse per suam essentiam: non per  
+        <lb ed="#Ba" n="31"/>rem aliam additam illi: &amp; in primo creato: Quodcunque ergo datum per illud quod est essentia sua habet 
+        <lb ed="#Ba" n="32"/>esse. secundum quod procedit determinatio Philosophi. iiii. Metaphysi. &amp; Commen. ibidem contra Aui 
+        <lb ed="#Ba" n="33"/>cen. De tali ergo ente &amp; esse dicendum absolute quod non solum in deo creatore: sed &amp; in creatura cau 
+        <lb ed="#Ba" n="34"/>sata ab ipso, esse rei non est aliquid aliud re praeter eius essentiam: nec dicitur aliquid esse ens siue crea- 
+        <lb ed="#Ba" n="35"/>tor siue creatura per aliquam dispositionem additam essentiae suae: sed per ipsam suam essentiam. Quia 
+        <lb ed="#Ba" n="36"/>autem hoc necessarium est ponere in creaturis, patet per Philosophum: qui. viii. metaphysiy. de illis en- 
+        <lb ed="#Ba" n="37"/>tibus quae secundum ipsum non habent materiam: neque sensibilem neque intelligibilem: dicit quod vnum 
+        <lb ed="#Ba" n="38"/>quodque eorum statim est id quod est per suam essentiam: &amp; non est alia causa alicuius istorum vt sit vnum, neque vt sit 
+        <lb ed="#Ba" n="39"/>ens. vbi etiam <name ref="#Averroes">Commentator</name> dicit. i. illa quae non habent materiam non habent aliam causam a se in hoc 
+        <lb ed="#Ba" n="40"/>quod sint vnum &amp; in hoc quod sint ens, econtrario eis quae sunt in materia, quioniam vnumquodque istorum ex se 
+        <lb ed="#Ba" n="41"/>est aliquod vnum: &amp; aliquod ens: quod non est vnum ex alio, neque ens ex alio. Et hoc intendebat cum di 
+        <lb ed="#Ba" n="42"/>xit, statium scilicet non per additum. In habentibus autem materiam sunt composita ex materia &amp; forma 
+        <lb ed="#Ba" n="43"/>vnum per formam. Et similiter hoc quod dicunt, quod illa non habent aliam causam vt sint ens &amp; vnum: si 
+        <lb ed="#Ba" n="44"/>habeat veritatem intellige formaliter: non effectiue. formaliter dico adhuc tanquam non a forma in- 
+        <lb ed="#Ba" n="45"/>haerente: non autem tanquam non a forma exemplari, quod enim esse habet ab alio tanquam a forma inhaerente, habet 
+        <lb ed="#Ba" n="46"/>esse ab eo quod est aliud re ab ipso cui inhaeret. Vnde si hoc modo res aliqua in sua essentia haberet esse ab alio:  
+        <lb ed="#Ba" n="47"/>tunc illud esset quaedam forma essendi qua substratum dicitur esse: ad modum quo corpus dicitur esse al 
+        <lb ed="#Ba" n="48"/>bum vel nigrum recepta forma albedinis aut nigredinis in se. secundum quod Auer. imponit Auce. scilicet quod po 
+        <lb ed="#Ba" n="49"/>suit quod esse esset accidens enti, quod non est verum. Et secundum hoc, vt dicit <name ref="#Aristotle">Philosophus</name> &amp; bene: si sint 
+        <lb ed="#Ba" n="50"/>aliquae formae simplices sine materia, illae ex eo quod sunt essentiae quaedam habent esse non aliquo alio 
+        <lb ed="#Ba" n="51"/>inhaerente eis formaliter: &amp; ideo statium scilicet ex eo quod sunt natura quaedam &amp; essentia. Non sic autem 
+        <lb ed="#Ba" n="52"/>illa quae habent esse in natura: quia ex eo quod sunt aliquid in materia &amp; essentia materiae non habent 
+        <lb ed="#Ba" n="53"/>esse nisi in potentia. secundum actum autem non nisi per formam. &amp; ideo non statim neque secun- 
+        <lb ed="#Ba" n="54"/>dum actum essentiae, quia illum non habet res in materia, nisi in potentia: neque secundum actum existen 
+        <lb ed="#Ba" n="55"/>tiae: quia illum non habet res materialis nisi per generationem educta forma in actu de potentia ma 
+   <!--267.xml-->
+        <pb ed="#Ba" n="126-v"/>
+        <lb ed="#Ba" n="1"/>teriae. Loquendo autem de habere esse formaliter, tamen non a causa exemplari, hoc modo nulla crea- 
+        <lb ed="#Ba" n="2"/>tura habet quod ei conueniat ex se, non ab alia causa suum esse essentiae. Illud enim soli deo convenit, ipse 
+        <lb ed="#Ba" n="3"/>enim ex se formaliter non ab aliquo sibi formaliter inhaerente habet esse. vt infra videbitur. Neque ab ali 
+        <lb ed="#Ba" n="4"/>quo vt a forma exemplari: quia est prima forma exemplaris omnium. vt similiter infra videbitur. 
+        <lb ed="#Ba" n="5"/>Omnis autem res quae creatura est: formaliter habet esse essentiae suae ab alio vt a causa exemplari: 
+        <lb ed="#Ba" n="6"/>a qua etiam effectiue habet suum esse existentiae, vt dictum est supra. &amp; hoc vel immediate ex prima 
+        <lb ed="#Ba" n="7"/>creatione. secundum quod in Gene. dicit Moyses. In principio creauit deus coelum &amp; terram. hoc est secun 
+        <lb ed="#Ba" n="8"/>dum Glos. spiritualem &amp; corporalem creaturam. vel mediantibus aliis causis ex rerum creatarum guberna- 
+        <lb ed="#Ba" n="9"/>tione. de qua dixit Christus in Io. Pater meus vsque modo operatur, &amp; ego operor. &amp; hoc quo ad rerum 
+        <lb ed="#Ba" n="10"/>generabilium &amp; corruptibilium propagationem. Effectiuae enim substantiae illae creatae quae sunt formae sim 
+        <lb ed="#Ba" n="11"/>plices non habent esse suum a se, sed a deo dante illis esse immediate. vt bene probat Auicen. vi. Me- 
+        <lb ed="#Ba" n="12"/>taphy. suae. &amp; hoc dat eis statim, quia totum quod sunt quo ad rationem exemplaris in deo secundum esse 
+        <lb ed="#Ba" n="13"/>essentiae, efficit in eis simul secundum esse actualis existentiae, non prius causando per se in esse materiali, quod post 
+        <lb ed="#Ba" n="14"/>modum producendum esset in esse formali. secundum quod illae quae siunt per naturam ex materia, non sta- 
+        <lb ed="#Ba" n="15"/>tim habent formas in materia, sed per naturae motum acquirunt eas, &amp; in eo quod natura per motum dat eis 
+        <lb ed="#Ba" n="16"/>non statim formas suas in materia, in hoc dat eis esse existentiae, nihil rei dando eis praeter formam 
+        <lb ed="#Ba" n="17"/>in materia. In deo autem hoc necessarium est ponere: scilicet quod ex se &amp; sua essentia omnino habeat  
+        <lb ed="#Ba" n="18"/>esse &amp; non ab alio, neque formaliter neque effectiue. Ipse enim ex se habet esse, &amp; est id quod est necesse esse. vt 
+        <lb ed="#Ba" n="19"/>infra videbitur. Aliter etiam in deo esset compositio ex diuersis re differentibus, scilicet ex ipsa di- 
+        <lb ed="#Ba" n="20"/>uina essentia &amp; ipso esse: quod poneretur esse aliquid aliud re praeter diuinam essentiam: quod est omnino  
+        <lb ed="#Ba" n="21"/>impossibile. Quomodo autem nec etiam intentione in deo differunt esse &amp; essentia eius, quae differunt 
+        <lb ed="#Ba" n="22"/>intentione in omni creatura, videbitur in sequenti quaestione.  
+      </p>
+      <p xml:id="vn58an-d1e1586-d1e401">
+        <lb ed="#Ba" n="23"/>⁋ Ad primum in oppositum quod certum est habere deum in se essentiam diuinam 
+        <lb ed="#Ba" n="24"/>non autem habere esse: dicendum quod falsum est. Cum enim deus non habet esse nisi per suam essentiam 
+        <lb ed="#Ba" n="25"/>dubitans de esse an sit dubitat similiter &amp; diuinam essentiam esse, aut esse aliquid, aut aliquid esse deum, 
+        <lb ed="#Ba" n="26"/>quid scilicet habeat in se diuinam essentiam. &amp; ita habere in se aliquam diuinam essentiam nullo modo est 
+        <lb ed="#Ba" n="27"/>notum nisi simul notum sit deum habere esse, &amp; in esse essentiae, quia illud est proprius actus ipsius 
+        <lb ed="#Ba" n="28"/>essentiae vt essentia est, sicut lucere est proprius actus lucis vt lux est. &amp; etiam in actu existentiae, quia in  
+        <lb ed="#Ba" n="29"/>deo non differunt actus &amp; potentia, per quae differunt, in eo essentia &amp; existentia &amp; esse essentiae, ab esse 
+        <lb ed="#Ba" n="30"/>existentiae, vt infra videbitur. lta quod etiam ista duo in deo omnino nullam compositionem ponere pos- 
+        <lb ed="#Ba" n="31"/>sunt. in eo enim nulla cadit compositio, neque ex esse &amp; essentia, neque ex actum &amp; potentia. vt infra videbitur 
+        <lb ed="#Ba" n="32"/>licet in creaturis vbi differunt actus &amp; potentia, possint haec distare, vt sit in creaturis ex eis compo 
+        <lb ed="#Ba" n="33"/>sitio. vt infra videbitur. Vnde &amp; in creaturis sciri poterit rei essentia: dubitari tamen poterit an habeat esse 
+        <lb ed="#Ba" n="34"/>in existentia. vt dictum est supra in quaest. an contingit scire non ens quod contingit in deo. vt infra videbitur. 
+      </p>
+      <p xml:id="vn58an-d1e1586-d1e430">
+        <lb ed="#Ba" n="35"/>⁋ Ad secundum quod deus sua essentia differt a creaturis, &amp; suo esse convenit cum eis: ergo haec non sunt ea- 
+        <lb ed="#Ba" n="36"/>dem: dicendum quod hoc verum esset si esse esset aliquid commune creatori &amp; creaturae reali similitudine.  
+        <lb ed="#Ba" n="37"/>Tunc enim si deus in essentia differret a creatura, &amp; conveniret cum ipsa in esse, necessario in deo esset alia 
+        <lb ed="#Ba" n="38"/>intentio qua est ens, &amp; alia qua est deus, etsi idem esset re, sicut alia est intentio qua sortes convenit cum 
+        <lb ed="#Ba" n="39"/>asino inquantum est animal, &amp; alia qua differt ab eodem inquantum est homo, etiam si sit vna forma simplex 
+        <lb ed="#Ba" n="40"/>qua est homo &amp; qua est animal. Nunc autem cum nihil sit commune reale in ente significatum ad creatorem &amp; crea 
+        <lb ed="#Ba" n="41"/>turam, vt supra dictum est: non oportet quod aliquo alio vel re vel intentione conveniat deus cum creatura 
+        <lb ed="#Ba" n="42"/>inquantum ens, &amp; alio differat inquantum est deus, quia illa convenientia non est convenientia reali simi 
+        <lb ed="#Ba" n="43"/>litudine, sed solum convenientia imitationis formae ad formam, vt dictum est supra. Illa autem forma in deo  
+        <lb ed="#Ba" n="44"/>est diuina essentia: quae inquantum dat deo esse deum, est cam differentiae eius a creaturis. inquantum vero dat 
+        <lb ed="#Ba" n="45"/>ei esse ens primum entium, &amp; ita esse simpliciter, est causa convenientiae eius cum creaturis, quia proprie &amp; 
+        <lb ed="#Ba" n="46"/>appropriate loquendo non inquantum deus, sed inquantum ens primum, hoc est non secundum rationem qua deus 
+        <lb ed="#Ba" n="47"/>est, sed secundum rationem qua est ens primum, est causa omnium aliorum. Semper enim primum in vnoquoque ge  
+        <lb ed="#Ba" n="48"/>nere est causa eorum quae sunt post, inquantum huiusmodi. vt vult Philosophous. ii. Metaph.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

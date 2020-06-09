@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="243-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe66589"> <!-- alias="vn58an-a70q2" -->
+      <head xml:id="vn58an-fe66589-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe66589-d1e107">
+        <lb ed="#Bb" n="18"/>CIrca secundum arguitur quod non sit in diuinis plena &amp; perfecta &amp; omnimoda 
+        <lb ed="#Bb" n="19"/>aequalitas, Primo sic. Perfecta aequalitas nata est esse non solum secundum ma 
+        <lb ed="#Bb" n="20"/>gnitudinem: sed etiam secundum numerum siue secundum quantitatem. sed  
+        <lb ed="#Bb" n="21"/>si in diuinis non essent secundum magnitudinem tantum duae personae quantum 
+        <lb ed="#Bb" n="22"/>tres: non esset in illis perfecta aequalitas secundum <name ref="#Augustine">Augustinum</name> sexto de trinitate 
+        <lb ed="#Bb" n="23"/>gnitate, vt dicetur respondendo. Quare cum in diuinis non sunt secundum nu 
+        <lb ed="#Bb" n="24"/>merum tot duae personae quot sunt tres: non est ergo in illis perfecta aequali- 
+        <lb ed="#Bb" n="25"/>tas. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e130">
+        ⁋ Secundo sic. Plena &amp; perfecta aequalitas in aliquo: non est sine aequalitate omnium quae  
+        <lb ed="#Bb" n="26"/>sunt in illo. Aliquorum enim inaequalitas repugnaret perfectae aequalitati. sed non est aequalitas 
+        <lb ed="#Bb" n="27"/>omnium eorum quae sunt in deo: quia non est in deo aequalitas identitatis &amp; similitudinis: quia 
+        <lb ed="#Bb" n="28"/>non est in eo tanta similitudo quanta est in ipso identitas, eo quod in ipso est identitas alicuius ad  
+        <lb ed="#Bb" n="29"/>seipsum, non est autem in ipso similitudo nisi alicuius ad alium. &amp; sic maior est illa identitas quam  
+        <lb ed="#Bb" n="30"/>ista similitudo: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e143">
+        ⁋ Tertio sic. Non est plena &amp; perfecta aequalitas nisi sit secundum 
+        <lb ed="#Bb" n="31"/>omnia secundum quae nata est esse aequalitas in quibuscunque: quia sicut in plene perfecto 
+        <lb ed="#Bb" n="32"/>sunt omnes rationes omnium perfectionum: sic in plena &amp; perfecta aequalitate sunt omnes aequa  
+        <lb ed="#Bb" n="33"/>litatum omnium rationes. consequens falsum est: quia secundum omnem modum &amp; speciem 
+        <lb ed="#Bb" n="34"/>quantitatis nata sunt aliqua esse aequalia: quia per se conuenit quantitati secundum eam aequa 
+        <lb ed="#Bb" n="35"/>le vel inaequale dici, quare &amp; secundum omnes species eius hoc conuenit ei. sed non secun- 
+        <lb ed="#Bb" n="36"/>dum omnem modum &amp; speciem quantitatis est aequalitas in deo: quia nec omnis modus &amp; 
+        <lb ed="#Bb" n="37"/>species quantitatis est in deo: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e162">
+        ⁋ Quarto sic. Quicquid habet rationem perfectionis sim 
+        <lb ed="#Bb" n="38"/>pliciter in creaturis, ponendum est in deo: cum omnes rationes perfectionum sint in ipso secun 
+        <lb ed="#Bb" n="39"/>dum superius determinata. sed inaequalitas est de ratione perfectionis creaturarum: quia secun- 
+        <lb ed="#Bb" n="40"/>dum Augustinutm lxxxiii quaesti nibus quaes xiniiii. si essent omnia aequalia: non essent omnia, quod dicit respon- 
+        <lb ed="#Bb" n="41"/>dendo ad quaestionem quare deus non fecit omnia aequalia. vt igitur essent omnia: non sunt fa 
+        <lb ed="#Bb" n="42"/>cta omnia aequalia: sed inaequalia facta sunt aliqua. Quia autem sint omnia: hoc pertinet ad perfe- 
+        <lb ed="#Bb" n="43"/>ctionem. Oportet ergo quod sit aliqua inaequalitas in deo. sed vbi est aliqua inaequalitas, non est 
+        <lb ed="#Bb" n="44"/>plena &amp; perfecta atque omnimoda aequalitas: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e180">
+        ⁋ Quinto sic. Primum principale &amp; secun- 
+        <lb ed="#Bb" n="45"/>dum non principale in quocunque non sunt plene &amp; perfecte aut omnino aequalia: quia non sunt 
+        <lb ed="#Bb" n="46"/>plene, perfecte, aut omnino in quantitate virtutis conformia. in diuinis autem sunt primum 
+        <lb ed="#Bb" n="47"/>principale &amp; secundum non principale: In producendo aliquid interius: quia secundum Au 
+        <lb ed="#Bb" n="48"/>gustinum de trinitate, Pater est principium totius diuinitatis. Et secundum Dionysium de di 
+        <lb ed="#Bb" n="49"/>uinis nominibus, Pater est fontana deitas: filius autem &amp; spiritus sanctus sunt pullulationes. 
+        <lb ed="#Bb" n="50"/>Et similiter in producendo aliquid exterius, quia pater vt principale agens dicitur omnia fa- 
+        <lb ed="#Bb" n="51"/>cere per filium: quia omnia per ipsum facta sunt. loannis primo. Per quem fecit &amp; secula. Hebr. 
+        <lb ed="#Bb" n="52"/>primo. ergo &amp;c. Hinc est (vt videtur) quod filius dicit Ioan. xiiii. Pater maior me est. Et Aposto 
+        <lb ed="#Bb" n="53"/>lus primae ad Corinthios decimoquinto. Ipse filius subiectus erit illi qui ei subiecit omnia. 
+        <lb ed="#Bb" n="54"/>
+      </p>
+      <p xml:id="vn58an-fe66589-d1e204">
+        ⁋ 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e207">
+        ⁋ Sexto sic. Illae personae non sunt aequales omnimode, quarum vna alteram superat potestate. Pa 
+   <!--502.xml-->
+        <pb ed="#Bb" n="244-r"/>
+        <lb ed="#Bb" n="1"/>ter superat filium potestate, &amp; pater &amp; filius spiritum sanctum. Pater enim potest generare non 
+        <lb ed="#Bb" n="2"/>filius. pater &amp; filius possunt spirare, non econverso spiritus sanctus. Econtra autem filius potest 
+        <lb ed="#Bb" n="3"/>generari: non pater, spiritus sanctus potest spirari: non sic filius neque pater: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e220">
+        ⁋ Septimo 
+        <lb ed="#Bb" n="4"/>sic. Illa non sunt aequalia omnino, quorum vnum habet aliquid ad dignitatem pertinens quod non 
+        <lb ed="#Bb" n="5"/>habet alterum: quia vnum illorum dignius est altero. sed quaelibet diuina persona habet aliquid  
+        <lb ed="#Bb" n="6"/>ad dignitatem pertinens scilicet suam notionem personalem secundum superius determinata: quod non  
+        <lb ed="#Bb" n="7"/>habet altera: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e231">
+        ⁋ Octauo sic. In diuinis numerus est trium personarum, &amp; quinque notio- 
+        <lb ed="#Bb" n="8"/>num. Inter quemlibet autem numerum &amp; quamlibet partium eius siue fuerit aliquota siue non, ali- 
+        <lb ed="#Bb" n="9"/>quota est proportio inaequalitatis: puta vnitatis &amp; dualitatis ad ternarium &amp; quinarium. Vbi 
+        <lb ed="#Bb" n="10"/>autem est aliqua inaequalitas, non est plena &amp; perfecta siue omnimoda aequalitas: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e241">
+        ⁋ In con- 
+        <lb ed="#Bb" n="11"/>trarium est Augustius vi. de triniitate. c. vlti. in trinitate esse primam aequalitatem, &amp; primam similitu- 
+        <lb ed="#Bb" n="12"/>dinem: nullo modo inaequalem, nullo modo dissimilem. &amp; lib. xv. c. xiii. dicit. Sicut per omnem mo 
+        <lb ed="#Bb" n="13"/>dum filius est aequalis patri: sic etiam per omnem modum pater est aequalis filio. 
+        <lb ed="#Bb" n="14"/>
+      </p>
+      <p xml:id="vn58an-fe66589-d1e252">
+        ⁋ Dico quod illa plene seu perfecte &amp; omnimode sunt &amp;equalia quae sunt aequalia quo 
+        <lb ed="#Bb" n="15"/>ad omnia existentia &amp; nata existere in eis, quae quidem in illis nata sunt esse aequalia, &amp; secun- 
+        <lb ed="#Bb" n="16"/>dum quae nata sunt aliqua dici aequalia. Quare cum secundum iam determinata, quaecunque sunt 
+        <lb ed="#Bb" n="17"/>aequalia aut nata sunt existere aequalia. secundum quantitatem existentem in eis, &amp; solum secundum quanti- 
+        <lb ed="#Bb" n="18"/>tatem sunt aequalia: quaecumque autem sunt in diuinis secundum omnem rationem quantitatis quae est 
+        <lb ed="#Bb" n="19"/>in diuinis aut nata est esse, sunt aequalia: necessarium est igitur ponere quod in diuinis est perfecta 
+        <lb ed="#Bb" n="20"/>plena &amp; omnimoda aequalitas, &amp; ideo aequalitas summa. Cuius causa &amp; ratio est vna quantitas 
+        <lb ed="#Bb" n="21"/>singularis in omnibus. Vnde <name ref="#Augustine">Augustinus</name> in fine. vi. de triniitate. istam aequalitatem commendans quo ad di 
+        <lb ed="#Bb" n="22"/>uinas personas, dicit sic. In illa summa trinitate tantum est vna persona quantum tres simul: tantum 
+        <lb ed="#Bb" n="23"/>duae quantum &amp; vna. Et similiter tanta est vna quanta altera. Et idem dicendum est de. substantia 
+        <lb ed="#Bb" n="24"/>&amp; de attributis comparatis inter se &amp; ad personas. Tanta enim est substantia quanta bonitas, veri- 
+        <lb ed="#Bb" n="25"/>tas, &amp; sic de caeteris, &amp; econuerso. Et vt dicit <name ref="#Augustine">Augustinus</name> singula sunt in singulis, &amp; omnia in sin- 
+        <lb ed="#Bb" n="26"/>gulis, &amp; singula in omnibus, &amp; omnia vnum. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e287">
+        ⁋ Ad quorum intellectum aduertendum est quod cum 
+        <lb ed="#Bb" n="27"/>secundum praedeterminata in deo non sit quantitas nisi perfectionis seu virtutis, quae secundum <name ref="#Aristotle">Philosophum</name> 
+        <lb ed="#Bb" n="28"/>est perfectio rei ad optimum, quid est vltimum, in quo actus perficitur, &amp; absorbetur omnis potentia 
+        <lb ed="#Bb" n="29"/>vt praedictum est: secundum diuersitatem ergo actus rei in se diuersificatur virtus rei in qua est ille 
+        <lb ed="#Bb" n="30"/>actus, &amp; in qua virtute consistit eius quantitas. Est autem duplex actus rei in se praeter actum qui  
+        <lb ed="#Bb" n="31"/>dicitur operari actione manente intra aut transeunte extra. Quorum vnus consistit in complemen 
+        <lb ed="#Bb" n="32"/>to esse essentiae &amp; naturae rei secundum formam suam. Alius vero consistit in perfectione existentiae 
+        <lb ed="#Bb" n="33"/>actualis illius: qui respectu actus qui est operari potest dici primus, &amp; respectu actus formae &amp; es 
+        <lb ed="#Bb" n="34"/>sentiae potest dici secundus. Virtus ergo in deo in qua consistit sua quantitas, duplex est: siue du- 
+        <lb ed="#Bb" n="35"/>pliciter potest accipi secundum rationem duorum actuum iam dictorum in deo: qui licet non differant 
+        <lb ed="#Bb" n="36"/>inter se nec ab essentia secundum rem, differunt tamen saltem secundum rationem. Conpetit enim deo quod sit na- 
+        <lb ed="#Bb" n="37"/>tura siue essentia, &amp; quod habeat esse tam essentiae quam existentiae: qui sunt actus a quibus in deo nec 
+        <lb ed="#Bb" n="38"/>differt nec distat potentia ad illos. Competunt etiam hi duo actus omni ei quod est in ipso deo. Secun- 
+        <lb ed="#Bb" n="39"/>dum enim rationem actus naturae siue essentiae respondet ei virtus quae est magnitudo: &amp; hoc (se 
+        <lb ed="#Bb" n="40"/>cundum modum superius expositum) tanquam mensura eius in spirituali extensione. Secundum vero 
+        <lb ed="#Bb" n="41"/>rationem actus qui est existere, respondet ei virtus quae est aeternitas tanquam mensura eius in dura- 
+        <lb ed="#Bb" n="42"/>tione. Et istae sunt duae rationes quantitatum siue duae quantitates virtuales in diuinis. Quarum 
+        <lb ed="#Bb" n="43"/>prima in vno simplici immenso continet omnium aliorum perfectiones. Secunda vero continet 
+        <lb ed="#Bb" n="44"/>in vno simplici fixo &amp; stanti omnium aliorum durationes transeuntes. Alii autem modi continuarum 
+        <lb ed="#Bb" n="45"/>quantitatuum scilicet locus &amp; tempus, &amp; discretarum. scilicet numerus &amp; oratio, in solis creaturis praecipue cor- 
+        <lb ed="#Bb" n="46"/>poralibus habent inueniri: praeter hoc quod numerus quoquo modo reperitur in diuinis: vt praeha 
+        <lb ed="#Bb" n="47"/>bitum. Et sunt illae duae quantitates virtuales mensurae quo ad eorum esse essentiae &amp; existentiae omnium illo- 
+        <lb ed="#Bb" n="48"/>rum quae sunt in diuinis: que omnia secundum vtramque, aequalitatem omnimodam habent inter se: quia vna sin 
+        <lb ed="#Bb" n="49"/>gularis magnitudo, &amp; vna singularis aeternitas est mensura omnium illorum quibus magna siue immensa 
+        <lb ed="#Bb" n="50"/>dicuntur &amp; aeterna. &amp; etiam sibi inuicem sunt mensurae &amp; aequales sibi inuicem inquantum ma-  
+        <lb ed="#Bb" n="51"/>gnitudo est aeterna, &amp; aeternitas est magna atque immensa: &amp; tanta est magnitudo quanta est aeter- 
+        <lb ed="#Bb" n="52"/>nitas, &amp; econuerso. &amp; sic de caeteris inter se comparatis. Sed aliter &amp; aliter magnitudo habet es 
+        <lb ed="#Bb" n="53"/>se mensura essentiae siue substantiae diuinae: &amp; illorum quae habent esse in illa quasi mediante magni 
+        <lb ed="#Bb" n="54"/>tudine spirituali: sicut in corporalibus caetera accidentia habent esse in subiecto mediante magni- 
+   <!--503.xml-->
+        <pb ed="#Bb" n="244-v"/>
+        <lb ed="#Bb" n="1"/>tudine corporali. Est enim magnitudo diuina per se essentiae mensura siue substantiae diuinae:  
+        <lb ed="#Bb" n="2"/>caeterorum autem quia sunt per magnitudinem in substantia, siue magnitudo corporalis, est men- 
+        <lb ed="#Bb" n="3"/>sura per se substantiae corporeae. Caeterorum autem quia sunt in illa mediante quantitate: &amp; ita per ac- 
+        <lb ed="#Bb" n="4"/>cidens. Vnde dicimus non solum quod deitas est immensa &amp; aeterna: sed etiam bonitas &amp; veritas, sapien 
+        <lb ed="#Bb" n="5"/>tia, paternitas, filiatio, pater &amp; filius, &amp; caetera omnia tam absoluta quam relata: vt sunt aliquid in se 
+        <lb ed="#Bb" n="6"/>&amp; omnia aequalia sunt magnitudine siue immensitate &amp; aeternitate. Non enim praecedit aliquod il- 
+        <lb ed="#Bb" n="7"/>lorum alterum aeternitate, aut excedit magnitudine, nec vna persona alteram praecedit aeternitate 
+        <lb ed="#Bb" n="8"/>aut excedit magnitudine perfectionis, aut in substantia, aut in bonitate, aut in sapientia, aut in po 
+        <lb ed="#Bb" n="9"/>tentia, aut in aliquo caeterorum. Vnde <name ref="#Augustine">Augustinus</name> in libro de fide ad Petrum, breuiter aperiens quomodo 
+        <lb ed="#Bb" n="10"/>tres personae intelligantur esse aequales, dicit sic. Nullus horum alium praecedit aeternitate, aut excedit 
+        <lb ed="#Bb" n="11"/>magnitudine, aut superat potestate. Aduerte quod dicendo tria haec, aeternitate, magnitudine, &amp; po 
+        <lb ed="#Bb" n="12"/>testate, quidam notant per hoc poni tres modos quantitatis in diuinis scilicet aeternitatem, quae in corpo- 
+        <lb ed="#Bb" n="13"/>ralibus respondet tempori: quia aeternitas est mensura esse aeternorum, sicut tempus temporalium: magni 
+        <lb ed="#Bb" n="14"/>tudinem perfectionis, quae in corporalibus respondet magnitudini in continuis: potestatem, quae respon 
+        <lb ed="#Bb" n="15"/>det numero in discretis, eo quod respicit effectus varios a diuina potentia procedentes. Sed non est ita:  
+        <lb ed="#Bb" n="16"/>quia potestas inquantum importat rationem respectus per comparationem ad effectus &amp; operationem 
+        <lb ed="#Bb" n="17"/>nequaquam potest habere rationem quantitatis supra quam fundetur aequalitas: quia quantitas praedicamen- 
+        <lb ed="#Bb" n="18"/>tum omnino absolutum quid est, sicut substantia &amp; qualitas: nec fundatur per se relatio communis ni 
+        <lb ed="#Bb" n="19"/>si super absolutum: vt habitum est in praemissis. Si ergo potestas siue potentia habeat rationem quanti- 
+        <lb ed="#Bb" n="20"/>tatis in deo, hoc non est nisi inquantum habet rationem absoluti &amp; magnitudinis spiritualis, quae in per  
+        <lb ed="#Bb" n="21"/>fectione diuinae naturae consistit: quia ratio perfectionis diuinae est ratio elicitiua prima omnium oruem 
+        <lb ed="#Bb" n="22"/>rum diuinorum &amp; perfectionum tam intra se quam extra. Et sic potentia nequaquam est quantitas in deo alia 
+        <lb ed="#Bb" n="23"/>a magnitudine dei quae est virtus eius, in qua vltimarum actus essentiae diuinae &amp; potentia ad illum: 
+        <lb ed="#Bb" n="24"/>quae omnino idem in deo cum tali actu, &amp; distare non possunt. Quae tamen virtus dupliciter potest consi- 
+        <lb ed="#Bb" n="25"/>derari, &amp; per hoc dupliciter potest considerari diuina magnitudo: quia virtus illa est diuina ma-  
+        <lb ed="#Bb" n="26"/>gnitudo vt continet spiritualem extensionem absque gradualitate in omnia attingendo, &amp; omnia con- 
+        <lb ed="#Bb" n="27"/>tinendo secundum modum determinatum in solutione secundae rationis quaestionis praecedentis. Et primo mo 
+        <lb ed="#Bb" n="28"/>do consideratur vt est vltimum de potentia ad esse essentiae vel existentiae, &amp; tenet se virtus ex parte 
+        <lb ed="#Bb" n="29"/>actus, in quo consummatur seu completur potentia, quasi interim distinguendo secundum rationem 
+        <lb ed="#Bb" n="30"/>inter potentiam &amp; actum. Secundo autem modo consideratur vt est vltimum de potentia ad ope 
+        <lb ed="#Bb" n="31"/>rari siue intra siue extra, &amp; tenet se virtus ex parte potentiae in vltimo sui quod est ei quasi termi- 
+        <lb ed="#Bb" n="32"/>nus intra: quemadmodum cum aliquis potest ferre centum, potentia qua potest ferre nonaginta 
+        <lb ed="#Bb" n="33"/>nouem, non est virtus illius ad portandum: quia non est vltimum potentiae: sed illa qua potest fer 
+        <lb ed="#Bb" n="34"/>re centum &amp; non plus. Vnde in actu vltimato qui est esse essentiae &amp; existentiae, consistit ipsa po 
+        <lb ed="#Bb" n="35"/>tentia quae est virtus ordinata ad operari primo modo, &amp; est ipsa magnitudo diuinae essentiae si 
+        <lb ed="#Bb" n="36"/>ue naturae considerata penitus absolute, vt est vltimum de potentia primo modo. Considera- 
+        <lb ed="#Bb" n="37"/>tur autem sub ratione respectus ad actum qui est operari: vt est vltimum de potentia secundo  
+        <lb ed="#Bb" n="38"/>modo. &amp; sic significatur virtus quae est diuina magnitudo, nomine potentiae ordinatae ad actum 
+        <lb ed="#Bb" n="39"/>qui est operari. Actus autem consummatus in esse essentiae est potentia quae est virtus ad elicien 
+        <lb ed="#Bb" n="40"/>dum actum qui est operari. Et non addit nomen potentiae nisi rationem respectus super nomen 
+        <lb ed="#Bb" n="41"/>magnitudinis: secundum quam (vt dictum est) non potest habere rationem quantitatis. Vt idcirco 
+        <lb ed="#Bb" n="42"/>nomine magnitudinis &amp; nomine potentiae nequaquam intelligit <name ref="#Augustine">Augustinus</name> diuersas quantitates 
+        <lb ed="#Bb" n="43"/>in deo: aliam scilicet nomine potentiae ab illa quam intelligit nomine magnitudinis: immo vnam so- 
+        <lb ed="#Bb" n="44"/>lam quantitatem quae est diuina magnitudo per illam differentem solummodo secundum rationes diuersas 
+        <lb ed="#Bb" n="45"/>alicuius. Quae habet dupliciter considerari. Vno modo secundum se &amp; absolute, &amp; alio modo in  
+        <lb ed="#Bb" n="46"/>ordine ad aliud. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e464">
+        ⁋ Ex quo aduertendum est quod ista quatuor essentia, magnitudo, virtus, potentia, 
+        <lb ed="#Bb" n="47"/>in spiritualibus idem dicunt secundum rem: quia essentia nominat naturam simpliciter, magnitudo  
+        <lb ed="#Bb" n="48"/>nominat quantitatem illius simpliciter: virtus vero nominat quantitatem illius vltimatam ab-  
+        <lb ed="#Bb" n="49"/>solute: potentia vero nominat magnitudinem simpliciter in ordine ad actum operandi: quae  
+        <lb ed="#Bb" n="50"/>cum intelligitur significari in nomine virtutis, tunc virtus nominat magnitudinem vltimatam 
+        <lb ed="#Bb" n="51"/>in ordine ad actum operandi vltimate. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e477">
+        ⁋ Ex quo vlterius aduertenda est differentia quaedam in-  
+        <lb ed="#Bb" n="52"/>ter magnitudinem molis &amp; virtutis: quia magnitudo molis inquantum est magnitudo, etiam si 
+        <lb ed="#Bb" n="53"/>ponatur esse infinita, omnia attingit corporalia &amp; in se continet illa: sed tamen non est princi- 
+        <lb ed="#Bb" n="54"/>pium operandi aliquid inquantum est magnitudo molis. Magnitudo autem virtutis inquantum est magni 
+        <lb ed="#Bb" n="55"/>tudo omnia attingit &amp; omnia in se continet secundum modum expositum supra in solutione primae rationis quaestio 
+   <!--504.xml-->
+        <pb ed="#Bb" n="245-r"/>
+        <lb ed="#Bb" n="1"/>nis praecedentis: &amp; inquantum est virtutis, est potentia &amp; principium operandi vltimate. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e495">
+        ⁋ Quia ergo  
+        <lb ed="#Bb" n="2"/>Augustinus illa tria quasi de pari annumerat in exponendo quomodo tres personae sint aequales 
+        <lb ed="#Bb" n="3"/>hoc non facit quia potestas sit in deo quantitas quaedam distincta contra magnitudinem: sed quia ma 
+        <lb ed="#Bb" n="4"/>gnitudo &amp; potentia licet in deo sint eadem quantitas, differunt tamen secundum rationem modo iam dicto., 
+        <lb ed="#Bb" n="5"/>Vnde considerando potentiam secundum rationem propriam potentiae vt distinguitur contra rationem magnitu- 
+        <lb ed="#Bb" n="6"/>dinis, sicut dicit Augustinus, Nullus horum alium superat potestate: sic potuisset dixisse: Nullus 
+        <lb ed="#Bb" n="7"/>horum alium superat deitate, aut bonitate, aut veritate, &amp; sic de caeteris. Et semper intelligendum est secundum  
+        <lb ed="#Bb" n="8"/>illa duo quae sunt magnitudo &amp; aeternitas, quae vniformiter consequuntur omnia quae sunt in diuinis. Dei 
+        <lb ed="#Bb" n="9"/>tas enim magna est &amp; aeterna: sicut &amp; potestas. Similiter bonitas, veritas, &amp; sic de caeteris. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e516">
+        ⁋ Con- 
+        <lb ed="#Bb" n="10"/>cedendum est igitur simpliciter &amp; absolute quod in diuinis quo ad omnia quae inter se aliquam ha 
+        <lb ed="#Bb" n="11"/>bent distinctionem vel secundum rem, vel secundum rationem, est plena perfecta &amp; omnimoda aequalitas. 
+        <lb ed="#Bb" n="12"/>Et secundum hoc concedenda est vltima ratio hoc probans. Nec restat respondere nisi ad difficul- 
+        <lb ed="#Bb" n="13"/>tates in contrarium adductas in argumentis. 
+        <lb ed="#Bb" n="14"/>
+      </p>
+      <p xml:id="vn58an-fe66589-d1e529">
+        ⁋ Quia ergo arguebatur Primo in contrarium, quod non est in deo plena &amp; perfecta 
+        <lb ed="#Bb" n="15"/>&amp; omnimoda siue in omnibus &amp; per omnia aequalitas: quia non est in deo aequalitas secundum multitudinem scilice 
+        <lb ed="#Bb" n="16"/>secundum numerum, sicut est secundum magnitudinem: Dico quod multum refert de magnitudine &amp; multitu- 
+        <lb ed="#Bb" n="17"/>dine siue numero respectu aequalitatis: &amp; est magna differentia inter illa. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e538">
+        ⁋ Ad cuius intellectum 
+        <lb ed="#Bb" n="18"/>sex sunt consideranda circa quantum &amp; tantum in magnitudine, &amp; circa quot &amp; tot in multitudine 
+        <lb ed="#Bb" n="19"/>siue numero. Quorum primum est quod quantum &amp; tantum cum sint notae comparationis inter supposita 
+        <lb ed="#Bb" n="20"/>diuersa secundum magnitudinem, aut inter ipsas magnitudines: sicut quot &amp; tot sunt notae compara- 
+        <lb ed="#Bb" n="21"/>tionis inter illa secundum multitudinem siue secundum numerum: aut inter pares numeros: quantum ta-  
+        <lb ed="#Bb" n="22"/>men &amp; tantum vno modo sunt nomina, &amp; dicunt denominationem suppositorum a magni- 
+        <lb ed="#Bb" n="23"/>tudine, dicendo de tribus suppositis quod tantum est vnum eorum quanta sunt duo: &amp; quanta sunt 
+        <lb ed="#Bb" n="24"/>tria: &amp; econuerso quod tanta sunt duo quanta sunt tria, &amp; econuerso, sub hoc sensu. scilicet tantum est 
+        <lb ed="#Bb" n="25"/>vnum secundum magnitudinem: aut habet tantam magnitudinem quanta sunt duo: &amp; quan-  
+        <lb ed="#Bb" n="26"/>ta sunt tria secundum magnitudinem, aut quantam magnitudinem habent, &amp; econuerso: &amp; tanta sunt 
+        <lb ed="#Bb" n="27"/>duo secundum magnitudinem: aut habent tantam magnitudinem: aut quantam magnitudinem habent, &amp; 
+        <lb ed="#Bb" n="28"/>econuerso. Alio autem modo sunt aduerbia: &amp; dicunt denominationem magnitudinum a seipsis:  
+        <lb ed="#Bb" n="29"/>vt dicendo de tribus suppositis quod tantum est vnum eorum quantum sunt duo: &amp; quantum sunt tria: &amp; 
+        <lb ed="#Bb" n="30"/>quod tantum sunt duo eorum, quantum sunt tria, &amp; econverso: sub hoc sensu scilicet tanta est magnitudo vnius 
+        <lb ed="#Bb" n="31"/>quanta est magnitudo duorum, &amp; quanta est magnitudo trium, &amp; econverso: &amp; tanta est magnitudo 
+        <lb ed="#Bb" n="32"/>duorum quanta est magnitudo trium, &amp; econuerso: &amp; sunt ambo idem secundum rem. Quot vero &amp; 
+        <lb ed="#Bb" n="33"/>tot sunt semper aduerbia dicendo tot sunt duo supposita quot tria: &amp; solum dicunt denominatio 
+        <lb ed="#Bb" n="34"/>nem multitudinum a seipsis, sub hoc sensu. scilicet tot numero sunt duo supposita quot tria. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e577">
+        ⁋ Secundum  
+        <lb ed="#Bb" n="35"/>vero quoid hic notandum est: est istud, videlicet quod tantum &amp; quantum, tot &amp; quot semper nominant com 
+        <lb ed="#Bb" n="36"/>parationem secundum aequalitatem, excludendo ab vtroque comparatorum respectu alterius plus &amp; minus 
+        <lb ed="#Bb" n="37"/>secundum magnitudinem quo ad tantum &amp; quantum: &amp; secundum multitudinem siue numerum quo ad tot 
+        <lb ed="#Bb" n="38"/>&amp; quot. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e588">
+        ⁋ Tertium vero est, quod plus tripliciter accipitur: &amp; econuerso minus sibi contrarium 
+        <lb ed="#Bb" n="39"/>tripliciter dicitur correspondenter scilicet extensiue, intensiue, &amp; discretiue. Et primis duobus mo-  
+        <lb ed="#Bb" n="40"/>dis plus &amp; minus nominant abundans &amp; diminutum in magnitudinibus. Tertio autem modo no-  
+        <lb ed="#Bb" n="41"/>minant abundans &amp; diminutum in multitudinibus siue in numeris: &amp; plus extensiue dictum 
+        <lb ed="#Bb" n="42"/>denominat suppositum quod sit maius: &amp; magnitudinem quod sit maior: &amp; contrarium illius denomi 
+        <lb ed="#Bb" n="43"/>nat suppositum quod sit minus: &amp; magnitudinem quod sit minor. &amp; hoc quo ad quantitatem mo-  
+        <lb ed="#Bb" n="44"/>lis, vel quo ad quantitatem perfectionis. Plus vero intensiue dictum denominat suppositum tantum 
+        <lb ed="#Bb" n="45"/>modo quod sit magis: &amp; contrarium illius denominat suppositum quod sit minus: &amp; hoc quo ad quam 
+        <lb ed="#Bb" n="46"/>titatem siue magnitudinem virtutis tantum. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e608">
+        ⁋ Quartum vero quod hic notandum est: est quod in diuinis tantum 
+        <lb ed="#Bb" n="47"/>est vnum suppositum extensiue &amp; intensiue quantum sunt duo &amp; quanta sunt duo: &amp; quantum sunt 
+        <lb ed="#Bb" n="48"/>tria siue quanta sunt tria, &amp; econuerso: &amp; tanta siue tantum sunt duo supposita: quanta siue quantum 
+        <lb ed="#Bb" n="49"/>sunt tria, &amp; econuerso. Et hoc secundum omnimodam aequalitatem, excludendo omnem maiorita 
+        <lb ed="#Bb" n="50"/>tem quo ad plus, &amp; omnem minoritatem quo ad minus. Et hoc tam a supposito quam a magnitu 
+        <lb ed="#Bb" n="51"/>dine: eo quod in diuinis non est nisi vnica magnitudo numeralis non suscipiens magis &amp; minus. 
+        <lb ed="#Bb" n="52"/>Similiter in suppositis creaturae sub eadem specie specialissima: &amp; in formis recipientibus ma-  
+        <lb ed="#Bb" n="53"/>gis &amp; minus cum sunt in eodem gradu intensionis, tantum est vnum suppositum magnitudine per- 
+        <lb ed="#Bb" n="54"/>fectionis quantum vel quanta sunt duo vel tria: &amp; tantum vel tanta sunt duo, quantum vel 
+   <!--505.xml-->
+        <pb ed="#Bb" n="245-v"/>
+        <lb ed="#Bb" n="1"/>quanta sunt tria: &amp; econuerso. Et hoc per omnimodam aequalitatem vt prius: eo quod plurifica- 
+        <lb ed="#Bb" n="2"/>tio formarum sub eadem specie non recipientium magis aut minus, non auget magnitudinem 
+        <lb ed="#Bb" n="3"/>perfectionis debitam speciei. Neque similiter plurificatio formarum recipientium magis &amp; mi- 
+        <lb ed="#Bb" n="4"/>nus sub eadem specie, si sunt in eodem gradu sibi appositae, augent intensionem secundum magnitu- 
+        <lb ed="#Bb" n="5"/>dinem perfectionis aut virtutis. &amp; hoc quemadmodum punctum additum puncto nihil au-  
+        <lb ed="#Bb" n="6"/>get. Et ideo tantum est vnum punctum: quantum duo &amp; tria: &amp; tantum duo quantum tria:  
+        <lb ed="#Bb" n="7"/>aut infinita. In creaturis autem quantum quantitate siue magnitudine molis, puta in tribus 
+        <lb ed="#Bb" n="8"/>idolis factis ex eadem massa aeris, non est tantum vnum illorum quanta vel quantum duo aut  
+        <lb ed="#Bb" n="9"/>tria, nec econuerso: nec tantum aut tanta sunt duo quantum vel quanta sunt tria, nec econ- 
+        <lb ed="#Bb" n="10"/>uerso: sed se habent per omnimodam inaequalitatem quo ad plus &amp; minus extensiue: eo quod in  
+        <lb ed="#Bb" n="11"/>illis quae sunt mole magna, quantum additum vni quanto semper auget. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e657">
+        ⁋ Quintum quod hic 
+        <lb ed="#Bb" n="12"/>est aduertendum, est quod plus discretiue dictum non consideratur nisi in discretis quantitati- 
+        <lb ed="#Bb" n="13"/>bus, puta in numeris: &amp; in diuinis dicit pluralitatem suppositorum vel attributorum absque 
+        <lb ed="#Bb" n="14"/>omni pluralitate magnitudinis perfectionalis siue virtualis in illis. In creaturis vero dicit sem- 
+        <lb ed="#Bb" n="15"/>per cum plurificatione suppositorum plurificationem magnitudinum in illis. Et ideo secundum  
+        <lb ed="#Bb" n="16"/>Boethium de Trinitate, cap. iiii. cum dicitur: Pater est deus: filius est deus: spiritus sanctus est 
+        <lb ed="#Bb" n="17"/>deus: ibi est numerus numerans personas. Nullus tamen est ibi numerus numeratus deitatis:  
+        <lb ed="#Bb" n="18"/>&amp; per consequens nec magnitudinis. Et quantum est ex parte deitatis: &amp; vniuersaliter omnium 
+        <lb ed="#Bb" n="19"/>absolutorum in diuinis quasi idem repetitur: ac si diceretur: Deus, deus, deus, sicut &amp; idem re 
+        <lb ed="#Bb" n="20"/>petitur cum in synonymis dicitur: ensis, mucro, gladius. Et hoc ideo quia numerus numerans diui 
+        <lb ed="#Bb" n="21"/>nas personas est relationum: &amp; numerus numeratus est relatiuorum personarum. Et sic omnino est 
+        <lb ed="#Bb" n="22"/>numerus iste numeratus relatiuus: &amp; alterius modi quam sit ille qui est in creaturis: siue sit mo-  
+        <lb ed="#Bb" n="23"/>lis siue perfectionis aut virtutis: &amp; absque omni pluralitate in re diuina absoluta est ille nume- 
+        <lb ed="#Bb" n="24"/>rus: vt in diuinis non sit numerus numeratus: sed numerus numerans tantum: in creaturis autem  
+        <lb ed="#Bb" n="25"/>est numerus &amp; pluralitas vtroque modo. Et similiter cum dicitur in diuinis, Sapientia est deus, 
+        <lb ed="#Bb" n="26"/>aut magna bonitas deus est, aut magna veritas, &amp; sic de caeteris attributis, &amp; vnivelrstle absolutis 
+        <lb ed="#Bb" n="27"/>in diuinis: licet ibi sit numerus numerans attributa: nullus tamen est ibi numerus numera- 
+        <lb ed="#Bb" n="28"/>tus deitatis, aut magnitudinis: sed eiusdem trina repetitio. Et ideo vt descendamus ad propo 
+        <lb ed="#Bb" n="29"/>situm, cum dicimus in diuinis personis quod non est tot vna persona quot duae aut tres: nec tot 
+        <lb ed="#Bb" n="30"/>duae quot tres: ita quod plus sunt tres personae quam duae, &amp; duae quam vna, quasi minus est vna persona quam  
+        <lb ed="#Bb" n="31"/>duae: &amp; duae quam tres. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e703">
+        ⁋ Sextum hic considerandum est quod ly plus, &amp; contrarium eius quod est mi- 
+        <lb ed="#Bb" n="32"/>nus, nullam aequalitatem a diuinis excludunt, nullamque inaequalitatem includunt: eo quod illa 
+        <lb ed="#Bb" n="33"/>plus &amp; minus non sunt circa aliquid absolutum reale, sed sunt in personis circa relatiua &amp; re- 
+        <lb ed="#Bb" n="34"/>lationes: &amp; in attributis circa rationes &amp; mentis conceptus siue habitudines &amp; relationes, 
+        <lb ed="#Bb" n="35"/>vt superius est expositum: super relationes autem relatio communis non fundatur, vt habitum 
+        <lb ed="#Bb" n="36"/>est supra: neque super id quod rationis est in attributis: quia non consideratur nisi ex relatione 
+        <lb ed="#Bb" n="37"/>&amp; habitudine: dicitur solummodo super absolutum reale quod est substantia, quantitas, &amp; quali-  
+        <lb ed="#Bb" n="38"/>tas: licet vt solum rationibus distinguuntur. Sed tunc solummodo dicta plus &amp; minus a di- 
+        <lb ed="#Bb" n="39"/>uinis aliquam pluralitatem excluderent: &amp; aliquam inaequalitatem includerent secundum plus &amp; 
+        <lb ed="#Bb" n="40"/>minus. In attributis enim personis ponerent plus &amp; minus discretiue in attributis: vt essent 
+        <lb ed="#Bb" n="41"/>lures magnitudines in pluribus personis aut attributis: sicut sunt in pluribus suppositis in  
+        <lb ed="#Bb" n="42"/>creaturis: puta tres magnitudines molis in tribus idolis aeris: &amp; plures magnitudines perfectio- 
+        <lb ed="#Bb" n="43"/>nis &amp; virtutis in pluribus indiuiduis sub quacunque vna specie specialissima in creaturis: vt id  
+        <lb ed="#Bb" n="44"/>circo in tribus idolis aequalibus magnitudine molis non sit perfecta aequalitas: quia non tot 
+        <lb ed="#Bb" n="45"/>est vnum quot duo &amp; tria: nec tot duo quot tria: non solum numero numerante: sed numero 
+        <lb ed="#Bb" n="46"/>numerato suppositorum &amp; magnitudinum in illis. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e738">
+        ⁋ His praelibatis patet plane responsio ad  
+        <lb ed="#Bb" n="47"/>obiectum primum. Cum enim dicitur, perfecta aequalitas nata est esse non solum secundum magni 
+        <lb ed="#Bb" n="48"/>tudinem: sed etiam secundum numerum: Dico quod verum est: quia secundum praedicta aequale &amp; inaequa 
+        <lb ed="#Bb" n="49"/>litas per se &amp; primo dicuntur secundum quantitatem simpliciter: &amp; ideo secundum quamlibet speciem 
+        <lb ed="#Bb" n="50"/>eius: &amp; species quantitatis ita principaliter est numerus vt magnitudo: si tamen numerus sit 
+        <lb ed="#Bb" n="51"/>absolutus quia in absolutis: sicut est magnitudo: quia aequale &amp; inaequale non dicuntur secundum  
+        <lb ed="#Bb" n="52"/>quantitatem nisi sicut secundum fundamentum: &amp; secundum praedicta non habent per se fun- 
+        <lb ed="#Bb" n="53"/>dari nisi super absolutum. Sed si numerus sit relatiuus &amp; in relatiuis tantum: &amp; sic numerus nu- 
+        <lb ed="#Bb" n="54"/>merans tantum: non autem numerus numeratus, vt contingit in personis diuinis: non est aequali- 
+        <lb ed="#Bb" n="55"/>tas nata esse secundum numerum sicut secundum magnitudinem: quia magnitudo in diuinis omnino  
+   <!--506.xml-->
+        <pb ed="#Bb" n="246-r"/>
+        <lb ed="#Bb" n="1"/>absoluta est: non sic numerus. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e767">
+        ⁋ Quod ergo assumitur in argumento: Si in diuinis non essent se-  
+        <lb ed="#Bb" n="2"/>cundum magnitudinem tantum duae personae quantum tres: non esset in illis perfecta aequa- 
+        <lb ed="#Bb" n="3"/>litas: Dico quod bene verum est: quia secundum magnitudinem in diuinis nata est dici aequali- 
+        <lb ed="#Bb" n="4"/>tas: secundum numerum autem relatiuum non est nata dici omnino aequalitas aut inaequali 
+        <lb ed="#Bb" n="5"/>tas. Propter quod non sequitur vlterius conclusum: Quare cum in diuinis non sunt tot secun 
+        <lb ed="#Bb" n="6"/>dum numerum duae personae quot tres: non est ergo in illis perfecta aequalitas. Hoc enim nul 
+        <lb ed="#Bb" n="7"/>lo modo sequi posset nisi numerus diuinorum in absolutis consisteret: sicut &amp; quantitas. Quia si 
+        <lb ed="#Bb" n="8"/>ita esset: non esset omnino perfecta aequalitas trinitatis personarum inter se, sicut non est per- 
+        <lb ed="#Bb" n="9"/>fecta aequalitas trium idolorum: licet sint aequalia secundum magnitudinem: eo quod non sunt 
+        <lb ed="#Bb" n="10"/>aequalia omnino &amp; secundum omnem combinationem quo ad numerum qui in illis consistit 
+        <lb ed="#Bb" n="11"/>in absolutis: secundum quem nata est esse aequalitas aut inaequalitas inter quaecunque diuer- 
+        <lb ed="#Bb" n="12"/>sa absoluta. Vnde si trinitas diuina esset trium personarum absolutarum trium deitatum: si- 
+        <lb ed="#Bb" n="13"/>cut posuerunt Semiarriani: quia tunc secundum numerum qui consistit in absolutis non es- 
+        <lb ed="#Bb" n="14"/>sent tot duae personae quot tres: non esset etiam perfecta &amp; omnimoda aequalitas in trinitate 
+        <lb ed="#Bb" n="15"/>diuinarum personarum: quia esset in illis inaequalitas secundum aliquid. Et sic nunc secundum  
+        <lb ed="#Bb" n="16"/>catholicos propter numerum qui est in relatiuis, &amp; magnitudinem vnicam singularem &amp; ab-  
+        <lb ed="#Bb" n="17"/>solutam trium personarum diuinarum, perfecta &amp; omnimoda aequalitas personarum est in di- 
+        <lb ed="#Bb" n="18"/>uinis. Si enim magnitudo esset numerata in personis, cum tunc esset omnino absoluta: necessa- 
+        <lb ed="#Bb" n="19"/>rio numerus personarum esset absolutus: &amp; secundum illum esset in trinitate personarum in-  
+        <lb ed="#Bb" n="20"/>aequalitas secundum magnitudinem: nec esset in illis perfecta &amp; omnimodam aequalitas secundum prae 
+        <lb ed="#Bb" n="21"/>dicta. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e813">
+        ⁋ Ad secundum, quod in diuinis non est perfecta &amp; omnimoda aequalitas: quia non est in eis 
+        <lb ed="#Bb" n="22"/>perfecta aequalitas identitatis &amp; similitudinis, eo quod non est in illis similitudo alicuius ad se 
+        <lb ed="#Bb" n="23"/>ipsum, sicut est identitas alicuius ad seipsum: &amp; sic non est in diuinis tanta similitudo, quan-  
+        <lb ed="#Bb" n="24"/>ta est identitas: Dico quod falsum est: quia tanta est similitudo in diuinis quanta est identitas 
+        <lb ed="#Bb" n="25"/>comparando identitatem ad similitudinem: modo quo illa quae sunt diuersarum specierum 
+        <lb ed="#Bb" n="26"/>possunt secundum aequalitatem comparari: vt si aliqui sunt aequales quantitate molis: &amp; alii 
+        <lb ed="#Bb" n="27"/>in eodem gradu albedinis: &amp; ita similes &amp; aequales: possumus dicere quod quantum sunt aequa-  
+        <lb ed="#Bb" n="28"/>les mole, tantum sunt similes &amp; aequales albedine. Et si sint in eodem gradu albedinis, &amp; si- 
+        <lb ed="#Bb" n="29"/>militer in eodem gradu sapientiae, possumus dicere quantum sunt similes &amp; aequales in  
+        <lb ed="#Bb" n="30"/>albedine tantum sunt similes &amp; aequales in sapientia: &amp; sic in eis est aequalitas similitudi-  
+        <lb ed="#Bb" n="31"/>nis &amp; aequalitatis, &amp; similitudinis atque similitudinis. Est autem in deo tanta similitudo alicu- 
+        <lb ed="#Bb" n="32"/>ius ad alterum: quanta est identitas alicuius ad seipsum. Et hoc quia quanta est in deo vni- 
+        <lb ed="#Bb" n="33"/>tas substantiae secundum quam est aliquid in deo idem sibi: tanta est in eo vnitas qualitatis secun 
+        <lb ed="#Bb" n="34"/>dum quam aliquid est simile alteri. Licet enim maior sit distinctio extremorum relatorum in si- 
+        <lb ed="#Bb" n="35"/>militudine quam in dicta identitate, de hoc nihil ad maioritatem vel minoritatem inter illam 
+        <lb ed="#Bb" n="36"/>identitatem &amp; similitudinem, postquam tanta est vnitas in fundamento vnius quanta est in fun- 
+        <lb ed="#Bb" n="37"/>damento alterius. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e850">
+        ⁋ Ad tertium, quod in deo non est omnimoda aequalitas: quia non est secundum  
+        <lb ed="#Bb" n="38"/>omnia secundum quae nata est esse aequalitas: Dico quod licet non secundum omnia secundum 
+        <lb ed="#Bb" n="39"/>quae nata est esse aequalitas simpliciter in aliis, est aequalitas in deo: quia non secundum omnem 
+        <lb ed="#Bb" n="40"/>speciem qualitatis, vt procedit argumentum: tamen secundum omnia id est secundum omnem 
+        <lb ed="#Bb" n="41"/>quantitatem quae nata est esse in deo, videlicet secundum aeternitatem &amp; magnitudinem se- 
+        <lb ed="#Bb" n="42"/>cundum iam dicta, nata est esse aequalitas omnimoda in ipso: &amp; hoc sufficit ad hoc quod dicatur 
+        <lb ed="#Bb" n="43"/>esse in aliquo omnimoda aequalitas omnium quae sunt in eo. Sed si deficeret in eo inter aliqua  
+        <lb ed="#Bb" n="44"/>aequalitas secundum aliquam quantitatem quae nata est esse in eo, tunc primo non esset in eo 
+        <lb ed="#Bb" n="45"/>omnimoda aequalitas: puta si non esset deus tantus in sapientia quantus est in bonitate: non  
+        <lb ed="#Bb" n="46"/>esset in eo aequalitas: sicut non est omnimoda aequalitas molis inter ea corporalia quae sunt 
+        <lb ed="#Bb" n="47"/>aequalia secundum longum &amp; latum: sed non secundum spissum &amp; profundum. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e875">
+        ⁋ Ad quar- 
+        <lb ed="#Bb" n="48"/>tum: quod non est omnimoda aequalitas in deo: quia in ipso est aliqua inaequalitas: Dico quod fal- 
+        <lb ed="#Bb" n="49"/>sum est. Ad probationem eius quod inaequalitas habet rationem perfectionis in creaturis simpli- 
+        <lb ed="#Bb" n="50"/>citer: dico quod similiter falsum est. Ad probationem illius quod si non esset inaequalitas in creatu- 
+        <lb ed="#Bb" n="51"/>ris: non esset perfectio vniuersi: Dico quod verum est. Sed ex hoc non sequitur quod inaequalitas ha-  
+        <lb ed="#Bb" n="52"/>bet rationem perfectionis simpliciter: quia quod sine aliquo non est perfectio in alio, hoc potest con 
+        <lb ed="#Bb" n="53"/>tingere duplici de causa. Vna scilicet, quod aliquid requirit res illa propter suam perfectionem 
+        <lb ed="#Bb" n="54"/>puta quod in homine non est perfectio secundum animam rationalem sine corporis organiza- 
+        <lb ed="#Bb" n="55"/>tione. &amp; hoc proculdubio habet rationem perfectionis. Alia, quia aliquid requirit res illa pro- 
+   <!--507.xml-->
+        <pb ed="#Bb" n="246-v"/>
+        <lb ed="#Bb" n="1"/>pter suam imperfectionem, vt contingit in proposito. &amp; hoc etiam quemadmodum contingit 
+        <lb ed="#Bb" n="2"/>de iustitia: quae quia non perfecte contineri potest in iustitia retributiua praemiorum pro bo 
+        <lb ed="#Bb" n="3"/>nis: necesse erat ad perfectionem vniuersi secundum omnes partes iustitiae vt esset iustitia re- 
+        <lb ed="#Bb" n="4"/>tributiua suppliciorum pro malis: &amp; ita est infernus suppliciorum cum suis contentis perti- 
+        <lb ed="#Bb" n="5"/>nens ad perfectionem &amp; decorem vniuersi: sicut &amp; paradisus praemiorum cum suis contentis. 
+        <lb ed="#Bb" n="6"/>uia enim in proposito vna creatura secundum speciem quae haberet aequalitatem in suis super 
+        <lb ed="#Bb" n="7"/>positis, totam perfectionem quae nata est esse in toto genere creaturarum capere non pos- 
+        <lb ed="#Bb" n="8"/>set: ideo ad perfectionem vniuersi ex creaturis constituti species diuersas diuersorum gra- 
+        <lb ed="#Bb" n="9"/>duum creaturarum secundum perfectiones plures &amp; inaequales in eo necesse fuit aggregari: 
+        <lb ed="#Bb" n="10"/>ita quod perfectio vnius non totaliter contineatur in alia: neque secundum eandem rationem qua  
+        <lb ed="#Bb" n="11"/>perfectio aliqua est in vna creaturarum: ipsa sit etiam in alia. Nunc autem quaelibet diuina per- 
+        <lb ed="#Bb" n="12"/>sona &amp; quicquid est in diuinis ab alio distinctum qualicunque distinctione, totam perfectionem 
+        <lb ed="#Bb" n="13"/>quae nata est esse &amp; modo quo nata est esse in diuina natura capere potest. Ideo enim ad pere- 
+        <lb ed="#Bb" n="14"/>ctionem eorum quae sunt in diuinis pertinet, quod per omnimodam aequalitatem absque omni in-  
+        <lb ed="#Bb" n="15"/>aequalitate tota perfectio diuina sit in quolibet quod est in diuinis, non vna pars in vno, &amp; alia in  
+        <lb ed="#Bb" n="16"/>alio: ne aliquid illorum sit pars deitatis: sed tota deitas: &amp; plenus ac perfectus ac vnus deus 
+        <lb ed="#Bb" n="17"/>simplex sit: non ex pluribus partibus collectus. dicente <name ref="#Augustine">Augustino</name> contra Maximinum negan- 
+        <lb ed="#Bb" n="18"/>tem pluralitatem personarum in diuina essentia. Times ne pater sit pars vnius dei: noli hoc ti- 
+        <lb ed="#Bb" n="19"/>mere. Nulla enim fit partium in deitatis vnitate diuisio: nec vnius trinitatis tertia pars est 
+        <lb ed="#Bb" n="20"/>vnus: nec maius aliquid duo quam vnus est ibi: nec minus aliquid sunt omnes quam singuli: quia spi 
+        <lb ed="#Bb" n="21"/>ritualis non corporalis est magnitudo. Et sicut haec vere dicuntur de distinctis tribus perso- 
+        <lb ed="#Bb" n="22"/>nis comparatis inter se: sic &amp; vere dicuntur de singulis aliis distinctis qualitercunque in diui- 
+        <lb ed="#Bb" n="23"/>nis inter se comparatis. Vnde idem inquit in eodem. Cum dicis: Deus genuit deum: sapiens 
+        <lb ed="#Bb" n="24"/>sapientem: clemens clementem: si dixeris partes sunt: simplex ergo virtus ex partibus con- 
+        <lb ed="#Bb" n="25"/>stat: &amp; simplex haec virtus te definiente est vnus deus: ergo deum ex partibus dicis esse com- 
+        <lb ed="#Bb" n="26"/>positum. Non dico inquis: non sunt ergo partes. Si ergo in vna persona patris &amp; illa inuenis 
+        <lb ed="#Bb" n="27"/>quae plura videntur, &amp; partes non inuenis, quanto magis pater &amp; filius &amp; spiritus sanctus 
+        <lb ed="#Bb" n="28"/>partes vnius dei non sunt: Et hoc nec vt subiectiuae: neque vt integrales. Non vt subiectiuae: quia 
+        <lb ed="#Bb" n="29"/>neque vt species sub eodem genere. dicente <name ref="#Augustine">Augustino</name> septimo libro de Trinitate. Si essentia ge  
+        <lb ed="#Bb" n="30"/>nus est, species autem persona, vt nonnulli sentiunt: oportet appellari tres substantias vt ap- 
+        <lb ed="#Bb" n="31"/>pellentur tres personae, sicut cum sit animal genus, &amp; equus species, appellantur tres equi 
+        <lb ed="#Bb" n="32"/>tria animalia. Non enim species pluraliter dicitur: &amp; genus singulariter. Neque vt indiuidua 
+        <lb ed="#Bb" n="33"/>sub eadem specie. Sicut enim Habraam, lsaac, &amp; lacob tria indiuidua sunt: ita tres homines 
+        <lb ed="#Bb" n="34"/>&amp; tria animalia. Sed vt dicit ibidem, vna essentia non habet species nec indiuidua, sicut 
+        <lb ed="#Bb" n="35"/>vnum animal vnius essentiae. Diuina ergo essentia genus non est neque species, &amp; personae indi- 
+        <lb ed="#Bb" n="36"/>uidua: sicut homo est species: indiuidua autem Habraam, lsaac, &amp; lacob. Nec etiam sunt par- 
+        <lb ed="#Bb" n="37"/>tes vnius dei vt integrales. dicente <name ref="#Augustine">Augustino</name> in eodem. Non sic tres personas dicimus vnam  
+        <lb ed="#Bb" n="38"/>essentiam &amp; vnum deum tanquam ex materia vna tria quaedam subsistant. In statuis enim aequa-  
+        <lb ed="#Bb" n="39"/>libus plus auri est tres simul quam singulae. In illa vero essentia trinitatis nullo modo ita est: neque 
+        <lb ed="#Bb" n="40"/>sicut dicimus tres homines eiusdem contemperationis. Nam in his non tantum est vnus 
+        <lb ed="#Bb" n="41"/>quantum duo. Sed nec est contrarium quod dicit Damascenus. Omne substantia est: particulare ve- 
+        <lb ed="#Bb" n="42"/>ro hypostasis, quia non dicit hoc nisi propter vniformem modum praedicandi essentiam de 
+        <lb ed="#Bb" n="43"/>qualibet hypostasi, &amp; vniuersale de suppositis. Licet in hoc sit differentia, quod (vt dicit) in diuinis 
+        <lb ed="#Bb" n="44"/>quod est commune est idem re &amp; differt ratione tantum in suppositis. In creaturis autem com- 
+        <lb ed="#Bb" n="45"/>mune est idem ratione tantum: &amp; differt re in suppositis. Et quia haec difficilia sunt intellectui 
+        <lb ed="#Bb" n="46"/>carnali, dicit <name ref="#Augustine">Augustinus</name> ibidem. Qui potest capere capiat: qui autem non potest, credat &amp; 
+        <lb ed="#Bb" n="47"/>pret vt intelligat. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e1014">
+        ⁋ Ad quintum: quod in diuinis in agendo seu producendo aliquid tam interius 
+        <lb ed="#Bb" n="48"/>am exterius est primum &amp; principale, atque secundum &amp; non principale, quae non sunt aequa- 
+        <lb ed="#Bb" n="49"/>lia: Dico quod primum &amp; principale atque secundum &amp; non principale in agendo seu producen- 
+        <lb ed="#Bb" n="50"/>do possunt accipi inter aliqua dupliciter. Vno modo ex ratione respectus &amp; originis qua  
+        <lb ed="#Bb" n="51"/>vnum eorum habet esse ab altero siue produci ab illo. Alio modo ex ratione absolutae virtu- 
+        <lb ed="#Bb" n="52"/>tis quam illa habent in se ad producendum aliquid aliud. Et primo istorum modorum acci- 
+        <lb ed="#Bb" n="53"/>piuntur in diuinis solummodo primum &amp; principale, &amp; secundum &amp; non principale. Non  
+        <lb ed="#Bb" n="54"/>autem secundo modo: secundum quod satis declaratum est in quaestionibus de communi pro- 
+        <lb ed="#Bb" n="55"/>ductione spiritus sancti a patre &amp; filio. Argumentum autem procedit ac si in diuinis essent 
+   <!--508.xml-->
+        <pb ed="#Bb" n="247-r"/>
+        <lb ed="#Bb" n="1"/>secundo modo: quod non est verum. Cum enim dicitur pater aliquid agere per filium: puta 
+        <lb ed="#Bb" n="2"/>in productione spiritus sancti, &amp; cuiuscumque circa creaturas: illic intelligitur mediatio quo ad  
+        <lb ed="#Bb" n="3"/>plas personas agentes: quia scilicet secunda qua mediante agit prima, est a prima, &amp; virtutem. 
+        <lb ed="#Bb" n="4"/>agendi habet a prima. Propter hoc enim solum prima dicitur agere mediante secunda. Non au N 
+        <lb ed="#Bb" n="5"/>tem intelligitur illic mediatio quo ad virtutem qua procedit actio: quia virtus vnius sit prin 
+        <lb ed="#Bb" n="6"/>cipalis &amp; maior, quae per aliam mediam agit vt per minorem &amp; instrumentalem: quae in agen-  
+        <lb ed="#Bb" n="7"/>do efficaciam accipit a virtute maiori &amp; principali: vt secundum hoc pater intelligatur agere per 
+        <lb ed="#Bb" n="8"/>filium sicut rex per Balliuum. Talis enim mediatio in agendo necessario poneret agentium in  
+        <lb ed="#Bb" n="9"/>aequalitatem secundum gradus, vel in diuersis naturis secundum speciem: vt posuerunt plene Ar 
+        <lb ed="#Bb" n="10"/>riani in diuinis, dicentes filium &amp; spiritum sanctum esse cum creaturis: vel secundum numerum tantum, 
+        <lb ed="#Bb" n="11"/>vt posuerunt Semiarriani: qui posuerunt diuinam naturam perfectius esse in vna diuinarum 
+        <lb ed="#Bb" n="12"/>personarum quam in alia. Quoniam autem, vt dicit Ambrosius in librm de Trinitate, diuini- 
+        <lb ed="#Bb" n="13"/>tas gradum nescit, nullum discrimen habet vnitatis. Inaequalitas enim secundum gradus non est 
+        <lb ed="#Bb" n="14"/>nisi in agentibus essentialiter ordinatis ad eundem actum: quae necessario differunt secundum gra 
+        <lb ed="#Bb" n="15"/>dus perfectionum substantialium. &amp; hoc siue secundum sit a primo siue non. Vnde de talibus 
+        <lb ed="#Bb" n="16"/>dicit Proclus in propositione sua. vii. Omne productiuum alterius melius est quam id quod producitur. 
+        <lb ed="#Bb" n="17"/>Aliter enim omnia entia essent aequalia. &amp; hoc quia vnum est primum productiuum omnium 
+        <lb ed="#Bb" n="18"/>aliorum immediate: &amp; constat quod productum non potest esse maius producente. Aut si ponam 
+        <lb ed="#Bb" n="19"/>tur omnia produci ordinatim a sibi proximo &amp; immediate: &amp; sic sit ordo productionis in  
+        <lb ed="#Bb" n="20"/>entibus: idem contingit. Nam qua ratione primum productum esset aequale suo productiuo:  
+        <lb ed="#Bb" n="21"/>eadem ratione &amp; secundum suo, &amp; sic deinceps: &amp; sic non esset in entibus nisi ordo originis:  
+        <lb ed="#Bb" n="22"/>sicut non est alius ordo realis in diuinis, in quibus productum est aequale producenti necessa- 
+        <lb ed="#Bb" n="23"/>rio. et hoc propter vnitatem substantiae singularis in illis: in quibus rationes philosophorum 
+        <lb ed="#Bb" n="24"/>de inaequalitate perfectionis inter producentem &amp; productum non valent omnino: quia non ha 
+        <lb ed="#Bb" n="25"/>bent efficaciam nisi in illis quae secundum diuersitatem specificam essentiae inter productum &amp; pro 
+        <lb ed="#Bb" n="26"/>ducentem producuntur. Vnde &amp; in generatione vniuoca abinuicem eorum quae sunt sub ea 
+        <lb ed="#Bb" n="27"/>dem specie specialissima, productum necessario est aequale in productione secundum formam produ  
+        <lb ed="#Bb" n="28"/>centi: puta ignis generans igni generato: aut equus equo. In quibus si aliqua contingit inaequa 
+        <lb ed="#Bb" n="29"/>litas aut dissimilitudo, illa est per accidens: &amp; accidit essentiae: &amp; est in accidentalibus tantum: quae ne- 
+        <lb ed="#Bb" n="30"/>quaquam potest contingere in diuinis, propter identitatem substantiae singularis: &amp; omnium absolu 
+        <lb ed="#Bb" n="31"/>torum in singulis personis. Hoc enim est generale, quod semper generatum per generationem na- 
+        <lb ed="#Bb" n="32"/>turalem pertingit ad perfectionem naturae quae est in generante: praeter hoc quod in creaturis quia 
+        <lb ed="#Bb" n="33"/>est generatio cum quadam transmutatione de potentia in actum: non statim a principio ge- 
+        <lb ed="#Bb" n="34"/>nitum est in accidentalibus aequale generanti: sed per incrementum &amp; temporis successum nisi 
+        <lb ed="#Bb" n="35"/>assit impedimentum, ad aequalitatem omnimodam perducetur. Vnde Hilarius libro de Synod.  
+        <lb ed="#Bb" n="36"/>ait. Tolle corporum infirmitates, tolle conceptus initium: omnis filius secundum naturalem nati- 
+        <lb ed="#Bb" n="37"/>uitatem aequalis est patri: quia est eius similitudo naturae. Quia igitur (vt dictum est) in diuinis prin 
+        <lb ed="#Bb" n="38"/>cipale, non principale, primum &amp; secundum, non pertinent ad virtutes agentium: sed solummodo pertia 
+        <lb ed="#Bb" n="39"/>nent ad rationem originis producti a producente: idcirco de hoc nihil ad aequalitatem, quae sequitur 
+        <lb ed="#Bb" n="40"/>quantitatem non relationem. secundum superius determinata. Propter quod dicit <name ref="#Augustine">Augustinus</name> con- 
+        <lb ed="#Bb" n="41"/>tra Maximinum. Originis est quod quid de quo sit: aequalitatis autem quantum sit. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e1130">
+        ⁋ Quia autem ad-  
+        <lb ed="#Bb" n="42"/>iungitur in argumento de loannem. xiiii. vbi dicit filius, Pater maior me est: non ergo aequalis est: 
+        <lb ed="#Bb" n="43"/>Respondetur secundum Athanasium quod illud intelligitur dictum de Christo secundum eius humanitatem: &amp; de 
+        <lb ed="#Bb" n="44"/>patre secundum eius diuinitatem: quia filius in assumpta humanitate est minor patre: licet in diuinis 
+        <lb ed="#Bb" n="45"/>tate sit aequalis. luxta illud quod dicit in Symbolo suo: Aequalis patri secundum diuinitatem: minor 
+        <lb ed="#Bb" n="46"/>patre secundum humanitatem. Et si ille minor, ergo &amp; pater est maior. Et per eundem modum intelligi po- 
+        <lb ed="#Bb" n="47"/>test quod dicitur secundum Apostolum Hilius subiectus patri. Et bene verum est quod loquendo de maioritate &amp; 
+        <lb ed="#Bb" n="48"/>minoritate quae consistit in absolutis &amp; gradibus diuersarum naturarum, diuinae scilicet &amp; humanae, pa- 
+        <lb ed="#Bb" n="49"/>ter in omnibus maior est filio, &amp; filius minor. Hilarius autem exponit illud de patre &amp; filio secundum  
+        <lb ed="#Bb" n="50"/>amborum diuinitatem, non dico secundum substantiam deitatis. Quia vt dicit <name ref="#JohnDamascenus">Damascenus</name> lib. i. cap. ix. 
+        <lb ed="#Bb" n="51"/>Sancti sicut negant in filio minoritatem ex parte deitatis: sic &amp; negant in patre maioritatem. Et 
+        <lb ed="#Bb" n="52"/>Ambrosius libro primo de Trinitate. Per naturam hominis dixit illud, Vado ad patrem: quo-  
+        <lb ed="#Bb" n="53"/>niam pater maior me est. Nam quomodo potest minor esse deus, cum deus perfectus &amp; plenus site: 
+        <lb ed="#Bb" n="54"/>sed minor est in natura hominis. Et sequitur post pauca. Non est ergo secundum diuinitatem minor, qui ple- 
+        <lb ed="#Bb" n="55"/>nitudinem habet deitatis &amp; gloriae. Maior enim &amp; minor in his quae corporalia sunt, distingui solentu. 
+   <!--509.xml-->
+        <pb ed="#Bb" n="247-v"/>
+        <lb ed="#Bb" n="1"/>Dico ergo quod verbum dictum exponit Hilarius non secundum substantiam deitatis patris &amp; 
+        <lb ed="#Bb" n="2"/>filii: secundum illam enim semper sunt aequales: vt patet ex dictis Athanasii, Damasceni, &amp; 
+        <lb ed="#Bb" n="3"/>Ambrosii: sed solummodo secundum patris &amp; filii proprietates: secundum quas subtiliter val 
+        <lb ed="#Bb" n="4"/>de Hilarius ponit in patre maioritatem respectu filii: negat tamen minoritatem in filio respe- 
+        <lb ed="#Bb" n="5"/>ctu patris: cum dicitur libro. ix. de Trinitate, cap. xxviii. Maior pater est: sed filius minor non  
+        <lb ed="#Bb" n="6"/>est. Et constat quod minoritas non potest abnegari filio respectu patris secundum humanitatem. 
+        <lb ed="#Bb" n="7"/>Semper enim minor est secundum illam. Dico ergo secundum Hilarium quod pater est maior fi- 
+        <lb ed="#Bb" n="8"/>lio: sed filius non est minor patre. Sed ista maioritas in patre non procedit ex aliqua magnitu- 
+        <lb ed="#Bb" n="9"/>dine, aut ex aliquo absoluto, quia eandem magnitudinem habent pater &amp; filius qua pater est 
+        <lb ed="#Bb" n="10"/>aequalis filio non maior: sed consistit in relatione: &amp; est conditio quaedam circa relationem pa 
+        <lb ed="#Bb" n="11"/>ternam. Eo enim pater est maior quo pater est, secundum <name ref="#Augustine">Augustinum</name> in Sermone quodam  
+        <lb ed="#Bb" n="12"/>de Trinitate. Pater est piincipale nomen deitatis: &amp; hoc quia pater principalitatem &amp; aucto- 
+        <lb ed="#Bb" n="13"/>ritatem quandam habet super filium: in eo videlicet quod ab ipso habet filius esse: &amp; quicquid in  
+        <lb ed="#Bb" n="14"/>se habet. Vnde Hilarius exponens dictum suum praemissum ibidem dicit sic. Patrem maio- 
+        <lb ed="#Bb" n="15"/>rem in glorificandi auctoritate cognosce: glorificatum filium. Maior est pater: sed glorifica- 
+        <lb ed="#Bb" n="16"/>tus a patre filius minor non est. Et loquitur de glorificatione aeterna claritate quam habuit fi- 
+        <lb ed="#Bb" n="17"/>lius a patre priusquam mundus fieret: vt ipse filius dicit loannis. xvii. Maior est ergo pater au- 
+        <lb ed="#Bb" n="18"/>ctoritate glorificantis: sed minor non est filius glorificatus: quia tantam gloriam glorificatus 
+        <lb ed="#Bb" n="19"/>a glorificante recepit, quantam ipse glorificans in se habuit: immo eandem. dicente Hilario 
+        <lb ed="#Bb" n="20"/>ibidem. cap. xxvii. Donantis auctoritate pater maior est: maior donans est qui tantum donat 
+        <lb ed="#Bb" n="21"/>esse quantus ipse est: sed minor non est cui vnum esse donatur: immo propter illud vnum esse 
+        <lb ed="#Bb" n="22"/>aequalis est illi. Et bene verum est quod minoritate quae pertinet ad relationem communem in-  
+        <lb ed="#Bb" n="23"/>aequalitatis: &amp; est opposita aequalitati ex vnitate magnitudinis ipsius esse eiusdem in patre &amp; 
+        <lb ed="#Bb" n="24"/>filio: nequaquam filius minor est patre: sed nec econuerso maioritate quae cum minoritate di- 
+        <lb ed="#Bb" n="25"/>cta pertinet ad relationem communem inaequalitatis: &amp; opponitur dictae aequalitati: pater est 
+        <lb ed="#Bb" n="26"/>maior filio: quia haec maioritas non esset in patre super filium nisi ex magnitudine absoluta 
+        <lb ed="#Bb" n="27"/>non existente tanta in filio quanta est in patre: qua filius necessario diceretur minor: &amp; sic esset 
+        <lb ed="#Bb" n="28"/>in aequalitas inter patrem &amp; filium ex multo in magnitudine continente maius &amp; minus:  
+        <lb ed="#Bb" n="29"/>quae sigillatim accepta sunt contraria inter se: &amp; ambo simul sunt opposita priuatiue aequali 
+        <lb ed="#Bb" n="30"/>contingente ex vno in magnitudine. Vnde sicut impossibile est talem minoritatem quae perti- 
+        <lb ed="#Bb" n="31"/>net ad relationem communem fundatam super quantitatem esse in filio: sic impossibile est ta 
+        <lb ed="#Bb" n="32"/>lem maioritatem esse in patre: immo opposita aequalitas necessario &amp; naturaliter inest eis. Si 
+        <lb ed="#Bb" n="33"/>ergo concedendum est secundum Hilarium quod pater sit maior filio: illa maioritas est alterius 
+        <lb ed="#Bb" n="34"/>generis quam sit ista quae pertinet ad relationem communem. Quod verum est: quia non fundatur 
+        <lb ed="#Bb" n="35"/>in quantitate communi patri &amp; filio vt relatio per se: sed potius fundatur in relatione pater- 
+        <lb ed="#Bb" n="36"/>nitatis vt illius conditio quae est primitas &amp; principalitas quaedam in patre respectu filii: in-  
+        <lb ed="#Bb" n="37"/>quantum scilicet ab ipso habet esse filius, &amp; non econuerso pater habet esse a filio. Quam  
+        <lb ed="#Bb" n="38"/>principalitatem seu primitatem intelligit Hilarius in dictis suis nomine auctoritatis: quam in-  
+        <lb ed="#Bb" n="39"/>cludi significat fiue importat nomen maioritatis. Vnde maioritate qua pater dicitur maior 
+        <lb ed="#Bb" n="40"/>filio non ponitur aliquis gradus superior magnitudinis in patre super gradum magnitudi- 
+        <lb ed="#Bb" n="41"/>nis quae est in filio: sed tantummodo ordo auctoritatis in producendo. Hinc dicit Damasce- 
+        <lb ed="#Bb" n="42"/>nus libro primo cap. ix. Cum audimus maiorem filio patrem, causam intelligamus. Et sumit 
+        <lb ed="#Bb" n="43"/>causam pro principio originis: vt seipsum quo ad hoc exponit parum ante, sic dicens. Non 
+        <lb ed="#Bb" n="44"/>enim secundum aliud nisi secundum causam: hoc est quia filius ex patre genitus est: &amp; non  
+        <lb ed="#Bb" n="45"/>pater ex filio: &amp; quoniam pater est causa filii naturaliter. Et sic est ista maioritas relatio pro- 
+        <lb ed="#Bb" n="46"/>pria patri, sicut est paternitas: non autem communis patri &amp; filio: eo quod auctoritas principali- 
+        <lb ed="#Bb" n="47"/>tatis siue primitatis vel principii filio non communicatur a patre: licet natura eadem vel ma-  
+        <lb ed="#Bb" n="48"/>gnitudo illi communicantur: sicut nec paternitas: immo per illam pater a filio distinguitur: 
+        <lb ed="#Bb" n="49"/>sicut &amp; per paternitatem: nec propria est patri vt pertinens est ad inaequalitatem: quia non ha 
+        <lb ed="#Bb" n="50"/>bet in filio aliquam minoritatem pertinentem ad inaequalitatem sibi respondentem: sed est pro 
+        <lb ed="#Bb" n="51"/>pria patri, pertinens ad rationem originandi actiue in ipso: sicut est imago aut aequa-  
+        <lb ed="#Bb" n="52"/>tum &amp; similatum esse, pertinens proprie ad rationem originandi passiuam existentem in fi- 
+        <lb ed="#Bb" n="53"/>lio: secundum superius exposita. Dico autem quod ista maioritas in patre non habet ali- 
+        <lb ed="#Bb" n="54"/>quam minoritatem sibi oppositam &amp; correspondentem in filio: quia neque habet ipsam 
+        <lb ed="#Bb" n="55"/>procedentem ex magnitudine minori existente in filio quam in patre: cum illa necessario sit 
+   <!--510.xml-->
+        <pb ed="#Bb" n="248-r"/>
+        <lb ed="#Bb" n="1"/>eadem &amp; aequalis in vtroque, sicut dictum est: neque procedentem ex auctoritate minori exi- 
+        <lb ed="#Bb" n="2"/>stente in filio quam in patre respectu alicuius tertii: puta respectu alterius filii aut spiritus sancti 
+        <lb ed="#Bb" n="3"/>aut creaturae: vt ideo dici posset quod magis produceret pater spiritum sanctum aut creaturam 
+        <lb ed="#Bb" n="4"/>uam filius: &amp; non esset aequalis potentia cum hoc in patre &amp; filio: nec pater &amp; filius essent aequa- 
+        <lb ed="#Bb" n="5"/>les secundum huiusmodi potentiam. Et sic licet pater dicatur maior filio: non tamen filius dicitur &amp; 
+        <lb ed="#Bb" n="6"/>minor patre: non solum quia pater donat tantum esse quantus ipse est, vt ex magnitudine 
+        <lb ed="#Bb" n="7"/>quam recipit a patre non possit habere aliquam minoritatem filius respectu maioritatis ipsi- 
+        <lb ed="#Bb" n="8"/>us patris: quod Hilarius assignat pro causa: sed etiam quia pater nullo modo dat filio subau-  
+        <lb ed="#Bb" n="9"/>ctoritatem aliquam seu partem aliquam auctoritatis suae super aliquem filium producendum 
+        <lb ed="#Bb" n="10"/>tum quia illam non posset filius habere nisi super seipsum filium: nec ad alium filium habet 
+        <lb ed="#Bb" n="11"/>eam pater: quia non habent esse auctoritas &amp; subauctoritas respectu eiusdem. Sic ergo licet 
+        <lb ed="#Bb" n="12"/>pater dicatur maior auctoritate: filius tamen nunquam dicitur minor auctoritate. Et similiter re- 
+        <lb ed="#Bb" n="13"/>spectu spiritus sancti pater &amp; filius possunt dici communiter maiores &amp; aequaliter maiores spi 
+        <lb ed="#Bb" n="14"/>ritu sancto: licet spiritus sanctus non dicatur minor: secundum eundem modum quo pater dicitur 
+        <lb ed="#Bb" n="15"/>maior filio: licet filius non dicatur minor auctoritate: aut filius nec aequalis, nec minor, nec 
+        <lb ed="#Bb" n="16"/>maior dicitur patre: quia nullum istorum natum est esse circa filium respectu patris: sed tantum ne- 
+        <lb ed="#Bb" n="17"/>gatio omnium illorum. Et per hunc modum licet in patre dicatur auctoritas esse: in filio ta- 
+        <lb ed="#Bb" n="18"/>men nullo modo dicenda est esse subauctoritas: quia auctoritas quaecunque aut nullo modo  
+        <lb ed="#Bb" n="19"/>est in filio: aut aequalis est in patre &amp; filio. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e1338">
+        ⁋ Sed contra hoc quod dicit Hilarius de Trinitate: quod  
+        <lb ed="#Bb" n="20"/>secundum deitatem pater est maior filio: sed non est filius minor: videtur esse illud quod di-  
+        <lb ed="#Bb" n="21"/>cit in libro de Synod. exponendo verbum Apostoli assumptum in argumento sic inquiens. 
+        <lb ed="#Bb" n="22"/>Subiectio filii naturae pietas est. Subiectio autem caeterorum: creationis infirmitas est. Constat 
+        <lb ed="#Bb" n="23"/>autem quod Christus dei filius secundum humanitatem assumptam de numero caeterorum est: 
+        <lb ed="#Bb" n="24"/>&amp; ad creationis infirmitatem pertinet. Subiectionem ergo illam filii quae (vt dicit) est natu- 
+        <lb ed="#Bb" n="25"/>rae pietas, secundum deitatis proprietatem intelligit. Non est autem subiectio nisi minoritas 
+        <lb ed="#Bb" n="26"/>quaedam aut procedens ex minoritate: ergo &amp; pater est maior filio: &amp; filius est minor pa- 
+        <lb ed="#Bb" n="27"/>tre secundum id quod est in deitate. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e1358">
+        ⁋ Dico quod maius &amp; minus in patre &amp; filio, duplici- 
+        <lb ed="#Bb" n="28"/>ter possunt intelligi. Vno modo vt relatiua inter se, scilicet vt pater secundum quod est maior 
+        <lb ed="#Bb" n="29"/>dicatur relatiue ad filium secundum quod ipse est minor: &amp; econuerso filius secundum quod ipse 
+        <lb ed="#Bb" n="30"/>est minor, dicatur relatiue ad patrem secundum quod ille est maior: &amp; neuter dicatur ad  
+        <lb ed="#Bb" n="31"/>alterum maior aut minor secundum quod ipse est pater aut filius. Quemadmodum vnum 
+        <lb ed="#Bb" n="32"/>milii granum magnum dicitur relatiue ad aliud paruum, &amp; non econuerso: non secun- 
+        <lb ed="#Bb" n="33"/>dum quod vtrunque est milium: sed solum secundum quod hoc est maius, illud vero minus. 
+        <lb ed="#Bb" n="34"/>Alio vero modo vt neutrum dicitur relatiue ad alterum, scilicet vt nec pater dicatur 
+        <lb ed="#Bb" n="35"/>relatiue ad filium nec econuerso secundum quod ille est maior &amp; iste minor: sed pater secun- 
+        <lb ed="#Bb" n="36"/>dum quod ipse est maior dicatur relatiue ad filium secundum quod ipse filius est: &amp; non secun- 
+        <lb ed="#Bb" n="37"/>dum quod ipse est minor: &amp; filius secundum quod ipse est minor, dicatur relatiue ad patrem secun- 
+        <lb ed="#Bb" n="38"/>dum quod etiam ipse est pater: &amp; non secundum quod ipse est maior. Si primo modo, tunc essent ma 
+        <lb ed="#Bb" n="39"/>ius &amp; minus relationes communes &amp; partes inaequalitatis: sed sic nec aliquo modo pater di- 
+        <lb ed="#Bb" n="40"/>citur maior respectu filii: nec filius minor respectu patris: vt patet ex iam dictis. Et hoc quia 
+        <lb ed="#Bb" n="41"/>fundarentur super vnam magnitudinem singularem illis communem: eo quod non fundantur 
+        <lb ed="#Bb" n="42"/>nisi super magnitudinem existentem in illis: non est autem in illis magnitudo nisi vna.  Quia 
+        <lb ed="#Bb" n="43"/>autem super vnam magnitudinem existentem in illis fundentur: hoc est impossibile: dicente 
+        <lb ed="#Bb" n="44"/>Ambrosio de Trinitate. Quod vnum est diuisibile non est. Inter maiorem autem minoremque  
+        <lb ed="#Bb" n="45"/>discretio est. Ergo nec pater minorem habet: nec minor est dei filius: cum in patre &amp; filio nul- 
+        <lb ed="#Bb" n="46"/>la discretio deitatis sit: sed vna maiestas. Secundo autem modo sunt maius &amp; minus non  
+        <lb ed="#Bb" n="47"/>principales relationes: sed principalium relationum mutuarum non mutuae occasiones: pater- 
+        <lb ed="#Bb" n="48"/>nitatis scilicet &amp; filiationis. Maius enim conditio est auctoritatis circa relationem quae est pa- 
+        <lb ed="#Bb" n="49"/>ternitas: quae auctoritas nequaquam a patre communicatur filio: nec in toto nec in parte. 
+        <lb ed="#Bb" n="50"/>Minus vero subiectionis conditio est circa relationem filiationis: quae subiectio nullo mo-  
+        <lb ed="#Bb" n="51"/>do conuenit patri. Et sicut maioritas auctoritatis nominat in solo patre respectu filii vt fi- 
+        <lb ed="#Bb" n="52"/>lius est facultatem naturalis potentiae ad communicandum ei omnia sua praeter ingene- 
+        <lb ed="#Bb" n="53"/>rationem &amp; generationem actiuam: quemadmodum maioritas auctoritatis in praelatis no-  
+        <lb ed="#Bb" n="54"/>minat respectu subditorum facultatem potentiae liberalis ad conferendum illis dona ali 
+        <lb ed="#Bb" n="55"/>qua: sic etiam minoritas nominat in solo filio respectu patris pietatem naturalis reuerentiae 
+   <!--511.xml-->
+        <pb ed="#Bb" n="248-v"/>
+        <lb ed="#Bb" n="1"/>quasi in gratiarum actionem pro sibi communicatis a patre. Quemadmodum minoritas subie- 
+        <lb ed="#Bb" n="2"/>ctionis in subditis nominat respectu praelati pietatem liberalis reuerentiae ad regratiandum prae 
+        <lb ed="#Bb" n="3"/>lato pro bonis receptis, praeter hoc quod nominat in illis gradus inferioritatem: qualis non est in  
+        <lb ed="#Bb" n="4"/>filio dei respectu patris. Quae quidem subiectio minoritatis infirmitas est in creaturis: sed illa in  
+        <lb ed="#Bb" n="5"/>filio dei respectu patris non est nisi naturae pietas secundum Hilarium. Et ideo in creaturis subiectio 
+        <lb ed="#Bb" n="6"/>&amp; minoritas omnino indignitatis sunt atque indigentiae: &amp; dicuntur in respectu ad maioritatem 
+        <lb ed="#Bb" n="7"/>in praelato, &amp; econuerso. In filio autem dei respectu patris omnino sunt dignitatis atque pere- 
+        <lb ed="#Bb" n="8"/>ctionis: &amp; non dicuntur nec sunt in respectu ad maioritatem quae est in patre, nec econuerso. 
+        <lb ed="#Bb" n="9"/>Vt secundum hoc sicut dicitur pater maior filio vno modo, scilicet maioritate auctoritatis: non  
+        <lb ed="#Bb" n="10"/>tamen filius dicitur minor patre, scilicet paruitate auctoritatis: quae non esset nisi subauctori- 
+        <lb ed="#Bb" n="11"/>tas quaedam dicta in respectu auctoritatis patris: &amp; hoc in ordine ad aliud tertium: sicut sub 
+        <lb ed="#Bb" n="12"/>auctoritas Balliui dicitur in respectu ad auctoritatem regis in iustitiando seu iudicando ciuem: 
+        <lb ed="#Bb" n="13"/>quae est in patre respectu filii: &amp; diceretur non nisi in respectu minoris reuerentiae quae esset in  
+        <lb ed="#Bb" n="14"/>filio respectu patris: sicut si in hominibus pater maiorem reuerentiam exhiberet filio suo, &amp; econ 
+        <lb ed="#Bb" n="15"/>uerso filius minorem filio suo, prout loquitur in libro suo de trinitate Hilarius: sic filius vno 
+        <lb ed="#Bb" n="16"/>modo potest dici minor patre, scilicet minoritate reuerentiae vel pietatis qua filius in se natu- 
+        <lb ed="#Bb" n="17"/>raliter recognoscit bona paternae auctoritatis, &amp; qua illam reueretur: licet pater non dicatur 
+        <lb ed="#Bb" n="18"/>maior filio, scilicet maioritate reuerentialis pietatis, prout loquitur Hilar. in libro de Svnod.  
+        <lb ed="#Bb" n="19"/>Si tamen vllo modo secundum filiationem in filio recipi posset minoritas aut subiectio respectu pa 
+        <lb ed="#Bb" n="20"/>tris: sicut in patre secundum dictum modum recipitur maioritas &amp; auctoritas respectu filii. Quia si 
+        <lb ed="#Bb" n="21"/>sic: tunc secundum Hilarium, Pater dicitur maior filio: non tamen filius minor patre. Et secundum eun 
+        <lb ed="#Bb" n="22"/>dem in libro de Synod. sic filius dicitur minor patre: quod tamen pater non dicatur maior filio. 
+        <lb ed="#Bb" n="23"/>Dico maioritate &amp; minoritate hincinde sibi correspondentibus vniuoce. Quia enim pater dici- 
+        <lb ed="#Bb" n="24"/>tur maior, &amp; filius minor: maioritas &amp; minoritas non correspondent sibi nisi per quandam aequi  
+        <lb ed="#Bb" n="25"/>uocationem. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e1480">
+        ⁋ Ad Sextum, quod vna persona superat alteram potestate: Dico quod nomine potentiae 
+        <lb ed="#Bb" n="26"/>siue potestatis duo importantur, scilicet essentia &amp; respectus. Artamen non dico significantur:  
+        <lb ed="#Bb" n="27"/>sed potius intelliguntur. Significat enim essentiam solam: sed solum sub ratione respectus: siue 
+        <lb ed="#Bb" n="28"/>substantiam contractam ad relationem. secundum quod superius est declaratum. Nunc autem secundum re- 
+        <lb ed="#Bb" n="29"/>lationem (vt iam supra tactum est) nihil dicitur alteri aequale aut inaequale: sed solummodo  
+        <lb ed="#Bb" n="30"/>secundum quantitatem siue secundum substantiam vel secundum substantiale attributum aliquod vt habet 
+        <lb ed="#Bb" n="31"/>rationem quanti absoluti. Propter quod secundum potentiam vt habet vel importat rationem 
+        <lb ed="#Bb" n="32"/>respectus, non sumitur aequale vel inaequale: sed solummodo secundum quod habet rationem absoluti 
+        <lb ed="#Bb" n="33"/>quod est per se principium elicitiuum actionis. Nunc autem vt habet rationem absoluti, vna &amp; 
+        <lb ed="#Bb" n="34"/>eadem singularis potentia est in tribus personis: sicut vna &amp; eadem substantia aut bonitas. 
+        <lb ed="#Bb" n="35"/>Et ideo tres personae aequales sunt secundum potentiam prout ipsa nominat substantiam: nec pa- 
+        <lb ed="#Bb" n="36"/>ter superat filium potestate: sed neque aequales neque inaequales sunt secundum potentiam prout no-  
+        <lb ed="#Bb" n="37"/>minat reiationem: &amp; hoc siue illam nominet in ordine ad actum notionalem: siue in ordine ad  
+        <lb ed="#Bb" n="38"/>actum essentialem. Non tamen dicuntur aequales personae ratione potentiae vt ipsa nominat respe- 
+        <lb ed="#Bb" n="39"/>ctum: &amp; est potentia ordinata ad actum essentialem: licet in illa vna persona aliam non supe 
+        <lb ed="#Bb" n="40"/>rat: quia tali potentia aeque omnipotens sunt tres personae. Et hoc non nisi propter vnitas 
+        <lb ed="#Bb" n="41"/>tem substantiae: quae elicitiua est talium actuum. lta quod si respectu talium actuum nihil minus 
+        <lb ed="#Bb" n="42"/>posset vna persona quam altera: hoc necessario argueret in eis diuersitatem. Ideo <name ref="#Augustine">Augustinus</name> con 
+        <lb ed="#Bb" n="43"/>tra Maximinum, qui dicebat patrem esse potentiorem filio, dicit sic. Nihil minus patre habe- 
+        <lb ed="#Bb" n="44"/>re potest ille qui dicit: Omnia quae habet pater mea sunt. Nam si minus habet in potestate ali 
+        <lb ed="#Bb" n="45"/>quid quam pater: non sunt ipsius omnia quae habet pater. Secundum doctrinam tuam potens 
+        <lb ed="#Bb" n="46"/>potentem potuit gignere: sed non omnipotens omnipotentem. Habet ergo pater omnipoten- 
+        <lb ed="#Bb" n="47"/>tiam quam non habet filius: &amp; sic hoc falsum est quod ait filius: Omnia quae habet pater mea 
+        <lb ed="#Bb" n="48"/>sunt. Non etiam dicuntur personae diuinae inaequales ratione potentiae vt nominat respe- 
+        <lb ed="#Bb" n="49"/>ctum: &amp; est potentia ordinata ad actum notionalem: licet in illa vna aliam quoquo modo su- 
+        <lb ed="#Bb" n="50"/>peret. Tali enim potentia non sunt aeque potentes tres personae: sed pater potestate actiua 
+        <lb ed="#Bb" n="51"/>superat filium: &amp; ambo spiritum sanctum: &amp; econtra spiritus sanctus superat filium: &amp; 
+        <lb ed="#Bb" n="52"/>ambo patrem potentia passiua: prout procedit argumentum. Et hoc quia substantia diui- 
+        <lb ed="#Bb" n="53"/>na non secundum quod est substantia simpliciter, est principium talium actuum: sed solum 
+        <lb ed="#Bb" n="54"/>modo vt quasi determinata est sub proprietate personali secundum superius determina- 
+        <lb ed="#Bb" n="55"/>ta. Et ideo quod respectu talis actus vna persona aliam in potentia superat: nequaquam arguit in  
+   <!--512.xml-->
+        <pb ed="#Bb" n="249-r"/>
+        <lb ed="#Bb" n="1"/>eis diuersitatem substantiae: sed proprietatum solummodo. Nec omnino arguit aliquam inaequa-  
+        <lb ed="#Bb" n="2"/>litatem in eis: quia inaequalitas non est nisi secundum pluralitatem absolutorum tantummodo.  
+        <lb ed="#Bb" n="3"/>Et secundum hoc licet aspiciendo ad potentiam ratione potentiae simpliciter quae est principium 
+        <lb ed="#Bb" n="4"/>actiuum, quaecunque potentia est in vna personarum, est &amp; in aliis, licet ad alium actum: &amp; sub 
+        <lb ed="#Bb" n="5"/>alio respectu: aspiciendo tamen ad respectum siue ordinem ad actum, potentia quae est in vna per 
+        <lb ed="#Bb" n="6"/>sona non est in alia: &amp; aliqua potentia pertinet ad omnipotentiam patris quae non pertinet ad omni 
+        <lb ed="#Bb" n="7"/>potentiam filii: prout haec latius supra tractauimus. Vnde dicit <name ref="#Augustine">Augustinus</name> contra Maximinum. 
+        <lb ed="#Bb" n="8"/>Eorte dices, eo ipso pater maior est filio: quia de nullo genitus genuerit. Ad quod cito respondendum.  
+        <lb ed="#Bb" n="9"/>immo ideo non est maior pater filio quia aequalem genuerit. Vbi continuo innuit distinctionem iam 
+        <lb ed="#Bb" n="10"/>dictam de potentia, &amp; responsionem iam datam ad argumentum, subdens. Originis quaestio haec est, quis de 
+        <lb ed="#Bb" n="11"/>quo: aequalitatis autem qualis aut quantus sit: nec cum dicitur filius a patre genitus, ostenditur inae 
+        <lb ed="#Bb" n="12"/>qualitas substantiae, sed ordo naturae, non quo alter prior est altero: sed quo alter est ex altero. Non 
+        <lb ed="#Bb" n="13"/>ergo secundum hoc quod pater genuerit &amp; filius non: sed tantum genitus est: &amp; spiritus sanctus pro 
+        <lb ed="#Bb" n="14"/>cedit ab vtroque &amp; non econuerso: aequalitas vel inaequalitas ibi existit: quia non secundum hoc aliqua  
+        <lb ed="#Bb" n="15"/>persona alii aequalis vel inaequalis dicitur aut nata est dici: licet pater dicatur secundum hoc ali 
+        <lb ed="#Bb" n="16"/>quam potentiam habere quam non habet filius: &amp; ambo aliquam quam non habet spiritus sanctus: cum 
+        <lb ed="#Bb" n="17"/>tamen non dicatur pater habere aliquam magnitudinem aut substantiam quam non habet quaelibet 
+        <lb ed="#Bb" n="18"/>aliarum diuinarum personarum. Cuius ratio est quod substantia &amp; magnitudo quae omnino abso-  
+        <lb ed="#Bb" n="19"/>lutum quid dicit, in diuinis plurificari non potest. Potentia autem non significat nisi substantiam:  
+        <lb ed="#Bb" n="20"/>licet non nisi sub ratione respectus: &amp; illum formaliter importat. Propter quod secundum illius 
+        <lb ed="#Bb" n="21"/>plurificationem dicuntur potentia plurificari &amp; distingui: &amp; hoc secundum plurificationem &amp; 
+        <lb ed="#Bb" n="22"/>distinctionem actuum ad quos sunt: licet potentiae omnes in radice substantiae diuinae vna &amp; ea 
+        <lb ed="#Bb" n="23"/>dem potentia sunt. Et ideo tali potentia non est inconueniens vnam diuinam personam dici po- 
+        <lb ed="#Bb" n="24"/>tentiorem esse altera: &amp; hoc non nisi quia in se habet diuinam substantiam sub aliqua determina 
+        <lb ed="#Bb" n="25"/>ta proprietate ordinata ad aliquem actum notionalem: non sic autem persona alia: puta pater sub 
+        <lb ed="#Bb" n="26"/>proprietate primitatis aut paternitatis ad actum generandi filium, vt propterea propter idem &amp; 
+        <lb ed="#Bb" n="27"/>eadem de causa dicatur pater maior filio: licet filius non dicatur minor patre: &amp; pater dicatur po 
+        <lb ed="#Bb" n="28"/>tentior filio (potentia dico actiua) licet non dicatur filius impotentior patre siue minus potens quam  
+        <lb ed="#Bb" n="29"/>pater: quia potentiam ad illum actum nullo modo habet. Quod tamen non est impotentia in illo, sed  
+        <lb ed="#Bb" n="30"/>conditio qua non est natus illam habere, secundum quod de hoc satis habitum est supra. Et sic secun- 
+        <lb ed="#Bb" n="31"/>dum Hilarium cum pater dicatur maior filio: maioritas illa includit maioritatem &amp; auctoritatem 
+        <lb ed="#Bb" n="32"/>&amp; potestatem. Et sic illa potestas in qua est maior pater, pertinet ad omnipotentiam illam quae est 
+        <lb ed="#Bb" n="33"/>solius patris, vt superius determinatum est: quae scilicet includit omnipotentiam quam habet filius 
+        <lb ed="#Bb" n="34"/>cum potentia ad actum generandi, in qua filius cum patre non communicat. Propter quod magis 
+        <lb ed="#Bb" n="35"/>proprie dicitur quod illa potentia pertinet ad omnipotentiam vt quae est solius patris: quam dicatur quod per- 
+        <lb ed="#Bb" n="36"/>tinet ad omnipotentiam quae est solius patris, ne intelligatur poni quod alia sit omnipotentia patris 
+        <lb ed="#Bb" n="37"/>uam filii. Vnde licet vt iam dictum est secundum Augustinum, Pater non habet omnipotentiam quam 
+        <lb ed="#Bb" n="38"/>non habet filius: aliquam tamen potentiam habet pater contentam in omnipotentia vt omnipo- 
+        <lb ed="#Bb" n="39"/>tentia sua est, quam non habet filius in illa vt sua est. Vnde quod dicit filius, Omnia quae habet pater 
+        <lb ed="#Bb" n="40"/>mea sunt: hoc solummodo intelligitur de illis quae insunt deo ratione substantiae simpliciter: &amp; 
+        <lb ed="#Bb" n="41"/>quae pater gignendo dedit filio: puta substantialia: sed non suam proprietatem generandi aut ali- 
+        <lb ed="#Bb" n="42"/>quid sibi proprium notionale. Hinc dicit <name ref="#Augustine">Augustinus</name> contra Maximinum. Fateamur &amp; nos filium 
+        <lb ed="#Bb" n="43"/>accepisse potestatem ab illo de quo natus est: patri vero potentiam nullus dedit: quia nullus eum ge- 
+        <lb ed="#Bb" n="44"/>nuit: &amp; gignendo dedit potentiam filio: sicut omnia quae habet in substantia sua gignendo dedit 
+        <lb ed="#Bb" n="45"/>ei quem genuit de substantia sua. Quod dicit Sicut omnia quae habet in substantia sua, intellige sub 
+        <lb ed="#Bb" n="46"/>stantialiter: quia pater relatiue habet &amp; fundamentaliter in substantia sua proprietatem generan- 
+        <lb ed="#Bb" n="47"/>di actiue, quam nullus ei dedit sicut nec aliquod substantialium, &amp; quam etiam nec gignendo filio de 
+        <lb ed="#Bb" n="48"/>dit. Vnde potentia quam dedit filio non est nisi potentia communis notionalis, scilicet spirandi actiue 
+        <lb ed="#Bb" n="49"/>aut potentia essentialis aliqua. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e1669">
+        ⁋ Ad septimum quod nulla personarum diuinarum sit aequalis alteri:  
+        <lb ed="#Bb" n="50"/>quia quaelibet illarum habet proprietatem pertinentem ad dignitatem quam non habet altera: Di 
+        <lb ed="#Bb" n="51"/>co quod dignitas substantiale quid &amp; absolutum est in diuinis: &amp; pertinet ad essentiam diuinam: &amp; non  
+        <lb ed="#Bb" n="52"/>ad relationem: sicut nec aequalitas nisi quatenus fundatur in essentia: &amp; realitatem essentiae in se 
+        <lb ed="#Bb" n="53"/>continet. Quae quia vnica est, &amp; vnicam realitatem ab illa sortiuntur omnes relationes quae sunt in  
+        <lb ed="#Bb" n="54"/>diuinis: idcirco omnes sunt vna dignitas licet sint plures relationes. Et sic illa eadem dignitas quae 
+        <lb ed="#Bb" n="55"/>in patre est paternitas: in filio est filiatio. propter quod quicquid dignitatis habet pater, habet filius: qem 
+   <!--513.xml-->
+        <pb ed="#Bb" n="249-v"/>
+        <lb ed="#Bb" n="1"/>sunt aeque digni: non per recompensationem dicendo quod etsi pater habet dignitatem quae est paternitas quam 
+        <lb ed="#Bb" n="2"/>non habet filius, filius tamen aequalem dignitatem habet quae est filiatio quam non habet pater: quasi alia esset 
+        <lb ed="#Bb" n="3"/>dignitas in patre paternitas, &amp; alia in filio filiatio: sed aeque digni sunt pater &amp; filius &amp; etiam spiri- 
+        <lb ed="#Bb" n="4"/>tus sctuns cum illis, per eiusdem scilicet dignitatis impartibilis communionem. Sic ergo quicquid di 
+        <lb ed="#Bb" n="5"/>gnitatis habet pater in paternitate, habet &amp; filius in filiatione. Et si forte aliquid dignitatis perti- 
+        <lb ed="#Bb" n="6"/>net ad relationem vnde relatio est: illam aequalem habent: &amp; secundum illam aequales sunt per re 
+        <lb ed="#Bb" n="7"/>compensationem. tantundem enim dignitatis habet filiatio vnde relatio est, quantum habet pater- 
+        <lb ed="#Bb" n="8"/>nitas vnde etiam similiter relatio est. Et propterea licet relatio vnde relatio, aliquid dignitatis impor 
+        <lb ed="#Bb" n="9"/>taret in vna persona quod non esset in alia: de hoc nihil ad aequalitatem vel inaequalitatem: quia vt di- 
+        <lb ed="#Bb" n="10"/>ctum est, non sunt natae in relatione fundari. 
+      </p>
+      <p xml:id="vn58an-fe66589-d1e1711">
+        ⁋ Ad octauum, quod in diuinis sunt proportiones inaequa 
+        <lb ed="#Bb" n="11"/>litatis inter quinque notiones &amp; tres personas: ergo non omnimoda aequalitas: Dico quod numerus in di- 
+        <lb ed="#Bb" n="12"/>uinis atque vnitates ex quibus constituitur, ad quantitatem absolutam secundum praedicta non pertinent 
+        <lb ed="#Bb" n="13"/>eo quod numerus ille non est nisi relatio tantum &amp; relatorum secundum relationes: quantitas autem ad  
+        <lb ed="#Bb" n="14"/>uam sequitur aequale aut in aequale secundum praedicta non est nisi de absolutis. Et sic sicut secundum 
+        <lb ed="#Bb" n="15"/>relationes relata in diuinis non dicuntur aequalia aut inaequalia, vt dictum est: sic nec ipsae relationes 
+        <lb ed="#Bb" n="16"/>vt relationes sunt inter se comparatae, aequales aut inaequales dici possunt: quia non sunt aliquid ma 
+        <lb ed="#Bb" n="17"/>gnum etiam virtute proportionale quantitati continuae secundum modum superius expositum: ne- 
+        <lb ed="#Bb" n="18"/>quod etiam quid multum etiam virtute in diuinis proportionale quantitati discretae: quae in creatu- 
+        <lb ed="#Bb" n="19"/>ris est multum quid consistens in absolutis: quae non cadit omnino in diuinis. Quia quantum non est 
+        <lb ed="#Bb" n="20"/>nisi collectum ex pluribus absolutis vnitatibus plus aliquid absoluti continens in toto quam in par- 
+        <lb ed="#Bb" n="21"/>te: siue fuerit numerus Mathematicus: quia ille non abstrahit a materia intelligibilis: siue fuerit 
+        <lb ed="#Bb" n="22"/>naturalis: quia ille procedit non nisi ex diuisione continui: siue Metaphysicus, qui est formarum 
+        <lb ed="#Bb" n="23"/>substantialium, &amp; omnium entium in eo quod sunt entia aliqua in suo genere: &amp; sic habet rationem sub 
+        <lb ed="#Bb" n="24"/>stantiae: licet non sint verae substantiae. Vnde sicut vna relatio non est maius aut minus quam alia aut  
+        <lb ed="#Bb" n="25"/>aequale illi per priuationem eius quod est maius aut minus, nec omnes sunt maius aut minus quam vna aut 
+        <lb ed="#Bb" n="26"/>aequale illi: sic nec vna relatio est plus aut minus quam altera: aut aequale illi per priuationem eius 
+        <lb ed="#Bb" n="27"/>quod est plus &amp; minus: nec omnes relationes simul sunt plus aut minus quam vna: aut aequale illi. Dico 
+        <lb ed="#Bb" n="28"/>prout plus &amp; minus aut aequale eis oppositum sunt accidentia numeri proprie dicti: qui semper 
+        <lb ed="#Bb" n="29"/>aliquid re absolutum ponit in suis vnitatibus. Sed si dicatur esse plus &amp; minus in relationibus aut  
+        <lb ed="#Bb" n="30"/>relatis secundum rationes: hoc est aequiuoce cum illis plus &amp; minus quae sunt in vere numeris: si- 
+        <lb ed="#Bb" n="31"/>cut numerus dicitur aequiuoce de numero in relationibus: &amp; de vero numero. Vnde si dicamus 
+        <lb ed="#Bb" n="32"/>peor in diuinis quinque notiones sunt plus quam tres personae: &amp; ita inaequales illis: &amp; quod tres proprieta- 
+        <lb ed="#Bb" n="33"/>tes personales sunt aequales tribus personis: aequiuocantur inaequalitas &amp; aequalitas respectu aequa  
+        <lb ed="#Bb" n="34"/>litatis &amp; inaequalitatis de quibus est quaestio: &amp; quae sunt relationes communes. Et sic quantitas spi- 
+        <lb ed="#Bb" n="35"/>ritualis in diuinis super quam fundatur aut nata est fundari aliqua relatio communis, solummodo  
+        <lb ed="#Bb" n="36"/>accipitur proportionaliter duabus quantitatibus continuis in creaturis: quae sunt magnitudo &amp; 
+        <lb ed="#Bb" n="37"/>tempus: vt sunt immensitas &amp; aeternitas in diuinis, sicut superius expositum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

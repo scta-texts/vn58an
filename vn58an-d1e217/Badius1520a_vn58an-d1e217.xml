@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="23-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e217"> <!-- alias="vn58an-a2q1" -->
+      <head xml:id="vn58an-d1e217-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e217-Hd1e107" type="question-title">Utrum contingat hominem scire aliquid certitudinaliter</head>
+      <p xml:id="vn58an-d1e217-d1e110">
+   <!--61.xml-->
+            <pb ed="#Ba" n="23-v"/>
+        <lb ed="#Ba" n="1"/>CIrca primum arguitur quod non contingit hominem aliquid scire certitudinaliter. Primo 
+        <lb ed="#Ba" n="2"/>sic. <name ref="#Augustine">Augustinus</name> dicit. lxxxiii, quod quid ix. Asensibus corporis non est expetenda synceritas 
+        <lb ed="#Ba" n="3"/>veritatis. Sed homo per se nihil scit nisi ex sensibus: quia ab ipsis omnis nia cognitio or 
+        <lb ed="#Ba" n="4"/>tum habet. i. Metaphy. ii. Poster. &amp;. iii. de anima. ergo homo non potest scire synceri 
+        <lb ed="#Ba" n="5"/>tatem veritatis. nihil autem scitur certitudinaliter nisi sciendo synceram veritatem:  
+        <lb ed="#Ba" n="6"/>quia non est scientia nisi ex veritatis cognitione. ergo. &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e217-d1e133">
+        ⁋ Secundo sic. Aug. ibid. 
+        <lb ed="#Ba" n="7"/>Nihil est scibile, quid non habeat simile falso: ita vt internosci non possit. veritas autem certitudinalitur non  
+        <lb ed="#Ba" n="8"/>potest sciri nisi noti dissimilibus falsco. vt dicitur. ii. de Academicis. ergo per sensibile nulla veritas potest co 
+        <lb ed="#Ba" n="9"/>gnosci certitudinaliter. sed homo non cognoscit nisi per sensibilia. ergo. &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e217-d1e143">
+        ⁋ Contra, habens regulam cer 
+        <lb ed="#Ba" n="10"/>tam sciendi in qua non contingit eum errare: potest certitudinaliter scire: quia potest scire in illa &amp; per illam: &amp; 
+        <lb ed="#Ba" n="11"/>ipsa fallere non potest. talis autem regula est veritas primorum principiorum. secundum nm philosophum. 4. Metaphy. princi 
+        <lb ed="#Ba" n="12"/>pium est valde manifestum &amp; notum. Homines autem non decipiuntur nisi in eo quod nesciunt. hoc autem non habet dubi 
+        <lb ed="#Ba" n="13"/>tationem. talem autem regulam habet in se homo naturaliter acquisitam. vt patet ex praedeterminatis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e217-d1e154">
+        <lb ed="#Ba" n="14"/>⁋ Dicendum est ex praedeterminatis: quod cum hominem contingit hab ere notitiam primo-  
+        <lb ed="#Ba" n="15"/>rum principiorum quae sunt notissima in sua veritate &amp; certissima: ita quod in illis non contingit eum errare:  
+        <lb ed="#Ba" n="16"/>&amp; ex illis via rationalis deductionis contingit eum scire posteriora: in quibus similiter non contingit errare 
+        <lb ed="#Ba" n="17"/>postquam intellectus videt ea reducta in principia: &amp; talis notitia certa est: necessario est ponendum quod contin  
+        <lb ed="#Ba" n="18"/>git hominem non solummodo scire: quod quodam modo concedebant Academici: sed &amp; certitudinalitur scire: quid  
+        <lb ed="#Ba" n="19"/>omnino negabant: &amp; hoc etiam secundum communem hominis modum cognoscendi in statu huius vitae. Verum intelligendum  
+        <lb ed="#Ba" n="20"/>est quod certa notitia duplex est secundum duo quae faciunt notitiam certam: quorum vnum est quod sit libera ab omni errore:  
+        <lb ed="#Ba" n="21"/>alterum quod sit in aperta veritati visione. Primo modo notitia est certa, quae ita veritatem cognoscimus, quod nequaquam  
+        <lb ed="#Ba" n="22"/>de ea dubitare possumus. Secundo modo illa est certa notitia, qua veritatem videmus clare in luce in-  
+        <lb ed="#Ba" n="23"/>tellectuali ad modum quo videmus visibile in luce solari. Primo modo certam notitiam contingit hominem 
+        <lb ed="#Ba" n="24"/>hic habere secundum dictum modum sciendi ex primis principiis speculabilium: ad quem potest attigere actione praesci 
+        <lb ed="#Ba" n="25"/>sa naturalium virium animae: aspiciendo ad solum exemplar creatum abstractum a re: si tamen ad hoc sufficiat illud exen- 
+        <lb ed="#Ba" n="26"/>plar sine illustratione exemplaris aeterni. Secundo modo nequaquam: nisi aspiciendo ad exemplar increatum, quid est causa rei 
+        <lb ed="#Ba" n="27"/>secundum modum praedeterminatum. cognitio enim quae acquiritur per phantasmata non potest esse quin quantum est de se aliquo  
+        <lb ed="#Ba" n="28"/>modo sit obscurata. secundum quod dicit <name ref="#Augustine">Augustinus</name> iii. de Acade. lstae imagines sunt quae consuetudine rerum corpora- 
+        <lb ed="#Ba" n="29"/>lium nos etiam cum veritas tenetur &amp; quasi in manibus habetur decipere &amp; illudere moliuntur. vnde per species intelligi 
+        <lb ed="#Ba" n="30"/>biles puras: quae non sunt nisi idolum non veritas ipsa: hominem non contingit hic secundum communem statum viae 
+        <lb ed="#Ba" n="31"/>synceram &amp; liquidam siue claram veritatem, siue etiam qualencumque scire: nisi aspiciendo ad exemplar lucis increatae 
+        <lb ed="#Ba" n="32"/>vt praedeterminatum est. secundum quod dicit <name ref="#Augustine">Augustinus</name> loquens de huiusmodi speciebus puris. xii. de trinitate. Rerum transeuntium 
+        <lb ed="#Ba" n="33"/>stant vtique intelligibiles non sensibiles rationes: ad quaes mentis acie paruenire paucorum est. &amp; cum peruenitur quantum 
+        <lb ed="#Ba" n="34"/>fieri potest: non in eis manet ipse paruentor: sed velut acie ipsa reuerberata repellitur. Et adhuc aspiciendo ad  
+        <lb ed="#Ba" n="35"/>exemplar increatum sicut ad rationem intelligendi tantum: non sicut ad obiectum intellectum secundum quod supra determi 
+        <lb ed="#Ba" n="36"/>natum est: non contigit hominem perfecta certitudine cognoscere veritatem. Et quia secundum communem statum non con 
+        <lb ed="#Ba" n="37"/>tingit scire aliquod aspiciendo ad exemplar increatum vt ad obiectum in praesenti vita: sed solum in futura: ideo  
+        <lb ed="#Ba" n="38"/>dicit <name ref="#Augustine">Augustinus</name> ix. de trinitate in principio: quod certa cognitio nobis non perficitur nisi post hanc vitam. De qua  
+        <lb ed="#Ba" n="39"/>certitudine dicit, xv. de trinitate. bi veritatem sine vlla difficultate videbimus: eaque clarissima &amp; certissima 
+        <lb ed="#Ba" n="40"/>perfruemur: nec aliquid quaeremus mente ratiocinante, sed contemplante cernemus. vnde ex hac obumbratione 
+        <lb ed="#Ba" n="41"/>vitae praesentis frequenter contigit: quod homo qui certe scit nescit quanta certitudine sciat. propter hoc di 
+        <lb ed="#Ba" n="42"/>xit quidam: hoc solum scire me scio, quod nescio: &amp; econuerso quid nescit scire se credit. secundum quod dicit Chryso. 
+        <lb ed="#Ba" n="43"/>Adhuc multa nescimus: &amp; illa quidem didicisse nos credimus. &amp; philosophus in vii. Ethicorum. Quidam opinantium 
+        <lb ed="#Ba" n="44"/>non dubitant: sed aestimant certe scire. 
+      </p>
+      <p xml:id="vn58an-d1e217-d1e233">
+        <lb ed="#Ba" n="45"/>⁋ Ad primum in oppositum, quod a sensibus non est expetenda syncera veritas: Dicendum  
+        <lb ed="#Ba" n="46"/>quod verum est quantum aspiciendo ad exemplar lucis increatae: &amp; hoc non quia ipsa veritas in se in aliquo sit impura: 
+        <lb ed="#Ba" n="47"/>sed quia in nobis sit impura: quando est phantasmatibus obumbrata: sicut lux solis oculis fumo caligantibus impura 
+        <lb ed="#Ba" n="48"/>quodam modo est: tamen certitudo aliqua veritatis ex sensibus haberi potest, vt dictum est: non stando in sensibus 
+        <lb ed="#Ba" n="49"/>&amp; eorum iudicio: quia facillime decipiuntur sensus: sed per intellectum intelligibilem speciem quantum possibile est 
+        <lb ed="#Ba" n="50"/>depuratam a sensibus abstrahendo: &amp; ibi penes se iudicando. Vnde ad literam Aug. illo dicto suo hortatur nos:  
+        <lb ed="#Ba" n="51"/>ne stemus in iudicio sensus: sed abstrahamus nos quantum possumus a sensibus, &amp; coniugamur intelligibilibus. 
+        <lb ed="#Ba" n="52"/>secundum quod dicit concludendo in fine quaestionis. Quaproptur (inquit) saluberrime admonemur auerti ab hoc 
+        <lb ed="#Ba" n="53"/>mundo: qui profecto corporeus est atque sensibilis: &amp; ad deum: &amp; ad veritatem quae intellectu &amp; interiori mente 
+        <lb ed="#Ba" n="54"/>capitur: quae non hent imaginem falsi: a quae discerni non possit: tota alacritate converti. 
+      </p>
+      <p xml:id="vn58an-d1e217-d1e257">
+        ⁋ Per haec pt, ad secundum: quod  
+   <!--62.xml-->
+        <pb ed="#Ba" n="24-r"/>
+        <lb ed="#Ba" n="1"/>omne sensibile habet simile falso. Dicendum quod verum est quantum ex parte speciei: inquantum est sen- 
+        <lb ed="#Ba" n="2"/>sibilis &amp; phantastica maxime stando in sensu: qui non potest similium iudicare dissimilitudinem. 
+        <lb ed="#Ba" n="3"/>Transcendendo tamen sensus ratio bene iudicat illam: &amp; verum a falso discernit. vnde <name ref="#Augustine">Augustinus</name> in  
+        <lb ed="#Ba" n="4"/>tota illa quaestione nihil intendit: nisi quod imagines sensibilium vt sensibiles, quasi omnino communes 
+        <lb ed="#Ba" n="5"/>sunt vero &amp; verisimili siue falso. secundum quod assimilantur species quas visus capit ab auro &amp; ab orichal- 
+        <lb ed="#Ba" n="6"/>co: quae discerni iudicio sensus nequeunt. vnde &amp; somniantes de speciebus quae eis apparent iudicant 
+        <lb ed="#Ba" n="7"/>quod sunt res ipsae, quare cum non potest percipi verum nisi a falso discernatur: iudicium verum non est 
+        <lb ed="#Ba" n="8"/>constitutum in sensibus: &amp; ideo concludit in fine: Quamobrem salubriter admonemur &amp;c. vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

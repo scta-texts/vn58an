@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="223-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2473"> <!-- alias="vn58an-a35q3" -->
+      <head xml:id="vn58an-d1e2473-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e2473-Hd1e107" type="question-title">Utrum in Deo sit una tantum potentia an plures</head>
+      <p xml:id="vn58an-d1e2473-d1e110">
+        <lb ed="#Ba" n="16"/>CIrca tertium arguitur quod in deo sit tantum vna potentia passiua. primo sic. Cum po 
+        <lb ed="#Ba" n="17"/>tentia &amp; actus sibi inuicem respondeant, vbi non potest esse nisi vnus actus, neque ni 
+        <lb ed="#Ba" n="18"/>si vna potentia. In deo autem non est nec potest esse nisi vnus actus, quia ipse non  
+        <lb ed="#Ba" n="19"/>est nisi purus actus, &amp; singularitas quaedam in natura essentiae suae, vt habitum est su 
+        <lb ed="#Ba" n="20"/>pra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2473-d1e123">
+        ⁋ Secundo sic. Magis differt potentia passiua ab actu quam vna potentia 
+        <lb ed="#Ba" n="21"/>ab alia, quia alia semper est ratio actus vt actus, &amp; potentiae vt potentia est. diuer- 
+        <lb ed="#Ba" n="22"/>sarum autem potentiarum vt potentiae sunt, semper vna &amp; eadem ratio est. sed  
+        <lb ed="#Ba" n="23"/>in deo potentia &amp; actus sola ratione differunt &amp; non re. ergo in deo vna potentia ab alia nec ratio 
+        <lb ed="#Ba" n="24"/>ne differt. sed tales omnino sunt vna &amp; eadem potentia, &amp; nullo modo diuersae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2473-d1e135">
+        ⁋ In con 
+        <lb ed="#Ba" n="25"/>trarium est, quoniam in deo est potentia intelligendi generandi &amp; spirandi. sed potentia intelligen 
+        <lb ed="#Ba" n="26"/>di est potentia quaedam passiua, quia secundum <name ref="#Aristotle">Philosophum</name> intelligere pati quoddam est. Potentia simili 
+        <lb ed="#Ba" n="27"/>ter generandi vt generetur, &amp; spirandi vt spiretur, non sunt nisi potentiae quaedam passiuae, quia generari 
+        <lb ed="#Ba" n="28"/>&amp; spirari vt passiones quaedam sunt in deo principiatae ab actionibus generandi &amp; spirandi actiue, 
+        <lb ed="#Ba" n="29"/>vt amplius infra exponetur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2473-d1e152">
+        <lb ed="#Ba" n="30"/>⁋ Dicendum ad hoc: quod licet omnia quae sunt &amp; considerantur in deo, idipsum sunt in re 
+        <lb ed="#Ba" n="31"/>naturae &amp; essentiae: differunt tamen ratione quadam &amp; respectu, sicut videbitur infra loquendo de differentia attri 
+        <lb ed="#Ba" n="32"/>butorum, &amp; de distinctione personarum &amp; per hoc quod sic differunt, diuersis &amp; propriis vocabulis exprimum 
+        <lb ed="#Ba" n="33"/>tur penes proprias rationes &amp; respectus a quibus sit nominum impositio, licet eadem sit res cui sit imposi 
+        <lb ed="#Ba" n="34"/>tio in omnibus diuinis nominibus. Quandocunque ergo fit quaestio de aliquo vel aliquibus quae reperiuntur in deo 
+        <lb ed="#Ba" n="35"/>propriis vocabulis expressa, intelligenda est habendo respectum ad propriam rationem eius a quo sit nominum 
+        <lb ed="#Ba" n="36"/>impositio: non autem ad identitatem rei. Nunc autem de ratione potentiae &amp; actus ita est, secundum quod dicit Phi 
+        <lb ed="#Ba" n="37"/>losophous. ix. Meta. quod oportet considerare ea secundum conuenientiam &amp; proportionem quandam, sicut est 
+        <lb ed="#Ba" n="38"/>proportio aedificatoris ad aedificatum, &amp; non quaerere in eis definitionem simpliciter, sicut in absolutis. 
+        <lb ed="#Ba" n="39"/>vnde dicit ibi Commen. Non oportet quaerere definitionem in omnibus rebus eodem modo. Definitio- 
+        <lb ed="#Ba" n="40"/>nes enim rerum non relatiuarum debent esse alio modo a definitionibus rerum relatiuarum: cum significatio de 
+        <lb ed="#Ba" n="41"/>finitionis debet esse aequalis significationi nominis. Secundum hoc ergo cum quaeritur hic de diuersitate vel plu- 
+        <lb ed="#Ba" n="42"/>ralitate potentiarum passiuarum, quae sunt relatiuae ad suos actus, &amp; vtrumque eorum accipitur in defini- 
+        <lb ed="#Ba" n="43"/>tione alterius, nihil ad quaestionem de natura rei, in qua omnia quae in deo sunt idem, sunt. &amp; sic omnis 
+        <lb ed="#Ba" n="44"/>potentia in deo vna potentia est. sed referenda est quaestio ad potentiam passiuam sub ratione qua po- 
+        <lb ed="#Ba" n="45"/>tentia passiua est scilicet ratione sui respectus a quo sit huiusmodi nominis impositio &amp; non alterius in diuinis. 
+        <lb ed="#Ba" n="46"/>Vnde cum ratio respectus importati nomine potentiae sit ad actum, idcirco potentia passiua debet di-  
+        <lb ed="#Ba" n="47"/>stingui &amp; diuersificari ex diuersitate actuum ad quos sunt, &amp; cognoscenda est diuersitas &amp; definitio 
+        <lb ed="#Ba" n="48"/>potentiarum passiuarum. Nunc autem ita est, quod in rebus naturalibus potentia passiua respicit duplicem 
+        <lb ed="#Ba" n="49"/>actum quo perficitur, vt iam dictum est supra: vnum qui est ipse motus &amp; transmutatio, cuius est 
+        <lb ed="#Ba" n="50"/>per se &amp; primo principium susceptiuum: alium qui est ipsa dispositio acquisita per motum, vt for- 
+        <lb ed="#Ba" n="51"/>ma substantialis vel accidentalis qualitatis aut quantitatis, aut situs in vbi. Et consimili mo-  
+        <lb ed="#Ba" n="52"/>do, licet in deo non sit motus aut transmutatio in qua fundetur actio &amp; passio, quae tamen sunt 
+        <lb ed="#Ba" n="53"/>in potentia secundum rationem respectus &amp; collationis, verae actiones &amp; passiones essentiales &amp; 
+        <lb ed="#Ba" n="54"/>personales sunt. Sunt enim verae actiones essentiales in deo intelligibilis ad intellectum, volun 
+        <lb ed="#Ba" n="55"/>tatis ad volitum. Sunt etiam verae actiones personales generare, spirare. de quibus erit sermo in- 
+   <!--462.xml-->
+        <pb ed="#Ba" n="224-r"/>
+        <lb ed="#Ba" n="1"/>ferius. Econtra sunt verae passiones in deo secundum modum praeexpositum: licet non bene sonat nomen 
+        <lb ed="#Ba" n="2"/>passionis in deo: essentiales, vt intelligere: personales, vt generari &amp; spirari, quae magis proprie quam  
+        <lb ed="#Ba" n="3"/>aliae passiones in deo esse dicuntur. Vnde &amp; potentia intelligendi, generandi, &amp; spirandi, minime 
+        <lb ed="#Ba" n="4"/>tramslatiue dicitur potentia passiua in deo. Sunt praeterea vt verae formae in deo, virtus, bonitas, sapien 
+        <lb ed="#Ba" n="5"/>tia, &amp; huiusmodi: quibus singulis respondet in deo potentia saltem ratione differens ab ipsa. Non  
+        <lb ed="#Ba" n="6"/>enim inest alicui aliqua dispositio, cui non inest potentia ad ipsam. Non enim est iustus, sapiens, bonus, &amp; cae 
+        <lb ed="#Ba" n="7"/>tera huiusmodi, nisi qui potens est esse ista. Quibus quia tanquam actu qui est forma perficitur poten 
+        <lb ed="#Ba" n="8"/>tia huiusmodi, ideo quaelibet illarum potentia passiua dici potest, etsi nomen potentiae passiuae non nisi me 
+        <lb ed="#Ba" n="9"/>taphorice suscipiatur in deo. Et ista potentia summe dicitur metaphorice passiua, &amp; largissime extem 
+        <lb ed="#Ba" n="10"/>so nomine, quomodo &amp; deus quia est esse potest esse essentia. &amp; potest talis potentia replicari supra 
+        <lb ed="#Ba" n="11"/>seipsam in infinitum, dicendo quod deus potest esse essentia, &amp; habet potentiam vt possit esse essentia, &amp; hoc 
+        <lb ed="#Ba" n="12"/>in infinitum: quia huiusmodi potentia est secundum rationem nostram intelligendi tantum, ad modum quo actus ratio- 
+        <lb ed="#Ba" n="13"/>nis &amp; intelligendi possunt super se replicari in infinitum: vt qui intelligit se, potest intelligere se 
+        <lb ed="#Ba" n="14"/>in infinitum: &amp; similiter se posse intelligere. 
+      </p>
+      <p xml:id="vn58an-d1e2473-d1e246">
+        ⁋ Praetera in diuinis personis ipsa essentia quodam  
+        <lb ed="#Ba" n="15"/>modo est in potentia passiua ad personales proprietates. secundum rationem enim intelligendi nostram, vt in  
+        <lb ed="#Ba" n="16"/>fra patebit, persona est proprietate personali in ipsa diuina essentia subsistens, quod non esset nisi ipsa 
+        <lb ed="#Ba" n="17"/>essentia quodammodo esset in potentia quasi passiua ad ipsas personales proprietates, quarum duae per 
+        <lb ed="#Ba" n="18"/>actiones personales quasi habentur in ipsa diuina essentia, habita in personis per easdem actiones qui-  
+        <lb ed="#Ba" n="19"/>bus &amp; personae ipsae producuntur de ipsa diuina essentia quodammodo, vt est filiatio in filio, &amp; spi- 
+        <lb ed="#Ba" n="20"/>ratio passiua in spiritu sancto: licet paternitas habet esse in patris essentia sine productione pro- 
+        <lb ed="#Ba" n="21"/>pter suam paternitatem. Et sic etiam ipsae personae productionis filius &amp; spiritus sanctus dicuntur habere po 
+        <lb ed="#Ba" n="22"/>tentiam passiuam, filius scilicet vt generetur, Spiritus autem sanctus vt spiretur. Et hoc per ipsam diuinam es 
+        <lb ed="#Ba" n="23"/>sentiam quam habet in se tanquam ens quodammodo in potentia ad proprietates personales ipsarum, &amp; simi- 
+        <lb ed="#Ba" n="24"/>liter ad filii cenerationem, &amp; spiritus sancti spirationem de ipsa. secundum quod inferius suo loco amplius per 
+        <lb ed="#Ba" n="25"/>tractabitur. 
+      </p>
+      <p xml:id="vn58an-d1e2473-d1e272">
+        ⁋ Dicendum igitur quod secundum praedeterminatum modum ponendi potentiam passiuam in deo, ponendae sunt 
+        <lb ed="#Ba" n="26"/>plures potentiae passiuae in deo, &amp; solummodo differentes ratione a suis actibus: vt infra patebit. Et ideo si- 
+        <lb ed="#Ba" n="27"/>cut diuersi sunt adinuicem actus in deo quibus huiusmodi potentiae perficiuntur: similiter &amp; ipsae potentiae 
+        <lb ed="#Ba" n="28"/>abinuicem: &amp; quot sunt actus numero, siue sunt actus vt forma, siue actus vt agere, tot sunt pas 
+        <lb ed="#Ba" n="29"/>siones. Vnde sicut differunt abinuicem in deo essentia, sapientia, bonitas, &amp; caetera, huiusmodi attributa, &amp; 
+        <lb ed="#Ba" n="30"/>siul intelligere, generari, &amp; spirari, paternitas, filiatio, &amp; spiratio: Consimiliter &amp; potentiae passiuae quibus 
+        <lb ed="#Ba" n="31"/>deus potest habere essentiam, &amp; esse bonitas, sapientia, &amp; huiusmodi, &amp; intelligere, generari, &amp; spirari, &amp; 
+        <lb ed="#Ba" n="32"/>quibus diuina essentia potest esse receptiua per identitatem essentiae secundum diuersitatem rationis, pa- 
+        <lb ed="#Ba" n="33"/>ternitatem, filiationem, &amp; passiuam spirationem. Et similiter de ipsis nominibus &amp; omnibus diuinis relationi- 
+        <lb ed="#Ba" n="34"/>bus. Et sicut est ordo originis vel rationis intelligendi inter actus, secundum quod inferius declara 
+        <lb ed="#Ba" n="35"/>bitur, similiter &amp; inter ipsas potentias passiuas perfectas secundum actus. 
+      </p>
+      <p xml:id="vn58an-d1e2473-d1e296">
+        <lb ed="#Ba" n="36"/>⁋ Ad primum in oppositum, quod in deo solum vnus est actus, vt diuina forma &amp; es- 
+        <lb ed="#Ba" n="37"/>sentia, Dicendum quod verum est secundum rem: in quo omnes actus diuini coincidunt. Omnia 
+        <lb ed="#Ba" n="38"/>enim haec, sapientia, bonitas, intelligere, velle, generari, spirari, &amp; caetera huiusmodi, nihil sunt re 
+        <lb ed="#Ba" n="39"/>nisi ipsa diuina essentia: differunt tamen ab ipsa, ratione. &amp; secundum eundem modum omnes huiusmo 
+        <lb ed="#Ba" n="40"/>di in vnum secundum rationem coincidunt. Sicut enim esse sapientiam, bonitatem, &amp; huiusmodi, est esse diui 
+        <lb ed="#Ba" n="41"/>nam essentiam re, differentem sola ratione, sic potentia qua deus potest esse sapientia, bonitas, &amp; 
+        <lb ed="#Ba" n="42"/>huiusmodi, est ipsa potentia qua potest esse differens sola ratione. 
+      </p>
+      <p xml:id="vn58an-d1e2473-d1e314">
+        ⁋ Per idem ad secundum dicendum quod 
+        <lb ed="#Ba" n="43"/>reuera in deo potentia &amp; actus sola ratione differunt: &amp; minus differt potentia sub ratione qua  
+        <lb ed="#Ba" n="44"/>potentia est ab alia potentia, quam a suo actu. Dico ratione qua potentia est, non ratione qua est actu perfecti 
+        <lb ed="#Ba" n="45"/>bilis. Non tamen idem est re &amp; ratione potentia cum potentia: sed minor differentia secundum rationem 
+        <lb ed="#Ba" n="46"/>bene potest esse inter eas. Differentia enim secundum rationem, in deo potest esse secundum magis &amp; minus. Minus 
+        <lb ed="#Ba" n="47"/>enim secundum rationem differunt in deo veritas &amp; sapientia: quia ambo respiciunt intellectum, quam 
+        <lb ed="#Ba" n="48"/>sapientia &amp; bonitas, quia alterum respicit intellectum, &amp; alterum voluntatem.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

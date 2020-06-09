@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="145-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1815"> <!-- alias="vn58an-a24q8" -->
+      <head xml:id="vn58an-d1e1815-Hd1e104">Quaestio 8</head>
+      <head xml:id="vn58an-d1e1815-Hd1e107" type="question-title">Utrum scire id quod Deus est, sit ratio sciendi omnia alia</head>
+      <p xml:id="vn58an-d1e1815-d1e110">
+   <!--304.xml-->
+            <pb ed="#Ba" n="145-r"/>
+        <lb ed="#Ba" n="1"/>CIrca octauum arguitur, quod cognitio eius quod quid est de deo, non sit ratio cogno 
+        <lb ed="#Ba" n="2"/>scendi quod quid est in aliis. Primo sic. illud quod est ratio informandi aciem intel 
+        <lb ed="#Ba" n="3"/>ligentiae ad actum intelligendi, est ratio cognoscendi, quia secundum Augustinus, xv. 
+        <lb ed="#Ba" n="4"/>de triniitate. cap. x. formata cognitio ab ea re quam scimus verbum est, in quo scilicet consistit in 
+        <lb ed="#Ba" n="5"/>tellectualis cognitio. ratio informandi aciem intelligentiae ad actum intelligen- 
+        <lb ed="#Ba" n="6"/>di creaturas est species vniuersalis ab ipsis recepta. secundum <name ref="#Augustine">Augustinus</name> xi. de trinitate 
+        <lb ed="#Ba" n="7"/>cap. iii. Detracta specie corporis quae corporaliter sentitur, remanet in memoria simi 
+        <lb ed="#Ba" n="8"/>litudo eius, qua rursus voluntas conuertit aciem mentis, vt inde formetur intrinsecus, sicut ex corpore ob 
+        <lb ed="#Ba" n="9"/>iecto sensibili extrinsecus formabatur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1815-d1e140">
+        ⁋ Secundo sic. illud quo quis sibi conscius est &amp; in-  
+        <lb ed="#Ba" n="10"/>telligit quid bonum &amp; quid malum: est ratio cognoscendi illud. hoc est lex naturalis, vt dicit Glos. 
+        <lb ed="#Ba" n="11"/>super illud Roma. ii. Cum gentes quae legem non habent. lex autem naturalis non est aliqua dei co 
+        <lb ed="#Ba" n="12"/>gnitio: sed magis ipsarum rerum de quibus homo iudicat per illam legem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1815-d1e150">
+        ⁋ In contrarium 
+        <lb ed="#Ba" n="13"/>est, quoniam illasola cognitio certa est: qua res cognoscitur in ratione suae veritatis, non in ratione suae 
+        <lb ed="#Ba" n="14"/>imaginis. vt enim dicit Hu. super. x. ca. angelicae Hierar. si imago videtur veritas non videtur. ima- 
+        <lb ed="#Ba" n="15"/>go enim veritas non est. sed quicquid per intellectum accipitur a creaturis cognoscendis solum est 
+        <lb ed="#Ba" n="16"/>imago creaturae, vt species vniuersalis intelligibilis abstracta ab ipsa. secundum quod dicit <name ref="#Boethius">Boethius</name>  su- 
+        <lb ed="#Ba" n="17"/>per Commen. Porphy. Vniuersale est essentialis similitudo suppositorum. illud autem solum creatu 
+        <lb ed="#Ba" n="18"/>rarum veritas est, quod intellectus concipit per cognitionem in deo. dicit enim Augustinus. ii. de lib. arb. praesto 
+        <lb ed="#Ba" n="19"/>esse incommutabilem veritatem omnia quae vera sunt continentem omnibus communiter vera cer- 
+        <lb ed="#Ba" n="20"/>nentibus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1815-d1e173">
+        <lb ed="#Ba" n="21"/>⁋ Hic distinguendum primo ex parte cogniti de deo, secundo ex parte rationis 
+        <lb ed="#Ba" n="22"/>cognoscendi in deo. Quantum ad primum sciendum secundum quod habitum est supra articulo i. e. in  
+        <lb ed="#Ba" n="23"/>quaestione secunda: quod alia est cognitio qua apprehenditur de re id quod est verum in ea: &amp; alia 
+        <lb ed="#Ba" n="24"/>qua apprehenditur veritas eius: &amp; quod perfecta notitia rei non consistit solum in cognoscendo id quod ve 
+        <lb ed="#Ba" n="25"/>rum est in re: sed cum hoc in sciendo veritatem eius. Vnde primus intellectus de re quo intelligitur 
+        <lb ed="#Ba" n="26"/>id quod est in intellectu vero, omnium potest esse aut plurium indifferenter, quia sequitur imaginem 
+        <lb ed="#Ba" n="27"/>veram &amp; sensum verum de re quam multi ascendere non possunt. Intellectus vero secundus sapientium 
+        <lb ed="#Ba" n="28"/>solum: quia sequitur iudicium de concepto ex imaginatione &amp; sensu transcendens imaginationem &amp; sensum. Et 
+        <lb ed="#Ba" n="29"/>in hoc perficitur cognitio intellectiua: ad quam duo requiruntur. Quorum primum est verbum intel- 
+        <lb ed="#Ba" n="30"/>lectus quo informatur concipiendo quid quid est de re. Secundum vero est iudicium de tali conceptu 
+        <lb ed="#Ba" n="31"/>sine quo intellectus purus non est: sed semper phantasticus manet. Et est primus intellectus simplici- 
+        <lb ed="#Ba" n="32"/>um: &amp; ideo semper verorum est, secundum Philosophum. Intellige non concipiendo veritatem rei: sed  
+        <lb ed="#Ba" n="33"/>id quod verum est in re. Veritatem enim solum concipit intellectus secundus, qui in compositione &amp; diuisio 
+        <lb ed="#Ba" n="34"/>ne consistit. vnde &amp; verus &amp; falsus potest esse secundum Philosophum. In quo &amp; plures deluduntur 
+        <lb ed="#Ba" n="35"/>credentes percipere veritatem qui tamen eam non percipiunt verisimilitudine phantasmatum de- 
+        <lb ed="#Ba" n="36"/>cepti. secundum quod dicit <name ref="#Augustine">Augustinus</name> de vera religione. Amplectamur nostra phantasmata quae redeun- 
+        <lb ed="#Ba" n="37"/>tibus nobis ad intelligendum veritatem in itinere nobis occurrunt: &amp; nos transire non sinunt, quae  
+        <lb ed="#Ba" n="38"/>tamen quantum est ex se non nisi verum ex imaginatione &amp; sensu ostendunt. vnde non solum intellectus 
+        <lb ed="#Ba" n="39"/>simplicium apprehensionum semper verus: quin etiam semper verus est &amp; ipse sensus in apprehendendo &amp; nunciando:  
+        <lb ed="#Ba" n="40"/>ita quod omnis falsitas in iudicio &amp; collatione vel intellectus vel imaginationis oriatur. secundum quod dicit <name ref="#Augustine">Augustinus</name> iii. de 
+        <lb ed="#Ba" n="41"/>Acaca. Credo sensus non accusari vniversalque imagines falsas ferentes patiuntur: vel quod falsa in somnis videmus. Quic 
+        <lb ed="#Ba" n="42"/>quod possunt videre oculi verum vident: noli plus assentire quam vt ita tibi persuadeas apparere: &amp; nulla dece 
+        <lb ed="#Ba" n="43"/>ptio est. Quantum vero ex parte rationis cognoscendi in deo: Sciendum quod id quod quid est: in deo sicut duplici 
+        <lb ed="#Ba" n="44"/>ter potest cognosci ab homine, vno modo distincte &amp; in particulari in essentia &amp; natura eius nu- 
+        <lb ed="#Ba" n="45"/>da: alio modo indistincte &amp; in vniuersali in aliquo eius generali attributo, vt dictum est supra: Sic 
+        <lb ed="#Ba" n="46"/>quod quid est in deo, dupliciter potest esse ratio cognoscendi quod quid est in creatura. Vno modo vt ipsa 
+        <lb ed="#Ba" n="47"/>natura &amp; essentia diuina in propria ratione sit ratio cognoscendi quod quid est in creatura. Alio mo-  
+        <lb ed="#Ba" n="48"/>do vt ipsa sit ratio cognoscendi quod quid est in creatura sub ratione alicuius generalis attributi eius. 
+      </p>
+      <p xml:id="vn58an-d1e1815-d1e243">
+        <lb ed="#Ba" n="49"/>⁋ Dicendum igitur ad quaestionem: quod loquendo de cognitione eius quod quod est in creatura, apprehendendo id quod res est 
+        <lb ed="#Ba" n="50"/>non apprehendendo veritatem eius, semper cognitionis eius quod quod est in creaturis, est ratio cognoscendi id quod quid est h 
+        <lb ed="#Ba" n="51"/>in deo: non sub ratione essentiae &amp; naturae in esse particulari: sed sub ratione eius attributi in esse vniversalis ad modum quo  
+        <lb ed="#Ba" n="52"/>id quod est primum in vnoquoque genere semper est ratio eorum quae sunt post: vt dictum est in quaestine raedenti quod id quod quid est de deo 
+        <lb ed="#Ba" n="53"/>sub eius generali attributo, est id quod homo primo cognoscit ex creaturis, vt non solum sit ratio cognoscendi secun- 
+        <lb ed="#Ba" n="54"/>dum quod prima veritas est tantum ratio cognoscendi quamlibet aliam veritatem, vt dictum est supra in ti. i. quid ii. 
+   <!--305.xml-->
+        <pb ed="#Ba" n="145-v"/>
+        <lb ed="#Ba" n="1"/>Sed vt sit etiam obiectum cognitum. secundum quod dicetur in quaestione sequenti. Et hoc eueniet ex natura 
+        <lb ed="#Ba" n="2"/>ipsarum rerum cognoscibilium. Sicut enim ens determinatum per materiam aut per suppositum singu 
+        <lb ed="#Ba" n="3"/>lare &amp; determinatum, id quod est non habet esse nisi per formam quae in eo determinatur, quae de natu- 
+        <lb ed="#Ba" n="4"/>ra essentiae suae in se non dicit aliquid determinatum: &amp; ideo neque habet cognosci esse tale ens nisi ex cogni 
+        <lb ed="#Ba" n="5"/>tione ipsius formae in se ratione naturae &amp; essentiae suae in esse suo indeterminato: vnumquodque enim si- 
+        <lb ed="#Ba" n="6"/>cut se habet ad esse, &amp; ad cognitionem: Nemo enim potest cognoscere de hoc bono aut pulchro in na 
+        <lb ed="#Ba" n="7"/>tura &amp; essentia sua quale ens aut quid sit, nisi cognoscendo bonum et ens simpliciter: Sic non ha-  
+        <lb ed="#Ba" n="8"/>bet esse hoc ens aut hoc bonum nisi per ens simpliciter aut bonum simpliciter. &amp; sicut est de hoc bono 
+        <lb ed="#Ba" n="9"/>&amp; hoc ente respectu boni &amp; entis simpliciter &amp; absolute dicti: sic est de bono &amp; ente participato re 
+        <lb ed="#Ba" n="10"/>spectu boni &amp; entis non participati. Sicut enim hoc bonum &amp; hoc ens non potest esse neque cognosci nisi 
+        <lb ed="#Ba" n="11"/>per ens aut bonum simpliciter dictum: sic &amp; ipsum bonum &amp; pulchrum simpliciter consideratum vt non 
+        <lb ed="#Ba" n="12"/>determinatum per materiam aut per suppositum, si non sit essentialiter sed participatione bonum, &amp; ita 
+        <lb ed="#Ba" n="13"/>determinatum per materiam aut suppositum, non habet esse neque cognosci nisi per ipsum bonum sim- 
+        <lb ed="#Ba" n="14"/>pliciter non participatum: vt sicut bonum participatum non habet esse nisi per bonum non participatum 
+        <lb ed="#Ba" n="15"/>sic nec potest cognosci esse tale nisi cognito ipso quod est simpliciter &amp; per se bonum nec determi 
+        <lb ed="#Ba" n="16"/>natum nec participatum. secundum quod dicit Augustius viii. de triniitate. Bonum hoc, bonum illud. quid  
+        <lb ed="#Ba" n="17"/>plura &amp; plura: vide ipsum bonum si potes: ita deum videbis: nec alio bono bonum: sed omnis bonibo 
+        <lb ed="#Ba" n="18"/>num. Neque enim in omnibus bonis diceremus aliud alio melius cum vere iudicaremus, nisi esset nobis 
+        <lb ed="#Ba" n="19"/>impressa notio ipsa boni, secundum quam probaremus aliquid &amp; aliud alio praeponeremus. &amp; infra. Vbi noui 
+        <lb ed="#Ba" n="20"/>mus quid sit iustus etiam cum iusti nondum sumus. &amp; infra. An illud quod videt, veritas interior est prae 
+        <lb ed="#Ba" n="21"/>sens animo quam valet intueri: quasi dicat: immo. Et sic est de cognitione boni &amp; iusti, quod non cogno-  
+        <lb ed="#Ba" n="22"/>scimus bonum aut iustum nisi in ratione primi boni &amp; iusti: sicut est de amore boni: quod sicut non ama 
+        <lb ed="#Ba" n="23"/>mus aliquod bonum nisi in ratione primi boni: sic nec cognoscimus verum nisi in ratione primi ve 
+        <lb ed="#Ba" n="24"/>ri. De amore enim omnis boni in ratione primi boni dicit ibidem. Cur alium diligimus quem iustum 
+        <lb ed="#Ba" n="25"/>credimus, &amp; non diligimus ipsam formam, vbi videmus quid sit iustus, vt &amp; nos iusti esse posse- 
+        <lb ed="#Ba" n="26"/>mus: &amp; infra. An vero &amp; nisi istam diligeremus nullo modo eum diligeremus quem ex ista diligi- 
+        <lb ed="#Ba" n="27"/>mus: sed dum iusti non sumus minus eam diligimus quam vt iusti esse valeamus. Loquendo autem de co 
+        <lb ed="#Ba" n="28"/>gnitione eius quod quid est in creatura apprehendendo veritatem eius, sciendum iuxta id quid determina- 
+        <lb ed="#Ba" n="29"/>tum est supra in quaestione. ii. articuli primi, quod veritas rei non potest cognosci nisi cognoscendo con- 
+        <lb ed="#Ba" n="30"/>formitatem eius ad suum exemplar: &amp; quod duplex est exemplar ad quod habet cognosci: vnum acceptum 
+        <lb ed="#Ba" n="31"/>a re, quod est species vniuersalis in mente: alterum causans res, quod est ars idealis existens in mente diui 
+        <lb ed="#Ba" n="32"/>na. De cognitione autem eius quod quid est creaturae cognitione veritatis determinatum est su- 
+        <lb ed="#Ba" n="33"/>pra, quomodo sine illustratione exemplaris veritatis primae nulla veritas aut simpliciter aut saltem 
+        <lb ed="#Ba" n="34"/>syncera potest cognosci. Per iam dicta patet ad argumenta. 
+      </p>
+      <p xml:id="vn58an-d1e1815-d1e337">
+        <lb ed="#Ba" n="35"/>⁋ Ad primum quod ex specie detracta a corpore manet menoria, vnde formatur acies 
+        <lb ed="#Ba" n="36"/>mentis ad intelligendum verum: Dicendum quod verum est in cognoscendo id quod verum est de re: non  
+        <lb ed="#Ba" n="37"/>autem intelligendo veritatem rei vel simpliciter vel syncerae &amp; iudicio certo: quod solum sit in ra 
+        <lb ed="#Ba" n="38"/>tione primae veritatis, vt dictum est. In cognoscendo etiam vel id quod verum est, vel ipsam veritatem quo  
+        <lb ed="#Ba" n="39"/>cunque modo non contingit aliquid intelligere in creaturis nisi intelligendo id quod deus est in pri- 
+        <lb ed="#Ba" n="40"/>mis conceptibus generalibus, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e1815-d1e353">
+        ⁋ Ad secundum quod in lege naturali intelligit homo quid  
+        <lb ed="#Ba" n="41"/>bonum &amp; quid malum: Dicendum similiter quod hoc non facit intelligendo synceram veritatem: aut  
+        <lb ed="#Ba" n="42"/>etiam forte veritatem qualemcunque nisi in lumine primae veritatis tanquam in eo quod est ratio intel- 
+        <lb ed="#Ba" n="43"/>ligendi tantum: non autem obiectum intellectum vt supra determinatum est: aut intelligendo quocun 
+        <lb ed="#Ba" n="44"/>quod modo veritatem, aut id quod verum est, nisi in ratione primae veritatis tanquam in eo quod est obiectum pri 
+        <lb ed="#Ba" n="45"/>mo cognitum, vt patebit in quaestione sequenti: quod in hoc est ratio cognoscendi alia, non tanquam in eo quod est 
+        <lb ed="#Ba" n="46"/>ratio cognoscendi tantum: quia quolibet intellecto intelligitur id quod deus est in primis conceptibus re 
+        <lb ed="#Ba" n="47"/>rum, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e1815-d1e371">
+        ⁋ Ad argumentum in oppositum: bene probat intentum nostrum secundum 
+        <lb ed="#Ba" n="48"/>determinationem <name ref="#Augustine">Augustinus</name> quod nullum verum aut alicuius rei veritas potest cognosci aliter quam in pri 
+        <lb ed="#Ba" n="49"/>ma veritate: &amp; hoc vel in nudo exemplari diuinae essentiae, vt in eo quod est ratio cognoscendi verita- 
+        <lb ed="#Ba" n="50"/>tem tantum: non autem obiectum cognitum: vel in aliquo eius generali attributo, vt in eo quod est primum obiectum cognitum 
+        <lb ed="#Ba" n="51"/>&amp; per hoc ratio cognoscendi omne aliud quod intelligibiliter cognoscitur. Et ex his duobus conflatur de 
+        <lb ed="#Ba" n="52"/>terminatio <name ref="#Augustine">Augustinus</name> quod omne quod intelligitur, in prima veritate intelligitur. Aliquando enim lo- 
+        <lb ed="#Ba" n="53"/>quitur secundum vnum modum, vt in viii. de trinitate. Vide bonum hoc &amp; bonum illud &amp;c. Saepius autem 
+   <!--306.xml-->
+        <pb ed="#Ba" n="146-r"/>
+        <lb ed="#Ba" n="1"/>loquitur secundum alium modum: nec habet perfecte intentionem <name ref="#Augustine">Augustinus</name> qui intelligit eum secun- 
+        <lb ed="#Ba" n="2"/>dum alium modum solummodo locutum fuisse.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

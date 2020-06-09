@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="20-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe5367"> <!-- alias="vn58an-a46prae" -->
+      <head xml:id="vn58an-fe5367-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-fe5367-d1e107">
+   <!--55.xml-->
+            <pb ed="#Bb" n="20-v"/>
+        <lb ed="#Bb" n="1"/>
+        ⁋ Arti. &amp; Vl. 
+        <lb ed="#Bb" n="2"/>SEquitur Arti. &amp;LVl. de amore, qui rationem habitus vi. 
+        <lb ed="#Bb" n="3"/>detur habere in dei voluntate. Et quia hoc non est omnino certum: 
+        <lb ed="#Bb" n="4"/>deo circa hoc quaeruntur quatuor.  
+        <lb ed="#Bb" n="5"/>rimum: vtrum voluntas dei in se habet rationem alicuius ha-  
+        <lb ed="#Bb" n="6"/>itus. 
+        <lb ed="#Bb" n="7"/>Secundum: vtrum habitus morales etiam omnes sint in dei voluntate.  
+        <lb ed="#Bb" n="8"/>Tertium: vtrum amor sit in deo.  
+        <lb ed="#Bb" n="9"/>uartum: vtrum amor in deo habeat habitus aut alicuius alterius 
+        <lb ed="#Bb" n="10"/>rationem.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

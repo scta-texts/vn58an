@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="33-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe9106"> <!-- alias="vn58an-a49q3" -->
+      <head xml:id="vn58an-fe9106-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe9106-d1e107">
+        <lb ed="#Bb" n="36"/>CIrca tertium arguitur quod tres personae non sint vnus beatus: sed tres beati: Pri- 
+        <lb ed="#Bb" n="37"/>mo sic. beatitudo rei consistit in suo actu perfecto respectu obiecti optimi, secundum  
+        <lb ed="#Bb" n="38"/>philosophum. x. Ethicc. quod ergo beatus denominetur beatus: hoc est a sua actione. sed de 
+        <lb ed="#Bb" n="39"/>nominatio diuinaru personarum ab actione secundum quod est actio egrediens, sit in plu 
+        <lb ed="#Bb" n="40"/>rali. secundum quod dicimus quod pater &amp; filius &amp; spiritus sanctus sunt tres creantes, non autem 
+        <lb ed="#Bb" n="41"/>vnus creans. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe9106-d1e123">
+        ⁋ Secundo sic. bene dicitur quod pater &amp; filius &amp; spiritus sanctus 
+        <lb ed="#Bb" n="42"/>sunt beati: &amp; sunt tres: quare sunt tres beati. Vel sic. si sunt beati: aut ergo vnus beati: aut plures 
+        <lb ed="#Bb" n="43"/>beati. sed illa propter incongruitatem non recipitur quod sint vnus beati. ergo debet dici quod sunt plures 
+        <lb ed="#Bb" n="44"/>beati. &amp; non nisi tres. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe9106-d1e132">
+        ⁋ In contrarium est. quod pater &amp; filius &amp; spiritus sanctus non minus 
+        <lb ed="#Bb" n="45"/>sunt vnum in beatitudine quam in aeternitate &amp; potestate. sed propter identitatem in illis pater &amp; filius 
+        <lb ed="#Bb" n="46"/>&amp; spiritus sanctus dicuntur non tres aeterni vel potentes: sed vnus aeternus &amp; vnus potens: vt habe- 
+        <lb ed="#Bb" n="47"/>tur in symbolo Athanasii. ergo &amp;c. 
+        <lb ed="#Bb" n="48"/>
+      </p>
+      <p xml:id="vn58an-fe9106-d1e144">
+        ⁋ Dicendum ad hoc: secundum inferius determinanda in quaestionibus de modo loquem 
+        <lb ed="#Bb" n="49"/>di de deo &amp; de diuinis praedicationibus, quod circa praedicationem eorum quae conveniunt communiter tribus personis, 
+        <lb ed="#Bb" n="50"/>regula est quod denominationes quae siunt ab eis per adiectiua nominia vel participia: quando illa pure adiectiue 
+        <lb ed="#Bb" n="51"/>tenentur: tunc semper pluraliter de tribus personis dicuntur: &amp; hoc quia tres personae sunt ipsum substantiuum 
+        <lb ed="#Bb" n="52"/>eius: &amp; adiectiua vt adiectiua substantiuo debent conformari in nunero sicut in genere &amp; in casu. &amp; ideo  
+        <lb ed="#Bb" n="53"/>bene dicitur quod pater &amp; filius &amp; spiritus sanctus sunt aeterni: hoc est personae aeternae: &amp; similiter quod 
+        <lb ed="#Bb" n="54"/>sunt beati: hoc est personae beatae. Quando vero tenentur substantiue, tunc non dicuntur de pluribus 
+   <!--82.xml-->
+        <pb ed="#Bb" n="34-r"/>
+        <lb ed="#Bb" n="1"/>personis nisi singulariter &amp; non pluraliter. Et hoc ideo, quia secundum eandem rationem pluribus conveniunt 
+        <lb ed="#Bb" n="2"/>Vnde non bene dicimus quod pater &amp; filius &amp; spiritus sanctus sunt tres aeterni: sed solummodo quod sunt vnus 
+        <lb ed="#Bb" n="3"/>aeternus. Tunc autem tenentur substantiue, quando eis adiugitur aliquod adiectiuum adiectiue retentum, cuiusmodi 
+        <lb ed="#Bb" n="4"/>est vnus duo vel tres vel plures: &amp; non excipiuntur ab illa regula: nisi duo casus in quibus pluraliter 
+        <lb ed="#Bb" n="5"/>denominantur plures personae ab eo quod eis convenit coniter: quorum vnus est: quando denominatio significatur verbaliter 
+        <lb ed="#Bb" n="6"/>quemadmodum significatur in participio. Vnde bene dicitur quod pater &amp; filius &amp; spiritus sanctus sunt tres creantes: sicut 
+        <lb ed="#Bb" n="7"/>dicitur quod sunt tres quid creant. Et forte non ita bene dicitur quod sunt vnus creans: sicut non bene dicitur quod pater &amp; fi 
+        <lb ed="#Bb" n="8"/>lius &amp; spiritus sanctus sunt qui creat. Et hoc ideo, quia secundum supra determinata omnis actio diuina vt agenti 
+        <lb ed="#Bb" n="9"/>attribuitur supposito secundum rationem suppositi: &amp; ab actu denominatur secundum quod ei attribuitur &amp; ab ipsa 
+        <lb ed="#Bb" n="10"/>egreditur siue procedit. Quare cum egreditur ab eis vt sunt plures agentes, pluraliter ab actu significato sub 
+        <lb ed="#Bb" n="11"/>ratione actus denominantur, etiam si sit vna ratio agendi in pluribus: vt est diuina essentia sub ratione alicuius 
+        <lb ed="#Bb" n="12"/>attributi, vt habitum est supra. Alius vero casus est, quando ratio secundum quam procedit actio a pluribus: 
+        <lb ed="#Bb" n="13"/>non habet penitus &amp; omnino rationem vnius &amp; eiusdem: immo quodammodo plurium: qualis est ratio con- 
+        <lb ed="#Bb" n="14"/>munis voluntatis patris &amp; filii in spirando spntum sctantm, non enim est ratio spirandi ambobus vt est vo 
+        <lb ed="#Bb" n="15"/>tas simpliciter &amp; absolute: sed vt est voluntas concors. &amp; sic vt quodammodo respicit plures: sicut quo-  
+        <lb ed="#Bb" n="16"/>rum est: sic quodammodo habet rationem pluris. Propter quid secundum quosdam non bene dicitur quod pater &amp; 
+        <lb ed="#Bb" n="17"/>filius sunt vnus spirator sed duo spiratores, de quo erit sermo amplior inferius. 
+      </p>
+      <p xml:id="vn58an-fe9106-d1e201">
+        ⁋ Descendendo  
+        <lb ed="#Bb" n="18"/>igitur ad propositam quaestionem: Dico quod beatitudo quia significat per modum habitus non actus: &amp; secundum 
+        <lb ed="#Bb" n="19"/>vnam &amp; eandem rationem convenit tribus personis: quia ratione actus intelligendi &amp; volendi omnino vnius &amp; 
+        <lb ed="#Bb" n="20"/>eiusdem vniformis in tribus, quo assequuntur obiectum beatificans: vt iam infra dicetur: Qui etiam etsi ponuntur se 
+        <lb ed="#Bb" n="21"/>cundum quosdam esse de ratione beatitudinis, adhuc convenit tribus secundum eandem rationem omnino scilicet ratione 
+        <lb ed="#Bb" n="22"/>diuinae essentiae vt habet rationem potentiae volitiuae vel cognitiue: Idcirco simpliciter &amp; absolute dicen 
+        <lb ed="#Bb" n="23"/>dum quod pater &amp; filius debent dici vnus beatus &amp; non tres beati. 
+        <lb ed="#Bb" n="24"/>
+      </p>
+      <p xml:id="vn58an-fe9106-d1e219">
+        ⁋ Ad primum in oppositum: quod beatitudo consistit in actu: Dicendum quod &amp; licet beatitu 
+        <lb ed="#Bb" n="25"/>do principaliter constaret in actu, &amp; ab actu ipso diceretur quis beatus: quia tamen denominatio ista significatur nomina 
+        <lb ed="#Bb" n="26"/>liter: &amp; per modum habitus: &amp; eadem est penitus ratio in tribus eliciendo illum actum: ideo non debent ab illo 
+        <lb ed="#Bb" n="27"/>actu dici pluraliter tres beati: sed vnus beatus. 
+      </p>
+      <p xml:id="vn58an-fe9106-d1e228">
+        ⁋ Ad secundum quod pater &amp; filius &amp; spiritus sanctus sunt beati 
+        <lb ed="#Bb" n="28"/>&amp;c. Dicendum quod bene dicitur quod sunt beati: quia ly beati pure adiectiue tenetur: &amp; per eandem rationem bene dicitur 
+        <lb ed="#Bb" n="29"/>quod sunt tres &amp; hoc praedicando vtrumque diuisim. Sed tamen non sequitur coniunctim quod sint tres beati: quia non secundum  
+        <lb ed="#Bb" n="30"/>eandem rationem habent quod sunt beati: &amp; quod sunt tres: quia sunt brim ratione vnius &amp; eiusdem quod est eis commune 
+        <lb ed="#Bb" n="31"/>vt dictum est: sunt vero tres ratione differentium proprietatum. Et ideo in proposito non sequitur ex diuisis coniunctum 
+        <lb ed="#Bb" n="32"/>sicut non sequitur: iste est albus, &amp; est monachus: igitur est albus monachus: quia est albus ratione corpora 
+        <lb ed="#Bb" n="33"/>lis dispositionis: est vero monachus ratione regularis professionis. Est etiam in se falsa ista coniuncta, pa 
+        <lb ed="#Bb" n="34"/>ter &amp; filius &amp; spiritus sanctus sunt tres beati: quia ly beati tenetur substantiue: &amp; ideo significatur ipsa beati 
+        <lb ed="#Bb" n="35"/>tudo plurificari in sua essentia secundum personarum pluralitatem in earum personalitate. quod falsum 
+        <lb ed="#Bb" n="36"/>est: vt patet ex supra determinatis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

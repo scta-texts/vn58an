@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="112-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1416"> <!-- alias="vn58an-a17q2" -->
+      <head xml:id="vn58an-d1e1416-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e1416-Hd1e107" type="question-title">Utrum quaecumque eius expositio cuilibet indifferenter sit proponenda</head>
+      <p xml:id="vn58an-d1e1416-d1e110">
+        <lb ed="#Ba" n="18"/>CIrca secundum arguitur: quod quaecunque expositio cuilibet indifferenter est pro- 
+        <lb ed="#Ba" n="19"/>ponenda. Primo sic. Expositio quaelibet proponitur propter eruditionem au-  
+        <lb ed="#Ba" n="20"/>dientis. audiens autem quilibet indiget erudiri per quamlibet expositionem. er 
+        <lb ed="#Ba" n="21"/>go quaelibet expositio indifferenter proponenda est cuilibet. 
+      </p>
+      <p xml:id="vn58an-d1e1416-d1e121">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="22"/>propter illos qui capere possunt: non est omittenda expositio quam alii capere non 
+        <lb ed="#Ba" n="23"/>possunt: vt dicit <name ref="#Augustine">Augustinus</name> in princip. super Io Nec propter intelligentes est 
+        <lb ed="#Ba" n="24"/>omittenda expositio quae valet non intelligentibus: vt dicit ser. xxxix. hoc non  
+        <lb ed="#Ba" n="25"/>esset nisi cuilibet quaelibet expositio indifferenter esset proponenda. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1416-d1e136">
+        ⁋ In contrarium est illud  
+        <lb ed="#Ba" n="26"/>quod dicit <name ref="#Augustine">Augustinus</name> super loperid es. ser. xliiii. Sermo vt non solum credatur verum etiam intelligatur quod dici 
+        <lb ed="#Ba" n="27"/>tur &amp; sciatur, talia percipere non valentibus est onerosus: faciliusque illos premit quam pascit. sed nulli 
+        <lb ed="#Ba" n="28"/>est proponenda expositio qua audiens premitur non pascitur: non ergo quaelibet expositio cui 
+        <lb ed="#Ba" n="29"/>libet est proponenda. 
+      </p>
+      <p xml:id="vn58an-d1e1416-d1e150">
+        <lb ed="#Ba" n="30"/>⁋ Dicendum ad hoc: quod est diuersitas expositionum dupliciter: &amp; secundum diuersa ge 
+        <lb ed="#Ba" n="31"/>nera exponendi quatuor praedeterminata: vel secundum diuersos modos in eodem genere differentes 
+        <lb ed="#Ba" n="32"/>penes grossitatem vel obtusitatem &amp; subtilitatem. Si loquamur de diuersitate expositionum penes 
+        <lb ed="#Ba" n="33"/>exponendi genera: sic quaelibet expositio cuilibet indifferenter proponenda est. si tamen exponendi mo-  
+        <lb ed="#Ba" n="34"/>dus sit capacitati audientis proportionalis. summa enim cautela adhibenda est ne aliqua expositio 
+        <lb ed="#Ba" n="35"/>proponatur: quae capacitati eius cui proponitur non congruit. Vnde loquendo de diuersitate exposi- 
+        <lb ed="#Ba" n="36"/>tionum penes modos exponendi: considerare debet expositor: siue in praedicatione: siue in locutione:  
+        <lb ed="#Ba" n="37"/>an commixti sint capaces &amp; spirituales carnalibus &amp; non capacibus: an sint distincti. Si commixti 
+        <lb ed="#Ba" n="38"/>tunc quaelibet expositio cuilibet proponenda est: quia propter non capaces non est omittenda subtilis ex 
+        <lb ed="#Ba" n="39"/>positio quam alii possunt capere. vt dictum est. secundum <name ref="#Augustine">Augustinus</name> ser id est super Ion in princi, nec propter capaces 
+        <lb ed="#Ba" n="40"/>omittenda est expositio grossa quam alii capere possunt. vt dicit in ser. xxxiiii. in prin. Sic ergo tunc 
+        <lb ed="#Ba" n="41"/>temperanda est expositio: vt cum grossa expositione quam capiunt carnales, misceantur subtilia quae pe 
+        <lb ed="#Ba" n="42"/>netrare faciunt spirituales: vt singulus quisque quod potuerit capere capiat: vt idem sermo propositus lac 
+        <lb ed="#Ba" n="43"/>sit paruulis: &amp; cibus maioribus. secundum quod dictum est supra quod Paulus Cori, non potuit loqui quasi 
+        <lb ed="#Ba" n="44"/>spiritualibus: sed quasi carnalibus: qui tamen sapientiam loquaebatur inter perfectos. Non quia alia &amp; alia 
+        <lb ed="#Ba" n="45"/>proposuit his &amp; illis: sed quia eundem sermonem apprehendebant illi carnaliter: &amp; isti spiritualiter. 
+        <lb ed="#Ba" n="46"/>Vnde subiuxit ex parte illorum pro causa. Nondum enim poteratis intelligere: sed nec nunc quidem potestis 
+        <lb ed="#Ba" n="47"/>Adhuc enim carnales estis, quasi dicat, potuissetis intellexisse spiritualiter sicut &amp; alii: sed re- 
+        <lb ed="#Ba" n="48"/>stabat in vobis: quia capaces non eratis per habitum habentes sensus exercitatos ad separandum bo- 
+        <lb ed="#Ba" n="49"/>num a malo. sicut dicit Apostolus ad Heb. de illis quos perfectos vocat. Si autem seorsum sunt capaces 
+        <lb ed="#Ba" n="50"/>&amp; non capaces, capacibus indifferenter quaelibet grossa expositio &amp; subtilis proponenda est: 
+        <lb ed="#Ba" n="51"/>quia qui capere possunt maius &amp; minus: quia id quod minus est, manuductiuum est ad maius:  
+        <lb ed="#Ba" n="52"/>&amp; quod maius est quod minus est intelligere facit. &amp; quantuncumque capaces sunt vt eis plus compe- 
+        <lb ed="#Ba" n="53"/>tat subtilis expositio rationis quam grossa auctoritatis: ab initio tamen talibus expositio grossa via 
+        <lb ed="#Ba" n="54"/>auctoritatis proponenda est. Secundum quod docet <name ref="#Augustine">Augustinus</name> ii. Ii. de ordine, dicens: Sequitur vt dicam quomodo  
+   <!--239.xml-->
+        <pb ed="#Ba" n="112-v"/>
+        <lb ed="#Ba" n="1"/>studiosi erudiri debeant. Ad discendum autem necessario dupliciter ducimur: auctoritate: atque ra 
+        <lb ed="#Ba" n="2"/>tione. Tempore auctoritas: re autem ratio prior est. ltaque quamquam bonorum auctoritas imperitae multitudini 
+        <lb ed="#Ba" n="3"/>videatur salubrior esse: ratio vero aptior eruditis: tamen quia nullus hominum nisi de imperito peri- 
+        <lb ed="#Ba" n="4"/>tus fit: nullus autem imperitus nouit qualem se debeat praebere docentibus: &amp; quali vita esse 
+        <lb ed="#Ba" n="5"/>docilis possit: euenit vt omnibus bona magna &amp; occulta discere cupientibus non aperiat nisi 
+        <lb ed="#Ba" n="6"/>auctoritas ianuam. Rationem autem post auctoritantis cunabula firmus &amp; idoneus iam sequitur atque  
+        <lb ed="#Ba" n="7"/>comprehendit. Vnde non restat difficultas nisi quo ad non capaces: an quaelibet expositio indifferenter eis 
+        <lb ed="#Ba" n="8"/>proponenda est. Et est dicendum quod talibus maxime si inexercitati sint in doctrina sacra, subtilis expo- 
+        <lb ed="#Ba" n="9"/>sitio per rationem capacitatem eorum excedentem omnino non est proponenda: quia vt di- 
+        <lb ed="#Ba" n="10"/>cit Orig. in Homilis. de Rebecca, Nemo inexercitatus &amp; imperitus sermonem propheticum susci 
+        <lb ed="#Ba" n="11"/>pit. Et <name ref="#Augustine">Augustinus</name> super Ion ser. xliiii. partis secundae. Inualida &amp; inexercitata mente nisi fidei quo  
+        <lb ed="#Ba" n="12"/>dam lacte teneantur: vt inuisibilia quae non vident, &amp; intelligibilia quae nondum intelligunt credant: facile ad  
+        <lb ed="#Ba" n="13"/>vanas &amp; sacrilegas promissiones scientiae seducuntur: quia validus cibus profundae expositio- 
+        <lb ed="#Ba" n="14"/>nis eis onerosus est: &amp; facilius praemit quam pascit. Et de quantitate animae. Tales homines quorum 
+        <lb ed="#Ba" n="15"/>profecto maxima multitudom est, si ratione velint verum comprehendere, similitudinibus rationum  
+        <lb ed="#Ba" n="16"/>facillime decipiuntur: &amp; in vanas noxiasque opiniones ita labuntur: vt emergi inde &amp; libera- 
+        <lb ed="#Ba" n="17"/>ri aut nunquam aut difficillime queant. Et Chrysostomus super illud Matth. xxi. Ex ore infantium. 
+        <lb ed="#Ba" n="18"/>Sicut infanti si dederis fragmentum panis: quoniam angustas habet fauces: effocatur magis quam 
+        <lb ed="#Ba" n="19"/>nutriatur: Sic &amp; homini imperfecto in fide: &amp; puero in sensibus, si altiora mysteria sapientiae 
+        <lb ed="#Ba" n="20"/>volueris dicere angustam habenti fidem &amp; sensum, magis scandalizabitur quam aedificetur. His ergo  
+        <lb ed="#Ba" n="21"/>vtilissimum est auctoritati credendo vitam ducere. Et ideo dicit <name ref="#Augustine">Augustinus</name> de vera rei. Amagnis 
+        <lb ed="#Ba" n="22"/>&amp; spiritualibus viris ecclesiae video cautissime prouideri nequid agant quod nondum esse tem- 
+        <lb ed="#Ba" n="23"/>poris vt cum populo agatur intelligunt: alimenta lactea populis instanter infundunt: validio 
+        <lb ed="#Ba" n="24"/>ribus autem cibis cum sapientibus paucis vescuntur: carnalibus vero &amp; animalibus nonnul- 
+        <lb ed="#Ba" n="25"/>la obtegunt: sed nulla mentiuntur. Pessime ergo faciunt qui laicis &amp; mulieribus proponunt &amp; 
+        <lb ed="#Ba" n="26"/>exponunt sacrae scripturae occulta &amp; secreta mysteria: quia &amp; ipsi nil inde fructificant: immo ma 
+        <lb ed="#Ba" n="27"/>gis magisque laeduntur: &amp; mille eis pericula inde contingunt. Hinc dicit Chrysostomus super illud  
+        <lb ed="#Ba" n="28"/>Matth. vii. Nolite sanctum dare canibus. Audiant qui impudenter omnibus ac temere copu- 
+        <lb ed="#Ba" n="29"/>lantur, despicabilia illa quae sunt reuerenda facientes. Nam &amp; mysteria clausis ianuis idcirco ce 
+        <lb ed="#Ba" n="30"/>lebramus: &amp; eos qui nondum initiati sunt adesse prohibemus: non quia infirmitatem aliquam  
+        <lb ed="#Ba" n="31"/>mysteriorum deprehendimus: sed quia ad perceptionem eorum illi adhuc quos arcemus infir- 
+        <lb ed="#Ba" n="32"/>mi sunt. Propter quod etiam ipse Christus multa ad ludaeos in parabola disserebat: quoniam viden- 
+        <lb ed="#Ba" n="33"/>tes non videbant. Propterea iussit &amp; Paulus scire nos quemadmodum debeat vnicuique responderi. 
+        <lb ed="#Ba" n="34"/>Et ideo in figuram huius, discipuli. Matth. xiiii. confractum panem turbis proponebant. Sed minu 
+        <lb ed="#Ba" n="35"/>tias reliquiarum. xii. cophinos tulerunt. Per panes illos secundum Gl. sacra scriptura intelligitur: per 
+        <lb ed="#Ba" n="36"/>fractionem vero grossa expositio quam populares capere possunt: per reliquias, subtiles expositio- 
+        <lb ed="#Ba" n="37"/>nes quas doctores debent ab illis auferre: &amp; sibi reseruare. Secundum quod ibi dicit Gl. Secretiora quae a 
+        <lb ed="#Ba" n="38"/>rudibus capi nequeunt: non sunt negligenter habenda: sed a. xii. apostolis, vt per. xii. cophinos: &amp; 
+        <lb ed="#Ba" n="39"/>ab eorum successoribus diligenter inqnirenda. Eis enim subtilis expositio magis est proficua. secundum quod  
+        <lb ed="#Ba" n="40"/>dicit Chrys osto. vt supra Matth. xxi. Viro perfecto si dederis lac: fauces eius delectat: mentem autem 
+        <lb ed="#Ba" n="41"/>eius non confortat. Si autem panem manducet: non tantum fauces delectat quantum praestat ei virtutem. 
+        <lb ed="#Ba" n="42"/>Sic viro perfecto &amp; maturo sensibus si vber sapientiae exposueris: ratione delectatur vt aedificetur 
+        <lb ed="#Ba" n="43"/>in fide. Vnde etiam &amp; capacibus non singulariter aeque profunda expositio est proponenda: sed singu 
+        <lb ed="#Ba" n="44"/>lis secundum capacitatem suam. secundum quod dicit <name ref="#Augustine">Augustinus</name> in epistola ad Consentium. Si iam fidelis rationem poscat vt quod  
+        <lb ed="#Ba" n="45"/>credit intelligat, capacitas eius intuenda est: vt secundum rationem redditam sumat fidei suae quantam  
+        <lb ed="#Ba" n="46"/>potest intelligentiam, maiorem si plus capit, minorem si minus: vt sic continue per gradus prudens exposi 
+        <lb ed="#Ba" n="47"/>tor suppleat quae fidei eorum defuerunt: Sicut promisit apsts facere Thessal. postquam capaciores facti erant:  
+        <lb ed="#Ba" n="48"/>prius grossiori expositione suscepta quando non sufficiebant capere profundiorem: vt conpetenter eis 
+        <lb ed="#Ba" n="49"/>tunc dicere potuisset. Adhuc multa habeo vobis dicere quae non potestis portare modo. sicut di 
+        <lb ed="#Ba" n="50"/>xit Christus apostolis, quod exponens <name ref="#Augustine">Augustinus</name> super Ion ser. xliiii. dicit. Illa ipsa quae docuerat si vellet eis 
+        <lb ed="#Ba" n="51"/>sic apeire vt in illo conspiciuntur ab angelis, hoc infirmitas humana in qua adhuc erant ferre non  
+        <lb ed="#Ba" n="52"/>posset. Spiritualis autem homo quilibet potest alterum hominem docere quod nouit: si proficiendo capaciorem 
+        <lb ed="#Ba" n="53"/>faciat spiritus sanctus, quamquam etiam &amp; inter ipsos spirituales sunt vtique aliis alii capaciores: vt quidam il- 
+        <lb ed="#Ba" n="54"/>lorum ad illa peruenerit: quae non licet homini loqui. Vnde bonam doctrinam generalem de 
+        <lb ed="#Ba" n="55"/>modo docendi &amp; exponendi sacram scripturam dat Aug. lii iii quies super euangelia: dicens. Boni 
+   <!--240.xml-->
+        <pb ed="#Ba" n="113-r"/>
+        <lb ed="#Ba" n="1"/>autem catholici sunt: qui &amp; fidem integram sequuntur &amp; bonos mores. quod autem ad doctrinam fidei 
+        <lb ed="#Ba" n="2"/>pertinet, ita quaerunt si quid quaerendum habent, vt absit concertatio periculosa, vel ei cum quo quaeritur 
+        <lb ed="#Ba" n="3"/>vel eis qui discentes audiunt. lta autem docent si quid docendum habent: vt vsitata &amp; confirmata se- 
+        <lb ed="#Ba" n="4"/>curissime &amp; confidentissime &amp; leuissime vt possunt infinuent. Inusitata vero etiam si veritati manifesta 
+        <lb ed="#Ba" n="5"/>tione liquidissima perceperint, quaerendi potius quam praecipiendi aut affirmandi modo propter audien 
+        <lb ed="#Ba" n="6"/>tis infirmitatem. Si enim tantum habet pondus aliquod verum vt vires discentis excedat: suspendendum  
+        <lb ed="#Ba" n="7"/>est vt extendat crescentem: non imponendum vt obterat paruulum: aliquando autem &amp; occultandum est: 
+        <lb ed="#Ba" n="8"/>sed cum spe hortatoria: vt non faciat despeatio frigidiores: sed desiderium capaciores. Inde est illud eiusdem 
+        <lb ed="#Ba" n="9"/>domini. Multa habeo vobis dicere: sed non potestis portare modo. Vnde &amp; consimilem modum de 
+        <lb ed="#Ba" n="10"/>bet homo obseruare studio sacrae scripturae per se insistendo. secundum <name ref="#Augustine">Augustinus</name> ii. de doctrina christiana 
+        <lb ed="#Ba" n="11"/>dicentem. Erit diuinarum scripturarum solertissimus indagator qui prius totas legerit notasque habuerit:  
+        <lb ed="#Ba" n="12"/>etsi nondum intelligentia, iam tamen lectione. Deinde illa quae in eis aperte posita sunt, diligentius in-  
+        <lb ed="#Ba" n="13"/>uestiganda sunt. Tum vero facta quadam familiaritate cum ipsa ligua diuinarum scripturarum, in ea 
+        <lb ed="#Ba" n="14"/>quae obscuriora sunt aperienda &amp; discutienda pergendum est: vt ad obscuriores lectiones illustrandas 
+        <lb ed="#Ba" n="15"/>de maioribus sumantur exempla: &amp; quaedam certarum sententiarum testimonia dubitationem incertis auferant. 
+      </p>
+      <p xml:id="vn58an-d1e1416-d1e389">
+        <lb ed="#Ba" n="16"/>⁋ Ad primum in oppositum, quod audiens quilibet indiget erudiri per quamlibet exposi 
+        <lb ed="#Ba" n="17"/>tionem: Dicendum quod verum est quo ad singula genera expositionum. quo ad modos autem expositio- 
+        <lb ed="#Ba" n="18"/>num: etiam licet indigeret instructione profunda &amp; subtili: proponi tamen non debet nisi competens ca- 
+        <lb ed="#Ba" n="19"/>pacitati suae: quia alias esset ei inutilis &amp; perniciosa, vt dictum est. &amp; modo exponendi sibi congruo be 
+        <lb ed="#Ba" n="20"/>ne potest instrui secundum quodlibet genus sacrae scripturae: quantum sufficit ad salutem. 
+      </p>
+      <p xml:id="vn58an-d1e1416-d1e402">
+        ⁋ Ad secun 
+        <lb ed="#Ba" n="21"/>dum quod propter rudes non est expositio subtilis omittenda nec econtrario: Dicendum quod verum est cum 
+        <lb ed="#Ba" n="22"/>mixti sunt. tunc tamen expositio sic temperanda est, vt quilibet inueniat, quod secundum modum  
+        <lb ed="#Ba" n="23"/>suum capere possit, sicut dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="201-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe55099"> <!-- alias="vn58an-a64q2" -->
+      <head xml:id="vn58an-fe55099-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe55099-d1e107">
+        <lb ed="#Bb" n="7"/>CIrca secundum arguitur quod genera relationum conmunium differunt inter se secundum rem 
+        <lb ed="#Bb" n="8"/>non secundum rationem tantum, sic. relationes quae inter se differunt absque omni opere &amp; 
+        <lb ed="#Bb" n="9"/>consideratione rationis, differunt secundum rem, &amp; non secundum rationem tantum: quia dif- 
+        <lb ed="#Bb" n="10"/>erentia secundum rationem non est absque opere &amp; consideratione rationis. tria genera re 
+        <lb ed="#Bb" n="11"/>lationum conmunium sunt huiusmodi, tam in creaturis: in quibus hoc manifestum est pro 
+        <lb ed="#Bb" n="12"/>pter realem differentiam fundamentorum suorum, quae sunt substantia, quantitas, &amp; 
+        <lb ed="#Bb" n="13"/>qualitas: quam in diuinis: quia personae diuinae tres eaedem sunt aequales &amp; similes verius quam aliqua in  
+        <lb ed="#Bb" n="14"/>creaturis, sicut dictum est in parte supra, &amp; amplius exponetur infra. verius autem sunt eadem, aequa-  
+        <lb ed="#Bb" n="15"/>lia, &amp; similia, quae sunt talia absque rationis consideratione a natura rei quam quae ex rationis consideratione:  
+        <lb ed="#Bb" n="16"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe55099-d1e131">
+        ⁋ Secundo arguitur quod non differunt inter se nisi secundum rationem tantum, sic. differentia siue quae differunt 
+        <lb ed="#Bb" n="17"/>illis differunt quibus habent esse. Vnde illa differunt substantialiter quae differunt illis quibus habent esse sub 
+        <lb ed="#Bb" n="18"/>stantialiter, &amp; illa differunt accidentaliter quae differunt illis quibus habent esse accidentaliter. sed idem, aequa-  
+        <lb ed="#Bb" n="19"/>le, &amp; simile licet habeant esse a substantia, quantitate, &amp; qualitate: hoc tamen non est immediate nisi per 
+        <lb ed="#Bb" n="20"/>vnitatem: quia immediate habent esse ab vnitate in substantia, quantitate, &amp; qualitate: vt iam tactuntest 
+        <lb ed="#Bb" n="21"/>in parte, &amp; iam amplius declarabitur inferius. sed vnitas non differt nisi secundum rationem vt est in sub- 
+        <lb ed="#Bb" n="22"/>stantia, quantitate, &amp; quaelitate etiam in creaturis: vbi substantia, quantitas, qualitas, differunt secundum rem: sicut 
+        <lb ed="#Bb" n="23"/>licet decem homines &amp; decem equi sint diuersa decem, denarius tamen est idem &amp; vnus decem hominium, &amp; decem 
+        <lb ed="#Bb" n="24"/>quorum. secundum <name ref="#Aristotle">Philosophum</name> in fine quarti physi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe55099-d1e154">
+        ⁋ Contrarium arguitur sic. Relationes secundum rem quae 
+        <lb ed="#Bb" n="25"/>sunt ad diuersa, necessario differunt inter se secundum rem: &amp; similiter relationes secundum rationem tantum ad di-  
+        <lb ed="#Bb" n="26"/>uersa, necessario differunt inter se secundum rationem tantum: quia ad destructionem consequentis sequitur de- 
+        <lb ed="#Bb" n="27"/>structio antecedentis, quia relationes quae non differunt inter se secundum rem, non possunt esse secundum rem 
+        <lb ed="#Bb" n="28"/>ad diuersa. Relationes enim quae sunt secundum rem, &amp; ad idem, non differunt nisi secundum rationem: puta in si 
+        <lb ed="#Bb" n="29"/>lio genitum esse verbum, esse imaginem, relationes sunt secundum rem, &amp; ad idem scilicet ad patrem: &amp; inter se non  
+        <lb ed="#Bb" n="30"/>differunt nisi secundum rationem: secundum quod supra est determinatum. Et consimiliter est de relationibus secundum 
+        <lb ed="#Bb" n="31"/>rationem: quia relationes quae non differunt inter se secundum rationem tantum, sed secundum rem, non possunt esse secundum  
+        <lb ed="#Bb" n="32"/>rationem tantum ad diuersa. Relationes enim quae differunt inter se secundum rem, &amp; sunt ad diuersa: necesse 
+        <lb ed="#Bb" n="33"/>est esse ad diuersa secundum rem: puta in diuinis generatum esse &amp; spiratum esse, ad generantem &amp; spiran 
+        <lb ed="#Bb" n="34"/>tes, &amp; pater inquantum generat differens est a se ipsa re relationis inquantum spirans: ergo &amp;c. 
+        <lb ed="#Bb" n="35"/>
+      </p>
+      <p xml:id="vn58an-fe55099-d1e181">
+        ⁋ Dico secundum quod tactum est in solutione secundae quaestionis articuli praecedentis, quod 
+        <lb ed="#Bb" n="36"/>supposito ex quaestione proxima praecedente quod sit differentia relationum conmunium inter se, quaestio ista quae 
+        <lb ed="#Bb" n="37"/>rit quo &amp; quom differunt. Et vt etiam tactum est in solutione quaestionis proximae praecedentis, non quaerit quaestio 
+        <lb ed="#Bb" n="38"/>ista nisi de differentia illarum secundum formam respectuum, &amp; secundum agens causans in illas huiusmodi diuer- 
+        <lb ed="#Bb" n="39"/>sitatem. Et patet ex dictis in dicta quaestione praecedentis articuli, quomodo illae relationes quae in illis ge- 
+        <lb ed="#Bb" n="40"/>neribus sunt secundum rem, differunt ab illis quae sunt sub eisdem secundum rationem tantum: quia illas quae sunt secundum 
+        <lb ed="#Bb" n="41"/>rem, omnino operatur natura: illas vero quae sunt secundum rationem, aut omnino, aut completiue operatur 
+        <lb ed="#Bb" n="42"/>ratio. &amp; sic differunt ex parte agentis. Eormaliter autem semper illae quae sunt ab eodem genere, differunt diffe 
+        <lb ed="#Bb" n="43"/>rentia disparationis inter se ab illis quae sunt sub alio genere: vt patebit in sequenti quaestione. Et illae qua 
+        <lb ed="#Bb" n="44"/>sunt sub vno horum generum, siue sint secundum rem, siue secundum rationem, differunt secundum genus causae for- 
+        <lb ed="#Bb" n="45"/>malis ab illis quae sunt sub alio genere secundum rem &amp; secundum rationem, reddendo singula singulis. secundum quod 
+        <lb ed="#Bb" n="46"/>expositum est de differentia relationum conmunium ad alias in quaestione secundua praecedentis articuli. Quare au 
+        <lb ed="#Bb" n="47"/>tem &amp; quom semper: in diuinis sola ratione dicti tres modi relationum conmunium inter se differant, &amp; in  
+        <lb ed="#Bb" n="48"/>creaturis quandoque secundum rem, quandoque vero secundum rationem tantum, patebit inferius. Et secundum 
+        <lb ed="#Bb" n="49"/>hoc concedenda est ratio vltimo adducta. 
+        <lb ed="#Bb" n="50"/>
+      </p>
+      <p xml:id="vn58an-fe55099-d1e216">
+        ⁋ Ad primum in oppositum quod genera relationum communium tam in deo quam in  
+        <lb ed="#Bb" n="51"/>creaturis differunt inter se absque omni consideratione rationis: Dico quod non est verum quando fundantur in  
+        <lb ed="#Bb" n="52"/>vno aproprietate vnitatis dicto, quid semper contigit in diuinis: vbi idem re singulari sunt substantia, quam 
+        <lb ed="#Bb" n="53"/>titas, &amp; qualitas in tribus personis: &amp; ideo sola ratione differunt inter se: vt supra declaratum est circa 
+        <lb ed="#Bb" n="54"/>distinctionem diuinorum attributorum, &amp; adhuc infra aniplius declarabitur. Contingit etiam semper in crea- 
+   <!--418.xml-->
+        <pb ed="#Bb" n="202-r"/>
+        <lb ed="#Bb" n="1"/>turis quando est relatio identitatis alicuius ad seipsum, siue sit vnum secundum rationem generis, siue secundum rationem 
+        <lb ed="#Bb" n="2"/>speciei, siue secundum rationem indiuidui. &amp; hoc quia sola ratione in tali relatione differunt fundamenta rela- 
+        <lb ed="#Bb" n="3"/>tionum &amp; ipsa relata. Sed illud solummodo verum est in creaturis, quando est realis differentia illorum super quae 
+        <lb ed="#Bb" n="4"/>fundantur. tunc enim intellectus illa inuenit distincta. 
+      </p>
+      <p xml:id="vn58an-fe55099-d1e240">
+        ⁋ Quod autem arguitur vlterius, quod etiam in diuinis vbi s 
+        <lb ed="#Bb" n="5"/>fundantur in eodem singulari, secundum rem differant absque rationis consideratione: quia verius habent esse in deo 
+        <lb ed="#Bb" n="6"/>quam in creaturis: Dico quod bene sequeretur istud scilicet identitas, &amp; similitudo verissime habent esse in deo: ergo veris 
+        <lb ed="#Bb" n="7"/>sime &amp; maxime differunt: si differentia illorum acciperetur ratione illa qua habent verissime esse in deo. Cum 
+        <lb ed="#Bb" n="8"/>enim ea ratione aliqua differunt qua habent esse illa quae verius habent esse &amp; perfectius: verius &amp; perfectius dif 
+        <lb ed="#Bb" n="9"/>ferunt. vt contingit in illis quorum esse differentia sumitur a formis absolutis. In absolutis enim quae verius &amp; 
+        <lb ed="#Bb" n="10"/>perfectius existunt: verius &amp; perfectius inter se differunt: quemadmodum verius &amp; perfectius inter se differunt 
+        <lb ed="#Bb" n="11"/>&amp; distinguuntur suis formis absolutis substantiae spirituales separatae, quam substantiae corporales conicantes 
+        <lb ed="#Bb" n="12"/>in materia. Nunc autem secus est in diuinis de relationibus comomunibus: quia in illis alia ratione habent esse &amp; ve- 
+        <lb ed="#Bb" n="13"/>rissime esse dicta genera relationum conmunium: alia vero ratione habent inter se distigui: quia alio sunt, 
+        <lb ed="#Bb" n="14"/>alio vero distinguuntur. Quia enim sunt aliquae relationes cones: hoc habent ab vno &amp; multo coniter. Quia 
+        <lb ed="#Bb" n="15"/>vero differunt &amp; distiguuntur inter se: hoc habent a suis fundamentis: quae sunt substantia, quantitas, qua  
+        <lb ed="#Bb" n="16"/>litas. Vnde quod in diuinis verissime sunt relationes cones: hoc non contingit nisi ex summa vnitate fun 
+        <lb ed="#Bb" n="17"/>damentorum in relatis. Inter diuinas enim personas verissima est identitas, quia maxima substantiae vni- 
+        <lb ed="#Bb" n="18"/>tas: verissima aequalitas, quia maxima quantitatis vnitas: verissima similitudo, quia maxima qualita 
+        <lb ed="#Bb" n="19"/>tis vnitas. Ex parte autem talis vnius nec accipitur differentia identitatis ad identitatem: nec similitudinis 
+        <lb ed="#Bb" n="20"/>ad similitudinem, secundum quod inferius erit sermo de hoc. Nec etiam accipitur differentia identitatis, aequalita 
+        <lb ed="#Bb" n="21"/>tis, &amp; similitudinis inter se: sed ex parte fundamentorum praedictorum a quibus originantur habent origina 
+        <lb ed="#Bb" n="22"/>liter rationes diuersorum respectuum formalium secundum praedeterminata: quos completiue habent a rationis consi 
+        <lb ed="#Bb" n="23"/>deratione: vt inferius declarabitur. Propter quod non sequitur quod in diuinis verius differant &amp; perfectius illa 
+        <lb ed="#Bb" n="24"/>tria genera relationum: licet verius &amp; perfectius habeant esse in diuinis quam in creaturis. 
+      </p>
+      <p xml:id="vn58an-fe55099-d1e286">
+        ⁋ Ad secundum  
+        <lb ed="#Bb" n="25"/>quod differentia differunt illis quibus habent esse: Dico quod aliquo differre est duplisite scilicet aut formaliter, aut  
+        <lb ed="#Bb" n="26"/>causatiue. FEormaliter differunt relationes cones ipsis respectibus quos important: quibus &amp; formaliter 
+        <lb ed="#Bb" n="27"/>sunt id quid sunt. &amp; de tali differentia vera est maior: vt procedit eius probatio. De differentia autem qua  
+        <lb ed="#Bb" n="28"/>aliqua differunt causatiue, non est verum nisi in illis quae ab eodem &amp; eadem ratione habent esse &amp; differre, 
+        <lb ed="#Bb" n="29"/>quod non contingit in relationibus cocomnibus, sicut iam expositum est. Et de hac differentia procedit minor propo 
+        <lb ed="#Bb" n="30"/>sitio assumens bene &amp; rationabiliter quod relationes cones principaliter habent esse in creaturis ab vnita 
+        <lb ed="#Bb" n="31"/>te: quae tamen (vt dictum est) principaliter habent esse causatiue a differentia substantiae quantitatis &amp; qua-  
+        <lb ed="#Bb" n="32"/>litatis inter se, &amp; non ab vnitate: nisi quia ipsa vnitas differt in illis tribus. Vnde est illud assumptum 
+        <lb ed="#Bb" n="33"/>quod genera communium relationum non habent esse a substantia, quantitate, &amp; qualitate, &amp; hoc 
+        <lb ed="#Bb" n="34"/>neque originaliter, neque completiue, &amp; immediate: sed solummodo mediate, &amp; ab vnitate existente in il 
+        <lb ed="#Bb" n="35"/>lis immediate. Sed quod vlterius adiugitur, quod vnitas in substantia, quantitate, &amp; qualitate non differt ni 
+        <lb ed="#Bb" n="36"/>si secundum rationem: Dico quod verum est in deo. Propter quod ista tria genera relationum conmunium in deo  
+        <lb ed="#Bb" n="37"/>non differunt nisi secundum rationem, sicut non nisi secundum rationem differunt in illo substantia, quantitas, &amp; quali-  
+        <lb ed="#Bb" n="38"/>tas. Sed non est verum in creaturis: immo in illis vnitas differt secundum rem non solum quae est in substantia ab illa quae 
+        <lb ed="#Bb" n="39"/>est in quantitate: sed etiam quae est in diuersis substantiis vna ab alia eorum quae inter se referuntur identitate: &amp; 
+        <lb ed="#Bb" n="40"/>in diuersis quantitatibus &amp; qualitatibus, eorum quae referuntur inter se aequalitate &amp; similitudine. 
+      </p>
+      <p xml:id="vn58an-fe55099-d1e323">
+        ⁋ Quia ar-  
+        <lb ed="#Bb" n="41"/>guitur in contrarium, quod denarius est vnus diuersorum decem: ergo &amp; vnitas est vna diuersorum vnorum, quae 
+        <lb ed="#Bb" n="42"/>sunt substantia, quantitas, &amp; qualitas: Dico quod denarius aut vnitas possunt intelligi aut quo ad es 
+        <lb ed="#Bb" n="43"/>se &amp; considerationem illorum mathematice, aut quo ad esse &amp; considerationem eorum naturaliter. Si pri 
+        <lb ed="#Bb" n="44"/>mo modo, cum esse rei mathematice sit abstractu secundum considerationem a materia sensibili vt est sensibi- 
+        <lb ed="#Bb" n="45"/>lis &amp; in vniuersali &amp; in particulari. secundum tale esse &amp; considerationem non est vnitas nisi vna numero 
+        <lb ed="#Bb" n="46"/>neque denarius nisi vnus numero plurium numeratorum. &amp; sic loquitur Philosophus. iiii. phyisicae. quia plurificari 
+        <lb ed="#Bb" n="47"/>non habet nisi per esse suum in materia aut in subiecto ab agente. &amp; non habet esse tale nisi in consideratio 
+        <lb ed="#Bb" n="48"/>ne qua applicatur rebus extra, ipsas mensurando &amp; numerando vt mensura extrinseca. Sed hoc modo non 
+        <lb ed="#Bb" n="49"/>loquitur de denario in iiii. physi. sed secundo modo. Cum enim esse naturale non sit nisi in re naturali, &amp; 
+        <lb ed="#Bb" n="50"/>non abstractum ab illa nisi abstractione logica. scilicet vniuersalis a particulari, &amp; hoc non a materia sensibili 
+        <lb ed="#Bb" n="51"/>simpliciter: sed a materia sensibili hac vel illa, secundum tale esse non est denarius vnus numero, neque vni- 
+        <lb ed="#Bb" n="52"/>tas vna numero nisi prout habet esse in re eadem numero: sed est in diuersis solummodo vnus vel 
+        <lb ed="#Bb" n="53"/>vna secundum speciem: quia ita vnus denarius. x. hominium, &amp; alter vnus denarius. x. equorum. &amp; similiter vna vni 
+        <lb ed="#Bb" n="54"/>tas in vno homine, &amp; altera in vno equo. Et secundum primum modum vnus numerus numerans est plurium nu 
+        <lb ed="#Bb" n="55"/>meratorum, &amp; vna vnitas plurium vnorum, &amp; hoc in creaturis: econtra illi quod contingit in diuinis, vbi 
+   <!--419.xml-->
+        <pb ed="#Bb" n="202-v"/>
+        <lb ed="#Bb" n="1"/>sunt tres vnitates relatiuae numerantes propter tres personas, &amp; vna numerata propter vnitatem rel 
+        <lb ed="#Bb" n="2"/>absolutae. Propter quod in creaturis constituunt numerum verum: istae autem in deo nequaquam. dicente Boe 
+        <lb ed="#Bb" n="3"/>thio de triniitate. c. iiii. Cum tertio repetitur deus, cum pater &amp; filius &amp; spiritus sanctus nuncupatur: tres vni- 
+        <lb ed="#Bb" n="4"/>tates non faciunt pluralem numerum in eo quod ipsae sunt si aduertamus ad res numerabiles, ac non 
+        <lb ed="#Bb" n="5"/>ad ipsum numerum. Illic enim vnitatum repetitio non facit nunerum &amp;c. vsque ibi. Non igitur si de pre &amp; filio 
+        <lb ed="#Bb" n="6"/>&amp; spiritus sancto tertio praedicatur deus: idcirco talis praedicatio numerum facit. Penes autem modum secundum plu 
+        <lb ed="#Bb" n="7"/>rificatur semper in creaturis numerus, &amp; vnitas secundum numerum, manente tamen semper eadem vnitate secundum 
+        <lb ed="#Bb" n="8"/>speciem. &amp; est alius denarius in. x. hominibus secundum numerum, &amp; alius in x. equis, &amp; alia vnitas nu- 
+        <lb ed="#Bb" n="9"/>mero in vno homine, &amp; alia in vno equo: sed omnes specie conueniunt. Et per hoc bene secundum rem dif 
+        <lb ed="#Bb" n="10"/>fert vnitas vt habet esse in substantia &amp; in quantitate &amp; in qualitate in creaturis. Et hoc intelle 
+        <lb ed="#Bb" n="11"/>xit Aristelus in eo quod dixit. iiii. physii. quod idem est denarius. x. hominum, &amp;. x. equorum: licet. x, non sit idem 
+        <lb ed="#Bb" n="12"/>neque ipsa decem sint eadem. Quod claret ex hoc, quia rationem quare denarius est idem hominium &amp; equorum  
+        <lb ed="#Bb" n="13"/>dicit esse quod denarius quilibet sub vna &amp; eadem differentia numeri cadit quando numerus diuiditur si- 
+        <lb ed="#Bb" n="14"/>cut genus in species per differentias in denarium &amp; alias species nuneri. Vt enim dicit, idem dicitur quod  
+        <lb ed="#Bb" n="15"/>libet alteri a quo non differt differentia sub eodem genere: sed non dicitur idem illi a quo differtdif 
+        <lb ed="#Bb" n="16"/>ferentia: sed potius dicitur diuersum ab illo. Quod declarat per exemplum clarius in figuris, dicens quod hoc 
+        <lb ed="#Bb" n="17"/>contingit in denario scilicet quod semper est idem alteri denario: sed differt ab aliis speciebus numerorum: vt 
+        <lb ed="#Bb" n="18"/>triangulus vnus secundum vnam speciem trianguli, puta aequilaterus: &amp; alius triangulus secundum aliam 
+        <lb ed="#Bb" n="19"/>speciem trianguli puta gradatus, non sunt idem triangulus: quia sub triangulo simpliciter triangulus 
+        <lb ed="#Bb" n="20"/>differt a triangulo: puta aequilaterus a gradato. Alterius enim trianguli sunt cum figura eadem: 
+        <lb ed="#Bb" n="21"/>quia ambo trianguli sunt, &amp; cadunt sub eadem differentia sigurae quando figura diuiditur per angu- 
+        <lb ed="#Bb" n="22"/>larem &amp; rotundam. In deo autem vnitas vt habet esse in substantia in quantitate &amp; in qualitate non dif 
+        <lb ed="#Bb" n="23"/>fert nisi secundum rationem, sicut &amp; illa non differunt nisi secundum rationem inter se.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

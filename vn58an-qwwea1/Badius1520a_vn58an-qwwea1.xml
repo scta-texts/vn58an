@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="1-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwea1"> <!-- alias="vn58an-a1prae" -->
+      <head xml:id="vn58an-qwwea1-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwea1-d1e107">
+   <!--16.xml-->
+            <pb ed="#Ba" n="1-r"/>
+        <lb ed="#Ba" n="1"/>Incipit Summa magistri Henrici de Gandauo. Cuius Primus Articu 
+        <lb ed="#Ba" n="2"/>lus est de scientia &amp; scibili in generali. 
+        <lb ed="#Ba" n="3"/>Via Theologia est scientia in qua est sermo de deo, &amp; de rebus diuinis 
+        <lb ed="#Ba" n="4"/>vt dicit <ref xml:id="vn58an-qwwea1-Rd1e122">
+        <name ref="#Augustine">Augustinus</name> viii. de ciui. dei</ref>. Dicitur enim theologia quasi deologia: a theos 
+        <lb ed="#Ba" n="5"/>graecae quod est deus latinae, &amp; logos quod est sermo vel ratio, quasi sermo vel 
+        <lb ed="#Ba" n="6"/>ratio de deo &amp; de rebus diuinis. Ideo quaeritur hic. 
+      </p>
+      <p xml:id="vn58an-qwwea1-d1e133">
+        ⁋ Primo quomodo theo 
+        <lb ed="#Ba" n="7"/>logia de deo &amp; de rebus diuinis sit scientia. Secundo quomodo in ea 
+        <lb ed="#Ba" n="8"/>de deo &amp; de rebus diuinis locutio sit habenda. Tertio quae &amp; qualia in ea 
+        <lb ed="#Ba" n="9"/>de deo &amp; de rebus diuinis sint cognoscenda. Vt autem iuxta processum 
+        <lb ed="#Ba" n="10"/>Augustinus &amp; eius intentionem in libris de Acade. argumenta eorum quae mul 
+        <lb ed="#Ba" n="11"/>tis ingerunt vim inueniendi desperationem, dicentium scilicet omnia esse 
+        <lb ed="#Ba" n="12"/>incerta &amp; nihil posse sciri: quantis possumus rationibus amoueantur, pau 
+        <lb ed="#Ba" n="13"/>lo altius ordiendo quaerendum est hic. 
+      </p>
+      <p xml:id="vn58an-qwwea1-d1e151">
+        <lb ed="#Ba" n="14"/>⁋ Primo de scientia &amp; scibili communiter &amp; in generali. Secundo de scientia &amp; scibili propriis theologiae 
+        <lb ed="#Ba" n="15"/>in speciali. Et quia sacra scriptura solummodo ad hominis instructionem tradita est, secundum apostolum dicen 
+        <lb ed="#Ba" n="16"/>tem: Quaecumque scripta sunt, ad nostram doctrinam scripta sunt: Ideo omnia hic discutienda ad scientiam hu 
+        <lb ed="#Ba" n="17"/>manae instructionis sunt referenda. 
+      </p>
+      <p xml:id="vn58an-qwwea1-d1e163">
+        ⁋ Quantum igitur pertinet ad possibilitatem humanae cognitionis 
+        <lb ed="#Ba" n="18"/>circa primum praedictorum quaerenda sunt hic quinque.  
+        <lb ed="#Ba" n="19"/>Primum de possibilitate sciendi.  
+        <lb ed="#Ba" n="20"/>Secundum de modo sciendi. 
+        <lb ed="#Ba" n="21"/>Tertium de qualitate scibilium. 
+        <lb ed="#Ba" n="22"/>Quartum de appetitu sciendi. 
+        <lb ed="#Ba" n="23"/>Quintum de studio sciendi.
+      </p>
+      <p xml:id="vn58an-qwwea1-d1e179">
+        <lb ed="#Ba" n="24"/>⁋ Circa possibilitatem sciendi quantum ad hominem pertinet, quaerenda sunt hic. xii. 
+        <lb ed="#Ba" n="25"/>Primum: vtrum contingat hominem aliquid scire. 
+        <lb ed="#Ba" n="26"/>Secundum: vtrum contingat hominem aliquid scire fine diuina illustratione.  
+        <lb ed="#Ba" n="27"/>Tertium: vtrum homo cognoscat lucem diuinam qua cognoscit alia. 
+        <lb ed="#Ba" n="28"/>Quartum: vtrum contingat hominem scire a natura, an ab acquisitione.  
+        <lb ed="#Ba" n="29"/>Quintum: vtrum contingat hominem acquirere scientiam per seipsum. 
+        <lb ed="#Ba" n="30"/>Sextum: vtrum contingat hominem acquirere scientiam alio homine docente. 
+        <lb ed="#Ba" n="31"/>Septimum: vtrum homo acquirat scientiam deo in quolibet actu discendi docente. 
+        <lb ed="#Ba" n="32"/>Octauum: vtrum contingat hominem acquirere scientiam angelo docente. 
+        <lb ed="#Ba" n="33"/>Nonum: vtrum acquirens per se scientiam possit dici seipsum docere. 
+        <lb ed="#Ba" n="34"/>Decimum: vtrum contingat hominem acquirere scientiam nihil praesciendo.  
+        <lb ed="#Ba" n="35"/>Vndecimum: vtrum notitia praecedens omnem scientiam acquisitam sit homini innata. 
+        <lb ed="#Ba" n="36"/>Duodecimum: vtrum contingat hominem aeque primo fine discursu cuiuslibet rei scientiam acquirere.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

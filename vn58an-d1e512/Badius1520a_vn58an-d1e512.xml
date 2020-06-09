@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="39-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e512"> <!-- alias="vn58an-a5q5" -->
+      <head xml:id="vn58an-d1e512-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e512-Hd1e107" type="question-title">Utrum studendum est homini ut sciat singula eodem modo</head>
+      <p xml:id="vn58an-d1e512-d1e110">
+        <lb ed="#Ba" n="27"/>CIrca quintum arguitur, quod eodem modo studendum est homini ad inuestigan 
+        <lb ed="#Ba" n="28"/>dum scientiam de vnoquoque. Primo sic. Illo modo studendum est homini ad in-  
+        <lb ed="#Ba" n="29"/>uestigandum scientiam de quocumque, quo nata est sciri, quoniam vt dicit <name ref="#Augustine">Augustinus</name> secundo de 
+        <lb ed="#Ba" n="30"/>doctrina christiana Scientiae verae non sunt ab hominibus institutae, sed animaduer- 
+        <lb ed="#Ba" n="31"/>sae: &amp; in rerum ratione &amp; natura comparatae. sed vnus est modus &amp; idem, quo 
+        <lb ed="#Ba" n="32"/>vnumquodque natum est sciri, scilicet ex suis causis. secundum quod dicitur secundo  
+        <lb ed="#Ba" n="33"/>Metaphysicae. Nos non scimus veritatem absque eo quod scimus causam eius. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e512-d1e131">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="34"/>Quod inest homini a natura, idem est, &amp; eodem modo se habet respectu cuiuslibet obiecti. vt patet de 
+        <lb ed="#Ba" n="35"/>visu respectu colorum. sed modus sciendi ad inuestigandum scientiam nobis est innatus secundum  
+        <lb ed="#Ba" n="36"/>Philosophum. i. Physi. Innata est nobis via a certioribus nobis &amp; notioribus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e512-d1e141">
+        ⁋ Contra est. 
+        <lb ed="#Ba" n="37"/>quoniam si eodem modo studendum est ad inuestigandum scientiam in vnoquoque, ergo aequali perscrutatione.  
+        <lb ed="#Ba" n="38"/>Hoc autem reprehendit Philosophus: cum dicit secundo Metaphysicae. Non oportet quaerere in quali 
+        <lb ed="#Ba" n="39"/>bet scientia perscrutationem sicut in mathematicis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e512-d1e150">
+        ⁋ Dicendum ad hoc: quod ponere, quod eodem mo<lb ed="#Ba" n="40"/>do 
+   studendum est ad inuestigandum scientiam de vnoquoque, est summum impedimentum inuestigandi 
+        <lb ed="#Ba" n="41"/>scientiam in pluribus scibilibus: ad quod habent reduci omnia impedimenta sciendi quae determinat  
+        <lb ed="#Ba" n="42"/>Philosophus secundo Metaphysicae. Si enim idem esset modus inuestigandi omnem scientiam: cum 
+        <lb ed="#Ba" n="43"/>modus inuestigandi sit idem cum modo sciendi: quia ex eisdem habet res sciri: &amp; scientia eius in-  
+        <lb ed="#Ba" n="44"/>uestigari: idem esset modus sciendi omnia quae sciuntur. &amp; vlterius cum: ex modo sciendi habetur scien 
+        <lb ed="#Ba" n="45"/>tiae certitudo: eadem &amp; aequalis esset scientiae certitudo in omnibus quae sciuntur. Vnde cum impossi 
+        <lb ed="#Ba" n="46"/>bile sit quod eadem sit &amp; aequalis certitudo sciendi omnia, vt dictum est supra: impossibile est omni- 
+        <lb ed="#Ba" n="47"/>no quod sit idem modus sciendi, siue idem modus scientiam inuestigandi in omnibus, siue idem mo-  
+        <lb ed="#Ba" n="48"/>dus studendi vt scientia inuestigetur in omnibus: &amp; hoc neque in notitia principiorum quando eam 
+        <lb ed="#Ba" n="49"/>opus est declarare: neque in notitia conclusionum. lgnorantia igitur modi sciendi summum est impe- 
+        <lb ed="#Ba" n="50"/>dimentum inuestigandae veritatis circa vnumquodque scibile: &amp; econverso cognitio modi sciendi sum 
+        <lb ed="#Ba" n="51"/>mun est promotiuum. Propter quod dicit <name ref="#Augustine">Augustinus</name> de vtilitate credendi. Non putabam latere veritatem: nisi 
+        <lb ed="#Ba" n="52"/>quod in ea quaerendi modus lateret. 
+      </p>
+      <p xml:id="vn58an-d1e512-d1e184">
+        ⁋ Ad cognoscendum igitur modos sciendi in scientiis, aduertendum est quod 
+        <lb ed="#Ba" n="53"/>habet diuersificari modus sciendi sicut studendi ad inuestigandum scientiam, ex tribus. ex materia, ex proprieta 
+        <lb ed="#Ba" n="54"/>te scientiae: &amp; ex dispositione scientis. De primo dicit <name ref="#Boethius">Boethius</name> id i. de trinitate. Vnumquodque vt intelligi atque capi potest 
+   <!--93.xml-->
+        <pb ed="#Ba" n="39-v"/>
+        <lb ed="#Ba" n="1"/>inspiciamus. Nam optime videtur illud dictum, eruditi est hominis vnumquodque vt ipsum est, ita de eo si 
+        <lb ed="#Ba" n="2"/>dem capere tentare. Nam cum tres sint speculatiuae scientiae partes, naturalis est in motu &amp; inabstracta: Ma 
+        <lb ed="#Ba" n="3"/>thematica vero sine motu inabstracta: Theologia vero sine motu &amp; abstracta. Et loquitur <name ref="#Boethius">Boethius</name>  
+        <lb ed="#Ba" n="4"/>de abstractione reali. In naturalibus ergo rationabilitur: in mathematicis disciplinabilitur: in diuinis vero 
+        <lb ed="#Ba" n="5"/>intellectualiter versari oportet. De duobus etiam primis dicit philosophus simul in principio Ethicorum.  
+        <lb ed="#Ba" n="6"/>Non oportet certitudinem in omnibus similiter exquirere: sed in singulis secundum subiectam natu 
+        <lb ed="#Ba" n="7"/>ram: &amp; intantum, inquantum proprium est doctrinae. De tertio dicitur in principio physi. Innata est nobis 
+        <lb ed="#Ba" n="8"/>via ex prioribus &amp; notioribus nobis. Primo igitur studendum ad inuestigandum scientiam circa 
+        <lb ed="#Ba" n="9"/>vnamquamque rem secundum naturam subiecti &amp; materiae. secundum quod dicitur in principio Ethicorum. In vno 
+        <lb ed="#Ba" n="10"/>quoque dicetur sufficienter, si secundum subiectam materiam manifestetur: disciplinati enim est intan- 
+        <lb ed="#Ba" n="11"/>tum certitudinem inquirere secundum vnumquodque genus: inquantum rei natura recipit. Proximum 
+        <lb ed="#Ba" n="12"/>enim &amp; simile inconveniens videtur mathematicum persuadendo scientiam suam inuestigare: &amp; rhetorem 
+        <lb ed="#Ba" n="13"/>demonstrando. &amp; hoc intelligendo quando possibile est inuestiganti secundum materiae exigentiam procedere: sicut con 
+        <lb ed="#Ba" n="14"/>tingit in moralibus &amp; mathematicis. In moralibus enim, vt dicitur. i. Ethicoru. oportet grosse &amp; siguraliter ve 
+        <lb ed="#Ba" n="15"/>ritatem manifestare. &amp; hoc propter incertitudinem materiae &amp; variationem particularium circa quae sunt mora 
+        <lb ed="#Ba" n="16"/>lia. In talibus enim, vt dicitur in principio Topi. habemus sufficientem methodum, quoniam similiter habemus vt 
+        <lb ed="#Ba" n="17"/>in rhetorica &amp; medicina: &amp; huiusmodi scientiis coniecturalibus. hoc est ex contingentibus facere quae 
+        <lb ed="#Ba" n="18"/>appetimus: &amp; de nullo subtilem rationem assignare: sed aliquantulum siguraliter pertransire. In ma 
+        <lb ed="#Ba" n="19"/>thematicis autem est econtrario. in illis enim propter materiae abstractionem a materia &amp; transmuta- 
+        <lb ed="#Ba" n="20"/>tione secundum intellectum oportet inuestigare veritatem secundum perscrutationem maximam: &amp; 
+        <lb ed="#Ba" n="21"/>demonstrationibus in primo genere certitudinis vt dicitur secundo metaphysicae. &amp; hoc, quia in  
+        <lb ed="#Ba" n="22"/>illis ea quae sunt priora &amp; notiora simpliciter: sunt priora &amp; notiora nobis. vt dicit commen. super 
+        <lb ed="#Ba" n="23"/>principium physico. 
+      </p>
+      <p xml:id="vn58an-d1e512-d1e251">
+        ⁋ Secundo autem est studendum ad inuestigandum scientiam propter proprie 
+        <lb ed="#Ba" n="24"/>tatem doctrinae. Secundum quod de angulo gnomonis rector aedificiorum inquirit an sit rectus: inquan-  
+        <lb ed="#Ba" n="25"/>tum valet ad suum opus regulandum: &amp; hoc per experimentum &amp; signa apparentia. Geometra ve 
+        <lb ed="#Ba" n="26"/>ro inquirit idem vt cognoscat ipsum quale quid sit in se: non in ordinatione ad aliquod opus &amp; per rationem 
+        <lb ed="#Ba" n="27"/>&amp; causam demonstratiuam. sicut dicitur primo Ethicorum. 
+      </p>
+      <p xml:id="vn58an-d1e512-d1e262">
+        ⁋ Tertio est studendum ad inuestigandum  
+        <lb ed="#Ba" n="28"/>scientiam in vnoquoque, secundum dispositionem inuestigantis: inchoando scilicet a prioribus &amp; notio 
+        <lb ed="#Ba" n="29"/>ribus sibi: &amp; procedendo ad inuestigandum minus nota sibi: &amp; si aliquando illa sunt magis nota 
+        <lb ed="#Ba" n="30"/>in natura sua. vt contigit in scientia naturali &amp; diuina. Naturalia enim sunt nobis occulta &amp; incerta pro 
+        <lb ed="#Ba" n="31"/>pter se: &amp; propter materiam magis quam propter nos. Diuina econverso magis propter nos: quia sumus 
+        <lb ed="#Ba" n="32"/>indispositi ad ipsa capienda, quam propter se. vt dicit commenta. super primum metaphysicae: &amp; dictum 
+        <lb ed="#Ba" n="33"/>est supra. Vnde errant qui in talibus maxime in diuinis exquisitam quaerunt perscrutationem: sed  
+        <lb ed="#Ba" n="34"/>sufficere debet in eis manuductio nobis proportionalis: quia in diuinis secundum exigentiam mate- 
+        <lb ed="#Ba" n="35"/>riae in perscrutando procedere non possumus propter illorum excellentiam: &amp; animarum nostrarum in- 
+        <lb ed="#Ba" n="36"/>firmitatem. vt dicit Auien. is. metaphysicae suae. secundum etiam quod dicit Plato in Timaeo. tractaturus de 
+        <lb ed="#Ba" n="37"/>caelestibus &amp; diuinis. Praedico (inquit) nunc iam Socrates: si dum de natura vniuersae rei disputa- 
+        <lb ed="#Ba" n="38"/>tur: minime inconcussas inexpugnabilesque rationes afferre valuerimus, ne mireris, quin potius 
+        <lb ed="#Ba" n="39"/>illud intuere: si consentaneas affectiones afferam. Memento enim tam me qui loquor, quam vos qui iu 
+        <lb ed="#Ba" n="40"/>dicatis, homines fore: atque in rebus ita sublimibus mediocrem explanationem magni cuiusdam es 
+        <lb ed="#Ba" n="41"/>se onus laboris. Et contingit iste modus inuestigandi veritatem iuxta nostram possibilitatem: non  
+        <lb ed="#Ba" n="42"/>solum circa totas scientias: sed circa principia scientiarum, quarum cognitio cum non fuerit ma-  
+        <lb ed="#Ba" n="43"/>nifesta nobis, inuestiganda est diuersimode: secundum quod nobis poterit manifestari. Licet enim. ma 
+        <lb ed="#Ba" n="44"/>nifestissima sint in sua natura: nobis tamen aliquando possunt esse occulta. secundum quod dicit Phi 
+        <lb ed="#Ba" n="45"/>losophus. vi. Metaphysicae. Omnis scientia habet principia: aut secundum finem certitudinis, aut se- 
+        <lb ed="#Ba" n="46"/>cundum perscrutationem simplicem. Et secundum quod ibi dicit antiqua translatio quaedam habent 
+        <lb ed="#Ba" n="47"/>principia certiora: quaedam simpliciora. &amp; intendit vt dicit commen. simpliciora illa quae non sunt valde certa: &amp; 
+        <lb ed="#Ba" n="48"/>ideo oportet ea quandoque notificare: non tamen vno &amp; eodem modo: sed secundum quod facilius nobis possunt 
+        <lb ed="#Ba" n="49"/>innotescere. Quia vt dicitur primo Ethicorum. quaedam contemplantur inductione. vt illa: Si ab aequalibus aequalia 
+        <lb ed="#Ba" n="50"/>demas quae remanent sunt aequalia. &amp; si aequalibus aequalia addas, tota sunt aequalia, quaedam vero contemplantur 
+        <lb ed="#Ba" n="51"/>sensu. vt elementorum qualitates, calidum, frigidum, humidum, siccun, quaedam vero consuetudine qua  
+        <lb ed="#Ba" n="52"/>dam, vt quae sunt virtutum moralium. alia vero experientia: vt vires medicinarum: alia vero aliter, 
+        <lb ed="#Ba" n="53"/>vt potentiae naturales rerum per suos effectus. Secundum hunc igitur modum diuersimode tentandum 
+        <lb ed="#Ba" n="54"/>est nobis: studendo singulorum notitiam inuestigare: secundum quod innata sunt cognosci, vel in se, vel 
+        <lb ed="#Ba" n="55"/>secundum proprietatem scientiae. Maxime autem secundum dispositionem possibilitatis niae: &amp; hoc vt non extra 
+   <!--94.xml-->
+        <pb ed="#Ba" n="40-r"/>
+        <lb ed="#Ba" n="1"/>plurima fiant opera: &amp; multiplicetur super nos inquisitio eius, quod excedit opus negocii. vt dicitur. i. Ethicoi. 
+      </p>
+      <p xml:id="vn58an-d1e512-d1e332">
+        <lb ed="#Ba" n="2"/>⁋ Ad primum in oppositum, quod vnumquodque natum est sciri ex suis causis: Dicendum quod verum est in  
+        <lb ed="#Ba" n="3"/>rebus habentibus causas. Hoc dico propter scientias quae sunt de primis principiis cuiuslibet entis 
+        <lb ed="#Ba" n="4"/>quae carent causis. Quia tamen in rebus habentibus causas: illae nobis frequenter sunt incognitae: opor 
+        <lb ed="#Ba" n="5"/>tet praestituere nobis ordinem econtrario his quae sunt a principio: &amp; sic melius proficere. sicut in  
+        <lb ed="#Ba" n="6"/>his quae addiscimus, vt dicitur. <ref xml:id="vn58an-d1e512-Rd1e345">i. Metaphy.</ref> Et quia nobis in diuersis diuersimode via est ad principia &amp; 
+        <lb ed="#Ba" n="7"/>caulas: ideo diuersus studendi modus est in diuersis scientiis: sicut &amp; inuestigandi &amp; addiscendi eas:  
+        <lb ed="#Ba" n="8"/>nec solum propter nos: sed etiam propter proprietatem materiae &amp; conditionem scientiae quandoque  
+        <lb ed="#Ba" n="9"/>vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e512-d1e356">
+        ⁋ Ad secundum quod inest nobis a natura procedere a notioribus nobis: Dicendum quo 
+        <lb ed="#Ba" n="10"/>iste modus semper debet esse principalis: sed tamen in diuersis diuersimode ex nobis notioribus mi 
+        <lb ed="#Ba" n="11"/>nus nota inuestigantur, vt in moralibus ab iis quae frequenter homines agunt, in naturalibus ab  
+        <lb ed="#Ba" n="12"/>effectibus qui apparent: &amp; sic diuersimode in diuersis, vt dictum est circa declarationem principiorum. 
+        <lb ed="#Ba" n="13"/>&amp; illa diuersitas frequenter accidit propter materiae proprietatem: &amp; propter scientiae conditionem, 
+        <lb ed="#Ba" n="14"/>vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

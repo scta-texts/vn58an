@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="76-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e923"> <!-- alias="vn58an-a11q1" -->
+      <head xml:id="vn58an-d1e923-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e923-Hd1e107" type="question-title">Utrum solus deus sit doctor theologiae</head>
+      <p xml:id="vn58an-d1e923-d1e110">
+        <lb ed="#Ba" n="46"/>CIrca primum arguitur quod solus deus sit doctor sacrae scripturae. Primo sic. <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Ba" n="47"/>dicit. iiii. de doct. Christana In ipsis hominibus &amp; angelis nemo recte discit quae per- 
+        <lb ed="#Ba" n="48"/>tinent ad viuendum cum deo, nisi fiat a deo docilis. docilis a deo nemo fit nisi 
+        <lb ed="#Ba" n="49"/>deo docente quae pertinent ad viuendum cum deo. quae pertinent ad viuendum cum deo sunt 
+        <lb ed="#Ba" n="50"/>ea quae sunt sacrae scripturae. ergo quae sunt sacrae scripturae nemo discit nisi deo do  
+        <lb ed="#Ba" n="51"/>cente. 
+      </p>
+      <p xml:id="vn58an-d1e923-d1e129">
+        ⁋ Secundo sic. qui non potest in minus non potest in id quod est magis. Mi- 
+        <lb ed="#Ba" n="52"/>nus est docere quam discere: quia docens debet esse in actu eius ad quod est discens in  
+        <lb ed="#Ba" n="53"/>potentia. sed homo ex se non potest hanc scientiam discere: sed quod eam discat hoc habet ex deo, vt vi- 
+        <lb ed="#Ba" n="54"/>debitur infra. ergo quod eam doceat non potest homo ex se: sed hoc solum est dei docere. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e923-d1e139">
+        ⁋ Con- 
+   <!--168.xml-->
+        <pb ed="#Ba" n="77-r"/>
+        <lb ed="#Ba" n="1"/>tra est illud Eph. iiii. Et ipse dedit alios pastores &amp; doctores in aedificationem corporis id est ecclesiae in-  
+        <lb ed="#Ba" n="2"/>structionem. &amp; hoc non nisi in hac scientia de qua ibi loquitur. ergo &amp;c. i. Et. Timo. ii. dicit Apostolus 
+        <lb ed="#Ba" n="3"/>vocans se doctorem huius scientiae. Veritatem dico non mentior, doctor gentium in fide &amp; veritate.  
+      </p>
+      <p xml:id="vn58an-d1e923-d1e152">
+        <lb ed="#Ba" n="4"/>⁋ In hac quaestione an deus doceat hanc scientiam non est dubium: sed in hoc est 
+        <lb ed="#Ba" n="5"/>dubitatio maior an homo doceat ipsam: &amp; quomodo eam deus doceat in omni actu discendi: &amp; quo 
+        <lb ed="#Ba" n="6"/>modo homo. Ad quorum intellectum sciendum iuxta superius determinata, quod deus dicitur doce- 
+        <lb ed="#Ba" n="7"/>re in quolibet actu discendi etiam in illis quae naturaliter cognosci possunt: qui a instrumenta na- 
+        <lb ed="#Ba" n="8"/>turalia discendi menti humanae ministrat, quibus omnia etiam quae naturaliter sunt cognoscenda discit 
+        <lb ed="#Ba" n="9"/>&amp; rerum veritates cognoscit. inter quae sunt intellectus possibilis &amp; lumen agentis: &amp; maxime effi 
+        <lb ed="#Ba" n="10"/>gies primae veritatis praesidens menti, vt supra expositum est. Ad discendum autem ea quae sunt super 
+        <lb ed="#Ba" n="11"/>naturaliter cognoscenda, vt sunt ea quae sunt fidei &amp; huius scientiae ista non sufficiunt per se: secun 
+        <lb ed="#Ba" n="12"/>dum quod sufficiut ad discendum illa quae naturaliter sunt discenda. Immo cum his requiritur lumen su- 
+        <lb ed="#Ba" n="13"/>perius infusum amplius illustrans: vt sub illo verum supnaturale discere possit: quod nequaquam discere posset 
+        <lb ed="#Ba" n="14"/>sub solo lumine naturali intellectus &amp; communi praesidentia primae veritatis. Tale autem est lumen 
+        <lb ed="#Ba" n="15"/>fidei in cognoscendo ea quae sunt fidei: &amp; si aliquid sit superius cognoscibile ad quod lumen fidei non 
+        <lb ed="#Ba" n="16"/>sufficit ad veritatem illius perspiciendam, adhuc secundum quod infra videbitur, illustratio aliqua cla 
+        <lb ed="#Ba" n="17"/>rior &amp; superior requiritur. 
+      </p>
+      <p xml:id="vn58an-d1e923-d1e185">
+        ⁋ Et tunc dicendum ad quaestionem. cum sacrae scripturae veritas excedit no 
+        <lb ed="#Ba" n="18"/>titiam naturalis rationis: quia est de eis quae sunt fidei, vt dictum est supra: &amp; etiam dicetur infra 
+        <lb ed="#Ba" n="19"/>ad quorum notitiam deus lumen fidei supernaturale infundit menti humanae, sub quo naturale iu- 
+        <lb ed="#Ba" n="20"/>dicatorium illustratur intantum vt sufficiat in illis veritatem perspicere: sicut ergo in scientiis naturalibus 
+        <lb ed="#Ba" n="21"/>dicitur solus deus docere maxime praesidendo menti, vt dictum est supra: similiter dicetur solus deus docere hamno 
+        <lb ed="#Ba" n="22"/>scientiam menti imprimendo lumen fidei, vel aliquam aliam illustrationem in ea faciendo, quae vt in  
+        <lb ed="#Ba" n="23"/>fra dicetur sufficiat ad veritates credibilium menti humanae manifestandas. Sed ex parte hominis in discen- 
+        <lb ed="#Ba" n="24"/>do hanc scientiam &amp; alias aliter contingit &amp; aliter. In scibilibus enim scientiarum rerum naturalium 
+        <lb ed="#Ba" n="25"/>homo ex rebus naturalibus mediantibus sensibus colligere potest notitiam terminorum, &amp; per se ex illis forma 
+        <lb ed="#Ba" n="26"/>re conceptus complexos: in quibus per ea quae naturaliter sibi indita sunt, assistente generali illustratione diui- 
+        <lb ed="#Ba" n="27"/>na, de quae dictum est supra: cognoscere potest veritatem primorum principiorum. ex quibus vlterius potest elicere noti- 
+        <lb ed="#Ba" n="28"/>tiam posteriorum. Et ideo determinatum fuit supra, quod homo per se sola inuestigatione ex puris naturalibus sine omni 
+        <lb ed="#Ba" n="29"/>doctore existente potest sibi acquirere scientiam rerum naturalium: &amp; omnium eorum quae subsunt 
+        <lb ed="#Ba" n="30"/>iudicio naturalis rationis. In doctrina autem huius scientiae secus est, quamquam enim terminos incomplexos 
+        <lb ed="#Ba" n="31"/>credendorum cognoscit homo per se antequam potest aliquod complexum ex illis credere: qui enim prius ni- 
+        <lb ed="#Ba" n="32"/>hil intelligit credere non potest: vt qui non intelligit generali notitia quid homo, quid pati, quid  
+        <lb ed="#Ba" n="33"/>Christus, non potest credere Christum hominem passum. secundum quod dicit <name ref="#Augustine">Augustinus</name> A de trinita. 
+        <lb ed="#Ba" n="34"/>Credimus dominum lesum Christum natum de virgine quae Maria vocatur: quid autem sit virgo, &amp; 
+        <lb ed="#Ba" n="35"/>quid nasci: &amp; quid sit nomen proprium non credimus: sed prorsus nouimus. Complexiones tamen 
+        <lb ed="#Ba" n="36"/>determinatas credibilium particularium non potest homo per se sibi formare, vt in eis discernat ra 
+        <lb ed="#Ba" n="37"/>tio an consentiendum eis sit an non, etiam suscepto habitu fidei. nisi cum hoc articuli ei ab aliquo  
+        <lb ed="#Ba" n="38"/>tanquam credendi proponerentur &amp; suaderentur: &amp; hoc vel adeo interius per inspirationem: sicut Paulo 
+        <lb ed="#Ba" n="39"/>inspirauit notitiam Euang. aut ab homine vel ab angelo exterius per praedicationem &amp; sacrae scri- 
+        <lb ed="#Ba" n="40"/>pturae instructionem. Et ideo dicit <name ref="#Augustine">Augustinus</name> ser id est super Ioan. Per homines ministratae sunt scripturae 
+        <lb ed="#Ba" n="41"/>nisi enim ista dicerent, vnde omnino cogitaretis non inueniretis. Et licet deus possit interiori inspi- 
+        <lb ed="#Ba" n="42"/>ratione sufficienter instruere in eis quae fidei sunt &amp; sacrae scripturae: vult tamen illud fieri per homi 
+        <lb ed="#Ba" n="43"/>nem quantum per ipsum fieri potest. vnde nec vult hoc per angelum facere vt homini reuerentiam 
+        <lb ed="#Ba" n="44"/>aliquam exhibendam ostendat: &amp; homines fortius vinculo charitatis coniungat. lgitur quia sacram 
+        <lb ed="#Ba" n="45"/>scripturam ordinate &amp; distincte proponere, &amp; omnino ea quae sunt fidei docere est quodammodo:  
+        <lb ed="#Ba" n="46"/>modo quo homini docere competit, vt dictum est supra: concedere oportet quod hominem contingit 
+        <lb ed="#Ba" n="47"/>aliquo modo hanc scientiam docere sicut &amp; alias. Quia tamen eius non est intellectum ad intelligen 
+        <lb ed="#Ba" n="48"/>dum aliquo modo illuminare: sed solius dei, multo quodminus in hac scientia quam in aliis: quo ad hoc sim 
+        <lb ed="#Ba" n="49"/>pliciter solius dei est docere hanc scientiam: sicut &amp; quamlibet aliam: &amp; multo specialius, vt dictum 
+        <lb ed="#Ba" n="50"/>est. Vnde <name ref="#Augustine">Augustinus</name> postquam dixit quod per homines ministratae sunt scripturae, dicens. Nisi enim ista dicerent 
+        <lb ed="#Ba" n="51"/>vnde omnino cogitaretis non inueniretis. immediate adiunxit vocando scriptores sacrae scripturae 
+        <lb ed="#Ba" n="52"/>montes. Ergo ex modotibus (inquit) venit nobis auxilium vt ista audiretis: sed nondum potestis intelli 
+        <lb ed="#Ba" n="53"/>gere quod audistis: inuocate auxilium a domino qui fecit caelum &amp; terram: quia montes sic potuerunt 
+        <lb ed="#Ba" n="54"/>loqui vt non possent ipsi illuminare: quia &amp; ipsi illuminati sunt audiendo. loannes qui supra pe 
+        <lb ed="#Ba" n="55"/>ctus domini discubuit, de pectore domini bibit quod nobis propinaret: Sed propinauit verba, intellectum 
+   <!--169.xml-->
+        <pb ed="#Ba" n="77-v"/>
+        <lb ed="#Ba" n="1"/>autem inde debes capere vnde &amp; ipse bibebat qui tibi propinauit, vt inde impleas pectus, vnde impleuit 
+        <lb ed="#Ba" n="2"/>ille. Hic etiam dicit Orige. super Exo. Quis est ille quem replet deus illo spirimum quo repleuit Moysen &amp; Aaron 
+        <lb ed="#Ba" n="3"/>vt eodem spiritu illuminatus possit quae per illos sunt gesta disserere: Aliter enim non arbitror expla 
+        <lb ed="#Ba" n="4"/>nari, nisi eodem spiritu quo gesta sunt disserantur. 
+      </p>
+      <p xml:id="vn58an-d1e923-d1e292">
+        ⁋ Dicendum igitur quod simpliciter solus deus docet hanc 
+        <lb ed="#Ba" n="5"/>scientiam, quia ipse solus dat eam intelligi, quod est proprie eam docere. vnde <name ref="#Augustine">Augustinus</name> super loannem. ser. vii. 
+        <lb ed="#Ba" n="6"/>Nemo dicat quia alius dedit legem &amp; alius docet eam. Ipse enim illam docet qui eam dedit. Quo ad  
+        <lb ed="#Ba" n="7"/>aliquid autem vt dictum est: non solum deus docet eam hominem: immo etiam &amp; homocrio, quod &amp; po- 
+        <lb ed="#Ba" n="8"/>test angelus facere, licet alio modo quam deus, vt dictum est supra de modo docendi simpliciter. Et hoc 
+        <lb ed="#Ba" n="9"/>est quod dicit Aug. primo de doctri,. christiana. Cornelium Centurionem quamuis exauditas oratio- 
+        <lb ed="#Ba" n="10"/>nes eius &amp; eleemosynas respectas ei angelus nunciauit, Petro tamen traditum scimus imbuendum  
+        <lb ed="#Ba" n="11"/>per quem non solum sacramenta perciperet, sed etiam quid credendum, quid sperandum, quid diligendum  
+        <lb ed="#Ba" n="12"/>esset: audiret. Et poterant vtique omnia haec per angelum fieri, sed abiecta esset humana conditio, si per ho-  
+        <lb ed="#Ba" n="13"/>mines hominibus deus verbum suum ministrare nolle videretur. Quomodo enim verum esset quod dictum est: 
+        <lb ed="#Ba" n="14"/>Templum dei sanctum est quod estis vos: si deus de humano templo responsa non redderet, &amp; totum quod homi 
+        <lb ed="#Ba" n="15"/>nibus discendum tradi vellet, de coelo atque per angelos personaret: Deinde ipsa charitas quae sibi homines 
+        <lb ed="#Ba" n="16"/>inuicem nodo vnitatis astringit, non haberet aditum refundendorum &amp; quasi miscendorum sibi animo 
+        <lb ed="#Ba" n="17"/>rum, si homines ab hominibus nihil discerent. Et certe spadonem illum qui Esaiam prophetam legens non in  
+        <lb ed="#Ba" n="18"/>telligebat, neque ad angelum sed ad apostolum misit: neque per angelum ei id quod non intelligebat expositum 
+        <lb ed="#Ba" n="19"/>aut diuinitus in mente sine hominis ministerio reuelatum est: sed potius suggestione diuina missus 
+        <lb ed="#Ba" n="20"/>est ad eum: seditque cum eo Philippus qui nouerat Esaiam, prophetam, eique humanis verbis &amp; lingua quod in  
+        <lb ed="#Ba" n="21"/>scriptura illa tectum erat aperuit. 
+      </p>
+      <p xml:id="vn58an-d1e923-d1e335">
+        <lb ed="#Ba" n="22"/>⁋ Ad primum in oppositum quod nemo discit hanc scripturam nisi fiat a deo docilis 
+        <lb ed="#Ba" n="23"/>dicendu quod verum est interius ad intellectum huius scientiae illustrando &amp; lumen fidei infunden- 
+        <lb ed="#Ba" n="24"/>do. per hoc tamen non excluditur ministerium hominis per quid docet exterius vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e923-d1e344">
+        ⁋ Ad secundum  
+        <lb ed="#Ba" n="25"/>quod homo non potest ex se discere hanc scientiam, quare neque docere: dicendum quod verum est sine adiutorio in  
+        <lb ed="#Ba" n="26"/>teriori diuini luminis. nihilominus tamen per hoc non excluditur quin homo ministerialiter doceat exte-
+   <!-- accidental break in 27 and 28; images lines need to be combined -->
+        <lb ed="#Ba" n="27"/>rius: Semper tamen deo 
+        <lb ed="#Ba" n="28"/>principaliter docente interius in omni actu docendi vt dictum est supra.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

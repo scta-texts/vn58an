@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="203-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe55595"> <!-- alias="vn58an-a64q4" -->
+      <head xml:id="vn58an-fe55595-Hd1e104">Quaestio 4</head>
+      <p xml:id="vn58an-fe55595-d1e107">
+        <lb ed="#Bb" n="41"/>CIrca quartum arguitur quod relationes communes secundum rationem existentes sub aliquo 
+        <lb ed="#Bb" n="42"/>horum trium generum non differunt genere aut specie ab illis quae sunt relationes secundu 
+        <lb ed="#Bb" n="43"/>rem sub eisdem, Primo sic. Magis conveniunt ens secundum rationem existens in in-  
+        <lb ed="#Bb" n="44"/>tellectu, &amp; ens secundum rem existens extra intellectum: quam ens secundum rem affirmatum 
+        <lb ed="#Bb" n="45"/>&amp; negatum: quia affirmatio &amp; negatio maxime distant. sed ens secundum idem affir 
+        <lb ed="#Bb" n="46"/>matum &amp; negatum ad idem praedicamentum pertinet: dicente <name ref="#Augustine">Augustinus</name> v. de triniitate. c. 
+        <lb ed="#Bb" n="47"/>vii. Negatiua particula non id efficit: vt quod sine illa relatiue dicitur, eadem praeposita substantialiter dicatur 
+        <lb ed="#Bb" n="48"/>sed id tantum negatur quod sine illa agebatur. sicut in caeteris praedicamentis, secundum quod continue inducit. 
+        <lb ed="#Bb" n="49"/>&amp; sicut affirmatiuum &amp; negatiuum pertinet ad idem praedicamentum, sic &amp; ad idem genus subal- 
+        <lb ed="#Bb" n="50"/>ternum, aut speciem subalternam, aut specialissimam pertinet: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe55595-d1e134">
+        ⁋ Secundo sic. Perfectum 
+        <lb ed="#Bb" n="51"/>&amp; diminutum non diuersificant genus secundum speciem: sicut neque magis &amp; minus. sed relationes con- 
+        <lb ed="#Bb" n="52"/>munes sub eodem genere relationum conmunium, quarum vna est secundum rem, altera secundum rationem, puta similia 
+        <lb ed="#Bb" n="53"/>tudo secundum rem, &amp; similitudo secundum rationem, non differunt inter se nisi secundum perfectum &amp; diminutum: quia ens secundum ra 
+        <lb ed="#Bb" n="54"/>tionem est ens diminutum respectu entis secundum rem: vt patet secundum Philosophum. vi. metaphysicae: ergo &amp;c. 
+   <!--421.xml-->
+        <pb ed="#Bb" n="203-v"/>
+      </p>
+      <p xml:id="vn58an-fe55595-d1e150">
+        <lb ed="#Bb" n="1"/>⁋ Contra. magis differunt adinuicem ens perfectum &amp; ens diminutum: quam vnum ens perfectum 
+        <lb ed="#Bb" n="2"/>ab alio ente perfecto. sed in genere relationis relationes secundum rationem inquantum huiusmodi,  
+        <lb ed="#Bb" n="3"/>sunt ens diminutum. relationes vero secundum rem, sunt ens perfectum. ergo magis differunt sub eodem gene 
+        <lb ed="#Bb" n="4"/>re relationum conmunium relationes secundum rationem ab illis quae sunt secundum rem, quam illae quae sunt secundum rem inter se. sed  
+        <lb ed="#Bb" n="5"/>illae differunt inter se secundum genus subalternum: puta similitudo substantialis, aequalitas substantialis hominis 
+        <lb ed="#Bb" n="6"/>ad hominem inquantum homines sunt, a similitudine, &amp; aequalitate accidentalibus hominis ad  
+        <lb ed="#Bb" n="7"/>hominem inquantum ambo sunt albi aut tricubiti: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe55595-d1e169">
+        <lb ed="#Bb" n="8"/>⁋ Dico quod ista quaestio non quaerit nisi cum sint tria genera relationum conmunmim. scilicet identitas, &amp; 
+        <lb ed="#Bb" n="9"/>similitudo, an quando contingit quod sub aliquo illorum, puta sub genere identitatis, aequalitatis, &amp; similitudinis con 
+        <lb ed="#Bb" n="10"/>tinentur identitates, aequalitates, similitudines diuersae, aliqua. scilicet secundum rem, &amp; alia secundum rationem, haec &amp; il- 
+        <lb ed="#Bb" n="11"/>la inter se differunt sicut diuersae species inter se siue subalternae siue specialissimae sub comni genere 
+        <lb ed="#Bb" n="12"/>aequalitatis, &amp; similitudinis, &amp; identitatis. Et est aduertendum circa hanc quaestionem ex dictis in quaestione prae 
+        <lb ed="#Bb" n="13"/>cedente circa distinctionem generis relationum conmunium, quod omnes relationes cones quae sunt secundum rationem, siue 
+        <lb ed="#Bb" n="14"/>fuerit in diuinis, siue in creaturis, siue identitatis, siue aequalitatis, siue similitudinis, primo &amp; principa 
+        <lb ed="#Bb" n="15"/>liter causantur ab vno dicto ab vnitate singularitatis realis plurificatae secundum rationem tantum in relatis: &amp; 
+        <lb ed="#Bb" n="16"/>iuxta illud quod dicit in diuinis Damasc. li. i. c. xi. in omnibus talibus relationibus communibus quae sunt secundum ratio 
+        <lb ed="#Bb" n="17"/>nem tantum: idem &amp; vnum re consideratur. Cognitione vero est: quod secundum diuisum scilicet in ipsis relatis. Econtra autem omnes 
+        <lb ed="#Bb" n="18"/>relationes cones reales quae sunt identitatis genere vel specie, causantur ab vno dicto ab vnitate conitatis 
+        <lb ed="#Bb" n="19"/>rationis plurificatae secundum rem in relatis. Et omnes relationes cones reales quae sunt aequalitatis &amp; similitudinis in  
+        <lb ed="#Bb" n="20"/>creaturis, causantur ab vno dicto non ab vnitate singularitatis: sed ab vnione diuersorum singularium 
+        <lb ed="#Bb" n="21"/>in vna conitate generis aut speciei. lta quod relationes secundum rationem causantur ab vno secundum rem diuiso in  
+        <lb ed="#Bb" n="22"/>plura secundum rationem. Relationes vero secundum rem causantur ab vno vnione plurium in vno secundum rationem. iuxta 
+        <lb ed="#Bb" n="23"/>illud quod dicit <name ref="#JohnDamascenus">Damascenus</name> in creaturis vbi supra. In omnibus creaturis diuisio consideratur re: conitas autem  
+        <lb ed="#Bb" n="24"/>&amp; copulatio eorum ratione &amp; cognitione. Aspiciendo igitur ad rationem vnius a quo causantur relationes cones 
+        <lb ed="#Bb" n="25"/>tam in deo quam in creaturis: tam secundum identitatem quam secundum aequalitatem &amp; similitudinem omnes relationes cones quae sunt secunu 
+        <lb ed="#Bb" n="26"/>rationem specie subalterna differunt sub genere relationum conmunium a relationibus communibus realibus quae 
+        <lb ed="#Bb" n="27"/>causantur ab vno dicto ab vnione, quamuis omnes illae quae sunt secundum rationem quae causantur ab vno dicto ab vnita 
+        <lb ed="#Bb" n="28"/>te singularitatis: distinguantur secundum species subalternas ab illis quae causantur ab vno dicto ab vnita- 
+        <lb ed="#Bb" n="29"/>te conitatis generis aut speciei, secundum quod haec patent ex distinctione generis relationum conmunium in 
+        <lb ed="#Bb" n="30"/>praecedentibus. 
+      </p>
+      <p xml:id="vn58an-fe55595-d1e225">
+        ⁋ Sed quia (vt dictum est supra) vnitas est principium causatiuum relationum conmunium non autem 
+        <lb ed="#Bb" n="31"/>distinctiuum: sed potius substantia, quantitas, &amp; qualitas, super quae fundantur relationes cones: verius igitur 
+        <lb ed="#Bb" n="32"/>dicendum est quod omnes illae relationes quae fundantur super substantiam, siue sint secundum rem, siue secundum rationem: sint 
+        <lb ed="#Bb" n="33"/>sub eodem genere subalterno relationum conmunium, &amp; simiter illae quae fundantur super quantitatem: &amp; similiter illae quam 
+        <lb ed="#Bb" n="34"/>fundantur super qualitatem, tanquam super id quod est dispositio, subiectae sunt sub alio, quid si diuidatur in aequas 
+        <lb ed="#Bb" n="35"/>litatem continentem omnes aequalitates &amp; secundum rem &amp; secundum rationem, &amp; in similitudinem continentem in se similitudines secundum rem, &amp; 
+        <lb ed="#Bb" n="36"/>secundum rationem: secundum hoc relationes cones identitatis quae sunt in creaturis secundum rem, non differunt ab 
+        <lb ed="#Bb" n="37"/>illis quae sunt in eisdem nisi secundum agens quod est natura &amp; ratio, &amp; diuersum modum substantiae super quam fun 
+        <lb ed="#Bb" n="38"/>dantur, quia illa quae secundum rationem, fundatur super substantiam vt est aliquid secundum se vel singulare vel cone: illa ve 
+        <lb ed="#Bb" n="39"/>ro quae est secundum rem, fundatur super substantiam conem vt est aliquid plurium quae in ipso vniuntur. In creaturis autem 
+        <lb ed="#Bb" n="40"/>nulla est aequalitas, aut similitudo secundum rationem. Quaecumque autem relationes sunt in diuinis, non communi- 
+        <lb ed="#Bb" n="41"/>cant cum illis quae sunt in creaturis tanquam genus, sicut substantia increata cum creatis. 
+        <lb ed="#Bb" n="42"/>
+      </p>
+      <p xml:id="vn58an-fe55595-d1e254">
+        ⁋ Et secundum hoc in parte concedenda est prima ratio probans quod relationes secundum  
+        <lb ed="#Bb" n="43"/>rationem nequaquam distingui debent specie, aut genere, aut numero ab illis quae sunt secundum rem: quia magis 
+        <lb ed="#Bb" n="44"/>conveniunt ens secundum rationem, &amp; ens secundum rem, quam ens secundum rem affirmatum &amp; negatum. Dico enim quod dicendo  
+        <lb ed="#Bb" n="45"/>ens secundum rem affirmatum &amp; negatum: duo dico scilicet &amp; ens ipsum, &amp; circa ipsum affirmationem &amp; negationem 
+        <lb ed="#Bb" n="46"/>&amp; quod habendo aspectum ad affirmationem &amp; negationem, verum est quod affirmatio &amp; negatio magis di 
+        <lb ed="#Bb" n="47"/>stant circa idem, quam ens secundum rem, &amp; ens secundum rationem: quia ens secundum rationem ex eo quod tale aliquid  
+        <lb ed="#Bb" n="48"/>ponit, negationem tantum remouet. Habendo autem respectum ad ipsam rem affirmatam &amp; negatam: non 
+        <lb ed="#Bb" n="49"/>est verum, eo quod ipsa res affirmata &amp; negata omnino eadem est per quam affirmatio &amp; negatio perti- 
+        <lb ed="#Bb" n="50"/>nent ad idem praedicamentum: sicut res fundamentalis eadem est relationi secundum rem, &amp; secundum rationem- 
+        <lb ed="#Bb" n="51"/>per quam similiter ad idem praedicamentum pertinent. 
+      </p>
+      <p xml:id="vn58an-fe55595-d1e276">
+        ⁋ Quod ergo assumitur vlterius quod ens 
+        <lb ed="#Bb" n="52"/>affirmatum &amp; negatum ad idem praedicamentum secundum genus &amp; speciem pertinet, bene ve- 
+        <lb ed="#Bb" n="53"/>rum est: sed hoc non ratione particulae siue notae affirmationis aut negationis: quia illa, scilicet 
+        <lb ed="#Bb" n="54"/>notae affirmationis &amp; negationis, accidunt rei cuiusque praedicamenti: immo cuicunque siue enti 
+   <!--422.xml-->
+        <pb ed="#Bb" n="204-r"/>
+        <lb ed="#Bb" n="1"/>siue non enti: quia de quolibet affirmatio vel negatio, &amp; non simul ambo de eodem: sed solummodo  
+        <lb ed="#Bb" n="2"/>ratione ipsius rei eiusdem. Et consimiliter relatio secundum rationem ad idem praedicamentum pertinet:  
+        <lb ed="#Bb" n="3"/>cum illa quae est secundum rem, ratione scilicet fundamenti ab eo quod completiue habet ab actu rationis, ad nullum praedi 
+        <lb ed="#Bb" n="4"/>camentum pertinet. 
+      </p>
+      <p xml:id="vn58an-fe55595-d1e298">
+        ⁋ Argumentum secundum, quod perfectum &amp; diminutum non diuersificant speciem, deficit. Hoc enim 
+        <lb ed="#Bb" n="5"/>videlicet quod perfectum &amp; diminutum non diuersificant speciem, solum verum est quando ens habet quod sit diminu- 
+        <lb ed="#Bb" n="6"/>tum ex solo defectu agentis: vt contingit in minus calido respectu magis calidi. Non est autem verum quando 
+        <lb ed="#Bb" n="7"/>esse diminutum habetur ex conditione agentis, sicut contingit in proposito de relationibus communibus secundum 
+        <lb ed="#Bb" n="8"/>rem &amp; secundum rationem. Semper enim perfectius est opus naturae in ipsa re: quam opus rationis circa rem in con- 
+        <lb ed="#Bb" n="9"/>ceptu intellectus, quod opus rationis circa rem naturae non est in genere omnino: vt iam dicetur. 
+      </p>
+      <p xml:id="vn58an-fe55595-d1e311">
+        ⁋ Ad  
+        <lb ed="#Bb" n="10"/>tertium quod relationes communes secundum rationem, differunt ab illis quae sunt secundum rem: vt diuersae species sub 
+        <lb ed="#Bb" n="11"/>alternae immediate diuidentes genus relationum communium: quia se habent sicut ens perfectum 
+        <lb ed="#Bb" n="12"/>&amp; sicut ens diminutum, quae magis differunt quam duo entia perfecta quae tamen specie differunt sub relatio- 
+        <lb ed="#Bb" n="13"/>ne comomuni: Dico quod verum est considerando ens diminutum ratione diminuti esse: quia ratione illius non est in ge 
+        <lb ed="#Bb" n="14"/>nere omnino: sed distinguitur contra ens quod est in genere tanquam contra ens perfectum, a Philosophou. vi. Metaph. Et 
+        <lb ed="#Bb" n="15"/>sic bene verum est quod relationes rationales ratione sui complementi quod habent a ratione, &amp; sic per- 
+        <lb ed="#Bb" n="16"/>tinet ad ens diminutum, non sunt omnino in genere: licet hoc niteretur probare secunda ratio, sed solum 
+        <lb ed="#Bb" n="17"/>modo relationes reales in genere sunt: quemadmodum vnum genere non est ens diminutum: de quo loquitur 
+        <lb ed="#Bb" n="18"/>Philosophus. vi. Metaphysicae. puta ens verum quod in compositione &amp; diuisione consistit, &amp; hoc inquantum est opus 
+        <lb ed="#Bb" n="19"/>animae: licet ipsa incomplexa circa quae sit compositio &amp; diuisio, in genere sint. Sic relatio secundum rationem in  
+        <lb ed="#Bb" n="20"/>genere non est, inquantum conpletiue est opus rationis: licet fundamentum eius a quo habet esse origi- 
+        <lb ed="#Bb" n="21"/>naliter, sit in genere. Et per hoc ipsa relatio secundum rationem inquantum originaliter habet esse a funda 
+        <lb ed="#Bb" n="22"/>damento, quoquo modo est in genere: licet relatio quae omnino habet esse a ratione scilicet &amp; originaliter 
+        <lb ed="#Bb" n="23"/>&amp; completiue, de qua sermo habitus est supra, nullo modo sit in genere.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

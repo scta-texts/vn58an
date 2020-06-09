@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="97-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1192"> <!-- alias="vn58an-a13q8" -->
+      <head xml:id="vn58an-d1e1192-Hd1e104">Quaestio 8</head>
+      <head xml:id="vn58an-d1e1192-Hd1e107" type="question-title">Utrum homo per se, sine doctore possit theologiam discere</head>
+      <p xml:id="vn58an-d1e1192-d1e110">
+        <lb ed="#Ba" n="13"/>Quaestio. VIII. <!-- line should probably be deleted in images and in text; 
+    odd that Badius creates a separate line for this question header
+   -->
+        <lb ed="#Ba" n="14"/>CIrca octauum arguitur quod homo per se fine doctore possit hanc scientiam addisce 
+        <lb ed="#Ba" n="15"/>sre. Primo sic, non est minoris efficaciae lumen supernaturale ad cognoscendum su- 
+        <lb ed="#Ba" n="16"/>pernaturalia, quam lumen naturale ad cognoscendum naturalia. sed homo adiu- 
+        <lb ed="#Ba" n="17"/>ltorio luminis naturalis per se fine doctore potest inuestigare notitiam scibili- 
+        <lb ed="#Ba" n="18"/>rGum naturalium, vt habitum est supra. ergo &amp; per se propria inuestigatione sine 
+        <lb ed="#Ba" n="19"/>doctore lumine supernaturali potest notitiam scibilium supernaturalium inue- 
+        <lb ed="#Ba" n="20"/>stigare. talia sunt scibilia huius scientiae. ergo &amp; caetera. 
+      </p>
+      <p xml:id="vn58an-d1e1192-d1e132">
+        ⁋ Secundo sic. Augusti 
+        <lb ed="#Ba" n="21"/>nus post principium de doctrina Christiana, loquens de beato Antonio dicit: quod sine vlla scientia 
+        <lb ed="#Ba" n="22"/>literarum scripturas diuinas &amp; memoriter tenuit: &amp; prudenter intellexit. sed hoc non fuit nisi 
+        <lb ed="#Ba" n="23"/>per se addiscendo hanc scientiam. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1192-d1e142">
+        ⁋ Oppositum arguitur secundum illud quod habetur 
+        <lb ed="#Ba" n="24"/>Actuum. viii. vbi quaerebat Philippus ab eunucho legente Esaiam, putas ne intelligis quae legis: Qui re 
+        <lb ed="#Ba" n="25"/>spondit, quomodo possum si non aliquis ostenderit mihi: vbi dicit Glos. Hic arguit eorum auda- 
+        <lb ed="#Ba" n="26"/>ciam qui aestimant sine doctore diuinam scripturam intelligere. 
+      </p>
+      <p xml:id="vn58an-d1e1192-d1e151">
+        <lb ed="#Ba" n="27"/>⁋ Hic intelligendum est in principio: cum ista scientia sit credendorum per fidem 
+        <lb ed="#Ba" n="28"/>&amp; operandorum per charitatem, vt dictum est supra: quod Aliud est scire siue cognoscere credenda 
+        <lb ed="#Ba" n="29"/>&amp; operanda quae pertinent ad hanc scientiam, discernendo scilicet credenda &amp; operanda inter se: 
+        <lb ed="#Ba" n="30"/>&amp; a non credendis: &amp; a non operandis: Aliud vero est habere scientiam credendorum &amp; operan- 
+        <lb ed="#Ba" n="31"/>dorum, scilicet scire non solum quid credendum &amp; quid non credendum: quid operandum &amp; quid  
+        <lb ed="#Ba" n="32"/>non operandum: sed etiam quomodo fides credendorum &amp; charitas operandorum gignitur, nutri- 
+        <lb ed="#Ba" n="33"/>tur, roboratur, &amp; defenditur: qua scientia non pollent fideles plurimi, quamuis polleant ipsa fide vel di- 
+        <lb ed="#Ba" n="34"/>lectione plurimum. Aliud est enim scire solummodo quid homo credere vel operari debeat pro- 
+        <lb ed="#Ba" n="35"/>pter adipiscendam beatam vitam: Aliud autem est scire quoniam hoc ipsum piis opituletur: &amp; 
+        <lb ed="#Ba" n="36"/>contra impios defendatur, vt dicit Augustinus. xiiii. de trinitate. Et est talis scientia paucorum. se 
+        <lb ed="#Ba" n="37"/>cundum enim quod dicit <name ref="#Augustine">Augustinus</name> in principio libri contra epistolam fundamenti, Ad cognitio- 
+        <lb ed="#Ba" n="38"/>nem syncerae sapientiae pauci spirituales perueniunt in hac vita, vt eam ex minima parte, quia 
+        <lb ed="#Ba" n="39"/>homines sunt, absque dubitatione cognoscant caeteram: quippe turbam non intelligendi viua- 
+        <lb ed="#Ba" n="40"/>citas: sed credendi simplicitas tutissimam tenet. Et de vtroque modo sciendi potest habere locum 
+        <lb ed="#Ba" n="41"/>quaestio: sed principaliter de secundo, vt patebit. 
+      </p>
+      <p xml:id="vn58an-d1e1192-d1e189">
+        ⁋ Sciendum igitur iuxta illud quod dicit Philoso- 
+        <lb ed="#Ba" n="42"/>phus, Dispositio vniuscuiusque in esse, est sua dispositio in veritate &amp; cognitione: quod Sicut quaedam  
+        <lb ed="#Ba" n="43"/>habent esse a natura tantum, vt triticum de semine tritici: quaedam vero ab arte tantum, vt arca de ligno:  
+        <lb ed="#Ba" n="44"/>quaedam vero partim a natura, partim ab arte, vt sanitas quam natura inchoat: sed adiu- 
+        <lb ed="#Ba" n="45"/>torio quidem medicinae consummati: consimiliter est &amp; in cognitione, quod quaedam sciuntur via 
+        <lb ed="#Ba" n="46"/>inuestigationis rationis solum: quaedam vero per diuinam reuelationem solum: quaedam vero 
+        <lb ed="#Ba" n="47"/>vtroque modo: quorum notitia a reuelatione inchoatur: sed perficitur per studium &amp; inuestigationem, coadiu 
+        <lb ed="#Ba" n="48"/>uante reuelatione. Primo modo sciuntur res naturales a philosophis. Secundo modo scitum est euange 
+        <lb ed="#Ba" n="49"/>lium &amp; sacra scriptura ab apostolis. dicente Hiero. in proli. Bibi. Quicquod aliis exercitatio &amp; quotidiana 
+   <!--210.xml-->
+        <pb ed="#Ba" n="98-r"/>
+        <lb ed="#Ba" n="1"/>lege meditatio tribuere solet, illis hoc spiritus suggerebat sanctus. Tertio modo scita est a fidelibus scien 
+        <lb ed="#Ba" n="2"/>tia: fidei quae per habitum siue fidei lumen infusum inchoatur: sed perficitur per humanum studium 
+        <lb ed="#Ba" n="3"/>cum adiutorio diuinae illustrationis per determinationem credendorum: quae solus habitus 
+        <lb ed="#Ba" n="4"/>fidei non declarat: quia sine hac determinatione habens fidei habitum: quae credenda sunt non co- 
+        <lb ed="#Ba" n="5"/>gnoscit: sicut nec fecit Centurio antequam instructus esset a Petro, vt habetur in Glos. Act. x. Et de hoc modo 
+        <lb ed="#Ba" n="6"/>sciendi sacram scripturam ab homine, scilicet quo ad determinatam notitiam credendorum, procedit 
+        <lb ed="#Ba" n="7"/>quaestio principaliter. Si ergo intelligatur quaestio de scientia qua solum discernuntur credenda, de 
+        <lb ed="#Ba" n="8"/>illa simpliciter est dicendum quod non potest sciri nisi aliquo docente &amp; determinante articulos cre- 
+        <lb ed="#Ba" n="9"/>dendorum: &amp; hoc vel deo inspirante interius, vel angelo vel homine docente exterius. Et hoc est 
+        <lb ed="#Ba" n="10"/>quod dicit Apostolus Roma. x. Quomodo credent ei quem non audierunt: quomodo audient si- 
+        <lb ed="#Ba" n="11"/>ne praedicante: quasi dicat, nullo modo. Si vero intelligatur de scientia qua sacra scriptura piis opi 
+        <lb ed="#Ba" n="12"/>tulatur: &amp; contra impios defensatur, supposita notitia discretionis credendorum, de qua pro- 
+        <lb ed="#Ba" n="13"/>priissime intelligitur quaestio: Aliter enim proprie non cognoscitur aut scitur sacra scriptura: quam 
+        <lb ed="#Ba" n="14"/>quam fide cognoscantur credenda: Intelligendum quod ad scientiam perfectam sacrae scripturae, sicut 
+        <lb ed="#Ba" n="15"/>&amp; cuiuslibet alterius, tria concurrunt. Primum quod homo mentem literae &amp; interpretationem eius 
+        <lb ed="#Ba" n="16"/>per totum cognoscat. Secundum, quod illa quae latent in potentia sub primis scibilibus scientiae, &amp; 
+        <lb ed="#Ba" n="17"/>quae litera non exponit, sciat explicare: &amp; secundum actum deductionis rationalis elicere. Nulla 
+        <lb ed="#Ba" n="18"/>enim scientia omnia particulariter scienda ex principiis suis explicat aut exponit: sed solum illa ex 
+        <lb ed="#Ba" n="19"/>ponit: ex quibus alia sufficienter elici possunt. secundum quod dicit Orig. in Homilia de arca Noe: quod  
+        <lb ed="#Ba" n="20"/>in sacra scriptura super hoc opportunum videtur habitum silentium, de quo sufficienter conse- 
+        <lb ed="#Ba" n="21"/>quentiae ipsius ratio doceret. Tertium quod illa quae ab initio credit sola fide, intelligat ratione. 
+      </p>
+      <p xml:id="vn58an-d1e1192-d1e259">
+        ⁋ Quo  
+        <lb ed="#Ba" n="22"/>ad primum dicendum est absolute, quod exclusa gratia specialis reuelationis secundum communem 
+        <lb ed="#Ba" n="23"/>statum humanum homo non potest scire sacram scripturam sine doctore. Et hoc ideo, quia ipsa  
+        <lb ed="#Ba" n="24"/>vtitur signis rerum: sicut aliae scientiae vtuntur signis vocum. Res autem significat iuxta suas pro 
+        <lb ed="#Ba" n="25"/>prietates. Vnde cum eadem res varias habeat proprietates quibus varia &amp; contraria significari pos- 
+        <lb ed="#Ba" n="26"/>sunt: &amp; ita sacra scriptura sub ipsis intentionem suam in figuris &amp; aenigmatibus repraesentat: &amp; in-  
+        <lb ed="#Ba" n="27"/>definite non potest homini esse per se nota rerum significatio in sacra scriptura, vt cognoscat quid quae  
+        <lb ed="#Ba" n="28"/>libet res velit significare: &amp; pro quo supponat. Vnde sicut homo ignorans idioma graecum: licet di- 
+        <lb ed="#Ba" n="29"/>ctiones graecas disciplinabiliter prolatas audiat: instrui tamen per illas non potest nisi prius in- 
+        <lb ed="#Ba" n="30"/>structus in vocum significatione: consimiliter legens sacram scripturam eam intelligere non potest si 
+        <lb ed="#Ba" n="31"/>ne interpretante ei rerum proprias &amp; figuratiuas significationes ignotas aut dubias. Propter quod  
+        <lb ed="#Ba" n="32"/>dicit Augustinus. ii. de doctrina Christiana. Duabus de causis non intelliguntur quae scripta sunt: 
+        <lb ed="#Ba" n="33"/>si aut ignotis aut ambiguis signis obteguntur. &amp; ibidem. Rerum ignorantia facit ambiguas fi- 
+        <lb ed="#Ba" n="34"/>guratiuasque locutiones. Vnde ad cognoscendum obscuros modos loquendi sacrae scripturae, sine qui  
+        <lb ed="#Ba" n="35"/>bus sciri &amp; intelligi non potest, composuit <name ref="#Augustine">Augustinus</name> libros de doctrina Christiana. Vnde quia 
+        <lb ed="#Ba" n="36"/>sine doctore litera sacrae scripturae sciri &amp; intelligi non potest, dicit Hieronymus ad Paulinum. Lex spi 
+        <lb ed="#Ba" n="37"/>ritualis: &amp; reuelatione opus est vt intelligatur: liber in Apoca. vii. sigillis signatus ostenditur: quan  
+        <lb ed="#Ba" n="38"/>ti hodie putant se nosse literas: tenent signatum librum: nec aperire possunt nisi ille scilicet vel per 
+        <lb ed="#Ba" n="39"/>se vel per ministros reserauerit qui habet clauem Dauid, claudit &amp; nemo aperit, aperit &amp; nemo 
+        <lb ed="#Ba" n="40"/>claudit. Vnde eunuchus ille in actibus cum legeret illud Esaiae. lii. Tanquam ouis ad occisionem ductus est &amp; cae 
+        <lb ed="#Ba" n="41"/>tera: &amp; librum teneret, &amp; verba domini in cogitatione conciperet, lingua volueret, labiis personaret, igno 
+        <lb ed="#Ba" n="42"/>rabat eum quem in libro nesciens venerabatur. Interrogatus autem a Philippo putas ne intelligis 
+        <lb ed="#Ba" n="43"/>quae legis: respondit: quomodo possum nisi quis ostenderit mihi: obsecro de quo propheta dixit de 
+        <lb ed="#Ba" n="44"/>se an de aliquo alio: tunc Philippus incepit ei euangelizare lesum qui clausus latebat in litera. Ex his 
+        <lb ed="#Ba" n="45"/>concludit Hierony, quod diximus supra dicens. Haec a me perscripta sunt breuiter, vt intelligeres te in scri 
+        <lb ed="#Ba" n="46"/>pturis sacris sine praeuio &amp; monstrante semitam non posse ingredi. Et ideo qui non instructi vident 
+        <lb ed="#Ba" n="47"/>per se sacram scripturam, vident eam quasi attendentes ad lucernam lucentem in caliginoso loco, 
+        <lb ed="#Ba" n="48"/>vt dicitur. ii. Pe. id est ad quam homo literas intelligibiliter legere non potest. &amp; hoc quoniam vt dicit ibi Glos. nullus prophe 
+        <lb ed="#Ba" n="49"/>tarum propria sua interpretatione populis doctrinam vitae praedicauit. eget ergo omnino interprs- 
+        <lb ed="#Ba" n="50"/>tatione aliena. Summa ergo fatuitas est, maxime hominum in scientiis secularibus instructorum:  
+        <lb ed="#Ba" n="51"/>quod ad nutum &amp; sine doctore sacram scripturam per se praesumunt capere &amp; intelligere, quos Hiero 
+        <lb ed="#Ba" n="52"/>nymus reprehendit dicens. Qui forte ad scripturas sanctas post seculares litteras venerunt: &amp; sermo- 
+        <lb ed="#Ba" n="53"/>ne composito aures populi mulserunt: quicquid dixerint hoc legem dei putant: nec scire dignantur quid propiosophe quid  
+   <!--211.xml-->
+        <pb ed="#Ba" n="98-v"/>
+        <lb ed="#Ba" n="1"/>Apostoli senserint: sed ad sensum suum incongrua aptant testimonia. De hoc <name ref="#Augustine">Augustinus</name> de vtili. cre- 
+        <lb ed="#Ba" n="2"/>dendi dicit sic. Nulla imbutus poetica disciplina Terentianum sine magistro attingere non au-  
+        <lb ed="#Ba" n="3"/>deres: tu in libros diuinarum rerum sine duce irruis: &amp; de his sine praeceptore audes ferre sen- 
+        <lb ed="#Ba" n="4"/>tentiam: &amp; infra. Et si vnaquaeque disciplina quamquam vilis &amp; facilis vt percipi possit doctorem aut magi- 
+        <lb ed="#Ba" n="5"/>strum requirit, quid temerariae superbiae plenius, quam diuinorum sacramentorum libros &amp; ab in-  
+        <lb ed="#Ba" n="6"/>terpretibus suis nolle cognoscere, &amp; incognitos velle damnare: 
+      </p>
+      <p xml:id="vn58an-d1e1192-d1e355">
+        ⁋ Quo ad secundum modum 
+        <lb ed="#Ba" n="7"/>sciendi sacram scripturam, Dicendum quod sicut adiutorio luminis naturalis rationis potest homo 
+        <lb ed="#Ba" n="8"/>naturali ratione ex primis principiis scientialibus scientiarum naturalium elicere &amp; inuestigare con 
+        <lb ed="#Ba" n="9"/>clusiones siue expressas in scientia siue non, quae tamen latent in potentia in principiis in ipsa scientia ex- 
+        <lb ed="#Ba" n="10"/>praessis: Sic adiutorio luminis fidei potest homo naturali ratione ex primis principiis credendorum elicere omnia poste 
+        <lb ed="#Ba" n="11"/>riora credenda siue in scientia fidei expressa siue non, tanquam illa quae in potentia scita sunt in prioribus 
+        <lb ed="#Ba" n="12"/>&amp; hoc sine omni alio doctore, postquam in primis credendis fuerit sufficienter instructus. Vnde Augu 
+        <lb ed="#Ba" n="13"/>stinus secundo de doct. Christia. Erit diuinarum scripturarum solertissimus indagator qui praeno- 
+        <lb ed="#Ba" n="14"/>tatas legeritur notasque habuerit: etsi nondum intellectu, iam tamen lectione. Deinde quae in eis aperte  
+        <lb ed="#Ba" n="15"/>posita sunt praecepta viuendi vel regulae credendi, solertius diligentiusque inuestiganda sunt: quae tam 
+        <lb ed="#Ba" n="16"/>to plura quisque inuenit quanto est diligentia capacior. In his enim quae aperte in scriptura posita 
+        <lb ed="#Ba" n="17"/>sunt, inueniuntur illa quae continent fidem moresque viuendi. In ea igitur quae obscura sunt aperien- 
+        <lb ed="#Ba" n="18"/>da &amp; discutienda pergendum est, vt ad obscuriora illustranda de manifestioribus sumantur exempla 
+        <lb ed="#Ba" n="19"/>&amp; quaedam certarum sententiarum testimonia in certis auferant dubitationem. 
+      </p>
+      <p xml:id="vn58an-d1e1192-d1e386">
+        ⁋ Quo ad tertium ve- 
+        <lb ed="#Ba" n="20"/>ro modum sciendi sacram scripturam, dicendum similiter quod assistente diuino adiutorio communi 
+        <lb ed="#Ba" n="21"/>sine quo intelligi non possunt credita, sine omni alia praerogatiua reuelationis homo sufficienter 
+        <lb ed="#Ba" n="22"/>instructus in credendis &amp; in dictis sacrae scripturae sine omni alio doctore potest deuenire scruta- 
+        <lb ed="#Ba" n="23"/>tione naturalis ingenii in intellectum eorum quae prius tenebat sola fide, quantum possibil e est cre- 
+        <lb ed="#Ba" n="24"/>dita in vita ista secundum communem statum hominum fieri intellecta. Et quia hoc vt dictum est 
+        <lb ed="#Ba" n="25"/>fit diuina gratia assistente &amp; illuminante, maxime gratum faciente, plus proficitur in hoc oratione 
+        <lb ed="#Ba" n="26"/>quam auditione. Propter quod dicit <name ref="#Augustine">Augustinus</name> in ser. de gratia noui testamenti. Ama ecclesiasticas le- 
+        <lb ed="#Ba" n="27"/>gere literas: &amp; non multa inuenies quae requiras: sed legendo &amp; ruminando si etiam pure domi- 
+        <lb ed="#Ba" n="28"/>num largitorem bonorum omnium depreceris, omnia quae cognitione digna sunt: aut certe  
+        <lb ed="#Ba" n="29"/>rima ipso magis inspirante quam homine aliquo commonente perdisces. &amp; de videndo deum. Primum 
+        <lb ed="#Ba" n="30"/>mihi videtur plus valere in hac inquisitione, viuendi quam loquendi modus. Nam qui didicerunt a domi 
+        <lb ed="#Ba" n="31"/>non Iesu mites esse &amp; humiles, plus cogitando &amp; orando proficiunt quam legendo &amp; audiendo. Nec idem 
+        <lb ed="#Ba" n="32"/>tamen agere partes suas sermo cessauerit: sed cum plantator &amp; rigator officium sui gesserit muneris, 
+        <lb ed="#Ba" n="33"/>caetera illi qui dat crementum relinquit. 
+      </p>
+      <p xml:id="vn58an-d1e1192-d1e423">
+        <lb ed="#Ba" n="34"/>⁋ Ad primum in oppositum: quod lumine naturae sine doctore cognoscimus naturalia 
+        <lb ed="#Ba" n="35"/>ergo &amp; lumine supernaturali sine doctore supernaturalia: Dicendum quod verum est loquendo de se 
+        <lb ed="#Ba" n="36"/>cundo modo sciendi, scilicet posteriora ex prioribus praecognitis. Sed quo ad notitiam literae in  
+        <lb ed="#Ba" n="37"/>aliis scientiis &amp; in ista, omnino refert: propter hoc quod in aliis signa sunt voces propriae determinate 
+        <lb ed="#Ba" n="38"/>ducentes in notitiam rerum: hic autem ipsae res ducentes obscure per suas proprietates in noti- 
+        <lb ed="#Ba" n="39"/>tiam aliarum rerum, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e1192-d1e439">
+        ⁋ Ad secundum de beato Antonio: Dicendum quod illud fuit gra- 
+        <lb ed="#Ba" n="40"/>tiae praerogatiuae: sed quaerimus de notitia quae potest contingere secundum communem statum ho 
+        <lb ed="#Ba" n="41"/>minum. ad illum enim priuatum modum accipiendi notitiam scripturae non est homini expectan- 
+        <lb ed="#Ba" n="42"/>dum: sed studio proprio quantum potest cum diuino adiutorio ad intellectum sacrae scripturae diligen 
+        <lb ed="#Ba" n="43"/>ter laborandum, vt dictum est supra.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

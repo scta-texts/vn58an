@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="234-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2572"> <!-- alias="vn58an-a36q3" -->
+      <head xml:id="vn58an-d1e2572-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e2572-Hd1e107" type="question-title">Utrum intellectus sit in Deo potentia activa an passiva</head>
+      <p xml:id="vn58an-d1e2572-d1e110">
+        <lb ed="#Ba" n="4"/>CIrca Tertium arguitur: quod intellectus in deo non sit potentia passiua. Primo sic. Po 
+        <lb ed="#Ba" n="5"/>ltentia passiua non vadit ad actum nisi per alicuius informationem: qua sit res in 
+        <lb ed="#Ba" n="6"/>actu aliquo vt habitu respectu cuius per se est potentia passiua, vt dictum est su- 
+        <lb ed="#Ba" n="7"/>pra, quid non conpetit potentiae intellectiuae: quia non perficitur nisi per actum qui est intel- 
+        <lb ed="#Ba" n="8"/>ligere: quid est actus egrediens a potentia cuiusmodi non est:nisi actiua in deo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2572-d1e123">
+        <lb ed="#Ba" n="9"/>⁋ Secundo sic. intellectus in deo non est nisi ad intelligere. Intelligere autem in ipso 
+        <lb ed="#Ba" n="10"/>est esse, vt infra videbitur. Ad esse autem in deo non est aliqua potentia passiua: quia 
+        <lb ed="#Ba" n="11"/>actus simpliciter prius est potentia secundum philosophum. ix. Metaph. et simpliciter prius in deo, est prius. 
+        <lb ed="#Ba" n="12"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2572-d1e135">
+        ⁋ Tertio sic. principium elicitiuum actus est potentia actiua, non passiua. Intellectus in deo 
+        <lb ed="#Ba" n="13"/>est huiusmodi, vt dictum est iam supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2572-d1e140">
+        ⁋ Contra. potentia quae vadit in actum quasi per obiectum, passi 
+        <lb ed="#Ba" n="14"/>uaest: intellectus est potentia quae vadit in actum per intelligere quasi per obiectum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2572-d1e145">
+        <lb ed="#Ba" n="15"/>⁋ Dicendum est quod potentia intellectiua siue intellectus, inquantum potentia est, in crea 
+        <lb ed="#Ba" n="16"/>turis secundum rem: &amp; in deo secundum rationem intelligendi, est in potentia: vt materia secundum Comm. de intellectu 
+        <lb ed="#Ba" n="17"/>nostro. super. iii. de anima. Et non est principium sufficiens operationis intellectualis: quia nihil agit nisi secundum  
+        <lb ed="#Ba" n="18"/>quod est actu. Reducitur autem potentia intellectus ad actum per obiectum intelligibile: quod inquantum habet esse 
+        <lb ed="#Ba" n="19"/>in vi memoratiua, agit in intellectiuam potentiam eliciendo ex ea actum intelligendi, quo concipit in se 
+        <lb ed="#Ba" n="20"/>ipsum intelligibile: vt actum &amp; perfectionem suam: ex quo &amp; ipso intellectu fit vnum conpositum: sicut ex co 
+        <lb ed="#Ba" n="21"/>gnoscente &amp; cognito. secundum Comm. super. iii. de anima, non sicut ex materia &amp; forma: vt iandudum ex- 
+        <lb ed="#Ba" n="22"/>posuimus in quadam quaestione de quolibet. Et ideo inquantum intellectus stat in ista actione sim 
+        <lb ed="#Ba" n="23"/>plicis intelligentiae, intellectus potentia passiua est sicut sensus, &amp; intelligere pati quoddam sicut 
+        <lb ed="#Ba" n="24"/>sentire secundum rem in creatura. secundum rationem in deo. Sed hic non stat opeatio intellectus sicut sen- 
+        <lb ed="#Ba" n="25"/>sus: quoniam intellectus postquam informatus est intelligentia simplici &amp; obiecto, vt dictum est: &amp; per 
+        <lb ed="#Ba" n="26"/>hoc factus est in actu, statim conuertit se super suum obiectum discurrendo per ea quae pertinent ad naturam 
+        <lb ed="#Ba" n="27"/>eius &amp; essentiam quocumque modo hoc fuerit: comparando ea inter se: &amp; ad id cuius sunt: &amp; vtrumque ad illa quae 
+        <lb ed="#Ba" n="28"/>sunt extranea ab ipsis, quod sit in nobis intellectu discursiuo, &amp; collectiuo, compositiuo &amp; diuisiuo 
+        <lb ed="#Ba" n="29"/>inuestigando de obiecto quid sit: vel quid non sit: terminando aliquam quaestionum doctrinalium. Inquantum 
+        <lb ed="#Ba" n="30"/>ergo intellectus post dictam opeationem intelligendi simplicis intelligentiae. secundum quam (vt dictum est)  
+        <lb ed="#Ba" n="31"/>oino est passiuus: &amp; extendit se vlterius negotiando circa obiectum comprehensum simplici intelligen- 
+        <lb ed="#Ba" n="32"/>tia ad terminandum opeatione intelligendi quaestiones doctrinales, non est passiuus: sed simpliciter actiuus 
+        <lb ed="#Ba" n="33"/>&amp; est intellectus potentia actiua non passiua. Nec est differentia in hoc de intellectu creato &amp; increato 
+        <lb ed="#Ba" n="34"/>nisi prima differentia: quod alio modo ponuntur potentia passiua &amp; actiua deo quam in creatura, vt patet ex 
+        <lb ed="#Ba" n="35"/>supra determinatis: &amp; quod intellectus creatus alio actu intelligendi secundum rem intelligit simplici in-  
+        <lb ed="#Ba" n="36"/>telligentia: &amp; intelligentia collatiua. Intellectus vero increatus eodem intellectu simplicis intelligen- 
+        <lb ed="#Ba" n="37"/>tiae secundum rem intelligit &amp; simplicia &amp; composita, vt infra dicetur. 
+      </p>
+      <p xml:id="vn58an-d1e2572-d1e197">
+        <lb ed="#Ba" n="38"/>⁋ Ad primum in oppositum: quod potentia intellectiua non vadit in actum per informationem: 
+        <lb ed="#Ba" n="39"/>Dicendum quod verum est per informationem secundum rem, ab aliquo diuerso re. Secundum tamen rationem intelligendi 
+        <lb ed="#Ba" n="40"/>non est inconveniens intelligere idem in deo secundum diuersas rationes vt informans &amp; informatum: &amp; sic eli 
+        <lb ed="#Ba" n="41"/>cere actum intelligendi. Hoc enim nullo modo facit distantiam potentiae ab actu: immo causat identitatem. Ex 
+        <lb ed="#Ba" n="42"/>hoc enim quod ratio intelligendi intellectus &amp; intelligibile in deo sunt omnino idem re: sequitur potius quod intelligere 
+        <lb ed="#Ba" n="43"/>sit idem re cum intelligente, vt infra videbitur. 
+      </p>
+      <p xml:id="vn58an-d1e2572-d1e213">
+        ⁋ Ad secundum, quod intelligere in deo est esse: ipsi autem esse 
+        <lb ed="#Ba" n="44"/>non respondet potentia passiua: Dicendum quod intelligere in deo est ipsum esse: non sicut ratio quaedam essendi:  
+        <lb ed="#Ba" n="45"/>sicut est viuere: iuxta hoc quod supra determinatum est: sed sicut quidam actus vitae procedens ab essentia 
+        <lb ed="#Ba" n="46"/>viuente. Vnde maior est ratio differentiae in deo ipsius intelligere ab esse quam ipsius viuere: quemadmo 
+        <lb ed="#Ba" n="47"/>dum est in creaturis. In creaturis enim viuere &amp; esse non possunt amplius differre quam secundum intentionem: 
+        <lb ed="#Ba" n="48"/>sicut indeterminatum &amp; determinatum: quod addit intentionem determinantem, non dico ex se: sed ex 
+        <lb ed="#Ba" n="49"/>natura in qua recipitur. Aliter enim ens esset genus. Esse enim, indeterminatum quod est. Viuere autem mo 
+        <lb ed="#Ba" n="50"/>dum determinatum essendi dicit. Determinatum dico propter illud in quo esse recipitur. Esse autem &amp; intelli 
+        <lb ed="#Ba" n="51"/>gere &amp; quaelibet alia substantiae opeatio viuentis inter se differunt re. Vnde (vt dictum est) in deo ad rationem 
+        <lb ed="#Ba" n="52"/>esse solummodo pertinent tamquam primae intentiones in ipso esse: essentia, viuere, &amp; vita: &amp; sequuntur circa ipsam 
+        <lb ed="#Ba" n="53"/>essentiam, vt vita est. Aliae rationes omnes attributorum: &amp; eorum quae in deo considerantur, vel tanquam actus &amp; 
+        <lb ed="#Ba" n="54"/>opeationes essentiae viuentis: vel tamquam principia eorum aut fines: siue emanationes procedentes ab ipsis. Et 
+   <!--483.xml-->
+        <pb ed="#Ba" n="234-v"/>
+        <lb ed="#Ba" n="1"/>cum intelligere secundum rationem intelligendi sit primus actus diuinus &amp; naturalis, vt infra pate 
+        <lb ed="#Ba" n="2"/>bit: post alias quatuor rationes essendi sequuntur immediate rationes ordinantes, &amp; quasi disponem 
+        <lb ed="#Ba" n="3"/>tes ad actum intelligendi, vt sunt intelligibile &amp; intellectus: quorum vtrumque dicit rationem potentiae &amp; 
+        <lb ed="#Ba" n="4"/>respectus ad alterum: sicut sensibile ad sensum: &amp; econverso. Vnde habent adinuicem correspondentiam 
+        <lb ed="#Ba" n="5"/>inquantum sensus est quodammodo sensibilia &amp; intellectus intelligibia. Si enim sensus fuerit sentiens 
+        <lb ed="#Ba" n="6"/>in potentia, &amp; sensibile erit sensatum in potentia: et si fuerit in actu, sensatum erit in actu. &amp; similiter est de 
+        <lb ed="#Ba" n="7"/>intellectu cum intellecto: &amp; hoc quo ad differentiam quam recipiunt in creaturis, vt dicit Comm. super 
+        <lb ed="#Ba" n="8"/>illud. iii. de anima. Secantur scientiae quemadmodum &amp; res. In deo autem semper est in actu vtrumque scilicet intel 
+        <lb ed="#Ba" n="9"/>lectus &amp; intelligibile. Est tamen intelligere quasi tertium post rationem intelligibilis, &amp; intellectus. Et 
+        <lb ed="#Ba" n="10"/>est ratio intelligibilis prima post dictas rationes essendi, quasi ratio veri mouens intellectum vt 
+        <lb ed="#Ba" n="11"/>fiat actu intelligens. Deinde ratio intellectus. Tertio, ratio actus intelligendi. Quarto, ratio no 
+        <lb ed="#Ba" n="12"/>titiae siue scientiae quae consistit in actu intelligendi. Secundum quod iuxta haec procedit ordo disputationis no 
+        <lb ed="#Ba" n="13"/>strae: de istis. Quamquam ergo idem sint in deo secundum rem intelligere &amp; esse, propter tamen diuersas rationes eorum  
+        <lb ed="#Ba" n="14"/>secundum quod dictum est: potest se habere aliquid indeo vt potentia elicitiua respectu intelligere cuiusmodi 
+        <lb ed="#Ba" n="15"/>est intellectus: non autem respectu esse. 
+      </p>
+      <p xml:id="vn58an-d1e2572-d1e276">
+        ⁋ Ad tertium dicendum quod verum est de eo quod est principium elicitiuum 
+        <lb ed="#Ba" n="16"/>ex se, quale non est intellectus: quia non elicit actum nisi motus ab intelligibili.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

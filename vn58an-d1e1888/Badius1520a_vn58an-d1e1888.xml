@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="157-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1888"> <!-- alias="vn58an-a26q1" -->
+      <head xml:id="vn58an-d1e1888-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1888-Hd1e107" type="question-title">Utrum Deus sit res, et natura aliqua sub ente</head>
+      <p xml:id="vn58an-d1e1888-d1e110">
+        <lb ed="#Ba" n="23"/>Irca Primum arguitur: quod deus non potest dici res 
+        <lb ed="#Ba" n="24"/>&amp; natura aliqua sub ente. Primo sic. Res &amp; natu 
+        <lb ed="#Ba" n="25"/>ra sub ente determinant esse in eo cui conveniunt. 
+        <lb ed="#Ba" n="26"/>Secundum enim quod dicit Auic. i. Metaph. suae. Intentio 
+        <lb ed="#Ba" n="27"/>vnius, &amp; intentio rei sunt duae intentiones. &amp; no 
+        <lb ed="#Ba" n="28"/>tum est quod certitudo rei est rei praeter esse. Sed esse 
+        <lb ed="#Ba" n="29"/>in deo nullo modo potest determinari: quia esse dei est eius singularitas sibi solitaria: nullo de-  
+        <lb ed="#Ba" n="30"/>terminata, vt habitum est ex praecedentibus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1888-d1e130">
+        ⁋ Secundo sic: quod est res &amp; natura aliqua sub 
+        <lb ed="#Ba" n="31"/>ente, est particulare &amp; hoc aliquid distinctum ab aliis: quia secundum Auic. Res est certitudo pro- 
+        <lb ed="#Ba" n="32"/>pria, qua est vnumquodque id quod est. Deus autem non est hoc aliquid aut particulare, vt infra vide 
+        <lb ed="#Ba" n="33"/>bitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1888-d1e140">
+        ⁋ Contra est: nihil est in se subsistens nisi quod est res &amp; natura aliqua: quia nihil subsistit 
+        <lb ed="#Ba" n="34"/>neque (quod amplius est) existit, nisi sit certitudo aliqua quae subsistens est id quod est. Sicut circulus non est ens 
+        <lb ed="#Ba" n="35"/>&amp; vnum nisi quiam habet certitudinem in essentia qua est circulus, &amp; albedo habet certitudinem qua  
+        <lb ed="#Ba" n="36"/>est albedo. &amp; sic de quolibet ente &amp; vno. Haec autem certitudo res &amp; natura aliqua dicitur in  
+        <lb ed="#Ba" n="37"/>ente. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1888-d1e151">
+        <lb ed="#Ba" n="38"/>⁋ Ista quaestio quasi determinata est supra, determinando quaestionem illam: an quiditas 
+        <lb ed="#Ba" n="39"/>sit in deo: sed tamen vt expressius terminetur sub forma proposita: Dicendum ad hoc: quod licet in omnibus quae 
+        <lb ed="#Ba" n="40"/>deo attribuuntur, manuducimur ex creaturis: vt quae sunt perfectionis &amp; dignitatis in creaturis deo non 
+        <lb ed="#Ba" n="41"/>denegemus: non tamen secundum eundem modum deo attribuimus illa: quo inuenimus ea in creaturis. quia in crea 
+        <lb ed="#Ba" n="42"/>turis nihil inuenimus nisi sub aliqua ratione defectionis &amp; imperfectionis: inquantum. scilicet a perfectione 
+        <lb ed="#Ba" n="43"/>primi entis recedit. Gradus igitur intentionum inspiciendi sunt sub ente in creaturis secundum rationem per 
+        <lb ed="#Ba" n="44"/>fectionis &amp; imperfectionis: vt ex opposito, vel ex supeminenti cognoscamus quomodo ponendae sunt 
+        <lb ed="#Ba" n="45"/>in creatore. Est igitur intelligendum secundum quod in parte dictum est supra, quod ista. v. differunt in omnibus crea 
+        <lb ed="#Ba" n="46"/>turis: esse simpliciter: &amp; esse hoc: &amp; esse aliquid: &amp; esse hoc aliquid: &amp; esse hoc aliquod in actu. Et differunt 
+        <lb ed="#Ba" n="47"/>per hunc modum esse enim in creaturis simpliciter est esse analogum essentiis decem praedicamen- 
+        <lb ed="#Ba" n="48"/>torum. vt enim dicit Auic. i. Metaph. Esse communissime dictum significat multas intentiones: a 
+        <lb ed="#Ba" n="49"/>quibus res quaelibet in certitudine suae essentiae dicitur ens. &amp; est illud esse proprium rei: sicut 
+        <lb ed="#Ba" n="50"/>certitudo essentiae cuiuslibet rei est sibi propria. Sed nullam illarum determinat nomen entis sim- 
+        <lb ed="#Ba" n="51"/>pliciter acceptum. Secundum quod dicit idem in eodem in fine. Ens talis naturae est: quod praedicatur de omni 
+        <lb ed="#Ba" n="52"/>siue illud sit substantia, siue aliud. Ipsa enim substantia ex hoc quod est ens non est substantia: nec 
+        <lb ed="#Ba" n="53"/>aliqua substantia. scilicet subiectum aliquod. Et conuenit rei hoc esse simpliciter dictum ex hoc quod in  
+   <!--329.xml-->
+        <pb ed="#Ba" n="157-v"/>
+        <lb ed="#Ba" n="1"/>certitudine sua est exemplatum quoddam diuini esse. Et tali esse rei opponitur non esse eius quod omninom 
+        <lb ed="#Ba" n="2"/>nihil est per essentiam: quia. scilicet in deo exemplar formale existendi non habet, vt praedictum est sepius. 
+        <lb ed="#Ba" n="3"/>Esse autem hoc, est ipsum esse simpliciter dictum, contractum per certitudinem essentiae alicuius entis:  
+        <lb ed="#Ba" n="4"/>a qua sumitur intentio qua ens dicitur res alicuius decem praedicamentorum. Ens enim &amp; res constituunt 
+        <lb ed="#Ba" n="5"/>diuersas intentiones. Vnaquaeque enim res habet certitudinem quae est eius quiditas qua est id quod est. vt 
+        <lb ed="#Ba" n="6"/>albedo habet certitudinem qua est albedo: &amp; hoc est quod appellamus esse proprium rei. Et differunt ista 
+        <lb ed="#Ba" n="7"/>duo in eodem sola ratione: quia dicitur res ex certitudine essentiae suae qua hoc ens est, substantia. scilicet vel 
+        <lb ed="#Ba" n="8"/>accidens. dicitur autem ens ex eadem certitudine essentiae suae simpliciter dicta &amp; intellecta.  Vnde &amp; pro 
+        <lb ed="#Ba" n="9"/>pter diuersas certitudines rei in diuersis praedicamentis &amp; in quolibet eodem vsque ad vltima indiui 
+        <lb ed="#Ba" n="10"/>dua, quae respondent diuersis intentionibus idealibus in deo, ens diuersimode &amp; analogice dicitur de ipsis. 
+        <lb ed="#Ba" n="11"/>Non est enim ipsa res qua est vnumquodque id quod est in sua essentia &amp; certitudine, aliud quam ipsa simili- 
+        <lb ed="#Ba" n="12"/>tudo diuini exemplaris: a quo habet quod sit res &amp; quod dicatur ens: siue fuerit substantia, siue accns. Esse 
+        <lb ed="#Ba" n="13"/>autem aliquid, est esse rem determinatam in specie athoma sub genere: si proprie accipiatur: a quo sumitur in  
+        <lb ed="#Ba" n="14"/>tentio qua dicitur natura. secundum quod dicit <name ref="#Augustine">Augustinus</name> ii. de Mor. Manichaeorum. Natura nihil aliud est quam id  
+        <lb ed="#Ba" n="15"/>quod intelligitur in suo genere aliquid esse. Est autem hoc aliquid esse rei determinatum in singulari supposi 
+        <lb ed="#Ba" n="16"/>to, quod in nulla creatura determinat certitudo essentiae eius vt essentia est absolute. Vnde &amp; dicit 
+        <lb ed="#Ba" n="17"/>Auic. in princip. Metaphysica. quod res ex hoc quod dicitur aliquid, non sequitur ipsamiesse aliquid signatum: nam aliquid  
+        <lb ed="#Ba" n="18"/>cone est, res autem non fit aliquid signatum per hoc quod dicitur aliquid communiter nisi habuerit differentiam propriam 
+        <lb ed="#Ba" n="19"/>Nec refert etiam si tota species sit in vnico indiuiduo: quia vt dicit ibidem libo iii. cum natura speciel 
+        <lb ed="#Ba" n="20"/>fuerit in vno indiuiduo, hoc vno modo est species: &amp; alio modo non est species: &amp; alio modo vniversale &amp; aliui 
+        <lb ed="#Ba" n="21"/>modo non vniversale. Esse autem in actu, est ipsum esse hoc determinatum in supposito: quando ipsa res in se 
+        <lb ed="#Ba" n="22"/>recepit, &amp; in ipsa sua essentia actum primi principii, &amp; facta est eius effectus. Et est vnus ex modis 
+        <lb ed="#Ba" n="23"/>entis: quo verissime res dicitur esse: quod tamen sepabile est a natura &amp; essentia rei creatae: vt est natura 
+        <lb ed="#Ba" n="24"/>&amp; essentia: &amp; hoc per suum interitum in non esse. Potest enim essentia rei intelligi sine tali esse: tamquam habens 
+        <lb ed="#Ba" n="25"/>rationem in diuino exemplari per quam iterato potest reduci in actuale esse: &amp; a cuius respectu &amp; comperatione 
+        <lb ed="#Ba" n="26"/>non potest absolui. propter quod nec potest absolui ab intentione quae dicitur res quaedam aut essentia. Hoc autem 
+        <lb ed="#Ba" n="27"/>non diceretur nisi esset in natura sua quaedam diuini exemplaris similitudo. Et a tali respectu &amp; comparatione 
+        <lb ed="#Ba" n="28"/>convenit rei suum esse essentiae, vt dictum est: quod semper est ei coniunctum in natura &amp; essentia eius. Et 
+        <lb ed="#Ba" n="29"/>ideo appellatur esse essentiae. Esse vero actuale: quia essentiae rei adest &amp; abest: modum accidentis 
+        <lb ed="#Ba" n="30"/>habet, Et ideo dicitur esse accuntale. Secundum quod dicit Auic. in princip. ii. Metaph. distinguendo ista duo  
+        <lb ed="#Ba" n="31"/>esse. Dicamus (inquit) quod esse vel est rei per suam essentiam: sicut homini esse hominem: vel est ei perac 
+        <lb ed="#Ba" n="32"/>cidens, sicut Petro esse album. Propter quod dictum est supra saepius: quod solum esse primum est esse disci- 
+        <lb ed="#Ba" n="33"/>plinale: esse vero secundum, non. Non enim requiritur vt res sit in existentia ad hoc quod de ipsa sit scientia:  
+        <lb ed="#Ba" n="34"/>sed sufficit quod sit res &amp; natura aliqua in sua essentia. Vnde Auic. subiugit ibidem, dicens. Ea vero quae  
+        <lb ed="#Ba" n="35"/>sunt per accidens, infinita sunt. attingamus &amp; tractemus secundum quod est esse per essentiam. Sic ergo patet 
+        <lb ed="#Ba" n="36"/>quomodo in dictis. v. intentionibus differentia est in crceaturis, licet sit in eis omnino identitas rei supra 
+        <lb ed="#Ba" n="37"/>quam fundatur. In deo autem secundum illa. v. nulla differentia potest esse omnino: neque secundum rem, neque secundum in-  
+        <lb ed="#Ba" n="38"/>tentionem. Essentia enim dei nihil est nisi suum esse: quod non est nisi esse hoc aliquod in actuali existentia. 
+        <lb ed="#Ba" n="39"/>vt supra dictum est. Vnde essentia qua deus est: &amp; esse eius simpliciter: non possunt in ipso differre: sicut 
+        <lb ed="#Ba" n="40"/>differunt essentia &amp; esse essentiae creaturae. propter summam enim actualitatem dei, eius essentia est ipsum esse 
+        <lb ed="#Ba" n="41"/>Et differunt secundum rationem significandi solum. Propter recessum autem ab actualitate primi, essentia 
+        <lb ed="#Ba" n="42"/>creaturae non potest dici ipsum esse eius nisi ratione identitatis: qua esse non nominat aliquod aliud re ab eo quod 
+        <lb ed="#Ba" n="43"/>nominat essentia. secundum quod idem significant re, currere &amp; cursus, vt dictum est. Et ideo dicit Auic. in primo 
+        <lb ed="#Ba" n="44"/>metaphysicae. quod substantia sit adunata naturae entis sine medio: vel sit ipsum esse. Similiter neque aliquid esse &amp; 
+        <lb ed="#Ba" n="45"/>esse hoc vel hoc aliquid in suppositopossunt differre in deo secundum intentionem vniversalis &amp; perticularis 
+        <lb ed="#Ba" n="46"/>quia haec in deo non cadunt: eo quod inon est diuisibile: nec intellectu, quasi essentia eius sit composita 
+        <lb ed="#Ba" n="47"/>ex intelligibilibus intentionibus diuersis, vt dicit Auic. ix. Metaph. suae. de quo infra videbitur 
+        <lb ed="#Ba" n="48"/>amplius. Similiter neque esse simpliciter &amp; esse in actu possunt differre in ipso secundum intentionem 
+        <lb ed="#Ba" n="49"/>entis secundum essentiam: &amp; non entis in actu: quia in deo omnino nulla est potentia ad non esse: sed est purum 
+        <lb ed="#Ba" n="50"/>necesse esse in actu: vt infra videbitur. 
+      </p>
+      <p xml:id="vn58an-d1e1888-d1e304">
+        ⁋ Si quidem igitur intelligantur res &amp; natura, vt aliquae int entio 
+        <lb ed="#Ba" n="51"/>nes diuersae determinantes esse in deo, ad modum quo intelliguntur in creaturis: Dicendum absolute: quod  
+        <lb ed="#Ba" n="52"/>deus non potest dici res aut natura aliqua: sed potius esse solum: quia nulla in eo omnino cadit composi 
+        <lb ed="#Ba" n="53"/>tio aut determinatio. Et ideo dicit Auic. iiii. Metaphysicae. quod necesse esse, non potest esse eiusmodi vt sit 
+        <lb ed="#Ba" n="54"/>in eo compositio: lta vt sit hoc quiditas aliqua quae sit necesse esse: &amp; illi sit intentio aliqua praeter certi 
+        <lb ed="#Ba" n="55"/>tudinem: quae est necessitas essendi. Sed necesse esse non habet quiditatem nisi quod est necesse esse. &amp; haec 
+   <!--330.xml-->
+        <pb ed="#Ba" n="158-r"/>
+        <lb ed="#Ba" n="1"/>est entitas. &amp; hoc ideo: quia eius entitas nullam determinationem recipit, absolutam dico &amp; positiuam: 
+        <lb ed="#Ba" n="2"/>sed solum negatiuam &amp; comparatiuam. secundum quod dicit ibidem. Cum designatur eius certitudo: non designa 
+        <lb ed="#Ba" n="3"/>tur post entitatem: nisi per negationem consimilium ab ipso: &amp; per affirmationem relationum ad ipsum: quia 
+        <lb ed="#Ba" n="4"/>omne quod est, ab ipso est. ipse vero est omne quod est: &amp; tamen non est aliquid ex his. Et ideo dicit Boe- 
+        <lb ed="#Ba" n="5"/>thius de trinitate. Deus a nullo differt, nec vel ab accidentibus, vel substantialibus differentiis in subie 
+        <lb ed="#Ba" n="6"/>cto positis catholicis formam vt est esse ponentibus: neque aliud esse quam est ipsum quod est. Si ergo intelli 
+        <lb ed="#Ba" n="7"/>gatur res aut natura, vt idipsum esse subsistens omnino indifferens: nisi forte sola ratione intelligendi qua in  
+        <lb ed="#Ba" n="8"/>tellectus format sibi conceptus diuersos in deo de eis quae videt re vel intentione diuersa in crea 
+        <lb ed="#Ba" n="9"/>turis, vt infra videbitur: hoc modo dicendum est quod deus verissima res est &amp; natura. Si tamen res dici pos 
+        <lb ed="#Ba" n="10"/>sit: &amp; non potius rerum omnium causa, vt dicit <name ref="#Augustine">Augustinus</name> i de doc. Christan Non enim facile nomen quod tantae 
+        <lb ed="#Ba" n="11"/>excellentiae conveniat potest inueniri. Vnde &amp; quod natura dicitur, extenso nomine dicitur. vt dicit <name ref="#Augustine">Augustinus</name> de Mor. 
+        <lb ed="#Ba" n="12"/>Manich. c. ii. Vt enim nos eum iam nominemus, ab eo quod est esse, vocatur essentia, quam plurimumque etiam substantiam 
+        <lb ed="#Ba" n="13"/>nominamus. lta veteres quid haec nominia non habebant, pro essentia &amp; substantia naturam vocabant. 
+      </p>
+      <p xml:id="vn58an-d1e1888-d1e356">
+        <lb ed="#Ba" n="14"/>⁋ Ad primum in oppositum: quod certitudo qua aliquid est res aut natura determinat 
+        <lb ed="#Ba" n="15"/>esse: quod non determinatur in deo: Dicendum quod esse determinari potest aliquo diuerso ab eo aut re 
+        <lb ed="#Ba" n="16"/>aut intentione. hoc modo solummodo determinatur in creaturis: &amp; nullam determinationem talem recipit 
+        <lb ed="#Ba" n="17"/>in se esse dei: vt habitum est ex supra determinatis. Vel potest ipsum: esse determinari aliquo diuerso 
+        <lb ed="#Ba" n="18"/>secundum rationem solum. hoc modo res &amp; natura siue quiditas in deo determinant esse eius: quia secundum  
+        <lb ed="#Ba" n="19"/>rationem intelligendi illa quae sunt omnino eadem etiam in deo, intellectus separat idem intelligendo diuersi 
+        <lb ed="#Ba" n="20"/>mode secundum diuersas rationes: &amp; secundum hoc praedicationes &amp; compositiones in diuinis formando. &amp; 
+        <lb ed="#Ba" n="21"/>hoc modo non repugnat omnino vnitati &amp; simplicitati diuini esse quod dicatur res, natura, essentia, aut ali 
+        <lb ed="#Ba" n="22"/>quid huiusmodi: vt infra videbitur amplius. 
+      </p>
+      <p xml:id="vn58an-d1e1888-d1e378">
+        ⁋ Ad secundum: quod res omnis sub esse est particulare, deus autem non 
+        <lb ed="#Ba" n="23"/>Dicendum quod hoc solum verum est: quando in aliquo determinans &amp; determinatum differunt: non solum ratione 
+        <lb ed="#Ba" n="24"/>sed etiam intentione. secundum quod alia est intentio vniuersalis &amp; particularis in eadem re: vt infra videbitur. 
+        <lb ed="#Ba" n="25"/>in deo autem vt dictum est: &amp; amplius infra dicetur: sola ratione differunt quaecumque essentialia 
+        <lb ed="#Ba" n="26"/>in eo considerantur. &amp; ideo non oportet quod diuina res sit aliquod particulare. &amp; quomodo non- 
+        <lb ed="#Ba" n="27"/>videbitur inferius.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

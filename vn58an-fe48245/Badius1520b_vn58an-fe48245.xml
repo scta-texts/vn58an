@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="176-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe48245"> <!-- alias="vn58an-a61q4" -->
+      <head xml:id="vn58an-fe48245-Hd1e104">Quaestio 4</head>
+      <p xml:id="vn58an-fe48245-d1e107">
+   <!--367.xml-->
+            <pb ed="#Bb" n="176-v"/>
+        <lb ed="#Bb" n="1"/>CIrca quartum arguitur quod spiritus sanctus non spiretur a patre in filium nec econ 
+        <lb ed="#Bb" n="2"/>uerso, Primo sic. spiritus sanctus spiratur vt subsistens persona. Persona autem omnis 
+        <lb ed="#Bb" n="3"/>subsistens vt subsistens subsistit in seipsa: vt patet ex natura personae superius ex 
+        <lb ed="#Bb" n="4"/>posita: ergo spiritus sanctus spiratur vt in seipso subsistens, quaere inquantum spiratur a pa 
+        <lb ed="#Bb" n="5"/>tre spiratur in seipso: &amp; sic non in alium vt in filium: &amp; inquantum spiratur a filio, 
+        <lb ed="#Bb" n="6"/>similiter spiratur in seipso &amp; non in patrem. 
+      </p>
+      <p xml:id="vn58an-fe48245-d1e127">
+        ⁋ Secundo sic. spiritus sanctus spiratur 
+        <lb ed="#Bb" n="7"/>vt amor procedens per expressionem siue excussionem aut exsufflationem a voluntate communi patris &amp; 
+        <lb ed="#Bb" n="8"/>filii, econtrario generationi filii qui generatur vt notitia procedens per impressionem siue informatio 
+        <lb ed="#Bb" n="9"/>nem a notitia simplici patris in intellectu paterno secundum superius dicta &amp; inferius amplius dicen 
+        <lb ed="#Bb" n="10"/>da. sed procedens ab aliquo vt expressum siue excussum ab aliquo, non procedit in illud, quia reciperetur in  
+        <lb ed="#Bb" n="11"/>illud. idem autem non potest esse terminus a quo excussionis, &amp; in quem receptionis: quia sunt termini 
+        <lb ed="#Bb" n="12"/>quasi vnius motus, cuius non potest esse terminus a quo vnius &amp; ad quem. Quod enim est terminus a quo motus 
+        <lb ed="#Bb" n="13"/>deorsum, nequaquam potest esse terminus ad quem eius: quia contraria essent simul in eodem. ergo voluntas 
+        <lb ed="#Bb" n="14"/>conis patris &amp; filii cum sit terminus a quo amoris procedentis qui est spiritus sanctus, nullo modo er- 
+        <lb ed="#Bb" n="15"/>go potest esse terminus in quem spiratur, siue per spirationem procedit spiritus sanctus. Sed amor 
+        <lb ed="#Bb" n="16"/>non procedit aut recipitur in aliquid, nisi in voluntate recipiatur: quare cum a patre procedens spi 
+        <lb ed="#Bb" n="17"/>ratur, non potest procedere in voluntatem filii, nec econuerso: quia eadem est voluntas patris &amp; filii a 
+        <lb ed="#Bb" n="18"/>qua procedit. nullo ergo modo spiritus sanctus cum spiratur a patre. spiratur in filium nec econuerso. 
+        <lb ed="#Bb" n="19"/>
+      </p>
+      <p xml:id="vn58an-fe48245-d1e158">
+        ⁋ Contra. dicit Damasce. lib. i. cap. x. secundum opinionem graecorum. Spnium sanctum procedere a patre dicimus 
+        <lb ed="#Bb" n="20"/>procedere autem ipsum a filio non dicimus. sed procedens a patre quiescit in filio. sed non quiesceret in filio pro 
+        <lb ed="#Bb" n="21"/>cedens a patre, nisi prcedens a philrse procederet in filium. ista autem processio spiratio est. spiritus sanctus ergo a patre 
+        <lb ed="#Bb" n="22"/>spiratur in filium secundum sententiam graecorum tantum. in hoc quod procedens a patre quiescit in filio, non contradicunt la 
+        <lb ed="#Bb" n="23"/>tini: ergo eadem ratione procedens a filio secundum latinos procedit in patrem, quare cum secundum latinos quando 
+        <lb ed="#Bb" n="24"/>spiratur procedit simul a patre &amp; filio, consimiliter spiratur etiam a patre in filium, &amp; econuerso. 
+        <lb ed="#Bb" n="25"/>
+      </p>
+      <p xml:id="vn58an-fe48245-d1e175">
+        ⁋ Priusquam ad dissolutionem huius quaestionis descendatur, aduertendum est in qua ema- 
+        <lb ed="#Bb" n="26"/>natione proponatur, &amp; quomodo proponatur. Proponitur autem quaestio praesens de emanatione secun- 
+        <lb ed="#Bb" n="27"/>da in diuinis: quia in ipsa sola, &amp; non in emanatione prima potest habere locum. Prima enim emana 
+        <lb ed="#Bb" n="28"/>tio est secundae personae a prima vna in qua procedit a sola altera: vt propterea non sit dubitatio: quin si 
+        <lb ed="#Bb" n="29"/>cut vna sola est terminus a quo: sic vna sola sit terminus ad quem: in quae sistat emanatio vt in se subsistente: 
+        <lb ed="#Bb" n="30"/>&amp; nullo modo in alium tendente. Secunda vero emanatio est tertiae personae a sola persona prima secundum graecos 
+        <lb ed="#Bb" n="31"/>vel a prima &amp; secunda simul secundum latinos: vt propterea licet certum esset de termino a quo: an  
+        <lb ed="#Bb" n="32"/>scilicet essent due personae, an vna sola: dubitatio tamen manet an vna sola persona sit terminus ad quem 
+        <lb ed="#Bb" n="33"/>in qua sistat emanatio. Quia talis emanatio sistere potest in aliquo dupliciter. Vno modo vt in  
+        <lb ed="#Bb" n="34"/>producto subsistente. Alio modo vt in recipiente in seipsum, productum. De primo quidem modo  
+        <lb ed="#Bb" n="35"/>terminandi eam certum est quod vnica persona est terminus eius in quo sistat ipsa persona spiritus san 
+        <lb ed="#Bb" n="36"/>cti producta. De secundo autem modo est dubitatio in vtroque modo producendi spnium sanctum, &amp; secun 
+        <lb ed="#Bb" n="37"/>dum graecos, &amp; secundum latinos. siue enim a solo patre procedat: siue non: cum emanatio filii sit prima re 
+        <lb ed="#Bb" n="38"/>spectu emanationis spiritus sancti, semper dubitatio manet an cum hoc quod procedat a patre vt persona 
+        <lb ed="#Bb" n="39"/>subsistens, eius productio quasi vlterius tendat in filium, vt ipse productus a patre per suam productionem 
+        <lb ed="#Bb" n="40"/>recipiatur in filium vin terminum vlteriorem &amp; alterius generis. Alia enim est ratio termini qua  
+        <lb ed="#Bb" n="41"/>aliquis est terminus productionis vt ipsum productum: &amp; alia qua aliquis est terminus productionis vt 
+        <lb ed="#Bb" n="42"/>receptiuum in se ipsius producti: quemadmodum alius est terminus generationis grauis scilicet ipsum graue:  
+        <lb ed="#Bb" n="43"/>alius vero est ipse locus grauis deorsum. 
+      </p>
+      <p xml:id="vn58an-fe48245-d1e217">
+        ⁋ Proponitur etiam ista quaestio de modo producendi ispnium sanctum 
+        <lb ed="#Bb" n="44"/>ex parte termini secundo modo dicti: Aum. scilicet ab vna duarum primarum personarum producatur in alteram, tam 
+        <lb ed="#Bb" n="45"/>quam in illam tendat productio ipsa quasi in terminum abextra: cum dicitur in casu accusatiuo an spiritus san- 
+        <lb ed="#Bb" n="46"/>ctus procedat vel spiretur a patre in filium. Non autem proponitur an ab vna illarum primarum persona- 
+        <lb ed="#Bb" n="47"/>rum producatur in altera, tamquam infra illam fiat ipsa productio quasi infra ipsum: vt diceretur in casu ablati 
+        <lb ed="#Bb" n="48"/>uo an spiritus sanctus procedat vel spiretur a patre in filio. De hoc enim secundo modo nulla est dubita 
+        <lb ed="#Bb" n="49"/>tio. Cum enim tres diuinae personae sint vnius substantiae: &amp; inseparabiliter vna existat &amp; subsistat in altera 
+        <lb ed="#Bb" n="50"/>secundum modum superius expositum: vna illarum non potest non produci in altera quae prima est re 
+        <lb ed="#Bb" n="51"/>spectu illius. vnde pater producit &amp; generat filium in seipso, &amp; producit siue spirat spantum sanctum in  
+        <lb ed="#Bb" n="52"/>seipso &amp; in filium: sed clarum est quod pater non spirat siue producit sprntum sctuntm in seipsum propter con- 
+        <lb ed="#Bb" n="53"/>trarietatem terminorum circa idem: vt tactum est in secunda ratione. 
+      </p>
+      <p xml:id="vn58an-fe48245-d1e241">
+        ⁋ Restat bona dubitatio: An pa 
+        <lb ed="#Bb" n="54"/>ter producat siue spiret spantum sanctum in filium &amp; econuerso secundum iam tactum modum propter di- 
+        <lb ed="#Bb" n="55"/>uersitatem terminorum a quo &amp; in quem. Dissolutio autem quaestionis est aduertenda ex modo processio- 
+   <!--368.xml-->
+        <pb ed="#Bb" n="177-r"/>
+        <lb ed="#Bb" n="1"/>nis spiritus sancti contrario processioni filii. Quia enim filius inquantum verbum est procedit vt notitia, eius pro  
+        <lb ed="#Bb" n="2"/>cessio siue productio est quasi motio in ipsum intellectum paternum terminata &amp; sistens in illo vt de quo 
+        <lb ed="#Bb" n="3"/>producitur. Spiritus autem inquantum est amor, eius processio siue productio est quasi motio in obiectum 
+        <lb ed="#Bb" n="4"/>amatum non terminata aut sistens in voluntate informata amore simplici de qua producitur: sed ip 
+        <lb ed="#Bb" n="5"/>so producto quasi vlterius procedit in obiectum amatum: &amp; hoc ipso amore incentiuo procedente, quid est 
+        <lb ed="#Bb" n="6"/>spiritus sanctus, vt iam inferius declarabitur. Amore autem incentiuo tali qui procedit a patre &amp; filio non  
+        <lb ed="#Bb" n="7"/>solum pater spiritu sancto amat incentiue seipsum: sed etiam filium: nec similiter filius seipsum: sed etiam 
+        <lb ed="#Bb" n="8"/>patrem. Amor enim incentiuus non est contentus vt ipso ametur quis a seipso: sed necessario tendit etiam 
+        <lb ed="#Bb" n="9"/>in alterum. dicente Ricar. lib. iii. de trinitate cap. vii. Summa charitas nondum esse convincitur vbi dilectus 
+        <lb ed="#Bb" n="10"/>summe non diligitur: sed ipsius amoris convincit proprietas quoniam summe diligenti non sufficit si sum 
+        <lb ed="#Bb" n="11"/>me dilectus summa dilectione non rependit. Et cap. xi. Probatio summae charitatis est votiua commu 
+        <lb ed="#Bb" n="12"/>nio exhibitae sibi dilectionis. &amp; cap. xx. Cordialis amor numquam singularis inuenitur. Propter quod pater spi 
+        <lb ed="#Bb" n="13"/>rans spiritum sanctum non solum spirat ipsum vt in semetipsum tendentem &amp; in semetipso manentem &amp; 
+        <lb ed="#Bb" n="14"/>perficientem voluntatem patris vt patris est: sed etiam spirat ipsum vt tendentem in filium &amp; manentem in fi- 
+        <lb ed="#Bb" n="15"/>lio, &amp; perficientem voluntatem filii vt est filii. Consimiliter etiam filius spirans spiritum sanctum non  
+        <lb ed="#Bb" n="16"/>solum spirat ipsum vt in semetipsum tendentem &amp; manentem in ipso &amp; perficientem voluntatem filii vt est 
+        <lb ed="#Bb" n="17"/>filii: sed etiam spirat ipsum vt tendentem in patrem &amp; manentem in ipso &amp; perficientem voluntatem patris vt pa- 
+        <lb ed="#Bb" n="18"/>tris est. Et secundum hoc spiritus sanctus procedens vt amor (secundum quod declarabitur in quaestione sequente) non 
+        <lb ed="#Bb" n="19"/>procedit a patre &amp; filio solummodo vt amor simpliciter: sed etiam vt amor vnitiuus, &amp; per hoc vlterius 
+        <lb ed="#Bb" n="20"/>vt amborum nexus. Et sic simpliciter concedendum est quod spiritus sanctus spiratur a pre in filium &amp; econverso: &amp; simili 
+        <lb ed="#Bb" n="21"/>ter manet &amp; quiescit in vtroque non solum per hoc quod alteruter ipsum spirat in alterum: sed etiam per hoc quod vter 
+        <lb ed="#Bb" n="22"/>quod illorum spirat illum manentem in seipso: qualiter etiam quiesceret &amp; maneret in patre &amp; spiraretur a semetipso 
+        <lb ed="#Bb" n="23"/>in semetipsum etsi secundum Graecos procederet siue spiraretur a solo patre. Et secundum hoc concedenda 
+        <lb ed="#Bb" n="24"/>est vltima ratio pro ista parte adducta. 
+        <lb ed="#Bb" n="25"/>
+      </p>
+      <p xml:id="vn58an-fe48245-d1e306">
+        ⁋ Ad primam rationem in oppositum, quod spiritus sanctus procedit vt persona subsi 
+        <lb ed="#Bb" n="26"/>stens in seipsa: ergo non spiratur in alium: Dico quod reuera spiritus sanctus spiratur vt subsistens per- 
+        <lb ed="#Bb" n="27"/>sona &amp; in seipso subsistens. Quisquis enim subsistit, in seipso subsistit, per quod excluditur subsistere in alio non 
+        <lb ed="#Bb" n="28"/>vt in continente: sed vt in subiecto. Subsistere enim hoc in alio vt in subiecto, oppositio est in adiecto 
+        <lb ed="#Bb" n="29"/>Subsistere enim est in seipso existere: cui opponitur existere in alio vt in subiecto. Isti enim sunt duo modi  
+        <lb ed="#Bb" n="30"/>existendi inter se distincti &amp; oppositi: quibus inter se distinguuntur praedicamentum substantiae &amp; praedicamen 
+        <lb ed="#Bb" n="31"/>ta accidentium, vt habitum est supra in quaestione quadam de praedicamentis in diuinis. Subsistere au 
+        <lb ed="#Bb" n="32"/>tem &amp; hoc in alio vt in continente, non repugnant: sicut neque ipsum subsistere, &amp; ad aliud subsiste- 
+        <lb ed="#Bb" n="33"/>re. Sic enim diuinae personae habent esse vna in altera, vt habitum est supra. Et sic in altero subsistunt: &amp; 
+        <lb ed="#Bb" n="34"/>tamen in semetipsis subsistunt: sicut &amp; ad alterum subsistunt. sicut spiritus sanctus subsistit in semetipso &amp; spi 
+        <lb ed="#Bb" n="35"/>ratur in seipso: per quod etiam nequaquam excluditur quin spiretur in alium in quo habet esse &amp; quiescere 
+        <lb ed="#Bb" n="36"/>sicut in continente, secundum praeexpositum modum. 
+      </p>
+      <p xml:id="vn58an-fe48245-d1e332">
+        ⁋ Ad secundum, quod spiritus sanctus spiratur per excussionem 
+        <lb ed="#Bb" n="37"/>a voluntate communi patris &amp; filii: ergo non procedit per spirationem in illam: Dico quod verum est processio 
+        <lb ed="#Bb" n="38"/>ne directa: &amp; vt voluntas illa est vnius &amp; eiusdem: quia sic idem haberet rationem contrariorum termi 
+        <lb ed="#Bb" n="39"/>norum vt procedit argumentum. Processione autem non directa sed quasi reflexa, aut etiam processio 
+        <lb ed="#Bb" n="40"/>ne directa, sed vt ipsa voluntas est alterius &amp; alterius, nullam ponit terminorum contrarietatem. Primo modo 
+        <lb ed="#Bb" n="41"/>scilicet processione quasi reflexa pater voluntate sua conuersa super seipsam vt est informata amo 
+        <lb ed="#Bb" n="42"/>re simplici quo diligit seipsum, in qua est voluntas illa vt informata &amp; conuersa, de illa voluntate in 
+        <lb ed="#Bb" n="43"/>formata excutiendo spirat spiritum sanctum in seipsum, &amp; in ipsam voluntatem conuersam quae spi- 
+        <lb ed="#Bb" n="44"/>ratur: in qua est eius perfectio &amp; amor incentiuus: quemadmodum verbum est perfectio in intellectu 
+        <lb ed="#Bb" n="45"/>paterno de quo generatur vt notitia declaratiua. Vnde de ista productione spiritus sancti a patre in  
+        <lb ed="#Bb" n="46"/>seipsum quasi per quandam reflexionem simul &amp; de productione dicit quaedam propositio de maximis 
+        <lb ed="#Bb" n="47"/>theologiae. Monas monadem gignit: &amp; in se suum reflectit amorem. Et ista reflexio a termino eodem in eu- 
+        <lb ed="#Bb" n="48"/>dem nullam ponit contrarietatem: sicut nec motus circularis ab eodem termino in eundem aliquam contra- 
+        <lb ed="#Bb" n="49"/>rietatem ponit. Secundo autem modo scilicet processione directa vt ipsa voluntas est alterius &amp; alterius, simili 
+        <lb ed="#Bb" n="50"/>ter nullam ponit contrarietatem: quia licet tunc voluntas sit vna secundum rem, est tamen quasi alia 
+        <lb ed="#Bb" n="51"/>&amp; alia vt est alterius &amp; alterius. Et hoc modo pater voluntate sua vt patris est conversa supra se vt 
+        <lb ed="#Bb" n="52"/>est informata amore simplici quo diligit filium, in quo est eadem voluntas conuersa, de illa volunta 
+        <lb ed="#Bb" n="53"/>te informata vt est in patre excutiendo spirat spiritum sanctum in filium &amp; in ipsam voluntatem 
+        <lb ed="#Bb" n="54"/>conuersam: in qua similiter existit vt eius perfectio quasi amor quidam incentiuus.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

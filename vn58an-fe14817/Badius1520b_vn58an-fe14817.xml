@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="55-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe14817"> <!-- alias="vn58an-a51q3" -->
+      <head xml:id="vn58an-fe14817-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe14817-d1e107">
+        <lb ed="#Bb" n="10"/>CIrca tertium arguitur quod differentia attributorum &amp; pluralitas in deo ponit ali 
+        <lb ed="#Bb" n="11"/>quam compositionem. Primo sic. illud quo res recedit a summa simplicitate, neces- 
+        <lb ed="#Bb" n="12"/>lario ponit in ea aliquam compositionem: quia a simplicitate non receditur nisi 
+        <lb ed="#Bb" n="13"/>per compositionem. sed pluralitate diuinorum attributorum, recedit diuina essen 
+        <lb ed="#Bb" n="14"/>tia a summa simplicitate: quia ratio simplicitatis consistit in vnitate: &amp; ratio con 
+        <lb ed="#Bb" n="15"/>positionis in multitudine. maior autem est vnitas in qua est multitudo neque re 
+        <lb ed="#Bb" n="16"/>neque ratione: quam in qua est ratione, qualis est multitudo attributorum: ergo &amp; maior simplicitas. hoc 
+        <lb ed="#Bb" n="17"/>autem non esset nisi multitudine attributorum aliquo modo esset recessus a diuina simplicitate. 
+        <lb ed="#Bb" n="18"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe14817-d1e129">
+        ⁋ Secundo sic. quod facit rem non esse penitus idipsum, ponit in ea aliquam compositio- 
+        <lb ed="#Bb" n="19"/>nem: quia ponit in ea hoc &amp; hoc, quae non sunt in eodem sine compositione. pluralitas attributo- 
+        <lb ed="#Bb" n="20"/>rum est huiusmodi: quia attributa in essentia non sunt penitus idipsum: quia tunc essent nomi- 
+        <lb ed="#Bb" n="21"/>na eorum synonyma. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe14817-d1e138">
+        ⁋ In contrarium est: quia quanto aliquid maiorem habet composi- 
+        <lb ed="#Bb" n="22"/>tionem, tanto habet maiorem limitationem. quod ergo repugnat omnino limitationi, nullam omni- 
+        <lb ed="#Bb" n="23"/>no ponit compositionem. pluralitas attributorum omnino repugnat limitationi. Deus enim ex hoc 
+        <lb ed="#Bb" n="24"/>quod est omnino illimitatus, habet attributorum pluralitatem ex natura simplicis essentiae suae: neque pos 
+        <lb ed="#Bb" n="25"/>et eam sic habere: si aliquo modo esset limitatus: sicut nec potest eam habere aliqua creatura. ergo &amp;c. 
+        <lb ed="#Bb" n="26"/>
+      </p>
+      <p xml:id="vn58an-fe14817-d1e152">
+        ⁋ Dicendum ad hoc, quod illud quod in aliquo habet esse, quocunque modo sit non potest 
+        <lb ed="#Bb" n="27"/>ponere imillo rationem contrariam illi secundum quam habet esse in illo: quia tunc suo esse destrueret seipsum 
+        <lb ed="#Bb" n="28"/>quod omnino est impossibile. Vnde si nigredo habet esse &amp; causari in aliquo subiecto ex caliditate ips 
+        <lb ed="#Bb" n="29"/>sa, non potest in illo ex suo esse ponere dispositionem contrariam caliditati scilicet frigiditatem: sic enim suo esse 
+        <lb ed="#Bb" n="30"/>suum esse destrueret. Sic autem est in proposito, quod pluralitas attributorum originaliter &amp; sicut 
+        <lb ed="#Bb" n="31"/>in radice habet esse in diuina essentia: licet completiue ab opeatione intellectus: cuius est vnita vel po 
+        <lb ed="#Bb" n="32"/>tius quae sunt vnum, &amp; idipsum, discernere. Aliter enim attributum esset purum signientum intelle 
+        <lb ed="#Bb" n="33"/>ctus si radicem non haberet in re: circa quam operatione intellectus posset discerni. Illud autem  
+        <lb ed="#Bb" n="34"/>quid sic in diuina essentia est sicut in radice: vt completiue operatione intellectus possit discerni in  
+        <lb ed="#Bb" n="35"/>ea, prouenit ex infinitate simplicitatis &amp; illimitationis eius qua est purum esse, &amp; nihil nisi esse. pro 
+        <lb ed="#Bb" n="36"/>oter hoc enim oportet quod in se habeat rationem omnis esse: &amp; ita omnis esse perfectionem per essentiam, quae  
+        <lb ed="#Bb" n="37"/>est in quocunque alio per participationem: &amp; per hoc sub ratione eminentiori: &amp; ita veriori. secundum 
+        <lb ed="#Bb" n="38"/>quod haec omnia patent ex supra determinatis circa diuinam perfectionem. Cum igitur omnia diui- 
+        <lb ed="#Bb" n="39"/>na attributa, &amp; generaliter quaecunque diuersas rationes important in diuina essentia, rationes perfe 
+        <lb ed="#Bb" n="40"/>ctionum important: licet aliter attributa, aliter proprietates diuini esse, &amp; rationes personales, &amp; ra 
+        <lb ed="#Bb" n="41"/>tiones ideales, &amp; quaecunque in diuina essentia considerantur sub aliqua pluralitate: nullo igitur mo 
+        <lb ed="#Bb" n="42"/>do possunt ponere in diuina essentia aliquid contrarium suae simplicitati &amp; infinitati. Contrarium 
+        <lb ed="#Bb" n="43"/>autem esset quicunque modus compositionis. Idcirco simpliciter dicendum est quod pluralitas attribu- 
+        <lb ed="#Bb" n="44"/>torum in deo neque ponit neque potest ponere aliquam rationem compositionis, neque similiter pro- 
+        <lb ed="#Bb" n="45"/>pter idem pluralitas personarum, siue quoruncunque aliorum quae in deo considerantur: secundum 
+        <lb ed="#Bb" n="46"/>quod processit vltima ratio. 
+        <lb ed="#Bb" n="47"/>
+      </p>
+      <p xml:id="vn58an-fe14817-d1e200">
+        ⁋ Ad primum in oppositum: quod pluralitate attributorum receditur a diuina sim. 
+        <lb ed="#Bb" n="48"/>plicitate: Dicendum quod falsum est: immo potius fundatur in illa. Et quod arguitur ad eius probationem, 
+        <lb ed="#Bb" n="49"/>quod pluralitate attributorum receditur a diuina vnitate in qua consistit eius simplicitas: Dicendum quod 
+        <lb ed="#Bb" n="50"/>in deo praeter vnitatem personalem est duplex vnitas essentialis, quaedam rei, quaedam vero rationis. Pri 
+        <lb ed="#Bb" n="51"/>ma est ipsius diuinae essentiae: secundum quod est res &amp; natura aliqua. de qua habitum est supra quomo 
+        <lb ed="#Bb" n="52"/>do est singularitas quaedam. Secunda vero est attributorum singulorum, &amp; singulorum quae in  
+   <!--125.xml-->
+        <pb ed="#Bb" n="55-v"/>
+        <lb ed="#Bb" n="1"/>deo ponunt differentiam secundum rationem tantum. In prima vnitate consistit diuina simplicitas 
+        <lb ed="#Bb" n="2"/>infinita: propter quod ipsa est origo &amp; fundamentum omnis alterius vnitatis, &amp; etiam pluralita- 
+        <lb ed="#Bb" n="3"/>tis secundum ipsam, siue sit personarum, siue attributorum: quae (vt dictum est) non derogat primae 
+        <lb ed="#Bb" n="4"/>vnitati: sed magis attestatur ipsi: nec est minor propter istam multitudinem. Vnde ad illam pro- 
+        <lb ed="#Bb" n="5"/>positionem quae dicit: Maior est vnitas in qua nulla omnino est multitudo nec re nec ratione: quam sit illa in qua  
+        <lb ed="#Bb" n="6"/>est multitudo ratione, etsi non re: Dicendum quod cum omnis multitudo secundum philosophum est vna plura, multitudo  
+        <lb ed="#Bb" n="7"/>existens in vnitate, aut est vnitatum eiusdem rationis, aut alterius. Primo modo habet propositio illa 
+        <lb ed="#Bb" n="8"/>veritatem. &amp; hoc modo in quacunque vnitate diuina, nulla est multitudo. In diuina enim essentia vna 
+        <lb ed="#Bb" n="9"/>non est multitudo vnitatum quae sunt ipsa essentia re vel ratione plures. Similiter in diuina ve- 
+        <lb ed="#Bb" n="10"/>ritate quae est vnica secundum rationem differens ab essentia: nulla est multitudo vnitatum quae  
+        <lb ed="#Bb" n="11"/>sunt ipsa sapientia re vel ratione plures sapientiae: nisi per ipsius sapientiae quae est essentialis, qua  
+        <lb ed="#Bb" n="12"/>si contractionem ad personale: secundum quod dicitur sapientia ingenita &amp; genita. Differt enim sa- 
+        <lb ed="#Bb" n="13"/>pientia essentialis secundum rationem vt est in patre sub ratione ingeniti: &amp; vt est in filio sub ra- 
+        <lb ed="#Bb" n="14"/>tione geniti. Secundo autem modo habet falsitatem: nullo enim modo est maior vnitas realis es- 
+        <lb ed="#Bb" n="15"/>sentiae in qua nulla est realis multitudo ratione: immo contrarium verum est: quod quanto maior est vni- 
+        <lb ed="#Bb" n="16"/>tas realis essentiae: tanto maior est in ipsa multitudo rationum. iuxta illam propositionem. Ois virtus 
+        <lb ed="#Bb" n="17"/>quanto magis est vnita, tanto magis est infinita. Vnde &amp; in creaturis quanto realis vnitas essen- 
+        <lb ed="#Bb" n="18"/>tiae maior est &amp; simplicior, tanto plurium rationum virtualium in se est contentiua: &amp; quanto 
+        <lb ed="#Bb" n="19"/>minor, tanto est pauciorum rationum virtualium contentiua. Hinc contingit quod inferiora naturalia 
+        <lb ed="#Bb" n="20"/>paucas habent rationes virtuales &amp; paucas operationes &amp; viles. Vnde &amp; terra quae insfimum 
+        <lb ed="#Bb" n="21"/>gradum perfectionis habet, habet ipsum quasi absque operatione: vt dicit <name ref="#Averroes">Commentator</name> super secun 
+        <lb ed="#Bb" n="22"/>dum Cae. &amp; Mun. Et superiora elementa magis spiritualia: quia maiorem habent vnitatem &amp; simpli 
+        <lb ed="#Bb" n="23"/>citatem: quia minus de materia: plus habent de motu &amp; operatione: quibus acquirunt suam pere- 
+        <lb ed="#Bb" n="24"/>ctionem. Et (vt dicit <name ref="#Averroes">Commentator</name> ibidem) etiam vniuersaliter quanto creatura est superior simpli- 
+        <lb ed="#Bb" n="25"/>cior &amp; maioris vnitatis: &amp; plus appropinquata primo principio, tanto est plurium rationum virtualium &amp; opea 
+        <lb ed="#Bb" n="26"/>tionum circa inferiora se: ita quod semper illa quae agunt inferiora per diuersa re diuisa &amp; dispersa, agit 
+        <lb ed="#Bb" n="27"/>superius per vnicum &amp; perfectius: vt cum planta forma sua tantum vegetat: brutum sua forma vegetat 
+        <lb ed="#Bb" n="28"/>&amp; sentit: homo autem sua forma vegetat, sentit, &amp; intelligit: &amp; quod brutum cognoscit pluribus po 
+        <lb ed="#Bb" n="29"/>tentiis sensitiuis, homo cognoscit vna potentia intellectiua. &amp; sic semper quanto est superior ad plu 
+        <lb ed="#Bb" n="30"/>ra se extendit. Propter quod dicitur in commentario dictae propositionis. In omni propinquo vni principio 
+        <lb ed="#Bb" n="31"/>est infinitas plus quam in virtute longinqua ab eo, quod est: quia quanto magis vnitur, magnificatur &amp; ve 
+        <lb ed="#Bb" n="32"/>hementior sit, &amp; efficit operationes mirabiliores, &amp; quanto magis partitur &amp; diuiditur, minoratur, 
+        <lb ed="#Bb" n="33"/>&amp; debilitatur, &amp; efficit operationes viles virtus vnita. 
+      </p>
+      <p xml:id="vn58an-fe14817-d1e295">
+        ⁋ Ad secundum quod pluralitas attributorum 
+        <lb ed="#Bb" n="34"/>facit essentiam non esse penitus idipsum &amp;c. Dicendum quod sicut iam distinctum est de vnitate essentiali quod  
+        <lb ed="#Bb" n="35"/>est vel rei vel rationis, sic distinguendum est de idipsum: quod aliquid est idipsum re, vel idipsum 
+        <lb ed="#Bb" n="36"/>ratione. Quod facit rem penitus non esse idipsum re, necessario ponit in ea aliquam compositionem 
+        <lb ed="#Bb" n="37"/>propter diuersitatem secundum rem. De eo vero quod facit rem non esse penitus idipsum secun- 
+        <lb ed="#Bb" n="38"/>dum rationem, distinguendum, aut secundum rationem absolutam, aut secundum rationem re, 
+        <lb ed="#Bb" n="39"/>spectiuam. De eo quod facit ipsam non esse idipsum primo modo, adhuc ponit in re aliquam com 
+        <lb ed="#Bb" n="40"/>positionem propter diuersitatem intentionum. Ratione enim absoluta penitus non differunt nisi 
+        <lb ed="#Bb" n="41"/>diuersa intentione: qualium compositionem est inuenire in omni creatura vt habitum est supra. 
+        <lb ed="#Bb" n="42"/>Secundo autem modo diuersitas rationum in nulla re ponit compositionem: quia respectus nihil 
+        <lb ed="#Bb" n="43"/>realitatis habet praeter realitatem sui fundamenti. vnde super suum fundamentum non dicit rem 
+        <lb ed="#Bb" n="44"/>aliam a suo sundamento: sed solummodo rationem quae est ad aliquid esse: quae est alia a ratione 
+        <lb ed="#Bb" n="45"/>sui fundamenti quae est aliquid absolute esse: sed solummodo ad aliquid esse. Aliter enim necessa- 
+        <lb ed="#Bb" n="46"/>rio faceret compositionem cum suo fundamento: nisi appellemus rem ipsum respectum ad aliud 
+        <lb ed="#Bb" n="47"/>esse. &amp; tunc est solummodo disputatio de nomine. lpse enim respectus purus qui non est nisi ad  
+        <lb ed="#Bb" n="48"/>aliud esse, siue appelletur res siue non, nullam compositionem facit cum absoluto quod est suum 
+        <lb ed="#Bb" n="49"/>fundamentum. &amp; hoc quia ipsa res fundamenti quasi subintrat rationem respectus: vt quae se- 
+        <lb ed="#Bb" n="50"/>cundum se est absolutum quid nullo ei addito omnino: &amp; absque omni sua mutatione, ex solo mo-  
+        <lb ed="#Bb" n="51"/>do habendi aliquid ad ipsum, assumit rationem respectus: vt idipsum quod quantum est ex 
+        <lb ed="#Bb" n="52"/>se nihil respicit, aliquid respicit ex solo modo habendi aliquid ad ipsum. Propter quod dicit Au 
+        <lb ed="#Bb" n="53"/>gustinus septimo de Trinitate capite primo. Omnis essentia quae relatiue dicitur, est etiam 
+   <!--126.xml-->
+        <pb ed="#Bb" n="56-r"/>
+        <lb ed="#Bb" n="1"/>aliquid excepto relatiuo: sicut si nummus non esset aliqua substantia, nisi arra, posset relatiue 
+        <lb ed="#Bb" n="2"/>dici. Quemadmodum enim nummus fit precium aut arra per alicuius institutionem: vt substantia 
+        <lb ed="#Bb" n="3"/>nummi assumat in se sine cuiuscunque rei additione rationem precii aut arrae, quae est ipsum ad aliud  
+        <lb ed="#Bb" n="4"/>esse: Sic deitas ipsa quasi sit, immo (vt verius dicam) est completiue sapientia, bonitas, &amp; caetera huiusmodi per 
+        <lb ed="#Bb" n="5"/>intellectus considerationem &amp; discretionem secundum praedicta: vt ipsa deitas assumat in se ratio- 
+        <lb ed="#Bb" n="6"/>nem bonitatis, sapientiae, &amp; caeterorum absque cuiuscumque additione, secundum quod supra determinatum est de si- 
+        <lb ed="#Bb" n="7"/>gnificatis attributorum. Et sicut est de respectibus rationum in attributis, sic est de respectibus realium 
+        <lb ed="#Bb" n="8"/>relationum in personis. praeter hoc quod illarum plurificatio est per distinctionem ex natura rei &amp; di 
+        <lb ed="#Bb" n="9"/>uinarum proportionum: non autem ex consideratione intellectus per ipsius discretionem: quemad  
+        <lb ed="#Bb" n="10"/>modum constat plurificato attributorum. Pluralitas enim personarum est distinctione per diuinas pro 
+        <lb ed="#Bb" n="11"/>ductiones: pluralitas vero attributorum est discretione per intellectus discretionem. Nulla autem est 
+        <lb ed="#Bb" n="12"/>pluralitas in diuinis per diuisionem: propter quod non proprie accipiuntur in diuinis huiusmodi 
+        <lb ed="#Bb" n="13"/>nomina, aliud, diuersus, differens: sed solummodo distinctum quo ad personas, &amp; discretum quo  
+        <lb ed="#Bb" n="14"/>ad attributa, &amp; alias diuinas rationes. Vnde quia ista distinctio &amp; discretio non est nisi per ratio- 
+        <lb ed="#Bb" n="15"/>nem respectus, tantae simplicitatis est persona aut attributum, quantae est essentia: &amp;ietiam essen- 
+        <lb ed="#Bb" n="16"/>tia tantae simplicitatis est ipsa, cum personis &amp; attributis, quantae est essentia praeter ipsa. Et sic in  
+        <lb ed="#Bb" n="17"/>proposito licet secundum rationem non sit idipsum bonum esse &amp; sapientem esse: sicut quod amplius est, nec 
+        <lb ed="#Bb" n="18"/>patrem esse: nec filium esse: hoc nullam compositionem omnino ponit in deo: sed infinitam simplici 
+        <lb ed="#Bb" n="19"/>tatem eius attestatur, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

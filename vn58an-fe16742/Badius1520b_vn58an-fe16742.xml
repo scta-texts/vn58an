@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="61-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe16742"> <!-- alias="vn58an-a53a2" -->
+      <head xml:id="vn58an-fe16742-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe16742-d1e107">
+        <lb ed="#Bb" n="48"/>CIrca secundum arguitur: quod persona non proprie sed transumptiue dicitur in deo 
+        <lb ed="#Bb" n="49"/>Primo sic, quod primo &amp; principaliter significat indignum quid &amp; vile, ad quid signifi 
+        <lb ed="#Bb" n="50"/>candum imponitur, non potest proprie dici de deo, quia (vt patet ex supra determi 
+        <lb ed="#Bb" n="51"/>natis) nihil proprie dicitur de ipso nisi id quod est simpliciter nobilius &amp; dignius cir 
+        <lb ed="#Bb" n="52"/>ca vnumquodque. persona est huiusmodi: quia secundum Boethium de duab. naturis 
+        <lb ed="#Bb" n="53"/>ca. iii. nomen personae videtur aliunde tractum. ex his scilicet personis quae in come- 
+        <lb ed="#Bb" n="54"/>diis &amp; tragcediis eos quorum intererat homines repraesentabant. Sed talis repraesentatio vile quid  
+        <lb ed="#Bb" n="55"/>a erat: quia per histriones &amp; viles homines facta, vt dicit ibidem, &amp; in scurrili loco. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe16742-d1e127">
+        ⁋ ldem 
+   <!--138.xml-->
+        <pb ed="#Bb" n="62-r"/>
+        <lb ed="#Bb" n="1"/>patet per Boethium: qui expresse dicit ibidem. Nos propter inopiam significantium vocum trans- 
+        <lb ed="#Bb" n="2"/>latam retinuimus nuncupationem: quam illi (scilicet graeci) hypostasim dicunt, personam vocantes. 
+        <lb ed="#Bb" n="3"/>sed nominatio translatiue dicta non est propria in diuinis, quia ex opposito distinguitur secundum 
+        <lb ed="#Bb" n="4"/>supra determinata. ergo &amp;c. i
+      </p>
+      <p xml:id="vn58an-fe16742-d1e143">
+        ⁋ In oppositum est illud quod supra dictum est, Ricardi: nullum no-  
+        <lb ed="#Bb" n="5"/>men inueniri posse quod possit melius aptari pluralitati diuinae. quod non esset, nisi proprie esset ipsum  
+        <lb ed="#Bb" n="6"/>ponere in deo.  
+      </p>
+      <p xml:id="vn58an-fe16742-d1e151">
+        <lb ed="#Bb" n="7"/>⁋ Dicendum ad hoc: quod cum quaedam dicuntur de deo per proprietatem siue proprie: quaedam 
+        <lb ed="#Bb" n="8"/>vero per similitudinem siue transuptionem, quae sint talia vel talia aspiciendum est ad nominis significatum, non ad vocis 
+        <lb ed="#Bb" n="9"/>vsum. Quaecumque enim important aliquid in suo significato quod est dignitatis simpliciter, dicuntur de deo pro 
+        <lb ed="#Bb" n="10"/>prie: caetera vero omnia transumptiue. secundum quod patet ex supra determinatis. Nunc autem ita est in proposito 
+        <lb ed="#Bb" n="11"/>de significato personae: quod quemadmodum nomen istud quod est indiuiduum significat circa quodcumque cui 
+        <lb ed="#Bb" n="12"/>attribuitur ratio indiuidui, siue fuerit substantia siue accidens, conceptum mentis quo res intelligitur 
+        <lb ed="#Bb" n="13"/>esse singularis &amp; determinata siue signata in indiuisibili per essentiam sub aliquo vuiuersali, cui ex se 
+        <lb ed="#Bb" n="14"/>convenit ratio diuidui: qua quidem significatione intelligitur essentia illa esse aliquid in se indistinctum 
+        <lb ed="#Bb" n="15"/>&amp; inconicabile siue indiuisibile per essentiam, &amp; diuisum a quolibet alio suae naturae: vt sic in se sit vnum, quod  
+        <lb ed="#Bb" n="16"/>non est natum esse hoc &amp; aliud, sed ita hoc quod non aliud: nec natum esse aliud: quemadmodum econ- 
+        <lb ed="#Bb" n="17"/>tra natura generis nata est esse diuersae species, &amp; est in potentia ad illas: similiter natura speciei diuer 
+        <lb ed="#Bb" n="18"/>sa indiuidua: sic nomen istud quod est persona, idem significat circa substantias intellectuales creatas, secun 
+        <lb ed="#Bb" n="19"/>dum quod praetendit definitio personae quam assignat <name ref="#Boethius">Boethius</name> . Cum vero assumitur ad diuina, idem signifi 
+        <lb ed="#Bb" n="20"/>cat, sed modo seu ratione eminentiori: quemadmodum significant in diuinis assumpta a creaturis: quantum 
+        <lb ed="#Bb" n="21"/>cunque proprie dicuntur de deo, vt patet ex supra determinatis. In diuinis enim significat persona con 
+        <lb ed="#Bb" n="22"/>ceptum mentis quo quis intelligitur incommunicabilis esse per suam proprietatem, &amp; esse aliquis in se per illam pro- 
+        <lb ed="#Bb" n="23"/>prietatem, non natum esse secundum illam hic &amp; alius: sed sic est distinctus ab alio vt non sit ille, secundum 
+        <lb ed="#Bb" n="24"/>quod praetendit definitio personae assignata ab Ricar. Et est iste modus existendi summe nobilis: scilicet 
+        <lb ed="#Bb" n="25"/>vt vnam essentiam singularem plures habeant communicatam, qui incommunicabiles sunt secundum suas pro 
+        <lb ed="#Bb" n="26"/>prietates: quod amplius patebit inferius. Propter quod etiam iam dictum est supra, quod persona significat aliquid 
+        <lb ed="#Bb" n="27"/>quod est nobilitatis simpliciter, &amp; in diuinis nobilitatis summae. Quare cum tale quid, secundum supra de 
+        <lb ed="#Bb" n="28"/>terminata, habeat esse proprie in diuinis: idcirco simpliciter dicendum est quod persona proprie habet esse 
+        <lb ed="#Bb" n="29"/>in diuinis, &amp; non per similitudinem neque translationem. 
+      </p>
+      <p xml:id="vn58an-fe16742-d1e207">
+        ⁋ Veruntamen propter argumenta ad primam partem 
+        <lb ed="#Bb" n="30"/>intelligendum est quod duplex est translatio. Quaedam ex parte rei, quando scilicet res non convenit diuinis 
+        <lb ed="#Bb" n="31"/>secundum idem significatum, neque etiam ratione eminentiori, sed secundum quandam similitudinem tantum, quem 
+        <lb ed="#Bb" n="32"/>admodum in deo dicuntur esse character, speculum, &amp; huiusmodi. &amp; talia non habent esse proprie in deo. Alia ve 
+        <lb ed="#Bb" n="33"/>ro est tranllatio ex parte nominis tantum: quod scilicet nomen est primo impositum creaturis: &amp; vsitatum tantum circa ipsas 
+        <lb ed="#Bb" n="34"/>secundum vnam rationem rei, &amp; non est vsitatum in diuinis secundum rationem eminentiorem rei, neque impositum ad il 
+        <lb ed="#Bb" n="35"/>lam representandum: quemadmodum contigit in singulis quae a creaturis per proprietatem assumuntur: in qua quidem assum 
+        <lb ed="#Bb" n="36"/>ptione siue translatione quasi noua sit nominis impositio. &amp; tali translatione transfertur nomen personae 
+        <lb ed="#Bb" n="37"/>ad diuina: &amp; tamen per proprietatem: licet non secundum communem &amp; propriam acceptionem, secundum quam nomen 
+        <lb ed="#Bb" n="38"/>personae primo fuit vsitatum in creaturis. Nam vt dicit Ricar. iiii. de Trini. capitul i. si quis velit nomen personae 
+        <lb ed="#Bb" n="39"/>sub communi &amp; propria acceptione intelligere, nullo modo putet plures personas posse subsistere in vnitate 
+        <lb ed="#Bb" n="40"/>substantiae. Non enim facile capit humana intelligentia, vt possit esse plus quam vna persona, vbi non est 
+        <lb ed="#Bb" n="41"/>plus quam vna substantia. Hinc innumeri errores infidelium, hinc quod alii diuinae substantiae vnitatem scin 
+        <lb ed="#Bb" n="42"/>dunt: hinc est quod Arriani &amp; Sabelliani per contrarias sectas sunt diuisi. Per quod patet ratio ad ambo ar  
+        <lb ed="#Bb" n="43"/>gumenta, maxime autem ad secundum. 
+        <lb ed="#Bb" n="44"/>
+      </p>
+      <p xml:id="vn58an-fe16742-d1e242">
+        ⁋ Ad illud autem quod arguitur in primo argumento: quod persona in creaturis imposi 
+        <lb ed="#Bb" n="45"/>ta est ad repraesentandum vile &amp; inutile quid, vt indiuidua hominum quos histriones in ludis thea 
+        <lb ed="#Bb" n="46"/>tricis repraesentant: Dicendum ad hoc: quod de impositione huius nominis persona, &amp; a quibus translatum 
+        <lb ed="#Bb" n="47"/>sit, sunt diuersae sententiae. Nam (vt dicit magister Alexander in Summa sua) secundum quosdam, hoc no 
+        <lb ed="#Bb" n="48"/>men persona in substantiis originem sumpsit a persona grammaticali, quae nihil aliud est quam proprie- 
+        <lb ed="#Bb" n="49"/>tas qua quis est ille qui loquitur, vel ad quem quis loquitur, vel de quo quis ad alium loquitur. In pri- 
+        <lb ed="#Bb" n="50"/>mo enim modo dicitur esse persona prima: in secundo, secunda: in tertio, tertia. Et quia ista proprietas 
+        <lb ed="#Bb" n="51"/>conuenit vnicuique illorum, vt est in se &amp; per se vnus: idcirco vt in tali habitudine consistit, dicitur qui 
+        <lb ed="#Bb" n="52"/>libet illorum persona. Et secundum rationem vocabuli dicitur persona quasi per se vna. Alia vero est 
+        <lb ed="#Bb" n="53"/>sententia <name ref="#Boethius">Boethii</name>  de duab. natur. vnde argumentum sumptum est: quod videlicet nomen personae videtur 
+        <lb ed="#Bb" n="54"/>tractum ex illis qui in Comoediis Tragoediisque ludorum theatricorum repraesentabant illos loco quo  
+   <!--139.xml-->
+        <pb ed="#Bb" n="62-v"/>
+        <lb ed="#Bb" n="1"/>rum cantus theatricos proferebant, vt Herculem, Chremetem, &amp; caeteros tales: qui pro magnis &amp; ho 
+        <lb ed="#Bb" n="2"/>norabilibus habebantur. propter quod &amp; histriones repraesentantes illos tanquam dignos &amp; honorabi- 
+        <lb ed="#Bb" n="3"/>les viros personae vocabantur: quemadmodum in ecclesiasticis dignitatibus positi quia magni &amp; honora 
+        <lb ed="#Bb" n="4"/>biles viri esse debent, &amp; ad minus eos representant, personae vocantur. Et secundum proprietatem vocabuli 
+        <lb ed="#Bb" n="5"/>in ista translatione secundum Boethium, persona secundum rationem vocabuli dicta est a personando, hoc est 
+        <lb ed="#Bb" n="6"/>perfecte &amp; expressa voce sonando. &amp; hoc idcirco: quoniam illi histriones quandam laruam faciem 
+        <lb ed="#Bb" n="7"/>scilicet de ligno vel cupro factam, quae illum vice cuius cantabant repraesentabat, tanquam notum quod &amp; admirabile 
+        <lb ed="#Bb" n="8"/>ad quod omnes aspiciebant, habebant ligatam ante facies suas: quae quidem larua obtegebat vultum 
+        <lb ed="#Bb" n="9"/>&amp; oculos eorum: &amp; de concauitate illa necesse erat quod maior resonaret sonus. Vnde &amp; graeci sic lar 
+        <lb ed="#Bb" n="10"/>uatos, quos latini appellant personas, appellabant Prosopa: eo quod illa larua ante oculos eorum poneba 
+        <lb ed="#Bb" n="11"/>tur. Dicitur enim graece Prosopo a argonc quod est in, &amp; es .  roo quod est facies, quasi habens aliquid in fa 
+        <lb ed="#Bb" n="12"/>cie. Et quia tales propter illam laruam qua omnibus erant noti &amp; cogniti, personae dicebantur: idcirco in 
+        <lb ed="#Bb" n="13"/>oleuit vsus (sicut dicit <name ref="#Boethius">Boethius</name> ) quod homines omnes elegantes quorum certa pro sui forma &amp; dignita- 
+        <lb ed="#Bb" n="14"/>te agnitio erat, personae dicerentur: &amp; postmodum etiam generaliter omnes naturae intellectuales in  
+        <lb ed="#Bb" n="15"/>diuiduales: &amp; hoc propter naturae illius dignitatem super alias. vnde &amp; vltimo translatum est ad diuina 
+        <lb ed="#Bb" n="16"/>Etsi enim a vilibus hominibus &amp; in vili officio positis, vt procedit obiectio: non tamen inquantum 
+        <lb ed="#Bb" n="17"/>viles erant, sed inquantum nobiles &amp; honoratos viros repraesentabant: vt sic nomen personae aliquid  
+        <lb ed="#Bb" n="18"/>dignitatis &amp; nobilitatis omnino repraesentet, vt digne possit per proprietatem non solum per simi 
+        <lb ed="#Bb" n="19"/>litudinem transferri ad diuina
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

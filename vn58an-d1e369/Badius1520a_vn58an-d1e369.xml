@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="31-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e369"> <!-- alias="vn58an-a4q2" -->
+      <head xml:id="vn58an-d1e369-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e369-Hd1e107" type="question-title">Utrum omnis homo appetat scire</head>
+      <p xml:id="vn58an-d1e369-d1e110">
+        <lb ed="#Ba" n="28"/>CIrca secundum arguitur: quod non omnes homines appetant scire. Primo sic. vnus 
+        <lb ed="#Ba" n="29"/>quisque quaerit quod appetit: sed non omnes quaerunt &amp; laborant scire. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e369-d1e117">
+        <lb ed="#Ba" n="30"/>⁋ Secundo sic: nullus appetit quod habere renuit: scire multi renuunt: vt illi qui di-  
+        <lb ed="#Ba" n="31"/>cunt deo. lob. xxi. Recede a nobis, scientiam viarum tuarum nolumus. &amp; Osee. 
+        <lb ed="#Ba" n="32"/>iiii. Tu quoque scientiam repulisti. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e369-d1e127">
+        ⁋ Tertio sic: nullus appetit quod odit: sed  
+        <lb ed="#Ba" n="33"/>scire multi odiunt. Prouerb. i. Imprudentes odibunt scientiam. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e369-d1e132">
+        ⁋ Contra 
+        <lb ed="#Ba" n="34"/>est: quia secundum <name ref="#Augustine">Augustinus</name> omnes appetunt esse beati. Beatitudo autem vel est scientia &amp; notitia quaedam secundum Phi 
+        <lb ed="#Ba" n="35"/>losophum. x. Ethii. vel non est sine scientia. secundum <name ref="#Augustine">Augustinus</name> i. de Acad. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e369-d1e145">
+        <lb ed="#Ba" n="36"/>⁋ Dicendum ad hoc: quod sicut quaestio praecedens de appetitu hominis vt homo, est simpli 
+        <lb ed="#Ba" n="37"/>citer intelligenda de appetitu hominis ratione speciei: ita quaestio ista quia est de omnis hominis appetitu: intelligenda 
+        <lb ed="#Ba" n="38"/>est principaliter de appetitu hominis ratione indiuidui. Et differt multum de appetitu hominis vt homo est, qui 
+        <lb ed="#Ba" n="39"/>sequitur speciem: &amp; de appetitu hominis vt iste homo est: qui sequtur hypostasim. Et non solum hoc restat in ap-  
+        <lb ed="#Ba" n="40"/>petitu: sed etiam in aliis actionibus &amp; passionibus animae: secundum quod dicit <name ref="#JohnDamascenus">Damascenus</name> in lii. de duabus nat. &amp; vna 
+        <lb ed="#Ba" n="41"/>persona Christianua Naturalis proprietas est quae naturam constituit: &amp; diuidit speciem a specie: hypostatica autem 
+        <lb ed="#Ba" n="42"/>proprietas est quae diuidit hypostasim ab hypostasi: &amp; simpliciter dicere quaecumque omnes homines habent a conditore 
+        <lb ed="#Ba" n="43"/>data naturales sunt proprietates: differens autem vsus hypostaticus est: voluntas &amp; velle naturale est: differens 
+        <lb ed="#Ba" n="44"/>autem voluntas, &amp; differens velle hypostaticum. Dis homo habet posse velle: &amp; omnis homo vult: sed non omnis homo similiter 
+        <lb ed="#Ba" n="45"/>vult, quaere simpliciter velle est naturale: hoc aliquid &amp; taliter velle hypostaticum. Multum ergo distat ista quaestio 
+        <lb ed="#Ba" n="46"/>a praecedenti. Intelligendum ergo cum appetitus non sit nisi boni: quod sicut species est vniversale quid, &amp; simpliciter ens respe- 
+        <lb ed="#Ba" n="47"/>ctu indiuidui: quod est hic &amp; nunc: ita appetitus speciei inquantum huiusmodi est appetitus boni vt est bonum spe 
+        <lb ed="#Ba" n="48"/>ciei. Appetitus vero indiuidui inquantum huiusmodi est bonum indiuidui hic &amp; nunc. Bonum autem speciei est bonum 
+        <lb ed="#Ba" n="49"/>simpliciter: quia est bonum naturae: quam continet species: &amp; natura semper appetit quod bonum est simpliciter. Bonum vero 
+        <lb ed="#Ba" n="50"/>indiuidui est bonum quod videtur huic siue simpliciter, siue delectabile, siue vtile, quod est hic &amp; nunc: quia non est 
+        <lb ed="#Ba" n="51"/>bonum naturae nisi vt in hoc: &amp; quod hoc est appetit quod sibi bonum est. quia tamen ratio speciei continetur in indiui 
+        <lb ed="#Ba" n="52"/>duo: bonum speciei est bonum simpliciter indiuidui: licet quandoque ratione indiuidui respicit specialem rationem boni 
+        <lb ed="#Ba" n="53"/>sibi convenientem. Cum ergo quaeritur an omnis homo appetat scire: Dicendum quod omnis homo ratione qua homo est, &amp; continet in  
+        <lb ed="#Ba" n="54"/>se naturam speciei, appetit scire. sicut &amp; homo simpliciter appetit scire: vt dictum est: quia in scire consistit perfectio 
+        <lb ed="#Ba" n="55"/>speciei secundum intellectum: &amp; vnusqusque appetitu quid conpetit ei ratione speciei perfectionem speciei in se appetit:  
+        <lb ed="#Ba" n="56"/>sic ut &amp; ipsa species sibi suam perfectionem appeteret si esset separata ab indiuiduis. Ratione vero 
+   <!--77.xml-->
+        <pb ed="#Ba" n="31-v"/>
+        <lb ed="#Ba" n="1"/>indiuidui distinguendum: quod loquendo de scire simpliciter: omnis homo appetit scire. loquendo autem de scire a li 
+        <lb ed="#Ba" n="2"/>quid scibile particulare hoc vel illud, non oportet quod omnis homo appetat scire vel hoc vel illud. Cum enim 
+        <lb ed="#Ba" n="3"/>homo ratione indiuidui inquantum huiusmodi non appetat aliquid nisi vt sibi conueniens: vel simplici- 
+        <lb ed="#Ba" n="4"/>ter: vel vt delectabile, vel vtile: &amp; scire per se ex natura sua sit delectabile: &amp; natum delectarem: quaecunque 
+        <lb ed="#Ba" n="5"/>de quocumque scibili scit, etsi non delectet, hoc est per accidens aliquod existens in indiuiduo: vel contingens ipsi 
+        <lb ed="#Ba" n="6"/>ex ipso scire: vt iam patebit: sicut &amp; gustum per se delectat dulce: &amp; si non, hoc est per aliquod accidens exi- 
+        <lb ed="#Ba" n="7"/>stens in gustu: vel contingens ipsi ex ipso dulci. Hoc igitur particulare vel illud omnis homo per 
+        <lb ed="#Ba" n="8"/>se &amp; naturaliter appetit scire inquantum scibile est: &amp; similiter appetitu rationali: si aliquo modo  
+        <lb ed="#Ba" n="9"/>ipsum cognoscat &amp; aduertat: &amp; si aliquis scire non appetit hoc particulare scibile vel illud: hoc est 
+        <lb ed="#Ba" n="10"/>per accidens. &amp; sicut est de voluntate &amp; appetitu sciendi: sic &amp; aliorum. 
+      </p>
+      <p xml:id="vn58an-d1e369-d1e222">
+        ⁋ Ad primum in oppositum: 
+        <lb ed="#Ba" n="11"/>quod non omnes quaerunt scire: Dicendum quod non omnis appetitus mouet ad prosequutionem appetiti: sed for 
+        <lb ed="#Ba" n="12"/>tis quem non potest retrahere contrarius appetitus. Debilem enim sciendi appetitum habentes retrahit 
+        <lb ed="#Ba" n="13"/>fatigatio ex labore ne scire quaerant. Et ideo contrarius appetitus fortior quiescendi retrahit appetitum 
+        <lb ed="#Ba" n="14"/>discendi: ne ad actum moueat: nihilominus tamen appetitus est in eis ad sciendum. vnde &amp; multi non vo- 
+        <lb ed="#Ba" n="15"/>lentes laborare vt sciant: bene vellent scire sine labore. 
+      </p>
+      <p xml:id="vn58an-d1e369-d1e235">
+        ⁋ Ad secundum quod scire multi renuunt: Dicendum quod hoc 
+        <lb ed="#Ba" n="16"/>est per accidens aliquod quo informatur repugnans scientiae: vt per habitum contrarium: sicut infidelis non defside- 
+        <lb ed="#Ba" n="17"/>rat scire scientiam fidei: quia nec in eadem delectatur. Vnde dicit Auicen. ix. Metaph. suae. Res conveniens praepara- 
+        <lb ed="#Ba" n="18"/>ta virtuti apprehendenti si fuerit prohibens vel impediens animam, abhorrebit eam, &amp; eliget potius contrarium: si 
+        <lb ed="#Ba" n="19"/>cut infirmus aliquis abominatur sapores dulces, &amp; desiderat sapores malos, &amp; abominabiles per essen 
+        <lb ed="#Ba" n="20"/>tiam. Vnde generalem causam quare multi non sentiunt delectationes intellectuales ex scientia: quamuis 
+        <lb ed="#Ba" n="21"/>comparari non debent delectationibus sensus: quia in infinitum excedunt: dicit: quia nos in hoc nostro 
+        <lb ed="#Ba" n="22"/>seculo &amp; nostro corpore demersi sumus in multa turpia. Ideo non sentimus illam delectationem cum 
+        <lb ed="#Ba" n="23"/>apud nos fuerit aliquid de causis eius: nec allicimur ad eam: nisi prius deposuerimus a ceruicibus no 
+        <lb ed="#Ba" n="24"/>stris iugum voluptatis &amp; irae &amp; sorores earum: &amp; degustemus aliquid illius delectationis: &amp; sic forte 
+        <lb ed="#Ba" n="25"/>imaginabimur de illa parum aliquid. Sed praecipue cum fuerint solutae quaestiones: &amp; reuelata fue 
+        <lb ed="#Ba" n="26"/>rint inquisita nobilia: tunc comparatio huius nostrae delectationis ad illam nostram delectationem 
+        <lb ed="#Ba" n="27"/>erit sicut comparatio delectationis sensibilis, quae est odorandi odores gustandorum delectabilium ad  
+        <lb ed="#Ba" n="28"/>delectationem comedendi ea. vel est per accidens aliquod contingens ex scire: sicut peccator non vult 
+        <lb ed="#Ba" n="29"/>scire legem: ne concipiat remorsum conscientiae ex ipsa: vel dicuntur scientiam renuere interpretati- 
+        <lb ed="#Ba" n="30"/>ue: quia vt sciant nolunt laborare. Nihilominus tamen omnes isti quantum est ex parte scire simplici 
+        <lb ed="#Ba" n="31"/>ter scire vellent. 
+      </p>
+      <p xml:id="vn58an-d1e369-d1e272">
+        ⁋ Per idem patet ad tertium. Scire enim nullus odit nisi per accidens. vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

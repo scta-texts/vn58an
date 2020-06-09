@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="122-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe33535"> <!-- alias="vn58an-a57q4" -->
+      <head xml:id="vn58an-fe33535-Hd1e104">Quaestio 4</head>
+      <p xml:id="vn58an-fe33535-d1e107">
+        <lb ed="#Bb" n="6"/>Irca quartum arguitur: quod ingenitum sit proprietas constitutiua personae pris, Primo sic. 
+        <lb ed="#Bb" n="7"/>Damascenus. i. lib. c. x. loquendo de diuinis personis dicit sic. Oia quaecumque habent:  
+        <lb ed="#Bb" n="8"/>noc est quiapiter habet ea praeter ingenerationem, generationem, &amp; processionem. In his 
+        <lb ed="#Bb" n="9"/>enim solis hypostaticis proprietatibus abiuicem differunt hae tres hypostases non sub 
+        <lb ed="#Bb" n="10"/>stantia. Characteristicae vero hypostaseos, non sunt autem characteristicae &amp; di- 
+        <lb ed="#Bb" n="11"/>stinctiuae nisi quia sunt personae constitutiuae. Constituit ergo ingeneratio personam 
+        <lb ed="#Bb" n="12"/>patris sicut generatio personam filii, &amp; processio personam spiritus sancti. 
+      </p>
+      <p xml:id="vn58an-fe33535-d1e125">
+        ⁋ Secundo sic. Hila. dicit. iiii. de trinitate. 
+        <lb ed="#Bb" n="13"/>ca. xv. Neque consortem nomen vnigeniti admittit, sicut non recipit innascibilis eo quod innascibilis participen. 
+        <lb ed="#Bb" n="14"/>Vterque itaque vnus est solus. proprietate videlicet in vnoquoque &amp; innascibilitatis &amp; originis. est ergo  
+        <lb ed="#Bb" n="15"/>pater vnus solus proprietate innascibilitatis, sicut filius proprietate originis. sed ex eo res habet esse &amp; 
+        <lb ed="#Bb" n="16"/>esse vna: ergo &amp; proprietate innascibilitatis persona habet esse persona sicut &amp; vna: hoc autem non est ni 
+        <lb ed="#Bb" n="17"/>si quia est constitutiua personae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe33535-d1e138">
+        ⁋ Tertio sic. Dignius est habere perfectionem non ab alio quam ipsam con 
+        <lb ed="#Bb" n="18"/>municare alii. sicut maior est dignitas in rege quod ipse a nullo teneat regnum suum, quam quod faciat alios 
+        <lb ed="#Bb" n="19"/>participes regni sui. dignior est ergo proprietas quae est ingenitum, quam illa quae est generare. dignum autem  
+        <lb ed="#Bb" n="20"/>est quod dignam personam dignior proprietas constituat. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe33535-d1e148">
+        ⁋ In contrarium est, quoniam personam non constituit 
+        <lb ed="#Bb" n="21"/>proprietas nisi quae eam ab alia distinguit persona: quia relatiua oppositio multiplicat trinitatem. sed personam 
+        <lb ed="#Bb" n="22"/>patris non distinguit ab aliquo inascibilitas: sed paternitas &amp; processio actiua: quia solum per has proprie 
+        <lb ed="#Bb" n="23"/>tates habet respectum ad illas. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe33535-d1e157">
+        ⁋ Praeterea proprietatibus pluribus in eadem persona existentibus non 
+        <lb ed="#Bb" n="24"/>est personae constitutiua nisi prima illarum. Aliter enim illa prima non est proprietas personae sed essentiae, quod  
+        <lb ed="#Bb" n="25"/>non est verum, quamquam omnes fundentur in essentia, quare cum secundum determinata in praecedente 
+        <lb ed="#Bb" n="26"/>quaestione paternitas est proprietas prima respectu ingeniti. ergo &amp;c. 
+        <lb ed="#Bb" n="27"/>
+      </p>
+      <p xml:id="vn58an-fe33535-d1e168">
+        ⁋ Dicendum ad hoc: quod persona in diuinis quia est quis subsistens relatiue, pro- 
+        <lb ed="#Bb" n="28"/>prietate qua constituitur subsistit &amp; refertur ad alterum, a quo per hoc distinguitur. Relatiue au-  
+        <lb ed="#Bb" n="29"/>tem non potest subsistere proprietate negatiua: sed solum positiua. Proprietate enim negatiua non po- 
+        <lb ed="#Bb" n="30"/>nit illum ad quem est: sed denegat potius ipsum. &amp; ideo quantum est ex se, posset esse suppositi absoluti 
+        <lb ed="#Bb" n="31"/>vt praedictum est: quia non ponit id cuius est fore distinctum ab alio. Non enim ponit alium subsistentem: &amp; non 
+        <lb ed="#Bb" n="32"/>est distinctio nisi inter subsistentes. lta quod si non esset alia proprietas constitutiua personae cuius proprie- 
+        <lb ed="#Bb" n="33"/>tas est ingenitum, quae proprietas constitutiua esset relatiua &amp; affirmatiua, nullo modo persona illa ex eo 
+        <lb ed="#Bb" n="34"/>quod persona est, relatiua esset ad principiatum: sed esset persona absoluta: &amp; si paternitate esset relatiua ad  
+        <lb ed="#Bb" n="35"/>personam filii productam a se, paternitas sua non esset proprietas personalis sed personae tantum: quemadmodum, proprie- 
+        <lb ed="#Bb" n="36"/>tas spirandi qua pater refertur ad spiritum sanctum, non est personalis sed personae tantum. &amp; sic relatio in diui- 
+        <lb ed="#Bb" n="37"/>nis non multiplicaret trinitatem nisi quo ad duas personas constitutas proprietatibus relatiuis quae sunt 
+        <lb ed="#Bb" n="38"/>filius &amp; spiritus sanctus. Ingenitum enim quantum est ex se, non ponit respectum nisi ad principium: &amp; 
+        <lb ed="#Bb" n="39"/>nullo modo ad principiatum, nisi ratione naturae dinae in quae est, supponendo quod ille cuius est, necessario est a quo  
+        <lb ed="#Bb" n="40"/>alius est: ita quod ratio illa quae alius est ab ipso, prior est quam illa quae non est ab alio. secundum praedicta. Proprietas autem quae  
+        <lb ed="#Bb" n="41"/>prima est, necessario est personae constitutiua: aliter enim illa non esset proprietas personae sed essentiae: quod non est 
+        <lb ed="#Bb" n="42"/>verum: quia essentiae non assignantur proprietates nisi attributales. Ingenitum ergo nullo modo potest esse pro 
+        <lb ed="#Bb" n="43"/>prietas constitutima personae. Vnde &amp; dicit Praepositinus. Innascibilitas non proprie ostendit quod sit: sed quod ipse 
+        <lb ed="#Bb" n="44"/>a nullo sit. &amp; ideo magis paternitas quam innascibilitas proprietas personalis dicenda est. Propter quod &amp; Au 
+        <lb ed="#Bb" n="45"/>gustinus loquens de proprietatibus personalibus constitutiuis, negat igenitum siue non natum esse, proprium pris 
+        <lb ed="#Bb" n="46"/>sic inquiens. Neque enim in illa trinitate, proprium est solius pris quia non est natus ipse: si quod vnum filium genuit. Neque  
+        <lb ed="#Bb" n="47"/>proprium solius filii quia non genuit ipse: sed quia de pris essentia natus est. Neque proprium spiritus sancti quia nec 
+        <lb ed="#Bb" n="48"/>natus est nec genuit: si quia solus de pilre filioque procedit. Praepositinus tamen dicit in summa sua sic. Non est ratio quaere 
+        <lb ed="#Bb" n="49"/>paternitas est magis personalis proprietas quam innascibilitas: &amp; vix aut nunquam poteris inuenire rationem. 
+        <lb ed="#Bb" n="50"/>
+      </p>
+      <p xml:id="vn58an-fe33535-d1e220">
+        ⁋ Ad primum in oppositum de dicto lonenis Damasceni, dicunt aliqui quod ibi sumit genera 
+        <lb ed="#Bb" n="51"/>tionem large ad actiue &amp; passiue dictam: vt comprehendat duas proprietates: quaerum vna est constitutia perso- 
+        <lb ed="#Bb" n="52"/>nae pris: alia vero personae filii. Et quod ibi tangit igenerationem hoc non facit quia personam constituat: sed quia pro  
+        <lb ed="#Bb" n="53"/>pria est vni personae quae per illam differt ab aliis duabus. S huic repugnat littera, quae dicit has tres esse hypostati 
+        <lb ed="#Bb" n="54"/>cas propretates &amp; characteristicas hypostaseos, quod non esset verum nisi quaelibet illarum esset tal. secundum quod processit 
+        <lb ed="#Bb" n="55"/>obiectio. lon dicendum secundum praedicta superius, quod ibi sub ingenare comprehendit generare: quia vt dictum est, fele con- 
+   <!--260.xml-->
+        <pb ed="#Bb" n="123-r"/>
+        <lb ed="#Bb" n="1"/>comitantur in eodem: &amp; per vtrasque pitr differt a filio &amp; spirimu sancto: sed aliter &amp; aliter: quia paternitate 
+        <lb ed="#Bb" n="2"/>differt a filio vt relatione opposita illi quae est in filio: &amp; similiter differt a spiritu sancto spiratione 
+        <lb ed="#Bb" n="3"/>actiua: sed in genito siue in generabilitate differt ab vtroque vt relatione disparata: quemadmodum filius 
+        <lb ed="#Bb" n="4"/>quodammodo differret a spiritusancto si non procederet ab ipso. Sed proprie persona a persona dicitur distigui 
+        <lb ed="#Bb" n="5"/>proprietate illa quae est relatiue opposita. Vnde pitur proprie loquendo distinguitur a filio paternitate, non autem 
+        <lb ed="#Bb" n="6"/>innascibilitate. Propter quod etiam si spiritus sanctus non procederet a filio: licet propter relationes disparatas 
+        <lb ed="#Bb" n="7"/>esset alia persona a persona filii: non tamen proprie diceretur esse distincta ab ea. Comprehendit autem  
+        <lb ed="#Bb" n="8"/>Damascenus potius generare sub ingeneratione, quam econverso: quia per ingenerationem vniformiter dis 
+        <lb ed="#Bb" n="9"/>fert a filio &amp; spiritu sancto, non autem per generare: quia per generare differt a filio vt relatione ope 
+        <lb ed="#Bb" n="10"/>posita: a spiritu sancto autem vt relatione disparata tantum. Quia autem sub ingeneratione comprehen- 
+        <lb ed="#Bb" n="11"/>dit paternitatem, patet ex eo quod dicit lib. i. c. ix. comparando patrem &amp; filium. Omnia quaecumque habet 
+        <lb ed="#Bb" n="12"/>pater oius sunt praeter ingenerationem. Et tamen constat quod paternitas patris non est filii. &amp; ibidem 
+        <lb ed="#Bb" n="13"/>parum ante. Per omnia similis est patri praeter non generationem. &amp; tamen constat quod non est ei si 
+        <lb ed="#Bb" n="14"/>milis in paternitate. 
+      </p>
+      <p xml:id="vn58an-fe33535-d1e268">
+        ⁋ Ad secundum de dicto Hilarii: Dicendum eodem modo quod sub innascibili 
+        <lb ed="#Bb" n="15"/>tate comprehendit generare: &amp; originem sumit ibi pro origine passiue dicta qua filius habet ori- 
+        <lb ed="#Bb" n="16"/>ginari a patre: licet communiter accipi posset quantum est de se pro origine actiue &amp; passiue dicta 
+        <lb ed="#Bb" n="17"/>sicut accipi potest generatio. 
+      </p>
+      <p xml:id="vn58an-fe33535-d1e277">
+        ⁋ Ad tertium, quod dignior proprietas est ingenitum quam generare, Dicen- 
+        <lb ed="#Bb" n="18"/>dum quod non est verum: immo si aliqua illarum habet rationem maioris dignitatisi, lla est generare: quia 
+        <lb ed="#Bb" n="19"/>ex hoc quod ipsum est prima productio, habet persona cuius est quod non sit ab alia. &amp; sic quod ingenitum ha-  
+        <lb ed="#Bb" n="20"/>bet esse, habet ex ratione generationis: vt patet ex dictis in praecedente quaestione. 
+      </p>
+      <p xml:id="vn58an-fe33535-d1e287">
+        ⁋ Ad formam au-  
+        <lb ed="#Bb" n="21"/>tem argumenti quo dicitur: dignius est habere perfectionem non ab alio quam ipsam alii communicare: Dicendum  
+        <lb ed="#Bb" n="22"/>quod verum est, supposito tamen quod sit habens eam, hoc est quod sit suppositum, non eo quo eam alteri communicat 
+        <lb ed="#Bb" n="23"/>de quo est quaestio. Vnde non procedit ratio nisi petendo quod patet in exemplo argumenti. Rex enim ten- 
+        <lb ed="#Bb" n="24"/>poralis non est rex, aut habet regnum ab eo quod alteri communicat ipsum: sed ex se absolute. Nunc autem 
+        <lb ed="#Bb" n="25"/>in persona diuina ingenita summae dignitatis est quod non habet perfectionem nisi in communicando eam, &amp; 
+        <lb ed="#Bb" n="26"/>per hoc non ab alio: quia est primum &amp; primo communicans eam secundum praedictum modum: vt sit multo di 
+        <lb ed="#Bb" n="27"/>gnius habere ipsam in communicando: quia liberalius est: quam non ab alio. &amp; semper est multo dignius 
+        <lb ed="#Bb" n="28"/>aliis eisdem retentis bonum communicare alteri, quam non habere ab altero.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

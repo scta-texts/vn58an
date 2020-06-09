@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="172-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2050"> <!-- alias="vn58an-a29q3" -->
+      <head xml:id="vn58an-d1e2050-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e2050-Hd1e107" type="question-title">Utrum, ut accidens cum subiecto</head>
+      <p xml:id="vn58an-d1e2050-d1e110">
+        <lb ed="#Ba" n="21"/>CIrca tertium arguitur: quod deus habeat compositionem cum alio vt accidens cum 
+        <lb ed="#Ba" n="22"/>subiecto. Primo sic. Omne esse habet esse in aliquo ente: quia esse est actus entis. 
+        <lb ed="#Ba" n="23"/>Deus est esse purum, vt habitum est supra. ergo est in aliquo ente. Nihil autem  
+        <lb ed="#Ba" n="24"/>habet esse in seipso, nisi secundum accidens. secundum Philosophum. 4. Metaph. In deo autem ni- 
+        <lb ed="#Ba" n="25"/>hil cadit secundum accidens. ergo esse quod deus est habet esse in aliquo ente alio a se- 
+        <lb ed="#Ba" n="26"/>per se: non sicut forma substantialis, vt habitum est supra: ergo sicut accidens 
+        <lb ed="#Ba" n="27"/>in subiecto. talem autem compositionem cum ipso habet. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2050-d1e128">
+        ⁋ Secundo sic. illud quod est in re aliqua prae 
+        <lb ed="#Ba" n="28"/>ter eius essentiam, vt accidens eius est in illo. quicquod enim est in re praeter intentionem essentiae suae, acci- 
+        <lb ed="#Ba" n="29"/>dens eius est, vt habitum est supra. Deus est huiusmodi. secundum illud de causis. Prima causa est in omni- 
+        <lb ed="#Ba" n="30"/>bus rebus praeter hoc quod commisceatur cum eis. hoc est praeter hoc quod sit aliquid de eorum essentia. ergo  
+        <lb ed="#Ba" n="31"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2050-d1e140">
+        ⁋ In contrarium est, quoniam illud quod habet compositionem cum alio vt accidens eius, non potest esse ens 
+        <lb ed="#Ba" n="32"/>primum, substantia enim est, prior accidente. secundum Philosophum. vii. Metaph. Deus autem est primum ens, 
+        <lb ed="#Ba" n="33"/>secundum praedeterminata. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2050-d1e147">
+        <lb ed="#Ba" n="34"/>⁋ Dicendum ad hoc: quod sumendo accidens proprie quod est res alicuius praedicamen 
+        <lb ed="#Ba" n="35"/>torum. ix. cum secundum supra determinata Deus non potest esse res alicuius praedicamenti, manifestum 
+        <lb ed="#Ba" n="36"/>est quod deus non potest esse accidens, &amp; ita cum nullo habere compositionem sicut accidens cum subiecto. Neque simi- 
+        <lb ed="#Ba" n="37"/>liter sumendo accidens communiter, pro eo quod est dispositio aliqua circa rem extra eius intentionem, ad  
+        <lb ed="#Ba" n="38"/>modum quo essentiae rei accidit esse &amp; non esse, vniuersale &amp; particulare &amp;c. huiusmodi, vt habitum est supra. 
+        <lb ed="#Ba" n="39"/>quomodo etiam inferiora accidunt supioribus suis, vt intentioni entis qua est ens, accidunt ratio principii &amp; princi 
+        <lb ed="#Ba" n="40"/>piati, substantiae &amp; accidentis, &amp; huiusmodi. vt vult Auic. i. Metaph. suae, Deus enim nulli per hunc modum accidit 
+        <lb ed="#Ba" n="41"/>vt dispositio eius accidentalis, sed omnis respectus quem habet creatura ad deum, est ei essentialis &amp; realis, 
+        <lb ed="#Ba" n="42"/>quia est eius tanquam ad suam causam, primo formalem, qua habet esse quod sit aliquid in natura &amp; essentia, vel tamquam  
+        <lb ed="#Ba" n="43"/>ad suam canm efficientem. Secundo qua habet esse aliquid in existentia, vel tanquam ad suam cam finalem. Tertio 
+        <lb ed="#Ba" n="44"/>qua habet esse quod sit aliquid in sua consummata perfectione, <quote xml:id="vn58an-d1e2050-Qd1e173" source="http://scta.info/resource/rom11_36">quoniam ex ipso &amp; per ipsum &amp; in ipso sunt omnia</quote>. vt 
+        <lb ed="#Ba" n="45"/>dicit <ref xml:id="vn58an-d1e2050-Rd1e178">Apostolus Rom. xi</ref>. Econverso autem respectus huiusmodi respondens in deo ad creaturas, est tantum rationis. vt 
+        <lb ed="#Ba" n="46"/>infra videbitur. Nullo ergo modo deo convenit compositio cum alio vt accidenti cum subiecto: quia nullam 
+        <lb ed="#Ba" n="47"/>rationem accidentis habere potest. 
+      </p>
+      <p xml:id="vn58an-d1e2050-d1e186">
+        <lb ed="#Ba" n="48"/>⁋ Ad primum in oppositum: quod non est esse nisi in ente: dicendum quod verum est. sed in deo 
+        <lb ed="#Ba" n="49"/>esse &amp; ens subsistens nisi sit subsistere personarum, sola ratione differunt. vnde non secundum aliam differentiam 
+        <lb ed="#Ba" n="50"/>realem, sed rationis nostrae solummodo, vel respectus personalis concipimus esse dei existere in ente. In crea- 
+        <lb ed="#Ba" n="51"/>turis autem secundum intentionem differunt esse, &amp; id in quo est: vt dictum est supra. &amp; talis differentia sufficit vt 
+        <lb ed="#Ba" n="52"/>vnum dicatur esse in altero, vt non oportet ponere esse dei in ente alio quam sit ipse deus. Et quod assumitur in ar 
+        <lb ed="#Ba" n="53"/>gumento, quod nihil est in seipso nisi per accidens: verum est indifferens omnino non solum relatione, sed &amp; ratione &amp; item 
+        <lb ed="#Ba" n="54"/>tione &amp; re, vt contingit in amphora. de qua ponit <name ref="#Aristotle">Philosophus</name> exemplum. lpsa enim tanquam indifferens a seipsa re &amp; ratione 
+        <lb ed="#Ba" n="55"/>dicitur esse in se per vinum quod continet, &amp; ita per accidens, vt ibidem determinat. Si tamen aliquid diffe 
+   <!--360.xml-->
+        <pb ed="#Ba" n="173-r"/>
+        <lb ed="#Ba" n="1"/>rat a se ratione vel relatione aut intentione: bene potest per se secundum huiusmodi diuersitatem esse in seipso, 
+        <lb ed="#Ba" n="2"/>vt contingit in proposito, sicut patet. 
+      </p>
+      <p xml:id="vn58an-d1e2050-d1e218">
+        ⁋ Ad secundum: quod deus est in omni ente aliquid praeter eius 
+        <lb ed="#Ba" n="3"/>essentiam: ergo &amp;c. Dicendum quod verum est: non per inhaerentiam qualiter accidens est in subiecto: sed  
+        <lb ed="#Ba" n="4"/>per operationem tanquam dans, esse &amp; conseruans, vt alibi habet declarari.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

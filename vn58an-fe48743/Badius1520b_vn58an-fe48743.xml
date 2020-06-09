@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="178-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe48743"> <!-- alias="vn58an-a61q6" -->
+      <head xml:id="vn58an-fe48743-Hd1e104">Quaestio 6</head>
+      <p xml:id="vn58an-fe48743-d1e107">
+        <lb ed="#Bb" n="36"/>CIrca sextum arguitur quod spiritus sanctus procedit vt amor de notitia, Primo sic. emanatio es 
+        <lb ed="#Bb" n="37"/>in partibus imaginis creatae correspondens est emanationi in personis trinitatis increa 
+        <lb ed="#Bb" n="38"/>tae. secundum <name ref="#Augustine">Augustinum</name> enim sicut filius procedit a patre, &amp; a patre &amp; filio spiritus san 
+        <lb ed="#Bb" n="39"/>ctus: sic in partibus imaginis quae vno modo sunt in eius notitia amor, alio au-  
+        <lb ed="#Bb" n="40"/>eim modo memoria, intelligentia, &amp; voluntas, notitia procedit de mente, &amp; de mente 
+        <lb ed="#Bb" n="41"/>&amp; notitia procedit amor: &amp; similiter intelligentia procedit de memoria, &amp; de menoria 
+        <lb ed="#Bb" n="42"/>&amp; intelligentia procedit voluntas. sed in partibus imaginis amor non procedit de mente &amp; no 
+        <lb ed="#Bb" n="43"/>titia, &amp; simiter voluntas de memoria &amp; intelligentia nisi vt de notitia: quia mens, notitia, memoria, &amp; intelli- 
+        <lb ed="#Bb" n="44"/>gentia ad notitiam pertinent: &amp; actiones eorum non sunt nisi actiones notitiae. ergo &amp; in personis trinitatis spiritus 
+        <lb ed="#Bb" n="45"/>sanctus cui in partibus imaginis rnidet amor &amp; voluntas, non procedit a pre &amp; filio nisi vt de notitia. &amp; ideo 
+        <lb ed="#Bb" n="46"/>cum sit amor, procedit vt amor de notitia: non autem vt amor de amore. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e137">
+        ⁋ Quia autem non procedit vt amor de a 
+        <lb ed="#Bb" n="47"/>amore arguitur secundo sic. si spiritus sanctus procederet vt amor de amore, procederet vt similis de simili, non minus quam  
+        <lb ed="#Bb" n="48"/>filius de pre inquantum procedit de illo vt notitia de notitia: &amp; sic spiritus sanctus non minus procederet vt filius &amp; 
+        <lb ed="#Bb" n="49"/>imago, quam filius: &amp; simiter modo naturae: cuius est de simili simile producere. consequens falsum est secundum praedicta. ergo &amp;c. 
+        <lb ed="#Bb" n="50"/>
+      </p>
+      <p xml:id="vn58an-fe48743-d1e148">
+        ⁋ Quia autem spiritus sanctus procedat nec vt amor de notitia nec vt amor de amore, arguitur tertio sic. si spiritus i 
+        <lb ed="#Bb" n="51"/>sanctus procederet altero duorum modorum, tunc cum ipsum verbum est notitia procedens sicut spiritus sanctus est 
+        <lb ed="#Bb" n="52"/>amor procedens, diceretur verbum procedere vt notitia de notitia, potius quam spiritus sanctus vt amor de noti 
+        <lb ed="#Bb" n="53"/>tia: eo quod magis conformis est notitia notitiae quam notitia amori. aut saltem pari ratione verbum dice- 
+        <lb ed="#Bb" n="54"/>retur procedere vt notitia de notitia, quae spiritus sanctus vt amor de notitia procedere dicitur: consequens falsum est 
+        <lb ed="#Bb" n="55"/>videlicet quod verbum procedit vt notitia de notitia. ergo &amp;c.  
+      </p>
+      <p xml:id="vn58an-fe48743-d1e162">
+        ⁋ Quia autem verbum non procedat  
+   <!--371.xml-->
+        <pb ed="#Bb" n="178-v"/>
+        <lb ed="#Bb" n="1"/>vt notitia, probatur: quia illa notitia esset essentiale attributum quasi praecedens ipsam verbi emanatio- 
+        <lb ed="#Bb" n="2"/>nem: quod est impossibile, quia attributa non habent esse in deo nisi per distinctam apprehensionem: quae in diuinis 
+        <lb ed="#Bb" n="3"/>non habet esse nisi in verbo &amp; per verbum iam productum: eo quod est complementum diuinae intelligentiae. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e175">
+        <lb ed="#Bb" n="4"/>⁋ Quia autem spiritus sanctus non procedat vt amor de notitia, arguitur quarto sic. Si spiritus sancus pro  
+        <lb ed="#Bb" n="5"/>cedat vt amor de notitia, cum productio spiritus sancti sit ex parte voluntatis: &amp; omnis notitia sit ex parte 
+        <lb ed="#Bb" n="6"/>intellectus: tunc intellectus esset actus in productione spiritus sancti. sed omnis actio intellectus est mo 
+        <lb ed="#Bb" n="7"/>do principali naturae. procederet ergo spiritus sanctus modo principali naturae sicut &amp; filius. consequens 
+        <lb ed="#Bb" n="8"/>est falsum secundum superius determinata. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e188">
+        ⁋ Quia autem procedat neque vt de notitia neque vt de 
+        <lb ed="#Bb" n="9"/>amore arguitur, quia procedit vt amor de nuda voluntate secundum praedicta: sed voluntas talis non est no 
+        <lb ed="#Bb" n="10"/>titia vel amor. ergo &amp;c. 
+        <lb ed="#Bb" n="11"/>
+      </p>
+      <p xml:id="vn58an-fe48743-d1e197">
+        ⁋ Dico quod procedere de aliquo aequiuocum est: quia ly de vel potest dicere circun- 
+        <lb ed="#Bb" n="12"/>stantiam principii quasi materialis &amp; de quo elicitur: vel circunstantiam principii agentis &amp; elicientis si- 
+        <lb ed="#Bb" n="13"/>ue eius quod est ratio eliciendi. Primo modo sumendo de aliquo, spiritus sanctus procedit vt amo scilicet io- 
+        <lb ed="#Bb" n="14"/>tionalis, de amore. scilicet essentiali: de quo quasi excutiendo siue exufflando producitur. Sed isto modo non pro 
+        <lb ed="#Bb" n="15"/>cedit filius vt notitia de notitia: sed vt notitia de intellectu puro, sicut patet ex supra determinatis. 
+        <lb ed="#Bb" n="16"/>Secundo autem modo sumendo de aliquo: spiritus sanctus procedit vt amor notionalis de aliquo dupli 
+        <lb ed="#Bb" n="17"/>citer. Vno modo vt de ratione producendi: alio modo vt de ipso producente. Et de ratione producendi du- 
+        <lb ed="#Bb" n="18"/>pliciter: vno modo vt de ratione producendi propter quam sic: alio modo vt de ratione producendi sine qua 
+        <lb ed="#Bb" n="19"/>non. Primo istorum modorum procedit spiritus sanctus nec vt amor de notitia nec vt amor de amore: quia 
+        <lb ed="#Bb" n="20"/>ratio elicitiua actus quo producitur (secundum praedicta) est nuda voluntas, quae nec est notitia nec amor: quia 
+        <lb ed="#Bb" n="21"/>ipse habet rationem potentiae: ista autem inquantum sunt rationes elicitiuae alicuius, rationem habent actus siue ha 
+        <lb ed="#Bb" n="22"/>bitus quasi perficientis potentiam. Sed isto modo filius procedit vt notitia de notitia, sicut patet ex supra 
+        <lb ed="#Bb" n="23"/>determinatis. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e226">
+        ⁋ Secundo autem istorum modorum spiritus sanctus procedit vt amor de notitia: &amp; hoc 
+        <lb ed="#Bb" n="24"/>dupliciter scilicet essentiali &amp; notionali: sine qua quasi praeuia spiritus sanctus nequaquam produceretur de volun 
+        <lb ed="#Bb" n="25"/>tate vt de ratione producendi propter quam sic. Est enim ratio producendi spiritum sanctum propter quam sic ex par 
+        <lb ed="#Bb" n="26"/>te producentium illum, voluntas nuda conuersa super seipsam informata amore simplici &amp; essentiali. 
+        <lb ed="#Bb" n="27"/>vt patet ex supra determinatis. Voluntas autem nuda nullius est productiua, neque alicuius actionis pri 
+        <lb ed="#Bb" n="28"/>cipium sine notitia praeuia intellectus, vt patet ex ordine voluntatis &amp; intellectus saepius declarato in  
+        <lb ed="#Bb" n="29"/>stionibus de Quolibet. Est autem notitia essentialis quasi praeuia ad productionem spiritus sancti: quia sine hac 
+        <lb ed="#Bb" n="30"/>nec esset amor essentialis in pierse per generationem a pre conicandus filio: super quem voluntas concors vtriusque se con 
+        <lb ed="#Bb" n="31"/>uertit vt de ipso quasi materialiter spiretur spiritus sanctus, secundum superius determiata. Incognita enim omnino se 
+        <lb ed="#Bb" n="32"/>cundum <name ref="#Augustine">Augustinum</name> amari non possunt. Notitia vero praecedens siue notionalis est quasi praeuia ad productionem 
+        <lb ed="#Bb" n="33"/>spiritus sancti: quia sicut sine notitia essentiali quasi perficiente intellectum paternum non posset voluntas paterna de 
+        <lb ed="#Bb" n="34"/>se volendo elicere actum amoris essentialis conicandum filio per generationem: sic sine notitia praecedente notionali quae 
+        <lb ed="#Bb" n="35"/>si perficiente intellectum patris &amp; filii non posset voluntas ipsorum concors convertere se super se quasi informata amo 
+        <lb ed="#Bb" n="36"/>re simplici, ad producendum de amore simplici amorem incentiuum, sicut maiorem flammam de minori. Sicut enim in 
+        <lb ed="#Bb" n="37"/>cognita simpliciter, simpliciter amari non possunt, &amp; ideo ad amorem simplicem necessaria est notitia sim 
+        <lb ed="#Bb" n="38"/>plex quasi praeuia: sine quae talis amor non habet elici a voluntate: sic incognita declaratiue incentiue ama 
+        <lb ed="#Bb" n="39"/>ri non possunt, &amp; ideo ad amorem incentiuum necessaria est notitia declaratiua quasi praeuia, sine quae talis amor 
+        <lb ed="#Bb" n="40"/>non habet elici a voluntate de amore simplici: sicut flamma maior de minori, quae tamen non est nisi vna fiam 
+        <lb ed="#Bb" n="41"/>ma: quemadmodum ex parte intellectus notitia declaratiua quasi maior &amp; clarior est simplici notitia: quae non sunt 
+        <lb ed="#Bb" n="42"/>tamen nisi vna notitia. Dico quasi maior: quia licet in diuinis notitia vel amor essentialis non sit maior secundum  
+        <lb ed="#Bb" n="43"/>rem quam notitia vel amor notionalis siue procedens: tamen ex modo procedendi notitia procedens est declaratiua respectu 
+        <lb ed="#Bb" n="44"/>notitiae simplicis: &amp; amor procedens est incentiuus respectu amoris simplicis. Nec est differentia in hoc 
+        <lb ed="#Bb" n="45"/>ex parte intellectus &amp; voluntatis, nisi quod ex parte voluntatis quasi materialiter procedit amor de amore: principia 
+        <lb ed="#Bb" n="46"/>tiue autem de nuda voluntate. Ex parte autem intellectus econverso principiatiue &amp; productiue procedit notitia 
+        <lb ed="#Bb" n="47"/>de notitia: sed quasi materialiter procedit notitia de intellectu nudo, vt patet ex praedeterminatis. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e284">
+        ⁋ Et est hic 
+        <lb ed="#Bb" n="48"/>aduertendum, quod licet secundum iam dictum modum spiritus sanctus dicatur procedere vt amor de notitia duplici sicut de 
+        <lb ed="#Bb" n="49"/>ratione principiandi sine quae non, non tamen filius dicitur procedere de amore vt de ratione principiandi sine qua non. Nonde 
+        <lb ed="#Bb" n="50"/>amore notionali, quia ille procedit de filio: nec de principalitate: nec etiam de amore essentiali quo pr amat 
+        <lb ed="#Bb" n="51"/>se &amp; essentiam suam, quid annexus est notitiae essentiali: de quae vt de ratione principiandi propter quam sic, piter producit filium: 
+        <lb ed="#Bb" n="52"/>quia licet producens filium non sit sine illo amore quasi praeuio, non tamen de illo producit filium vt de ratione sine quae non quia  
+        <lb ed="#Bb" n="53"/>ille amor non est necessarius notitiae simplici vt de ipsa quasi principiatiue producatur notitia declaratiua: sicut 
+        <lb ed="#Bb" n="54"/>notitia duplex est necessaria voluntati vt de ipsa principiatiue producatur amor incentiuus. Plus 
+        <lb ed="#Bb" n="55"/>enim indiget voluntas vt exeat in actum suum intellectu praeuio, quam econuerso intellectus vt exeat 
+   <!--372.xml-->
+        <pb ed="#Bb" n="179-r"/>
+        <lb ed="#Bb" n="1"/>in actum suum quasi praeuia voluntate. Vnde loquendo de notitia quasi antecedente, &amp; similiter de 
+        <lb ed="#Bb" n="2"/>amore quasi antecedente, spiritus sanctus potius dicendus est esse cum notitia amor, quam filius siue verbum cum 
+        <lb ed="#Bb" n="3"/>amore notitia: quia notitia duplex scilicet essentialis &amp; declaratiua, qua pater &amp; filius noscunt spiritum 
+        <lb ed="#Bb" n="4"/>sanctum a se productum, est saltem ratio sine qua non spiritus sanctus produceretur, &amp; quasi praeuia ad ipsum  
+        <lb ed="#Bb" n="5"/>producendum sicut dictum est. Amor autem qui solus quasi praeuius est in productione filii quo pa 
+        <lb ed="#Bb" n="6"/>ter amat genitam a se prolem, nec etiam est ratio sine qua non produceretur filius, vt dictum est. 
+        <lb ed="#Bb" n="7"/>Propter quod nequaquam legitur notitia siue intellectus procedere de amore: dicitur tamen amor siue 
+        <lb ed="#Bb" n="8"/>voluntas procedere de notitia. Vnde <name ref="#Augustine">Augustinus</name> loquens de luce increata dicit, xv. de triniitate. ca. xvii. 
+        <lb ed="#Bb" n="9"/>ipsa tibi ostendit duo velut parentem &amp; prolemn tertia voluntate siue dilectione iungente. Quam quidem 
+        <lb ed="#Bb" n="10"/>voluntatem de cognitione procedere necesse est. Nemo enim vult quod quid vel quale sit nescit. Sumendo au  
+        <lb ed="#Bb" n="11"/>tem producere de aliquo vt de ipso producente, cum producentes spiritum sanctum sunt pater &amp; filius 
+        <lb ed="#Bb" n="12"/>quorum neuter dicitur esse amor: sed potius dicuntur esse amantes aut habentes in se amorem: secundum  
+        <lb ed="#Bb" n="13"/>istum modum nullo modo spiritus sanctus dicendus est procedere vt amor de amore: sed potius de 
+        <lb ed="#Bb" n="14"/>amantilaus vel habentibus amorem: quia amor personaliter non dicitur de patre &amp; filio. Quia autem  
+        <lb ed="#Bb" n="15"/>pater &amp; filius non solum dicuntur noscentes vel habentes in se notitiam, accipiendo notitiam pro 
+        <lb ed="#Bb" n="16"/>actu vel habitu perficiente personam secundum intellectum: sed etiam notitia personaliter dicitur 
+        <lb ed="#Bb" n="17"/>de illis inquantum pater est notitia ingenita, de qua procedit filius vt notitia genita: Ideo secundum 
+        <lb ed="#Bb" n="18"/>istum modum spiritus sanctus dicendus est procedere non solum vt amor de noscentibus vel ha-  
+        <lb ed="#Bb" n="19"/>bentibus in se notitiam: sed etiam vt amor de notitia duplici, genita. scilicet &amp; ingenita. Sed est aduerten- 
+        <lb ed="#Bb" n="20"/>dum quod cum spiritus sanctus dicitur procedere de noscentibus vel habentibus notitiam, hoc non est per 
+        <lb ed="#Bb" n="21"/>se: sed potius per accidens: quia non procedit de noscentibus vel habentibus notitiam inquantum 
+        <lb ed="#Bb" n="22"/>tales: sed potius inquantum sunt volentes vel ipsam voluntatem concordem habentes: eo quod in ipsis 
+        <lb ed="#Bb" n="23"/>secundum iam dicta, voluntas est ratio spirandi spiritum sanctum propter quam sic: non sic no 
+        <lb ed="#Bb" n="24"/>titia. Vnde per se loquendo spiritus sanctus non procedit nisi de volentibus inquantum tales sunt 
+        <lb ed="#Bb" n="25"/>non autem de noscentibus inquantum noscentes sunt: nec etiam de amantibus inquantum aman  
+        <lb ed="#Bb" n="26"/>tes sunt: nisi accipiendo de aliquo vt de principio quasi materiali, non autem vt de principio eliciti 
+        <lb ed="#Bb" n="27"/>uo, sicut patet ex praedictis. FEilius autem econuerso accipiendo de aliquo vt de principio elicitiuo pro 
+        <lb ed="#Bb" n="28"/>cedit per se de cognoscente inquantum cognoscens est, &amp; de intelligente inquantum intelligens (di 
+        <lb ed="#Bb" n="29"/>co notitia essentiali) non autem de amante inquantum amans est, neque de volente inquantum vo- 
+        <lb ed="#Bb" n="30"/>lens est: licet aliquis voluntate &amp; amore essentiali ipse sit amans &amp; volens se &amp; suam essentiam. Lo- 
+        <lb ed="#Bb" n="31"/>quendo autem de aliquo vt de principio quasi materiali, tunc filius non est dicendus procedere de co- 
+        <lb ed="#Bb" n="32"/>gnoscente aut intelligente aut amante aut volente: sed solummodo de intellectu aut habente in se in 
+        <lb ed="#Bb" n="33"/>tellectum. Et secundum hoc loquendo de voluntate antecedente vt terminatur ad ipsum filium, pa 
+        <lb ed="#Bb" n="34"/>ter neque dicendus est generare filium volens neque nolens: sed loquendo de voluntate consequente quo  
+        <lb ed="#Bb" n="35"/>ad actum volendi vt terminatur ad filium, dicendus est generare volens: quia &amp; amore essentiali &amp; amo 
+        <lb ed="#Bb" n="36"/>re notionali complacet ei in prole genita. Similiter loquendo de intellectu antecedente vt terminatur ad  
+        <lb ed="#Bb" n="37"/>spiritum sanctum, pater &amp; filius non sunt dicendi spirare spiritum sanctum intelligentes: sed loquendo de in  
+        <lb ed="#Bb" n="38"/>tellectu consequente quo ad actum intelligendi vt terminatur ad spiritum sanctum, dicendi sunt spirare 
+        <lb ed="#Bb" n="39"/>spiritum sanctum intelligentes: quia &amp; notitia essentiali &amp; notitia notionali cognoscunt amorem 
+        <lb ed="#Bb" n="40"/>procedentem a se. 
+        <lb ed="#Bb" n="41"/>
+      </p>
+      <p xml:id="vn58an-fe48743-d1e401">
+        ⁋ Ad primum ergo obiectum quod spiritus sanctus procedit de patre &amp; filio vt amor de 
+        <lb ed="#Bb" n="42"/>notitia: quia sic contigit in partibus imaginis creatae: Dico secundum iam exposita quod loquendo de aliquo quasi ma  
+        <lb ed="#Bb" n="43"/>terialiter spiritus sanctus non procedit de notitia: nec similiter in partibus imaginis amor aut voluntas: &amp; similiter i 
+        <lb ed="#Bb" n="44"/>neque loquendo de aliquo elicitiue vt de ratione propter quam sic. Dicitur tamen procedere de noscentibus, inquantum 
+        <lb ed="#Bb" n="45"/>notitia sumitur pro habitu vel actu noscendi: &amp; similiter de notitia genita &amp; igenita inquantum notitia sumitur 
+        <lb ed="#Bb" n="46"/>personaliter secundum iam expositum modum. Et ideo cum in partibus imaginis amor dicitur procedere de mente &amp; de no 
+        <lb ed="#Bb" n="47"/>titia vt de notitia duplici, genita. scilicet &amp; ingenita: &amp; similiter voluntas dicitur procedere de memoria &amp; intel 
+        <lb ed="#Bb" n="48"/>ligentia vt de duplici notitia: ibi accipitur notitia quasi personaliter: &amp; stat ibi mens pro habente mentem 
+        <lb ed="#Bb" n="49"/>siue pro meminente, &amp; notitia pro cognoscente, qui personaliter est ipsa notitia aut habens in se notitiam, sumen 
+        <lb ed="#Bb" n="50"/>do notitiam pro habitu aut actu. Et sic loquitur <name ref="#Augustine">Augustinus</name> quando de processu amoris qui est spiritus sanctus di- 
+        <lb ed="#Bb" n="51"/>cit. x. de trinitate. cap. xii. Ab ipsa quippe mente procedit. Et ibi similiter accipitur memoria pro habente memoriam 
+        <lb ed="#Bb" n="52"/>siue pro memorante, &amp; intelligentia pro intelligente, qui personaliter est ipsa intelligentia aut habens in  
+        <lb ed="#Bb" n="53"/>se intelligentiam, sumendo intelligentiam pro actu aut habitu. secundum quod haec omnia debent 
+        <lb ed="#Bb" n="54"/>exponi disputando de creatura intellectuali in generali quomodo creata est ad imaginem, &amp; quo  
+        <lb ed="#Bb" n="55"/>modo est imago creatoris: &amp; sic ratio illa nullo modo potest procedere contra determinata. 
+   <!--373.xml-->
+        <pb ed="#Bb" n="179-v"/>
+      </p>
+      <p xml:id="vn58an-fe48743-d1e441">
+        <lb ed="#Bb" n="1"/>⁋ Ad secundum, quod si spiritus sanctus procederet vt amor de amore, procederet vt imago de simili, si- 
+        <lb ed="#Bb" n="2"/>cut filius: Dico quod verum esset si procederet de amore vt de ratione qua productiue principiaretur propter 
+        <lb ed="#Bb" n="3"/>quam sic, sicut procedit filius de notitia. Nunc autem non est ita: quia non procedit de amore nisi vt de ratio 
+        <lb ed="#Bb" n="4"/>ne de qua quasi materialiter principiatur. Vt de ratione autem qua productiue principiatur non proce 
+        <lb ed="#Bb" n="5"/>dit nisi de voluntate nuda. &amp; hoc modo non procedit vt simile: quia non vt voluntas de volunta- 
+        <lb ed="#Bb" n="6"/>te, neque vt amor de amore: neque modo assimilandi per speciei similis impressionem: sed quasi per quandam 
+        <lb ed="#Bb" n="7"/>excussionem alterius, secundum specienm. scilicet amoris de notitia duplici, vel duplici cognoscente, vel de due 
+        <lb ed="#Bb" n="8"/>bus volentibus. Vnde processus filii de patre est conformis generationi vniuocae caloris de calore: proces 
+        <lb ed="#Bb" n="9"/>sus vero spiritus sancti de patre &amp; filio est quasi conformis generationi aequiuocae caloris de sole. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e463">
+        ⁋ Ad 
+        <lb ed="#Bb" n="10"/>tertium, si spiritus sanctus procederet vt amor aut de notitia aut de amore, tunc verbum diceretur pro 
+        <lb ed="#Bb" n="11"/>cedere vt notitia de notitia, quae est essentiale attributum &amp; praecedens productionem verbi, Dico quod verum 
+        <lb ed="#Bb" n="12"/>est secundum iam declarata &amp; superius exposita de productione verbi: quia licet attributa quae ha 
+        <lb ed="#Bb" n="13"/>bent esse per distinctam apprehensionem essentialem tribus personis, non possunt habere esse di- 
+        <lb ed="#Bb" n="14"/>stinctum quasi praecedens productionem verbi per illam apprehensionem vt ipsa est verbi actio, aut etiam spiritus 
+        <lb ed="#Bb" n="15"/>sancti, quae procedit a verbo: habent tamen esse illud per illam vt ipsa est actio patris &amp; circa diuinam essentiam 
+        <lb ed="#Bb" n="16"/>specialiter vt ipsa patris est. Et quod notitia talis quasi praecedit emanationem verbi, expresse probatur per 
+        <lb ed="#Bb" n="17"/>id quod <name ref="#Augustine">Augustinus</name> de verbo producto in nobis vt imagine verbi diuini dicit sic. xiiii. de trinita. cap 
+        <lb ed="#Bb" n="18"/>vi. Nec sane gignit notitiam suam mens, quando cogitando intellectum se conspicit tanquam sibi inco- 
+        <lb ed="#Bb" n="19"/>gnita fuerit. Et lib, xv. cap, xv. hoc applicans ad diuina dicit. Concedamus iam vocandum esse ver- 
+        <lb ed="#Bb" n="20"/>bum illud mentis nostrae quod de nostra scientia formari potest etiam priusquam formatum sit. &amp; sequitur 
+        <lb ed="#Bb" n="21"/>cap, xvi. Cogitatio quippe nostra perueniens ad id quid scimus verbum nostrum est. Et nulla est quo  
+        <lb ed="#Bb" n="22"/>ad hoc differentia alia a formatione verbi dei &amp; nostri, nisi quod in deo non est prius verbum formabi 
+        <lb ed="#Bb" n="23"/>le quam formatum. Vnde ex dictis continue concludit dicens. Et ideo verbum dei sine cogitatione debet 
+        <lb ed="#Bb" n="24"/>intelligi: vt forma simplex intelligatur non aliquid habens formabile quod etiam esse possit informe. Et 
+        <lb ed="#Bb" n="25"/>sic concedere oportet quod de scientia siue notitia dei patris vt patris est, formatur verbum ipsius: licet non 
+        <lb ed="#Bb" n="26"/>vt de informi de quae prius duratione formari possit: sed vt de quae semper formatum est, &amp; de quasi praecedenti secun 
+        <lb ed="#Bb" n="27"/>dum rationem intelligendi. Aliter enim verbum non procederet de patre vt de sapiente &amp; sciente &amp; intelligente:  
+        <lb ed="#Bb" n="28"/>nec esset pater sapiens sciens &amp; intelligens nisi sapientia scientia &amp; intelligentia quam genuit. Vnde 
+        <lb ed="#Bb" n="29"/>Augustinus in principio. vi. de trinitate reprehendit rationem quorundam fidelium contra haereti 
+        <lb ed="#Bb" n="30"/>cos quosdam inductam cogentem hoc concedere, dicens quod ratiocinatio ad hoc cogit vt dicamus 
+        <lb ed="#Bb" n="31"/>deum patrem non esse sapientem nisi habendo sapientiam quam genuit, non existendo per se patrem ipsa 
+        <lb ed="#Bb" n="32"/>sapientia. Deinde si ita esset, filius quoque ipse sicut dicitur deus de deo lumen de lumine, videndum est 
+        <lb ed="#Bb" n="33"/>vbi possit dici sapientia de sapientia si non est deus pater ipsa sapientia: sed tantum genitor sapientiae, quae  
+        <lb ed="#Bb" n="34"/>si diceret, nequaquam. Habet ergo pro inconvenienti quod filius non sit sapientia de sapientia, &amp; quod pater 
+        <lb ed="#Bb" n="35"/>non sit sapiens nisi habendo sapientiam quam genuit. Quod plane explicat pertractando hanc quaestionem 
+        <lb ed="#Bb" n="36"/>per totum principium. vii. libri: ad quam reuertitur libr, xv. cap. vii. dicens. In illa trinitate quis audeat di 
+        <lb ed="#Bb" n="37"/>cere patrem nec semetipsum nec filium nec spiritum sanctum per se intelligere: sed non nisi per fi- 
+        <lb ed="#Bb" n="38"/>lium, nec diligere nisi per spiritum sanctum: quasi diceret nullus. Dico ergo quod deus pater diuina es 
+        <lb ed="#Bb" n="39"/>sentia vt est sua sapientia &amp; intelligentia intelligit se &amp; suam essentiam &amp; omnia attributa essen- 
+        <lb ed="#Bb" n="40"/>tialia distincta intelligentia quasi prius ordine quodam rationis quam generet verbum, a notitia qua  
+        <lb ed="#Bb" n="41"/>sicut intelligit de intellectu quo intelligit generat. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e538">
+        ⁋ Quod autem dicitur in argumento quod distincta ap  
+        <lb ed="#Bb" n="42"/>rehensio in diuinis non habet esse nisi in verbo aut per verbum: eo quod est complementum diuinae 
+        <lb ed="#Bb" n="43"/>intelligentiae: Dico quod reuera verbum est complementum diuinae intelligentiae &amp; intellectus, prout 
+        <lb ed="#Bb" n="44"/>superius declarauimus. Sed non sequitur ex hoc quod in diuinis non sit distincta apprehensio nisi in ver 
+        <lb ed="#Bb" n="45"/>bo &amp; per verbum: quia quod verbum dicitur complementum diuinae intelligentiae &amp; intellectus eius, hoc non est 
+        <lb ed="#Bb" n="46"/>quasi perfectior sit actio intelligendi in verbo aut per verbum, quam in notitia essentiali vel per illam 
+        <lb ed="#Bb" n="47"/>sicut nec verbum dicitur notitia declaratiua quia clarior est quam notitia simplex: sed quia ratione mo-  
+        <lb ed="#Bb" n="48"/>di procedendi procedit vt notitia formata de notitia simplici &amp; essentiali. Illud autem non sequere 
+        <lb ed="#Bb" n="49"/>tur nisi verbum secundum rem esset notitia clarior: nec adhuc ex illo amplius sequeretur nisi quod in 
+        <lb ed="#Bb" n="50"/>verbo &amp; per verbum esset distinctior apprehensio attributorum, clarius scilicet apprehendendo illo 
+        <lb ed="#Bb" n="51"/>rum distinctionem: quemadmodum contingit in nobis quod clarius intelligimus &amp; apprehendimus 
+        <lb ed="#Bb" n="52"/>in definitiua ratione in se. Et sic ex illo nequaquam sequitur quin distinctio aliqua attributorum 
+        <lb ed="#Bb" n="53"/>praecedat productionem verbi secundum modum iam dictum. Ipsum etiam verbum produ- 
+        <lb ed="#Bb" n="54"/>ctum apprehendit patrem prius ordine rationis apprehendere seu apprehendisse ipsam attri- 
+        <lb ed="#Bb" n="55"/>butorum distinctionem quam ipse produxerit ipsum verbum: &amp; sic ipsum verbum apprehen- 
+   <!--374.xml-->
+        <pb ed="#Bb" n="180-r"/>
+        <lb ed="#Bb" n="1"/>dit distinctionem attributorum, distinctam apprehensionem a patre necesse est praecedere productionem 
+        <lb ed="#Bb" n="2"/>verbi ordine rationis: licet sua apprehensio vt est verbi sequatur illam. aliter enim verbum non diceretur pro  
+        <lb ed="#Bb" n="3"/>cedere modo intellectus, &amp; spiritus sanctus modo voluntatis. Dico tamen quod ipsa processio verbi non dependet 
+        <lb ed="#Bb" n="4"/>ab ipsa distinctione: nec requirit ipsam quasi praeuiam quo ad id quod rationis seu a ratione in ipsis distin-  
+        <lb ed="#Bb" n="5"/>ctis: sed solum quo ad id quod sunt in ipsa diuina essentiam virtute &amp; quasi inchoatiue &amp; in aptitudine 
+        <lb ed="#Bb" n="6"/>ad distinctionem qua existit in actuali consideratione intellectus: &amp; sic sunt origines emanationum. Sed sunt 
+        <lb ed="#Bb" n="7"/>aliqui qui concedunt conclusum in dicto argumento: dicentes quod non dicitur verbum procedere modo intellectus 
+        <lb ed="#Bb" n="8"/>&amp; spiritus sanctus modo voluntatis: quia intellectus &amp; voluntas sunt principia productiua personarum vt 
+        <lb ed="#Bb" n="9"/>sunt intellectus &amp; voluntas. Non est ita: sed ipsa diuina essentia est principium productiuum personarum vt 
+        <lb ed="#Bb" n="10"/>est subintrans quendam modum qui est proprietas relatiua. per hoc enim habet in se vim generatiuam &amp; spira- 
+        <lb ed="#Bb" n="11"/>tiuam. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e599">
+        ⁋ Quod autem dicitur quod vna productio procedit per modum naturae &amp; intellectus: altera vero per modum volun 
+        <lb ed="#Bb" n="12"/>tatis: sic debet intelligi vt dicunt scilicet quod vna procedit in essentia diuina per vim talem: alia vero per vim aliam: quarum 
+        <lb ed="#Bb" n="13"/>processiones nominamus modo intellectus &amp; voluntatis. Quare in creaturis tales modos reprimus: vbi 
+        <lb ed="#Bb" n="14"/>scilicet vnum procedit ab alio, &amp; est productio naturae: aliud vero a duobus, &amp; est productio voluntatis: quae praesuper 
+        <lb ed="#Bb" n="15"/>ponit intellectum. Quod dicunt quia tenent pro firmo quod impossibile est in deo aliquorum corporalium distinctam 
+        <lb ed="#Bb" n="16"/>apprehensionem esse nisi in verbo &amp; per verbum: ita quod impossibile sit intelligi quod in diuinis sit vna processio 
+        <lb ed="#Bb" n="17"/>modo intellectus, &amp; alia modo voluntatis: aut quod in deo sint distincta vllo modo natura aut voluntas 
+        <lb ed="#Bb" n="18"/>aut aliqua alia attributa inter se nisi in verbo &amp; per verbum, &amp; nisi cointelligendo consimilia vel correspon- 
+        <lb ed="#Bb" n="19"/>dentia in creaturis. Et dicunt quod ideo <name ref="#Augustine">Augustinus</name> vocat filium artem: vbi exponendo dicta Hila. lib. vi. de 
+        <lb ed="#Bb" n="20"/>trinitate cap. vltimo dicit sic. In imagine nominauit speciem tanquam verbum perfectum cui non desit aliquid  
+        <lb ed="#Bb" n="21"/>&amp; ars quaedam omnipotentis &amp; sapientis dei plena omnium rationum viuentium incommutabi- 
+        <lb ed="#Bb" n="22"/>lium: &amp; omnes vnum in ea sicut ipsa vnum de vno cum quo vnum. Qualiter attributorum distin-  
+        <lb ed="#Bb" n="23"/>ctio in diuinis non est accipienda per habitudinem ad creaturas extra: sed solummodo adintra, satis de 
+        <lb ed="#Bb" n="24"/>claratum est supra loquendo de attributis: &amp; amplius declarabitur infra loquendo de relationibus 
+        <lb ed="#Bb" n="25"/>communibus. Quia autem ista distinctio non sit solummodo in verbo &amp; per verbum: sed per intellectum essentialem 
+        <lb ed="#Bb" n="26"/>patris vt patris est, iam (vt arbitror) est satis declaratum. Ad aliud dictum Augustini quod verbum est ars 
+        <lb ed="#Bb" n="27"/>plena rationum: Dico quod ibi <name ref="#Augustine">Augustinus</name> non loquitur de rationibus attributalibus: sed solummodo de 
+        <lb ed="#Bb" n="28"/>rationibus idealibus: quae sunt rationes cognitiuae &amp; causatiuae essentiarum in creaturis. Quod be 
+        <lb ed="#Bb" n="29"/>ne declarat <name ref="#Augustine">Augustinus</name> subdens post verbum praedictum. Ibi nouit deus omnia quae fecit deus per ipsam 
+        <lb ed="#Bb" n="30"/>non solum in esse essentiae quo ad rerum formas &amp; species: sed etiam in esse existentiae quo ad rerum 
+        <lb ed="#Bb" n="31"/>specifica indiuidua. Vnde sequitur continue. Et ideo cum decedunt &amp; succedunt tempora, non de 
+        <lb ed="#Bb" n="32"/>cedit nec succedit aliquid scientiae dei. Non enim quae creata sunt ideo sciuntur a deo quia facta sunt, &amp; 
+        <lb ed="#Bb" n="33"/>non potius ideo facta sunt vel mutabilia quia immutabiliter ab eo sciuntur. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e659">
+        ⁋ Quia vero dicunt quod in-  
+        <lb ed="#Bb" n="34"/>tellectus &amp; voluntas in deo non sunt principia productiua personarum sed potius diuina essentia sub 
+        <lb ed="#Bb" n="35"/>intrans modum &amp; rationem proprietatum: Dico quod diuina essentia non est principium diuinarum ema 
+        <lb ed="#Bb" n="36"/>nationum subintrans rationem proprietatum, nisi ipsa ordine quodam rationis primo sit origo intel 
+        <lb ed="#Bb" n="37"/>lectus &amp; voluntatis immediate subintrans modos illorum originaliter, inquantum quasi virtute 
+        <lb ed="#Bb" n="38"/>in ipsa sunt essentia. sic enim sunt proxima principia subintrantia rationes illarum proprietatum re 
+        <lb ed="#Bb" n="39"/>latiuarum, &amp; hoc realiter, sicut iam exposuimus. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e676">
+        ⁋ Quia autem dicunt quod filius dicitur procedere modo  
+        <lb ed="#Bb" n="40"/>naturae &amp; intellectus, &amp; spiritus sanctus modo voluntatis: quia in creaturis consimiles modos proce 
+        <lb ed="#Bb" n="41"/>dendi reperimus: hoc nihil arguit, nec aliquam rationem dicti eorum ostendi: quia consimili modo  
+        <lb ed="#Bb" n="42"/>possumus dicere de ipsis emanationibus: scilicet quod filius dicitur procedere generatione &amp; spiritus san- 
+        <lb ed="#Bb" n="43"/>ctus processione, quia consimilia &amp; correspondentia illis inueniuntur in creaturis: quod tamen omnis falsum 
+        <lb ed="#Bb" n="44"/>esse pronunciauit, quia sicut horum distinctio est ibi actione &amp; natura rei, similiter est ibi illorum di-  
+        <lb ed="#Bb" n="45"/>stinctio virtute &amp; natura rei: licet non compleatur nisi ab intellectu. 
+      </p>
+      <p xml:id="vn58an-fe48743-d1e692">
+        ⁋ Argumenta duo vltima conce 
+        <lb ed="#Bb" n="46"/>denda sunt secundum modum iam expositum. \
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

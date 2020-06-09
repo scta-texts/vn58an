@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="204-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2333"> <!-- alias="vn58an-a33q1" -->
+      <head xml:id="vn58an-d1e2333-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e2333-Hd1e107" type="question-title">Utrum Deus sit intelligibilis</head>
+      <p xml:id="vn58an-d1e2333-d1e110">
+        <lb ed="#Ba" n="10"/>CIrca primum arguitur quod deus non sit intelligibile aliquid, Primo sic. Infinitum in  
+        <lb ed="#Ba" n="11"/>quantum infinitum incognitum est. secundum <name ref="#Aristotle">Philosophum</name> primo phyiia. incognitum inquantum incogni 
+        <lb ed="#Ba" n="12"/>tum non est intelligibile. quia intelligibile inquantum intelligibile est cognoscibile, Deus autem sim 
+        <lb ed="#Ba" n="13"/>pliciter &amp; omnino infinitus est, vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2333-d1e124">
+        ⁋ Secundo sic. intelligi- 
+        <lb ed="#Ba" n="14"/>bile est principium formale actus intelligendi in intelligente, vt habitum est su- 
+        <lb ed="#Ba" n="15"/>pra. Deus non est principium formale actus intelligendi in aliquo. non in seipso: quia 
+        <lb ed="#Ba" n="16"/> intelligere in deo est esse: esse autem est primus conceptus in deo: non habens omni 
+        <lb ed="#Ba" n="17"/>no principium, neque in alio: &amp; hoc neque per suam essentiam: quia ipsa nullius est forma informans, vt ha 
+        <lb ed="#Ba" n="18"/>bitum est supra. Neque per speciem aliquam suam, eo quod nullam potest habere, vt infra videbitur. er- 
+        <lb ed="#Ba" n="19"/>go &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2333-d1e141">
+        ⁋ In contrarium est, quoniam ipsa est summa &amp; prima veritas, vt infra videbitur. Veritas autem est per  
+        <lb ed="#Ba" n="20"/>se obiectum intellectus. &amp; omne tale intelligibile quoddam est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2333-d1e146">
+        <lb ed="#Ba" n="21"/>⁋ Dicendum ad hoc: quod secundum Auicen. viii. metaphy. ca. xxxvii. causa in hoc quod  
+        <lb ed="#Ba" n="22"/>res non intelligitur matersa est. esse vero formale est esse intelligibile: &amp; hoc est esse quod postquam quiescit in re ipsa l 
+        <lb ed="#Ba" n="23"/>sit per illud rei intelligentia in effectu. Quanto igitur aliquid est materiale magis, tanto minus est intelligibile: &amp; 
+        <lb ed="#Ba" n="24"/>quanto magis formale, tanto magis intelligibile. Vnde &amp; Philosophus. ii. metaphysica. vult quod materia prima non 
+        <lb ed="#Ba" n="25"/>est intelligibilis nisi secundum analogiam quam habet ad formam: &amp; quod illa quae sunt sepeata a materia: &amp; si a nobis 
+        <lb ed="#Ba" n="26"/>difficile intelliguntur: hoc est non propter ipsas res: sed propter nos. vbi dicit Commen. Cum difficultas con- 
+        <lb ed="#Ba" n="27"/>prehensionis entium sit duobus modis, rectum est vt difficultas in rebus quae sunt in fine verita- 
+        <lb ed="#Ba" n="28"/>tis scilicet in primo principio &amp; in principiis abstractis a materia, sit ex nobis non ex ipsis, quoniam cum abstracta 
+        <lb ed="#Ba" n="29"/>sunt, intellecta in se naturaliter sunt: non sicut formae naturales. Difficultas enim in istis est ex se ma-  
+        <lb ed="#Ba" n="30"/>gis quam ex nobis. Vnde materialia vt intelligantur egent abstractione: quia non per suam essentiam si 
+        <lb ed="#Ba" n="31"/>cut immaterialia: sed solum per suam speciem intelligibilia sunt, vt infra habet declarari. Quia igi- 
+        <lb ed="#Ba" n="32"/>tur, vt habitum est supra, Deus summe immaterialis est: &amp; in actu: concedendum est quod ipse quantum in se 
+        <lb ed="#Ba" n="33"/>est summe intelligibilis est: &amp; sui manifestatiuus apud intellectum. Propter quod dicitur quod deus lux 
+        <lb ed="#Ba" n="34"/>est. Sicut enim lux inter corporalia sume visibilis est &amp; manifestatiua &amp; declaratiua sui apud visum cor 
+        <lb ed="#Ba" n="35"/>poris: sic deus summe intelligibilis est &amp; manifestatiuus &amp; declaratiuus sui apud intellectum quemcumque:  
+        <lb ed="#Ba" n="36"/>etsi deficit intellectus creatus ne possit splendorem intelligibilitatis eius sustinere: sicut deficit oculus 
+        <lb ed="#Ba" n="37"/>vespertilionis, ne possit sustinere splendorem solis. iuxta illud Philosophi. Dispositio intellectus in ani 
+        <lb ed="#Ba" n="38"/>ma apud illud quod est in natura valde manifestum, similis dispositioni oculorum vespertilionis 
+        <lb ed="#Ba" n="39"/>apud lucem solis. vbi dicit Commen. Quia dispositio intellectus de re intelligibili est sicut dispositio sen 
+        <lb ed="#Ba" n="40"/>sus de re sensibili, assimilauit virtutem intellectus in comprehendendo intelligibilia abstracta, debilissi- 
+        <lb ed="#Ba" n="41"/>mo visui in sentiendo maximum sensibile. &amp; hoc pro statu huius vitae. Vnde &amp; de intelligibilibus ra 
+        <lb ed="#Ba" n="42"/>tionibus in deo, dicit <name ref="#Augustine">Augustinus</name> xiii. lib de triniitate. Ad quas mentis acie peruenire paucorum est: vt cum 
+        <lb ed="#Ba" n="43"/>peruenitur quantum fieri potest: non in eis manet ipse peruentor: sed velut acie reuerberata repellitur 
+        <lb ed="#Ba" n="44"/>&amp; sit rei non transitoriae transitoria cogitatio. Quomodo autem secundum istum modum deus intel 
+        <lb ed="#Ba" n="45"/>ligitur a nobis in praesenti, expositum est supra. In futuro autem aliter erit, quando videbimus eum 
+        <lb ed="#Ba" n="46"/>sicuti est: quando cognoscam sicut &amp; cognitus sum: secundum quod dicitur. i. Ioan. iii. de quo inferius de- 
+        <lb ed="#Ba" n="47"/>bet esse sermo. 
+      </p>
+      <p xml:id="vn58an-d1e2333-d1e210">
+        <lb ed="#Ba" n="48"/>⁋ Ad primum in oppositum quod infinitum inquantum infinitum incognitum est 
+        <lb ed="#Ba" n="49"/>&amp;c. Dicendum quod hoc verum est ad literam de infinito corporali: quia illa infinitas est a materia, vt in 
+        <lb ed="#Ba" n="50"/>fra dicetur: &amp; materia (vt dictum est) priuat rationem intelligibilis. Non autem de infinito spirituali: cuiusmodi est deus: 
+        <lb ed="#Ba" n="51"/>quia haec infinitas est a forma, vt infra dicetur: &amp; forma (vt dictum est) est principium intelligendi. Vnde quanto 
+        <lb ed="#Ba" n="52"/>aliquid magis est formale &amp; infinitum infinitate formae, tanto est magis intelligibile quantum est ex se 
+        <lb ed="#Ba" n="53"/>licet non intellectui indisposito, vt dictum est. Vnde si illud dictum Philosophi extendere velis ad infinitum 
+   <!--423.xml-->
+        <pb ed="#Ba" n="204-v"/>
+        <lb ed="#Ba" n="1"/>secundum formam, dicendum quod infinitum inquantum infinitum incognitum est quo ad intellectum crta- 
+        <lb ed="#Ba" n="2"/>tum, ne possit comprehendere ipsum quo ad rationem infinitatis eius: quia sic solus seipsum intel 
+        <lb ed="#Ba" n="3"/>ligit. Non tamen ita incognitum est ei quiand aliquo modo ab ipso cognosci &amp; intelligi potest contempe- 
+        <lb ed="#Ba" n="4"/>rando se sicut vult: quia non naturaliter &amp; de necessitate immutat, sed voluntarie quos vult &amp; quam  
+        <lb ed="#Ba" n="5"/>tum vult. Vnde dictam comparationem de intellectu nostro &amp; oculo vespertilionis exponens Con- 
+        <lb ed="#Ba" n="6"/>men. dicit quod hoc non demonstrat res abstractas intelligere esse impossibile nobis: sicut inspicere so- 
+        <lb ed="#Ba" n="7"/>lem impossibile est vespertilioni: sed solum notat difficultatem. Vnde &amp; licet esset omnino simile vt 
+        <lb ed="#Ba" n="8"/>nullo modo posset deus intelligi ab intellectu creato propter excellentiam splendoris eius: sicut 
+        <lb ed="#Ba" n="9"/>neque videri lux solis ab loculo vespertilionis: immo quod quantum est ex parte naturae, multo ma- 
+        <lb ed="#Ba" n="10"/>gis visibilis est lux solis ab oculo vespartilionis, quam naturaliter diuina essentia a mente creata: nihilo 
+        <lb ed="#Ba" n="11"/>minus tamen quantum est ex se maxime esset intelligibilis: sicut solis lux maxime est visibilis. 
+      </p>
+      <p xml:id="vn58an-d1e2333-d1e254">
+        ⁋ Ad  
+        <lb ed="#Ba" n="12"/>secundum quod deus in nullo est principium formale intelligendi: Dicendum quod falsum est: immoem prin 
+        <lb ed="#Ba" n="13"/>cipium formale intelligendi omni intellectui immediate videnti siue intelligenti nude deum siue 
+        <lb ed="#Ba" n="14"/>diuinam essentiam: &amp; hoc non per speciem aliam a sua essentia, vt dicetur in quaest. sequenti: sed per pu 
+        <lb ed="#Ba" n="15"/>ram &amp; nudam essentiam. Et quod arguitur quod non potest esse principium intelligendi in seipso: quia in  
+        <lb ed="#Ba" n="16"/>telligere eius est esse eius: &amp; esse non habet principium in ipso: dicendum secundum praedicta, quod licetidem sunt 
+        <lb ed="#Ba" n="17"/>re in deo esse &amp; intelligere, differunt tamen ratione: ita quod ratio esse praecedit secundum rationem in  
+        <lb ed="#Ba" n="18"/>telligendi rationem eius quod est intelligere. Omne enim intelligens est in actu ens non econverso. Et non so 
+        <lb ed="#Ba" n="19"/>lum ratio eius quod est esse praecedit rationem eius quod est intelligere: sed &amp; ratio eius quod est viuere 
+        <lb ed="#Ba" n="20"/>&amp; quod est essentia &amp; vita. lsta enim quatuor in deo, ese scilicet viuere, vita, &amp; essentia, pertinent ad vnam rationem 
+        <lb ed="#Ba" n="21"/>conem &amp; primam in deo: post quam secundum ordinem &amp; discursum rationis niae intelligendae sunt omnes aliae. Et dif 
+        <lb ed="#Ba" n="22"/>ferunt ab omnibus proprietatibus &amp; attributis. Significant ei quaetuor ista esse sub ratione esse simpliciter &amp; acus 
+        <lb ed="#Ba" n="23"/>primi: licet differenter, vt supra determinatum est. Proprietates autem essentiae &amp; esse dei, quae sunt vnitas, sin-  
+        <lb ed="#Ba" n="24"/>plicitas, immutabilitas, aeternitas, significant rationem cuiusdam vnitatis &amp; identitatis ipsius essentia 
+        <lb ed="#Ba" n="25"/>in se: licet diuersimode, vt supra patet ex praedeterminatis. Et sequuntur illa immediate ea quae in deosi 
+        <lb ed="#Ba" n="26"/>gnificant sub ratione esse: attributorum autem omnium rationes sequuntur tertio tanquam rationes pertinentium ad 
+        <lb ed="#Ba" n="27"/>actus secundos, qui sunt intelligere &amp; velle, &amp; quasi elicitiui ipsorum ex substantia ente &amp; viuente: ita quod  
+        <lb ed="#Ba" n="28"/>ordine nostri intellectus in intelligendo illae quatuor rationes quae complent actus secundos qui sunt intel 
+        <lb ed="#Ba" n="29"/>ligere &amp; velle, in deo sese consequuntur: &amp; hoc contrario modo cum eis quae pertinent ad actum primum 
+        <lb ed="#Ba" n="30"/>qui est esse. In illis enim ratio summae actualitatis quae significatur nomine esse simpliciter dicti, est pria: 
+        <lb ed="#Ba" n="31"/>&amp; illam aliae consequuntur vt dictum est. In his autem ratio actualitatis in actu qui est intelligere vel 
+        <lb ed="#Ba" n="32"/>velle non est prima: eo quod se habet actus vt elicitus a substantia. Elicitum autem inquantum elicitum ab 
+        <lb ed="#Ba" n="33"/>aliquo est elicitum, vt ab intellectiuo &amp; volitiuo tanquam a potente intelligere &amp; velle. &amp; potentia huiusmodiquaesi 
+        <lb ed="#Ba" n="34"/>determinatur per obiectum intelligibile &amp; volibile. Vt etiam actus huiusmodi eliciantur, ratio eliciendi 
+        <lb ed="#Ba" n="35"/>sunt notitia &amp; amor. Ideo enim rationes obiectorum necessario sunt primae, &amp; potentiarum secundae: 
+        <lb ed="#Ba" n="36"/>&amp; habituum tertiae: &amp; actuum vltimae, vt magis patebit singula exequendo. Propter quod ergo licet 
+        <lb ed="#Ba" n="37"/>ipsum esse sub ratione ipsius esse, eo quod est omnino prima ratio intellecta circa deum, vt habitum est 
+        <lb ed="#Ba" n="38"/>supra, non potest habere aliquid vt principium sui in deo: intelligere tamen sub ratione ipsius intel- 
+        <lb ed="#Ba" n="39"/>ligere: quia habet alias rationes praecedentes, bene potest habere aliquid in deo vt principium, cuiusmodi 
+        <lb ed="#Ba" n="40"/>est ipsum diuinum esse siue diuina essentia inquantum habet rationem intelligibilis vel intelligen  
+        <lb ed="#Ba" n="41"/>tis, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e2333-d1e322">
+        ⁋ Quod similiter arguitur quod deus non potest esse principium in alio per speciem: b- 
+        <lb ed="#Ba" n="42"/>ne verum est, vt alias exponendum est. Est tamen principium formale intelligendi in alio per suam essen 
+        <lb ed="#Ba" n="43"/>tiam scilicet per praesentiam suam mouentem ad actum intelligendi: licet non informantem. &amp; quomo 
+        <lb ed="#Ba" n="44"/>do hoc, exponendum est loquendo de cognitione creaturae rationalis circa deum.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

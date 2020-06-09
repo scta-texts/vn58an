@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="200-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe54710"> <!-- alias="vn58an-a64q1" -->
+      <head xml:id="vn58an-fe54710-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe54710-d1e107">
+        <lb ed="#Bb" n="20"/>CIrca primum arguitur quod tres modi relationum con- 
+        <lb ed="#Bb" n="21"/>munium, scilicet identitas, aequalitas, &amp; similitudo 
+        <lb ed="#Bb" n="22"/>non differunt neque distinguuntur inter se, nec in diui 
+        <lb ed="#Bb" n="23"/>nis nec in creaturis, sic. Communes relationes non differunt neque distinguuntur nisi secundum illa in  
+        <lb ed="#Bb" n="24"/>quibus fundantur, quia non nisi secundum illa plurificantur, vt patet ex praedictis, &amp; amplius patebit 
+        <lb ed="#Bb" n="25"/>in dicendis. sed per illa nequaquam distinguuntur nec in diuinis nec in creaturis. Non in diuinis, quia a 
+        <lb ed="#Bb" n="26"/>in diuinis identitas, aequalitas, &amp; similitudo fundantur super idem penitus. Tres enim personae diui- 
+        <lb ed="#Bb" n="27"/>nae sunt idem in substantia, quia sunt eadem substantia, &amp; sunt idem in quantitate, quia sunt ea- 
+        <lb ed="#Bb" n="28"/>dem quantitas, &amp; sunt idem in qualitate, quia sunt eadem qualitas. Et substantia quantitas est &amp;  
+        <lb ed="#Bb" n="29"/>qualitas: &amp; econtrario. Similiter sunt aequales in substantia, quia omnes perfectiones substantiae immensae, &amp;  
+        <lb ed="#Bb" n="30"/>similiter in quantitate &amp; qualitate. Similiter similes sunt in substantia, eo quod substantia diuina est &amp; 
+        <lb ed="#Bb" n="31"/>forma substantialis. Communicantes autem eandem formam substantialem similes dicuntur secundum 
+        <lb ed="#Bb" n="32"/>illam, puta Petrus &amp; Paulus secundum humanitatem. Sunt etiam similes in quantitate, quia non  
+        <lb ed="#Bb" n="33"/>est magnitudo mole. &amp; secundum <name ref="#Augustine">Augustinus</name> de Trini. in iis quae non sunt mole magna: idem est ma-  
+        <lb ed="#Bb" n="34"/>ius esse quod melius. Melius autem sicut bonum non nisi in qualitate dicitur: magnitudo autem in  
+        <lb ed="#Bb" n="35"/>deo qualitas est. secundum qualitatem dicitur simile, ergo &amp; in deo secundum magnitudinem di 
+        <lb ed="#Bb" n="36"/>citur simile. Similiter nec per fundamenta distinguuntur seu differunt identitas, aequalitas, &amp; simi 
+        <lb ed="#Bb" n="37"/>litudo in creaturis per eandem rationem: quia diuersi secundum idem dicuntur aequales, puta duo  
+        <lb ed="#Bb" n="38"/>homines. Similiter secundum quantitatem &amp; qualitatem: quia habentes eandem quantitatem &amp; 
+        <lb ed="#Bb" n="39"/>qualitatem idem sunt, vt videtur in quantitate &amp; qualitate: sicut habentes eandem substantiam 
+        <lb ed="#Bb" n="40"/>idem sunt in substantia. &amp; similiter secundum quantitatem non solum dicuntur aequales propter pa 
+        <lb ed="#Bb" n="41"/>ritatem quantitatum, sed etiam similes propter paritatem in gradu perfectionis. &amp; etiam secundum 
+        <lb ed="#Bb" n="42"/>qualitatem non solum dicuntur similes propter qualitatem, sed etiam aequales propter paritatem 
+        <lb ed="#Bb" n="43"/>in gradu qualitatis quo dicuntur perfecte similes. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e165">
+        ⁋ Praeterea si illae relationes communes differrent se- 
+        <lb ed="#Bb" n="44"/>cundum differentiam fundamentorum, cum illa in creaturis differant genere, scilicet substantia 
+        <lb ed="#Bb" n="45"/>quantitas &amp; qualitas: ergo &amp; ipsae relationes communes differrent genere, quod falsum est: cum omnes 
+        <lb ed="#Bb" n="46"/>ad genus relationis pertineant secundum praedicta etiam in creaturis, sed maxime in deo, quia in deo 
+        <lb ed="#Bb" n="47"/>illa tria, scilicet substantia, quantitas, &amp; qualitas, nec genere, nec specie, nec numero differunt: quare 
+        <lb ed="#Bb" n="48"/>&amp; illae relationes communes in deo, nec genere, nec specie, nec numero differrent, &amp; sic in nullo differ 
+        <lb ed="#Bb" n="49"/>rent in deo omnino, nec idcirco essent plures relationes. consequens falsum est secundum praedicta, er- 
+        <lb ed="#Bb" n="50"/>go &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e183">
+        ⁋ ldem arguitur specialiter in diuinis ex eis quae reperiuntur in creaturis, sic. Sicut in crea- &amp; 
+        <lb ed="#Bb" n="51"/>turis quod est commune, secundum rationem est, sic in deo quid est commune, secundum rem est. secundum 
+        <lb ed="#Bb" n="52"/>Dam. lib. i. ca. xi. Sed idem aequale &amp; simile quae in creaturis sequuntur ad commune secundum ratio-  
+        <lb ed="#Bb" n="53"/>nem, inter se non differunt nec distinguuntur, puta cum in humanitate Petrus &amp; Paulus dicuntur 
+        <lb ed="#Bb" n="54"/>idem aequale &amp; simile, ergo consimiliter idem aequale &amp; simile quae in diuinis sequuntur commune 
+   <!--415.xml-->
+        <pb ed="#Bb" n="200-v"/>
+        <lb ed="#Bb" n="1"/>secundum rem, puta cum pater &amp; filius &amp; spiritus sanctus dicuntur idem simile &amp; aequale. ergo &amp;c. Vnde 
+        <lb ed="#Bb" n="2"/>&amp; Philosophus. v. meta. de relationibus communibus identitatis aequalitatis &amp; similitudinis dicit sic. 
+        <lb ed="#Bb" n="3"/>Omnia dicuntur secundum vnum modum. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e206">
+        ⁋ Contra est id quod <name ref="#Averroes">Commentator</name> super illo verbo. v. meta. dicit, sic. i. 
+        <lb ed="#Bb" n="4"/>&amp; proprium est istis tribus generibus relatiuorum &amp;c. vt supra, articulo primo de relationibus comunibus 
+        <lb ed="#Bb" n="5"/>in principio corporis solutionis ad quaestionem primam. Si enim sunt tria genera relatiuorum, necessario differunt. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e216">
+        <lb ed="#Bb" n="6"/>⁋ Dico secundum praetacta in corpore dictae solutionis, quod postquam identitas aequali 
+        <lb ed="#Bb" n="7"/>tas &amp; similitudo sint plures relationes communes, vt dictum est in secunda quaestione eiusdem arti 
+        <lb ed="#Bb" n="8"/>culi, necesse est ponere quod sunt diuersae inter se. Vlterius autem postquam conveniunt in genere relationis: quia 
+        <lb ed="#Bb" n="9"/>omnes sunt relationes, &amp; differunt ab aliis relationibus, vt declaratum est per totum illum articulum: ne 
+        <lb ed="#Bb" n="10"/>cesse est ponere quod etiam inter se distinctae sunt &amp; differentes: &amp; secundum quod tactum est in secunda quaestio 
+        <lb ed="#Bb" n="11"/>ne articuli praecedentis de differentia relationum communium ad relationes non communes. Diffe 
+        <lb ed="#Bb" n="12"/>rentia autem relationum communium inter se ad praesens debet sumi neque penes relata: neque penes fun- 
+        <lb ed="#Bb" n="13"/>damenta: de quarum differentia secundum illa erit sermo inferius: quae sunt quasi causa materialis 
+        <lb ed="#Bb" n="14"/>talium relationum: sed solummodo penes rationes causae formalis: aut penes agens huiusmodi formas: quae 
+        <lb ed="#Bb" n="15"/>quidem formae sunt huiusmodi relationes aut respectus quibus relata referuntur. Et dico iuxta dicta in il- 
+        <lb ed="#Bb" n="16"/>la quaestione, quod relationes communes differunt &amp; distinguuntur secundum tria genera siue tres mo-  
+        <lb ed="#Bb" n="17"/>dos relationum differentes secundum formam. iDiuersos enim respectus siue relationes important ge 
+        <lb ed="#Bb" n="18"/>nera relationum communium diuersa. &amp; qualiter hoc, declarabitur in quaestionibus sequentibus. Et le- 
+        <lb ed="#Bb" n="19"/>cundum hoc concedenda est vltima ratio iam adducta. 
+        <lb ed="#Bb" n="20"/>
+      </p>
+      <p xml:id="vn58an-fe54710-d1e251">
+        ⁋ Ad primum in oppositum, quod relationes communes non distinguuntur penes sun 
+        <lb ed="#Bb" n="21"/>damenta: quare non distinguuntur omnino: quia non nisi penes illa multiplicantur, Dico quod immo 
+        <lb ed="#Bb" n="22"/>er sua fundamenta distinguuntur: licet non formaliter: sed solum quia ab illis rationes suas forma- 
+        <lb ed="#Bb" n="23"/>les trahunt originaliter &amp; completiue, vt contigit in relationibus realibus: vel originaliter tantum, &amp; con 
+        <lb ed="#Bb" n="24"/>pletiue a ratione, vt contigit in relationibus secundum rationem, secundum dicta in secunda quaestione 
+        <lb ed="#Bb" n="25"/>articuli praecedentis. In quibus respectus quid originaliter habent esse in fundamentis, quandoque non habent esste 
+        <lb ed="#Bb" n="26"/>ex illis vt ex fundamentis, vt etiam ex eis habeant esse sicut ea quae per eas referuntur: &amp; sunt si- 
+        <lb ed="#Bb" n="27"/>mul fundamenta &amp; relata: sed quandoque in eis nulla existit relatio secundum esse neque rei neque ta- 
+        <lb ed="#Bb" n="28"/>tionis: sed secundum dici tantum: qualis est inter partem &amp; totum, &amp; inter subiectum &amp; accidens. Quam 
+        <lb ed="#Bb" n="29"/>doque vero existit in eis relatio secundum esse rationis tantum, vt vniuersaliter contingit in relationibus pri- 
+        <lb ed="#Bb" n="30"/>mo modo identitatis: quandoque vero respectus quid habet esse ex fundamentis, sicut habent esse ex illis vt 
+        <lb ed="#Bb" n="31"/>tamen non sint ex illis quae per eas referuntur quae sunt aliquid ipsorum relatorum: vt contigit in secundo modo identitatis:  
+        <lb ed="#Bb" n="32"/>&amp; vniuersaliter in similitudine &amp; in aequalitate eorumque contrariis. Quandoque etiam non habent esse respe 
+        <lb ed="#Bb" n="33"/>ctus originaliter ab illis quae per eos referuntur: neque ab illis quae sunt aliquid illorum: sed solummodo abil 
+        <lb ed="#Bb" n="34"/>lis siue ex illis ad quae referuntur: vt vniuersaliter contingit in relationibus quae sunt per accidens secundum  
+        <lb ed="#Bb" n="35"/>esse rationis, puta mensurae ad mensuratum: &amp; columnae ad animal secundum dextrum &amp; sinistrum, secundum 
+        <lb ed="#Bb" n="36"/>quod haec amplius patent ex distinctione relationum realium &amp; rationalium supra de relationibus commu- 
+        <lb ed="#Bb" n="37"/>nibus articulo primo quaestione quarta, &amp; quaestione secunda articuli praecedentis. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e290">
+        ⁋ Quod autem arguitur quod indi  
+        <lb ed="#Bb" n="38"/>uinis relationes communes non differunt penes sua fundamenta quia fundantur super idem penitus: 
+        <lb ed="#Bb" n="39"/>eo quod personae tres sunt iidem aequales &amp; similes secundum substantiam quantitatem &amp; qualitatem: Dico de identi- 
+        <lb ed="#Bb" n="40"/>tate quod multum refert aliqua dicere eadem esse in substantia quantitate aut qualitate: &amp; esse eadem secundum  
+        <lb ed="#Bb" n="41"/>haec: quia eadem possunt dici in aliquo quaecumque cone essentiale habent vnum aliquid, &amp; sunt vnum essentialiter 
+        <lb ed="#Bb" n="42"/>puta quae habent commune aliquid vnum genere aut specie aut numero: &amp; sunt illud denominatione essentiali, pu- 
+        <lb ed="#Bb" n="43"/>ta homo &amp; asinus in animali sunt idem, Petrus &amp; Paulus in homine, &amp; simiter pater &amp; filius in deitate. Quod contigit 
+        <lb ed="#Bb" n="44"/>solummodo in substantia circa creaturas: nequaquam autem in quantitate &amp; quaelitate: quia licet aliqua coniter habeant 
+        <lb ed="#Bb" n="45"/>illa: non tamen habent aliquid illorum vt commune illis essentiale, &amp; vt illa quae sunt illa essentialiter. Puta Perius 
+        <lb ed="#Bb" n="46"/>&amp; Paulus habent inter se albedinem: non tamen habent albedinem vt aliquid eis commune essentiale: nec ipsi sunt 
+        <lb ed="#Bb" n="47"/>albedo: licet sint albi denominatione accidentali. de quibus nequaquam potest dici quod sint idem in quantitate  
+        <lb ed="#Bb" n="48"/>aut qualitate: neque quod sint eadem quantitas aut qualitas. Circa diuinas autem personas illud indife- 
+        <lb ed="#Bb" n="49"/>renter contingit in substantia quantitate &amp; que litate: eo quod in diuinis habens semper est id quod habetur: 
+        <lb ed="#Bb" n="50"/>&amp; ideo quicquid communiter habetur a diuinis personis, est eis cone secundum rem, &amp; essentiale illis: &amp; 
+        <lb ed="#Bb" n="51"/>ipsae sunt coniter illud. Et ideo generaliter verum est in diuinis personis quod sunt eaedem in substantia in quaelitate 
+        <lb ed="#Bb" n="52"/>&amp; in quantitate: quia sunt eadem substantia, eadem quaelitas, &amp; quantitas. Eadem autem non possunt dici aliqua esse 
+        <lb ed="#Bb" n="53"/>secundum aliquid nisi illud sit substantia quae coniter est substantia, vt contingit in primo modo identitatis: aut quae  
+        <lb ed="#Bb" n="54"/>essentialiter habita ab illis vt aliquid illorum, vt contigit in secundo modo identitatis. secundum quem modum dicuntur aliqua 
+   <!--416.xml-->
+        <pb ed="#Bb" n="201-r"/>
+        <lb ed="#Bb" n="1"/>aequalia secundum quantitatem: quia ipsa communiter est habita ab illis vt aliquid eorum: &amp; similiter si- 
+        <lb ed="#Bb" n="2"/>milia secundum qualitatem. secundum quod haec patebunt loquendo de relationibus communibus in compa- 
+        <lb ed="#Bb" n="3"/>ratione ad relata per illas. Vbi declarabitur qualiter aliquid vnum potest referri per identitatem ad seipsum 
+        <lb ed="#Bb" n="4"/>secundum substantiam, &amp; etiam ad aliud, licet secundum diuersos modos identitatis. Nihil autem potest referri 
+        <lb ed="#Bb" n="5"/>ad seipsum per aequalitatem aut similitudinem secundum quantitatem aut qualitatem: sed solummodo ad aliud.  
+        <lb ed="#Bb" n="6"/>Et sic neque in diuinis neque in creaturis aliqua dicuntur eadem secundum quantitatem aut qualitatem, neque  
+        <lb ed="#Bb" n="7"/>in creaturis aliqua duo subiecta sunt eadem quantitas aut eadem qualitas. In diuinis autem ipsae per- 
+        <lb ed="#Bb" n="8"/>sonae sunt eadem substantia, &amp; sunt eadem secundum substantiam: sed non ex hoc sunt eaedem secundum substan  
+        <lb ed="#Bb" n="9"/>tiam quia. scilicet sunt eadem substantia: sed solummodo quia substantia illa est aliquid horum, secundum quod infra 
+        <lb ed="#Bb" n="10"/>patebit: licet bene dicantur eaedem in substantia quia sunt vna substantia, sicut iam dictum est. Et sic 
+        <lb ed="#Bb" n="11"/>quo ad identitatem falsa assumpta sunt in argumento. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e357">
+        ⁋ Quia arguitur quod tres personae diuinae sunt aequa 
+        <lb ed="#Bb" n="12"/>les in substantia, qualitate, &amp; quantitate, quia secundum illa sunt immensae: Dico quod quantitas large sumi 
+        <lb ed="#Bb" n="13"/>tur cum dicitur quod aequale sequitur vnum in quantitate scilicet ad quantitatem molis, &amp; ad quantitatem virtutis: vt 
+        <lb ed="#Bb" n="14"/>patebit infra disputando de relationibus communibus in comparatione ad earum fundamenta. Et penes istam 
+        <lb ed="#Bb" n="15"/>quantitatem virtutis in mensura &amp; mensurato, sumitur secundum genus relationis inter mensuram &amp; mensuratum 
+        <lb ed="#Bb" n="16"/>vt habitum est supra: &amp; penes quantitatem in mensuratis, sumitur aequale &amp; inaequale pertinens ad tertium ge 
+        <lb ed="#Bb" n="17"/>nus relationis, &amp; hoc siue talis quantitas siue molis, siue virtutis habeat esse in substantia, siue in  
+        <lb ed="#Bb" n="18"/>qualitate, siue in quocumque alio praedicamento: licet diuersimode secundum hanc quantitatem, &amp; secundum quanti- 
+        <lb ed="#Bb" n="19"/>tatem molis, &amp; hoc secundum modum diuersitatis illarum, secundum quod haec omnia infra patebunt. Et aequalitas 
+        <lb ed="#Bb" n="20"/>secundum vtramque quantitatem multum differt ab identitate &amp; similitudine: quoniam identitas sumitur a substantia 
+        <lb ed="#Bb" n="21"/>secundum id quod est, &amp; similiter similitudo sumitur a qualitate secundum id quod est: sed aequalitas sumitur aut 
+        <lb ed="#Bb" n="22"/>secundum id quod est quantitas differens a substantia &amp; qualitate, aut secundum gradus perfectionis vniversal quasi gra 
+        <lb ed="#Bb" n="23"/>dus in illis contentos: vt amplius patebit inferius. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e386">
+        ⁋ Quia vero arguitur quod tres personae sunt similes in  
+        <lb ed="#Bb" n="24"/>substantia, quantitate, &amp; qualitate, Dico quod nequaquam sunt aliqua similia in substantia, etiam extensa si- 
+        <lb ed="#Bb" n="25"/>militudine ad essentialem &amp; accidentalem, nisi in substantia quae est differentia &amp; qualitas substantialis, 
+        <lb ed="#Bb" n="26"/>quae continetur sub communi nomine qualitatis, quando dicitur simile sequi ad vnum in qualitate, vt infra pa 
+        <lb ed="#Bb" n="27"/>tebit. Et secundum quod aliquid est differentia &amp; qualitas substantialis, non habet rationem substantiae vt se 
+        <lb ed="#Bb" n="28"/>cundum ipsam dicatur aliquid idem: sed solummodo secundum speciem per differentiam constitutam, habentem 
+        <lb ed="#Bb" n="29"/>rationem substantiae compositae, dicuntur indiuidua sub illa contenta esse eadem. Vnde Petrus non dicitur simi 
+        <lb ed="#Bb" n="30"/>lis similitudine essentiali Paulo humanitate, nisi ratione rationalitatis quam continet: sed idem di 
+        <lb ed="#Bb" n="31"/>citur illi per se humanitate. Vnde contenta sub generalissimo eadem dicuntur secundum illud, &amp; in illo, non 
+        <lb ed="#Bb" n="32"/>autem similia: quia generalissimum non constituitur per differentiam aliquam nisi ens esset genus &amp; descen 
+        <lb ed="#Bb" n="33"/>dat per differentias in generalissima. Et per eandem rationem diuinae personae neque in substantia, neque secundum  
+        <lb ed="#Bb" n="34"/>substantiam dicuntur esse similes, quia substantia non contrahitur in illis sicut genus per differentias. Licet 
+        <lb ed="#Bb" n="35"/>enim proprietates relatiuae respectu substantiae diuinae sint quasi differentiae constitutiuae personarum, quae  
+        <lb ed="#Bb" n="36"/>sunt veluti indiuidua diuersarum specierum, non tamen contrahunt substantiam deitatis sicut vniuersale 
+        <lb ed="#Bb" n="37"/>siue genus, ad speciem: vt supra declaratum est. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e420">
+        ⁋ Quod autem assumitur in argumento, quod in diuinis suba 
+        <lb ed="#Bb" n="38"/>stantia est quantitas, &amp; qualitas, &amp; econverso: Dico quod verum est secundum rem. Et ideo secundum rem non dif- 
+        <lb ed="#Bb" n="39"/>ferunt in deo illae relationes tres. Differunt tamen secundum rationem: inquantum substantia, quantitas, &amp; qua  
+        <lb ed="#Bb" n="40"/>litas, in deo secundum rationem differunt: vt tactum est superius in quaestione de pluralitate relationum com 
+        <lb ed="#Bb" n="41"/>munium in diuinis, specialiter articulo primo. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e431">
+        ⁋ Quia autem arguitur quod diuinae personae sunt similes secundum quanti 
+        <lb ed="#Bb" n="42"/>tatem: quia ibi quantitas est qualitas, eo quod in eis quae non sunt mole magna, qualia sunt omnia quae sunt in di 
+        <lb ed="#Bb" n="43"/>uinis, maius esse est melius esse: melius autem ad qualitatem pertinet: Ad hoc respondebitur infra art. lxix. 
+        <lb ed="#Bb" n="44"/>quaest id est in dissolutione quaestionis tertiae. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e440">
+        ⁋ Per iam dicta de diuinis patet responsio ad consimilem modum  
+        <lb ed="#Bb" n="45"/>arguendi iam dicta in creaturis adductum in argumento. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e445">
+        ⁋ Ad secundum: si relationes communes distinguerem 
+        <lb ed="#Bb" n="46"/>tur secundum fundamenta, differrent genere praedicamenti sicut &amp; illa: Dico quod verum esset si illis solis &amp; prae 
+        <lb ed="#Bb" n="47"/>cise distinguerentur vt singulum secundum se consideratur, &amp; sic in ipsa fundarentur: nec haberent ra- 
+        <lb ed="#Bb" n="48"/>tionem formalem differentem secundum habitudinem quae est ad aliud esse: qua ad vnum praedicamentum aliud  
+        <lb ed="#Bb" n="49"/>ab illis fundamentis pertinent. Quae quidem relationes non sunt nisi quaedam habitudines secundum illa fun 
+        <lb ed="#Bb" n="50"/>damenta illorum quorum sunt: &amp; fundantur in illis singulis non secundum se: sed in ordine quodam conside 
+        <lb ed="#Bb" n="51"/>ratis secundum rationem vnius &amp; multi: vt infra videbitur. 
+      </p>
+      <p xml:id="vn58an-fe54710-d1e461">
+        ⁋ Ad tertium: quod idem, aequale, &amp; simile quae se 
+        <lb ed="#Bb" n="52"/>quuntur vnum conmune secundum rationem, non differunt in creaturis: ergo nec in deo cum sequuntur in il- 
+        <lb ed="#Bb" n="53"/>lo vnum conmune secundum rem: Dico quod immo in creaturis differunt sub genere relationum conmunium: 
+        <lb ed="#Bb" n="54"/>licet sequuntur vnum conmune secundum rationem, &amp; hoc quia diuersimode &amp; secundum diuersas rationes il- 
+        <lb ed="#Bb" n="55"/>lud: quia identitas sequitur illud ratione totius naturae speciei: aequale autem ratione gradus perfectionis 
+   <!--417.xml-->
+        <pb ed="#Bb" n="201-v"/>
+        <lb ed="#Bb" n="1"/>in illa: simile autem ratione differentiae constitutiuae speciei, secundum quod iam supra dictum est. Et secundum eum 
+        <lb ed="#Bb" n="2"/>dem modum differunt in deo identitas, &amp; aequalitas, quando aequalitas fundatur in deo super quantitatem 
+        <lb ed="#Bb" n="3"/>perfectionis: sed alius est modus quando fundatur super quantitatem attributalem in deo. Similitudo au  
+        <lb ed="#Bb" n="4"/>tem secundum illum modum non est in deo: quia non est in illo nisi fundata super qualitatem attributalem: 
+        <lb ed="#Bb" n="5"/>eo quod non est in deo ratione differentiae in ipsa essentia deitatis, sicut est in homine in ipsa essentia hua 
+        <lb ed="#Bb" n="6"/>nitatis: quia vt dictum est, deitas non contrahitur per aliquam differentiam in patre &amp; filio &amp; spiritu sancto.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="164-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwa28"> <!-- alias="vn58an-a28prae" -->
+      <head xml:id="vn58an-qwwa28-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwa28-d1e107">
+        <lb ed="#Ba" n="31"/>Art. &amp; XVIII. De compositione dei ex aliis. 
+        <lb ed="#Ba" n="32"/>Xpeditis ei quae pertinent ad diuinam essentiam &amp; natu- 
+        <lb ed="#Ba" n="33"/>ram, consequenter videndum est de eis quae pertinent ad eius essentia- 
+        <lb ed="#Ba" n="34"/>les &amp; naturales proprietates. Et quia huiusmodi proprietatum quaedam con- 
+        <lb ed="#Ba" n="35"/>ueniunt ei ratione qua est essentia quaedam &amp; natura simplex: quae- 
+        <lb ed="#Ba" n="36"/>dam vero ratione qua ipsa essentia diuina &amp; natura est quaedam vita, 
+        <lb ed="#Ba" n="37"/>vt in tractando declarabitur, Ideo circa hoc duo sunt inquirenda. 
+        <lb ed="#Ba" n="38"/>Primum est de proprietatibus deo conuenientibus ratione qua est essen- 
+        <lb ed="#Ba" n="39"/>tia quaedam &amp; natura. 
+        <lb ed="#Ba" n="40"/>Secundum de illis quae conueniunt ei ratione qua est quaedam vita. 
+        <lb ed="#Ba" n="41"/>Primae sunt deitatis vt deitas est: quasi proprie &amp; naturaliter inditae ei: &amp; nulli 
+        <lb ed="#Ba" n="42"/>creaturae neque communicabiles neque conicatae. Aliae vero sunt quasi proprietates deitatis communes deo 
+        <lb ed="#Ba" n="43"/>&amp; creaturae, &amp; a creaturis translatae &amp; deo attributae secundum vsum sermonis humani: sed a deo 
+        <lb ed="#Ba" n="44"/>creaturis communicatae secundum rei veritatem, vt infra patebit loquendo de illis. Proprietates vero il- 
+        <lb ed="#Ba" n="45"/>lae quae sequuntur diuinam essentiam principaliter ratione qua essentia est: sunt tres per ordinem naturalem 
+        <lb ed="#Ba" n="46"/>se habentes: ad quas omnes aliae siquae sunt reducuntur. Conueniunt autem illae tres diuinae essentiae ratione quae est 
+        <lb ed="#Ba" n="47"/>ipsum purum diuinum esse, Deus eim ex singularitate &amp; puritate sui esse primohabet in se simplicitatem: dein ex 
+        <lb ed="#Ba" n="48"/>simplicitate habet immutabilitatem: &amp; tertio ex immutabilitate aeternitatem, vt patebit singula prosequendo.  
+      </p>
+      <p xml:id="vn58an-qwwa28-d1e149">
+        <lb ed="#Ba" n="49"/>⁋ Circa proprietates ergo quasi deo proprias &amp; naturaliter ei inditas tria sunt inquirenda. 
+        <lb ed="#Ba" n="50"/>Quorum primum est de eius simplicitate.  
+        <lb ed="#Ba" n="51"/>Secundum vero: de eius immutabilitate.  
+        <lb ed="#Ba" n="52"/>Tertium de eius aeternitate.  
+        <lb ed="#Ba" n="53"/>Et quia compositum notius est simplici, secundum <name ref="#Aristotle">Philosophum</name> in principio physicae. sicut multitu 
+        <lb ed="#Ba" n="54"/>do nobis notior quam vnitas. secundum Auicen. iii. metaphysicae: &amp; secundum <name ref="#Aristotle">Philosophum</name> in. x. Idcirco sim 
+   <!--344.xml-->
+        <pb ed="#Ba" n="165-r"/>
+        <lb ed="#Ba" n="1"/>plicitatem dei oportet nos elicere a contrario ex compositione creaturae: illam a deo remouendo. Pro 
+        <lb ed="#Ba" n="2"/>pter quod dicit Augustinus. vi. de trinitate. Si quaeritur quomodo simplex sit illa substantia, aduertenda est 
+        <lb ed="#Ba" n="3"/>primo creatura quaere sit multiplex: nullo autem modo vere simplex. In creaturis autem inuenitur duplex mo 
+        <lb ed="#Ba" n="4"/>dus compositionis. vnus quo aliquid componitur ex aliis. Alius quo aliquid componitur cum alio. Id-  
+        <lb ed="#Ba" n="5"/>circo circa simplicitatem dei duo sunt inquirenda. 
+        <lb ed="#Ba" n="6"/>Primum: vtrum in deo sit aliqua compositio ex aliis. 
+        <lb ed="#Ba" n="7"/>Secundum: vtrum deus habeat aliquam compositionem cum alio. 
+      </p>
+      <p xml:id="vn58an-qwwa28-d1e190">
+        <lb ed="#Ba" n="8"/>⁋ Compositio autem in creaturis ex aliis, sex modis inuenitur secundum maiorem &amp; minorem diuer- 
+        <lb ed="#Ba" n="9"/>sitatem illorum ex quibus est compositio. Et secundum hoc circa primum illorum sex sunt in-  
+        <lb ed="#Ba" n="10"/>quirenda. 
+        <lb ed="#Ba" n="11"/>Primum: vtrum in deo sit compositio ex partibus quantitatiuis. 
+        <lb ed="#Ba" n="12"/>Secundum: vtrum in deo sit compositio ex materia &amp; forma. 
+        <lb ed="#Ba" n="13"/>Tertium: vtrum in deo sit compositio ex genere &amp; differentiis. 
+        <lb ed="#Ba" n="14"/>Quartum: vtrum ex natura &amp; supposito. 
+        <lb ed="#Ba" n="15"/>Quintum: vtrum ex essentia &amp; esse. 
+        <lb ed="#Ba" n="16"/>Sextum: vtrum ex potentia &amp; actu.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="109-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1363"> <!-- alias="vn58an-a16q7" -->
+      <head xml:id="vn58an-d1e1363-Hd1e104">Quaestio 7</head>
+      <head xml:id="vn58an-d1e1363-Hd1e107" type="question-title">Utrum rationis investigatione sit exponenda</head>
+      <p xml:id="vn58an-d1e1363-d1e110">
+        <lb ed="#Ba" n="14"/>CIrca Septimum arguitur: quod ista scientia inuestigatione rationis non sit expo- 
+        <lb ed="#Ba" n="15"/>nenda. Primo sic. Ambrus de sacramentis. Tolle rationem vbi fides quaeritur: pisca 
+        <lb ed="#Ba" n="16"/>toribus creditur non dialecticis. Eides autem quaeritur in expositione huius scien- 
+        <lb ed="#Ba" n="17"/>tiae: quia est propter fidem generandam. Io. vlt. Haec autem scripta sunt vt creda 
+        <lb ed="#Ba" n="18"/>tis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1363-d1e123">
+        ⁋ Secundo sic. Greg. dicit in Homilis. Pentec. Fides non habet meritum 
+        <lb ed="#Ba" n="19"/>cui humana ratio praebet experimentum. Expositio ergo inuestigata per rationem 
+        <lb ed="#Ba" n="20"/>euacuat meritum fidei. Sic autem non est ista scientia exponenda vt euacuetur 
+        <lb ed="#Ba" n="21"/>meritum fidei: quia aliter labor exponendi non esset meritorius. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1363-d1e133">
+        ⁋ Tertio sic. <ref xml:id="vn58an-d1e1363-Rd1e135">
+        <name ref="#Augustine">Augustinus</name>  
+        <lb ed="#Ba" n="22"/>xvi. de civitate dei. c. xxxi.</ref> Diuino intonante praecepto obediendum est: non disputandum. omnia dicta sacrae 
+        <lb ed="#Ba" n="23"/>scripturae sunt diuina praecepta. de eis ergo non est disputandum. sed inquisitio ratiocinatiua non 
+        <lb ed="#Ba" n="24"/>procedit nisi disputando. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1363-d1e148">
+        ⁋ In contrarium est illud <name ref="#Augustine">Augustinus</name> secundo de ordine. Ad discendum 
+        <lb ed="#Ba" n="25"/>dupliciter ducimur: auctoritate, atque ratione. Sed per expositionem huius scientiae ducimur ad discen 
+        <lb ed="#Ba" n="26"/>dum eam. ergo tam auctoritate quam rationis inuestigatione exponenda est. 
+      </p>
+      <p xml:id="vn58an-d1e1363-d1e158">
+        <lb ed="#Ba" n="27"/>⁋ Dicendum quod Consentius in epistola sua ad <name ref="#Augustine">Augustinum</name> sentiebat quod veritas rerum 
+        <lb ed="#Ba" n="28"/>diuinarum ex fide magis quam ex ratione deberet percipi: &amp; quod secundum hoc expositio sacrae scripturae non 
+        <lb ed="#Ba" n="29"/>tam ratione quam auctoritatibus sanctorum esset requirenda: quoniam (vt dicit) non sic errassent 
+        <lb ed="#Ba" n="30"/>haeretici si scripturis sanctis magis, quam suis rationibus accommodare fidem mallent. Contra quem di 
+        <lb ed="#Ba" n="31"/>cit <name ref="#Augustine">Augustinus</name> in epistola super hoc directa ad ipsum. Neque cum coepero te in tanti secreti intelligentiam 
+        <lb ed="#Ba" n="32"/>vtique inducere: quod nisi deus intus adiuuerit omnino non possum: aliud disserendo facturus sum 
+        <lb ed="#Ba" n="33"/>quam rationem vt potero redditurus: quam si vniversalia me vel a quolibet doctore non irratiomabiliter flagitas 
+        <lb ed="#Ba" n="34"/>corrige definitionem tuam. Quia (vt dicit ibidem inferius) qui ea quae credenda sunt, credenda tantum 
+        <lb ed="#Ba" n="35"/>modo existimat, cui rei fides prosit, ignorat. Econtrario autem Felicianus opinatus est quod po- 
+        <lb ed="#Ba" n="36"/>tius ratione quam fide veritas scripturae inquiri deberet, dicens sic ad <name ref="#Augustine">Augustinus</name> Nihil deterius puto quam  
+        <lb ed="#Ba" n="37"/>quod sic praecepta fidei rudibus traditis: vt non de intelligendarum rerum ratione: sed potius de qua  
+        <lb ed="#Ba" n="38"/>dam testimoniorum ostentatione colloquentibus praescribatis: quod nunc non dicam fatuum: sed quam 
+        <lb ed="#Ba" n="39"/>rusticum sit nullus ignorat. Contra quem dicit Augustinus. Facilius in negotiis fidei testi- 
+        <lb ed="#Ba" n="40"/>moniis creditur: quam ratio inuestigatur. Vtrique ergo quodammodo contra vtrosque <name ref="#Augustine">Augustinus</name> con 
+        <lb ed="#Ba" n="41"/>sentit. 
+      </p>
+      <p xml:id="vn58an-d1e1363-d1e206">
+        ⁋ Concedendum igitur est quod huius scientiae expositio &amp; auctoritate &amp; ratione inuestiganda est 
+        <lb ed="#Ba" n="42"/>Est enim sciendum quod sacra scriptura ad duo exponitur: quorum vnum est vt recta fides creden 
+        <lb ed="#Ba" n="43"/>dorum ex eius expositione capiatur. aliud vero est, vt ea quae recta &amp; certa fide tenentur: cla- 
+        <lb ed="#Ba" n="44"/>ra intelligentia cognoscantur. Et quia secundum <name ref="#Augustine">Augustinum</name> de vera religione quod credimus debetur 
+        <lb ed="#Ba" n="45"/>auctoritati: quod intelligimus debetur rationi: expositio sacrae scripturae prima intentione de- 
+        <lb ed="#Ba" n="46"/>bet potius fieri auctoritatibus quam ratione. Secunda vero intentione potius debet inuestigari ra 
+        <lb ed="#Ba" n="47"/>tione quam auctoritate. Auctoritatibus autem exponi potest secundum dicta sanctorum patrum: &amp; ex 
+        <lb ed="#Ba" n="48"/>eis quae tenet consuetudo vniuersalis ecclesiae. sed maxime exponenda sunt obscure dicta sacrae scri 
+        <lb ed="#Ba" n="49"/>pturae: ex quibusdam aliis clarioribus dictis eiusdem scripturae. secundum quod dicit Augustinus. ii. 
+        <lb ed="#Ba" n="50"/>de doctri. Christia. Ad obscuriores lectiones illustrandas de manifestioribus sumantur exempla: 
+        <lb ed="#Ba" n="51"/>&amp; quaedam certarum sententiarum testimonia incertis auferant dubitationem. &amp; maxime 
+        <lb ed="#Ba" n="52"/>sumenda sunt talia ex illis quae illa quae obscura sunt circunstant in eadem materia. Ratione au 
+        <lb ed="#Ba" n="53"/>tem inuestiganda est sacrae scripturae expositio: triplici de causa. Vna iam dicta: vt quae ex scri 
+        <lb ed="#Ba" n="54"/>pturis credimus: clara intelligentia capiamus. Secundum quod de lectione sacrae scripturae dicit 
+   <!--233.xml-->
+        <pb ed="#Ba" n="109-v"/>
+        <lb ed="#Ba" n="1"/>Augustinus in prin. super Io. Vt quid exponitur si non intelligitur: Intellectum autem eius, quod ex 
+        <lb ed="#Ba" n="2"/>scriptura fide creditur, ratio aliquo modo parare potest: quia omnis res naturalis super quam no 
+        <lb ed="#Ba" n="3"/>titia naturalis rationis fundatur, aliquale est vestigium diuinae imaginis. Habet enim effectus 
+        <lb ed="#Ba" n="4"/>omnis suae causae similitudinem: licet creaturae habent eam imperfectam valde: quia causae suae 
+        <lb ed="#Ba" n="5"/>omnino non adaequant virtutem. Colligendo ergo ex rebus creatis similitudines &amp; manudu 
+        <lb ed="#Ba" n="6"/>ctiones, potest via rationis nobis aliquo modo parari: via ad intellectum eorum quae dei sunt &amp; fidei quae 
+        <lb ed="#Ba" n="7"/>in hac scientia continentur. Alia vero causa est: vt illa quae fide tenenda sunt nec sacra scriptu 
+        <lb ed="#Ba" n="8"/>ra exponit: certa rationis consequentia innotescant. Secundum enim quod dicit Orig. in Homil. de arca Noe, ope 
+        <lb ed="#Ba" n="9"/>portunum videtur super hoc habitum silentium: de quo sufficienter ipsius consequentiae ratio doceret. Hinc 
+        <lb ed="#Ba" n="10"/>est quod dicit <name ref="#Augustine">Augustinus</name> in sermone quodam de assumptione beatae virginis. Sunt quaedam, quae quamuis con 
+        <lb ed="#Ba" n="11"/>memorari omissa sunt, vera tamen ratione traduntur: ad quae ipsa conuenientia rei quemadmodum  
+        <lb ed="#Ba" n="12"/>dux &amp; praeuia creditur. Vnde diuina scriptura nihil commendat nisi quaerendum ratione quid consen 
+        <lb ed="#Ba" n="13"/>tiat veritati: fsitque ipsa veritas auctoritas, sine qua necesse est nec valeat auctoritas. Tertia vero 
+        <lb ed="#Ba" n="14"/>causa est: vt aduersarios sacrae scripturae quos non possumus convincere sola auctoritate: convin 
+        <lb ed="#Ba" n="15"/>camus &amp; ratione consentiente auctoritati. Secundum quod dicit <name ref="#Augustine">Augustinus</name> in epistola quadam ad Maxim. Re aga 
+        <lb ed="#Ba" n="16"/>mus: ratione agamus: diuinarum scripturarum auctoritatibus agamus: quieti atque tranquilli quam 
+        <lb ed="#Ba" n="17"/>tum possumus petamus, quaeramus: pulsemus vt accipiamus &amp; inueniamus: &amp; aperiatur no-  
+        <lb ed="#Ba" n="18"/>bis: si forte fieri possit vt adiuuante domino tanta deformitas atque impietas de nostris terris 
+        <lb ed="#Ba" n="19"/>incipiat aboleri. 
+      </p>
+      <p xml:id="vn58an-d1e1363-d1e292">
+        <lb ed="#Ba" n="20"/>⁋ Ad primum in oppositum: tolle rationem vbi fides quaeritur: Dicendum quod ratio 
+        <lb ed="#Ba" n="21"/>dupliciter induci potest: vbi fides quaeritur. Vno modo tamquam fidei praeuia: vt propter rationem creda 
+        <lb ed="#Ba" n="22"/>mus. Alio modo tamquam fidei pedissequa: vt ea quae fide credimus: ratione intelligamus. Primo mo 
+        <lb ed="#Ba" n="23"/>do omnino ratio tollenda est vbi fides quaeritur. Secundo autem modo non: secundum quod sufficienter patet ex 
+        <lb ed="#Ba" n="24"/>supra determinatis: quia fides in nobis semper debet praecedere rationem. Sunt enim talia ea 
+        <lb ed="#Ba" n="25"/>quae sunt huius scientiae: sicut &amp; caetera dei mirabilia: de quibus aliter a nobis ratio reddi non 
+        <lb ed="#Ba" n="26"/>potest. Non tamen non est, vt dicit <name ref="#Augustine">Augustinus</name> ad Consentium, quia vt dicit Ricar. de trinitate. Credo sine 
+        <lb ed="#Ba" n="27"/>dubio ad quaecunque necesse est non tantum probabilia: immo etiam necessaria argumenta non deesse. 
+      </p>
+      <p xml:id="vn58an-d1e1363-d1e315">
+        <lb ed="#Ba" n="28"/>⁋ Per idem patet ad secundum. Ratio enim praecedens fidem, sine qua homo non esset crediturus, omnino  
+        <lb ed="#Ba" n="29"/>fidei meritum euacuat. Sed ratio fidem subsequens quam habet credens ante rationem, &amp; alias 
+        <lb ed="#Ba" n="30"/>crediturus sine ratione: illa nullo modo euacuat fidei meritum: sed firmius credere facit: &amp; me- 
+        <lb ed="#Ba" n="31"/>ritum potius augmentat. secundum quod dicit <name ref="#Augustine">Augustinus</name> contra epistolam Funda. Carnales gremio ec- 
+        <lb ed="#Ba" n="32"/>clesiae contenti lacte nutriendi sunt: ibi incipiunt spiritualiter allegoricas parabolas intelligere pau- 
+        <lb ed="#Ba" n="33"/>latim: qua intelligentia quanto magis proficiunt: tanto magis catholici esse firmantur. Qualiter 
+        <lb ed="#Ba" n="34"/>autem ratio &amp; intellectus simul stant cum fide, dictum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e1363-d1e337">
+        ⁋ Ad tertium: quod diuino praecepto 
+        <lb ed="#Ba" n="35"/>intonante non est disputandum, sed credendum: dicendum quod non est disputandum ante fidem an cre 
+        <lb ed="#Ba" n="36"/>dendum sit: vt postmodum propter rationem credatur. est tamen bene disputandum supposita fide: vt quod  
+        <lb ed="#Ba" n="37"/>creditur intelligatur, &amp; contra aduersarios defensetur: &amp; eis suadeatur. secundum quod dicitur. i. Pe. iii. 
+        <lb ed="#Ba" n="38"/>Parati reddere rationem de ea quae in nobis est fide &amp; spe. Et ad Timoo. i. Potens sis exhortari 
+        <lb ed="#Ba" n="39"/>in doctrina sana: &amp; eos qui contradicunt arguere.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

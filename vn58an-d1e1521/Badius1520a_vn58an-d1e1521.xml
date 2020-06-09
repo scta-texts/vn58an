@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="120-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1521"> <!-- alias="vn58an-a20q2" -->
+      <head xml:id="vn58an-d1e1521-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e1521-Hd1e107" type="question-title">Utrum indifferenter loqui debeat de eis significando ea rebus et vocibus</head>
+      <p xml:id="vn58an-d1e1521-d1e110">
+        <lb ed="#Ba" n="27"/>CIrca secundum arguitur quod sacra scriptura non debet loqui indifferenter signi- 
+        <lb ed="#Ba" n="28"/>ficando diuina rebus &amp; vocibus: immo videtur vocibus magis: sic. illud indu-  
+        <lb ed="#Ba" n="29"/>cit magis notitiam alterius significando, quod magis habet rationem signi illius: quia 
+        <lb ed="#Ba" n="30"/>non inducit in notitiam ipsius neque significat ipsum nisi per hoc quod rationem signi 
+        <lb ed="#Ba" n="31"/>habet: quia illa facere est proprietatis signi: vt patet ex eius definitione. sed vo- 
+        <lb ed="#Ba" n="32"/>ces significatiuae rerum magis habent rationem signi ad indicandum diuina quam ipsae 
+        <lb ed="#Ba" n="33"/>res: quia vox est significatiua ex eo quod talis rationem signi habet: non sic ipsa res: quia est quid ab-  
+        <lb ed="#Ba" n="34"/>solutum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1521-d1e130">
+        ⁋ Secundo videtur quod solis vocibus &amp; non rebus debent significari diuina: sic. su 
+        <lb ed="#Ba" n="35"/>perfluum est aliquid significare per illud cuius significatio intelligi non potest nisi exposita per aliud  
+        <lb ed="#Ba" n="36"/>quod per se sufficit illud significare &amp; significationis suae intellectum exprimere. Supersluum enim est fieri 
+        <lb ed="#Ba" n="37"/>per plura quod aequaliter &amp; compendiosius potest fieri per vnum, quicquid de diuinis significatur rebus, significa 
+        <lb ed="#Ba" n="38"/>ri potest vocibus: nec intelligitur quid res significant: nisi id voces exprimant: quae per se intellectum 
+        <lb ed="#Ba" n="39"/>significationis suae faciunt. Absoluta enim bouis immolatio non daret intellectum quia Christus verus 
+        <lb ed="#Ba" n="40"/>bos esset immolandus: nisi vox verbi vel mentis indicaret quia bos Christum immolandum intel 
+        <lb ed="#Ba" n="41"/>ligere daret. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1521-d1e149">
+        ⁋ In contrarium est <name ref="#Augustine">Augustinus</name> ser, xxv. super loaan. qui dicit quod facta Christin sunt 
+        <lb ed="#Ba" n="42"/>verba: quia vt dicit ser. xxiiii. sunt diuina opera, &amp; ad intelligendum deum de visibilibus admonent 
+        <lb ed="#Ba" n="43"/>humanam mentem: habent enim linguam suam. Nam quia ipse Christus verbum est, etiam factum verbi ver 
+        <lb ed="#Ba" n="44"/>bum est. &amp; ser. xxvii. Opus dei lingua est. 
+      </p>
+      <p xml:id="vn58an-d1e1521-d1e161">
+        <lb ed="#Ba" n="45"/>⁋ Dicendum ad hoc. cum secundum iam dicta, cognitionem acquirere non possu- 
+        <lb ed="#Ba" n="46"/>mus supernaturalium nisi per notitiam quam habemus rerum naturalium: inquantum effigies quae 
+        <lb ed="#Ba" n="47"/>dam &amp; imago supernaturalium in naturalibus inuenitur: sacra scriptura tradens nobis superna- 
+        <lb ed="#Ba" n="48"/>turalium cognitionem, per illa debet nobis eloqui supernaturalia: quae nobis expressius effigiem 
+        <lb ed="#Ba" n="49"/>&amp; imaginem supernaturalium possunt explicare. Nunc autem ita est quod res ipsae in seipsis verita- 
+        <lb ed="#Ba" n="50"/>tem continent dispositionum &amp; proprietatum: per quas supernaturalium sunt indicatiua: voces 
+        <lb ed="#Ba" n="51"/>autem signa illarum sunt: confuse ex institutione ipsas praesentantia. Idcirco igitur res ipsae verius diui- 
+        <lb ed="#Ba" n="52"/>na &amp; supernaturalia explicant quam earum voces rebus supernaturalibus applicatae. Et ideo propriissimus 
+        <lb ed="#Ba" n="53"/>modus loquendi sacrae scripturae est loqui rebus &amp; factis: quia frequenter ex proprietatibus rerum &amp; 
+        <lb ed="#Ba" n="54"/>factorum possibile est hominem illa de diuinis coniicere: quae impossibile est verbis explicare. Con- 
+   <!--256.xml-->
+        <pb ed="#Ba" n="121-r"/>
+        <lb ed="#Ba" n="1"/>gruit ergo primo summe in hac scientia, diuina per res &amp; facta explicare: &amp; hoc ex parte rei cognoscendae 
+        <lb ed="#Ba" n="2"/>Congruit etiam secundo ex parte auctoris huius scientiae. talibus enim signis debet loqui auctor in scientia: quae sunt sa- 
+        <lb ed="#Ba" n="3"/>pientiae suae maxime indicatiua. talia sunt potius res quam verba: quia ipse per suam sapientiam immediate est 
+        <lb ed="#Ba" n="4"/>causa rerum: non autem causa humanorum verborum, nisi cum occasione sapientiae humanae. Et ideo sicut 
+        <lb ed="#Ba" n="5"/>scientiae humanae proprie debent describi verbis ab humana sapientia institutis: sic ista scientia debet de 
+        <lb ed="#Ba" n="6"/>scribi rebus a diuina sapientia datis. vnde &amp; vniuersa in se creatura est quasi diuinae sapientiae quaedam scri 
+        <lb ed="#Ba" n="7"/>ptura. Congruit etiam tertio ex parte cognoscentis. cum enim diuina mysteria quae tractat ista scientia non 
+        <lb ed="#Ba" n="8"/>sunt omnibus pandenda, sic sunt proponenda quom apertius piis &amp; deuote quaerentibus potuerunt inno-  
+        <lb ed="#Ba" n="9"/>tescere: impiis vero &amp; fastidientibus occultari: hoc autem fit rebus &amp; factis ea proponendo non vocibus. Quia 
+        <lb ed="#Ba" n="10"/>enim voces id quod sunt non nisi signa sunt: &amp; non sistunt intellectum audientis in seipsis: sed ad rei significatae 
+        <lb ed="#Ba" n="11"/>per ipsas intellectum dirigunt: idcirco quod vocibus proponitur omnibus panditur, &amp; ad percipiendum  
+        <lb ed="#Ba" n="12"/>per vocem aliud quam ipsa sit auditor excitatur. Quia vero res ipsae &amp; res sunt &amp; signa: inquantum res sunt 
+        <lb ed="#Ba" n="13"/>suiipsius intellectum insinuant determinate inspicienti eas, sistendo intellectum eius in seipsis determi 
+        <lb ed="#Ba" n="14"/>nate. Inquantum vero signa sunt praetendunt intellectum indeterminatum propter diuersas peprietates vniuscuiusque  
+        <lb ed="#Ba" n="15"/>rei, quibus diuersa possunt significari: &amp; ideo non sunt signa nisi studiosis, signa rerum ad significa 
+        <lb ed="#Ba" n="16"/>ta applicare valentibus: &amp; hoc in hac scientia non nisi diuinae gratiae adiutorio assistente. Et sic modus loquen-  
+        <lb ed="#Ba" n="17"/>di per res &amp; facta, per quas sine magno studio significata comprehendi non possunt, conuenientissimus 
+        <lb ed="#Ba" n="18"/>est huic scientiae: vt occultentur mysteria eius indignis qui inuestigationi diligentiam exhibere nolunt:  
+        <lb ed="#Ba" n="19"/>&amp; per illa quibus maxime nata sunt praesentari inuestiganda proponuntur dignis. alicubi tamen so 
+        <lb ed="#Ba" n="20"/>lis factis &amp; rebus loquitur: vb. scilicet occultiora mysteria paucis reuelanda panduntur. alicubi autem verbis so 
+        <lb ed="#Ba" n="21"/>lum: vtb. scilicet communia omnibus necessaria: &amp; ideo ab omnibus capienda proponuntur. alicubi vero verbis &amp;lsi 
+        <lb ed="#Ba" n="22"/>gnis rerum commistim: vbi per apertiora opus est magis obscura in parte explicare. secundum quod sacra scri 
+        <lb ed="#Ba" n="23"/>ptura omnibus cogruens alicubi aperta debet esse, alicubi vero obscura, vt in sequenti quaestione dicetur. 
+      </p>
+      <p xml:id="vn58an-d1e1521-d1e239">
+        <lb ed="#Ba" n="24"/>⁋ Ad primum in oppositum quod vox magis ducit in notitiam rei: quia magis habet 
+        <lb ed="#Ba" n="25"/>rationem signi: Dicendum quod verum est simplicibus, &amp; in notitiam rei simplicem acquirendam. Ad notitiam autem perfectam acquiren 
+        <lb ed="#Ba" n="26"/>dam secundum conditiones &amp; proprietates cognoscibilis prouectis res magis habent signi rationem: &amp; magis in notitiam  
+        <lb ed="#Ba" n="27"/>ducunt diuinorum: quorum conditiones non tam perfecte potuerunt exprimere voces sicut res. vnde &amp; moralia do-  
+        <lb ed="#Ba" n="28"/>cumenta sacra scriptura in factis sanctorum frequenter proponit potius quam in verbis: quia facta sunt circa particularia 
+        <lb ed="#Ba" n="29"/>&amp; ideo magis exprimunt conditionem &amp; modum operandi quam verba. secundum quod dicit <name ref="#Augustine">Augustinus</name> de mendacio 
+        <lb ed="#Ba" n="30"/>Diuiae scripturae non solum praecepta dei continent: sed &amp; vitam moresque iustorum, vt si forte occultum est quem 
+        <lb ed="#Ba" n="31"/>admodum accipiendum sit quod praecipitur, in factis sanctorum intelligatur. 
+      </p>
+      <p xml:id="vn58an-d1e1521-d1e262">
+        ⁋ Ad secundum: quod significatum rebus expressius si- 
+        <lb ed="#Ba" n="32"/>gnificatur vocibus: Dicendum quod verum est simplicibus: &amp; indistincta expressione: pouectis autem &amp; expressione 
+        <lb ed="#Ba" n="33"/>distincta vt dictum est: melius exprimunt res ipsa cognoscenda circa diuina quam voces. Et si vocibus aliquantu 
+        <lb ed="#Ba" n="34"/>lum explicantur mysteria rebus significata, nunquam tamen ita perfecte mysteria explicant voces vt res ea indi- 
+        <lb ed="#Ba" n="35"/>cant: ita quod per res ipsas inspici potest quod per voces apprehendi non potest. Et ideo dicit <name ref="#Augustine">Augustinus</name> super Ioan. ser. xix. 
+        <lb ed="#Ba" n="36"/>Aliquando sermo deficit vbi intellectus proficit. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

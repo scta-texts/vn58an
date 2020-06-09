@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="131-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1651"> <!-- alias="vn58an-a22q3" -->
+      <head xml:id="vn58an-d1e1651-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e1651-Hd1e107" type="question-title">Utrum contingat cogitare Deum non cogitando eum esse</head>
+      <p xml:id="vn58an-d1e1651-d1e110">
+        <lb ed="#Ba" n="38"/>CIrca tertium arguitur quod contingit cogitare deum, non cogitando ipsum esse. Primo 
+        <lb ed="#Ba" n="39"/>sic: in cognitione quae potest probari demonstratiue: praedicatum non est idem penitus cum 
+        <lb ed="#Ba" n="40"/>subiecto: quia idem non probatur neque demonstratur de seipso: eo quod non est medium ali- 
+        <lb ed="#Ba" n="41"/>quod inter subiectum &amp; praedicatum vbi idem praedicatur de se: &amp; omnis conclusio probata habet 
+        <lb ed="#Ba" n="42"/>medium inter subiectum &amp; praedicatum per quod probatur. deum esse est conclusio: quae potest pro- 
+        <lb ed="#Ba" n="43"/>bari demonstratiue: vt videbitur infra. ergo in ea non est praedicatum penitus idem subie- 
+        <lb ed="#Ba" n="44"/>cto. sed in eis quae non sunt penitus idem: vnum potest cogitari non cogitando aliud. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1651-d1e128">
+        ⁋ Secundo sic, quid non 
+        <lb ed="#Ba" n="45"/>est per se notum esse: inquantum huiusmodi, potest cogitari non esse: quia potest de esse eius dubitari. deum esse potest multis 
+        <lb ed="#Ba" n="46"/>non esse per se notum: vt dictum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1651-d1e136">
+        ⁋ In contrarium est: quoniam eidem inquantum idem semper natum est accidere 
+        <lb ed="#Ba" n="47"/>idem. Cum ergo vt visum est supra: in deo penitus sunt idem deus &amp; esse dei: si accidat deo vt ab aliquo  
+        <lb ed="#Ba" n="48"/>intelligatur: similiter &amp; esse eius necessario intelligitur ab eodem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1651-d1e143">
+        <lb ed="#Ba" n="49"/>⁋ Dicendum ad hoc quod quaestio de non cogitando deum esse, differt ab illa quae  
+        <lb ed="#Ba" n="50"/>stione de qua erit sermo inferius: an scilicet contingit cogitare deum non esse: in hoc, quod ibi actus cogitandi  
+        <lb ed="#Ba" n="51"/>affirmatur: &amp; est quaestio de negatione inhaerentiae esse ad deum: vt negatio eadat super esse solum: hic ve 
+        <lb ed="#Ba" n="52"/>ro negatur actus cogitandi: &amp; negatio includit totum: quia quaestio ista quaerit vtrum cogitando deum 
+        <lb ed="#Ba" n="53"/>contingit non cogitare ipsum esse: vt licet non contingit in natura rei distinguere inter dei essentiam 
+        <lb ed="#Ba" n="54"/>&amp; esse eius: quia deus non potest non esse: vt videbitur infra: contingat tamen separare ea per intellectum 
+   <!--278.xml-->
+        <pb ed="#Ba" n="132-r"/>
+        <lb ed="#Ba" n="1"/>nostrum intelligendo diuinam naturam &amp; essentiam, non cointelligendo ipsam esse: vt quo ad hoc sit quae 
+        <lb ed="#Ba" n="2"/>stio de complexo: vel non cointelligendo eius esse: vt sit quaestio de incomplexo. Et hic est distinguenm 
+        <lb ed="#Ba" n="3"/>dum: quia intelligens diuinam essentiam: aut intelligit eam distincte &amp; in particulari intelligendo eam 
+        <lb ed="#Ba" n="4"/>in natura sua qua est id quod est: aut indistincte &amp; in vniuersali: in aliquibus scilicet eius vniuersalibus at  
+        <lb ed="#Ba" n="5"/>tributis. Primo modo dicendum absolute quod non contingit intelligere diuinam essentiam non cointelligendo  
+        <lb ed="#Ba" n="6"/>eius esse: quia nihil est in se nisi suum esse: vt dictum est supra. &amp; sic non contingit cogitare deum non co 
+        <lb ed="#Ba" n="7"/>gitando ipsum esse: quia talis cogitatio sequitur naturam rei: &amp; consistit veritas talis cogitationis in 
+        <lb ed="#Ba" n="8"/>adaequatione quadam rei &amp; intellectus. Secundo autem modo similiter distinguendum de esse: quia esse dei 
+        <lb ed="#Ba" n="9"/>aut contingit intelligere distincte in seipso: aut confuse cum esse alterius. Et neutro modo contingit intelligere 
+        <lb ed="#Ba" n="10"/>deum nisi cointelligendo eius esse: quia sicut deus cum intelligitur clare in sua natura, cointelligitur esse 
+        <lb ed="#Ba" n="11"/>eius clare: similiter cum in aliquo eius generali attributo distincte, vel cum intellectu alicuius quod est in  
+        <lb ed="#Ba" n="12"/>creaturis, confuse intelligitur deus: de quo videbitur infra: eo modo quo intelligitur ipse deus: sem 
+        <lb ed="#Ba" n="13"/>per cointelligitur eius esse: quia non est nisi esse: ita quod nihil de eo potest intelligi nisi esse. Vtroque autem mo 
+        <lb ed="#Ba" n="14"/>do bene contingit cogitare deum: non simul cogitando ipsum esse. intelligendo enim deum vt summum 
+        <lb ed="#Ba" n="15"/>bonum simpliciter: &amp; vt simplicissimum, aut aliquid huiusmodi: vel intelligendo ipsum intelligendo bonum aliquod 
+        <lb ed="#Ba" n="16"/>absolute: non oportet eius esse vel quod ipse sit cointelligere. Non enim sic intelligit vel cogitat eum nisi 
+        <lb ed="#Ba" n="17"/>secundum proprietates creaturae. Et ideo cum omnis talis proprietas in natura sua potest intelligi non vt 
+        <lb ed="#Ba" n="18"/>existens in creatura: neque vt existens omnino: ideo &amp; relata ad creatorem consiliter potest ipse in ea intelligi non 
+        <lb ed="#Ba" n="19"/>cointelligendo ipsum esse: quia &amp; ipsa diuina essentia nihil aliud est quam proprietas illa ab omni defe 
+        <lb ed="#Ba" n="20"/>ctu absoluta intellecta siue cogitata. Sed talis intellectus diuinae essentiae est secundum nostram possi- 
+        <lb ed="#Ba" n="21"/>bilitatem: &amp; imperfectus multum: qui de eo quod est idipsum &amp; in se simplicissimum, format diuersos conce- 
+        <lb ed="#Ba" n="22"/>ptus: eo quod simul vnico conceptu capere non potest quicquid de re ipsa concipiendum est: &amp; sic alio &amp; 
+        <lb ed="#Ba" n="23"/>alio conceptu concipit de deo essentiam suam: &amp; ipsum esse: sicut alio &amp; alio conceptu concipit ipsum: &amp; quod 
+        <lb ed="#Ba" n="24"/>sit sapiens &amp; quod sit bonus. Et cum hoc intelligendum etiam, quod licet omni modo quo homo intelligit deum 
+        <lb ed="#Ba" n="25"/>intelligit eius esse: quia ipse non est nisi esse: sicut intelligens dei bonitatem intelligit eius sapientiam: quia idem 
+        <lb ed="#Ba" n="26"/>sunt in eo bonitas &amp; sapientia: quia tamen sicut est alia ratio bonitatis &amp; sapientiae: vt intelligens eius sa 
+        <lb ed="#Ba" n="27"/>pientiam sub ratione sapientiae non oportet quod simul intelligat eius bonitatem sub ratione bonitatis:  
+        <lb ed="#Ba" n="28"/>sic quia alia est ratio deitatis: alia vero esse eius: intelligens deum sub ratione deitatis non oportet quod  
+        <lb ed="#Ba" n="29"/>simul eum intelligat sub ratione esse: quia sub alia ratione intelligimus in deo quod est ens, &amp; ipsam essentiam 
+        <lb ed="#Ba" n="30"/>&amp; eius esse. Intelligitur enim ens tanquam habens essentiam &amp; esse ipso informatum. Per hunc enim mo-  
+        <lb ed="#Ba" n="31"/>dum vt dicit <name ref="#Boethius">Boethius</name>  in libro de hebdo. multa sunt quae actu separari non possunt: animo tamen &amp; cogi 
+        <lb ed="#Ba" n="32"/>tatione separantur: &amp; per hoc in illis quae simplicia sunt in re: &amp; habent intellectum simplicem de se: in  
+        <lb ed="#Ba" n="33"/>tellectus ea componit &amp; diuidit: secundum quod dicit Comment. super. xii. Metaph. In eis quae sunt forma 
+        <lb ed="#Ba" n="34"/>in materia, dispositio &amp; dispositum reducuntur ad vnum in esse: &amp; ad duo in consideratione, qua praedica- 
+        <lb ed="#Ba" n="35"/>tum differt a subiecto in propositionibus affirmatiuis categoricis. Intellectus enim natus est diuidere ad 
+        <lb ed="#Ba" n="36"/>unata in esse in ea ex quibus res componitur: sicut diuidit materiam a forma, &amp; formam a composito ex 
+        <lb ed="#Ba" n="37"/>materia &amp; forma: cum disponit habentem formam per formam. Intelligit enim vtraque adunata aliquo mo 
+        <lb ed="#Ba" n="38"/>do, &amp; differentia alio modo. verbi gratia: quando disponit hominem per rationalitatem: intelligit quod sub 
+        <lb ed="#Ba" n="39"/>iectum rationalitatis &amp; rationalitas idem sunt in adunatione: &amp; intelligit quod deferens ex eis est ali- 
+        <lb ed="#Ba" n="40"/>ud a delato. Dispositio autem idem est quod dispositum in rebus abstractis: sed potentia duo: quando intellectus 
+        <lb ed="#Ba" n="41"/>diuidit alterum ab altero. &amp; illa duo intelligo essentiam &amp; esse in omni creatura. Quando autem fuerit considerata 
+        <lb ed="#Ba" n="42"/>dispositio &amp; dispositum in eis quae non sunt in materia: tunc reducuntur ad vnum intentione omnibus modis: &amp; 
+        <lb ed="#Ba" n="43"/>nullus modus erit quo praedicatum distinguitur a subiecto scilicet in essentia rei: nisi secundum acceptionem nfam 
+        <lb ed="#Ba" n="44"/>scilicet quia idem accipitur secundum dispositionem &amp; dispositum. &amp; hoc intelligo in solo deo. vnde subdit. Et si intelle 
+        <lb ed="#Ba" n="45"/>ctus non accepeit in istis dispositionem &amp; dispositum: non posset intelligere naturas eorum neque determinare 
+        <lb ed="#Ba" n="46"/>eas &amp; magna differentia est inter ea quae differunt in esse &amp; in intellectu: &amp; quae differunt in intellectu solum. Vbi in  
+        <lb ed="#Ba" n="47"/>telligo quod omnis creatura differt in esse &amp; in intellectu: quia habet esse distinctum ab essentia in natura rei: &amp; 
+        <lb ed="#Ba" n="48"/>intellectus ea capit distincta: &amp; quod solus deus differt in intellectu tantum, sub alia. scilicet ratione apprehenden- 
+        <lb ed="#Ba" n="49"/>do eius essentiam: sub alia vero eius esse: &amp; sub alia eius sapientiam: sub alia vero eius bonitatem: vt 
+        <lb ed="#Ba" n="50"/>dictum est. Per haec patent obiecta. 
+      </p>
+      <p xml:id="vn58an-d1e1651-d1e274">
+        <lb ed="#Ba" n="51"/>⁋ Quia ergo primo arguitur: quod deum esse est conclusio quae potest demonstrari: ergo praedicatum dif- 
+        <lb ed="#Ba" n="52"/>fert a subiecto: vt possibile sit deum intelligere non cointelligedo ipsum esse: Dicendum quod verum est se 
+        <lb ed="#Ba" n="53"/>cundum rationem intellectus nostri diuersam in intelligendo: vt dictum est: vt intelligamus deum 
+        <lb ed="#Ba" n="54"/>simpliciter non cointelligendo compositionem esse ad ipsum: vel intelligendo ipsum sub ratione diuinitatis: 
+        <lb ed="#Ba" n="55"/>non cointelligendo ipsum sub ratione esse. Quanto enim tempore homo non potest, capere perfecte ipsam 
+   <!--279.xml-->
+        <pb ed="#Ba" n="132-v"/>
+        <lb ed="#Ba" n="1"/>diuinam essentiam, potest intelligere ipsam non cointelligendo rationem eius: aut ipsum esse. Si autem perfecte 
+        <lb ed="#Ba" n="2"/>caperet eam: quantuncumque intelligeret alia ratione essentiam: &amp; alia ipsum esse: nullo modo tamen intellige 
+        <lb ed="#Ba" n="3"/>ret essentiam non cointelligendo eius esse: &amp; ipsam esse. 
+      </p>
+      <p xml:id="vn58an-d1e1651-d1e298">
+        ⁋ Similiter dicendum ad secundum: quod quousque non  
+        <lb ed="#Ba" n="4"/>fuerit homini per se notum deum esse, ex imperfecta notitia ipsius essentiae potest cogitari essentia: non co 
+        <lb ed="#Ba" n="5"/>gitando rationem eius esse vel ipsam esse: quod non posset fieri perfecte cognoscendo essentiam, &amp; per se existente 
+        <lb ed="#Ba" n="6"/>noto deum esse. 
+      </p>
+      <p xml:id="vn58an-d1e1651-d1e307">
+        ⁋ Ad tertium: dicendum quod licet in deo idem sunt re &amp; intentione esse &amp; essentia: quia tamen diffe- 
+        <lb ed="#Ba" n="7"/>runt ratione ab eo: qui imperfecte nouit diuinam essentiam bene potest cogitare ipsam essentiam absque  
+        <lb ed="#Ba" n="8"/>eo quod cogitet eius esse sub ratione esse: vel ipsam esse, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="98-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1203"> <!-- alias="vn58an-a13q9" -->
+      <head xml:id="vn58an-d1e1203-Hd1e104">Quaestio 9</head>
+      <head xml:id="vn58an-d1e1203-Hd1e107" type="question-title">Utrum scriptores huius scientiae hoc est theologiae habebant perfectum intellectum eius</head>
+      <p xml:id="vn58an-d1e1203-d1e110">
+        <lb ed="#Ba" n="44"/>CIrca nonum arguitur: quod illi qui sacram scripturam conscripserunt: non persecte 
+        <lb ed="#Ba" n="45"/>eam intellexerunt. Primo sic. lonae. ii. dicitur quod ad praeceptum domini lonas prae- 
+        <lb ed="#Ba" n="46"/>dicauit, adhuc quadraginta dies &amp; Niniue subuertetur, quid secundum Glos, non  
+        <lb ed="#Ba" n="47"/>erat prophetia descendens de praescientia dei: sed comminatio ad correctionem, quod  
+        <lb ed="#Ba" n="48"/>tamen vt videtur lonas ignorauit credens ad literam fuisse prophetiam: quia se 
+        <lb ed="#Ba" n="49"/>quitur quod sedebat subter quaercum donec videret quod accideret ciuitati. ergo &amp; consimi 
+        <lb ed="#Ba" n="50"/>liter alii potuerunt ignorasse mysteria &amp; figuras, quae dominus eis reuelauit, quae  
+        <lb ed="#Ba" n="51"/>in hac scientia conscrip serunt. 
+      </p>
+      <p xml:id="vn58an-d1e1203-d1e130">
+        ⁋ Secundo sic. Hier. iiii. Hieremias. heu heu heu domine deus. ergo ne decepisti ppsopum 
+        <lb ed="#Ba" n="52"/>istum &amp; Hierusalem dicens pax erit vobis: &amp; ecce peruenit gladius vsque ad animam. vbi dicit Glos. Quia supra 
+   <!--212.xml-->
+        <pb ed="#Ba" n="99-r"/>
+        <lb ed="#Ba" n="1"/>dixit In tempore illo vocabunt Hierusalem solium domini: &amp; tamen nunc dicit Peribit cor Regis 
+        <lb ed="#Ba" n="2"/>&amp; caetera: turbatur propheta &amp; in se deum putat mentitum: nec intelligit illud longe post hoc fu- 
+        <lb ed="#Ba" n="3"/>turum. Si ergo Hiere. ignorauit quae conscripsit, &amp; alii ignorasse potuerunt. 
+      </p>
+      <p xml:id="vn58an-d1e1203-d1e147">
+        ⁋ Contra est illud quod  
+        <lb ed="#Ba" n="4"/>dicit Apostolus pro se &amp; pro aliis sacrae scripturae scriptoribus. i. Corinth. ii. Nos non spiritum hu 
+        <lb ed="#Ba" n="5"/>ius mundi accepimus: sed spiritum qui ex deo est, vt sciamus quae a deo donata sunt nobis: quae &amp; 
+        <lb ed="#Ba" n="6"/>loquimur. illa ergo sciuerunt quae locuti sunt: sed talia conscripserunt. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1203-d1e156">
+        <lb ed="#Ba" n="7"/>⁋ Dicendum ad hoc: quod error erat quorundam haereticorum prophetas &amp; sacrae scri 
+        <lb ed="#Ba" n="8"/>pturae conscriptores tanquam arreptitios loquutos fuisse: &amp; ita ea quae conscripserunt non intellexisse: si- 
+        <lb ed="#Ba" n="9"/>cut nec intelligunt arreptitii quae dicunt. Quorum errorem excludit Paulus in verbo praedicto. Nos non spiritum 
+        <lb ed="#Ba" n="10"/>huius mundi accepimus: in nobis scilicet loquentem: vt scribenda non intelligamus: &amp; non solum per nos, vt 
+        <lb ed="#Ba" n="11"/>per calamum conscribentem. Glos. Non spiritum huius mund id est spiritum phytonicum qui per Sibyllam lo- 
+        <lb ed="#Ba" n="12"/>quutus est. Sed accepimus spiritum qui ex deo est. Glo sid est spiritum sanctum, quo docemus sapientiam 
+        <lb ed="#Ba" n="13"/>quae de deo est. Et ideo dicitur. ii. Petri. i. Spiritu scton inspirati locuti sunt sancti dei homines. &amp; non solum inspi 
+        <lb ed="#Ba" n="14"/>rati ad cognitionem verborum: sed ad intellectum sententiarum. secundum quod dicit Glos. Ea sola doce 
+        <lb ed="#Ba" n="15"/>bant quae a spiritu sancto didicerant. Non solum autem verba docebant, sed mysteria &amp; intellectus expone- 
+        <lb ed="#Ba" n="16"/>bant. ergo &amp; illa a spiritu sancto didicerant. Aliter enim non fuisset eis facta perfecta reuelatio. Cum 
+        <lb ed="#Ba" n="17"/>enim secundum <name ref="#Augustine">Augustinus</name> in fine contra Adinm. tria sunt genera visionis: Vnum corporalis visionis 
+        <lb ed="#Ba" n="18"/>secundum oculos. Sicut vidit Abraham tres viros sub ilice Mambre: Alterum imaginariae: nam haec pars 
+        <lb ed="#Ba" n="19"/>nostra cum diuinitus assumitur multa nobis reuelantur: Sicut vidit Petrus discum cum variis 
+        <lb ed="#Ba" n="20"/>animalibus: Tertium vero genus visionis est secundum mentis intuitum quo intellecta conspiciu- 
+        <lb ed="#Ba" n="21"/>tur veritas atque sapientia: sine quo genere illa duo vel infructuosa sunt, vel etiam in errorem mittunt: 
+        <lb ed="#Ba" n="22"/>Scripturam ergo istam quae conscribentibus non infructuosa fuit: nec in errorem misit eos: non est 
+        <lb ed="#Ba" n="23"/>dicendum quando isto tertio genere visionis per reuelationem acceperint qui conscripserunt: &amp; ita eam 
+        <lb ed="#Ba" n="24"/>perfecte intellexerunt quantum pro tempore expediebat. vnde sequitur ibidem. Cum ea quae corporis sensi- 
+        <lb ed="#Ba" n="25"/>bus siue illi parti quae corporalium rerum imagines capit diuinitus monstrantur non solum sciuntur 
+        <lb ed="#Ba" n="26"/>his modis: sed etiam mente intelliguntur: tunc est perfecta reuelatio. Quid enim profuit Balthasar 
+        <lb ed="#Ba" n="27"/>regi quod manum scribentem an oculos suos in pariete conspexit: cui visioni quia non potuit attigere, mentis aspe- 
+        <lb ed="#Ba" n="28"/>ctu quaerebat adhuc videre quid viderat. Tali autem acie luminis praeditus Daniel qua ista intelliguntur, men 
+        <lb ed="#Ba" n="29"/>te vidit quod ille viderat corpore. Rursus illa parte quae imagines corporum capit, vidit somnum Na- 
+        <lb ed="#Ba" n="30"/>buchodonosor Rex: &amp; quoniam non habebat idoneum mentis oculum ad intelligendum quod vide 
+        <lb ed="#Ba" n="31"/>rat, ideo ad interpretandum visum suum aspectum quaesiuit alienum scilicet oculum Danielis. Danies 
+        <lb ed="#Ba" n="32"/>autem reuelante spiritu dei: &amp; quid ille vidit in somnis, ea parte vidit qua corporum capiuntur imagi 
+        <lb ed="#Ba" n="33"/>nes: &amp; quid significaret mente conspexit. Non est autem propheta dei veri &amp; summi, qui oblata di 
+        <lb ed="#Ba" n="34"/>uinitus visa vel solo corpore vel etiam illa parte spiritus videt qua capiuntur imagines: &amp; mente 
+        <lb ed="#Ba" n="35"/>non videt. Sed plerunque in scripturis sic posita inueniuntur quemadmodum visa sunt: non etiam 
+        <lb ed="#Ba" n="36"/>quemadmodum intellecta sunt: vt mentis visio in qua totus fructus est, exercendis lectoribus ser- 
+        <lb ed="#Ba" n="37"/>uetur. Sed ex multis quae aperte sunt scripta, manifestatur nobis quomodo illa intellexerunt quae sic 
+        <lb ed="#Ba" n="38"/>in libris posuerunt quomodo figurate illis demonstrata sunt. &amp; ideo <name ref="#Augustine">Augustinus</name> dixit in lib. eo- 
+        <lb ed="#Ba" n="39"/>dem. Apostoli omnia intelligentes pauca exposuerunt, vt ad easdem regulas caetera posteris intelligen 
+        <lb ed="#Ba" n="40"/>da relinquaerent. Et beatus Hieronymus in Prolo. Bibliae. Plerique stupent in domini doctrina, &amp; mirantur in Pe 
+        <lb ed="#Ba" n="41"/>tro &amp; loanne quomodo legem sciant: cum literas non didicerint. Quicquid enim aliis exercitatio &amp; 
+        <lb ed="#Ba" n="42"/>quottidiana in lege meditatio tribuere solet, illis hoc spiritus sanctus suggerebat: &amp; erant iuxta quod scri- 
+        <lb ed="#Ba" n="43"/>ptum est dociles deo. 
+      </p>
+      <p xml:id="vn58an-d1e1203-d1e245">
+        ⁋ Sed quia quaestio non solum quaerit vtrum intellexerunt quae scripserunt: sed  
+        <lb ed="#Ba" n="44"/>etiam vtrum perfecte intellexerunt: Dicendum ad hoc, quod perfectus intellectus duplex est: quidam  
+        <lb ed="#Ba" n="45"/>simpliciter perfectus &amp; absolute: quidam quo ad statum intelligentis. Secundo modo dicitur ille 
+        <lb ed="#Ba" n="46"/>perfecte intelligere qui tantum intelligit quantum intelligendum est &amp; expedit intelligere pro loco &amp; 
+        <lb ed="#Ba" n="47"/>tempore. Hoc modo generaliter quicunque sacri doctores qui spiritu sancto inspirati locuti sunt, per- 
+        <lb ed="#Ba" n="48"/>fecte intellexerunt quae scripserunt. Propter quod super illud primae Corinth. ii. Sciamus quae a deo do-  
+        <lb ed="#Ba" n="49"/>nata sunt nobis. dicit Glos. Inde probatur quod spiritum dei accepimus: quia hoc scimus quod vtique sci 
+        <lb ed="#Ba" n="50"/>re expedit. Sed quod omnes perfecte intelligant primo modo, hoc non oportet nisi in summe &amp; perfe- 
+        <lb ed="#Ba" n="51"/>ctissime spiritu sancto illustratis: sicut erat Moyses. Ad illum enim perfectum intellectum duo re- 
+        <lb ed="#Ba" n="52"/>quiruntur. Primum quod homo omnino veram expositionem intelligat quam scriptura sancta continere 
+        <lb ed="#Ba" n="53"/>potest: secundum quod quamlibet expositionem secundum omnes conditiones suas perfecte intelligat. secundum quod  
+        <lb ed="#Ba" n="54"/>Moyses perfecte intellexit quae scripsit. dicente <name ref="#Augustine">Augustinus</name> xii. conselius in fine. Moysen famulum tuum 
+   <!--213.xml-->
+        <pb ed="#Ba" n="99-v"/>
+        <lb ed="#Ba" n="1"/>scripturae dispensatorem spiritu tuo plenum ita honoremus, vt hoc eum te reuelante cum scriberet at 
+        <lb ed="#Ba" n="2"/>tendisse credimus, quod in eis maxime &amp; luce veritatis &amp; fruge vtilitatis excellit. ltaque cum alius dicit, hoc 
+        <lb ed="#Ba" n="3"/>sentit quod ego: &amp; alius, immo quod ego, religiosius me arbitror dicere: cur non vtrumque potius, si vtrumque ve 
+        <lb ed="#Ba" n="4"/>rum est: quid si tertium: &amp; quid si quartum: Et si quid omnino aliud verum quispiam in his ver- 
+        <lb ed="#Ba" n="5"/>bis videt, cur non omnia illa vidisse credatur per quem deus vnus sacras literas vera &amp; diuersa vi 
+        <lb ed="#Ba" n="6"/>suris multorum sensibus temperauit: Nolo itaque deus meus tam praeceps esse vt hoc illum de te me 
+        <lb ed="#Ba" n="7"/>ruisse non credam. Sensit igitur ille omnino in his verbis atque cogitauit cum ea scriberet quicquid  
+        <lb ed="#Ba" n="8"/>hic veri potuimus inuenire: &amp; quicquid nos non potuimus aut nondum possumus: sed tamen in  
+        <lb ed="#Ba" n="9"/>eis inueniri potest. Per haec patent obiecta. 
+      </p>
+      <p xml:id="vn58an-d1e1203-d1e298">
+        <lb ed="#Ba" n="10"/>⁋ Ad primum igitur de lona, Dicendum quod ipse mysticum sensum comminationis 
+        <lb ed="#Ba" n="11"/>bene intellexit in illis verbis. Sed alium sensum literalem forte ignorauit: ais scilicet deus literaliter intel- 
+        <lb ed="#Ba" n="12"/>lexit Niniuen esse subuertendam post quadraginta dies: &amp; ideo sedit extra ciuitatem expectans exim 
+        <lb ed="#Ba" n="13"/>tum rei &amp; euentum. 
+      </p>
+      <p xml:id="vn58an-d1e1203-d1e309">
+        ⁋ Patet similiter secundum de Hiere. ipse enim intellexit bona quae &amp; qualia promi 
+        <lb ed="#Ba" n="14"/>serat per eum dominus: licet ignorauit tempus quando promissio implenda erat: quia hoc scire eum 
+        <lb ed="#Ba" n="15"/>non expediebat quacunque de causa latente &amp; occulta, propter quam dominus illud prophetae suo 
+        <lb ed="#Ba" n="16"/>reuelare distulit. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

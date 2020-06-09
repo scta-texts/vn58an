@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="120-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe32920"> <!-- alias="vn58an-a57q2" -->
+      <head xml:id="vn58an-fe32920-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe32920-d1e107">
+        <lb ed="#Bb" n="47"/>CIrca secundum arguitur quod ingenitum non sit alia proprietas in patre ab illa quae  
+        <lb ed="#Bb" n="48"/>est generare siue paternitas. Primo sic. in diuinis non est minus simplex persona 
+        <lb ed="#Bb" n="49"/>essentia. sed propter essentiae simplicitatem omnes proprietates essentiae sibi 
+        <lb ed="#Bb" n="50"/>inuicem coincidunt, quia veritas est bonitas &amp; econuerso, quare &amp; propter perso 
+        <lb ed="#Bb" n="51"/>nae simplicitatem omnes proprietates personae vnius coincidunt, vt verum sit dice 
+        <lb ed="#Bb" n="52"/>re quod ingenitum sit generare aut paternitas, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe32920-d1e123">
+        ⁋ Secundo sic. ingenitum 
+        <lb ed="#Bb" n="53"/>in patre auctoritatem importat. dicente Hil. iiii. de Trinita. cap. iii. Nouit ecclesia 
+        <lb ed="#Bb" n="54"/>vnum deum ex quo omnia, &amp; vnum deum dominum nostrum lesum Christum per quem omnia, ab vno vni- 
+   <!--255.xml-->
+        <pb ed="#Bb" n="120-v"/>
+        <lb ed="#Bb" n="1"/>uersorum originem, per vnum cunctorum creatorem. In vno ex quo, auctoritatem innascibilitatis in-  
+        <lb ed="#Bb" n="2"/>telligit. Et cap. v. lpse enim pater eius quem genuit auctor ostenditur, id habens nomen quod neque na 
+        <lb ed="#Bb" n="3"/>tum neque ex alio profectum intelligatur: ex quo is qui genitus est subsistere docetur. Sed pater aucto 
+        <lb ed="#Bb" n="4"/>ritatem principalem non habet nisi paternitate &amp; generatione qua respicit alium, non est enim auctori- 
+        <lb ed="#Bb" n="5"/>tas nisi ad alium qui habet aliquod ab auctore. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe32920-d1e145">
+        ⁋ Tertio sic, &amp; est ratio Praepositini. eo quo  
+        <lb ed="#Bb" n="6"/>pater est pater est haec persona. sed eo quo est haec persona est innascibilis: ergo eo quo pater est pa- 
+        <lb ed="#Bb" n="7"/>ter, pater est innascibilis: innascibilitas ergo est paternitas. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe32920-d1e153">
+        ⁋ Quarto sic. secundum quod di-  
+        <lb ed="#Bb" n="8"/>cit <name ref="#Augustine">Augustinus</name> de fide ad Petrum, non est dicendum spiritum sanctum ingenitum, ne duos esse pa- 
+        <lb ed="#Bb" n="9"/>tres confiteri compellamur. ad hoc autem non compelleremur nisi innascibilitas esset paternitas: vt spi 
+        <lb ed="#Bb" n="10"/>ritus sanctus esset pater innascibilitate, sicut &amp; ipse pater paternitate. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe32920-d1e165">
+        ⁋ In contrarium est: quo  
+        <lb ed="#Bb" n="11"/>niam vt <name ref="#Augustine">Augustinus</name> dicit. v. de triniitate. si filium non generaret nihil prohiberet eum dicere ingenitum. 
+        <lb ed="#Bb" n="12"/>non autem diceretur pater, vt infra videbitur. ergo &amp;c. 
+        <lb ed="#Bb" n="13"/>
+      </p>
+      <p xml:id="vn58an-fe32920-d1e177">
+        ⁋ Aliqui dicunt secundum quod recitat Praepositinus, quod id quod pater significat affir- 
+        <lb ed="#Bb" n="14"/>mando, significat non genitus vel ingenitus negando: &amp; propter hoc dicunt quod ingenitum non signifi- 
+        <lb ed="#Bb" n="15"/>cat aliud quam paternitas. Et quod vult <name ref="#Augustine">Augustinus</name> quod alia est notio qua pior est pater: alia vero quae est ingeni 
+        <lb ed="#Bb" n="16"/>tus, exponunt sic. i. alio modo notificatur pater per hoc nomen pater, alio modo per hoc nomen ingenitus 
+        <lb ed="#Bb" n="17"/>Variis enim modis in sacra scriptura notificantur personae, nec necesse est esse tot proprietates quot  
+        <lb ed="#Bb" n="18"/>vocabula quibus notificantur. Quod non est verum: quia aliqua ratio dignitatis importatur nomine in-  
+        <lb ed="#Bb" n="19"/>geniti alia quam nomine patris: quia vna earum ex ratione qua proprietates sunt, non habet habitudinem 
+        <lb ed="#Bb" n="20"/>ad aliam. solummodo enim ratione naturae diuinae contingit quod non est ingenitum nisi generans: nec 
+        <lb ed="#Bb" n="21"/>econuerso: nec potest esse, vt patet ex praedictis in quaestione praecedente, &amp; amplius dicetur in se- 
+        <lb ed="#Bb" n="22"/>uenti quaestione. 
+      </p>
+      <p xml:id="vn58an-fe32920-d1e202">
+        ⁋ Dicendum ergo quod alia est proprietas patris ingenitum, &amp; alia paternitas: quia pa- 
+        <lb ed="#Bb" n="23"/>ternitas est proprietas qua pater est, &amp; qua habet respectum positiuum ad illum qui a se est: &amp; inge 
+        <lb ed="#Bb" n="24"/>nitum est proprietas qua habet respectum negatiuum ad non a quo est, secundum modum praedictum. 
+        <lb ed="#Bb" n="25"/>&amp; est vtrumque dignitatis ratio in patre, vt dictum est. 
+        <lb ed="#Bb" n="26"/>
+      </p>
+      <p xml:id="vn58an-fe32920-d1e213">
+        ⁋ Ad primum in oppositum: quod omnens proprietates essentiae coincidunt, ergo &amp; 
+        <lb ed="#Bb" n="27"/>sonae: Dicendum quod non est simile, quia secundum praedicta proprietates essentiae differunt tantum se 
+        <lb ed="#Bb" n="28"/>cundum rationem &amp; per intellectus considerationem: non autem proprietates personae: sed differunt ex na 
+        <lb ed="#Bb" n="29"/>tura &amp; habitudine rei ex se praeter intellectus considerationem, secundum praedicta. Propter quod quantum est ex 
+        <lb ed="#Bb" n="30"/>natura rei coincidunt proprietates essentiae non autem personae. Nec est illius coincidentiae causa simplicitas ex 
+        <lb ed="#Bb" n="31"/>parte proprietatum essentiae: nec istarum non coincidentia repugnat simplicitati ex parte personae: quia  
+        <lb ed="#Bb" n="32"/>non sunt nisi respectus in ea: qui nullam compositionem ponunt, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe32920-d1e229">
+        ⁋ Ad secundum, quod secundum Hila. 
+        <lb ed="#Bb" n="33"/>Ecclesia in vno ex quo auctoritatem innascibilitatis intelligit &amp;c. Dicendum quod reuera patri convenit aucto 
+        <lb ed="#Bb" n="34"/>ritas ex hoc ipso quod alius habet esse ab ipso: non autem ex eo quod non est ab alio. Nihil ei est auctoritas nisi quasi quae  
+        <lb ed="#Bb" n="35"/>dam maioritas illius cuius est auctoritas respectu alterius, &amp; hoc vniversalex eo solum quod ab hoc ille habet esse: secundum  
+        <lb ed="#Bb" n="36"/>per in diuinis pater habet auctoritatem quasi maioritatl super filium. dicente Hila. xi. de triniitate. cap. v. In eo quod  
+        <lb ed="#Bb" n="37"/>pater maior est, confessionem paternae auctoritatis intellige. Dum non a se facit id quod agit secundum natiuita- 
+        <lb ed="#Bb" n="38"/>tem, sibi pater est auctor. Et per eundem modum pater &amp; filius habent auctoritatem respectu spiri 
+        <lb ed="#Bb" n="39"/>tus sancti. dicente Hila. ii. de triniitate. cap. xv. De spiritu nec tacere nec loqui necesse est: qui a patre &amp; 
+        <lb ed="#Bb" n="40"/>filio auctoribus confitendus est. Vel dicitur auctoritas non solum quia quasi maioritas est huius ad hunc 
+        <lb ed="#Bb" n="41"/>quia hic ab illo: sed etiam quia in substantia ille a quo aliud est, est supra illud quod ab ipso est. &amp; secun 
+        <lb ed="#Bb" n="42"/>dum hoc dicitur quod trinitas auctoritatem habet super creaturas. Vnde vbi dicit Hila. In vno ex quo  
+        <lb ed="#Bb" n="43"/>auctoritatem innascibilitatis intelligit, continuo subdit. In vno per quem, potestatem nihil differen- 
+        <lb ed="#Bb" n="44"/>tem ab auctore veneratur: cum ex quo &amp; per quem ad id quod creatur &amp; in his quae creata sunt 
+        <lb ed="#Bb" n="45"/>communionis auctoritas sit. Vnde quia patri ex eo quod est ingenitus non convenit quod alius sit ab ipso: sed po- 
+        <lb ed="#Bb" n="46"/>tius ex eo quod est piti: idcirco auctoritas, non convenit ei ratione ingeniti, sed ratione paternitatis: sed ratione in 
+        <lb ed="#Bb" n="47"/>geniti convenit ei quod non habet sibi auctorem. Vnde illud dictum Hila. auctoritatem innascibilitatis, debet intelli 
+        <lb ed="#Bb" n="48"/>gi resoluendo substantiuum in adiectiuum sub hoc sensu. auctoritatem innascibilitatis id is. innascibi- 
+        <lb ed="#Bb" n="49"/>lis. Verum est enim (vt dictum est) quod auctoritas debetur innascibili, sed non innascibilitati: vt innasci 
+        <lb ed="#Bb" n="50"/>bilitas sit ipsa auctoritas: vel quod ratione innascibilitatis conueniat ei auctoritas: sed potius ratione 
+        <lb ed="#Bb" n="51"/>paternitatis. Et hoc secundum modum quo illud aliud dictum eius. xi. de Trinitate cap. xv. Deus 
+        <lb ed="#Bb" n="52"/>quidem piter natiuitatis est. debet exponi, idest illius quid natus est. Sed contra videtur esse dictum sequens. Ipse 
+        <lb ed="#Bb" n="53"/>enim piter eius quem genuit auctor ostenditur. Dicendum quod in diuinis duplex est ratio siue modus auctoritatis: vnus prim 
+   <!--256.xml-->
+        <pb ed="#Bb" n="121-r"/>
+        <lb ed="#Bb" n="1"/>cipalis, alter non principalis: secundum quod in eis est duplex productio, vna principalis, &amp; alia non princi- 
+        <lb ed="#Bb" n="2"/>palis secundum supra determinata. Auctoritas principalis est illa quae prima est, &amp; illius qui non ha 
+        <lb ed="#Bb" n="3"/>bet respectum ad auctoritatem alterius: &amp; ista propria est patri, &amp; ei soli convenit. Non principalis 
+        <lb ed="#Bb" n="4"/>est illa quae est communis patri &amp; filio respectu spiritus sancti: quae est secunda respectu illius quae est pro 
+        <lb ed="#Bb" n="5"/>pria patri. Est ergo intelligendum quod auctoritas principalis ab alio habet quod sit auctoritas: ab alio 
+        <lb ed="#Bb" n="6"/>quod sit principalis. Quia sit auctoritas habet ab hoc quod alius habet esse a persona cuius est. &amp; hoc mo-  
+        <lb ed="#Bb" n="7"/>do pater esset auctor filii etsi non esset innascibilis: sed natus ab alio. &amp; sic sola paternitate est: au 
+        <lb ed="#Bb" n="8"/>ctor. Quia autem sit principalis, habet ab hoc quod est prima. Cuius duplex ratio est. Vna positiua per quam 
+        <lb ed="#Bb" n="9"/>habet esse, scilicet deitatis natura, cuius est primo pullulare modo naturae. Alia negatiua per quam 
+        <lb ed="#Bb" n="10"/>ostenditur esse: scilicet quia habens eam non respicit auctoritatem respectu sui in aliquo alio. &amp; quo ad  
+        <lb ed="#Bb" n="11"/>hoc scilicet pater est auctor innascibilitate. id est quod sit auctor principalis: vt principalitas respiciat 
+        <lb ed="#Bb" n="12"/>dignitatem quam habet ex natura deitatis, &amp; ostenditur eam habere ex hoc quod non est ab alio: &amp; 
+        <lb ed="#Bb" n="13"/>absoluta auctoritas respiciat dignitatem qua alius est ab ipso. Vnde quia ista principalitas non  
+        <lb ed="#Bb" n="14"/>est proprie aliquid auctoritatis: sed potius conditio quaedam ipsius: per quam ostenditur eius diffe 
+        <lb ed="#Bb" n="15"/>rentia ad omnem aliam auctoritatem: quia etiam non habet esse propter negationem innascibilitatis: sed  
+        <lb ed="#Bb" n="16"/>ostendi tantum: ideo Hila. proprie loquens non dicit, lpse pater eius quem genuit auctor est: sed  
+        <lb ed="#Bb" n="17"/>ostenditur auctor. Secundum tamen aliquos libros litera illa non est in Hila. sed ista. Ipso quo pater dicitur 
+        <lb ed="#Bb" n="18"/>eius quem genuit auctor ostenditur. &amp; clarum est quod illud est paternitas, non autem innascibilitas. 
+      </p>
+      <p xml:id="vn58an-fe32920-d1e321">
+        ⁋ Ad 
+        <lb ed="#Bb" n="19"/>tertium quod pater eo quo est haec persona, est innascibilis: Dicendum quod bene verum est quod ille qui est haec per- 
+        <lb ed="#Bb" n="20"/>sona est innascibilis: quia sese de necessitate concomitantur in eodem paternitas &amp; innascibilitas. 
+        <lb ed="#Bb" n="21"/>Primum enim producens necessario est non ab alio productum. Paternitas autem importat primam ratio 
+        <lb ed="#Bb" n="22"/>nem producendi: &amp; innascibilitas importat rationem non ab alio producti. Alia tamen est ratio huius 
+        <lb ed="#Bb" n="23"/>&amp; illius: propter quod vna harum proprietatum potest esse qua pater est haec persona vt paternitas: quia  
+        <lb ed="#Bb" n="24"/>ipsa est constitutiua personae: vt infra videbitur: cum tamen non sit ratio alterius proprietatis sine 
+        <lb ed="#Bb" n="25"/>qua persona illa habet denominari a proprietate illa. propter quod illa non est vera, pater quo est haec 
+        <lb ed="#Bb" n="26"/>persona est innascibilis: sed illa est vera, qui est haec persona, est innascibilis. 
+      </p>
+      <p xml:id="vn58an-fe32920-d1e341">
+        ⁋ Per idem responden- 
+        <lb ed="#Bb" n="27"/>dum est ad quartum. <name ref="#Augustine">Augustinus</name> enim non dicit: Non est dicendum spiritum sanctum ingeni- 
+        <lb ed="#Bb" n="28"/>tum, ne duos esse patres confiteri compellamur: quia pater eo quod est ingenitum sit pater, secun- 
+        <lb ed="#Bb" n="29"/>dum quod processit obiectio: sed quia necessario sese concomitantur in eadem persona paternitas 
+        <lb ed="#Bb" n="30"/>&amp; ingenitum. propter quid si essent plures ingeniti secundum modum quo est proprietas patris, ne- 
+        <lb ed="#Bb" n="31"/>cessario essent plures patres. 
+      </p>
+      <p xml:id="vn58an-fe32920-d1e358">
+        ⁋ Quomodo autem intelligendum sit dictum in ratione ad con- 
+        <lb ed="#Bb" n="32"/>trarium, patet ex determinatis in praecedente quaestione.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

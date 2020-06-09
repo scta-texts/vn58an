@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="179-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2149"> <!-- alias="vn58an-a30q3" -->
+      <head xml:id="vn58an-d1e2149-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e2149-Hd1e107" type="question-title">Utrum Deus possit cogitari non esse</head>
+      <p xml:id="vn58an-d1e2149-d1e110">
+        <lb ed="#Ba" n="19"/>lrca tertium arguitur quod deus non potest cogitari non esse. Primo sic ratione An- 
+        <lb ed="#Ba" n="20"/>selis in prosol. Id quo nihil potest cogitari maius, non potest cogitari non esse. Deus 
+        <lb ed="#Ba" n="21"/>est huiusmodi. ergo &amp;c. Minor patet ex ratione nominis secundum praedeterminata. Ma 
+        <lb ed="#Ba" n="22"/>ior euidens est. quoniam quod non potest cogitari non esse, necessario melius est eo quod potest 
+        <lb ed="#Ba" n="23"/>cogitari non esse, vt dicit <name ref="#Anselm">Anselmus</name> &amp; probat. 4. rationibus contra insipientem, vt pa- 
+        <lb ed="#Ba" n="24"/>tet inspicienti. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e129">
+        ⁋ Secundo sic. id non potest cogitari non esse in quo sunt indifferen 
+        <lb ed="#Ba" n="25"/>tia esse &amp; essentia: quia res non cogitatur nisi cogitando eius essentiam. tale ergo  
+        <lb ed="#Ba" n="26"/>non cogitatur nisi cogitetur esse, Deus est huiusmodi, vt dictum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e137">
+        ⁋ Tertio sic. illud quod ha 
+        <lb ed="#Ba" n="27"/>bet esse verissimum non potest cogitari non esse: quia verius habet esse quod non potest cogitari non esse: 
+        <lb ed="#Ba" n="28"/>quam quod potest cogitari non esse: quia quanto esse minus potest absolui a re: &amp; inesse: &amp; intelligere: tanto 
+        <lb ed="#Ba" n="29"/>habet esse verius, vt patebit infra de immutatione dei. Deus habet esse verissimum, quia est ipsum es 
+        <lb ed="#Ba" n="30"/>se per essentiam, vt dictum est: &amp; omnia alia habent ab eo esse per participationem, vt infra dicetur. ergo  
+        <lb ed="#Ba" n="31"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e150">
+        ⁋ Ad oppositum Primo sic, quid nec est nec fuit nec erit potest cogitari esse, vt aliquod generabile 
+        <lb ed="#Ba" n="32"/>quod nunquam generabitur. ergo econtra quod est semper fuit &amp; semper erit potest cogitari non esse. Hoc au 
+        <lb ed="#Ba" n="33"/>x tem est solus deus, vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e157">
+        ⁋ Secundo sic. Dam. lib. i. cap. iii. Tntimn praeualuit perniciosa hominium na 
+        <lb ed="#Ba" n="34"/>turae malitia vt deum dicant non esse. Dixit enim, vt ait Dauid, insipiens in corde suo non est deus. 
+        <lb ed="#Ba" n="35"/>Sed non dicitur nisi quod cogitatur: quia verbum mentis est cogitationis conceptio. secundum Au 
+        <lb ed="#Ba" n="36"/>gust. de triniitate. quod ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e166">
+        ⁋ Tertio sic ex eodem per <name ref="#Anselm">Anselmus</name> prosoi. cap. iiii. vbi illud tractans Dixit insi 
+        <lb ed="#Ba" n="37"/>piens in corde suo non est deus, arguit sic. Si dixit hoc, aut dixit quod cogitare potuit: &amp; habeo proposi 
+        <lb ed="#Ba" n="38"/>tum: aut quid cogitare non potuit. sed quomodo cogitare non potuit quod dixit, cum idem sit dicere in  
+        <lb ed="#Ba" n="39"/>corde &amp; cogitare: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e178">
+        ⁋ Quarto sic. quanto aliquid magis cogitatur inesse alicui tanto minus 
+        <lb ed="#Ba" n="40"/>potest cogitari remoueri ab eodem. verbi gratia: Quanto aliquid magis scitur esse calidum: tanto 
+        <lb ed="#Ba" n="41"/>minus potest cogitari non esse calidum: &amp; quanto minus scitur esse calidum, tanto magis potest cogitari 
+        <lb ed="#Ba" n="42"/>non esse calidum. creatura magis scitur esse ab homine quam deus: quia per esse creaturae probatur es 
+        <lb ed="#Ba" n="43"/>se dei. Sed homo potest cogitare de qualibet creatura ipsam non esse, vt infra videbitur. ergo mul- 
+        <lb ed="#Ba" n="44"/>to magis potest cogitare de deo ipsum non esse. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e191">
+        <lb ed="#Ba" n="45"/>⁋ Ad hoc dicendum: quod secundum praedicta sicut quaestio de cognoscendo de deo an  
+        <lb ed="#Ba" n="46"/>sit potest esse de incomplexo, &amp; de esse dei in natura sua qua est id quod est: vel de complexo &amp; de esse 
+        <lb ed="#Ba" n="47"/>dei in anima cogitante: Possumus enim scire hanc compositionem qua dicimus Deus est: esse veram 
+        <lb ed="#Ba" n="48"/>in anima: licet non sciamus naturam illius esse quod dei est: Consimiliter quaestio de cogitando deum 
+        <lb ed="#Ba" n="49"/>esse potest esse quaestio de incomplexo: an scilicet contingit cogitare dei entitatem sub esse quo est id quod est: vel de con 
+        <lb ed="#Ba" n="50"/>plexo, an scilicet contingit cogitare compositionem esse cum deo esse veram: &amp; consimiliter quaestio 
+        <lb ed="#Ba" n="51"/>de non cogitando deum non esse potest esse de incomplexo: an scilicet contingit cogitare non entitatem dei ali- 
+        <lb ed="#Ba" n="52"/>quam quae possit ei conuenire secundum naturam eius in se: vel de complexo: an scilicet contingit cogi- 
+        <lb ed="#Ba" n="53"/>tare per diuisionem in anima esse remoueri a deo, siue non entitatem inesse eidem. Primo modo  
+   <!--374.xml-->
+        <pb ed="#Ba" n="180-r"/>
+        <lb ed="#Ba" n="1"/>est impossibile cogitare deum non esse: quia nihil in natura rei potest cogitari non esse nisi possibile 
+        <lb ed="#Ba" n="2"/>est cogitare seorsum ipsam rem vt res est &amp; essentia quaedam in se: &amp; seorsum ipsum esse: &amp; sic cogitare 
+        <lb ed="#Ba" n="3"/>ipsam essentiam concogitando ei conuenire non esse: vel non convenire esse: vnum remouendo ab al 
+        <lb ed="#Ba" n="4"/>tero per negationem: sicut contingit in creaturis: quae quandoque habent esse, quandoque non esse: quoniam in eis differunt 
+        <lb ed="#Ba" n="5"/>essentia &amp; esse. Quare cum vt dictum est supra, in deo penitus idem sunt re &amp; intentione essentia &amp; esse: 
+        <lb ed="#Ba" n="6"/>vt non possit capi ab intellectu seorsum essentia praeter esse: hoc ideo modo cogitare deum non esse 
+        <lb ed="#Ba" n="7"/>cogitando scilicet non esse siue non entitatem circa diuinam essentiam absolute intellectam, est incompossibile: quia 
+        <lb ed="#Ba" n="8"/>ipsa essentia non est nisi ipsum esse. aliter enim compositionem aliquam faceret esse cum essentia in deo: si- 
+        <lb ed="#Ba" n="9"/>cut facit in creaturis: quod impossibile est, vt visum est supra. Secundo autem modo cogitare deum non esse: 
+        <lb ed="#Ba" n="10"/>contingit dupliciter, vt distinguit <name ref="#Anselm">Anselmus</name> in proslogion vno scilicet modo cogitando vocem qua dicitur deus non esse 
+        <lb ed="#Ba" n="11"/>alio modo cogitando ipsam rem significatam per vocem. Aliter enim (vt dicit) cogitatur res cum vox eam significans 
+        <lb ed="#Ba" n="12"/>cogitatur. Alio modo cum idipsum quod res est intelligitur. Illo itaque modo, vt dicit, &amp; verum dicit, potest co 
+        <lb ed="#Ba" n="13"/>gitari deus non esse: isto vero minime. Reuera cogitando vnionem vocum bene potest aliquis co- 
+        <lb ed="#Ba" n="14"/>gitare deum non esse: nihil scilicet intelligendo de rebus, secundum quod incontinentes existentes in passione 
+        <lb ed="#Ba" n="15"/>dicunt verba sapientum de agibilibus non intelligentes ea quae dicunt, cum ex passione contraria 
+        <lb ed="#Ba" n="16"/>agunt, vt vult Philosophus. vii. Ethicorum. Cogitando vero ipsam rem quae vocibus significatur, subdistinguendum: licet 
+        <lb ed="#Ba" n="17"/>Anselmus non subdistinguat: quia aut cogitans cogitat assentiendo ei quod cogitat: aut non. Primo modo simplici 
+        <lb ed="#Ba" n="18"/>ter contingit cogitare deum non esse quemcumque, quantumcumque cognoscat &amp; cogitet rem voce significatam 
+        <lb ed="#Ba" n="19"/>Licet enim affirmatio &amp; negatio non possint esse simul in eadem re extra animam quo ad esse rei verum: 
+        <lb ed="#Ba" n="20"/>bene tamen possunt simul esse in anima quo ad esse rei diminutum, vt vult Philosophus. vi. metaphy- 
+        <lb ed="#Ba" n="21"/>sicae. Super quem locum dicit <name ref="#Averroes">Commentator</name> quod <name ref="#Aristotle">Philosophus</name> intendit declarare diuersitatem duorum entium 
+        <lb ed="#Ba" n="22"/>scilicet entis quod est in intellectu: &amp; entis quod est extra intellectum. Quod enim est in anima, contingit vt re 
+        <lb ed="#Ba" n="23"/>cipiat duo opposita simul: quod autem est extra animam, non: quoniam anima intelligit duo opposita insimul 
+        <lb ed="#Ba" n="24"/>materia autem recipit contraria successiue. Vnde contradictoria simul intelliguntur &amp; cogitantur 
+        <lb ed="#Ba" n="25"/>scilicet deum esse: &amp; deum non esse. Sed vnum cum assensu, alterum vero sine assensu. Secundo autem mo-  
+        <lb ed="#Ba" n="26"/>do adhuc subdistinguendum: quia cogitans cum assensu aut intelligit quid per vocem significa- 
+        <lb ed="#Ba" n="27"/>tur distincte &amp; in particulari cum dicitur deus non est: aut non: sed solum confuse &amp; in vniuersali. Si 
+        <lb ed="#Ba" n="28"/>primo modo, nullus omnino potest cogitare deum non esse: quia praedicatum, vt dictum est supra, 
+        <lb ed="#Ba" n="29"/>est de intellectu subiecti: &amp; ita sic cogitans subiectum necessario cogitat in ipso praedicatum. Qua-  
+        <lb ed="#Ba" n="30"/>re siquis assentiendo cogitaret deum non esse, postquam consensit affirmationi: cum quicquid affirmat de ali 
+        <lb ed="#Ba" n="31"/>quo affirmatio: negatio id ab eodem remouet: idem affirmaret &amp; negaret assentiendo vtrique simul: 
+        <lb ed="#Ba" n="32"/>quod est impossibile: quia de quolibet affirmatio vel negatio &amp; non simul de eodem, neque in re neque in intelle 
+        <lb ed="#Ba" n="33"/>ctus assertione, vt probat Philosophus. x. meta. Nullus ergo intelligens rem quae deus est, distincte &amp; in particulari, potest 
+        <lb ed="#Ba" n="34"/>cogitare cum assertione quia non est: quamquam verba dicat in corde suo. Et hoc est quod dicit <name ref="#Anselm">Anselmus</name> declarando per  
+        <lb ed="#Ba" n="35"/>simile. Nullus (inquit) intelligens id quod est ignis &amp; aqua, potest cogitare ignem esse aquam secun 
+        <lb ed="#Ba" n="36"/>dum res, licet secundum voces. lta ergo nemo qui intelligit id ens quod est deus, potest cogitare quia 
+        <lb ed="#Ba" n="37"/>deus non est: licet haec verba dicat in corde suo. Et statim ad huius probationem inducit quoddam medium supra in 
+        <lb ed="#Ba" n="38"/>ductum, quod fundatur super hoc scilicet quia praedicatum est de intellectu subiecti, dicens, Deus enim est id quo ma-  
+        <lb ed="#Ba" n="39"/>ius cogitari non potest, quod qui bene intelligit, vtique intelligit idipsum sic esse vt nec cogitare queat non 
+        <lb ed="#Ba" n="40"/>esse. Qui ergo (vt dicit) intelligit sic esse deum, nequit eum non esse cogitare. Si secundo modo 
+        <lb ed="#Ba" n="41"/>tunc distinguendum est de cogitatione: aut enim sumitur cogitatio proprie pro actione partis intel 
+        <lb ed="#Ba" n="42"/>lectiuae purae, quae in asserendo solummodo est verorum: aut pro actione intellectus phantastica &amp; 
+        <lb ed="#Ba" n="43"/>rerum ignorantia decepti. Primo modo adhuc non contingit cogitare cum assertione deum non esse: 
+        <lb ed="#Ba" n="44"/>quia hoc in talis intellectus comprehensione cadere non potest: quia in rerum natura non potest esse. Secundo autem 
+        <lb ed="#Ba" n="45"/>modo bene contingit. Intelligens enim in generali hoc nomine deus significari solummodo quandam essentiam omnium nobilis 
+        <lb ed="#Ba" n="46"/>simam, non cointelligendo in nobilitate eius includi ratione ipsius esse: bene potest intellectu phantasti 
+        <lb ed="#Ba" n="47"/>co &amp; ignorante intelligere deum non esse: quia talis intellectus intelligit diuinam essentiam ad mo-  
+        <lb ed="#Ba" n="48"/>dum essentiae alicuius creaturae, vt videlicet cui esse adueniat: non quae sit ipsum esse. Sed tali in  
+        <lb ed="#Ba" n="49"/>tellectu contingit intelligi deum non esse dupliciter: aut explicite: aut implicite. Explicite adhuc du 
+        <lb ed="#Ba" n="50"/>pliciter. vno modo conuertendo intellectum in intelligendo deum ad aliquod nobile in creaturis existens 
+        <lb ed="#Ba" n="51"/>aestimando illud esse deum. aut ad aliquod in imaginatione excedens in nobilitate omnes creaturas quae in es 
+        <lb ed="#Ba" n="52"/>se conspiciuntur. Cum enim vt dicit <name ref="#Augustine">Augustinus</name> primo de doctrina Christiana, omnes hoc deum 
+        <lb ed="#Ba" n="53"/>esse consentiunt quod caeteris rebus omnibus anteponunt, vt aliquid quo nihil sit melius atque subli- 
+        <lb ed="#Ba" n="54"/>mius illa cogitatione conentur attingere: illi ergo qui aliquam creaturam excellentem caete- 
+        <lb ed="#Ba" n="55"/>ris deum putant siue corpoream siue incorpoream, sicut omnem creaturam inquantum crea- 
+   <!--375.xml-->
+        <pb ed="#Ba" n="180-v"/>
+        <lb ed="#Ba" n="1"/>tura est, possunt cogitare non esse: sic &amp; idquid cogitant deum. Illi vero qui omnibus creaturis non so 
+        <lb ed="#Ba" n="2"/>lum corporalibus verunetiam spiritualibus in esse constitutis per imaginationem deum praeferunt: &amp; tamen tam 
+        <lb ed="#Ba" n="3"/>quam creaturam nobilem cogitant, quam in rerum natura existere non conspiciunt: similiter bene cogita- 
+        <lb ed="#Ba" n="4"/>re eum non esse possunt. secundum quod dicit <name ref="#Augustine">Augustinus</name> in originali super illud Psal. lii. Dixit insipiens in cor 
+        <lb ed="#Ba" n="5"/>de suo non est deus. Perpauci (inquit) sunt: &amp; difficile est vt incurramus in hominem qui dicat in  
+        <lb ed="#Ba" n="6"/>corde suo non est deus: tamen sic pauci sunt, vt inter multos timendo hoc dicere, in corde suo di- 
+        <lb ed="#Ba" n="7"/>cant: quia ore suo dicere non audent. Nec enim vt dicit super Psalmum. xiii. ipsi sacrilegi &amp; detestan- 
+        <lb ed="#Ba" n="8"/>di quidam Philosophi qui peruersa &amp; falsa de deo sentiunt, ausi sunt dicere non est deus. Ideo ergo 
+        <lb ed="#Ba" n="9"/>dixit in corde suo: quia nemo hoc audet dicere etiam si ausus fuerit cogitare. Implicite vero deum 
+        <lb ed="#Ba" n="10"/>non esse cogitant quicumque aliquid deo indignum de ipso deo vel deo inesse cogitant. De quibus suba 
+        <lb ed="#Ba" n="11"/>dit in dicto Psal. lii. Rarum hominum genus qui dicant in corde suo non est deus. At vero alio in-  
+        <lb ed="#Ba" n="12"/>tellectu discussum inuenitur esse in pluribus. Inspiciamus facta flagitiosorum, facinorosorum, scelera 
+        <lb ed="#Ba" n="13"/>torumque hominum: isti tales sunt vt dicant in corde suo non est deus. Tales conuinco: facta sua pla 
+        <lb ed="#Ba" n="14"/>cere deo arbitrantur: non est autem deus nisi cui displicet iniquitas: tu ergo cum putas ei placere ii- 
+        <lb ed="#Ba" n="15"/>quitatem: negas deum: cum dicis in corde tuo, faue deus iniquitatibus meis, nihil aliud dicis quam non 
+        <lb ed="#Ba" n="16"/>est deus. Et quod hoc non dicant in corde suo nec isti nec praecedentes nisi intellectu erroneo phantasti 
+        <lb ed="#Ba" n="17"/>co &amp; obumbrato, probat <name ref="#Augustine">Augustinus</name> per sequentem versum eiusdem Psal. dicens. Corrupti sunt &amp; 
+        <lb ed="#Ba" n="18"/>abominabiles facti sunt iniquitatibus suis. Sed primo vide illos corruptos, vt possint dicere in cor 
+        <lb ed="#Ba" n="19"/>de suo non est deus. Praemisso enim versu, Dixit imprudens in corde suo non est deus: &amp; tanquam causae quae  
+        <lb ed="#Ba" n="20"/>rerentur vnde hoc possit dicere imprudens, subiecit. Corrupti sunt &amp; abominabiles facti sunt &amp;c. vbi 
+        <lb ed="#Ba" n="21"/>Psal. xiii. habet In affectionibus suis. vbi dicit <name ref="#Augustine">Augustinus</name> ipsae sunt affectiones quae corrumpunt ani 
+        <lb ed="#Ba" n="22"/>mam: &amp; sic excaecant vt possit imprudens dicere in corde suo, non est deus. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e415">
+        <lb ed="#Ba" n="23"/>⁋ Ad primum in oppositum quod potest cogitari esse id quod nec est: nec fuit: nec erit 
+        <lb ed="#Ba" n="24"/>&amp;c. Dicendum secundum praedicta, quod est non ens aliquid quod est purum non esse: nec dicit rem aut 
+        <lb ed="#Ba" n="25"/>essentiam. de quo dictum est supra quod de ipso non potest esse scientia. tale non ens non potest cogita 
+        <lb ed="#Ba" n="26"/>ri esse nisi falsa assertione phantastica. &amp; sic concessum est quod deus ab insipienti potest cogitari non  
+        <lb ed="#Ba" n="27"/>esse. Aliud vero est non ens actu, ens tamen in potentia, quod dicit rem &amp; essentiam quae est suscepti 
+        <lb ed="#Ba" n="28"/>bilis esse actione agentis: &amp; tale potest intelligi esse cum non sit: quia esse in actu se habet per additio 
+        <lb ed="#Ba" n="29"/>nem ad ipsam essentiam. Deus tamen semper existens non potest intelligi non esse: quia esse suum nul 
+        <lb ed="#Ba" n="30"/>lo modo se habet per additionem super essentiam: sed essentia est ipsum esse, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e435">
+        ⁋ Ad secun 
+        <lb ed="#Ba" n="31"/>dum quomodo dixit insipiens in corde suo non est deus: &amp; similiter ad Tertium de eodem, dictum 
+        <lb ed="#Ba" n="32"/>est iam sufficienter. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e442">
+        ⁋ Ad quartum quod minus notum esse magis potest cogitari non esse: Dicendum quod ve- 
+        <lb ed="#Ba" n="33"/>rum est quantum est ex parte cogitantis: &amp; ideo cognoscens deum per intellectum solum in esse con- 
+        <lb ed="#Ba" n="34"/>fuso &amp; in generali: sicut supra determinatum est: &amp; cognoscens creaturam cognitione determinata 
+        <lb ed="#Ba" n="35"/>&amp; in particulari: magis potest quantum est ex parte sui deum non esse cogitare cogitatione phan-  
+        <lb ed="#Ba" n="36"/>tastica, quam multas creaturas. Quantum autem est ex parte rei cogitatae cogitatione propria intellectua 
+        <lb ed="#Ba" n="37"/>li, quae formatur secundum naturam cogitati: non est verum, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e2149-d1e455">
+        ⁋ Et quia non simpliciter conces 
+        <lb ed="#Ba" n="38"/>sum est deum non posse cogitari non esse, argumentis etiam ad primam partem respondendum. Ad 
+        <lb ed="#Ba" n="39"/>primum in oppositum: id quo nihil est maius non potest cogitari non esse: dicendum quod verum est 
+        <lb ed="#Ba" n="40"/>quantum est ex parte rei: &amp; cognitionis intellectus puri cum assensu. &amp; sic intelligit <name ref="#Anselm">Anselmus</name> vt patet 
+        <lb ed="#Ba" n="41"/>ex rationibus quibus hoc probat contra insipientem. Quantum tamen est ex parte vocis &amp; cognitionis intel 
+        <lb ed="#Ba" n="42"/>lectus confusi &amp; phantastici aut sine assensu, nihil impedit quin deus &amp; id quo nihil maius cogi- 
+        <lb ed="#Ba" n="43"/>tari potest, possit cogitari non esse. Et hoc intelligit <name ref="#Anselm">Anselmus</name> cum dicit prosois. cap. iiii, Deus est quo ma 
+        <lb ed="#Ba" n="44"/>ius cogitari non potest. Quod qui bene intelligit, vtique intelligit idipsum sic esse, vt nec cogitatione queat  
+        <lb ed="#Ba" n="45"/>non esse. Qui ergo intelligit sic esse deum, nequit eum non esse cogitare. Vnde econtra qui non sic 
+        <lb ed="#Ba" n="46"/>eum intelligit, nihil prohibet quin possit eum non esse cogitare. Eodem modo respondendum 
+        <lb ed="#Ba" n="47"/>est ad alia duo sequentia. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

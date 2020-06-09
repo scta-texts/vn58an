@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="173-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2073"> <!-- alias="vn58an-a29q5" -->
+      <head xml:id="vn58an-d1e2073-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e2073-Hd1e107" type="question-title">Utrum, ut motor cum mobili, ad constituendum unum ex se motum</head>
+      <p xml:id="vn58an-d1e2073-d1e110">
+        <lb ed="#Ba" n="16"/>CIrca quintum arguitur: quod deus habeat compositionem cum alio: vt motor cum mobi 
+        <lb ed="#Ba" n="17"/>li, ad constituendum vnum compositum motum ex se. Primo sic. primum motum 
+        <lb ed="#Ba" n="18"/>mouetur ex se: quia secundum Philosophum. viii. Physicae. omne motum ab alio reducitur ad  
+        <lb ed="#Ba" n="19"/>motum ex se: tanquam ad primum motum, primum motum mouetur a causa prima: 
+        <lb ed="#Ba" n="20"/>secundum Philosophum. xii. Meta. &amp;. i. Cae. &amp; Mun. quae non est nisi deus. Motum au-  
+        <lb ed="#Ba" n="21"/>tem primum ex se compositum est ex motore &amp; subiecto. secundum Auer. de sub- 
+        <lb ed="#Ba" n="22"/>stantia orbis. &amp; vt dicit Philosophus. viii. Physicae. Motum ex se diuisibile est in duo, quorum vnum est per se 
+        <lb ed="#Ba" n="23"/>mouens: reliquum vero per se motum, non est autem diuisibile aliquid nisi in illa ex quibus habet com- 
+        <lb ed="#Ba" n="24"/>poni. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2073-d1e132">
+        ⁋ Secundo sic. Res cum illo habet compositionem in esse: a quo habet numerari. formae 
+        <lb ed="#Ba" n="25"/>enim non numerantur nisi per materiam cum qua habent componi. in caelestibus etiam motores numerantur nu 
+        <lb ed="#Ba" n="26"/>mero mobilium. secundum Philosophum. xii. Metaph. ergo cum eis aliquam habent compositionem. Deus autem in mo-  
+        <lb ed="#Ba" n="27"/>toribus est primus: quia omnes alii ad ipsum habent reduci: vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2073-d1e142">
+        ⁋ Con- 
+        <lb ed="#Ba" n="28"/>tra est: quod omne habens compositionem cum alio: quodammodo dependet ab illo: sicut patet in compo 
+        <lb ed="#Ba" n="29"/>sitione formae cum materia, quae abinuicem dependent secundum esse: &amp; in artifice &amp; instrumento, quae  
+        <lb ed="#Ba" n="30"/>abinuicem dependent secundum operari, Deus autem vt motor a nullo dependet neque secundum esse, neque se 
+        <lb ed="#Ba" n="31"/>cundum operari: quia ipse posset esse etsi nihil moueret, neque esset vllum mobile: &amp; similiter posset ope 
+        <lb ed="#Ba" n="32"/>rari immediate quae operatur per medium. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2073-d1e155">
+        <lb ed="#Ba" n="33"/>⁋ Hic aduertendum est quod sententia Philosophi videtur esse in xii. Meta. quod omnes motus 
+        <lb ed="#Ba" n="34"/>caelestes sic se habent: quod necesse est vt vnusquisque eorum fiat per aliquid aeternum per se &amp; secundum 
+        <lb ed="#Ba" n="35"/>substantiam: &amp; vt substantiae mouentes sint secundum numerum mobilium: ita quod si aliquae po- 
+        <lb ed="#Ba" n="36"/>nantur omnino esse, debent poni mouentes: &amp; quod nulla sit substantia abstracta quae non moueat. Et 
+        <lb ed="#Ba" n="37"/>hoc ideo, vt dicit ibidem Comment. quod vnaquaeque earum sit perfecta per suum motum: &amp; quod aliter inueni 
+        <lb ed="#Ba" n="38"/>retur in dispositione diminuta: &amp; si aliquae inuenirentur non mouentes, essent otiosae. Sed huiusmodi sub 
+        <lb ed="#Ba" n="39"/>stantiae ponuntur a philosophis mouere dupliciter: &amp; vt agens impellens in motum: &amp; vt finis: vt scilicet mouens si 
+        <lb ed="#Ba" n="40"/>bi assimilet motum: secundum quod exponit Comment. philosophum. super. xii. Metaph. Sed hoc ponebant dupliciter. 
+        <lb ed="#Ba" n="41"/>Vno modo quod eadem substantia numero moueret sicut impellens &amp; sicut finis: vt videtur pone- 
+        <lb ed="#Ba" n="42"/>re Comment. Alio modo vt alia mouet sicut impellens, alia vero sicut finis: vt secundum hoc duplex 
+        <lb ed="#Ba" n="43"/>ponatur motor. vnus intra: vt virtus in corpore secundum esse: licet separata secundum essentiam: quia 
+        <lb ed="#Ba" n="44"/>est motor tantum: &amp; non forma materiae. Alius vero separatus &amp; extra. vt enim dicit Auicen. ix. Me- 
+        <lb ed="#Ba" n="45"/>taph. suae, praeter intelligentiam quae est motor caeli secundum substantiam separatus, in quolibet caelesti cor 
+        <lb ed="#Ba" n="46"/>pore est alius communiunctus. Et quomodo hoc, exponendum est loquendo de creaturis. Motor primo mo 
+        <lb ed="#Ba" n="47"/>do, deus esse non potest: &amp; ita vt motor coniunctus &amp; intraneus non potest habere aliquam compositio 
+        <lb ed="#Ba" n="48"/>nem cum mobili primo: quia talis motor limitatus est: &amp; habet virtutem finitam proportionalem suo mobili: vt 
+        <lb ed="#Ba" n="49"/>dicendum est loquendo de creaturis. vnde talis motor secundum <name ref="#Aristotle">Philosophum</name> non moueret suum, proprium mobile si in  
+        <lb ed="#Ba" n="50"/>ipso esset vna stella plus, nisi cum fatigatione &amp; pcena: vt dicit secundo Cae. &amp; Mun. Quamuis enim secundum 
+        <lb ed="#Ba" n="51"/>philosophous, motores orbium aequales sint in hoc quod quilibet mouet motum in infinitum: tamen non sunt aequales in vigore 
+        <lb ed="#Ba" n="52"/>mouendi. Motor enim orbis maioris fortior est in mouendo: quam motor orbis minoris: vt motor orbis 
+        <lb ed="#Ba" n="53"/>minoris orbem maiorem mouere non poisst, Deus autem quia est infinitae virtutis vigore, vt infra dicetur, nulli 
+        <lb ed="#Ba" n="54"/>mobili potest esse proportionalis. Secundo impossibile est deum dicere componi cum aliquo corpore dicto 
+        <lb ed="#Ba" n="55"/>modo: quoniam huiusmodi compositio non est etiam secundum philosophus nisi per aliquam naturalem colligantiam motoris cum 
+   <!--362.xml-->
+        <pb ed="#Ba" n="174-r"/>
+        <lb ed="#Ba" n="1"/>mobili: quam non potest deus habere cum aliquo mobili: quia quandocumque aliquod alteri componitur naturali colli 
+        <lb ed="#Ba" n="2"/>gantia ad ipsum, per inuicem perficiuntur ambo in composito ex motore &amp; mobili: secundum quod dictum est per 
+        <lb ed="#Ba" n="3"/>Auer. statim. Et cum hoc etiam neutrum sine altero esse potest. Vnde <name ref="#Aristotle">Philosophus</name> posuit quod caelum non potuit non 
+        <lb ed="#Ba" n="4"/>habere esse a suo primo motore: vt declarandum est loquendo de creaturis. Quare cum deus cum nulla 
+        <lb ed="#Ba" n="5"/>creatura colligantiam habet naturalem: vt ab ipso aliqua necessario in esse procedant: vt similiter dicendum  
+        <lb ed="#Ba" n="6"/>est loquendo de creaturis: Deus igitur nec vt talis motor aliquam compositionem cum aliquo habere potest. 
+        <lb ed="#Ba" n="7"/>Nulla ergo necessitate naturae deus alligatus est alicui corpori caelesti: aut etiam toti mundo. Et licet 
+        <lb ed="#Ba" n="8"/>hoc dicantur ponere philosophis de motoribus inferioribus: non tamen sentit hoc <name ref="#Aristotle">Philosophus</name> Aristorus de primo moto 
+        <lb ed="#Ba" n="9"/>re quem deum vocat. lpse enim dicit in secundo Cae. &amp; Mun. quod res bona completa est existens bona absque  
+        <lb ed="#Ba" n="10"/>opeatione, non indigens operatione qua fiat bona: &amp; res propinqua ei recipit bonitatem vna operatione parua:  
+        <lb ed="#Ba" n="11"/>&amp; res longinquae operationibus multis, quemadmodum de clarat per exempla: quod sunt quaedam corpora sana absque  
+        <lb ed="#Ba" n="12"/>omni operatione: quaedam opeatione parua: quaedam opeatione multa. Primum bonum quod dicit esse vnum, solus deus est se 
+        <lb ed="#Ba" n="13"/>cundum ipsum. Propter nullam ergo perfectionem acquirendam debet dici deus componi vel colligari cum aliquo cor 
+        <lb ed="#Ba" n="14"/>pore. Etiam licet moueat omnia vt impellens &amp; vt finis: hoc ex eius summa perfectione &amp; liberalitate proue- 
+        <lb ed="#Ba" n="15"/>nit: non ex aliqua necessitate: vt exponendum est loquendo de creaturis. Siue ergo ponamus deum immediate mo 
+        <lb ed="#Ba" n="16"/>uere orbem primum, aut totum vniuersum: siue ponamus eum motorem mediatum mouentem primum orbem vel 
+        <lb ed="#Ba" n="17"/>totum vniuersum mediantibus intelligentiis, vel alligatis singulis orbibus quadam necessitate natu- 
+        <lb ed="#Ba" n="18"/>rae vt dictum est: secundum Philosophorum sententiam: siue non alligatis naturae necessitate: sed solum voluntatis 
+        <lb ed="#Ba" n="19"/>obedientia, secundum sententiam catholicorum: secundum quod dicit <name ref="#Augustine">Augustinus</name> viii. de trinitate. Cogitantur angeli mundi spiritus 
+        <lb ed="#Ba" n="20"/>caelestia corpora inspirantes: atque ad arbitrium quo seruiunt deo mutantes atque versantes. ex nulla 
+        <lb ed="#Ba" n="21"/>tamen naturae necessitate ponendum est deum connexionem dependentiae habere ad aliquod corpus mobile: ne 
+        <lb ed="#Ba" n="22"/>quod ad vniuersam creaturam: sed quod creaturis influit esse &amp; motum: hoc prouenit ex eius perfectione &amp; volun 
+        <lb ed="#Ba" n="23"/>tatis libertate: vt infra exponendum est. 
+      </p>
+      <p xml:id="vn58an-d1e2073-d1e274">
+        ⁋ Absolute ergo concedendum est deum nullam habere composi- 
+        <lb ed="#Ba" n="24"/>tionem cum alio: vt motor cum mobili. 
+      </p>
+      <p xml:id="vn58an-d1e2073-d1e279">
+        <lb ed="#Ba" n="25"/>⁋ Ad primum in oppositum: quod primum motum mouetur ex se: &amp; hoc a causa prima: Di- 
+        <lb ed="#Ba" n="26"/>cendum quod determinatio Philosophiu. viii. Physicae. circa motum est: quod mouentibus &amp; motis se habentibus per ordinem: quod scilicet 
+        <lb ed="#Ba" n="27"/>hoc moueatur ab illo: &amp; illud ab alio: impossibile est procedere in infinitum. Ex quo concludit quod necessa 
+        <lb ed="#Ba" n="28"/>rium est deuenire ad aliquod primum motum: quod necesse est moueri ab alio: aut a seipso. Et quia quod est 
+        <lb ed="#Ba" n="29"/>per se, semper prius in gradu est &amp; ordie naturae: eo quod est per aliud: ex illis duobus accipit tamquam primum fun 
+        <lb ed="#Ba" n="30"/>damentum omnium eorum quae nititur probare in viii. Physicae. od scilicet primum motum moueat seipsum: quod probat non 
+        <lb ed="#Ba" n="31"/>posse fieri secundum idem: ex quo concludit illud quod assumptum est: quod scilicet motum ex seipso necesse est diuidi in  
+        <lb ed="#Ba" n="32"/>duo: quorum vnum est per se mouens: aliud autem per se motum. Et patet quod eius argumentatio non procedit nisi 
+        <lb ed="#Ba" n="33"/>de motore primo coniuncto: qui mouet causatum prim. scilicet primum orbem: vt sibi appropriatus. &amp;isic ni- 
+        <lb ed="#Ba" n="34"/>hil ad propositum de deo qui est motor omnium primus vniuersalis: &amp; omnino separatus: vt dictum est. Quo  
+        <lb ed="#Ba" n="35"/>modo autem secundum veritatem catholicam sentiendum est de motibus orbium &amp; motoribus, exponendum 
+        <lb ed="#Ba" n="36"/>est determinando de creaturis. 
+      </p>
+      <p xml:id="vn58an-d1e2073-d1e308">
+        ⁋ Ad secundum quod motores numerantur numero motuum &amp; mobilium &amp;c. 
+        <lb ed="#Ba" n="37"/>Dicendum quod bene procedit ratio iuxta determinationem philosophi: quod motor quilibet coniunctus compositionem ali-  
+        <lb ed="#Ba" n="38"/>quam habet cum mobili vt mobile est. sed de motore deo (si tamen alicuius sit immediatus motor) nihil 
+        <lb ed="#Ba" n="39"/>potest concludere: quia illum ponimus extra rationem aliorum motorum. Quod <name ref="#Avicenna">Auicen.</name> dicit etiam posuisse philosophum: vbi di- 
+        <lb ed="#Ba" n="40"/>cit in <ref xml:id="vn58an-d1e2073-Rd1e322">ix. Meta. suae</ref>. Qui sequuti sunt eum ex sapientissimis Peripateticis, non remouent multitudinem 
+        <lb ed="#Ba" n="41"/>nisi a motore vniuersitatis: &amp; attribuunt multitudinem motoribus seperatis &amp; non separatis: qui sunt proprii 
+        <lb ed="#Ba" n="42"/>vniuscuiusque eorum. Posuerunt igitur primum ex separatis propriis id quod mouet sphaeram primam. Isti ergo 
+        <lb ed="#Ba" n="43"/>viderunt quod motor vniuersitatis est quidam: &amp; post eum vnaquaeque stella habet alium motorem pro- 
+        <lb ed="#Ba" n="44"/>prium. Sed de hoc latius est perscrutandum: loquendo de creaturis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

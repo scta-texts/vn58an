@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="29-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe8019"> <!-- alias="vn58an-a48q2" -->
+      <head xml:id="vn58an-fe8019-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe8019-d1e107">
+        <lb ed="#Bb" n="42"/>CIrca secundum arguitur quod velle sit principalior actio in deo quam intelligere,. primo 
+        <lb ed="#Bb" n="43"/>sic. illa actio est principalior in superiori natura, quam habet omnino differentem ab  
+        <lb ed="#Bb" n="44"/>actionibus naturae infimae, quam sit illa quam habet conuenientem quoquo modo cum 
+        <lb ed="#Bb" n="45"/>actione naturae infimae, quia illa prior non conuenit ei nisi secundum rationem qua  
+        <lb ed="#Bb" n="46"/>praecellit &amp; differt a natura infima. Illa vero secunda secundum rationem qua con 
+        <lb ed="#Bb" n="47"/>uenit cum ipsa. &amp; superius atque principalius in ea est illud quo differt quam quo con 
+        <lb ed="#Bb" n="48"/>uenit. vt rationale in homine quo differt a bruto, quam sensibile quo conuenit cum 
+        <lb ed="#Bb" n="49"/>eodem. velle autem cum sit quiddam appetere, sicut voluntas est quidam appetitus, est actio in qua  
+        <lb ed="#Bb" n="50"/>quoquo modo co uenit deus cum infimis &amp; inanimatis etiam, quia in ipsis est appetitus, &amp;eis con 
+        <lb ed="#Bb" n="51"/>uenit appetere. Et intelligere est actio qua differt ab eis, quia nullum genus cognitionis habent, vt pa 
+        <lb ed="#Bb" n="52"/>tet ex supra determinatis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e133">
+        ⁋ Secundo sic. actio quanto est circa obiectum simplicius &amp; spiri 
+        <lb ed="#Bb" n="53"/>tualius &amp; magis abstractum, tanto est simplicior &amp; spiritualior &amp; magis abstracta, quia secundum <name ref="#Aristotle">Philosophum</name> 
+       <!--74.xml-->
+            <pb ed="#Bb" n="30-r"/>
+        <lb ed="#Bb" n="1"/>actio determinatur per obiectum quanto autem est simplicior, spiritualior, &amp; magis abstracta, tan 
+        <lb ed="#Bb" n="2"/>to est potior &amp; principalior. simplicius enim &amp; magis abstractum, potius est semper &amp; principalius 
+        <lb ed="#Bb" n="3"/>Propter quod vult <name ref="#Aristotle">Philosophus</name> primo metaphysicae, quod demonstrationes arithmeticae potiores sunt quam  
+        <lb ed="#Bb" n="4"/>geometricae: quia de simplicioribus vt de numeris, qui simpliciores sunt magnitudie, de qua est geo- 
+        <lb ed="#Bb" n="5"/>metria. Actio autem quae est intelligere dei, simplicior est &amp; magis abstracta, quam sit actio quae est vel 
+        <lb ed="#Bb" n="6"/>le, quia intelligere est rei prout habet esse in intellectu: velle vero prout habet esse in se. &amp; simplicius &amp; magis 
+        <lb ed="#Bb" n="7"/>abstractum esse habet res in intellectu quam extra in seipsa. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e164">
+        ⁋ Praeterea. obiectum intellectus est ve- 
+        <lb ed="#Bb" n="8"/>rum: voluntatis autem bonum. verum autem simplicius est &amp; magis abstractum bono. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e170">
+        ⁋ Tertio 
+        <lb ed="#Bb" n="9"/>sic. ille actus nobilior est &amp; principalior, per quem potentia nobilius in esse perficitur. iste autem est 
+        <lb ed="#Bb" n="10"/>intelligere, quia per ipsum perficitur intellectus, habendo in se rem intellectam vt nobile quid, non  
+        <lb ed="#Bb" n="11"/>sic velle: quia per ipsum perficitur voluntas vt comparata ad rem nobilem existentem extra se, nunc 
+        <lb ed="#Bb" n="12"/>autem perfectius &amp; nobilius simpliciter &amp; absolute est habere in se nobile quid, quam comparari ad no 
+        <lb ed="#Bb" n="13"/>bile extra se. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e183">
+        ⁋ Quarto sic. illud est nobilius quod viliori se minus inficitur. vt patet de lu- A 
+        <lb ed="#Bb" n="14"/>ce &amp; aere, cum transeunt per loca speda. sed intellectus minus inficitur intelligendo viliora se 
+        <lb ed="#Bb" n="15"/>vt corporalia, quam voluntas in diligendo inferiora se. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e190">
+        ⁋ Quinto sic. nobilior est potentia quae s 
+        <lb ed="#Bb" n="16"/>est ad nobiliorem actum seu productionem. sed intellectus &amp; voluntas in deo sunt principia pro- 
+        <lb ed="#Bb" n="17"/>ductionum personalium, quasi nobilior autem est ratio productionis quae est generatio, quam productio 
+        <lb ed="#Bb" n="18"/>nis quae est spiratio: eo quod productum ab illa quasi nobilius est quam productum ab ista: eo quod productum 
+        <lb ed="#Bb" n="19"/>ab illa vt filius, habet auctoritatem aut quasi auctoritatem super productum ab ista vt super spiritum 
+        <lb ed="#Bb" n="20"/>sanctum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e203">
+        ⁋ In contrarium est, quoniam actio illa potior est &amp; principalior quae est liberior.  
+        <lb ed="#Bb" n="21"/>talis est actio voluntatis, vt patet ex supra determinatis. ergo &amp;c. 
+        <lb ed="#Bb" n="22"/>
+      </p>
+      <p xml:id="vn58an-fe8019-d1e210">
+        ⁋ Dicendum ad hoc: quod de actionibus dei quae sunt velle &amp; intelligere, possumus lo 
+        <lb ed="#Bb" n="23"/>qui dupliciter. Vno modo secundum id quod sunt aliquid in re: aut secundum suas proprias ratio-  
+        <lb ed="#Bb" n="24"/>nes quas nominant circa rem ipsam. Primo modo sunt idipsum, &amp; nullo modo differunt: quia non sunt 
+        <lb ed="#Bb" n="25"/>nisi ipsa diuina essentia, vt patet ex supra determinatis. &amp; sic neutra est potior aut principalior al- 
+        <lb ed="#Bb" n="26"/>tera: nec habet secundum hoc locum quaestio in eis. Si ergo principalitas dicenda sit esse in eis, hoc 
+        <lb ed="#Bb" n="27"/>est considerando ipsas secundum suas proprias rationes quibus inter se differunt sicut alia attributa, secun 
+        <lb ed="#Bb" n="28"/>dum quod habitum est supra. Sic enim in ipsis est principalitas secundum rationem in deo, eo modo  
+        <lb ed="#Bb" n="29"/>quo ratione differunt: quemadmodum est principalitas in eis secundum rem in creaturis, eo mo-  
+        <lb ed="#Bb" n="30"/>do quo secundum rem differunt. Vt enim dicit <name ref="#Aristotle">Philosophus</name> in principio politicae, quaecumque ex plu 
+        <lb ed="#Bb" n="31"/>ribus fiunt aliquod commune, in omnibus est principans &amp; subiectum: quemadmodum in harmonia con 
+        <lb ed="#Bb" n="32"/>mixtionis elementorum, semper est vnum elementum praedominans siue principans: &amp; in harmo- 
+        <lb ed="#Bb" n="33"/>nia vocum est vox vna consonantiam aliarum tenens: &amp; in homine anima principans est despotico 
+        <lb ed="#Bb" n="34"/>principatu, corpus vero subiectum: &amp; intellectus principatur appetitui sensitiuo regali principa 
+        <lb ed="#Bb" n="35"/>tu. In deo autem ex actu voluntatis &amp; intellectus fit aliquid commune, vt beatitudo, quae ex vtroque  
+        <lb ed="#Bb" n="36"/>perficitur: oportet igitur quod alterum eorum sit in deo principans, alterum vero subiectum. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e246">
+        ⁋ Vnde 
+        <lb ed="#Bb" n="37"/>suppositis illis quibus in quadam quaestione de inquolibet determinauimus in creaturis voluntatem 
+        <lb ed="#Bb" n="38"/>esse principaliorem &amp; altiorem potentiam quam sit intellectus, &amp; per consequens actum voluntatis esse 
+        <lb ed="#Bb" n="39"/>principaliorem &amp; altiorem quam sit actus intellectus: eisdem possumus hic ostendere velle in deo esse actionem 
+        <lb ed="#Bb" n="40"/>principaliorem &amp; altiorem secundum rationem, quam sit intelligere. Sed non oportet ibi dicta repete 
+        <lb ed="#Bb" n="41"/>re: quia non restat nisi ipsa hic applicare. Veruntamen hic sciendum est in summa: quod quandocumque ex ali- 
+        <lb ed="#Bb" n="42"/>quibus fit vnum cone, ad cognoscendum quod illorum sit principalius, oportet (vt dicit <name ref="#Aristotle">Philosophus</name> ibi 
+        <lb ed="#Bb" n="43"/>dem) ambo considerare in aliquo optime disposito in eis, &amp; secundum naturam: &amp; non in eo vt simpli 
+        <lb ed="#Bb" n="44"/>citer considerato, aut vt deficit ab illa dispositione. Verbi gratia (secundum quod ponit exemplum) si 
+        <lb ed="#Bb" n="45"/>velimus videre quod &amp; quom anima principatur corpori, oportet hoc considerare in homine optime disposi 
+        <lb ed="#Bb" n="46"/>to secundum corpus &amp; secundum animam. Quod enim in tali homine principatur, vere dicendum 
+        <lb ed="#Bb" n="47"/>est principari &amp; secundum naturam: &amp; non in homine simpliciter aut pestilente &amp; male disposito se 
+        <lb ed="#Bb" n="48"/>cundum illa. In homine enim pestilente propter praue se habere &amp; praeter naturam multotiens inuenitur 
+        <lb ed="#Bb" n="49"/>corpus principari animae, &amp; appetitus sensitiuus rationi: in homine vero bene disposito contingit 
+        <lb ed="#Bb" n="50"/>econtrario. In homine autem simpliciter, licet secundum naturam dominatur id quod dominatur in  
+        <lb ed="#Bb" n="51"/>optime disposito: non tamen hoc potest sicut in illo discerni. Propter quod simpliciter &amp; absolute 
+        <lb ed="#Bb" n="52"/>in homine &amp; secundum naturam, principalius dicitur esse anima quam corpus: quia scilicet principa- 
+        <lb ed="#Bb" n="53"/>tur in homine bene disposito secundum hoc, licet non principetur in homine non bene disposito se- 
+   <!--75.xml-->
+        <pb ed="#Bb" n="30-v"/>
+        <lb ed="#Bb" n="1"/>cundum hoc. &amp; hoc quodammodo quemadmodum cum cibus dicitur sanus per respectum ad sa- 
+        <lb ed="#Bb" n="2"/>nitatem quae est in corpore animalis, quia scilicet est conseruatiuum illius, ille cibus dicitur sanus 
+        <lb ed="#Bb" n="3"/>simpliciter qui est sanus simpliciter sano, &amp; corpori bene se habenti, non autem ille qui est sanus 
+        <lb ed="#Bb" n="4"/>corpori infirmo &amp; male se habenti. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e303">
+        ⁋ Ad videndum igitur quis sit principalior, an actus volunta- 
+        <lb ed="#Bb" n="5"/>tis an actus intellectus, &amp; per consequens vtrum voluntas an intellectus: oportet ambo respicere in  
+        <lb ed="#Bb" n="6"/>eo quid secundum ipsa est optime dispositum secundum naturam: &amp; non in eo quod deficit ab illa dispositio 
+        <lb ed="#Bb" n="7"/>ne optima. Quare cum optima dispositio voluntatis &amp; actus volendi est in volendo summe bonum 
+        <lb ed="#Bb" n="8"/>&amp; optima dispositio intellectus &amp; eius actus est in intelligendo summe verum. Bonum enim est 
+        <lb ed="#Bb" n="9"/>per se perfectio voluntatis &amp; actus eius: verum autem intellectus &amp; actus ipsius. In eis autem quae  
+        <lb ed="#Bb" n="10"/>sunt per se, sequitur, si simpliciter ad simpliciter, &amp; magis ad magis, &amp; maxime ad maxime. Sum- 
+        <lb ed="#Bb" n="11"/>me bonum autem &amp; summe verum est solummodo ipse deus siue ipsa diuina essentia. Principali- 
+        <lb ed="#Bb" n="12"/>tatem ergo inter voluntatem &amp; intellectum &amp; actuum eorum debemus inspicere in quocumque volen- 
+        <lb ed="#Bb" n="13"/>te &amp; intelligente secundum quod vult &amp; intelligit deum. In intelligendo autem &amp; volendo deum prin- 
+        <lb ed="#Bb" n="14"/>cipalior est voluntas: quoniam in actione voluntatis perficitur voluntas in ipsa re, vt ipsa habet 
+        <lb ed="#Bb" n="15"/>esse in se: eo quod voluntas actione sua inclinatur in ipsam, &amp; in ea recipitur: non autem eam in se re- 
+        <lb ed="#Bb" n="16"/>cipit. In actione vero intellectus econtrario perficitur intellectus ipsa re vt habet esse in ipso intelle- 
+        <lb ed="#Bb" n="17"/>ctu. Recipiendo enim in se ipsam rem intellectam, quodammodo perficitur ipsa. Magis autem perficitur voluntas in  
+        <lb ed="#Bb" n="18"/>deo actu suo transferendo se in ipsum, quam recipiendo ipsum in se: eo quod transferendo se in deum sub ratione bo- 
+        <lb ed="#Bb" n="19"/>ni per actum voluntatis, conuertitur quodammodo in ipsum, secundum quod habet esse in seipso. Amor 
+        <lb ed="#Bb" n="20"/>enim qui est ratio volendi, est virtus conuersiua &amp; vnitiua transformans amantem in amatum, vt 
+        <lb ed="#Bb" n="21"/>dictum est supra. Recipiendo autem in se deum sub ratione veri per actum intellectus, assimilatur 
+        <lb ed="#Bb" n="22"/>quodammodo intellectus intellecto secundum quod habet intellectum esse in ipso intelligente. Notitia enim 
+        <lb ed="#Bb" n="23"/>quae est ratio intelligendi, non est nisi virtus assimilatiua. Maius autem &amp; nobilius est conuerti in  
+        <lb ed="#Bb" n="24"/>deum &amp; fieri vnum quodammodo cum ipso, secundum quod habet esse in seipso: quam assimilari quodam 
+        <lb ed="#Bb" n="25"/>modo ipsi secundum quod est in intelligente. Idcirco dicendum est quod simpliciter in volente quocumque &amp; 
+        <lb ed="#Bb" n="26"/>intelligente deum nobilior &amp; principalior est voluntas &amp; actus volendi quam intellectus &amp; actus in-  
+        <lb ed="#Bb" n="27"/>telligendi. Et sic propter idem dicendum est quod simpliciter &amp; absolute principalior est voluntas seu 
+        <lb ed="#Bb" n="28"/>actus volendi quam intellectus seu actus intelligendi. Vnde licet cum quis vult aut intelligit aliud a 
+        <lb ed="#Bb" n="29"/>deo, maxime quod inferius est intelligente &amp; volente, altior, principalior, &amp; perfectior est intellectus quam vo 
+        <lb ed="#Bb" n="30"/>luntas, quia dignior est in intellectu cognitio rerum corporalium quam amor earum: quia nobilius est 
+        <lb ed="#Bb" n="31"/>eis assimilari secundum esse spirituale quo habent esse in ipso, quam transformari in ipsa secundum esse 
+        <lb ed="#Bb" n="32"/>quod habent in se: eo quod nobilius esse habent inferiora, secundum quod habent esse in superiori natura, quam se 
+        <lb ed="#Bb" n="33"/>cundum quod habent esse in se. dicente Augustino. ix. de Trini. capi. iiii. Maior est notitia corporis quam  
+        <lb ed="#Bb" n="34"/>ipsum corpus quod notitia eius notum est. Illa enim vita quaedam est in ratione cognoscentis: cor 
+        <lb ed="#Bb" n="35"/>pus autem non est vita. Econtrario autem superiora habent esse nobilius in se quam in natura inferiori 
+        <lb ed="#Bb" n="36"/>dicente <name ref="#Augustine">Augustino</name> ibidem capite. xi. Cum Deum nouimus, quamuis meliores efficiamur quam ante quam nosceremus, il  
+        <lb ed="#Bb" n="37"/>la notitia tamen inferior est, quia in inferiore natura est. Hoc tamen non obstat quin simpliciter altior sit 
+        <lb ed="#Bb" n="38"/>voluntas, &amp; hoc maxime respectu dei: quia nihil vult neque intelligit primo &amp; per se obiectiue nisi se 
+        <lb ed="#Bb" n="39"/>ipsum: &amp; quod vult &amp; intelligit alia a se, hoc non est nisi volendo &amp; intelligendo se, vt supra dictum est in par 
+        <lb ed="#Bb" n="40"/>te, &amp; amplius inferius declarabitur. Nec obstat etiam in creaturis intellectualibus, &amp; hoc duplici de 
+        <lb ed="#Bb" n="41"/>causa: quarum prima iam tacta est: scilicet quia volens &amp; intelligens in volendo &amp; intelligendo infe 
+        <lb ed="#Bb" n="42"/>riora non est optime dispositus secundum voluntatem &amp; intellectum, sed deficit a nobiliori dispo 
+        <lb ed="#Bb" n="43"/>sitione quae potest esse in eis, cuiusmodi est illa quam habent in cognoscendo deum. Et ideo esse nobi 
+        <lb ed="#Bb" n="44"/>lius respectu illorum, est esse nobilius secundum quid. Esse autem nobilius respectu dei in intelligen  
+        <lb ed="#Bb" n="45"/>do &amp; volendo ipsum, est esse nobilius simpliciter. &amp; hoc quodammodo quemadmodum dicimus quod homo sim 
+        <lb ed="#Bb" n="46"/>pliciter est nobilior leone secundum quod est rationale. secundum quid autem est ignobilior si com- 
+        <lb ed="#Bb" n="47"/>parentur inter se secundum fortitudinem corporalem: eo quod res ab optimo quod est in ea: simpliciter 
+        <lb ed="#Bb" n="48"/>dicitur nobilior alia: secundum quid autem secundum illud quod est deterius in ea dicitur minus nobilis illaph.y Aut 
+        <lb ed="#Bb" n="49"/>secundum aliud exemplum, quemadmodum contingit quod in homine pernicioso aut male disposito ap  
+        <lb ed="#Bb" n="50"/>petitus principetur rationi. Alia vero causa est, quia bonum &amp; verum in aliis a deo sunt obiecta 
+        <lb ed="#Bb" n="51"/>voluntatis &amp; intellectus secundaria, &amp; quasi secundum quid: bonum autem &amp; verum quod deus 
+        <lb ed="#Bb" n="52"/>est, sunt obiecta eius prima &amp; simpliciter. Nobilitas autem veritatis non est iudicanda simpliciter nisi re 
+        <lb ed="#Bb" n="53"/>spectu eius quod est obiectum suum simpliciter. secundum quod haec ratio magis pertractabatur in quae  
+        <lb ed="#Bb" n="54"/>stione praedicta de quolibet. &amp; redit ista causa in idem cum praecedenti, vt patet inspicienti pertra 
+   <!--76.xml-->
+        <pb ed="#Bb" n="31-r"/>
+        <lb ed="#Bb" n="1"/>cationem eius ibi habitam. Sic ergo principalis causa siue ratio quare bonitas debet dici simpliciter 
+        <lb ed="#Bb" n="2"/>principalior potentia quam intellectus, &amp; actus illius principalior quam actus intellectus, est illa quae iam di 
+        <lb ed="#Bb" n="3"/>cta est. Siquae autem aliae causae assignantur huiusmodi vel ex parte potentiae, vel ex parte habitus 
+        <lb ed="#Bb" n="4"/>vel actus vel obiecti, secundum quod quasdam illarum tetigimus in quaestione nominata, illae sunt se- 
+        <lb ed="#Bb" n="5"/>cundariae &amp; sequentes ex ista. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e432">
+        <lb ed="#Bb" n="6"/>⁋ Ad primum in oppositum: quod intellectualis natura in actu volendi conuenit quo 
+        <lb ed="#Bb" n="7"/>dammodo cum inferiori natura, non sic autem in actu intelligendi: Dicendum quod hoc non est ra 
+        <lb ed="#Bb" n="8"/>tio quare illud in quo conuenit cum inferiore natura, dicatur minus principale, nisi secundum eun 
+        <lb ed="#Bb" n="9"/>dem gradum naturae conuenit superiori &amp; inferiori: quemadmodum sensibile conuenit quodam  
+        <lb ed="#Bb" n="10"/>modo homini &amp; bruto. Nunc autem appetitus voluntatis cum importat rationem libertatis, multo 
+        <lb ed="#Bb" n="11"/>superioris gradus naturae est quam sit appetitus bruti, vt supra dictum est. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e448">
+        ⁋ Ad secundum, quod actio in-  
+        <lb ed="#Bb" n="12"/>tellectus simplicior est &amp; magis abstracta, quia est de simpliciori &amp; magis abstracto: Dicendum quod  
+        <lb ed="#Bb" n="13"/>abstractio non est vnius &amp; eiusdem a seipso, sed differentis a differenti: vt oporteat differre abstra- 
+        <lb ed="#Bb" n="14"/>ctum ab eo a quo abstrahitur. Et secundum hoc sunt diuersi modi abstractionis, &amp; diuersa diuersi 
+        <lb ed="#Bb" n="15"/>mode sunt abstracta. Est enim quaedam abstractio realis vnius ab alio a quo omnino differt &amp; re &amp; 
+        <lb ed="#Bb" n="16"/>subiecto: qualiter formae separatae vt intelligentiae dicuntur esse abstractae, quia sunt formae re differen 
+        <lb ed="#Bb" n="17"/>tes a materia, a qua realiter sunt abstractae, quia non habent materiam partem sui, nec cadunt in  
+        <lb ed="#Bb" n="18"/>compositionem alicuius tertii cum materia. Est autem alia abstractio rationis siue rationalis, &amp; hoc 
+        <lb ed="#Bb" n="19"/>per rationem &amp; intellectum, quae est vnius ab alio cum quo est idem ad minus subiecto. Et est tri- 
+        <lb ed="#Bb" n="20"/>plex, secundum quod sunt quaedam idem subiecto, &amp; differunt re, quaedam vero tantum intentione,  
+        <lb ed="#Bb" n="21"/>quaedam vero tantum ratione. Primo modo est abstractio formae materialis a materia in qua est. Se 
+        <lb ed="#Bb" n="22"/>cundo modo est abstractio vniuersalis a particulari. Tertio modo est abstractio veri a ratione boni. 
+        <lb ed="#Bb" n="23"/>Primo istorum trium modorum adhuc est duplex abstractio, secundum quod forma dupliciter habet 
+        <lb ed="#Bb" n="24"/>esse in materia a qua abstrahitur. Quaedam enim forma habet esse in materia, vt cui dat esse: vt for 
+        <lb ed="#Bb" n="25"/>ma substantialis, quae cum materia est idem in subiecto quod cum ipsa constituit: quae abstrahitur ab  
+        <lb ed="#Bb" n="26"/>ipsa per intellectum abstractione metaphysica. Alia autem forma habet esse in materia, vt a qua re 
+        <lb ed="#Bb" n="27"/>cipit esse: vt forma accidentalis, quae est idem subiecto cum eo cui accidit: a quo abstrahitur per intel 
+        <lb ed="#Bb" n="28"/>lectum abstractione mathematica. Quae duplex est secundum quod sunt duo genera formarum mathe 
+        <lb ed="#Bb" n="29"/>maticarum. Quaedam quae per se &amp; immediate inhaerent subiecto, vt quantitates continuae. Quaedam 
+        <lb ed="#Bb" n="30"/>vero quae mediante alia: vt sunt quantitates discretae: sicut numeri mediante continua quae est ma 
+        <lb ed="#Bb" n="31"/>gnitudo, sit enim immediate abstractio discreti a continuo. Numerus enim mathematicus poten- 
+        <lb ed="#Bb" n="32"/>tia est in continuo: &amp; non procedit in actum nisi diuisione continui. vt secundum hoc continua quam 
+        <lb ed="#Bb" n="33"/>titas sit prior discreta, secundum quod supra determinauimus loquendo de natura numeri in quaestio 
+        <lb ed="#Bb" n="34"/>nibus de simplicitate dei. Et hoc modo discretum abstrahitur a continuo abstractiome arithmetica. 
+        <lb ed="#Bb" n="35"/>
+      </p>
+      <p xml:id="vn58an-fe8019-d1e503">
+        ⁋ Sunt igitur sex modi abstractionis, quorum primus est abstractio realis formae ex se separatae a ma 
+        <lb ed="#Bb" n="36"/>teria. Secundus rationalis est per rationem &amp; intellectum formae substantialis a materia simplici- 
+        <lb ed="#Bb" n="37"/>ter. Tertius est magnitudinis a materia sensibili. Quartus numeri a magnitudine. Quintus vni- 
+        <lb ed="#Bb" n="38"/>uersalis a particulari. Sextus rationis veri a ratione boni. Et secundum istos modos verum est quod actio quae 
+        <lb ed="#Bb" n="39"/>est circa abstractum, semper simplicior est &amp; spiritualior &amp; magis abstracta. &amp; sic maior rationis vera est 
+        <lb ed="#Bb" n="40"/>simpliciter. Sed cum assumitur in minori, quod actio talis est potior &amp; principalior atque nobilior: hic distin-  
+        <lb ed="#Bb" n="41"/>guendum est, quoniam huiusmodi actiones quarum vna est circa abstractum, siue circa magis abstractum: 
+        <lb ed="#Bb" n="42"/>alia vero vel circa non abstractum, vel circa minus abstractum: aut ambae sunt eiusdem generis si- 
+        <lb ed="#Bb" n="43"/>ue rationis: aut alterius &amp; alterius. Si primo modo, sic minor vera est. siue enim sit actus intelli- 
+        <lb ed="#Bb" n="44"/>gendi siue volendi, potior est ille qui est circa abstractum, quam qui est circa non abstractum, &amp; qui est 
+        <lb ed="#Bb" n="45"/>circa magis abstractum quam qui est circa minus abstractum, vt patet inducendo per singulos modos 
+        <lb ed="#Bb" n="46"/>abstractionis. Si secundo modo, sic adhuc minor est vera, loquendo de potioritate secundum quid: quae  
+        <lb ed="#Bb" n="47"/>est in actu intellectus &amp; voluntatis circa alia a primo intellecto &amp; volito. Falsa autem est loquendo  
+        <lb ed="#Bb" n="48"/>de potioritate simpliciter: quae est in actu intellectus &amp; voluntatis circa primum intellectum &amp; pri- 
+        <lb ed="#Bb" n="49"/>mum volitum, secundum quod iam expositum est. Et hoc contingit quia verum &amp; bonum sic se habent 
+        <lb ed="#Bb" n="50"/>inter se, quod verum vno modo est ratio nobilior quam sit ratio boni. alio autem modo econuerso nobilior 
+        <lb ed="#Bb" n="51"/>est ratio boni quam veri. &amp; illa ratio qua verum est nobilius bono, est secundum quid, respectu illius 
+        <lb ed="#Bb" n="52"/>qua bonum est nobilius vero. Est igitur sciendum, quod duplex est nobilitas, scilicet prioritatis, &amp; per 
+        <lb ed="#Bb" n="53"/>fectionis. Nobilius prioritate non perfectione, nobilius est secundum quid, respectu eius quod est nobi 
+   <!--77.xml-->
+        <pb ed="#Bb" n="31-v"/>
+        <lb ed="#Bb" n="1"/>lius perfectione. Quod patet in esse &amp; viuere. Esse enim est nobilius prioritate rationis &amp; intelle 
+        <lb ed="#Bb" n="2"/>ctus, quam viuere. dicente Dionysio. v. capite de diuinis nominibus. Ante alias dei participationes esse 
+        <lb ed="#Bb" n="3"/>praepositum est: &amp; est per se esse summum, eo quod est per se viuum esse. &amp; infra. Sicut existens deus lauda 
+        <lb ed="#Bb" n="4"/>tur vt ex digniore donorum eius. Et tamen constat quod viuere perfectionem quandam nominat cir 
+        <lb ed="#Bb" n="5"/>ca esse, vt supra expositum est in quaestionibus de vita. &amp; hoc quemadmodum in corporibus &amp; for 
+        <lb ed="#Bb" n="6"/>mis corporalibus generabilium &amp; corruptibilium semper quod prius est simplicitate, est minus nobile. 
+        <lb ed="#Bb" n="7"/>vt elementum quam mixtum: &amp; mixtum quam vegetabile: &amp; vegetabile quam sensibile: &amp; sensibile quam rationale: &amp; 
+        <lb ed="#Bb" n="8"/>hoc quia in talibus vltimum vel quasi vltimum semper addit aliquid nobilitatis super praece- 
+        <lb ed="#Bb" n="9"/>dens vel quasi praecedens: licet econtrario sit in ordine illorum. Id quod prius est simplicitate, simul 
+        <lb ed="#Bb" n="10"/>est prius nobilitate: eo quod in talibus posterius semper deficit a priori: &amp; quod est in posteriori, sub ratione 
+        <lb ed="#Bb" n="11"/>nobiliori est in priori. De quibus loquitur <name ref="#Aristotle">Philosophus</name> cum dicit secundo metaphysicae, quod prius in vno 
+        <lb ed="#Bb" n="12"/>quoque genere nobilius est eo quod est post, quemadmodum nobilius est ens primum vt deus, quam alia: &amp; ca 
+        <lb ed="#Bb" n="13"/>lidum in igne quam in quolibet alio. Quemadmodum autem esse &amp; viuere habent istas diuersas rationes 
+        <lb ed="#Bb" n="14"/>nobilitatis inter se comparata: sic verum &amp; bonum vt comparantur ad intellectum &amp; voluntatem. 
+        <lb ed="#Bb" n="15"/>Verum enim nobilius est bono: quemadmodum intellectus voluntate: inquantum non est nata voluntas mo-  
+        <lb ed="#Bb" n="16"/>ueri in bonum nisi moto intellectu in verum. Perfectior tamen est ratio boni quam veri: quia rationem 
+        <lb ed="#Bb" n="17"/>boni habet res ex eo quod est in se perfectam rationem habens perfectionis: veri autem ex eo quod nata est 
+        <lb ed="#Bb" n="18"/>dare perfectionem alteri vt intellectui. secundum quod haec patent ex supra determinatis. Nunc autem per 
+        <lb ed="#Bb" n="19"/>fectio rei quam habet ex eo quod est in se, simpliciter est perfectio &amp; essentialis respectu perfectionis quam habet ali 
+        <lb ed="#Bb" n="20"/>quid ex eo quod natum est perficere aliud. Secundum enim quod dicit Auicen. ix. metaphysicae, non po- 
+        <lb ed="#Bb" n="21"/>test aliqua causarum perfici per causatum essentialiter nisi accidentaliter. Per quod probat quod caelum non 
+        <lb ed="#Bb" n="22"/>acquirit suam perfectionem per suum motum. Vnde quia simpliciter perfectior &amp; nobilior est ratio bo 
+        <lb ed="#Bb" n="23"/>ni quam veri simpliciter &amp; per se: actus terminatus &amp; perfectus a bono est simpliciter perfectior &amp; no-  
+        <lb ed="#Bb" n="24"/>bilior quam actus terminatus in vero: &amp; hoc in primo bono &amp; primo vero: respectu cuius actus intelligendi &amp; 
+        <lb ed="#Bb" n="25"/>volendi simpliciter habent comparari secundum perfectius &amp; imperfectius, nobilius &amp; ignobilius. 
+        <lb ed="#Bb" n="26"/>vt dictum est. Quamquam ergo simplicior sit ratio rei vt est abstracta ab intellectu &amp; habet rationem ve- 
+        <lb ed="#Bb" n="27"/>ri: &amp; sic terminat actum intellectus, quam sit ratio rei in se vt habet rationem boni &amp; terminat actum volun- 
+        <lb ed="#Bb" n="28"/>tatis: simpliciter tamen nobilior &amp; perfectior est actio voluntatis in bono &amp; in re secundum se, quam sit actio 
+        <lb ed="#Bb" n="29"/>intellectus in vero &amp; in re vt est apud intellectum. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e615">
+        ⁋ Ad tertium quod potentia nobilius perficitur haben 
+        <lb ed="#Bb" n="30"/>do perfectionem nobilem in se, quam ad ipsam extra se existentem: Dicendum quod compari ad perfectionem 
+        <lb ed="#Bb" n="31"/>nobilem extra se existentem potest aliquid dupliciter. Vno modo vt omnino manens extra illam, illa o- 
+        <lb ed="#Bb" n="32"/>mnino manente extra ipsum: quemadmodum lapis motu suo comparatus ad parietem, a quo re- 
+        <lb ed="#Bb" n="33"/>percutitur si fortius impigit in eum. Alio modo vt subintrans illam. Quod modo primo comparatur 
+        <lb ed="#Bb" n="34"/>ad aliquid nobile, comparatur ad ipsum vt ad terminum solummodo: non autem vt in quo recipia- 
+        <lb ed="#Bb" n="35"/>tur: &amp; ita non vt ad illud a quo perfectionem nobilitatis habeat, quam habet illud quod habet in se per 
+        <lb ed="#Bb" n="36"/>fectionem nobisem. Quod vero secundo modo comparatur ad aliquid nobile, non comparatur ad ipsum 
+        <lb ed="#Bb" n="37"/>vt ad terminum tantum, scilicet manentem omnino extra se: sed vt in quo recipitur. &amp; ita compa- 
+        <lb ed="#Bb" n="38"/>ratur vt ad illud a quo perfectionem maiorem nobilitatis habeat, quam id quod habet illam perfectionem no 
+        <lb ed="#Bb" n="39"/>bilem receptam in se, absque eo quod ipsum etiam recipiatur in illo. Vnde de illo quod comparatur ad no 
+        <lb ed="#Bb" n="40"/>bile vt ad terminum primo modo, bene procedit obiectio: non autem de eo quod comparatur ad nobi 
+        <lb ed="#Bb" n="41"/>e vt ad terminum secundo modo. Perfectius enim est voluntatem isto modo comparari in particu- 
+        <lb ed="#Bb" n="42"/>lari vt ad terminum ad nobile increatum, quam intellectum nobilitatem illius habere in se: eo scilicet quod intel- 
+        <lb ed="#Bb" n="43"/>lectus habet illam in se inferiori modo quam habeat esse in ipso. Vniuersaliter enim. superiora imperfe 
+        <lb ed="#Bb" n="44"/>ctius &amp; minus nobiliter recipiuntur in intellectu, quam habeant esse secundum se extra: inferiora autem 
+        <lb ed="#Bb" n="45"/>econtrario: quia quod in aliquo recipitur, in illo recipitur per modum recipientis: non autem per modum rei 
+        <lb ed="#Bb" n="46"/>receptae, vt dicitur in libro de causis. Et secundum hoc voluntas perfectior est intellectu: sicut vel- 
+        <lb ed="#Bb" n="47"/>le aut amare deum est actio perfectior quam cognoscere ipsum. Et econuerso perfectius intellectum ha 
+        <lb ed="#Bb" n="48"/>bere nobilitatem intelligibilis creati, quam voluntatem comparari ad illam vt ad terminum: eo scilicet quod intel 
+        <lb ed="#Bb" n="49"/>lectus illam habet in se superiori modo quam ipsa habeat esse in se. vt secundum hoc intellectus pere- 
+        <lb ed="#Bb" n="50"/>ctior sit voluntate: sicut intelligere lapidem est actio perfectior &amp; nobilior quam velle lapidem. Et sic cum 
+        <lb ed="#Bb" n="51"/>tripliciter possint comparari intellectus &amp; voluntas: Vno modo respectu intelligibilis &amp; volibilis 
+        <lb ed="#Bb" n="52"/>simpliciter &amp; in vniuersali: Alio modo respectu volibilis &amp; intelligibilis creati seu inferioris quam sit in  
+        <lb ed="#Bb" n="53"/>tellectus: Tertio modo respectu superioris &amp; maxime intelligibilis &amp; volibilis increati: Dicunt illi 
+   <!--78.xml-->
+        <pb ed="#Bb" n="32-r"/>
+        <lb ed="#Bb" n="1"/>qui volunt intellectum nobilitare super voluntatem, quod simpliciter &amp; absolute nobilior est intel- 
+        <lb ed="#Bb" n="2"/>lectus voluntate, &amp; actio intellectus actione voluntatis, &amp; similiter respectu alicuius obiecti deter- 
+        <lb ed="#Bb" n="3"/>minati, licet etiam respectu alicuius obiecti voluntas potest esse nobilior intellectu, &amp; actio voluntatis 
+        <lb ed="#Bb" n="4"/>actione intellectus. Nullum enim est inconueniens (vt dicunt) quod nobilius simpliciter sit minus 
+        <lb ed="#Bb" n="5"/>nobile respectu alicuius obiecti. &amp; in hoc consistit vis &amp; radix positionis eorum. Sed non est ita vt 
+        <lb ed="#Bb" n="6"/>dicunt &amp; suprponunt. Non enim solummodo voluntas comparatur ad nobile suum, vt ad terminum 
+        <lb ed="#Bb" n="7"/>in quo sit ipsa &amp; eius actio, qui extra ipsam omnino maneat, &amp; ipsa extra illum: quod tamen ipsi sup 
+        <lb ed="#Bb" n="8"/>ponunt: aut nihil est quod dicunt, sicut patet. Immo voluntas comparatur ad obiectum &amp; nobi- 
+        <lb ed="#Bb" n="9"/>le suum, quod est bonum, vt receptum in ipso: vt nobilitas voliti perfectius habeatur a voluntate quam no 
+        <lb ed="#Bb" n="10"/>bilitas intellecti ab ipso intellectu. Eo quod intellectum non habet esse in intellectu nisi secundum ratio 
+        <lb ed="#Bb" n="11"/>nem luminis diffundentis se in intellectu, &amp; sic per modum disponentis intellectum: quemadmodum 
+        <lb ed="#Bb" n="12"/>lumen in aere est solummodo sicut quaedam dispositio aeris. Volitum autem habet esse in volunta 
+        <lb ed="#Bb" n="13"/>te secundum rationem flammae conuertentis in se voluntatem, &amp; sic non per modum disponentis 
+        <lb ed="#Bb" n="14"/>aut dispositionis, sed per identitatem &amp; per modum in se voluntatem conuertentis, quemadmodum 
+        <lb ed="#Bb" n="15"/>flamma existens in aere in se conuertit aerem vt per identitatem vnum sit in altero. &amp; sic volun- 
+        <lb ed="#Bb" n="16"/>tas habet esse in volito sicut ei immersum per amorem: cum intellectus sit quasi omnino extra in-  
+        <lb ed="#Bb" n="17"/>tellectum. dicente Hugone super. vii. cap cae. Hie. Dilectio intrat vbi cognitio foris stat. Et per hoc 
+        <lb ed="#Bb" n="18"/>volitum voluntatem quodammodo conuertit in seipsum, sicut amantem in amatum: &amp; per hoc 
+        <lb ed="#Bb" n="19"/>multo perfectius habet in se voluntas nobilitatem voliti, quam intellectus nobilitatem intellecti. Et ita si se 
+        <lb ed="#Bb" n="20"/>cundum modum quem ponunt, debeat considerari comparatio intellectus &amp; voluntatis secundum 
+        <lb ed="#Bb" n="21"/>maiorem nobilitatem &amp; minorem, etiam secundum illum modum voluntas simpliciter est nobilior in-  
+        <lb ed="#Bb" n="22"/>tellectu, licet respectu alicuius intellecti &amp; voliti vt creati seu eius quod est inferius intellectu, nobilior 
+        <lb ed="#Bb" n="23"/>sit intellectus quam voluntas: &amp; actio intellectus quam sit actio voluntatis. Et sic omnino ex positione illorum con- 
+        <lb ed="#Bb" n="24"/>tingit eis contrarium eius quod intendunt. Dicimus ergo quod haec est per se &amp; essentialis differentia intellectus 
+        <lb ed="#Bb" n="25"/>&amp; voluntatis, in qua consistit differens ipsorum nobilitas scilicet quod perfectio &amp; dignitas intellectus in hoc con 
+        <lb ed="#Bb" n="26"/>sistit, quod res intellecta existit in intellectu vt formalis dispositio in ipso, &amp; per hoc secundum actum 
+        <lb ed="#Bb" n="27"/>intelligit. Perfectio vero &amp; dignitas voluntatis in hoc consistit, quod ipsa voluntas existit in re volita, 
+        <lb ed="#Bb" n="28"/>vt conuersa in ipsam: quod est eius terminari in volitum, vt consistit in seipso. Perfectius autem se ha 
+        <lb ed="#Bb" n="29"/>bet aliquid ad nobile vt quodammodo conuersum in ipsum, &amp; sic existens quasi vt natura eius: quam  
+        <lb ed="#Bb" n="30"/>habere ipsum in se solum modo vt dispositionem ipsius. Et sic voluntas &amp; intellectus etiam com- 
+        <lb ed="#Bb" n="31"/>parati ad volitum &amp; intellectum simpliciter &amp; absolute &amp; in vniuersali, inuenitur quod voluntas est 
+        <lb ed="#Bb" n="32"/>perfectior quam sit intellectus, licet intellectus sit persectior voluntate cum comparatur ad intellectum 
+        <lb ed="#Bb" n="33"/>&amp; volitum creatum, aut inferius intellectu. Et nullum est inconueniens: quod ignobilius simpliciter, sit 
+        <lb ed="#Bb" n="34"/>magis nobile respectu alicuius obiect. scilicet respectu obiecti non principalis, sed secundarii &amp; minus nobilis. 
+        <lb ed="#Bb" n="35"/>vt sic in male disposito per intellectum &amp; voluntatem scilicet in intelligendo, &amp; amando, &amp; volendo bonum creatum 
+        <lb ed="#Bb" n="36"/>respectu illius qui vult &amp; intelligit id quod est bonum increatum, &amp; per hoc est in optima dispo- 
+        <lb ed="#Bb" n="37"/>sitione secundum intellectum &amp; voluntatem, solummodo contingit quod intellectus principatur vo- 
+        <lb ed="#Bb" n="38"/>luntati, quemadmodum in homine male disposito secundum appetitum &amp; rationem, appetitus prin- 
+        <lb ed="#Bb" n="39"/>cipatur rationi, vt supra dictum est. Inconueniens vero esset quod ignobilius simpliciter esset magis no-  
+        <lb ed="#Bb" n="40"/>bile respectu obiecti primi &amp; principalis &amp; magis nobilis, licet illi dicant hoc non esse incoueniens 
+        <lb ed="#Bb" n="41"/>&amp; male, quia cui conuenit nobilius primum in vnoquoque genere, ei simpliciter nobilius convenit ge 
+        <lb ed="#Bb" n="42"/>nus illud: vt quod caeteris est nobilior substantia, caeteris est nobilius ens. Vnde quemadmodum ignis 
+        <lb ed="#Bb" n="43"/>quia est primum calidorum &amp; causa omnium aliorum calidorum, &amp; caliditatis in eis, ideo est maxi- 
+        <lb ed="#Bb" n="44"/>me calidum: &amp; ideo etiam est simpliciter calidum: &amp; similiter contingit circa vnumquodque prin- 
+        <lb ed="#Bb" n="45"/>cipiorum in quolibet genere, vt dicit Philosophous. ii. Metaphysicae: Sic cui conuenit nobilius id  
+        <lb ed="#Bb" n="46"/>quod est primum obiectum dignius &amp; nobilius in intellectis &amp; volitis, &amp; causa &amp; ratio intelligendi 
+        <lb ed="#Bb" n="47"/>&amp; volendi omnia alia, illud est magis nobile &amp; nobilius simpliciter. Quapropter voluntas, quia est 
+        <lb ed="#Bb" n="48"/>nobilior volendo deum in quocunque volente sit, quam sit intellectus in intelligendo deum: quod &amp; illi 
+        <lb ed="#Bb" n="49"/>concedunt: simpliciter ergo &amp; absolute voluntas nobilior est potentia in volendo quam intellectus in in  
+        <lb ed="#Bb" n="50"/>telligendo: &amp; simpliciter &amp; absolute nobilior est actus volendi quam intelligendi. Et sic patet quod redit in  
+        <lb ed="#Bb" n="51"/>dem inuestigare principalitatem inter intellectum &amp; rationem, aspiciendo scilicet ad primum &amp; 
+        <lb ed="#Bb" n="52"/>principale intellectum &amp; volitum, siue ad intellectum &amp; voluntatem in optima dispositione intel 
+        <lb ed="#Bb" n="53"/>ligendi &amp; volendi, quae est in volendo &amp; intelligendo deum, secundum modum quem supra sumus 
+        <lb ed="#Bb" n="54"/>secuti, &amp; aspiciendo ad actum intelligendi &amp; volendi simpliciter verum &amp; bonum non determinam 
+        <lb ed="#Bb" n="55"/>do hoc vel illud: penes quem illi statuerunt principalitatem inter intellectum &amp; voluntatem debere 
+   <!--79.xml-->
+        <pb ed="#Bb" n="32-v"/>
+        <lb ed="#Bb" n="1"/>inuestigari: &amp; bene: licet in minore propositione &amp; in modo prosequendi deficiant. Et ideo conclu- 
+        <lb ed="#Bb" n="2"/>debant intellectum principaliorem esse, vt iam dictum est in solutione argumenti. Concludendo au  
+        <lb ed="#Bb" n="3"/>tem ex ea voluntatem esse principaliorem, debemus ex contraria minore prosequi intentum, secun 
+        <lb ed="#Bb" n="4"/>dum quod iam declaratum est. Et patet ex hoc (vt puto) veritas quaesiti. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e806">
+        ⁋ Ad quartum: quod intellectus minus 
+        <lb ed="#Bb" n="5"/>spedatur in intelligendo viliora se, quam voluntas: Dicendum quod aliquid foedari viliori se, potest contin  
+        <lb ed="#Bb" n="6"/>gere dupliciter: aut pure passiue: aut pure actiue. De primo modo propositio illa habet veritatem: quia 
+        <lb ed="#Bb" n="7"/>illa foedatio ex parte fpedati est propter eius passibilitatem &amp; materialitatem. Propter hoc enim aer 
+        <lb ed="#Bb" n="8"/>magis foedatur transeundo per loca foeda, quam lumen. Secundo autem modo non habet veritatem: quia 
+        <lb ed="#Bb" n="9"/>illa fcedatio ex parte fcedati contingit propter virtutis actiuae vigorem: qua se magis fcedat &amp; ma 
+        <lb ed="#Bb" n="10"/>gis impingit se in rem foedam: quemadmodum primus angelus magis fcedauit se in peccato suo quam  
+        <lb ed="#Bb" n="11"/>primus homo, propter maiorem vigorem liberi arbitrii angeli quam hominis. propter hoc enim ita impegit 
+        <lb ed="#Bb" n="12"/>in bonum temporale, vt insepabiliter ei adhaeserit, &amp; statim obstinatus est: homo vero non. Et isto secundo mo 
+        <lb ed="#Bb" n="13"/>do contingit quod voluntas magis foedatur diligendo inferiora se, quam fcedatur intellectus intelligendo  
+        <lb ed="#Bb" n="14"/>illa. &amp; hoc ideo, quia voluntas ad foedari ab ipsis actiue se habet ad illa: intellectus vero passiue, 
+        <lb ed="#Bb" n="15"/>vt patet ex praedeterminatis: &amp; ita plus fcedari contingit voluntati circa viliora se, ex eius nobilita 
+        <lb ed="#Bb" n="16"/>te maiori potius quam econverso: &amp; econtrario de intellectu. 
+      </p>
+      <p xml:id="vn58an-fe8019-d1e836">
+        ⁋ Ad quintum quod intellectus est ad actum 
+        <lb ed="#Bb" n="17"/>. nobiliorem quam voluntas: quia ille est ad actum generandi: ista vero ad actum spirandi: &amp; actus gene 
+        <lb ed="#Bb" n="18"/>randi est habens auctoritatem vel quasi, in suo producto, respectu illius quod est productum actu spiran 
+        <lb ed="#Bb" n="19"/>di: Dicendum quod in rei veritate non est dignitas maior in vno actu quam in alio: nec in vna persona ma 
+        <lb ed="#Bb" n="20"/>ior quam in alia. &amp; si vna persona habet quasi dignitatem super aliam, hoc est ratione auctoritatis quam  
+        <lb ed="#Bb" n="21"/>habet ratione ordinis naturae siue originis in vna persona respectu alterius. Et ideo cum secundum praedicta du 
+        <lb ed="#Bb" n="22"/>plex est dignitas, prioritatis, &amp; perfectionis: dignitas vel quasi dignitas ista, non est nisi ratione quasi 
+        <lb ed="#Bb" n="23"/>prioritatis: quae nullo modo est in diuinis, vt infra dicetur. Et quo ad hoc concessum est quod intelle- 
+        <lb ed="#Bb" n="24"/>ctus dignior vel quasi dignior potentia est quam voluntas: sed hoc est secundum quid, cum econverso 
+        <lb ed="#Bb" n="25"/>voluntas sit quasi dignior perfectione secundum praeexpositum modum, quae est dignitas simpliciter. 
+        <lb ed="#Bb" n="26"/>Propter quod &amp; voluntas etiam in deo dignior est vel quasi dignior ratio simpliciter, quam intellectus: li 
+        <lb ed="#Bb" n="27"/>cet quasi prioritate in ordine rationis intellectus sit dignior, &amp; ita secundum quid. secundum quod omnia 
+        <lb ed="#Bb" n="28"/>haec patent ex praedeterminatis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

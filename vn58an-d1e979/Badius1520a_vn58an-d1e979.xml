@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="81-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e979"> <!-- alias="vn58an-a11q6" -->
+      <head xml:id="vn58an-d1e979-Hd1e104">Quaestio 6</head>
+      <head xml:id="vn58an-d1e979-Hd1e107" type="question-title">Utrum primi doctores eius simplices et idiotae esse debebant</head>
+      <p xml:id="vn58an-d1e979-d1e110">
+        <lb ed="#Ba" n="14"/>CIrca: Sextum arguitur: quod primi doctores huius scientiae simplices &amp; idiotae 
+        <lb ed="#Ba" n="15"/>esse non debebant. Primo sic. tales debebant esse primi huius sapientiae docto- 
+        <lb ed="#Ba" n="16"/>res: per quos mundus facilius ad fidem possit conuerti: quia ad hoc docebant 
+        <lb ed="#Ba" n="17"/>hanc scientiam fidei. Mundus autem facilius potuit conuerti per tales quales 
+        <lb ed="#Ba" n="18"/>erant sapientes huius mundi. ergo &amp;c. Probatio minoris per Chrysostomum: qui 
+        <lb ed="#Ba" n="19"/>dicit super illud Matth. ii. Vidimus stallam eius. &amp;c. Missi (inquat) id totius orbis sa- 
+        <lb ed="#Ba" n="20"/> lutem magistri de cuiuslibet ipsorum more gentis modos sibi assumunt do-  
+        <lb ed="#Ba" n="21"/>cendi. Sed mos communis gentium tunc erat non credere nisi quod naturali ratione posset inue- 
+        <lb ed="#Ba" n="22"/>stigari. secundum quod super illud. i. Corin. i. ludaei signa quaerunt, graeci sapientiam. dicit Gl. Quaerumt scilicet vtrum 
+        <lb ed="#Ba" n="23"/>quod praedicatur natura patiatur. 
+      </p>
+      <p xml:id="vn58an-d1e979-d1e134">
+        ⁋ Secundo sic. Illa scientia quae soli auctoritati non naturali rationi 
+        <lb ed="#Ba" n="24"/>innititur, neque docetur nisi vt ei credatur, per illos debuit primo doceri per quos maxime ei cre- 
+        <lb ed="#Ba" n="25"/>deretur. tales erant sapientes mundi: non idiotae: quia illis solet credi: istis non. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e979-d1e142">
+        ⁋ In con 
+        <lb ed="#Ba" n="26"/>trarium est Gl.lloii: quae dicit. Nathanael peritissimus scripturarum, quia doctissimus, non est in  
+        <lb ed="#Ba" n="27"/>apostolatum electus. Omnes enim apostoli primo de idiotis sunt assumpti. scilicet vt confun- 
+        <lb ed="#Ba" n="28"/>dantur sapientes. 
+      </p>
+      <p xml:id="vn58an-d1e979-d1e151">
+        <lb ed="#Ba" n="29"/>⁋ Dicendum ad hoc: quod proculdubio primi doctores huius scientiae simplices &amp; 
+        <lb ed="#Ba" n="30"/>idiotae electi sunt. Secundum quod dicit Augustinus. xxii. de civitate dei. Ineruditos liberalibus disciplinis: 
+        <lb ed="#Ba" n="31"/>&amp; omnino quantum ad istorum doctrinas attinet impolitos, non peritos grammatica, non armatos 
+        <lb ed="#Ba" n="32"/>dialectica, nec rhetorica inflatos: piscatores Christus cum retibus fidei ad mare seculi paucissimos 
+        <lb ed="#Ba" n="33"/>misit: atque ex omni genere tam multos pisces: &amp; tanto mirabiliores quanto rariores: etiam ipsos philosophous 
+        <lb ed="#Ba" n="34"/>cepit. Et quare tales Christus mittere debuit &amp; voluit: triplex est ratio. quarum Prima est: quod 
+        <lb ed="#Ba" n="35"/>scientia ista quia non innititur humanae rationi: neque humano testimonio, sed primae veritati:  
+        <lb ed="#Ba" n="36"/>vt dictum est supra: per tales debuit doceri ab initio: per quos summe posset apparere auctori 
+        <lb ed="#Ba" n="37"/>tas primae veritatis in ea: nec eam esse fulcitam alicuius humanae rationis aut inuentionis indu- 
+        <lb ed="#Ba" n="38"/>stria. tales erant simplices &amp; idiotae. Contra tales enim nulla erat suspitio: ne humana inuentione 
+        <lb ed="#Ba" n="39"/>eam confinxissent: &amp; ne naturali ratione populo eam ad credendum suasissent. sicut fuisset si per sapientes 
+        <lb ed="#Ba" n="40"/>mundi eam ab initio docuisset. Vnde Greg. exponens illud lob. Ligabit eum ancillis suis. dicit 
+        <lb ed="#Ba" n="41"/>xxxiii. Morali. Bene domins Leuiatham non seruis suis: sed ancillis se ligare asseruit: quiam ad nostram 
+        <lb ed="#Ba" n="42"/>redemptionem veniens: &amp; suos contra mundi sapientiam praedicatores mittens: relictis sapientibus insi- 
+        <lb ed="#Ba" n="43"/>pientes, telictis fortibus debiles, relictis diuitibus pauperes elegit. Vnde in euangelio dominus 
+        <lb ed="#Ba" n="44"/>Nathanael laudat: nec tamen in sorte praedicantium numerat: quia ad perdicandum tales venire debuerant:  
+        <lb ed="#Ba" n="45"/>qui de laude propria nihil habebant: vt tanto solius veritatis cognosceretur esse quod agerent:  
+        <lb ed="#Ba" n="46"/>quanto &amp; aperte cerneretur quia ad hoc agendum idonei non fuissent. Vt ergo mira potentia 
+        <lb ed="#Ba" n="47"/>per praedicatorum linguas claresceret: mirabilius actum est vt eorum praedicantium nulla esset. Idcir 
+        <lb ed="#Ba" n="48"/>co ergo haec scientia per simplices &amp; idiotas: &amp; non per alios ab initio doceri debuit: vt ex eorum sim 
+        <lb ed="#Ba" n="49"/>plicitate &amp; doctrinae efficacia in convertendo totum mundum confunderentur sapientes: &amp; relicta vana 
+        <lb ed="#Ba" n="50"/>mundi sapientia: ad veram sapientiam dei diuerterent: &amp; sic per veram sapientiam falsam sapientiam de 
+        <lb ed="#Ba" n="51"/>strueret. Et haec est ratio quam assignat Apostolus. i. Corin. i. Non me (inquit) misit deus baptizare: 
+        <lb ed="#Ba" n="52"/>sed euangelizare: non in sapientia verbi: vt non euacuetur crux Christiaua G id e. non in sapientia philosophorum 
+        <lb ed="#Ba" n="53"/>in lepore &amp; ornatu verborum: quia praedicatio Christiana non indiget pompa &amp; cultu sermonis: ne 
+        <lb ed="#Ba" n="54"/>videatur esse ex versutia &amp; calliditate humanae sapientiae: non ex veritate. Ibi enim compositio verborum  
+        <lb ed="#Ba" n="55"/>quaeritur, vbi teste virtute non commendat se ipsa veritas. sicut in sapientia mundana. Sequitur in apso, 
+   <!--177.xml-->
+        <pb ed="#Ba" n="81-v"/>
+        <lb ed="#Ba" n="1"/>Scriptum est enim. Perdam sapientiam sapientium, &amp; prudentiam prudentium reprobabo. vbi sapiens: 
+        <lb ed="#Ba" n="2"/>vbi scriba, vbi inquisitor huius seculi: Gl. Id scriptum est in Abdia. Sapientiam mundanam &amp; pruden 
+        <lb ed="#Ba" n="3"/>tiam eliminabo a praedicatoribus euangelii: vt tales sapientes inter praedicatores non recipiam. Scriba 
+        <lb ed="#Ba" n="4"/>est, qui de moribus &amp; artibus praecepta dat. Inquisitor qui secreta naturae rimatur. tales non reci 
+        <lb ed="#Ba" n="5"/>pit deus inter praedicatores: sed stultos. Vnde sequitur. Nonne stultam fecit deus sapientiam huius 
+        <lb ed="#Ba" n="6"/>mundi: Nam quia in dei sapientia non cognouit mundus per sapientiam deum, placuit deo per stultitiam 
+        <lb ed="#Ba" n="7"/>praedicationis saluos facere credentes. Gl. i. per praedicatores imperitos mundanae sapientiae, qui stulti 
+        <lb ed="#Ba" n="8"/>videbantur. 
+      </p>
+      <p xml:id="vn58an-d1e979-d1e234">
+        ⁋ Secunda ratio est: quia si sapientes, potentes, &amp; nobiles electi fuissent: non solum fidei 
+        <lb ed="#Ba" n="9"/>&amp; scientiae haec virtus praedicationis: sed conditioni talium ascriberetur: vt dicit praecedens ra- 
+        <lb ed="#Ba" n="10"/>tio. sed &amp; ipsi propter tales conditiones suas ad hoc viderentur electi: &amp; ita ex hoc in se super- 
+        <lb ed="#Ba" n="11"/>birent. Ne igitur hoc contingeret: tales non elegit: sed simplices, pauperes, &amp; infirmos. 
+      </p>
+      <p xml:id="vn58an-d1e979-d1e243">
+        ⁋ Tertia 
+        <lb ed="#Ba" n="12"/>vt mundi sapientes confunderet: qui non potuerunt ad suam sectam saltem vnam conuertere 
+        <lb ed="#Ba" n="13"/>gentem: quando viderunt ad apostolos per eorum praedicationem conuerti totum mundum. Has 
+        <lb ed="#Ba" n="14"/>rationes duas simul assignat apostolus cum dicit. i. Corin. i. Videte enim vocationem: vestram 
+        <lb ed="#Ba" n="15"/>fratres, quia non multi sapientes secundum carnem, non multi potentes, non multi nobiles, sed quae  
+        <lb ed="#Ba" n="16"/>stulta sunt mundi elegit deus, vt confundat sapientes: &amp; infirma mundi elegit deus vt confun 
+        <lb ed="#Ba" n="17"/>dat fortia: &amp; ignobilia mundi &amp; contemptibilia elegit deus, &amp; ea quae non sunt, vt ea quae sunt 
+        <lb ed="#Ba" n="18"/>destrueret: vt non glorietur omnis caro in conspectu eius. Gl. i. Videte per quos insipientes &amp; 
+        <lb ed="#Ba" n="19"/>infirmos vos vocati estis: qui tamen confuderunt sapientes &amp; fortes. Venit humilis deus quaerens 
+        <lb ed="#Ba" n="20"/>humiles non altos: quia etsi primum elegerit pauperes, infirmos, &amp; indoctos, non tamen reliquit 
+        <lb ed="#Ba" n="21"/>sapientes, diuites, &amp; nobiles: Sed si eos eligeret primos: merito talium rerum sibi viderentur eligi: 
+        <lb ed="#Ba" n="22"/>atque inflati de his rebus salutem humilitatis non reciperent. ldeoque non elegit reges: vel senato 
+        <lb ed="#Ba" n="23"/>res: vel philosophos: vel oratores: immo elegit plebeos: pauperes: indoctos piscatores. Nisi fideliter prae 
+        <lb ed="#Ba" n="24"/>cederet piscator: non humiliter sequeretur orator. Vnde <name ref="#Augustine">Augustinus</name> i per super Ion ser. vii. Si doctus 
+        <lb ed="#Ba" n="25"/>eligeretur fortassis ideo diceret se electum: quia doctrina eius meruit eligi. Dominus igitur lesus 
+        <lb ed="#Ba" n="26"/>Christus volens superborum frangere ceruices: non quaesiuit per oratorem piscatorem: sed de 
+        <lb ed="#Ba" n="27"/>piscatore lucratus est imperatorem. Magnus Cyprianus orator: sed prior Petrus piscator: per 
+        <lb ed="#Ba" n="28"/>quem postea crederet non tantum orator: sed etiam imperator. Nullus nobilis primo electus est: nul- 
+        <lb ed="#Ba" n="29"/>us doctus: quia infirma mundi elegit vt confunderet fortia. Eratque Nathanael magnus &amp; sine 
+        <lb ed="#Ba" n="30"/>dolo, hoc solo non electus ne cuiquam videretur dominus doctos elegisse. Et de verbis apostoli ser. 
+        <lb ed="#Ba" n="31"/>xxvi. Petrus piscator fuit: &amp; modo magnam laudem habet orator si poterit ab illo intelligi pi 
+        <lb ed="#Ba" n="32"/>scator. Si enim eligeret primitus Christus oratorem, diceret orator: eloquentiae meae merito ele- 
+        <lb ed="#Ba" n="33"/>ctus sum. Si eligeret senatorem: diceret senator, dignitatis meae merito electus sum. Si eligeret 
+        <lb ed="#Ba" n="34"/>imperatorem: diceret imperator: potestatis meae merito electus sum. Quiescant &amp; differantur 
+        <lb ed="#Ba" n="35"/>ista paululum: quiescant: non omittantur: sed aliquantulum differantur cum possunt gloria 
+        <lb ed="#Ba" n="36"/>ri de semetipsis in semetipsis. Da mihi (inquit) illum piscatorem: da mihi idiotam: da mihi im 
+        <lb ed="#Ba" n="37"/>peritum: da mihi cui non dignatur loqui imperator: nec quando emit piscem: ipsum (inquit)  
+        <lb ed="#Ba" n="38"/>da: hunc si impleuero manifestum est quod ego facio: quamquam &amp; imperatorem &amp; senatorem &amp; orato- 
+        <lb ed="#Ba" n="39"/>rem ego sum facturus: sed citius piscatorem. Potest senator gloriari de semetipso: potest ora- 
+        <lb ed="#Ba" n="40"/>tor: potest imperator: non potest nisi de Christo piscator. Prius ergo veniat piscator: per ipsum 
+        <lb ed="#Ba" n="41"/>melius adducetur imperator. Sed quid est: numquid Paulus doctus electus est: Reuera vtique: sed  
+        <lb ed="#Ba" n="42"/>doctrinam suam subiecit: quod facere oportuit. secundum quod super illud, Perdam sapientiam. di- 
+        <lb ed="#Ba" n="43"/>cit Gl. Inter praedicatores: inter quos esse voluit: sapientiam illam abiicere oportuit. Et cum 
+        <lb ed="#Ba" n="44"/>hoc Paulus fuit iuuenis: vnde doctum ipsum fore nondum constitit: nec doctrina sua vsus 
+        <lb ed="#Ba" n="45"/>fuit. secundum quod ipse dicit. i. Corin. ii. Ego cum venissem ad vos fratres: veni non in sublimi- 
+        <lb ed="#Ba" n="46"/>tate sermonis aut sapientiae annuncians vobis te. Christi &amp;c. Gl. Qui eram sapiens, fui quasi non 
+        <lb ed="#Ba" n="47"/>essem sapiens: vt logicis rationibus vterer: aut philosophicis speculationibus illud confirmarem. sed in ser 
+        <lb ed="#Ba" n="48"/>mone meo ostendi me habere spiritum &amp; virtutem in miraculis faciendis: vt fides nostra non at  
+        <lb ed="#Ba" n="49"/>tribuatur homini: sed deo: quia non in verbis: sed in virtute est: non humana ratione compre 
+        <lb ed="#Ba" n="50"/>hensibilis: sed spiritus efficacia credibilis. secundum quod apostolus ad Hebr. ii. loquens de initio 
+        <lb ed="#Ba" n="51"/>praedicationis fidei: dicit. Quae cum initium accepisset enarrandi per dominum ab eis qui audie 
+        <lb ed="#Ba" n="52"/>runt, in nos confirmata est contestante deo signis: &amp; prodigiis: &amp; portentis: &amp; variis virtu- 
+        <lb ed="#Ba" n="53"/>tibus: &amp; spiritus sancti distributionibus secundum suam voluntatem. Et hoc totum factum 
+        <lb ed="#Ba" n="54"/>est: vt vis praedicationis: non humanae sapientiae: sed diuinae virtutis esse ostenderetur. secundum  
+        <lb ed="#Ba" n="55"/>quod ibidem dicit Gl. Per quod ostendit quod verbum praedicationis non simpliciter est eis creditum: sed per 
+   <!--178.xml-->
+        <pb ed="#Ba" n="82-r"/>
+        <lb ed="#Ba" n="1"/>signa &amp; prodigia. ldeoque dum credimus, non illis: sed deo credere declaratur: non secundum meritum 
+        <lb ed="#Ba" n="2"/>hominum: sed secundum spiritus voluntatem. Et hoc est quod dicit Apostolus in dicto verbo. Et ego 
+        <lb ed="#Ba" n="3"/>(inquit) cum venissem ad vos fratres: veni non in sublimitate sermonis aut sapientiae annun 
+        <lb ed="#Ba" n="4"/>cians vobis testimonium Christianua Non enim me iudicaui scire aliquid inter vos nisi lesum Christum 
+        <lb ed="#Ba" n="5"/>&amp; hunc crucifixum: &amp; ego in infirmitate &amp; timore &amp; tremore multo fui apud vos: &amp; sermo &amp; 
+        <lb ed="#Ba" n="6"/>praedicatio mea non in persuasibilibus humanae sapientiae verbis: sed in ostensione spiritus &amp; 
+        <lb ed="#Ba" n="7"/>virtutis: vt fides nostra non sit in sapientia hominum: sed in virtute dei. vt expositum est secundum  
+        <lb ed="#Ba" n="8"/>Augustinum. Vel potest dici de vocatione Pauli sapientis, secundum quod dicit Gl. super illud. Non mul 
+        <lb ed="#Ba" n="9"/>ti nobiles &amp;c. Non ait (inquit) nulli: forsitan pro se: qui solus inter apostolos secularium literarum 
+        <lb ed="#Ba" n="10"/>peritus: &amp; terrenarum opum diues. &amp; Romanae dignitatis parentela conspicuus fuit: qui tamen haec 
+        <lb ed="#Ba" n="11"/>nihil pendit: nec vsus est eis. secundum quod iam ostensum est. 
+      </p>
+      <p xml:id="vn58an-d1e979-d1e372">
+        <lb ed="#Ba" n="12"/>⁋ Ad primum in oppositum: quod mundus facilius potuit conuerti per sapientes: Dicendum  
+        <lb ed="#Ba" n="13"/>quod non est verum: quia per sapientiam mundi non potuisset mundus deum cognoscere neque recipe 
+        <lb ed="#Ba" n="14"/>verbum fidei: sed solum per virtutem spiritus opeantis interius per gratiam, &amp; exterius per miraculorum poten- 
+        <lb ed="#Ba" n="15"/>tiam. Ne ergo id quod fieret per spiritus virtutem, aliquo modo ascriberetur humanae sapientiae, pla 
+        <lb ed="#Ba" n="16"/>cuit deo per stultitiam praedicationis. i. per praedicatores imperitos saluos facere credentes: vt di 
+        <lb ed="#Ba" n="17"/>citur. i. Corin. i. Vnde dicit <name ref="#Augustine">Augustinus</name> in principio de vera rei. Non sic isti Socrates &amp; Plato 
+        <lb ed="#Ba" n="18"/>nati erant: vt populorum opinionem ad cultum verum dei veri a simulacrorum suspitione atque 
+        <lb ed="#Ba" n="19"/>ab huius mundi vanitate conuerterent. Et (vt dicit ibidem) si quaesitum fuisset a Platone an  
+        <lb ed="#Ba" n="20"/>ille homo esset diuino honore dignus: qui talia populo persuaderet qualia ecclesiae per Christum 
+        <lb ed="#Ba" n="21"/>&amp; apostolos sunt praedicata: respondisset non potuisse ab homine hoc fieri nisi quem ipsa dei virtus 
+        <lb ed="#Ba" n="22"/>atque sapientia: nec hominium magisterio: sed intima illustratione illustraret: vt dictum est supra. Vnde 
+        <lb ed="#Ba" n="23"/>ad hoc quod suaderent cuique secundum morem suum: sufficienter suadebat eis spiritus: nec oportebat eos 
+        <lb ed="#Ba" n="24"/>ad hoc aliter fuisse edoctos. 
+      </p>
+      <p xml:id="vn58an-d1e979-d1e406">
+        ⁋ Ad secundum: quod huic sapientiae plus crederetur per sapientes mundi:  
+        <lb ed="#Ba" n="25"/>Dicendum quod verum est si apostoli propria auctoritate eam docuissent. Sed quia docuerunt eam in 
+        <lb ed="#Ba" n="26"/>diuina virtute per sapientiae spectamina operante interius, per miraculorum opera fulgente exte- 
+        <lb ed="#Ba" n="27"/>rius: vt etiam ipsi sapientes mundi stupefierent: per hoc magis creditum est idiotis: quia nulla erat 
+        <lb ed="#Ba" n="28"/>contra eos suspitio: quin solum diuina virtute non humano ingenio ea suasissent: quae fuissent 
+        <lb ed="#Ba" n="29"/>contra sapientes mundi aliquo modo. Vnde &amp; talis conuersio mundi maximum veritatis fidei est 
+        <lb ed="#Ba" n="30"/>argumentum. Hinc enim dicit Chrysostomus. Quae sapientes seculi ne per fomnum quidem imaginari 
+        <lb ed="#Ba" n="31"/>aliquando potuerunt, haec isti cum asseueratione manifesta annunciant: atque persuadent subiugan 
+        <lb ed="#Ba" n="32"/>tes fidei non duos: non viginti: non centum: aut mille: aut decem millia: sed vrbes &amp; gentes, terram ac 
+        <lb ed="#Ba" n="33"/>mare, Graeciam simul ac Barbariam, habitabiles partes orbis ipsumque desertum: &amp; certe ea persua- 
+        <lb ed="#Ba" n="34"/>dent: quae naturam nostram longe videntur excedere. Haec autem a piscatoribus praedicata sunt, ex- 
+        <lb ed="#Ba" n="35"/>agitatis vndique &amp; saepius verberatis, absque vllo loquentibus cultu &amp; arte verborum: &amp; imperiti &amp; 
+        <lb ed="#Ba" n="36"/>eruditi: &amp; serui: &amp; liberi: &amp; reges: &amp; milites: &amp; Graeci: &amp; Barbari cum reuerentia susceperunt. Et 
+        <lb ed="#Ba" n="37"/>ideo dicit Apostolus. ii. Corin. x. Arma militiae nostrae non sunt carnalia: sed potentia deo ad de 
+        <lb ed="#Ba" n="38"/>structionem munitionum: consilia destruentes &amp; omnem altitudinem extollentem se aduersum scientiam 
+        <lb ed="#Ba" n="39"/>dei: &amp; in captiuitatem redigentes omnem intellectum in obsequium Christianua. Arma militiae nostrae. 
+        <lb ed="#Ba" n="40"/>Gl. Virtutes &amp; miracula, per quae in praedicatione militamus. Sed potentia deo. i. per deum. Denm 
+        <lb ed="#Ba" n="41"/>altitudinem. i. profunditatem intellectus tam legisperitorum: quam philosophorum. In obsequium Christiania st vt fidei 
+        <lb ed="#Ba" n="42"/>Christi cui ante repugnauerunt, humiliter obediant. Vnde &amp; in talibus armis etiam Christus mi 
+        <lb ed="#Ba" n="43"/>litauit: nec aliter doctrinam suam confirmare voluit. Secundum quod dicit Chrysostomus super Matth. 
+        <lb ed="#Ba" n="44"/>Nec ideo credebatur Christus facere virtutes: quia veritatem praedicabat: sed ideo credebatur 
+        <lb ed="#Ba" n="45"/>veritatem praedicare: quia poterat facere virtutes.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="29-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e338"> <!-- alias="vn58an-a3q5" -->
+      <head xml:id="vn58an-d1e338-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e338-Hd1e107" type="question-title">Utrum contingat hominem scire per gratiam illa quae excedunt naturam</head>
+      <p xml:id="vn58an-d1e338-d1e110">
+        <lb ed="#Ba" n="44"/>CIrca. v. arguitur: quod non contingit hominem scire per gratiam: illa quae excedunt 
+        <lb ed="#Ba" n="45"/>us naturam. Primo sic. Inter agens &amp; patiens debet esse proportio: non enim vt 
+        <lb ed="#Ba" n="46"/>dicit Philosophus: quodlibet natum est agere in quodlibet: sed vnumquodque in si 
+        <lb ed="#Ba" n="47"/>bi conveniens &amp; proportionale. Actus enim actiuorum sunt in patiente bene dispo 
+        <lb ed="#Ba" n="48"/>ito. Scitum autem agit in sciens: &amp; non est proportio intellectus humani in cogno  
+        <lb ed="#Ba" n="49"/>scendo, ad id quod eius naturam excedit: quia si in cognoscendo ipsum, esset eius ad ip 
+        <lb ed="#Ba" n="50"/>sum proportio, non excederet ipsum. ergo quod excedit ipsam naturam eius: non potest homo vllo 
+        <lb ed="#Ba" n="51"/>modo scire. 
+      </p>
+      <p xml:id="vn58an-d1e338-d1e130">
+        ⁋ Secundo sic: si sciret per gratiam: quod eius naturam excedit: illa gratia necessario esset 
+        <lb ed="#Ba" n="52"/>ei supernaturalis: sed quod est supernaturale non est susceptibile per naturam. ergo solum per gratiam 
+        <lb ed="#Ba" n="53"/>&amp; eadem ratione illa per aliam: &amp; sic in infinitum. hoc autem est impossibile vt sic procedatur. ergo 
+        <lb ed="#Ba" n="54"/>&amp; primum: quod homo sciat per gratiam: quod non potest scire per naturam. 
+      </p>
+      <p xml:id="vn58an-d1e338-d1e140">
+        ⁋ Tertio sic. sicut se habet 
+        <lb ed="#Ba" n="55"/>oculus corporalis ad videndum: mediante luce corporali sibi naturali: sic intellectus ad videndum  
+   <!--74.xml-->
+        <pb ed="#Ba" n="30-r"/>
+        <lb ed="#Ba" n="1"/>mediante luce spirituali sibi naturali. Sed nullo lumine superiori potest oculus corporalis eleuari 
+        <lb ed="#Ba" n="2"/>ad videndum quod non potest videre lumine sibi naturali. ergo nec oculus spiritualis ad videndum, 
+        <lb ed="#Ba" n="3"/>quod non potest videre lumine sibi naturali. 
+      </p>
+      <p xml:id="vn58an-d1e338-d1e156">
+        ⁋ In contrarium est: quoniam cognitio hominis naturalis non  
+        <lb ed="#Ba" n="4"/>excedit adminiculum sensus. si ergo non posset scire per gratiam, quae non potest scire per naturam: 
+        <lb ed="#Ba" n="5"/>nullo modo posset eius notitia excedere visibilia, quare cum in vltima notitia hominis, consistit eius 
+        <lb ed="#Ba" n="6"/>beatitudo, beatus esset ex notitia causatorum sensibilium quam potest habere ex ipsis: quare cum hoc sit 
+        <lb ed="#Ba" n="7"/>haeresis philosophorum, aliam oportet homini dare scientiam per gratiam quam potest habere per naturam. 
+      </p>
+      <p xml:id="vn58an-d1e338-d1e167">
+        <lb ed="#Ba" n="8"/>⁋ Dicendum ad hoc: quod secundum Augustius viii. super Genesim in ipso mundo ge- 
+        <lb ed="#Ba" n="9"/>mina operatio diuinae prouidentiae reperitur: partim naturalis, partim voluntaria. Naturalis per occul- 
+        <lb ed="#Ba" n="10"/>tam administrationem: de qua dicit libo ix. Omnis iste naturae vsitatissimus cursus habet quasdam  
+        <lb ed="#Ba" n="11"/>leges naturales &amp; determinatam vim quid vnumquodque valeat: vel non valeat. Verbi gratia: vt de 
+        <lb ed="#Ba" n="12"/>grano tritici non nascatur faba, sed triticum. Super hunc cursum rerum naturalem: voluntaria admi- 
+        <lb ed="#Ba" n="13"/>nistratione potestas est creatoris facere de omnibus aliud quam eorum seminales rationes habent. Ver- 
+        <lb ed="#Ba" n="14"/>bi gratia: vt lignum aridum repente floreat: &amp; fructum gignat: &amp; asina loquatur: &amp; huiusmodi caetera quae de 
+        <lb ed="#Ba" n="15"/>us naturis dedit: vt haec ex eis fieri possent actione potentioris. Non enim ex eis illa faceret nisi fieri 
+        <lb ed="#Ba" n="16"/>possent: vt ibi dicit Ioan. Damasen.s Quae tamen non dedit eis: vt haberent ex motu suo naturali: &amp; 
+        <lb ed="#Ba" n="17"/>ideo potentia illa appellatur potentia obedientiae non naturae. Nunc autem sicut deus agit &amp; mo-  
+        <lb ed="#Ba" n="18"/>uet sicut primus motor in mouendo creaturas corporales motu corporali: sic agit &amp; mouet vt pri 
+        <lb ed="#Ba" n="19"/>mus motor in mouendo creaturas spirituales motu spirituali. &amp; ideo sicut dupliciter mouet (vt di 
+        <lb ed="#Ba" n="20"/>ctum est) creaturas corporales: vna. scilicet prouidentia naturali &amp; generali: &amp; altera prouidentia specia 
+        <lb ed="#Ba" n="21"/>li &amp; voluntaria: similiter congruit vt dupliciter moueat creaturam spiritualem. Motus autem eius est 
+        <lb ed="#Ba" n="22"/>in intelligendo &amp; volendo: &amp; hoc scilicet prouidentia generali mouendo eam lumine naturaliter sibi indito 
+        <lb ed="#Ba" n="23"/>ad cognoscendum ea quae subsunt cognitioni naturali: &amp; similiter ad ea agendum: quae sibi ex na- 
+        <lb ed="#Ba" n="24"/>turalibus agere competit. Prouidentia autem speciali mouendo eam lumine supernaturaliter in  
+        <lb ed="#Ba" n="25"/>fuso ad cognoscendum quae sunt super facultatem rationis naturalis: &amp; similiter voluntarie ad agendum 
+        <lb ed="#Ba" n="26"/>quae sibi per gratiam agere competit: vt sic homo ordinetur tam ex parte intellectus, quam affectus 
+        <lb ed="#Ba" n="27"/>ad aliquid superius: quam ex puris naturalibus possit attingere: quod non contingit in aliquibus ratione 
+        <lb ed="#Ba" n="28"/>carentibus: &amp; hoc vt homo qui ferri debet in finem suum ratione &amp; voluntate, quod non competit 
+        <lb ed="#Ba" n="29"/>ratione carentibus, auxilium semper a deo suo postulet: neque ipsum aliquando contemnat, quod de facili faceret:  
+        <lb ed="#Ba" n="30"/>si ex puris naturalibus sibi omnino sufficeret. Et hoc est quod dicit Chryso. exponens illud Matthc. vii. 
+        <lb ed="#Ba" n="31"/>Date &amp; dabitur vobis. Omnem (inquit) creaturam sensibilem deus armatam &amp; munitam creauit. 
+        <lb ed="#Ba" n="32"/>Alios enim muniuit velocitate pedum: alios vnguibus: alios penis: alios dentibus: alios cornibus. hominem au 
+        <lb ed="#Ba" n="33"/>tem solum sic disposuit: vt virtus illius sit ipse: &amp; in eo quod infirmiorem eum fecit omnibus, eo ipso fortio- 
+        <lb ed="#Ba" n="34"/>rem voluit eum esse in se. Nam sciens deus quod cognoscere &amp; colere deum vita aeterna est: ignorare 
+        <lb ed="#Ba" n="35"/>autem &amp; contemnere perditio sempiterna: nec ita infirmum eum creauit: vt omnino nihil boni facere pos 
+        <lb ed="#Ba" n="36"/>sit: ne quem super omnia &amp; propter quem omnia fecerat: omnibus inueniretur esse deterior: nec ita potentem eum creauit:  
+        <lb ed="#Ba" n="37"/>vt etiam sine dei auxilio ex seipso facere possit quod vult: vt infirmitatis suae necessitate coactus: semper 
+        <lb ed="#Ba" n="38"/>necessarium habeat dominum suum. Si enim omnis virtus hominis in deo est: &amp; tamen contemnit omnium bo 
+        <lb ed="#Ba" n="39"/>norum auctorem: quanto magis negligeret eum: si potentia eius esset in seipso: 
+      </p>
+      <p xml:id="vn58an-d1e338-d1e239">
+        ⁋ Ad primum in op- 
+        <lb ed="#Ba" n="40"/>positum: quod non est proportio intellectus ad sibi supernaturale: Dicendum quod verum est de se per lu- 
+        <lb ed="#Ba" n="41"/>men naturae. tamen lumine gratiae bene fit proportionale: quod est supernaturale: sicut per lumen 
+        <lb ed="#Ba" n="42"/>naturale est proportionale ei quod ex puris naturalibus potest cognoscere. 
+      </p>
+      <p xml:id="vn58an-d1e338-d1e248">
+        ⁋ Ad secundum: quod il 
+        <lb ed="#Ba" n="43"/>lius luminis gratiae non est susceptibilis per naturam: sed per gratiam solum: Dicendum quod verum est: 
+        <lb ed="#Ba" n="44"/>ita quod ex puris naturalibus illud sibi acquirat: vel quod naturaliter lumen ipsum sibi inditum habeat. est 
+        <lb ed="#Ba" n="45"/>tamen ipsius susceptibilis per naturam: quia natura de se ad hoc ordinata est: vt munere creato- 
+        <lb ed="#Ba" n="46"/>ris hoc recipiat: &amp; per illud illa quae natura non attingit cognoscat. Vnde licet homo non accepit 
+        <lb ed="#Ba" n="47"/>a natura quo per se ad illorum notitiam attingat: accepit tamens a natura vt alterum in se recipiat: cu- 
+        <lb ed="#Ba" n="48"/>ius adiutorio ad illam attingat. Aliter enim ad illam omnino attigere non posset: secundum quod dicit Damas. lib. 
+        <lb ed="#Ba" n="49"/>de duabus na. &amp; vna persona Christianus Impossibile est qualencumque naturam vti actione: vel operari ope 
+        <lb ed="#Ba" n="50"/>rationem vel passionem, quorum potentiam non secundum naturam assumpsit: velut non potest germinare 
+        <lb ed="#Ba" n="51"/>terra non secundum naturam accipiens a conditore germinatiuam potentiam. 
+      </p>
+      <p xml:id="vn58an-d1e338-d1e270">
+        ⁋ Ad tertium quod  
+        <lb ed="#Ba" n="52"/>oculus corporalis per nullum supernaturale lumen potest videre quod non potest videre in lumine 
+        <lb ed="#Ba" n="53"/>naturali: Dicendum quod non est simile: quoniam praeter sensibilia in lumine materiali sensus non est ali 
+        <lb ed="#Ba" n="54"/>ud sensibile omnino: sed praeter intelligibile lumine naturali intellectus est aliud intelligibile ei 
+        <lb ed="#Ba" n="55"/>lumine supnaturali, quod distat a naturalibus intelligibilibus intellectus: &amp; ab ipso intellectu: non si 
+   <!--75.xml-->
+        <pb ed="#Ba" n="30-v"/>
+        <lb ed="#Ba" n="1"/>cut sapor vel odor a visu, &amp; a colore quae nullo modo sunt visibilia: sed sicut visibile excellens distat 
+        <lb ed="#Ba" n="2"/>a visibili temperato: &amp; a debili visu ad quod non potest ipse attingere: nisi lumine clariori illustretur, 
+        <lb ed="#Ba" n="3"/>&amp; fortificetur. Vnde dicit Philosophous. ii. Metaphysicae. quod intellectus noster se habet ad manifestissima 
+        <lb ed="#Ba" n="4"/>naturae: sicut oculus vespertilionis ad lucem Solis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

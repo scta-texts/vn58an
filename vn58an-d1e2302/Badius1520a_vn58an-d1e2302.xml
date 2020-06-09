@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="192-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2302"> <!-- alias="vn58an-a32q4" -->
+      <head xml:id="vn58an-d1e2302-Hd1e104">Quaestio 4</head>
+      <head xml:id="vn58an-d1e2302-Hd1e107" type="question-title">Utrum Deo attributa significent de ipso aliquid positive an negative</head>
+      <p xml:id="vn58an-d1e2302-d1e110">
+        <lb ed="#Ba" n="41"/>CIrca quartum arguitur, quod attributa deo non significant aliquid positiue, &amp; abso- 
+        <lb ed="#Ba" n="42"/>lute, sic. attributa omnia, esse dei &amp; eius essentiam praesupponendo, deo attri 
+        <lb ed="#Ba" n="43"/>buuntur. Vnde dicuntur attributa, quia esse vel essentiae eius tributa: &amp; est es 
+        <lb ed="#Ba" n="44"/>sentia vel esse dei, quasi subiectum attributorum &amp; proprietatum diuinarum sed nihil  
+        <lb ed="#Ba" n="45"/>absolutum potest essentiae dei attribui positiue, propter perfectionem &amp; simplicitatem 
+        <lb ed="#Ba" n="46"/>eius. Perfectioni enim repugnat additio, &amp; simplicitati repugnat alietas: vt pa 
+        <lb ed="#Ba" n="47"/>tet ex supra determinatis de simplicitate, &amp; ex infra determinandis de persectione: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e128">
+        <lb ed="#Ba" n="48"/>⁋ Quia similiter non significant aliquid positiue in respectu, arguitur sic. verius esse habet quid in se 
+        <lb ed="#Ba" n="49"/>absolutum quam respectiuum solum. propter quod relatio debilius esse habet quam substantia, qualitas, aut quan 
+        <lb ed="#Ba" n="50"/>titas. sed attributa deo a creaturis verius esse habent in deo quam in creaturis: vt dictum est supra, 
+        <lb ed="#Ba" n="51"/>&amp; dicetur infra. Sed in creaturis significant aliquid esse absolutum: vt bonitas, sapientia, veritas, &amp; hu- 
+        <lb ed="#Ba" n="52"/>iusmodi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e142">
+        ⁋ Praeterea si significarent aliquid in respectu: tunc intelligens aliquod attributum 
+        <lb ed="#Ba" n="53"/>in deo non staret in absoluto: sed quod intelligeret ad alterum referret: quia aliter non esset intelle- 
+        <lb ed="#Ba" n="54"/>ctus verus qui sequitur conditionem intellecti. illud autem falsum est: vt videtur. Intelligens enim deum 
+   <!--400.xml-->
+        <pb ed="#Ba" n="193-r"/>
+        <lb ed="#Ba" n="1"/>verum, bonum, sapientem, &amp; huiusmodi, stat in absoluto. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e155">
+        ⁋ Quia non significant negatiue: 
+        <lb ed="#Ba" n="2"/>arguitur sic. quia tunc verius praedicarentur de creaturis: cum in eis aliquid positiue dicunt: quam de deo.  
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e160">
+        <lb ed="#Ba" n="3"/>⁋ Item cum negatio pura nihil dignitatis ponat: nihil igitur dignitatis notaretur circa deum: cum 
+        <lb ed="#Ba" n="4"/>diceretur bonus, sapiens, &amp; huiusmodi. Consequens est falsum: quoniam hoc est contra intentionem 
+        <lb ed="#Ba" n="5"/>omnium enunciantium talia de deo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e169">
+        ⁋ Item si deus diceretur sapiens: quia non est ignorans:  
+        <lb ed="#Ba" n="6"/>tunc similiter dici posset asinus: quia non est lupus. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e174">
+        <lb ed="#Ba" n="7"/>⁋ Quaestionem istam de significato attributorum diuinorum sub nominibus im 
+        <lb ed="#Ba" n="8"/>positis creaturis a quibus assumuntur &amp; transferuntur ad deum, possumus intelligere generaliter- 
+        <lb ed="#Ba" n="9"/>&amp; de illis attributis quae attribuuntur deo per quandam similitudinem: &amp; de illis quae attribuun 
+        <lb ed="#Ba" n="10"/>tur eidem per proprietatem. Si ergo loquamur de attributis per similitudinem: Dicendum quod planum est il- 
+        <lb ed="#Ba" n="11"/>la significare positiue rem aliquam in creaturis: sed non significant illam inesse deo: sed solum significant ei 
+        <lb ed="#Ba" n="12"/>dem inesse similitudinem eius: vel quae pertinet ad diuinam perfectionem continentem omnium re 
+        <lb ed="#Ba" n="13"/>rum perfectiones in se: vel quae pertinet ad aliquam eius proprietatem: vt patet ex praecedentibus. 
+        <lb ed="#Ba" n="14"/>Pondus ergo huius quaestionis totaliter vertitur circa ea quae attribuuntur deo per proprietatem: 
+        <lb ed="#Ba" n="15"/>&amp; est dicendum quod significatum nominis est quadruplex. Aut enim nomen significat positiue &amp; ab  
+        <lb ed="#Ba" n="16"/>solute: aut positiue &amp; in respectu: aut negatiue &amp; absolute: aut negatiue &amp; in respectu. Et secundum 
+        <lb ed="#Ba" n="17"/>hoc quaestio ista de significato attributorum. iiii. habet membra: &amp; quodlibet eorum secundum varia attributa 
+        <lb ed="#Ba" n="18"/>habet multiplicari in tria: &amp; sic habet membra. xii. an scilicet omnia attributa significant positiue &amp; absolute:  
+        <lb ed="#Ba" n="19"/>an nullum: an aliquod sic &amp; aliquod non: &amp; sic de aliis tribus membris principalibus. Vnde per- 
+        <lb ed="#Ba" n="20"/>plexa est quaestio: &amp; procedendum est in ea distinguendo: &amp; in membris distinctionis diuersa dicta 
+        <lb ed="#Ba" n="21"/>doctorum circa eam exponendo. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e209">
+        ⁋ Ad propositam igitur quaestionem credimus dicendum distin-  
+        <lb ed="#Ba" n="22"/>guendo quod in significato nominis aspiciendum est ad duo: &amp; ad rem ipsam ad quam significandam 
+        <lb ed="#Ba" n="23"/>imponitur: &amp; ad rationem impositionis ipsius, haec enim differunt inter se. Si enim inspiciamus 
+        <lb ed="#Ba" n="24"/>ad rem significatam, omnino idem significant lapis &amp; petra: Si vero inspiciamus ad rationem impo- 
+        <lb ed="#Ba" n="25"/>sitionis nominis, lapis imponitur a proprietate agendi. dicitur enim lapis quasi laedens pedem: petra ve 
+        <lb ed="#Ba" n="26"/>ro a proprietate patiendi: quasi pede trita. Si igitur in significatis nominum deo attributorum 
+        <lb ed="#Ba" n="27"/>aspiciamus ad rem per nomina significatam, subdistinguendum: quoniam aut aspicimus ad rem 
+        <lb ed="#Ba" n="28"/>quam significatam per nomen distincte &amp; in particulari intelligimus: aut aspicimus ad rem quam si- 
+        <lb ed="#Ba" n="29"/>gnificari per nomen distincte &amp; in particulari intendimus. Primo modo nullum nomen omnino  
+        <lb ed="#Ba" n="30"/>significat positiue aliquid eius quod est in deo. Si enim per nomen aliquod positiue de deo significa 
+        <lb ed="#Ba" n="31"/>ri intelligamus, hoc est valde in generali: &amp; incomplete: &amp; hoc quantum ex creaturis elici potest: 
+        <lb ed="#Ba" n="32"/>secundum supra determinata. Vnde Dionysius de diuinis nominibus. cap. ii. Omnia diuina quaecum 
+        <lb ed="#Ba" n="33"/>quod nobis manifestantur, in participibus solis cognoscuntur: haec autem qualia sunt secundum prin- 
+        <lb ed="#Ba" n="34"/>cipium &amp; fundamentum, super intellectum sunt &amp; omnem scientiam. &amp; post modicum subdit. lps 
+        <lb ed="#Ba" n="35"/>sum vero iuxta omnium intellectualium operationum absolutionem desideramus: nullam osten 
+        <lb ed="#Ba" n="36"/>dentes deificationem, aut vitam, aut essentiam: quae diligenter similis est omnium remote: iuxta 
+        <lb ed="#Ba" n="37"/>omnium rerum super eminentiam causae. &amp; infra statim. Quomodo autem haec sunt, neque dicere, neque intel 
+        <lb ed="#Ba" n="38"/>ligere possibile est: sed vsque ad haec est omnis nostrae intellectualis actionis virtus. Vnde &amp; dicit in epi- 
+        <lb ed="#Ba" n="39"/>stola ad Caium. Siquis videns deum intellexit quod vidit: non ipsum contemplatus est: sed quid  
+        <lb ed="#Ba" n="40"/>eorum ab ipso existentium &amp; cognitorum: ipse autem super animum &amp; essentiam supercolloca- 
+        <lb ed="#Ba" n="41"/>tus, vniuersaliter non cognoscendo neque videndo cognoscitur: &amp; ipsius secundum quod melius perfectissi 
+        <lb ed="#Ba" n="42"/>ma ignorantia: scientia eius est super omnia cognita. Vnde dicit &amp; Rabi Moyses. iii. lib. cap. xxxiii. 
+        <lb ed="#Ba" n="43"/>Non est via ad demonstrandum ipsum nisi per creata sua: aliquo tamen modo generali &amp; confu- 
+        <lb ed="#Ba" n="44"/>so pes rationis fixus in creaturis vltra creaturas quasi collum erigens se eleuans conspicit ipsum 
+        <lb ed="#Ba" n="45"/>sub ratione generalium attributorum, quae sunt verum, bonum, &amp; huiusmodi: vt supra determi- 
+        <lb ed="#Ba" n="46"/>natum est. Vnde quia id quod per huiusmodi nomina deo attributa distincte &amp; in particulari intel 
+        <lb ed="#Ba" n="47"/>ligimus, non est nisi quod in creaturis conspicimus: hoc ergo modo attributa in deo nihil positiue &amp; ab-  
+        <lb ed="#Ba" n="48"/>solute significant: nisi valde confuse &amp; imperfecte: immo omnia (vt dicit Rabi Moyses) imposita 
+        <lb ed="#Ba" n="49"/>sunt ad negandum aliquid ab eo: aut ad indicandum aliquem respectum in eo. Quia autem in par- 
+        <lb ed="#Ba" n="50"/>ticulari attributa nihil significant in deo positiue &amp; absolute, quod significari per nomen distin-  
+        <lb ed="#Ba" n="51"/>cte &amp; in particulari intelligimus: sed solum aliquid in creaturis: dicit Rabi Moyses libro primo 
+        <lb ed="#Ba" n="52"/>cap. lii. loquens de attributis. Intentio (inquit) omnium istorum est ad significandum perfectio- 
+   <!--401.xml-->
+        <pb ed="#Ba" n="193-v"/>
+        <lb ed="#Ba" n="1"/>nem in creatore: non ad tribuendum aliquid substantiae eius. Dico secundum quod inuenitur in  
+        <lb ed="#Ba" n="2"/>re: vnde (vt dicit) istae dispositiones non conueniunt ei cum intendimus in substantiam eius:  
+        <lb ed="#Ba" n="3"/>sed cum intendimus in creata ipsius. Quia tamen in generali, licet imperfecte, significant ali 
+        <lb ed="#Ba" n="4"/>quid in deo positiue, &amp; absolute, dicit consequenter in capitulo. lvii. Enunciatio (inquit) de crea- 
+        <lb ed="#Ba" n="5"/>tore per verba negatiua est vera, in qua non cadit dubitatio: sed enunciatio per verba affirma- 
+        <lb ed="#Ba" n="6"/>tiua partim est in aequiuocatione: partim in imperfectione. Intelligo in aequiuocatione, haben- 
+        <lb ed="#Ba" n="7"/>do aspectum ad illud quod per huiusmodi nomina in deo significari intendimus. Aequiuoce 
+        <lb ed="#Ba" n="8"/>enim dicitur bonum de deo &amp; de creatura: vt infra videbitur. Vnde dicit idem capitulo. lix. In  
+        <lb ed="#Ba" n="9"/>enarratione ipsius per affirmationes est magnum periculum: quia quicquid credimus esse perfe- 
+        <lb ed="#Ba" n="10"/>ctionem in agnitionibus secundum sensum credentium, non est de genere persectionis quam  
+        <lb ed="#Ba" n="11"/>nos opinamur: sed dicitur aequiuoce solummodo: nec conuenit creatori: &amp; ideo de necessita- 
+        <lb ed="#Ba" n="12"/>te oportet procedere ad rationem abnegationis. Intelligo autem in imperfectione habendo aspe- 
+        <lb ed="#Ba" n="13"/>ctum ad illud quod per huiusmodi nomina de deo significari intelligimus. Per illud enim quod  
+        <lb ed="#Ba" n="14"/>in speciali intelligimus ex creaturis: saltem manuducimur ad credendum, licet non ad intelligen 
+        <lb ed="#Ba" n="15"/>dum perfecte quid exprimere intendimus. vnde dicit in capitulo. Ivii. Abnegationes communi- 
+        <lb ed="#Ba" n="16"/>cant cum affirmationibus: quia non potest esse vt non terminentur per aliquem terminum: li- 
+        <lb ed="#Ba" n="17"/>cet nihil sit determinatiuum. Vnde negationes sunt necessariae intellectui vt per eas demonstre- 
+        <lb ed="#Ba" n="18"/>tur primo quid oportet non credere de creatore: quod est praeparatio ad illa quae oportet cre- 
+        <lb ed="#Ba" n="19"/>dere. Et sic patet quod attributa ex creaturis: vt significantia sunt rem quam distincte &amp; in parti- 
+        <lb ed="#Ba" n="20"/>culari per nomina intelligimus: etsi negatiue aliquid de deo significant: hoc est vt per negatio- 
+        <lb ed="#Ba" n="21"/>nem verissima affirmatio nobis incomprehensibilis credenda insinuetur. Vnde dicit Augusti 
+        <lb ed="#Ba" n="22"/>nus, xv. de Trinitate capitulo quinto. Incorruptibilis vel immortalis ideo deus dicitur, vt spiri 
+        <lb ed="#Ba" n="23"/>tus credatur. Et Dionysius septimo capitulo de diuinis nominibus. Non intellectuale &amp; non sen- 
+        <lb ed="#Ba" n="24"/>suale per excellentiam non per defectum in deo ordinandum: quia consuetum est theologis con- 
+        <lb ed="#Ba" n="25"/>trario mentis affectu in deo quae sunt priuationes repellere. sic inuisibilem aiunt claram lucem. 
+        <lb ed="#Ba" n="26"/>Et Rabi Moyses libro primo capitulo. lix. Cum dixeris quod creator scit ea quae scit scientia inuaria 
+        <lb ed="#Ba" n="27"/>bili quae non multiplicatur: &amp; quae semper variantur sine renouatione scientiae: iam ostendisti 
+        <lb ed="#Ba" n="28"/>quod est sciens non scientia simili nostrae: &amp; ita sequiitur vt sciat non eo modo quo nos scimus. lam er- 
+        <lb ed="#Ba" n="29"/>go induxisti negationes necessario: nec inuenisti veritatem agnitionis substantialis: sed inuenisti quod 
+        <lb ed="#Ba" n="30"/>credis, quod habet scientiam: &amp; quod habet agnitiones quae non sunt scitae. Ex quo concludit di- 
+        <lb ed="#Ba" n="31"/>cens. Necessarium est igitur vt credas quod omnia ex agnitionibus dicta sunt ad demonstrandum 
+        <lb ed="#Ba" n="32"/>ipsius perfectionem: vel sunt agnitiones operum quae proueniunt ex ipsius virtute. &amp; quomodo  
+        <lb ed="#Ba" n="33"/>hoc: statim inferius explicabimus. Sic ergo patet quid sentiendum est de significato attributorum 
+        <lb ed="#Ba" n="34"/>aspiciendo ad rem quam per nomina significatam distincte &amp; in particulari intelligimus. Si vero aspi 
+        <lb ed="#Ba" n="35"/>ciamus ad rem quam per nomina attributorum significari intendimus, hoc modo omnia attributa per 
+        <lb ed="#Ba" n="36"/>proprietatem accepta a creaturis: vt sunt illa quae important aliquid quod est dignitatis simpliciter 
+        <lb ed="#Ba" n="37"/>iuxta regulam supra expositam, significant aliquid de deo positiue: quod scilicet per eminentiam 
+        <lb ed="#Ba" n="38"/>deo conuenit super id quod velut simile eius, licet aequiuoce, est in creaturis. Propter quod mo-  
+        <lb ed="#Ba" n="39"/>tus est Dionysius dicere de deo: quod non est bonus vel sapiens: sed quod est superbonus &amp; supersapiens:  
+        <lb ed="#Ba" n="40"/>&amp; huiusmodi: per hoc proculdubio intendens significari aliquid positiue in deo: in quo super 
+        <lb ed="#Ba" n="41"/>eminet creaturis: licet illud vt homo intelligere non potuit: &amp; hoc quemadmodum hoc nomine 
+        <lb ed="#Ba" n="42"/>deus omnes significare intendunt quod caeteris omnibus anteponendum est: &amp; tamen quid signi 
+        <lb ed="#Ba" n="43"/>ficare intendunt non persecte intelligunt. vt determinat <name ref="#Augustine">Augustinus</name> libro primo de doctrina 
+        <lb ed="#Ba" n="44"/>Christiana: cum dixisset ibidem. Res quibus fruendum est, pater &amp; filius &amp; spiritus sanctus, ea- 
+        <lb ed="#Ba" n="45"/>demque trinitas vna quaedam summa res. Si tamen res non rerum omnium causa sit: si tamen 
+        <lb ed="#Ba" n="46"/>&amp; causa. Non enim facile quod tantae excellentiae conueniat potest inueniri: nisi quod melius dici- 
+        <lb ed="#Ba" n="47"/>tur trinitas vnus deus. Postmodum subiunxit interrogando dicens. Dixi ne aliquid, &amp; sonuimus 
+        <lb ed="#Ba" n="48"/>aliquid dignum deo: immo me aliud dicere quam voluissem sentio. Si autem dixi, non est quod dicere vo 
+        <lb ed="#Ba" n="49"/>lui: hoc vnum scio, quod deus ineffabilis est: quod autem a me dictum est: si ineffabile esset, dictum non  
+        <lb ed="#Ba" n="50"/>esset: ac per hoc quidem nec ineffabilis dicendus est Deus: quia &amp; hoc cum dicitur, aliquid di- 
+        <lb ed="#Ba" n="51"/>citur: &amp; sit nescio quaedam pugna verborum: quae silentio cauenda potius quam voce patenda est. 
+        <lb ed="#Ba" n="52"/>Ecce quomodo <name ref="#Augustine">Augustinus</name> aliquid de deo significare intendit: sed non nisi imperfecte intellige- 
+        <lb ed="#Ba" n="53"/>re potuit. &amp; illud intentum est id quod omnis catholicus per attributorum nomina deo tribuere 
+   <!--402.xml-->
+        <pb ed="#Ba" n="194-r"/>
+        <lb ed="#Ba" n="1"/>intendit: non vt aliquid inhaerens &amp; superueniens substantiae eius: sed quod est re ipsa substantia 
+        <lb ed="#Ba" n="2"/>est: vt infra melius patebit. Et hoc est illud etiam ad cuius intellectum aliqualem nititur ascendere 
+        <lb ed="#Ba" n="3"/>quod necesse est fieri primo per abnegationem omnium eorum quae inueniuntur in creaturis: &amp; de 
+        <lb ed="#Ba" n="4"/>inde per eminentiam ad illud quod est perfectionis in creatore: secundum quod supra determinatum est 
+        <lb ed="#Ba" n="5"/>secundum doctrinam beati Diony. Et secundum hoc quanto quis plura scit primo a deo remouem 
+        <lb ed="#Ba" n="6"/>re: &amp; secundo per eminentiam ipsi attribuere: tanto cognitioni diuinorum magis appropinquat. 
+        <lb ed="#Ba" n="7"/>iuxta hoc quod dicit Rabi Moyses ca. Iviii. Si non extat via ad apprehendendum veritatem subl stantiae 
+        <lb ed="#Ba" n="8"/>creatoris: nisi quoniam nominationes attributiuae remouentur ab ipso: quod ergo apprehendit Moy- 
+        <lb ed="#Ba" n="9"/>ses magister noster &amp; Salomon, idem apprehendit vnus ex discipulis: nec erit superadditio. Notum au 
+        <lb ed="#Ba" n="10"/>tem est quod magna praeeminentia est vnius hominis ad alium in hac re. Et scientias quod ita est. quicquid  
+        <lb ed="#Ba" n="11"/>enim addideris agnitionibus negatiuis: erit magis determinatum: &amp; appropinquabit apprehensio 
+        <lb ed="#Ba" n="12"/>ni illius: &amp; eris propinquior, quam ille qui ignorat remouere agnitiones quae debent ab eo remoueri. lgi 
+        <lb ed="#Ba" n="13"/>tur tanto perfectior eris: quanto de pluribus probare poteris quod abnegari debent a creatore. Quic 
+        <lb ed="#Ba" n="14"/>quid autem attribuitur ei quasi superadditum, elongabit te a scientia veritatis eius. Ergo necesse 
+        <lb ed="#Ba" n="15"/>est vt comprehendatur inquisitione per abnegationem: donec sciatur remotio eorum quae ab eo sunt 
+        <lb ed="#Ba" n="16"/>remouenda: non quod attribuatur ei aliquid quasi additum super substantiam eius: velut id quod at-  
+        <lb ed="#Ba" n="17"/>tribuitur sit persectio in ipso: sed quia inuenitur persectio in nobis, quicquid enim ei attribueris: no-  
+        <lb ed="#Ba" n="18"/>bis est perfectio: &amp; nihil aliud est in eo: sed sua substantia est sua perfectio. Et quoniam quilibet sen 
+        <lb ed="#Ba" n="19"/>tit quod non apprehendimus de creatore quid est nisi per abnegationem: abnegatio autem non facit 
+        <lb ed="#Ba" n="20"/>scire aliquid de veritate rei a qua sit abnegatio: idcirco conuenerunt sapientes: quod scientiae non com 
+        <lb ed="#Ba" n="21"/>prehenderunt creatorem: &amp; ideo non apprehendit quid est nisi ipse: &amp; apprehensio nostra respectu il 
+        <lb ed="#Ba" n="22"/>lius est defectus. Quicquid enim laudis vel exaltationis dicimus de eo, inuenimus quod per illud dimi- 
+        <lb ed="#Ba" n="23"/>nuimus id quod pertinet ad ipsum: &amp; videmus quod defectus est: &amp; tacere melius est: &amp; non expedit vt 
+        <lb ed="#Ba" n="24"/>istud diuulgetur genti. Haec omnia vera sunt: sed exponenda iuxta praedeterminata: &amp; concordant di 
+        <lb ed="#Ba" n="25"/>ctis <name ref="#Augustine">Augustinus</name> &amp; secundum hoc nullum est nomen attributi quo intelligimus significari aliquid perfe- 
+        <lb ed="#Ba" n="26"/>ctionis in deo, nisi in generali: licet id significare intendimus. In speciali autem nihil intelligimus 
+        <lb ed="#Ba" n="27"/>significari nominibus impositis ab homine: nisi quod in creaturis videmus: ita quod nomen proprium di 
+        <lb ed="#Ba" n="28"/>uinae essentiae &amp; naturae quod respondet veritati &amp; perfectioni rei, homo imponere non potest: quia qui  
+        <lb ed="#Ba" n="29"/>non definit &amp; discernit rem non potest ei nomen imponere: quoniam non est notum ei: vt dicit Phi 
+        <lb ed="#Ba" n="30"/>losophus in. vii. Metaphic. vbi dicit Comment. Qui nescit rem non ponet ei nomen. nullus enim ponit 
+        <lb ed="#Ba" n="31"/>nomen rei quam nescit. vnde solus deus potest tale nomen sibi imponere quod congruit perfectioni naturae 
+        <lb ed="#Ba" n="32"/>suae. Sed tamen etsi vocem nominis huiusmodi haberemus, per ipsam in persectum intellectum rei peruenire non 
+        <lb ed="#Ba" n="33"/>possemus. Vnde de huiusmodi nomine dei ineffabili dicit Rabi Moyses cap. lx. Omnia nomina creatoris 
+        <lb ed="#Ba" n="34"/>quae inueniuntur in libris, sunt ab operibus sumpta praeter vnum nomen appropriatum: &amp; idcir- 
+        <lb ed="#Ba" n="35"/>co vocatur nomen separatum: quia significat substantiam creatoris significatione pura in qua non 
+        <lb ed="#Ba" n="36"/>est participatio. Alia vero nomina significant cum participatione: quia sumpta sunt ab operibus 
+        <lb ed="#Ba" n="37"/>Et hoc nomen Adonai est agnitio alterius nominis quod est magis abstractum quam alia nomina quae sci 
+        <lb ed="#Ba" n="38"/>untur de deo. Omnia vero alia nomina sicut iudex, iustus, gratiosus, pius, heloin, manifestum est 
+        <lb ed="#Ba" n="39"/>generaliter quod decisa sunt ab operibus. Nomen autem appropriatum est quid scribitur &amp; non legitur ni 
+        <lb ed="#Ba" n="40"/>si in sanctuario a sacerdotibus sanctis domini tantummodo in benedictione sacerdotali, &amp; a maiori sa 
+        <lb ed="#Ba" n="41"/>cerdote in die ieiunii. Et fortasse significat sanctum idioma, de quo habemus parum apud nos, sub- 
+        <lb ed="#Ba" n="42"/>stantiam creatoris: in qua significatione non participat cum aliquo suorum creatorum: sed alia no- 
+        <lb ed="#Ba" n="43"/>mina significant agnitiones quae faciunt ascendere in cor quod sunt agnitiones adiunctae creatori: hoc 
+        <lb ed="#Ba" n="44"/>est virtutes perfectionis quae sunt inuentae in eo. Nullum autem nomen apud nos est quod non sit sum 
+        <lb ed="#Ba" n="45"/>ptum ab ope, nisi nomen Tetragrammaton, quod est quatuor literarum, loth, He, Vau. Bethicoe. ex quarum con- 
+        <lb ed="#Ba" n="46"/>iunctione nihil colligitur significatiuum: sed ex doctrina. De quo nomine subditur continuo in  
+        <lb ed="#Ba" n="47"/>cap. lxi. Mandatum accepimus quod benedictio sacerdotalis fieret cum hoc nomine quod est separatum:  
+        <lb ed="#Ba" n="48"/>nec sciebat homo quomodo loqueretur in eo: vel qualiter deberet proferri quaelibet literarum ip- 
+        <lb ed="#Ba" n="49"/>sius: sapientes autem recipiebant vnus ab alio modum doctrinae: &amp; quomodo loquerentur in eo: 
+        <lb ed="#Ba" n="50"/>nec docebant illud aliquem nisi discipulum idoneum: &amp; hoc semel in septem annis: &amp; non am- 
+        <lb ed="#Ba" n="51"/>plius. Et quamuis secundum iam determinatum modum non est nomen neque attributi: neque aliud  
+        <lb ed="#Ba" n="52"/>quo possumus deum perfectum nominare: vt eum persecte intelligamus: tamen vt dicit Au 
+        <lb ed="#Ba" n="53"/>gustinus vbi supra de doctrina christiana, cum de illo nihil dignum dici potest, admisit humanae 
+        <lb ed="#Ba" n="54"/>vocis obsequium: &amp; verbis nostris in laude sua gaudere nos voluit. Nam inde est quod dicitur deus. 
+   <!--403.xml-->
+        <pb ed="#Ba" n="194-v"/>
+        <lb ed="#Ba" n="1"/>Non enim re vera in strepitu istarum duarum syllabarum ipse cognoscitur: sed tamen omnes latinae lin  
+        <lb ed="#Ba" n="2"/>guae scios cum aures eorum sonus iste tetigerit, mouet ad cogitandum excellentissimam quandam  
+        <lb ed="#Ba" n="3"/>immortalemque naturam: vt aliquid quo nihil sit melius atque sublimius, illa cogitatio conetur attin- 
+        <lb ed="#Ba" n="4"/>gere. Sic ergo patet quid sentiendum est de significato attributorum aspiciendo ad rem significa- 
+        <lb ed="#Ba" n="5"/>tam per nomina. Si vero aspiciamus ad rationem &amp; modum significandi &amp; impositionis nominis. 
+        <lb ed="#Ba" n="6"/>primo aspiciendum est quid sit illa ratio. Sciendum est ergo iuxta praedeterminata, quod nomina at-  
+        <lb ed="#Ba" n="7"/>tributorum prima impositione imposita sunt rebus quae in creaturis dicunt aliquid quod est per 
+        <lb ed="#Ba" n="8"/>fectionis &amp; dignitatis simpliciter: quod melius est omnino esse ipsum quam non ipsum: &amp; a creaturis trans 
+        <lb ed="#Ba" n="9"/>feruntur ad creatorem: non secundum naturam rei significatae: quia illa non habet inesse creato- 
+        <lb ed="#Ba" n="10"/>ri: sed secundum rationem illam nobilitatis quae supereminenter habet esse in creatore circa ipsam 
+        <lb ed="#Ba" n="11"/>diuinam essentiam, inquantum habet in se rationes omnium perfectionum, inquantum simpliciter perfectiones 
+        <lb ed="#Ba" n="12"/>sunt in creaturis: vt infra videbitur. Cum enim ratio persectionis sapientiae propria in creaturis in  
+        <lb ed="#Ba" n="13"/>quantum sapientia est, sit illustrare virtutem cognitiuam: &amp; ratio propria boni allicere affectiuam: ratio- 
+        <lb ed="#Ba" n="14"/>nes istae quia simpliciter nobilitatis sunt, ponendae sunt existere in persectione diuinae essentiae: vt ip 
+        <lb ed="#Ba" n="15"/>sa inquantum ex se habet rationem illustrantis, sit verissime sapientia: &amp; tanto verius quam sapientia crea 
+        <lb ed="#Ba" n="16"/>ta: quanto verius illustrat cognitiuam virtutem in deo ad cognitionem veri: quam illa illustret cogniti 
+        <lb ed="#Ba" n="17"/>uam virtutem in creatura. &amp; sic de bonitate &amp; aliis attributis. Et ista duo scilicet essentia, &amp; huiusmodi ratio, in  
+        <lb ed="#Ba" n="18"/>vno simplici conceptu inclusa constituunt attributum: &amp; attributum ambo in significato nominis 
+        <lb ed="#Ba" n="19"/>sui continet: ita tamen quod formaliter imponatur nomen ab illa ratione, per quam differt ab essentia 
+        <lb ed="#Ba" n="20"/>vt absolute consideratur: &amp; a quolibet alio attributo. Vnde &amp; quasi formaliter est constitutiua at  
+        <lb ed="#Ba" n="21"/>tributi quod continet in se essentiam quasi materialiter. Attributum enim nihil aliud est quam ipsa diuina 
+        <lb ed="#Ba" n="22"/>essentia sub ratione tali: &amp; sic ratio attributi est quasi secundum rationem aliquid additum super di- 
+        <lb ed="#Ba" n="23"/>uinam essentiam. Nunc autem ita est quod additio super essentiam alicuius positiui &amp; absoluti, non po 
+        <lb ed="#Ba" n="24"/>test esse nisi alicuius differentis ab essentia re vel intentione: quia differens positiuum &amp; absolutum necessa 
+        <lb ed="#Ba" n="25"/>rio facit conceptum alium ab eo cui additur. Non est enim positiuum absolutum nisi secundum se &amp; absolute 
+        <lb ed="#Ba" n="26"/>possit concipi: quia conceptus sequitur conditionem &amp; naturam rei. ita etiam quod aliquando ratio se- 
+        <lb ed="#Ba" n="27"/>parat: quae re separari non possunt: vt dicit Comment. super. xii. Metaph. &amp; ita additio positiui abso- 
+        <lb ed="#Ba" n="28"/>luti non est nisi in differentibus re vel intentione: quae omnino diuinae simplicitati repugnant: vt 
+        <lb ed="#Ba" n="29"/>patet ex supra determinatis. Attributa ergo diuina quantum est de ratione impositionis nominis attri 
+        <lb ed="#Ba" n="30"/>buti a qua habet quod dicatur attributum, non potest significare aliquid absolute positiuum. Cum er- 
+        <lb ed="#Ba" n="31"/>go praeter rationem significandi absolute &amp; positiue non est nisi ratio significandi negatiue &amp; in re 
+        <lb ed="#Ba" n="32"/>spectu: simpliciter ergo dicendum: quod nullum attributum quantum est ex ratione formali attributi 
+        <lb ed="#Ba" n="33"/>in deo: significat aliquod absolute positiue: etsi res significata sub ratione attribut scilicet ipsa diuina essen 
+        <lb ed="#Ba" n="34"/>tia, sit quid absolutum &amp; positiuum. immo omnia attributa quantum est de ratione propria attributi: 
+        <lb ed="#Ba" n="35"/>aut significant negatiue: aut in respectu. secundum quod dicit Auicen. in viii. Metaphysicae suae. Prima 
+        <lb ed="#Ba" n="36"/>proprietas de necesse esse est, quia est: de aliis quaedam sunt quibus intentio est esse cum relatione: &amp; quae  
+        <lb ed="#Ba" n="37"/>dam sunt in quibus est esse cum negatione. Ecce quam expresse dicit quod omnia attributa significant esse 
+        <lb ed="#Ba" n="38"/>quod est ipsa diuina essentia: sed quaedam cum annexa relatione: quaedam vero cum annexa nega 
+        <lb ed="#Ba" n="39"/>tione. Et quod amplius est: hic sciendum est quod &amp; ipsae negationes de deo dictae &amp; ipsi attributae non sunt 
+        <lb ed="#Ba" n="40"/>negationes absolutae: sed respectiuae: ita quod secundum hoc absolute dicendum est quod omnia diuina at 
+        <lb ed="#Ba" n="41"/>tributa siue negatiue siue positiue dicta significant de deo non aliquid absolute Gdico de ratione 
+        <lb ed="#Ba" n="42"/>formali attributi) sed tantummodo in respectu. Vnde dicit Auicen. in eodem. Cum dixerimus &amp; pro 
+        <lb ed="#Ba" n="43"/>bauerimus quod necesse esse nullo modo multiplicatur: &amp; quod essentia eius est pure vna, purissime vera, 
+        <lb ed="#Ba" n="44"/>non intelligimus per hoc quod non ab ipso remoueantur omnia quae sunt: &amp; quod non habet relatio- 
+        <lb ed="#Ba" n="45"/>nes ad ea quae sunt. Hoc enim impossibile est: ab omni enim quod est negantur multi &amp; diuersi modi 
+        <lb ed="#Ba" n="46"/>essendi: &amp; quicquid est, ad alia quae sunt habet modum aliquem comparationis &amp; relationis: &amp; prae 
+        <lb ed="#Ba" n="47"/>cipue id a quo fiuit esse. Sed per hoc quod dicimus ipsum esse vnius essentiae quae non multiplicatur, intelligi 
+        <lb ed="#Ba" n="48"/>mus quod ipsum est in sua essentia: &amp; deinde sequuntur ipsum relationes vel affirmatiuae vel negati- 
+        <lb ed="#Ba" n="49"/>uae multae, &amp; ipsae sunt comitantes essentiam. Ecce quod respectus in deo distinguit per affirmatio- 
+        <lb ed="#Ba" n="50"/>nes &amp; negationes: ita quod omnia diuina attributa siue affirmatiua siue negatiua non nisi respe- 
+        <lb ed="#Ba" n="51"/>ctus significant. Sed hoc secundum Auicen. viii. Meta. contingit tripliciter: quoniam quaedam signifi- 
+        <lb ed="#Ba" n="52"/>cant diuinum esse cum sola negatione commixtum: quaedam vero cum positiua relatione: quaedam vero significant ipsum  
+        <lb ed="#Ba" n="53"/>compositum ex negatione &amp; relatione simul. Illorum autem quae significant cum sola negatione: adhuc duo sunt 
+        <lb ed="#Ba" n="54"/>modi. Quaedam enim secundum nomen vocis non a negatione seu priuatione imponuntur: sed ex vi vo- 
+   <!--404.xml-->
+        <pb ed="#Ba" n="195-r"/>
+        <lb ed="#Ba" n="1"/>cis solum positionem seu affirmationem exprimunt, quaedam vero ex vi vocis a negatione siue priua 
+        <lb ed="#Ba" n="2"/>tione imponuntur. Secundum primum modum omnia diuina attributa de deo significant aliquid  
+        <lb ed="#Ba" n="3"/>negatiue, transferendo scilicet ipsa a creaturis ad deum: secundum rem quam significatam per nomen intel 
+        <lb ed="#Ba" n="4"/>ligimus: quae deo convenire omnino non potest. Et ideo huiusmodi nomina de deo dicuntur non ad ponendum  
+        <lb ed="#Ba" n="5"/>aliquid in ipso: sed ad remouendum ab ipso imperfectiones oppositas in creaturis: &amp; per hoc ipsa nega 
+        <lb ed="#Ba" n="6"/>tio respectiua est. Et hoc non solum habet veritatem de nominibus attributorum: immo etiam de illis 
+        <lb ed="#Ba" n="7"/>quae transferuntur a creaturis ad significandum ipsam diuinam essentiam: &amp; sic generaliter de omnibus positiuis no 
+        <lb ed="#Ba" n="8"/>minibus a creaturis ad deum translatis. secundum quod dicit Auicen. viii. Metaph. Quae commixta 
+        <lb ed="#Ba" n="9"/>sunt negationi, sunt haec. Si quis dixerit de primo quod sit substantia nolens illum substantiam esse, sed  
+        <lb ed="#Ba" n="10"/>hoc esse a quo negatur esse in subiecto. Cum vero dicitur vnus: non intelligitur nisi ipsum esse nega 
+        <lb ed="#Ba" n="11"/>ta ab eo diuisione per quantitatem: &amp; negato ab eo comite. Cum vero dicitur intelligentia, &amp; intel- 
+        <lb ed="#Ba" n="12"/>lectum, &amp; intellectus, non intelligitur nisi quia ipse est expoliatus in se: &amp; negatur ab eo materiae 
+        <lb ed="#Ba" n="13"/>commixtio &amp; eius appendicia. Et quae tali modo deo attribuuntur affirmatiue: quia affirmatio ha-  
+        <lb ed="#Ba" n="14"/>bet virtutem negationis, omnia quo ad significatum quod per nomen distincte intelligimus: vere re 
+        <lb ed="#Ba" n="15"/>mouentur. Et secundum hoc dictum est supra: secundum Dionysius. de mystica theologia. Deus neque essen 
+        <lb ed="#Ba" n="16"/>tia est neque vita &amp;c. vt supra dictum est in alia quaest. Et secundum hoc dicit Rabi Moyses cap. lvi. 
+        <lb ed="#Ba" n="17"/>Est, non in essentia: viuit, non in vita: &amp; potest, non in potentia: &amp; sapit, non in sapientia. Et per talem 
+        <lb ed="#Ba" n="18"/>attributionem ex creaturis cognoscitur deus per creaturas via remotionis siue ablatione: sed non  
+        <lb ed="#Ba" n="19"/>vt stetur in negatione: sed vt per illam insinuetur nobis aliquid credendum in deo quid supereminet 
+        <lb ed="#Ba" n="20"/>ei quod sibi simile est &amp; alicuius perfectionis in deo: licet nos illud intelligere nisi in generali non pos- 
+        <lb ed="#Ba" n="21"/>simus: vt iam supra expositum est. Et per talem attributionem ex creaturis cognoscitur deus per creaturas via 
+        <lb ed="#Ba" n="22"/>eminentiae: &amp; quantum ad illud supereminens insinuatum per negationem, omnia quae nobilitatis 
+        <lb ed="#Ba" n="23"/>sunt simpliciter siue nomina essentiae siue attributorum de deo praedicantur affirmatiue ratione rei significa 
+        <lb ed="#Ba" n="24"/>tae quam per nomen significari intendimus: non nominibus simplicibus de vi vocis respectum non ex- 
+        <lb ed="#Ba" n="25"/>primentibus: vt sunt essentia, substantia, bonitas, sapientia &amp; huiusmodi, sed cum hac praepositione super 
+        <lb ed="#Ba" n="26"/>vt secundum doctrinam Dionysius. deus non dicatur substantia vel bonus vel sapiens: &amp; huiusmodi, pro- 
+        <lb ed="#Ba" n="27"/>pter id quoid in huiusmodi nominibus significatum in creaturis intelligimus: sed supersubstantia: supersapi 
+        <lb ed="#Ba" n="28"/>ens: suprbonus &amp; huiusmodi: propter id quod in huiusmodi nominibus in deo significari intendimus. Et quia hu 
+        <lb ed="#Ba" n="29"/>iusmodi praepositio expresse respectum importat ad creaturas, idcirco huiusmodi attributa non nisi sub 
+        <lb ed="#Ba" n="30"/>ratione positiui respectus ad creaturas aliquid significant. &amp; sic negationes illae quae insinuant huiusmodi 
+        <lb ed="#Ba" n="31"/>affirmationes non solum respectum important negatiuum: sed etiam positiuum: sed secundario. Illa 
+        <lb ed="#Ba" n="32"/>vero nomina quae a negatione siue priuatione secundum vocem: imponuntur: vt sunt incorporeum, im- 
+        <lb ed="#Ba" n="33"/>mortale, &amp; huiusmodi: quia non negant a creatore nisi quod secundum veritatem defectus aliquis est in crea 
+        <lb ed="#Ba" n="34"/>turis (ex eis enim quae in se habet nihil potest ab eo vere negari) patet quod huiusmodi negatio non est nisi 
+        <lb ed="#Ba" n="35"/>respectiua ad creaturas: &amp; cum hoc non est nisi ad insinuandum alicuius contrarii veram positionem. 
+        <lb ed="#Ba" n="36"/>Alia vero nomina significant esse dei cum aliqua relatione: sed ista relatio potest intelligi dupliciter. Vno modo 
+        <lb ed="#Ba" n="37"/>in respectu ad rem creatam: vt extra deum existentem. Alio modo in respectu ad intellectum: vt 
+        <lb ed="#Ba" n="38"/>esse dei sub alia &amp; alia ratione concipientem. Primo modo triplici modo attributa significant sub ratio 
+        <lb ed="#Ba" n="39"/>ne respectus ad creaturas: vt ad diuina opera: secundum quod dicit Rabi Moyses libro i. cap. lii. loquens 
+        <lb ed="#Ba" n="40"/>de diuinis attributis. Sunt autem pro maiori parte dispositiones operum suorum. Nec multum 
+        <lb ed="#Ba" n="41"/>refert quod illae dispositiones &amp; nominationes sunt secundum opera: vel secundum varias comperationes 
+        <lb ed="#Ba" n="42"/>inter ipsum &amp; operata: vel vt credatur quod sint dispositiones quae demonstrant super perfectione per  
+        <lb ed="#Ba" n="43"/>viam similitudinis in perfectione rerum quas intelligimus a nobis. Et dicit pro maiori parte, propter illa no-  
+        <lb ed="#Ba" n="44"/>mina quae de deo significant aliquam negationem. Exemplum de primo modo est quod deus dicitur 
+        <lb ed="#Ba" n="45"/>misericors quia facit nos misericordes: &amp; iustus quia facit nos iustos. &amp; iuxta hunc modum cognoscitur 
+        <lb ed="#Ba" n="46"/>deus per causalitatem. Nec tamen omnia a deo creata per hunc modum possunt ei attribui. Non enim 
+        <lb ed="#Ba" n="47"/>dicitur leo quia facit leonem: quemadmodum dicitur iustus quia facit hominem iustum: &amp; hoc ideo:  
+        <lb ed="#Ba" n="48"/>quia iustitia, bonitas nata sunt ab eo immediate causari, tanquam ea quae sunt perfectionis simpliciter:  
+        <lb ed="#Ba" n="49"/>non autem leo, bos, &amp; huiusmodi, sed mediante opere naturae, tanquam ea quae sunt perfectionis limi 
+        <lb ed="#Ba" n="50"/>tatae. De tali attributione per causalitatem dicit Diony. ii. cap de diuinis nominibus. Supersubstan- 
+        <lb ed="#Ba" n="51"/>tialem occultum: deum, aut vitam, aut essentiam, aut bonum nominare nihil aliud intelligimus, 
+        <lb ed="#Ba" n="52"/>quam in nos productas virtutes deificas, aut vitae generatrices, aut sapientiae donatrices. &amp; Aui- 
+        <lb ed="#Ba" n="53"/>cenna vbi supra. Cum dicitur viuus: non intelligitur esse hoc nisi ex intellectu isto, scilicet vt ne- 
+        <lb ed="#Ba" n="54"/>getur materia ab illo: &amp; quod ipse est principium dispositionis totius bonitatis: &amp; quod ipse intelligit hoc. 
+        <lb ed="#Ba" n="55"/>Et in isto modo attributionis significant nomina id quod in creaturis intelligimus significari per 
+   <!--405.xml-->
+        <pb ed="#Ba" n="195-v"/>
+        <lb ed="#Ba" n="1"/>ipsa. Exemplum de secundo modo est quod deus dicitur praedestinator, creator, iudex, primus, potens. secun 
+        <lb ed="#Ba" n="2"/>dum quod de vltimis duobus dicit Auicecen. vbi supra. Si de deo dicitur quod est primus: non intelligitur 
+        <lb ed="#Ba" n="3"/>nisi relatio huius esse ad esse alterius. Cum vero dicitur potens: non intelligitur per hoc nisi quia 
+        <lb ed="#Ba" n="4"/>necesse esse relatum est ad id quod debet esse aliud a se. Exemplum de tertio modo est, quod deus dicitur bonus vel sa 
+        <lb ed="#Ba" n="5"/>piens &amp;c. huiusmodi: quia ista aliquid perfectionis simpliciter quod est omnino melius esse ipsum quam 
+        <lb ed="#Ba" n="6"/>non ipsum, significant in creaturis: significando in ratione excessus: quemadmodum significant su 
+        <lb ed="#Ba" n="7"/>perbonus &amp; supersapiens non id quod per huiusmodi nomina significatum intelligimus: sed significa 
+        <lb ed="#Ba" n="8"/>ri intendimus. Et sit ista attributio deo a creaturis: quia omnem rationem perfectionis in se prae- 
+        <lb ed="#Ba" n="9"/>ambit: secundum quod dicit <name ref="#Augustine">Augustinus</name> ii. de libe. arbi. cap. xvii. Non cessas innuere nobis quae &amp; quanta 
+        <lb ed="#Ba" n="10"/>sis: &amp; nutus tui sunt omne creaturarum decus. Perfectio creaturae siue decus dicitur nutus perfectio 
+        <lb ed="#Ba" n="11"/>nis diuinae, siue diuini decoris propter similitudinis improportionem. vnde dicit Aug. ibidem cap. xix. Non 
+        <lb ed="#Ba" n="12"/>enim vlla visibilis similitudo inuisibili rei potest ad omnem conuenientiam aptari. Et Dionysius. gene 
+        <lb ed="#Ba" n="13"/>ralius loquitur de di. nomini. dicens. Non est diligens similitudo causatiuis &amp; causalibus: propter 
+        <lb ed="#Ba" n="14"/>quod in creaturis omnino obscuratur effigies creatoris. &amp; post viam causalitatis non nisi via remotionis: &amp; 
+        <lb ed="#Ba" n="15"/>post illam non nisi via supereminentiae est ascendendum. dicente Diony. secundo cap de mystica 
+        <lb ed="#Ba" n="16"/>theologia. Anouissimis ad principalissima ascensiones facientes omnia auferimus: vt incircunuela- 
+        <lb ed="#Ba" n="17"/>te cognoscamus illam ignorantiam in omnibus existentibus circunuelatam: &amp; superessentialem illam 
+        <lb ed="#Ba" n="18"/>videamus caliginem ab omnibus existentibus occultatam. Et licet ab omnibus occultatam: quia non 
+        <lb ed="#Ba" n="19"/>est aliqua ratio persectionis alicuius creaturae quin sit aliquo modo vestigium perfectionis existen- 
+        <lb ed="#Ba" n="20"/>tis in deo: tamen aliqua propter huiusmodi rationem perfectionis suo nomine: vt sapientia, &amp; bonitas, &amp; huiusmo 
+        <lb ed="#Ba" n="21"/>di, deo attribuuntur: alia vero non: vt homo, leo, &amp; huiusmodi. &amp; hoc ideo: quia illa suo nomine significant sub 
+        <lb ed="#Ba" n="22"/>ratione perfectionis simpliciter: eo quod omnino melius est esse ipsum quam non ipsum: ista vero non: vt pa 
+        <lb ed="#Ba" n="23"/>tet ex praecedentibus. Per hunc ergo modum sunt attributa relationem significantia in deo respe 
+        <lb ed="#Ba" n="24"/>ctu creaturae extra ipsum existentis. Alio vero modo attributa sub ratione relationis significant in compa 
+        <lb ed="#Ba" n="25"/>ratione ad intellectum dei sub alia &amp; alia ratione concipientem eius essentiam. Et haec est communis 
+        <lb ed="#Ba" n="26"/>opinio: quod solummodo in comperatione ad intellectum creatum humanum vel angelicum habent diuina attributa 
+        <lb ed="#Ba" n="27"/>differentiam inter se: vt nulla omnino dicatur esse differentia attributorum in deo: nisi ex compra 
+        <lb ed="#Ba" n="28"/>ratione ad intellectum creatum non potentem totum pelagus diuinae perfectionis vna ratione con- 
+        <lb ed="#Ba" n="29"/>cipere &amp; simul. propter quod pluries sub diuersis rationibus &amp; modis concipiendi concipit eundem: cum 
+        <lb ed="#Ba" n="30"/>tamen ipse suam perfectionem totaliter vnico simplici intuitu concipit sine omni rationum diuer 
+        <lb ed="#Ba" n="31"/>sitate. Sed sub illa vnitate ad quam redit omnis rationum diuersitas: sub qua concipitur ab intelle 
+        <lb ed="#Ba" n="32"/>ctu increato, non concipitur ab intellectu creato: ita quod si non esset intellectus creatus sic diuersos 
+        <lb ed="#Ba" n="33"/>conceptus sub diuersis conceptionibus formans de deo, nulla omnino dicenda esset in deo esse diuersitas attri- 
+        <lb ed="#Ba" n="34"/>butorum: non solum secundum rem aut secundum intentionem: sed neque etiam secundum rationem 
+        <lb ed="#Ba" n="35"/>Sed quid nobis videatur super hoc sentiendum, inferius videbitur loquendo de differentia attribu- 
+        <lb ed="#Ba" n="36"/>torum in deo. Nomina vero attributorum quae significant compositionem ex negatione &amp; relatio 
+        <lb ed="#Ba" n="37"/>ne, simul sunt: vt dicit Auicen. vbi supra. sicut quod dicitur liberalis. Liberalis enim intelligitur quod est pri- 
+        <lb ed="#Ba" n="38"/>cipium dispositionis totius bonitatis: &amp; quod ipse non intendit intentionem sibiipsi. Cum vero dici- 
+        <lb ed="#Ba" n="39"/>tur bonus, non intelligitur nisi quia hoc esse liberum est a conmixtione eius quod est in potentia &amp; inperfe 
+        <lb ed="#Ba" n="40"/>ctione: &amp; hoc est negatio: &amp; quod suum esse est principium perfectionis omnis &amp; ordinationis: &amp; hoc est 
+        <lb ed="#Ba" n="41"/>relatio. verum est causalitatis: de qua iam dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e871">
+        ⁋ Per iam dicta patet responsio ad obiecta. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e874">
+        <lb ed="#Ba" n="42"/>⁋ Ad primum ergo in oppositum quod attributa super essentiam deo attribuuntur: &amp; ni- 
+        <lb ed="#Ba" n="43"/>hil absolutum est in ipso super essentiam propter simplicitatem: Dicendum quod verum est: dum ta 
+        <lb ed="#Ba" n="44"/>men differat re vel intentione ab eo cui attribuitur. Si autem differat sola ratione: non oportet. sic 
+        <lb ed="#Ba" n="45"/>enim differunt attributa ab essentia cui attribuuntur: &amp; abinuicem. Quomodo autem sumatur ista 
+        <lb ed="#Ba" n="46"/>diuersitas secundum rationem, infra videbitur: quomodo autem sumitur identitas rei, bene exponit 
+        <lb ed="#Ba" n="47"/>Auinus, xv. de triniitate. ca. v. dicens. Vna eademque res dicitur: siue dicatur aeternus, siue immortalis, si 
+        <lb ed="#Ba" n="48"/>ue incorruptibilis, siue immutabilis. Item cum dicitur viuens &amp; intelligens: quod est vtique sapiens, hoc 
+        <lb ed="#Ba" n="49"/>idem dicitur. Non enim percipit sapientiam qua esset sapiens: sed ipse sapientia est: &amp; haec vita: ea 
+        <lb ed="#Ba" n="50"/>demque virtus siue potentia eademque species: qua potens ac speciosus dicitur. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e896">
+        ⁋ Ad secundum quod  
+        <lb ed="#Ba" n="51"/>attributa secundum esse quod habent in creaturis nihil dicunt in respectu, ergo nec in deo vbi ha-  
+        <lb ed="#Ba" n="52"/>bent esse verius: Dicendum quod verum est quo ad rem significatam: non tamen quo ad rationem significandi, ne enim omnino 
+        <lb ed="#Ba" n="53"/>significent idem sicut synonyma, oportet quod in deo significent sub ratione negationis vel respectus 
+        <lb ed="#Ba" n="54"/>alicuius: vt infra videbitur: quod non opertet in creaturis: vbi significant diuersa re. Vnde &amp; in creaturis 
+   <!--406.xml-->
+        <pb ed="#Ba" n="196-r"/>
+        <lb ed="#Ba" n="1"/>vbi significant idem re, ens, vnum, verum, bonum &amp; huiusmodi: necesse est quod significant idem: sed  
+        <lb ed="#Ba" n="2"/>diuersis rationibus sicut in deo: vt infra patebit. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e916">
+        ⁋ Per haec patet ad tertium. cum enim dicitur quod dicen 
+        <lb ed="#Ba" n="3"/>do quod deus est bonus aut iustus: intellectus stat in absoluto: Dicendum quod verum est quantum est ex 
+        <lb ed="#Ba" n="4"/>parte rei significatae, quantum tamen est ex parte rationis illius nominis: secundum quam vel sub qua significant hu 
+        <lb ed="#Ba" n="5"/>iusmodi attributa: bene potest stare in respectiuo: sicut &amp; aliquando in negatiuo: vt infra videbitur 
+        <lb ed="#Ba" n="6"/>Et secundum hoc dicit Rabi Moyses libro i. ca. Pvii. Agnitio attributa creatori vel sumitur ab opeatio-  
+        <lb ed="#Ba" n="7"/>ne: vel erit ratio priuationis. igitur non apprehendimus nisi essentiam ipsius tantummodo &amp; quod est ens. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e929">
+        <lb ed="#Ba" n="8"/>⁋ Similiter dicendum est ad quartum: quod etsi illa attributa non significant negatiue: vt negatio sit ali 
+        <lb ed="#Ba" n="9"/>cuius eorum significatum: bene tamen possunt aliqua illorum significare sub ratione relationis: vt infra patebit. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e936">
+        <lb ed="#Ba" n="10"/>⁋ Ad quintum dicendum quod non est simile de ratione negationis, &amp; affirmationis: quoniam diuinae sima 
+        <lb ed="#Ba" n="11"/>plicitati non repugnat alia a se remoueri: &amp; hoc maxime id quod non est dignitatis, per sibi attributum 
+        <lb ed="#Ba" n="12"/>quod est dignitatis. Ei tamen repugnant multa affirmatiue dicta: generaliter enim nihil ei attribui po 
+        <lb ed="#Ba" n="13"/>test quod non est dignitatis simpliciter, vt visum est supra. Vnde licet aliquo modo dicatur sapiens quia 
+        <lb ed="#Ba" n="14"/>non ignorans: tamen hoc non est totum propter quod dicitur sapiens: sed per hoc aliquid circa eum affir- 
+        <lb ed="#Ba" n="15"/>mare intendimus. Non tamen debet dici corpus informatum: quia non est nuda materia informis: quia 
+        <lb ed="#Ba" n="16"/>per illud nihil potest intendi affirmatiue circa deum significari. 
+      </p>
+      <p xml:id="vn58an-d1e2302-d1e955">
+        ⁋ Ad vltimum dicendum quod licet ne 
+        <lb ed="#Ba" n="17"/>gatio nihil dignitatis importet: &amp; ideo non potest significari nomine attributi: potest tamen attribu 
+        <lb ed="#Ba" n="18"/>tum bene significare sub ratione negationis: sine qua non posset attributum rationem dignitatis 
+        <lb ed="#Ba" n="19"/>suae exprimere: &amp; ab essentia &amp; ab alio attributo distinguere.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="33-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e414"> <!-- alias="vn58an-a4q6" -->
+      <head xml:id="vn58an-d1e414-Hd1e104">Quaestio 6</head>
+      <head xml:id="vn58an-d1e414-Hd1e107" type="question-title">Utrum homo appetat scire omnia</head>
+      <p xml:id="vn58an-d1e414-d1e110">
+        <lb ed="#Ba" n="42"/>CIrca sextum arguitur quod homo appetat scire omnia. Primo sic: Sicut materia est 
+        <lb ed="#Ba" n="43"/>in potentia ad omnes formas particulares materiales: sic intellectus humanus 
+        <lb ed="#Ba" n="44"/>est in potentia ad omnes formas vniuersales &amp; spirituales. sed materia omnes 
+        <lb ed="#Ba" n="45"/>formas materiales appetit: secundum <name ref="#Aristotle">Philosophum</name> in fine primi Phyii. ergo hu 
+        <lb ed="#Ba" n="46"/>manus intellectus appetit omnes formas vniuersales &amp; spirituales: non nisi vt 
+        <lb ed="#Ba" n="47"/>eis perficiatur ad omnem scientiam. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e414-d1e129">
+        ⁋ Secundo sic. homo appetit sci- 
+        <lb ed="#Ba" n="48"/>re ea ad quae est imperfectus &amp; in potentia. homo est imperfectus respectu scientiae omnium: &amp; in  
+        <lb ed="#Ba" n="49"/>potentia: secundum quod patet ex dictis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e414-d1e137">
+        ⁋ In contrarium est: quod cum appetitus naturalis non 
+        <lb ed="#Ba" n="50"/>potest esse ociosus &amp; frustra: si homo appeteret scire omnia: ille appetitus eius posset impleri: &amp; 
+        <lb ed="#Ba" n="51"/>ita posset homo esse perfectus scientia omnium: &amp; in hoc parificari deo: quod est impossibile. 
+      </p>
+      <p xml:id="vn58an-d1e414-d1e144">
+        <lb ed="#Ba" n="52"/>⁋ Dicendum ad hoc secundum philosophum, quod scire contingit dupliciter: indeter 
+        <lb ed="#Ba" n="53"/>minate &amp; in vniuersali: aut determinate &amp; in particulari. Consimiliter distinguendum est de appe 
+        <lb ed="#Ba" n="54"/>titu scientiae: quod est appetitus indistinctus &amp; in vniuersali. Alius vero distinctus &amp; in particulari. Et 
+        <lb ed="#Ba" n="55"/>similiter quod alius est rationalis per cognitionem: alius vero naturalis sine cognitione. Primo modo  
+   <!--82.xml-->
+        <pb ed="#Ba" n="34-r"/>
+        <lb ed="#Ba" n="1"/>scilicet appetitu indistincto, &amp; in vniuersali bene contingit quod homo appetat scire omnia vel ap- 
+        <lb ed="#Ba" n="2"/>petitu rationali: &amp; hoc per aliquam entis generalis notitiam: sub qua continetur notitia cuiuslibet particula 
+        <lb ed="#Ba" n="3"/>ris: vel etiam appetitu naturali qui est ad scientiam simpliciter. secundum quod homo iustus omni- 
+        <lb ed="#Ba" n="4"/>bus vult bonum: &amp; deus vult omnes homines saluos fieri. Secundo modo scilicet appetitu distincto &amp; 
+        <lb ed="#Ba" n="5"/>in particulari non contingit quod homo appetat scire omnia: &amp; hoc appetitu rationali: quia non po- 
+        <lb ed="#Ba" n="6"/>test homo per cognitionem ad omnia simul se convertere: sicut si nauis haberet plurima foramina, singu- 
+        <lb ed="#Ba" n="7"/>la posset vnus homo obturare non omnia simul: quia non habet homo nec potest habere simul de 
+        <lb ed="#Ba" n="8"/>terminatam inclinationem ad singula &amp; omnia scibilia: quod oporteret: si appetitu determinato &amp; in  
+        <lb ed="#Ba" n="9"/>particulari omnia scire appeteret. Loquendo autem de appetitu naturali tali appetit scire omnia:  
+        <lb ed="#Ba" n="10"/>inquantum ad ipsa est in potentia: sed hoc quo ad rerum cognitionem secundum species quae sunt 
+        <lb ed="#Ba" n="11"/>de vniuersi perfectione essentiali ordine, non autem secundum indiuidua. 
+      </p>
+      <p xml:id="vn58an-d1e414-d1e183">
+        <lb ed="#Ba" n="12"/>⁋ Per haec patent duo argumenta ad primam partem. Licet enim homo imper- 
+        <lb ed="#Ba" n="13"/>fectus sit &amp; in potentia ad scientiam omnium: &amp; ideo appetit appetitu naturali omnia scire: eo mo 
+        <lb ed="#Ba" n="14"/>do quo est in potentia ad ipsa: &amp; quo natus est ipsis perfici: quod est in particulari: sicut materia de se 
+        <lb ed="#Ba" n="15"/>indifferenter appetit omnem formam: quia tamen appetitu rationali non habet inclinationem ad omnia simul 
+        <lb ed="#Ba" n="16"/>nisi in vniuersali: ideo non nisi in vniuersali appetitu rationali potest omnium scientiam appetere. Sicut enim 
+        <lb ed="#Ba" n="17"/>materia vniversale appetit perfici qualibet forma: non tamen in particulari fertur in aliquam adipiscendam  
+        <lb ed="#Ba" n="18"/>nisi determinata per agens extra: vt quando est sub forma aquae, agente igne extra fertur ad formam 
+        <lb ed="#Ba" n="19"/>ignis determinate adipiscendam: non ad aliam: Consimiliter intellectus appetitu rationali non fertur 
+        <lb ed="#Ba" n="20"/>in aliquod particulare cognoscendum: nisi cum fuerit determinatus eiusmodi vniuersali notitia 
+      </p>
+      <p xml:id="vn58an-d1e414-d1e205">
+        ⁋ Ad  
+        <lb ed="#Ba" n="21"/>illud in oppositum quod ille appetitus esset ociosus: Dicendum quod non esset ociosus: licet nunquam impleretur: 
+        <lb ed="#Ba" n="22"/>sed si non esset possibilis impleri. nunc autem possibilis est impleri in homine, saltem in postrema felici 
+        <lb ed="#Ba" n="23"/>tate per gloriam: omnia videndo simul in veritate prima, nec tamen aequiparabitur notitiae dei: quia 
+        <lb ed="#Ba" n="24"/>ad claritatem &amp; limpiditatem visionis diuinae creatura non posset attingere: neque etiam ad nu- 
+        <lb ed="#Ba" n="25"/>merum cognitorum: quia deus actu habet notitiam secundum numerum omnium: quorum spe 
+        <lb ed="#Ba" n="26"/>ciebus natus est intellectus creatus perfici, cui accidit quod notitia plurium indiuiduorum sub eadem 
+        <lb ed="#Ba" n="27"/>specie perficitur: nec posset perfici infinitis simul.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

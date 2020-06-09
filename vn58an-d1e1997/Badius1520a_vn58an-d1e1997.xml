@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="168-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1997"> <!-- alias="vn58an-a28q5" -->
+      <head xml:id="vn58an-d1e1997-Hd1e104">Quaestio 5</head>
+      <p xml:id="vn58an-d1e1997-d1e107">
+        <lb ed="#Ba" n="8"/>Irca quintum arguitur quod in deo sit compositio ex natura &amp; supposito, primo sic. Illud  
+        <lb ed="#Ba" n="9"/>est compositum ex natura &amp; supposito, in quo natura habet esse in supposito, quia 
+        <lb ed="#Ba" n="10"/>semper sunt diuersa id quod inest alicui, &amp; id cui inest, quia nihil habet esse in seipso 
+        <lb ed="#Ba" n="11"/>secundum Philos. iiii. physicae. &amp; quaecunque diuersa existentia in eodem faciunt in illo 
+        <lb ed="#Ba" n="12"/>compositionem. deus est huiusmodi: deus enim est suppositum subsistens in quo est diuina natu 
+        <lb ed="#Ba" n="13"/>ra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1997-d1e123">
+        ⁋ Secundo sic. in quo est accipere aliquid vt simpliciter intellectum &amp; indeter 
+        <lb ed="#Ba" n="14"/>minatum, &amp; aliquid vt determinatum, est compositio ex natura &amp; supposito. Natura ei 
+        <lb ed="#Ba" n="15"/>vt natura sicut humanitas, dicit quid vt simpliciter acceptum &amp; indeterminatum. Suppositum dicit ali 
+        <lb ed="#Ba" n="16"/>quid vt signatum &amp; determinatum, vt homosius in deo est accipere aliqua huiusmodi, vt sunt deitas &amp; dei 
+        <lb ed="#Ba" n="17"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1997-d1e134">
+        ⁋ In contrarium est: quoniam vbi est compositio ex natura &amp; supposito, natura non praedicatur de 
+        <lb ed="#Ba" n="18"/>supposito in abstractione nec econtrario. Ratio enim partis non praedicatur de toto, neque de altero componen- 
+        <lb ed="#Ba" n="19"/>tium, sicut non dicimus quod humanitas est homo, vel quod homo est humanitas. sed in deo praedicatur natura 
+        <lb ed="#Ba" n="20"/>de supposito in abstractione &amp; econverso, dicendo deitas est deus, deus est deitas. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1997-d1e144">
+        <lb ed="#Ba" n="21"/>⁋ Hic primo est aduertendum quid appellemus naturam: &amp; quid suppositum: &amp; quid  
+        <lb ed="#Ba" n="22"/>compositionem ex vtroque. Dicendum igitur quod naturam hic appellamus essentiam rei &amp; quiditatem dictam nomine 
+        <lb ed="#Ba" n="23"/>absoluto, quae dat esse rei quam significat definitio. Vnde in rebus materialibus comprehendit (secundum quod in  
+        <lb ed="#Ba" n="24"/>fra exponetur) formam quae est altera pars compositi, &amp; materiam, non formam tantum: &amp; totam formam speciei con 
+        <lb ed="#Ba" n="25"/>stitutam ex genere &amp; differentia, non alterum tantum, qualis quidem natura significatur hoc nomine humani- 
+        <lb ed="#Ba" n="26"/>tas, quae de essentia hominis simplicem intellectum format &amp; absolutum ab omni ratione subsistendi, vel non  
+        <lb ed="#Ba" n="27"/>subsistendi vniuersalis vel particularis, communis vel singularis, &amp; cuiuslibet alterius intentionis pos- 
+        <lb ed="#Ba" n="28"/>sibilis intelligi circa ipsam. Definitio ei humanitatis est praeter definitionem vniuersalitatis &amp; singularita 
+        <lb ed="#Ba" n="29"/>tis, &amp; est cui accidit vtrumque. Ipsa autem secundum se non est nisi humanitas tantum, ita quod nihil aliorum contineatur 
+        <lb ed="#Ba" n="30"/>intra eius essentiam. Ex hoc enim quod in eius definitione seu ratione conveniunt multa, est communis &amp; propria 
+        <lb ed="#Ba" n="31"/>forma speciei. ex hoc autem quod habet esse in signatis, est singularis, vt infra videbitur. &amp; vtrumque eorum accidit 
+        <lb ed="#Ba" n="32"/>ei extrinsecus, in se autem est humanitas tantum. vnde humanitas quae est in Sorte ex hoc quod est humanitas 
+        <lb ed="#Ba" n="33"/>non est alia ab humanitate quae est in Platone: quoniam humanitas sort. ex eo quod est humanitas est humani 
+        <lb ed="#Ba" n="34"/>tas tantum. &amp; similiter est de humanitate Platonis. Non tamen haec est illa. Quod etiam ei non convenit ex aliqua  
+        <lb ed="#Ba" n="35"/>diuisione humanitatis in hanc &amp; in illam, quemadmodum species diuiditur in indiuidua: sed quod humanitas quae est 
+        <lb ed="#Ba" n="36"/>in sorte, est alia ab humanitate quae est in Platone, quiddam est extrinsecum ab ea, per aliud. scilicet quod est accidens ei: quod est 
+        <lb ed="#Ba" n="37"/>causa indiuiduationis eius. secundum quod infra dicetur. Et sic natura hic appellatur simplex &amp; nuda &amp; absoluta quid 
+        <lb ed="#Ba" n="38"/>ditas siue essentia rei absque omni determinatione cuiuscumque extrinseci conceptus intellecta, inquan  
+        <lb ed="#Ba" n="39"/>tum scilicet in se considerata est id quod est per essentiam, non per participationem aliquam, vt sunt humanitas, asininitas, &amp; 
+        <lb ed="#Ba" n="40"/>huiusmodi in substantiis materialibus, angelitas, (vt ita loquar) in substantia simplici intellectua- 
+        <lb ed="#Ba" n="41"/>li. Dens enim substantiae spirituales communi nomine angeli dicuntur, secundum beatum Dio. Suppositum vero 
+        <lb ed="#Ba" n="42"/>hic appellatur res subiecta naturae cuius est illa essentia vel natura vt participata ab ea, &amp; in qua intelli 
+        <lb ed="#Ba" n="43"/>gitur &amp; signatur vt signata &amp; determinata in supposito singulari vel communi, specie scilicet vel gene 
+        <lb ed="#Ba" n="44"/>ris. Quae quidem natura vt dictum est, nomine suo absoluto intelligitur, neque vt determinata neque vt signa 
+        <lb ed="#Ba" n="45"/>ta, neque in supposito definito, cuiusmodi est suppositum indiuidui atomi sub specie, neque in idefinito, 
+        <lb ed="#Ba" n="46"/>cuiusmodi est suppositum vniuersalis, generis, vel speciei. Compositio vero ex natura &amp; huiusmodi supposito intel 
+        <lb ed="#Ba" n="47"/>ligitur quemadmodum intelligimus hominem esse compositum ex carnibus &amp; ossibus &amp; anima rationali, tanquam ex partici 
+        <lb ed="#Ba" n="48"/>pante humanitatem, &amp; ex ipsa humanitate participata ab illo. &amp; hoc non quia natura &amp; suprpositum seorsum 
+        <lb ed="#Ba" n="49"/>accepta vt partes concurrunt in constitutionem alicuius tertii ex ipsis: sed quia natura vt cadit in supposi 
+        <lb ed="#Ba" n="50"/>to recipit in eo compositionem cum re ipsa suppositi inquantum suppositum est, qua determinatur vt subsistens in  
+        <lb ed="#Ba" n="51"/>supposito vel definito, in quo habet rationem indiuidui seu particularis: vel in indefinito, in quo ha 
+        <lb ed="#Ba" n="52"/>bet rationem vniuersalis, quae de se absoluta erat ab omni determinatione tali. Esse tamen in existentia 
+        <lb ed="#Ba" n="53"/>extra intellectum non habebat sine re illa. secundum quod dicit <ref xml:id="vn58an-d1e1997-Rd1e217">
+        <name ref="#Averroes">Commen.</name> super. vii. Metaph.</ref> Quiditates 
+        <lb ed="#Ba" n="54"/>rerum non sunt entes nisi per esse habentium quiditates. Vnde natura &amp; suppositum siue res na 
+        <lb ed="#Ba" n="55"/>turae in creaturis non differunt re, sed sola intentione, dicente Philosopho in. vii. Metaph. Essentia 
+   <!--352.xml-->
+        <pb ed="#Ba" n="169-r"/>
+        <lb ed="#Ba" n="1"/>quaelibet rerum singularium, &amp; quodlibet singulare idem aliquid &amp; vnum. vbi dicit Comm. Quiditas hominis 
+        <lb ed="#Ba" n="2"/>est homo vno modo, &amp; non est homo alio modo. id est, est forma hominis, &amp; non est homo quid est compositus ex mate 
+        <lb ed="#Ba" n="3"/>ria &amp; forma. Hoc autem quom intelligendum sit, magis videbitur inferius. Et est haec compositio multo mi 
+        <lb ed="#Ba" n="4"/>nor quam praecedens quae est ex essentia &amp; esse: quia non potest intelligi essentia existere nisi determinata in  
+        <lb ed="#Ba" n="5"/>supposito. Est tamen maior quam sequens ex actum &amp; potentia: quia haec includit illam. Essentia enim non recipit 
+        <lb ed="#Ba" n="6"/>compositionem cum determinatione in supposito: nisi quia id quod ipsa secundum se est in actu, est in potentia ad  
+        <lb ed="#Ba" n="7"/>illam. Qualiter igitur ista compositio contingat in omni creatura: &amp; econtrario remoueatur a deo, conside- 
+        <lb ed="#Ba" n="8"/>randum. 
+      </p>
+      <p xml:id="vn58an-d1e1997-d1e250">
+        ⁋ Est igitur sciendum quod qualiscumque essentia intelligatur in creaturis: siue comprehendens materiam &amp; sor 
+        <lb ed="#Ba" n="9"/>mam: vt in materialibus: siue genus &amp; differentiam, vt etiam in immaterialibus: si genus in eis accipi pos 
+        <lb ed="#Ba" n="10"/>sit: siue formam tantum simplicem: qualis est in substantiis sepatis secundum illos philosophous quid ponunt quod non sit in eis 
+        <lb ed="#Ba" n="11"/>distinctio nisi secundum gradus dignitatis &amp; ordinis naturae: In omnibus tamen necesse est ponere composi- 
+        <lb ed="#Ba" n="12"/>tionem ex essentia &amp; supposito: quia semper in creaturis intentio naturae siue essentiae vt essentia est, 
+        <lb ed="#Ba" n="13"/>essentia tantum est, vt dictum est: &amp; ideo de se est quod indeterminatum: quod determinatur in supposito per id  
+        <lb ed="#Ba" n="14"/>quod participat ea: vt sic in quolibet supposito creaturae sit concipere rationem indeterminati ex parte essen- 
+        <lb ed="#Ba" n="15"/>tiae, &amp; eius in quo determinatur ex parte suppositi. Propter quod in omni creatura dicitur esse compositio ex 
+        <lb ed="#Ba" n="16"/>essentia &amp; supposito: quamuis suppositum ipsum vt suppositum est, includat in se naturam: quia in eis per se semper 
+        <lb ed="#Ba" n="17"/>est alia intentio suppositi qua suppositum est: alia vero intentio naturae qua natura est: licet nihil 
+        <lb ed="#Ba" n="18"/>rei addat suppositum super naturam, tam in compositis ex materia &amp; forma, quam in simplicibus. Semper enim id  
+        <lb ed="#Ba" n="19"/>ipsum re significant essentia siue natura, &amp; suppositum: vt humanitas &amp; homo. Differunt autem solum pe 
+        <lb ed="#Ba" n="20"/>nes modu significandi &amp; intelligendi secundum abstractum &amp; concretum: siue secundum determinatum &amp; inde- 
+        <lb ed="#Ba" n="21"/>terminatum, vt dictum est. Vnde etiam de tali composito dicit Auic. in. v. Metap. Quamuis haec sit aliquam mul 
+        <lb ed="#Ba" n="22"/>titudo: non tamen est multitudo quae est partium: sed multitudo quae est rei, secundum quod est terminata &amp; non 
+        <lb ed="#Ba" n="23"/>terminata. Res enim terminata in se potest considerari secundum quod est non terminata quantum ad intelle- 
+        <lb ed="#Ba" n="24"/>ctum nostrum. &amp; non est haec vniversalitas nisi in anima. Et in eodem dicit de illis quae sunt formae tantum. Sunt quaedam 
+        <lb ed="#Ba" n="25"/>in quorum natura nulla est compositio: sed si fuerit compositio, est quemadmodum diximus, quia. scilicet aliquando 
+        <lb ed="#Ba" n="26"/>accipitur non sicut terminatum: sed quia in potentia est solum terminata: &amp; accipitur aliquando vt terminata in  
+        <lb ed="#Ba" n="27"/>effectu. Hanc autem potentiam non habet secundum esse: sed secundum intellectum. Propter talem ergo diuersitatem 
+        <lb ed="#Ba" n="28"/>naturae &amp; suppositi contigit illud vulgare dictum: quod in omni creatura est reprire compositionem ex quod est &amp; ex 
+        <lb ed="#Ba" n="29"/>quo est. Quod est enim, est ipsa res quasi subtracta: &amp; quo est, est ipsa quiditas eius. Contigit etiam ex hoc eodem 
+        <lb ed="#Ba" n="30"/>quod in nulla creatura quantuncumque simplici essentia praedicabilis est de supposito: sicut nec humani- 
+        <lb ed="#Ba" n="31"/>tas praedicabilis est de homine: dicendo: homo est humanitas. Quia ergo diuersitas dicta naturae &amp; rei super 
+        <lb ed="#Ba" n="32"/>positae est cam quaere in creaturis dicitur esse compositio ex natura &amp; supposito: vbi ergo econverso essentia 
+        <lb ed="#Ba" n="33"/>siue natura &amp; res supposita sunt omnino indifferentia &amp; non distinguibilia penes determinatum &amp; non 
+        <lb ed="#Ba" n="34"/>determinatum: nec re, nec intentione: immo ipsa essentia &amp; natura de se ratione qua essentia est &amp; na 
+        <lb ed="#Ba" n="35"/>tura determinationem &amp; significationem quandam singularitatis importat: ibi non potest omnino poni com 
+        <lb ed="#Ba" n="36"/>positio ex natura &amp; supposito. hoc autem contigit in deo. Sicut enim patet ex supra deteriatis circa 
+        <lb ed="#Ba" n="37"/>dei vnitatem, deitas ex eo quod est necesse esse, singularitas quaedam est inconicabilis quantum est de se per sup 
+        <lb ed="#Ba" n="38"/>posita absoluta: in qua est idem omnino natura &amp; res naturae. Nec est ibi aliqua participatio: sed est forma 
+        <lb ed="#Ba" n="39"/>omnino imparticipata: &amp; non est in supposito aliquo absoluto subsistens: eo quod non est suppositum nisi relati 
+        <lb ed="#Ba" n="40"/>uum: in quo relatio cum essentia nullam omnino facit compotenem, vt infra dicetur. 
+      </p>
+      <p xml:id="vn58an-d1e1997-d1e322">
+        ⁋ Idcirco ergo absolute dicen 
+        <lb ed="#Ba" n="41"/>dum quod in deo nulla cadit omnino compositio ex natura &amp; supposito. Immo propter omnimodam simplicita 
+        <lb ed="#Ba" n="42"/>tem &amp; identitatem rei &amp; essentiae praedicatur in deo essentia de supposito &amp; econuerso: dicendo deus 
+        <lb ed="#Ba" n="43"/>est deitas: &amp; deitas est deus. 
+      </p>
+      <p xml:id="vn58an-d1e1997-d1e331">
+        <lb ed="#Ba" n="44"/>⁋ Ad primum in oppositum: quod in deo natura habet esse in supposito &amp;c. Dicendum quod na- 
+        <lb ed="#Ba" n="45"/>turam possumus considerare ratione rei significatae: vel ratione modi significandi. Primo modo verius dicit 
+        <lb ed="#Ba" n="46"/>quod in deo natura sit ipsum suppositum hoc est ipsa res naturae differens ab ea sola ratione, quam quod ipsa habeat 
+        <lb ed="#Ba" n="47"/>esse in supposito: quia ipsa natura ex eo quod natura est: habet designationem illam quam de modo significandi in 
+        <lb ed="#Ba" n="48"/>portat nomen rei. Secundo modo bene dicitur quod in deo natura habet esse in supposito, propter modum si 
+        <lb ed="#Ba" n="49"/>gnificandi quid importatur nomine rei quod est deus: &amp; non nomine naturae quod est deitas, vt dictum est, non propter 
+        <lb ed="#Ba" n="50"/>aliquam diuersitatem secundum rem, vel secundum intentionem. Nunc autem quod natura existens in supposito facit compo 
+        <lb ed="#Ba" n="51"/>sitionem cum ipso, hoc solum verum est quando natura dicitur esse in supposito propter diuersitatem intentionis, 
+        <lb ed="#Ba" n="52"/>sicut contingit in creaturis: non autem quando natura dicitur esse in supposito propter solam diuersitatem ex modo 
+        <lb ed="#Ba" n="53"/>significandi nominum: sicut contingit in proposito. &amp; hoc loquendo de supposito quo ad modum signifi 
+        <lb ed="#Ba" n="54"/>candi nominis: secundum quod deus est nomen suppositi: Deitas vero nomen essentiae. Loquendo autem de isto super 
+        <lb ed="#Ba" n="55"/>posito quod non est nisi relatiuum in deo, licet in creaturis est compositio naturae in supposito propter 
+   <!--353.xml-->
+        <pb ed="#Ba" n="169-v"/>
+        <lb ed="#Ba" n="1"/>absolutam rationem suppositi, vt dictum est: non tamen in deo: propter rationem respectus, qui nullam ratio 
+        <lb ed="#Ba" n="2"/>nem compositionis addit supra essentiam, vt infra dicetur. 
+      </p>
+      <p xml:id="vn58an-d1e1997-d1e368">
+        ⁋ Per hoc patet ad secundum: dicendo quod quan- 
+        <lb ed="#Ba" n="3"/>tum est de modo significandi nominium in deo, est accipere vt simpliciter &amp; vt signatum: non autem de natura 
+        <lb ed="#Ba" n="4"/>rei, vt dictum est. Nunc autem quod simpliciter &amp; signatum faciunt compositionem: hoc est quando consequuntur naturam rei 
+        <lb ed="#Ba" n="5"/>quae quantum est de se nata est signari in aliquo absolute subsistente, &amp; non signari, sicut contingit 
+        <lb ed="#Ba" n="6"/>in creaturis, vt dictum est. Non autem quando sequuntur modum significandi &amp; intelligendi nominium tantum: aut quando si 
+        <lb ed="#Ba" n="7"/>gnatio solum fit per aliquid respectiuum, vt contingit in proposito, sicut similiter dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

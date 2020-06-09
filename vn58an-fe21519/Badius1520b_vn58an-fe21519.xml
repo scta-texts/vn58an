@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="78-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe21519"> <!-- alias="vn58an-a54q3" -->
+      <head xml:id="vn58an-fe21519-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe21519-d1e107">
+        <lb ed="#Bb" n="45"/>CIrca tertium arguitur: quod in diuinis ab illa persona quae non est emanans ab alia, non emanat 
+        <lb ed="#Bb" n="46"/>aliqua alia, primo sic, necesse esse (vt habitum est supra in quaestionibus de vnitate dei) non con 
+        <lb ed="#Bb" n="47"/>uenit nisi vni soli: nec potest plurificari, quare cum nihil sit in deo quind sit necesse esse, non 
+        <lb ed="#Bb" n="48"/>est ergo magis ratio eius quod est necesse esse in deo ex parte essentiae, quam ex parte personae. cum ergo  
+        <lb ed="#Bb" n="49"/>de ratione essentiae in deo est quod ipsa diuina essentia plurificari non possit vt ema 
+        <lb ed="#Bb" n="50"/>net ab ipsa alia essentiadiuina: quia est in se quoddam necesse esse, vt habitum est 
+        <lb ed="#Bb" n="51"/>es supra: similiter &amp; de ratione personae quae non est ab alia in deo, est quod ipsa persona quae  
+        <lb ed="#Bb" n="52"/>non est ab alia, plurificari non possit vt emanet ab ipsa alia persona diuina. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e127">
+        ⁋ Secundo sic. vt 
+        <lb ed="#Bb" n="53"/>dictum est ibidem, impossibile est idem esse necesse esse a se &amp; ab alio. quare cum in diuinis non fit per 
+        <lb ed="#Bb" n="54"/>sona quae non sit necesse esse a se: quia tunc ex se posset esse &amp; non esse: ergo non est in diuinis persona 
+   <!--172.xml-->
+        <pb ed="#Bb" n="79-r"/>
+        <lb ed="#Bb" n="1"/>quae habet esse ab alia. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e140">
+        ⁋ Tertio sic. si a persona quae in diuinis non est ab alia, emanet alia persona, cum 
+        <lb ed="#Bb" n="2"/>psa sit deus, &amp; ab ipsa non emanet alia nisi per productionem intra manentem, quia productione trans 
+        <lb ed="#Bb" n="3"/>eunte extra emanant creaturae, de qua non est hic sermo: illa ergo persona quae emanat ab alia aut  
+        <lb ed="#Bb" n="4"/>est deus aut non est deus. sed neutrum est ponere, ergo &amp;c. Non quod non sit deus: cum productio di 
+        <lb ed="#Bb" n="5"/>uina nihil producit nisi in ipsa diuina substantia. In diuina autem substantia nihil potest produci, nisi qui deus 
+        <lb ed="#Bb" n="6"/>est. Non quod est deus: quia tunc deus produceret deum, ergo aut se deum, aut alium a se deum. Non 
+        <lb ed="#Bb" n="7"/>se deum, quia nulla res seipsam producit. dicente <name ref="#Augustine">Augustino</name> id eist de Trinita. cap. i. Nulla res est quae se- 
+        <lb ed="#Bb" n="8"/>ipsam gignit vt sit. &amp; per eandem rationem neque alia aliqua actione producit vt sit. Non similiter alium 
+        <lb ed="#Bb" n="9"/>a se deum, quia sic non tantum est vnus deus, quod falsum est secundum supra determinata. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e164">
+        ⁋ Item si deus 
+        <lb ed="#Bb" n="10"/>producit deum, aut ergo producit deum qui est deus pater, aut qui non est deus pater. Si secundo  
+        <lb ed="#Bb" n="11"/>modo ergo ille qui productus est, deus est, qui non est deus pater: non est ergo vt prius tantum vnus 
+        <lb ed="#Bb" n="12"/>deus. Si primo modo: ergo producit seipsum: quod est impossibile. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e173">
+        ⁋ Item si persona quae non  
+        <lb ed="#Bb" n="13"/>emanat ab alia, producit deum, aut ergo quia est deus, aut quia est innascibilis &amp; non ab alia producta. 
+        <lb ed="#Bb" n="14"/>Non quia deus: quia cum deus (vt dictum est) non producit nisi deum: eadem ratione ille productus deum produ  
+        <lb ed="#Bb" n="15"/>ceret: &amp; ille productus similiter: &amp; essent personae diuinae infinitae. Non quia innascibilis, quia tunc innascibilem 
+        <lb ed="#Bb" n="16"/>produceret: quia productio diuina est perfectissima: cuius non est nisi sibi simillimum producere. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e184">
+        ⁋ Item verum 
+        <lb ed="#Bb" n="17"/>in diuinis est necessarium, quia in deo nihil est contingens. si ergo haec est vera, deus generat deum, ipsa 
+        <lb ed="#Bb" n="18"/>est necessaria: quia negatiua sibi respondens est impossibilis, deus non generat deum. hoc autem falsum est 
+        <lb ed="#Bb" n="19"/>quia sicut illa deus generat deum, est vera pro persona solius patris, &amp; ista, deus non generat, pro per 
+        <lb ed="#Bb" n="20"/>sona filii &amp; spiritus sancti. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e195">
+        ⁋ Item si deus produceret deum, cum producere &amp; produci relationes 
+        <lb ed="#Bb" n="21"/>distinguentes in diuinis important circa terminos suos, deus ergo esset distinctus a deo: hoc autem 
+        <lb ed="#Bb" n="22"/>falsum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e202">
+        ⁋ Item si deus produceret deum, aut ergo voluntate libera, aut natura, aut necessita 
+        <lb ed="#Bb" n="23"/>te, quia plures non sunt modi agendi. Non natura aut necessitate, quia deus cum sit agens potentis 
+        <lb ed="#Bb" n="24"/>simum, perfecte dominatur suae actioni: hoc autem solum conuenit agenti libere &amp; voluntarie non  
+        <lb ed="#Bb" n="25"/>naturaliter aut necessario. Similiter non voluntate, quia actio productionis personae in diuinis non 
+        <lb ed="#Bb" n="26"/>potest non esse, quia in aeternis non differunt esse &amp; posse. talis actio est necessaria necessitate naturae 
+        <lb ed="#Bb" n="27"/>quare non voluntaria, quia voluntas &amp; natura sunt ex opposito distincta, vt habetur. vii. Metaphy 
+        <lb ed="#Bb" n="28"/>sicae. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e218">
+        ⁋ Item si deus producat deum, aut ergo de nihilo aut de sua substantia aut de aliqua substan- 
+        <lb ed="#Bb" n="29"/>tia aliena, non de nihilo, quia tunc productio personae diuinae creatio esset, &amp; esset ipsa persona pro 
+        <lb ed="#Bb" n="30"/>ducta creatura non deus, non de sua substantia, quoniam id de quo aliquid generatur est in poten- 
+        <lb ed="#Bb" n="31"/>tia ad illud: &amp; per agens exiret in actum. substantia diuina quae est substantia patris, cum sit pura 
+        <lb ed="#Bb" n="32"/>forma purus actus est, &amp; ita ad nihil est in potentia, ergo &amp;c. Non de substantia aliena, quia non  
+        <lb ed="#Bb" n="33"/>esset patri consubstantialis. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e232">
+        ⁋ Tertio ad principale sic. actus nobilissimus non est nisi propter seipsum  
+        <lb ed="#Bb" n="34"/>non propter aliquid, secundum Philosophum. i. &amp;. x. Ethicorum. Actio dei manens intra se nobilissima 
+        <lb ed="#Bb" n="35"/>est, quia circa nobilissimum obiectum, quod est diuina essentia siue in intelligendo siue volendo siue quo  
+        <lb ed="#Bb" n="36"/>cunque alio modo agendo. ergo actio diuina manens intra est propter se &amp; in se perfecta non propter 
+        <lb ed="#Bb" n="37"/>aliquid actum siue productum. sed omnis actio per quam aliquid producitur, est propter ipsum pro 
+        <lb ed="#Bb" n="38"/>ductum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e245">
+        ⁋ Quarto sic. emanatio significat fieri quoddam siue motum siue exitum: quae in  
+        <lb ed="#Bb" n="39"/>diuinis penitus esse non potest. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e250">
+        ⁋ Quinto sic. si in diuinis ab illa persona quae non habet esse ab i 
+        <lb ed="#Bb" n="40"/>alia habet emanare alia, ergo aut emanat ab illa procedendo de non esse ad esse, aut de esse ad esse. &amp; hoc 
+        <lb ed="#Bb" n="41"/>de eodem esse in idem esse, aut de alio esse in aliud. Non primo modo, quia tunc persona in diuinis emanans 
+        <lb ed="#Bb" n="42"/>ab alia incepisset esse, quia omne procedens de non esse in esse incipit esse. Non secundo modo, quia tunc cir- 
+        <lb ed="#Bb" n="43"/>ca illam esset mutatio. Et non tertio modo, quia tunc haberet esse antequam produceretur in esse: quod est 
+        <lb ed="#Bb" n="44"/>impossibile. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e263">
+        ⁋ In contrarium est. quoniam si a persona quae in diuinis a semetipsa est, non ema- 
+        <lb ed="#Bb" n="45"/>naret alia, cum ipsa non possit esse nisi vnica, vt iam ostensum est: non esset ergo in diuinis nisi vnica 
+        <lb ed="#Bb" n="46"/>persona, &amp; ideo non nisi absoluta, cuius contrarium supra ostensum est. 
+        <lb ed="#Bb" n="47"/>
+      </p>
+      <p xml:id="vn58an-fe21519-d1e272">
+        ⁋ Quaestio ista non quaerit nisi vtrum in diuinis sit aliqua emanatio quae est actio 
+        <lb ed="#Bb" n="48"/>diuina manens intra, qua vna persona nata est procedere ab alia, large sumendo processionem vt comnl 
+        <lb ed="#Bb" n="49"/>munis est ad generationem &amp; spirationem. Et est dicendum quod sic necesse habet ponere fides catho 
+        <lb ed="#Bb" n="50"/>lica, quamquam sit difficile eam hoc mysterium capere, &amp; hoc primo ratione accepta ex ratione personae. Ex 
+        <lb ed="#Bb" n="51"/>quo enim persona quae in diuinis non est ab alia, non est constituta in sua personalitate nisi ex respectu 
+        <lb ed="#Bb" n="52"/>ad aliam a qua distinguitur, quarum alietas non potest sumi nisi penes rationem originis vnius ab alia 
+        <lb ed="#Bb" n="53"/>secundum praedeterminata, origo autem vnius ab alia non est nisi per actum emanandi vnam ab alia 
+        <lb ed="#Bb" n="54"/>non extra transeuntem, quia hoc est proprium emanationis creaturae, oportet igitur ponere in di- 
+        <lb ed="#Bb" n="55"/>uinis actum emanationis, &amp; hoc vnius personae ab alia manentem intra, &amp; hoc ab illa quae non ema- 
+   <!--173.xml-->
+        <pb ed="#Bb" n="79-v"/>
+        <lb ed="#Bb" n="1"/>nat ab aliqua, ne sit processus in infinitum, vt habitum est supra. Si enim in diuinis sit actus emana- 
+        <lb ed="#Bb" n="2"/>tionis, illud quod per ipsum emanat intra, necessario est persona subsistens: quia in diuina essentia ni- 
+        <lb ed="#Bb" n="3"/>hil potest esse productum inhaerens: &amp; propter diuinae emanationis perfectionem oportet esse si- 
+        <lb ed="#Bb" n="4"/>millimum producenti. Secundum diuersitatem enim naturarum, diuersitatem oportet esse modo  
+        <lb ed="#Bb" n="5"/>rum emanandi in rebus: &amp; quanto natura est altior, tanto emanans in ipsa perfectius est &amp; magis inti 
+        <lb ed="#Bb" n="6"/>mum, vt patet procedendo ab emanatione in infima natura, inanimata. scilicet vt ignis ab igne, vsque ad ge  
+        <lb ed="#Bb" n="7"/>nerationem quae habet esse in supremis. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e311">
+        ⁋ Ad idem est ratio accepta ex ratione diuinae naturae, quae est 
+        <lb ed="#Bb" n="8"/>summe actiua: &amp; ideo suiipsius summe diffusiua. Summa autem diffusio non est nisi per emana- 
+        <lb ed="#Bb" n="9"/>tionem communicando alteri suam naturam in diuersitate personae. Vnde Ricar. aspiciens ad ema 
+        <lb ed="#Bb" n="10"/>nationem in creaturis dicit primo de trinita. cap. ix. Qui huic naturae fructum foecunditatis dona- 
+        <lb ed="#Bb" n="11"/>uit, in se omnino sterilis manebit: quasi dicat nequaquam, quia dicitur Esaiae vltimo. Nunquid ego qui  
+        <lb ed="#Bb" n="12"/>alios parere facio: ipse non pariam: Si ego qui generationem caeteris tribuo sterilis ero: ait domins deus. 
+        <lb ed="#Bb" n="13"/>
+      </p>
+      <p xml:id="vn58an-fe21519-d1e328">
+        ⁋ Ad primum in oppositum: quod necesse esse plurificari non potest: quare si essentia non po 
+        <lb ed="#Bb" n="14"/>test plurificari in deo, quia est necesse esse: neque persona similiter: Dicendum quod verum est secundum 
+        <lb ed="#Bb" n="15"/>eandem rationem esse. secundum tamen diuersam rationem esse non est inconueniens. Vnde quia, esse es 
+        <lb ed="#Bb" n="16"/>sentia in deo non potest esse nisi vnius rationis, sicut neque ipsa essentia: esse autem personae non lo 
+        <lb ed="#Bb" n="17"/>quendo de esse essentiae vel existentiae, sed de esse subsistentiae, potest esse plurium rationum: idcirco 
+        <lb ed="#Bb" n="18"/>licet necesse esse in deo non potest plurificari ex parte essentiae, vt in ipso deo ponantur plures dii: po 
+        <lb ed="#Bb" n="19"/>test tamen necesse esse plurificari ex parte personae vt in ipso ponantur personae plures, non secundum 
+        <lb ed="#Bb" n="20"/>vnam rationem personae vt sint plures innascibiles aut plures nati: sed secundum plures rationes per 
+        <lb ed="#Bb" n="21"/>sonales. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e348">
+        ⁋ Ad secundum, quod in diuinis non est persona quin sit necesse esse, &amp; hoc ex se: ergo non habet 
+        <lb ed="#Bb" n="22"/>illud ab alio: Dicendum ad hoc secundum praedicta in quaestionibus de esse dei, quod dictum illud, Ne 
+        <lb ed="#Bb" n="23"/>cesse esse ex se non potest habere necesse esse ab alio, solum verum est de necesse esse quod habetur ratio 
+        <lb ed="#Bb" n="24"/>ne essentiae, quia ab alio esse principiatiue repugnat diuinae essentiae. Quod enim ratione essentiae ha- 
+        <lb ed="#Bb" n="25"/>bet esse ab alio, deus esse non potest, vt habitum est supra secundum Auicen. in quaestionibus de vni 
+        <lb ed="#Bb" n="26"/>tate dei. De necesse esse quod habetur ratione personae, non est verum: sic enim filius &amp; spiritus sanctus ha 
+        <lb ed="#Bb" n="27"/>bent necesse esse ex se formaliter, licet ab alio principiatiue, vt expositum est supra circa esse dei, &amp; 
+        <lb ed="#Bb" n="28"/>amplius exponetur infra. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e366">
+        ⁋ Ad tertium, quod persona producta ab illa quae non est ab alia, aut est deus: 
+        <lb ed="#Bb" n="29"/>aut non deus: Dicendum quod est deus. &amp; sic concedendum est quod illa est vera, deus producit deum, quia 
+        <lb ed="#Bb" n="30"/>licet hoc nomen quod est deus significat solam essentiam simpliciter: significat tamen eam per modum 
+        <lb ed="#Bb" n="31"/>suppositi in commund scilicet vt habens in se deitatem, &amp; ideo supponit pro supposito. &amp; secundum hoc potest veri 
+        <lb ed="#Bb" n="32"/>ficare locutionem pro alio &amp; alio supposito in subiecto &amp; praedicato, vt cum dicitur, deus producit deum, quia deus pa 
+        <lb ed="#Bb" n="33"/>ter deum filium, vt exponit Magister Sententiarum formando quaestionem de generatione. Sed nos 
+        <lb ed="#Bb" n="34"/>generalius eam ponimus, vt communiter sub ipsa comprehendamus generationem &amp; spirationem 
+        <lb ed="#Bb" n="35"/>&amp; in summa tractemus hanc materiam. Vnde si deus non supponeret nisi idem, sicut non significat nisi idem 
+        <lb ed="#Bb" n="36"/>falsa esset: sicut illa est falsa, essentia generat essentiam, quia non idem significat &amp; superponit. Et pe- 
+        <lb ed="#Bb" n="37"/>nes hoc fundamentum procedunt rationes Magistri pri. Sententiarum distinctione. v. in primis. 4. ca. 
+        <lb ed="#Bb" n="38"/>quibus probat quod essentia nec generat nec generatur. Cuius causa est, quia non potest habere ratio 
+        <lb ed="#Bb" n="39"/>nem suppositi nec in significando nec in supponendo: nec etiam extendi potest ad rationem suppo- 
+        <lb ed="#Bb" n="40"/>siti sicut extenditur lumen &amp; sapientia: eo quod de suo significato ponunt rationem diffusiuam: non  
+        <lb ed="#Bb" n="41"/>autem substantia aut essentia. propter quod non potest dici essentia de essentia sicut lumen de lumine. Et 
+        <lb ed="#Bb" n="42"/>quod assumitur: ergo aut se deum aut alium a se deum: Respondet Magister Sententiarum pri. Ii. distinctio 
+        <lb ed="#Bb" n="43"/>ne. 4. capitulo i. dicendo quod neutrum concedendum est, quia vtraque est falsa, &amp; neutra sequitur ex pri- 
+        <lb ed="#Bb" n="44"/>mo: quia non est diuisio per immediata. Est enim media propositio inter illas, propter quam illa pri 
+        <lb ed="#Bb" n="45"/>ma est vera: scilicet quia producit alium a se qui est deus: non autem alius, sed idem deus cum ge- 
+        <lb ed="#Bb" n="46"/>nerante. Vnde aliqui distinguunt hanc, producit alium deum: quod ly alium possit teneri adiectiue 
+        <lb ed="#Bb" n="47"/>&amp; tunc esset falsa: quia ly alium dicit in generali diuersitatem quae determinatur per substantiuum ad-  
+        <lb ed="#Bb" n="48"/>iunctum, notando alietatem in eo quod significatur per substantiuum. &amp; sic in proposito notat alietatem i 
+        <lb ed="#Bb" n="49"/>deitate. vel substantiue, &amp; tunc vera: quia tunc dat intelligere suppositum pro suo substantiuo: &amp; no 
+        <lb ed="#Bb" n="50"/>tat solum alietatem in personalitate, &amp; incidit in sensum quem dicimus medium. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e416">
+        ⁋ Sed sensus iste violen 
+        <lb ed="#Bb" n="51"/>ter est extortus faciendo subdistinctionem post ly alium. Vnde de virtute sermonis solummodo pri 
+        <lb ed="#Bb" n="52"/>mun sensum prius praetendit: nec valet distinctio ad propositum: licet possit valere in se &amp; in alio pro 
+        <lb ed="#Bb" n="53"/>posito vbi absque subdistinctione posset vtrumque sensum praetendere. Si enim arguatur sic, Deus generans est 
+        <lb ed="#Bb" n="54"/>deus genitus, ergo idem est deus generans &amp; deus genitus: ergo a simili deus generans non deus 
+        <lb ed="#Bb" n="55"/>genitus: ergo alius est deus generans &amp; deus genitus: quia ly alius potest teneri substantiue &amp; no 
+   <!--174.xml-->
+        <pb ed="#Bb" n="80-r"/>
+        <lb ed="#Bb" n="1"/>tare alietatem in persona, sic est ista vera. alius est deus generans &amp; alius est deus genitus. &amp; repetendum est alius in hac 
+        <lb ed="#Bb" n="2"/>secunda parte copulatiue: &amp; sequitur ex prima, quia verificatur negatiua pro suppositis. Vel potest teneri 
+        <lb ed="#Bb" n="3"/>adiectiue, vt suum substantiuum sit ly deus. sic notat alietatem in substantia, &amp; est falsa, vt patet: &amp; ideo non sequtur 
+        <lb ed="#Bb" n="4"/>ex prima. Et consimili modo posset distingui illa conclusio: idem est deus generans &amp; deus genitus, &amp; contrario 
+        <lb ed="#Bb" n="5"/>modo vera &amp; falsa: &amp; vno modo sequitur ex praemissis, alio vero modo non. Vnde quia in proposi- 
+        <lb ed="#Bb" n="6"/>to non valet illa distinctio ex parte ly alium, ideo dicit Praepositinus, quod dicit alietatem tam in substan 
+        <lb ed="#Bb" n="7"/>tia quam in persona, quia alietas in substantia non est sine alietate in persona: vt sit sensus. produxit alium 
+        <lb ed="#Bb" n="8"/>deum. i. alium in persona &amp; alia deitate deum. Vnde statuit regulam, quod sicut relatio identitatis refert per identi- 
+        <lb ed="#Bb" n="9"/>tatem signatum &amp; appellatum: Propter quod illa est falsa, produxit se deum, quia sensus est, produxit se in eadem perso 
+        <lb ed="#Bb" n="10"/>nalitate, &amp; in eadem deitate deum: Ex quo apud veteres inoleuit regula talis: Non habet locum omnimoda 
+        <lb ed="#Bb" n="11"/>vnio vbi simul cum vnione est distinctio: Consimiliter relatio diuersitatis refert per diuersitatem signatum &amp; 
+        <lb ed="#Bb" n="12"/>appellatum. Et notat differentiam secundum vtrumque: propter quod illa est falsa, produxit alium a se deum, vt dictum est. Sed  
+        <lb ed="#Bb" n="13"/>uaelibet earum falsa est contrario modo pro altera parte copulatiuae. Prima propter identitatem in persona 
+        <lb ed="#Bb" n="14"/>quam refert lyse: secunda propter alietatem in substantia quam refert ly alium. Propter quod coniungendo partes pro  
+        <lb ed="#Bb" n="15"/>quibus singulae habent veritatem, constituitur ex ambobus propositio tertia media &amp; vera praedicta, quia pro 
+        <lb ed="#Bb" n="16"/>duxit alium a se in persona, &amp; hoc ex secunda, quid est deus, &amp; hoc ex prima. Et sic est media propositio ac 
+        <lb ed="#Bb" n="17"/>cipienda in diuinis ratione materiae propter substantiae identitatem in pluralitate personarum: quod non esset 
+        <lb ed="#Bb" n="18"/>necessarium in alia materia: vt in creaturis vbi diuersitas personae necessario ponit diuersitatem substantiae 
+        <lb ed="#Bb" n="19"/>Vt si homo producat hominem &amp; quaeratur: aut ergo se hominem aut alium a se hominem: illa simpliciter danda est, alium 
+        <lb ed="#Bb" n="20"/>a se hominem, quia producit alium in persona &amp; substantia: &amp; contraria propter ambo simul neganda. Quare nec pro 
+        <lb ed="#Bb" n="21"/>ducit se secundum identitatem personae, neque secundum identitatem substantiae. Propter quod non est media propositio 
+        <lb ed="#Bb" n="22"/>accipienda in creaturis, sicut in diuinis, in quibus etiam non esset propositio media accipienda si diuisio 
+        <lb ed="#Bb" n="23"/>fieret per contradictoria quaerendo, aut ergo produxit se deum, aut non se deum. &amp; est concedenda ista: non se deum 
+        <lb ed="#Bb" n="24"/>propter diuersitatem in persona. siue quaerendo: aut ergo alium a se deum, aut non alium a se deum 
+        <lb ed="#Bb" n="25"/>&amp; est concedenda ista, non alium a se deum, propter identitatem substantiae. Ex quo inoleuit alia regula anti 
+        <lb ed="#Bb" n="26"/>quorum praedictae contraria, talis. Non habet locum omnimoda diuisio, vbi non est ex diuersis causis vnio. I 
+        <lb ed="#Bb" n="27"/>lam autem mediam propositionem accipiendam in diuinis expressit <name ref="#Augustine">Augustinus</name> cum dixit de patre in epistola ad  
+        <lb ed="#Bb" n="28"/>Maximinum. Genuit de se alterum se. i. secundum quod exponit Magister primo sententiarum distinctione. iiii. 
+        <lb ed="#Bb" n="29"/>in fine, genuit alterum, scilicet in persona, qui est hoc quod ipse est, scilicet in substantia. Nam etsi alius 
+        <lb ed="#Bb" n="30"/>pater sit quam filius, non tamen aliud sed vnum: vt hoc quod est qui est hoc quod ipse est, sit expositiuum eius quod est 
+        <lb ed="#Bb" n="31"/>se: vt ly se intelligatur esse neutri generis, &amp; reciprocatiuum substantiae circa personam patris: dan 
+        <lb ed="#Bb" n="32"/>do illam intelligi circa substantiam. Vnde concedenda est illa, pater genuit alterum se: sicut ista, pater ge- 
+        <lb ed="#Bb" n="33"/>nuit hunc qui est id quod ipse. propter identitatem ei substantiae est quasi ipse. Propter quod etiam vt propria 
+        <lb ed="#Bb" n="34"/>accipienda est illa quam profert Augustinus, xv. de Trini. Tanquam se dicens pater verbum genuit. Et secundum  
+        <lb ed="#Bb" n="35"/>hunc modum propter amoris conformitatem dicit Philosophus. viii. Ethicorum, quod amicus amico est alter ipse. &amp; 
+        <lb ed="#Bb" n="36"/>poeta dilectam suam finxit esse seipsum, vbi dixit. Dii faciant sine me ne moriatur ego. Est igitur in dictis illis 
+        <lb ed="#Bb" n="37"/>Augustinus sermo proprius &amp; verus quantum est ex parte rei: sed non quantum est ex parte sermonis. quia vt dicit Simodn 
+        <lb ed="#Bb" n="38"/>Tornacen. alterum ibi intelligitur esse masculini generis, &amp; ita personale: se vero neutri generis, &amp; ita essentia 
+        <lb ed="#Bb" n="39"/>le. &amp; sic inuenitur ibi ex parte sermonis improprietas: sicut ibi, Semini tuo qui est Christus, quia re 
+        <lb ed="#Bb" n="40"/>latiuum non conformatur suo antecedenti in genere. Si autem mutemus hoc masculinum hunc, in hoc neu 
+        <lb ed="#Bb" n="41"/>trum quod est id, &amp; dicamus pater genuit id quod ipse est, secundum quod dicit <name ref="#Augustine">Augustinus</name> in ser- 
+        <lb ed="#Bb" n="42"/>mone de Symbolo, proprie loquendo sermo falsus est: quia sequitur quod genuisset diuinam essentiam 
+        <lb ed="#Bb" n="43"/>secundum quod arguit Magister id est sententiarum distinctione. v. cap. iii. Vnde vt veritatem habcat exponendus 
+        <lb ed="#Bb" n="44"/>est &amp; extendendus commutando neutrum in masculinum, secundum quod magister exponit, dicendo pater ge 
+        <lb ed="#Bb" n="45"/>nuit id quod ipse estid i. filium qui est illud quod pater est. Nam quod pater est, &amp; filius hoc est: sed non qui pa 
+        <lb ed="#Bb" n="46"/>ter est, &amp; filius hic est. Si autem sumamus relatiuum medio modo, quod non refert simul personam &amp; substam 
+        <lb ed="#Bb" n="47"/>tiam vt facit pronomen se propter reciprocationem: neque solam substantiam sicut facit ly id, quia neutri generis 
+        <lb ed="#Bb" n="48"/>est: sed quod indifferenter possit referre vnum vel alterum: illa bene potest recipi. Secundum enim quod dicit An 
+        <lb ed="#Bb" n="49"/>selmus in prosol. cum dicitur deus de deo, non intelligimus alium deum: sed eundem de seipso. Si 
+        <lb ed="#Bb" n="50"/>vero mutetur neutrum pronominis in rem nominis: dicendo quod essentia est de essentia, aut substantia 
+        <lb ed="#Bb" n="51"/>de substantia, secundum quod dicit Augustinus. vii. &amp;, xv. de Trini. &amp; habetur cap v. proprie loquendo sermo est 
+        <lb ed="#Bb" n="52"/>simpliciter falsus &amp; nimium extensus, &amp; exponendus violenter. secundum quod exponit magister cap. vi. i. filius 
+        <lb ed="#Bb" n="53"/>qui est substantia seu essentia, de patre qui est substantia seu essentia. Et hoc modo vel consimili ex 
+        <lb ed="#Bb" n="54"/>ponendae sunt omnes propositiones, &amp; dicta sanctorum quae insinuant essentiam generantem aut genitam. secundum quod  
+        <lb ed="#Bb" n="55"/>auctoritas Hil. ad hoc adducta in. vi. ca. exponitur in viii. Et cum assumitur in secundo medio, aut ergo produ  
+   <!--175.xml-->
+        <pb ed="#Bb" n="80-v"/>
+        <lb ed="#Bb" n="1"/>xit deum quid est deus ptur, aut qui non est deus ptr, Magister Sententiarum hic respondet confuse dist. iiii. ca. ii. facit 
+        <lb ed="#Bb" n="2"/>enim differentiam in membris diuidentibus, apponendo in praedicato ly deus cum eo quod est pitr, vel non apponendo: di 
+        <lb ed="#Bb" n="3"/>cendo deum quid est pater, vel quid non est ptre: &amp; dicendo, quid est deus piu, &amp; quid non est deus ptr. Et simpliciter negat il 
+        <lb ed="#Bb" n="4"/>lam affirmatiuam, deum quidest pitr, nullam penitus faciendo mentionem de illa, deum quid est deus pater: &amp; concedit illam ne 
+        <lb ed="#Bb" n="5"/>gatiuam, deum quid non est pater, &amp; distinguit illam, deum quid non est deus ptr. Praepositinus autem in summa sua di 
+        <lb ed="#Bb" n="6"/>cit quod neutra est concedenda: &amp; quod ambae sunt falsae. Magistri in scriptis suis super hoc multiplices ponunt di 
+        <lb ed="#Bb" n="7"/>stinctiones. Vt ergo totum euoluamus, sciendum quod aliqui distinguunt hanc negatiuam, deum quid non est deus 
+        <lb ed="#Bb" n="8"/>ptur: quod l qui potest referre l deum relatione simplici pro forma &amp; essentia, vel relatione personali pro supposi- 
+        <lb ed="#Bb" n="9"/>to. Primo modo est falsa: Secundo modo vera, quemadmodum si dicatur video hominem qui non est dignissima crea 
+        <lb ed="#Bb" n="10"/>turarum: si ly qui referat hominem simplici relatione pro significato, falsa: si vero personali relatione, vera est. 
+        <lb ed="#Bb" n="11"/>vt patet. Et quamquam quandoque in dictis authenticis aut vsitatis oportet ponere talem distinctionem: vt si demonstrata 
+        <lb ed="#Bb" n="12"/>aliqua haerba Romae, dicatur haec haerba crescit in horto meo, vel si dicatur, mulier quae damnauit saluauit: eo 
+        <lb ed="#Bb" n="13"/>quod pro personali demonstratione aut relatione veritatem habere non possent: de virtute tamen sermonis ibi lo 
+        <lb ed="#Bb" n="14"/>cum non habet distinctio dicta: quia omnis demonstratio &amp; relatio de vi sermonis personales sunt, dum di 
+        <lb ed="#Bb" n="15"/>ctio significans id quod demonstratur, aut ad quod sit relatio, stat pro supposito: &amp; nunquam sunt essen 
+        <lb ed="#Bb" n="16"/>tiales nisi simplex suppositio determinetur in dictione per aliquid sibi adiunctum: vt hic, homo est species 
+        <lb ed="#Bb" n="17"/>&amp; ipse est vniuersale. Et hoc planum est de demonstratione: quia pronomen demonstratiuum non demonstrat nisi 
+        <lb ed="#Bb" n="18"/>quod ei est subiectum: neque relatiuum refert nisi quod ei est praepositum, &amp; secundum quod subiectum est &amp; praeposi- 
+        <lb ed="#Bb" n="19"/>tum, quia ex se non nisi meram substantiam significant, cuius significatio cassa est &amp; vana nisi determinetur per 
+        <lb ed="#Bb" n="20"/>id quod subest demonstrationi &amp; quod praeest telationi. Quia ergo in proposito ly deum, dicendo deus produxit 
+        <lb ed="#Bb" n="21"/>deum, non potest ex se stare nisi pro supposito: nihil enim determinat personalem actionem nisi suppositum: 
+        <lb ed="#Bb" n="22"/>cum additur quid non est deus pater, l qui non potest ipsum referre nisi relatione sub hoc sensu, qui deus pro 
+        <lb ed="#Bb" n="23"/>ductus non est deus ptr. Et huic concordat in summa sua Simodo Tornacen. Sed tunc Magister Sententiarum 
+        <lb ed="#Bb" n="24"/>dicit quod cum dicitur qui non est deus pater, respectu huius verbi est, D pater potest esse appositum pri 
+        <lb ed="#Bb" n="25"/>cipale, &amp; hoc nomen deus specificatiuum ipsius. sic est vera sub hoc sensu: produxit deum quid non est pie, qui 
+        <lb ed="#Bb" n="26"/>quidem pater deus est: &amp; est primum membrum distinctionis quam ponit Magister, &amp; extorquet eum sensum 
+        <lb ed="#Bb" n="27"/>vel econverso: &amp; sic est falsa sub hoc sensu: produxit deum quid non est deus qui est pater. Sed in rei verita 
+        <lb ed="#Bb" n="28"/>te distinctio haec non potest hic habere locum. Cum enim secundum Philosophum, sermones inquirendi sunt secundum 
+        <lb ed="#Bb" n="29"/>materiam: &amp; secundum Hila, non sermoni res sed sermo rei debet esse subiectus: cum ergo in proposito ser- 
+        <lb ed="#Bb" n="30"/>mo non est nec intentio loquendi nisi de rebus diuinis, significatis igitur per terminos hic ad praesens vti 
+        <lb ed="#Bb" n="31"/>non debemus nisi vt rebus diuinis determinantur. Quare cum in diuinis deus est terminus quasi communis &amp; genera 
+        <lb ed="#Bb" n="32"/>lis, &amp; pater quasi specialis terminus, vt dictum est supra &amp; iam amplius dicetur infra: quandocumque autem appositio 
+        <lb ed="#Bb" n="33"/>est inter generale &amp; speciale, semper generali debet appositum esse speciale non econverso: dicendo animal homo, non 
+        <lb ed="#Bb" n="34"/>homo animal, ne fiat nugatio in sermone secundum Philosophum: ideo alter sensus omnino extortus est a Magi 
+        <lb ed="#Bb" n="35"/>stro vt per illum verificaret antecedens illud, deus producit deum. Et quia omnino obuianti omnino obuiandum est, idcir 
+        <lb ed="#Bb" n="36"/>circo Magister etiam extorquendo istum sensum vt satiffaciat calumniae &amp; obiectioni haereticorum distin  
+        <lb ed="#Bb" n="37"/>guit illam negatiuam, vt dictum est: licet forte bene videbat quod non erat distinguenda. Sed adhuc in illo sen 
+        <lb ed="#Bb" n="38"/>su quo l pater est oppositum ad ly deus, aliqui distinguunt: quod dicendo produxit deum quid non est deus pater, in  
+        <lb ed="#Bb" n="39"/>ter l deus &amp; l ptr, necessario intelligitur quid est, sub hoc sensu, deum qui non est deus quid est pirtre. &amp; tunc il- 
+        <lb ed="#Bb" n="40"/>lud qui est pitr, potest poni implicatiue: vt illud totum deus piter teneatur dictionaliter: &amp; sit circumlocutio vnius 
+        <lb ed="#Bb" n="41"/>personae, sicut hic quod dicitur spiritus sanctus, sicut dixit Alexander in summa sua. sic est vera: &amp; est idem dicere deum 
+        <lb ed="#Bb" n="42"/>quid non est deus pitr, &amp; dicere deum qui non est pater. Vnde hoc membrum implicite tetigit Magister, cum concessit 
+        <lb ed="#Bb" n="43"/>istam genuit deum. Vel potest teneri relatiue &amp; orationaliter. &amp; sic est falsa sub hoc sensu: deum qui non est deus 
+        <lb ed="#Bb" n="44"/>quid deus est pater. &amp; est secundum membrum distinctionis quam ponit Magister, &amp; sensus extortus ab haereti 
+        <lb ed="#Bb" n="45"/>cis, per quem volebant falsificare antecedens principale. Sed reuera nec ista distinctio valet: quia sicuti 
+        <lb ed="#Bb" n="46"/>illa praecedente distinctione ille primus sensus extortus est: quia de virtute sermonis ly pitr debet esse ap-  
+        <lb ed="#Bb" n="47"/>positum ad ly deus, non econverso: sic in ista distinctione iste secundus sensus est extortus: quia ly quod etsi subitelliga 
+        <lb ed="#Bb" n="48"/>tur propter appositiuam conclusionem quam sermo praetendit: non tamen potest intelligi nisi implicatiue. &amp; sic amota 
+        <lb ed="#Bb" n="49"/>omni distinctione in rei veritate non refert dicere produxit deum qui non est deus ptr: &amp; dicere, produxit deum qui non est pitoe. 
+        <lb ed="#Bb" n="50"/>Vnde nisi haeretici in illa produxit deum quid non est deus pitur, extorsissent vnum sensum falsum ad destruendum illam deus 
+        <lb ed="#Bb" n="51"/>generat siue producit deum: Magister non distixisset illam deus generat deum quid non est deus piti, extorquendo alium sensum 
+        <lb ed="#Bb" n="52"/>verum ad confirmandum illam deus generat deum, plus quam istam deus generat deum qui non est ptri 
+        <lb ed="#Bb" n="53"/>sed absolute concessisset illam deus generat deum qui non est deus pater: &amp; absolute negasset contrariam 
+        <lb ed="#Bb" n="54"/>affirmatiuam qui est deus pater: sicut absolute concedit istam qui non est pitr, &amp; negat illam quid est ptr. Et in rei 
+        <lb ed="#Bb" n="55"/>veritate si negatiua esset distiguenda, &amp; affirmatiua: &amp; hoc siue deus adiungatur illi quod est pitr, siue 
+   <!--176.xml-->
+        <pb ed="#Bb" n="81-r"/>
+        <lb ed="#Bb" n="1"/>non: &amp; contrario modo affirmatiuae &amp; negatiuae sunt verae &amp; falsae: vt patet inspiciendo omnes distin-  
+        <lb ed="#Bb" n="2"/>ctiones praemissas. &amp; hoc ideo: quia membra illius diuisionis, si deus produxit deum, aut ergo deum qui est deus 
+        <lb ed="#Bb" n="3"/>ptr, aut qui non est deus ptur, diuisio est per contradictorie opposita: quia omne quid est deus, aut est deus quid est deus 
+        <lb ed="#Bb" n="4"/>pater, aut qui non est deus pater. &amp; in contradictoriis regula generalis est. Si vnum eorum dicitur 
+        <lb ed="#Bb" n="5"/>multipliciter, &amp; reliquum. Vnde multum peccat Praepositinus cum dicit in summa sua contra Magi 
+        <lb ed="#Bb" n="6"/>trum sententiarum, quod neutra illarum concedenda est sic inquiens. Patet solutio argumenti quod in  
+        <lb ed="#Bb" n="7"/>sententiis inuenitur, huiusmodi scilicet, pater genuit deum, ergo deum qui est pater vel deum qui non est pater. 
+        <lb ed="#Bb" n="8"/>neutra vera est. Haec est falsa: deus genuit deum qui est pater: quia hoc relatiuum qui in affirmati- 
+        <lb ed="#Bb" n="9"/>ua personam filii refert, quam hoc nomen deum supponebat: &amp; filius non est pater. Et haec est falsa, deus 
+        <lb ed="#Bb" n="10"/>genuit deum qui non est pater, quia in negatiua relatio refert signatum &amp; appellatum. Est ergo sen 
+        <lb ed="#Bb" n="11"/>sus: genuit deum qui non est paterid ist genuit deum filium qui non est pater, &amp; cuius deitas non est pa 
+        <lb ed="#Bb" n="12"/>ter. Vnde etiam dicit quod haec est falsa: deus generat, qui non est filius: quia ly qui refert deum 
+        <lb ed="#Bb" n="13"/>non tantum pro persona patris: sed etiam pro eius deitate. Hanc vero dicit esse veram: deus generat &amp; 
+        <lb ed="#Bb" n="14"/>ipse non generatur, quia nec patris persona, nec ipsa diuina essentia generatur. Supponit autem falsum 
+        <lb ed="#Bb" n="15"/>in sua responsione, quod relatiuum aliud refert in negatiua quam in affirmatiua: quia tunc aliter negaret 
+        <lb ed="#Bb" n="16"/>negatio quam affirmaret affirmatio: quod falsum est. Vnde si antecedens tam in propositione affirmatiua 
+        <lb ed="#Bb" n="17"/>quam in propositione negatiua non supponit deitatem nisi vt est in supposito filii: similiter relatiuum in  
+        <lb ed="#Bb" n="18"/>vtraque non refert deitatem nisi vt est in persona filii. &amp; sic negatio non negat ibi aliquid de deitate 
+        <lb ed="#Bb" n="19"/>absolute, nec habet aliquo modo sensum illum, deitas filii non est pater: sed solummodo istum, filius 
+        <lb ed="#Bb" n="20"/>non est pater. Et hoc Simon Tornacen. in summa sua concedit cum Magistro sententiarum dicens sic. 
+        <lb ed="#Bb" n="21"/>Deus pater non genuit deum qui sit pater. Accusatiuus enim deum ibi supponit personam filii, &amp; qui 
+        <lb ed="#Bb" n="22"/>resert eam. Redeundo ergo ad primum dicimus simpliciter &amp; absolute quod deus produxit deum qui  
+        <lb ed="#Bb" n="23"/>non est deus pater, hoc est qui non est pater: vt declaratum est. Et cum assumitur vlterius, ergo deus est 
+        <lb ed="#Bb" n="24"/>qui non est deus pater: bene verum est: quia filius est qui non est deus pater. Et cum ex hoc vlterius 
+        <lb ed="#Bb" n="25"/>concluditur, Non ergo vnus tantum deus est: hanc Magister negat per hoc quod dicit, Non tamen genuit 
+        <lb ed="#Bb" n="26"/>alterum deum, nec qui genitus est alius deus est quam pater: sed vnus deus cum patre. Sed ad consequem 
+        <lb ed="#Bb" n="27"/>tiam non respondet quae apparens est, &amp; tamen non tenet, quia consequens falsum est &amp; suum ante 
+        <lb ed="#Bb" n="28"/>cedens verum: &amp; ex vero (secundum regulam Philosophinihil sequitur nisi verum. Vnde nisi fecisset calumnia &amp; ex- 
+        <lb ed="#Bb" n="29"/>torsio haereticorum (vt dictum est) vbi dixit, Si vero additur, genuit deum qui non est deus pater: non 
+        <lb ed="#Bb" n="30"/>debuit dicere, Hic distinguimus &amp;c. immo debuit dicere, hic dicimus quod idem est dicere genuit 
+        <lb ed="#Bb" n="31"/>deum qui non est pater: &amp; genuit deum qui non est deus pater. hoc enim non refert: vt dictum est. 
+        <lb ed="#Bb" n="32"/>Et tunc vt respondeat ad consequentiam &amp; ad formam argumenti, deberet addere, &amp; cum ex 
+        <lb ed="#Bb" n="33"/>hoc vltimo concluditur, non ergo tantum vnus deus est: hic distinguimus: quod dupliciter potest in-  
+        <lb ed="#Bb" n="34"/>telligi, non vnus tantum deus est. potest enim illud nomen vnus substantiue teneri &amp; supponere illi ver- 
+        <lb ed="#Bb" n="35"/>bo est personaliter retento. sic est vera sub hoc sensu, non ergo vnus tantum est deus: hoc est non vnus 
+        <lb ed="#Bb" n="36"/>tantum in persona est deus, immo plures in personis scilicet deus qui est pater, &amp; deus quid non est deus pater, sed  
+        <lb ed="#Bb" n="37"/>qui est deus filius. Et sic bene sequitur, deus est qui non est deus pater, non ergo vnus tantum deus est 
+        <lb ed="#Bb" n="38"/>Vel potest ly vnus teneri adiectiue &amp; essentialiter, &amp; determinare in praedicato illud substantiuum 
+        <lb ed="#Bb" n="39"/>deus retento ly est impersonaliter. sic est falsa sub hoc sensu, non ergo vnus tantum est deus, hoc est 
+        <lb ed="#Bb" n="40"/>non tantum est vnus deus in essentia, sed plures: vt alius deus in essentia sit deus qui est deus 
+        <lb ed="#Bb" n="41"/>pater, &amp; alius qui non est deus pater: sed deus filius. quod intendebant haeretici. Et sic non sequitur ex 
+        <lb ed="#Bb" n="42"/>prima propter fallaciam accidentis: quia lydeus primo positum in antecedente cum dicitur deus est qui non  
+        <lb ed="#Bb" n="43"/>est deus pater, tenetur personaliter. Aliter enim non esset vera, neque sequeretur ex illa deus genuit deum 
+        <lb ed="#Bb" n="44"/>qui non est deus pater. In conclusione vero cum dicitur: non ergo tantum est vnus deus, tenetur essentia 
+        <lb ed="#Bb" n="45"/>liter. Aliter enim haeretici non haberent suum intentum: nec posset concludi ex hoc oppositum 
+        <lb ed="#Bb" n="46"/>primi antecedentis: quod intendebant haeretici: vt patet consideranti. Ad illud quod assumitur in tertio 
+        <lb ed="#Bb" n="47"/>medio: Si deus producit deum, aut quia est deus, aut quia est innascibilis &amp;c. Dicendum quod ratione 
+        <lb ed="#Bb" n="48"/>vtriusue scilicet ratione qua deus innascibilis, habendo aspectum ad actum productionis simpliciter a 
+        <lb ed="#Bb" n="49"/>persona quae in diuinis non est ab alia, de qua sermo est hic modo: licet alio &amp; alio modo ratione qua  
+        <lb ed="#Bb" n="50"/>deus, quia deitas est elicitiua omnium diuinarum actionum: vt habitum est supra: &amp; ratione qua innasci- 
+        <lb ed="#Bb" n="51"/>bilis, quia innascibile supponit proprietatem personae quae non est ab alia: qua primo deitas determi- 
+        <lb ed="#Bb" n="52"/>natur ad actum emanationis simpliciter: vt inferius declarabitur. Propter quod quia ratione vtriusque  
+        <lb ed="#Bb" n="53"/>deus producit deum, idcirco non omnis in quo est deitas, producit deum: quia in ipso non est innasci 
+        <lb ed="#Bb" n="54"/>bilitas. Nec tamen sequitur quod deus productus sit innascibilis sicut &amp; deus producens, quia natura per- 
+        <lb ed="#Bb" n="55"/>fectae productionis similiter est, quod ex ratione qua productio est, non patitur eundem esse in persona 
+   <!--177.xml-->
+        <pb ed="#Bb" n="81-v"/>
+        <lb ed="#Bb" n="1"/>producentem &amp; productum, siue in deo siue in creaturis. Ratione vero qua est perfecta productio in di- 
+        <lb ed="#Bb" n="2"/>uina natura, non patitur productum esse omnino alium &amp; diuersum in natura a producente. ita quod quanto est 
+        <lb ed="#Bb" n="3"/>perfectior, tanto minorem alietatem patitur inter ipsos: &amp; hoc in creaturis: &amp; vbi est perfectionis infinitae 
+        <lb ed="#Bb" n="4"/>nullam omnino: vt contingit in solo deo. Vnde in creaturis est identitas naturae inter generantem &amp; 
+        <lb ed="#Bb" n="5"/>generatum in vno communi secundum speciem. In deo vero est identitas in vno singulari secundum rationem 
+        <lb ed="#Bb" n="6"/>indiuidui. Quia autem non patiatur eundem esse, hoc est ratione proprietatis determinantis principium elicitiuu 
+        <lb ed="#Bb" n="7"/>ad actum. Quia vero non patiatur esse alium vel non omnino vel nullo modo, hoc est ratione naturae, quae est eliciti 
+        <lb ed="#Bb" n="8"/>ua actus. super illam autem non identitatem producentis &amp; producti fundatur eorum distinctio: &amp; super illam identitatem 
+        <lb ed="#Bb" n="9"/>fundatur eorum similitudo. Propter quod non sequitur, quod licet simile producat simile secundum naturam, quod generet 
+        <lb ed="#Bb" n="10"/>simile secundum, proprietatem, immo productio simpliciter requirit contrarium. &amp; sic innascibilis deus ge 
+        <lb ed="#Bb" n="11"/>nerat similem secundum deitatem, quia deum: dissimilem autem &amp; distinctum secundum innascibilitatem: quia innasci- 
+        <lb ed="#Bb" n="12"/>bilis producit natum. &amp; per hunc modum Socrates humanitate sua quia est humanitas simpliciter ge- 
+        <lb ed="#Bb" n="13"/>nerat hominem, non quia Socrates, sed quia homo: quia vero est haec humanitas, generat alium hominem a se, &amp; 
+        <lb ed="#Bb" n="14"/>hoc quia Socrates est. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e841">
+        ⁋ Ad illud quod assumitur in quarto medio: Si illa est vera pro patre, deus gene- 
+        <lb ed="#Bb" n="15"/>rat deum, &amp; alia est vera pro filio &amp; spiritu sancto, deus non generat deum. Et si velimus extendere 
+        <lb ed="#Bb" n="16"/>medium: Si illa est vera pro patre &amp; filio, deus producit deum: ista similiter est vera pro spiritu san- 
+        <lb ed="#Bb" n="17"/>cto, deus non producit deum. Dicendum quod cum veritas propositionis non habet esse nisi ex virtute termi- 
+        <lb ed="#Bb" n="18"/>norum, &amp; in termino non attenduntur nisi duo scilicet significatum &amp; suppositum: intellectus huius quaestionis depen 
+        <lb ed="#Bb" n="19"/>det ex significato &amp; suppositione huius termini deus, quia licet veritas propositionis principali 
+        <lb ed="#Bb" n="20"/>ter causetur ex significato termini: tamen secundum quod diuersimode supponit suum significatum, vel pro 
+        <lb ed="#Bb" n="21"/>ipso significato, vel pro supposito, secundum hoc diuersimode veritatem habet causare in propositio- 
+        <lb ed="#Bb" n="22"/>ne. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e861">
+        ⁋ Est ergo sciendum primo ex parte significati: quod vniuersaliter omnis dictio categorematica significat 
+        <lb ed="#Bb" n="23"/>idem scilicet secundum rem &amp; naturam: quae habet esse in supposito, vel vt quiditas &amp; essentia eius: quemadmo  
+        <lb ed="#Bb" n="24"/>dum humanitas habet esse in Sorte: vel vt accidens eius: vt albedo in Sorte. Vnde hoc nomen deus 
+        <lb ed="#Bb" n="25"/>non significat nisi deitatem quam significat hoc nomen deitas: quemadmodum album significat solam albe- 
+        <lb ed="#Bb" n="26"/>dinem, sicut &amp; hoc nomen albedo. ita quod hoc nomen deus quantum est ex parte rei significatae non si- 
+        <lb ed="#Bb" n="27"/>gnificat aliud quam significetur hoc nomine deitas. Differunt autem solummodo in modo significandi: quia 
+        <lb ed="#Bb" n="28"/>deus significat per modum suppositi siue subsistentis. dicente Damasceno, Deus significat naturam vt 
+        <lb ed="#Bb" n="29"/>in habente, &amp; deitas per modum formae absolutae. sicut album significat idem quod albedo: sed album per 
+        <lb ed="#Bb" n="30"/>modum inhaerentis, albedo vero per modum formae absolutae. Et licet illud nomen deus significet per 
+        <lb ed="#Bb" n="31"/>modum suppositi, non tamen significat aliquod diuinum suppositum nec vnum nec plura: quia deus non si- 
+        <lb ed="#Bb" n="32"/>gnificat nisi absolute, &amp; per modum absoluti &amp; absolutum. Nullum autem est suppositum in diuinis, 
+        <lb ed="#Bb" n="33"/>quod non significet respectum, &amp; modum respectus, vt patet ex praedeterminatis. Et per hoc differt in  
+        <lb ed="#Bb" n="34"/>significato &amp; modo significandi ab hoc nomine persona: quia persona significat relatiue, &amp; per modum re 
+        <lb ed="#Bb" n="35"/>latiui, &amp; non nisi relatiuum, licet indeterminate: vt similiter patet ex supra determinatis. Vnde &amp; 
+        <lb ed="#Bb" n="36"/>quod ambo indefinite supponunt pro tribus personis, hoc est differenter, quia hoc nomen personae illas 
+        <lb ed="#Bb" n="37"/>tres supponit per indifferentiam: &amp; non aliquid commune, nisi intentionale ad illas: vt similiter patet ex 
+        <lb ed="#Bb" n="38"/>supra determinatis. Deus autem etsi supponit pro eisdem, supponit tamen primo &amp; principaliter signi- 
+        <lb ed="#Bb" n="39"/>ficatum, &amp; pro ipso suo significato, quod est vnum aliquid commune tribus: vt quo ad hoc non differant in  
+        <lb ed="#Bb" n="40"/>eo significatum &amp; appellatum: sed cum alteri termino adiungitur in oratione, ratione adiucti aliquando in  
+        <lb ed="#Bb" n="41"/>telligitur supponere pro significato, siue pro seipso: aliquando pro supposito relatiuo in quo ha-  
+        <lb ed="#Bb" n="42"/>bet esse. Pro seipso: vt cum dicitur Deus est conicabilis. Pro supposito: vt cum dicitur deus generat. lta 
+        <lb ed="#Bb" n="43"/>quod licet sper primo &amp; principaliter supponat suum significatum, &amp; pro illo quantum est de se, in verificam 
+        <lb ed="#Bb" n="44"/>do tamen loquutionem ratione adiuncti determinantis sibi acceptionem, aliquando primo &amp; principaliter suppo 
+        <lb ed="#Bb" n="45"/>nit pro supposito relatiuo vno vel pluribus, aliquando pro seipso. secundum quod adiunctum aliquando natum est conve- 
+        <lb ed="#Bb" n="46"/>nire deo principaliter ratione suppositi, &amp; sibi simpliciter ratione suppositi: vt cum dicitur deus generat, &amp; 
+        <lb ed="#Bb" n="47"/>vniversale in actibus personalibus: aliquando econverso: vt cum dicitur deus creat, &amp; sicvniversale in actibus essentialibus, quemadmodum  
+        <lb ed="#Bb" n="48"/>in creaturis praedicata essentialia per prius conveniunt supioribus, &amp; per illa inferioribus: praedicata vero accidem 
+        <lb ed="#Bb" n="49"/>talia, econverso. Vnde quia natura illa quam deus significat, &amp; supponit, vnica est &amp; sangsaris, &amp; nul- 
+        <lb ed="#Bb" n="50"/>la propositio est in qua praedicatur aliquis terminus principaliter, cui denotatur aliquid inesse 
+        <lb ed="#Bb" n="51"/>vel non inesse, siue in qua ipse denotatur alicui inesse vel non inesse, nisi insit vel non insit se- 
+        <lb ed="#Bb" n="52"/>cundum id quod principaliter significat &amp; supponit, aut principaliter ratione sui, aut princi- 
+        <lb ed="#Bb" n="53"/>paliter ratione sui suppositi: nulla igitur propositio in qua deo denotatur aliquid inesse vel non in  
+        <lb ed="#Bb" n="54"/>esse, siue convenire, aut disconvenire, aut econverso in qua deus denotatur alicui inesse vel non in  
+        <lb ed="#Bb" n="55"/>esse, convenire, vel disconvenire, nisi illud insit vel non insit, conveniat, aut disconveniat deo vel econ 
+   <!--178.xml-->
+        <pb ed="#Bb" n="82-r"/>
+        <lb ed="#Bb" n="1"/>uerso ratione illius vnici &amp; singularis quod significat &amp; pro quo supponit quantum est de se primo &amp; prim 
+        <lb ed="#Bb" n="2"/>ipaliter. Si ergo verum est quod deus creat aut generat, hoc non est nisi quia deo simpliciter &amp; absolute 
+        <lb ed="#Bb" n="3"/>atione singularis deitatis hoc conveniat, licet propter determinationem acceptionis quam facit cir- 
+        <lb ed="#Bb" n="4"/>ca hoc nomen deus, hoc non conveniat ei nisi vt est in aliquo vel in aliquibus suppositis relatiuis. Si au-  
+        <lb ed="#Bb" n="5"/>tem verum est, deus non creat, aut non generat, hoc non est nisi quia deo simpliciter &amp; absolute ratione 
+        <lb ed="#Bb" n="6"/>singularis deitatis hoc non conveniat, licet hoc conveniat ei secundum quod est in aliquo vel in ali- 
+        <lb ed="#Bb" n="7"/>quibus suppositis relatiuis. Quare cum deitati singulari, vt singularis est, non potest aliquid si- 
+        <lb ed="#Bb" n="8"/>mul convenire &amp; non convenire, neque ipsa econverso simul conuenire vel disconvenire alicui: idcir- 
+        <lb ed="#Bb" n="9"/>co quandocumque affirmatiua verificatur in qua ponitur hoc nomen deus, negatiua simul verificari non 
+        <lb ed="#Bb" n="10"/>potest, nec econverso, etiam etsi contingat quod pro aliquo supposito verificetur. Vnde cum haec est vera 
+        <lb ed="#Bb" n="11"/>deus creat, haec non potest esse vera deus non creat. Si haec est vera, deus generat: haec non potest es- 
+        <lb ed="#Bb" n="12"/>se vera deus non generat. Si haec est vera deus est incarnatus, haec non est vera deus non est incar 
+        <lb ed="#Bb" n="13"/>natus. Nec est in hoc aliqua differentia siue deo aliquoid conveniat naturaliter &amp; necessario in aliqua perso 
+        <lb ed="#Bb" n="14"/>na, vt generare in persona pris, siue in nulla persona ei conveniat necessario &amp; naturaliter: dum tamen in aliqua perso 
+        <lb ed="#Bb" n="15"/>na ei conveniat saltem quocumque modo sit: vt esse incarnatum in persona filii. Vnde ad determinationem quam 
+        <lb ed="#Bb" n="16"/>praedicatum potest facere circa subiectum, non est hic aliquid attendendum principaliter: licet per hoc determi 
+        <lb ed="#Bb" n="17"/>nat hanc dubitationem Praepositinus in summa sua, sentiendo aliter quam diximus de suppositione hu 
+        <lb ed="#Bb" n="18"/>ius nominis deus, sic dicens. Notandum quod hoc nomen deus vbicumque supponit pro essentia, potest sup 
+        <lb ed="#Bb" n="19"/>ponere pro persona vel personis: sed non conuertitur: quia ex adiuncto supponit tantum pro persona: vt cum 
+        <lb ed="#Bb" n="20"/>dico deus generat, ibi supponit tantum pro patre: quia talia sunt subiecta qualia permiserunt praedicata 
+        <lb ed="#Bb" n="21"/>Eodem modo &amp; in negatiua, vnde haec est falsa deus non generat. Sed manifestum est quod contrarium 
+        <lb ed="#Bb" n="22"/>dicti sui verum est: quia alicubi supponit pro essentia, vbi nullo modo potest supponere pro persona 
+        <lb ed="#Bb" n="23"/>vt cum dicitur Deus est conicabilis. Nullibi autem supponit pro persona quin ibidem supponat pro essentia 
+        <lb ed="#Bb" n="24"/>nisi restringatur ad supponendum pro persona tantum per immediatam implicationem, dicendo sic: aliquis 
+        <lb ed="#Bb" n="25"/>qui est deus non generat: vt filius vel spiritus sanctus. Quamquam enim ex adiuncto per implicationem supponit 
+        <lb ed="#Bb" n="26"/>tantum pro persona primo &amp; principaliter verificando loquutionem pro ipsa, simul tamen &amp; supponit pro 
+        <lb ed="#Bb" n="27"/>centia, non enim est verum patrem generare: qui verum sit deum generare, quia non solum supponit patrem: sed simpliciter 
+        <lb ed="#Bb" n="28"/>supponit vnum deum simplicem, de quo verum est dicere quod generat &amp; generatur, spirat &amp; spiratur: 
+        <lb ed="#Bb" n="29"/>licet loquutio verificetur varie pro diuersis suppositis primo &amp; principaliter. Vnde non sequitur 
+        <lb ed="#Bb" n="30"/>istud argumentum, aliquis qui est deus non generat, ergo deus non generat, propter fallaciam conse 
+        <lb ed="#Bb" n="31"/>quentis ab inferiori ad superius negando vniuersaliter: sicut non sequitur, aliquis homo non  
+        <lb ed="#Bb" n="32"/>currit, ergo nullus homo currit: quia illa deus non generat, includit illam nullus qui est deus 
+        <lb ed="#Bb" n="33"/>generat. Et hoc quia iste terminus deus inquantum supponit pro suo significato quid est res sin- 
+        <lb ed="#Bb" n="34"/>gularis, sic habet rationem termini proprii, &amp; facit propositionem singularem: licet inquantum natus est super 
+        <lb ed="#Bb" n="35"/>ponere pro suppositis relatiuis, &amp; vt est ommunis eis per communionem non per plurificationem, habet quodammo 
+        <lb ed="#Bb" n="36"/>do rationem termini appellatiui: &amp; facit propositionem quodammodo indefinitam. Et quo ad hoc bene se 
+        <lb ed="#Bb" n="37"/>queretur, aliquis quid est deus non generat, ergo deus non generat: sicut sequitur, aliquis homo siue aliquis quid est 
+        <lb ed="#Bb" n="38"/>homo non currit, ergo homo non currit. Sed in proposito reformat pactum quod eadem res singularis 
+        <lb ed="#Bb" n="39"/>significatur hoc nomine deus, quod &amp; supponit pro illa vniformiter in negatiua sicut in affirmatiua: li 
+        <lb ed="#Bb" n="40"/>cet pro alio &amp; alio supposito. Hoc autem nomine homo significatur eadem res vniuersalis, &amp; supponere potest 
+        <lb ed="#Bb" n="41"/>pro alia &amp; alia re singulari in affirmatiua &amp; in negatiua sicut pro alio &amp; alio supposito. &amp; ideo hoc 
+        <lb ed="#Bb" n="42"/>nomen homo supponendo pro significato &amp; pro supposito, pro alia re significata potest suppo- 
+        <lb ed="#Bb" n="43"/>nere in affirmatiua quam negatiua, sicut &amp; pro alio supposito: hoc autem nomen deus etsi pro alio 
+        <lb ed="#Bb" n="44"/>supposito, non tamen pro alia re significata. Quare cum propositio quae vera est pro supposito, etiam 
+        <lb ed="#Bb" n="45"/>requirat veritatem pro significato: vt sit vera simpliciter, sicut dictum est: idcirco illae, homo cur- 
+        <lb ed="#Bb" n="46"/>rit, homo non currit, possunt simul esse verae simpliciter: quia &amp; pro significato &amp; pro supposito simul. 
+        <lb ed="#Bb" n="47"/>Non autem istae, deus generat, deus non generat: quia etsi pro supposito possint simul esse verae: non 
+        <lb ed="#Bb" n="48"/>tamen pro significato: vt dictum est. Et sic ista propositio deus generat deum, &amp; ista, deus non generat deum, ratio 
+        <lb ed="#Bb" n="49"/>ne deitatis quae plurificabilis non est, pro qua lydeus supponit, &amp; per modum subsistentis se habet, simul 
+        <lb ed="#Bb" n="50"/>verae esse non possunt, immo contradictoriae sunt, sicut istae duae, Sortes currit, Sortes non currit. Nec 
+        <lb ed="#Bb" n="51"/>differt in eis negatio praeposita, &amp; postposita: ita quod si vera esset negatiua, hoc non esset nisi quia prae- 
+        <lb ed="#Bb" n="52"/>dicatum disconueniret deo simpliciter ratione suae deitatis: &amp; sic oporteret quod disconveniret ti in quo-  
+        <lb ed="#Bb" n="53"/>cumque supposito inueniretur: vt esset simul falsa ratione essentiae, &amp; cuiuslibet personae: quia scilicet deus 
+        <lb ed="#Bb" n="54"/>nec generaret ratione deitatis simpliciter, nec ratione deitatis in aliquo supposito, quod enim discon 
+        <lb ed="#Bb" n="55"/>uenit deitati simpliciter significatae per modum subsistentis, disconuenit ei in qualibet persona propter 
+   <!--179.xml-->
+        <pb ed="#Bb" n="82-v"/>
+        <lb ed="#Bb" n="1"/>vnitatem eius in pluribus personis, econtrario eius quod contingit in creaturis: quia essentia plurisi 
+        <lb ed="#Bb" n="2"/>catur in pluribus personis. Si autem vera sit affirmatiua, hoc est quia praedicatum convenit deo simpliciter ra 
+        <lb ed="#Bb" n="3"/>tione suae deitatis. &amp; sufficit quod simul conveniat ei vt est in aliquo supposito: licet disconveniat ei 
+        <lb ed="#Bb" n="4"/>vt est in aliis. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e1073">
+        ⁋ Ad illud quod obiicitur quito, si deus produceret deum, ergo deus esset distinctus: quia pro 
+        <lb ed="#Bb" n="5"/>ductio actiua &amp; passiua important relationes distinguentes inter terminos: Dicendum iuxta iam ex- 
+        <lb ed="#Bb" n="6"/>posita, quod in quolibet termino est considerare id quod supponit, &amp; est solum suum significatum: &amp; est con 
+        <lb ed="#Bb" n="7"/>siderare pro quo supponit, &amp; hoc est illud pro quo reddit locutionem veram. Sed pro alio potest ter- 
+        <lb ed="#Bb" n="8"/>minus supponere &amp; reddere locutionem veram dupliciter. vel primo &amp; principaliter: vel secundario.  
+        <lb ed="#Bb" n="9"/>Primo modo supponit hoc nomen deus suum significatum per modum suppositi. Secundo autem modo in  
+        <lb ed="#Bb" n="10"/>proposito, deus generat deum, supponit principaliter &amp; primo hoc nomen deus in supposito pro 
+        <lb ed="#Bb" n="11"/>supposito relatiuo patris, &amp; hoc nomen deum in praedicato pro supposito relatiuo filii. Tertio autem 
+        <lb ed="#Bb" n="12"/>modo supponit pro ipsa essentia. Cum ergo dicitur quod productio actiua &amp; passiua important relatio- 
+        <lb ed="#Bb" n="13"/>nes distinctiuas inter terminos suos, verum est: sed tantum inter illos pro quibus primo &amp; principa- 
+        <lb ed="#Bb" n="14"/>liter verificatur locutio, &amp; inquantum verificatur pro illis, non autem pro illo pro quo verificat lo- 
+        <lb ed="#Bb" n="15"/>cutionem secundario, &amp; inquantum pro illo verificat. Quare cum (vt dictum est) propter determi- 
+        <lb ed="#Bb" n="16"/>nationem actus producendi ly deus supponit verificando locutionem pro patre, &amp; l deum pro filio 
+        <lb ed="#Bb" n="17"/>primo &amp; principaliter: licet secundario pro essentia: distinctionem igitur notat solum pro ipsis personis 
+        <lb ed="#Bb" n="18"/>&amp; non pro ipsa essentia. Sed cum exprimitur dicendo deus distinguitur, ly deus primo &amp; princi 
+        <lb ed="#Bb" n="19"/>paliter supponit pro essentia: quia ly distinguitur non determinat sibi aliquam personam determi 
+        <lb ed="#Bb" n="20"/>nate, &amp; semper in tali locutione principaliter supponit &amp; denotat locutionem verificari pro essen- 
+        <lb ed="#Bb" n="21"/>tia, vt significatur hoc nomine deus per modum suppositi: &amp; etiam si significaret non solum per modum 
+        <lb ed="#Bb" n="22"/>actionis grammatice loquendo, sicut significat hoc verbum discernere, sed veram actionem per mo-  
+        <lb ed="#Bb" n="23"/>dum actionis, sicut significat hoc verbum creat, dicendo deus creat. Propter quod non sequitur vl- 
+        <lb ed="#Bb" n="24"/>terius, notat distinctionem inter terminos, ergo inter deum &amp; deum: vt ponatur distinctio intelligi 
+        <lb ed="#Bb" n="25"/>circa deum ratione deitatis: immo esset fallacia figurae dictionis ex commutatione suppositionis. Super  
+        <lb ed="#Bb" n="26"/>ponit enim  deus principaliter pro persona patris vel filii, vel vtriusque simul, cum dicitur deus producit 
+        <lb ed="#Bb" n="27"/>deum: econuerso autem pro essentia principaliter, cum dicitur, Deus discernitur. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e1125">
+        ⁋ Quod arguitur 
+        <lb ed="#Bb" n="28"/>vlterius, si deus producit deum, aut ergo voluntate, aut natura, aut necessitate &amp;c. Ad huius disso- 
+        <lb ed="#Bb" n="29"/>lutionem sciendum: quod deum producere deum necessitate, natura, aut voluntate, dupliciter potest intelligi, quia 
+        <lb ed="#Bb" n="30"/>y necessitate natura &amp; voluntate possunt teneri nominaliter vel aduerbialiter. Si nominaliter, sic sunt 
+        <lb ed="#Bb" n="31"/>ablatiui: &amp; dicunt rationem originandi actum productionis in originante. &amp; hoc modo deus non producit 
+        <lb ed="#Bb" n="32"/>deum necessitate: quia necessitas quae est ratio producendi alia a natura, non est nisi principium extra: quae 
+        <lb ed="#Bb" n="33"/>dicitur necessitas coactionis. Et de tali modo necessitatis intelligebant haeretici quando quaerebant 
+        <lb ed="#Bb" n="34"/>vtrum pater genuit filium necessitate, vel ambo producerent spiritum sanctum de necessitate. De qua di- 
+        <lb ed="#Bb" n="35"/>cit Hila. de Syno. Si quis nolente patre dicat generari filium, anathema sit, non enim nolente patre 
+        <lb ed="#Bb" n="36"/>coactus est pater: vel necessitate naturali ductus cum nollet genuit filium. Et <name ref="#Augustine">Augustinus</name> ad Orosium 
+        <lb ed="#Bb" n="37"/>quaestione. vii. Necessitas in deo non est. Si vero praedicta tria sumantur aduerbialiter: vt sint idem quod ne 
+        <lb ed="#Bb" n="38"/>cessarie &amp; voluntarie &amp; naturaliter, sic dicunt solummodo productionis modum. Sic in omni modo pro 
+        <lb ed="#Bb" n="39"/>ductionis deus producit deum de necessitate non alicuius indigentiae. iuxta quod dicit Hila. de Syno. xl 
+        <lb ed="#Bb" n="40"/>Nulla necessitate naturali ductus pater genuit filium, neque consimiliter ambo produxerunt spiritum 
+        <lb ed="#Bb" n="41"/>sanctum aliqua necessitate. De tali autem necessitate quaerebant haeretici. Sed cum secundum <name ref="#Anselm">Anselmus</name> ii. libro 
+        <lb ed="#Bb" n="42"/>de libero arbitrio, duplex sit necessitas scilicet quaedam praecedens, quae est causa vt sit res, &amp; necessitas se 
+        <lb ed="#Bb" n="43"/>quens quam res facit: vtroque modo cadit necessitas quae dicit modum productionis, in diuina pro- 
+        <lb ed="#Bb" n="44"/>ductione. Dicitur autem praecedens necessitas ab ipso causa vt sit res: quia est modus actus, ex eo 
+        <lb ed="#Bb" n="45"/>quod est ratio &amp; principium actus: quemadmodum caelum dicitur necessario moueri: quia de neces 
+        <lb ed="#Bb" n="46"/>sitate suae formae mouetur: &amp; similiter ignis de necessitate calefacit: quia de necessitate naturali 
+        <lb ed="#Bb" n="47"/>suae caliditatis. Dicitur autem necessitas sequens quam res facit &amp; quae nihil efficit, quia est modus 
+        <lb ed="#Bb" n="48"/>actus non ex eo quod est ratio &amp; principium ipsius actus: sed ex conditione ipsius actus. Et haec se- 
+        <lb ed="#Bb" n="49"/>cunda potest esse vbi non est prima: vt cum dico te ex necessitate loqui quando loqueris. vt enim 
+        <lb ed="#Bb" n="50"/>dicit Anselmus, cum hoc dico, significo nihil facere posse vt dum loqueris non loquaris, non quod 
+        <lb ed="#Bb" n="51"/>aliquis cogat te ad loquendum. Sed vbi est prima necessitas necessario est secunda. Et potest pri 
+        <lb ed="#Bb" n="52"/>ma harum necessitatum appellari necessitas efficientiae. Secunda vero existentiae. Prima necessita- 
+        <lb ed="#Bb" n="53"/>te secundum Philosophos dicitur caelum de necessitate moueri, quia habet causam necessariam 
+        <lb ed="#Bb" n="54"/>effectiuam motus eius. Secundo modo dicitur caelum moueri de necessitate: quia non potest esse vt non sit motus 
+        <lb ed="#Bb" n="55"/>in caelo: &amp; loquens cum loquitur de necessitate loqui: quia non potest esse vt aliquis dum loquitur non loquatur.  
+   <!--180.xml-->
+        <pb ed="#Bb" n="83-r"/>
+        <lb ed="#Bb" n="1"/>Primo modo deus preoducit deum de necessitate. &amp; haec necessitas a quibusdam appellatur necessitas 
+        <lb ed="#Bb" n="2"/>immutabilitatis: &amp; ab <name ref="#Anselm">Anselmo</name> appellatur necessitas inuertibilitatis seruandi constantiam. Sed se 
+        <lb ed="#Bb" n="3"/>cundum quod natura &amp; voluntate sumuntur aduerbialiter, hoc modo ambo concurrunt in omni pro 
+        <lb ed="#Bb" n="4"/>ductione dei de deo: quia deus deum naturaliter &amp; voluntarie generat, &amp; similiter spirat. Quia enim deus 
+        <lb ed="#Bb" n="5"/>nihil agit nisi vt natura intelligens &amp; voluntaria, cuius natura non patitur violentiam aut indi-  
+        <lb ed="#Bb" n="6"/>gentiam, cuius intellectus non errat per ignorantiam, cuius voluntas non impeditur per impotentiam: 
+        <lb ed="#Bb" n="7"/>&amp; sunt penitus idem re in deo pertinentia ad attributa essentialia secundum rationem praecedentia vt 
+        <lb ed="#Bb" n="8"/>fundamenta, &amp; principia actuum personalium: impossibile est quod in deo aliquod agat natura quod non sciat 
+        <lb ed="#Bb" n="9"/>&amp; intelligat per intellectum, &amp; quod non velit siue in ipsum non consentiat per voluntatem, neque volun- 
+        <lb ed="#Bb" n="10"/>tate de ipsa sua substantia, quin natura concurrat &amp; intellectus sciat. De hoc autem minus dubium 
+        <lb ed="#Bb" n="11"/>est in productione spiritus sancti ab vtroque, quod scilicet productio eius sit natura &amp; intellectu cum hoc quod  
+        <lb ed="#Bb" n="12"/>est voluntate: quam filii a patre. scilicet quod productio eius cum hoc quod est natura &amp; intellectu, sit etiam vo- 
+        <lb ed="#Bb" n="13"/>luntate: quia illa est modo voluntatis, &amp; ista modo naturae &amp; intellectus: vt infra videbitur. Natu 
+        <lb ed="#Bb" n="14"/>ra autem &amp; intellectus ratione absolui possent a voluntate &amp; agere sine illa: quia ordine quodam  
+        <lb ed="#Bb" n="15"/>rationis natura &amp; intellectus in deo praecedunt voluntatem: vt iam visum est supra, &amp; amplius vi- 
+        <lb ed="#Bb" n="16"/>debitur infra: non econverso. dicente <name ref="#Augustine">Augustino</name> ad Orosium. Praeire voluntas sapientiam non potest 
+        <lb ed="#Bb" n="17"/>Propter quod auctores magis sollicite affirmabant productionem filii cum hoc quod est natura &amp; intel- 
+        <lb ed="#Bb" n="18"/>lectu etiam esse voluntate. In hoc enim haeretici magis errabant: vt patet per Magistrum. id est sententiarum 
+        <lb ed="#Bb" n="19"/>distin. vi. per totum. Hic dicit Hila. de Syno. Eos quid dicunt quod neque consilio, neque voluntate pater genuit 
+        <lb ed="#Bb" n="20"/>filium, anathematizat sancta ecclesia. Et Ric. vi. de triniitate. c. xvii. Producenti qui est ipsa omnipotentia 
+        <lb ed="#Bb" n="21"/>idem est de se alium producere quod ex ordinatissima causa idipsum velle: ex principaliori autem 
+        <lb ed="#Bb" n="22"/>causa id velle idem est quod generare. Nam cum vterque procedendi modus constet in voluntate, diffe- 
+        <lb ed="#Bb" n="23"/>runt tamen pro causae alteritate. Vnde &amp; in causa principaliori consistit principalior modus procedendi. Vul- 
+        <lb ed="#Bb" n="24"/>tis super his audire verbum abbreuiatum: Ingenitum velle habere sibi conformen, idem mihi vide- 
+        <lb ed="#Bb" n="25"/>tur quod gignere filium: tam genitum quam ingenitum velle habere condilectum, idem mihi videtur quod produ  
+        <lb ed="#Bb" n="26"/>cere spiritum sanctum. &amp; cap. xviii. Videtur mihi esse deo patri filium gignere quod personam de per 
+        <lb ed="#Bb" n="27"/>sona sua naturaliter &amp; pro voto producere. Est autem aduertendum quod licet ambo, natura scilicet &amp; 
+        <lb ed="#Bb" n="28"/>voluntas, simul concurrunt in duplici productione dei de deo, non tamen eodem modo, sed diuersi- 
+        <lb ed="#Bb" n="29"/>mode. secundum quod differunt principia elicitiua illarum productionum. In productione enim principali quae 
+        <lb ed="#Bb" n="30"/>est generatio, quae elicitur a principio quod est natura, deus producit deum naturaliter primo &amp; prim 
+        <lb ed="#Bb" n="31"/>cipaliter: voluntarie vero secundario &amp; consequenter. In productione secunda quae est spiratio, econver- 
+        <lb ed="#Bb" n="32"/>so vis elicitiua actus est voluntas vt est potentia libera: naturalis tamen necessitas impellens est in  
+        <lb ed="#Bb" n="33"/>actum. In generatione enim vis elicitiua actus est intellectus vt est natura, naturali impetu impellens in  
+        <lb ed="#Bb" n="34"/>actum: in spiratione vero econverso. Sed in generatione voluntas est coniuncta naturae vt consentiens natu- 
+        <lb ed="#Bb" n="35"/>rae in actum generationis. In spiratione vero natura est coniuncta voluntati vt inclinans cum volun- 
+        <lb ed="#Bb" n="36"/>tate in actum spirationis. Et sic generans primo &amp; principaliter generat naturaliter, voluntarie au 
+        <lb ed="#Bb" n="37"/>tem concomitanter: econverso autem spirans spirat: Sed tamen aliter &amp; aliter voluntas est coniuncta naturae in  
+        <lb ed="#Bb" n="38"/>generatione: &amp; natura voluntati in spiratione: quia voluntas in generatione est coniuncta naturae non 
+        <lb ed="#Bb" n="39"/>vt coagens: sed vt complacens in actione: natura autem in spiratione est voluntati coniuncta vt 
+        <lb ed="#Bb" n="40"/>naturali quasi impetu voluntatem liberam inclinans in suam actionem: vt propterea ambae emana- 
+        <lb ed="#Bb" n="41"/>tiones naturales dici possunt. Propter quod dicit Ric. vi. de triniitate. capitulo i. quod in diuinis nihil est iuxta 
+        <lb ed="#Bb" n="42"/>donum largientis gratiae: sed totum iuxta proprietatem exigentis naturae. Et Hila. v. de triniitate. Ex 
+        <lb ed="#Bb" n="43"/>virtute naturae in eandem naturam subsistit filius natiuitate, &amp; ex virtute naturae in eandem na 
+        <lb ed="#Bb" n="44"/>turam processione subsistit spiritus sanctus. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e1301">
+        ⁋ Quia ergo inducebatur in argumento, quod deus non  
+        <lb ed="#Bb" n="45"/>producit deum natura aut necessitate: quia producit eum libere: Dicendum quod libere producit, &amp; ita volun- 
+        <lb ed="#Bb" n="46"/>tarie: sed voluntate consentiente non eliciente in prima productione, &amp; per hoc voluntarie. dicente Rioar- 
+        <lb ed="#Bb" n="47"/>lib. vi. ca. iii. Hoc proculdubio erit ei prolemo producere, in eoipso sibi omnia complacere. Per quod non excluditur 
+        <lb ed="#Bb" n="48"/>quin a natura eliciente, &amp; per hoc etiam necessario &amp; naturaliter: secundum modum necessitatis qui dictus est ca 
+        <lb ed="#Bb" n="49"/>dere in deo. Voluntate autem eliciente in secunda productione, &amp; per hoc voluntarie: per quod non excluditur a natura 
+        <lb ed="#Bb" n="50"/>concomitante, &amp; per hoc naturaliter &amp; necessario: vt patet ex iam dictis, &amp; in sequenti quaestione amplius decla 
+        <lb ed="#Bb" n="51"/>rabitur. Quia autem additur quod natura siue necessitas &amp; voluntas ex opposito distiguuntur, &amp; in eadem actione 
+        <lb ed="#Bb" n="52"/>non concurrunt, dicendum quod voluntas operatur aut vt libera absolute, aut vt libera arbitrio. Isto secundo modo 
+        <lb ed="#Bb" n="53"/>non concurrunt in eadem actione natura siue necessitas &amp; voluntas. sic enim deus nihil opeatur voluntate intra 
+        <lb ed="#Bb" n="54"/>se: siy solum circa creaturas. Et secundum hoc Hila. de Syno. &amp; <name ref="#Anselm">Anselmus</name> ii. cur de. homo, dicunt quod nulla est in  
+        <lb ed="#Bb" n="55"/>deo faciendi vel non faciendi necessitas. Item <name ref="#Anselm">Anselmus</name> ibidem. In deo sola operatur voluntas. Primo autem 
+   <!--181.xml-->
+        <pb ed="#Bb" n="83-v"/>
+        <lb ed="#Bb" n="1"/>modo bene concurrunt in eadem actione: vt supra determinatum est disputando de voluntate dei:  
+        <lb ed="#Bb" n="2"/>licet non eodem modo: vt iam declaratum est hic. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e1342">
+        ⁋ Quia vero adducebatur quod deus non producit 
+        <lb ed="#Bb" n="3"/>deum voluntate siue voluntarie: quia productio talis non potest non esse: Potest responderi mo-  
+        <lb ed="#Bb" n="4"/>do iam dicto distinguendo de voluntate penes diuersum modum quo voluntas concurrit ad actum 
+        <lb ed="#Bb" n="5"/>generandi &amp; spirandi, econtrario tamen natura. Penes hoc enim accipitur quaedam distinctio magistra- 
+        <lb ed="#Bb" n="6"/>lis, quod est quaedam voluntas antecedens, quaedam vero concomitans: prima in spiratione. secunda vero in ge 
+        <lb ed="#Bb" n="7"/>neratione. Sed haeretici Eunomiani (vt dicit Auinus, xv. de triniitate. ca. xx. cum non potuerunt intelli- 
+        <lb ed="#Bb" n="8"/>gere, nec crederes voluerunt dei filium esse natura genitum: filium voluntatis dixerunt eum esse, volentes 
+        <lb ed="#Bb" n="9"/>asserere antecedentem voluntatem, qua scilicet vt principio elicitiuo gigneret filium. Propter quod Magi- 
+        <lb ed="#Bb" n="10"/>ster. vi. distin ca. vl. appellat eam efficientem, &amp; non solum antecedentem ordine vt principium princi- 
+        <lb ed="#Bb" n="11"/>piatum: sed tempore: intelligendo voluntatem illam non solum antecedentem originaliter: sed etiam anteceden 
+        <lb ed="#Bb" n="12"/>tem de nouo aut ipsi volenti, sicut nos aliquando volumus quod antea non volebamus: aut ipsi operi siue 
+        <lb ed="#Bb" n="13"/>rei operatae, sicut deus voluit aliquando creaturam de nouo producere quam antea producere noluit. Quod 
+        <lb ed="#Bb" n="14"/>dixerunt: vt ostenderent filium dei esse creaturam. Contra quos dicit <name ref="#Augustine">Augustinus</name> super epistolam ad Ephesios 
+        <lb ed="#Bb" n="15"/>super illud ca. i. Praedestinauit nos. De domino nostro lesu Christo dictum est: quia cum patre semper fuit, 
+        <lb ed="#Bb" n="16"/>&amp; numquam eum vt esset voluntas paterna praecessit. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e1378">
+        ⁋ Ad sequens: si deus producit deum, ergo de aliquo, aut  
+        <lb ed="#Bb" n="17"/>nihilo &amp;c. Dicendum quod non de nihilo, sed de aliquo, nec de substantia aliena, sed de substantia produ 
+        <lb ed="#Bb" n="18"/>centis. De aliquo oportet poni esse productum omne quod producitur in diuinis. De nihilo autem non po 
+        <lb ed="#Bb" n="19"/>test dici productum quod in diuinis producitur. Quoniam sy nihil cum dicitur aliquid esse de nihilo. secundum An 
+        <lb ed="#Bb" n="20"/>sel. mon. c. viii. tripliciter accipitur. Vno modo negatiue: sicut esse de nihilo dicitur id quod omnino non 
+        <lb ed="#Bb" n="21"/>habet esse. secundum quod tacens dicitur loqui de nihilo. Hoc igitur modo nihil existens siue in deo siue in  
+        <lb ed="#Bb" n="22"/>creaturis potest dici esse de nihilo, neque omnino id quod habet esse, siue sit productum, siue non. Contra 
+        <lb ed="#Bb" n="23"/>dictio enim includeret scilicet quod haberet esse &amp; non esset. &amp; ideo isto modo neque in diuinis neque in creaturis 
+        <lb ed="#Bb" n="24"/>potest aliquid dici esse productum de nihilo. Secundo modo dicitur aliquid de nihilo: quia non est aliquid de quo  
+        <lb ed="#Bb" n="25"/>potest dici esse. secundum quod id dicitur de nihilo, quod habet causam sui esse. sic pter in diuinis potest dici esse de nihilo: 
+        <lb ed="#Bb" n="26"/>vel ipsa essentia diuina: quia non habet principium aut causam sui esse. sed tunc illa praepositio de, inclu 
+        <lb ed="#Bb" n="27"/>ditur sub negatione: vt idem sit dictu esse de nihilo quid non esse de aliquo. Et ideo isto modo nihil productum 
+        <lb ed="#Bb" n="28"/>potest dici productum de nihilo in diuinis: quia omne productum in diuinis habet aliquid de quo est &amp; princi 
+        <lb ed="#Bb" n="29"/>piatiue, &amp; quansi materialiter: vt iam videbitur. Sed iste modus dicendi aliquid esse de nihilo, non debet vsita 
+        <lb ed="#Bb" n="30"/>ri in diuinis: quia secundum vsum conem non solum praetendit negationem essendi quod non ab alio: sed negationem essendi 
+        <lb ed="#Bb" n="31"/>simpliciter. Vnde dicit <name ref="#Anselm">Anselmus</name> mond. c. vi. Licet summa essentia non sit per aliquod efficiens aut ex aliqua materia, non 
+        <lb ed="#Bb" n="32"/>tamen per nihil atque ex nihilo, quia per seipsam &amp; ex seipsa est quicquid est. Sic &amp; pater ex seipso &amp; per se 
+        <lb ed="#Bb" n="33"/>ipsum est quicquid est, non ex nihilo. Et ita istis duobus modis dicitur ly de nihilo negatiue. Tertio 
+        <lb ed="#Bb" n="34"/>modo dicitur de nihilo positiue, &amp; hoc dupliciter. Vno modo, quasi materialiter: vt nihil ingrediatur 
+        <lb ed="#Bb" n="35"/>materiam rei subiectam, sicut ferrum ingreditur substantiam cultelli qui est de ferro. Sic iterum nihil sit 
+        <lb ed="#Bb" n="36"/>de nihilo: quia nihil nullius habet esse aliquid. Alio modo originaliter: quia eius substantia ha- 
+        <lb ed="#Bb" n="37"/>bet esse post non esse. &amp; sic sola creatura habet esse ex nihilo: non autem aliquid productum in diui- 
+        <lb ed="#Bb" n="38"/>nis: quia nihil est ibi nisi peretuum: vt infra dicetur. De aliena autem substantia ex nihilo tamen concrea- 
+        <lb ed="#Bb" n="39"/>ta, dicebant haeretici esse productum quicquid in diuinis producitur. Vnde &amp; dicebant nihil produci a 
+        <lb ed="#Bb" n="40"/>deo, nisi quod esset creatura, &amp; alterius substantiae quam diuinae, &amp; esse productum post producentem: &amp; dice 
+        <lb ed="#Bb" n="41"/>bant filium creaturam nobilissimam a deo creatam. dicente Hila. in principio. iiii. de trinitate. Aiunt haeretici 
+        <lb ed="#Bb" n="42"/>filium non ex patre natum: neque deum ex natura: sed ex constitutione esse: quia sicut plures dei filii 
+        <lb ed="#Bb" n="43"/>ita &amp; hic filius sit: sicut plures dii sunt, ita &amp; hic deus sit: indulgentiore tamen in eo &amp; adoptionis 
+        <lb ed="#Bb" n="44"/>&amp; nuncupationis affectu: vt &amp; prae caeteris sit adoptatus, &amp; adoptiuis sit maior, &amp; excellentius cum 
+        <lb ed="#Bb" n="45"/>ctis naturis creatus: &amp; creaturis ipse caeteris praestet, &amp; ex nihilo vt caetera in aeterni illius creatoris sui 
+        <lb ed="#Bb" n="46"/>imagine constitisse, verbo videlicet de non extantibus iussum esse subsistere, deo potente similitu 
+        <lb ed="#Bb" n="47"/>dinem sui ex nihilo coaptare. Et dicit hoc contra Arrianos, qui filium dicebant creaturam spiri- 
+        <lb ed="#Bb" n="48"/>tualem nobilissimam ante alias creatam, &amp; in virgine naturam humanam accepisse. Photinus vero di- 
+        <lb ed="#Bb" n="49"/>xit, quod initium accepit in virgine cum carnem assumpsit: &amp; ambo dicebant spcnium sanctum creaturam nobi- 
+        <lb ed="#Bb" n="50"/>lissimam post filium: &amp; ambos dicebant a deo dignitate gratiae deificatos: &amp; ideo vtrumque dici deum in sacra 
+        <lb ed="#Bb" n="51"/>scriptura. Sed qui sic dicunt (vt dicit Ambrosiuis ist de triniitate. negant filium diuinitate vnum cum patre es- 
+        <lb ed="#Bb" n="52"/>se. Deleant ergo euangelium: deleant vocem Christin. Ipse enim dicit. Ego &amp; pater vnum sumus. Eos 
+        <lb ed="#Bb" n="53"/>qui dicunt, erat quando non erat, &amp; antequam nasceretur non erat, &amp; quid ex nihilo factum aut ex alia substantia, 
+        <lb ed="#Bb" n="54"/>anathematizat catholica &amp; aprsica ecclesia. Vnde ad huiusmodi errorem improbandum ex textu scripturae 
+        <lb ed="#Bb" n="55"/>potius quam ex vi rationis naturalis, inuigilat vt plurimum disputatio de trinitate Ambrosii &amp; Hila. &amp; 
+   <!--182.xml-->
+        <pb ed="#Bb" n="84-r"/>
+        <lb ed="#Bb" n="1"/>aliorum catholicorum: vt patet inspicienti libros ipsorum. Vnde quia ita sit ex dictis sacrae scripturae quae 
+        <lb ed="#Bb" n="2"/>eorum disputationibus sunt declarata, tenere debemus: &amp; quom intelligere possumus quod deus deum de substam 
+        <lb ed="#Bb" n="3"/>tia sua producat, inuestigare debemus. Sed (vt dicit Hila . i. de triniate. de natura dei &amp; natiuitate, siue 
+        <lb ed="#Bb" n="4"/>(vt largius loquar) de processione tractantes exempla afferemus: quia intelligentiae niae infirmitas cogit spe 
+        <lb ed="#Bb" n="5"/>cies quasdam ex inferioribus tanquam superiorum indices quaerere: vt rerum familiarium consuetudine admonem 
+        <lb ed="#Bb" n="6"/>te, ex sensus nostri conscientia ad insoliti sensus opinionem educeremur. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e1486">
+        ⁋ Est ergo sciendum quod in  
+        <lb ed="#Bb" n="7"/>exemplo productionis naturalis est inuenire ea quibus vti possumus ad intentum nostrum circa produ- 
+        <lb ed="#Bb" n="8"/>ctionem diuinam. Est enim in productione considerare tria quodammodo re differentia. scilicet subiectam materiam 
+        <lb ed="#Bb" n="9"/>quae est in potentia ad formam, &amp; ipsam formam quam agens deducit in actum de potentia materiae, &amp; compositum 
+        <lb ed="#Bb" n="10"/>constitutum in esse ex vtroque, quod est per se terminus productionis naturalis. His tribus differentibus in  
+        <lb ed="#Bb" n="11"/>productione creaturae secundum rem, est inuenire tria correspondentia differentia secundum rationem tantum 
+        <lb ed="#Bb" n="12"/>in productione diuina, videlicet ipsam diuinam essentiam &amp; proprietatem personalem, &amp; ipsum suppositum 
+        <lb ed="#Bb" n="13"/>siue personam ambo illorum in se continentem. iuxta illud quod dicit Augustinus. vii. de triniitate. ca. ii. de 
+        <lb ed="#Bb" n="14"/>persona filii. Quae est nata sapientia. vt per hoc quod dicit nata, intelligamus proprietatem: per hoc ve- 
+        <lb ed="#Bb" n="15"/>ro quod dicit sapientia, intelligamus essentiam. Vnde &amp; sicut in productione creaturarum ipsum productum 
+        <lb ed="#Bb" n="16"/>habet esse per actum productionis: &amp; quicquid est in ipso etiam habet esse in ipso per actum productionis, ita quod  
+        <lb ed="#Bb" n="17"/>secundum determinationem Philosophis. vii. meta. compositum generatur per se &amp; primo: secundo vero forma in 
+        <lb ed="#Bb" n="18"/>composito: materia vero tanquam ingenita &amp; incorruptibilis, in composito solum habetur esse per genera 
+        <lb ed="#Bb" n="19"/>tionem: nullo tamen modo generatur in ipso, nisi largissime loquendo de generatione: consimiliter in pro 
+        <lb ed="#Bb" n="20"/>ductione diuina quisquis est productus, in deo habet esse suum per actum productionis, &amp;etiam quicquid  
+        <lb ed="#Bb" n="21"/>est in ipso. Propter quod dicit <name ref="#Augustine">Augustinus</name> quod essentiam filio praestat de patre generatio: quemadmodum  
+        <lb ed="#Bb" n="22"/>compositum in creaturis habet esse suum &amp; quicquid est in ipso, per actum generationis naturalis. Est 
+        <lb ed="#Bb" n="23"/>enim persona quid constitutum in diuinis ex essentia cum proprietate: licet absque compositione: vt in-  
+        <lb ed="#Bb" n="24"/>fra patebit. Et Hila. dicit quod filius nihil habet hisi natm. id eit quod nascendo accepit: vt exponit Praeposi 
+        <lb ed="#Bb" n="25"/>tinus. Licet tamen proprie dicimus quod persona producitur per se &amp; primo, tamen non est consuetum dici a theo 
+        <lb ed="#Bb" n="26"/>logis quod proprietas &amp; essentia vllo modo producantur per accidens: sed solummodo quod habentur per productio 
+        <lb ed="#Bb" n="27"/>nem in persona producta: licet aliter &amp; aliter: quoniam proprietas non solum habet esse in persona producta 
+        <lb ed="#Bb" n="28"/>per ipsam productionem: sed etiam simpliciter habet esse per illam: quia in illa habet esse absque productione: essentia vero 
+        <lb ed="#Bb" n="29"/>per productionem habet esse in producto: sed non habet esse simpliciter per productionem: quia absque productione 
+        <lb ed="#Bb" n="30"/>passiua habet esse in producente. Propter quod forte aliquo modo posset proprie vel saltem magis proprie 
+        <lb ed="#Bb" n="31"/>quam de essentia, aut minus improprie dici quod proprietas producatur in persona producta: vt quod filiatio 
+        <lb ed="#Bb" n="32"/>generetur non simpliciter secundum se, sed tantum in filio. Nullo autem modo proprie dici posset quod essen- 
+        <lb ed="#Bb" n="33"/>tia produceretur etiam in producto: vt quod deitas generaretur in filio: sed solummodo quod haberetur in  
+        <lb ed="#Bb" n="34"/>ipso per generationem: &amp; ita quod proprie dicitur essentia communicari filio per generationem. Hila. tamen 
+        <lb ed="#Bb" n="35"/>concedit substantiam generari in filio, cum dicit. ii. de triniitate. in principio. Pater quomodo erit, si non quid  
+        <lb ed="#Bb" n="36"/>in se substantiae atque naturae est genuerat in filio: Sed hoc minus proprie &amp; vere dicimus: quemadmo  
+        <lb ed="#Bb" n="37"/>dum in creaturis minus vere &amp; proprie materia generari dicitur quam forma. Dicimus ergo quod quemad-  
+        <lb ed="#Bb" n="38"/>modum in productione naturali materia est subiectum generationis, inquantum est in potentia ad formam 
+        <lb ed="#Bb" n="39"/>&amp; per hoc ad compositum generandum de ea: sic in productione diuina, puta in generatione filii, &amp; 
+        <lb ed="#Bb" n="40"/>consimiliter in spiratione spiritus sancti: ipsa diuina essentia est quasi subiectum generationis, &amp; vt 
+        <lb ed="#Bb" n="41"/>aliquid in potentia: licet necessario semper coniuncta actui ad generandum de ea personam constitutam 
+        <lb ed="#Bb" n="42"/>ex essentia &amp; proprietate, quae est sapientia genita, secundum quod dictum est: vt sapientia nominet subiectum, 
+        <lb ed="#Bb" n="43"/>quod in creaturis est materia: nata vero nominet proprietatem per generationem habitam, qua filius in es 
+        <lb ed="#Bb" n="44"/>se generati constituitur, &amp; a patre distinguitur, qui est innata sapientia: cum quo conuenit inquantum 
+        <lb ed="#Bb" n="45"/>est sapientia simpliciter &amp; absolute. Sic dicendum est quod deus generat deum de sua substantia. scilicet generantis 
+        <lb ed="#Bb" n="46"/>dicente <name ref="#Augustine">Augustino</name> in sermone de symbolo, Deus cum verbum genuit, id quod ipse. est genuit, nec de ni 
+        <lb ed="#Bb" n="47"/>hilo nec de aliqua iam facta conditaque matetia: sed de seipso, hoc est de substantia sua. Et de fi. ad Pe. 
+        <lb ed="#Bb" n="48"/>Pater de nullo genitus deus semel de sua natura sine initio genuit filium. Ad idem inducit Magister 
+        <lb ed="#Bb" n="49"/>sentem. distin. v. cap: Dicitur quoque. plurimas auctoritates. Dico autem de substantia generantis cum redu 
+        <lb ed="#Bb" n="50"/>plicatione inquantum scilicet generans est. licet enim eadem sit in tribus, non tamen habet rationem poten- 
+        <lb ed="#Bb" n="51"/>tiae vt de ea generetur aliquis, nisi secundum quod habet esse in patre. vt per hoc excludatur inconue- 
+        <lb ed="#Bb" n="52"/>niens quod Magister sententiarum inducit ex dicta auctoritate Augustini de fi. ad Pe. distinctio 
+        <lb ed="#Bb" n="53"/>ne. v. capitulo. Dicitur quoque. vbi dicit sic. Ecce hic dicit <name ref="#Augustine">Augustinus</name> filium genitum de natura 
+        <lb ed="#Bb" n="54"/>patris. Est autem eadem natura patris &amp; filii &amp; spiritus sancti. Si ergo de natura patris est genitus 
+        <lb ed="#Bb" n="55"/>filius, genitus est de natura filii &amp; spiritus sancti, immo de natura trium personarum. Propter quod 
+   <!--183.xml-->
+        <pb ed="#Bb" n="84-v"/>
+        <lb ed="#Bb" n="1"/>Magister in ca. Ostenditur quoque, respondendo huic inconvenienti exponit eam dicens. Eilius natus 
+        <lb ed="#Bb" n="2"/>est de substantia patris, vel pater genuit filium de sua natura siue essentiaid i. de se natura siue essen- 
+        <lb ed="#Bb" n="3"/>tia genuit filium eiusdem naturae siue essentiae. &amp; hoc quasi ly de solum posset dicere circunstantiam qua  
+        <lb ed="#Bb" n="4"/>si causae efficientis non materialis: quod non oportet dicere. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e1618">
+        ⁋ Et quod arguitur in contrarium, quod diuina 
+        <lb ed="#Bb" n="5"/>essentia purus actus est &amp; forma: quare ad nihil est in potentia, &amp;c. Dicendum quod aliquid est in po- 
+        <lb ed="#Bb" n="6"/>tentia ad aliquid quod est absolutum, &amp; differt ab ipso re vel intentione, &amp; vadit de potentia in actum per  
+        <lb ed="#Bb" n="7"/>motum &amp; transmutationem rei vel rationis: vel ad aliquid quod est respectus tantum, &amp; differt ab illo so 
+        <lb ed="#Bb" n="8"/>la ratione, nunquam vadens per transmutationem quancumque de potentia in actum: sed semper naturaliter 
+        <lb ed="#Bb" n="9"/>coniunctum est actui. Primo modo in creaturis materia est in potentia ad formam tanquam ad differens 
+        <lb ed="#Bb" n="10"/>re ab ipsa, &amp; transiens de potentia ad actum per realem transmutationem in materia: &amp; similiter for 
+        <lb ed="#Bb" n="11"/>ma generis est in potentia ad formam differentiae tanquam aliquid differens intentione ab ipsa, &amp; 
+        <lb ed="#Bb" n="12"/>transiens de potentia ad actum per transmutationem rationis. Nec est tali modo diuina essen 
+        <lb ed="#Bb" n="13"/>tia in potentia ad aliquid: de qua habeat veritatem medium in argumento, non autem de po- 
+        <lb ed="#Bb" n="14"/>tentia secundo modo: immo de natura formae diuinae inquantum est actus purus, est quod sit in poten 
+        <lb ed="#Bb" n="15"/>tia ad plures respectus. Vnde productio diuina ex parte eius de quo producitur, non solum ex par- 
+        <lb ed="#Bb" n="16"/>te modi producendi, differt ab omni modo productionis qui possibilis est fieri in creaturis. Vt 
+        <lb ed="#Bb" n="17"/>enim dicit Victorinus in disputatione sua contra Arrium, aeterna generatio improportionabilis est 
+        <lb ed="#Bb" n="18"/>omni generationi. Vnde qui perfecte vult videre modum generationis diuinae, &amp; hoc quantum pertinet ad  
+        <lb ed="#Bb" n="19"/>ppositum, debet aspicere ad modos generationum aliarum: &amp; quod nobilitatis est isti productioni ascri 
+        <lb ed="#Bb" n="20"/>bere, &amp; quod ignobilitatis est abnegare: &amp; tandem ostendere quomodo in eadem est aliquid nobilita 
+        <lb ed="#Bb" n="21"/>tis quod in nulla aliarum possit inueniri: vt declaratur in Glossa Hebra. id est super illud, Cum sit spledor  
+        <lb ed="#Bb" n="22"/>gloriae. Differt igitur productio diuina summe a productione qualibet alia, quia illa vadit per 
+        <lb ed="#Bb" n="23"/>transmutationem ad perfectionem, &amp; in ipsa distat potentia ab actu, in ista vero nequaquam. Differt spe 
+        <lb ed="#Bb" n="24"/>cialiter a productione naturali quae est generatio: quia illa est de imperfecto substantialiter: ista ve- 
+        <lb ed="#Bb" n="25"/>ro est de perfecta substantia. In quo plus conuenit cum productione quae est alteratio, quia in illa sub 
+        <lb ed="#Bb" n="26"/>iectum quod est in potentia, est aliquid existens in actu: sed differt in hoc, quod subiectum in alteratione est 
+        <lb ed="#Bb" n="27"/>in potentia ad aliquid re absolutum differens ab ipso: in productione autem diuina nequaquam: in quo diuina 
+        <lb ed="#Bb" n="28"/>productio convenit plus cum productione speciei ex genere: quia in hac productione genus quod est si- 
+        <lb ed="#Bb" n="29"/>cut subiectum &amp; materia, est in potentia ad aliquid absolutum: vt ad differentiam, quae sola intentione 
+        <lb ed="#Bb" n="30"/>differt ab ipso: hic autem subiectum est in potentia ad aliquid respectiuum, quid differt ab ipso sola ratione 
+        <lb ed="#Bb" n="31"/>Et licet ista productio sit magis similis diuinae quam alia, in multis tamen aliis differt: quia productio 
+        <lb ed="#Bb" n="32"/>speciei ex genere per differentiam procedit de incompleto ad completum, assumendo complementi de- 
+        <lb ed="#Bb" n="33"/>terminationem: vt secundum aliud &amp; aliud re descendat in aliam &amp; aliam speciem, &amp; sit tantum vnum cone 
+        <lb ed="#Bb" n="34"/>secundum rationem. In productione autem diuina subiectum non est aliquid incompletum determinatum per as-  
+        <lb ed="#Bb" n="35"/>sumptam proprietatem: sed vnum &amp; idem re singulare totaliter habet esse per productionem in di 
+        <lb ed="#Bb" n="36"/>uersis sub diuersis proprietatibus relatiuis: quod est commune non secundum rationem, sed secundum con 
+        <lb ed="#Bb" n="37"/>municationem. Vnde quia illud commune est vnum &amp; idem singulare, ideo ista est vera, Tres per 
+        <lb ed="#Bb" n="38"/>sonae sunt vnus deus, &amp; vna substantia: &amp; quia in constitutione personae secum habet rationes proprie- 
+        <lb ed="#Bb" n="39"/>tatum quae non differunt ab ipsa nisi ratione, ideo &amp; conuersa est vera, vnus deus est tres personae si 
+        <lb ed="#Bb" n="40"/>ue trinitas. secundum quod Magister probat hoc auctoritatibusi.d is. sententiarum distin iiii. c. Quidam tamen. 
+        <lb ed="#Bb" n="41"/>Propter vtrumque vero eorum simul omnes propositiones conceduntur in quibus praedicantur concreta de concre 
+        <lb ed="#Bb" n="42"/>tis: vt ptur est deus: vel abstracta de abstractis, vt paternitas est deitas, vel econverso: vel abstracta de 
+        <lb ed="#Bb" n="43"/>concretis, vt paternitas est deus, vel pitr est deitas, vt dictum est: licet non sunt sper aeque, propriae: &amp; hoc vbique 
+        <lb ed="#Bb" n="44"/>vbi non repugnat relationis oppositio seu disparatio. illa enim impedit praedicationem: &amp; hoc vel principa- 
+        <lb ed="#Bb" n="45"/>liter vel ex adiuncto. Principaliter: aut ratione significationis terminorum, propter quod non dicitur 
+        <lb ed="#Bb" n="46"/>paternitas aut pater est filiatio, aut filius: aut ratione modi significandi, propter quod non dicitur 
+        <lb ed="#Bb" n="47"/>essentia generat aut generatur. Ex adiuncto autem, vt licet dicatur absolute essentia est pitr, non tamen dicitur 
+        <lb ed="#Bb" n="48"/>essentia est pater filii. Licet enim Magister Alexander in summa distinguat, dicendo quod l pater po 
+        <lb ed="#Bb" n="49"/>test sumi adiectiue vel substantiue: &amp; si substantiue, sic est vera: quia tunc supponit pro tota per 
+        <lb ed="#Bb" n="50"/>sona habente filium, sub hoc sensu, essentia est persona quae est genitor filii: sicut econuerso ista, pa 
+        <lb ed="#Bb" n="51"/>ter filii est essentia. i. persona generans filium est essentia: Si vero sumatur adiectiue, sic est falsa: quia 
+        <lb ed="#Bb" n="52"/>dicit quod essentiae convenit proprietas qua refertur ad filium vt generans ipsum: Magister tamen 
+        <lb ed="#Bb" n="53"/>Praepositinus in summa sua dicit eam veram esse simpliciter: &amp; ly pater tantum teneri substantiue. 
+        <lb ed="#Bb" n="54"/>sicut hic, essentia est pater. Quod probat: quia sequitur: pater filii est essentia, ergo essentia est 
+        <lb ed="#Bb" n="55"/>pater filii. prima est vera: quia pater tenetur substantiue: quare similiter &amp; secunda. Item essentia 
+   <!--184.xml-->
+        <pb ed="#Bb" n="85-r"/>
+        <lb ed="#Bb" n="1"/>est pater, haec est vera: quia ly pater tenetur substantiue: aut ergo est pater alicuius, aut nullius. 
+        <lb ed="#Bb" n="2"/>Si nullius, ergo omnino non est pater. Si alicuius, hoc non est nisi filii. Sed in rei veritate illa est falsa, 
+        <lb ed="#Bb" n="3"/>essentia est pater filii: &amp; tenetur ly pater tantum adiectiue: quoniam nomina quae imponuntur a potentia actiua vel 
+        <lb ed="#Bb" n="4"/>passiua, vt sunt magister discipulus, pater filius, aedificator, adiectiua sunt significatione tantum:  
+        <lb ed="#Bb" n="5"/>&amp; hoc ex respectu quem habent ad aliud, quod respicit potentia a qua imponuntur. Sed ita est, quod cum 
+        <lb ed="#Bb" n="6"/>aliquid habet rationem adiacentis vel adiectiui ex respectu ad aliud, quanto magis est deteriatus 
+        <lb ed="#Bb" n="7"/>respectus: tanto magis habet rationem adiacentis: &amp; tanto minus, quanto magis indeteriatus est respectus. si- 
+        <lb ed="#Bb" n="8"/>cut patet de modo infinitiuo: quod grammatici dicunt quod potius potest supponere quam alius modus: quia alii 
+        <lb ed="#Bb" n="9"/>dicunt finitam inclinationem ad suppositum, iste vero infinitam. Et similiter adiectiuum in neutro ge 
+        <lb ed="#Bb" n="10"/>nere potius substantiuatur quam in masculino aut foeminino. Quare cum ly pater, dicendo Pater 
+        <lb ed="#Bb" n="11"/>filii, habet finitam habitudinem &amp; expressam, non sic cum per se ponitur: ideo licet posset teneri substanti 
+        <lb ed="#Bb" n="12"/>ue dicendo Essentia est pater: non tamen nisi adiectiue, dicendo essentia est pater filii. Et sic sim 
+        <lb ed="#Bb" n="13"/>pliciter est falsa (vt dictum est) illa, essentia est pater filii: haec tamen est vera, essentia est pater. Si er- 
+        <lb ed="#Bb" n="14"/>go obiiciatur Essentia est pater, &amp; non est pater nisi filii: ergo essentia est pater filii aut non est 
+        <lb ed="#Bb" n="15"/>pater: patet quod est figura dictionis: quia in prima l pater per se supponit pro tota persona: in  
+        <lb ed="#Bb" n="16"/>secunda cum dicitur pater filii, copulat proprietatem tantum circa subiectum. Patet ergo quod non va 
+        <lb ed="#Bb" n="17"/>let primum argumentum Praepositini, Pater filii est essentia: ergo essentia est pater filii: quia de-  
+        <lb ed="#Bb" n="18"/>beret sic convertere: ergo aliquid quod est essentia est pater filii. sicut illa, indiuiduum est homo, non 
+        <lb ed="#Bb" n="19"/>conuertitur sic: ergo homo est indiuiduum: sed sic. ergo aliquid quod est homo est indiuiduum. Si 
+        <lb ed="#Bb" n="20"/>militer cum arguitur: essentia est pater: ergo aut alicuius aut nullius: Dicendum quod non sequitur 
+        <lb ed="#Bb" n="21"/>propter figuram dictionis: quia statim cum additur alicuius aut nullius, aliter copulat quam prius 
+        <lb ed="#Bb" n="22"/>supponebat: et est dicendum, nullius id es. non alicuius est pater. Et non sequitur ex hoc quod non sit 
+        <lb ed="#Bb" n="23"/>pater propter figuram dictionis: sed sequitur tantum, ergo non convenit ei proprietas paternitatis. Quia 
+        <lb ed="#Bb" n="24"/>etiam deitas (vt dictum est) siue essentia diuina habet rationem communis, licet per solam commu- 
+        <lb ed="#Bb" n="25"/>nicationem: &amp; persona rationem proprii: &amp; sic quandam rationem totius tenet essentia, &amp; persona 
+        <lb ed="#Bb" n="26"/>quasi rationem partis, licet nec pars nec totum sunt vere in diuinis, vt habitum est supra: pro 
+        <lb ed="#Bb" n="27"/>pter hoc talis propositio tanquam, propria &amp; vera concedenda est, filius est substantiae diuinae aut sub- 
+        <lb ed="#Bb" n="28"/>stantiae patris: quasi participatiua conclusione sub hoc sensu, filius est aliquis substantiae patris 
+        <lb ed="#Bb" n="29"/>di. aliquis in substantia patris subsistens: non autem aliquid. sicut dicimus quod Sortes est aliquid  
+        <lb ed="#Bb" n="30"/>substantiae hominis, quia in diuersis hominibus est vera partitio humanitatis. Per hunc etiam 
+        <lb ed="#Bb" n="31"/>modum conceditur quod pater &amp; filius &amp; spiritus sanctus sunt vnius substantiae. id est aliqui quorum vna 
+        <lb ed="#Bb" n="32"/>est substantia. Sed si ille genitiuus substantiae intelligatur construi secundum habitudinem quasi 
+        <lb ed="#Bb" n="33"/>cause materialis, vt de quae aliquid vel aliquis producitur: sic ista conceditur: Christus est filius suba 
+        <lb ed="#Bb" n="34"/>stantiae patris vel deitatis. dicente Augustino, xxv. de trinitate. Quod dictum est filii charitatis suae 
+        <lb ed="#Bb" n="35"/>nihil aliud intelligatur quam filii substantiae suae. &amp; hoc ideo quia genitus est de sua substantia, quem- 
+        <lb ed="#Bb" n="36"/>admodum dicimus quod imago est statua aeris: quia de aere facta. Non sic autem possumus dicere 
+        <lb ed="#Bb" n="37"/>ingenitum esse patrem substantiae diuinae: quia non est de ipsa quasi materialiter productus. Propter 
+        <lb ed="#Bb" n="38"/>quod dicit Augustinus. vii. de trinitate. Tres personas eiusdem substantiae vel vnam essentiam dicimus 
+        <lb ed="#Bb" n="39"/>tres autem personas ex eadem essentia non dicimus. Illa tamen, Christus est filius substantiae diuinae, non 
+        <lb ed="#Bb" n="40"/>debet passim concedi, nisi exprimatur circunstantia quasi principii materialis: quia secundum commu 
+        <lb ed="#Bb" n="41"/>nem vsum talis constructio solet intelligi penes circunstantiam causae agentis: vt ipsa substantia 
+        <lb ed="#Bb" n="42"/>diuina intelligatur filium produxisse. Propter quod Magister talem propositionem exponit quasi impropriam 
+        <lb ed="#Bb" n="43"/>in praedicto cap Ostenditur quoque. dicens. Expone illud filius substantiae patris. i. patris qui est 
+        <lb ed="#Bb" n="44"/>substantia, &amp; cum quo filius est eadem substantia. Sed non oportet sic exponere: immo sensum habet 
+        <lb ed="#Bb" n="45"/>verum &amp; proprium. Aliter enim ista: Ingenitus est pater substantiae filii, aeque vera esset &amp; propria sicut 
+        <lb ed="#Bb" n="46"/>illa Christus est filius substantiae patris, sic exponendo id est filius qui est substantia, quod non est verum 
+        <lb ed="#Bb" n="47"/>quia construendo illum genitiuum substantiae in habitudine quasi principii materialis, illa est vera 
+        <lb ed="#Bb" n="48"/>&amp; propria, Christus est filius substantiae patris. Nullo autem modo illa, Ingenitus est pater substantiae 
+        <lb ed="#Bb" n="49"/>filii, vt dictum est. Aliqui autem dicunt quod in talibus propositionibus Pater genuit filium essentiae suae,  
+        <lb ed="#Bb" n="50"/>tres personae sunt vnius essentiae, ille genitiuus in omnibus talibus propositionibus construitur ex vi 
+        <lb ed="#Bb" n="51"/>designationis essentiae: quemadmodum si dicatur mulier egregiae formae: hoc est mulier habens egre- 
+        <lb ed="#Bb" n="52"/>giam formam, quid non necesse est hic dicere, vt visum est, nec debet: quia talis: constructio solummodo 
+        <lb ed="#Bb" n="53"/>vsitatur apud grammaticos in formis accidentalibus: non autem in substantialibus: sed secundum illum modum  
+        <lb ed="#Bb" n="54"/>debent exponi omnes illae propositiones in quibus substantia vel essentia ponitur vt terminus a quo, vel ter 
+        <lb ed="#Bb" n="55"/>minus ad quem actus personalis. vt illa Hil. ix. de triniitate. Nec corporali insinuatione patrem in filio 
+   <!--185.xml-->
+        <pb ed="#Bb" n="85-v"/>
+        <lb ed="#Bb" n="1"/>praedicamus: sed ex eo eiusdem generis genitam naturam naturaliter in se gignentem habuisse na 
+        <lb ed="#Bb" n="2"/>turam. hoc est: non praedicamus corporali insinuatione. id est quemadmodum locatum est in loco, patrem 
+        <lb ed="#Bb" n="3"/>esse in filio: sed supple praedicamus genitam natura id et filium qui est natura genita, habuisse in se ex 
+        <lb ed="#Bb" n="4"/>eo id est ex patre naturam eiusdem generis naturaliter gignentem id est quae est pater quid naturaliter gignit. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e1868">
+        <lb ed="#Bb" n="5"/>⁋ Et est hic aduertendum ad pleniorem intellectum praedictorum, quod hae tres praepositiones, a, ab, de &amp; ex, si pro 
+        <lb ed="#Bb" n="6"/>prie vsitentur, diuersas circunstantias &amp; habitudines nominant: licet proinuicem saepius assumuntur: 
+        <lb ed="#Bb" n="7"/>quoniam a, praepositio notat circunstantiam &amp; habitudinem causae efficientis siue principii originantis. vnde 
+        <lb ed="#Bb" n="8"/>illa recipitur, filius est a patre: non autem illa, Filius est a substantia patris. Ab vero notat circunstantiam 
+        <lb ed="#Bb" n="9"/>effectus siue principiati. Propter quod esse ab alio in diuinis: solum conuenit personae procedenti. De 
+        <lb ed="#Bb" n="10"/>&amp; ex communiter notant circunstantiam causae materialis &amp; efficientis vel quasi. Vnde istae recipiuntur 
+        <lb ed="#Bb" n="11"/>indifferenter, filius est de patre, vel ex patre, vel de substantia patris, vel ex substantia patris. Sed  
+        <lb ed="#Bb" n="12"/>differunt aliquantulum tam in circunstantia materiali quam in circunstantia causae efficientis, vel quasi. In circum 
+        <lb ed="#Bb" n="13"/>stantia enim materiali differunt: quia de indifferenter &amp; aeque proprie notat circunstantiam materiae quae est aliud  
+        <lb ed="#Bb" n="14"/>re a forma eius quod ex ipsa producitur, &amp; illius quae non est aliud re ab illa. Vnde aeque proprie dicitur 
+        <lb ed="#Bb" n="15"/>quod cultellus est de ferro: &amp; quod species est de genere. Ex vero proprie notat circunstantiam materiae pri- 
+        <lb ed="#Bb" n="16"/>mo modo, non secundo. Vnde magis proprie dicitur, cultellus est ex ferro, quam species est ex genere. Et secundum  
+        <lb ed="#Bb" n="17"/>hoc in diuinis magis proprie dicimus quod filius est de essentia patris quam quod sit ex essentia patris. di- 
+        <lb ed="#Bb" n="18"/>cente Augustino. vii. de trinitate. Tres personas ex eadem essentia non dicimus, quasi aliud ibi sit quod essen 
+        <lb ed="#Bb" n="19"/>tia sit, aliud quod persona est. cuius tamen iam aliam rationem assignamus. Differunt etiam in circunstantia causae 
+        <lb ed="#Bb" n="20"/>efficientis siue originantis: quia ex aliquo dicitur siue res sit de illius substantia siue non. Bene enim 
+        <lb ed="#Bb" n="21"/>dicitur quia filius est ex patre, et domus ex artifice. De vero solum dicitur quando alterum de substantia 
+        <lb ed="#Bb" n="22"/>alterius. vnde proprie dicitur quod filius est de patre: non autem quod domus est de artifice. Hanc distinctionem po- 
+        <lb ed="#Bb" n="23"/>nit <name ref="#Augustine">Augustinus</name> li. de nat. bo. Et habetur distinctione. xxxvi. Ii. i. capIllud etiam. Praeter illos autem modos, de 
+        <lb ed="#Bb" n="24"/>&amp; ex sumuntur ordinaliter solum, vt ex mane vel de mane fit meridies. Sed de hoc nihil ad propo- 
+        <lb ed="#Bb" n="25"/>situm in diuinis. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e1919">
+        ⁋ Ad illud quod arguitur vlterius: Si deus producit deum, aut ergo semper producit eum: 
+        <lb ed="#Bb" n="26"/>aut non semper &amp;c. Hic oportet primo declarare quod diuina productio termiata aditra, aeterna est, sem 
+        <lb ed="#Bb" n="27"/>per persistens sine principio &amp; sine fine: &amp; deinde concedere vnum membrum diuisionis in argumento 
+        <lb ed="#Bb" n="28"/>&amp; alterum negare. Primum quidem duplici via declaratur. Vna scilicet deductione ad impossibile: alia. scilicet osten- 
+        <lb ed="#Bb" n="29"/>siue. Prima quidem, quia si principium haberet durationis aut finem: tunc aut non esset antequam esset, aut a 
+        <lb ed="#Bb" n="30"/>postquam esset: quod non posset fore sine aliqua mutatione in deitate &amp; ex parte producti &amp; producentis &amp; 
+        <lb ed="#Bb" n="31"/>eius de quo producitur simul, si non esset antequam esset: quia agens actionem quae non respicit aliquid extra 
+        <lb ed="#Bb" n="32"/>non agit de nouo nisi aliter se habendo ad actionem quam prius: nec productio potest de nouo esse post 
+        <lb ed="#Bb" n="33"/>non esse, nisi productum haberet esse post non esse: &amp; esset noua dispositio in eo de quo producitur quae  
+        <lb ed="#Bb" n="34"/>prius non erat. Mutatio autem in diuinis omnino cadere non potest, vt ostensum est supra. Via ostensiua 
+        <lb ed="#Bb" n="35"/>idem patet: quoniam productio non incipit aut desinit nisi quia agens secundum alium &amp; alium modum se ha 
+        <lb ed="#Bb" n="36"/>bet ad subiectum de quo producit: aut ipsum subiectum ad ipsum producentem. Agente enim existente in dis 
+        <lb ed="#Bb" n="37"/>positione illa quae natum est agere, &amp; subiecto in illa dispositione qua natum est recipere in se illius actio 
+        <lb ed="#Bb" n="38"/>nem, et sint approximata: impossibile est actionem non esse. In diuinis autem persona quae non est omnino  
+        <lb ed="#Bb" n="39"/>ab alia, quia est purus actus &amp; semper perfecte foecundus ad producendum, &amp; diuina essentia in  
+        <lb ed="#Bb" n="40"/>ipso est ab aeterno: &amp; ita non solum quasi approximata: sed summe vnita: est semper perfecte fce- 
+        <lb ed="#Bb" n="41"/>cunda vt de ipsa producatur filius. Deum ergo necesse est aeternaliter deum producere, vt productus 
+        <lb ed="#Bb" n="42"/>sit coaeternus producenti. secundum quod declarat Magister Sententiarum distinctione. ix. primi li. in prin- 
+        <lb ed="#Bb" n="43"/>cipio pluribus auctoritatibus. &amp; sic concedendum est quod deus producit deum semper. Et quia assumitur in at  
+        <lb ed="#Bb" n="44"/>gumento: quod actio producendi non cessat, hoc non est nisi quia non est aliquid perfecte productum: Dicendum 
+        <lb ed="#Bb" n="45"/>quod est quaedam productio in qua productum per productionem accipit esse post non esse natura aut duratione 
+        <lb ed="#Bb" n="46"/>non esse praecedente esse. Est etiam productio in qua productum per productionem accipit esse: sed non post non  
+        <lb ed="#Bb" n="47"/>esse praecedens natura aut duratione. In prima productione res non habet esse nisi per aliquod fieri 
+        <lb ed="#Bb" n="48"/>quo ei acquiritur esse. Cui enim acquiritur esse per fieri, nullo modo ex se naturaliter habet esse, vt 
+        <lb ed="#Bb" n="49"/>iam dicetur. Et de tali productione verum est quod non cessat: quia non est aliquid perfecte productum in ea, vt 
+        <lb ed="#Bb" n="50"/>patet in productione per motum naturalem. Secundum enim expositores philosophi,s Auer. &amp; alios, omnis forma natu 
+        <lb ed="#Bb" n="51"/>ralis quae per agens naturale de potentia ad actum reducitur, in eo quod de potentia vadit ad actum per natu 
+        <lb ed="#Bb" n="52"/>ralem transmutationem quae motus est. secundum esse &amp; esse diuiditur, vt motus ad formam non sit nisi quaedam 
+        <lb ed="#Bb" n="53"/>acquisitio partis formae post partem, vt quamuis idem sit secundum rem &amp; substantiam in animali bruto viuens 
+        <lb ed="#Bb" n="54"/>spirans sensibile: si tamen per motum in esse producatur, primo secundum esse distenditur in viuum: deinde ex vi 
+        <lb ed="#Bb" n="55"/>uo in spirans: deinde ex spirante in sensibile: &amp; non est medium transmutationis simul cum principio 
+   <!--186.xml-->
+        <pb ed="#Bb" n="86-r"/>
+        <lb ed="#Bb" n="1"/>&amp; fine. Quamuis enim simul habent esse constitutum in substantia, non simul tamen habent diuersa esse substantiae 
+        <lb ed="#Bb" n="2"/>recepta per motum: quae complete non habentur nisi in vltimo. Vnum enim istorum de altero procedit secundum  
+        <lb ed="#Bb" n="3"/>viam generationis continuae: vt sit illud quod est ante, semper in potentia ad id quod est post, secundum Auerro. 
+        <lb ed="#Bb" n="4"/>Si vero sit productio subita, vt est vera generatio substantiarum omnino indiuisibilium, &amp; illorum quorum 
+        <lb ed="#Bb" n="5"/>productio est in fine motuum, vt medii illuminatio secundum philosophum. vii. Physicorum, ibi statim cessat 
+        <lb ed="#Bb" n="6"/>productio: quia aliquid statim est perfecte productum: &amp; tunc agens non operatur nisi ad producti conseruatio 
+        <lb ed="#Bb" n="7"/>nem: vt sit alia actio qua res producitur &amp; conseruatur: licet agens esset idem. Propter quod Auer. super. ii. Phyae 
+        <lb ed="#Bb" n="8"/>sicorum distinguit duplex agens: quoddam est causa fieri rei tantum, quid semel influit, &amp; statim cessat, 
+        <lb ed="#Bb" n="9"/>vt homo in generando filium: quoddam vero quid non solum est causa fieri rei &amp; esse eius: sed etiam conser 
+        <lb ed="#Bb" n="10"/>uationis vtriusque: &amp; hoc numquam cessat, vt sol generans hominem. etsi eni cessat ab actu generationis:  
+        <lb ed="#Bb" n="11"/>non tamen ab actu conseruationis. Vnde quia talis est productio in omnibus quae habent esse post non esse vel natu 
+        <lb ed="#Bb" n="12"/>ra vel duratione: idcirco omnis talis natura habet initium sui esse: quia illa productio cum simplex est 
+        <lb ed="#Bb" n="13"/>&amp; indiuisibilis, in indiuisibili aliquo necessario habet primo esse, &amp; de caetero non esse, manente pro 
+        <lb ed="#Bb" n="14"/>ducto per actum conseruationis in se. Vt secundum hoc positio Auicennae, qua dicit mundum ab aeterno habere 
+        <lb ed="#Bb" n="15"/>esse ab alio, &amp; non esse ex se natura praecedens, implicat incompossibilia. Si vero illa productio esset 
+        <lb ed="#Bb" n="16"/>composita, necesse esset simiter eam finitam esse &amp; incepisse: quia aliter infinitae essent partes in re producta 
+        <lb ed="#Bb" n="17"/>per illam productionem. Si autem sit productio in qua productum per productionem accipit esse ab alio: sed non  
+        <lb ed="#Bb" n="18"/>post non esse praecedens natura aut duratione: in tali productione res non habet esse per aliquod fieri:  
+        <lb ed="#Bb" n="19"/>quoniam fieri quod ordinatur ad esse, respicit subiectum &amp; materiam: quae ex se non habet esse: sed solum potentiam ad  
+        <lb ed="#Bb" n="20"/>esse: quod acquiritur ei in producto per fieri. Vnde quia in diuina productione id quod est quasi subiectum &amp; 
+        <lb ed="#Bb" n="21"/>materia de qua sit productio (vt iam supra dictum est) est diuina essentia, quae habet ex se esse in actu non exi 
+        <lb ed="#Bb" n="22"/>stens omnino in potentia ad esse, vt habitum est supra: licet sit (vt iam supra dictum est) in potentia quo  
+        <lb ed="#Bb" n="23"/>dammodo ad personam de ea producendam: Idcirco talis productio non est aliquod fieri rei &amp; esse eius: sed  
+        <lb ed="#Bb" n="24"/>solummodo est ipsius esse &amp; essentiae communicatio: &amp; ipsius rei cui communicatur ab alio habere esse 
+        <lb ed="#Bb" n="25"/>relatiuum. Productum enim in esse personali relatiuo habet esse ab alio: &amp; esse essentiale per productionem sibi 
+        <lb ed="#Bb" n="26"/>habet communicatum ab eodem. Et de tali productione non est verum quod cessat: licet aliquis perfecte &amp; perfectus 
+        <lb ed="#Bb" n="27"/>sit productus in ea: sicut non cessat quod esse suum habet ab alio: sicut in praedicta productione cessat fieri 
+        <lb ed="#Bb" n="28"/>quod habet suum esse. Et sicut non oportet quod cesset habere esse suum ab alio: sic non oportet quod inci- 
+        <lb ed="#Bb" n="29"/>piat habere esse suum ab alio. Habere enim esse suum ab alio, non repugnat nec ponit principium essendi 
+        <lb ed="#Bb" n="30"/>in duratione, nec praecedere illum a quo habet suum esse: secundum quod dixerunt haeretici. Quod bene declarat 
+        <lb ed="#Bb" n="31"/>Magister auctoritatibus sanctorum, distinctione. ix. praedicta, de productione quae est generatio &amp; natiuitas. 
+        <lb ed="#Bb" n="32"/> odu etiam bene confitentur philosophi in creaturis: ponunt enim Mundum habere esse ab alio: sed ab aeterno sine 
+        <lb ed="#Bb" n="33"/>initio &amp; sine fine, non ponendo quod mundus ex se habet non esse praecedens suum esse vel natura vel du- 
+        <lb ed="#Bb" n="34"/>ratione, vt secundum praedictum modum posuit Auicenna: sed quod mundus ex se non habuit ab aeterno po- 
+        <lb ed="#Bb" n="35"/>tentiam nisi ad esse: &amp; quod cum hoc bene staret quod ab alio ab aeterno haberet esse. Sed hoc non potest 
+        <lb ed="#Bb" n="36"/>poni. Quod enim ex se habet solam potentiam ad esse ex se &amp; sua essentia, nullum esse ponit: quia tunc 
+        <lb ed="#Bb" n="37"/>esset necessarium accipere illud esse ab alio. Quamquam ergo ponatur habere esse ab alio ab aeterno: ta 
+        <lb ed="#Bb" n="38"/>men ponendum est secundum positionem Auicennae quod habet ex se non esse praecedens natura vel duratione 
+        <lb ed="#Bb" n="39"/>&amp; ita per fieri acquisitum: &amp; habet initium &amp; finem, vt dictum est. Vnde in diuinis solummodo potest aliquis 
+        <lb ed="#Bb" n="40"/>habere esse ab aeterno &amp; ab alio: &amp; hoc absque omnifieri. Cuius propria ratio est, quod subiectum quasi mate 
+        <lb ed="#Bb" n="41"/>ria existens in diuina productione ex se habet esse absolutum conmunicabile alteri cui per productionem con 
+        <lb ed="#Bb" n="42"/>uenit ab aeterno suum esse respectiuum: sicut ab aeterno habet oppositum esse respectiuum ille a quo producitur 
+        <lb ed="#Bb" n="43"/>ne ponatur esse mutabilis. dicente Ambrosio. Dic mihi haeretice, fuit ne omnipotens deus quando  
+        <lb ed="#Bb" n="44"/>pater non erat &amp; deus erat: Nam si pater coepit esse deus: ergo prius erat, &amp; postea coepit esse pater 
+        <lb ed="#Bb" n="45"/>Quomodo ergo immutabilis est deus: quasi dicat, nullo modo. Si autem semper est pater: &amp; non est pater nisi 
+        <lb ed="#Bb" n="46"/>generando filium: generatio autem prsihs et filii natiuitas simul sunt sine medio: filii autem natiuitas &amp; eius 
+        <lb ed="#Bb" n="47"/>esse sitr simul sunt: quia est perfectissima natiuitas: simul ergo ab aeterno habent esse pitur quod pater est, &amp; filius 
+        <lb ed="#Bb" n="48"/>quod filius est, quod impossibile est ponere circa vllam creaturam a quocumque ponatur produci. Quod bene declarat 
+        <lb ed="#Bb" n="49"/>Mgtur distinctione. ix. praedicta, in fine, auctoritate Hil. Et sic in diuinis non cessat nec incipit productio: sed  
+        <lb ed="#Bb" n="50"/>semper instat institit, &amp; istabit, &amp; productum nec incepit esse, nec desinet esse: sed semper est, fuit, &amp; erit. Sed quem 
+        <lb ed="#Bb" n="51"/>admodum dictum est supra, quod aeternitati maxime convenit praesens tempus: licet per nullum possit perfecte ex- 
+        <lb ed="#Bb" n="52"/>plicari: sic &amp; productio &amp; productum si secundum se explicentur in sua duratione, magis proprie explicantur: 
+        <lb ed="#Bb" n="53"/>dicendo quod productio semper est: &amp; similiter ipsum productum. Similiter si coniunctim explicetur eorum duratio, adhuc 
+        <lb ed="#Bb" n="54"/>certum est quod minus proprie explicatur per purum praeteritum, dicendo quod productus semper producebatur, siue sem- 
+        <lb ed="#Bb" n="55"/>per fuit productus, aut quod semper producetur, siue semper erit producendus: ne per praeteritum intelligamus de- 
+   <!--187.xml-->
+        <pb ed="#Bb" n="86-v"/>
+        <lb ed="#Bb" n="1"/>fectionem: &amp; per futurum expectationem. dicente <name ref="#Augustine">Augustino</name> super illo: Ego hodie genui te. In aeternitate 
+        <lb ed="#Bb" n="2"/>non praeteritum est quasi esse desierit: nec futurum quasi nondum sit. Sed nec propriissime explicatur per prae 
+        <lb ed="#Bb" n="3"/>sens tantum: dicendo semper producitur, ne intelligatur productio fore in fieri. Sicut enim aeternae productioni re- 
+        <lb ed="#Bb" n="4"/>pugnat desitio praeteriti, &amp; expectatio futuri: sic repugnat ei fieri praesentis. Vnde etsi perfecte explicar 
+        <lb ed="#Bb" n="5"/>non possit, expressior tamen modus est quo perfectio productionis exprimitur sine alicuius expe- 
+        <lb ed="#Bb" n="6"/>ctatione, &amp; ipsius producti instantia sine alicuius desitione, &amp; vtriusque permanentia sine fieri &amp; successio 
+        <lb ed="#Bb" n="7"/>ne. Quod sit, hanc actiuam, deus producit deum, convertendo in passiuam: dicendo Deus semper productus est 
+        <lb ed="#Bb" n="8"/>a deo, vt ly productus propter tempus praeteritum quod consignificat, pertineat ad productionis perfectio- 
+        <lb ed="#Bb" n="9"/>nem, per quam perfectus deus est productus sine alicuius expectatione. Ly est, quia est praesens verbi su 
+        <lb ed="#Bb" n="10"/>tiui, pertinet ad ipsius producti instantiam sine lapsu in aliquam defectionem. l semper, quia omnem differentii 
+        <lb ed="#Bb" n="11"/>temporis comprehendit, pertinet ad aeternitatis vtriusque permanentiam sine fieri &amp; successione. Gregorius tame 
+        <lb ed="#Bb" n="12"/>in sua expositione illa duo, productus &amp; est, refert ad personae productae perfectionem, vt patet in eius aucto 
+        <lb ed="#Bb" n="13"/>ritate quam ponit super hoc Magtur Sententiarum dist. ix. praedicta in ca. Hic quaeri potest. vbi inuenies plures 
+        <lb ed="#Bb" n="14"/>auctoritates de hac materia. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e2148">
+        ⁋ Ad vltimum circa medium praedictum: Si deus producit deum: aut ergo pro es- 
+        <lb ed="#Bb" n="15"/>sentia aut pro supposito: Dicendum secundum praedeterminata: quod pro supposito, immo pro suppositis: quia princi 
+        <lb ed="#Bb" n="16"/>pium esse &amp; terminum actionis personalis non est nisi suppositorum. Et quod assumitur contra hoc: quia in deo 
+        <lb ed="#Bb" n="17"/>non est nisi suppositum relatiuum, quid secundum philosophum. v. Physi. non principium nec terminus potest esse actio 
+        <lb ed="#Bb" n="18"/>nis: Dicendum est quod verum est per se ratione relationis. Potest tamen rationeleius in quo fundatur. cuiusmodi est ipsa 
+        <lb ed="#Bb" n="19"/>diuina essentia: quae sub ratione vnius propietatis relatiuae est principium vt quo quasi formaliter: sub ratione 
+        <lb ed="#Bb" n="20"/>alterius relationis est principium vt de quo quasi materialiter. &amp; ipsa proprietas relatiua est ipsius 
+        <lb ed="#Bb" n="21"/>suppositi ratio ad modum indiuiduationis in creaturis: quae est conditio &amp; modus existendi quo super 
+        <lb ed="#Bb" n="22"/>positum habet rationem singularis. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e2168">
+        ⁋ Ad illud quod tertio adducitur ad principale: quod actus omnis 
+        <lb ed="#Bb" n="23"/>diuinus est nobilissimus, &amp; ita propter seipsum non propter aliquod productum: dicendum secundum quod superius 
+        <lb ed="#Bb" n="24"/>est expositum loquendo de diuina actione in generali, quod differunt actus quid est proprie actio, &amp; quid est pro 
+        <lb ed="#Bb" n="25"/>prie opeatio. Et sicut differunt, sic habent perfectiones differentes. Sicut enim opeis perfectio consistit in actione 
+        <lb ed="#Bb" n="26"/>circa obiectum perfectissimum, vt patet in opeatione quae est felicitas: sic perfectio actionis proprie dictae est quod ha 
+        <lb ed="#Bb" n="27"/>beat aliquid perfectum perfecte productum. Et ideo licet actus diuinus quid est proprie opeatio, cuiusmodi est intellige 
+        <lb ed="#Bb" n="28"/>re, propter suam perfectionem non est propter aliud proueniens ab ipso: actus tamen qui proprie est actio, cuiusmodi sut 
+        <lb ed="#Bb" n="29"/>generare &amp; spirare, propter alium modum perfectionis suae bene potest esse propter aliud aut propter alium pro 
+        <lb ed="#Bb" n="30"/>uenientem ex sua actione. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e2188">
+        ⁋ Ad quaertum: quod emanatio importat motum quendam fieri aut exitum quendam, qualium 
+        <lb ed="#Bb" n="31"/>nihil est in deo: Dicendum quod verum est per omnimodam proprietatem secundum quam vtimur eis in creaturis. 
+        <lb ed="#Bb" n="32"/>Vere tamen dicuntur in ipso per aliquam transmutationem. dicente Hii. in principio. iiii. de trinitate. Non ignoramus 
+        <lb ed="#Bb" n="33"/>ad res diuinas explicandas neque hominium elocutionem, neque naturae humanae conperationem posse sufficere. 
+        <lb ed="#Bb" n="34"/>Quod enim ienarrabile est, id significantiae alicuius finem &amp; modum non habet: &amp; quod spirituale est, id a specie 
+        <lb ed="#Bb" n="35"/>corporum exemploque diuersum est. Tmen (vt dicit) cum de naturis caelestibus sermo est: ipsa illa quae sen 
+        <lb ed="#Bb" n="36"/>su mentium continentur, vsu communi &amp; naturae &amp; sermonis sunt eloquenda, non vtique dei dignitati con 
+        <lb ed="#Bb" n="37"/>grua, sed ingenii nostri imbecillitati necessaria: rebus scilicet verbisque nostris ea quae sentimus &amp; intelli- 
+        <lb ed="#Bb" n="38"/>gimus locuturi. Et vt ait li. i. siqua nos de natura dei &amp; natiuitate tractantes comperationum exempla 
+        <lb ed="#Bb" n="39"/>afferemus: nemo ea aestimet absolutae in se rationis perfectionem continere. Comperatio enim terrenorum ad di-  
+        <lb ed="#Bb" n="40"/>uina nulla est: sed infirmitas niae intelligentiae cogit species quasdam ex inferioribus tamquam superiorum in-  
+        <lb ed="#Bb" n="41"/>dices quaerere: vt rerum familiarium consuetudie admonente ex sensus nostri conscientia ad isoliti sensus 
+        <lb ed="#Bb" n="42"/>opinionem educeremur. Et semper (vt dicit in li. ii. dicti ratio intelligenda erit ex sensu dicentis. Li- 
+        <lb ed="#Bb" n="43"/>cet ergo emanatio, processio, &amp; huiusmodi nomina accepta a creaturis in illis significant motum, fieri, exi- 
+        <lb ed="#Bb" n="44"/>tum corporalem, &amp; caetera quae indignitatis sunt: circa deum tamen cum ad diuina tranfferuntur, vsitantur solummoen 
+        <lb ed="#Bb" n="45"/>pro eo quod dignitatis aliquid &amp; perfectionis simpliciter est significatum illis nominibus etiam circa creaturas 
+        <lb ed="#Bb" n="46"/>iuxta artem superius expositam. Vnde de exitu personae a persona quem praetendit emanatio, dicit Ambrosius. i 
+        <lb ed="#Bb" n="47"/>de trinitate. Si vero generationis proprietatem requirimus, ex deo exiuit: nam cum in vsu nostro ia sit 
+        <lb ed="#Bb" n="48"/>exire quod iam sit, &amp; ex exterioribus secretis prodire videatur quod exire phibetur, angustis licet sermo- 
+        <lb ed="#Bb" n="49"/>nibus proprietatem diuinae generationis aduertimus: vt non ex loco aliquo videatur exisse: sed vt deus 
+        <lb ed="#Bb" n="50"/>ex deo. Et li. ii. Neque cum de patre exit quasi de loco recedit, aut quasi a corpore separatur &amp;c. Sed  
+        <lb ed="#Bb" n="51"/>haeretici emanationem, exitum &amp;c. huiusmodi spiritualem intelligentiam non aduertentes omnia secundum modum quo  
+        <lb ed="#Bb" n="52"/>vtimur eis in rebus corporalibus, interprstati sunt. dicente Hil. in principio. ii. de triniitate. Ext. terunt plu 
+        <lb ed="#Bb" n="53"/>res qui caelestium verborum simplicitatem pro voluntatis suae sensu, non pro veritatis ipsius absolutione 
+        <lb ed="#Bb" n="54"/>susciperent: aliter interprstantes quam dictorum virtus postularet. De intelligentia enim haeresis, non de 
+        <lb ed="#Bb" n="55"/>scriptura est. Vnde super corporalem verborum intelligentiam formabant omnes suas rationes contra sctonrum 
+   <!--188.xml-->
+        <pb ed="#Bb" n="87-r"/>
+        <lb ed="#Bb" n="1"/>patrum spiritualem intelligentiam: &amp; interprstabantur dicta sacrae scripturae corporaliter, quae  
+        <lb ed="#Bb" n="2"/>spiritualiter erant interpraetanda: vt quia natiuitas in creaturis praestat esse ei qui prius non erat  
+        <lb ed="#Bb" n="3"/>sic &amp; in deo, &amp; caetera huiusmodi. secundum quod contra ipsos dicit <name ref="#JohnDamascenus">Damascenus</name> li. i. ca. viii. Non fuit 
+        <lb ed="#Bb" n="4"/>vnquam pater quando non fuit filius: sed simul pater, simul filius ex ipso genitus. Et ita impassi- 
+        <lb ed="#Bb" n="5"/>biliter &amp; sine tempore, &amp; non fluxibiliter generat &amp; sine coitu, neque principium habet. 
+      </p>
+      <p xml:id="vn58an-fe21519-d1e2264">
+        ⁋ Ad vlti- 
+        <lb ed="#Bb" n="6"/>mun: quod si vna persona emanat ab alia in diuinis: ergo producitur in esse ab illa &amp;c. Dicendum quod perso- 
+        <lb ed="#Bb" n="7"/>nam aliquam esse quae non emanat ab alia: hoc contingit quia ipsa ex se formaliter, hoc est ex for- 
+        <lb ed="#Bb" n="8"/>ma sua quae est sua essentia, habet esse: quia ipsa est esse: immo ipsum necesse esse. Principiatiue 
+        <lb ed="#Bb" n="9"/>autem nec essentiam suam, nec ipsum esse habet ab alio: propter quod nec producitur in esse. Econtrario autem perso- 
+        <lb ed="#Bb" n="10"/>na quae emanat ab alia principiatiue, suam essentiam &amp; esse totum quod habet, ab alio habet: propter quod verum 
+        <lb ed="#Bb" n="11"/>est dicere quod producitur in esse ab illo. Sed hoc intelligi potest dupliciter. Vno modo quod ab illo ei conicetur esse. 
+        <lb ed="#Bb" n="12"/>Alio modo quod ab illo ei acquiratur esse. Primo modo in diuinis personae emananti ab alia conicatur esse ab  
+        <lb ed="#Bb" n="13"/>illa: quia totum quod habet &amp; essentiam suam &amp; esse principiatiue habet ab illa, inquantum ipsam 
+        <lb ed="#Bb" n="14"/>producendo communicat ei suam essentiam de qua illam producit, &amp; in essentia communicat ei esse 
+        <lb ed="#Bb" n="15"/>suum, &amp; omnia quae habet, praeter proprietatem suam qua distinguitur a persona ab ipsa produ- 
+        <lb ed="#Bb" n="16"/>cta. Propter quod &amp; ipsa persona producta a se formaliter, hoc est ex forma sua quae est sua essen- 
+        <lb ed="#Bb" n="17"/>tia, habet esse: sicut &amp; ipsa persona producens: quia loannis. xvii. sicut pater habet vitam in semet 
+        <lb ed="#Bb" n="18"/>ipso: sic dedit &amp; filio habere vitam in semetipso. Secundo autem modo, persona emanans ab alia 
+        <lb ed="#Bb" n="19"/>in diuinis, nullo modo producitur in esse ab alio: quia quid sic in esse producitur ab alio, non ha 
+        <lb ed="#Bb" n="20"/>bet esse ex se formaliter: hoc est ex forma sua, quae est sua essentia: sed in essentia sua recipit esse ab alio 
+        <lb ed="#Bb" n="21"/>existente. Propter quod oportet quod sit aliud in essentia ab eo a quo producitur. Talis autem est essentia vni- 
+        <lb ed="#Bb" n="22"/>uersae creaturae: quam etiam philosophis qui ponebant mundum ab aeterno fuisse, ponebant ab alio habere 
+        <lb ed="#Bb" n="23"/>esse per acquisitionem, quia ex sua essentia non habet esse, eo quod ipsa ex se non est esse neque necesse 
+        <lb ed="#Bb" n="24"/>esse: sed possibile esse tantum. Propter quod etsi ab aeterno haberet esse ab alio, aeterna numquam diceretur esse. 
+        <lb ed="#Bb" n="25"/>
+      </p>
+      <p xml:id="vn58an-fe21519-d1e2310">
+        ⁋ Et cum vlterius quaeritur in argumento: Si persona emanans ab alia producitur in esse ab illa, 
+        <lb ed="#Bb" n="26"/>ergo aut de non esse producitur in esse, aut de esse in esse: Dicendum quod lyde potest dicere aut circunstam 
+        <lb ed="#Bb" n="27"/>tia principii quasi materialis: aut circunstantiam ordinis circa productum. Primo modo cum persona in diuinis 
+        <lb ed="#Bb" n="28"/>producitur de ipsa diuina essentia, quae est ipsum esse quod communicatur producto, verum est dicere quod produca 
+        <lb ed="#Bb" n="29"/>tur de esse in esse: &amp; nullo modo de non esse in esse. Et quod quaeritur tunc vlterius in argumento 
+        <lb ed="#Bb" n="30"/>aut ergo de eodem esse in idem esse aut in aliud: dicendum quod non de alio in aliud, vt probat me 
+        <lb ed="#Bb" n="31"/>dium ad hoc: sed de eodem in idem: sed alia &amp; alia ratione vt de ipso: &amp; vt in ipsum: quia de 
+        <lb ed="#Bb" n="32"/>eodem vt est patris, in idem vt est filio communicatum a patre. Et propter hoc non sequitur 
+        <lb ed="#Bb" n="33"/>quod persona illa haberet esse antequam produceretur vel non per productionem: quia esse illud non  
+        <lb ed="#Bb" n="34"/>est eius inquantum est de ipso productus, sed inquantum est in ipso. Sed hoc modo in crea- 
+        <lb ed="#Bb" n="35"/>turis nulla est productio possibilis de esse in esse: quia producens nunquam creaturae communicat 
+        <lb ed="#Bb" n="36"/>suum esse. Si vero l de notet circunstantiam ordinis: sic in diuinis nulla persona producitur de 
+        <lb ed="#Bb" n="37"/>non esse: quia producens non producit nisi de sua substantia, quae est ipsum esse: quae est etiam 
+        <lb ed="#Bb" n="38"/>ipsa substantia producti. Nihil autem produci potest de non esse in esse, siue non esse sola na- 
+        <lb ed="#Bb" n="39"/>tura siue etiam duratione ponatur praecedere ipsum esse: nisi sit tale quod eius substantia est in po 
+        <lb ed="#Bb" n="40"/>tentia ad esse &amp; non esse: ita quod ex se ei solummodo conuenit non esse: esse autem non nisi ab  
+        <lb ed="#Bb" n="41"/>alio: quemadmodum posuit Auicenna circa essentiam creaturae. Vnde &amp; aliqui alii philoso- 
+        <lb ed="#Bb" n="42"/>phantium qui ponebant quod creatura mundi ex se erat in potentia ad esse: sed nullo modo ad  
+        <lb ed="#Bb" n="43"/>non esse, &amp; de necessitate naturae a deo haberet esse ab aeterno sicut &amp; ipse erat aeternus: dice- 
+        <lb ed="#Bb" n="44"/>rent creaturam mundi productam fore in esse: sed non de non esse. Similiter secundum istum mo-  
+        <lb ed="#Bb" n="45"/>dum in quo de notat circunstantiam ordinis, nulla persona diuina producitur de esse in esse, nec 
+        <lb ed="#Bb" n="46"/>de eodem esse nec de alio. Non de alio: quia tunc mutatio esset circa ipsam personam produ- 
+        <lb ed="#Bb" n="47"/>ctam: sicut quando notat circunstantiam principii quasi materialis circa essentiam de qua pro 
+        <lb ed="#Bb" n="48"/>ducitur. Nec de eodem: quia absque producto nunquam habuit hoc esse: &amp; tamen esset absque produ- 
+        <lb ed="#Bb" n="49"/>ctione sua in esse si ita esset.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

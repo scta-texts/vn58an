@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="46-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe12375"> <!-- alias="vn58an-a49q7" -->
+      <head xml:id="vn58an-fe12375-Hd1e104">Quaestio 7</head>
+      <p xml:id="vn58an-fe12375-d1e107">
+        <lb ed="#Bb" n="11"/>CIrca Septimum arguitur: quod diuina beatitudo non contineat in se omnes rationes 
+        <lb ed="#Bb" n="12"/>omnium beatitudinum aliarum. Primo sic. beatitudo philosophorum est ficta beati- 
+        <lb ed="#Bb" n="13"/>tudo. dicente <name ref="#Augustine">Augustino</name> quod eam sibi fabricauerunt. in dei autem beatitudine nihil 
+        <lb ed="#Bb" n="14"/>est fictum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe12375-d1e121">
+        ⁋ Secundo sic. quidam philosophorum constituerunt beatitudinem in  
+        <lb ed="#Bb" n="15"/>rebus corporalibus, vt Epicurei: quidam in honoribus: &amp; sic de caeteris. in quibus non 
+        <lb ed="#Bb" n="16"/>consistit diuina beatitudo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe12375-d1e128">
+        ⁋ In contrarium est, quod non est beutitudo  
+        <lb ed="#Bb" n="17"/>aliqua quantuncumque vana: quin sit in bono aliquo constituta. Vnde vnusquisque philosophorum in eo quod 
+        <lb ed="#Bb" n="18"/>hominis melius esse dicebat, beatitudinem ipsius posuit: &amp; propter illam omnia alia fore agenda, tamquam ad 
+        <lb ed="#Bb" n="19"/>bonum vltimum. Sed beatitudo dei est summum bonum: quod omnem rationem boni in se debet continere, sicut 
+        <lb ed="#Bb" n="20"/>summe perfectum rationem omnis perfectionis. ergo &amp;c. 
+        <lb ed="#Bb" n="21"/>
+      </p>
+      <p xml:id="vn58an-fe12375-d1e142">
+        ⁋ Dicendum ad hoc, quod cum respectu alicuius appetitus est aliquod bonum vltimum 
+        <lb ed="#Bb" n="22"/>adipiscendum, quid primo natum est ipsum mouere, &amp; quod primo &amp; per se naturaliter appetit quamcumcumque 
+        <lb ed="#Bb" n="23"/>indeterminato appetitu quicquod appetit sicut finem, aut est illud bonum in seipso vt determinate appe 
+        <lb ed="#Bb" n="24"/>tit ipsum, aut in aliqua eius effigie &amp; resplendentia. Si primo modo, hoc necessario est secundum rei veri 
+        <lb ed="#Bb" n="25"/>tatem ipse finis. Si secundo modo, hoc est illud quod appetitus sibi finem statuit: vel naturaliter vt non 
+        <lb ed="#Bb" n="26"/>intellectualia, vel per voluntatis electionem vt intellectualia a vero fine aberrantia. Et hoc non nisi 
+        <lb ed="#Bb" n="27"/>per rationem finis: hoc est propter aliquam finis effigiem aut resplendentiam quam in illo conspicit: pro- 
+        <lb ed="#Bb" n="28"/>pter quod pro fine illud appetit: licet erret, non in appetendo tale quid: sed in appetendo tantum vbi &amp; sub 
+        <lb ed="#Bb" n="29"/>tali ratione sub qua vt finem appetere non debuit. Nunc autem ita est secundum quod supra tactum est, quod cum omnia 
+        <lb ed="#Bb" n="30"/>bonum appetunt, illud non est nisi bonum vnicuique quod est omnium bonorum vltimum, &amp; primo naturaliter 
+        <lb ed="#Bb" n="31"/>omnium mouet appetitum, licet quaedam non attingunt ipsum, neque nata sunt attingere nisi in aliqua  
+        <lb ed="#Bb" n="32"/>eius effigie in qua contenta sunt: &amp; per quam in bonum vltimum fixa sunt, &amp; ad ipsum referuntur quam 
+        <lb ed="#Bb" n="33"/>tum possibile est eis secundum suam naturam. Quaedam vero nata sunt ipsum attingere: &amp; ipsum attingendo in  
+        <lb ed="#Bb" n="34"/>ipso beatificari: vt intellectualia, vt habitum est supra. Quicquod ergo appetit omne appetens vt finem 
+        <lb ed="#Bb" n="35"/>suum, aut est illud bonum in seipso determinate: qualiter debent ipsum appetere intellectualia quae nata 
+        <lb ed="#Bb" n="36"/>sunt ipsum attingere: aut est illud bonum in aliqua eius effigie in qua naturaliter appetunt ipsum na 
+        <lb ed="#Bb" n="37"/>turalia omnia non intellectualia: &amp; intellectualia quadam effigie: &amp; resplendentiam quandam in bono infe- 
+        <lb ed="#Bb" n="38"/>riori creato pro vero bono increato appetentia: &amp; hoc vel per errorem electionis principaliter, vel 
+        <lb ed="#Bb" n="39"/>principaliter per errorem rationis. Primo modo finem &amp; beatitudinem suam posuerunt Epicurei in delitiis &amp; 
+        <lb ed="#Bb" n="40"/>bonis corporalibus, &amp; alii in honoribus, alii vero in diuitiis aut in aliis bonis temporalibus per malitiam 
+        <lb ed="#Bb" n="41"/>electionis: quaeliter omnis peccans mortaliter in bono transitorio finem sibi statuit. Secundo modo finem &amp; 
+        <lb ed="#Bb" n="42"/>beatitudinem hominis posuit <name ref="#Aristotle">Philosophus</name> in opeatione intellectus speculatiui in actu existentis secundum omnia specula- 
+        <lb ed="#Bb" n="43"/>bilia speculanda ex creaturis mediante sensu secundum scientias speculatiuas: &amp; maxime in speculatio- 
+        <lb ed="#Bb" n="44"/>ne primi principii: secundum quod possibile erat ex sensibus ipsum speculari. In cuius speculatione etsi ho 
+        <lb ed="#Bb" n="45"/>mo ad summum vniversalintellectus eius secundum talia esset omnino adeptus &amp; perfecte in actu, perfectio habita 
+        <lb ed="#Bb" n="46"/>in ista speculatione non est nisi quid creatum &amp; effigies illius speculationis quae adipiscitur in videndo 
+        <lb ed="#Bb" n="47"/>nude per essentiam ipsum bonum increatum. Vnde esto quod finem istum &amp; quemcumque alium in quo homines statuunt 
+        <lb ed="#Bb" n="48"/>suam beatitudinem, homo aliquis esset adeptus, nondum satiatus esset suus appetitus: sed ad vlteriorem 
+        <lb ed="#Bb" n="49"/>delectationem anhelaret &amp; ad vlteriorem speculationem: quae non consistunt nisi in nuda deitatis visione 
+        <lb ed="#Bb" n="50"/>&amp; fruitione per suam essentiam. De qua dicit <name ref="#Boethius">Boethius</name> . Mentibus hominum naturaliter inserta est sum 
+        <lb ed="#Bb" n="51"/>mi verique boni cupiditas &amp;c. Quicquid ergo tales appetunt in beatitudine non vera, sed ab ipsis 
+        <lb ed="#Bb" n="52"/>per errorem (vt dictum est) constituta &amp; fabricata, etsi non appetunt ipsum determinate vt verum &amp; vl- 
+        <lb ed="#Bb" n="53"/>timum finem: appetunt tamen ipsum vt aliquam effigiem &amp; resplendentiam illius: in qua per errorem contentos 
+        <lb ed="#Bb" n="54"/>esse se putant: licet in veritate non sunt. Vt effigiem autem &amp; resplendentiam illius illud non appeterent, nisi 
+   <!--107.xml-->
+        <pb ed="#Bb" n="46-v"/>
+        <lb ed="#Bb" n="1"/>in illo esset quicquid est appetibilis in eo quod appetunt: licet modo supereminentiori: a quo mouetur 
+        <lb ed="#Bb" n="2"/>primo, &amp; per se appetitus: licet confuse &amp; in generali. Quoniam secundum determinationem Augustiniusnis viii. 
+        <lb ed="#Bb" n="3"/>de triniitate. iiii. ca. vsque ad. vii. quicquod in alio nobis placet, non in seipso nobis placet: sed in illa arte  
+        <lb ed="#Bb" n="4"/>diuina: vbi nisi illud diligeremus, nullo modo id diligeremus quod ex illa diligimus. lpsa vero 
+        <lb ed="#Bb" n="5"/>(vt dicit) est forma &amp; veritas, non quo aliunde diligatur. Pudeat ergo cum talia non amantur nisi 
+        <lb ed="#Bb" n="6"/>quia bona sunt eis inhaerendo, non amare ipsum bonum vnde bona sunt. Quicquid ergo est boni &amp; ap- 
+        <lb ed="#Bb" n="7"/>petibilis in quacumque alia beatitudine ab ea quae deus in se est beatus, in beatitudine dei totum est. Illud  
+        <lb ed="#Bb" n="8"/>autem est ratio beatitudinis illius propter quam quaeritur. Idcirco dicendum est simpliciter &amp; absolute 
+        <lb ed="#Bb" n="9"/>quod omnis ratis cuiuslibet alterius beatitudinis propter quam quaeritur, &amp; propter quam dicenda est ha-  
+        <lb ed="#Bb" n="10"/>bere rationem beatitudinis, in beatitudine dei qua ipse est beatus, perfectissime continetur: &amp; placet 
+        <lb ed="#Bb" n="11"/>atque delectat in illa quicquid placet atque delectat in aliis sub modo multo eminentiori: qui veri 
+        <lb ed="#Bb" n="12"/>tatem boni &amp; delectabilis non eximit, sed potius auget. Et (vt dictum est) eodem est homo bea- 
+        <lb ed="#Bb" n="13"/>tus, &amp; deus. Consimiliter omnis ratio alterius beatitudinis in vera hominis beatitudine continetur: &amp; 
+        <lb ed="#Bb" n="14"/>simul in summa etiam quicquid extra eam tanquam bonum &amp; delectabile continetur: &amp; spersim a diuersis &amp; 
+        <lb ed="#Bb" n="15"/>variis quaeritur in praesenti exterius: quod in solo vno quaerendum est interius. Quam attingunt qui quaerunt ea in  
+        <lb ed="#Bb" n="16"/>illo perseueranter, &amp; ab ea repelluntur quid quaerunt ea extra ipsum. secundum quod <name ref="#Augustine">Augustinus</name> exemplificans in vno 
+        <lb ed="#Bb" n="17"/>illorum dicit. viii. de triniitate. ca. vii. Qui quaerunt deum per istas potestates quae mundo praesunt vel partibus 
+        <lb ed="#Bb" n="18"/>mundi, auferuntur ab eo longeque iactantur, non interuallis locorum, sed diuersitate affectuum. Exte- 
+        <lb ed="#Bb" n="19"/>rius enim conantur ire: &amp; interiora sua deserunt, quibus interior est deus: in quo simul omne 
+        <lb ed="#Bb" n="20"/>bonum habetur, dicente domino ad Moysen. Ego ostendam tibi omne bonum. Hinc etiam dicit <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Bb" n="21"/>de sententia Prosperi. Deus tibi totum est quod recte desideras, &amp; caetera. vt supra in quaestione secunda de 
+        <lb ed="#Bb" n="22"/>perfectione dei. Et hoc est quod dicit <name ref="#Boethius">Boethius</name>  in principio. iii. de consolatione. Oim mortalium cura quam 
+        <lb ed="#Bb" n="23"/>variorum studiorum labor exercet, &amp; caetera. per totum capitulum multum notandum. &amp; cap sequenti. Vos 
+        <lb ed="#Bb" n="24"/>o terrena animalia, tenui licet imagine vestrum tamen principium somniatis: verumque illum beatitudinis finem, 
+        <lb ed="#Bb" n="25"/>licet minime perspicaci, qualicumque tamen cognitione percipitis: eoque vos ad verum bonum naturalis du 
+        <lb ed="#Bb" n="26"/>cit intentio: sed ab eodem multiplex error abducit. Et infra in quodam alio capitulo. Quod sim- 
+        <lb ed="#Bb" n="27"/>plex est indiuisumque natura, id error humanus separat: &amp; a vero atque perfecto ad falsum imper- 
+        <lb ed="#Bb" n="28"/>fectumque traducit. 
+        <lb ed="#Bb" n="29"/>
+      </p>
+      <p xml:id="vn58an-fe12375-d1e299">
+        ⁋ Ad primum in oppositum: quod aliqua beatitudo est ficta: Dicendum quod est ficta quo ad hoc 
+        <lb ed="#Bb" n="30"/>b bonum quod in ea quaeritur, in re creata aut temporali quaeritur: in qua &amp; finis statuitur: &amp; non est in deo 
+        <lb ed="#Bb" n="31"/>secundum modum quo est in creatura: &amp; quo in ea quaeritur &amp; finis statuitur. Quo tamen ad id quod in ea est 
+        <lb ed="#Bb" n="32"/>bonum &amp; delectabile: secundum modum supereminentiorem totum est in deo sub ratione veri &amp; perfecti. Pro 
+        <lb ed="#Bb" n="33"/>pter quod probat <name ref="#Boethius">Boethius</name>  post capitulum iam signatum per plura capitula, quod vanitas erat ponere in prae- 
+        <lb ed="#Bb" n="34"/>dictis beatitudinem extra deum: quia extra ipsum sparsa sunt &amp; diminuta. 
+      </p>
+      <p xml:id="vn58an-fe12375-d1e316">
+        ⁋ Et per hoc etiam 
+        <lb ed="#Bb" n="35"/>patet ad secundum. 
+        <lb ed="#Bb" n="36"/>Irca Octauum arguitur: quod perfecta ratio beatitudinis dei non supponit productionem 
+        <lb ed="#Bb" n="37"/>personarum. Primo sic. beatitudo dei est in deo de essentialibus: quia est communis tribus 
+        <lb ed="#Bb" n="38"/>vt pti ex praedictis. sed essentialia non praesupponunt personarum productionem: quia sunt quasi 
+        <lb ed="#Bb" n="39"/>fundamenta productionum, vt habitum est supra, &amp; amplius videbitur infra. ergo &amp;c. 
+        <lb ed="#Bb" n="40"/>
+      </p>
+      <p xml:id="vn58an-fe12375-d1e332">
+        ⁋ Secundo sic. beatitudo est summum bonum. sed diuina essentia vt est summum bo 
+        <lb ed="#Bb" n="41"/>num, non praesupponit productionem personarum: quia nihil bonitatis additur essentiae in  
+        <lb ed="#Bb" n="42"/>persona, quia non est bonum in diuinis nisi essentiale. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe12375-d1e339">
+        ⁋ In contrarium est: quoniam  
+        <lb ed="#Bb" n="43"/>non est ratio beatitudinis in deo nisi quia deus operatione sua intellectuali voluntatis &amp; intellectus 
+        <lb ed="#Bb" n="44"/>consequitur bonum quod ipse est, vt patet ex supra determinatis. ergo non est perfecta ratio beatitudinis 
+        <lb ed="#Bb" n="45"/>in deo nisi consequatur ipsum perfecta opeatione intellectuali. sed perfecta opeatio intellectualis supponit 
+        <lb ed="#Bb" n="46"/>personarum productionem, vt ostensum est in prima quaestione disputationis sextae de Quolibet. ergo &amp;c. 
+        <lb ed="#Bb" n="47"/>
+      </p>
+      <p xml:id="vn58an-fe12375-d1e352">
+        ⁋ Dicendum ad hoc. secundum quod vltima obiectio procedit: &amp; secundum quod determinatum est 
+        <lb ed="#Bb" n="48"/>supra: quod Deitas neque isub ratione qua deitas est, neque etiam sub ratione qua in se bonitas quaedam est 
+        <lb ed="#Bb" n="49"/>rationem beatitudinis habet. tunc enim deus beatus esset, &amp; perfectam rationem nobilitatis haberet abs 
+        <lb ed="#Bb" n="50"/>quod eo quod consideraretur esse in actu in opeatione intellectuali: etiam consideratus vt dormiens. Quod est 
+        <lb ed="#Bb" n="51"/>contra philosophum. xii. Metaphic. vbi dicit. Si nihil intelligit, quid est illud nobile quod inest ei: Et sic deus 
+        <lb ed="#Bb" n="52"/>esset beatus non existens in quasi digniori &amp; nobiliori sua dispositione, quod est contra rationem 
+        <lb ed="#Bb" n="53"/>beatitudinis secundum praedeterminata. Sed quod deitas sub ratione summi boni continentis in se omnem 
+        <lb ed="#Bb" n="54"/>rationem boni, habet in se rationem beatitudinis, hoc contingit per hoc: quod ille cuius est, eam con- 
+   <!--108.xml-->
+        <pb ed="#Bb" n="47-r"/>
+        <lb ed="#Bb" n="1"/>sequitur per actionem suam intellectualem vt bonum suum secundum iam determinatum modum: ita quod ad  
+        <lb ed="#Bb" n="2"/>rationem beatitudinis dei requiritur per se &amp; essentialiter actio dei intellectualis: vt qua id sibi 
+        <lb ed="#Bb" n="3"/>acquirit quod est in se summum bonum, vt sit ei summum bonum, &amp; hoc sub ratione veri, vt est bonum in-  
+        <lb ed="#Bb" n="4"/>tellectus, &amp; sub ratione boni, vt est bonum voluntatis. secundum modum supra determinatum. Quare cum 
+        <lb ed="#Bb" n="5"/>ita est, quod quandocumque aliquid per se requiritur ad rationem alicuius, &amp; perfecta ratio illius requiritur 
+        <lb ed="#Bb" n="6"/>ad perfectam rationem eius. vt si aliquid requiritur in homine vt in eo sit ratio albi, ad perfectam rationem 
+        <lb ed="#Bb" n="7"/>albi in eo requiritur perfecta ratio illius. Sicut ergo ad rationem beatitudinis diuinae requiritur 
+        <lb ed="#Bb" n="8"/>eius operatio intellectualis, consimiliter ad perfectam rationem beatitudinis in eo requiritur perfecta ratio 
+        <lb ed="#Bb" n="9"/>opeationis intellectualis. Intellectualis autem opeatio ex parte intellectus non perficitur in deo sine verbo produ 
+        <lb ed="#Bb" n="10"/>cto: neque ex parte voluntatis sine amore producto, vt patet ex dictis in quaestione praefata de quolibet. Idcir- 
+        <lb ed="#Bb" n="11"/>co absolute dicendum, quod ad perfectam rationem beatitudinis in deo, requiritur personarum productio: sicut &amp; ad  
+        <lb ed="#Bb" n="12"/>perfectam rationem intellectualis operationis. Et sic ordine quodam rationis beatitudo dei quasi praesuper 
+        <lb ed="#Bb" n="13"/>ponit personarum productionem, vt licet diuina essentia sub ratione summi boni sit in patre ex se, &amp; 
+        <lb ed="#Bb" n="14"/>ipsam consequatur actu simplicis intelligentiae, quasi non praesupponendo personarum productionem: ex hoc 
+        <lb ed="#Bb" n="15"/>non habet perfectam rationem beatitudinis, sed solummodo ex hoc quod eam consequitur actu intellectuali 
+        <lb ed="#Bb" n="16"/>perfecto ex verbi et spiritus sancti productione, vt intellectu non solum simplicis essentiae: sed perfecto 
+        <lb ed="#Bb" n="17"/>ex verbi conceptione, concipiat quaelibet personarum in simplici intelligentia &amp; in verbo summum bo 
+        <lb ed="#Bb" n="18"/>num sub ratione veri, &amp; voluntate non solum simplicis amoris: sed perfecto ex amore producto, feratur quae  
+        <lb ed="#Bb" n="19"/>libet personarum &amp; voluntate simplicis amoris, &amp; amoris producti, in ipsum sub ratione summi boni:  
+        <lb ed="#Bb" n="20"/>vt consimiliter persectio naturae creatae secundum beatitudinem non sit solummodo concedenda per intellectum 
+        <lb ed="#Bb" n="21"/>quo intelligit essentiam sub ratione summi boni secundum se: sed etiam vt intelligitur in ratione verbi, 
+        <lb ed="#Bb" n="22"/>neque ferendo se per voluntatem in ipsam essentiam sub ratione summi boni secundum se: sed etiam vt 
+        <lb ed="#Bb" n="23"/>diligitur in ratione amoris producti. Est enim in verbo perfecta ratio veri cogniti, &amp; in amore 
+        <lb ed="#Bb" n="24"/>producto perfecta ratio boni amati: vt non sine verbo perficitur opeatio intellectualis in aliqua trium persona 
+        <lb ed="#Bb" n="25"/>rum, quia eodem verbo perficitur intellectus trium personarum, licet ab vnica tantum procedat. Et similiter est de amore proce 
+        <lb ed="#Bb" n="26"/>dente respectu opeationis voluntatis, vt habitum est supra. Consiliter non sine verbo perficitur opeatio intelle 
+        <lb ed="#Bb" n="27"/>cualis alicuius creaturae, neque operatio voluntatis sine amore procedente: sicut debent declarari loquem 
+        <lb ed="#Bb" n="28"/>do de beatitudine creaturae: vt omnes intellectus tam creati quam increati non perficiantur nisi in verbo 
+        <lb ed="#Bb" n="29"/>diuino producto: similiter neque opeatio voluntatis nisi in amore diuino producto: vt omnino in vno &amp; 
+        <lb ed="#Bb" n="30"/>eodem dei beatitudo &amp; sanctorum compleatur: licet diuersimode illud consequatur: vt propter hoc 
+        <lb ed="#Bb" n="31"/>etiam alia sit beatitudo dei, alia intellectualis naturae creatae, &amp; diuersarum intellectualium naturarum 
+        <lb ed="#Bb" n="32"/>creatarum similiter diuersae: secundum quod diuersimode per intellectum &amp; voluntatem eam consequuntur. Veruntamen 
+        <lb ed="#Bb" n="33"/>sicut contingit distinguere de opeatione intellectuali: quod potest considerari dupliciter: Vno modo  
+        <lb ed="#Bb" n="34"/>vt pure essentialis est, &amp; consideratur absque ratione verbi aut amoris procedentis: Alio modo vt conti- 
+        <lb ed="#Bb" n="35"/>net in se rationem verbi &amp; amoris procedentis: sic contingit distinguere de dei beatitudine quod est lo 
+        <lb ed="#Bb" n="36"/>qui de ea dupliciter. Vno modo vt consistit in diuina essentia, secundum quod consequitur eam opeatione intellectuali vt 
+        <lb ed="#Bb" n="37"/>pure essentialis est. Alio modo secundum quod continet in se rationem verbi &amp; amoris procedentis. Primo modo beati 
+        <lb ed="#Bb" n="38"/>tudo dei non praesupponit secundum rationem nostram intelligendi nisi personam cuius est, sicut neque actus quo as 
+        <lb ed="#Bb" n="39"/>sequitur, &amp; sic beatitudo vt est patris, non supponit productionem personarum, sicut neque eius intelligere 
+        <lb ed="#Bb" n="40"/>essentiale: &amp; sic convenit ordine quodam rationis tribus personis: vt patri ex se, filio a patre, &amp; spiritui 
+        <lb ed="#Bb" n="41"/>sancto ab vtroque: secundum quod supra determinatum est de intelligere essentiali. Secundo autem modo quasi super 
+        <lb ed="#Bb" n="42"/>ponit productionem personarum: &amp; absque omni ordine rationis convenit tribus: quemadmodum convenit eis 
+        <lb ed="#Bb" n="43"/>actus creandi absque ordine rationis. Licet enim quod creet &amp; quo creet filius habet a patre, &amp; spiritus 
+        <lb ed="#Bb" n="44"/>sanctus ab vtroque: tamen respectus ad creaturas non fundatur super eam nisi vt iam est trium. Primo autem 
+        <lb ed="#Bb" n="45"/>modo beatitudo dei quasi imperfectam rationem beatitudinis habet: sicut &amp; actio qua consequitur quasi imper- 
+        <lb ed="#Bb" n="46"/>fectam habet rationem opeationis intellectualis. Secundo autem modo habet perfectam rationem beatitudinis 
+        <lb ed="#Bb" n="47"/>sicut &amp; actio qua consequitur, habet quasi perfectam rationem actionis intellectualis. 
+        <lb ed="#Bb" n="48"/>
+      </p>
+      <p xml:id="vn58an-fe12375-d1e479">
+        ⁋ Ad primum in oppositum: quod beatitudo in deo est de essentialibus: Dicendum quod  
+        <lb ed="#Bb" n="49"/>verum est: &amp; hoc quia convenit tribus personis ratione essentiae, quae est communis tribus: &amp; non dicit super communem 
+        <lb ed="#Bb" n="50"/>rationem essentiae communis nisi rationem ommunis cuiusdam respectus. Sed essentia potest esse tribus communis sub ratione 
+        <lb ed="#Bb" n="51"/>communis respectus, duplicitier Aut quod ille respectus fundatus in essentia, communicatur ab vna per 
+        <lb ed="#Bb" n="52"/>sona aliis: sicut &amp; ipsa essentia. Aut non habet esse in essentia nisi vt iam aliis est communicata 
+        <lb ed="#Bb" n="53"/>Primo modo fundantur illa attributa quae sunt sapientia, bonitas, &amp; huiusmodi: quae ordine quodam rationis 
+        <lb ed="#Bb" n="54"/>conveniunt tribus: quia patri ex se, &amp; filio a patre, &amp; spiritui sancto ab vtroque. Non sic autem fun- 
+   <!--109.xml-->
+        <pb ed="#Bb" n="47-v"/>
+        <lb ed="#Bb" n="1"/>datur in communi essentia ratio beatitudinis perfectae, sed illius tantum quae est quasi imperfecta. Secun- 
+        <lb ed="#Bb" n="2"/>do autem modo scilicet inquantum tres personae simul perfecte eam consequuntur: non nisi perfecto actu intelligen- 
+        <lb ed="#Bb" n="3"/>di in verbo, &amp; perfecto actu amandi in amore procedente (vt dictum est) fundatur super eam ratio be- 
+        <lb ed="#Bb" n="4"/>atitudinis perfectae, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe12375-d1e508">
+        ⁋ Ad secundum quod diuina essentia habet rationem summi boni absque eo 
+        <lb ed="#Bb" n="5"/>quod supponat productionem personarum: Dicendum secundum praedicta: quod summum bonum potest considerari in se, 
+        <lb ed="#Bb" n="6"/>vel vt est consecutum a persona, sua operatione intellectuali. Primo modo non habet rationem beatitu 
+        <lb ed="#Bb" n="7"/>dinis, sed secundo modo tantum. &amp; hoc dupliciter secundum iam distinctum modum. Et vno modo non supponit per 
+        <lb ed="#Bb" n="8"/>sonarum productionem. Alio vero modo quasi supponit ipsam, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

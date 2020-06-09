@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="25-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e262"> <!-- alias="vn58an-a2q5" -->
+      <head xml:id="vn58an-d1e262-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e262-Hd1e107" type="question-title">Utrum omnes homines apti sint aeque certitudinaliter scire</head>
+      <p xml:id="vn58an-d1e262-d1e110">
+        <lb ed="#Ba" n="27"/>CIrca quintum arguitur, quod omnes homines apti nati sunt aeque certitudinaliter 
+        <lb ed="#Ba" n="28"/>scire. Primo sic. vbi causa non recipit magis &amp; minus, nec effectus: quia non intendi 
+        <lb ed="#Ba" n="29"/>tur effectus nisi per intensionem suae causae: vt nigredo per calidum. Similiter neque re 
+        <lb ed="#Ba" n="30"/>mittitur. Causa quare homo est sciens, est quia est rationalis: sed rationale esse non 
+        <lb ed="#Ba" n="31"/>suscipit magis neque minus: quia est differentia hominis specifica substantialis: quae  
+        <lb ed="#Ba" n="32"/>non recipit magis vel minus secundum philosophum in praedi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e262-d1e126">
+        ⁋ Secundo sic. vbi non est 
+        <lb ed="#Ba" n="33"/>contrarium: neque magis vel minus: quia contrarium est causa eius quod est magis 
+        <lb ed="#Ba" n="34"/>&amp; minus. vt enim determinatur in &amp; principiis, albius est quod est nigro impermixtius. sed scien 
+        <lb ed="#Ba" n="35"/>tia non habet contrarium. propter quod etiam vult philosophus in Topi. quod delectationi per scientiam 
+        <lb ed="#Ba" n="36"/>nihil est contrarium: quare neque scientiae certitudo: quia intantum est scientia: inquantum est certa. vt di 
+        <lb ed="#Ba" n="37"/>ctum est supra, quare &amp; certitudo scientiae magis &amp; minus non potest suscipere. Non ergo contingit 
+        <lb ed="#Ba" n="38"/>vnum hominem certius scire quam alterum. 
+      </p>
+      <p xml:id="vn58an-d1e262-d1e143">
+        ⁋ Contra est quod non omnes sunt aeque proni ad discen- 
+        <lb ed="#Ba" n="39"/>dum: vt patet experientia: quia diuersi non possunt aequaliter proficere cum labore aequali: quare neque  
+        <lb ed="#Ba" n="40"/>sunt aeque proni ad scientiam capiendum: &amp; ideo neque ad certitudinaliter sciendum: cum ab eodem 
+        <lb ed="#Ba" n="41"/>est scientia, &amp; scientiae certitudo.  
+      </p>
+      <p xml:id="vn58an-d1e262-d1e152">
+        <lb ed="#Ba" n="42"/>⁋ Dicendum ad hoc iuxta dictum in praecedenti quaestione: quod cum certitudo scientiae ad intel 
+        <lb ed="#Ba" n="43"/>lectum se habet ad modum certitudinis visus ad oculum: sicut non sunt omnes homines apti aque cer 
+        <lb ed="#Ba" n="44"/>titudinaliter oculo carnis videre visibile: sic nec omnes aequaliter apti sunt intellectu intelligere in  
+        <lb ed="#Ba" n="45"/>telligibile. Et hoc contingit homini ex duplici causa: vna naturali: altera accidentali. Causam naturalem 
+        <lb ed="#Ba" n="46"/>assignant aliqui ex parte intellectus secundum se: &amp; hoc dicitur vno modo non accipiendo occasionem bonitati intellectus 
+        <lb ed="#Ba" n="47"/>ex parte corporis, dicendo absolute nihil discernendo ex parte corporis quod vnus meliorem scrtitur animam quam  
+        <lb ed="#Ba" n="48"/>alter: &amp; secundum hoc excellit in perspicacia intellectus &amp; aliis viribus animae. secundum quod quidam hae 
+        <lb ed="#Ba" n="49"/>retici dicentes Christum fuisse purum hominem: dicebant ipsum sortitum fuisse meliorem animam aliis:  
+        <lb ed="#Ba" n="50"/>&amp; ideo omnes excessisse in scientia &amp; virtutum operatione: vt recitat <name ref="#Augustine">Augustinus</name> in libro de haeresibus. 
+        <lb ed="#Ba" n="51"/>Alio modo alii ponunt idem accipiendo tamen occasionem quod vnus sortiatur meliorem intellectum 
+        <lb ed="#Ba" n="52"/>alio ex parte corporis: dicendo quod quanto corpus melius est dispositum &amp; praeparatum ad animae sus- 
+        <lb ed="#Ba" n="53"/>ceptionem: tanto meliorem sortitur animam &amp; melius dispositam in omnibus viribus suis naturali- 
+        <lb ed="#Ba" n="54"/>bus: quia vt dicunt forma recipitur secundum capacitatem ipsius materiae: &amp; sicut dicunt ambo, vnus 
+   <!--66.xml-->
+        <pb ed="#Ba" n="26-r"/>
+        <lb ed="#Ba" n="1"/>sortitus est animam subtiliorem ex natura sua quam alius. propter quod vnus aptus est certius scire quam  
+        <lb ed="#Ba" n="2"/>alter. &amp; quod ideo dicat <name ref="#Aristotle">Philosophus</name> in secundo de anima, molles carne aptos mente, quia carnis mollities 
+        <lb ed="#Ba" n="3"/>apta nata est susceptioni animae intellectus subtilis: non sic autem carnis durities. Hoc habet magnam 
+        <lb ed="#Ba" n="4"/>dubitationem in se: de qua alias debet esse sermo: sed quantum ad praesens nihil tamen circa hoc deter- 
+        <lb ed="#Ba" n="5"/>minando, magis apparet esse ponendum: quod hoc non contingit ex dispositione animae in se: sed ex 
+        <lb ed="#Ba" n="6"/>dispositione corporis &amp; virium inferiorum: quibus intellectus vtitur ad suam operationem quo ad spe 
+        <lb ed="#Ba" n="7"/>cierum receptionem: vt quanto organum phantasiae &amp; aliarum virium sensitiuarum organa sunt me 
+        <lb ed="#Ba" n="8"/>sius disposita, vt imagines puriores stabiliores ordinatiores recipiant &amp; conseruent: quae per hoc 
+        <lb ed="#Ba" n="9"/>habiliores sunt vt species intelligibiles ab eis abstrahantur puriores stabiliores &amp; ordinatiores: tanto in  
+        <lb ed="#Ba" n="10"/>tellectus mediantibus illis certius &amp; limpidius intelligat: &amp; econuerso: vt quanto ex indispositio- 
+        <lb ed="#Ba" n="11"/>ne organorum imagines impuriores fluxibiliores &amp; inordinatiores recipiant &amp; conseruent: a qui-  
+        <lb ed="#Ba" n="12"/>bus habent abstrahi species intelligibiles impuriores fluxibiliores &amp; inordinatiores: tanto intelle- 
+        <lb ed="#Ba" n="13"/>ctus mediantibus illis minus certe &amp; obtusius intelligat. Vnde vt vult Philosophus. vii. Physii. in  
+        <lb ed="#Ba" n="14"/>distinctio, inordinatio, &amp; perturbatio motus specierum in phantasia multum actum intelligendi distur 
+        <lb ed="#Ba" n="15"/>bant: vt ex hoc infantes addiscere non possint neque iudicare consimiliter senibus. Multa enim (vt di- 
+        <lb ed="#Ba" n="16"/>cit) turbatio &amp; motus est circa eos. sed sedendo &amp; quiescendo anima fit prudens &amp; sciens. Et ista 
+        <lb ed="#Ba" n="17"/>perturbatio aliquando sedatur a natura per aetatem, secundum quod dicitur in principio physicae. Pueri appellant 
+        <lb ed="#Ba" n="18"/>omnes viros patres: &amp; mulieres matres: posterius autem discernunt vnumquodque: cum scilicet per aetatem vi 
+        <lb ed="#Ba" n="19"/>goratur intellectus non in se, sed in viribus inferioribus: cognoscit patrem inter caeteros viros: &amp; ma- 
+        <lb ed="#Ba" n="20"/>trem inter caeteras mulieres. Aliquando vero sedatur per consuetudinem &amp; exercitium virtutum 
+        <lb ed="#Ba" n="21"/>moralium maxime castitatis: &amp; per studium in bonis disciplinis. Vnde qui ex naturali complexio- 
+        <lb ed="#Ba" n="22"/>ne &amp; organorum sensibilium dispositione: &amp; virtutum moralium exercitio: &amp; bonarum artium stu 
+        <lb ed="#Ba" n="23"/>dio habent motus passionum sedatos: &amp; species imaginatiuas puras quietas &amp; ordinatas, maxime 
+        <lb ed="#Ba" n="24"/>subtiles sunt in actu intelligendi: &amp; certiorem nati sunt acquirere de singulis scientiam quam caeteri 
+        <lb ed="#Ba" n="25"/>qui non sunt tales. Vnde econtrario sustinentes motus passionum, vel ex malitia naturae, vniversali ex vitio mo 
+        <lb ed="#Ba" n="26"/>rum, &amp; segnes ad bona studia, vel prauis studiis imbuti maxime a pueritia, mimnie possunt scientiae 
+        <lb ed="#Ba" n="27"/>alicuius certitudinem acquirere. &amp; ita in hoc quod quidam segnes sunt plus ad dicendum quam alii: &amp; 
+        <lb ed="#Ba" n="28"/>quidam melioribus studiis &amp; exercitiis imbuti a iuuentute quam alii, consistit causa accidentalis: quod 
+        <lb ed="#Ba" n="29"/>non omnes aeque apti sunt ad certitudinaliter sciendum. Vnde inter alia impedimenta cognoscendi ve 
+        <lb ed="#Ba" n="30"/>ritatem: quae <name ref="#Aristotle">Philosophus</name> ponit. ii. Metaphysicae, Primum &amp; fortissimum sicut dicit commen. est praua consue- 
+        <lb ed="#Ba" n="31"/>tudo in pueritia. Isti enim praue educati a pueritia. secundum Philosophum, dicere semper volunt quod  
+        <lb ed="#Ba" n="32"/>assueti sunt dicere: &amp; iudicant inconveniens quod extra illud est: aqui id ad quod assueti sunt maxime est 
+        <lb ed="#Ba" n="33"/>eis applicabile animo. Vnde dicit <name ref="#Augustine">Augustinus</name> iii. de doc. Christianua Si animum occupauerit alicuius erro- 
+        <lb ed="#Ba" n="34"/>ris opinio: quicquid aliud asseruerit scriptura figuratum arbitrantur. Secundum vero impedimentum 
+        <lb ed="#Ba" n="35"/>post hoc est segnities studii. Tales enim vt dicit philosophus ibidem, odiunt sermonem perscrutatum:  
+        <lb ed="#Ba" n="36"/>quia non statim possunt capere. De quibus dicit <name ref="#Averroes">commentator</name> quod impossibile est vt addiscant. &amp; ista sunt duo  
+        <lb ed="#Ba" n="37"/>impedimenta ex causa accidentali. Tertium vero est ex causa praedicta naturali: quia in quibusdam  
+        <lb ed="#Ba" n="38"/>dominatur virtus imaginatiua: qui non possunt transire imaginationem: neque credere demonstrationibus 
+        <lb ed="#Ba" n="39"/>nisi imaginatio concomitetur eos. vnde isti ad certum intellectum veritatis attingere non possunt. 
+      </p>
+      <p xml:id="vn58an-d1e262-d1e287">
+        <lb ed="#Ba" n="40"/>⁋ Ad primum in oppositum, quod aeque rationalis est quilibet homo: Dicendum quod ratio-  
+        <lb ed="#Ba" n="41"/>nale quia nominat potentiam quae habet comparationem ad actum &amp; ad subiectum, magis vel minus 
+        <lb ed="#Ba" n="42"/>circa ipsum potest intelligi in respectu ad actum aut in respectu ad subiectum. Primo modo bene po 
+        <lb ed="#Ba" n="43"/>test intendi &amp; remitti: inquantum vnus ex causis praedictis habilior est ad actum intelligendi quam alius 
+        <lb ed="#Ba" n="44"/>&amp; ad recipiendum veritatis impressionem. secundum quod in vi. principiis dicitur quod animantius est bru 
+        <lb ed="#Ba" n="45"/>tum arbore: &amp; rationale irrationali: &amp; hoc quia brutum natum est pati a speciebus sensibilium: at 
+        <lb ed="#Ba" n="46"/>bor non: &amp; rationale a speciebus intelligibilium: irrationale non. Et secundum hunc modum etiam 
+        <lb ed="#Ba" n="47"/>vnus homo dicitur rationabilior altero: quia natus est magis moueri veritatis impressione quam al- 
+        <lb ed="#Ba" n="48"/>ter. 
+      </p>
+      <p xml:id="vn58an-d1e262-d1e309">
+        ⁋ Secundo modo subdistinguendum. Cum enim rationale sit potestas hominis: vt homo est coniun 
+        <lb ed="#Ba" n="49"/>ctus ex corpore: cuius est actus intelligendi &amp; ratiocinandi, vt dicitur in primo de anima: potest con 
+        <lb ed="#Ba" n="50"/>siderari prout conuenit homini ratione speciei, vel ratione alicuius indiuidui. Si primo modo: cum 
+        <lb ed="#Ba" n="51"/>species sequitur formam, quae in homine est anima rationalis: hoc modo non potest rationale suscipe 
+        <lb ed="#Ba" n="52"/>re magis vniversaliminus: quia species secundum se vna &amp; eadem est, &amp; aequalis in omnibus indiuiduis, non 
+        <lb ed="#Ba" n="53"/>potens diuersificari neque intendi, aut remitti in sua substantia. Si ratione indiuidui: cum ratione in  
+        <lb ed="#Ba" n="54"/>ctiuidui se teneat ex parte corporis &amp; materiae hoc modo in indiuiduo rationale bene potest suscipe- 
+        <lb ed="#Ba" n="55"/>re magis &amp; minus, secundum quod vnus homo ex parte organorum sensitiuorum magis est aptus ad  
+   <!--67.xml-->
+        <pb ed="#Ba" n="26-v"/>
+        <lb ed="#Ba" n="1"/>intelligendum &amp; ratiocinandum quam alter, vt dictum est. &amp; hoc contingit: quia stante vnitate speciei 
+        <lb ed="#Ba" n="2"/>sen per formae in aliquo diuersificantur in diuersis indiuiduis numero secundum diuersitatem materia- 
+        <lb ed="#Ba" n="3"/>rum numero in quibus recipiuntur. Sed secundum hoc est ei materia quodammodo accidentalis, secundum 
+        <lb ed="#Ba" n="4"/>quam ad omnes actus animae in corpore quidam sunt aptiores quam alii: &amp; vnus ad vnum aptior est: alius ad alium: 
+        <lb ed="#Ba" n="5"/>tam in moralibus quam in intellectualibus: &amp; vnus habilior ad vnam virtutem vel scientiam, alius ad aliam. 
+        <lb ed="#Ba" n="6"/>vt sic sicut in vno &amp; eodem homine secundum vnam &amp; eandem animam in natura &amp; essentia propter 
+        <lb ed="#Ba" n="7"/>mutationem aetatis contingit ipsum esse habiliorem ad vnum actum quam ad alium: &amp; similiter ad eun 
+        <lb ed="#Ba" n="8"/>dem actum in diuersis aetatibus: &amp; similiter propter mutationem temporis. Quae quidem mutatio 
+        <lb ed="#Ba" n="9"/>non ponit per se aliquam variationem ex parte substantiae animae: sed solius corporis: &amp; per cor- 
+        <lb ed="#Ba" n="10"/>pus per accidens circa operationes animae. lta quod eadem anima si haberet aliam dispositionem cor- 
+        <lb ed="#Ba" n="11"/>poris, aliter operaretur, secundum quod dicit <name ref="#Aristotle">Philosophus</name> in primo de anima. Si. senex haberet oculum 
+        <lb ed="#Ba" n="12"/>iuuenis: videret vtique sicut iuuenis. virtutes enim animae in se non senescunt. Hinc dicitur in sex prin 
+        <lb ed="#Ba" n="13"/>cipiis. Corpus vniuersum vt est in tempore. suscipit mutationes temporis: alteratur enim corpus 
+        <lb ed="#Ba" n="14"/>in aestate hyeme vere &amp; autumno. similiter &amp; anima. Acutius etenim quidam in hyeme: quidam in aesta 
+        <lb ed="#Ba" n="15"/>te: quidam autem in vere speculantur secundum instrumenti complexionem. Anima enim coniun 
+        <lb ed="#Ba" n="16"/>cta complexiones corporis comitatur: vt aridae &amp; gelidae complexionis dementiores seipsis saepe in  
+        <lb ed="#Ba" n="17"/>autumno sunt: quibus vero sanguis principatur, in vere. Similiter autem &amp; de aliis: secundum si- 
+        <lb ed="#Ba" n="18"/>militudinem animalium &amp; temporum. Sicut inquam ista diuersificatio in operibus animae contingit in  
+        <lb ed="#Ba" n="19"/>eodem homine secundum eandem animam omnino ex parte corporis: consimiliter &amp; in diuersis ho-  
+        <lb ed="#Ba" n="20"/>minibus secundum diuersas animas: quia quantum ad substantialia speciei non potest esse diuersitas ex parte 
+        <lb ed="#Ba" n="21"/>animarum: quia quaelibet earum est tota species ipsa: &amp; nihil aliud. secundum quod alias hoc debet 
+        <lb ed="#Ba" n="22"/>probari. Si autem contingit diuersitas: hoc non est ratione formae &amp; speciei: sed ratione hypostati- 
+        <lb ed="#Ba" n="23"/>carum dispositionum: quae per accidentia distinguunt species in supposita: siue istud accidens sit ex 
+        <lb ed="#Ba" n="24"/>materia, siue praeter materiam, secundum quod per accidentia in formis separatis species distinguuntur 
+        <lb ed="#Ba" n="25"/>per hypostases: sicut in formis materialibus per materias. secundum quod docet <name ref="#JohnDamascenus">Damascenus</name> in libro de dua  
+        <lb ed="#Ba" n="26"/>bus naturis &amp; vna persona Christianua d. Sciendum quod contentiua indiuiduorum solum species dicuntur spe 
+        <lb ed="#Ba" n="27"/>cialissimae. vt angelus, homo, equus, oliua, &amp; talia. Contentiua autem specierum specialissimarum genera 
+        <lb ed="#Ba" n="28"/>dicuntur. Natura quidem igitur est secundum sanctos commune &amp; indeterminatum: scilicet specialissima 
+        <lb ed="#Ba" n="29"/>species: hypostasis vero particulare secundum seipsum subsistens: &amp; simpliciter dicere natura con- 
+        <lb ed="#Ba" n="30"/>mune est: veluti humanitas: hypostasis autem quod particulare. Petrus hypostasis est non natura: sed  
+        <lb ed="#Ba" n="31"/>habens perfectam naturam humanitatis. Impossibile est autem naturam constitui extra eas quae se 
+        <lb ed="#Ba" n="32"/>cundum ipsam naturales proprietates constituentes ipsam &amp; diuidentes a reliquis naturis: qua-  
+        <lb ed="#Ba" n="33"/>rum congregatio in altera non consideratur specie. Item rursus vnam &amp; eandem hypostasim non  
+        <lb ed="#Ba" n="34"/>vti characteristicis: &amp; constitutiuis ipsius: &amp; diuisiuis a reliquis hypostasibus. 
+      </p>
+      <p xml:id="vn58an-d1e262-d1e411">
+        ⁋ Dicamus igitur quid  
+        <lb ed="#Ba" n="35"/>est naturalis proprietas &amp; quid hypostatica proprietas: &amp; harum differentiam. Naturalis proprie 
+        <lb ed="#Ba" n="36"/>tas est: quae naturam constituit: velut rationale vitale: quae diuidit speciem a specie: hoc est natu- 
+        <lb ed="#Ba" n="37"/>ram ab alia natura. Hypostatica proprietas est quae diuidit hypostasim ab alia hypostasi: velut al- 
+        <lb ed="#Ba" n="38"/>bum nigrum. accidentia animae haec &amp; aduenientia: quibus differens fit naturalium vsus. Vnde 
+        <lb ed="#Ba" n="39"/>vt determinat omnia opera simpliciter determinantur a natura speciei: vt sunt velle, intelligere, &amp; 
+        <lb ed="#Ba" n="40"/>huiusmodi. Pronitas autem &amp; inclinatio ad volendum, aut intelligendum, aut aliquid aliud agen-  
+        <lb ed="#Ba" n="41"/>dum sic vel aliter, determinatur ab aliquo accidente, quod contingit naturae in supposito determi 
+        <lb ed="#Ba" n="42"/>nate per illud accidens, siue secundum se, siue in materia: per quod vnus aptus est ad magis certi- 
+        <lb ed="#Ba" n="43"/>tudinaliter sciendum quam alter: non per aliquid quod est ex parte naturae &amp; speciei: quae aequalis est quam 
+        <lb ed="#Ba" n="44"/>tum est ex parte sui in quolibet supposito: sed per aliquod accidens quod determinat &amp; facit hypostasim 
+        <lb ed="#Ba" n="45"/>distinctam ab alia hypostasi sub eadem forma. 
+      </p>
+      <p xml:id="vn58an-d1e262-d1e437">
+        ⁋ Ad secundum quod scientia in anima non habet contrarium: Dicendum  
+        <lb ed="#Ba" n="46"/>quod magis &amp; minus in eis quae intensionem nata sunt suscipere per se, est ab agente: quia secundum quod maiori vir- 
+        <lb ed="#Ba" n="47"/>tute agit puritatem formae magis imprimit. Magis ergo &amp; minus causari potest in diuersis: quia vnum 
+        <lb ed="#Ba" n="48"/>agens fortius agit ad imprimendum formae puritatem quam aliud: etiam si forma non habeat contrarium in subie 
+        <lb ed="#Ba" n="49"/>cto. Et hoc modo scientia de vna re potest esse certior quam de alia in vno &amp; eodem: quia veritas vna magis na 
+        <lb ed="#Ba" n="50"/>ta est mouere intellectum quam alia: &amp; similiter scientia de vna &amp; eadem re potest esse certior in vno quam in alio:  
+        <lb ed="#Ba" n="51"/>quia veritas eadem magis nata est mouere intellectum vnius quam alterius. In eodem autem magis &amp; minus 
+        <lb ed="#Ba" n="52"/>causatur per contrarium impediens agens: &amp; secundum quod plus &amp; minus impedit: plus &amp; minus veritatem for- 
+        <lb ed="#Ba" n="53"/>mae imprimit: sicut contingit in formis naturalibus: vt per hoc etiam in diuersis causetur magis &amp; minus: 
+        <lb ed="#Ba" n="54"/>inquantum agens in vno magis impeditur a contrario quam in alio. Iste ergo modus eius quod est magis &amp; minus 
+        <lb ed="#Ba" n="55"/>causatur ab eo quod est habere contrarium: non autem omnis modus suscipinedi magis &amp; minus vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

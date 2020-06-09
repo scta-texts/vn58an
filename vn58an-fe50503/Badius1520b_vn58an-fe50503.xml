@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="184-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe50503"> <!-- alias="vn58an-a61q9" -->
+      <head xml:id="vn58an-fe50503-Hd1e104">Quaestio 9</head>
+      <p xml:id="vn58an-fe50503-d1e107">
+        <lb ed="#Bb" n="35"/>Quaestio. 9.  <!-- strang abnormal question heading -->
+        <lb ed="#Bb" n="36"/>Irca nonum arguitur quod spiritus sanctus non sit donum quo caetera dona donan  
+        <lb ed="#Bb" n="37"/>tur, Primo sic. sine dono quo caetera dona donantur nullum aliud donum donatur 
+        <lb ed="#Bb" n="38"/>&amp; illo dato non est aliquod donum quod non donetur: quia ipsum est propria causa 
+        <lb ed="#Bb" n="39"/>&amp; ratio donandi caetera. &amp; posita causa tali necesse est poni effectum: &amp; remota 
+        <lb ed="#Bb" n="40"/>lla necesse est remoueri effectum sed sine dono quod est spiritus sanctus dato, mul 
+        <lb ed="#Bb" n="41"/>ta dona donantur, &amp; illo dato multa alia non simul donantur, puta dona gratis 
+        <lb ed="#Bb" n="42"/>data, quae dantur quandoque illis quibus datur spiritus sanctus: &amp; similiter non datur  
+        <lb ed="#Bb" n="43"/>x illis quibus datur spiritus sanctus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe50503-d1e131">
+        ⁋ Secundo sic. Apostolus dicit primae Corinthorm Qui pro 
+        <lb ed="#Bb" n="44"/>nobis illum donauit filium suum spiritum sanctum, quomodo non cum eo donauit nobis omnia: filius 
+        <lb ed="#Bb" n="45"/>ergo donum est quo caetera dona donantur, non ergo hoc est proprium dono quod est spiritus san- 
+        <lb ed="#Bb" n="46"/>in ctus. 
+      </p>
+      <p xml:id="vn58an-fe50503-d1e140">
+        ⁋ Tertio sic. illuminatio sapientiae donum est quod proprie datur dono quid est verbum siue filius:  
+        <lb ed="#Bb" n="47"/>quia vt dicitur loannis primo, erat lux vera quae illuminat omnem hominem venientem in hunc 
+        <lb ed="#Bb" n="48"/>mundum, non est ergo proprium dono quod est spiritus sanctus, quod ipso donetur donum hoc. 
+      </p>
+      <p xml:id="vn58an-fe50503-d1e148">
+        ⁋ Con- 
+        <lb ed="#Bb" n="49"/>tra. in quolibet genere vno est vnum primum quod est ratio omnium illorum quae sunt in illo gene- 
+        <lb ed="#Bb" n="50"/>re secundum Philosophum. x. metaphysicae, ergo &amp; in genere donorum. hoc autem non est nisi spiri 
+        <lb ed="#Bb" n="51"/>tus sanctus in diuinis: quia ipse solus est proprie donum quo caetera dona donantur, sicut lux est pri 
+        <lb ed="#Bb" n="52"/>mum visibile quo caetera videntur. ergo &amp;c. 
+   <!--384.xml-->
+        <pb ed="#Bb" n="185-r"/>
+      </p>
+      <p xml:id="vn58an-fe50503-d1e164">
+        <lb ed="#Bb" n="1"/>⁋ Dico secundum processum vltimae rationis, quod spiritus sanctus donum est in quo consi 
+        <lb ed="#Bb" n="2"/>stit perfectissime ratio doni siue donabilis: sicut in quolibet primo cuiuslibet generis entium per- 
+        <lb ed="#Bb" n="3"/>fectissime consistit ratio naturae &amp; perfectionis illius generis: vt ratio coloris in albedine, &amp; visibilis 
+        <lb ed="#Bb" n="4"/>in luce: &amp; vniversale cuiuslibet mensurae inquantum mensura est, in sua mensura prima. Et convenit hoc spi 
+        <lb ed="#Bb" n="5"/>ritui sancto ex modo suo procedendi: quia secundum praedicta ab illo habet quod sit proprium donum: &amp; per hoc similite 
+        <lb ed="#Bb" n="6"/>verissime habet rationem doni: ita quod in quocumque alio sit ratio aliqua doni vel donabilis: illa est per 
+        <lb ed="#Bb" n="7"/>quandam participationem respectu rationis doni quae est in spiritu sctom: &amp; est per essentiam: quemadmodum ratio visi 
+        <lb ed="#Bb" n="8"/>bilis in alio est per quandam participationem respectu rationis visibilis in luce: &amp; ratio mensurae in quacumque 
+        <lb ed="#Bb" n="9"/>posteriori mensura est per quandam participationem respectu rationis mensurae in prima mensura. Nunc autem ita 
+        <lb ed="#Bb" n="10"/>est quod illud in quo consistit penitus ratio alicuius generis: non solum est ratio praeuia aliorum quae sunt 
+        <lb ed="#Bb" n="11"/>sub eodem genere quo ad rationem illam qua sunt sub illo genere: sed etiam actus illius conuenit illis 
+        <lb ed="#Bb" n="12"/>qui sunt sub eodem genere ex ratione illa qua existunt sub illo genere: puta in genere actus actiue 
+        <lb ed="#Bb" n="13"/>dicti: cuiusmodi est actus mensurandi: quia mensura mensurat mensuratum. Vncia enim quae est ratio men- 
+        <lb ed="#Bb" n="14"/>surae qua libra dicitur mensura: etiam est mensura &amp; ratio actus quo libra mensurat mensurata. Quare 
+        <lb ed="#Bb" n="15"/>cum actus donandi passiue illis quae sicut dona donantur sub genere donabilium convenit ratione doni quae sim 
+        <lb ed="#Bb" n="16"/>pliciter est in illis secundum rationem primi doni, in quo consistit prima ratio doni: est ergo in illis actus 
+        <lb ed="#Bb" n="17"/>donandi quo donantur passiue secundum rationem primi doni. Nulla enim est quo ad hoc differentia in acti 
+        <lb ed="#Bb" n="18"/>bus actiue &amp; passiue dictis. Quare cum spiritus sanctus sit ratio cuiuslibet doni: quia illud est donum 
+        <lb ed="#Bb" n="19"/>atque donabile: consimiliter est ratio actus donandi quo illud donatur. Spiritus sanctus ergo est ratio qua  
+        <lb ed="#Bb" n="20"/>caetera dona donantur. 
+      </p>
+      <p xml:id="vn58an-fe50503-d1e210">
+        ⁋ Sed est aduertendum quod esse donum quo caetera dona donantur, contingit intelligi 
+        <lb ed="#Bb" n="21"/>dupliciter. Quia enim actus donandi ordinem habet non solum ad illud quod donatur, sed etiam ad illum a quo do  
+        <lb ed="#Bb" n="22"/>natur: omittendo ad praesens ordinem eius ad illum cui donatur: dico quod donum illud quo caetera dona donam 
+        <lb ed="#Bb" n="23"/>tur, contingit intelligi aliquid esse dupliciter. Vno scilicet modo in ordine ad illud quod donatur. Alio modo in 
+        <lb ed="#Bb" n="24"/>ordine ad illum a quo donatur. Primo modo indubitanter spiritus sanctus secundum iam expositum modum est 
+        <lb ed="#Bb" n="25"/>ratio qua caetera dona donantur: &amp; hoc passiue, ex pere scilicet donati: quia a ratione primi doni in quo-  
+        <lb ed="#Bb" n="26"/>libet alio. Sed hoc modo magis proprie dicitur quod spiritus sanctus est donum quo caetera dona habent quod  
+        <lb ed="#Bb" n="27"/>sint dona, quam quo caetera dona donantur. Secundo consiliter modo spiritus sanctus est donum quo caetera dona 
+        <lb ed="#Bb" n="28"/>donantur, &amp; hoc actiue, ex pere scilicet donantis: quia ratio primi doni inclinat donantem in caetera dona ad  
+        <lb ed="#Bb" n="29"/>donandum illa: Sed hoc non inquantum est donum: secundum rationem enim qua est donum, solummodo respicit 
+        <lb ed="#Bb" n="30"/>actum donandi passiue iam dicto modo: sed inquantum est amor, siue secundum rationem qua est amor procedens 
+        <lb ed="#Bb" n="31"/>quo pater &amp; filius sese mutuo gratuito &amp; zelatiue diligunt, est ratio qua diligunt gratuito &amp; ae 
+        <lb ed="#Bb" n="32"/>latiue creaturam intellectualem: dilectione dico zelatiua, ad modum quo verbum est ratio qua dicunt 
+        <lb ed="#Bb" n="33"/>creaturam: &amp; illo amore aelatiuo creaturae intellectuali &amp; illi dona conferunt gratuita, &amp; gratis da 
+        <lb ed="#Bb" n="34"/>ta supnaturalia. Naturalia autem dona conferunt amore zelatiuo omni creaturae generaliter. Cuius col 
+        <lb ed="#Bb" n="35"/>lationis tam in donis naturalibus quam gratuitis radix &amp; origo est amor essentialis: sicut &amp; dilectio 
+        <lb ed="#Bb" n="36"/>nis zelatiuae radix &amp; origo est amor simplex essentialis: &amp; notitiae zelatiuae radix &amp; origo est no 
+        <lb ed="#Bb" n="37"/>titia simplex essentialis. Sed quod amore zelatiuo conferunt dona, hoc aliter contingit in donis gratis 
+        <lb ed="#Bb" n="38"/>datis &amp; in donis gratuitis: quia in dando dona gratis data non simul datur spiritus sanctus: quia illa etiam 
+        <lb ed="#Bb" n="39"/>malis &amp; paruersis manentibus dantur: non sic autem spiritus sanctus. Cum istis aute scilicet donis gratuitis, simul datur 
+        <lb ed="#Bb" n="40"/>&amp; spiritus sanctus, quia pater &amp; filius non dant illa nisi illis quibus prius naturali ordine dant amorem 
+        <lb ed="#Bb" n="41"/>a se procedentem non solum ab vno in alterum ab aeterno: sed ab ambobus ex tempore in creaturam ra- 
+        <lb ed="#Bb" n="42"/>tionalem. secundum quod inferius declarandum est, disputando de processione spiritus sancti temporali. 
+        <lb ed="#Bb" n="43"/>
+      </p>
+      <p xml:id="vn58an-fe50503-d1e262">
+        ⁋ Quia arguitur primo quod spiritus sanctus non est donum quo caetera dona donantur- 
+        <lb ed="#Bb" n="44"/>quia sine eo aliqua dona donantur: &amp; cum illo dato aliqua dona non donantur: Dico quod ablatiuus ille quo 
+        <lb ed="#Bb" n="45"/>caetera dona donantur, potest construi cum verbo illo donantur associatiue vel causaliter. Et primo modo 
+        <lb ed="#Bb" n="46"/>spiritus sanctus solummodo est donum quo donantur dona gratuita: quae non dantur nisi cum spiritus sancto, qui etiam 
+        <lb ed="#Bb" n="47"/>non datur sine illis. Non autem isto modo est donum quo dantur naturalia aut dona gratis data, de 
+        <lb ed="#Bb" n="48"/>quibus bene procedit obiectio. Sed de hoc modo non intelligitur praesens quaestio: sed de secundo modo: illo enim 
+        <lb ed="#Bb" n="49"/>modo nullum donum naturale aut supnaturale siue gratuitum siue gratis datum confertur creaturae in-  
+        <lb ed="#Bb" n="50"/>tellectuali non spiritus sctom: vt causa siue ratione intellectiua voluntatis ad donandum illis: licet solum ipse 
+        <lb ed="#Bb" n="51"/>met detur cum donis gratuitis: &amp; dona gratuita non nisi cum ipso. Alia autem bene dantur fine spiritus sancto 
+        <lb ed="#Bb" n="52"/>&amp; ipse fine illis. secundum quod tangit argumentum. &amp; de illo secundo modo intelligitur praesens quaestio solummodo.  
+        <lb ed="#Bb" n="53"/>
+      </p>
+      <p xml:id="vn58an-fe50503-d1e286">
+        ⁋ Ad secundum: quod filius est quo caetera dona donantur: ergo non est hoc proprium spiritu sctom: Dico quod illud  
+        <lb ed="#Bb" n="54"/>verum est primo modo scilicet per associationem siue concomitantiam. secundum quod sonat verbum Apostoli. Cum filio enim 
+   <!--385.xml-->
+        <pb ed="#Bb" n="185-v"/>
+        <lb ed="#Bb" n="1"/>nobis donato pater omnia nobis donauit: non vt in effectu sed in virtute: &amp; hoc singulis quo ad  
+        <lb ed="#Bb" n="2"/>dona gratuita necessaria ad salutem, &amp; caetera diuersis prout opus erat: licet non singulis. Vt 
+        <lb ed="#Bb" n="3"/>enim dicitur loannem. i. Quotquot autem receperunt eum, dedit eis potestatem filios dei fieri his quid credunt in eum. 
+        <lb ed="#Bb" n="4"/>Et bene hoc exponit cum subdit. Et verbum caro factum est. Et vidimus eum plenum gratia &amp; veritate.  
+        <lb ed="#Bb" n="5"/>Et de plenitudine eius omnes accepimus gratiam pro gratia. Secundo autem modo scilicet causalitate &amp; ratione 
+        <lb ed="#Bb" n="6"/>donandi illud convenit soli spiritu sancto: quia proprie donum est &amp; amor procedens non filius, vt habitum est 
+        <lb ed="#Bb" n="7"/>supra: licet nobis datus sit in incarnatione. secundum illud Esa. Puer natus est nobis, &amp; filius datus est 
+        <lb ed="#Bb" n="8"/>nobis. Vund scilicet quod filius datus est nobis: ideo est spiritus. 
+      </p>
+      <p xml:id="vn58an-fe50503-d1e312">
+        ⁋ Ad tertium: quod donum sapientiae proprie datur verbo:  
+        <lb ed="#Bb" n="9"/>quod videtur directe esse contra iam dicta: Dico quod praeter dictos modos eius quod est quo aliquid donatur, ad  
+        <lb ed="#Bb" n="10"/>huc est vnus quo aliquid donatur effectiue: &amp; hoc solo modo filio inquantum lux est &amp; verbum aut sapientia 
+        <lb ed="#Bb" n="11"/>genita datur creaturae rationali sapientia, vt procedit obiectio. Sed de isto modo nihil ad praesentem quaestionem. 
+        <lb ed="#Bb" n="12"/>Vt causalis enim ratio donandi istud donum solummodo est donum quod est spiritus sanctus, secundum iam dicta: licet cau 
+        <lb ed="#Bb" n="13"/>sale principium effectiuum siue donatinum illius sit solummodo verbum: &amp; hoc non nisi per quandam appro- 
+        <lb ed="#Bb" n="14"/>priationem. Quia enim ei appropriatur quod sit lux &amp; sapientia essentialis: ideo appropriatiue dicitur solum 
+        <lb ed="#Bb" n="15"/>verbum dare sapientiam, licet principaliter &amp; coniter ipsam det tota trinitas, sicut &amp; caetera dona. 
+        <lb ed="#Bb" n="16"/>Et per hunc modum appropriationis solus pater dicitur dare potentiam: quia potentia illi soli appropriatur: &amp; 
+        <lb ed="#Bb" n="17"/>solus spiritus sanctus bonitatem: quia illa ipsi soli appropriatur. 
+      </p>
+      <p xml:id="vn58an-fe50503-d1e335">
+        ⁋ Argumentum in oppositum non procedit nisi 
+        <lb ed="#Bb" n="18"/>de ratione donandi passiue in ordine ad donatum: &amp; bene verum est quod illo modo spiritus sanctus vt est do 
+        <lb ed="#Bb" n="19"/>num, est ratio donandi caetera dona. &amp; praeter hoc etiam est ratio donandi illa actiue in ordine ad do-  
+        <lb ed="#Bb" n="20"/>nantem: sed hoc non nisi inquantum est amor procedens, sicut patet ex iam dictis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

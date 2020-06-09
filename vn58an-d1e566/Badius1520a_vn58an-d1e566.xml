@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="43-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e566"> <!-- alias="vn58an-a6q2" -->
+      <head xml:id="vn58an-d1e566-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e566-Hd1e107" type="question-title">Utrum proprie dicenda sit sapientia</head>
+      <p xml:id="vn58an-d1e566-d1e110">
+        <lb ed="#Ba" n="23"/>CIrca secundum arguitur: quod theologia non debeat dici sapientia. Primo sic. Scientia illa quae 
+        <lb ed="#Ba" n="24"/>est sapientia, principia sua non supponit ab alio: sed omnes aliae scientiae ab illa: vt vultur 
+        <lb ed="#Ba" n="25"/>
+       <ref xml:id="vn58an-d1e566-Rd1e118" target="http://scta.info/resource/aristmet-l4">
+        <title>Philosophus</title>. iiii. Metaph.</ref> Scientia ista principia sua ab alio supponit: cuius testimonio cre 
+        <lb ed="#Ba" n="26"/>dit eis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e127">
+        ⁋ Secundo sic. Scientia quae sapientia dicitur, debet principia aliarum scien 
+        <lb ed="#Ba" n="27"/>tiarum probare contra negantes ea. ibidem, quod non potest facere haec scientia: quia non ha-  
+        <lb ed="#Ba" n="28"/>bet notiora intellectui: quam sint principia aliarum scientiarum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e135">
+        ⁋ Tertio 
+        <lb ed="#Ba" n="29"/>isic. secundum <name ref="#Augustine">Augustinus</name> xiii. &amp;. xiiii. de trinitate. Eides pertinet ad scientiam, non ad sapientiam, quaere cum 
+        <lb ed="#Ba" n="30"/>scientia ista est scientia fidei, scientia erit proprie, non sapientia. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e145">
+        ⁋ Quarto sic. Scientia quae est sapientia, est sui 
+        <lb ed="#Ba" n="31"/>ipsius gratia. vt dicitur. i. Metaphicae, quod non conuenit huic scientiae: vt dictum est supra. &amp; vt dicitur Io. xx. 
+        <lb ed="#Ba" n="32"/>Hlaec scripta sunt vt credatis. &amp; non vt hoc tantum: sed vt credentes vitam habeatis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e152">
+        ⁋ Contra est 
+        <lb ed="#Ba" n="33"/>illud Apostoli. i. Corin. ii. Sapientiam loquimur inter perfectos, quae non est nisi huius scientiae. vnde dicit ibi Gl. 
+        <lb ed="#Ba" n="34"/>De secretis dei. Haec autem scientia maxime est de secretis dei. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e159">
+        ⁋ Hic est intelligendum primo quod lar 
+        <lb ed="#Ba" n="35"/>ge accipiendo nomen sapientiae &amp; stricte nomen scientiae, &amp; Sapientia potest dici scientia, &amp; scientia potest dici 
+        <lb ed="#Ba" n="36"/>sapientia. Secundum quod dicit <name ref="#Augustine">Augustinus</name> xiii. de trinitate. Nec ista duo sic accipiamus ( scilicet scientiam &amp; sapientiam) quasi non 
+        <lb ed="#Ba" n="37"/>liceat dicere vel istam sapientiam quae est in rebus humanis, vel illam scientiam quae est in diuinis. Latiore 
+        <lb ed="#Ba" n="38"/>enim consuetudine vtraque sapientia: vtraque scientia dici potest. Proprie tamen loquendo abinuicem distin-  
+        <lb ed="#Ba" n="39"/>guuntur: vt aliqua notitia dicatur communiori nomine scientia, non sapientia: alia vero proprio nomi 
+        <lb ed="#Ba" n="40"/>ne dicatur sapientia &amp; non scientia. Secundum quod <name ref="#Augustine">Augustinus</name> subdit ibidem. Nullo modo tamen scriptum esset 
+        <lb ed="#Ba" n="41"/>apud Apostolum, Alii datur sermo sapientiae: alii sermo scientiae: nisi &amp; proprie singulis rationibus haec 
+        <lb ed="#Ba" n="42"/>singula vocarentur. Vnde vt statim determinat lib. xiiii. Scientia proprie est notitia de humanis 
+        <lb ed="#Ba" n="43"/>&amp; temporalibus rebus. Sapientia vero de diuinis &amp; aeternis. Ex quo statim apparet solutio ad quae- 
+        <lb ed="#Ba" n="44"/>stionem. Licet enim scientia aliqua philosophica sit de diuinis &amp; aeternis: quia tamen nulla scientia philosophica est de deo 
+        <lb ed="#Ba" n="45"/>principaliter: vt de subiecto &amp; obiecto: neque etiam de eo considerat aliter quam modo humano, noti- 
+        <lb ed="#Ba" n="46"/>tiam eius eliquando ex rebus sensibilibus &amp; creaturis: sola autem theologia principaliter vt de subiecto 
+        <lb ed="#Ba" n="47"/>&amp; obiecto est de deo: &amp; modo diuino &amp; superhumano de ipso considerando: Idcirco patet quod sola 
+        <lb ed="#Ba" n="48"/>theologia simpliciter sapientia debet dici: &amp; quod nulla scientia philosophica respectu eius sapientia 
+        <lb ed="#Ba" n="49"/>dici possit. Sed vt istud quomodo ei conueniat apertius videamus, cum sapientia nomine suo 
+        <lb ed="#Ba" n="50"/>nihil aliud dicat quam praerogatiuam quandam supra nomen scientiae: Considerandum est quae sit illa praerogatiua 
+        <lb ed="#Ba" n="51"/>quam sapientia habet supra scientiam simpliciter. Quae si inueniatur principaliter in hac scientia super omnes 
+        <lb ed="#Ba" n="52"/>alias: patebit quom &amp; quare proprie sapientia dici debeat. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e207">
+        ⁋ Notandum igitur quod scientia nomine suo nihil 
+        <lb ed="#Ba" n="53"/>aliud dicit, nisi certam notitiam de re aliquam: ita quod vt dictum est in quaestione praecedenti, omnis certa noti- 
+        <lb ed="#Ba" n="54"/>tia de re, ommuni nomin e scientia potest dici. Quare cum nomine sapientiae nihil nisi quaedam praerogatiua scientiae ex- 
+        <lb ed="#Ba" n="55"/>primitur: &amp; praerogatiua rei debet esse in eo quod est formale &amp; perfectio eius: Perfectio autem formalis scien 
+   <!--101.xml-->
+        <pb ed="#Ba" n="43-v"/>
+        <lb ed="#Ba" n="1"/>tiae quae notitia aliqua scientia dicitur: est certitudo notitiae in ipsa: Scientia igitur vna ex hac praerogatiua 
+        <lb ed="#Ba" n="2"/>debet dici super alias sapientia: quia. scilicet in certitudine alias excedit. Et quia certitudo scientiae 
+        <lb ed="#Ba" n="3"/>causatur ex causis &amp; principiis eius quae considerat: &amp; principia quanto sunt priora &amp; altiora: tan  
+        <lb ed="#Ba" n="4"/>to sunt in sua veritate certiora: &amp; ex hoc etiam tanto magis sunt causa certitudinis &amp; veritatis 
+        <lb ed="#Ba" n="5"/>omnium eorum quae sunt post: vt dicitur. ii. Metaph. idcirco contingit quod scientia quae simpliciter dicenda 
+        <lb ed="#Ba" n="6"/>est sapientia respectu omnium aliarum debet considerare prima principia simpliciter omnium &amp; altissima:  
+        <lb ed="#Ba" n="7"/>&amp; maxime inter illa illud quod est maxime primum. Illud enim est prima causa &amp; principalis propter 
+        <lb ed="#Ba" n="8"/>quam scientia dicenda est sapientia. Secundum quod dicit philosophus. i. Metaphysicae. Arbitramur (inquit) certiorem &amp; 
+        <lb ed="#Ba" n="9"/>doctissimum causarum sapientiorem esse circa omnem scientiam. Certissimae autem scientiarum, maxime 
+        <lb ed="#Ba" n="10"/>primorum sunt. Scire enim &amp; intelligere maxime propter has. Propter enim haec &amp; ex his alia co- 
+        <lb ed="#Ba" n="11"/>gnoscuntur. Et cum hoc quod scientia dicitur sapientia quia est causarum altissimarum: ex hoc maxime dicen 
+        <lb ed="#Ba" n="12"/>da est sapientia quod considerat causam quae est finis: &amp; bonum vltimum: cuius gratia agendum est vnum 
+        <lb ed="#Ba" n="13"/>quodque: &amp; verum primum, quid est causa cognoscendi vnumquodque. Secundum quod de primo dicitur. i. Metaphysi 
+        <lb ed="#Ba" n="14"/>cae. Antiquissima scientia &amp; principalis cognoscens est cuius cam est agendum vnumquodque. Hoc autem est bonum 
+        <lb ed="#Ba" n="15"/>vniuscuiusque: omnino autem in natura potissimum omnium. De secundo dicitur. ii. Metaphysicae. Rectum est vocare 
+        <lb ed="#Ba" n="16"/>scientiam veritatis philosophiae philosophiam speculatiuam. Finis enim scientiae speculatiuae est veritas. ex quo conse 
+        <lb ed="#Ba" n="17"/>quenter contingit quod huiusmodi scientiae necesse est esse principia quae sunt semper in fine veritatis:  
+        <lb ed="#Ba" n="18"/>neque habent causam in esse vera, sed sunt causa in hoc aliarum rerum. Vnde &amp; de vtroque dicit 
+        <lb ed="#Ba" n="19"/>
+       <name>Augustinus</name> simul in libro suo de Aca. Dico, inquit, haec maxime esse consideranda: initium veri &amp; 
+        <lb ed="#Ba" n="20"/>finem bonorum: nec sapientem esse qui aut cognoscendi initium ignorat: aut extremum expetendi 
+        <lb ed="#Ba" n="21"/>vt aut vnde proficiscat ur a ut quo perueniendum sit, nesciat. Et quod ob hanc causam scientia debeat 
+        <lb ed="#Ba" n="22"/>dici sapientia: quia. scilicet considerat primas causas &amp; altissimas, specialius inspiciendo: patet dupli 
+        <lb ed="#Ba" n="23"/>citer. Primo, ex conditionibus sapientis simpliciter. Secundo ex conditionibus sapientis alicuius 
+        <lb ed="#Ba" n="24"/>in aliquo genere scientiae particularis. Primo enim patet ex sapiente simpliciter: quia omnes con 
+        <lb ed="#Ba" n="25"/>ditiones: secundum quas describit philosophus sapientem &amp; sapientiam simpliciter: conueniunt ei ex hoc quod con 
+        <lb ed="#Ba" n="26"/>siderat causas primas &amp; altissimas. lta quod prima conditio sapientis est scire omnia quodammodo per vniversalem 
+        <lb ed="#Ba" n="27"/>scientiam: &amp; secunda difficilia homini: &amp; tertia quod debet esse certior &amp; doctissimus causarum: &amp; quaerta quod eius 
+        <lb ed="#Ba" n="28"/>scientia suiipsius cam est: &amp; quinta quod eius non est famulare, sed famulari: ordinare: non ordinari: suadere 
+        <lb ed="#Ba" n="29"/>non suaderi. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e286">
+        ⁋ Secundo similiter patet idem ex sapiente particulari: quia quod aliquis sapiens dicitur in sua fa- 
+        <lb ed="#Ba" n="30"/>cultate: hoc convenit ei ex certitudine scientiae quam habet de re: &amp; cognitione causae in illa facul 
+        <lb ed="#Ba" n="31"/>tate. Semper enim in eodem genere scientiae sapientior dicitur sciens causam quam ignorans eam. secundum  
+        <lb ed="#Ba" n="32"/>quod dicit philosophus. i. Metaphysicae: quod artifices sapientiores expartis sunt: &amp; manu artifice architector: quia 
+        <lb ed="#Ba" n="33"/>hi causas sciunt: illi autem non: quia enim sciunt, sed propter quid nesciunt. &amp; inter scientes cau 
+        <lb ed="#Ba" n="34"/>sas semper sapientior dicitur qui priores causas nouit: siue in eodem genere scientiae: siue in 
+        <lb ed="#Ba" n="35"/>diuerso. secundum quod secundum philosophum speculatiuus sapientior dicitur actiuo. Et est aduertendum quod scientia 
+        <lb ed="#Ba" n="36"/>non dicitur sapientia ex certitudine causarum quas considerat: certitudine dico considerata 
+        <lb ed="#Ba" n="37"/>ex parte scientis: quae causatur ex euidentia sibi facta apud intellectum de re scita: Sed certitu 
+        <lb ed="#Ba" n="38"/>dine considerata ex parte rei scitae: quia. scilicet principia prima quae considerat certissima sunt quantum est de 
+        <lb ed="#Ba" n="39"/>se in sua veritate: quia prima sunt. Et ideo sunt in hoc causa veritatis aliorum: vt dicitur. ii. 
+        <lb ed="#Ba" n="40"/>Metaphysicae. licet propter suam abstractionem &amp; debilitatem nostri intellectus: qui euidentiam illorum 
+        <lb ed="#Ba" n="41"/>non potest attingere, nobis siue sapienti in ea non possunt esse notissima: secundum quod dicitur ibidem 
+        <lb ed="#Ba" n="42"/>quod manifestissima in sua natura sunt difficilis cognitionis in veritate sua, non propter se: sed pro 
+        <lb ed="#Ba" n="43"/>pter nos: quia dispositio intellectus nostri ad ipsa est similis dispositioni oculorum vespertilionis 
+        <lb ed="#Ba" n="44"/>ad lucem solis. nisi enim sic esset, prima philosophi. scilicet metaphysica: inter scientias philosophicas non diceretur 
+        <lb ed="#Ba" n="45"/>sapientia. Non enim philosophus habet certissimam scientiam quantum est ex parte euidentiae sibi factae de sci- 
+        <lb ed="#Ba" n="46"/>bilibus in illa scientia: quoniam euidentiam multo maiorem habet mathematicus de scibili suae scientiae 
+        <lb ed="#Ba" n="47"/>Et ideo ratione illa mathematica deberet dici sapientia potius quam metaphysica: quod falsum est. 
+        <lb ed="#Ba" n="48"/>Sed philosophus certissimas causas considerat quantum est ex parte rei scitae: &amp; ideo super omnes scientias 
+        <lb ed="#Ba" n="49"/>philosophicas sua scientia sapientia dicitur. Quare cum theologia considerat causas altissimas &amp; profundio 
+        <lb ed="#Ba" n="50"/>ra &amp; altiora circa illas quam scientia humana posset attingere: &amp; maxime circa illam causam quae deus 
+        <lb ed="#Ba" n="51"/>est: quid &amp; causarum &amp; omnium est principium. vt dicitur. i. Metaphysicae, quam summe considerat vt est primum prin 
+        <lb ed="#Ba" n="52"/>cipiu omnium: omne ens inquantum verum producendo in esse a prima veritate quae ipse est: &amp; vt 
+        <lb ed="#Ba" n="53"/>est omnium finis vltimus: omne ens inquantum bonum, in bonum vltimum quod ipse est reducendo  
+        <lb ed="#Ba" n="54"/>quo ad bene esse. Circa enim deum theologus considerat non solum quae circa eum philosophus ex creaturis potuit 
+        <lb ed="#Ba" n="55"/>cognoscere: sed etiam illa quae ipsi deo soli nota erant naturaliter de se: quae nec supremus ange- 
+   <!--102.xml-->
+        <pb ed="#Ba" n="44-r"/>
+        <lb ed="#Ba" n="1"/>lus cognitione naturali potest attingere: quae nobis reuelauit per spiritum sanctum, &amp; in hac sacra scien- 
+        <lb ed="#Ba" n="2"/>tia sunt conscripta. Secundum quod dicit Apo. i. Cor. ii. Loquimur sapientiam dei in ministerio: quae abscon- 
+        <lb ed="#Ba" n="3"/>dita est: quam praedestinauit deus ante secula in gloriam nostram: quam nemo principum huius seculi 
+        <lb ed="#Ba" n="4"/>nouit. Sicut scriptum est: Quod oculus non vidit, nec auris audiuit, nec in cor hominis ascendit: quae 
+        <lb ed="#Ba" n="5"/>praeparauit deus diligentibus se. Nobis autem reuelauit deus per spiritum suum. Spiritus enim scru- 
+        <lb ed="#Ba" n="6"/>tatur omnia etiam profunda dei. Quis enim scit hominum quae sunt hominis: nisi spiritus hominis: ita quod  
+        <lb ed="#Ba" n="7"/>quae dei sunt nemo cognoscit: nisi spiritus dei: nos autem non spiritum huius mundi accepimus: sed  
+        <lb ed="#Ba" n="8"/>spiritum qui ex deo est: vt sciamus quae a deo donata sunt nobis: quae &amp; loquimur, non in do 
+        <lb ed="#Ba" n="9"/>ctis humanae sapientiae verbis: sed in doctrina spiritus. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e370">
+        <lb ed="#Ba" n="10"/>⁋ Absolute ergo dicendum: quod theologia vere &amp; proprie debet dici sapientia super 
+        <lb ed="#Ba" n="11"/>omnes scientias humanas: non obstante quod minorem habet euidentiam de suo scibili quam scientiae philosophicae de 
+        <lb ed="#Ba" n="12"/>suo. Cui concordat Auicen qui describens sapientiam dicit in primo Metaphysicae. Sapientia est ex- 
+        <lb ed="#Ba" n="13"/>cellentior scientia ad sciendum id quod est excellentius scitum: &amp; est prima causarum totius. Hinc de 
+        <lb ed="#Ba" n="14"/>hac scientia dicitur Deuter. iiii. Haec est sapientia nia &amp; intellectus coram populis. Respectu ergo huius 
+        <lb ed="#Ba" n="15"/>sapientiae omnis alia notitia absolute scientia debet dici: quaecumque enim aliquorum contentorum sub 
+        <lb ed="#Ba" n="16"/>nomine communi res communis per aliquam praerogatiuam conuenit vni illorum, illi appropriatur nomen 
+        <lb ed="#Ba" n="17"/>quod praerogatiua exprimit: &amp; alteris reseruatur nomen commune. sicut nomen accidentis simplicitei 
+        <lb ed="#Ba" n="18"/>tenet omne accidens quod a conmunibus principiis subiecti causatur. Quod vero causatur a principiis propriis 
+        <lb ed="#Ba" n="19"/>subiecti: nomine appropriato dicitur proprium: licet manat de genere accidentium sicut dicit Boe thius. 
+        <lb ed="#Ba" n="20"/>Vnde omnia ea quae dicitr philosophus in commendationem suae sapientiae: multo verius possumus dicere in commenda 
+        <lb ed="#Ba" n="21"/>tionem huius niae sapientiae: videlicet quod haec sola scientiarum libera est: &amp; iuste non humana reputatur 
+        <lb ed="#Ba" n="22"/>nec huiusmodi aliam est congruum aestimare honorabiliorem: diuina enim est &amp; honorabilissima &amp; dea 
+        <lb ed="#Ba" n="23"/>scientiarum. Vbi &amp; per hoc sapientiam suam commendando signauit istam: cum continue subiuxit: Etsi qua alia 
+        <lb ed="#Ba" n="24"/>diuinorum sit: &amp; hanc talem aut solus aut maxime deus habet. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e405">
+        ⁋ Ad primum in oppositum: quod theo- 
+        <lb ed="#Ba" n="25"/>logia sua principia supponat ab alio: dicendum quod si principia sua supponit ab alio: hoc non est 
+        <lb ed="#Ba" n="26"/>ab alia scientia: quia hoc derogaret sapientiae: sed quod ea supponit, hoc est a solo deo auctore huius 
+        <lb ed="#Ba" n="27"/>scientiae. Vnde sicut prima philosophia sua principia supponit ex testimonio naturalis rationis: cuius est 
+        <lb ed="#Ba" n="28"/>illam scientiam inuestigare: Sic ista supponit sua principia ex testimonio dei: cuius est eam reuela 
+        <lb ed="#Ba" n="29"/>re: nec hoc in aliquo dignitati sapientiae derogat. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e418">
+        ⁋ Ad secundum: quod ista scientia non potest probare 
+        <lb ed="#Ba" n="30"/>principia aliarum scientiarum: dicetur infra in quaestione de principalitate huius scientiae super alias. vbi 
+        <lb ed="#Ba" n="31"/>argumentum hoc magis habet locum quam hic. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e425">
+        ⁋ Ad tertium: quod ista est scientia fidei: quae non pertinet ad 
+        <lb ed="#Ba" n="32"/>sapientiam: dicendum quod in fide tria considerantur: scilicet habitus fidei: &amp; modus sciendi siue cognoscendi 
+        <lb ed="#Ba" n="33"/>per fidem: &amp; ipsum creditum siue obiectum fidei. Primo modo fides pertinet ad scientiam: non ad sapientiam: in  
+        <lb ed="#Ba" n="34"/>quantum. scilicet fides est temporale quid: non aeternum. Et similiter secundo modo inquantum. scilicet est propter suam imperfectionem 
+        <lb ed="#Ba" n="35"/>euacuabilis. Tertio modo partim pertinet ad scientiam: inquantum. scilicet est de temporalibus partim vero ad sapientia. scilicet 
+        <lb ed="#Ba" n="36"/>inquantum est de aeternis. Et quo ad hoc aliqui solebant dicere quod ista scientia, partim est sapientia 
+        <lb ed="#Ba" n="37"/>partim scientia: quod verum est: considerando haec &amp; illa, temporalia. scilicet &amp; aeterna in se &amp; absolute. Sed non 
+        <lb ed="#Ba" n="38"/>sic cadit consideratio temporalium in hac scientia: sed solum inquantum habent ordinari ad aeterna: &amp; sunt proptei 
+        <lb ed="#Ba" n="39"/>considerationem aeternorum. secundum quod hoc declarat <name ref="#Augustine">Augustinus</name> xiii. de ciui. in exemplo. d. Sapientia diuinis, 
+        <lb ed="#Ba" n="40"/>Scientia humanis, attributa sit vtrumque agnosco in Christo in eo quid scriptura dicit. Verbum caro 
+        <lb ed="#Ba" n="41"/>factum est. In verbo intelligo dei filium: in carne agnosco verum hominis filium: in rebus per tempus or- 
+        <lb ed="#Ba" n="42"/>tis homo coniunctus est deo: in rebus vero aeternis summa veritas attribuitur dei filio. &amp; sequitur 
+        <lb ed="#Ba" n="43"/>Scientia ergo nostra Christus est: Sapientia quoque nostra idem Christus est. per ipsum pergimus ad  
+        <lb ed="#Ba" n="44"/>ipsum: tendimus per scientiam ad sapientiam. Inquantum ergo temporalium consideratio non est in hac scientia:  
+        <lb ed="#Ba" n="45"/>nisi in relatione ad aeterna, tota sapientiae consideratio est: secundum quod etiam in prima philosophia consideratio 
+        <lb ed="#Ba" n="46"/>substantiae sensibilis est propter considerationem quiditatis substantiae aeternae separatae. 
+      </p>
+      <p xml:id="vn58an-d1e566-d1e463">
+        ⁋ Ad quartum: 
+        <lb ed="#Ba" n="47"/>quod ista scientia non est suiipsius gratia. Dicendum quod proprie loquendo nulla scientia vt scientia est suiipsius 
+        <lb ed="#Ba" n="48"/>gratia. Notitia enim suprema quae erit in patria per veritatem in intellectu, ordinatur ad fruitionem boni 
+        <lb ed="#Ba" n="49"/>per amorem in affectiua: vt aliquando videbitur cum fuerit sermo opportunus de hoc. Omnis 
+        <lb ed="#Ba" n="50"/>etiam notitia huius ad scientiam vitae futurae ordinari debet. Vnde philosophus dicens quod sci- 
+        <lb ed="#Ba" n="51"/>re sapientiae est suiipsius gratia: vel loquitur deiscire ex pura ratione naturali &amp; perfectione 
+        <lb ed="#Ba" n="52"/>quam potest attingere homo ex puris naturalibus: &amp; verum est quod vltra scire nihil perfectius 
+        <lb ed="#Ba" n="53"/>pot est attingere homo pura vi naturalis rationis: vel si intendit quod vltima perfectio hominis 
+        <lb ed="#Ba" n="54"/>in illo scire consistit: errat nihil sentiens de scientia ista: ad quam ordinari debet omnis scientia philoso 
+   <!--103.xml-->
+        <pb ed="#Ba" n="44-v"/>
+        <lb ed="#Ba" n="1"/>phica: quae etiam absolutem non est suiipsius gratia nec propter se: sed ordinata ad istam: &amp; me- 
+        <lb ed="#Ba" n="2"/>diante ista ad claram notitiam patriae: quae non erit ad vlteriorem scientiam ordinanda. Et ideo ve 
+        <lb ed="#Ba" n="3"/>rissime quo ad hoc: scientia ista suiipsius gratia dicenda est esse &amp; propriissime sapientia: inquam 
+        <lb ed="#Ba" n="4"/>tum non est vlterior scientia expectanda in hac vita. Absolute autem sapientia solum potest dici 
+        <lb ed="#Ba" n="5"/>caelestis vitae contemplatio: quae altiora speculatur de primo principio quam capere non potest hu- 
+        <lb ed="#Ba" n="6"/>mana aestimatio. respectu cuius ista scientia, &amp; quaelibet alia vix absoluto nomine scientiae me- 
+        <lb ed="#Ba" n="7"/>retur appellari: sicut sapiens huius sapientiae respectu illius sapientiae verius stultus quam sapiens 
+        <lb ed="#Ba" n="8"/>reputandus est: Secundum quod dicit Origenes super illud Exo. iiii. Non sum eloquens ex quo locu- 
+        <lb ed="#Ba" n="9"/>tus es ad seruum tuum. Dum esset Moyses in Aegypto: &amp; erudiretur omni sapientia Aegyptiorum: 
+        <lb ed="#Ba" n="10"/>nec profitebatur se eloquentem. Erat enim quantum ad Aegyptios eloquentiae incomparabilis. Vbi vocem 
+        <lb ed="#Ba" n="11"/>dei audiuit: cum incepit cognoscere verbum quod erat in principio apud deum: se pronunciat mutun: 
+        <lb ed="#Ba" n="12"/>Mutis enim animalibus quamuis indoctus homo comparetur eloquens videbitur. Si vero eruditis &amp; elo 
+        <lb ed="#Ba" n="13"/>quentibus stultus &amp; mutus. At si quis dei verbum &amp; diuinam respiciat sapientiam: multo amplius 
+        <lb ed="#Ba" n="14"/>quam apud nos pecudes, apud deum mutum se animal profitebitur. Vnde &amp; bene dixit propheta sapien 
+        <lb ed="#Ba" n="15"/>tissimus in Philiso. Vt iumentum factus sum apud te. Sed quia per intellectum huius scientiae notitia illius 
+        <lb ed="#Ba" n="16"/>scientiae quodammodo inchoatur: vnde quodammodo etiam ex comparatione ad illam sapientiam: haec 
+        <lb ed="#Ba" n="17"/>potest dici sapientia: quae tamen respectu cuiuslibet alterius scientiae huius vitae verissime sa- 
+        <lb ed="#Ba" n="18"/>pientia dicenda est. Vnde definitio illa sapientiae: quae scribitur. i. de Acadeca. <name ref="#Augustine">Augustinus</name> verissime huic sapiem 
+        <lb ed="#Ba" n="19"/>tiae conuenit. Dicit enim ibi <name ref="#Augustine">Augustinus</name> Sapientia mihi videtur rerum humanarum &amp; diuinarum quae ad beatam 
+        <lb ed="#Ba" n="20"/>vitam pertinent: non solum scientia, sed &amp; diligens inquisitio: vt homo quantum potest in deum tram 
+        <lb ed="#Ba" n="21"/>quillius tendat: &amp; extremo vitae die ad id quod concupiuit adipiscendum reperiatur paratus: frua 
+        <lb ed="#Ba" n="22"/>turque merito diuina beatitudine qui ante sit humana perfruitur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="136-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1737"> <!-- alias="vn58an-a24q1" -->
+      <head xml:id="vn58an-d1e1737-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1737-Hd1e107" type="question-title">Utrum quiditas Dei sit cognoscibilis a nobis</head>
+      <p xml:id="vn58an-d1e1737-d1e110">
+        <lb ed="#Ba" n="45"/>CIrca primum arguitur, quod quid sit deus, sit a nobis cognoscibile. Primo sic. <name ref="#Augustine">Augustinus</name> dicit 
+        <lb ed="#Ba" n="46"/>xiiii. de trinitate. Mens eo est imago dei: quo capax est, vel capax potest esse. Capax autem  
+        <lb ed="#Ba" n="47"/>eius est per cognitionem. vt exponitur in lii. de spiritu &amp; anima. Est autem imago dei:  
+        <lb ed="#Ba" n="48"/>non quo aliquid est simpliciter: quo ad hoc enim omnis creatura est simile deo:  
+        <lb ed="#Ba" n="49"/>&amp; eius vestigium: vt dicitur. lxxxiii, quod ausidiet. sed ratione quod quod est in eo scilicet ratione vnita 
+        <lb ed="#Ba" n="50"/>tis essentiae &amp; trium personarum. Dixit enim deus trinus &amp; vnus illud Gen. i. Ea 
+        <lb ed="#Ba" n="51"/>ciamus hominem ad imaginem &amp; similitudinem nostram. vt exponunt <name ref="#Augustine">Augustinus</name> &amp; Hila. ergo deus ratio 
+        <lb ed="#Ba" n="52"/>ne eius quod quid est in eo, capax est ab homine per cognitionem. 
+      </p>
+      <p xml:id="vn58an-d1e1737-d1e136">
+        ⁋ Secundo sic. Non amatur nisi cogni 
+        <lb ed="#Ba" n="53"/>tum: sed contingit hominem amare diuinam essentiam. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1737-d1e142">
+        ⁋ Tertio sic. Non contingit cognoscere 
+        <lb ed="#Ba" n="54"/>de aliquo si est: nisi aliquo modo cognoscendo de eo quid est, vt infra declarabitur. de deo contingit 
+   <!--288.xml-->
+        <pb ed="#Ba" n="137-r"/>
+        <lb ed="#Ba" n="1"/>hominem cognoscere est, vt supra declaratum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1737-d1e153">
+        ⁋ In oppositum est <name ref="#JohnDamascenus">Damascenus</name> qui dicit 
+        <lb ed="#Ba" n="2"/>li. i. ca. ii. Quid est dei substantia, ignoramus: &amp; dicere non possumus. Et ca. iiii. Quoniam est quid, ma 
+        <lb ed="#Ba" n="3"/>nifestum est: quid autem est secundum substantiam &amp; naturam, incomprehensibile hoc &amp; ignotum. 
+      </p>
+      <p xml:id="vn58an-d1e1737-d1e163">
+        ⁋ Item Greg. 
+        <lb ed="#Ba" n="4"/>super Exe. Quantuncumque mens in contemplatione profecerit, non ad id quod ipse est: sed ad aliquod quod sub 
+        <lb ed="#Ba" n="5"/>ipso est peruenit. 
+      </p>
+      <p xml:id="vn58an-d1e1737-d1e170">
+        <lb ed="#Ba" n="6"/>⁋ Dicendum ad hoc: quod quid est de re aliqua dupliciter habet cognosci. Vno modo  
+        <lb ed="#Ba" n="7"/>sciendo eius definitiuam rationem: quia secundum philosophum, definitio est sermo quiditatis &amp; essentiae. Alio 
+        <lb ed="#Ba" n="8"/>modo habendo naturae qua res est id quod est, immediatam in natura definiti notionem. Primo modo quidi-  
+        <lb ed="#Ba" n="9"/>tas solum habet cognosci in habentibus definitionem: quam deus habere non potest, vt dictum est: quia omnis 
+        <lb ed="#Ba" n="10"/>definitio habet partes easdem cum partibus rei definitae. secundum philosophum. vii. Metaph. Deus autem simplex 
+        <lb ed="#Ba" n="11"/>&amp; purum esse est, vt dictum est supra. Si ergo dei quiditas cognoscatur: hoc sit cognoscendo natu 
+        <lb ed="#Ba" n="12"/>ram eius qua est id quod est: qui solum vere est id quod est. Sed vt dicit <name ref="#Augustine">Augustinus</name> ser. ii. super Ioan. Quid 
+        <lb ed="#Ba" n="13"/>est quod est, nisi quod transcendit omnia quae sic sunt quod non sint: Quis ergo capit aut quis quocumque intenderit 
+        <lb ed="#Ba" n="14"/>vires suas, vt attingat quomodo potest id quod est: certe rarus est valde. secundum quod dicitur li. ii. de ordi 
+        <lb ed="#Ba" n="15"/>ne. Ratio est mentis motio, quae ducere ad deum intelligendum: rarissimum omnino genus hominum potest. Et 
+        <lb ed="#Ba" n="16"/>ideo propter excessum intelligibilis increati super omnem intellectum creatum, dicebant aliqui quod deus 
+        <lb ed="#Ba" n="17"/>in sua quiditate &amp; natura a nulla creatura cognosci aut videri posset: sicut sol propter excellentiam 
+        <lb ed="#Ba" n="18"/>lucis visibilis in eo a debili visu vespertilionis omnino videri non potest. Vnde dixit lonenes Scotus 
+        <lb ed="#Ba" n="19"/>Commen. Angelicae Hier. quod solum in quibusdam Theophaniis a creatura rationali videretur diuina essen 
+        <lb ed="#Ba" n="20"/>tia &amp; cognosceretur: quae obumbrarent suam essentiam sicut sol in nube: non in se nude. Non oportet sic dicere:  
+        <lb ed="#Ba" n="21"/>quia non valet simile: quoniam sol quantum est de se: est de necessitate visibile representans se in toto 
+        <lb ed="#Ba" n="22"/>suo fulgore: non potens se per se contemperare videnti. Et ideo oportet quod per aliud vt per nubem contem 
+        <lb ed="#Ba" n="23"/>peretur. Quiditas autem diuina nulla necessitate: sed sua mera voluntate visibilis est creaturae. 
+        <lb ed="#Ba" n="24"/>Secundum. quod dicit <name ref="#Augustine">Augustinus</name> de videndo deum: ad Paulinum. In eius voluntate situm est videri: cuius natu- 
+        <lb ed="#Ba" n="25"/>rae est non videri. Nam si non vult, non videtur: Si vult videtur. Et ideo potest deus ipse suam essentiam co 
+        <lb ed="#Ba" n="26"/>gnoscenti contempare sine medio, vt videatur. Sicut sol contemperatur mediante nube. secundum quod dicit Dio. 
+        <lb ed="#Ba" n="27"/>i. de di. no. Bonum diuinum secundum significationem non est nobis incommunicabile: quia cuilibet nostrum pro 
+        <lb ed="#Ba" n="28"/>portionatum se immittit. 
+      </p>
+      <p xml:id="vn58an-d1e1737-d1e229">
+        ⁋ Sed tunc vtrum cognoscibile sit de deo quid sit, in vita ista, de hoc est totum 
+        <lb ed="#Ba" n="29"/>pondus quaestionis. Et videtur forte pluribus dicendum: quod in vita ista quid sit omnino cognosci non pos- 
+        <lb ed="#Ba" n="30"/>sit: sed solum quid non est. Secundum quod videtur sentire <name ref="#JohnDamascenus">Damascenus</name> cum dicit in primo sententiarum suarum. Quid  
+        <lb ed="#Ba" n="31"/>est dei substantia: vel quod est secundum substantiam ignoramus, &amp; dicere non possumus. Incomprehensibile omnino 
+        <lb ed="#Ba" n="32"/>hoc: &amp; ignotum. Quod declarare videtur tam in eis quae cognoscuntur de deo priuatiue, quam in eis quae de ipso co- 
+        <lb ed="#Ba" n="33"/>gnoscuntur positiue. De primis dicit. Incorporeum esse deum, hoc substantiae eius demonstratiuum, neque  
+        <lb ed="#Ba" n="34"/>ingenerabile: &amp; sine principio &amp; inalterabile &amp; incorruptibile: &amp; quaecumque talia de deo &amp; circa deu 
+        <lb ed="#Ba" n="35"/>esse dicuntur: haec non quid est significant: sed quid non est. Oportet autem eum qui vult substantiam alicuius dicere, quid  
+        <lb ed="#Ba" n="36"/>est enunciare: non quid non est. Veruntam in deo quod est dicere: impossibile est secundum substantiam. Vnde cogni 
+        <lb ed="#Ba" n="37"/>tionem de deo quid non est principaliter inuestigandam esse docet: cum subdit. Eamiliarius autem ex omni 
+        <lb ed="#Ba" n="38"/>ablatione hominum facere rationem. Nihil enim eorum quae sunt est, non vt non ens: sed super omnia ens. &amp; hoc 
+        <lb ed="#Ba" n="39"/>solum est comprehensibile eius infinitas &amp; incomprehensibilitas. Sed hoc non videtur conveniens: quoniam negatio 
+        <lb ed="#Ba" n="40"/>eorum quae sunt circa creaturam inquantum huiusmodi: nihil ponit omnino entis: sed remouet quod est. Priuatio autem 
+        <lb ed="#Ba" n="41"/>&amp; quod non est, non est principium cognoscendi aliquod in ente: sed magis econverso. secundum quod dicit Auicen. 
+        <lb ed="#Ba" n="42"/>Esse notius est quam non esse. Esse enim cognoscitur per se: non esse vero cognoscitur per esse aliquo modo. Et ita 
+        <lb ed="#Ba" n="43"/>talia cognoscere de deo quae solum dicunt priuationem eorum quae habent esse in creaturis, si nihil aliud po 
+        <lb ed="#Ba" n="44"/>sitiue omnino cognoscamus de eo quod est secundum substantiam eius: quia non est nisi simplex esse: non est no-  
+        <lb ed="#Ba" n="45"/>bis omnino cognoscibile aliquid de eo: vt nihil plus dicamur scire de deo quid sit: quam scientiamus de homine 
+        <lb ed="#Ba" n="46"/>sciendo quod non est lapis: aut lignum: &amp; quod amplius est nec hoc quod non est posset circa ipsum cognosci: non 
+        <lb ed="#Ba" n="47"/>cognoscendo aliquo modo quid est: vt infra dicetur. Vnde cum vt dicit <name ref="#Augustine">Augustinus</name> de orando deum ad Probam, quid si 
+        <lb ed="#Ba" n="48"/>cuti est cognoscere non possumus: vtique nescimus: si igitur deum omnino quid sit nesciremus: omnino eum non  
+        <lb ed="#Ba" n="49"/>amaremus: quia inuisa diligere possumus: incognita nequaquam, vt dicit. vi. de trinitate neque etiam eum inuo-  
+        <lb ed="#Ba" n="50"/>caremus. Secundum quod dicitur in principio contf. Quis te inuocat nesciens te: Concedere ergo oportet quod 
+        <lb ed="#Ba" n="51"/>quiditatem dei hominem cognoscere est possibile quoquo modo. Secundum quod dicit <name ref="#Augustine">Augustinus</name> ser id est super Io Quid  
+        <lb ed="#Ba" n="52"/>factum est in corde tuo cum dicerem deus: magna &amp; summa quaedam substantia cognita est: quae transcen- 
+        <lb ed="#Ba" n="53"/>dit omnem mutabilem creaturam. hoc est verbum de deo in corde tuo. Sed ad tantillam cognitionem eius quod 
+        <lb ed="#Ba" n="54"/>quid est de deo deuenire, etsi summe est difficile: est tamen possibile: quoniam sic est in natura omnium rerum: 
+        <lb ed="#Ba" n="55"/>quod naturaliter ordinatum ad aliquam opeationem, debet habere a natura organa &amp; instrumenta: per quae  
+   <!--289.xml-->
+        <pb ed="#Ba" n="137-v"/>
+        <lb ed="#Ba" n="1"/>potest in opeationem suam procedere. Aliter enim esset frustra: quod non est ponere in aliqua rerum natura- 
+        <lb ed="#Ba" n="2"/>lium. Vnde dicit philosophus. ii. cael. &amp; mun. Quia extra rationem est: vt natura posuerit stellas mobiles: &amp; non 
+        <lb ed="#Ba" n="3"/>praeparauerit eis instrumenta motus. Et natura quidem non absque causa aliquid vacuum posuit. Homo autem 
+        <lb ed="#Ba" n="4"/>ordinatur ad speculandum deum: tamquam ad eius operationem optimam &amp; perfectissimam circa optimum &amp; perfectis- 
+        <lb ed="#Ba" n="5"/>simum speculabile: quia in tali opeatione consistit eius finalis: beatitudo. secundumlphilosophum in. x. Ethi. Propter quod 
+        <lb ed="#Ba" n="6"/>etiam determinat <name ref="#Augustine">Augustinus</name> xiiii. de trinitate in princip quod non dicitur anima imago dei ex eo quod capax est per intelligentiam 
+        <lb ed="#Ba" n="7"/>memoriam &amp; voluntatem suiipsius aut alicuius rei mutabilis: sed ex eo quod ipsius dei capax est. Specu 
+        <lb ed="#Ba" n="8"/>latio autem talis non est circa deum nisi inquantum deus est obiectum intellectualis cognitionis. Obiectum 
+        <lb ed="#Ba" n="9"/>autem intellectualis cognitionis circa quodcumque: non est nisi quod quod est in eo. ergo deus secundum suam essentiam: 
+        <lb ed="#Ba" n="10"/>&amp; quod quid est in eo, est obiectum speculationis &amp; intellectualis opeationis in homine, ad quam ordinatur. Debet 
+        <lb ed="#Ba" n="11"/>igitur homo habere in se organum: per quod potest in speculationem essentiae &amp; quiditatis dei per intellectualem opea 
+        <lb ed="#Ba" n="12"/>tionem procedere. Aliter enim ipse esset frustra. Illud autem organum non est nisi potentia intellectualis in eo: per  
+        <lb ed="#Ba" n="13"/>quam quiditatem &amp; essentiam dei potest cognoscere. Absolute igitur concedendum quod quiditas dei &amp; essentia ab  
+        <lb ed="#Ba" n="14"/>homine est cognoscibilis: non solum in futuro: quid solum videtur couincere declaratio habita: sed &amp; in preti. 
+        <lb ed="#Ba" n="15"/>Vnde &amp; Comment. exponens illud secundi Metaph. Dispositio intellectus in anima apud illud quod est in natu 
+        <lb ed="#Ba" n="16"/>ra valde manifestum, similis est dispositioni oculorum vespertilionis apud lucem solis. dicit quod difficultas compre 
+        <lb ed="#Ba" n="17"/>hensionis in rebus quae sunt in fine veritatis scilicet in primo principio: &amp; in principiis abstractis a mate 
+        <lb ed="#Ba" n="18"/>ria, est ex nobis &amp; defectu nostri: non ex illis. Et assimilauit virtutem intellectus in comprehendendo in  
+        <lb ed="#Ba" n="19"/>telligibilia abstracta debilissimo visui in comprehendendo maxime sensibile scilicet solem. Sed hoc non demon 
+        <lb ed="#Ba" n="20"/>strat res abstractas intelligere esse impossibile nobis: sicut inspicere solem est impossibile vesprtilioni. 
+        <lb ed="#Ba" n="21"/>Monstrat autem possibilitatem cognoscendi ipsum desiderium naturale sciendi verum, quid cessare non potest quo  
+        <lb ed="#Ba" n="22"/>usque deueniat in cognitionem perfectam primi veri. vt dictum est supra. cuius cognitionem perfectam nullo 
+        <lb ed="#Ba" n="23"/>modo in praesenti desideraret: nisi aliquo modo etiam in praesenti percipeet: vt iam dictum est. Vnde per hoc quod modo no 
+        <lb ed="#Ba" n="24"/>uit homo modicum: excitatur ad maximum. Propter quod dicit <name ref="#Augustine">Augustinus</name> in princ. cons. Eecisti nos ad te: &amp; in  
+        <lb ed="#Ba" n="25"/>quietum est cor nostrum donec quiesca: in te. &amp; de videndo deum. Desiderium veraciter piorum: quo vide 
+        <lb ed="#Ba" n="26"/>re deum cupiunt: &amp; inhianter inardescunt: non (vt opinor) in eam speciem contuendam fiagrat: qua vt 
+        <lb ed="#Ba" n="27"/>vult apparet quod ipse non est: sed in eam substantiam qua ipse est quod est: quam videre desiderauit Moyses 
+        <lb ed="#Ba" n="28"/>cum dixit. Si inueni gratiam coram te: ostende mihi temetipsum. Quantum autem &amp; quom cognoscibile est de 
+        <lb ed="#Ba" n="29"/>deo quod quid est in praesenti: iam consequentur videbitur. 
+      </p>
+      <p xml:id="vn58an-d1e1737-d1e373">
+        ⁋ Secundum iam dicta igitur concedenda sunt prima duo obiecta. 
+      </p>
+      <p xml:id="vn58an-d1e1737-d1e377">
+        <lb ed="#Ba" n="30"/>⁋ Ad obiectum in contrarium pro Damais. dicendum quod loquitur de aliquo modo speciali co 
+        <lb ed="#Ba" n="31"/>gnoscendi dei quiditatem: non autem de omni. Aliquis enim aliquo modo est possibilis in paenreti: &amp; aliquis in futuro: &amp; 
+        <lb ed="#Ba" n="32"/>alius nullo modo vt in sequenti. quod patebit. 
+      </p>
+      <p xml:id="vn58an-d1e1737-d1e386">
+        ⁋ Similiter ad dictum Greg. Dicendum quod idcirco dicit illud: quoniam quicquid  
+        <lb ed="#Ba" n="33"/>hic intelligimus de deo, sub aenigmate &amp; velamine creaturae intelligimus, vt infra videbimus. Et quoad  
+        <lb ed="#Ba" n="34"/>hoc quod intelligimus de eo in paneti: l sit eius quiditas: est tamen sub intellectu nudae quiditatis. vt infra patebit.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="238-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe65061"> <!-- alias="vn58an-a70q1" -->
+      <head xml:id="vn58an-fe65061-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe65061-d1e107">
+        <lb ed="#Bb" n="17"/>CIrca primum arguitur quod in diuinis non sit aequalitas, Pr 
+        <lb ed="#Bb" n="18"/>mo sic. aequalitas sequitur quantitatem secundum superius 
+        <lb ed="#Bb" n="19"/>leterminata. sed in diuinis non est quantitas, quia nec 
+        <lb ed="#Bb" n="20"/>umerus nec magnitudo, in quae diuiditur quantitas 
+        <lb ed="#Bb" n="21"/>ad quas omnes aliae quantitates habent reduci, vt ora 
+        <lb ed="#Bb" n="22"/>o ad numerum, tempus &amp; locus ad magnitudinem, non  
+        <lb ed="#Bb" n="23"/>est autem in diuinis numerus, quia secundum Boethium 
+        <lb ed="#Bb" n="24"/>iiii. in deo nullus est numerus. &amp; si non numerus, nec magni 
+        <lb ed="#Bb" n="25"/>ditionem ad numerum, sicut punctus ad vnitatem, secundum Phi 
+        <lb ed="#Bb" n="26"/>sophum. iii. physicae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e131">
+        ⁋ Dicet aliquis, quod licet quantitas secundum genus non habeat esse in deo, nec 
+        <lb ed="#Bb" n="27"/>nfferri a creaturis ad diuina: aliquae tamen species quantitatis secundum proprias rationes specierum 
+        <lb ed="#Bb" n="28"/>a creaturis habent transferri ad diuina, &amp; sic esse in deo, licet non secundum illum modum quo sunt 
+        <lb ed="#Bb" n="29"/>in creaturis. de quibus etiam secundum illum modum bene procedit argumentum, vt non intelligatur 
+        <lb ed="#Bb" n="30"/>dicere. <name ref="#Augustine">Augustinus</name> quod deus est sine quantitate magnus. Et sic licet in deo non sit aequalitas quae consequa- 
+        <lb ed="#Bb" n="31"/>tur quantitatem simpliciter, est tamen in eo aequalitas quae consequitur aliquam vel aliquas species eius. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e148">
+        ⁋ Sed  
+        <lb ed="#Bb" n="32"/>contra hoc est secundum quod dicit <name ref="#Aristotle">Philosophus</name> in praedicamentis, quod proprium est quantitati secundum eam 
+        <lb ed="#Bb" n="33"/>aequale vel inaequale dici. vt ideo non videatur hoc competere alicui speciei quantitatis nisi ratione 
+        <lb ed="#Bb" n="34"/>ipsius generis. Nunc autem ita est quod quando aliquid competit generi per se &amp; speciei ratione generis, si in  
+        <lb ed="#Bb" n="35"/>aliquo ponatur species esse &amp; non genus, in illo non conpetit ei illud quod conpetit ei ratione generis. pu 
+        <lb ed="#Bb" n="36"/>ta cum secundum <name ref="#Aristotle">Philosophum</name> aliqua dicuntur relatiue secundum genera eorum quae per se non dicuntur 
+        <lb ed="#Bb" n="37"/>relatiue: vt medicina, quia est scientia, &amp; scientia per se relatiue dicitur: si medicina in aliquo ponatur 
+        <lb ed="#Bb" n="38"/>esse absque genere suo quid est scientia, in illo non conuenit ei referri ad aliud. Quare cum non conueniat 
+        <lb ed="#Bb" n="39"/>speciei quantitatis secundum eam dici esse nisi ratione generis cuius est proprium: cum in deo sit species 
+        <lb ed="#Bb" n="40"/>quantitatis sine genere: quando deus est sine quantitate magnus: secundum illam ergo nequaquam habet esse 
+        <lb ed="#Bb" n="41"/>equalitas in deo. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e180">
+        ⁋ Si forte ad hoc dicatur secundum quod tactum est superius, quod non dicitur proprium quan-  
+        <lb ed="#Bb" n="42"/>titati secundum eam aequale vel inaequale dici, quasi hoc conveniat speciebus quantitatis non nisi per ge 
+        <lb ed="#Bb" n="43"/>nus earum, sicut non conuenit medicinae relatio nisi per scientiam quae est genus suum vt procedit ob 
+        <lb ed="#Bb" n="44"/>iectio: sed illud dicitur, quia speciebus solius quantitatis convenit quod secundum eas dicatur aequale vel in  
+        <lb ed="#Bb" n="45"/>equale, non autem secundum species alicuius praedicamenti: Contra hoc est ars illa Philosophi in lib. po 
+        <lb ed="#Bb" n="46"/>steriorum scilicet quod quando aliquid convenit pluribus, illud necessario convenit eis per aliquod commune in eis 
+        <lb ed="#Bb" n="47"/>cui convenit primo &amp; per se. Et dat exemplum de commutata proportione quae convenit numeris &amp; ma 
+        <lb ed="#Bb" n="48"/>gnitudinibus, &amp; ideo oportet quod eis conveniat per aliquod commune existens in eis, cui conuenit primo 
+        <lb ed="#Bb" n="49"/>&amp; per se, &amp; est proprium subiectum eius de quo demonstratur. Quare cum speciebus omnibus quantitatis 
+        <lb ed="#Bb" n="50"/>conueniat secundum eas aequale vel inaequale dici, hoc necessario convenit per aliquid commune existens 
+        <lb ed="#Bb" n="51"/>in illis cui illud conuenit primo &amp; per se. illud autem non est nisi quantitas, ergo &amp;c. Quare (vt supra) 
+        <lb ed="#Bb" n="52"/>si in deo est magnitudo secundum aliquam speciem quantitatis sine quantitate, secundum illam nequaquam 
+        <lb ed="#Bb" n="53"/>potest dici aequalitas esse in deo: &amp; eadem ratione neque secundum illam speciem, quia sicut species quam 
+        <lb ed="#Bb" n="54"/>titatis quae est magnitudo est in deo sine quantitate, eadem ratione &amp; quaelibet alia species quanti- 
+        <lb ed="#Bb" n="55"/>tatis quam contingit esse in deo. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e213">
+        ⁋ Secundo sic. secundum <name ref="#Augustine">Augustinus</name> vi. de Trini. ca. vii. &amp;. xv. lib. c. x. in diuinis an 
+   <!--491.xml-->
+        <pb ed="#Bb" n="238-v"/>
+        <lb ed="#Bb" n="1"/>omne: bsolutum siue quod ad se dicitur, siue quid secundum substantiam dicitur, &amp; substantiam significa 
+        <lb ed="#Bb" n="2"/>transitque in substantiam, quantitas quaecunque est in diuinis, absolutum est &amp; ad se dicitur: quia &amp; A 
+        <lb ed="#Bb" n="3"/>gust. dicit. v. de triniitate. cap. viii. In deo non dicimus tres essentias: nec tres magnitudines: sed vnam essen 
+        <lb ed="#Bb" n="4"/>tiam: vnam magnitudinem. Item ibidem cap. vi. Aequalitas secundum substantiam dicitur. ergo &amp;c 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e232">
+        <lb ed="#Bb" n="5"/>⁋ Tertio sic. si in deo est quantitas, illa non est nisi bonitatis &amp; virtutis, quia secundum <name ref="#Augustine">Augustinus</name> in si 
+        <lb ed="#Bb" n="6"/>ritualibus idem est maius esse quod melius esse: quare idem est magnum esse &amp; bonum esse, quia si ma 
+        <lb ed="#Bb" n="7"/>gis ad magis, &amp; simpliciter ad simpliciter. sed bonitas &amp; virtus in deo sicut &amp; in creaturis quaelitates potius 
+        <lb ed="#Bb" n="8"/>sunt quam quantitates. sed secundum qualitates aequale non dicitur sed simile. ergo &amp;c. Sed non est aequam 
+        <lb ed="#Bb" n="9"/>litas sine quantitate: quia secundum Philosophum. v. meta. vnum in quantitate facit aequale. ergo  
+        <lb ed="#Bb" n="10"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e251">
+        ⁋ Quarto sic. aequalitas non est alicuius nisi aut ad seipsum: aut ad alium. sed neutro modo est in  
+        <lb ed="#Bb" n="11"/>diuinis: quia aequalitas dicit commensurationem aequalium in quantitate. sed in deo nulla est omni- 
+        <lb ed="#Bb" n="12"/>no commensuratio in quantitate: neque alicuius ad seipsum: neque eius ad alium: quia quicquod est in deo 
+        <lb ed="#Bb" n="13"/>immensum est &amp; infinitum: &amp; in infinito nulla cadit omnino commensuratio: quare neque compara 
+        <lb ed="#Bb" n="14"/>tio secundum magis aut minus aut aequale secundum <name ref="#Aristotle">Philosophum</name> primo cae. &amp; mund. ergo &amp;c. 
+        <lb ed="#Bb" n="15"/>
+      </p>
+      <p xml:id="vn58an-fe65061-d1e268">
+        ⁋ Quinto sic. nulla priuatio est in diuinis, cum sit summe ens quicquid est in diuinis. dicente Au 
+        <lb ed="#Bb" n="16"/>gust. v. de triniitate. ca. ii. Quis magis est quam ille qui dicit famulo suo Moysi. Ego sum qui sum: &amp; cum in eo 
+        <lb ed="#Bb" n="17"/>nulla sit materia: non est autem priuatio nisi defectus in ente consequens materiam: aequalitas autem  
+        <lb ed="#Bb" n="18"/>priuationem dicit secundum Magistrum primo Sententiarum dist. xxxi. &amp; secundum <name ref="#Aristotle">Philosophum</name> 
+        <lb ed="#Bb" n="19"/>v. &amp;. x. meta. aequale opponitur priuatiue maiori &amp; minori: vnde aequale definitur per abnegationem 
+        <lb ed="#Bb" n="20"/>vtriusque cum dicitur quod aequale est quod neque maius neque minus est. ergo &amp;c 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e285">
+        ⁋ Sexto sic. secundum Apo 
+        <lb ed="#Bb" n="21"/>stolum primae Corinth. i. Christus est dei virtus &amp; dei sapientia, non autem nisi dei patris. Virtus autem  
+        <lb ed="#Bb" n="22"/>in diuinis si est quantitas est. nihil autem est aequale sine quantitate. sed per ipsam aliquid est aequale alte 
+        <lb ed="#Bb" n="23"/>ri: quia vtrumque aequalium oportet esse quantitatem vel habere quantitatem. ergo Christus filius pa- 
+        <lb ed="#Bb" n="24"/>tris non est aequalis patrii, quare nec alia aliqua sunt aequalia in diuinis: quia si non est aequalitas in illis:  
+        <lb ed="#Bb" n="25"/>nec in aliis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e299">
+        ⁋ In contrarium est illud quod dicit Athanasius in symbolo. Totae tres personae coaeter 
+        <lb ed="#Bb" n="26"/>nae sibi sunt &amp; coaequales. si coaequales, ergo aequales. sicut sequitur si sunt coaeternae, ergo sunt aeter 
+        <lb ed="#Bb" n="27"/>nae: &amp; hoc quo ad aequalitatem alicuius ad alterum. Quia vero in deo sit aequalitas alicuius ad seipsum 
+        <lb ed="#Bb" n="28"/>sicut &amp; identitas: arguitur primo sic. aequale vt dictum est sumitur per abnegationem eius quod est ma 
+        <lb ed="#Bb" n="29"/>gis siue maius &amp; minus. sed quodcumque in diuinis sicut est idem sibi: sic nec est maius nec minus sibi. er- 
+        <lb ed="#Bb" n="30"/>go est aequale sibi. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e312">
+        ⁋ Secundo sic. sicut se habet substantia ad identitatem: sic se habet quantitas ad  
+        <lb ed="#Bb" n="31"/>aequalitatem. sed ratione vnius substantiae dicitur aliquid idem sibi &amp; alteri: &amp; etiam alterum alteri, pu- 
+        <lb ed="#Bb" n="32"/>ta deitate dicitur deitas eadem sibi &amp; patri: &amp; etiam dicitur pater idem filio: quia deitas conuenit ei commu 
+        <lb ed="#Bb" n="33"/>niter cum patre. ergo ratione qualitatis vnius dicitur aliquid aequale sibi &amp; alteri: &amp; etiam alterum alteri. 
+        <lb ed="#Bb" n="34"/>
+      </p>
+      <p xml:id="vn58an-fe65061-d1e323">
+        ⁋ Dico quod clarum est inaequalitatem quae est secundum magis seumaius &amp; minus 
+        <lb ed="#Bb" n="35"/>in quantitate, nullo modo posse poni esse in diuinis. &amp; hoc quia si in diuinis est quantitas, in eis non est 
+        <lb ed="#Bb" n="36"/>nisi vna quantitas numero in pluribus: &amp; hoc siue secundum rem siue secundum rationem illa sint plura: &amp; qua  
+        <lb ed="#Bb" n="37"/>liscunque fuerit illa quantitas. &amp; hoc quia quantitas quaecunque in diuinis est id quod est ipsa diuina essentia. 
+        <lb ed="#Bb" n="38"/>dicente <name ref="#Augustine">Augustinus</name> v. de triniitate. cap. x, Deus est magnus magnitudine quae ipse est. &amp;. xi. de triniitate. dicit Deum esse 
+        <lb ed="#Bb" n="39"/>magnum &amp; ipsam magnitudinem. Essentia autem diuina non nisi vnica numero singularitatis po 
+        <lb ed="#Bb" n="40"/>test esse in diuinis. Inaequale autem secundum magis seu maius &amp; minus non potest esse vbi est tantum vna 
+        <lb ed="#Bb" n="41"/>quantitas numero, sicut nec nisi vna deitas. Hinc enim dicit <name ref="#Boethius">Boethius</name>  de triniitate. cap. i. Eos differentia con 
+        <lb ed="#Bb" n="42"/>comitatur qui eam vel augent vel minuunt: vt Arriani, qui gradibus trinitatem variantes distrahunt at 
+        <lb ed="#Bb" n="43"/>quod in pluralitatem deducunt Commen id ist non modo personalium proprietatum verum etiam natura 
+        <lb ed="#Bb" n="44"/>rum numero distinguunt, dicentes solum patrem veritate essentiae deum: filium vero creaturam: &amp; 
+        <lb ed="#Bb" n="45"/>spiritum sanctum creaturam creaturae. Sed etsi non sit possibilis inaequalitas in diuinis: non tamen ex 
+        <lb ed="#Bb" n="46"/>hoc statim sequitur quod in eis aequalitas: quia forte neutrum illorum diuinis natum est inesse: sicut lapidi 
+        <lb ed="#Bb" n="47"/>nec visio nec priuatio eius quae est caecitas. Sed si alterum eorum in diuinis natum esset inesse, seque 
+        <lb ed="#Bb" n="48"/>retur necessario: si non in est inaequalitas, ergo inest aequalitas. &amp; hoc de necessitate: sic quod non potest non  
+        <lb ed="#Bb" n="49"/>nesse: super qno est quaestio: a scilicet aequalitas sit in diuinis post quam nullo modo possit diuinis inesse in  
+        <lb ed="#Bb" n="50"/>aequalitas. Et dico quod cum secundum superius determinata aequalitas per se sequatur vnitatem in quantitate: nec 
+        <lb ed="#Bb" n="51"/>est aequalitas eiusdem ad se: sed solummodo ad alterum secundum determinata: in quacunque enim 
+        <lb ed="#Bb" n="52"/>natura siue creata siue increata est reperire vnam quantitatem in pluribus diuersis re aut ratione 
+        <lb ed="#Bb" n="53"/>in illa natura necessarium est reperire aequalitatem vel materiali vel fundamentali definitione: aequa- 
+        <lb ed="#Bb" n="54"/>litas est differentium numero vna quantitas: &amp; in pluribus aliquo modo diuersis ad vnum in quam 
+   <!--492.xml-->
+        <pb ed="#Bb" n="239-r"/>
+        <lb ed="#Bb" n="1"/>titate quomodocumque fuerit vnum: necessario sequitur aequale, puta siue plura seu diuersa sint natu 
+        <lb ed="#Bb" n="2"/>ra agente &amp; re absoluta, sicut vnum specie, sicut sunt diuersa indiuidua specie sub eadem specie, 
+        <lb ed="#Bb" n="3"/>aut sicut essent in diuinis si deitas in pluribus personis non esset vna singularitate, sed sola confor- 
+        <lb ed="#Bb" n="4"/>mitate, vt dixerunt Semiarriani, vt habitum est supra: siue plura &amp; diuersa sint re relatiua, vt mo-  
+        <lb ed="#Bb" n="5"/>do sunt tres personae in diuinis, siue fuerint diuersa absoluta agente ratione, &amp; hoc aut diuersita- 
+        <lb ed="#Bb" n="6"/>te existente in vtroque, vt contingit in diuersis attributis, aut in altero tantum, vt contingit in aliquo  
+        <lb ed="#Bb" n="7"/>attributorum comparato essentiae diuinae. Petrus enim in diuersitate substantiae secundum rem 
+        <lb ed="#Bb" n="8"/>aequalis est Paulo in humanitate, &amp; similiter secundum Semiarrianos pater filio: secundum catho- 
+        <lb ed="#Bb" n="9"/>licos autem filius est aequalis patri in vnitate substantiae secundum diuersitatem relationum. Simi 
+        <lb ed="#Bb" n="10"/>liter in diuinis aequalia sunt bonitas &amp; veritas, quae sunt attributa diuersa ratione, &amp; agente ratio 
+        <lb ed="#Bb" n="11"/>ne in vtroque extremorum. Et etiam aequalia sunt deitas &amp; bonitas, in quibus diuersitas causata a ra 
+        <lb ed="#Bb" n="12"/>tione est in bonitate, non autem in deitate. Super deitatem enim bonitas addit rationem, deitas au 
+        <lb ed="#Bb" n="13"/>tem est nomen fundamentalis essentiae. Quantus enim est Petrus in forma speciei, tantus est &amp; 
+        <lb ed="#Bb" n="14"/>Paulus: quantus est secundum Semiarrianos pater, tantus est filius: &amp; similiter secundum catholi- 
+        <lb ed="#Bb" n="15"/>cos licet diuersimode. Et quanta est in diuinis bonitas, tanta est veritas: &amp; quanta est deitas, tanta 
+        <lb ed="#Bb" n="16"/>est bonitas. Quantitas enim omnium quae sunt in diuinis, non est nisi vnica, scilicet immensitas: pro 
+        <lb ed="#Bb" n="17"/>pter quod in omnibus illis non est nisi aequalitas. Sic ergo breuiter concedendum est quod in diuinis est po 
+        <lb ed="#Bb" n="18"/>nere aequalitatem in diuersis, secundum dictos modos. 
+        <lb ed="#Bb" n="19"/>
+      </p>
+      <p xml:id="vn58an-fe65061-d1e421">
+        ⁋ Quia ergo primo arguitur, quod in diuinis non sit omnino ponere ae qualitatem, quia 
+        <lb ed="#Bb" n="20"/>in eis non est ponere quantitatem: Dico contra negantes esse quantitatem in diuinis, quod inconveniens 
+        <lb ed="#Bb" n="21"/>est illud quod dicere conantur secundum modum ab eis tactum iam supra in dissolutione primi ar-  
+        <lb ed="#Bb" n="22"/>gumenti, scilicet quod species quantitatis aliquae secundum rationem speciei sint in deo, non autem se 
+        <lb ed="#Bb" n="23"/>cundum rationem generis, quia non est species in qua non saluetur ratio generis, nec transfertur 
+        <lb ed="#Bb" n="24"/>species ad diuina secundum rationem speciei, quin etiam simul transferatur secundum rationem ge- 
+        <lb ed="#Bb" n="25"/>neris, vt expositum est superius. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e437">
+        ⁋ Et verum est quod dicitur in argumento contra illud adducto, scili 
+        <lb ed="#Bb" n="26"/>cet quod per se quantitati ratione illa qua est quantitas conuenit aequale vel inaequale dici, &amp; non spe 
+        <lb ed="#Bb" n="27"/>ciei nisi ratione generis existentis in illa, ita quod si species quantitatis esset in aliquo sine ratione gene 
+        <lb ed="#Bb" n="28"/>ris, secundum illam non diceretur aequale vel inaequale, sicut contingit cum species secundum se non di 
+        <lb ed="#Bb" n="29"/>citur relatione, licet secundum genus suum dicatur relatiue, vt contingit in scientia &amp; medicina, 
+        <lb ed="#Bb" n="30"/>sicut dicitur in argumento. Si igitur magnitudo species quantitatis in diuinis amittit rationem ge- 
+        <lb ed="#Bb" n="31"/>neris, vt non mereatur dici quantitas simpliciter, nequaquam dicetur aliquid secundum illam aequale aut  
+        <lb ed="#Bb" n="32"/>inaequale. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e455">
+        ⁋ Nec valet solutio ad argumentum adducta: scilicet quod non dicitur proprium quantita- 
+        <lb ed="#Bb" n="33"/>ti secundum eam aequale vel inaequale dici, nisi quia non inuenitur nisi in speciebus quantitatis: qua  
+        <lb ed="#Bb" n="34"/>si primo &amp; per se consequatur rationes specierum diuersarum, &amp; non rationem generis: quod est im- 
+        <lb ed="#Bb" n="35"/>possibile, vt bene probat argumentum in contrarium. Immo neque in diuinis neque in creaturis est in-  
+        <lb ed="#Bb" n="36"/>aequale ratione alicuius speciei quantitatis, quin hoc sit per se &amp; primo ratione generis existentis in  
+        <lb ed="#Bb" n="37"/>illa: quae ratio generis si absolueretur a specie, nequaquam secundum eam ratione sua propria diceretur 
+        <lb ed="#Bb" n="38"/>inaequaliter omnino: sicut contingit in medicina, quae secundum rationem propriam nequadam dicitur relatiue si 
+        <lb ed="#Bb" n="39"/>cut dicitur scientia, nisi vt dicit Commen. scientia diceretur relatiue ad scientem, quod non est verum, quia scien 
+        <lb ed="#Bb" n="40"/>tia secundum rationem scientiae non dicitur nisi ad scibile. Medicina autem secundum propriam rationem speciei 
+        <lb ed="#Bb" n="41"/>quae est medicina, dicitur ad scientem scilicet ad medicum, non ad scibile. Sed quod dicitur medicina relatiue ad medici- 
+        <lb ed="#Bb" n="42"/>nale siue medicabile sicut ad scibile suum, hoc est solummodo secundum rationem generis sui quod est 
+        <lb ed="#Bb" n="43"/>scientia, existentis in ea: quae dicitur relatiue ad scibile simpliciter, ita quod si a medicina absolueretur omnino  
+        <lb ed="#Bb" n="44"/>ratio generis su. scilicet scientiae, nequaquam diceretur relatiue ad scibile suum, sed ad scientem tantum. scilicet medicum 
+        <lb ed="#Bb" n="45"/>Ratione enim generis sui quod est scientia, medicina de vniuersalibus est &amp; acceptis ab experientia parti 
+        <lb ed="#Bb" n="46"/>cularium &amp; causata ab illis, &amp; ideo refertur ad scibile vt mensurata ab illo. Ratione autem sibi propria ex na 
+        <lb ed="#Bb" n="47"/>tura speciei de vniuersalibus est per naturalem rationem mediam applicatis ad particularia, &amp; directiua est 
+        <lb ed="#Bb" n="48"/>operum particularium extra. Et ideo vt sic est applicatiua talium &amp; directiua, refertur ad medicum vt men- 
+        <lb ed="#Bb" n="49"/>surata ab illo. Et quia talis directio particularium contingit in sola scientia practica: idcirco in sola scien 
+        <lb ed="#Bb" n="50"/>tia practica contingit quod species secundum rationem generis dicitur relatiue ad aliquod vnum, &amp; secundum pro 
+        <lb ed="#Bb" n="51"/>priam rationem speciei ad aliud, nequaquam autem in scientia speculatiua. Scientia enim physica non dicitur ad  
+        <lb ed="#Bb" n="52"/>aliud quam ad scibile metaphysicum: nec mathematica nisi ad scibile mathematicum. Sic scientia simpliciter 
+        <lb ed="#Bb" n="53"/>non dicitur nisi ad scibile simpliciter, vt omninon ad idem dicatur species ratione generis &amp; ratione 
+        <lb ed="#Bb" n="54"/>propria differens solum secundum rationem generis &amp; speciei. Metaphysica enim non est nisi scibilis 
+        <lb ed="#Bb" n="55"/>&amp; ratione qua est scientia simpliciter &amp; ratione qua est metaphysica. Sed ratione qua est scientia sim 
+   <!--493.xml-->
+        <pb ed="#Bb" n="239-v"/>
+        <lb ed="#Bb" n="1"/>pliciter, est scibilis simpliciter: ratione vero qua est metaphysica, est scibilis metaphysici tantum: sicut hoc 
+        <lb ed="#Bb" n="2"/>contingit in relationibus proportionum: quia. scilicet &amp; secundum rationem generis: &amp; secundum rationem speciei referuntur ad 
+        <lb ed="#Bb" n="3"/>idem. Sicut enim multiplex quod est genus, dicitur ad multiplex: sic duplum quod est species multiplicis, di 
+        <lb ed="#Bb" n="4"/>citur ad dimidium quod est species submultiplicis. Medicina enim ratione sua siue speciei suae non est nisi me 
+        <lb ed="#Bb" n="5"/>dici: sed ratione sui generis quod est scientia, non est nisi scibilis. Ratione enim speciei medicina dicitur me 
+        <lb ed="#Bb" n="6"/>dici medicina &amp; non scibilis. Ratione autem generis dicitur medicina scibilis scientia: &amp; non med  
+        <lb ed="#Bb" n="7"/>ci: nisi relatiue diceretur ad scientem sicut dicitur medicina ad medicum, vt vult <name ref="#Averroes">Commentator</name> su 
+        <lb ed="#Bb" n="8"/>er. v. meta. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e533">
+        ⁋ Dico ergo contraria dictis illorum: videlicet quod secundum eundem modum genus &amp; spe 
+        <lb ed="#Bb" n="9"/>cies secundum rationem speciei habet esse in diuiuis, &amp; transterri in eis a creaturis. Consimiliter habet es 
+        <lb ed="#Bb" n="10"/>se in diuinis &amp; genus secundum rationem generis: &amp; transferri a creaturis ad diuina. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e540">
+        ⁋ Aliter enim ad 
+        <lb ed="#Bb" n="11"/>primum argumentum respondendum est quam iam responsum sit. Cum enim dicitur in argumento quod in 
+        <lb ed="#Bb" n="12"/>liuinis non est quantitas, quare nec aequalitas, quae non consequitur nisi quantitatem: hic distinguen 
+        <lb ed="#Bb" n="13"/>dum est de quantitate secundum rationem generis, ad modum quo illi distinguunt de specie eius 
+        <lb ed="#Bb" n="14"/>quae est magnitudo, dupliciter scilicet ratione speciei. Est enim magnitudo duplex extendendo nomen ma 
+        <lb ed="#Bb" n="15"/>gnitudinis ad proprie vsitatam magnitudinem, vbi est aggregatio plurium partium quantitatiuarum 
+        <lb ed="#Bb" n="16"/>&amp; ad omne habens aliquam rationem magnitudinis, vbi est scilicet aliqua pluralitas perfectionum virtualiter 
+        <lb ed="#Bb" n="17"/>aggregatarum. Quaedam enim est magnitudo molis siue dimensiua, quae est in solis corporalibus, &amp; reci- 
+        <lb ed="#Bb" n="18"/>pit maius &amp; minus atque aequale: quae est quantitas continua corporaliter extensiua substantiae cor- 
+        <lb ed="#Bb" n="19"/>poralis vt partem extra partem habeat &amp; repleat spatium. Quae dupliciter consideratur. Vno modo vt ope 
+        <lb ed="#Bb" n="20"/>ponitur paruitati relatiue: sicut multitudo opponitur paucitati: &amp; non nominat magnitudinem sim 
+        <lb ed="#Bb" n="21"/>pliciter: sed magnitudinem excedentem: sicut secundum Philosophum. x. meta. multum sibi corre- 
+        <lb ed="#Bb" n="22"/>spondens nominat non multitudinem simpliciter: sed solummodo multitudinem excedentem, quamuis con 
+        <lb ed="#Bb" n="23"/>trario modo. Quia enim multitudo in excessu non habet statum: sed tantum in descensu: ideo non est in mul 
+        <lb ed="#Bb" n="24"/>titudine tam multum quin respectu pluris sit paucum: est tamen ita paucum quod non est respectu alicu 
+        <lb ed="#Bb" n="25"/>ius multum. Magnitudo enim extra quia in descensu non habet statum: sed solum in excessu: ideo 
+        <lb ed="#Bb" n="26"/>est in magnitudine tam magnum quo non est maius, non est tamen ita paruum quin respectu mino-  
+        <lb ed="#Bb" n="27"/>ris sit magnum, secundum determinationem Philosophi in iii. Physico. Alio autem modo consideratur 
+        <lb ed="#Bb" n="28"/>magnitudo corporalis vt opponitur priuatiue puncto: sicut multitudo siue numerus vnitati: &amp; diui 
+        <lb ed="#Bb" n="29"/>sibile simplici &amp; indiuisibili, non autem relatiue: licet sic multitudo relatiue opponatur vnitati sicut mensu 
+        <lb ed="#Bb" n="30"/>ratum mensurae. Et hoc ideo quod multitudo componitur ex vnitatibus: non sic magnitudo ex pun- 
+        <lb ed="#Bb" n="31"/>ctis: &amp; sic nominat magnitudinem simpliciter &amp; absolute. Alia vero est magnitudo virtutis siue 
+        <lb ed="#Bb" n="32"/>perfectionis quae est in spiritualibus: &amp; non in solis spiritualibus, immo &amp; in corporalibus circuit omne 
+        <lb ed="#Bb" n="33"/>genus: eo quod omnis forma entis creati continet aliquem modum &amp; gradum determinatum atque fini- 
+        <lb ed="#Bb" n="34"/>tum perfectionis seu virtutis. Simpliciter enim &amp; absolute omne ens potest dici aliquo modo magnum 
+        <lb ed="#Bb" n="35"/>&amp; magnitudinem habens, sicut omne multum simpliciter &amp; absolute potest dici multitudinem ha 
+        <lb ed="#Bb" n="36"/>bens. secundum quod de tali magnitudine in spiritualibus dicit Augustius vi. de triniitate. ca. viii. In his quae  
+        <lb ed="#Bb" n="37"/>non sunt mole magna, hoc est maius esse quod melius ese scilicet bonitate naturae: quod idem est quod perfectius in na 
+        <lb ed="#Bb" n="38"/>tura &amp; essentia sua. Consimiliter autem magnitudini est quaedam quantitas molis in solis corpora- 
+        <lb ed="#Bb" n="39"/>libus: &amp; quaedam quantitas virtutis siue perfectionis tam in corporalibus quam in spiritualibus. Si autem quae  
+        <lb ed="#Bb" n="40"/>ratur vtrum in deo sit quantitas: respondendum est sicut &amp; de magnitudine: Dicendo quod non, loquendo de 
+        <lb ed="#Bb" n="41"/>quantitate &amp; magnitudine molis, de quibus procedit obiectio prima. Sola enim quantitas molis per additio-  
+        <lb ed="#Bb" n="42"/>nem se habet ad nunerum sicut punctus ad vnitatem vt vnitas communiter accipit scilicet &amp; in spiritualibus in quid 
+        <lb ed="#Bb" n="43"/>bus est absque omni positione: &amp; in corporalibus in quibus non est sine situ &amp; positione. Et sicut nequa 
+        <lb ed="#Bb" n="44"/>quam habent esse in deo quantitas talis aut magnitudo: sic neque etiam numerus ex talibus vnitatibus 
+        <lb ed="#Bb" n="45"/>progrediens. Per additionem enim se habet punctus ad talem vnitatem, inquantum secundum <name ref="#Aristotle">Philosophum</name> in 
+        <lb ed="#Bb" n="46"/>libro Posteriorum punctus est vnitas posita. Et similiter magnitudo per additionem se habet ad talem nune 
+        <lb ed="#Bb" n="47"/>rum: quia prout dicitur in eodem libro, discretum cadit in continuum inquantum magnitudines 
+        <lb ed="#Bb" n="48"/>numeri sunt. de quo etiam numero procedit obiectio: &amp; dicit <name ref="#Boethius">Boethius</name>  quod non est in deo: &amp; ille est nu 
+        <lb ed="#Bb" n="49"/>merus qui non habet diuisionem vnitatum suarum secundum actum nisi per diuisionem continui: 
+        <lb ed="#Bb" n="50"/>secundum modum quo discretum in corporalibus procedit ex continuo. Loquendo autem de quantitate 
+        <lb ed="#Bb" n="51"/>&amp; magnitudine virtutis siue perfectionis, respondendum est quod illa est in deo, &amp; per quandam Antono- 
+        <lb ed="#Bb" n="52"/>masiam in solo deo, vt ipse solus quodammodo dicendus sit esse magnus, sicut etiam bonus &amp; sapiens 
+        <lb ed="#Bb" n="53"/>&amp; caetera huiusmodi. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e642">
+        ⁋ Tripliciter enim quid dicitur magnum in spiritualibus. Primo modo sim 
+        <lb ed="#Bb" n="54"/>pliciter &amp; absolute &amp; absque omni comparatione: &amp; sic omne ens ratione suae perfectionis secundum 
+        <lb ed="#Bb" n="55"/>formam dicitur magnum, idest magnitudinem aliquam habens: sicut &amp; magnitudine molis omne 
+   <!--494.xml-->
+        <pb ed="#Bb" n="240-r"/>
+        <lb ed="#Bb" n="1"/>corporeum dicitur magnum magnitudine opposita puncto, sicut diuisibile indiuisibili priuatione 
+        <lb ed="#Bb" n="2"/>Secundo modo dicitur magnum simpliciter non absolute, sed in comparatione. &amp; sic creaturae spi- 
+        <lb ed="#Bb" n="3"/>rituales dicuntur magnae simpliciter respectu corporalium. Tertio modo dicitur magnum simpliciter &amp; 
+        <lb ed="#Bb" n="4"/>absolute, &amp; absque omni comparatione, &amp; absque comparabilitate: &amp; sic solum ens increatum dicitur. &amp; hoc in  
+        <lb ed="#Bb" n="5"/>uantum magnitudinis eius proprietas quaedam est infinitas siue immensitas, cui nullum magnum mo-  
+        <lb ed="#Bb" n="6"/>le respondet: quia nulla magnitudo molis infinita esse potest, licet duobus primis magnis in spiri- 
+        <lb ed="#Bb" n="7"/>tualibus respondeant duo magna molis in corporalibus. De illa autem immensitate magnitudinis in  
+        <lb ed="#Bb" n="8"/>diuinis loquitur <name ref="#Augustine">Augustinus</name> de fide ad Petrum. c. ix. Eirmissime tene, &amp; nullatenus dubita trinitatem 
+        <lb ed="#Bb" n="9"/>deum immensum esse virtute non mole. Et consistit illa quantitas virtutis siue perfectionis in qua  
+        <lb ed="#Bb" n="10"/>dam extensione non materiali partium extra partes, quia neque consistit per materialem connexionem 
+        <lb ed="#Bb" n="11"/>partium, vt contingit in quantitatibus continuis: neque per quandam materialem accumulationem par 
+        <lb ed="#Bb" n="12"/>tium, vt contingit in quantitatibus discretis: sed consistit in quadam extensione spirituali per spiritualem 
+        <lb ed="#Bb" n="13"/>connexionem &amp; accumulationem partium virtutum siue virium siue perfectionum in vna &amp; eadem 
+        <lb ed="#Bb" n="14"/>simplici perfectione siue virtute: quemadmodum calidum intensum in summo, in vna perfectione siue virtute 
+        <lb ed="#Bb" n="15"/>simplici caloris continet omnes perfectiones siue virtutes quae in diuersis gradibus calorum seorsum natae 
+        <lb ed="#Bb" n="16"/>sunt existere. Sed talis vis siue perfectio in creaturis nunquam est ita in summo, quin sit mensa id est gradu 
+        <lb ed="#Bb" n="17"/>aliquo certae mensurae contenta. Est autem in summo ita quod sit immensa id est nullo gradu mensurae contem 
+        <lb ed="#Bb" n="18"/>ta, in solo deo: propter quod quantitas eius non est nisi immensitas quaedam virtualis vel perfectionis con 
+        <lb ed="#Bb" n="19"/>tinens in vno simplici gradus perfectionum siue virtutum quae in persectionibus diuersarum creatu- 
+        <lb ed="#Bb" n="20"/>rarum natae sunt sparsim &amp; seorsum existere. Vnde Augustin. exponens illud quod dixit, Virtute non mole 
+        <lb ed="#Bb" n="21"/>immediate subdit. Quia omnem creaturam spiritualem atque corporalem virtute continet. Et assimilatur 
+        <lb ed="#Bb" n="22"/>ista quantitas spiritualis tam in deo quam in creaturis tam quantitati molis quae est in continuis, quam illi quae 
+        <lb ed="#Bb" n="23"/>est in discretis, eo quod non continet partes distinctas abinuicem, sed vnitas, licet in eodem simplici. 
+        <lb ed="#Bb" n="24"/>Propter quod potius dicitur magnitudo a quantitate continua, quam numerus a quantitate discreta, licet 
+        <lb ed="#Bb" n="25"/>in hoc differat ab vtraque illarum, quia illae continent plura re diuersa &amp; sub ratione plurium: ista ve 
+        <lb ed="#Bb" n="26"/>ro continet plura sola ratione diuersa &amp; sub ratione vnius. Ex quo contingit quod quando aliqua ma 
+        <lb ed="#Bb" n="27"/>gnitudo maior corporalis continet in se plurium minorum existentium seorsum &amp; extra magni- 
+        <lb ed="#Bb" n="28"/>tudines: est assignare cuilibet minori gradum sibi correspondentem &amp; commensuratum in maio- 
+        <lb ed="#Bb" n="29"/>ri, puta pedalem, bipedalem, tripedalem, &amp; sic de caeteris. Quando vero magnitudo minor spiritua 
+        <lb ed="#Bb" n="30"/>lis continet in se plurium minorum quae seorsum sunt &amp; extra, magnitudines: non est assignare mi 
+        <lb ed="#Bb" n="31"/>nori gradum sibi correspondentem &amp; commensuratum in maiori, ne deus in creaturis &amp; creatu- 
+        <lb ed="#Bb" n="32"/>rae in deo mutuo ponantur esse secundum aequale sibi correspondens, quod est impossibile. dicente de 
+        <lb ed="#Bb" n="33"/>deo <name ref="#Augustine">Augustinus</name> de fide ad Petrum. Nec aliqua molis quantitate terminatur, quia nulla concluditur: 
+        <lb ed="#Bb" n="34"/>neque per mundi partes suis partibus ipse diffusus est, vt maiores mundi partes suis maioribus im- 
+        <lb ed="#Bb" n="35"/>pleat, &amp; minores minoribus, cui nullus latus nec angustus locus est: quia nec minus in angustis quam  
+        <lb ed="#Bb" n="36"/>in latis totus est. Et secundum hoc determinauimus superius quod idea in deo nullam omnino ratio-  
+        <lb ed="#Bb" n="37"/>nem limitationis importat. Ex quo etiam contingit quod si magnitudo aliqua corporalis siue cor- 
+        <lb ed="#Bb" n="38"/>pus aliquod esset infinitum, &amp; secum compateretur omnia corpora mundi finita corporaliter, illa 
+        <lb ed="#Bb" n="39"/>magnitudo infinita contingeret omnia illa finita &amp; illorum singulum, &amp; contineret ambiendo non 
+        <lb ed="#Bb" n="40"/>secundum totum ipsius corporis infiniti, sed secundum partem aequalem cuilibet illorum. Nunc autem 
+        <lb ed="#Bb" n="41"/>cum magnitudo aliqua spiritualis in deo sit infinita, quae secum compatitur omnia entia finita, il- 
+        <lb ed="#Bb" n="42"/>la spiritualiter attingit omnia entia &amp; singulum eorum, secundum totum ipsius contingendo il- 
+        <lb ed="#Bb" n="43"/>lud &amp; in esse conseruando, quia de sapientia increata &amp; immensa atque infinita scriptum est quod attin  
+        <lb ed="#Bb" n="44"/>git a fine vsque ad finem fortiter, &amp; disponit omnia suauiter. Nihil ergo est dicere quod in deo non est 
+        <lb ed="#Bb" n="45"/>quantitas secundum communem rationem generis: est tamen in ipso secundum proprias rationes 
+        <lb ed="#Bb" n="46"/>aliquarum specierum, licet non secundum modum illum quo sunt in creaturis. Immo secundum omnem 
+        <lb ed="#Bb" n="47"/>modum quo ratio speciei est in diuinis: similiter &amp; ratio generis sicut dictum est, &amp; secundum illam 
+        <lb ed="#Bb" n="48"/>equalitas dicitur esse in diuinis. Et sic quantitas de qua dicitur quod proprium est secundum eam aequale 
+        <lb ed="#Bb" n="49"/>vel inaequale dici: largissime accipitur, pro quantitate scilicet quae directe est in solis creaturis, &amp; di- 
+        <lb ed="#Bb" n="50"/>recte in praedicamento quantitatis, quae solum est in corporalibus, &amp; pro quantitate virtutis, quae  
+        <lb ed="#Bb" n="51"/>est etiam in spiritualibus omnibus. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e770">
+        ⁋ Quod ergo dicit Augustini quod deus est sine quantitate magnus: di- 
+        <lb ed="#Bb" n="52"/>cunt aliqui quod hoc intelligitur de qualitate molis, &amp; quae reperitur in corporalibus. Sed tunc eadem 
+        <lb ed="#Bb" n="53"/>ratione posset dici quod est sine magnitudine magnus, quia sine magnitudine corporali magnus est. 
+        <lb ed="#Bb" n="54"/>ldeo dicendum aliter: quod nihil per se de creaturis transfertur ad diuina nisi perfectionis simpliciter 
+        <lb ed="#Bb" n="55"/>rationem importet secundum superius determinata. Nunc autem magnitudo in eo quod magnitu- 
+   <!--495.xml-->
+        <pb ed="#Bb" n="240-v"/>
+        <lb ed="#Bb" n="1"/>do est, rationem perfectionis simpliciter importat: non sic autem in eo quod est quantitas simpliciter. 
+        <lb ed="#Bb" n="2"/>dcirco ergo deus magnus dicitur: sed non absque magnitudine: quia magnitudo est per se ratio di- 
+        <lb ed="#Bb" n="3"/>gnitatis quae per se competit deo vt secundum eam per se denominetur deus magnus, tamen sine quam 
+        <lb ed="#Bb" n="4"/>titate: quia ratio quantitatis non est per se aliqua ratio dignitatis quae per se competat deo vt secun 
+        <lb ed="#Bb" n="5"/>dum eam per se denominetur. Quae tamen quia non dicit per se rationem indignitatis, quae per se re 
+        <lb ed="#Bb" n="6"/>pugnat deo: idcirco secundum eam deus per accidens potest denominari quantus, scilicet quia con- 
+        <lb ed="#Bb" n="7"/>tinetur in specie a qua denominatur per se: vt non dicatur deus quantus nisi quia est magnus: aut  
+        <lb ed="#Bb" n="8"/>aliquid secundum aliam speciem quantitatis pertinens ad dignitatem simpliciter. Vere tamen dicen- 
+        <lb ed="#Bb" n="9"/>dus est esse quantus secundum quantitatem &amp; aequalis: ratione generis quantitatis primo &amp; per se 
+        <lb ed="#Bb" n="10"/>&amp; non ratione speciei, nisi vt in ipsa est contracta ratio ipsius generis. Aliter enim in creaturis non  
+        <lb ed="#Bb" n="11"/>esset idem modus aequalitatis qua vnum magnum dicitur aequale alteri secundum generis ratio- 
+        <lb ed="#Bb" n="12"/>nem &amp; secundum rationem speciei: sicut non est idem modus relationis qua medicina secundum rationem 
+        <lb ed="#Bb" n="13"/>generis sui quod est scientia, refertur ad scibile medicinale, &amp; secundum rationem propriam suae spe 
+        <lb ed="#Bb" n="14"/>ciei refertur ad medicum secundum praedicta. Est autem alia expositio dicti praesentis Augustini: quae  
+        <lb ed="#Bb" n="15"/>ponitur infra in prima quaestione de similitudine in solutione secundi argumenti. Vnde quod dicitur 
+        <lb ed="#Bb" n="16"/>in argumento quod in deo non est magnitudo: quia in ipso non est numerus: eo quod magnitudo se ha-  
+        <lb ed="#Bb" n="17"/>bet per additionem ad numerum: &amp; nec iste nec praecedens: Non procedit obiectio: quia licet in deo 
+        <lb ed="#Bb" n="18"/>non sit numerus ad quem se habeat magnitudo corporalis per additionem: non sequitur ex hoc quin  
+        <lb ed="#Bb" n="19"/>sit in eo aliquis alius numerus &amp; magnitudo se hambens per additionem ad illum. Praeter numerum 
+        <lb ed="#Bb" n="20"/>enim manentem in rebus corporalibus qui est numerus mathematicus, est duplex numerus numera 
+        <lb ed="#Bb" n="21"/>tus: quidam materialis ex ratione materiae quam sequitur continuum proueniens: qui est in solis corpora 
+        <lb ed="#Bb" n="22"/>libus. Alius formalis proueniens ex ratione formae: &amp; est triplex. Quidam proueniens ex pluralitate 
+        <lb ed="#Bb" n="23"/>formarum naturalium absolutarum existentium in rebus creatis tam corporalibus quam spiritualibus: quid 
+        <lb ed="#Bb" n="24"/>non habet esse in deo: sicut nec materia nec formarum absolutarum pluralitas: secundum quod de vtroque il- 
+        <lb ed="#Bb" n="25"/>lorum intelligitur illud dictum assumptum in argumento, quo dicitur quod in deo nullus est nume- 
+        <lb ed="#Bb" n="26"/>rus. De quo etiam dicit Dionysius. ix. cap de di. no. Est sine quantitate, sine numero. Alius vero est nune 
+        <lb ed="#Bb" n="27"/>rus formalis in diuinis attributis proueniens ex pluralitate rationum: quae sunt rationes formales 
+        <lb ed="#Bb" n="28"/>distinctiuae attributorum. Tertius vero est numerus formalis ratione formarum relatiuarum: qui est 
+        <lb ed="#Bb" n="29"/>in personis diuinis: &amp; sic quantitas &amp; secundum rationem numeri &amp; secundum rationem magni- 
+        <lb ed="#Bb" n="30"/>tudinis habet esse in diuinis, aliter tamen quam in creaturis: &amp; etiam magnitudo se habens per additionem 
+        <lb ed="#Bb" n="31"/>ad talem numerum, inquantum infinitas est ratio consequens omnem talem numerum in diuinis. 
+        <lb ed="#Bb" n="32"/>
+      </p>
+      <p xml:id="vn58an-fe65061-d1e855">
+        ⁋ Ad secundum quod in diuinis numerus dicitur secundum substantiam, &amp; substantiam significat: er 
+        <lb ed="#Bb" n="33"/>go secundum ipsam non dicitur aequale, sed idem: Dico quod quantitas in diuinis sicut &amp; alia attribu 
+        <lb ed="#Bb" n="34"/>ta licet substantiam significent quo ad rem significatam: significant tamen eam sub ratione deter- 
+        <lb ed="#Bb" n="35"/>minata quae quantitati est propria, &amp; accepta in ordine ad substantiam subiectam &amp; in ordine ad alia 
+        <lb ed="#Bb" n="36"/>attributa: quae (vt dictum est) habent se ad substantiam mediante quantitate, vt expositum est in prae 
+        <lb ed="#Bb" n="37"/>cedenti quaestione. Et idcirco ipsa substantia sub tali ratione significata comparata ad seipsam vt men 
+        <lb ed="#Bb" n="38"/>sura intrinseca ad mensuratum, comparatur etiam ad omnia alia quae sunt in diuinis inquantum in  
+        <lb ed="#Bb" n="39"/>sunt substantiae simpliciter mediante quantitate vt mensurata per ipsam: &amp; hoc quemadmodum quan  
+        <lb ed="#Bb" n="40"/>titas molis quae est magnitudo, mensura est substantiae etiam corporeae in qua est: &amp; etiam omnium accidem 
+        <lb ed="#Bb" n="41"/>tium corporalium quae insunt substantiae corporeae mediante magnitudine. Et per hunc modum licet 
+        <lb ed="#Bb" n="42"/>in diuinis quantitas secundum rem sit substantia, &amp; substantiam significat, &amp; secundum substantiam dicitur 
+        <lb ed="#Bb" n="43"/>&amp; incidit in substantiam: &amp; propterea dicit <name ref="#Augustine">Augustinus</name> quod aequalitas dicatur secundum substantiam: tamen secundum  
+        <lb ed="#Bb" n="44"/>ipsam vt in substantia est non proprie dicitur aequalis in diuinis sed idem: &amp; similiter secundum ipsam vt est quantitas non 
+        <lb ed="#Bb" n="45"/>pprie dicitur idem sed aequale. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e889">
+        ⁋ Ad tertium: quod si in deo sit quantitas illa non est nisi virtutis, quae quantitas est se- 
+        <lb ed="#Bb" n="46"/>undum quam dicitur simile non aequale: Dico quod duplex est virtus, moralis &amp; naturalis. De prima verum est quod 
+        <lb ed="#Bb" n="47"/>sit qualitas de prima specie qualitatis: &amp; talis virtus non dicitur esse quantitas sed quaelitas. Est tamen spi 
+        <lb ed="#Bb" n="48"/>ritualis quantitas virtus secundo modo dicta. scilicet naturalis: quae consistit in complemento naturalis perfectionis 
+        <lb ed="#Bb" n="49"/>cuiusque rei: &amp; est bonitas rei non moralis sed naturalis. Et de eo quid sic est melius, dicit <name ref="#Augustine">Augustinus</name> quod est 
+        <lb ed="#Bb" n="50"/>maius: &amp; hoc quia est perfectius. Et de tali virtute dicit <name ref="#Aristotle">Philosophus</name> primo cae. &amp; mun. quod consistit in vltio: quia 
+        <lb ed="#Bb" n="51"/>virtus est vltimum de potentia. Quod dicit non tam de potentia quae respicit actum secundum qui est operari, quam de po 
+        <lb ed="#Bb" n="52"/>tentia quae respicit actum primum qui est esse. Sed in hoc est differentia: quod virtus quae consistit in complemen 
+        <lb ed="#Bb" n="53"/>to formae cuiusque rei, inquantum respicit actum qui est esse, proprio nomine dicitur quantitas perfectiona 
+        <lb ed="#Bb" n="54"/>lis: inquantum vero respicit actum qui est operari, retinet commune nomen: sed appropriate dicitur 
+        <lb ed="#Bb" n="55"/>quantitas virtualis. Et ideo quaecumque plura siue secundum rem siue secundum rationem vnum &amp; idem complementum 
+   <!--496.xml-->
+        <pb ed="#Bb" n="241-r"/>
+        <lb ed="#Bb" n="1"/>in persectione ex actu naturalis bonitatis formae cuiuslibet attingunt vel obtinent siue in crea- 
+        <lb ed="#Bb" n="2"/>turis siue in diuinis, in illis aequalitas est fundata super illud vnum. Et in illis quae in creaturis vnum con- 
+        <lb ed="#Bb" n="3"/>plementum dicto modo non attingunt in forma sua: sed aliud &amp; aliud secundum gradus existen- 
+        <lb ed="#Bb" n="4"/>tes in essentiis formarum suarum, licet super illud vnum quod est in eis quo ad essentiam formae 
+        <lb ed="#Bb" n="5"/>possit fundari in illis idem aut simile, tamen super multum quod est in completione siue comple- 
+        <lb ed="#Bb" n="6"/>mento siue perfectione formarum, quod alterius gradus est in vno &amp; alterius in altero, fundatur in  
+        <lb ed="#Bb" n="7"/>aequale. Propter quod quaecunque secundum magnitudinem spiritualem sunt aequalia in complemento 
+        <lb ed="#Bb" n="8"/>definitione specifica, &amp; hoc aequalitate quae est qualitas substantialis, sunt similia quo ad essen- 
+        <lb ed="#Bb" n="9"/>tiam naturae in qua est complementum, &amp; non econuerso. Quia sicutur quantitas talis includit 
+        <lb ed="#Bb" n="10"/>qualitatem substantialem siue essentialem rei &amp; plus, scilicet gradum in illa: sic aequalitas includit 
+        <lb ed="#Bb" n="11"/>similitudinem, &amp; plus, scilicet carentiam secundum magis &amp; minus siue secundum maius &amp; minus in il 
+        <lb ed="#Bb" n="12"/>la similitudine. Quaecumque enim communicant vnam formam, possunt dici eadem aut similia secundum  
+        <lb ed="#Bb" n="13"/>illam, etiam si inaequaliter illam participent: sed non possunt dici aequalia secundum illam si alterum 
+        <lb ed="#Bb" n="14"/>illorum perfectius illam participet quam reliquum. Hinc de tali aequalitate &amp; similitudine in tali qua  
+        <lb ed="#Bb" n="15"/>litate &amp; tali quantitate dicit Ricar. iii. de triniitate. c. vii. Per omnia aequales oportet vt sint per omnia 
+        <lb ed="#Bb" n="16"/>similes. Nam similitudo potest haberi sine aequalitate: aequalitas autem nunquam sine mutua simi 
+        <lb ed="#Bb" n="17"/>litudine. Et sic patet quod argumentum illud peccat secundum fallaciam aequiuocationis. Virtus enim si- 
+        <lb ed="#Bb" n="18"/>cut &amp; bonitas aequiuoce dicitur de virtute morali &amp; naturali. Similiter forma rei naturalis exi- 
+        <lb ed="#Bb" n="19"/>stens in suo complemento, in quo potentia ad illud vltimatur &amp; perficitur, bonum naturae est. 
+        <lb ed="#Bb" n="20"/>Quam liu enim aliquid est in potentia ad illud inquantum huiusmodi, imperfectum siue incom- 
+        <lb ed="#Bb" n="21"/>pletum est: &amp; quantum est in re de potentia distante ab illo actum &amp; complemento, tantum est ei 
+        <lb ed="#Bb" n="22"/>admixtum de malo: &amp; quantum de actum &amp; complemento, tantum habet de bono, &amp; hoc secundum 
+        <lb ed="#Bb" n="23"/>plus &amp; minus. Et secundum quod plus &amp; minus habet de complemento, secundum hoc etiam plus &amp; mi 
+        <lb ed="#Bb" n="24"/>nus habet de spirituali magnitudine quae consistit in tali complemento. Et differt complemen- 
+        <lb ed="#Bb" n="25"/>tum a quantitate sola ratione: quia complementum vt simpliciter accipitur, nominat rem &amp; na 
+        <lb ed="#Bb" n="26"/>turam cuius est illud complementum. Vt determinat gradum perfectionis in illa natura, vel vt 
+        <lb ed="#Bb" n="27"/>excessum omnis gradus importat, notat quantitatem illius spiritualem, &amp; nomine virtutis ap-  
+        <lb ed="#Bb" n="28"/>pellatur sicut &amp; ipsum complementum. Quae cum est nomen complementi simpliciter accepti: si 
+        <lb ed="#Bb" n="29"/>illud est scientia tantum, secundum illam dicitur habens illam in illa idem alteri vel diuersum ab illo. Si ve- 
+        <lb ed="#Bb" n="30"/>ro illud est qualitas siue accidentalis, siue substantialis: vt differentia specifica in creaturis tantum:  
+        <lb ed="#Bb" n="31"/>In deo enim non est complementum habens rationem differentiae: quia in illo non est compositio ex gene 
+        <lb ed="#Bb" n="32"/>re &amp; differentia: tunc secundum illam dicitur habens illam in se simile vel dissimile alteri. Cum ve- 
+        <lb ed="#Bb" n="33"/>ro est nomen quantitatis, tunc secundum illam dicitur habens illam in se aequalis vel inaequalis alte- 
+        <lb ed="#Bb" n="34"/>ri. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e999">
+        ⁋ Ad quartum, quod aequalitas dicit commensurationem aequalium in quantitate: sed in deo nul 
+        <lb ed="#Bb" n="35"/>la est omnino in quantitate commensuratio, neque alicuius ad seipsum, neque ipsius ad alium: Dico se- 
+        <lb ed="#Bb" n="36"/>cundum superius determinata, quod differunt vnitas singularitatis &amp; conformitatis in hoc quod vnitas 
+        <lb ed="#Bb" n="37"/>singularitatis non est nisi in vno secundum numerum: vnitas vero conformitatis non est nisi in vno 
+        <lb ed="#Bb" n="38"/>secundum speciem aut genus. Et ad vnum vtroque modo si fuerit substantia, sequitur identitas: sed non 
+        <lb ed="#Bb" n="39"/>simpliciter identitas: nisi fuerit vnum in singularitate. Si vero fuerit quantitas, ad ipsam sequi- 
+        <lb ed="#Bb" n="40"/>tur aequalitas. Si autem fuerit qualitas, ad ipsam sequitur similitudo. Sed in diuinis solummodo  
+        <lb ed="#Bb" n="41"/>sequitur hoc ad vnum singularitate, &amp; prout habet esse in diuersis personis specialiter aequali- 
+        <lb ed="#Bb" n="42"/>tas, &amp; similitudo: vt habitum est supra. Nunc autem conformitas vt est in quantitate, specialiter 
+        <lb ed="#Bb" n="43"/>idem est quod commensuratio, sicut curuitas vt est in naso est simitas. Propter quod proprie loquendo  
+        <lb ed="#Bb" n="44"/>de commensuratione: ipsa non cadit in diuinis: sicut neque aliqua vnitas conformitatis: quae requi  
+        <lb ed="#Bb" n="45"/>rit in diuersis diuersas vnitates singularitatis, quae in diuinis non sunt in aliquo absoluto quod 
+        <lb ed="#Bb" n="46"/>sit fundamentum relationum. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1028">
+        ⁋ Quod ergo dicitur, quod aequalitas dicit commensurationem in quan  
+        <lb ed="#Bb" n="47"/>titate: Dico quod hoc non est vniuersaliter verum: sed solummodo habet veritatem de aequalitate quae  
+        <lb ed="#Bb" n="48"/>fundatur super vnum conformitate quantitatum quae est in solis creaturis, sicut &amp; in solis creatu- 
+        <lb ed="#Bb" n="49"/>ris aequalitas nominat proportionem aequalium. Quia ergo vnitas conformitatis quantita- 
+        <lb ed="#Bb" n="50"/>tum non est in deo, nec inter aliqua quae sunt in deo, quia in illis non est nisi vnitas singularitatis 
+        <lb ed="#Bb" n="51"/>eiusdem quantitatis secundum numerum: haec est ergo causa &amp; ratio per se quare aequalitas in deo 
+        <lb ed="#Bb" n="52"/>est absque omni commensuratione. est tamen vera aequalitas: quia commensuratio non sequitur aequa  
+        <lb ed="#Bb" n="53"/>litatem simpliciter, nec causatur ab ea: sed solummodo consequitur aequalitatem quae fundatur 
+        <lb ed="#Bb" n="54"/>super vnitatem conformitatis in quantitate &amp; causatur ab illa, quae non est nisi in quantitati- 
+        <lb ed="#Bb" n="55"/>bus diuersis secundum rem. Et sic conformitas accidit aequalitati simpliciter: quae aliquando fun 
+   <!--497.xml-->
+        <pb ed="#Bb" n="241-v"/>
+        <lb ed="#Bb" n="1"/>&amp; datur super vnum singularitate in quantitate: aliquando vero super vnum conformitate. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1057">
+        ⁋ Quod  
+        <lb ed="#Bb" n="2"/>autem aliqui assignant pro causa, quod commensuratio non cadit in diuinis, quae ponit mensuratio 
+        <lb ed="#Bb" n="3"/>nem: &amp; mensuratio dicitur a mensura: mensura autem ponit finitatem in quantitate: quae non  
+        <lb ed="#Bb" n="4"/>est in deo sed in solis creaturis: quia diuina perfectio non est mensurabilis aut mensurata, nec a 
+        <lb ed="#Bb" n="5"/>se nec ab alio, eo quod terminum non habet nec extra nec intra: sed (vt procedit argumentum) omnino 
+        <lb ed="#Bb" n="6"/>infinita est &amp; immensa: ad quam reducitur omnis mensura &amp; omne mensuratum vt ad mensu- 
+        <lb ed="#Bb" n="7"/>ram primam non mensuratam: sicut omne mouens &amp; motum reducitur ad primum mouens 
+        <lb ed="#Bb" n="8"/>non motum: Hoc nequaquam est per se ratio illius: quia si sicut secundum Semiarrianos ponitur 
+        <lb ed="#Bb" n="9"/>deitas in patre &amp; filio non esset vna singularitate sed conformitate tantum: in illis deitas esset alia 
+        <lb ed="#Bb" n="10"/>&amp; alia singularitate, &amp; in vtroque esset infinita &amp; immensa, &amp; esset aequalitas personarum per 
+        <lb ed="#Bb" n="11"/>commensurationem earum secundum illas deitates &amp; earum quantitates diuersas ex eo quod essent con- 
+        <lb ed="#Bb" n="12"/>formes sicut dictum est: &amp; poneret haec commensuratio mensurationem secundum quantitates per 
+        <lb ed="#Bb" n="13"/>sonarum diuinarum non passiuam a mensura mensurata, quasi conformiter sint mensuratae: sed  
+        <lb ed="#Bb" n="14"/>actiuam a mensura mensurante, quasi conformiter sint mensurae aliorum. Ex eo autem quod ali 
+        <lb ed="#Bb" n="15"/>quid est mensura mensurans: nulla omnino in illis ponitur finitas omnino: sed illa sola mensu- 
+        <lb ed="#Bb" n="16"/>ra ponit finitatem quae est mensurata &amp; mensura mensurati non adaequati illi a quo mensura- 
+        <lb ed="#Bb" n="17"/>tur. Et sic vt aequales essent personae dictae per commensurationem, non requiritur quod habeant quan- 
+        <lb ed="#Bb" n="18"/>titates mensuratas: sed sufficit illas in hoc esse conformes quod vniformiter sunt mensurae aliorum- 
+        <lb ed="#Bb" n="19"/>&amp; quod neutra illarum excedit alteram in maius, aut exceditur ab altera in minus. Similiter ad  
+        <lb ed="#Bb" n="20"/>aequalitatem quae modo est in personis diuinis, nulla requiritur commensuratio: fed sufficit quod 
+        <lb ed="#Bb" n="21"/>neutra excedat alteram, non propter vnitatem conformitatis alicuius: sed solummodo propter 
+        <lb ed="#Bb" n="22"/>vnitatem singularitatis in quantitate. Vnde non valet quod inducitur vlterius in argumento ad  
+        <lb ed="#Bb" n="23"/>probandum quod in diuinis non cadit commensuratio: quia quantitas in diuinis est infinita, &amp; in  
+        <lb ed="#Bb" n="24"/>infinito non est commensuratio secundum maius aut minus aut aequale. Dico enim quod hoc verum non 
+        <lb ed="#Bb" n="25"/>est de infinito comparato ad infinitum: sed solummodo de infinito comparato ad finitumh Aut 
+        <lb ed="#Bb" n="26"/>si loquatur de infinito comparato ad infinitum: illud non est verum nisi de infinito magnitu- 
+        <lb ed="#Bb" n="27"/>dine corporali, &amp; hoc ideo quia non est natum esse aliquod infinitum in specie quantitatis mo-  
+        <lb ed="#Bb" n="28"/>lis, &amp; comparatio secundum aequalitatem non est nisi in illis quantitatibus quae sunt eiusdem spe 
+        <lb ed="#Bb" n="29"/>ciei quantitatis: vt habitum est supra. Nunc autem est simpliciter, immo necesse est esse aliquid  
+        <lb ed="#Bb" n="30"/>infinitum in quantitate virtutis: &amp; ideo eo modo quo ponitur alia &amp; alia quantitas virtutis in  
+        <lb ed="#Bb" n="31"/>finita in diuersis personis, scilicet per impossibile, &amp; secundum semiarrianos tantum, necesse est consimi- 
+        <lb ed="#Bb" n="32"/>liter ponere comparationem secundum aequalitatem inter illa: licet non inter duas magnitudines 
+        <lb ed="#Bb" n="33"/>infinitas mole, etiam si ponantur esse non solum per impossibile: sed etiam per incompossibile. 
+        <lb ed="#Bb" n="34"/>Nec valet etiam aliquid ad propositum quod dicunt alii: videlicet quod diuinae personae sint com- 
+        <lb ed="#Bb" n="35"/>mensurabiles inter se stante immensitate &amp; infinitate quantitatis perfectionalis in illis: ex hoc 
+        <lb ed="#Bb" n="36"/>scilicet quod vna aliam mutuo comprehendit, &amp; neutra alteram mutuo excedit: quia hoc non sit 
+        <lb ed="#Bb" n="37"/>per aliquam commensurationem actiuam aut passiuam, nec per aliquam conformitatem in quan  
+        <lb ed="#Bb" n="38"/>titate, quorum alterum sequitur ad commensurationem sicut dictum est: sed solum sit per coexi 
+        <lb ed="#Bb" n="39"/>stentiam quantam: vt patet ex diu supra determinatis de modo essendi vnam diuinam personam 
+        <lb ed="#Bb" n="40"/>in alia. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1144">
+        ⁋ Ad quintum quod aequalitas dicit priuationem, quae non est in diuinis: ergo &amp;c. Dicunt 
+        <lb ed="#Bb" n="41"/>aliqui quod quia aequalitas sequitur ad vnitatem in magnitudine per remotionem maioris &amp; mi- 
+        <lb ed="#Bb" n="42"/>noris, &amp; propterea secundum <name ref="#Aristotle">Philosophum</name> quinto &amp; decimo metaphysicae, aequale priuatiue op- 
+        <lb ed="#Bb" n="43"/>ponitur maiori &amp; minori: Vnde ibidem in decimo probat aequalitatem per priuationem exces- 
+        <lb ed="#Bb" n="44"/>sus in maius &amp; minus: Secundum hoc ergo (vt dicunt) ratione sui fundamenti aequalitas priua- 
+        <lb ed="#Bb" n="45"/>tionem importat sicut &amp; vnitas super quam fundatur, &amp; si quid positiue importatur nomine 
+        <lb ed="#Bb" n="46"/>aequalitatis illud tantum est relatio secundum rationem. Et quia sic (vt dicunt) aequalitas sim- 
+        <lb ed="#Bb" n="47"/>pliciter importat priuatiuum, &amp; secundum quid positiuum: scilicet ratione relationis, quae re- 
+        <lb ed="#Bb" n="48"/>latio quae in creaturis est secundum rem: in deo est secundum rationem: ideo vt dicunt aequa- 
+        <lb ed="#Bb" n="49"/>litas in diuinis secundum rem solam priuationem importat, &amp; positionem secundum rationem. 
+        <lb ed="#Bb" n="50"/>in creaturis vero &amp; priuationem siue remotionem atque positionem secundum rem. Propter quod 
+        <lb ed="#Bb" n="51"/>(vt dicunt) ait Magister tertio sententiarum distinctione trigesimaprima. Secundum substantiam 
+        <lb ed="#Bb" n="52"/>filius est aequalis patri, &amp; vterque spiritui sancto: &amp; appellatio tantum relatiua est. Aequalitas ergo 
+        <lb ed="#Bb" n="53"/>patris &amp; filii non est relatio vel notio: sed propter vnitatem naturae indisparitas. Et consimi- 
+        <lb ed="#Bb" n="54"/>lia dicit de similitudine consequenter subdens communiter de vtroque. Vnde quibusdam non  
+        <lb ed="#Bb" n="55"/>indocte videtur nomine aequalitatis aut similitudinis non aliquid poni sed remoueri: vt ea 
+   <!--498.xml-->
+        <pb ed="#Bb" n="242-r"/>
+        <lb ed="#Bb" n="1"/>ratione dicatur filius aequalis patri: quia neque maior est eo neque minor, &amp; hoc propter vni ta- 
+        <lb ed="#Bb" n="2"/>tem essentiae. Dicunt tamen quod aequalitas non importat priuationem quae sonet in defectum 
+        <lb ed="#Bb" n="3"/>&amp; non entitatem, sicut dicit argumentum, &amp; bene: vt propter hoc Magister signanter dicat no 
+        <lb ed="#Bb" n="4"/>mine aequalitatis aliquid remoueri sed non priuari. Large tamen loquendo de priuatione ta- 
+        <lb ed="#Bb" n="5"/>lis remotio priuatio dici potest, quae potius est negatio. eo quod secundum Philosophum. iiii. Meta- 
+        <lb ed="#Bb" n="6"/>physicae, in hoc differunt priuatio &amp; negatio, quod priuatio dicit in subiecto aptitudinem ad pri- 
+        <lb ed="#Bb" n="7"/>uatum cum eius remotione, negatio vero non: sed dicit remotionem absolutam vtriusque si- 
+        <lb ed="#Bb" n="8"/>mul vel alterius tantum. Propter quod inaequale quod proprie est priuatio, non dicit omnem modum 
+        <lb ed="#Bb" n="9"/>priuationis: sicut potest dicere negatio. &amp; bene sequitur negatio ad priuationem: vt si est in-  
+        <lb ed="#Bb" n="10"/>aequale, ergo est non aequale: sed non econuerso, si est non aequale, ergo est inaequale. In diui- 
+        <lb ed="#Bb" n="11"/>nis autem est aequalitas sine aptitudine ad maius &amp; minus: quae aequalitas priuat: quia aequa  
+        <lb ed="#Bb" n="12"/>le in diuinis ita est aequale quod nullo modo potest esse inaequale. Propter quod secundum prae- 
+        <lb ed="#Bb" n="13"/>dicta verius est aequale in diuinis quam in creaturis, in quibus inaequale potest esse non aequale.  
+        <lb ed="#Bb" n="14"/>Quanto enim aequalitas est maior, tanto magis recedit &amp; elongatur a suo opposito. Quod contin- 
+        <lb ed="#Bb" n="15"/>git tum propter vnitatem quantitatis singularitatis in aequalibus: quae idcirco siue illa vni- 
+        <lb ed="#Bb" n="16"/>tas augeretur siue diminueretur, nihil minus maneret aequalitas: sicut &amp; quadratum siue ap  
+        <lb ed="#Bb" n="17"/>ponatur Gnomon, siue amoueatur, semper est eodem modo quadratum: tum propter impos- 
+        <lb ed="#Bb" n="18"/>sibilitatem augmenti aut diminutionis in diuina quantitate. In creaturis autem in quibus 
+        <lb ed="#Bb" n="19"/>aequalitas fundatur super diuersas quantitates, alterata aucta aut diminuta statim facta est in  
+        <lb ed="#Bb" n="20"/>aequalitas. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1230">
+        ⁋ Sed ex hoc in dicto istorum statim apparet contrarietas. Si enim verius est aequa 
+        <lb ed="#Bb" n="21"/>le quod nullo modo potest esse inaequale: quia aptitudo nominat defectum entitatis quae nata 
+        <lb ed="#Bb" n="22"/>est inesse, &amp; pro tanto priuatio est species non entis, quam non nominat negatio: sed potius no 
+        <lb ed="#Bb" n="23"/>minat entitatis defectus importatae per maius &amp; minus remotionem: quae in deo nullam im- 
+        <lb ed="#Bb" n="24"/>perfectionem importat: quia non est negatio nisi entitatis defectiuae: propter quod per ipsam 
+        <lb ed="#Bb" n="25"/>negationem talem infinuatur affirmatio verissimi entis positiua: &amp; est negatio importata in di 
+        <lb ed="#Bb" n="26"/>uinis nomine aequalitatis negatio negationis duplicis, quarum vna importatur nomine po- 
+        <lb ed="#Bb" n="27"/>tentiae ad maius, alia vero nomine potentiae ad minus: Dico ergo quod aequalitas in diuinis di- 
+        <lb ed="#Bb" n="28"/>cit priuationem non habitus aut alicuius positiui, quae nequaquam est in diuinis: vt procedit ar- 
+        <lb ed="#Bb" n="29"/>gumentum: sed defectus &amp; priuatiui, qui verissimam entitatem ponit in diuinis, &amp; hoc ratione 
+        <lb ed="#Bb" n="30"/>sui fundamenti, quod est vnitas quantitatis super quam fundatur, quod respondet ei in re. Propter quod  
+        <lb ed="#Bb" n="31"/>ita haereticus esset qui negaret aequalitatem esse in deo, sicut qui negaret deum esse: quia ad  
+        <lb ed="#Bb" n="32"/>vnum sequitur alterum: licet aequalitas in deo sit relatio secundum rationem tantum. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1259">
+        ⁋ Et dicunt 
+        <lb ed="#Bb" n="33"/>aduersantes adhuc, quod magnitudo non est fundamentum aequalitatis nisi quia est vna: vnum 
+        <lb ed="#Bb" n="34"/>autem respectu multorum priuatiue dicitur, non positiue: sicut indiuisio respectu diuisionis 
+        <lb ed="#Bb" n="35"/>secundum <name ref="#Aristotle">Philosophum</name> quarto Metaphysicae. Ad quod dico quod in vnitate consistit totum 
+        <lb ed="#Bb" n="36"/>quod est formale in multitudine: &amp; in creaturis per materialem replicationem vnitatis super se 
+        <lb ed="#Bb" n="37"/>ipsam causatur multitudo, &amp; hoc per defectum formae vnitatis in illa. lta quod diuisio in multi- 
+        <lb ed="#Bb" n="38"/>tudine licet secundum rationem nominis positionem dicat: secundum tamen rationem rei di- 
+        <lb ed="#Bb" n="39"/>cit veram priuationem eius quod est formale, &amp; non positionem: nec eius quod est materiale: &amp; econ 
+        <lb ed="#Bb" n="40"/>uerso indiuisio in vnitate: licet secundum rationem rei dicat veram positionem eius quod est for 
+        <lb ed="#Bb" n="41"/>male: &amp; non priuationem nisi eius quod est materiale. Nunc autem in formali consistit vere esse, 
+        <lb ed="#Bb" n="42"/>&amp; positiuum quid, non autem in materiali. Et dicit secundum rem vnum positionem, &amp; mul 
+        <lb ed="#Bb" n="43"/>tum priuationem: licet secundum rationem nominis contingat contrarium: cuius ratio est 
+        <lb ed="#Bb" n="44"/>quia ratio nominis sequitur intellectum nostrum, cuius est nomina imponere rebus secundum 
+        <lb ed="#Bb" n="45"/>modum quo intelliguntur sub intellectu. Quia secundum <name ref="#Aristotle">Philosophum</name> in libro peri hermenias, 
+        <lb ed="#Bb" n="46"/>Voces sunt signa siue notae intellectuum, &amp; intellectus sunt signa rerum. Nunc autem pro- 
+        <lb ed="#Bb" n="47"/>pter debilitatem nostri intellectus materialia magis nota sunt nobis quam formalia. secundum quod idcir- 
+        <lb ed="#Bb" n="48"/>co dicit <name ref="#Aristotle">Philosophus</name> decimo Metaphysicae, quod multitudo nobis magis nota est quam vnitas. Ei au 
+        <lb ed="#Bb" n="49"/>tem quod est magis notum nobis positiue, magis positiue possumus nomen imponere: &amp; pro- 
+        <lb ed="#Bb" n="50"/>terea frequenter quae secundum rem sunt magis positiua, significamus priuatiue: &amp; econver 
+        <lb ed="#Bb" n="51"/>so quae sunt magis priuatiua secundum rem, significamus positiue: vt patet de mortali &amp; im 
+        <lb ed="#Bb" n="52"/>mortali, corruptibili &amp; incorruptibili, corporali &amp; incorporali. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1315">
+        ⁋ Sed dicunt adhuc quod in di 
+        <lb ed="#Bb" n="53"/>uinis non est vnitas positionum, cum non sit in eis vnum quod est principium numeri: quod maxi- 
+        <lb ed="#Bb" n="54"/>me videtur aliquid positiue dicere. Dicet forte aliquis ad hoc, quod si non est in diuinis vnum 
+        <lb ed="#Bb" n="55"/>quod est principium numeri, tunc vnum quod est in illis super quod fundatur aequalitas, est vnum quod  
+   <!--499.xml-->
+        <pb ed="#Bb" n="242-v"/>
+        <lb ed="#Bb" n="1"/>convertitur cum ente. de quo constat quod non dicit priuationem: sed veram positionem sicut &amp; ens: &amp; si di- 
+        <lb ed="#Bb" n="2"/>cat negationem quae importatur nomine indiuisionis: quia vnum est ens indiuisum: illa tamen negatio est negatio 
+        <lb ed="#Bb" n="3"/>negationis, quia diuisio secundum rem negatio est. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1335">
+        ⁋ Sed nec illud verum est: quia vnum super quod fundatur relatio 
+        <lb ed="#Bb" n="4"/>conis identitatis, aequalitatis, &amp; similitudinis, non est nisi vnum oppositum multo: super quod fundantur rela 
+        <lb ed="#Bb" n="5"/>tiones contrarae scilicet diuersum, inaequale, dissimile, licet in diuinis alterum naturaliter insit, &amp; reliquum 
+        <lb ed="#Bb" n="6"/>impossibile est inesse. In diuinis enim sunt vnum &amp; relationes fundatae super illud. Vnde verum est quod in di 
+        <lb ed="#Bb" n="7"/>uinis non est vnum quod est principium nuneri, qui quasi per materialem replicationem vnitatum super se in ea 
+        <lb ed="#Bb" n="8"/>dem natura constituat numerum absolutorum, sicut contingeret si secundum Semiarrianos deitas plurifica 
+        <lb ed="#Bb" n="9"/>retur in patre &amp; filio. Ex talium enim vnitatum replicatione nunerus constitutus appellatur numerus mate  
+        <lb ed="#Bb" n="10"/>rialis: quid est impossibilis in diuinis. Et ideo non est in diuinis vnum quod est principium nueri. Est tamen in  
+        <lb ed="#Bb" n="11"/>diuinis vnum quod est principium nuneri formalis per replicationem vnitatum relatiuarum super se in eadem 
+        <lb ed="#Bb" n="12"/>natura deitatis, cum tres personae numerantur in diuinis ad modum differentium si 
+        <lb ed="#Bb" n="13"/>dicta, vel in diuersis naturis, sicut contingit cum deus connumeratur creaturae, &amp; dicitur quod  
+        <lb ed="#Bb" n="14"/>deus &amp; creatura sunt duo, in quibus &amp; deus est vnum, &amp; creatura est vnum. 
+        <lb ed="#Bb" n="15"/>illud vnum in tribus personis plurificatum formaliter &amp; relatiue fundantur in deo identitas, 
+        <lb ed="#Bb" n="16"/>aequalitas, &amp; similitudo: quia tale vnum non convenit pluribus, quale secundum praedeter 
+        <lb ed="#Bb" n="17"/>vnum super quod fundatur relatio communis: sed fundantur super vnum quod convertitur cum ente increato quod est di 
+        <lb ed="#Bb" n="18"/>uina essentia, quod est cone tribus personis, sicut est ipsa diuina essentia consider 
+        <lb ed="#Bb" n="19"/>tiae, quantitatis, &amp; qualitatis, cui non respondet multum in diuinis: quia multum in personis est ex al- 
+        <lb ed="#Bb" n="20"/>terius generis vnitatibus. Vnde nec huic vnitati opponitur: sed opponitur ei multum 
+        <lb ed="#Bb" n="21"/>ris non priuatiue sed vt est, &amp; tale vnum verissime positiuum est. Super illud autem multum quod est deus 
+        <lb ed="#Bb" n="22"/>&amp; creatura, fundantur diuersum inaequale &amp; dissimile. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1379">
+        ⁋ Quia autem arguitur per Magistrum Sententia- 
+        <lb ed="#Bb" n="23"/>rum, quod aequalitas dicit priuationem: quia (vt dicit) non est relatio vel notio. i. relatio realis vel 
+        <lb ed="#Bb" n="24"/>rationalis: vt etiam (secundum quod dicit) quibusdam non indocte videatur nomine aequalitatis 
+        <lb ed="#Bb" n="25"/>non poni aliquid, sed remoueri: Dico quod re vera aequalitas non est relatio realis, sed rationalis 
+        <lb ed="#Bb" n="26"/>&amp; quo ad hoc non est nisi appellatio relatiua. Nihil tamen positiui habet in rerum natura, quantum 
+        <lb ed="#Bb" n="27"/>relatio realis &amp; rationalis. Quia tamen habet sibi aliquid respondens in re super quod fundatur, &amp; 
+        <lb ed="#Bb" n="28"/>quo ad hoc non est pure rationalis, sed completiue tantum secundum superius determinata, &amp; quo ad  
+        <lb ed="#Bb" n="29"/>hoc habet aliquid positiui in rerum natura: sed ratione sui fundamenti, ratione cuius non di 
+        <lb ed="#Bb" n="30"/>cit remotionem sed positionem tantum: ratione etiam eius quod completiue est a ratione, non dicit remoti 
+        <lb ed="#Bb" n="31"/>ue sed tantum positiue: licet non nisi id quod est aliquid secundum rationem. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1401">
+        ⁋ Ad intelligendum ergo  
+        <lb ed="#Bb" n="32"/>quomodo dicat Magister nomine aequalitatis non aliquid poni sed remoueri, sciendum quod nomine 
+        <lb ed="#Bb" n="33"/>aequalitatis tria est considerare. scilicet significatum, &amp; rationem intelligendi, &amp; vsum ipsius nominis. Si 
+        <lb ed="#Bb" n="34"/>ergo aspiciamus ad nominis significatum: dico secundum iam dicta quod aliquid ponit &amp; nihil 
+        <lb ed="#Bb" n="35"/>remouet. Si autem aspiciamus ad rationem nostram &amp; modum intelligendi significatum il- 
+        <lb ed="#Bb" n="36"/>lud: dico quod non ponit aliquid, sed remouet tantum: quia aequalitatem non intelligimus sicut nec 
+        <lb ed="#Bb" n="37"/>definimus (vt tangitur in argumento secundum Philosophum) nisi per abnegationem eius 
+        <lb ed="#Bb" n="38"/>quod est maius &amp; minus: sicut etiam non intelligimus nec definimus vnum nisi per abnegationem 
+        <lb ed="#Bb" n="39"/>diuisionis: inquantum definitio vnius est quod est ens indiuisum. Si vero aspiciamus ad vsum: sic in  
+        <lb ed="#Bb" n="40"/>telligit magister nomine aequalitatis non poni aliquid sed remoueri: quia non vtimur principaliter nomine 
+        <lb ed="#Bb" n="41"/>aequalitatis in diuinis ad ponendum aliquid per illud super illa quae sunt relata aequalitate: &amp; dicuntur fo 
+        <lb ed="#Bb" n="42"/>re aequalia: sed potius ad remouendum ab eisdem comparatis inter se maius &amp; minus, &amp; hoc propter hae 
+        <lb ed="#Bb" n="43"/>reticorum pertinaciam, praecipue Arrianorum, quid dicebant patrem esse maiorem quo ad deitatem, &amp; filium minorem 
+        <lb ed="#Bb" n="44"/>licet in rei veritate per illam remotionem intelligitur vera positio in relatione aequalitatis, &amp; ratione funda- 
+        <lb ed="#Bb" n="45"/>menti illius, &amp; ratione eius quod habet a ratione sicut iam dictum est. Propter quod ad insinuandum quod nullus esset 
+        <lb ed="#Bb" n="46"/>propter negationem quam aequalitas importat defectus in deo intelligendus, sed positio tantum: non dixit magi 
+        <lb ed="#Bb" n="47"/>ster nomine aequalitati aliquid priuari sed remoueri. Priuari enim non dicit nisi carentiam eius quod non inest 
+        <lb ed="#Bb" n="48"/>natum tamen est inesse: quod vere est defectus. Remoueri autem dicit exclusionem eius quod est extra, quod nequaquam  
+        <lb ed="#Bb" n="49"/>natum est inesse, quod re vera nullum ponit defectum. Et hoc quemadmodum cum in verbis personalibus primae 
+        <lb ed="#Bb" n="50"/>&amp; secundae personae intelligitur nominatiuus definitus ego vel tu: dicendo curro curris, nominatiuus ille expres 
+        <lb ed="#Bb" n="51"/>sus non apponitur seu exprimitur ad aliquid ponendum quod prius non erat intellectum: sed solummodo ad aliquid  
+        <lb ed="#Bb" n="52"/>remouendum: quia secundum Priscianum non apponitur nisi ad significantiam discretionis faciendam, dicen 
+        <lb ed="#Bb" n="53"/>do, ego curro vel tu curris, ac si diceretur nullus alius praeter me vel praeter te currit: seu nul- 
+        <lb ed="#Bb" n="54"/>lus alius ita bene. Et cum secundum eundem in singulari numero intelligitur vnus: dicendo ho 
+        <lb ed="#Bb" n="55"/>mo vel equus, vnus non apponitur ad aliquid ponendum: sed potius ad remouendum: dicendo vnus 
+   <!--500.xml-->
+        <pb ed="#Bb" n="243-r"/>
+        <lb ed="#Bb" n="1"/>homo vel vnus equus currit, ad significandum quod non plures currunt: quemadmodum etiam di- 
+        <lb ed="#Bb" n="2"/>cimus quod deus est vnus, ad excludendum siue remouendum non esse plures deos. Hoc etiam mo-  
+        <lb ed="#Bb" n="3"/>do vtimur nominibus numeralibus in diuinis: dicendo quod sunt tres personae, ad excludendum 
+        <lb ed="#Bb" n="4"/>siue remouendum quod non sunt plures nec pauciores. Ex quali vsu talium nominum, scilicet non 
+        <lb ed="#Bb" n="5"/>ad pone ndum aliquid, sed potius remouendum: nequaquam argui potest quod quantum est ex parte sui 
+        <lb ed="#Bb" n="6"/>significati nihil omnino ponant in diuinis nisi priuationem: &amp; non aliquid positiue: sicut nec pos- 
+        <lb ed="#Bb" n="7"/>sumus dicere quod illa pronomina ego, tu, cum exprimuntur cum verbis primae &amp; secundae perso- 
+        <lb ed="#Bb" n="8"/>nae, nihil omnino de suo significato ponunt nisi aliquid priuatiue. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1477">
+        ⁋ Ad sextum, quod filius est vir- 
+        <lb ed="#Bb" n="9"/>tus patris, quae quantitas est in diuinis, nihil autem est aequale suae quantitati: ergo &amp;c. Dico quod  
+        <lb ed="#Bb" n="10"/>illud dictum est per appropriationem, non autem per proprietatem. Pater enim &amp; filius sunt vna 
+        <lb ed="#Bb" n="11"/>virtus. Vnde Augustinus. vii. de trinitate. capitu. iiii. exponens quomodo Christus est dei vir- 
+        <lb ed="#Bb" n="12"/>tus &amp; dei sapientia, &amp; respondens rationi haereticorum quam tetigit in principio sexti libri, dicit 
+        <lb ed="#Bb" n="13"/>sic. Ipse Christus virtus est &amp; sapientia dei, quia est de deo virtute &amp; sapientia. Ipse virtus &amp; sa 
+        <lb ed="#Bb" n="14"/>pientia dei est, sicut lumen de lumine. Argumentum vero procedit ac si pater non esset virtus 
+        <lb ed="#Bb" n="15"/>aut sapiens ex se. 
+        <lb ed="#Bb" n="16"/>
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1497">
+        ⁋ Quod autem arguitur ad oppositum primo quod in diuinis sit aequalitas ad minus ad 
+        <lb ed="#Bb" n="17"/>seipsum, quod est contra superius dicta: quia. scilicet vnumquodque in diuinis sicut est idem sibi, sic est nec 
+        <lb ed="#Bb" n="18"/>minus nec maius seipso: ergo est aequale sibi: Dico quod non sequitur: quia magis &amp; minus etiam 
+        <lb ed="#Bb" n="19"/>continentur sub inaequali: &amp; aequale &amp; inaequale non diuidunt immediate totum ens. In hoc enim 
+        <lb ed="#Bb" n="20"/>differunt opposita sicut affirmatio &amp; negatio, &amp; opposita sicut habitus &amp; priuatio, quod affirma- 
+        <lb ed="#Bb" n="21"/>tio aut negatio de quolibet dicitur, &amp; per immediationem diuidunt totum ens. De quolibet enim 
+        <lb ed="#Bb" n="22"/>verum est affirmare aut negare quodcunque. Priuatio autem &amp; habitus non sic: sed habent solum 
+        <lb ed="#Bb" n="23"/>modo esse circa determinatum subiectum, &amp; determinato tempore, &amp; circa illud solummodo  
+        <lb ed="#Bb" n="24"/>per immediationem se habent vt alterum eorum insit: circa alia autem subiecta non sic: quia po 
+        <lb ed="#Bb" n="25"/>test neutrum illorum illis inesse: &amp; sic contingit in proposito. Aequalitas enim aut inaequali- 
+        <lb ed="#Bb" n="26"/>tas non sunt nata esse nisi inter diuersa, non autem sunt eiusdem ad seipsum. Et ideo licet in  
+        <lb ed="#Bb" n="27"/>diuinis nihil sit seipso maius aut minus: nihil tamen cum hoc est in illis sibi aequale. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1524">
+        ⁋ Ad se- 
+        <lb ed="#Bb" n="28"/>quens, quod directe videtur esse contra hoc scilicet quod ratione vnius substantiae qua in diuinis dicitur ali 
+        <lb ed="#Bb" n="29"/>quid idem sibi, dicitur etiam idem alteri: ergo &amp; ratione vnius quantitatis aliquid dicitur aequa  
+        <lb ed="#Bb" n="30"/>le alteri &amp; sibi: Dico quod bene sequeretur hoc si quantitas aeque eodem modo se haberet ad causan 
+        <lb ed="#Bb" n="31"/>dum aequale, sicut substantia ad causandum idem. Sed non est ita: quia substantia sub ratione sub 
+        <lb ed="#Bb" n="32"/>stantiae manens duplicem patitur considerationem. Vnda. scilicet vt est aliquid secundum se consideratum. 
+        <lb ed="#Bb" n="33"/>Alteram, vt est aliquid alterius. Non sic autem quantitas: quia si non consideretur quantitas vt est 
+        <lb ed="#Bb" n="34"/>aliquid secundum se consideratum, statim induit rationem substantiae, &amp; amittit rationem quantita 
+        <lb ed="#Bb" n="35"/>tis, nisi consideretur vt est aliquid alterius. Propter quod licet super substantiam vt secundum se con 
+        <lb ed="#Bb" n="36"/>sideratur, fundetur identitas qua dicitur idem sibi: puta deitas deitati, &amp; non penes primum mo-  
+        <lb ed="#Bb" n="37"/>dum identitatis: &amp; vt consideratur sicut aliquid alterius, super illam etiam fundetur identitas qua  
+        <lb ed="#Bb" n="38"/>ipsa dicitur idem illi cuius est aliquid: puta deitas ipsi patri, &amp; qua illi quorum ipsa est aliquid,  
+        <lb ed="#Bb" n="39"/>communiter dicuntur idem sibi: puta pater filio: tamen super quantitatem vt secundum se considera- 
+        <lb ed="#Bb" n="40"/>tur, non fundatur aequalitas, sed identitas: qua ipsa dicitur eadem sibi: sed solummodo vt conside- 
+        <lb ed="#Bb" n="41"/>ratur sicut aliquid alterius, super ipsam fundatur aequalitas, &amp; hoc non sui ad illud cuius est: sed  
+        <lb ed="#Bb" n="42"/>solummodo illorum duorum quorum est aliquid inter se. Non enim magnitudo dicitur aequalis 
+        <lb ed="#Bb" n="43"/>sibi vel habenti magnitudinem in se, sed solummodo aequalia dicuntur habentia communiter in se 
+        <lb ed="#Bb" n="44"/>eandem magnitudinem numero, quod contingit in solis diuinis: aut specie, quod contingit in creatu- 
+        <lb ed="#Bb" n="45"/>ris. Et sic vnum &amp; idem quod est substantia aliqua, habens in se aliquam quantitatem: licet ratione 
+        <lb ed="#Bb" n="46"/>substantiae dicatur idem sibi, ratione tamen quantitatis illius non dicitur aequale sibi, sed alte- 
+        <lb ed="#Bb" n="47"/>ri tantum. Et sic res quaelibet per hoc quod ipsa est bene comparatur sibiipsi, &amp; hoc non nisi primo modo iden- 
+        <lb ed="#Bb" n="48"/>titatis: per se autem quod est aliquid sui inquantum huiusmodi, nullo modo sibiipsi comparatur, sed alteri 
+        <lb ed="#Bb" n="49"/>tantum: licet aliter &amp; aliter cum illud sit substantia, &amp; cum sit quantitas aut qualitas. Quia cum est substam 
+        <lb ed="#Bb" n="50"/>tia, habens illam comparatur bene per identitatem ad ipsam substantiam habitam: dicendo pater 
+        <lb ed="#Bb" n="51"/>est idem deitati. Deitate enim deitas est eadem sibi, &amp; cuilibet personae habenti eam, &amp; similiter quaelibet per- 
+        <lb ed="#Bb" n="52"/>sona alteri. Cum vero est quantitas aut qualitas, hamens illam non comparatur quantitati per aequalitatem: sed so 
+        <lb ed="#Bb" n="53"/>lummodo alteri habenti illam, neque conparatur qualitati per similitudinem, sed solummodo habenti il- 
+        <lb ed="#Bb" n="54"/>lam. 
+      </p>
+      <p xml:id="vn58an-fe65061-d1e1585">
+        ⁋ Ex quo patet quod aequalitas &amp; similitudo necessario praesupponunt aequalia &amp; similia prius  
+   <!--501.xml-->
+        <pb ed="#Bb" n="243-v"/>
+        <lb ed="#Bb" n="1"/>natura esse aliquo modo diuersa seu distincta, quam inter se referantur aequalitate aut similitu 
+        <lb ed="#Bb" n="2"/>ne: licet identitas primo modo nullam distinctionem relatorum praesupponit: sed solummodo r 
+        <lb ed="#Bb" n="3"/>ferendo ratio illa distinguit. Patet etiam quod aequalitas &amp; similitudo requirunt quod quantitas &amp; qua 
+        <lb ed="#Bb" n="4"/>litas sint aliquid illorum quae secundum illas referuntur: licet non requirat dicta identitas  
+        <lb ed="#Bb" n="5"/>substantia secundum quam referuntur eadem, sit aliquid illorum. Etenim cum in creaturis quam 
+        <lb ed="#Bb" n="6"/>titates diuersae comparentur inter se secundum aequalitatem: dicimus enim lineam esse aequa 
+        <lb ed="#Bb" n="7"/>lem lineae: hoc non contingit nisi quantitas quaelibet non solum sit mensura alterius: sed etiam 
+        <lb ed="#Bb" n="8"/>suiipsius, &amp; semetipsam denominet: vt mensura mensuratum. Dicimus enim non solum quod lignum 
+        <lb ed="#Bb" n="9"/>est quantum, sed etiam quod quantitas est quanta, &amp; ipsa inquantum est mensura, est quantitas, &amp; 
+        <lb ed="#Bb" n="10"/>aliquid suiipsius inquantum est quantum denominatum pro mensuratiuo. &amp; per hoc vna quam 
+        <lb ed="#Bb" n="11"/>titas vt ipsa est quantum quoddam &amp; mensuratum, aequalis est sibi vt ipsa est mensura, &amp; 
+        <lb ed="#Bb" n="12"/>hoc in solis creaturis: in quibus sunt diuersae quantitates specie aut genere: non autem in di- 
+        <lb ed="#Bb" n="13"/>uinis: quia in illis non est nisi vna quantitas numeralis, quae plurium est. Propter quod licet di 
+        <lb ed="#Bb" n="14"/>camus in diuinis quod immensitas est immensa: non tamen dicimus quod immensitas est aequalis im 
+        <lb ed="#Bb" n="15"/>mensitati, nec dicimus quod immensitas patris est aequalis immensitati filii: licet dicamus quod pater 
+        <lb ed="#Bb" n="16"/>immensitate est aequalis filio, &amp; econuerso: &amp; quod veritas est aequalis immensitate bonitati &amp; 
+        <lb ed="#Bb" n="17"/>econuerso, &amp; sic de caeteris. secundum quod haec magis clarent ex supra determinatis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="3-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe747a"> <!-- alias="vn58an-a42q1" -->
+      <head xml:id="vn58an-fe747a-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe747a-d1e107">
+        <lb ed="#Bb" n="14"/>Irca primum arguitur quod deus non possit dici perfectus. 
+        <lb ed="#Bb" n="15"/>Primo sic. omne perfectum est factum: quia praepositio il- 
+        <lb ed="#Bb" n="16"/>la per, in proposito non diminuit sed potius auget. Deus 
+        <lb ed="#Bb" n="17"/>non est factus: quia per ipsum facta sunt omnia, vt vult 
+        <lb ed="#Bb" n="18"/>Augustinus super Ioan. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe747a-d1e120">
+        ⁋ Secundo sic. id cuius na- 
+        <lb ed="#Bb" n="19"/>tura stat in eo quod supra se recipit omnes conditiones 
+        <lb ed="#Bb" n="20"/>nobilitatis, maxime imperfectum est: quia de ratione perfecti 
+        <lb ed="#Bb" n="21"/>est quod non recipit additionem in dignitate &amp; nobilitate: &amp; de ratione im 
+        <lb ed="#Bb" n="22"/>perfecti: quod recipit additionem, vt iam dicetur. Deus est huiusmodi: quia non est nisi esse purum vt habitum est 
+        <lb ed="#Bb" n="23"/>supra. Esse autem simpliciter &amp; purum, super se recipit omnes determinationes dignitatis &amp; nobilitatis, 
+        <lb ed="#Bb" n="24"/> vt sunt sapientia, bonitas, pulchritudo &amp;c. huiusmodi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe747a-d1e136">
+        ⁋ Tertio sic, quae perfecta sunt per se ni 
+        <lb ed="#Bb" n="25"/>hil inuenitur extra illa, vt dicit <ref xml:id="vn58an-fe747a-Rd1e140">Philosophus. v. meta. ca. de perfecto</ref>. &amp; dicit <ref xml:id="vn58an-fe747a-Rd1e143">primo cae. &amp; mundo</ref>. quod corpus 
+        <lb ed="#Bb" n="26"/>vniuersi ex hoc est perfectum quia non habet aliud corpus extra, quod tangit ipsum. extra deum autem sunt 
+        <lb ed="#Bb" n="27"/>omnes creaturae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe747a-d1e152">
+        ⁋ In oppositum est: quoniam imperfectum habet esse ab aliquo perfecto quod habet es 
+        <lb ed="#Bb" n="28"/>se prius. secundum enim quod dicit Philosophus. xii. meta. semina quia imperfecta sunt: sunt ex aliis praeceden 
+        <lb ed="#Bb" n="29"/>tibus perfectis. Primum enim non est semen: sed aliquid perfectum verbi gratia: quod hominem oportet 
+        <lb ed="#Bb" n="30"/>esse ante sperma. Deus autem habet esse non ab alio sed a se, vt habitum est supra. a quo omne aliud 
+        <lb ed="#Bb" n="31"/>habet esse, vt videndum est infra. ergo &amp;c. Vnde dicitur Matth. v. Estote perfecti sicut pater vester cae 
+        <lb ed="#Bb" n="32"/>lestis perfectus est, qui est ipse deus. Et in symbolo dicitur de Christo quia est perfectus deus. 
+        <lb ed="#Bb" n="33"/>
+      </p>
+      <p xml:id="vn58an-fe747a-d1e168">
+        ⁋ Quia vt habitum est ex praedeterminatis, ex eis quae apparent nobis in creatu- 
+        <lb ed="#Bb" n="34"/>ris declarantur nobis consideranda circa deum creatorem: vt cognoscamus perfectionem diuinam 
+        <lb ed="#Bb" n="35"/>&amp; qualiter excedit perfectionem omnis creaturae: oportet hic primo videre modos perfectionis re- 
+        <lb ed="#Bb" n="36"/>pertos in creaturis: &amp; videre quis congruat deo &amp; quis non. Et quia cognitio nostra ab imperfecto 
+        <lb ed="#Bb" n="37"/>ad perfectum naturaliter procedit: &amp; de imperfecto nata est a nobis haberi cognitio imperfecta:  
+        <lb ed="#Bb" n="38"/>&amp; de perfecto perfecta: In hoc enim secantur scientiae quemadmodum &amp; res: vt dicitur tertio de ani 
+        <lb ed="#Bb" n="39"/>ma: Idcirco incipiendum est a modis imperfectionis repertae in creaturis, vt ex opposito pateant no 
+        <lb ed="#Bb" n="40"/>bis modi perfectionis. Est igitur sciendum quod ratio imperfecti est quod ex se sit diminutum in aliquo:  
+        <lb ed="#Bb" n="41"/>&amp; ideo natum super se recipere additionem alicuius extra se: &amp; econtrario ratio perfecti est quod in  
+        <lb ed="#Bb" n="42"/>se non sit diminutum in aliquo: &amp; ideo nec natum recipere additionem alicuius extra se inquan- 
+        <lb ed="#Bb" n="43"/>tum huiusmodi. Hinc dicit <name ref="#Augustine">Augustinus</name> lb de natura &amp; gratia. Ibi est summa perfectio vbi nihil addi- 
+        <lb ed="#Bb" n="44"/>tur. &amp; primo solilo. Summa plenitudo est vbi nihil deest. Circa modos igitur imperfecti, &amp; per con 
+        <lb ed="#Bb" n="45"/>sequens perfecti, aduertendum: quod imperfectum quia potest recipere additionem, aut est susceptibi- 
+        <lb ed="#Bb" n="46"/>le additionis intra se in simplicitate naturae suae &amp; essentiae: aut extra simplicitatem naturae &amp; essentiae 
+        <lb ed="#Bb" n="47"/>suae. Primo modo est imperfectum omne quod intentionem capere potest inquantum huiusmodi: &amp; ex 
+        <lb ed="#Bb" n="48"/>opposito perfectum est illud quod in naturae suae intentione vltimatum terminum habet. Hoc modo 
+        <lb ed="#Bb" n="49"/>secundum Philosophum. v. metaphysicae, dicitur perfectum aliquid secundum virtutem &amp; modum 
+        <lb ed="#Bb" n="50"/>bonitatis suae, quando nihil aliud potest habere excessum super ipsum secundum illud genus naturae 
+        <lb ed="#Bb" n="51"/>&amp; hoc dupliciter: Proprie, &amp; transumptiue. Proprie quando est perfectio secundum id quod est bonum sim- 
+        <lb ed="#Bb" n="52"/>pliciter, vt dicitur aliquis medicus vel musicus perfectus quando secundum speciem propriae virtutis &amp; bonitatis 
+        <lb ed="#Bb" n="53"/>scilicet medicinae vel musicae, in nullo deficit aut diminuitur. Et secundum Commenta. hoc est per 
+   <!--22.xml-->
+        <pb ed="#Bb" n="4-r"/>
+        <lb ed="#Bb" n="1"/>fectum secundum qualitatem, quando nihil inuenitur dignius eo in suo genere. Medicus enim 
+        <lb ed="#Bb" n="2"/>dicitur perfectus a quo nihil diminuitur ex eis quae pertinent ad actionem medicinae: &amp; quo nul- 
+        <lb ed="#Bb" n="3"/>lus medicus est perfectior. Transumptiue vero dicitur perfectum quando est perfectio secundum 
+        <lb ed="#Bb" n="4"/>id quod est malum simpliciter, inquantum tamen in malo cadit ratio bonitatis ex ordine ad suum fi- 
+        <lb ed="#Bb" n="5"/>nem: licet secundum quid, quia non est ad finem bonum sed malum: qui non est finis nisi secun- 
+        <lb ed="#Bb" n="6"/>dum quid. Non enim omne vltimum finis: sed optimum, vt dicitur. ii. physi. Et per hunc modum secun 
+        <lb ed="#Bb" n="7"/>dum Philosophum. v. meta. dicimus mendacem perfectum &amp; latronem perfectum: quia vocamus 
+        <lb ed="#Bb" n="8"/>eos nomine bonitatis: &amp; dicimus quod est bonus latro &amp; bonus mendax. Vnde quia perfectio est ipsius 
+        <lb ed="#Bb" n="9"/>finis: quia finis est vltimum in re: finem &amp; perfectionem transferendo a bonis ad praua: quia ambo 
+        <lb ed="#Bb" n="10"/>vltima sunt: dicimus quod aliquis corrumpitur perfecta corruptione &amp; destruitur perfecta distructione: 
+        <lb ed="#Bb" n="11"/>quando nihil deest aut diminuitur corruptioni &amp; malo: sed est in vltimo corruptionis &amp; valde ma 
+        <lb ed="#Bb" n="12"/>lum. Si autem sit imperfectum: quia susceptibile est additionis extra simplicitatem suae essentiae: aut  
+        <lb ed="#Bb" n="13"/>ergo tanquam totum partis intra se: aut tanquam pars partis supra se. Primo modo imperfectum est omne 
+        <lb ed="#Bb" n="14"/>totum quod deficit aut diminuitur in aliqua parte quae ad integritatem suam requiritur. Et ex oppo 
+        <lb ed="#Bb" n="15"/>sito perfectum est illud secundum Philosophum. v. meta. cuius impossibile est accipere aliam partem 
+        <lb ed="#Bb" n="16"/>extra omnino: &amp; hoc dupliciter: vel in se &amp; absolute, vel in respectu ad aliquid aliud. Primo modo se 
+        <lb ed="#Bb" n="17"/>cundum Commen. ibidem, homo dicitur esse perfectus quando nullum membrum illius est extra ipsum id is. qui non est 
+        <lb ed="#Bb" n="18"/>in aliquo membro diminutus. Secundo modo dicitur perfectum tempus periodale cuiuslibet rei natu 
+        <lb ed="#Bb" n="19"/>ralis extra, quia secundum <name ref="#Aristotle">Philosophum</name> non est accipere tempus aliquod quod sit illius temporis pars. 
+        <lb ed="#Bb" n="20"/>vt enim dicit Commnet. ibidem, Tempus vitae perfectum in vnoquoque ente est id extra quod non inuenitur tempus 
+        <lb ed="#Bb" n="21"/>quod sit pars illius temporis. Et per hunc modum dicitur numerus perfectus ille qui constat ex o- 
+        <lb ed="#Bb" n="22"/>mnibus partibus suis aliquotis respectu omnium aliorum numerorum. nihil enim habet extra se quid sit pars 
+        <lb ed="#Bb" n="23"/>eius vel pars suae partis: sicut habent numerus abundans &amp; diminutus. Si vero sit imperfectum suscepti 
+        <lb ed="#Bb" n="24"/>bile additionis extra simplicitatem suae essentiae tanquam pars partis alterius supra se ad constituendum 
+        <lb ed="#Bb" n="25"/>totum: hoc modo imperfectum semper est illud quod alterum recipit supra se quia est pars, &amp; perfectum est 
+        <lb ed="#Bb" n="26"/>ipsum totum ex vtroque constitutum inquantum huiusmodi. Totum enim secundum Philosophum. v. metaphy. di 
+        <lb ed="#Bb" n="27"/>citur a quo non diminuitur aliqua pars quibus dicitur totum. Quod autem diminuitur, semper dicitur pars illius ex 
+        <lb ed="#Bb" n="28"/>quo diminuitur. Sed ista additio partis super partem potest fieri vel translatione in aliud specie, vel appo 
+        <lb ed="#Bb" n="29"/>sitione eiusdem specie. Primo modo dupliciter: aut additione alicuius quantitatiui: aut qualitatiui 
+        <lb ed="#Bb" n="30"/>Primo modo linea est dimensio imperfecta respectu superficiei: &amp; superficies respectu corporis: &amp; solum 
+        <lb ed="#Bb" n="31"/>corpus est dimensio perfecta. Vt enim dicit Philosophus, Magnitudo quae habet vnam dimensionem tantum, linea 
+        <lb ed="#Bb" n="32"/>est: &amp; quae habet duas, superficies est: quae habet tres, corpus est. &amp; post istam non est magnitudo alia. 
+        <lb ed="#Bb" n="33"/>quoniam vt dicit Commen, non est mensura quaerta. Propter quod (vt dicit ibidem Philosophus) non est possibilis per- 
+        <lb ed="#Bb" n="34"/>mutatio corporis ad aliud genus: sicut est permutatio lineae ad superficiem, superficiei ad corpus. 
+        <lb ed="#Bb" n="35"/>Nam si est via ad permutationem, tunc corpus non est magnitudo perfecta. ergo est diminuta. Namn 
+        <lb ed="#Bb" n="36"/>non est permutatio nisi in diminuto. Perfectum enim (vt dicit ibi Commenta. est quod non recipit addi 
+        <lb ed="#Bb" n="37"/>tionem: nec fertur in aliud genus. Secundo modo materia &amp; omne quod est in potentia per susceptio- 
+        <lb ed="#Bb" n="38"/>nem alicuius formae ad aliud, inquantum huiusmodi imperfectum est: &amp; totum compositum est per 
+        <lb ed="#Bb" n="39"/>fectum. Secundum enim quod dicit Philosophus. v. metaphysicae, forma complementum est: &amp; comple- 
+        <lb ed="#Bb" n="40"/>tum est quod habet complementum. Si autem sit aliquid imperfectum quia receptibile est alterius su- 
+        <lb ed="#Bb" n="41"/>pra se in eadem specie, aut ergo hoc fit procedente augmento per totum: aut extensione eius in  
+        <lb ed="#Bb" n="42"/>aliquo latere eius. Primo modo puer est imperfectus secundum quantitatem: factus autem vir est se 
+        <lb ed="#Bb" n="43"/>cundum quantitatem perfectus. Secundo modo linea recta inquantum ex vtroque termino potest 
+        <lb ed="#Bb" n="44"/>additionem recipere, imperfecta est. Linea vero circularis quia non habet terminum cui potest fieri addi 
+        <lb ed="#Bb" n="45"/>tio, perfecta est. secundum quod dicit Philosophous. ii. cae. &amp; mundo. Completum est illud post quod non est pos 
+        <lb ed="#Bb" n="46"/>sibile aliquam rem inueniri extra ipsam. Possibile est autem vt addatur in linea aequali additione 
+        <lb ed="#Bb" n="47"/>sempiterna: &amp; non est possibile vt addatur in circulari linea aliquid omnino: est igitur linea rotun 
+        <lb ed="#Bb" n="48"/>da stans perfecta. Si autem aliquid fuerit imperfectum: quia susceptibile alicuius supra se extra sim 
+        <lb ed="#Bb" n="49"/>plicitatem naturae &amp; essentiae suae: aut ergo est ista imperfectio propter differentem gradum natu 
+        <lb ed="#Bb" n="50"/>rarum: aut propter diuersitatem in natura ipsarum. Primo modo creatura proxima in dignitate 
+        <lb ed="#Bb" n="51"/>naturae primo principio quod deus est, semper perfecta est respectu remotioris: &amp; remotior imperfe- 
+        <lb ed="#Bb" n="52"/>cta respectu superioris: quia superior aliquid addit dignitatis in esse suo super dignitatem in esse 
+        <lb ed="#Bb" n="53"/>iferioris. Secundo modo triplicitur: vniversalimultitudine eiusdem specie diuersitate indiuiduorum: vel eiusdem genere diuer 
+        <lb ed="#Bb" n="54"/>sitate specierum: vniversaldiuersorum genere. Primo modo imperfectum est quodlibet indiuiduum quod habet aliud sibi simile in specie sibi 
+   <!--23.xml-->
+        <pb ed="#Bb" n="4-v"/>
+        <lb ed="#Bb" n="1"/>additum in eadem specie: &amp; perfectum quod continet totam suam speciem sub vnico indiuiduo: si ali 
+        <lb ed="#Bb" n="2"/>quod esset tale. Et per hunc modum in primo cael. &amp; mund. <name ref="#Aristotle">Philosophus</name> posuit mundum esse perfe- 
+        <lb ed="#Bb" n="3"/>ctum: quia secundum ipsum non posset esse alius numero. Vnde dicit ibi Commen. Haec est causa mul 
+        <lb ed="#Bb" n="4"/>torum indiuiduorum vnius specie. scilicet quod propter diminutionem non fuit natura contenta in esse vnius 
+        <lb ed="#Bb" n="5"/>Secundo modo omne corpus mundi contentum in toto est imperfectum &amp; diminutum: quia habet 
+        <lb ed="#Bb" n="6"/>aliud extra se quod tangit ipsum, licet sit perfectum secundum tres dimensiones, vt dictum est. Et so 
+        <lb ed="#Bb" n="7"/>lum corpus vniuersi est perfectum: quia nullum potest esse extra quod tangit ipsum. Vnde dicit Phi 
+        <lb ed="#Bb" n="8"/>losophus. i. cae. &amp; mundo. Reliquorum corporum vnumquodque secundum suam dispositionem est in termino com 
+        <lb ed="#Bb" n="9"/>plementi: quia habet tres dimensiones. Veruntamen est ei terminus quem tangit aliquod corporum 
+        <lb ed="#Bb" n="10"/>quod est post ipsum: &amp; commensuratur ipsum. sit ergo propter illud vnumquodque eorum multa. vbi dicit Con- 
+        <lb ed="#Bb" n="11"/>men. Et secundum hunc modum sunt diminuta quae possunt recipere additionem: &amp; non sunt multa 
+        <lb ed="#Bb" n="12"/>nisi quia sunt contingentes: &amp; quod inuenitur in eis plus quam vnum, est diminutum: quia si esset per 
+        <lb ed="#Bb" n="13"/>fectum sufficeret esse vnum: &amp; sic est in mundo. Et hoc est quod continuo dicit Philosophus. Totum autem 
+        <lb ed="#Bb" n="14"/>cuius corpora ista sunt partes, est completum non diminutum necessario. Commen. i. totus mundus 
+        <lb ed="#Bb" n="15"/>necessario est perfectus omnibus modis perfectionis. Est enim perfectum: secundum quod omnes partes eius per 
+        <lb ed="#Bb" n="16"/>fectae sunt: &amp; quoniam nihil continet ipsum: &amp; non est plus vno indiuiduo. Et per hunc modum quilibet 
+        <lb ed="#Bb" n="17"/>numerus minor respectu maioris propter additionem est imperfectus. Propter quod dicit <name ref="#Aristotle">Philosophus</name> 
+        <lb ed="#Bb" n="18"/>v. metaphysicae. Quod diminuitur ex quantitate secundum quod est quantitas, semper dicitur pars illius ex 
+        <lb ed="#Bb" n="19"/>quo diminuitur: sicut dicitur quod duo sunt pars tririum. Tertio modo quodlibet genus praedicamenti quo ad  
+        <lb ed="#Bb" n="20"/>omnia quae continet, imperfectum est in natura &amp; essentia sua: quia extra se habet perfectionem in 
+        <lb ed="#Bb" n="21"/>alio praedicamento, quam non habet ex natura &amp; essentia sua. Et perfectione opposita huic imperfectioni 
+        <lb ed="#Bb" n="22"/>nulla creatura omnino potest esse perfecta: immo quaelibet est imperfecta: quia in sua essentia non habet quicquid perfectionis 
+        <lb ed="#Bb" n="23"/>est in quaelibet alia: sed eam oportet inuestigare in solo creatore deo: quia in ipso solo inuenitur, vt habet declara 
+        <lb ed="#Bb" n="24"/>ri in quaestione sequenti. 
+      </p>
+      <p xml:id="vn58an-fe747a-d1e404">
+        ⁋ Quia ergo quaeritur vtrum deus dicendus est esse perfectus, Dicendum quod sic 
+        <lb ed="#Bb" n="25"/>secundum omnes modos perfectionis praedictos, amouendo ab eis illud quod imperfectionis eis admixtum 
+        <lb ed="#Bb" n="26"/>est in creaturis: quia in eis pure &amp; absolute perfectum nihil potest inueniri. Est ergo intelligendum quod 
+        <lb ed="#Bb" n="27"/>secundum determinationem Philosophi in. v. metaphysicae, omnes praedicti modi perfectionis ad tres redu 
+        <lb ed="#Bb" n="28"/>cuntur. Dicit enim ibi: quod quae dicuntur perfecta per se, secundum hos modos dicuntur, quaedam quia non di-  
+        <lb ed="#Bb" n="29"/>minuitur ab eis aliquid de bonitate, neque eis est magis: &amp; hoc quo ad primum modum: &amp; etiam ni- 
+        <lb ed="#Bb" n="30"/>hil inuenitur extra illa: &amp; hoc quo ad omnes alios praeter vltimum: &amp; quodam modo vniversali: ita quod in eis est no 
+        <lb ed="#Bb" n="31"/>bilitas in vnoquoque genere: &amp; nihil est extra illa: &amp; hoc quo ad vltimum modum, quem (vt in sequenti 
+        <lb ed="#Bb" n="32"/>quaest. patebit) deo attribuimus. Vnde exponendo istam vltimam clausulam dicit Commtetnorem quod definitio eo 
+        <lb ed="#Bb" n="33"/>rum quae vniversale dicuntur perfecta, est talis: quod perfecta sunt illa quorum nihil inuenitur per quod dicuntur imperfecta in 
+        <lb ed="#Bb" n="34"/>eis: aut extrinsecun. &amp; ista est dispositio primi principil scilicet dei. Et loquitur de sic perfectis in plurali, modo po- 
+        <lb ed="#Bb" n="35"/>nentium plures deos essentialiter, licet secundum veritatem tantum vnicus sit talis, vt hab itum est ex su- 
+        <lb ed="#Bb" n="36"/>pra determinatis. Et sic ista definitio perfecte conuenit soli deo: quia in ipso solo nihil inuenitur per quid  
+        <lb ed="#Bb" n="37"/>dicatur imperfectum: nec in ipso nec extra ipsum. Vnde &amp; dicit Auicen. iiii. meta. quod perfectum bonita 
+        <lb ed="#Bb" n="38"/>te est aliquid: quia quicquid debet habere de bonitate habet, &amp; nihil remanet extra. Et per attributio- 
+        <lb ed="#Bb" n="39"/>nem ad istum modum perfectionis, dicitur persectio in omnibus aliis quae creaturae conveniunt. secundum quod 
+        <lb ed="#Bb" n="40"/>consequenter subdit <name ref="#Aristotle">Philosophus</name> dicens. Alii autem modi sunt secundum hunc modum aut in faciendo aliquid  
+        <lb ed="#Bb" n="41"/>tale scilicet quale facit primum perfectum: aut in habendo scilicet aliquid tale quale ipse habet: aut in congruendo tali: 
+        <lb ed="#Bb" n="42"/>aut quia dicuntur in aliqua proportione qua attribuuntur ad illa quae dicuntur perfecta primo modo. Vbi dicit 
+        <lb ed="#Bb" n="43"/>Commentator. i. alii de quibus dicitur hoc nomen perfectum, dicuntur perfecta aut quia agunt illa quae sunt perfecta 
+        <lb ed="#Bb" n="44"/>aut quia aliquod est in eis istorum perfectorum: aut quia assimilantur eis: aut quia eis attribuuntur aliquo modo 
+        <lb ed="#Bb" n="45"/>attributionis. Deus ergo simpliciter perfectus debet dici: &amp; primo perfectum ex se: in quo nihil inue 
+        <lb ed="#Bb" n="46"/>nitur imperfecti: neque in ipso: neque extrisecus. Neque in ipso, propter omnes modos perfectionis praeter vltimum, quid 
+        <lb ed="#Bb" n="47"/>conveniunt creaturis. Neque extrinsecus, propter vltimum modum quem nulla creatura attingit: quia 
+        <lb ed="#Bb" n="48"/>in qualibet inuenitur aliquid imperfecti: quia non habet in sua essentia id perfectionis quod habet extri 
+        <lb ed="#Bb" n="49"/>secus alia creatura: sicut habet deus, vt infra videbitur. Est igitur deus perfectus secundum primum 
+        <lb ed="#Bb" n="50"/>praedictorum modorum perfectionis: quia nihil diminuitur in eo de bonitate, neque est aliquid eo in  
+        <lb ed="#Bb" n="51"/>bonitate magis: &amp; hoc propter eius infinitatem, vt infra videbitur. Sed aliter quam in creaturis dicun 
+        <lb ed="#Bb" n="52"/>tur aliqua perfecta primo modo. In illis enim quod perfectum est: compositum est ex imperfecto &amp; perfectione: cui convenit 
+        <lb ed="#Bb" n="53"/>ille modus perfectionis. quoniam, vt dicit Philosophus, virtus est quaedam perfectio, quodlibet enim dicitur perfectum quando secundum speciem 
+        <lb ed="#Bb" n="54"/>propriae virtutis in nulla deficit parte. Et haec est bonitas cuiuslibet rei substantialis qua perficitur in suo esse: 
+        <lb ed="#Bb" n="55"/>&amp; habet opeationem perfectam: debitam suae speciei. Si inquam ponamus talem creaturam perfectam eo quod nihil diminuitur 
+   <!--24.xml-->
+        <pb ed="#Bb" n="5-r"/>
+        <lb ed="#Bb" n="1"/>in ea de bonitate. Neque etiam est aliquod eo in bonitate magis quantum ad naturam suae speciei. talis enim perfe 
+        <lb ed="#Bb" n="2"/>ctio nata est esse in quaelibet specie creaturae. Est tamen aliquod eo in bonitate magis simpliciter extra suam speciem: in 
+        <lb ed="#Bb" n="3"/>quantum quaelibet creatura inferior habet supra se creaturam secundum gradum naturae quae est in bonita- 
+        <lb ed="#Bb" n="4"/>te magis, vt patet in viii. modo perfectionis praedicto: vel ad minus inquantum supra quamlibet creatu 
+        <lb ed="#Bb" n="5"/>ram est ipse deus. Deficit etiam: quia multas perfectiones accidentales nata est talis natura in se recipe 
+        <lb ed="#Bb" n="6"/>re: non deus. Vnde dicit Auicen. viii. met. Necesse esse est perfectum esse, nam nihil deest sibi de suo esse &amp; de perfectio 
+        <lb ed="#Bb" n="7"/>nibus sui esse: nec aliquoid generis sui esse egreditur ab esse eius ad aliud a se, sicut egreditur ab alio a se. verbi gra 
+        <lb ed="#Bb" n="8"/>tia ab homine, multa enim de perfectionibus sui esse desunt vnicuique homini. &amp; etiam sua humanitas in-  
+        <lb ed="#Bb" n="9"/>uenitur in alio a se quod pertinet etiam ad quartum modum perfectionis in deo. Similiter aliter quam in creatu- 
+        <lb ed="#Bb" n="10"/>ris Deus est perfectus secundo modo perfectionis: quia nihil sui est extra ipsum: neque est in aliquo  
+        <lb ed="#Bb" n="11"/>diminutus: quia est simplex &amp; purum esse. In quo deficiunt a perfectione composita ex partibus 
+        <lb ed="#Bb" n="12"/>quantitatiuis: quamuis nihil sui habent extra: neque sit in eis aliquid diminutum. Similiter est perfectus si 
+        <lb ed="#Bb" n="13"/>ne omni imperfectione (Tertio modo: quia propter simplicitatem &amp; intransmutabilitatem suum esse 
+        <lb ed="#Bb" n="14"/>non potest ferri in aliud: nec habet ipsum per compositionem aut translationem) sicut habet corpus: quod 
+        <lb ed="#Bb" n="15"/>magnae perfectionis est in eo. Similiter est perfectus quarto modo sine omni imperfectione: quia non est omni 
+        <lb ed="#Bb" n="16"/>no in potentia: sed est actus purus, vt habitum est supra. Vnumquodque enim perfectum est: inquantum est ens 
+        <lb ed="#Bb" n="17"/>in actu: &amp; imperfectum inquantum est in potentia cum priuatione actus. lgitur compositum quod sit 
+        <lb ed="#Bb" n="18"/>ex potentia &amp; actu: licet ratione actus habet quod sit persectum: ratione tamen potentiae aliquid imper- 
+        <lb ed="#Bb" n="19"/>fectionis habet adiunctum. Vnde peccabant quidam ex antiquis Philosophis: qui primum prin- 
+        <lb ed="#Bb" n="20"/>cipium quod deus est, dixerunt esse primum principium materiale, vt dicitur. xii. meta. &amp; expositum est supra. 
+        <lb ed="#Bb" n="21"/>Et propter hoc dixerunt quod esse optimum &amp; perfectissimum non potuit attribui principio: sed ei quod pro 
+        <lb ed="#Bb" n="22"/>cedit ex principio. hoc enim necessarium est de primo principio materiali: quia est imperfectissimum necessario, cum 
+        <lb ed="#Bb" n="23"/>sit maxime in potentia, &amp; minime ens: sed proximum non enti, quasi medium inter ens actu quoquo modo: &amp; non ens, 
+        <lb ed="#Bb" n="24"/>vt tactum est aliquantulum supra: &amp; magis declarandum est loquendo de materia. Non autem est verum de 
+        <lb ed="#Bb" n="25"/>primo principio efficiente quale est deus, quale non viderunt illi: sed solum principium materiale, quale 
+        <lb ed="#Bb" n="26"/>non potest esse deus, vt habitum est supra. Sicut enim prima materia per hoc quod est subiectum vltimum 
+        <lb ed="#Bb" n="27"/>maxime est in potentia &amp; imperfectissimum: sic primum agens quia est primum mouens, maxime 
+        <lb ed="#Bb" n="28"/>debet esse in actu: &amp; ideo perfectissimum: ita quod impossibile sit aliquid esse perfectius eo. Cum enim nihil agit 
+        <lb ed="#Bb" n="29"/>nisi secundum quod est in actu: &amp; ita actio sequitur modum actus in agente: impossibile est productum per 
+        <lb ed="#Bb" n="30"/>actionem esse in nobiliori actu quam sit agens: etsi sit in aequali: sicut est filius cum patre: si reducamus 
+        <lb ed="#Bb" n="31"/>omnes alias actiones quascumque ad actiones personales in diuinis: &amp; illas ad actionem primam qua pa- 
+        <lb ed="#Bb" n="32"/>ter producit verbum: sicut necesse est reduci, vt infra videbitur. Quomodo autem non potest in aequa  
+        <lb ed="#Bb" n="33"/>li actu: sed necessario in inferiori &amp; imperfectiori producere aliquid in creaturis extra suam substantiam, 
+        <lb ed="#Bb" n="34"/>patebit loquendo de creaturis. Quomodo etiam imperfectum ens &amp; in potentia, non potest esse pri- 
+        <lb ed="#Bb" n="35"/>mum simpliciter: sed necesse est vt perfectum praecedat imperfectum, &amp; imperfectum sit a perfecto, habitum 
+        <lb ed="#Bb" n="36"/>est supra. Similiter deus est perfectus sine omni imperfectione ad similitudinem quinti modi: quia in vir 
+        <lb ed="#Bb" n="37"/>tute essentiae &amp; naturae augmentum non recipit, neque ex imperfecto ad perfectum per transmutatio- 
+        <lb ed="#Bb" n="38"/>nem &amp; alicuius appositionem deuenit. Similiter est perfectus iuxta. vi. modum propter circulum in  
+        <lb ed="#Bb" n="39"/>finitatis suae: non est tamen in se ex partibus finitis compositum: sicut compositus est circulus. Si 
+        <lb ed="#Bb" n="40"/>militer iuxta septimum modum solus deus verissime dicitur perfectus sine omni imperfectione: quia ipse 
+        <lb ed="#Bb" n="41"/>sine gradu dignitatis naturae in suo esse omnem gradum creaturae transcendit: in qua imperfectio- 
+        <lb ed="#Bb" n="42"/>nis est &amp; defectus: quia in dignitate sui esse limitationem habet &amp; gradum. Et ex hoc patebit in se- 
+        <lb ed="#Bb" n="43"/>quenti quaestione quomodo deus est perfectus perfectionibus omnibus omnium creaturarum. Simili- 
+        <lb ed="#Bb" n="44"/>ter iuxta modum octauum solus deus vere perfectus est sine omni imperfectione annexa: quia vt ha-  
+        <lb ed="#Bb" n="45"/>bitum est ex praedeterminatis, ipse vnicus est secundum numerum: ita quod non possit esse deus alius nume- 
+        <lb ed="#Bb" n="46"/>ro differens ab ipso. Creatura autem aliqua etsi sit vnica in vna specie, vt propter persectionem 
+        <lb ed="#Bb" n="47"/>eius in vnico indiuiduo sit contenta: &amp; hoc quia in natura illius indiuidui sit perpetua &amp; incorrupti 
+        <lb ed="#Bb" n="48"/>bilis: propter quod plura sunt indiuidua sibi succedentia propter continuam generationem in corruptibilibus: vt 
+        <lb ed="#Bb" n="49"/>quod in vno perpetuari non possit, perpetuetur in pluribus, vt dicit Philosophus. ii. de anima: nulla ta- 
+        <lb ed="#Bb" n="50"/>men species creaturae est quae inquantum est de se, apta sit non plurificari per plura indiuidua. si 
+        <lb ed="#Bb" n="51"/>cut patebit infra loquendo de vniuersali. Et illud est imperfectionis in quolibet indiuiduo: quia totam 
+        <lb ed="#Bb" n="52"/>capacitatem speciei in se non terminat. secundum quod de hoc modo perfectionis &amp; praecedente &amp; sequente simul dicit Aui 
+        <lb ed="#Bb" n="53"/>cem. viii. meta. Necesse esse est perfectum esse. Nam nihil deest sibi de suo esse &amp; de perfectionibus sui esse: nec aliquid ge 
+        <lb ed="#Bb" n="54"/>neris sui esse egreditur ab esse eius ad aliud a se: sicut egreditur ab alio a se. verbi gratia ad homine. Multa enim 
+        <lb ed="#Bb" n="55"/>de perfectionibus sui esse desunt vnicuique homini: &amp; etiam sua humanitas inuenitur in alio a se. sed neces- 
+   <!--25.xml-->
+        <pb ed="#Bb" n="5-v"/>
+        <lb ed="#Bb" n="1"/>se esse est plusquam perfectum, quia ipsum esse quod est ei, non est ei. tantum: immo etiam omne esse est exuberans ab esse eius 
+        <lb ed="#Bb" n="2"/>&amp; est eius, &amp; fluit ab illo. De eodem li. iiii. c. xxii. Similiter iuxta. ix. modum solus deus vere perfectus est si- 
+        <lb ed="#Bb" n="3"/>ne omni imperfectione annexa, quia extra ipsum nihil est quod non habet verius esse in ipso quam in se extra ipsum  
+        <lb ed="#Bb" n="4"/>ita quod omnino nihil potest esse extra ipsum quod non sit in ipso: quia omnia per ipsum facta sunt, &amp; sine ipso factum 
+        <lb ed="#Bb" n="5"/>est nihil. Io. i. sicut etiam habet declarari loquendo de exitu creaturarum in esse. Si autem esset tale aliquid extra 
+        <lb ed="#Bb" n="6"/>ipsum quod non esset ab ipso, neque verius in ipso quam in semetipso, hoc magnae imperfectionis esset in ipso, sicut 
+        <lb ed="#Bb" n="7"/>secundum <name ref="#Aristotle">Philosophum</name> imperfectionis est in quolibet corpore in vniuerso quod sit cum ipso aliud corpus tagens ipsum quod non 
+        <lb ed="#Bb" n="8"/>est ab ipso, neque per essentiam in ipso. Sed quod multa sunt extra ipsum quae sunt in ipso, &amp; verius quam in se sunt in 
+        <lb ed="#Bb" n="9"/>ipso: hoc ex magna perfectione procedit in ipso: &amp; esset magnae imperfectionis si non possent esse ab ipso extra 
+        <lb ed="#Bb" n="10"/>ipsum, licet per suum esse ab ipso nullam perfectionem apponunt ipsi, vt exponendum est loquendo de creaturis. 
+        <lb ed="#Bb" n="11"/>Nunc autem etsi non sit aliud corpus extra corpus vniuersi huius continens ipsum, &amp; quo ad hoc corpus 
+        <lb ed="#Bb" n="12"/>vniuersi est perfectius quolibet corpore contento ab ipso, vt posuit <name ref="#Aristotle">Philosophus</name> &amp; bene, quia tamen posset esse aliud cor 
+        <lb ed="#Bb" n="13"/>pus extra ipsum continens ipsum, vt coelum maioris ambitus extra vltimum coelum quod modo est vltimum con 
+        <lb ed="#Bb" n="14"/>tinens ipsum, quod essentialiter esset extra ipsum, &amp; non ab ipso, sed solum a diuina potentia infinita hoc agente, 
+        <lb ed="#Bb" n="15"/>quod <name ref="#Aristotle">Philosophus</name> non sentiebat, immo contrarium sentiebat, &amp; male: ldcirco quo ad hoc corpus vniuersi cum sua per 
+        <lb ed="#Bb" n="16"/>fectione quam dedit ei Philosophus, magna imperfectio est ei annexa: quam non vidit. luxta. x. vero modum solus 
+        <lb ed="#Bb" n="17"/>deus ita perfectus est quod in illa perfectione nulla creatura ei in aliquo participat. Nulla ei creatura alterius 
+        <lb ed="#Bb" n="18"/>naturae perfectionem, propriam habet in se, sicut deus habet perfectiones proprias omnium creaturarum, vt in sequenti 
+        <lb ed="#Bb" n="19"/>quaestione patebit. Vnde dicit Dio. xiii. c. de di. no. Theologia de omnium causa omni &amp; simul omnia praedicat, &amp; 
+        <lb ed="#Bb" n="20"/>vt perfectum &amp; solum perfectum. ergo est non solum vt per seipsum perfectum, &amp; totum per totum perfectissimum, sed vt 
+        <lb ed="#Bb" n="21"/>plusquam perfectissimum, secundum omnium excellentiam &amp; omnem quasi multitudinem terminans, omnium summitati super 
+        <lb ed="#Bb" n="22"/>expansum, &amp; a nullo locatum aut comprehensum, sed extensum in omnia simul &amp; super omnia. Et ideo dicit 
+        <lb ed="#Bb" n="23"/>Auicen. viii. Meta. Necesse esse est plusquam perfectum: quia ipsum esse quod est ei, non est ei tantum: immo etiam omne esse est 
+        <lb ed="#Bb" n="24"/>exuberans ab eius esse, &amp; est eius, &amp; fliuit ab illo. Quia etiam alias perfectiones habeat secundum alios modos 
+        <lb ed="#Bb" n="25"/>praecedentes, hoc est participatione perfectionis huius secundum aliquem gradum attributionis, vt dictum est secundum 
+        <lb ed="#Bb" n="26"/>Philosophum. Dens enim alii modi perfectionis qui creaturis conueniunt ab isto descendunt, &amp; in istum reducuntur 
+        <lb ed="#Bb" n="27"/>tanquam in illo quid habet in se rationes omnium modorum perfectionis sine omni ratione imperfectionis annexa. 
+        <lb ed="#Bb" n="28"/>Ad primum in oppositum quod deus non est perfectus, quia non est factus: dicendum quod si 
+        <lb ed="#Bb" n="29"/>spiciamus ad originem nominis, quantum ad rationem impositionis, deus perfectus dici non potest, quia vt 
+        <lb ed="#Bb" n="30"/>pcedit argumentum, quantum ad nominis impositionem perfectum dicitur aliquid quia ad plenum factum: vt 
+        <lb ed="#Bb" n="31"/>praepositio illa per, in compositione significatum factionis augeat, nec mutet, nec minuat. Et sic quantum 
+        <lb ed="#Bb" n="32"/>ad proprietatem nominis, quod factum non est, perfectum dici non potest. Cum enim aliquid ducitur de potentia 
+        <lb ed="#Bb" n="33"/>in actum &amp; de non esse in esse, tunc sit, &amp; quodammodo factum est, quia secundum Philosophum. vi. physicae. in quoli 
+        <lb ed="#Bb" n="34"/>bet fieri sunt infinita facta esse. Cum vero per tale fieri ad plenum &amp; vltimate factum est in actu, ad quod  
+        <lb ed="#Bb" n="35"/>erat prius in potentia: tunc recte secundum nominis proprietatem dicitur perfectum, quasi plene &amp; totalite 
+        <lb ed="#Bb" n="36"/>factum potentia totaliter ad actum deducta quantum est possibile nihil remanendo de non esse. Si vero inspi 
+        <lb ed="#Bb" n="37"/>ciamus ad naturam rei cui hoc nomen perfectum imponitur, cuiusmodi est actus completus vt actus est 
+        <lb ed="#Bb" n="38"/>absolute, non vt alicui potentiae admixtus, qui verissime habet esse in deo, vt probatum est supra: &amp; vt 
+        <lb ed="#Bb" n="39"/>dicit Diony. xiii. c. de di. no. perfectum dicitur velut non auctum: sed semper perfectum: &amp; vt indiminutum 
+        <lb ed="#Bb" n="40"/>vt omnia in seipso superans secundum eandem superplenam &amp; non minoratam largitatem per quam perfe- 
+        <lb ed="#Bb" n="41"/>cta sunt omnia perficit, &amp; propria replet perfectione: Hoc ergo modo deus propriissime dicitur esse perfe 
+        <lb ed="#Bb" n="42"/>ctus: &amp; creatura secundario &amp; ex consequenti per quandam attributionem: nomine perfecti dicto analogice 
+        <lb ed="#Bb" n="43"/>de actualitate esse creatoris &amp; creaturae, vt perfectum in communitate analogica acceptum non solum no 
+        <lb ed="#Bb" n="44"/>minet existens in actu completo quod fiendo peruenit ad ipsum, sed etiam illud quod ex se sine fieri praeceden- 
+        <lb ed="#Bb" n="45"/>te habet actum completum, quia ex se est necesse esse. Et hoc contingit saepius in creaturis, quod idem quod 
+        <lb ed="#Bb" n="46"/>prius est significatum sub nomine quantum ad nominis famositatem &amp; proprietatem impositionis, posterius est 
+        <lb ed="#Bb" n="47"/>sub ipso quantum ad veritatem rei. Et econtrario in eis quae communiter conveniunt creatori &amp; creatu 
+        <lb ed="#Bb" n="48"/>rae contingit semper, quia nomina non sunt a nobis primo imposita nisi repertis in creaturis tamquam nobis no 
+        <lb ed="#Bb" n="49"/>tis magis. Non enim imponit nomen nisi qui nouit rem. secundum Commen. super. vii. Meta. Consequenter autem 
+        <lb ed="#Bb" n="50"/>cognito ex creaturis quia perfectius habent esse in creatore quae cognouimus in creaturis, nomina imposi 
+        <lb ed="#Bb" n="51"/>ta creaturis transferimus ad significandum ea quae aduertimus esse in creatore, quod non potest esse sine aliqua  
+        <lb ed="#Bb" n="52"/>nominis improprietate, quantum est ex ratione impositionis. Propter quod dicit Gre. quod balbutiendo vt possumus 
+        <lb ed="#Bb" n="53"/>exc: lsa dei resonamus. Vnde idem loquens de hoc nomine perfectum circa deum. xxix. Mora. in principio ait. Hoc 
+        <lb ed="#Bb" n="54"/>ipso quod perfectum dicimus multum ab illius veritatis expressione deuiamus, quia quod factum non est non potest 
+        <lb ed="#Bb" n="55"/>dici perfectum: &amp; tamen infirmitatis nostrae verbis domins condescendens ait. Estote perfecti sicut &amp; pater vester coe 
+   <!--26.xml-->
+        <pb ed="#Bb" n="6-r"/>
+        <lb ed="#Bb" n="1"/>lestis perfectus est. 
+      </p>
+      <p xml:id="vn58an-fe747a-d1e740">
+        ⁋ Ad secundum, quod deus quia est purum esse, &amp; recipit supra se rationes omnis perfectioni 
+        <lb ed="#Bb" n="2"/>debet esse summe imperfectum: Dicendum quod tam in creatore quam in creatura esse potest considerari respe- 
+        <lb ed="#Bb" n="3"/>ctu essentiae rei: vel respectu attributorum essentiae: &amp; vtroque modo esse propriissime deo convenit inter omnia 
+        <lb ed="#Bb" n="4"/>ei attributa &amp; de eo praedicata. Maxime enim exprimit rationem actus ex suo nomine: omnia autem alia vt es- 
+        <lb ed="#Bb" n="5"/>sentia, vita, sapientia, &amp; caetera huiusmodi, magis exprimunt diuinum esse in ratione habitus. Vnde cum esse, 
+        <lb ed="#Bb" n="6"/>essentia, vita, sapientia, &amp; huiusmodi idipsum re in deo nominant sub differenti ratione esse primo ei attribuendo,  
+        <lb ed="#Bb" n="7"/>vt dicatur essentia ab esse: non autem esse ab essentia: cuius ratio primo convenit deo post rationem esse: &amp; dehico 
+        <lb ed="#Bb" n="8"/>vlterius rationes aliorum per ordinem secundum rationem nostram intelligendi, vt infra videbitur: non vt determi- 
+        <lb ed="#Bb" n="9"/>nantia &amp; contrahentia esse dei: sic enim esse esset ratio summe imperfecta in deo: &amp; deus summe imperfectus, in 
+        <lb ed="#Bb" n="10"/>quantum non est nisi esse: sed vt explicantia propriis rationibus quae esse continet in se in actu perfecto sub 
+        <lb ed="#Bb" n="11"/>ratione essendi communi. Nominat enim essentia diuinam naturam inquantum esse est ei actus qui est esse absolute 
+        <lb ed="#Bb" n="12"/>Vita vero nominat eandem inquantum esse est actus eius quid est viuere. Sapientia inquantum esse est actus 
+        <lb ed="#Bb" n="13"/>eius qui est sapere: &amp; sic de aliis. Et sic omnis actus in deo sub esse actu includitur: &amp; est id quod compa 
+        <lb ed="#Bb" n="14"/>ratur ad omnia diuina attributa vt actus eorum &amp; forma: &amp; sic comparatur ad alia non vt recipiens ad 
+        <lb ed="#Bb" n="15"/>recepta, &amp; materiale ad formale, sicut procedit ratio: sed magis vt formale receptum ad recipientia: quae 
+        <lb ed="#Bb" n="16"/>actualitatem suam in eo &amp; ab eo habent ex receptione: &amp; id quid sunt: vt omnia quae significantur in deo vt habitus: 
+        <lb ed="#Bb" n="17"/>sicut essentia, vita, sapientia, &amp; huiusmodi. secundum rationem intelligendi intelligantur denominari ab esse puro: essentia in 
+        <lb ed="#Bb" n="18"/>quantum esse simpliciter:r vita inquantum esse est viuere: sapientia inquantum esse est sapere: &amp; sic de aliis, quasi omnia procederent 
+        <lb ed="#Bb" n="19"/>in deo ab esse: sicut si lux procederet a lucere: &amp; hoc quia propriissimum est deo actualitas. Econverso autem conti 
+        <lb ed="#Bb" n="20"/>git in creaturis quod actus intelligendi procedit ab habitu vt ab essentia esse &amp; a sapientia sapere: sicut a luce luce 
+        <lb ed="#Bb" n="21"/>re: &amp; hoc quia creaturae non est ex se esse in actu: &amp; ideo secundum rationem nostram intelligendi primo habet a deo quod  
+        <lb ed="#Bb" n="22"/>sit essentia: &amp; esse quia est essentia: sicut sapere quia habet sapientiam. Et propter hoc in creaturis ratio esse quod pro 
+        <lb ed="#Bb" n="23"/>cedit ab essentia sua, non includit in seirationem cuiuslibet alterius actus: sicut neque essentia cuiusli- 
+        <lb ed="#Bb" n="24"/>bet alterius habitus includit. Immo sicut essentia differt re in creatura a sapientia: sic esse procedens ab essen 
+        <lb ed="#Bb" n="25"/>tia differt ab esse quod procedit a sapientia, vt ipsa in se est quaedam essentia: &amp; multo fortius ab eius actu secundo quid est 
+        <lb ed="#Bb" n="26"/>sape. Et sicut sapientia se habet per additionem ad essentiam: sic esse huius ad illud esse. Et hoc esse substam 
+        <lb ed="#Bb" n="27"/>tiale in creaturis comparatur ad solam essentiam vt formale &amp; actuale receptum in ea, non causando eam: 
+        <lb ed="#Bb" n="28"/>sed magis causatum ab ea: econtrario eius quod dictum est de essentia &amp; esse in deo: ad alia autem attributa ac 
+        <lb ed="#Bb" n="29"/>cidentalia essentiae, vt incompletum recipiens ea &amp; determinatum per esse eorum. Inquantum enim quodlibet illorum est 
+        <lb ed="#Bb" n="30"/>natura quaedam &amp; essentia in se, actus cuiuslibet illorum est esse quoddam: sed accidentale essentiae substantiali &amp; 
+        <lb ed="#Bb" n="31"/>eius esse, quod quidem esse accidentale vt actus &amp; forma est respectu essentiae illorum attributorum. Vt sic generaliter 
+        <lb ed="#Bb" n="32"/>verum sit sumendo esse vt cone analogum ad esse substantiale &amp; accidentale, quod esse est omnium perfectissimum 
+        <lb ed="#Bb" n="33"/>&amp; ad omnia alia comparatur vt actus: quia nihil habet actualitatem nisi per esse aliquod: vt esse commune analogum sit 
+        <lb ed="#Bb" n="34"/>actualitas omnium rerum &amp; ipsarum formarum etiam tam substantialium quam accntalium: quia comparatur ad illas non  
+        <lb ed="#Bb" n="35"/>vt recipiens ad receptum: sed magis econuerso. Et in neutro istorum esse includuntur actus secundi attri- 
+        <lb ed="#Bb" n="36"/>butorum vt sapere &amp; huiusmodi: immo isti actus re differunt ab illis: &amp; sunt formales respectu illorum. Quia tamen 
+        <lb ed="#Bb" n="37"/>ipsum sape est quoddam esse &amp; quiddam viuere: sumendo adhuc communissime esse: vt cum esse essentiae sub- 
+        <lb ed="#Bb" n="38"/>stantiae &amp; accntis comprehendat quod est agere in actu secundo: verum est generaliter quod esse super omnia formale est: ali 
+        <lb ed="#Bb" n="39"/>ter tamen in deo quam in creatura, vt dictum est. quia ibi vnum &amp; idem esse essentiae est continens omnia esse fine determi 
+        <lb ed="#Bb" n="40"/>nationis receptione: a quo quasi sunt esse ipsa &amp; attributa vt dictum est. hic vero sunt diuersa esse: quo  
+        <lb ed="#Bb" n="41"/>rum alia determinant alia &amp; procedunt ab ipsis essentiis vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe747a-d1e829">
+        ⁋ Ad tertium quod multa sunt extra 
+        <lb ed="#Bb" n="42"/>deum: ergo non est perfectus: Dicendum quod extra aliquid est aliud dupliciter. Vno modo ita quod nullo modo habet  
+        <lb ed="#Bb" n="43"/>illud aliud esse in essentia eius. Quid sic habet aliud extra se: necessario habet esse imperfectum, vt dictum est supra: quia 
+        <lb ed="#Bb" n="44"/>non habet in se perfectionem illius alterius: &amp; ita aggregatum cum ipso totum est perfectius quoddam. Alio autem modo ha 
+        <lb ed="#Bb" n="45"/>bet aliquid esse extra aliud: ita quod verius habet esse in illo &amp; essentia eius quam in seipso. Quiod sic habet aliud  
+        <lb ed="#Bb" n="46"/>extra se: necessario est perfectissimum in se: quia habet in se omnium perfectiones: &amp; de sua perfectione est quod ta- 
+        <lb ed="#Bb" n="47"/>le aliud producit extra se: nec est perfectius hoc cum illo quod est extra se quasi congregatum, quam ipsum solum per 
+        <lb ed="#Bb" n="48"/>se: quia quicquid perfectionis habet illud extrisecum, hoc per se habet in se: licet sint plura perfecta: secun 
+        <lb ed="#Bb" n="49"/>dum quod amplius habet declarari loquendo de deo in comparatione ad creaturas.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

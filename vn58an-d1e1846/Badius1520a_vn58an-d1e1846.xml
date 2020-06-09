@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="147-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1846"> <!-- alias="vn58an-a25q1" -->
+      <head xml:id="vn58an-d1e1846-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1846-Hd1e107" type="question-title">Utrum Deus sit unus</head>
+      <p xml:id="vn58an-d1e1846-d1e110">
+        <lb ed="#Ba" n="22"/>CIrca primum arguitur quod deus non sit vnus Primo sic. nullus defectus vel priua 
+        <lb ed="#Ba" n="23"/>ltio conuenit deo: quia est ens summe in actu. Vnum dicit ens sub priuatione. secun 
+        <lb ed="#Ba" n="24"/>dum Philosophum. A. &amp;. io. metaphysicae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e119">
+        ⁋ Secundo sic. quod maxime dicit ra 
+        <lb ed="#Ba" n="25"/>ltionem finitatis &amp; limitationis, minime convenit infinito, Deus autem infinitus est, vt infra paa 
+        <lb ed="#Ba" n="26"/>tebit. vnum autem dicit finitationem &amp; limitationem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e127">
+        ⁋ Tertio sic, primum ac-  
+        <lb ed="#Ba" n="27"/>cidentis quod est de essentia eius, accidens est. vnitas est principium numeri quam est 
+        <lb ed="#Ba" n="28"/>species quantitatis &amp; de eius essentia. ergo est accidens. in deo nullum cadit acci 
+        <lb ed="#Ba" n="29"/>dens. ergo nec vnitas, non est ergo vnus. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e136">
+        ⁋ Quarto sic. cui non conuenit diuisum: neque aliquod di-  
+        <lb ed="#Ba" n="30"/>uidentium. ens quod praedicatur de. x. praedicamentis diuiditur in vnum &amp; multum. secundum Phi 
+        <lb ed="#Ba" n="31"/>losophum. xi. metaphysicae. illud autem ens non conuenit deo, vt habitum est supra: &amp; amplius in  
+        <lb ed="#Ba" n="32"/>fra videbitur. ergo neque vnum, cum sit diuisiuum eius. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e145">
+        ⁋ In contrarium est Dionysiu. cum dicit vl. ca. In 
+        <lb ed="#Ba" n="33"/>de di. no. Nihil est existentium non participans vno. sed quod in entibus participatum est dignitati, cuiusmodi 
+        <lb ed="#Ba" n="34"/>est vnitas, vt iam dicetur, est in deo per essentiam, vt videbitur infra. ergo deus est vnum, &amp; essentia 
+        <lb ed="#Ba" n="35"/>liter vnus. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e154">
+        <lb ed="#Ba" n="36"/>⁋ In hac quaestione sicut &amp; in qualibet alia: oportet primo scire quid dicitur pro no 
+        <lb ed="#Ba" n="37"/>men. Cum igitur supra visum est quid dicitur hoc nomine deus, restat hic primo videre quid dici- 
+        <lb ed="#Ba" n="38"/>tur hoc nomine vnus. Sciendum ergo quod secundum <name ref="#Aristotle">Philosophum</name> &amp; Commen. x. metaphysicae, idem 
+        <lb ed="#Ba" n="39"/>est modus consecutionis entis &amp; vnius ad praedicamenta, &amp; aequaliter diuiduntur praedicamenta 
+        <lb ed="#Ba" n="40"/>secundum ea. Sicut enim dicimus quod ens diuiditur per substantiam qualitatem quantitatem: &amp; sic 
+        <lb ed="#Ba" n="41"/>de aliis: sic &amp; vnum. &amp; hoc ideo: quia vt dicit. 4. eiusdem: non significat vnum re aliud ab ente. ser 
+        <lb ed="#Ba" n="42"/>mo enim dicentis homo vnus aut homo ens, non diuersa significat. &amp; ideo sicut supra dictum est 
+        <lb ed="#Ba" n="43"/>de ente, quod significat de re essentiam eius &amp; naturam, non dispositionem aliquam realem aliam additam 
+        <lb ed="#Ba" n="44"/>essentiae rei: sicut est dispositio in albo &amp; nigro: similiter est de vno quod est conuertibile cum ente 
+        <lb ed="#Ba" n="45"/>quod scilicet significat de re essentiam eius &amp; naturam non dispositionem aliquam realem aliam additam essen- 
+        <lb ed="#Ba" n="46"/>tiae rei: ita quod substantia cuiuslibet rei est vna per se essentialiter: non per rem additam ipsi, vt omni- 
+        <lb ed="#Ba" n="47"/>no sit eadem ratio realis rei: &amp; vnius rei: sicut hominis &amp; vnius hominis, vt dicitur in Elench. Vnde 
+        <lb ed="#Ba" n="48"/>&amp; Auiciecen, qui dicit in ii. Metaphysicae. quod vnum significat alid ab ente: quia non recipitur in certificatio 
+        <lb ed="#Ba" n="49"/>ne quiditatis alicuius: et ideo vnitas est intentio quae est accns: dicit ibidem quod vnitas est esse quod non diui 
+        <lb ed="#Ba" n="50"/>ditur sic quod esse est de essentia vnitatis: non subiectum ei. Ex quo plane patet quod Auicen. posuit cum Philosophous quod  
+        <lb ed="#Ba" n="51"/>vnum non significat re aliud ab ente: &amp; ita quod non significat accidens additum enti: sicut est dispo 
+        <lb ed="#Ba" n="52"/>sitio in albo &amp; nigro, vt imposuit ei Auer. sed quod significat aliam intentionem additam intentioni 
+   <!--309.xml-->
+        <pb ed="#Ba" n="147-v"/>
+        <lb ed="#Ba" n="1"/>entis: quam secundum modum suum loquendi appellat accidens, vocando accns rei omne quod conuenit rei 
+        <lb ed="#Ba" n="2"/>extra certitudinem quiditatis &amp; intentionis eius. Et si hoc contingit in creaturis: consimiliter &amp; in deo 
+        <lb ed="#Ba" n="3"/>multo fortius contigit: quod scilicet essentia sua ex se: essentialiter est vna sicut est ens, vt semper eodem ordine cur- 
+        <lb ed="#Ba" n="4"/>rant esse rei essentiale: &amp; vnitas quae cum ipso conuertitur. &amp; sic omnino eadem via concedendum 
+        <lb ed="#Ba" n="5"/>est quod deus sit vnus qua conceditur quod sit ens. dicit enim <name ref="#Boethius">Boethius</name>  super Porphysicam quod omne quod est, ideo est quia 
+        <lb ed="#Ba" n="6"/>vnum est. &amp; de consol. Omne quod est tandiu manet atque consistit quandiu vnitatem retinet: &amp; ne- 
+        <lb ed="#Ba" n="7"/>cesse est interire atque dissolui cum vnum esse desierit. &amp; de vnitate &amp; vno. Tandiu est quicquod est, quandiu 
+        <lb ed="#Ba" n="8"/>vnitas est. Cum autem defierit esse vnum, desinit esse id quod est. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e221">
+        ⁋ Postquam ergo concessum est su- 
+        <lb ed="#Ba" n="9"/>pra deum esse, secundum eundem modum concedendum est ipsum esse vnum. vnde ex declara- 
+        <lb ed="#Ba" n="10"/>tione qua supra declaratum est deum esse, patet declaratio quom ponendum est deum esse vnum. Vt tamen 
+        <lb ed="#Ba" n="11"/>sciamus diuersitatem inter quaestionem de ente &amp; de vno circa deum, sciendum quod licet idem significant 
+        <lb ed="#Ba" n="12"/>vnum &amp; ens: quia essentiam rei non dispositiones aliquas additas essentiae: ipsam tamen vt dicit Com 
+        <lb ed="#Ba" n="13"/>men. super. 4. metaphysicae, significant secundum diuersos modos: ita quod modus significationis entis a quo 
+        <lb ed="#Ba" n="14"/>imponitur ad significandum rei essentiam, simplicior est quam modus significationis vnius: quia ens in 
+        <lb ed="#Ba" n="15"/>ponitur ab actu essendi absoluto &amp; positiuo. vnum autem in significato suo includit significatum 
+        <lb ed="#Ba" n="16"/>entis cum determinatione: non dico addente super ens rem aliquam aliam ab illa quae significatur 
+        <lb ed="#Ba" n="17"/>nomine entis: sed solum addit vnum in suo significato super significatum entis, modum significandi. 
+        <lb ed="#Ba" n="18"/>Aliter enim esse vnum nullo modo deo conueniret: quia in ipso super suum esse non cadit determi- 
+        <lb ed="#Ba" n="19"/>natio neque compositio, vt infra patebit. Et ille modus significandi quem addit non est positiuus: sed  
+        <lb ed="#Ba" n="20"/>priuatiuus solum non priuando aliquid positiue dictum: aliter enim adhuc deo nullo modo conue- 
+        <lb ed="#Ba" n="21"/>niret esse vnum: quia esse eius omni defectum &amp; priuatione caret: sed modus ille significandi quem 
+        <lb ed="#Ba" n="22"/>addit vnum super ens, est modus priuatiuus priuando solum aliquid negatiue dictum: cuius pri- 
+        <lb ed="#Ba" n="23"/>uatio verissime deo conuenit: &amp; sic vnum significat ens carens priuatione illa quae significatur rea 
+        <lb ed="#Ba" n="24"/>liter nomine multitudinis, licet modo positiuo. Adeo autem quia est purissimus &amp; perfectissimus actus 
+        <lb ed="#Ba" n="25"/>vt infra patebit, verissime omnis ratio defectus &amp; priuationis remouetur: vt ideo verissime poterit 
+        <lb ed="#Ba" n="26"/>dici vnus sicut &amp; ens. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e263">
+        ⁋ Ad cuius intellectum &amp; ad dissolutionem primi argumenti sciendum, quod 
+        <lb ed="#Ba" n="27"/>secundum Philosophum. viii. metaphysicae, nullus potest imponere nomen nisi qui nouit rem. Et 
+        <lb ed="#Ba" n="28"/>ideo secundum modum quo res cognoscimus nomina eis imponimus. Nunc autem aliquando con 
+        <lb ed="#Ba" n="29"/>tingit quod nobis in multis notius est id quid secundum veritatem priuatio est, quam habitus sibi contra- 
+        <lb ed="#Ba" n="30"/>rius. In compositis enim ex materia &amp; forma vnio partium secundum rei veritatem habitus qui-  
+        <lb ed="#Ba" n="31"/>dam est a forma rei partes continente: &amp; significatur nomine vnius. Diuisio autem eorum secundum 
+        <lb ed="#Ba" n="32"/>rei veritatem est priuatio illius habitus: &amp; significatur nomine multitudinis. Vnde multum est 
+        <lb ed="#Ba" n="33"/>ens in se aliquo modo diuisum. Vnum vero est ens in se indiuisum. &amp; ideo dicit <name ref="#Boethius">Boethius</name>  de vni- 
+        <lb ed="#Ba" n="34"/>tate &amp; vno. Cum forma materiae vnitur, necessario ex coniunctione vtriusque aliquid vnum constitui 
+        <lb ed="#Ba" n="35"/>tur. in qua constitutione illud non permanet nisi quandiu vnitas formam cum materia tenet. ergo de 
+        <lb ed="#Ba" n="36"/>structio rei non erit aliud quam separatio formae a materia, quae est vnitioni contraria. &amp; propter hoc ni 
+        <lb ed="#Ba" n="37"/>hil eorum quae sunt: appetit esse multa. Quia tamen notior est nobis rerum diuisio &amp; separatio se 
+        <lb ed="#Ba" n="38"/>cundum partes, quam earum vnitio: secundum quod nobis notius est compositum quam simplex: prout dicir 
+        <lb ed="#Ba" n="39"/>Philosophus in principio physi. Sunt autem nobis primum manifesta &amp; certa mixta &amp; composi- 
+        <lb ed="#Ba" n="40"/>ta proprie. vbi dicit Commentator. Causata sunt cognita apud nos. causae autem sunt notiores 
+        <lb ed="#Ba" n="41"/>apud naturam: quia natura facit composita ex causis. Nunc autem ita est quod notiora nobis po- 
+        <lb ed="#Ba" n="42"/>tius vt habitus comprehendimus quam minus nota. Propter quod frequenter id quod minus positi- 
+        <lb ed="#Ba" n="43"/>uum est: sed magis defectiuam rem dicit: significamus nomine habitus: &amp; econuerso quod rem magis 
+        <lb ed="#Ba" n="44"/>positiuam dicit: significamus nomine priuationis, vt patet in diuisione substantiae per corpoream 
+        <lb ed="#Ba" n="45"/>&amp; incorpoream: licet enim incorporeum magis ens positiuum sit quam corporeum: quia tamen no-  
+        <lb ed="#Ba" n="46"/>tius nobis est corporale quam incorporeum spirituale, hoc nomine habitus concipimus &amp; exprimi- 
+        <lb ed="#Ba" n="47"/>mus, illud econtra nomine priuationis. Et secundum eundem modum nomen separationis signifi- 
+        <lb ed="#Ba" n="48"/>camus positiue hoc nomine quod est diuisio. Nomen autem vnitionis significamus priuatiue hoc no 
+        <lb ed="#Ba" n="49"/>mine indiuisio: licet ex parte rei sit econuerso: quod significatum reale diuisionis sit priuatiuum: &amp; si- 
+        <lb ed="#Ba" n="50"/>gnificatum reale indiuisionis sit positiuum. Diuisio enim siue multitudo nobis magis nota est &amp; 
+        <lb ed="#Ba" n="51"/>sensibilis quam indiuisio seu vnitas, vt dicit <name ref="#Aristotle">Philosophus</name> in 4. meta. Quod verum est secundum primum conceptum imaginati 
+        <lb ed="#Ba" n="52"/>uum. secundum autem verum conceptum intellectiuum est econverso. secundum quod dicit Auicen. x meta. suae. Videtur quod multitu 
+        <lb ed="#Ba" n="53"/>do notior sit secundum nostram imaginationem quam vnitas: &amp; videtur quod vnitas sit de iis quae  
+        <lb ed="#Ba" n="54"/>prius formamus. Prius enim imaginamur multitudinem: sed prius intelligimus vnitatem. Vnde quia 
+   <!--310.xml-->
+        <pb ed="#Ba" n="148-r"/>
+        <lb ed="#Ba" n="1"/>vnum imponitur ad significandum indiuisionem: &amp; multum imponitur ad significandum diuisionem: &amp; 
+        <lb ed="#Ba" n="2"/>diuisio est priuatio secundum rem: indiuisio vero negatio diuisionis non est nisi negatio priuatio- 
+        <lb ed="#Ba" n="3"/>nis: &amp; ita vera positio: vnum igitur secundum rem significat positionem. secundum modum autem 
+        <lb ed="#Ba" n="4"/>positionis significat negationem. Multum vero econuerso, secundum rem significat priuationem. secundum ve 
+        <lb ed="#Ba" n="5"/>ro modum nois, positione. Significat enim vnum positionem modo negationis: quia significat negationem ne 
+        <lb ed="#Ba" n="6"/>gationis. multum vero significat negationem positionis modo: quia significat affirmationem negatio- 
+        <lb ed="#Ba" n="7"/>nis. Hinc euenit quod multitudo definitur per vnitatem: &amp; vnitas per multitudinem. secundum quod dicit Auicen. 
+        <lb ed="#Ba" n="8"/>in iii. metaphysicae suae. Vnum est principium multitudinis: &amp; multitudo est illud quod numeratur 
+        <lb ed="#Ba" n="9"/>per vnum. vnitas enim in intellectu discernitur &amp; concipitur vt habitus, cuius priuatio est multitudo. Apstd 
+        <lb ed="#Ba" n="10"/>autem imaginatiuam quae est principium intellectus contingit econverso. Et ideo dicit Auicen. ibidem 
+        <lb ed="#Ba" n="11"/>Facimus cognosci multitudinem per vnitatem cognitione intelligibili. &amp; hic accipimus vnitatem for 
+        <lb ed="#Ba" n="12"/>matam in seipsa &amp; a principiis imaginationis. Facimus autem eam cognosci per multitudinem inueniendo in hoc in  
+        <lb ed="#Ba" n="13"/>tentionem imaginatiuam ad hoc vt inducat nos ad hoc quod tunc poterat nobis esse per se notum, 
+        <lb ed="#Ba" n="14"/>sed non formabatur praesens in intellectu. Et ad istam intentionem vnius inquantum respicit informatio- 
+        <lb ed="#Ba" n="15"/>nem apud imaginatiuam, sit impositio vnius. iuxta quod ipsum definit <name ref="#Aristotle">Philosophus</name> cum dicit. iii. me 
+        <lb ed="#Ba" n="16"/>taphy. Vnum est diuisibile aliquod ens per se solitarium. &amp; in x. Essentia vnius est vt non diuidatur 
+        <lb ed="#Ba" n="17"/>&amp; Commetor dicit super. iiii. Hoc nomen vnum significat negationem: &amp; est priuatio diuisibilitatis. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e378">
+        <lb ed="#Ba" n="18"/>⁋ Ad primum igitur patet per iam dicta: licet enim secundum modum nominis 
+        <lb ed="#Ba" n="19"/>vnum significat priuationem: quia tamen illa non est nisi negationis, secundum rem nominis significat vera 
+        <lb ed="#Ba" n="20"/>positionem: propter quod bene convenit deo. De eo autem quod dicit priuationem habitus vel alicuius positiui 
+        <lb ed="#Ba" n="21"/>intelligitur quod nulla priuatio cadit in deo. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e389">
+        ⁋ Ad secundum quod vnum dicit rationem finitationis &amp; limitatio- 
+        <lb ed="#Ba" n="22"/>nis: Dicendum quod sicut duplex est infinitum: vnum multitudine vel extensione: alterum essentia &amp; vige 
+        <lb ed="#Ba" n="23"/>re: Sic duplex est finitatio &amp; limitatio. vna quae opponitur infinito &amp; illimitato multitudine vel ex 
+        <lb ed="#Ba" n="24"/>tensione. altera quae opponitur infinito &amp; illimitato essentia &amp; vigore. Finitatio &amp; limitatio secundo mo 
+        <lb ed="#Ba" n="25"/>do minime conveniunt deo: quia ipse est infinitus essentia &amp; vigore, vt infra patebit. Finitatio autem  
+        <lb ed="#Ba" n="26"/>&amp; limitatio primo modo maxime deo conueniunt: quia infinitas &amp; illimitatio sunt ei oppositae secun 
+        <lb ed="#Ba" n="27"/>dum partium multiplicationem: quae maxime deo repugnat. In hoc enim diuina natura est summe 
+        <lb ed="#Ba" n="28"/>finita &amp; limitata quod est summe vna, summe simplex: &amp; idipsum sine omni diuersitate. secundum quod 
+        <lb ed="#Ba" n="29"/>dixit Dauid in Psal. Tu autem idem ipse es. Econtra infinitas numerorum per appositionem: &amp; ma-  
+        <lb ed="#Ba" n="30"/>gnitudinis siue per appositionem siue per diuisionem, summe illimitata &amp; infinita est propter summam 
+        <lb ed="#Ba" n="31"/>partium multitudinem &amp; diuersitatem &amp; carentiam vnitatis atque simplicitatis. Vnum autem finitationem 
+        <lb ed="#Ba" n="32"/>&amp; limitationem non dicit nisi oppositam tali infinitati &amp; illimitationi per appositionem vel diuisionem 
+        <lb ed="#Ba" n="33"/>partium: non illi quae est per essentiam &amp; vigorem: immo causat illam: quia omnis virtus vnita plus 
+        <lb ed="#Ba" n="34"/>est infinita quam separata, vt dicitur in libro de causis: &amp; causatur ab vnitate simplicitatis: &amp; ita a caren 
+        <lb ed="#Ba" n="35"/>tia diuersitatis: quae causat dictam infinitatem &amp; illimitationem, quae deo non conuenit. secundum  
+        <lb ed="#Ba" n="36"/>quod dicit <name ref="#Boethius">Boethius</name>  de trinitate. In deo nulla est diuersitas. Non est autem pluralitas fine diuersitate: quare 
+        <lb ed="#Ba" n="37"/>nec numerus est in deo: sed vnitas tantum. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e429">
+        ⁋ Ad tertium quod vnitas accidens est: &amp; simul ad quartum 
+        <lb ed="#Ba" n="38"/>quod vnum est diuisiuum entis quod commune est ad decem praedicamenta: Dicendum quod triplex est vnum 
+        <lb ed="#Ba" n="39"/>quoddam quod conuertitur cum ente: non solum cum illo quod est analogum ad decem praedicamentas 
+        <lb ed="#Ba" n="40"/>sed etiam cum illo quod est analogum creatori &amp; creaturae: &amp; tali vnitate quaelibet res est vna, sicut 
+        <lb ed="#Ba" n="41"/>&amp; ens per suam substantiam non per aliquid additum ei. Si enim res esset vna per aliquid additum ei 
+        <lb ed="#Ba" n="42"/>tum illud additum quod facit aliud esse vnum, oportet quod sit in se vnum: &amp; ita per aliquid aliud addi  
+        <lb ed="#Ba" n="43"/>tum ei: si non sit vnum per suam substantiam: &amp; ita erit abire in infinitum: aut standum in aliquo quid est vnum 
+        <lb ed="#Ba" n="44"/>per suam essentiam: &amp; eadem ratione standum est in primo. sicut arguit Commen. super. 4. meta- 
+        <lb ed="#Ba" n="45"/>physi. Aliud vero est vnum quod est principium numeri quantitatis discretae. tali vnitate quaeli-  
+        <lb ed="#Ba" n="46"/>bet res in qua est vnitas est vna per aliquid aliud additum substantiae suae, quod est accidens ei. Per 
+        <lb ed="#Ba" n="47"/>quod (vt dicit Commen. super. 4. metaphysiy.) fuit Auicen. deceptus. credens enim quod tale esset vnum 
+        <lb ed="#Ba" n="48"/>quod convertitur cum ente, dixit quod vnum illud dicit dispositionem additam essentiae rei: sicut dispoen est in al 
+        <lb ed="#Ba" n="49"/>bo &amp; nigro. Econuerso autem Pythagorici credentes quod vnum principium numeri esset tale vnum quale 
+        <lb ed="#Ba" n="50"/>est illud quod conuertitur cum ente, dixerunt quod vnum principium numeri non significat nisi substantiam rei: &amp; quia 
+        <lb ed="#Ba" n="51"/>numerus componitur ex vnitatibus, crediderunt quod numeri sunt substantiae rerum: &amp; quod princi 
+        <lb ed="#Ba" n="52"/>pia numeri essent principia rerum. Tertium vero est vnum quod diuidit ens contra multum: &amp; est pars 
+        <lb ed="#Ba" n="53"/>illius vnius quod convertitur cum ente. Vnde &amp; multum diuisum contra hoc vnum, etiam est pars 
+        <lb ed="#Ba" n="54"/>vnius quod convertitur cum ente. Est enim vnum eo modo quo est ens. Non enim est inconveniens quod il 
+   <!--311.xml-->
+        <pb ed="#Ba" n="148-v"/>
+        <lb ed="#Ba" n="1"/>lud quod est indiuisum vno modo atque vnum, sit diuisum atque multum alio modo: sicut totum inte 
+        <lb ed="#Ba" n="2"/>grum quod est vnum &amp; indiuisum secundum formam totius, est multum &amp; diuisum secundum par- 
+        <lb ed="#Ba" n="3"/>tes. multum enim nullo modo esset ens nisi aliquo modo esset vnum, vt dicit Auicen. iii. meta. suae. 
+        <lb ed="#Ba" n="4"/>&amp; hoc modo omnis numerus est vnum secundum aliquam speciem numeri: &amp; multum secundum partes, &amp; 
+        <lb ed="#Ba" n="5"/>quod amplius omne compositum ex partibus. Propter quod dicit Dionysius. vlt. de di. no. quod non est multitu 
+        <lb ed="#Ba" n="6"/>do nisi participans vno. Vnde &amp; solummodo illud est vere vnum in quo nullus est numerus, nul- 
+        <lb ed="#Ba" n="7"/>lumque aliud praeterquam id quod est, vt dicit <name ref="#Boethius">Boethius</name>  de triniitate. &amp; hoc solum deus est, vt infra dicetur. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e491">
+        ⁋ Ad  
+        <lb ed="#Ba" n="8"/>tertium ergo dicendum, quod vnum quod convertitur cum ente non est tale quaele est illud quod est principium numeri: li- 
+        <lb ed="#Ba" n="9"/>cet hoc credidit Auicen. secundum quod imponit ei Auer. &amp; ideo licet deus non sit vnus vnitate illa quae est principium 
+        <lb ed="#Ba" n="10"/>numeri, quae est quantitas discreta: bene tamen potest esse vnum vnitate quae convertitur cum ente, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e1846-d1e500">
+        ⁋ Ad quartum 
+        <lb ed="#Ba" n="11"/>vero dicendum: quod vnum diuidens ens contra multum: si intelligamus ens diuisum solum illud quod consequi- 
+        <lb ed="#Ba" n="12"/>tur praedicamenta, illud non convenit deo: sed vnum quod convenit deo est aliud vnum, quod scilicet analogatur 
+        <lb ed="#Ba" n="13"/>cum ente generaliori: quod scilicet est commune analogum creatori: &amp; illi enti quod consequitur. x. praedicamenta. 
+        <lb ed="#Ba" n="14"/>Si autem intelligamus illud ens generalius dictum diuidi per vnum &amp; multum, illud vnum diui 
+        <lb ed="#Ba" n="15"/>sum contra multum soli deo convenit: cum nulla sit creatura quae non sit multa ex aliqua compositio 
+        <lb ed="#Ba" n="16"/>ne in ipsa, vt infra exponendum est. Et est ista vnitas deo essentialis: sicut sua entitas. Sed est intelli- 
+        <lb ed="#Ba" n="17"/>gendum quod ista vnitas potest considerari vt attribuitur deo ratione suae essentiae, vt est simpliciter 
+        <lb ed="#Ba" n="18"/>essentia ratione sui esse: &amp; hoc modo de ipsa est sermo in ista quaestione. Vel potest considerari vt at-  
+        <lb ed="#Ba" n="19"/>tribuitur deo ratione actus subsistendi in suppositis: &amp; sic de ipsa est sermo in duabus quaestionibus 
+        <lb ed="#Ba" n="20"/>sequentibus. lsta enim quaestio de eius vnitate terminatur ex eius entitate. Secunda vero sequens &amp; similiter ter- 
+        <lb ed="#Ba" n="21"/>tia terminabitur ex eius subsistentia in suppositis. Quaestio vero de eius vnitate exclusione omnis mul 
+        <lb ed="#Ba" n="22"/>titudinis, terminabitur loquendo de eius simplicitate inferius.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

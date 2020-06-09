@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="106-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1330"> <!-- alias="vn58an-a16q4" -->
+      <head xml:id="vn58an-d1e1330-Hd1e104">Quaestio 4</head>
+      <head xml:id="vn58an-d1e1330-Hd1e107" type="question-title">Utrum ubique in ea sit multiplex expositio investiganda</head>
+      <p xml:id="vn58an-d1e1330-d1e110">
+        <lb ed="#Ba" n="15"/>CIrca quartum arguitur quod haec scientia vbique debeat pluribus modis exponi. Pri- 
+        <lb ed="#Ba" n="16"/>mo sic. <name ref="#Augustine">Augustinus</name> dicit in libro de catechizandis rudibus. Quicquid narras ita narra 
+        <lb ed="#Ba" n="17"/>vt ille cui loqueris audiendo credat, credendo speret, sperando amet. Sed ista 
+        <lb ed="#Ba" n="18"/>tria vt dictum est, pertinent ad tres modos exponendi huius scientiae praeter modum 
+        <lb ed="#Ba" n="19"/>lhistoricum: vt dictum est supra. ergo in omni eo quod narramus secundum hanc 
+        <lb ed="#Ba" n="20"/>scientiam, iste triplex modus debet obseruari praeter modum historicum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1330-d1e129">
+        <lb ed="#Ba" n="21"/>⁋ Secundo sic. <ref xml:id="vn58an-d1e1330-Rd1e133">Apostolus. ii. Timo. iii.</ref> 
+       <quote xml:id="vn58an-d1e1330-Qd1e136" source="http://scta.info/resource/IItim3_16">Omnis scientia diuinitus inspirata vtilis est 
+        <lb ed="#Ba" n="22"/>ad docendum, ad arguendum, ad corrigendum, ad erudiendum</quote>. In quibus vt dictum est, omnes modi 
+        <lb ed="#Ba" n="23"/>exponendi hanc scientiam exprimuntur. sed sacra scriptura vbique est diuinitus inspirata. ii. Pet. ii. 
+        <lb ed="#Ba" n="24"/>Spiritu sancto inspirati locuti sunt sancti dei homines. Glos. Non erat in potestate eorum: vt quaecumque  
+        <lb ed="#Ba" n="25"/>vellent, docerent: sed ea sola docebant quae a spiritu didicerant. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1330-d1e150">
+        ⁋ In oppositum arguitur. Pri- 
+        <lb ed="#Ba" n="26"/>mo sic. <name ref="#Augustine">Augustinus</name> ii. super Gen. contra Manichaeos. Quisquis voluerit omnia quae dicta sunt secundum literam acci- 
+        <lb ed="#Ba" n="27"/>pere, &amp; non aliter intelligere quam litera sonat, &amp; potuerit euitare blasphemias, &amp; omnia congruen- 
+        <lb ed="#Ba" n="28"/>tia fidei catholicae praedicare: non solum ei non est inuidendum: sed praecipuus multumque laudabilis intel 
+        <lb ed="#Ba" n="29"/>lector habendus est. sed constat quod plurima sunt in scriptura sacra quae sic ad literam exponi possunt, si 
+        <lb ed="#Ba" n="30"/>cut illud. In principio creauit deus cae. &amp;c. vt dictum est supra secundum Ambrosius ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1330-d1e167">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="31"/>dicit <name ref="#Augustine">Augustinus</name> in ser. de assumptione virginis, quod sacra scriptura quandoque non habet quaerendum in ea aliud quam  
+        <lb ed="#Ba" n="32"/>quid sonat: quandoque habet pariter literam &amp; mysterium: quandoque mysterium tantum. sed cum non habet quaeren- 
+        <lb ed="#Ba" n="33"/>dum aliud quam sonat: non habet nisi literalem sensum tantum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1330-d1e179">
+        <lb ed="#Ba" n="34"/>⁋ Dicendum ad hoc, quod cum secundum apostolum lex spiritualis sit: &amp; bene spirituali in-  
+        <lb ed="#Ba" n="35"/>digeat interpretatione: vbicumque historia describitur, non solum sensus literalis: sed etiam spiritualis in  
+        <lb ed="#Ba" n="36"/>dagandus est, quia vt idem dicit apsus, Spiritus est qui viuificat, caro autem non prodest quicquam. i 
+        <lb ed="#Ba" n="37"/>carnalis &amp; literalis expositio: nisi adsit &amp; spiritualis. Propter quod dicit <name ref="#Augustine">Augustinus</name> ii. de doctrina chri 
+        <lb ed="#Ba" n="38"/>stiana. In his quae aperte in scripturis posita sunt, inueniuntur illa omnia quae continent fidem, mo-  
+        <lb ed="#Ba" n="39"/>resque viuendi, spem scilicet &amp; charitatem. Et Orig. in Homi. de immolatione lsaac. Obserua singula quaeque  
+        <lb ed="#Ba" n="40"/>quae scripta sunt. In singulis enim siquis sciuerit in altum fodere, inueniet thesaurum: &amp; fortassis vbi non 
+        <lb ed="#Ba" n="41"/>aestimatur, latent mysteriorum praeciosa monilia. ldem in Homilis. de Rebecca. Fabulas putatis &amp; historias 
+        <lb ed="#Ba" n="42"/>narrare in scripturis Spuium san. animarum est eruditio, &amp; spiritualis doctrina: mysteria cuncta sunt quae scripta 
+        <lb ed="#Ba" n="43"/>sunt. Vnde etiam quia spiritualis intellectus principaliter intenditur vbique in sacra scriptura: vbi ipsa littera intentum 
+        <lb ed="#Ba" n="44"/>spiritualis intelligentiae exprimit: vlterior expositio exquirenda non est. Vbique ergo multiplex expositio 
+        <lb ed="#Ba" n="45"/>in sacra scriptura exquirenda est, praeterquam vbi literaliter spiritualis expositio expressa est: vt est illud, Di 
+        <lb ed="#Ba" n="46"/>liges dominum deum tuum: &amp; ceta praecepta moralia aperto sermone proposita: quae non sunt nisi litteraliter exponenda 
+        <lb ed="#Ba" n="47"/>&amp; nullum mysterium in eis quaerendum, quia magis obumbraret intelligentiam quam illuminaret. sicut &amp; in  
+        <lb ed="#Ba" n="48"/>pluribus dictis Salomonis. Vnde domins litteraliter proponens moralem sensum. Mat. xv. Non quid intrat per os &amp;c. 
+        <lb ed="#Ba" n="49"/>reprehendit discipulos quia sensum alium mysticum quaerebant, dicens. Adhuc estis sine intellectu, quaerendo scilicet ex 
+        <lb ed="#Ba" n="50"/>positionem praeter litteralem vbi quaerenda non est. Et hoc est quod dicit Greg. Intellectus sacrae scripturae inter textum 
+        <lb ed="#Ba" n="51"/>&amp; mysterium &amp;c. vt supra ti. isto, quod i. Vnde in collationibus patrum. viii. loannes Cassianus distinguit tri 
+        <lb ed="#Ba" n="52"/>plex genus dictorum sacrae scripturae, quod quaedam sunt litealiter tantum exponenda, quaedam vero mystice tantum, quaedam 
+        <lb ed="#Ba" n="53"/>vero vtroque modo. vbi dicit sic. Dinarum scripturarum auctoritas, de iis in quibus nos voluit erudire, quaedam 
+        <lb ed="#Ba" n="54"/>etiam iis quid acumie ingenii carent, tam lucide &amp; euidentur effata est: vt non solum nulla occultiori sesyobscu 
+        <lb ed="#Ba" n="55"/>ritate velentur: sed ne vllo quidem procinio interprstationis indigeant, &amp; in superficie vocis ac litte suos in- 
+        <lb ed="#Ba" n="56"/>tellectus, ac sminas praeserant. Et hoc dupliciter, vel in superficie litter mysticum habendo intellectum, viversahistoricum. secundum  
+   <!--228.xml-->
+        <pb ed="#Ba" n="107-r"/>
+        <lb ed="#Ba" n="1"/>quod prosequitur explanando &amp; exemplificando. Quaedam vero vt dicit ita contexta sunt, vt in eorum 
+        <lb ed="#Ba" n="2"/>discussione &amp; intellectu immensum nobis exercitii campum ac sollicitudinis reseruent. Quaedam vero vtroque  
+        <lb ed="#Ba" n="3"/>modo se habent, quae statim declarat dicens. ltaque satis proprie diuina scriptura agro optimo 
+        <lb ed="#Ba" n="4"/>ac fertili comparatur, qui multa gignat, ac proferat ad hominium victum: vt sine aliqua ignis coctio- 
+        <lb ed="#Ba" n="5"/>ne proficiant. Quaedam vero nisi prius flammae calore mitigata atque mollita omnem austeritatem de- 
+        <lb ed="#Ba" n="6"/>posuerint cruditatis, vel incongruentia vsibus humanis, vel noxia sentientur. Nonnulla vero 
+        <lb ed="#Ba" n="7"/>ita vtrique vsui apta nascuntur: vt nec cocta sua cruditate displiceant, vel offendant: &amp; tamen 
+        <lb ed="#Ba" n="8"/>ignis calore decocta salubriora reddantur. Plura quoque ad escam tantummodo irrationabilium  
+        <lb ed="#Ba" n="9"/>iumentorum &amp; animalium, vel ferarum ac volucrum proferuntur cibis hominium minime profutura, 
+        <lb ed="#Ba" n="10"/>quae etiam in sua asperitate manentia absque vlla ignis coctione vitalem iumentis conferunt satu 
+        <lb ed="#Ba" n="11"/>ritatem. Quam rationem satis euidenter aspicimus in hoc vberrimorum spiritualium scripturarum pa 
+        <lb ed="#Ba" n="12"/>radiso contineri, in quo ita quaedam significatione literae plana ac luculenta resplendent: vt cum 
+        <lb ed="#Ba" n="13"/>sublimiore interpretatione non egeant, simplici tantum sono literae abundent, pascant, ac nutriant 
+        <lb ed="#Ba" n="14"/>audientes: vt est illud. Audi Israel, domins deus tuus deus vnus est, &amp; Diliges dominum deum tuum ex 
+        <lb ed="#Ba" n="15"/>toto corde tuo, &amp; ex tota anima tua, &amp; ex tota mente tua. Quaedam autem si allegorica explana- 
+        <lb ed="#Ba" n="16"/>tione attenuata non fuerint, &amp; spiritualis ignis examinatione mollita, nullo modo ad salutem in-  
+        <lb ed="#Ba" n="17"/>terioris hominis sine corruptionis labe peruenerit. Magisque ex eorum perceptione laesio quam vtili 
+        <lb ed="#Ba" n="18"/>tas aliqua subsequitur: vt est illud. Sint lumbi vestri praecincti, &amp; lucernae ardentes in manibus ve- 
+        <lb ed="#Ba" n="19"/>stris. &amp; Qui non habet gladium, vendat tunicam suam &amp; emat gladium. &amp; Qui non accipit crucem suam 
+        <lb ed="#Ba" n="20"/>&amp; sequitur me, non est me dignus. Quod quidam indiscretissimi monachorum habentes quidem Se 
+        <lb ed="#Ba" n="21"/>lum dei: sed non secundum scientiam, simpliciter intelligentes fecerunt sibi cruces ligneas: easque iu 
+        <lb ed="#Ba" n="22"/>giter humeris circunferentes non aedificationem: sed risum cunctis videntibus intulerunt. Nonnul- 
+        <lb ed="#Ba" n="23"/>la vero ad vtramque perceptionem tam historicam quam allegoricam, ita commode ac necessarie capiuntur: 
+        <lb ed="#Ba" n="24"/>vt vtraque explanatio vitales succos animae subministret: vt est illud. Si quis te percusserit in dextra 
+        <lb ed="#Ba" n="25"/>maxilla praebe ei &amp; alteram, &amp; Cum persequentur vos in ciuitate vna fugite in aliam, &amp; Si vis perfectus 
+        <lb ed="#Ba" n="26"/>esse, vade &amp; vende omnia quae habes &amp; veni &amp; da pauperibus &amp; sequere me, &amp; habitabo tecum in caelo, 
+        <lb ed="#Ba" n="27"/>Producit sane &amp; fcenum iumentis, quibus pabulis omnes scripturarum repleti sunt campi, simplicen 
+        <lb ed="#Ba" n="28"/>scilicet puramque narrationem historicae lectionis, qua simpliciores quique ac minus capaces perfectae &amp; in  
+        <lb ed="#Ba" n="29"/>tegrae narrationis, secundum status ac mensurae suae conditionem, ad opus tantum actualis vitae, vegetatio- 
+        <lb ed="#Ba" n="30"/>res robustioresque reddantur. Dictum triplicem modum exponendi ponit Augustinus, &amp; declarat per 
+        <lb ed="#Ba" n="31"/>exempla. <ref xml:id="vn58an-d1e1330-Rd1e305">xvii. de civitate dei. c. iii.</ref> per totum. 
+      </p>
+      <p xml:id="vn58an-d1e1330-d1e309">
+        <lb ed="#Ba" n="32"/>⁋ Ad primum de catechizandis rudibus, dicendum quod per illa tria non intenditur 
+        <lb ed="#Ba" n="33"/>triplex sacrae scripturae expositio: sed triplicis virtutis theologicae promotio: quae potest fieri in  
+        <lb ed="#Ba" n="34"/>qualibet expositione, vna vel pluribus. 
+      </p>
+      <p xml:id="vn58an-d1e1330-d1e318">
+        ⁋ Ad secundum de apostolo dicendum quod dictum illud non est nisi 
+        <lb ed="#Ba" n="35"/>quaedam adaptatio ad sensus sacrae scripturae: sed realiter illa quatuor pro tempore &amp; loco possunt 
+        <lb ed="#Ba" n="36"/>fieri per quodlibet dictum sacrae scripturae. 
+      </p>
+      <p xml:id="vn58an-d1e1330-d1e325">
+        ⁋ Ad argumentum in oppositum, quod non aliter accipere quam li- 
+        <lb ed="#Ba" n="37"/>tera sonat, laudabile est, dicendum quod verum est primo. Vnde dicit in principio illius auctoritatis, 
+        <lb ed="#Ba" n="38"/>Hlic totus sermo primo secundum historiam discutiendus est: Deinde secundum prophetiam. Sane quicunque vo 
+        <lb ed="#Ba" n="39"/>luerit omnia &amp;c. Per hoc ergo non excludit quin etiam secundario sub sensu literali sensus spiritualis vbique 
+        <lb ed="#Ba" n="40"/>quaerendus sit. 
+      </p>
+      <p xml:id="vn58an-d1e1330-d1e337">
+        ⁋ Ad secundum dicendum quod Augu. non loquitur ibi nisi de expositionibus quas natu- 
+        <lb ed="#Ba" n="41"/>ra rei de se inuestigandas insinuat, vt factum pure naturale non insinuat nisi historicum sensum: 
+        <lb ed="#Ba" n="42"/>factum vero per diuinum oraculum, &amp; historicum &amp; mysticum. factum vero quid natura &amp; proprie- 
+        <lb ed="#Ba" n="43"/>tas rerum non patitur, mysticum tantum. secundum quod concordant exempla eius &amp; dictum. Dicit enim 
+        <lb ed="#Ba" n="44"/>sic. Saepe apertis sermonibus insinuat: in quibus nihil praeter quid sonuit inuitat quaerendum: vt est quia 
+        <lb ed="#Ba" n="45"/>Abraham genuit lsaac, lsaac genuit lacob, &amp; caetera talia, in quibus sola tenenda est litera. Quaedam au 
+        <lb ed="#Ba" n="46"/>tem sic commendat, vt pariter literam &amp; mysticum intellectum instruat: vt in transitu maris ru- 
+        <lb ed="#Ba" n="47"/>bri, &amp; manna caelesti &amp; tabernaculo atque arca testamenti. Quaedam tantum mystice: vt cum deum dicit 
+        <lb ed="#Ba" n="48"/>insufflasse in faciem Adam spiraculum vitae, qui os ad spirandum non habet. Vnde licet in primo 
+        <lb ed="#Ba" n="49"/>modo ex natura facti litera non inuitat ad quaerendum aliud quam quid sonat, nihilominus tamen aliud bene 
+        <lb ed="#Ba" n="50"/>potest inuestigare ex proprietate rerum. Vnde Mat id est super illud. Abraham genuit lsaac, lsaac genuit 
+        <lb ed="#Ba" n="51"/>lacob. Glos. interli. Eides genuit spem, fides &amp; spes charitatem. &amp; ita Glo. factum illud exponit mo-  
+        <lb ed="#Ba" n="52"/>taliter. Quod ergo dicit Augustinus, quod in talibus sola litera est tenenda: non intendit quin alia ex 
+        <lb ed="#Ba" n="53"/>positio sit quaerenda: sed quod nullam aliam oportet quaerere, immo quantum est ex natura facti il- 
+        <lb ed="#Ba" n="54"/>lius, litera etsi sola consideretur, tenenda est. Non sic in secundo modo: vbi oportet ad mysterium 
+        <lb ed="#Ba" n="55"/>currere, quia illa non sunt facta, nisi ad alia insinuanda.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

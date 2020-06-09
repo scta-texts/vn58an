@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="100-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe27310"> <!-- alias="vn58an-a54q8" -->
+      <head xml:id="vn58an-fe27310-Hd1e104">Quaestio 8</head>
+      <p xml:id="vn58an-fe27310-d1e107">
+        <lb ed="#Bb" n="27"/>CIrca octauum arguitur quod a qualibet dictarum trium personarum aliqua alia emanat, sic. 
+        <lb ed="#Bb" n="28"/>le ratione perfectionis personae in diuinis est quod ab ipsa emanat alia persona, vt di- 
+        <lb ed="#Bb" n="29"/>ctum est supra. Sed aequalis perfectio est in qualibet diuinarum personarum etiam cum 
+        <lb ed="#Bb" n="30"/>emanauerit alia persona ab ipsa. persona enim emanans nihil diminuit de virtute eius 
+        <lb ed="#Bb" n="31"/>a quae emanat. ergo a quaelibet diuinarum personarum emanat alia etiam cum aliqua emanauerit 
+        <lb ed="#Bb" n="32"/>ab eadem. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e123">
+        ⁋ Secundo quod a quaelibet personarum emanantium emanat alia sibi consimilis omnino, quoniam  
+        <lb ed="#Bb" n="33"/>a persona a qua alia emanat, conicatur personae emananti substantia illius, vt habitum 
+        <lb ed="#Bb" n="34"/>est supra. Sed non communicatur substantia nisi simul communicetur eius virtus &amp; potentia. ea 
+        <lb ed="#Bb" n="35"/>dem autem virtute &amp; potentia natum est simile emanare ab illo in quo est. ergo &amp;c. Quod confirma 
+        <lb ed="#Bb" n="36"/>tur per hoc quod dicit Apostolus Hebrae. primo de filio dei. Cum sit splendor gloriae &amp; figura substantiae eius, portans 
+        <lb ed="#Bb" n="37"/>quod omnia verbo virtutis suae &amp;c. Est ergo verbum aliquod virtutis filii quo omnia portat. verbum autem quo omnia 
+        <lb ed="#Bb" n="38"/>portantur non potest esse nisi verbum infinitum &amp; increatum &amp; aeternum: est ergo aliquod verbum infinitum, aeternum, &amp; in  
+        <lb ed="#Bb" n="39"/>creatum virtutis filii. tale autem non est nisi verbum personale procedens a virtute filii. a virtute autem filii non proce 
+        <lb ed="#Bb" n="40"/>dit verbum nisi sit verbum filii: non est autem verbum in diuinis nisi sit filius. a verbo ergo in diuinis pro 
+        <lb ed="#Bb" n="41"/>cedit verbum &amp; a filio filius. ergo &amp;c. Et eodem modo potest argui ex parte spiritus sancti in producendo  
+        <lb ed="#Bb" n="42"/>alium spiritum sanctum. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e147">
+        ⁋ Tertio sic. filius aut potest generare alium filium, aut non potest, non esta 
+        <lb ed="#Bb" n="43"/>dicendum quod non potest, quia omnipotens est. &amp; dicit Ricardus tertio de trinitate cap. iiii. Omni- 
+        <lb ed="#Bb" n="44"/>potens per impossibilitatem excusari non potest. Item <name ref="#Augustine">Augustinus</name> contra Maximinum libro pri- 
+        <lb ed="#Bb" n="45"/>mo cap. xiii. dicit sic. Eilius non genuit: non quia non potuit: sed non oportuit. hoc autem non es- 
+        <lb ed="#Bb" n="46"/>set verum nisi quia potuit generare. si enim non potuit generare verum esset quod non generauit 
+        <lb ed="#Bb" n="47"/>quia non potuit. si ergo potuit generare, ergo generauit: quia in aeternis non distant potentia &amp; 
+        <lb ed="#Bb" n="48"/>actus: &amp; eo etiam in eis potentia a nullo est impedita nisi forte a voluntate. &amp; tunc si filius potuit 
+        <lb ed="#Bb" n="49"/>generare sed non generauit, hoc est quia non voluit: quod est impossibile: quia hoc esset magnus be 
+        <lb ed="#Bb" n="50"/>niuolentiae defectus, secundum Ricardum vbi supra. &amp; haberet pater aliquam voluntatem se- 
+        <lb ed="#Bb" n="51"/>cundum actum quam non haberet filius. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e173">
+        ⁋ Quarto quod in diuinis a qualibet persona a qua emanat  
+        <lb ed="#Bb" n="52"/>vna persona potest emanare alia consimilis illi in persona, arguitur: quia in diuinis emanans ab  
+        <lb ed="#Bb" n="53"/>alia, per hoc quod emanat ab illa nihil derogat potentiae per quam emanat in persona a qua emanat.  
+        <lb ed="#Bb" n="54"/>quod si sic, qua ratione producit per illam potentiam vnam personam, &amp; eadem ratione illa producta aliam 
+   <!--215.xml-->
+        <pb ed="#Bb" n="100-v"/>
+        <lb ed="#Bb" n="1"/>similem illi: quemadmodum videmus in patre humano quod vno filio producto per suam potentiam ge- 
+        <lb ed="#Bb" n="2"/>neratiuam, nihil minus producere potest alium. &amp; qua ratione in diuinis persona producta potest produ-  
+        <lb ed="#Bb" n="3"/>cere secundam, eadem ratione &amp; secunda producta potest producere tertiam, &amp; sic in infinitum. er- 
+        <lb ed="#Bb" n="4"/>go &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e195">
+        ⁋ Quinto sic. idem actus intelligendi qui conuenit patri, convenit &amp; filio, &amp; spiritui sancto, qua 
+        <lb ed="#Bb" n="5"/>re &amp; consimiliter id quid super ipsum actum intelligendi fundatur ad productionem alicuius personae, qua  
+        <lb ed="#Bb" n="6"/>re cum super actum essentialem intelligendi (vt dictum est supra, &amp; iam amplius declarabitur in sequenti quae 
+        <lb ed="#Bb" n="7"/>stione) fundetur actus notionalis dicendi: actus ergo notionalis dicendi vniformiter convenit tribus personis si 
+        <lb ed="#Bb" n="8"/>cut &amp; actus intelligendi. &amp; si sic, sicut pater actu dicendi profert verbum quod est filius eius: quare &amp; 
+        <lb ed="#Bb" n="9"/>similiter filius &amp; spiritus sanctus, quare cum secundum <name ref="#Augustine">Augustinum</name> in principio de trinitate, ni 
+        <lb ed="#Bb" n="10"/>hil profert siue producit seipsum: filius ergo alium filium a se producit, dicendo aliud verbum a se: &amp; si- 
+        <lb ed="#Bb" n="11"/>militer spiritus sanctus: quia aliter illum produceret a quo producitur, quod est impossibile. Eadem ratione po 
+        <lb ed="#Bb" n="12"/>test argui de spirare super velle, ad probandum quod spiritus sanctus producat alium spiritum san- 
+        <lb ed="#Bb" n="13"/>ctum, &amp; hoc vtrobique in infinitum. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e220">
+        ⁋ Sexto arguitur specialiter quod a spiritu sancto emanet aliqua  
+        <lb ed="#Bb" n="14"/>alia persona, sic. non minoris efficaciae sunt pater &amp; filius simul in producendo spiritum sanctum, quam sit 
+        <lb ed="#Bb" n="15"/>e se solus pater in producendo filium. sed pater per efficaciam suam in producendo filium dat ei quod pos- 
+        <lb ed="#Bb" n="16"/>sit aliam personam producere cum patre. ergo &amp; propter efficaciam quam habent ambo in producen 
+        <lb ed="#Bb" n="17"/>do spiritum sanctum, dabunt ei quod communiter cum ambobus possit producere personam aliquam  
+        <lb ed="#Bb" n="18"/>vlteriorem, &amp; sic eadem ratione deinceps in infinitum. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e233">
+        ⁋ In contrarium est fides catholica, quod si alia 
+        <lb ed="#Bb" n="19"/>liqua persona est emanans in diuinis a praedictis, non est in diuinis praecise trinitas personarum. 
+        <lb ed="#Bb" n="20"/>
+      </p>
+      <p xml:id="vn58an-fe27310-d1e240">
+        ⁋ Quaestio ista petit explicari in speciali rationem quare in diuinis sunt tres perso- 
+        <lb ed="#Bb" n="21"/>nae &amp; tantum tres, quod declaratum fuit in summa &amp; in generali in quaestione quadam super hoc mo 
+        <lb ed="#Bb" n="22"/>ta in articulo praecedenti. Et est dicendum ad quaestionem propositam, quod ab aliqua dictarum trium personarum, qua-  
+        <lb ed="#Bb" n="23"/>rum prima non emanat ab alia: sed ab illa emanat secunda: &amp; simul ab vtraque tertia: non convenit in  
+        <lb ed="#Bb" n="24"/>telligere emanare aliquam aliam nisi per aliquem alium modum emanationis a praedictis qui sunt 
+        <lb ed="#Bb" n="25"/>modo naturae &amp; voluntatis, aut per aliquem istorum duorum modorum, aut per vtrumque ipsorum 
+        <lb ed="#Bb" n="26"/>Primo autem modo qui principaliter pertinet ad praedictam quaestionem, non emanat ab aliqua illa- 
+        <lb ed="#Bb" n="27"/>rum trium personarum aliqua alia persona: quia secundum supra determinata non convenit pone- 
+        <lb ed="#Bb" n="28"/>re in diuinis aliquem alium modum emanationis. quod &amp; si aliquis esset possibilis, secundum illum pro- 
+        <lb ed="#Bb" n="29"/>cederet aliqua alia persona: &amp; si essent plures alii modi, secundum illos procederent plures aliae: &amp; hoc 
+        <lb ed="#Bb" n="30"/>non solum ab aliqua illarum: sed ab omnibus simul: quia secundum praedeterminata diuersi modi ema 
+        <lb ed="#Bb" n="31"/>nandi in diuinis non possunt esse nisi ordinem quendam originis habeant inter se: vt secundum de- 
+        <lb ed="#Bb" n="32"/>terminationem superius habitam, a persona vnica quae non est ab alia, per primam emanationem procede- 
+        <lb ed="#Bb" n="33"/>ret persona secunda, &amp; ei communicarentur per hoc omnes alii modi quibus a persona vna nata esset 
+        <lb ed="#Bb" n="34"/>emanare alia: &amp; ideo secundum modum emanandi a persona quae non est ab alia, &amp; ab illa quae est ab  
+        <lb ed="#Bb" n="35"/>vnica simul, secunda emanatione emanaret tertia, &amp; eadem ratione quarta ab illis tribus: &amp; sic de- 
+        <lb ed="#Bb" n="36"/>inceps. Secundo etiam modo qui pertinet specialiter ad istam quaestionem, non emanat ab aliqua illa 
+        <lb ed="#Bb" n="37"/>rum trium personarum aliqua alia: quia ab vnico modo emanationis non potest in diuinis procede- 
+        <lb ed="#Bb" n="38"/>re nisi vnica persona, quotcumque ponantur in diuinis modi emanationum, siue duo praedicti tantum, siue plu 
+        <lb ed="#Bb" n="39"/>res finiti aut infiniti. dicente Ricar. v. de triniitate. cap. x. luxta quanlibet differentiam impossibile est esse plus quam 
+        <lb ed="#Bb" n="40"/>vnam personam. nam a sola vna persona, non potest esse nisi vnica simiter persona, quae est tantum a gemina, non potest esse nisi vnica 
+        <lb ed="#Bb" n="41"/>sola: &amp; sic deiceps si essent in diuinis emanationes plures duabus. Et in diuinis a sola vna persona non pos 
+        <lb ed="#Bb" n="42"/>sunt procedere duae personae, sed vnica tantum: &amp; secundum vnum modum emanandi: &amp; a solis duabus personis simiter non 
+        <lb ed="#Bb" n="43"/>nisi vnica, &amp; secundum vnum alium modum emanandi. Ex quo concludit vlterius subdens. Sicut ergo in  
+        <lb ed="#Bb" n="44"/>diuinitate non potest esse nisi vnica persona quae sit a seipsa: sic non potest esse plus quam vna quae sit ab vna 
+        <lb ed="#Bb" n="45"/>tantum persona: nec nisi vna sola quae non est nisi a gemina. Quare cum in diuinis non sunt nisi duo mo-  
+        <lb ed="#Bb" n="46"/>di emanationum, per quas non emanant nisi tantum duae personae: &amp; praeter illas secundum supra de- 
+        <lb ed="#Bb" n="47"/>terminata non est nisi tantum vnica quae non est ab alia: idcirco irrefragabiliter concluditur quod in diui- 
+        <lb ed="#Bb" n="48"/>nis non sunt nisi tres personae: vna quae a nulla emanat: &amp; vna quae emanat ab illa sola quae non emanat ab alia. 
+        <lb ed="#Bb" n="49"/>&amp; tertia a qua nulla emanat, &amp; quae coniter emanat ab illa quae est a nulla emanans, &amp; ab illa quae ema 
+        <lb ed="#Bb" n="50"/>nat ab alia. Aliter aute scilicet quod a sola vna persona non potest esse nisi vnica, Ricar. ibidem assignat rationem 
+        <lb ed="#Bb" n="51"/>ducentem ad inconueniens talem. Nam (vt dicit) si gemina tantum de vna procederet, pro certo proceden 
+        <lb ed="#Bb" n="52"/>tium neutra alteri immediate adhaereret: quod est impossibile. Et similiter si duae tantum de duabus. Quoniam 
+        <lb ed="#Bb" n="53"/>(vt dicit ibidem) si quaerta in deitate persona esse potuisset, proculdubio ex caeteris tribus eam originem 
+        <lb ed="#Bb" n="54"/>trahere immediate oporteret: alioquin alicui earum non nisi mediante germanitate cohaereret. Et si quin  
+        <lb ed="#Bb" n="55"/>ta persona ibi esse potuisset, simili ratione de caeteris quatuor immediate procederet: &amp; sic in caete 
+   <!--216.xml-->
+        <pb ed="#Bb" n="101-r"/>
+        <lb ed="#Bb" n="1"/>ris, quantuncumque series intelligibiliter protrahatur. Et procedit haec ratio communiter siue de vnica sola 
+        <lb ed="#Bb" n="2"/>persona ponantur duae procedere, siue secundum vnum modum procedendi, siue secundum plures: &amp; 
+        <lb ed="#Bb" n="3"/>sic de caeteris. Sed super eo quid specialiter pertinet ad propositam quaestionem, qud scilicet secundum vnum &amp; eum 
+        <lb ed="#Bb" n="4"/>dem modum procedendi non possunt in diuinis procedere plures personae, siue ab vna persona, siue 
+        <lb ed="#Bb" n="5"/>a pluribus: ad hoc sunt aliae speciales rationes. Quia enim secundum vnum modum procedendi siue ema 
+        <lb ed="#Bb" n="6"/>nandi singularem, puta secundum vnam singularem actionem generandi emanarent duae personae,  
+        <lb ed="#Bb" n="7"/>vt duo filii, hoc clarum est impossibile, quia vna actio numero &amp; singularis, non est nisi ad vnum 
+        <lb ed="#Bb" n="8"/>terminum numero singularem: vt haec dealbatio non est nisi ad hanc albedinem, secundum Philosophum. v. 
+        <lb ed="#Bb" n="9"/>physicae. Similiter quod secundum eundem modum emanandi specie, diuersum numero, puta secundum diuersas 
+        <lb ed="#Bb" n="10"/>generationes aut spirationes, ponantur emanare in diuinis diuersae personae numero in eadem specie 
+        <lb ed="#Bb" n="11"/>conuenientes, vt duo filii vel duo spiritus sancti: etiam omnino est impossibile. Quod declaratur duplici via. Vna 
+        <lb ed="#Bb" n="12"/>ex parte eius quod est quasi materia siue subiectum aut fundamentum super quod fundatur actus emana 
+        <lb ed="#Bb" n="13"/>tionum, &amp; circa quod habent esse, &amp; ex quo habent produci personae emanantes, &amp; in quo habent funda 
+        <lb ed="#Bb" n="14"/>ri proprietates personarum emanantium. Alia vero ex parte eius a quo procedunt &amp; eliciuntur actus ema 
+        <lb ed="#Bb" n="15"/>nationum. Prima via sic. quicquid est in deo essentiale, vnicum est, singulare, &amp; simplex. Est enim diuina 
+        <lb ed="#Bb" n="16"/>essentia singularis &amp; vnica: similiter intellectus diuinus &amp; voluntas, &amp; intelligere &amp; velle, in quibus fun- 
+        <lb ed="#Bb" n="17"/>dantur, &amp; circa quae habent esse omnia notionalia &amp; personalia. Actus enim notionales vt dicere siue 
+        <lb ed="#Bb" n="18"/>generare &amp; spirare, fundantur in actibus essentialibus qui sunt velle &amp; intelligere, vtideclarabitur in  
+        <lb ed="#Bb" n="19"/>sequenti quaestione. Habent etiam esse circa diuinam essentiam vt circa subiectum &amp; quasi materiam- 
+        <lb ed="#Bb" n="20"/>&amp; ex ipsa habent personae produci, vt habitum est supra: &amp; in ipsa habent fundari proprietates per- 
+        <lb ed="#Bb" n="21"/>sonales: paternitas, filiatio, &amp; spiratio. Quare cum illud quod fundatur in aliquo, aut habet esse circa ali- 
+        <lb ed="#Bb" n="22"/>quid, aut produci ex eo, non potest plurificari secundum numerum simul &amp; in eodem instanti sub ea 
+        <lb ed="#Bb" n="23"/>dem specie nisi plurificato illo in quo fundatur, &amp; circa quid &amp; ex quo habet esse. Verbi gratia, in crea 
+        <lb ed="#Bb" n="24"/>turis. Cum enim actus videndi colorem fundatur super actum immutandi visum a colore, si vnica &amp; 
+        <lb ed="#Bb" n="25"/>simplex est immutatio, simul in eodem instanti non potest esse nisi vnica simplex visio. Similiter cum 
+        <lb ed="#Bb" n="26"/>actus dealbationis est circa corpus, si corpus est vnicum secundum numerum, simul in eodem instanti non 
+        <lb ed="#Bb" n="27"/>potest esse nisi vnica dealbatio. Similiter cum album fiat ex non albo, si subiectum non album est vnum 
+        <lb ed="#Bb" n="28"/>numero, in eodem instanti non potest ex ipso fieri nisi vnum album, &amp; vnico actu albationis. Simili 
+        <lb ed="#Bb" n="29"/>ter cum albedo fundetur in corpore, &amp; similitudo in albedine, si corpus illud est vnum numero, non  
+        <lb ed="#Bb" n="30"/>potest albedo fundata in ipso esse plures numero. &amp; si albedo est vna numero, &amp; similitudo fundata 
+        <lb ed="#Bb" n="31"/>in illa, etiam si per illam referatur ad plures: quemadmodum vnicus pater vnica paternitate bene re 
+        <lb ed="#Bb" n="32"/>fertur ad plures filios. Oportet igitur quod sicut actus intelligendi &amp; volendi in deo essentiales super 
+        <lb ed="#Bb" n="33"/>quos fundantur actus dicendi &amp; spirandi notionales, simplices sunt &amp; singulares numero non potem 
+        <lb ed="#Bb" n="34"/>tes plurificari: similiter &amp; sicut diuina essentia vnica est &amp; simplex &amp; singularis circa quam habent esse 
+        <lb ed="#Bb" n="35"/>vt circa subiectum &amp; quasi materiam actus dicendi &amp; spirandi &amp; intelligendi: oportet quod consimiliter &amp; 
+        <lb ed="#Bb" n="36"/>psi actus sint simplices singulares &amp; vnici: Consimiliter etiam personae quae ex ipsa habent produci 
+        <lb ed="#Bb" n="37"/>secundum modum supra determinatum, oportet quod sint singulares &amp; vnicae numero, &amp; etiam 
+        <lb ed="#Bb" n="38"/>ipsae proprietates personales quae in ipsa diuina essentia habent fundari: vt sic non sit plus possibile 
+        <lb ed="#Bb" n="39"/>in diuinis esse plures generationes, plures filios, aut plures filiationes, quam quod in eadem materia nume 
+        <lb ed="#Bb" n="40"/>ro essent in eodem instanti plures transmutationes numero sub eadem specie, vel in eodem homine 
+        <lb ed="#Bb" n="41"/>numero plures filiationes, vel quod ratione esset plures filii vnus &amp; idem homo, &amp; hoc maxime simul 
+        <lb ed="#Bb" n="42"/>in vno &amp; eodem instanti: quemadmodum simul in eodem instanti aeternitatis habent esse quaecunque 
+        <lb ed="#Bb" n="43"/>sunt in ipso deo. Secunda via idem declaratur sic. in qualibet emanatione diuinae personae tota foe- 
+        <lb ed="#Bb" n="44"/>cunditas in persona producente exhausta est omnino in productione vnicae personae, vt nec in pro- 
+        <lb ed="#Bb" n="45"/>ducente, nec in producto restet foecunditas aliqua ad aliquam aliam emanationem productiuam personae con 
+        <lb ed="#Bb" n="46"/>similis. Aliter enim illa persona secunda consimilis produceretur absque foecunditate producentis, &amp; 
+        <lb ed="#Bb" n="47"/>esset principiatum productum absque ratione principiandi ipsum in principiante: quod est omnino impos- 
+        <lb ed="#Bb" n="48"/>sibile. Illud autem ex parte intellectus in productione verbi, patet sic, &amp; per simile: quod intelligatur ex par 
+        <lb ed="#Bb" n="49"/>te voluntatis in productione spiritus sancti. Nam verbum quod in diuinis producitur, quia semper ma 
+        <lb ed="#Bb" n="50"/>nens est, &amp; similiter actus ipse producendi &amp; producens ipsum semper vniformiter se habet: ipso pro 
+        <lb ed="#Bb" n="51"/>ducto non posset restare foecunditas ad aliud verbum producendum nisi possent esse duae productio 
+        <lb ed="#Bb" n="52"/>nes omnino eiusdem modi &amp; eiusdem rationis simul, emanantes ex eodem principio, &amp; circa idem omni 
+        <lb ed="#Bb" n="53"/>no vniformiter se habens: cum omnis productio verbi in diuinis necessario est eiusdem rationis si 
+        <lb ed="#Bb" n="54"/>cut est &amp; omne verbum quod potest esse in diuinis, quemadmodum &amp; omnis actus intelligendi, &amp; omnis pro 
+        <lb ed="#Bb" n="55"/>ductio filiorum in eadem natura, &amp; omnes filii, &amp; omnes filiationes etiam in creaturis. Illud etiam omnino  
+   <!--217.xml-->
+        <pb ed="#Bb" n="101-v"/>
+        <lb ed="#Bb" n="1"/>est impossibile. Nam duas productiones omnino vnius &amp; eiusdem rationis esse circa idem omnino vni- 
+        <lb ed="#Bb" n="2"/>formiter, impossibile est, vt ostendit ratio praecedens, maxime ab eodem agente vniformiter semper 
+        <lb ed="#Bb" n="3"/>se habente, quia hoc etiam impossibile est a diuersis agentibus: sicut impossibile est in creaturis vnam &amp; eam 
+        <lb ed="#Bb" n="4"/>dem naturam numero omnino vniformiter semper se habentem simul &amp; semel siue ab eodem agente si 
+        <lb ed="#Bb" n="5"/>ue a diuersis pluribus motibus eiusdem speciei moueri. Impossibile est ergo quod eiusdem rationis sint 
+        <lb ed="#Bb" n="6"/>in diuinis plures productiones, aut plures producti. &amp; sic omnino secundum eundem modum proceden- 
+        <lb ed="#Bb" n="7"/>di non possunt in diuinis plures procedere personae: secundum quod haec omnia amplius partractata sunt in  
+        <lb ed="#Bb" n="8"/>quadam quaestione de Quolibet, and scilicet in deo sint tres personae &amp; tantum tres. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e463">
+        <lb ed="#Bb" n="9"/>⁋ Ad primum in oppositum, quod aequalis perfectio est in singulis personis, ergo &amp; 
+        <lb ed="#Bb" n="10"/>aequaliter &amp; vniformiter est personae emanatio a singulis, Dicendum quod in deo differunt perfectio &amp; 
+        <lb ed="#Bb" n="11"/>ratio perfectionis. Perfectio enim de puris essentialibus est: propter quod eadem est de singulis personis. Ra 
+        <lb ed="#Bb" n="12"/>tio autem perfectionis est modus habendi eam, secundum quem contrahitur ad personale: qui non est pluribus semper 
+        <lb ed="#Bb" n="13"/>communis: secundum quod expositum est supra. Vnde quod filius &amp; spiritus sanctus non generant, hoc non procedit 
+        <lb ed="#Bb" n="14"/>ex imperfectione: sed ex perfectionis conditione. nam eadem est perfectio trium, sicut &amp; eadem dei- 
+        <lb ed="#Bb" n="15"/>tas: &amp; ex eadem perfectione &amp; diuersa perfectionis conditione est quod pater generet, &amp; non generetur, 
+        <lb ed="#Bb" n="16"/>&amp; quod filius generatur &amp; non generat. solus enim pater habet eam ad generare: quia sub proprietate pri- 
+        <lb ed="#Bb" n="17"/>mitatis innascibilis: filius autem ad generari: quia sub proprietate nascibilis. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e486">
+        ⁋ Ad secundum quod persona a  
+        <lb ed="#Bb" n="18"/>qua emanat alia communicat illi quae emanat, suam substantiam: quare &amp; virtutem &amp;c. Responsio 
+        <lb ed="#Bb" n="19"/>ad hoc dependet a significato huius nominis virtus siue potentia in diuinis. Ad cuius intellectum sciendum est- 
+        <lb ed="#Bb" n="20"/>quod large sumendo significatum, per nomen significatur aliquid dupliciter. vno modo vt a quo nominis fit 
+        <lb ed="#Bb" n="21"/>impositio: alio modo vt cui sit. Primo modo potentia non significat formaliter nisi respectum siue re 
+        <lb ed="#Bb" n="22"/>lationem: &amp; quasi materialiter in suo significato includit id in quo fundatur huiusmodi respectus. Et 
+        <lb ed="#Bb" n="23"/>hoc modo diximus supra, loquendo de potentia dei in generali, quod non significat nisi respectum. Secundo autem  
+        <lb ed="#Bb" n="24"/>modo loquendo de significato potentiae, &amp; hoc in speciali de potentia quae respicit in deo actiones no 
+        <lb ed="#Bb" n="25"/>tionales personarum, sciendum quod cum in diuinis personis non sunt nisi substantia &amp; relationes rea- 
+        <lb ed="#Bb" n="26"/>les: potentia non potest significare nisi aut substantiam tantum: aut relationem tantum: aut vtrumque simul. Non isto 
+        <lb ed="#Bb" n="27"/>vltimo: quia significans substantiam cum proprietate non est nisi persona: &amp; potentia de suo signifi 
+        <lb ed="#Bb" n="28"/>cato non importat personam. Substantiam tantum non potest intelligi significare nisi dupliciter, aut secundum se, aut  
+        <lb ed="#Bb" n="29"/>sub ratione alicuius respectus. Primo modo non potest dici significare substantiam: quia substantia se 
+        <lb ed="#Bb" n="30"/>cundum se nullam habitudinem notat ad actum, quam necessario notat potentia, vt satis declaratum est 
+        <lb ed="#Bb" n="31"/>supra loquendo de potentia dei in generali. Si ergo significat substantiam, hoc necessario est vt sub 
+        <lb ed="#Bb" n="32"/>aliquo respectu ad actum: quod necessarium est ponere. scilicet quod significat substantiam vt id cui nomen im 
+        <lb ed="#Bb" n="33"/>ponitur: &amp; non nisi substantiam: &amp; hoc vt est sub ratione respectus, &amp; non nisi vt est sub ratione respectus. Non 
+        <lb ed="#Bb" n="34"/>nisi substantiam: quia non est potentia nisi id quo agens elicit actum, aut id de quo elicitur. Hoc 
+        <lb ed="#Bb" n="35"/>autem non est nisi forma qua agens agit, &amp; natura qua patiens patitur. Et non nisi sub ratione respe 
+        <lb ed="#Bb" n="36"/>ctus: ita quod non sit ipse respectus potentia: sed sine quo non habet substantia rationem potentiae. Pro 
+        <lb ed="#Bb" n="37"/>pter quod licet substantia sit eadem sub diuersis respectibus: non tamen ipsa est eadem potentia. im 
+        <lb ed="#Bb" n="38"/>mo sicut ipsa sub respectu, hoc est quia sub tali respectu, est potentia simpliciter: sic quia est sub diuersis 
+        <lb ed="#Bb" n="39"/>respectibus, est diuersae potentiae. &amp; hoc quemadmodum determinauimus alibi quod anima licet sit vna 
+        <lb ed="#Bb" n="40"/>substantia, tamen est diuersae potentiae, &amp; tamen potentia non est nisi substantia animae: &amp; substantia animae 
+        <lb ed="#Bb" n="41"/>est suae potentiae. sicut est de prima materia: quod licet sit vna substantia, est tamen plures potentiae. Et 
+        <lb ed="#Bb" n="42"/>per hunc modum dicit <name ref="#Aristotle">Philosophus</name> loquens de materia. xii. metaphysicae. Cum agens est vnum, si mate 
+        <lb ed="#Bb" n="43"/>ria esset vna secundum potentiam, &amp; species vna secundum substantiam, generatum ex ea non esset 
+        <lb ed="#Bb" n="44"/>nisi vnum. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e550">
+        ⁋ Alii tamen considerantes quod non est potentia nisi ipsa substantia, non attendentes quod  
+        <lb ed="#Bb" n="45"/>non est potentia nisi vt est sub respectu, putant quod sicut substantia est vna sic est vna potentia. Et di- 
+        <lb ed="#Bb" n="46"/>cunt quod in diuinis non est nisi vna potentia in tribus, sicut neque nisi vna substantia. Et (vt videtur) 
+        <lb ed="#Bb" n="47"/>positio est Magistri Sententiarum sitid is. distinctione. vii. ca. ldem. Vnde isti ad argumentum respondent 
+        <lb ed="#Bb" n="48"/>ex parte virtutis siue potentiae, sicut iam responsum est ex parte perfectionis: Dicendo quod eadem est 
+        <lb ed="#Bb" n="49"/>potentia patris &amp; filii, sicut &amp; eadem deitas: &amp; quod ex eadem potentia est quod pater generat &amp; quod filius 
+        <lb ed="#Bb" n="50"/>generatur: ita quod nullam potentiam habeat pater, quam non habeat filius. sed pater ad generare habet 
+        <lb ed="#Bb" n="51"/>eandem vt potentiam actiuam: filius autem ad generari vt potentiam passiuam, &amp; hoc quia alteri con 
+        <lb ed="#Bb" n="52"/>iunctam respectui in patre &amp; filio. Et sic dicunt quod pater communicat filio suam virtutem qua ge 
+        <lb ed="#Bb" n="53"/>nerat siue potentiam sicut &amp; naturam: non tamen per ipsam potest generare filius: sed solus pater: quia 
+        <lb ed="#Bb" n="54"/>sub alio respectu habet eam pater quam filius. Sed (vt dictum est) non debet dici quod significat quid abso- 
+        <lb ed="#Bb" n="55"/>lute omnino: sed solum sub ratione respectus. vt sicut essentia est potentia ad generare sub respectu patris, &amp; 
+   <!--218.xml-->
+        <pb ed="#Bb" n="102-r"/>
+        <lb ed="#Bb" n="1"/>ad genetari sub respectu filii: sic est potentia ad actum indeterminate, vt essentia: non sic potentia ad ge  
+        <lb ed="#Bb" n="2"/>nerare: nisi sit sub respectu paternitatis, neque ad generari nisi sub respectu filiationis: ita quod sit alia &amp; alia 
+        <lb ed="#Bb" n="3"/>potentia, secundum quod est alius &amp; alius respectus. Et hoc modo non eadem est potentia in patre ad genera 
+        <lb ed="#Bb" n="4"/>re, &amp; in filio ad generari, &amp; in vtroque ad spirare, &amp; in spiritus sancto ad spirari: nisi intelligamus eandem 
+        <lb ed="#Bb" n="5"/>quantum est ex se indeterminatam, quia sub in determinato respectu: nec est in filio potentia ad generare 
+        <lb ed="#Bb" n="6"/>siue qua generatur actiue, nec in patre potentia ad generari, siue qua generatur passiue: &amp; similiter 
+        <lb ed="#Bb" n="7"/>de potentiis vtriusque respectu spiritus sancti, &amp; econuerso. Aliter igitur respondendum est ad argu- 
+        <lb ed="#Bb" n="8"/>mentum, dicendo quod persona communicans substantiam suam, communicat cum ipsa &amp; virtutem. Dicen- 
+        <lb ed="#Bb" n="9"/>dum quod verum est quo ad id quod est ipsa virtus siue potentia, quia non est nisi ipsa substantia, vt dictum 
+        <lb ed="#Bb" n="10"/>est: non tamen quo ad potentiam secundum rationem potentiae. Non plus enim potentiam siue substantiam sub 
+        <lb ed="#Bb" n="11"/>ratione potentiae suae sibi communicat, quam suam proprietatem sub qua substantia habet rationem potentiae 
+        <lb ed="#Bb" n="12"/>suae sibi determinatae. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e607">
+        ⁋ Aliter autem potest responderi distinguendo, quod est quaedam substantia quae ex se 
+        <lb ed="#Bb" n="13"/>habet determinatum respectum ad actum, &amp; quaedam quae non nisi per aliquid quod est eius in quo est. De 
+        <lb ed="#Bb" n="14"/>substantia primo modo, non est verum quod communicata substantia communicatur &amp; potentia eius. Isto mo-  
+        <lb ed="#Bb" n="15"/>do quaelibet substantia creata habet potentiam determinatam sibi ad actum determinatum, secundum <name ref="#Aristotle">Philosophum</name> in fine 
+        <lb ed="#Bb" n="16"/>iiii. Meteororum: &amp; hoc propter substantiae creatae limitationem. Substantia vero increata propter suam 
+        <lb ed="#Bb" n="17"/>illimitationem ex se habet potentiam absque determinatione per aliquid ad omnes actus essentiales, sed non 
+        <lb ed="#Bb" n="18"/>ad actus notionales, nisi per determinationem ad actum sub aliqua proprietate. Et ideo persona in di- 
+        <lb ed="#Bb" n="19"/>uinis communicans suam substantiam, communicat suam potentiam ad omnes actus essentiales, sed po- 
+        <lb ed="#Bb" n="20"/>tentiam ad actus notionales non, quod non est nisi ex adiuncto in persona cui communicatur. propter quid  
+        <lb ed="#Bb" n="21"/>non potest communicari nisi simul cum communicatione substantiae communicetur adiunctum propter ecid 
+        <lb ed="#Bb" n="22"/>habet potentiam illam. Et ideo quia persona a qua emanat alia non communicat illi suam proprietatem 
+        <lb ed="#Bb" n="23"/>sub qua habet sua substantia potentiam determinatam ad actum illius emanationis: propter hoc licet 
+        <lb ed="#Bb" n="24"/>communicet illi suam substantiam: nequaquam tamen suam potentiam, vt sicut pater non communicat filio suam 
+        <lb ed="#Bb" n="25"/>substantiam sub sua proprietate, sic nec ei communicat suam potentiam qua generat. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e641">
+        ⁋ Quia autem confir 
+        <lb ed="#Bb" n="26"/>mabatur de filio quod haberet verbum, quia secundum Apostolum portat omnia verbo virtutis suae: Di-  
+        <lb ed="#Bb" n="27"/>cendum secundum Glossam quod ibi non sumitur verbum pro aliquo conceptu mentis, sed pro imperio vo 
+        <lb ed="#Bb" n="28"/>luntatis. Dicit enim sic. Potestatem commendans ait, ipse filius est portans. i. continens &amp; gubernans omnia ver 
+        <lb ed="#Bb" n="29"/>bo id i. solo imperio virtutis. i. potentiae &amp; bonitatis suae. Et nota (vt dicit) per simile dictum esse. Hoc 
+        <lb ed="#Bb" n="30"/>enim dicendo facilitatem continendi voluit designare per metaphoram illorum qui sine vllo labore ver 
+        <lb ed="#Bb" n="31"/>bo vel digito mouent aliquid vel efficiunt. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e657">
+        ⁋ Ad tertium: filius aut potest generare filium aut non  
+        <lb ed="#Bb" n="32"/>potest: Dicendum quod pertractando rationem de potentia modo praedicto quo aliqui ponunt potentiam 
+        <lb ed="#Bb" n="33"/>significare substantiam absolute, multum refert quaerere an filius possit generare, &amp; an in filio sit 
+        <lb ed="#Bb" n="34"/>potentia ad generandum: quia posse verbaliter significatum significat potentiam vt applicabilem 
+        <lb ed="#Bb" n="35"/>ad actum, secundum quod est in eo cui attribuitur posse. Potentia vero nominaliter significata signifi- 
+        <lb ed="#Bb" n="36"/>cat potentiam vt est res quaedam absoluta secundum dicta &amp; modum significandi respciens actum vt 
+        <lb ed="#Bb" n="37"/>pplicabilem simpliciter ad actum in aliquo supposito, licet non determinate in eo cui attribuitur. 
+        <lb ed="#Bb" n="38"/>Vnde dicendum secundum illos quod ista est vera, in filio est potentia a patre ad generare, non qua ipse 
+        <lb ed="#Bb" n="39"/>filius generet, sed qua aliquis in diuinis generet. vt secundum hoc differat dicere quod in filio est poten 
+        <lb ed="#Bb" n="40"/>tia quae est ad generare, &amp; in filio est potentia vt generet. Haec enim secundum illos simpliciter vera est: in  
+        <lb ed="#Bb" n="41"/>filio est potentia quae est ad generare: ista vero simpliciter est falsa, filius potest generare: &amp; illa ope 
+        <lb ed="#Bb" n="42"/>posita vera, filius non potest generare, distinguendo tamen secundum illos, vt iam dicetur. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e683">
+        ⁋ Et quod ar  
+        <lb ed="#Bb" n="43"/>guitur per Ricar. quod omnipotens per impossibilitatem non potest excusari: Dicendum quod aliquem excusari 
+        <lb ed="#Bb" n="44"/>per impossibilitatem ne possit in actum, potest intelligi dupliciter, secundum quod dupliciter potest 
+        <lb ed="#Bb" n="45"/>causari illa impossibilitas, siue ex duplici causa. Vno modo &amp; vna de causa ex defectu potentiae or 
+        <lb ed="#Bb" n="46"/>dinabilis ad actum. Alio modo ex inapplicabilitate eius ad actum vt est in aliquo. Primo modo (vt 
+        <lb ed="#Bb" n="47"/>dicunt) veritatem habet dictum Ric. Vnde postquam dixit, Omnipotens per impossibilitatem excusari non  
+        <lb ed="#Bb" n="48"/>potest, continuo subdit. Sed constat non ex defectu potentiae. &amp; hoc modo filius per impossibilitatem 
+        <lb ed="#Bb" n="49"/>non potest excusari a posse generare: quia vt dictum est, habet potentiam quae ad hoc ordinatur, li- 
+        <lb ed="#Bb" n="50"/>cet in alia persona. Secundo autem modo dictum Ric. non intelligitur nec habet veritatem: sic enim filius per  
+        <lb ed="#Bb" n="51"/>impossibilitatem excusatur a posse generare, quia potentia quae est in ipso ad posse generare, non est 
+        <lb ed="#Bb" n="52"/>applicabilis ad actum generandi actiue secundum quod est in ipso, quia non est in ipso vt generet, nec 
+        <lb ed="#Bb" n="53"/>sub proprietate qua determinari potest ad hoc, vt dictum est. Et sic ista impossibilitas in filio non dicit 
+        <lb ed="#Bb" n="54"/>aliquid priuatiue: hoc enim defectus esset in filio non conditio personae: sed dicit aliquid negatiue tan  
+        <lb ed="#Bb" n="55"/>tum. licet enim defectus est si in aliquo non sit quod natum est ex sua conditione ei inesse, vt visio in ani- 
+   <!--219.xml-->
+        <pb ed="#Bb" n="102-v"/>
+        <lb ed="#Bb" n="1"/>mali, qualem defectum nominat priuatio: non tamen defectus est si in aliquo non sit quod non est 
+        <lb ed="#Bb" n="2"/>natum ei inesse ex sua conditione, vt infra declarabitur. Et si arguatur contra hoc, quod si filius non potest ge- 
+        <lb ed="#Bb" n="3"/>nerare &amp; pater potest generare, ergo pater aliquid potest quod non potest filius: Argumentum hoc tam 
+        <lb ed="#Bb" n="4"/>git Magister distinctione. vii. primi Sententiarum in principio distinctionis. Et est dicendum quod non 
+        <lb ed="#Bb" n="5"/>sequitur: quia secundum quod dicit Magister Sententiarum, posse generare filium non est posse aliquid  
+        <lb ed="#Bb" n="6"/>sed ad aliquid, quoniam in diuinis generatio non est aliquid, sed ad aliquid. similiter neque filius. Et 
+        <lb ed="#Bb" n="7"/>ideo posse generare, est posse ad aliquid, &amp; posse generare filium non est posse generare aliquid, sed aliquem. Nec est 
+        <lb ed="#Bb" n="8"/>inconveniens quod pter potest in actionem alicuius respectus in quam non potest filius: &amp; producere aliquem quem non potest r 
+        <lb ed="#Bb" n="9"/>ducere filius: &amp; hoc non ex impossibilitate defectus &amp; conditionis, vt dictum est, &amp; amplius iam dicetur: vt non 
+        <lb ed="#Bb" n="10"/>possit concludi ex praedicto modo: ergo aliqua potentia est in patre quae non est in filio: sed solum quod 
+        <lb ed="#Bb" n="11"/>potentia quae est eadentr in patre &amp; filio, sit ad aliquam actionem vel personam producendam in pa- 
+        <lb ed="#Bb" n="12"/>tre ad quam non in filio. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e745">
+        ⁋ Quia arguitur etiam ex dicto <name ref="#Augustine">Augustinus</name> filius quod non genuit non est quia non potuit 
+        <lb ed="#Bb" n="13"/>generare: sed quia non oportuit: Dicendum quod illa negatio cum dicitur non potuit, potest intelligi pu 
+        <lb ed="#Bb" n="14"/>re negatiue vel priuatiue. Si negatiue, sic dicendum quod illa, filius non genuit non quia non potuit, duplicem 
+        <lb ed="#Bb" n="15"/>habet intelligentiam: quia cum ly potuit includat potentiam vt ordinatam siue ordinabilem ad 
+        <lb ed="#Bb" n="16"/>actum in persona cui attribuitur: aut ergo illa negatio cum dicitur non potuit, potest negare po- 
+        <lb ed="#Bb" n="17"/>tentiam generandi actiue, ratione ipsius potentiae &amp; applicationis eius ad actum simul: vel ratione 
+        <lb ed="#Bb" n="18"/>applicationis eius ad actum tantum. Primo modo falsa est: quia negat filio non inesse potentiam qua ge 
+        <lb ed="#Bb" n="19"/>neratur siue qua aliquis generat, quem sensum quaerebant haeretici. Vnde assumpto verbo praemittit 
+        <lb ed="#Bb" n="20"/>Augustinus lib. iii. contra Maximinum cap. xii. Absit vt quomodo putas ideo pater sit potentior filio 
+        <lb ed="#Bb" n="21"/>quia creatorem genuit pitr: filius autem non genuit creatorem, non enim non potuit &amp;c. Et sic isto modo 
+        <lb ed="#Bb" n="22"/>est illa vera, non quia non potuit: sub hoc sensu exponendo dictum <name ref="#Augustine">Augustinus</name> Non genuit non quia non 
+        <lb ed="#Bb" n="23"/>potuit: sed quia non oportuit id es, non quia non habuit potentiam qua generat pater: sed quia non opor 
+        <lb ed="#Bb" n="24"/>tuit, &amp; hoc ideo quia sufficienter impleta fuit in actu, &amp; omnino exhausta in hoc quod pater per eam 
+        <lb ed="#Bb" n="25"/>generauit. Vnde <name ref="#Augustine">Augustinus</name> exponens quare non oportuit, continuo subdit dicens. Immoderata 
+        <lb ed="#Bb" n="26"/>enim esset diuina generatio si genitus filius nepotem gigneret patri: quia &amp; ipse nepos nisi auo suo pro  
+        <lb ed="#Bb" n="27"/>nepotem gigneret secundum vestram mirabilem sapientiam, impotens diceretur iste: &amp; ille nisi nepo 
+        <lb ed="#Bb" n="28"/>tem gigneret auo suo, &amp; pronepotem proauo suo, non a vobis appellaretur omnipotens: nec im- 
+        <lb ed="#Bb" n="29"/>pleretur generationis series si semper alter ex altero nasceretur: nec eam perficeret vllus si non sufficeret 
+        <lb ed="#Bb" n="30"/>vnus. Vnde si ptur non effunderet totam potentiam actiuae generationis vnico actu vnicum filium generando: filius 
+        <lb ed="#Bb" n="31"/>filium generaret in infinitum. propter quod supra fundata est ratio nostra ostendens quod in diuinis non 
+        <lb ed="#Bb" n="32"/>potest generari plus quam vnus filius ab vno. Ex eo autem quod sic negatur de filio quod non potuit genera 
+        <lb ed="#Bb" n="33"/>re, dicendo non quia non potuit, non sequitur (licet videatur sequi) quod potuit generare, sensus 
+        <lb ed="#Bb" n="34"/>enim illius est: non quia non habuit potentiam qua generatur applicabilem ad generare vt est in  
+        <lb ed="#Bb" n="35"/>seipso tum ratione potentiae tum ratione applicabilitatis: immo ipse habuit potentiam qua generatur. 
+        <lb ed="#Bb" n="36"/>Ex quo non sequitur quod potuit generare. Quia (vtiam dictum est supra) ly potuit dicit nonsolum po 
+        <lb ed="#Bb" n="37"/>tentiam: sed applicabilitatem eius ad actum in eo cui attribuitur: habere autem potentiam huiusmodi, neque  
+        <lb ed="#Bb" n="38"/>quam huiusmodi applicabilitatem importat: &amp; sic illa est vera, filius non genuit non quia non potuit id i, non quia non habuit 
+        <lb ed="#Bb" n="39"/>potentiam qua generatur: immo habuit illam licet non applicabilem ad illum actum vt est in ipso, vt dictum est. 
+        <lb ed="#Bb" n="40"/>Si vero illa negatio non potuit, neget potentiam vt generet de filio, non ratione illius potentiae qua  
+        <lb ed="#Bb" n="41"/>generans generat: sed ratione applicationis eius ad actum solummodo: sic ipsa est vera sub hoc sensu 
+        <lb ed="#Bb" n="42"/>filius non habet potentiam vt applicabilem ad generare: &amp; illa, filius non generat non quia non po 
+        <lb ed="#Bb" n="43"/>tuit: falsa est sub hoc sensu: non quia non potuit generare. id est non quia non habuit potentiam applicabilem 
+        <lb ed="#Bb" n="44"/>in seipso ad generare: immo habuit eam sic: sed non oportuit: quia noluit, eo quod pater filium gene- 
+        <lb ed="#Bb" n="45"/>rauit, quod sufficit. Penes quem modum solebant aliqui dicere quod filius potest generare: sed non gene 
+        <lb ed="#Bb" n="46"/>rat, reducendo potentiam suam ad actum propter inconueniens quid sequitur, scilicet filiorum gene 
+        <lb ed="#Bb" n="47"/>rationem in infinitum, vt iam inductum est secundum Augustinum. Sed hoc nihil est: tum quia in aeter 
+        <lb ed="#Bb" n="48"/>nis secundum <name ref="#Aristotle">Philosophum</name> non differunt esse &amp; posse: vnde quicquid non est in deo, impossibile est es 
+        <lb ed="#Bb" n="49"/>se in ipso: &amp; quicquid est in ipso, impossibile est non esse in ipso: tum quia secundum <name ref="#Augustine">Augustinus</name> in deo mini- 
+        <lb ed="#Bb" n="50"/>mum inconueniens summum est impossibile. Vnde si inconueniens sequitur ex hoc quod ponatur filius pos 
+        <lb ed="#Bb" n="51"/>se generare, illud est summum impossibile. immo si generare potuit generauit secundum quod procedit 
+        <lb ed="#Bb" n="52"/>deductio rationis. Si vero illa negatio non potuit generare, ponatur priuatiue, sic est falsa sub hoc sensu- 
+        <lb ed="#Bb" n="53"/>filius non potuit generare. id est impotens fuit carendo potentia ad generandum, quam tamen natus esset 
+        <lb ed="#Bb" n="54"/>habere, vel omnino non habendo applicabilitatem eius ad actum, aut non perfectam propter aliquem defe 
+        <lb ed="#Bb" n="55"/>ctum aut impedimentum. In hoc enim differunt negatio &amp; priuatio. Negatio enim dicit amotionem 
+   <!--220.xml-->
+        <pb ed="#Bb" n="103-r"/>
+        <lb ed="#Bb" n="1"/>alicuius ab alio absolute: priuatio autem notat possibilitatem essendi eius quod priuatur in subiecto a 
+        <lb ed="#Bb" n="2"/>quo priuatur, secundum Philosophum. iiii. Metaphysicae. Et sic iterum dictum Augustini est verum, filius non 
+        <lb ed="#Bb" n="3"/>genuit non quia non potuit, sub hoc sensu quem ponit Magister sententiarum primo: non ex impoten 
+        <lb ed="#Bb" n="4"/>tia sua fuit quod filius non genuit: quod bene ostendit deductio rationis: sed quia non oportuitid i, non ei 
+        <lb ed="#Bb" n="5"/>conveniebat: hoc est non conueniebat suae proprietati: &amp; ideo non potuit. sicut filius non potest esse 
+        <lb ed="#Bb" n="6"/>pater non vtique ex aliqua impotentia, sed ex proprietate natiuitatis qua oportuit eum non esse pa- 
+        <lb ed="#Bb" n="7"/>trem sed filium tantum. Vnde in diuinis aliquid non oportere, vel non congrue fieri, vel non conueni 
+        <lb ed="#Bb" n="8"/>re vt fiat, idem est quod oportere vel congruere non fieri, &amp; ita quod impossibile sit fieri. Sed ponendo po 
+        <lb ed="#Bb" n="9"/>tentiam non esse substantiam nec econuerso nisi sub ratione respectus, ita quod sub alio respectu &amp; 
+        <lb ed="#Bb" n="10"/>alio eadem substantia bene est alia &amp; alia potentia: non refert dicere filium posse generare, &amp;que in ipso 
+        <lb ed="#Bb" n="11"/>sit potentia quae est ad generare: nec refert quaerere an filius possit generare, &amp; an in filio sit poten 
+        <lb ed="#Bb" n="12"/>tia ad actum generandi, quia loquendo de tali potentia, cuiuscunque est potentia, eius est &amp; actus sibi re 
+        <lb ed="#Bb" n="13"/>spondens, nec est potentia in aliquo nisi sit applicabilitas eius ad actum in eodem. Et sic circa dicta 
+        <lb ed="#Bb" n="14"/>in ratione nulla est difficultas: quoniam sicut filius non potest generare sed generari, sic nec in ipso 
+        <lb ed="#Bb" n="15"/>est potentia quae est ad generare, sed quae est ad generari, &amp; habet pater aliquam potentiam quam non habet filius, 
+        <lb ed="#Bb" n="16"/>nec est eadem potentia penitus in patre qua potuit pater gignere, &amp; in filio qua potuit filius gigni: sicut 
+        <lb ed="#Bb" n="17"/>nec sunt idem gignere &amp; gigni, vt non sit dicendum quod eadem potentia quae est in patre, est &amp; in filio, licet ad alium 
+        <lb ed="#Bb" n="18"/>actum, quia esse ad alium actum sub alio respectu, est esse aliam potentiam. Quia ei potentiae distinguuntur per actus secundu 
+        <lb ed="#Bb" n="19"/>Philosophum, hoc solum facit quod potentia sit alia, qud scilicet est ad alium actum. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e902">
+        ⁋ Ad formam vero arg respondendum 
+        <lb ed="#Bb" n="20"/>est sicut prius secundum Magistrum sententiarum. Et sicut nullum est inconveniens aliquam potentiam in patre esse quae  
+        <lb ed="#Bb" n="21"/>non est in filio, sic nullum est inconueniens aliquam esse proprietatem patris quae non est filii, vt infra videbitur. 
+        <lb ed="#Bb" n="22"/>Et consimiliter non est ista distinguenda, filius non habet potentiam generandi quam habet pater, quia 
+        <lb ed="#Bb" n="23"/>nec habet potentiam vt generet sicut pater, nec eadem potentia est qua potest gignere &amp; ille gigni, 
+        <lb ed="#Bb" n="24"/>vt dictum est, quamuis Magister sententiarum. vii. distinctione distinguat eas. Vnde licet in argumento 
+        <lb ed="#Bb" n="25"/>praedicto ad quod respondet Magister sententiarum, commutatur ad aliquid in quid, si tamen sic arguatur 
+        <lb ed="#Bb" n="26"/>si filius non potest generare, ergo aliqua potentia non est in filio quae est in patre: diceret Magister 
+        <lb ed="#Bb" n="27"/>secundum opinionem praedictam quod non sequitur: sed quod hoc bene sequatur, ergo potentia in filio non est ad eundem 
+        <lb ed="#Bb" n="28"/>actum ad quem est in patre: eadem tamen potentia quae est in patre est in filio. Quod non potest stare. Cum enim 
+        <lb ed="#Bb" n="29"/>(vt dictum est) non est substantia nisi vt est ad actum: &amp; non est determinata potentia nisi sit ad determina 
+        <lb ed="#Bb" n="30"/>tum actum: quamquam ergo eadem substantia quae est in patre sit in filio: si tamen in patre est ad actum quid est generare, vt scilicet 
+        <lb ed="#Bb" n="31"/>ea pater generet, &amp; ideo est in patre aliqua determinata potentia: in filio autem nequaquam est ad eun 
+        <lb ed="#Bb" n="32"/>dem actum, sed potius ad oppositum: in filio ergo non est eadem potentia quae est in patre, immo fru 
+        <lb ed="#Bb" n="33"/>stra esset in illo. lgitur bene tenet dictus processus ad aliquid in ad aliquid. etenim licet substantia 
+        <lb ed="#Bb" n="34"/>non sit ad aliquid, quia tamen non convenit ei nomen potentiae nisi vt est sub respectu qui est ad aliquid,  
+        <lb ed="#Bb" n="35"/>potentia est ad aliquid: &amp; etiam cum hoc significat substantiam. Sicut enim substantiam esse sub vno re 
+        <lb ed="#Bb" n="36"/>pectu, non est ipsam esse sub alio respectu, sic substantia licet omnifariam sit vna &amp; eadem substantia 
+        <lb ed="#Bb" n="37"/>non tamen est vna potentia vt est sub vno respectu &amp; sub alio, sed alia &amp; alia. Est enim secundum aliquos 
+        <lb ed="#Bb" n="38"/>substantia tracta ad relationem, licet non sit principaliter relatio. Et secundum hunc modum poten- 
+        <lb ed="#Bb" n="39"/>tiae filius per impossibilitatem excusatur ne possit generare, non quae est defectus, sumendo impossi 
+        <lb ed="#Bb" n="40"/>bilitatem priuatiue: omnipotens enim per talem impossibilitatem a nullo actu potest excusari: sed quae 
+        <lb ed="#Bb" n="41"/>est conditio naturae, sumendo impossibilitatem negatiue. Licet enim filius non habet omnino poten 
+        <lb ed="#Bb" n="42"/>tiam generandi actiue, hoc non est ex aliqua impotentia defectus in illo, sed quia non congruit omni 
+        <lb ed="#Bb" n="43"/>no: immo contrariatur suo modo essendi, vt dictum est. Quomodo autem non repugnat omnipoten- 
+        <lb ed="#Bb" n="44"/>tiae filii quod non est in eo aliqua potentia quae est in patre, inferius videbitur. Hoc autem modo loquen- 
+        <lb ed="#Bb" n="45"/>do de potentia in illo dicto <name ref="#Augustine">Augustinus</name> Eilius non genuit non quia non potuit: negatio in eo quod dicitur 
+        <lb ed="#Bb" n="46"/>non potuit, non ponitur nisi priuatiue. Sic enim ista est falsa, filius non potuit generare, vt iam dictum 
+        <lb ed="#Bb" n="47"/>est. Negatiue autem illa simpliciter est vera, filius non potuit generare, nec habet nisi sensum vnicum, 
+        <lb ed="#Bb" n="48"/>quia negat potentiam simpliciter, vt dictum est. &amp; sic in sensu priuatiuo illa simpliciter est vera, si 
+        <lb ed="#Bb" n="49"/>lius non genuit non quia non potuit, sed quia non oportuit, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e973">
+        ⁋ Ad quartum: quod per- 
+        <lb ed="#Bb" n="50"/>sona emanans nihil derogat potentiae eius a qua emanat, &amp; sic post emanationem vnius personae po 
+        <lb ed="#Bb" n="51"/>test emanare alia consimilis: Dicendum quod non est verum. Nec hoc prouenit ex aliqua derogatione facta po 
+        <lb ed="#Bb" n="52"/>tentiae eius a quo emanat, secundum quod tamen processit obiectio: sed potius prouenit ex ipsius po 
+        <lb ed="#Bb" n="53"/>tentiae perfectione, qua semel diffundit se in actum perfectum &amp; permanentem, &amp; in perfectam produ 
+        <lb ed="#Bb" n="54"/>ctionem personae per illum. Quia enim ex potentia eadem actus iterantur, hoc non contingit nisi ex de 
+        <lb ed="#Bb" n="55"/>fectu potentiae, quod scilicet semel non diffundit se in actum perfecte, vt quod non consequitur in vnico actu 
+   <!--221.xml-->
+        <pb ed="#Bb" n="103-v"/>
+        <lb ed="#Bb" n="1"/>consequatur in pluribus. Et eadem ratione quod multiplicantur producta in eadem natura, non est nisi ex de 
+        <lb ed="#Bb" n="2"/>fectu producti: in eo scilicet quod non plene continet in se quod pertinet ad naturam &amp; rationem suam. propter 
+        <lb ed="#Bb" n="3"/>hoc enim solum plurificantur indiuidua sub eadem specie secundum Commentatorem super pri- 
+        <lb ed="#Bb" n="4"/>mum cae. &amp; mundo. Vbi ergo potentia perfecte semel se diffundit in actum perfectum, aliquid per- 
+        <lb ed="#Bb" n="5"/>fectum producens, non est actio nisi vnica secundum vnicam rationem, &amp; productum nisi vnum. secundum  
+        <lb ed="#Bb" n="6"/>quod expositum est in praesignata quaestione de Quolibet. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e1006">
+        ⁋ Ad quintum, quod iidem actus essentiales in  
+        <lb ed="#Bb" n="7"/>telligendi &amp; similiter volendi trium communes sunt: quare &amp; actus notionales fundati super ip- 
+        <lb ed="#Bb" n="8"/>sos communes sunt tribus &amp;c. Dicendum quod huiusmodi actus essentiales dupliciter considerari pos 
+        <lb ed="#Bb" n="9"/>sunt. vno modo secundum se &amp; absolute: alio modo vt habent esse in persona hac vel illa. Primo modo non fundam 
+        <lb ed="#Bb" n="10"/>tur in eis actus notionales, quia sic essent communes omnibus personis quibus illi actus conueniunt 
+        <lb ed="#Bb" n="11"/>vt procedit obiectio. sed fundantur in eis secundo modo. Actus enim notionales dicendi non fundanti 
+        <lb ed="#Bb" n="12"/>super actum essentialem intelligendi, nisi prout ipse habet esse in patre. In solo enim patre ratione suae 
+        <lb ed="#Bb" n="13"/>innascibilitatis &amp; primitatis qua non habet esse ab alio, sed omne aliud &amp; omnis alius ab ipso, est sce 
+        <lb ed="#Bb" n="14"/>cunditas ad primum actum primi producti: &amp; est foecunditas sapientiae &amp; intellectus patris exi- 
+        <lb ed="#Bb" n="15"/>stentis in actu intelligendi essentialiter ad dicendum siue producendum verbum, quo perfectus est 
+        <lb ed="#Bb" n="16"/>totus intellectus diuinus essentialis &amp; in se &amp; vt est in qualibet trium personarum: vt sic pater qua  
+        <lb ed="#Bb" n="17"/>si vice omnium dicat vnicum verbum perfectum, vt non oporteat aliquam aliarum personarum ver 
+        <lb ed="#Bb" n="18"/>bum dicere. &amp; per hoc impossibile est in diuinis esse aliud verbum, vt supra expositum est. Consimi 
+        <lb ed="#Bb" n="19"/>liter actus notionalis spirandi non fundatur super actum essentialem volendi, nisi prout ipse habet 
+        <lb ed="#Bb" n="20"/>esse communiter in solo patre &amp; filio. In solis enim ipsis ratione communis inspirabilitatis qua non ha 
+        <lb ed="#Bb" n="21"/>pent esse ab alio per spirationem: licet illud non ponatur esse notio, vt infra videbitur: sed ab ipsis ha 
+        <lb ed="#Bb" n="22"/>bet esse ipsum spiratum: est foecunditas ad secundum actum productiuum: &amp; est foecunditas amoris &amp; vo 
+        <lb ed="#Bb" n="23"/>luntatis patris &amp; filii existentis in actu volendi essentialiter ad spirandum amorem qui est spiritus 
+        <lb ed="#Bb" n="24"/>sanctus: quo perfecta est tota voluntas essentialis diuina &amp; in se &amp; vt est in qualibet trium personarum 
+        <lb ed="#Bb" n="25"/>vt sic pater &amp; filius quasi vice totius trinitatis spirent vnicum amorem perfectum, vt non oporteat spiritum 
+        <lb ed="#Bb" n="26"/>sanctum omnino spirare aliquem amorem. &amp; propter hoc impossibile est in diuinis esse alium amo 
+        <lb ed="#Bb" n="27"/>rem spiratum siue alium spiritum sanctum. 
+      </p>
+      <p xml:id="vn58an-fe27310-d1e1054">
+        ⁋ Ad sextum quod pater per efficaciam suam dat filio quem 
+        <lb ed="#Bb" n="28"/>generat vt aliam personam producat: ergo ambo dant idem spiritui sancto: Dicendum ad hoc secun 
+        <lb ed="#Bb" n="29"/>dum Ricar. iiii. de trinitate cap. xi. quod sicut necesse est aliquam esse personam quae non habet esse ab  
+        <lb ed="#Bb" n="30"/>alia: sic necesse est ibi esse aliquam a qua non sit aliqua alia. vtrunque namque simili ratione conuincitur. 
+        <lb ed="#Bb" n="31"/>Nam si in illa vera deitate non esset aliqua persona a qua non procederet aliqua alia: sed quaelibet ex alia proce 
+        <lb ed="#Bb" n="32"/>dens de se procedentem haberet, huiusmodi deductio in infinitum procederet. Et vt dicit cap. xii. haec perso 
+        <lb ed="#Bb" n="33"/>na a qua nulla procedit, hoc sibi proprium habet, vt sicut non possit esse in diuinis nisi vnica persona quae est 
+        <lb ed="#Bb" n="34"/>a nulla &amp; a qua alia aut aliae, &amp; vnica quae ab alia &amp; a quae alia: sic necesse est tantum vnicam esse illam quae est 
+        <lb ed="#Bb" n="35"/>ab alia, &amp; a qua nulla, quia (vt dicit) si tales essent duae, nulla immediata germanitate essent coniunctae. 
+        <lb ed="#Bb" n="36"/>Sed huiusmodi cam essentialior, habetur ex praedeterminatis: ex quibus etiam patet quod non procedit ex aliqua 
+        <lb ed="#Bb" n="37"/>impotentia aut imperfectione talis personae quod nulla procedit ab ea: sed ex conditionis suae proprietate: quia 
+        <lb ed="#Bb" n="38"/>non oportuit: quia tota foecunditas diuinae naturae in duplici productione secundum praedetermi- 
+        <lb ed="#Bb" n="39"/>nata exhausta est &amp; completa. Nec etiam procedit ex aliqua inefficacia patris &amp; filii in spirando spiritum 
+        <lb ed="#Bb" n="40"/>sanctum, quod talem personam producunt quae non potest aliam vlterius producere: licet pater personam produ 
+        <lb ed="#Bb" n="41"/>cat quae vlterius producit aliam: sed procedit ex producentium &amp; productorum conditione, quia quod filius a pa 
+        <lb ed="#Bb" n="42"/>tre recipit vim productiuam personae, est quia prima productione producitur: quae ordinem habet ad secundam  
+        <lb ed="#Bb" n="43"/>propter quod vis productiua secundum illam productionem ei communicatur vt cum patre producat ter 
+        <lb ed="#Bb" n="44"/>tiam personam, sicut patet ex supra determinatis: &amp; illa producta non restat vlterior, propter quod ei nul 
+        <lb ed="#Bb" n="45"/>la vis productiua communicatur, quia nulla est vlterius nec esse oportet nec potest, vt patet ex 
+        <lb ed="#Bb" n="46"/>supra determinatis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

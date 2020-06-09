@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="16-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe4387"> <!-- alias="vn58an-a45q2" -->
+      <head xml:id="vn58an-fe4387-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe4387-d1e107">
+        <lb ed="#Bb" n="40"/>CIrca secundum arguitur: quod voluntas dei sit virtus passiua: Primo sic. quoniam omnis vis non  
+        <lb ed="#Bb" n="41"/>mouens nisi prius mota, est vis passiua: quia moueri pati est. voluntas dei est huiusmodi:  
+        <lb ed="#Bb" n="42"/>quia non mouetur ad actionem nisi mota per obiectum. appetitiuum enim mouet: &amp; pro 
+        <lb ed="#Bb" n="43"/>pter hoc intelligentia mouet, quia principium ipsius est appetitiuum. ergo &amp;c. 
+        <lb ed="#Bb" n="44"/>
+      </p>
+      <p xml:id="vn58an-fe4387-d1e120">
+        ⁋ Secundo sic. secundum Priscianum in fine minoris, omnia verba ad animam per 
+        <lb ed="#Bb" n="45"/>tinentia significant passionem. velle verbum est ad animam pertinens: ergo passio 
+        <lb ed="#Bb" n="46"/>nem significat. sed velle est actus voluntatis: passio autem non est actus nisi virtutis passiuae. ergo &amp;c. 
+        <lb ed="#Bb" n="47"/>
+      </p>
+      <p xml:id="vn58an-fe4387-d1e129">
+        ⁋ In contrarium est: quoniam omnis vis passiua in suo actu necessitatem habet ab alio mo uente ipsam. 
+        <lb ed="#Bb" n="48"/>quod si moueat illud, necesse est ipsam in suo actu moueri ab illo. voluntas autem dei quia est omni 
+        <lb ed="#Bb" n="49"/>no libera, a nullo in suo actu necessitatur, vt patebit in sequenti quaestione. ergo &amp;c. 
+        <lb ed="#Bb" n="50"/>
+      </p>
+      <p xml:id="vn58an-fe4387-d1e139">
+        ⁋ Dicendum ad hoc: quod sic est in omnibus potentiis &amp; virtutibus quae habent actus 
+        <lb ed="#Bb" n="51"/>determinatos ad obiecta: quod secundum rationem formalem obiectorum determinantur &amp; distinguun 
+        <lb ed="#Bb" n="52"/>tur ipsae potentiae &amp; actus earum. Verbi gratia: quia secundum formam &amp; speciem differunt color 
+        <lb ed="#Bb" n="53"/>&amp; sonus: &amp; secundum formam &amp; speciem differunt visus &amp; auditus: similiter videre &amp; audire. Quae 
+        <lb ed="#Bb" n="54"/>cunque autem potentiae determinantur secundum rationem formalem obiecti, actus earum secundum esse 
+   <!--48.xml-->
+        <pb ed="#Bb" n="17-r"/>
+        <lb ed="#Bb" n="1"/>completum &amp; formale habent terminari ad obiectum, secundum quod habet esse perfectum &amp; completum in esse suo 
+        <lb ed="#Bb" n="2"/>ormali. vt cum color habet esse formale &amp; completum potius in obiecto quam in medio vel in organo,  
+        <lb ed="#Bb" n="3"/>actus videndi perfectus habet terminari ad colorem prout habet esse inobiecto. Nunc autem ita est iuxta 
+        <lb ed="#Bb" n="4"/>illud dictum philosophi in. vi. Meta. Verum &amp; falsum non sunt in rebus sicut bonum &amp; malum: sed sunt in cogitatio 
+        <lb ed="#Bb" n="5"/>ne. quod licet verum &amp; falsum quodammodo habent esse in cogitatione, &amp; quodammodo in rebus: quia  
+        <lb ed="#Bb" n="6"/>imbo &amp; res &amp; cogitatio dicuntur vera: &amp; veritas habet esse in rebus, &amp; habet esse in cogitatione 
+        <lb ed="#Bb" n="7"/>tamen perfectius esse habent in cogitatione quam in rebus: non quod cogitatio perfectius dicenda est esse ve 
+        <lb ed="#Bb" n="8"/>ra quam res: &amp; veritas cogitationis denominans cogitationem, perfectiorem habeat rationem veritatis quam  
+        <lb ed="#Bb" n="9"/>veritas rei denominans rem ipsam esse veram: sed quod res ipsa perfectiorem habeat in se rationem veri- 
+        <lb ed="#Bb" n="10"/>tatis secundum esse quod habet in cogitatione, quam secundum esse quod habet in se extra: secundum quod expositum est, &amp; 
+        <lb ed="#Bb" n="11"/>declaratum supra in quaestionibus de veritate dei. Bonum vero &amp; malum econtrario licet ambo habent esse 
+        <lb ed="#Bb" n="12"/>quodammodo in re, &amp; quodammodo in voluntate: quia ambo scilicet res &amp; voluntas dicuntur esse bona, tamen perfe 
+        <lb ed="#Bb" n="13"/>ctius esse habent ambo in re volita quam in voluntate. Cuius ratio est: quia (vt supra dictum est in quaestio 
+        <lb ed="#Bb" n="14"/>nibus de bonitate dei) veritas consequitur rem ratione suae formae vt est manifestatiua eius apud  
+        <lb ed="#Bb" n="15"/>cognoscentem. Bonitas vero consequitur rem ratione suae formae vt ipsa est perfectiua ipsius rei in seipsa 
+        <lb ed="#Bb" n="16"/>Quare cum propterea veritas perfectius rationem veritatis habet in cogitatione quam in rebus. secundum quod  
+        <lb ed="#Bb" n="17"/>supra deteriatum est in quaestionibus de veritate dei: consimili ratione bonitas econtrario perfectius habet 
+        <lb ed="#Bb" n="18"/>rationem bonitatis in re quam in voluntate. Propter quod philosophus non dicit absolute quod veritas &amp; falsitas sunt 
+        <lb ed="#Bb" n="19"/>in cogitatione, &amp; non in rebus: bonum vero &amp; malum in rebus non in voluntate: quia cum ambo sint 
+        <lb ed="#Bb" n="20"/>in ambobus, tamen verum &amp; falsum non habent esse in rebus sicut bonum &amp; malum: quia haec secundum perfe- 
+        <lb ed="#Bb" n="21"/>ctius esse sumuntur esse in rebus, &amp; non in voluntate: illa vero econtrario in cogitatione &amp; non in rebus. Cum 
+        <lb ed="#Bb" n="22"/>ergo voluntas &amp; intellectus, &amp; vniuersaliter actus eorum quid sunt velle &amp; intelligere, determinantur 
+        <lb ed="#Bb" n="23"/>&amp; distinguuntur secundum formam &amp; speciem: licet secundum rationem solum in deo, &amp; habent obiecta formalia bo- 
+        <lb ed="#Bb" n="24"/>num, &amp; verum: actus ergo illi quid sunt velle &amp; intelligere, in suo esse &amp; perfecto &amp; formali habent terminari 
+        <lb ed="#Bb" n="25"/>ad illa. secundum quod habent esse perfectum simpliciter in suo esse formali. Quare cum (vt iam declaratum est) verum ha 
+        <lb ed="#Bb" n="26"/>bet suum esse perfectum formale in cogitatione, non in ipsa re vt est extra cogitationem: Bonum vero econver 
+        <lb ed="#Bb" n="27"/>o habet suum esse perfectum forale in re, &amp; non in ipsa voluntate: sicut ergo actus intelligendum terminatur ad 
+        <lb ed="#Bb" n="28"/>verum vt habet esse in ipsa cogitatione, siue in intellectu, sic actus volendi terminatur ad bonum vt habet 
+        <lb ed="#Bb" n="29"/>esse in ipsa re volita. vt intelligere sit actus intellectus ex habitudine quam habet ad rem secundum quod est in 
+        <lb ed="#Bb" n="30"/>eo principaliter: velle autem sit actus voluntatis ex habitudine quam habet ad rem secundum quod ipsa res est 
+        <lb ed="#Bb" n="31"/>in se existens. Quare cum bonum quod est in re, vt in re existens, nullo modo habet mouere voluntatem 
+        <lb ed="#Bb" n="32"/>sicut verum quod est in re non habet mouere intellectum secundum quod habet esse in re: sed solum secundum quod habet esse in 
+        <lb ed="#Bb" n="33"/>intellectu: actus ergo voluntatis qui est velle: etsi terminatur ad bonum vt est in re existens: nullo 
+        <lb ed="#Bb" n="34"/>tamen modo ad huiusmodi actum eliciendum habet voluntas moueri a bono nisi metaphorice, aut pati ab  
+        <lb ed="#Bb" n="35"/>ipso. Quare cum non possit aliquid dici virtus passiua nisi quia ab aliquo patiatur quod agat in ipsam 
+        <lb ed="#Bb" n="36"/>eliciendo actum suum: quemadmodum intellectus dicitur virtus passiua, quia non agit eliciendo actum intelligendi,  
+        <lb ed="#Bb" n="37"/>nisi moueatur a re obiecta quae sit in ipsa vt forma eius secundum esse spirituale, vt habitum est supra de 
+        <lb ed="#Bb" n="38"/>intellectu dei: non est autem aliud quod natum est agere in virtute quaecunque nisi proprium obiectum, sicut 
+        <lb ed="#Bb" n="39"/>non agit in visum nisi color vel lux: Dicendum igitur quod voluntas &amp; in deo &amp; in aliis simpliciter de- 
+        <lb ed="#Bb" n="40"/>bet dici virtus actiua &amp; non passiua, econtrario intellectui: qui (vt habitum est) debet dici simpliciter vir 
+        <lb ed="#Bb" n="41"/>tus passiua &amp; non actiua. Vnde licet ambo actus consistant in habitudine quae est inter potentiam 
+        <lb ed="#Bb" n="42"/>&amp; eius obiectum: hoc tamen sit contrario modo. Intelligere enim est quasi motus circularis aut reflexus 
+        <lb ed="#Bb" n="43"/>incipiens a re intellecta in intellectum: &amp; ab intellectu iterato terminatur in rem intellectam. Velle vero 
+        <lb ed="#Bb" n="44"/>econtrario est quasi motus circularis aut reflexus incipiens a voluntate in obiectum: &amp; ab obiecto 
+        <lb ed="#Bb" n="45"/>iterato terminatur in voluntatem. Verbi gratia in actu intelligendi, res intelligibilis secundum esse spi 
+        <lb ed="#Bb" n="46"/>rituale facit se in intellectu: &amp; sit intelligibile quasi forma intellectus expressa: etsi non impressa: 
+        <lb ed="#Bb" n="47"/>&amp; sic intellectus patitur ab intelligibili: &amp; intellectus per esse formale intelligibilis in ipso, immo to 
+        <lb ed="#Bb" n="48"/>tum compositum ex intellectu &amp; intelligibili potius, elicit ex se actum intelligendi. dicente <name ref="#Augustine">Augustino</name> 
+        <lb ed="#Bb" n="49"/>in fine. ix. de trinitate. Liquido tenendum est quod omnis res quamcumque recognoscimus, congenerat in nobis suam no 
+        <lb ed="#Bb" n="50"/>titiam. Ab vtroque enim notitia paritur, a cognoscente &amp; cognito. Et hoc quemadmodum ex visibili &amp; videm 
+        <lb ed="#Bb" n="51"/>te gignitur visio, vt dicit li. xi. Ca. ii. Actus intelligendi ex intelligente &amp; intelligibili (vt dictum est) elicitus 
+        <lb ed="#Bb" n="52"/>terminatur in ipsum intelligibile, vt in cognitum per ipsum. Et per hoc intellectus respectu actus intelligendi 
+        <lb ed="#Bb" n="53"/>actiuus est non passiuus. Quia tamen (vt dictum est) non agit nisi primo patiatur: ideo simpliciter dicitur 
+        <lb ed="#Bb" n="54"/>esse passiuus. actiuus vero secundum quod. In actu autem volendi absque eo quod aliquod agat primo in volun 
+        <lb ed="#Bb" n="55"/>tatem nisi metaphorice: ipsa voluntas seipsa ex seipsa elicit actum volendi, quo se quodammodo facit 
+   <!--49.xml-->
+        <pb ed="#Bb" n="17-v"/>
+        <lb ed="#Bb" n="1"/>in volitum, &amp; vnit se volito. Etsi enim actus volendi necessario praesupponit actum intelligendi: quia 
+        <lb ed="#Bb" n="2"/>non mouet se voluntas, vel (vt magis proprie loquar) volens per voluntatem, nisi in bonum cognitum: bonum 
+        <lb ed="#Bb" n="3"/>tamen cognitum nullam impressionem aut motum facit in voluntatem: sed voluntas in obiectum ostensum seipsam 
+        <lb ed="#Bb" n="4"/>mouet seipsa, ac si visus non perficeretur intus recipiendo sed extra mittendo, praesentato visibili ad rectam 
+        <lb ed="#Bb" n="5"/>oppositionem. Tunc enim vis visiua seipsam seipsa moueret in obiectum videndum absque eo quod esset prius 
+        <lb ed="#Bb" n="6"/>mota ab ipso. Vnde bonum quod est obiectum voluntatis, nullum esse habet in voluntate, sicut verum habet 
+        <lb ed="#Bb" n="7"/>esse in intellectu: vt non sit quaestio de bono, an perfectius habet esse in re an in voluntate: quemadmodum  
+        <lb ed="#Bb" n="8"/>est de vero, vt supra disputatum est. Cum autem voluntas per actum volendi se vnierit volito, statim im 
+        <lb ed="#Bb" n="9"/>pressionem delectationis aut alicuius alterius passionis concipit in se a volito. Et in hoc solum passi 
+        <lb ed="#Bb" n="10"/>uus est: secundum quod amplius videbitur infra loquendo de amore.  
+        <lb ed="#Bb" n="11"/>
+      </p>
+      <p xml:id="vn58an-fe4387-d1e305">
+        ⁋ Ad primum in oppositum: quod primum mouens in appetitu est appetibile: Dicendum  
+        <lb ed="#Bb" n="12"/>secundum iam dicta, quod intellectus secundum philosophum, &amp; appetitus mouent, non quia aliquam impressionem faciant 
+        <lb ed="#Bb" n="13"/>in vi appetitiua aut voluntate: sed quia sine cognitione boni appetibilis appetitus non mouet se 
+        <lb ed="#Bb" n="14"/>in appetibile, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe4387-d1e314">
+        ⁋ Ad secundum: quod omnia verba pertinentia ad animam, passionem significant: Di 
+        <lb ed="#Bb" n="15"/>cendum quod hoc non dicitur quia anima nullum habet actum quin sit passio in ipsa: sed quia nullum habet actum 
+        <lb ed="#Bb" n="16"/>quin oriatur ex passione: quod contingit in omnibus actibus intellectus: vel quin ipsum concomitetur ali- 
+        <lb ed="#Bb" n="17"/>qua passio. quod contingit in omnibus actibus voluntatis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

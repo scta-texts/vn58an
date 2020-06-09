@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="196-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2313"> <!-- alias="vn58an-a32q5" -->
+      <head xml:id="vn58an-d1e2313-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e2313-Hd1e107" type="question-title">Utrum ratio alicuius praedicamenti cadat in Deo</head>
+      <p xml:id="vn58an-d1e2313-d1e110">
+        <lb ed="#Ba" n="20"/>CIrca quintum arguitur quod ratio aliquorum praedicamentorum possit attribui 
+        <lb ed="#Ba" n="21"/>deo, sic. dicit <name ref="#Augustine">Augustinus</name> v. de triniitate. cap. x. Non participatione magnitudinis deus 
+        <lb ed="#Ba" n="22"/>magnus est: sed seipso magno deus magnus est: quia ipse sua est magnitudo.  
+        <lb ed="#Ba" n="23"/>hoc de bonitate &amp; aeternitate &amp; omnipotentia dei dictum est, omnibusque omnino praedicamen 
+        <lb ed="#Ba" n="24"/>tis quae de deo possunt pronunciari. supponit ergo <name ref="#Augustine">Augustinus</name> quod aliqua praedicamen 
+        <lb ed="#Ba" n="25"/>ta possunt de deo pronunciari. sed nullum praedicamentum de deo potest praedi 
+        <lb ed="#Ba" n="26"/>cari secundum rem praedicamenti: vt habitum est supra, non est autem in praedicamento nisi res aut ra 
+        <lb ed="#Ba" n="27"/>tio praedicamenti. praedicabuntur ergo de ipso saltem secundum rationem praedicamenti. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e136">
+        ⁋ Quia autem cuiusli 
+        <lb ed="#Ba" n="28"/>bet praedicamenti ratio sit in deo: arguitur sic. verius attribuitur ratio praedicamenti affirmationi 
+        <lb ed="#Ba" n="29"/>qua affirmatur res sua de aliquo: licet secundum gradum superioris naturae: quam negationi qua omni 
+        <lb ed="#Ba" n="30"/>no de aliquo negatur: quia modus rei natus est sequi ipsam rem: &amp; auferri ablata re. sed modus cu- 
+        <lb ed="#Ba" n="31"/>iuslibet praedicamenti attribuitur negationi qua negatur res sua de aliquo. dicente <name ref="#Augustine">Augustinus</name> v. de trinitate 
+        <lb ed="#Ba" n="32"/>cap. vi. Negatiua ista particula, cum dicimus ingenitum, non id efficit: vt quod non sine illa relatiue dicitur, ea 
+        <lb ed="#Ba" n="33"/>praeposita substantialiter dicatur: sed id tantum negatur quod sine illa agebaturi. i. affirmabatur. Sicut in cae- 
+        <lb ed="#Ba" n="34"/>teris praedicamentis cum dicimus homo, substantiam designamus. Qui ergo dicit non homo: non  
+        <lb ed="#Ba" n="35"/>aliud genus praedicamenti enunciat: sed tantum illam negat. Sicut ergo secundum substantiam aio cum 
+        <lb ed="#Ba" n="36"/>dico homo est: sic secundum substantiam nego cum dico homo non est. &amp; sic de aliis praedicamentis: se 
+        <lb ed="#Ba" n="37"/>cundum quod de ipsis inducit exempla. ergo modus praedicamenti attribuitur affirmationi: qua affirma 
+        <lb ed="#Ba" n="38"/>tur res sua etiam in gradu supereminentioris naturae de aliquo. Cum igitur res praedicamenti cuiusli 
+        <lb ed="#Ba" n="39"/>bet vel proprie vel translatiue in gradu supereminentioris naturae affirmatur de deo: vt habitum 
+        <lb ed="#Ba" n="40"/>est supra: ergo modus cuiuslibet praedicamenti attribuetur deo. dicetur ergo deus spiritus secun- 
+        <lb ed="#Ba" n="41"/>dum substantiam: magnus secundum quantitatem: bonus secundum qualitatem: &amp; sic de aliis. ergo  
+        <lb ed="#Ba" n="42"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e175">
+        ⁋ Quia nullius praedicamenti ratio deo possit attribui, arguitur sic primo. Ratio praedicamenti 
+        <lb ed="#Ba" n="43"/>nihil aliud est vt videtur, quam coordinatio praedicabilium in ipso secundum sub &amp; supra. Sed talia non  
+        <lb ed="#Ba" n="44"/>possunt deo attribui: quia non sunt sine ratione vniuersalis &amp; particularis: quae in deo cadere non  
+        <lb ed="#Ba" n="45"/>possunt: vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e184">
+        ⁋ Secundo sic. secundum Auicen. ii. Metaph. suae, ca. i. propria ra- 
+        <lb ed="#Ba" n="46"/>tio praedicamenti substantiae est, quod sit id quid non est in aliquo vt in subiecto: &amp; accidentis inquantum 
+        <lb ed="#Ba" n="47"/>accidens est distinctum ex opposito contra substantiam: quod sit id quid est in subiecto existens. &amp; vt di 
+        <lb ed="#Ba" n="48"/>cit in viii. per hoc substantia habet rationem generis: non quia dicit esse non existens in subiecto:  
+        <lb ed="#Ba" n="49"/>sed quia est res aliqua praeter esse cui conuenit esse non in subiecto. &amp; similiter per hoc accidens ha-  
+        <lb ed="#Ba" n="50"/>bet rationem generis: non quia dicit esse in subiecto: sed quia res est aliqua praeter esse, cui conuenit 
+        <lb ed="#Ba" n="51"/>esse in subiecto. sed hoc modo esse non convenit deo: neque esse in subiecto neque non in subiecto: quia non 
+        <lb ed="#Ba" n="52"/>est nisi esse, non res aliqua praeter esse cui convenit esse: vt supra expositum est. ergo non solum ratio generis alicuius pra 
+        <lb ed="#Ba" n="53"/>dicamentorum accidentis: sed nec etiam ipsius substantiae: de qua magis videtur: deo potest attribui. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e204">
+        ⁋ Quia autem  
+        <lb ed="#Ba" n="54"/>in deo non sit ratio praedicamenti substantiae arguitur primo sic. subsistere secundum se &amp; absolute est 
+   <!--407.xml-->
+        <pb ed="#Ba" n="196-v"/>
+        <lb ed="#Ba" n="1"/>propria ratio substantiae: deus non subsistit secundum se &amp; absolute: sed solum in respectu ad aliud  
+        <lb ed="#Ba" n="2"/>quia non est in eo nisi suppositum relatiuum: vt infra patebit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e217">
+        ⁋ Et sicut <name ref="#Augustine">Augustinus</name> dicit. vii. de 
+        <lb ed="#Ba" n="3"/>tririiti. subsistere de his rebus intelligitur in quibus subiectis sunt ea quae in aliquo subiecto esse di- 
+        <lb ed="#Ba" n="4"/>cuntur: sicut color in corpore. Corpus enim subsistit: &amp; ideo substantia est. sed deo nullo modo po- 
+        <lb ed="#Ba" n="5"/>test attribui sic subsistere: quoniam vt dicit ibidem: quod sic subsistit: inest in eo aliquid tanquam in subie- 
+        <lb ed="#Ba" n="6"/>cto: &amp; non est simplex. quod nullo modo conuenit deo: quoniam vt dicit ibi, nesas est dicere vt subsistat &amp; 
+        <lb ed="#Ba" n="7"/>subsit suae bonitati: &amp; habitum est supra: quod est omnino simplex. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e234">
+        ⁋ Quia autem in eo sit ratio sub 
+        <lb ed="#Ba" n="8"/>stantiae arguitur: quoniam secundum Philosophum. vii. Metaphysiy. esse per se est propria ratio substantiae. sed hoc maxi 
+        <lb ed="#Ba" n="9"/>me deo conuenit: vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e241">
+        ⁋ Quia solum ratio substantiae &amp; relationis habent deo 
+        <lb ed="#Ba" n="10"/>attribui: arguitur, quoniam vt dicit Augustius v. de trinitate. cap. viii. illud praecipue teneamus: quicquid ad se 
+        <lb ed="#Ba" n="11"/>praestantissima illa diuina trinitas dicitur, substantialiter dicitur: quod autem ad aliquid, non substam 
+        <lb ed="#Ba" n="12"/>tialiter sed relatiue. sed quicquid deo attribuitur: siue de ipso dicitur: substantialiter de ipso vel re 
+        <lb ed="#Ba" n="13"/>latiue dicitur, quia quaecumque in deo simul tribus personis conueniunt: substantialiter dicuntur: vt dicit Boe 
+        <lb ed="#Ba" n="14"/>thius. ii. de trinitate. cap. i. &amp; quaecunque de singulis separatim dicuntur: relatiue dicuntur: vt dicit ibidem 
+        <lb ed="#Ba" n="15"/>cap eodem. quaecunque autem de deo dicuntur: vel sic dicuntur: vel sic: quia non est medium. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e258">
+        <lb ed="#Ba" n="16"/>⁋ Quia autem solummodo ratio substantiae deo attribuenda est: arguitur, quoniam secundum Auicen. in princi 
+        <lb ed="#Ba" n="17"/>pio secundi Metaph. prius omnibus diuisionibus eorum quae sunt per essentiam est: quoniam esse 
+        <lb ed="#Ba" n="18"/>duobus modis est. vnum quod est in subiecto: aliud quod nullatenus est in subiecto. Ens ergo in se &amp; in  
+        <lb ed="#Ba" n="19"/>alio immediate diuidunt totum ens. &amp; vt vult ibidem: ens in alio est ratio accidentis. Vbi est igitur nul 
+        <lb ed="#Ba" n="20"/>la omnino ratio accidentis &amp; esse in alio, non est ibi nisi ratio substantiae &amp; non esse in alio. In deo nullo mo-  
+        <lb ed="#Ba" n="21"/>do est ratio accidentis: vt dicit <name ref="#Augustine">Augustinus</name> v. de trinitate. capulo v. ergo in deo non cadit nisi ratio substantiae: qua  
+        <lb ed="#Ba" n="22"/>re non relationis neque alterius praedicamenti. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e279">
+        ⁋ Quia autem in eo cadat ratio relationis cum ratione sub 
+        <lb ed="#Ba" n="23"/>stantiae, arguitur, quoniam vt dicit <name ref="#Augustine">Augustinus</name> v. de trinitate. capu. v. in deo nihil secundum accidens dicitur. Non tamen omne 
+        <lb ed="#Ba" n="24"/>quod dicitur secundum substantiam dicitur. Dicitur enim ad aliquod: ad aliquod autem est ratio relationis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e289">
+        <lb ed="#Ba" n="25"/>⁋ Quia autem non solum ratio substantiae &amp; relationis in deo cadit: sed &amp; alicuius alterius praedicamen 
+        <lb ed="#Ba" n="26"/>ti ratio, arguitur sic. quia dicit <name ref="#Augustine">Augustinus</name> v. de trinitate. cap. viii. Quod ad faciendum attinet fortassis de solo deo 
+        <lb ed="#Ba" n="27"/>verissime dicatur. Solus enim deus facit: &amp; ipse non fit. facere autem est propria ratio praedicamenti 
+        <lb ed="#Ba" n="28"/>actionis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e303">
+        ⁋ Quod etiam arguitur ratione sic. agere vt agere non dicit rationem motus aut ali 
+        <lb ed="#Ba" n="29"/>cuius accidentalitatis in agente: neque ponit in eo vllam compositionem omnino: sed solummodo respe 
+        <lb ed="#Ba" n="30"/>ctus ad passum, quod ab eo recipit motum. vnde Philosophus. viii. Physi. probat quod primum mouens simplex est 
+        <lb ed="#Ba" n="31"/>omnino &amp; immutabile per se &amp; per accidens. talis ratio autem deo maxime convenit: quia ipse est pri- 
+        <lb ed="#Ba" n="32"/>mum agens: &amp; mouens omnia secundum Boethium, immobilis manens dat cuncta moueri. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e314">
+        <lb ed="#Ba" n="33"/>⁋ Quia ratio relationis maxime deo repugnet: &amp; ita minime potest esse, aut manere in ipso, arguitur 
+        <lb ed="#Ba" n="34"/>quoniam secundum Comment. super. xii. Metaphy. relatio debile esse habet. sed hoc ignobilitatis est: &amp; 
+        <lb ed="#Ba" n="35"/>tale vt habitum est supra maxime deo repugnat. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e323">
+        ⁋ Quia simul non possunt esse ratio substantiae 
+        <lb ed="#Ba" n="36"/>&amp; relationis in deo, arguitur: quoniam ratio substantiae est esse minime dependens: ratio autem re 
+        <lb ed="#Ba" n="37"/>lationis cum sit ad aliud esse: maxime est esse dependens: immo nihil aliud quam dependentia quaedam  
+        <lb ed="#Ba" n="38"/>quae maxime sunt repugnantia: talia autem non possunt esse in eodem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e333">
+        <lb ed="#Ba" n="39"/>⁋ Ad quaestionem istam dicendum secundum quod supra inchoatum est dici: quod aliud est 
+        <lb ed="#Ba" n="40"/>res praedicamenti, aliud vero ratio praedicamenti. Res praedicamenti est quicquid per essentiam &amp; naturam suam est con- 
+        <lb ed="#Ba" n="41"/>tentum in ordine alicuius praedicamenti. Ratio praedicamenti est proprius modus essendi eorum quae 
+        <lb ed="#Ba" n="42"/>continentur in praedicamento. Ex quibus duobus scilicet ex re praedicamenti: &amp; ratione essendi eius: quae est 
+        <lb ed="#Ba" n="43"/>ratio praedicamenti: constituitur ipsum praedicamentum: &amp; diuersificatur vnum praedicamentum ab alio. Non enim 
+        <lb ed="#Ba" n="44"/>ex hoc quod aliquid sit res &amp; natura aliqua siue substantiae siue accidentis: quantuncumque in vniuersali &amp; abstra 
+        <lb ed="#Ba" n="45"/>cto intelligatur: habet rationem generis praedicamenti: neque similiter ex hoc quod est esse non in sub- 
+        <lb ed="#Ba" n="46"/>iecto: vel esse in subiecto: quoniam esse ex se nullo modo potest habere rationem generis: vt habitum 
+        <lb ed="#Ba" n="47"/>est supra: quare &amp; multo minus ratione illarum determinationum in subiecto vel non in subiecto: 
+        <lb ed="#Ba" n="48"/>cum non rem: sed modum rei &amp; rationem essendi dicunt. Sed natura generis praedicamenti ex vtro 
+        <lb ed="#Ba" n="49"/>quod simu. scilicet ex re &amp; ratione praedicamenti constituitur. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e359">
+        ⁋ Ad cuius intellectum sciendum secundum  
+        <lb ed="#Ba" n="50"/>superius determinata: quod in deo res quae ipse est: est ipsum esse eius: &amp; non simpliciter esse: sed est 
+        <lb ed="#Ba" n="51"/>quoddam necesse esse: a cuius simplicitate deficit omnis creatura: scilicet quia ipsa res quae ipsa est. 
+        <lb ed="#Ba" n="52"/>non est eius esse: sed habet ab alio esse tam essentiae quam existentiae: vt supra declaratum est saepius: a 
+        <lb ed="#Ba" n="53"/>quo non habet necesse esse ipsius existentiae: eo quod ex se est possibile esse per indifferentiam se ha-  
+        <lb ed="#Ba" n="54"/>bens ad esse &amp; non esse. Propter quod sicut essentia diuina dicit aliquid quod est necesse esse, sic 
+        <lb ed="#Ba" n="55"/>essentia creaturae dicit aliquid cui ab alio contingit esse. &amp; est ratio prima constituendi praedica- 
+   <!--408.xml-->
+        <pb ed="#Ba" n="197-r"/>
+        <lb ed="#Ba" n="1"/>mentum in creaturis communis substantiae &amp; accidenti: &amp; hoc habendo aspectum ad esse essen- 
+        <lb ed="#Ba" n="2"/>tiae: quia secundum essentias rerum est distinctio praedicamentorum &amp; coordinatio vniuscuiusque 
+        <lb ed="#Ba" n="3"/>eorum. Et propter illam rationem rei contingit quod nulla res praedicamenti cuiuscunque ad diuina 
+        <lb ed="#Ba" n="4"/>trarslata, manet, sed mutatur in diuinam substantiam quae est suum esse. Ratio autem ista conmunis 
+        <lb ed="#Ba" n="5"/>diuiditur in duas, quibus distinguitur praedicamentum substantiae communiter ab omnibus praedicamentis acci- 
+        <lb ed="#Ba" n="6"/>dentium, quarum vna est esse in se, non in alio, alia vero esse in alio: quarum prima est, propria ratio sub 
+        <lb ed="#Ba" n="7"/>stantiae: secunda est ratio communis accidentium. Substantia enim est praedicamentum: quia est res cui convenit 
+        <lb ed="#Ba" n="8"/>non esse in subiecto, &amp; accidens praedicamentum econtrario: quia est res cui convenit esse in subiecto. secundum  
+        <lb ed="#Ba" n="9"/>enim Auicen. de definitione substantiae est: quod ipsa est ens non in subiecto: immo quod est res de qua di- 
+        <lb ed="#Ba" n="10"/>citur quod est ens non in subiecto: ita vt ens non in subiecto praedicetur de ea tanquam de re, siue natura, 
+        <lb ed="#Ba" n="11"/>sine quiditate aliqua, vt homo, lapis, arbor. Sic ergo vt dicit oportet imaginari rem cum ratione 
+        <lb ed="#Ba" n="12"/>esse non in alio, sed in se, ad hoc vt substantia sit genus praedicamenti, &amp; similiter accidens cum 
+        <lb ed="#Ba" n="13"/>ratione esse in alio. Intentio igitur praedicamenti constituitur ex re naturae subiecta: quae est res 
+        <lb ed="#Ba" n="14"/>praedicamenti quasi materiale in ipso, &amp; modo quo esse ei conuenit, scilicet non in alio esse, vel in  
+        <lb ed="#Ba" n="15"/>alio esse, quae est ratio praedicamenti circa rem ipsam quasi formale in ipso. Est enim substantia prae- 
+        <lb ed="#Ba" n="16"/>dicamentum quasi compositum quid ex re &amp; esse suo, quod est quasi accidens ei, vt habitum est supra. 
+        <lb ed="#Ba" n="17"/>Propter quod etiam accidere possunt ei alia post esse, vt tale praedicamentum non solum dicatur substan- 
+        <lb ed="#Ba" n="18"/>tia ab in re existendo, sed ab alteri se substituendo In quo consistit duplex ratio praedicamenti substan- 
+        <lb ed="#Ba" n="19"/>tiae. Prima in se absolute. Secunda in respectu ad praedicamenta accidentium. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e420">
+        ⁋ Respondendo ergo ad  
+        <lb ed="#Ba" n="20"/>quaestionem primo quo ad praedicamentum substantiae, Dicendum quod si loquamur de ratione praedicamen 
+        <lb ed="#Ba" n="21"/>ti substantiae secundo modo, sic non cadit in deo res praedicamenti substantiae, quia ipsa composi- 
+        <lb ed="#Ba" n="22"/>tionem facit cum esse quod in se recipit: Deus autem nequaquam, vt habitum est supra. Sic nec ratio praedica- 
+        <lb ed="#Ba" n="23"/>menti substantiae propter eandem rationem. vt enim dicit Boethicorm de deoid i. de trinitate. ca. iii. subiectum fieri non potest. 
+        <lb ed="#Ba" n="24"/>Forma enim est, formae vero subiectae esse non possunt. Primo autem modo bene cadit in deo ratio pra 
+        <lb ed="#Ba" n="25"/>dicamenti substantiae: etsi non res, nisi secundum gradum eminentiorem. Sed tamen adhuc alia ratione quam suba 
+        <lb ed="#Ba" n="26"/>stantiae creatae, quia illi ratio esse essentiae non convenit ratione rei secundum se, sed solum inquantum est di- 
+        <lb ed="#Ba" n="27"/>uinum exemplatum. Deus autem est res quae est ipsum esse essentiae suae. Est enim deus verissime exi- 
+        <lb ed="#Ba" n="28"/>stens in se, licet non alii vt accidenti subsistit. Vnde <name ref="#Augustine">Augustinus</name> declarando primam rationem substantiae deo 
+        <lb ed="#Ba" n="29"/>convenire, &amp; non secundam, quae solum convenit substantiae creatae, dicit libio i. de trinitate. cap. 4. Sicut ab eo quod  
+        <lb ed="#Ba" n="30"/>est esse appellatur essentia, ita etiam ab eo quod est subsistere substantiam dicimus. omnis enim res quae ad  
+        <lb ed="#Ba" n="31"/>seipsam subsistit: substantia dicitur: quanto magis deus: Si tamen dignum est vt deus dicatur subsistere. 
+        <lb ed="#Ba" n="32"/>de his enim rebus hoc recte intelligitur, in quibus subiectis sunt ea quae in aliquo subiecto esse dicun 
+        <lb ed="#Ba" n="33"/>tur, sicut color, aut forma in corpore: corpus enim subsistit, &amp; ideo substantia est. &amp; ita, quia non est hoc 
+        <lb ed="#Ba" n="34"/>ei esse, quod illam vel istam formam coloremve retinere. Res igitur mutabiles non simplices proprie di- 
+        <lb ed="#Ba" n="35"/>cuntur substantiae. Deus autem si subsistit vt substantia dici possit, inest in eo aliquid tanquam in subie- 
+        <lb ed="#Ba" n="36"/>cto, &amp; non simplex est, cui hoc sit esse quod illi est, sicut magnusionipotensi bonus, &amp; siquid huiusmo- 
+        <lb ed="#Ba" n="37"/>di de deo non incongrue dicitur. Neas autem est dicere, vt substet deus, vel subsit bonitati suae, atque il- 
+        <lb ed="#Ba" n="38"/>la bonitas non substantia sit, vel potius essentia, neque ipse deus sit bonitas sua, sed in illo sit tamquam in  
+        <lb ed="#Ba" n="39"/>subiecto. Vnde (vt concludit) manifestum est deum abusiue substantiam vocari: vt nomie vsitatiore intel 
+        <lb ed="#Ba" n="40"/>ligatur essentia. Ecce quom insinuat quod vnus modus subsistendi, qui est ratio substantiae vna, nullo 
+        <lb ed="#Ba" n="41"/>modo potest deo attribui, &amp; quod secundum illum non potest dici substantia. Est tamen sine dubio substam 
+        <lb ed="#Ba" n="42"/>tia. vt dicit in v. de trinitate. ca. ii. &amp; hoc a ratione, &amp; modo subsistendi in se, &amp; nullo modo in alio, neque 
+        <lb ed="#Ba" n="43"/>dependens ab ipso, quod nulli in creaturis convenit neque substantiae, neque accidenti, vt iam dicetur. Et 
+        <lb ed="#Ba" n="44"/>ita licet res praedicamenti substantiae nullo modo deo attribuitur nisi secundum modum eminentiorem, 
+        <lb ed="#Ba" n="45"/>vt praedeterminatum est, neque ratio subsistendi alteri vt sibi inhaerenti, ratio tamen praedicamenti sub- 
+        <lb ed="#Ba" n="46"/>stantiae quae est in se subsistere, vel potius existere (pro quo <name ref="#Augustine">Augustinus</name> in dicta auctoritate sua sumit suba 
+        <lb ed="#Ba" n="47"/>sistere, non enim deus subsistit, nisi ad aliud: existit autem absolute) verissime deo convenit: quanto verius in  
+        <lb ed="#Ba" n="48"/>se subsistit quam alia. Et secundum hoc verius &amp; prius deus habet esse substantia quam aliqua creatura. Non di 
+        <lb ed="#Ba" n="49"/>co dicitur. Nomina enim saepius per prius conveniunt, quibus res conveniunt per posterius, vt tactum est 
+        <lb ed="#Ba" n="50"/>supra in parte, &amp; infra plenius exponetur. Et sic patet quod praedicamentum substantiae versum in diuinam prae 
+        <lb ed="#Ba" n="51"/>dicationem dupliciter mutatur, &amp; vno modo manet. Mutatur enim quo ad rem praedicatam quae in creaturis 
+        <lb ed="#Ba" n="52"/>habet esse ab alio per participationem, in deo autem a seipso per essentiam. iuxta illud Boet. Non est substan- 
+        <lb ed="#Ba" n="53"/>tia in illo vere substantia, sed vltra substantiam. &amp; idem habitum est supra ex dictis Diony. Mutatur etiam 
+        <lb ed="#Ba" n="54"/>quo ad rationem &amp; modum essendi in substando alteri vt sibi inhaerenti in modum &amp; rationem 
+        <lb ed="#Ba" n="55"/>essendi ipsum alterum: vt deus per essentiam sit ipsum, quod sibi significatur attribui. Et hoc est quod di 
+   <!--409.xml-->
+        <pb ed="#Ba" n="197-v"/>
+        <lb ed="#Ba" n="1"/>cit <name ref="#Augustine">Augustinus</name> v. de trinitate. cap. iiii. In rebus quae participatione magnitudinis magnae sunt, in quibus est 
+        <lb ed="#Ba" n="2"/>aliud esse, aliud magnum esse, sicut magna domus, magnus mons, magnus animus, in his est aliud  
+        <lb ed="#Ba" n="3"/>magnitudo, aliud quod ab ea magnum dicitur. Et infra. Deus autem ea magnitudine magnus est, quia ipse 
+        <lb ed="#Ba" n="4"/>est eadem magnitudo. &amp; subdit. Hoc de bonitate, &amp; aeternitate, &amp; omnipotentia dei dictum sit, o- 
+        <lb ed="#Ba" n="5"/>mnibusque praedicamentis quae de deo possunt pronunciari, quod ad seipsum dicitur. Nesas enim est vt dictum est, vt 
+        <lb ed="#Ba" n="6"/>subsistat &amp; subsit deus suae bonitati. Manet autem in deo praedicamentum substantiae solum quo 
+        <lb ed="#Ba" n="7"/>ad rationem &amp; modum essendi in se subsistendo, tanto verius &amp; perfectius quanto est ipsum esse 
+        <lb ed="#Ba" n="8"/>purum &amp; simplex per essentiam subsistens: vel potius existens. Quaelibet autem substantia creata ha 
+        <lb ed="#Ba" n="9"/>bet esse in sua essentia participatum quo subsistit, vt habitum est in supra determinatis. Talem ra- 
+        <lb ed="#Ba" n="10"/>tionem subsistendi insinuat Hilarius cum dicit. vii. de trinitate Non ex compositis deus qui vita est, subsi- 
+        <lb ed="#Ba" n="11"/>stit. Manet autem in deo sola ratio substantiae, qua habet in se existere. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e538">
+        ⁋ Respondendo autem ad quaestionem 
+        <lb ed="#Ba" n="12"/>quo ad alia praedicamenta, scilicet. ix. accidentium: Dicendum vt dictum est, quod in ipsis est vna ratio prae- 
+        <lb ed="#Ba" n="13"/>dicamenti qua conmuniter distinguuntur prima diuisione sub ente contra substantia. scilicet esse in subie 
+        <lb ed="#Ba" n="14"/>cto, vt dictum est, &amp; sunt aliae rationes speciales per quas abinuicem habent distingui: vtiam pate- 
+        <lb ed="#Ba" n="15"/>bit. Quantum ergo ad primam rationem omnibus communem: clarum est quod non potest illa ratio praedica 
+        <lb ed="#Ba" n="16"/>menti deo attribui: qua habet scilicet aliquod inesse alteri iuxta rationem praedicamenti accidentis: vt vel ipsum  
+        <lb ed="#Ba" n="17"/>alteri possit accidere vel alterum ipsi: vt per hoc sit accidentaliter in altero, vel aliquod accidentaliter in ipso, 
+        <lb ed="#Ba" n="18"/>quorum neutrum potest contingere in deo: vt supra determinatum est. Et vt dicit <name ref="#Augustine">Augustinus</name> v. de trinitate. cap.  
+        <lb ed="#Ba" n="19"/>ve. in deo nihil secundum accidens dicitur, quia nihil in eo commutabile est. Cum ergo res secundum aliquod praedicamen 
+        <lb ed="#Ba" n="20"/>tum accidentis ei attribuitur, non solum res quae est accidentis in praedicamento illo, in substantiam mutatur. secundum  
+        <lb ed="#Ba" n="21"/>quod dictum de mutatione rei praedicamenti substantiae (secundum quod dicit <name ref="#Augustine">Augustinus</name> de fide ad Pe. In dei substam 
+        <lb ed="#Ba" n="22"/>tia non est aliquid quod non sit substantia, sed quicquid ibi intelligi potest, dei substantia est) sed &amp; mo 
+        <lb ed="#Ba" n="23"/>dus inhaerendi necessario mutatur in modum per se subsistendi. Non enim potest esse in inhaerendo mo 
+        <lb ed="#Ba" n="24"/>dus, vbi nihil est quod inhaereat. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e575">
+        ⁋ Quantum vero ad proprias rationes singulorum praedicamentorum 
+        <lb ed="#Ba" n="25"/>sciendum quod sicut propria ratio praedicamenti substantiae est secundum se existere, &amp; praedicamenti acciden- 
+        <lb ed="#Ba" n="26"/>tis communiter inhaerere alteri: sic sunt, propriae rationes diuersorum praedicamentorum accidentium, in  
+        <lb ed="#Ba" n="27"/>haerendo diuersimode alteri. Eorum enim praedicamentorum quae significant id cuius esse est in alio, aut  
+        <lb ed="#Ba" n="28"/>significant rem cuius esse est in alio absolute, aut cuius esse est in alio in respectu ad aliud. Secundo  
+        <lb ed="#Ba" n="29"/>modo est vna ratio communis. vii. praedicamentis accidentium. Primo modo est vna ratio communis qua  
+        <lb ed="#Ba" n="30"/>litati &amp; quantitati: quae distinguuntur ab aliis. vii. penes diuersimode inesse alii absolute, sub quo distin  
+        <lb ed="#Ba" n="31"/>guuntur inter se: quoniam propria ratio praedicamenti qualitatis est subiectum informare, &amp; propria ra 
+        <lb ed="#Ba" n="32"/>tio quantitatis est subiectum mensurare: propria vero ratio caeterorum. vii. praedicamentorum- 
+        <lb ed="#Ba" n="33"/>est subiectum suum ad aliud referre: sed differenter. vt infra videbitur. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e597">
+        ⁋ Quantum ergo ad quantitatem 
+        <lb ed="#Ba" n="34"/>&amp; qualitatem, Dicendum quod cum informatio necessario supponit inhaerentiam informantis ad informa-  
+        <lb ed="#Ba" n="35"/>tum: &amp; similiter mensuratio mensurantis ad mensuratum: sicut ratio inhaerentiae praedicamenti acciden- 
+        <lb ed="#Ba" n="36"/>tis simpliciter non potest deo attribui: sed necesse est quod cum convertatur in diuinam praedicationem, mu- 
+        <lb ed="#Ba" n="37"/>tetur in rationem subsistendi: hoc similiter necesse est contingere in praedicamento qualitatis &amp; quanti 
+        <lb ed="#Ba" n="38"/>tatis, quod scilicet cum aliquid de praedicamento qualitatis aut quantitatis deo attribuitur, non solum 
+        <lb ed="#Ba" n="39"/>res mutatur &amp; transfertur in diuinam substantiam. iuxta hoc quod dicit Boe. de trinitate. Cum deus iustus 
+        <lb ed="#Ba" n="40"/>dicitur, qualitatem quidem significare videmur: sed eam quae sit non solum substantia, sed etiam vl 
+        <lb ed="#Ba" n="41"/>tra substantiam. Non enim est aliud quam quod iustus est, sed idem est deo esse quod iustum. Item cum dicitur 
+        <lb ed="#Ba" n="42"/>magnus, quantitatem quidem significare videmur: sed eam quae sit ipsa substantia talis qualem 
+        <lb ed="#Ba" n="43"/>esse dicimus vltra substantiam: neque est aliud quod est, aliud quod magnus est: sed idem est deo esse quod ma 
+        <lb ed="#Ba" n="44"/>gnum esse. Sed etiam quod propria ratio informandi secundum qualitatem, &amp; conmensurandi secundum quantita 
+        <lb ed="#Ba" n="45"/>tem, commutetur in rationem subsistendi secundum substantiam. iuxta illud quod dicit Augustinus, xv. de trinitate. ca. v. 
+        <lb ed="#Ba" n="46"/>Si dicimus aeternus, immortalis, incorruptibilis, immutabilis, viuus, sapiens, potens, speciosus, iustus, bo 
+        <lb ed="#Ba" n="47"/>nus, beatus, spiritus: horum omnium nouissimum quod posui quasi tantummodo videtur significare substantiam: caete 
+        <lb ed="#Ba" n="48"/>ra vero huiusmodi substantiae qualitates. Sed non est ita in illa ineffabili simplicique natura, quicquid enim secundum qua  
+        <lb ed="#Ba" n="49"/>litatem illic dici videtur: secundum substantiam vel essentiam est intelligendum. Absit enim vt spiritus se- 
+        <lb ed="#Ba" n="50"/>cundum substantiam dicatur deus, &amp; potens secundum qualitatem: sed vtrumque secundum substantiam. Sic caete- 
+        <lb ed="#Ba" n="51"/>ra quae commemorauimus. Propter quod dicit in v. de trinita. cap. i. Intelligamus deum si possumus si 
+        <lb ed="#Ba" n="52"/>ne qualitate bonum: sine quantitate magnum. sed nequaquam dicit sine substantia spiritum, &amp; hoc non nisi 
+        <lb ed="#Ba" n="53"/>quia substantiae praedicamentum non omnino mutatur cum vertitur in diuinam praedicationem, sed secun 
+        <lb ed="#Ba" n="54"/>dum aliquam rationem manentem in eo transfertur ad deum. praedicamentum autem quantitatis &amp; quali- 
+        <lb ed="#Ba" n="55"/>tatis omnino mutatur nulla ratione eius omnino manente cum transfertur ad deum: secundum quod iam expo- 
+   <!--410.xml-->
+        <pb ed="#Ba" n="198-r"/>
+        <lb ed="#Ba" n="1"/>situm est. Quomodo autem habet intelligi quod deus dicitur sine qualitate bonus: sine quantitate ma-  
+        <lb ed="#Ba" n="2"/>gnus, expositum est supra. Vnde quia omnino mutantur praedicamenta qualitatis &amp; quantitatis cum as 
+        <lb ed="#Ba" n="3"/>lumuntur in diuinam praedicationem, non autem sic substantia: ideo dicit Boet. Sicut substantia non est 
+        <lb ed="#Ba" n="4"/>in illo vere substantia. scilicet qualis est in creaturis: sed vltra substantiam: ita qualitas. &amp; subdit. Cum 
+        <lb ed="#Ba" n="5"/>iustus quidem dicitur deus, qualitatem significare videmur: sed non accidentalem, sed eam quae est non 
+        <lb ed="#Ba" n="6"/>solum substantia, sed etiam vltra substantiam. Non autem dicit, quae est qualitas sed vltra qualitatem, quia qua-  
+        <lb ed="#Ba" n="7"/>litas in deo nullo modo tenet rationem qualitatis, sicut substantia tenet rationem substantiae. Et similiter ipsa qua-  
+        <lb ed="#Ba" n="8"/>litas &amp; quantitas, dicunt in deo non solum secundum rem substantiam: sed &amp; modum &amp; rationem 
+        <lb ed="#Ba" n="9"/>sui praedicamenti mutant in modum substantiae. Simile enim est de quantitate, cum dicitur ma-  
+        <lb ed="#Ba" n="10"/>gnus, immensus, maximus, &amp; de qualitate cum dicitur bonus, sapiens, &amp; iustus. Sic ergo patet de prae 
+        <lb ed="#Ba" n="11"/>dicamentis quae praedicant aliquid absolute, quae sunt substantia, quantitas, qualitas, an ratio eorum 
+        <lb ed="#Ba" n="12"/>deo attribuenda sit. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e679">
+        ⁋ Sequitur de aliis. vii. quorum ratio est ad aliud referre subiectum suum, quae sci- 
+        <lb ed="#Ba" n="13"/>licet significant rem cuius esse est in aliquo in respectu ad aliud, an ipsorum ratio deo attribuenda 
+        <lb ed="#Ba" n="14"/>sit. Haec enim (vt dicit Boet. i. de trinitate. ca. ii. differentia est praedicationis primorum trium praedicamentorum ab 
+        <lb ed="#Ba" n="15"/>aliis. vii. quod illa rem monstrant (intelligo absolutam) alia vero, quasi circunstantias rei. intelligo forma- 
+        <lb ed="#Ba" n="16"/>liter. Materialiter enim aliqua illorum rem significant, vt iam patebit. vt sic (sicut dicit) ista praedicamen- 
+        <lb ed="#Ba" n="17"/>ta aliquid rem esse ostendant, illa vero non esse: sed potius extrinsecus aliquid quodammodo affi- 
+        <lb ed="#Ba" n="18"/>gant. Est ergo vt patet ex iam dicto Boet. ratio illorum. vii. praedicamentorum significare rem cuius 
+        <lb ed="#Ba" n="19"/>esse est in aliquo in respectu ad aliud. In quo non est eis proprium quod significant rem aliquam: hoc enim 
+        <lb ed="#Ba" n="20"/>est omnibus aliis praedicamenris commune: neque quod significant rem cui conuenit esse in alio: hoc 
+        <lb ed="#Ba" n="21"/>enim conuenit omnibus accidentibus: sed solum eis est proprium: quod esse in respectu ad aliud signi- 
+        <lb ed="#Ba" n="22"/>ficant, &amp; hoc nullo modo deo repugnat: sed maxime ei convenit. Vt enim dicit Auicecten. viii. Metaphy. 
+        <lb ed="#Ba" n="23"/>quicquod est, ad alia quae sunt habet modum aliquem comparationis &amp; relationis, &amp; praecipue id a quo fluit esse. 
+        <lb ed="#Ba" n="24"/>Et iste modus comparationis est alicuius rei subiacentis vt subiectum illi respectui: quae in se est aliquid  
+        <lb ed="#Ba" n="25"/>aliud in esse: quam quod habet in respectu ad aliud. dicente Augu. vii. de trinitate. Omnis essentia quae relatiue 
+        <lb ed="#Ba" n="26"/>dicitur, est etiam aliquid excepto relatiuo. Et inductis pluribus exemplis subdit. Si non est aliquid ad seipsum, non 
+        <lb ed="#Ba" n="27"/>est omnino quod relatiue dicatur ad aliud. respectus enim separatus in se non existit. Esse ergo ad aliquid ex se non 
+        <lb ed="#Ba" n="28"/>potest poni in esse: &amp; si ponatur relatio esse secundum se praeter subiectum suum, ipsa est accidens absolutum, vt quam 
+        <lb ed="#Ba" n="29"/>titas vel qualitas. Et sic ad aliquid, ex se &amp; sua, propria ratione non ponit esse quid sit absolute esse: aut quid sit ali 
+        <lb ed="#Ba" n="30"/>cui inesse, sed solummodo ex se ponit esse quod est ad aliud esse. Et ex hoc sequitur vlterius: cum nihil 
+        <lb ed="#Ba" n="31"/>omnino habet rationem accidentis quin habeat rationem esse in alio: hoc enim vt patet ex praedetermi- 
+        <lb ed="#Ba" n="32"/>natis est, propria ratio qua accidens distinguitur contra substantiam: sequitur quod relatio siue ad aliquid, siue 
+        <lb ed="#Ba" n="33"/>respectus quicumque non habet ex se rationem accidentis. Aut ergo nullo modo rationem accidentis habet:  
+        <lb ed="#Ba" n="34"/>aut per aliud eam habet: &amp; sic solum per accidens. sed non ratione subiecti in quo est: quod per illud  
+        <lb ed="#Ba" n="35"/>ad aliud refertur: quia illud quandoque est substantia, sicut homo cum dicitur domins aut seruus: opor 
+        <lb ed="#Ba" n="36"/>tet ergo quod sit regulariter ratione eius supra quod fundatur, quod necessario est accidens aliquod absolutum 
+        <lb ed="#Ba" n="37"/>ne fiat processus in infinitum si vnus respectus ponatur fundari super alium. Cui quidem accidenti quandoque  
+        <lb ed="#Ba" n="38"/>non accidit respectus fundatus super ipsum. Similitudo enim secundum albedinem qua sortes est simi- 
+        <lb ed="#Ba" n="39"/>lis Platoni: accidit Sorti &amp; Platoni, quia albedo accidit eis: non autem accidit albedini cum dicimus 
+        <lb ed="#Ba" n="40"/>quod albedo sortis est similis albedini Platonis. Illa enim similitudo est eis essentialis: quia in illa consistit na 
+        <lb ed="#Ba" n="41"/>tura speciei. quia secundum Boe. super Porphy. Species est essentialis similitudo plurium suppositorum. Quando  
+        <lb ed="#Ba" n="42"/>quod vero accidit illi: vt sunt respectus fundati super rationes mensurae: eo quod ratio mensurae per se quantita 
+        <lb ed="#Ba" n="43"/>ti accidit. Mensurae enim in quantitate mutuo sese mensurant. Et secundum hoc dicit <name ref="#Aristotle">Philosophus</name> in v. Metaph. 
+        <lb ed="#Ba" n="44"/>quod homo modo accidentali est relatiuus: quia accidit ei esse duplum scilicet per quantitatem suam compa- 
+        <lb ed="#Ba" n="45"/>ratam quantitati alterius. Patet ergo quod relatio siue respectus quicumque, eo quod de se nullum inesse di- 
+        <lb ed="#Ba" n="46"/>cit: nullo modo repugnat ei quod est in se esse: atque per se subsistens, cuiusmodi est deus, qui est ipsum esse: quod 
+        <lb ed="#Ba" n="47"/>necessario habet plures respectus quam aliud ens quodcunque. Ratione enim eius quod est causa omnis esse, ad  
+        <lb ed="#Ba" n="48"/>omne aliud ens a se habet aliquo modo referri. secundum quod Auicen. lcquens de necesse esse vbi supra dicit, 
+        <lb ed="#Ba" n="49"/>Cum ipsum dicimus esse vnius essentiae quae non multiplicatur, intelligimus quod ipsum est in sua essentia: &amp; 
+        <lb ed="#Ba" n="50"/>deinde sequuntur ipsum relationes vel affirmatiuae, vel negatiuae multae: &amp; ipsae sunt comitantes 
+        <lb ed="#Ba" n="51"/>essentiam: &amp; sunt post esse essentiae eius, nec sunt constituentes essentiam, nec sunt per se pars eius. 
+        <lb ed="#Ba" n="52"/>Cum igitur de praedicamentis quorum ratio est ad aliud referri, aliquid deo attribuitur, non opor- 
+        <lb ed="#Ba" n="53"/>tet quod ratio praedicamenti mutetur: &amp; hoc propter nullam repugnantiam contrarietatis quam habet re- 
+        <lb ed="#Ba" n="54"/>spectus ad aliud ad modum subsistendi per se, sed manet cum illo propter nullam rationem diuersi 
+        <lb ed="#Ba" n="55"/>tatis realis repugnantis ad ipsum. Quod bene insinuat Boet. v. ca. de triniitate. cum enumeratis. x. praedica- 
+   <!--411.xml-->
+        <pb ed="#Ba" n="198-v"/>
+        <lb ed="#Ba" n="1"/>mentis, ait de substantia, qualitate, &amp; quantitate. Haec cum quis in diuinam vertit praedicationem, con- 
+        <lb ed="#Ba" n="2"/>cta mutantur quae praedicari possunt. &amp; pro aliis. vii. subiuxit. Ad aliquid vero omnino non potest prae- 
+        <lb ed="#Ba" n="3"/>dicari. Intellige, quom praedicta trinia scilicet aliquam propriam naturam rei accidentalis indicando subiecto in-  
+        <lb ed="#Ba" n="4"/>esse. &amp; ideo in deo manet sua ratio simpliciter: cum alia re, &amp; ratione quam important in creaturis mutantur cum in di 
+        <lb ed="#Ba" n="5"/>uinam praedicationem vertuntur: vt iam satis dictum est. Per hoc autem quod addit, Quae praedicari possunt: 
+        <lb ed="#Ba" n="6"/>intelligit quod illa tria praedicamenta, substantia, quantitas, qualitas, in creaturis aliquam rem de subiecto 
+        <lb ed="#Ba" n="7"/>diuersam ab ipso &amp; ponentem compositionem in ipso praedicant, sed mutantur cum in diuinam praedica- 
+        <lb ed="#Ba" n="8"/>tionem assumuntur: quia quicquid de creatura dicitur vt afficiens eam, si de deo dicatur intelligitur non esse 
+        <lb ed="#Ba" n="9"/>in eo vt afficiens ipsum: sed esse quod ipse est. secundum quod dicit Hila. viii. de Tri, Deus non est humano modo 
+        <lb ed="#Ba" n="10"/>ex compositis, vt in eo aliud sit quod ab eo habetur, &amp; aliud sit ipse qui habeat. Vnde differentiam 
+        <lb ed="#Ba" n="11"/>huiusmodi praedicamentorum de deo &amp; creaturis, exponit Boet. cum dicit libro i. de triniitate. Haec praedi- 
+        <lb ed="#Ba" n="12"/>camenta talia sunt: vt in quo sint ipsum esse faciant quod dicitur, diuise quidem in caeteris, in deo ve- 
+        <lb ed="#Ba" n="13"/>ro coniuncte atque copulate hoc modo. Nam cum dicimus, substantia est homo aut deus, ita dicitur, 
+        <lb ed="#Ba" n="14"/>quod illud de quo praedicatur ipsum, sit substantia: vt homo vel deus. Sed distat, quoniam homo non  
+        <lb ed="#Ba" n="15"/>integre homo est, ac per hoc nec substantia. Quia enim est, aliis debet quae non sunt homo.s deus autem 
+        <lb ed="#Ba" n="16"/>hoc ipsum deus est. Nihil enim aliud est nisi quod est: ac per hoc ipsum deus hoc est., homo non est ita 
+        <lb ed="#Ba" n="17"/>homo, quod non sit verum dicere esse aliquid aliud quod non est esse hominem: sicut deus ita est deus: quod non 
+        <lb ed="#Ba" n="18"/>sit verum dicere ipsum esse aliquid quod non sit deus. Immo homo est multa quae non sunt ipsum esse ho 
+        <lb ed="#Ba" n="19"/>minem, vt esse substantiam: sicut ipsum esse deum, est ipsum esse substantiam. Deinde subdit de qualita 
+        <lb ed="#Ba" n="20"/>te &amp; quantitate dicens in capit. x. Rursus iustus quod est qualitas ita dicitur quod ipse hoc sit de quo  
+        <lb ed="#Ba" n="21"/>praedicatur. id est si dicamus homo iustus, vel deus iustus, ipsum deum vel hominem iustum esse pro 
+        <lb ed="#Ba" n="22"/>ponimus. Sed differt, quoniam homo est alter: alter est iustus, deus vero ipsum idem est, quod est iustum. 
+        <lb ed="#Ba" n="23"/>Magnus etiam deus vel homo dicitur ita quasi ipse sit homo magnus vel deus: sed homo tantum magnus, 
+        <lb ed="#Ba" n="24"/>Deus vero id ipsum magnus existit. Quod idem est cum eo quod dicit. v. de trinitate. In rebus quae participatione 
+        <lb ed="#Ba" n="25"/>magnitudinis magnae sunt &amp;c. vt supra statim. Quom autem ad aliquid pro reliquis. vii. secundum quod ipse 
+        <lb ed="#Ba" n="26"/>subdit: neque de deo neque de creaturis praedicari possunt: patet econtrario praedictis tribus,. quia. scilicet de 
+        <lb ed="#Ba" n="27"/>formali significato suo non praedicant rem aliquam qua subiectum afficitur: sed solum circunstantiam respe 
+        <lb ed="#Ba" n="28"/>ctus ad aliud extra: secundum quod ipse continue prosequitur inducendo per singula, maxime in capit. xii. vbi 
+        <lb ed="#Ba" n="29"/>dicit. Haec omnis praedicatio exterioribus datur, quod omnia haec quodam modo reseruntur ad aliud.  
+        <lb ed="#Ba" n="30"/>Cuius praedicationis differentiam sic facilius internoscimus: quod homo vel deus dicitur, refertur ad sub 
+        <lb ed="#Ba" n="31"/>stantiam qua est aliquid: quod iustus, refertur ad qualitatem qua est aliquid: quod magnus, refertur ad quan  
+        <lb ed="#Ba" n="32"/>titatem qua est aliquid. In caeteris praedicationibus nihil tale est: qui enim dicit aliquem esse in foro vel vbi- 
+        <lb ed="#Ba" n="33"/>quod, refertur quidem ad praedicamentum quod est vbi, sed non quo aliquid est: velut iustitia iustus, magni- 
+        <lb ed="#Ba" n="34"/>tudine magnus. Et sic proculdubio respectus nihil addit illi rei supra quam immediate fundatur: led so- 
+        <lb ed="#Ba" n="35"/>lum dicit subiectum suum ad aliud esse: quantum est de formali suo significato: quod non est nisi esse ad aliud.  
+        <lb ed="#Ba" n="36"/>Hoc enim esse non plus addit de se super id cuius est: quam esse in se, vel esse in alio super illa quorum 
+        <lb ed="#Ba" n="37"/>sunt. Sed si quid accidentalitatis quo ad esse in subiecto importatur per alia. vii. praedicamenta, hoc est 
+        <lb ed="#Ba" n="38"/>propter id super quod in ipsis fundatur ratio respectus ad aliud. Cum ergo huiusmodi praedicamenta in diuinam 
+        <lb ed="#Ba" n="39"/>praedicationem assumuntur: illud mutatur in substantiam: &amp; ratio inhaerendi in rationem subsistendi. vt di- 
+        <lb ed="#Ba" n="40"/>ctum est supra de praedicamento qualitatis &amp; quantitatis, &amp; generaliter de omni praedicamento acciden 
+        <lb ed="#Ba" n="41"/>tis. Ratio similiter respectus ad aliud in deo inquantum refertur ad suum fundamentum: quia non  
+        <lb ed="#Ba" n="42"/>fundatur in deo super aliquid inhaerens aliud ab ipso: similiter mutatur in rationem subsistendi: &amp; non ma-  
+        <lb ed="#Ba" n="43"/>net. Manet autem solummodo inquantum subiectum per respectum refertur ad aliud. Et sic patet quod quaecunque  
+        <lb ed="#Ba" n="44"/>deo attribuuntur ex rebus. x. praedicamentorum: ad rationes duas duorum praedicamentorum. scilicet substantiae &amp; rela- 
+        <lb ed="#Ba" n="45"/>tionis habent reduci: &amp; similiter relatio ipsa ad substantiam: &amp; sic reiecto a diuinis omni modo praedicam 
+        <lb ed="#Ba" n="46"/>di accidentaliter per inhaerentiam, quaecumque deo attribuuntur a creaturis, &amp; praedicantur de ipso, aut dicuntur ad se 
+        <lb ed="#Ba" n="47"/>&amp; secundum substantiam: aut ad aliud &amp; secundum relationem. iuxta illud quod dicit <name ref="#Augustine">Augustinus</name> v. de trinitate. Nihil in eo 
+        <lb ed="#Ba" n="48"/>secundum accidens dicitur: quia nihil ei accidit. Nec tamen omne quod dicitur: secundum substantiam dicitur. In rebus enim 
+        <lb ed="#Ba" n="49"/>creatis atque mutabilibus quod non secundum substantiam dicitur, restat vt secundum accidens dicatur. omnia enim 
+        <lb ed="#Ba" n="50"/>accidunt eis: quae vel amitti possunt vel minui: &amp; magnitudines &amp; qualitates, &amp; quod dicitur ad  
+        <lb ed="#Ba" n="51"/>aliquid, &amp; situs, &amp; habitus, &amp; loca, &amp; tempora, &amp; opera, atque passiones. In deo autem nihil quidem se 
+        <lb ed="#Ba" n="52"/>cundum accidens dicitur: quia nihil in eo mutabile est: nec tamen omne quod dicitur secundum substantiam 
+        <lb ed="#Ba" n="53"/>dicitur: dicitur enim ad aliquid: sicut pater ad filium &amp; filius ad patrem: quod accidens non est. Decem er- 
+        <lb ed="#Ba" n="54"/>go praedicamenta philosophicae disciplinae: ad duo sapientiae theologicae reducuntur scilicet ad substantiam &amp; rela- 
+        <lb ed="#Ba" n="55"/>tionem. Ad substantiam enim in diuinis reducuntur tria quae sunt in creaturis scilicet substantia, quantitas, 
+   <!--412.xml-->
+        <pb ed="#Ba" n="199-r"/>
+        <lb ed="#Ba" n="1"/>&amp; qualitas. de quibus dicit Boet. Illa quae aliquid esse significant secundum rem, praedicationes vocantur. Quae  
+        <lb ed="#Ba" n="2"/>cum de rebus subiectis dicuntur, vocantur accidentia secundum rem. Cum vero de deo qui subiectus non  
+        <lb ed="#Ba" n="3"/>est. secundum substantiam rei praedicatio nominatur. Et quom hoc, iam determinatum est. Ad relationem vero in  
+        <lb ed="#Ba" n="4"/>diuinis reducuntur alia. vii. scilicet relatio, actio, passio, quando, vbi, situs, habitus. Et quom haec, re- 
+        <lb ed="#Ba" n="5"/>stat adhuc prosequendum. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e920">
+        ⁋ De ad aliquod igitur sciendum, quod cum iuxta praedicta secundum Boet. tria praedicamenta, 
+        <lb ed="#Ba" n="6"/>substantia. scilicet quantitas, &amp; qualitas, tam in creaturis quam in deo: rem significant &amp; praedicant: alia vero 
+        <lb ed="#Ba" n="7"/>vii. quo ad id quo ab illis tribus distinguuntur, tam de deo quam de creaturis: non rem, sed quasi rei circunstan- 
+        <lb ed="#Ba" n="8"/>tiam monstrant: vt quantum est de ratione formali significati sui nihil rei subiectae dicant: sed potius re 
+        <lb ed="#Ba" n="9"/>spectum eius ad aliquid extra assignant ipsum alteri comparando: vt sicut non dicunt aliquid de creaturis per  
+        <lb ed="#Ba" n="10"/>inhaerentiam, ita nec de deo per essentiam: In hoc tamen est differentia quo ad illa. vii. in deo &amp; in creatu- 
+        <lb ed="#Ba" n="11"/>ris: quod in creaturis respectus &amp; relatio quam important, subiecto accidentalis est: &amp; accidentaliter subiectum 
+        <lb ed="#Ba" n="12"/>ad aliud referunt: in deo autem non sic. &amp; ideo ratio praedicamenti relationis est in deo, &amp; manet distincta con 
+        <lb ed="#Ba" n="13"/>tra rationem praedicamenti substantiae, inquantum scilicet respicit aliud vt obiectum ad quod est: inquantum tamen 
+        <lb ed="#Ba" n="14"/>respicit substantiam vt in qua fundatur, transit in rationem praedicamenti substantiae. Et est aduertendum ad di 
+        <lb ed="#Ba" n="15"/>stinctionem. vii. praedicamentorum relationis in deo: quod ista. vii. praedicamenta licet inquantum non dicunt nisi cir 
+        <lb ed="#Ba" n="16"/>cunstantiam rei in deo, non habent nisi rationem vnius praedicamenti: tamen in creaturis per illa accidentia su- 
+        <lb ed="#Ba" n="17"/>per quae fundantur, habent rationem verae accidentalitatis: &amp; diuersimode secundum illorum diuersitatem distin 
+        <lb ed="#Ba" n="18"/>guuntur secundum diuersa praedicamenta accidentium: quia alia ratione accidentis accidit subiecto respectus in  
+        <lb ed="#Ba" n="19"/>praedicamento relationis: alia in praedicamento actionis: &amp; sic de aliis. secundum diuersitatem accidentium super 
+        <lb ed="#Ba" n="20"/>quae respectus ipsi fundantur diuersimode: ita quod illo accidentali amoto: sicut amouetur cum assumitur 
+        <lb ed="#Ba" n="21"/>in praedicationem diuinam, aufertur omnino accidentalitas a ratione respectus, &amp; similiter propria ratio praedica 
+        <lb ed="#Ba" n="22"/>menti qua vnum illorum ab altero distinguitur, vt sunt diuersa praedicamenta accidentis, &amp; non manet 
+        <lb ed="#Ba" n="23"/>nisi ratio respectus puri: &amp; ita solum manet in eis ratio vnius praedicamenti eis communis: quae est ad aliud  
+        <lb ed="#Ba" n="24"/>esse: qua distinguuntur contra illa tria praedicamenta quae praedicant de subiecto rem absolutam: quarum ratio est ab-  
+        <lb ed="#Ba" n="25"/>solute esse. Quod vt perfectius videre poterimus, distinctio illorum praedicamentorum secundum diuersitatem 
+        <lb ed="#Ba" n="26"/>rei accidentis supra quam fundatur communis respectus in eis, inspicienda est. Discurrendo igitur per singula dici 
+        <lb ed="#Ba" n="27"/>mus quod. vii. praedicamenta de formali significatione sua potius praedicant circunstantias rerum quam rem aliquam, cum 
+        <lb ed="#Ba" n="28"/>distinguuntur per accidentale quid subest respectui quem dicunt, &amp; super quod fundatur ille respectus. Er- 
+        <lb ed="#Ba" n="29"/>go aut illud accidentale convenit rei subiectae secundum se &amp; absolute: aut ex connexione quadam cum 
+        <lb ed="#Ba" n="30"/>illo ad quod habet respectum. Primo modo est relatio proprie dicta vnum praedicamentorum. lpsa enim accidit 
+        <lb ed="#Ba" n="31"/>subiecto, quia eidem subiecto accidit secundum se &amp; absolute id super quod fundatur. Sed hoc dupliciter secundum quod 
+        <lb ed="#Ba" n="32"/>praedictum est. Aut enim relatio accidit subiecto tantum, &amp; non illi super quod fundatur. secundum quod homini accidit 
+        <lb ed="#Ba" n="33"/>esse simile, non albedini: aut accidit vtrique, secundum quod homini accidit esse duplum: quia ei accidit quantitas, 
+        <lb ed="#Ba" n="34"/>super quam per se fundatur ratio dupligie. quantitas enim est per se &amp; primo dupla: &amp; non per aliquod aliud acci- 
+        <lb ed="#Ba" n="35"/>dens quod ei inest, cui prius convenit esse duplum. Aliter enim esset abire in infinitum, reducendo per acci- 
+        <lb ed="#Ba" n="36"/>dens ad per se. vt patet inspicienti. Et ipsa relatio quae est duplum aut simile: non est res aliqua alia 
+        <lb ed="#Ba" n="37"/>ab illa super quam fundatur: sed solum respectus ipsius quantitatis &amp; subiecti eius, quo formaliter vtrumque eorum 
+        <lb ed="#Ba" n="38"/>vel alterum refertur ad aliud. Aliter enim super illam rem primo fundaretur ille respectus, &amp; ipsa aut subiectum 
+        <lb ed="#Ba" n="39"/>eius: aut vtrunque primo per illum respectum referretur ad aliud. &amp; tunc eadem ratione ille respectus adhuc 
+        <lb ed="#Ba" n="40"/>esset res alia quae respectu illo referretur ad aliud, aut subiectum eius, aut vtrumque: &amp; esset similiter ire 
+        <lb ed="#Ba" n="41"/>in infinitum, vt patet inspicienti. Sed de hoc debet esse sermo loquendo in speciali de relationibus di- 
+        <lb ed="#Ba" n="42"/>uinis. Secundum hoc ergo dicendum de praedicamento relationis in creaturis: quod cum transtertur in diuinam praedi- 
+        <lb ed="#Ba" n="43"/>cationem non manet secundum propriam rationem relationis, qua est vnum. x. praedicamentorum distinctum contra alia, sed  
+        <lb ed="#Ba" n="44"/>transit in substantiam: sicut &amp; res illa super quam fundatur, si ipsa in diuinam praedicationem transferatur: &amp; ma 
+        <lb ed="#Ba" n="45"/>net solummodo secundum conem rationem respectus ad aliud. in quo conuenit cum aliis. vi. Ille enim respectus 
+        <lb ed="#Ba" n="46"/>ocounis in vii. praedicamentis constituit in ipso vnum praedicamentum quod relatio dicitur: &amp; distinguitur contra substam 
+        <lb ed="#Ba" n="47"/>tiam in ipso, vt dictum est secundum Aug. Et sumitur non tantum ex translatione praedicamenti relationis proprie, sed  
+        <lb ed="#Ba" n="48"/>communiter. vii. praedicamentorum praedictorum. Sed illud praedicamentum relationis quod est in deo, distinguitur se- 
+        <lb ed="#Ba" n="49"/>cundum plures modos: quorum vnus pertinet ad respectum relationis proprie dictae: alius vero ad respe- 
+        <lb ed="#Ba" n="50"/>ctus aliorum sex, vt infra patebit. Si vero accidentale super quod fundatur respectus accidit rei subiectae 
+        <lb ed="#Ba" n="51"/>ex connexione quadam cum illo ad quod habet respectum, tunc sunt alia sex praedicamenta. secundum quod Boet. lo- 
+        <lb ed="#Ba" n="52"/>quens de eis in libro de trinitate. dicit. Maxime haec non videntur secundum se facere praedicationem quae ex alieno ad  
+        <lb ed="#Ba" n="53"/>uentu constare prospiciuntur. Propter huiusmodi rationem accidentalitatis in istis sex diuersam contractam ab illo 
+        <lb ed="#Ba" n="54"/>super quod fundatur eorum respectus ab accidentalitate in praedicamento relationis contracta ab illo super 
+        <lb ed="#Ba" n="55"/>quod fundatur eius respectus: in sex principiis dicuntur ista sex accidentia extrinsecus aduenientia:  
+   <!--413.xml-->
+        <pb ed="#Ba" n="199-v"/>
+        <lb ed="#Ba" n="1"/>cum tamen relatio proprie dicta dicatur esse de accidentibus intrinsecus aduenientibus. Relatio enim 
+        <lb ed="#Ba" n="2"/>accidens non fundatur in substantia, nisi super duo praedicamenta, quae sunt qualitas &amp; quantitas, se 
+        <lb ed="#Ba" n="3"/>cundum quod a legente philosophiam debet declarari. Illa ergo sex praedicamenta habentia propriam rationem 
+        <lb ed="#Ba" n="4"/>accidentis quae fundatur super accidens quod contingit subiecto ex connexione quadam cum alio vt 
+        <lb ed="#Ba" n="5"/>dictum est, distincte prosequenda sunt vt hoc declaretur: &amp; quomodo secundum proprias rationes 
+        <lb ed="#Ba" n="6"/>suorum praedicamentorum non manent in deo: sed solum secundum conem rationem respectus: sicut de 
+        <lb ed="#Ba" n="7"/>relatione dictum est. Est autem hic sciendum quod accidentale illud quod contingit rei ex connexione sua cum 
+        <lb ed="#Ba" n="8"/>alio, super quod fundatur respectus eius ad illud, nihil est nisi motus aut dispositio aliqua acquisita 
+        <lb ed="#Ba" n="9"/>ex motu. Motus enim ex eo quod est motus, essentialiter per se &amp; primo respicit plura: quod nulli alii 
+        <lb ed="#Ba" n="10"/>accidenti contingit: scilicet mouentem a quo est: &amp; mobile in quo est: terminum in quem: tempus 
+        <lb ed="#Ba" n="11"/>sub quo est. Vnde motus est accidens quod contingit primo &amp; per se mobili ex connexione sua cum 
+        <lb ed="#Ba" n="12"/>alio, scilicet cum mouente, cum tempore, cum termino ad quem est motus. Secundario autem per 
+        <lb ed="#Ba" n="13"/>motum dispositio acquisita per motum est accidentis quod contingit mobili ex connexione sua cum 
+        <lb ed="#Ba" n="14"/>alio: vt statim patebit. Praedicamenta ergo accidentium quae dicunt respectus accidentales subie- 
+        <lb ed="#Ba" n="15"/>cto, quia fundantur super accidens aliquod quod contingit subiecto ex connexione eius cum alio, cum 
+        <lb ed="#Ba" n="16"/>illud accidens (vt dictum est) aut est motus aut dispositio aliqua in mobili acquisita per motum: aut  
+        <lb ed="#Ba" n="17"/>ergo fundatur respectus ille super ipsum motum: aut super illam dispositionem acquisitam in mobili 
+        <lb ed="#Ba" n="18"/>per motum: Primo modo sunt duo praedicamenta, actio scilicet &amp; passio. Secundo modo sunt alia. A. vt iam pa 
+        <lb ed="#Ba" n="19"/>tebit. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1076">
+        ⁋ Circa distinctionem igitur actionis &amp; passionis, sciendum quod ambo accidentales respectus di- 
+        <lb ed="#Ba" n="20"/>cunt in creaturis, quia fundantur in motu: &amp; hoc vno &amp; eodem numero: &amp; distinguuntur secundum 
+        <lb ed="#Ba" n="21"/>solos respectus: qui sunt esse ab alio &amp; in alium. &amp; secundum hoc ab illo vno duo diuersimode deno-  
+        <lb ed="#Ba" n="22"/>minantur: hic quidem agens: ille vero patiens. Et quia motus super quem ambo huiusmodi respectus fun- 
+        <lb ed="#Ba" n="23"/>dantur: solum est in passo. secundum philosophum. iii. physicae. ideo ambo accidentalitatem suam habent ab eo quod est in passo: &amp; 
+        <lb ed="#Ba" n="24"/>denominatur agens ab eo quod est accidentale in alio: non in ipso agente. Vnde si huiusmodi duo praedicamenta 
+        <lb ed="#Ba" n="25"/>ad diuina transferuntur: non manent nisi secundum conem rationem puri respectus: secundum quem etiam denomina- 
+        <lb ed="#Ba" n="26"/>tur agens omne inquantum agens est. Propter quod &amp; factio quae nominat actionem dei circa creaturas 
+        <lb ed="#Ba" n="27"/>secundum rationem sui nudi respectus: famosissime deo attribuitur. secundum quod dicit <name ref="#Augustine">Augustinus</name> v. de trinitate. Quod ad fa- 
+        <lb ed="#Ba" n="28"/>ciendum attinet fortassis de solo deo verissime dicitur. Solus enim facit &amp; ipse non sit. Quom autem ex 
+        <lb ed="#Ba" n="29"/>parte dei differunt agere, facere, &amp; mouere, videbitur inferius. Et sic vt actio manet in deo secundum ratio 
+        <lb ed="#Ba" n="30"/>nem sui respectus: similiter &amp; passio, absoluta omni ratione motus &amp; pluralitatis distantis ab actu: 
+        <lb ed="#Ba" n="31"/>vt sicut in deo generatio actiua siue generare dicitur vera actio propter verum respectum actionis: sic 
+        <lb ed="#Ba" n="32"/>generatio passiua siue generari dicitur vera passio propter verum respectum passionis. Sed hoc vsus non  
+        <lb ed="#Ba" n="33"/>obtinuit in passione sicut in actione: quia agens in creaturis denominatur secundum motum quem causat in  
+        <lb ed="#Ba" n="34"/>passum: passum vero secundum motum quem habet in se. Et secundum quod dicit Philosophus. iii. physicae. esse vnius se habet ad  
+        <lb ed="#Ba" n="35"/>esse alterius sicut quidam respectus eius qui est in potentia ad id quod est in actu. Si tamen passio nomi 
+        <lb ed="#Ba" n="36"/>net purum respectum non fundatum super motum, sed super diuinam essentiam, de qua pater 
+        <lb ed="#Ba" n="37"/>generat filium, nihil absurdum esset intelligenti dicere quod generari est pati: sicut generare est age- 
+        <lb ed="#Ba" n="38"/>re. Et hoc siue attribuitur generari subiecto generationis hiue termino. Aequiuoce enim in creaturis 
+        <lb ed="#Ba" n="39"/>dicitur generari subiectum generationis quod est ens in potentia: &amp; terminus generationis quod est ens 
+        <lb ed="#Ba" n="40"/>in actu. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1127">
+        ⁋ Sequitur de praedicamentis aliis: quae vt dictum est important accidentales respectus fun 
+        <lb ed="#Ba" n="41"/>datos super dispositionem aliquam accidentalem acquisitam ex motu in mobili: quae contingit mo-  
+        <lb ed="#Ba" n="42"/>bili ex connexione cum alio. Cum igitur (vt dictum est) mobili contingit motus ex connexione sua 
+        <lb ed="#Ba" n="43"/>cum mouente, &amp; tempore, &amp; termino in quem est, &amp; ipsa essentia: motus est illud accidens quod con 
+        <lb ed="#Ba" n="44"/>tingit ei ex connexione sua cum mouente super quod fundatur actio &amp; passio, vt dictum est: opor- 
+        <lb ed="#Ba" n="45"/>tet quod super dispositionem acquisitam in mobili per motum sit illud accidens super quod fundantur 
+        <lb ed="#Ba" n="46"/>alia quatuor praedicamenta. Sed non est vna &amp; eadem: quoniam huiusmodi dispositio quae est acquisi- 
+        <lb ed="#Ba" n="47"/>ta per motum in mobile: aut est ex connexione sua cum tempore quod est mensura motus, aut cum 
+        <lb ed="#Ba" n="48"/>termino ad quem est motus, qui est locus, aut quodammodo habens rationem loci. Primo modo est respe- 
+        <lb ed="#Ba" n="49"/>ctus praedicamenti quando fundatur enim in mobili super dispositionem derelictam in ipsum per conne- 
+        <lb ed="#Ba" n="50"/>xionem quam habet ad tempus, scilicet quia habet esse in tempore. Secundo modo sunt alia tria 
+        <lb ed="#Ba" n="51"/>praedicamenta, vt iam dicetur. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1153">
+        ⁋ De quando, est sciendum quod est praedicamentum accidentis: quia 
+        <lb ed="#Ba" n="52"/>super aliquod accidentale ex tempore per motum in temporali derelicto fundatur: quod accidit rei 
+        <lb ed="#Ba" n="53"/>temporali ex connexione eius cum tempore. Vnde materiali definitione per illud definitur: 
+        <lb ed="#Ba" n="54"/>cum dicitur in. vi. principiis. Quando est quod ex adiacentia temporis derelinquitur. Secundum 
+        <lb ed="#Ba" n="55"/>etiam quod Boet. de triniitate. dicit de quando. Hoc quidem non esse aliquid dicitur: sed quod ei secundum 
+   <!--414.xml-->
+        <pb ed="#Ba" n="200-r"/>
+        <lb ed="#Ba" n="1"/>tempus accidit, praedicatur. &amp; sic solum quando est in illis: quae exceduntur a tempore. De quibus 
+        <lb ed="#Ba" n="2"/>dicit Philosophous. iiii. Physic. quod tempus accipitur aliquid plus omni eo quod est in tempore, &amp; ne- 
+        <lb ed="#Ba" n="3"/>cesse est contineri sub tempore: &amp; pati aliquid sub tpore: sicut dicere consueuimus quia tabefacit tem- 
+        <lb ed="#Ba" n="4"/>pus, &amp; senescunt omnia sub tpore. Propter quod quia (vt ibidem dicit) quae semper sunt: non sic sunt in tpere: quia nihil pa 
+        <lb ed="#Ba" n="5"/>tiuntur sub tempore: ideo quando in ipsis non derelinquitur ex tempore. De se autem quando  
+        <lb ed="#Ba" n="6"/>non dicit nisi respectum &amp; collationem temporalis ad tempus: a quo immpressionem illam recipit 
+        <lb ed="#Ba" n="7"/>super quam fundatur. Quando enim quo ad respectum purum quem dicit: nihil est aliud quam collatio 
+        <lb ed="#Ba" n="8"/>quaedam ipsius esse rei in sua duratione: ad temporis durationem. secundum quod Philosophous di-  
+        <lb ed="#Ba" n="9"/>stinguit differentias quando, secundum talem respectum, cum dicit. 4. Physcai. Nunc aliud dicitur 
+        <lb ed="#Ba" n="10"/>cum tempus quod est huius prope sit: vt veniet nunc, quia hodie veniet: venit tunc, quia he- 
+        <lb ed="#Ba" n="11"/>ri venit. Sed quae in llio facta, non sunt nunc: neque diluuium factum est nunc: qnia non prope. Ip- 
+        <lb ed="#Ba" n="12"/>sum autem tunc, determinatum ad prius nunc est. lpsum autem iam, prope in praesenti atomo: 
+        <lb ed="#Ba" n="13"/>vt quando vadit: iam: quia prope est tempus in quo futurum est. lpsum autem modo prope 
+        <lb ed="#Ba" n="14"/>est praesenti. Repente autem est quod in imperceptibili tempore est propter paruitatem. De quibus 
+        <lb ed="#Ba" n="15"/>dicit ibi Commenta. Significata omnium istarum dictionum sunt quasi species eorum quae signi 
+        <lb ed="#Ba" n="16"/>ficat haec dictio quando. Cum ergo aliquid de praedicamento quando deo attribuimus quod est ac- 
+        <lb ed="#Ba" n="17"/>cidentis in eo ratione eius super quod fundatur, transit in substantiam manente solo respectu &amp; col 
+        <lb ed="#Ba" n="18"/>latione ad tempus &amp; temporalia: vt cum dicitur quia deus fuit heri: vel est hodie: vel erit semper 
+        <lb ed="#Ba" n="19"/>aut cras. &amp; hoc iuxta illum modum, quo supra determinatum est differentias temporis assu- 
+        <lb ed="#Ba" n="20"/>mi in aeternitate. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1212">
+        ⁋ Sequitur de aliis tribus praedicamentis, quae (vt dictum est) important acciden- 
+        <lb ed="#Ba" n="21"/>tales respectus fundatos super dispositionem aliquam accidentalem acquisitam in mobili ex conne- 
+        <lb ed="#Ba" n="22"/>xione sua ad terminum ad que est motus: quae non est nisi dispositio continentiae locati a loco: vel eius 
+        <lb ed="#Ba" n="23"/>quod habet rationem locati ab eo quod habet rationem loci. Quae quidem continentia est disposi 
+        <lb ed="#Ba" n="24"/>tio in locato vel in habente rationem locati ad locum: vel habens rationem loci, quam (vt patet)  
+        <lb ed="#Ba" n="25"/>acquirit per motum in locum: vel in id quod habet rationem loci. Primo modo sunt praedica- 
+        <lb ed="#Ba" n="26"/>mentum vbi &amp; situs. Secundo modo est praedicamentum habitus: vt iam patebit. In duobus 
+        <lb ed="#Ba" n="27"/>primis locatum habet respectum ad locum fundatum super continentiam passiuam locati a lo- 
+        <lb ed="#Ba" n="28"/>co. Sed diuersimode: quoniam praedicamentum vbi dicit respectum quem habet locatum ad lo- 
+        <lb ed="#Ba" n="29"/>cum ratione continentiae locati in loco simpliciter. Praedicamentum autem situs, dicit respectum 
+        <lb ed="#Ba" n="30"/>locati ad locum ratione continentium partium locati a partibus loci per ordinem, vt iam pate- 
+        <lb ed="#Ba" n="31"/>bit. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1239">
+        ⁋ De praedicamento igitur vbi, sciendum quod accidentis praedicamentum est: quia fundatur su- 
+        <lb ed="#Ba" n="32"/>per accidentalem continentiam qua locus ambit locatum: quod accidit ei ex quadam connexione cum 
+        <lb ed="#Ba" n="33"/>loco: vel potius est ipsa connexio. Vnde materiali descriptione describitur per circunscriptionem 
+        <lb ed="#Ba" n="34"/>corporis locati passiuam, &amp; corporis locantis actiuam, cum dicitur in vi. principiis. Vbi, est circunscri 
+        <lb ed="#Ba" n="35"/>ptio corporis (scilicet locati) passiua, a circunscriptione loci (hoc est corporis locantis) actiue procedens. 
+        <lb ed="#Ba" n="36"/>Et non oportet hic facere aliquam differentiam de vbi quid sequitur in locato continentiam loci natu 
+        <lb ed="#Ba" n="37"/>ralis, qui accipitur ex determinata distantia continentis ad medium vel ad circunferentiam: cuius est 
+        <lb ed="#Ba" n="38"/>influere in locatum ad eius generationem &amp; conseruationem, si sit locus naturalis: vel ad corru- 
+        <lb ed="#Ba" n="39"/>ptionem &amp; defectionem si sit locus violentus. Locus enim talis, vel solum agit, vel contra agit. &amp; de 
+        <lb ed="#Ba" n="40"/>vbi quod consequitur in locato ad continentiam loci mathematici: vt si imaginetur cubus separatus in aere:  
+        <lb ed="#Ba" n="41"/>cui nullus locus esset naturalis: neque violentus, neque enim impressionem faceret aliquis locus in illum 
+        <lb ed="#Ba" n="42"/>ita quod non possit dici quod vbi in tali locato fundaretur super aliquam accidentalem impressionem lo 
+        <lb ed="#Ba" n="43"/>ci in locatum: super quam posset dici fundari accidentalitas vbi, quod est in locato corpore naturali. 
+        <lb ed="#Ba" n="44"/>Siue enim sic siue sic sumatur quando, a continentia scilicet in loco, semper eius accidentalitas fun- 
+        <lb ed="#Ba" n="45"/>datur super aliquod accidens in ipso ex hoc quod ambitur loco. Ipsum vero quantum est de se, non dicit 
+        <lb ed="#Ba" n="46"/>nisi respectum quendam &amp; collationem locati ad locum: a quo accidentalitatem recipit per hoc 
+        <lb ed="#Ba" n="47"/>quod ab ipso ambitur. Vbi enim quo ad respectum purum quem dicit, non est nisi quaedam  
+        <lb ed="#Ba" n="48"/>collatio partium locati ad partes loci, dicente Boeth. Vbi, de deo vel de homine praedicatur. De 
+        <lb ed="#Ba" n="49"/>homine, vt in foro. De deo, vt vbique. Sed ita, vt non quasi ipsa res de qua praedicatur sit id quod  
+        <lb ed="#Ba" n="50"/>praedicatur. Non enim ita dicitur homo esse in foro, quemadmodum albus vel longus vel circunfusus 
+        <lb ed="#Ba" n="51"/>&amp; determinatus proprietate aliqua qua designari secundum se possit. Sed tamen quod illud sit aliis infor 
+        <lb ed="#Ba" n="52"/>matum rebus per hanc praedicationem ostenditur. Non intellige veluti forma absoluta inhaeren- 
+        <lb ed="#Ba" n="53"/>te: sed vt partibus loci circunfusis vallatum &amp; ambitum: quod non nisi ex collatione ad aliud,  
+        <lb ed="#Ba" n="54"/>potest intelligi. Et sic patet quod praedicamentum vbi non nisi in respectu quodam &amp; relatione ad  
+   <!--415.xml-->
+        <pb ed="#Ba" n="200-v"/>
+        <lb ed="#Ba" n="1"/>locans perficitur. Vnde &amp; secundum differentias loci secundum sursum &amp; deorsum, dextrorsum &amp; si- 
+        <lb ed="#Ba" n="2"/>nistrorsum, ante &amp; retro, sumuntur differentiae vbi. Cum ergo aliquid de praedicamento vbi assu 
+        <lb ed="#Ba" n="3"/>mitur in diuinam praedicationem, id quod accidentalitatis est in eo &amp; inhaerentiae transit in substan- 
+        <lb ed="#Ba" n="4"/>tiam &amp; in rationem subsistendi, manente solum respectu &amp; collatione ad locum: vt cum deus di 
+        <lb ed="#Ba" n="5"/>citur esse sursum aut deorsum. secundum illud Psalm. Si ascendero in caelum tu illic es &amp;c. Et 
+        <lb ed="#Ba" n="6"/>hoc non sumendo locum vt continens &amp; ambiens: sed vt natura quaedam est &amp; res existens. Adlo 
+        <lb ed="#Ba" n="7"/>cum enim vt continens est, respectum non potest habere nisi corpus natum loco contineri. Pro- 
+        <lb ed="#Ba" n="8"/>pter quod huiusmodi praedicamentum nunquam proprie: sed solum transumptiue in diuinam assu- 
+        <lb ed="#Ba" n="9"/>mitur praedicationem. Quomodo autem in deo habet esse respectus importatus per vbi, amplius 
+        <lb ed="#Ba" n="10"/>videbitur declarando quomodo deus habet esse in omnibus rebus, &amp; per hoc vbique. Vnde o- 
+        <lb ed="#Ba" n="11"/>mnino alium modum respectus habet deus secundum praedicamentum vbi ad locum, quam ha-  
+        <lb ed="#Ba" n="12"/>bent creaturae: quo ad hoc scilicet quod creaturae habent respectum ad locum vt est ambiens eas, de 
+        <lb ed="#Ba" n="13"/>us autem nequaquam: sed vt locus est res existens. vnde dicit Boe. Quia deus vbique est: ita dici videtur: 
+        <lb ed="#Ba" n="14"/>non quod in omni sit loco, quasi scilicet circunfusus partibus loci in eo contineatur. Hoc enim est im 
+        <lb ed="#Ba" n="15"/>possibile. vnde sequitur. Omnino enim in loco esse non potest. scilicet vt circunfusus &amp; determina 
+        <lb ed="#Ba" n="16"/>tus loco. Sed hoc sensu dicitur esse vbique: quod ei omnis locus assit: cum ipse non suscipiatur in loco- 
+        <lb ed="#Ba" n="17"/>Et ideo nusquam esse in loco dicitur, quoniam vbique est: sed non in loco. Est ergo sensus. deus vbique est. idest 
+        <lb ed="#Ba" n="18"/>vbicumque habet aliquid esse: siue locus, siue locatum, siue quodcunque ens, Deus est ibi, non sicut in lo 
+        <lb ed="#Ba" n="19"/>co situatus, sed sicut praesens in intimis rerum inuentus. Praedicamentum ergo vbi de deo praedi- 
+        <lb ed="#Ba" n="20"/>cat solum respectum ad loca, non ratione qua loca, nisi per similitudinem: sed solum ratione qua  
+        <lb ed="#Ba" n="21"/>entia: &amp; hoc per proprietatem. Hoc enim dignitatis est absolute: vt videbitur loquendo de esse 
+        <lb ed="#Ba" n="22"/>dei in rebus. Et sicut est de vbi in deo respectu loci, siimiliter est de quando respectu temporis. 
+        <lb ed="#Ba" n="23"/>&amp; sic declaratio vnius accipiatur iuxta declarationem alterius. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1345">
+        ⁋ Sequitur de praedicamento situs. 
+        <lb ed="#Ba" n="24"/>de situ autem dicit <name ref="#Aristotle">Philosophus</name> in quinto Metaphysicae. quod vno modo situs dicitur in habente partes 
+        <lb ed="#Ba" n="25"/>secundum ordinem partium, aut secundum locum, aut secundum formam. vbi dicit Commenta. 
+        <lb ed="#Ba" n="26"/>Situs inuenitur in omni habente partes, aut per ordinem partium rei adinuicem: &amp; iste est situs 
+        <lb ed="#Ba" n="27"/>qui est differentia quantitatis: secundum quod dictum est in praedicamentis: quod quantitatum aliud  
+        <lb ed="#Ba" n="28"/>est habens situm siue positionem: aliud vero non habet positionem. Isto ergo modo situs non  
+        <lb ed="#Ba" n="29"/>est praedicamentum: sed differentia praedicamenti quantitatis essentialis. Vnde non est nisi in cor- 
+        <lb ed="#Ba" n="30"/>poralibus: &amp; ideo nullo modo talis situs deo attribui potest, nisi Metaphorice &amp; per similitudi- 
+        <lb ed="#Ba" n="31"/>nem. Alio modo in aliquo est situs, scilicet per ordinem partium in loco. Et iste est situs qui est 
+        <lb ed="#Ba" n="32"/>praedicamentum: qui supponit ordinem partium in toto: qui pertinet ad praedicamentum quan-  
+        <lb ed="#Ba" n="33"/>titatis. Quia enim ille situs &amp; ordo in quantitate, consistit in collatione partium vt sunt in toto absolu 
+        <lb ed="#Ba" n="34"/>te: &amp; ita est toti omnino intrinsecus, quasi informatio absoluta in ipso vt respicit totum, licet sit 
+        <lb ed="#Ba" n="35"/>collatiua vt respicit partes: Ideo non est nisi differentia praedicamenti &amp; non praedicamentum. Iste 
+        <lb ed="#Ba" n="36"/>autem situs super ordinem partium in toto addit ordinem earum respectu partium &amp; differen- 
+        <lb ed="#Ba" n="37"/>tiarum loci. Vnde sequitur praedicamentum situs: praedicamentum vbi. sic praedicamentum vbi- 
+        <lb ed="#Ba" n="38"/>sequitur locum. Sicut enim vbi est praedicamentum propter accidentalem continentiam quam  
+        <lb ed="#Ba" n="39"/>habet locatum a loco: sic situs est praedicamentum propter ordinem accidentalem partium loca- 
+        <lb ed="#Ba" n="40"/>ti ad partes loci. Sicut enim contineri a loco simpliciter facit praedicamentum vbi: sic contineri ab ipso 
+        <lb ed="#Ba" n="41"/>secundum ordinem diuersum partium locati ad partes loci, facit praedicamentum situs. Quod habet 
+        <lb ed="#Ba" n="42"/>duas species secundum duos modos situs partium &amp; ordinationis earum in loco: quorum vnus est na- 
+        <lb ed="#Ba" n="43"/>turalis: alter vero accidentalis. secundum quod dicitur in. vi. principiis. Positio nihil aliud est quam natura 
+        <lb ed="#Ba" n="44"/>lis substantiae ordinatio, quae vel a principio quidem innata est vt ea quae asperis vel lenibus inest 
+        <lb ed="#Ba" n="45"/>vel a naturae quodam motu causato: vt sessio, accubitus, &amp; similia. Praedicamentum istud quan-  
+        <lb ed="#Ba" n="46"/>tum est de se, in quadam collatione &amp; ordine partium locati ad locum consistit. Vnde patet pla- 
+        <lb ed="#Ba" n="47"/>ne quod etiam in creaturis ad relationem pertinet: &amp; habet rationem accidentalitatis eandem quam ha 
+        <lb ed="#Ba" n="48"/>bet vbi: quia mediante vbi fundatur super rationem accidentalitatis continentiae quam habet locatum 
+        <lb ed="#Ba" n="49"/>in loco: de qua dictum est supra. Cum ergo aliquid de praedicamento situs in diuinam vertitur 
+        <lb ed="#Ba" n="50"/>praedicationem: id quod accidentalitatis est in eo &amp; inhaerentiae, transit in substantiam &amp; rationem sub 
+        <lb ed="#Ba" n="51"/>sistendi manente solum respectu &amp; collatione ad locum: vt cum dicitur deus trinitas sedere super 
+        <lb ed="#Ba" n="52"/>Cherubim: &amp; deus filius ad dexteram patris: vel cum deus dicitur esse supra omnia, vel infra, vel 
+        <lb ed="#Ba" n="53"/>extra omnia: &amp; hoc nunquam nisi Metaphorice: quia talis respectus proprie non potest esse nisi in cor 
+        <lb ed="#Ba" n="54"/>poralibus. Vnde quia praedicamentum situs summam materialitatem importat, sicut praedicamentum 
+        <lb ed="#Ba" n="55"/>passionis importat summam mutabilitatem, quae maxime deo repugnat: ideo Boethicorum de trinita. 
+   <!--416.xml-->
+        <pb ed="#Ba" n="201-r"/>
+        <lb ed="#Ba" n="1"/>ista duo praedicamenta summe repellit a deo dicens. Situm &amp; passionem requiri in deo non oportet. 
+        <lb ed="#Ba" n="2"/>Quod non dicit quin haec praedicamenta transferantur in deum, vel proprie vel transumptiue: ita quod ra 
+        <lb ed="#Ba" n="3"/>tio respectus eorum maneat in deo, sicut &amp; aliorum: sed quia in creaturis dicunt accidentia deo maxi 
+        <lb ed="#Ba" n="4"/>me repugnantia. Ideo enim cum de. iiii. aliis ostendit quod deo non attribuuntur nisi sub ratione respectus &amp; 
+        <lb ed="#Ba" n="5"/>nudae circunstantiae negatiue, quasi per locum a maiori concludit, quod non oportet situm &amp; passio- 
+        <lb ed="#Ba" n="6"/>nem in deo quaerere, quia illa super quae respectus eorum fundantur, summe sunt deo indigna: vt sunt 
+        <lb ed="#Ba" n="7"/>motus siue mutatio in passione, ordo partium in toto respectu loci in situ. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1440">
+        ⁋ Sequitur de praedicame 
+        <lb ed="#Ba" n="8"/>to habitus in quo sunt vestitum esse aut calceatum aut huiusmodi. &amp; sunt vestitus aut calceatus quasi con 
+        <lb ed="#Ba" n="9"/>tenti a vestimento aut calceamento, &amp; est respectus eorum adinuicem tamquam eius quod est contentum ad continens 
+        <lb ed="#Ba" n="10"/>&amp; fundatur similiter praedicamentum hoc sicut &amp; praecedens super continentiam, sed passiuam conten- 
+        <lb ed="#Ba" n="11"/>ti a continente. de quo dicit Philosophus. v. Metaphysica. quod habitus vel habere vno modo dicitur quod po 
+        <lb ed="#Ba" n="12"/>test acquirere aliquis secundum suam naturam aut secundum suum studium: vt quod homo habet castrum, 
+        <lb ed="#Ba" n="13"/>&amp; victores habent ciuitates. &amp; aliter sicut dicitur in praedicamentis, vt habere possessionem, dom. scilicet vel 
+        <lb ed="#Ba" n="14"/>agrum aut aliquid huiusmodi. Iste modus habendi pertinet non ad praedicamentum sed ad postprae 
+        <lb ed="#Ba" n="15"/>dicamentum. Alio modo dicitur habere sicut dispositionem informantem, vt cuprum habet formam idoli 
+        <lb ed="#Ba" n="16"/>vel corpus habet infirmitatem. &amp; pertinet similiter ad rationem postpraedicamenti, secundum quod vniuersa-. 
+        <lb ed="#Ba" n="17"/>liter substantia habet accidentia, vel materia formam. Tertio autem modo dicitur habitus disposition 
+        <lb ed="#Ba" n="18"/>quaedam quam habet communem continens cum contento, &amp; hoc inquantum contentum dicitur habere continens, si 
+        <lb ed="#Ba" n="19"/>cut est vestitio quae est dispositio inter vestientem &amp; vestitum, &amp; in vestito qui continetur a vestimen 
+        <lb ed="#Ba" n="20"/>to, &amp; ipse habet proprie vestimentum non econuerso. Alio enim modo dicitur continens habere con- 
+        <lb ed="#Ba" n="21"/>tentum, sicut scyphus aliquod humidum, vel ciuitas homines, vel nauis nautas. Et secundum Commen. 
+        <lb ed="#Ba" n="22"/>ibidem, dicere quod contentum habet continens, sicut animal habet cutem, &amp; arbor corticem, hoc est 
+        <lb ed="#Ba" n="23"/>habitus praedicamentum. Dicere autem quod continens habet contentum, secundum hunc modum dicitur 
+        <lb ed="#Ba" n="24"/>quod locus habet locatum, &amp; hoc est praedicamentum vbi. Et vniuersalter (vt dicit) respectus in hoc praedicamen 
+        <lb ed="#Ba" n="25"/>to, est conversus illi quid est in praedicamento habitus. Et isti duo modi sunt propinqui &amp; eiusdem generis, hoc 
+        <lb ed="#Ba" n="26"/>est maneriei. Est enim respectus comparationis inter continens &amp; contentum. Si igitur fuerit continentis ad con 
+        <lb ed="#Ba" n="27"/>tentum est praedicamentum habitus: si econtrario, erit de vbi. Vnde sicut praedicamentum vbi, quod est respectus 
+        <lb ed="#Ba" n="28"/>contenti habiti ad habens &amp; continens, de se solum respectum dicit contenti &amp; habiti ad habens &amp; continens:  
+        <lb ed="#Ba" n="29"/>&amp; non habet accidentalitatem, nisi propter dispositionem continentiae in contento vt dictum est: Sic 
+        <lb ed="#Ba" n="30"/>praedicamentum habitus quod est respectus contenti habentis ad habitum continens, de se solum re- 
+        <lb ed="#Ba" n="31"/>spectum dicit contenti &amp; habentis ad habitum continens: &amp; non habet accidentalitatem nisi propter 
+        <lb ed="#Ba" n="32"/>dispositionem continentiae suae in alio. Et ideo sicut dictum est de praedicamento vbi, cum praedicamen- 
+        <lb ed="#Ba" n="33"/>tum habitus sumitur in diuinam praedicationem, vt cum domins dicitur vestitus lumine sicut vestimen- 
+        <lb ed="#Ba" n="34"/>to, &amp; huiusmodi: quod accidentalitatis est in ipso &amp; inhaerentiae transit in substantiam &amp; subsistendi ratio 
+        <lb ed="#Ba" n="35"/>nem manente solo respectu &amp; collatione ad habitum continens. sed hoc nullo modo proprie, quia non nisi 
+        <lb ed="#Ba" n="36"/>corporalibus conuenit proprie, sed solum transumptiue. vnde dicitur in. vi. princi. magis proprie 
+        <lb ed="#Ba" n="37"/>habitus in corpore &amp; circa corpus existentibus secundum eam quae est partium diuisionem existere. 
+        <lb ed="#Ba" n="38"/>Sic igitur patet quomodo res omnium praedicamentorum deo quoquo modo attribuuntur, sed mu 
+        <lb ed="#Ba" n="39"/>tatione eius quod rei est in ipsis in substantiam, &amp; quod rationis similiter, praeter id quid est ratio in se subsi 
+        <lb ed="#Ba" n="40"/>stendi in praedicamento substantiae, &amp; quod est ratio ad aliquid &amp; respectus in praedicamento relatio- 
+        <lb ed="#Ba" n="41"/>nis. Et hoc est quod insinuat <name ref="#Augustine">Augustinus</name> cum dicit. v. de Trini. sic. Intelligamus deum si possumns sine qua  
+        <lb ed="#Ba" n="42"/>litate bonum, sine quantitate magnum, sine indigentia creatorem, sine situ praesentem, sine habitu omnia 
+        <lb ed="#Ba" n="43"/>continentem (hoc est habentem, quia vt dicit <name ref="#Boethius">Boethius</name> , secundum habitum cuncta possidens regit) s 
+        <lb ed="#Ba" n="44"/>sine loco vbique totum, sine tempore sempiternum, sine vlla sui mutatione omnia facientem. Vbi sub 
+        <lb ed="#Ba" n="45"/>dit quoddam bene aduertendum dicens. Quisquis deum ita cogitat, etsi nondum potest omnino inuenire quid sit, 
+        <lb ed="#Ba" n="46"/>pie tamen caueat quantum potest aliquid de illo sentire quod non sit. Nec ergo ratio cuiuslibet praedicamen 
+        <lb ed="#Ba" n="47"/>ti nec nullius deo est attribuenda, sed aliquorum sic, &amp; aliquorum non, vt solum substantiae &amp; relationis, &amp; 
+        <lb ed="#Ba" n="48"/>non alterius, &amp; non vnius istorum tantum, sed vtriusque. &amp; quomodo hoc, visum est. Vnde argumenta quae pro  
+        <lb ed="#Ba" n="49"/>hoc superius sunt inducta, concedenda sunt. Ad illa vero quae contraria his ostendere nitebantur, est re 
+        <lb ed="#Ba" n="50"/>spondendum per ordinem. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1542">
+        <lb ed="#Ba" n="51"/>⁋ Ad primum igitur quod in deo sit ratio alicuius praedicamenti, quia nullum est in eo secun 
+        <lb ed="#Ba" n="52"/>dum rem: &amp; tamen aliqua sunt in eo: dicitur enim bonus &amp; magnus &amp;c. Dicendum ad formam argumenti: licet enim ve 
+        <lb ed="#Ba" n="53"/>ram conclusionem concludit: non tamen vere. Concludit enim ac si ratio qualitatis &amp; quantitatis essent in deo. Vnde 
+        <lb ed="#Ba" n="54"/>dicendum, quod huiusmodi res praedicantur de deo vt translata a praedicamentis: non tamen oportet quod aliquo modo ma-  
+   <!--417.xml-->
+        <pb ed="#Ba" n="201-v"/>
+        <lb ed="#Ba" n="1"/>neant: aut secundum rem aut secundum rationem. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1560">
+        ⁋ Ad secundum quod in deo sit ratio cuiuslibet 
+        <lb ed="#Ba" n="2"/>praedicamenti: quia ratio cuiuslibet praedicamenti attribuitur negationi qua remouetur res cuiuslibet prae 
+        <lb ed="#Ba" n="3"/>dicamenti a deo: ergo attribuitur affirmationi qua deo attribuitur: siue proprie siue per similitudinem 
+        <lb ed="#Ba" n="4"/>dicendum quod verum est: quando secundum eandem rem in natura &amp; essentia res praedicamenti alicui at-  
+        <lb ed="#Ba" n="5"/>tribuitur affirmatiue. ad illam enim semper sequitur proprius modus siue propria ratio illius rei, quantumcumque  
+        <lb ed="#Ba" n="6"/>in supeminentiori gradu attribuitur vni quam alteri: vt quantuncumque sub eminentiori gradu attribuitur substam 
+        <lb ed="#Ba" n="7"/>tiae nomen incorporeis creaturis quam corporeis: quia tamen secundum eandem rem in natura &amp; essentia praedicamen 
+        <lb ed="#Ba" n="8"/>ti substantiae attribuitur eis (dico vnitate rationis &amp; abstractionis logicae) ideo modus proprius praedi 
+        <lb ed="#Ba" n="9"/>camenti substantiae qui est substare accidentibus, convenit tam corporeis quam incorporeis. Quando autem 
+        <lb ed="#Ba" n="10"/>secundum aliam rem in natura &amp; essentia quod conuenit vni attribuitur alteri: sicut contingit eis quae  
+        <lb ed="#Ba" n="11"/>ex creaturis attribuuntur deo, vt supra expositum est: tunc ratio propria praedicamenti non oportet quod sequatur 
+        <lb ed="#Ba" n="12"/>rem secundum illud praedicamentum alteri attributum: quia omnino repugnat quandoque naturae rei in il- 
+        <lb ed="#Ba" n="13"/>lo cui attribuitur, vt dictum est supra. Immo negationi qua remouetur res illa cui conuenit, illa ratio ma 
+        <lb ed="#Ba" n="14"/>gis attribuitur: non ratione negationis: quia ipsa nihil ponit, nec rem praedicamenti, nec rationem eius: 
+        <lb ed="#Ba" n="15"/>sed ratione rei subiectae negationi. Processit autem ratio ac si ratione ipsius negationis ratio praedicamen 
+        <lb ed="#Ba" n="16"/>ti ei attribueretur. Vnde sicut substantia vel res cuiuslibet alterius praedicamenti secundum rem 
+        <lb ed="#Ba" n="17"/>qua praedicatur de creaturis: non attribuitur deo: secundum rem enim illam qua praedicatur de crea 
+        <lb ed="#Ba" n="18"/>turis, nulla praedicatio de deo alicuius quod est in creaturis est vera: quoniam secundum Diony. affirma- 
+        <lb ed="#Ba" n="19"/>tiones incompactae sunt: quia nullam compactionem vel inhaerentiam cum deo substantialem vel ac- 
+        <lb ed="#Ba" n="20"/>cidentalem possunt habere res illae: &amp; omnes negationes sunt verae: sic proprietas substantiae vel 
+        <lb ed="#Ba" n="21"/>cuiuscumque alterius praedicamenti nullo modo deo conuenit. Immo quaelibet res cuiuslibet praedicamen 
+        <lb ed="#Ba" n="22"/>ti ipsa vt est praedicamenti sub suo modo, vere a deo remouetur: ita quod illud falso affirmatur quod ex crea- 
+        <lb ed="#Ba" n="23"/>turis de deo dicitur secundum substantiam, qualitatem, quantitatem: &amp; huiusmodi. Et sic non  
+        <lb ed="#Ba" n="24"/>oportet omnem rationem cuiuslibet praedicamenti deo attribui: licet res cuiuslibet praedicamen- 
+        <lb ed="#Ba" n="25"/>ti aliquo modo proprie vel improprie deo attribuitur. Ratio tamen alicuius praedicamenti deo 
+        <lb ed="#Ba" n="26"/>attribuitur: etsi nulla res secundum naturam rei praedicamenti deo attribuatur, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1617">
+        <lb ed="#Ba" n="27"/>⁋ Quod arguitur primo contra hoc, quod ratio nullius praedicamenti deo potest attribui: quia in ipso non  
+        <lb ed="#Ba" n="28"/>est ratio vniuersalis vel particularis: dicendum ad hoc quod duplex est ratio praedicamenti: vna quae  
+        <lb ed="#Ba" n="29"/>conuenit toti praedicamento: ita quod cuilibet rei quae est in ipso in se: alia quae conuenit toti praedicamen 
+        <lb ed="#Ba" n="30"/>to non nisi ex ordine quem habent res praedicamenti inter se secundum sub &amp; supra in linea praedica 
+        <lb ed="#Ba" n="31"/>mentali. Secundum primum modum expositum est supra quod ratio aliquorum praedicamentorum 
+        <lb ed="#Ba" n="32"/>convenit deo: vt ratio subsistendi in se secundum substantiam: &amp; ad aliud essendi secundum relatio 
+        <lb ed="#Ba" n="33"/>nem: aliorum autem nequaquam. Secundum secundum modum procedit argumentum: &amp; bene concedendum est 
+        <lb ed="#Ba" n="34"/>sicut probat, quod illa nullo modo cadit in deo secundum aliquod praedicamentum vel rem praedicamenti deo 
+        <lb ed="#Ba" n="35"/>attributam. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1640">
+        ⁋ Ad secundum quod ratio praedicamenti est quod sit res cui conuenit esse vel in se vel in alio 
+        <lb ed="#Ba" n="36"/>deus autem non est id cui convenit esse: sed est ipsum esse: dicendum ad hoc quod duplex est ratio praedicamen 
+        <lb ed="#Ba" n="37"/>ti: vna quae est ratio constituendi ipsum praedicamentum: &amp; non distinguendi vnum ab alio: alia quae  
+        <lb ed="#Ba" n="38"/>consequitur ipsum constitutum, &amp; est ratio distinguendi vnum ab alio. Ratio praedicamenti pri- 
+        <lb ed="#Ba" n="39"/>mo modo est illa de qua procedit argumentum, quae constituit praedicamentum substantiae &amp; ac 
+        <lb ed="#Ba" n="40"/>cidentis, vt dictum est. &amp; bene verum est quod talis ratio substantiae aut accidentis deo non conuenit 
+        <lb ed="#Ba" n="41"/>quia nec res ipsa quam talis ratio constituit. Deus enim non est res cui convenit esse: quasi aliquid extra inten 
+        <lb ed="#Ba" n="42"/>tionem rei sit ipsum esse eius: sicut contingit in substantia &amp; accidente: sed est ipsum esse: &amp; non alia 
+        <lb ed="#Ba" n="43"/>intentio quam intentio esse, vt habitum est supra. &amp; sic bene procedit argumentum. Ratio vero praedi 
+        <lb ed="#Ba" n="44"/>camenti secundo modo est illa quae distinguit praedicamentum substantiae a praedicamentis acci- 
+        <lb ed="#Ba" n="45"/>dentium: quia consequitur rem praedicamenti constitutam per primam rationem. Hoc enim est con 
+        <lb ed="#Ba" n="46"/>mune substantiae &amp; accidenti per primam rationem, quod vtrumque significat rem cui convenit esse, extra 
+        <lb ed="#Ba" n="47"/>cuius intentionem est intentio esse. Sed in hoc differunt, quod substantiae conuenit esse in seipsa, acciden 
+        <lb ed="#Ba" n="48"/>ti vero in alio: &amp; proprietates essendi quae sunt in se &amp; in alio, dant eis rationes illas distinguen- 
+        <lb ed="#Ba" n="49"/>tes praedicamentum substantiae a praedicamento accidentis. Substantia enim quia est ens in se 
+        <lb ed="#Ba" n="50"/>non in alio, est ens subsistens. Accidens vero quia est ens non in se sed in alio, est ens non subsistens 
+        <lb ed="#Ba" n="51"/>sed alteri inhaerens. Modus autem inhaerendi nullo modo deo potest conuenire: &amp; ideo neque ra- 
+        <lb ed="#Ba" n="52"/>tio praedicamenti accidentis: qua distinguitur contra praedicamentum substantiae, vt supra dictum est. Sed mo 
+        <lb ed="#Ba" n="53"/>dus subsistendi verissime deo convenit: &amp; verius quam praedicamento substantiae. ipsi enim (vt dictum est) praedicamento 
+        <lb ed="#Ba" n="54"/>substantiae ex hoc solo convenit subsistere quod habet esse non in alio: sed ex hoc non convenit ei perfecta ratio sub 
+   <!--418.xml-->
+        <pb ed="#Ba" n="202-r"/>
+        <lb ed="#Ba" n="1"/>suum non habet in alio per vlteriorem inhaerentiam: habet tamen ipsum quodammodo vt inhaerens 
+        <lb ed="#Ba" n="2"/>ipsi rei: &amp; ita vt accns ei: sicut saepe dictum est: &amp; per consequens tanquam dependens ab alio, a quo res ipsa 
+        <lb ed="#Ba" n="3"/>participat esse: &amp; sic conuenit ei esse subsistens: quia non in alio vlteriori existens: sed non perfecte sub 
+        <lb ed="#Ba" n="4"/>sistens: quia habet esse quodammodo rei inhaerens, &amp; vt ab alio dependens. Sed deus quia nihil est ni 
+        <lb ed="#Ba" n="5"/>si ipsum esse in se, nullo modo in alio neque ab alio dependens, vt habitum est supra: ideo perfectissi- 
+        <lb ed="#Ba" n="6"/>me subsistit: &amp; quo ad hoc verissime substantia dicitur, secundum propriam rationem substan- 
+        <lb ed="#Ba" n="7"/>tiae qua praedicamentum substantiae distinguitur a praedicamento accidentis: ita quod ipsum praedica- 
+        <lb ed="#Ba" n="8"/>mentum substantiae, &amp; omne esse substantiae creatae, etiam quodammodo accidens est respectu sub 
+        <lb ed="#Ba" n="9"/>stantiae &amp; esse dei: &amp; sic deus verius substantia dicitur secundum propriam rationem rei substantiae 
+        <lb ed="#Ba" n="10"/>quam ipsa substantia praedicamentum: licet forte aliter sit secundum rationem nominis, vt iam patet. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1710">
+        ⁋ Quia 
+        <lb ed="#Ba" n="11"/>autem arguitur primo: quod ratio substantiae non est in deo: quia deus non subsistit nisi respectiue: sub- 
+        <lb ed="#Ba" n="12"/>stantia autem subsistit absolute: Dicendum quod ratio subsistendi quae conuenit substantiae quae est prae 
+        <lb ed="#Ba" n="13"/>dicamentum in creaturis: nullo modo convenit deo. Ad cuius intellectum sciendum, quod praeter subsistere quod  
+        <lb ed="#Ba" n="14"/>idem est quid sub alio sistere vt minus cone sub magis coconi in linea praedicamentali: quod etiam accidenti con 
+        <lb ed="#Ba" n="15"/>uenit: &amp; nullo modo deo: quia in ipso non cadunt ratio vniuersalis &amp; particularis: &amp; etiam praeter subsistere quid  
+        <lb ed="#Ba" n="16"/>est sub alio sistere vt subiectum sub suo accnte: quod etiam convenit quibuscumque accidentibus quodammodo, inquam 
+        <lb ed="#Ba" n="17"/>tum vnum habet esse in alio: quod nullo modo deo conuenit, vt iam dicetur, in creaturis subsistere vno modo idem est 
+        <lb ed="#Ba" n="18"/>quid secundum se sistere: non in alio: &amp; hoc dupliciter. Vel non in alio vt in subiecto: hoc modo subsistere est 
+        <lb ed="#Ba" n="19"/>proprie, propria ratio substantiae: &amp; convenit omni substantiae, &amp; substantiae quae est in materia, &amp; substantiae quae est in for- 
+        <lb ed="#Ba" n="20"/>ma: &amp; substantiae quae est compositum: &amp; substantiae quae est quiditas siue essentia vniuscuiusque. His enim 
+        <lb ed="#Ba" n="21"/>quatuor modis dicitur substantia, secundum <name ref="#Aristotle">Philosophum</name> in vii. meta. Substantia enim quolibet istorum mo 
+        <lb ed="#Ba" n="22"/>dorum non est alterius nisi suiipsius &amp; illius cuius est, vt dicitur in eodem. Hoc modo subsistere non est ni 
+        <lb ed="#Ba" n="23"/>si secundum se existere: vnde &amp; dicitur substantia a sic subsistendo. &amp; hoc modo perfectissime subsistit tri 
+        <lb ed="#Ba" n="24"/>nitas vnus deus: sicut perfectissime habet esse siue existere. Vnde de subsistere hoc modo loquitur Au 
+        <lb ed="#Ba" n="25"/>gust. vii. de trinitate. vbi dicit. Si aliud est deo esse, aliud subsistere: sicut aliud deo esse, aliud patrem esse: 
+        <lb ed="#Ba" n="26"/>telatiue ergo subsistit sicut relatiue gignit. lam ergo substantia non est: quia relatiuum est. Sicut enim ab eo quod est 
+        <lb ed="#Ba" n="27"/>esse appellatur essentia, ita etiam ab eo quod est subsistere substantiam dicimus. Absurdum est autem vt substantia relati 
+        <lb ed="#Ba" n="28"/>ue dicatur. omnis eim res ad seipsam subsistit, quanto magis deus: Si tamen dignum est vt deus dicatur subsistere. Alio 
+        <lb ed="#Ba" n="29"/>modo in creaturis subsistere idem est quod nullo modo in alio sistere. Cum ergo in creatura quaelibet sit duo inue 
+        <lb ed="#Ba" n="30"/>nre. scilicet essentiam siue naturam: &amp; rem naturae subiectam participantem naturam: ex quibus in omni creatu 
+        <lb ed="#Ba" n="31"/>ra est inuenire compositionem, vt habitum est supra in quadam quaestio. de simplicitate dei: omne enim 
+        <lb ed="#Ba" n="32"/>quod est in creaturis est aliquid in re creatum vel generatum aut factum participans esse &amp; essentiam 
+        <lb ed="#Ba" n="33"/>ita quod sicut nihil huiusmodi in creatura est suum esse praedicatione per identitatem: sic nihil est sua quidi 
+        <lb ed="#Ba" n="34"/>tas siue essentia sua: Sicut enim homo non est ipsum esse: sed participans esse: sic non est humanitas:  
+        <lb ed="#Ba" n="35"/>sed participans humanitatem: &amp; similiter est de quacunque creatura spirituali: quantuncumque simplici 
+        <lb ed="#Ba" n="36"/>&amp; sic in omni creatura id quod est re &amp; natura, est quoddam exns in composito ex natura &amp; es- 
+        <lb ed="#Ba" n="37"/>sentia tanquam materiale in eo, &amp; similiter ipsa essentia tanquam formale: &amp; similiter in composito ex vera 
+        <lb ed="#Ba" n="38"/>materia &amp; forma vtrumque &amp; materia &amp; forma habent esse in composito ex eis: Hoc ergo modo subsi 
+        <lb ed="#Ba" n="39"/>stendi in nulla creatura subsistere dicitur substantia quae est essentia: neque substantia quae est res 
+        <lb ed="#Ba" n="40"/>subiecta ei: siue sit simplex: siue composita: neque materia neque forma ipsum componentia: sed solum 
+        <lb ed="#Ba" n="41"/>participans essentia aliqua vt forma qua habet esse aliquid. Vnde humanitas non est substantia sub 
+        <lb ed="#Ba" n="42"/>sistens: quia non habet esse nisi in alio, cuiusmodi est compositum ex anima &amp; corpore: neque illud compo- 
+        <lb ed="#Ba" n="43"/>situm dicitur subsistere: quia non subsistit nisi sub humanitate: neque similiter anima neque corpus:  
+        <lb ed="#Ba" n="44"/>quia non habent esse nisi in alio vt pars: sed solum per se debet dici subsistere homo, quod est compo- 
+        <lb ed="#Ba" n="45"/>situm participans humanitatem &amp; informatum humanitate. Non dico quod homo per se subsistat vt est 
+        <lb ed="#Ba" n="46"/>compositum naturae ex anima &amp; corpore non incluso in suo intellectu conceptu humanitatis par- 
+        <lb ed="#Ba" n="47"/>ticipatae: sed vt est compositum ex eo quod est naturae in ipso: &amp; ex humanitate participata, inclu- 
+        <lb ed="#Ba" n="48"/>so vtroque in intellectu vno. &amp; hoc quid sic subsistit, vere habet rationem suppositi: non autem id quod est sub humna 
+        <lb ed="#Ba" n="49"/>nitate participata: nisi intelligamus subsistere dici a subsistendo essentiae vel quiditati particulate. Tunc enim illud  
+        <lb ed="#Ba" n="50"/>quod intelligitur subiici essentiae particulate, vt res naturae, proprie dicitur subsistere: &amp; habere rationem suppositi. &amp; hoc 
+        <lb ed="#Ba" n="51"/>modo vsi sumus nomine suppositi supra in quaestione de deo: vtrum in ipso sit compositio ex essentia &amp; supposito. Nec 
+        <lb ed="#Ba" n="52"/>etiam adhuc totum participans essentia, vt includit in se rationem rei participantis &amp; essentiae participatae 
+        <lb ed="#Ba" n="53"/>vere ex hoc habet rationem suppositi nisi sit in se separatim existens. Vnde compositum ex corpore &amp; anima rationali per 
+        <lb ed="#Ba" n="54"/>ticipans humanitate assumpata in personalitate Christi, subsistere non dicitur neque esse suppositum. 
+   <!--419.xml-->
+        <pb ed="#Ba" n="202-v"/>
+        <lb ed="#Ba" n="1"/>vt secundum hoc nihil in creaturis dicatur vere subsistere nisi substantia indiuidua ab omnibus alis se- 
+        <lb ed="#Ba" n="2"/>parata &amp; distincta.  Et secundum hoc dicitur deus maxime subsistere &amp; verissime substantia: quan 
+        <lb ed="#Ba" n="3"/>to in subsistendo minime dependet ab alio: non tamen ex hoc habet rationem suppositi: quia hoc est subsistere quod 
+        <lb ed="#Ba" n="4"/>convenit deo quid est trinitas, ex opposito contra subsistere quod convenit creaturis. Trinitati ei non convenit 
+        <lb ed="#Ba" n="5"/>aliqua ratiommunis suppositi absoluti, vt infra declarabitur, nisi extendendo nomen suppositi ad rationem subsistentis 
+        <lb ed="#Ba" n="6"/>&amp; secundum se entis: quo modo extendit <name ref="#Augustine">Augustinus</name> cum dicit secundo de triniitate. ca. xi. Nec aliquid prohibet voces factas ad 
+        <lb ed="#Ba" n="7"/>Adam a trinitate factas intelligere: sed etiam personam demonstrantes eiusdem trinitatis accipere. Quia autem ratio 
+        <lb ed="#Ba" n="8"/>huiusmodi suppositi non conuenit ei ad modum quo conuenit in creaturis: ex hoc patet: quod suppositum 
+        <lb ed="#Ba" n="9"/>ex hoc dicitur in creaturis quod est res &amp; natura quaedam sub esse singularis &amp; determinati, in qu 
+        <lb ed="#Ba" n="10"/>stat diuisio ipsius rei consideratae sub ratione vniuersalis: &amp; quae indiuidualiter participat rationem essen 
+        <lb ed="#Ba" n="11"/>tiae, quae per se est forma speciei &amp; participatur a specie: ita quod omne suppositum creaturae habet in se na- 
+        <lb ed="#Ba" n="12"/>turam speciei per eius separationem ab eadem vt est in alio supposito. Separatione dico non totius in  
+        <lb ed="#Ba" n="13"/>tegri: sed vniuersalis. Habet etiam in se formam quae est quiditas indiuiduata: &amp; ita per eius separatio 
+        <lb ed="#Ba" n="14"/>nem ab eadem vt est indiuiduata in alio. Callias enim est iste homo participans hac humanitate. In  
+        <lb ed="#Ba" n="15"/>ipso enim stat hominis diuisio tanquam vniuersalis speciei: &amp; in ipso fit humanitatis indiuiduatio tam 
+        <lb ed="#Ba" n="16"/>quam singulariter participatae. Homo enim non participatur ab isto homine: quia iste homo est homo: nec in ip 
+        <lb ed="#Ba" n="17"/>so indiuiduatur: sed per ipsum diuiditur. humanitas vero participatur ab ipso: quia ipse non est hu 
+        <lb ed="#Ba" n="18"/>manitas. Vnde nec humanitas diuiditur per ipsum: quia ipsa de se nec est vniuersalis nec singula- 
+        <lb ed="#Ba" n="19"/>ris: sed indiuiduatur in hoc &amp; in alio, inquantum singulariter ab vtroque participatur. Non enim est 
+        <lb ed="#Ba" n="20"/>proprie hoc nisi quia est huius. Et sic in quolibet tali ratio suppositi sumitur ex speciei diuisione &amp; essentiae in  
+        <lb ed="#Ba" n="21"/>diuisione, quae aliquam compositionem faciunt in supposito, secundum supra determinatum modum. lgitur hoc 
+        <lb ed="#Ba" n="22"/>modo impossibile est cadere rationem suppositi in deo: quia in ipso non cadit talis compositio neu 
+        <lb ed="#Ba" n="23"/>speciei diuisio neque essentiae participatio: &amp; ita neque cadit in ipso huiusmodi ratio substantiae, quae ests 
+        <lb ed="#Ba" n="24"/>sic subsistere. Dico quantum est ex parte diuinae essentiae &amp; naturae. Quantum tamen ad modum sigi 
+        <lb ed="#Ba" n="25"/>ficandi deitas significat in deo sub ratione essentiae, vt qua habet aliquid esse deus. Deus autem  
+        <lb ed="#Ba" n="26"/>significat sub ratione habentis in se deitatem, non dico participantis. Et quo ad hoc solummodo ali 
+        <lb ed="#Ba" n="27"/>qua ratio subsistentiae absolutae potest intelligi in deo: similiter aliqua ratio absoluti suppositi: quem  
+        <lb ed="#Ba" n="28"/>admodum intellexerunt philosophi in deo vnum suppositum absolutum secundum quam etiam 
+        <lb ed="#Ba" n="29"/>rationem <name ref="#Augustine">Augustinus</name> loquitur de supposito trinitatis, vt dictum est. In quo quidem supposito ratione  
+        <lb ed="#Ba" n="30"/>simplicitatis quae in eo &amp; in essentia est aequalis, bene dicitur quod deitas est deus &amp; econverso: licet non dicitur qui 
+        <lb ed="#Ba" n="31"/>humanitas sit homo aut econuerso. Nec tamen sub hoc nomine deus omnino significatur deitas, vi 
+        <lb ed="#Ba" n="32"/>absolute: sed vt sub aliquo, ratione respectus, vt patebit loquendo de significato huius nominis deus. Et 
+        <lb ed="#Ba" n="33"/>sic absolute dicendum quod deo non convenit aliqua ratio subsistendi absolute: sicut conuenit subilantia 
+        <lb ed="#Ba" n="34"/>quae est praedicamentum: siue quae est in praedicamento: ita quod non conueniat ei alia ratio substan 
+        <lb ed="#Ba" n="35"/>tiae quam in se existere non in alio vt in subiecto, quod enim subsistit secundum suppositum, hoc non est 
+        <lb ed="#Ba" n="36"/>per speciei diuisionem: neque per essentiae indiuiduationem: sed essentiae &amp; speciei quae omnino ide  
+        <lb ed="#Ba" n="37"/>ipsum sunt re ratione &amp; intentione, communicatione: quae non potest fieri nisi per relatiuam dili 
+        <lb ed="#Ba" n="38"/>ctionem: vt in deo impossibile sit ponere rationem suppositi nisi relatiui, vt exponendum est loco suo. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1904">
+        <lb ed="#Ba" n="39"/>⁋ Ad id quod arguitur secundo, quod deo non conuenit ratio praedicamenti substantiae: quia ei non conue 
+        <lb ed="#Ba" n="40"/>nit subsistere: quod est, propria ratio substantiae: dicendum quod substantia dicitur a subsistendo: &amp; hoc potest 
+        <lb ed="#Ba" n="41"/>esse vel in se vel sub altero stando. Secundum primum modum subsistere est essentiale praedicament 
+        <lb ed="#Ba" n="42"/>substantiae: &amp; non potest non conuenire substantiae creatae inquantum substantia est. Vnde conuenito 
+        <lb ed="#Ba" n="43"/>substantiae creatae: etiam si aliqua esset absoluta ab omni accidente. Subsistere vero secundo mo- 
+        <lb ed="#Ba" n="44"/>do potest esse dupliciter, vel accidenti, vel superiori in linea. Primo modo accidentale est praedicam 
+        <lb ed="#Ba" n="45"/>to substantiae: sicut accidentale est ei quod ei inhaerent praedicamenta accidentium. Secundo modog 
+        <lb ed="#Ba" n="46"/>nerale est omni praedicamento praeterquam generalissimo in eo. Et primus modus subsistendi ( vt dictum 
+        <lb ed="#Ba" n="47"/>est) verissime deo convenit. Secundo autem modo, de quo procedit argumentum, nullo modo eiconm 
+        <lb ed="#Ba" n="48"/>uenit: &amp; forte ab illo facta est impositio nominis praedicamenti substantiae. Propter quod licet deus se 
+        <lb ed="#Ba" n="49"/>cundum primam proprietatem rei subiectae verissime dicitur substantia, secundum proprietatem 
+        <lb ed="#Ba" n="50"/>tamen nominis a qua ipsum nomen imponitur, substantia proprie dici non potest. dicente Augustius 
+        <lb ed="#Ba" n="51"/>vii. de triniitate. ca. 4. Sicut ab eo quod est esse appellatur essentia: ita ab eo quod est subsistere substantiam di 
+        <lb ed="#Ba" n="52"/>cimus. Absurdum est autem vt substantia relatiue dicatur. omnis enim res ad seipsam subsistit: quanto 
+        <lb ed="#Ba" n="53"/>magis deus: Si tamen dignum est, vt dicatur deus subsistere. De his enim rebus recte intelligitur, in quicus 
+        <lb ed="#Ba" n="54"/>subiectis sunt quae in aliquo subiecto esse dicuntur: sicut color aut forma in corpore, &amp; caetera. 
+        <lb ed="#Ba" n="55"/>Vnde propter proprietatem rei dicit <name ref="#Augustine">Augustinus</name> v. de triniitate. ca. ii. Est sine dubitatione substantia. Et rr 
+   <!--420.xml-->
+        <pb ed="#Ba" n="203-r"/>
+        <lb ed="#Ba" n="1"/>pter improprietatem nominis subiungit. Vel si melius appelletur essentia, quam graeci vsian vocant. 
+        <lb ed="#Ba" n="2"/>Si tamen (vt ait in eodem) non translatiue ac per similitudinem, sed proprie de illo aliquid dici ore homi 
+        <lb ed="#Ba" n="3"/>nis potest. Tertio similiter modo non potest dici subsistere: quia non est in praedicamento, vt visum 
+        <lb ed="#Ba" n="4"/>est supra. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1960">
+        ⁋ Quia arguitur quod in deo sit solum ratio substantiae: quia esse in se vel in alio diuidunt to 
+        <lb ed="#Ba" n="5"/>tum ens: &amp; deus nullo modo habet esse in alio: sed tantum in se: &amp; haec est ratio substantiae: dicendum quod 
+        <lb ed="#Ba" n="6"/>hoc verum est secundum intentionem philosophorum qui praedicamentum relationis numerauerunt 
+        <lb ed="#Ba" n="7"/>inter praedicamenta accidentium: quia secundum eos relatio secundum esse nulla est nisi fundata in ali 
+        <lb ed="#Ba" n="8"/>quo accidente substantiae. Propter quod etiam relatio accidit substantiae: sicut similitudo fundatur su- 
+        <lb ed="#Ba" n="9"/>per albedinem. Relationem autem nullam realem fundari dixerunt super substantiam: sed omnem 
+        <lb ed="#Ba" n="10"/>relationem fundatam super substantiam, vt est relatio identitatis &amp; diuersitatis in substantia, dicebant 
+        <lb ed="#Ba" n="11"/>relationem esse secundum dici. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e1978">
+        ⁋ Secundum veriorem autem sententiam Theologorum qui ve- 
+        <lb ed="#Ba" n="12"/>ram relationem realem fundari vident in diuinis personis super substantiam absque omni accidente, esse in  
+        <lb ed="#Ba" n="13"/>se vel in alio non diuidunt totum ens: sed est tertium membrum quod est esse ad aliud, vt praedicamentum 
+        <lb ed="#Ba" n="14"/>relationis distinguatur contra praedicamentum substantiae &amp; contra praedicamenta accidentium quan- 
+        <lb ed="#Ba" n="15"/>tum ad suam, propriam rationem, quae est alia a ratione accidentis vt accidens est: &amp; substantiae vt substan- 
+        <lb ed="#Ba" n="16"/>tia est: licet in creaturis (in quibus solis Philosophi ponebant esse praedicamentum relationis &amp; re- 
+        <lb ed="#Ba" n="17"/>lationem secundum esse) secundum ipsos philosophous incidat inter praedicamenta accidentium. Quorum opinionem Arriani 
+        <lb ed="#Ba" n="18"/>in hoc tenentes probare nitebantur in deo distinctionem personarum esse secundum substantiam non secun 
+        <lb ed="#Ba" n="19"/>dum relationem: quia in deo nullum cadit accidens. Arguebant enim sic, vt dicit Augustius v. de trinitate. ca. 
+        <lb ed="#Ba" n="20"/>iii. Quicquid de deo dicitur vel intelligitur, non secundum accidens sed secundum substantiam dicitur. Quapro 
+        <lb ed="#Ba" n="21"/>pter ingenitum esse est patri secundum substantiam, &amp; genitum esse filio secundum substantiam est 
+        <lb ed="#Ba" n="22"/>diuersum autem est genitum esse: &amp; ingenitum esse: diuersa est ergo substantia patris &amp; filii. Vbi <name ref="#Augustine">Augustinus</name>  
+        <lb ed="#Ba" n="23"/>postquam ex medio eorum quo supponebant de deo nihil dici posse nisi secundum substantiam vel secun 
+        <lb ed="#Ba" n="24"/>dum accidens arguit contra eos cap. 4. &amp; probat quod nihil de deo possit dici secundum accidens: quia 
+        <lb ed="#Ba" n="25"/>in eo nullum omnino cadit accidens: &amp; in fine respondendo formae argumenti eorum dicit. Nihil 
+        <lb ed="#Ba" n="26"/>in eo secundum accidens dicitur: quia nihil ei accidit: nec tamen omne quod dicitur, secundum 
+        <lb ed="#Ba" n="27"/>substantiam dicitur. In rebus enim creatis atque mutabilibus quod non secundum substan- 
+        <lb ed="#Ba" n="28"/>tiam dicitur restat vt secundum accidens dicatur. omnia enim accidunt eis quae vel amitti pos- 
+        <lb ed="#Ba" n="29"/>sunt vel minui: &amp; magnitudines &amp; qualitates: &amp; quod dicitur ad aliquid, sicut amicitiae, propinquitates 
+        <lb ed="#Ba" n="30"/>seruitutes, similitudines, aequalitates: &amp; siqua huiusmodi sunt, &amp; situs &amp; habitus &amp; loca &amp; tempora 
+        <lb ed="#Ba" n="31"/>&amp; opea atque passiones. In deo autem nihil secundum accidens dicitur: quia nihil in eo mutabile est. 
+        <lb ed="#Ba" n="32"/>Nec tamen omne quod dicitur, secundum substantiam dicitur. dicitur enim ad aliquid: sicut pater ad filium 
+        <lb ed="#Ba" n="33"/>&amp; filius ad patrem: quod non est accidens. Si vero quid dicitur pater ad se diceretur non ad filium: &amp; quid  
+        <lb ed="#Ba" n="34"/>dicitur filius ad se diceretur non ad patrem: secundum substantiam diceretur &amp; ille pater &amp; ille 
+        <lb ed="#Ba" n="35"/>filius: sed quia pater non dicitur pater nisi ex eo quod est ei filius: &amp; filius non dicitur filius nisi ex eo 
+        <lb ed="#Ba" n="36"/>quod habet patrem: non secundum substantiam dicuntur haec: quia non quisquis eorum ad seipsum:  
+        <lb ed="#Ba" n="37"/>sed adinuicem atque ad alterum ista dicuntur: neque secundum accidens: quia &amp; quod dicitur pater &amp; quid  
+        <lb ed="#Ba" n="38"/>dicitur filius: aeternum atque immutabile est eis. Quamobrem quamuis diuersum sit patrem esse &amp; fi- 
+        <lb ed="#Ba" n="39"/>lium esse, non est tamendiuersa substantia: quia haec non secundum substantiam dicuntur: sed secun- 
+        <lb ed="#Ba" n="40"/>dum relationem: quod tamen relatiuum non est accidens: quia non est mutabile. Vnde concludit 
+        <lb ed="#Ba" n="41"/>duos modos praedicandi, secundum substantiam scilicet &amp; relationem, semper accipiendos esse in diuinis:  
+        <lb ed="#Ba" n="42"/>iuxta quod supra determinauimus rationes duorum praedicamentorum, substantiae scilicet &amp; relationis, ma 
+        <lb ed="#Ba" n="43"/>nere in deo. Dicit ergo ca. viii. Quapropter illud praecipue teneamus: quicquid ad se dicitur praestantissi 
+        <lb ed="#Ba" n="44"/>ma illa &amp; diuina trinitas, substantialiter dici: quod autem ad aliquid, non substantialiter sed relatiue. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e2055">
+        <lb ed="#Ba" n="45"/>⁋ Quod arguitur, quod non solum ratio substantiae &amp; relationis in deo cadant: sed etiam actionis: quia quod 
+        <lb ed="#Ba" n="46"/>ad faciendum attinet, fortasse de solo deo dicitur: Dicendum quod verum est secundum naturam rei 
+        <lb ed="#Ba" n="47"/>quae est principium a quo est actio: quia ipse solus facit ita quod non sit: &amp; in omnibus quaecunque fiunt, 
+        <lb ed="#Ba" n="48"/>ipse principaliter agit &amp; immediate: sed in quibusdam natura coagit: sicut eius instrumentum. 
+        <lb ed="#Ba" n="49"/>propter quod apposuit fortassis. Et hoc modo concessum est quod res actionis proprie de deo dicitur 
+        <lb ed="#Ba" n="50"/>quo ad naturam rei scilicet, nullo autem modo quo ad rationem praedicamenti actionis, vt supra exposi- 
+        <lb ed="#Ba" n="51"/>tum est. Nec loquitur ibi <name ref="#Augustine">Augustinus</name> de facere quantum ad praedicamenti rationem. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e2077">
+        ⁋ Ad illud 
+        <lb ed="#Ba" n="52"/>quod arguitur, quod ratio praedicamenti actionis debet cadere in deo: quia puram rationem respe 
+        <lb ed="#Ba" n="53"/>ctus dicit in agente: dicendum secundum <name ref="#Aristotle">Philosophum</name> in primo &amp; decimo Ethico. quod est quae- 
+        <lb ed="#Ba" n="54"/>dam actio quae est operatio manens in operante: &amp; talis est omnis diuina actio inquantum actio 
+        <lb ed="#Ba" n="55"/>est: &amp; est aeterna &amp; manens semper: quia non est nisi sua substantia: qualis non conuenit alicui 
+   <!--421.xml-->
+        <pb ed="#Ba" n="203-v"/>
+        <lb ed="#Ba" n="1"/>creaturae. Est autem alia actio quae est factio alicuius in ipso agente quod accidentale est substantiae 
+        <lb ed="#Ba" n="2"/>agentis: vt est omnis illa actio quam <name ref="#Aristotle">Philosophus</name> appellat operationem: cuiusmodi actio secundum <name ref="#Aristotle">Philosophum</name> 
+        <lb ed="#Ba" n="3"/>est opus beatitudinis. &amp; haec non convenit aliquo modo deo. Alia vero actio est quae est factio alicu 
+        <lb ed="#Ba" n="4"/>ius extra agentem per motum qui fiuit ab agente in passum. haec est actio quae pertinet ad praedi- 
+        <lb ed="#Ba" n="5"/>camentum actionis: qua deus agit de nouo ex tempore non per aliquam transmutationem suam: 
+        <lb ed="#Ba" n="6"/>quia non est huiusmodi actio re alid a sua actione aeterna intra: sed dicitur noua inquantum secundum determi- 
+        <lb ed="#Ba" n="7"/>nationem per eius voluntatem antiquam &amp; aeternam nouus effectus prosilit in creatura: quae statim 
+        <lb ed="#Ba" n="8"/>realem respectum ex hoc habet ad deum: &amp; deus econuerso respectum secundum rationem solum 
+        <lb ed="#Ba" n="9"/>ad creaturam, quo de nouo dicitur creare vel facere aliquid: &amp; esse creator vel dominus. Quia si crea- 
+        <lb ed="#Ba" n="10"/>turam fieri de nouo a deo non ponit aliquam realem transmutationem in ipsa creatura, non perti 
+        <lb ed="#Ba" n="11"/>net adhuc huiusmodi actio ad praedicamentum relationis: quia illa actio quae pertinet ad praedicamentum actionis 
+        <lb ed="#Ba" n="12"/>non fundatur nisi in motu, vt dictum est. Si vero dicat aliquam realem transmutationem in ipsa re 
+        <lb ed="#Ba" n="13"/>creata: aut si agat mouendo corpus aliquod localiter vel aliquo alio modo: quemadmodum mouentia 
+        <lb ed="#Ba" n="14"/>mota mouent naturalia: tunc huiusmodi actio tam in deo quam in creaturis pertinet ad praedicamentum actionis: &amp; 
+        <lb ed="#Ba" n="15"/>habet realitatem &amp; accntalitatem suam totam in passo per motum vt in quo fundatur: per quem motum passum realiter 
+        <lb ed="#Ba" n="16"/>refertur ad agentem: non autem econverso. &amp; hoc tam in agente naturali quam supernaturali. Et semper secundum realitatem 
+        <lb ed="#Ba" n="17"/>suam praedicamentum actio &amp; passio non habent esse nisi in passo. Propter quod dicit <name ref="#Aristotle">Philosophus</name> in x. physii. quod  
+        <lb ed="#Ba" n="18"/>actio est actus huius in hoc: &amp; quod agens denominatur ab eo quod realiter est in alio. Vnde quia actio quae 
+        <lb ed="#Ba" n="19"/>est in deo abintra, non fundatur super motum, illa nullo modo neque respectus quem importat pertinet 
+        <lb ed="#Ba" n="20"/>ad praedicamentum actionis: &amp; cum hoc relatio de praedicamento actionis vt pura est, cum tranffertur in deum ca 
+        <lb ed="#Ba" n="21"/>dit in rationem communem relationis quae continet respectum septem praedicamentorum secundum deter- 
+        <lb ed="#Ba" n="22"/>minationem suprahabitam. Et secundum hoc ratio praedicamenti actionis vt actionis non cadit in  
+        <lb ed="#Ba" n="23"/>deo nisi sub ratione communis relationis: sicut neque etiam, propria ratio vel relatio praedicamenti relationis, vt est 
+        <lb ed="#Ba" n="24"/>vnum praedicamentorum in creaturis. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e2157">
+        ⁋ Ad aliud, quod praedicamentum relationis aut ratio eius non po- 
+        <lb ed="#Ba" n="25"/>test esse in deo: quia habet esse debile: Dicendum quod illud non intelligitur nisi quo ad suam realitatem 
+        <lb ed="#Ba" n="26"/>&amp; accntalitatem: quia non habet eam nisi per aliquid super quod fundatur vt dictum est. Ratione autem respectus sima 
+        <lb ed="#Ba" n="27"/>pliciter non habet esse debile sed forte. Est enim ita verum esse in genere suo ad aliud esse, quantum in genere suo 
+        <lb ed="#Ba" n="28"/>secundum se absolute esse. 
+      </p>
+      <p xml:id="vn58an-d1e2313-d1e2168">
+        ⁋ Ad vltimum quod ratio substantiae cum sit minime dependens: &amp; ra 
+        <lb ed="#Ba" n="29"/>tio relationis cum sit maxime dependens: non possunt esse simul in eodem: dicendum quod aliud est re- 
+        <lb ed="#Ba" n="30"/>latio siue respectus, aliud vero dependentia: &amp; accidit relationi dependentia propter debile esse su- 
+        <lb ed="#Ba" n="31"/>per quod fundatur: qualem habet creatura ad deum comparata. Ex natura autem relationis vel respe 
+        <lb ed="#Ba" n="32"/>ctus simpliciter nullam rationem dependentiae ab alio dicit: sed solum esse ad aliud: nec vllo modo 
+        <lb ed="#Ba" n="33"/>repugnat ei quod est in se esse: immo summe congruit ei, quanto enim aliquid in natura &amp; essen- 
+        <lb ed="#Ba" n="34"/>tia sua magis est absolutum, tanto minus est dependens ab alio: &amp; magis alia dependent ab ipso: 
+        <lb ed="#Ba" n="35"/>ita quod illud quod est summe absolutum &amp; purum esse simplicissimum, vt est deus, ab eo omnia alia 
+        <lb ed="#Ba" n="36"/>in suo esse habent dependentiam: &amp; omnia realem respectum ad ipsum: &amp; ipse econuerso respect 
+        <lb ed="#Ba" n="37"/>rationis ad illa: ita quod ad plura vel plures respectus habet quam omnia alia: &amp; non solum ad ea quae sunt 
+        <lb ed="#Ba" n="38"/>extra ipsum: immo propter simplicitatem &amp; puritatem &amp; absolutionem esse eius, habet in seipso 
+        <lb ed="#Ba" n="39"/>tales respectus, quales in nulla creatura possunt inueniri: vt sunt respectus personales, vt infra videbitur
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

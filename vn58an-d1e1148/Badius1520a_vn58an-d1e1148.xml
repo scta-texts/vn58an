@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="92-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1148"> <!-- alias="vn58an-a13q4" -->
+      <head xml:id="vn58an-d1e1148-Hd1e104">Quaestio 4</head>
+      <head xml:id="vn58an-d1e1148-Hd1e107" type="question-title">Utrum ad eam discendam sufficiat lumen fidei</head>
+      <p xml:id="vn58an-d1e1148-d1e110">
+        <lb ed="#Ba" n="42"/>CIrca quartum arguitur: quod ad istam scientiam discendam non sufficit lumen fidei. Primo sic. 
+        <lb ed="#Ba" n="43"/>quoniam si solo lumie fidei sufficienter disci posset, ergo plus pollens fide plus proficeret 
+        <lb ed="#Ba" n="44"/>discendo hanc scientiam: quia posita causa necesse est poni effectum. Consequens falsum est 
+        <lb ed="#Ba" n="45"/>secundum <name ref="#Augustine">Augustinus</name> xiiii. de Tri. capitulo i. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1148-d1e124">
+        ⁋ In oppositum videtur esse <name ref="#Augustine">Augustinus</name> qui dicit de 
+        <lb ed="#Ba" n="46"/>doctrina christiana ii. Sacra scriptura non asserit nisi fidem. nihil autem discendum 
+        <lb ed="#Ba" n="47"/>in scientia nisi quod asserit. ergo in hac scientia nihil discendum est nisi fides. illa 
+        <lb ed="#Ba" n="48"/>discitur solo lumine fidei. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1148-d1e137">
+        <lb ed="#Ba" n="49"/>⁋ Dicendum ad hoc: quod ista scientia cum sit homini de necessitate salutis, est ei necessa 
+        <lb ed="#Ba" n="50"/>ria: non solum eam sic recipere vt veritati credibilium assentiat: sed etiam sic eam percipere: vt veritatem cre- 
+        <lb ed="#Ba" n="51"/>dibilium piis opitulari: &amp; contra impios ab omni falsitate defensare sciat. Primum necessarium est cuilibet. Se 
+        <lb ed="#Ba" n="52"/>cundum est necessarium solum maioribus &amp; superioribus in ecclesia: vt dictum est supra de auditore huius scientiae 
+        <lb ed="#Ba" n="53"/>nisi enim per maiores piis credibilia exponerentur &amp; suaderentur: ac contra aduersarios defenderetur: de faci 
+        <lb ed="#Ba" n="54"/>li a cordibus infirmorum fides periclitaretur. Vnde diuina sapientia quae clara notitia visionis ex euidentia rerum no 
+        <lb ed="#Ba" n="55"/>uit ea quae sunt credenda: &amp; quomodo piis debent opitulari: &amp; quomodo contra aduersarios defendi  
+   <!--200.xml-->
+        <pb ed="#Ba" n="93-r"/>
+        <lb ed="#Ba" n="1"/>X <!-- problem here ? -->
+        <lb ed="#Ba" n="2"/>possunt ab omni falsitate, iuxta duo opera sapientis: quae sunt: non mentiri de quibus nouit: &amp; men 
+        <lb ed="#Ba" n="3"/>tientem posse manifestare: ea dupliciter homini dignata est reuelare: &amp; ipsum in eisdem sapientem 
+        <lb ed="#Ba" n="4"/>posse facere. vno videlicet modo veritates credibilium homini indicando: ne omnino in eis mentiatur ap- 
+        <lb ed="#Ba" n="5"/>prehendendo credibile, sicut est in rei veritate. Secundo modo veritates credibilium dilucidando: ne 
+        <lb ed="#Ba" n="6"/>in eis vllo modo vacillet ea aliis suadendo: &amp; contra alios defendendo. Ad sciendum credibilia quae sunt 
+        <lb ed="#Ba" n="7"/>huius scientiae primo modo &amp; ad eam addiscendam sufficit solum lumen fidei: quia sic sciuntur 
+        <lb ed="#Ba" n="8"/>credendo solum. Ad sciendum vero ea secundo modo: &amp; ad sic addiscendum hanc scientiam, necessario re- 
+        <lb ed="#Ba" n="9"/>quiritur illustratio aliqua superior illustratione fidei: quia hoc modo sciuntur non solum credendo:  
+        <lb ed="#Ba" n="10"/>sed &amp; credita intelligendo. vt infra videbitur. Et sicut primum fit auctoritate scripturae acquiescen- 
+        <lb ed="#Ba" n="11"/>do adiutorio luminis fidei: sic sit secundum veritatem scriptorum percipiendo adiutorio alicuius 
+        <lb ed="#Ba" n="12"/>illustrationis superioris. de qua dicit <name ref="#Augustine">Augustinus</name> contra epistolam fundamenti. Quod credimus intelligere me- 
+        <lb ed="#Ba" n="13"/>reamur: non iam hominibus sed ipso deo intrinsecus mentem nostram illustrante atque firmante. Hos 
+        <lb ed="#Ba" n="14"/>duos modos sciendi credibilia huius scientiae distinguit <name ref="#Augustine">Augustinus</name> cum dicit. xiiii. de trinitate. c. i. Aliud est sci 
+        <lb ed="#Ba" n="15"/>re tantummodo quid homo credere debeat propter adipiscendam vitam beatam. Aliud vero scire 
+        <lb ed="#Ba" n="16"/>quoniam hoc ipsum scire &amp; piis opitulatur: &amp; contra malos &amp; impios defenditur. Qua scientia non pol 
+        <lb ed="#Ba" n="17"/>lent fideles plurimi: quamuis polleant ipsa fide plurimum, quam vt ait Augu. ibidem, Apostolus scientiam 
+        <lb ed="#Ba" n="18"/>appellare videtur cum dicit. i. Corith. xii. Alii quidem per spiritum datur sermo sapientiae: alii sermo scien- 
+        <lb ed="#Ba" n="19"/>tiae: alii fides. Glosid i. de diuinis intelligentia: scientia de humanis: fidei constantia. Sicut ergo haec con 
+        <lb ed="#Ba" n="20"/>stantia fidei quod est donum gratis datum, differt a fide quae est virtus, in eo quod ipsa datur dono ali-  
+        <lb ed="#Ba" n="21"/>quo superiori: sic notitia quae scientia vel sapientia est huius scientiae necessario differt a notitia 
+        <lb ed="#Ba" n="22"/>fidei: ita quod illustratione aliqua superiori datur quam habeatur ex notitia fidei: &amp; scire hanc intelligendo  
+        <lb ed="#Ba" n="23"/>eam tali illustratione, hoc est proprie scire eam. 
+      </p>
+      <p xml:id="vn58an-d1e1148-d1e217">
+        <lb ed="#Ba" n="24"/>⁋ Per haec patet obiectum in oppositum, quod haec scientia non asserit nisi fidem. Dicem 
+        <lb ed="#Ba" n="25"/>dum quod verum est: quia non asserit nisi ea quae sunt fidei. sed ea quae sunt fidei, cognosci possunt discer 
+        <lb ed="#Ba" n="26"/>nendo quae credenda sunt: &amp; quae non. quod potest fieri solo lumine fidei, vel conspiciendo quomodo ea piis 
+        <lb ed="#Ba" n="27"/>opitulari debent: &amp; contra impios defensari: ad quod necessario requiritur illustratio superior illustra 
+        <lb ed="#Ba" n="28"/>tione fidei: sicut est superior cognitio.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

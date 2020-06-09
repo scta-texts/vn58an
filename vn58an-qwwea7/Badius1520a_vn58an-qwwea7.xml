@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwea7"> <!-- alias="vn58an-a7prae" -->
+      <head xml:id="vn58an-qwwea7-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwea7-d1e107">
+        ⁋ Arti. VIl. De Theologia in comparatione ad alias scientias. 
+        <lb ed="#Ba" n="14"/>SEquuntur quaerenda circa theologiam in comparatione ad alias 
+        <lb ed="#Ba" n="15"/>scientias. vbi sunt inquirenda. xiii. 
+        <lb ed="#Ba" n="16"/>rimum: vtrum theologia sit scientia distincta ab aliis scientiis. 
+        <lb ed="#Ba" n="17"/>cundum: vtrum sit certissima scientiarum. 
+        <lb ed="#Ba" n="18"/>ertium: vtrum sit vniversalis super alias. Quartum: vtrum subalternet sibi alias, 
+        <lb ed="#Ba" n="19"/>uintum: vtrum subalternetur alicui aliarum. 
+        <lb ed="#Ba" n="20"/>Sextum: vtrum sit principalis super omnes alias scientias. 
+        <lb ed="#Ba" n="21"/>Septimum, vtrum sit prima omnium scientiarum. 
+        <lb ed="#Ba" n="22"/>Octauum: vtrum omnes aliae scientiae ordinentur ad eam. 
+        <lb ed="#Ba" n="23"/>Nonum: vtrum in vsum suum habeat assumere exquisita in aliis scientiis. 
+        <lb ed="#Ba" n="24"/>Decimum: vtrum aliae scientiae sint addiscendae ad vsum istius. 
+        <lb ed="#Ba" n="25"/>Vndecimum: vtrum in vsum suum habeat assumere quaecumque sunt determinata in aliis scientiis. 
+        <lb ed="#Ba" n="26"/>Duodecimum: vtrum omnes scientiae aequalem vsum habeant ad istam. 
+        <lb ed="#Ba" n="27"/>Decimuntertium: vtrum aliae scientiae concordent veritati huius scientiae &amp; econuerso.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

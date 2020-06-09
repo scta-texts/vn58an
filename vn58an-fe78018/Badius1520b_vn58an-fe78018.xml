@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="285-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe78018"> <!-- alias="vn58an-a74q5" -->
+      <head xml:id="vn58an-fe78018-Hd1e104">Quaestio 5</head>
+      <p xml:id="vn58an-fe78018-d1e107">
+        <lb ed="#Bb" n="5"/>CIrca Quintum arguitur quod in diuinis non possit esse praedicatio priuatiua, Prim o 
+        <lb ed="#Bb" n="6"/>sic. Secundum <name ref="#Aristotle">Philosophum</name> in iiii. Metaph. haec est differentia inter priuationem &amp; negatio- 
+        <lb ed="#Bb" n="7"/>nem, quod priuatio determinat sibi subiectum in quo natus est esse habitus. vnde pri- 
+        <lb ed="#Bb" n="8"/>uatio est negatio non nisi in subiecto determinato scilicet in quo natus est esse habi 
+        <lb ed="#Bb" n="9"/>uatus qui priuatur. Negatio autem non determinat sibi subiectum. Propter quod de quo  
+        <lb ed="#Bb" n="10"/>libet affirmatio vel negatio: non autem de quolibet habitus vel priuatio. &amp; ad  
+        <lb ed="#Bb" n="11"/>priuationem sequitur negatio: vt est iniustus, ergo non est iustus, &amp; non econverso 
+        <lb ed="#Bb" n="12"/>non est iustus: ergo est iniustus. Sed in deo non potest cadere priuatio alicuius habitus existentis in eo 
+        <lb ed="#Bb" n="13"/>aut nati existere. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe78018-d1e132">
+        ⁋ Secundo sic. sicut se habet affirmatio ad affirmatum: sic se habet priua a 
+        <lb ed="#Bb" n="14"/>tio ad priuari. Sed non est in diuinis praedicatio affirmatiua aliqua nisi affirmatiua in esse sit in 
+        <lb ed="#Bb" n="15"/>diuinis: quare cum priuatum in praedicationibus priuatiuis: puta cum dicitur deus infinitus aut immorta 
+        <lb ed="#Bb" n="16"/>lis: finitas aut mortalitas quae priuatur non est in deo: sed in creaturis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe78018-d1e141">
+        ⁋ In contrarium est quod l 
+        <lb ed="#Bb" n="17"/>praedicatio quae non est nisi ad aliquid excludendum a subiecto, priuatiua est. talis est praedicatio de 
+        <lb ed="#Bb" n="18"/>diuinis vnitatis &amp; terminorum numeralium, vt tactum est supra, quaestione vltima articuli praecedentis 
+        <lb ed="#Bb" n="19"/>in argumento secundo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe78018-d1e151">
+        ⁋ lterum, non plus repugnat diuinis praedicatio priuatiua quam nomi a 
+        <lb ed="#Bb" n="20"/>natio priuatiua: quia nomen rei praedicabile est. sed deo non repugnat nominatio priuatiua: quia in  
+        <lb ed="#Bb" n="21"/>diuinis sunt nominia priuatiua, vt habitum est supra, quaestione vltima articuli praecedentis. ergo &amp;c. 
+        <lb ed="#Bb" n="22"/>
+      </p>
+      <p xml:id="vn58an-fe78018-d1e160">
+        ⁋ Dico iuxta id quod tangitur in secundo argumento, quod sicut non dicitur proprie 
+        <lb ed="#Bb" n="23"/>praedicatio affirmatiua siue affirmatio aliqua esse in diuinis nisi illa quae est indicatiua de deo eius 
+        <lb ed="#Bb" n="24"/>quod est intra: Sic nec priuatiua praedicatio siue priuatio est, proprie in deo nisi sit eius quod est in-  
+        <lb ed="#Bb" n="25"/>tra ipsum. Quia igitur in deo nulla potest cadere priuatio alicuius quod est in eo: dico quod in deo  
+        <lb ed="#Bb" n="26"/>nulla omnino potest esse praedicatio priuatiua, vt videlicet praedicatum ab aliqua priuatione eius 
+        <lb ed="#Bb" n="27"/>quod est in deo, imponatur: &amp; per hoc praedicatione priuatiua de deo praedicetur. Sed siquod praedicatum pri 
+        <lb ed="#Bb" n="28"/>uatiuum de deo praedicatur: oportet quod illa priuatio sit eius quod est extra: &amp; necesse est quod illud quod pri- 
+        <lb ed="#Bb" n="29"/>uatur sit indignitatis circa creaturas: &amp; hoc vel simpliciter &amp; absolute, vt sunt finitum, corru 
+        <lb ed="#Bb" n="30"/>ptibile, mortale, &amp; huiusmodi: aut respectu alicuius, vt visibile, comprehensibile: a visu scilicet &amp; noti 
+        <lb ed="#Bb" n="31"/>tia creaturae: quae cum appositione priuatiuae particulae ad diuina tranfferuntur: &amp; hoc non vt stetur 
+        <lb ed="#Bb" n="32"/>in remotione eius quod imperfectionis est in creaturis: sed vt per talem priuationem &amp; remotionem in-  
+        <lb ed="#Bb" n="33"/>sinuetur verissimum positiuum, quod praedicatione talis priuationis insinuatur praedicari de subiecto, per 
+        <lb ed="#Bb" n="34"/>illam scilicet praedicationem de priuato praedicato insinuando affirmatiuam de praedicato verissime positiuo 
+        <lb ed="#Bb" n="35"/>Et hoc quemadmodum per negatiuas insinuantur affirmatiuae metaphorice, vt dictum est in secunda quae- 
+        <lb ed="#Bb" n="36"/>stione praecedente: licet multum diuersimode, vt patebit in quaestione sequente. Et hoc quia sic per priua 
+        <lb ed="#Bb" n="37"/>tiuas sicut &amp; per negatiuas non quod deus est: sed solummodo quid non est significatur. Dicente loanne 
+        <lb ed="#Bb" n="38"/>Scoto super cap. ii. Caelest. Hierar. Dum inuisibilis &amp; infinita &amp; incomprehensibilis cogitatur: non quod ipsa 
+        <lb ed="#Bb" n="39"/>est significat: Non enim inuisibilitas &amp; infinitas &amp; incomprehensibilitas essentia ipsa est: sed quod non  
+        <lb ed="#Bb" n="40"/>est ostendit scilicet significando quid re vera non ignoramus, sed scimus. Et sic diuinam infinitatem 
+        <lb ed="#Bb" n="41"/>inuisibilitatem, incomprehensibilitatem quo ad id quod nomen significat scimus quidem &amp; non ignora- 
+        <lb ed="#Bb" n="42"/>mus: sed quid quod insinuat quo ad positiuum quod est ipsa diuina substantia, penitus ignoramus:  
+        <lb ed="#Bb" n="43"/>quia non est secundum aliquid eorum quae sunt in creaturis: &amp; ideo ex illis non potest plene sciri nec 
+        <lb ed="#Bb" n="44"/>exprimi per affirmationes &amp; positiones: quae non nisi in ratione generalis attributi significant 
+        <lb ed="#Bb" n="45"/>&amp; hoc quo ad aliquid eius: non quo ad totum, vt dictum est supra in quaestione secunda huius arti 
+        <lb ed="#Bb" n="46"/>culi, ab Hugone. Et quia quid sic insinuat priuatio, nobis ignotum est: Vt enim dicit Dionysius, 
+        <lb ed="#Bb" n="47"/>lgnoramus autem superessentialem, &amp; inuisibilem, &amp; ineffabilem infinalitatem: Scimus ergo diuinam 
+        <lb ed="#Bb" n="48"/>infinalitatem, &amp; eandem ignoramus. Scimus scilicet quo ad id quod non est quod significat. Ignoramus au 
+        <lb ed="#Bb" n="49"/>tem quo ad id quod est quod insinuat. Et quia non est proprie praedicatio priuatiua in aliqua natu 
+        <lb ed="#Bb" n="50"/>ra nisi praedicando priuetur quod inest vel natum sit inesse subiecto: concedendum igitur quod in diuinis 
+        <lb ed="#Bb" n="51"/>non est proprie praedicatio priuatiua: vt ostendunt duo prima obiecta. Est tamen in illis quoquo modo  
+        <lb ed="#Bb" n="52"/>vt ostendunt duo obiecta in contrarium. 
+        <lb ed="#Bb" n="53"/>
+      </p>
+      <p xml:id="vn58an-fe78018-d1e230">
+        ⁋ Quod ergo primo arguitur, quod in deo non potest esse priuatio: quia nec negatio  
+        <lb ed="#Bb" n="54"/>alicuius habitus qui est in ipso: Dico quod verum est secundum tacta: quod non est ista priuatio eius quod est p 
+   <!--585.xml-->
+        <pb ed="#Bb" n="285-v"/>
+        <lb ed="#Bb" n="1"/>in deo, vel natum est esse in eo: sed solummodo eius quod est defectus in alio. Per cuius priuationem 
+        <lb ed="#Bb" n="2"/>a contrario infinuatur positio supeminens: vt in sequenti quaestione declarabitur. Qualem positionem nec 
+        <lb ed="#Bb" n="3"/>significare posset nec insinuare circa subiectum in quo est positiuum: quia illa priuatio circa illud  
+        <lb ed="#Bb" n="4"/>subiectum aut est pura priuatio, &amp; nullo modo contrarium: quia habitum contrarium non ponit: vt est 
+        <lb ed="#Bb" n="5"/>caecitas in oculo, aut priuatio contraria: quia priuando vnum habitum, contrarium ponit: non contrarium 
+        <lb ed="#Bb" n="6"/>simpliciter: sicut album est contrarium nigro: sed defectiuum: sicut iniustum est contrarium iusto. Et de ta 
+        <lb ed="#Bb" n="7"/>libus priuationibus loquitur philosophus quando dicit quod priuatio est negatio in subiecto determinato:  
+        <lb ed="#Bb" n="8"/>quare nulla potest esse in deo: quare nec nomen significans eam: nec praedicatio eam de subiecto enuncians 
+        <lb ed="#Bb" n="9"/>Est tamen in eo &amp; significando &amp; praedicando priuatio communiter dicta. scilicet priuans quod est diminutum po- 
+        <lb ed="#Bb" n="10"/>sitiuum in alio, vt dictum est. &amp; per hoc illa priuatio in deo quodammodo est priuatio priuationis: &amp; 
+        <lb ed="#Bb" n="11"/>sic non est simpliciter priuatio. 
+      </p>
+      <p xml:id="vn58an-fe78018-d1e263">
+        ⁋ Ad secundum quod aliquid priuatum priuatione non potest esse in diuinis:  
+        <lb ed="#Bb" n="12"/>quare nec praedicatio positiua potest esse in diuinis: Dico quod verum est loquendo de priuatione dicta pro  
+        <lb ed="#Bb" n="13"/>prie, sicut tactum est. Vnde quod dicitur in diuinis esse nomen priuatiuum aut praedicatio priuatiua: hoc 
+        <lb ed="#Bb" n="14"/>non est nisi quia nomen priuatiuum aut praedicatum priuatiuum diuinis applicatur ad insinuandum eminens 
+        <lb ed="#Bb" n="15"/>positiuum, a quo deficit positiuum in creaturis quod nomine praedicati a deo priuatur: non ad significan 
+        <lb ed="#Bb" n="16"/>dum quod quid est aliquid existens in eo: sicut significant de creaturis priuationes: quae idcirco proprie 
+        <lb ed="#Bb" n="17"/>dicuntur esse in creaturis. Loquendo tamen de priuatione communiter dicta: illa bene est in diuinis, vt 
+        <lb ed="#Bb" n="18"/>dictum est. 
+      </p>
+      <p xml:id="vn58an-fe78018-d1e281">
+        ⁋ Ad primum in oppositum quod vnum &amp; numeralia nominia praedicantur in diuinis non nisi ad ali 
+        <lb ed="#Bb" n="19"/>quid remouendum: ergo praedicationes in quibus praedicantur sunt praedicationes priuatiuae: Dico quod in  
+        <lb ed="#Bb" n="20"/>nomine aliquid significante est duo considerare. scilicet ipsum significatum quo ad actum significandi ipsum 
+        <lb ed="#Bb" n="21"/>per nomen: &amp; quo ad vsum eius. Primo modo considerando vnum &amp; nomina numeralia: dico quod  
+        <lb ed="#Bb" n="22"/>sicut quod significant, positiue significant circa deum: &amp; nequaquam priuatiue: sic praedicantur 
+        <lb ed="#Bb" n="23"/>in diuinis praedicatione positiua: &amp; ad significandum quod est vere in deo. Vnum enim in deo si- 
+        <lb ed="#Bb" n="24"/>gnificat ens siue esse dei sub ratione simplicis. Et quia simplex non capimus nec intelligimus 
+        <lb ed="#Bb" n="25"/>nisi sub ratione priuationis diuisionis plurium quae sunt in esse multitudinis siue multi: ideo 
+        <lb ed="#Bb" n="26"/>dicimus quod vnum imponitur a ratione priuationis scilicet diuisionis: &amp; definientes vnum dicimus quod est ens 
+        <lb ed="#Bb" n="27"/>indiuisum: quae quidem priuatio non est nisi verae priuationis. Diuisio enim est vera priuatio sim 
+        <lb ed="#Bb" n="28"/>plicitatis: quam infinuamus cum dicimus quod vnum est ens indiuisum: &amp; quam vnum realiter significat 
+        <lb ed="#Bb" n="29"/>praecipue in deo: quia est summe vnus: in eo quod est summe simplex per carentiam omnis compositio- 
+        <lb ed="#Bb" n="30"/>nis, quae non est nisi plurium. Numerus autem vt cadit in diuinis non significat nisi talis vnius re 
+        <lb ed="#Bb" n="31"/>plicationem per defectum formae vnitatis alicuius a qua procedit numerus per illius diuisionem- 
+        <lb ed="#Bb" n="32"/>inde est quod de vna vnitate fiunt plures, vt contingit in numero qui est accidens &amp; quantitas:  
+        <lb ed="#Bb" n="33"/>sed per solam replicationem vnius vnitatis simplicis &amp; indiuisibilis diuinae essentiae in pluribus 
+        <lb ed="#Bb" n="34"/>relatis proprietatibus &amp; rationibus attributalibus. Vnde est alius numerus in diuinis ab illo quod 
+        <lb ed="#Bb" n="35"/>est quantitas molis in continuis: &amp; ab illo qui est quantitas virtutis in formis substantialibus ab  
+        <lb ed="#Bb" n="36"/>solutis. Secundo autem modo considerando vnum &amp; nomina numeralia: Dico quod licet non significant nisi 
+        <lb ed="#Bb" n="37"/>positione eius quod vere est positiue in deo: &amp; illud non nisi praedicatione positiua praedicatur: vtimur 
+        <lb ed="#Bb" n="38"/>tamen eis ad remouendum in praedicando. Licet enim significatio termini non sit nisi ad vnum in signi 
+        <lb ed="#Bb" n="39"/>ficando scilicet ad indicandum alteri rem quam significat: vsus tamen termini in praedicando est ad duo. Quo 
+        <lb ed="#Bb" n="40"/>rum vnum est indicare subiecto inesse rem quam significat praedicatum. Alterum ad discretionem aliquam 
+        <lb ed="#Bb" n="41"/>circa ipsum subiectum faciendam: &amp; hoc in remouendo suum oppositum a subiecto. Et est duplex op- 
+        <lb ed="#Bb" n="42"/>positum: quia vnum opponitur multo quod ponit plurium compositionem inter se: &amp; opponitur multis 
+        <lb ed="#Bb" n="43"/>siue multitudini quae ponit plurium diuisionem abinuicem: quia ambobus scilicet multo &amp; multis 
+        <lb ed="#Bb" n="44"/>opponitur simplicitas: quam in suo significato circa ens includit vnitas. Et primo modo discrete 
+        <lb ed="#Bb" n="45"/>dicitur deus vnus: quia non est multus per aliquam cempositionem ex pluribus in sua essentia: &amp; etiam 
+        <lb ed="#Bb" n="46"/>quia non sunt dii multi per deitatis in plures deos diuisionem: sicut posuerunt Semiarriani. Et 
+        <lb ed="#Bb" n="47"/>econuerso in deo est vsus termini numeralis ad excludendum suum contrarium. Pluralitati enim 
+        <lb ed="#Bb" n="48"/>quam significat opponitur solitudo. Et ideo ad illam excludendam a subiecto est vsus eius in praedicando  
+        <lb ed="#Bb" n="49"/>cum dicitur quod tres sunt personae: ad excludendum. scilicet quod non sit vnica tantum &amp; solitaria. Et conside 
+        <lb ed="#Bb" n="50"/>rantur illa duo scilicet significatio &amp; vsus circa illud nomen vnus quodammodo sicut &amp; circa hoc pro 
+        <lb ed="#Bb" n="51"/>nomen ego: quod respondetur ad significandum rem quam demonstrat: cum quaesito quis currit, 
+        <lb ed="#Bb" n="52"/>respondetur, ego. Exprimitur autem ad discretionem faciendam circa id quid demonstrat: remouen 
+        <lb ed="#Bb" n="53"/>do scilicet actum vel modum actus ab aliis a demonstrato: dicendo ego curro: insinuando quod nullus 
+        <lb ed="#Bb" n="54"/>alius currit: vel nullus alius ita bene. Non enim esset necessitas exprimendi tale pronomen cum 
+        <lb ed="#Bb" n="55"/>verbo primae personae: nisi esset necessitas faciendi talem discretionem. Secundum quem modum potius 
+   <!--586.xml-->
+        <pb ed="#Bb" n="286-r"/>
+        <lb ed="#Bb" n="1"/>tacendum esset quam exprimendum multa quae dicimus &amp; praedicamus de deo: nisi necessitatis coge 
+        <lb ed="#Bb" n="2"/>ret: vt supra, quaestione prima articuli praecedentis in fine quaestionis. Secundum quem etiam modum multa ex 
+        <lb ed="#Bb" n="3"/>primunt in praedicationibus circa deum non ad significandum aliquid: sed solummodo ad vsum exclu- 
+        <lb ed="#Bb" n="4"/>dendi aliquid quod haeretici inconvenienter aestimabant de deo. Sic enim ad excludendum deorum plu 
+        <lb ed="#Bb" n="5"/>ralitatem dictum est, vnus deus: &amp; ad excludendum diuinae personae solitudinem: dictum est, personae plu- 
+        <lb ed="#Bb" n="6"/>res: vt secundum hoc sit vsus horum terminorum priuatiuus siue exclusiuus: non autem significatio eorum.  
+        <lb ed="#Bb" n="7"/>Quod multi non discernentes, vsum credentes fuisse significationem: dixerunt &amp; male vnitatem &amp; ter- 
+        <lb ed="#Bb" n="8"/>minos numerales in diuinis nihil significare positiue: sed tantum priuatiue. Secundum quod idem dixerunt 
+        <lb ed="#Bb" n="9"/>de aequalitate in diuinis: cuius vsus est ad excludendum a diuinis personis maius siue magis &amp; 
+        <lb ed="#Bb" n="10"/>minus: licet hoc non sit significatio illius, vt supra declarauimus, loquendo de relationibus con- 
+        <lb ed="#Bb" n="11"/>munibus. Et ideo dico quod dicta Ambrosii assumpta in argumento explicant vsum vnitatis &amp;  
+        <lb ed="#Bb" n="12"/>numeralium terminorum: non autem significationem. Vnde Magister Sententiarum litrcid est dist. xxiiii. postquam quae- 
+        <lb ed="#Bb" n="13"/>siuit in cap.o i. cum in trinitate non sit diuersitas vel singularitas: nec multiplicitas, nec solitudo,  
+        <lb ed="#Bb" n="14"/>quid significetur istis nominibus: vnus vna: duo vel duae: consequenter respondet in cap. ii. dicens. Si 
+        <lb ed="#Bb" n="15"/>diligenter praemissis auctoritatum verbis intendamus: vt dictorum intelligentiam capiamus. quibus scilicet  
+        <lb ed="#Bb" n="16"/>ostenditur quod sancti necessitate coacti multa dixerunt de diuinis: alias celanda. vt. xxiii. dist. ca. 
+        <lb ed="#Bb" n="17"/>Qua necessitate. &amp; cap lam sufficienter. magis videtur horum verborum vsus introductus ratione re 
+        <lb ed="#Bb" n="18"/>mouendi atque excludendi a simplicitate deitatis quae ibi non sunt, quam ponendi aliqua. Et verum di-  
+        <lb ed="#Bb" n="19"/>xit: Tamen multi male eum intelligentes imponunt ei ibi vnum errorem, quod videlicet intendat po- 
+        <lb ed="#Bb" n="20"/>nere quod dicta nomina nihil in diuinis positiue significent: cum tamen hoc non dicat: sed solummodo quod  
+        <lb ed="#Bb" n="21"/>vsus illorum a sanctis contra haereticos est remouendi &amp; excludendi gratia: non autem ponendi ali- 
+        <lb ed="#Bb" n="22"/>uid. Et hunc vsum probat per dicta Ambrosii in argumento dicto &amp; aliorum in sequentibus capitulis 
+        <lb ed="#Bb" n="23"/>Vnde male secuti sunt talem regulam Magistri non attendentes verbis auctoritatum sanctorum &amp; di- 
+        <lb ed="#Bb" n="24"/>cti sui, vt ex eis caperent dictorum intelligentiam. 
+      </p>
+      <p xml:id="vn58an-fe78018-d1e420">
+        ⁋ Ad vltimum quod deo non repugnat nominatio priuati- 
+        <lb ed="#Bb" n="25"/>ua: quare nec praedicatio: Dico quod verum est vtrobique loquendo de priuatione secundum quid: quae aut  
+        <lb ed="#Bb" n="26"/>est priuatio priuationis, qualis priuatio significatur hoc nomine vnus secundum praedicta: aut est priuatio 
+        <lb ed="#Bb" n="27"/>eius quod est positiuum alicuius in alio habens rationem diminuti &amp; defectiui &amp; per hoc priuatiui, 
+        <lb ed="#Bb" n="28"/>ratione cuius priuatio eius recipitur in deo: qualis significatur his nominibus, immortalis, inuisibilis, 
+        <lb ed="#Bb" n="29"/>infinitus. secundum praedicta. Et sic priuatio in deo siue nominationis, siue praedicationis per haec nominia 
+        <lb ed="#Bb" n="30"/>non est nisi priuatio priuationis: per quam intenditur &amp; circumloquitur verissima positio excedens con- 
+        <lb ed="#Bb" n="31"/>ceptus intellectus creati. Loquendo autem vtrobique de priuatione vera &amp; simpliciter, quae circa subie 
+        <lb ed="#Bb" n="32"/>ctum non priuat nisi id quod est vere positiuum in ipso, non est verum. Immo omnis talis priuatio siue in  
+        <lb ed="#Bb" n="33"/>nomine siue in praedicatione repugnat deo, vt dictum est iam in hac quaestione de praedicatione priuatoria: &amp; 
+        <lb ed="#Bb" n="34"/>dictum est supra quaestione vltima articuli praecedentis de nominatione priuatoria, quae est causa praedicatio 
+        <lb ed="#Bb" n="35"/>nis priuatoriae: vt vna &amp; eadem difficultas sit in vtraque quaestione.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

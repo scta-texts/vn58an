@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="26-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe7023"> <!-- alias="vn58an-a47q3" -->
+      <head xml:id="vn58an-fe7023-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe7023-d1e107">
+        <lb ed="#Bb" n="42"/>CIrca tertium arguitur: quod deus non sit volens seipsum, Primo sic. voluntas est appetitus qui 
+        <lb ed="#Bb" n="43"/>dam. de ratione autem appetitus est quod sit respectu non habiti, possibilis tamen haberi. deo ergo  
+        <lb ed="#Bb" n="44"/>cum a seipso non potest esse non habitus, non convenit appetere seipsum, quare neque velle. 
+        <lb ed="#Bb" n="45"/>
+      </p>
+      <p xml:id="vn58an-fe7023-d1e118">
+        ⁋ Secundo sic. voluntas nihil vult nisi finem voluntatis, aut illud quod est ad finem: quia pluri  
+        <lb ed="#Bb" n="46"/>bus modis non habet aliquid rationem boni, &amp; non est voluntas nisi boni. deus autem non vult se si 
+        <lb ed="#Bb" n="47"/>cut finem, quia nihil est finis sibiipsi: neque sicut quod est ad finem, quia vltra ipsum nullus est 
+        <lb ed="#Bb" n="48"/>finis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe7023-d1e127">
+        ⁋ In contrarium est, quoniam voluntas bona vult quod simpliciter &amp; secundum omnem 
+        <lb ed="#Bb" n="49"/>respectum est bonum. aliter enim non esset bona: quia ex hoc voluntas est bona, quod velit bonum. vnde &amp; si 
+        <lb ed="#Bb" n="50"/>aliquod bonum non vult, hoc est quia secundum aliquem respectum &amp; ordinem habet rationem non boni, vt infra pate- 
+        <lb ed="#Bb" n="51"/>bit loquendo de voluntate dei respectu creaturarum. dei voluntas semper est bona. ergo &amp;c. 
+        <lb ed="#Bb" n="52"/>
+      </p>
+      <p xml:id="vn58an-fe7023-d1e139">
+        ⁋ Dicendum ad hoc quod id quod est principium inclinans aliquod ad actum mouendi se in aliud cum i 
+        <lb ed="#Bb" n="53"/>clistat ab eo, cum est ei cmoniunctum est principium tenens illud in actu figendi &amp; quietandi se in illo 
+        <lb ed="#Bb" n="54"/>sicut patet in grauibus &amp; leuibus. per id enim in locis propriis quiescunt, per quod inclinantur per motum ad 
+        <lb ed="#Bb" n="55"/>illa. Quare cum (vt patet ex praedeterminatis) amor est principium inclinans voluntatem per actum volendi 
+   <!--67.xml-->
+        <pb ed="#Bb" n="26-v"/>
+        <lb ed="#Bb" n="1"/>in bonum, cum ab aliquo non habetur: amor ergo consimiliter est principium tenendi rem in actu figendi &amp; 
+        <lb ed="#Bb" n="2"/>quietandi se in bono cum ipsum habet. Cum ergo bonum quod deus est, semper habitum est ab ipsa dei voluntate:  
+        <lb ed="#Bb" n="3"/>quia praesens per actum intelligendi seipsum: amor ergo ad bonum quod deus est, sicut voluntatem non habentem 
+        <lb ed="#Bb" n="4"/>illud inclinat mouendo ipsam in illud, licet libere &amp; nulla necessitate praeueniente, vt declarari debet loquendo 
+        <lb ed="#Bb" n="5"/>de voluntate creata: sic amor ad bonum quod deus est, voluntatem habentem illud ita tenet in illud vt voluntas talis 
+        <lb ed="#Bb" n="6"/>velit illud figendo &amp; quietando se in illo. Quare cum voluntas dei summe talis sit: deus igitur non solum vult 
+        <lb ed="#Bb" n="7"/>seipsum: sed summe vult: inquantum volitum intimum est voluntati, &amp; est coniunctissimum per summam identita 
+        <lb ed="#Bb" n="8"/>tem: quemadmodum summe seipsum intelligit, inquantum intellectum similiter est intimum &amp; coniunctissi 
+        <lb ed="#Bb" n="9"/>mun per summam identitatem, de quo habitum est supra. Ex hoc enim contigit quod deus summo amore se- 
+        <lb ed="#Bb" n="10"/>ipsum diligit, quanto voluntas diuina amando suo bono se summe vnit. Amor autem virtus vnitiua est: 
+        <lb ed="#Bb" n="11"/>quare &amp; summe vniens amor summus est. Ex quo etiam sequitur quod semper &amp; vniformiter vult seipsum: &amp; quod  
+        <lb ed="#Bb" n="12"/>erfecte vult seipsum, distincteae scilicet &amp; simul volendo quaecumque sunt essentialiter volibilia in ipso, vt sunt re 
+        <lb ed="#Bb" n="13"/>rum quiditates &amp; essentiae. &amp; hoc vnico simplici actu se &amp; alia a se volendo, secundum quod partractatio istorum  
+        <lb ed="#Bb" n="14"/>trium patet ex partractatione consimilium circa actum intelligendi dei in tribus quaestionibus supra positis 
+        <lb ed="#Bb" n="15"/>de intelligere dei: vt non sit opus hic super hoc, proprias quaestiones mouere: quemadmodum etiam non est opus 
+        <lb ed="#Bb" n="16"/>hic quaerere: vtrum velle in deo sit tantum essentiale, an etiam sit in ipso velle notionale. hoc enim patet ex 
+        <lb ed="#Bb" n="17"/>consimili quaestione ibi determinata circa intelligere dei, secundum quod debet partractari loquendo de pro 
+        <lb ed="#Bb" n="18"/>ductione spiritus sancti opere voluntatis. 
+        <lb ed="#Bb" n="19"/>
+      </p>
+      <p xml:id="vn58an-fe7023-d1e194">
+        ⁋ Quod igitur arguitur primo: quod deus non vult seipsum, quia appetitus est respectu non 
+        <lb ed="#Bb" n="20"/>habiti: Dicendum secundum quod iam dictum est, quod per eandem vim res se figit in termino &amp; quiescit in ipso 
+        <lb ed="#Bb" n="21"/>cum habetur ab ipsa, per quam transfert se in terminum cum est extra ipsum &amp; expectatur haberi. Et talis vis est 
+        <lb ed="#Bb" n="22"/>voluntatis in intellectualibus &amp; spiritualiter quiescentibus in termino, &amp; spiritualiter motis in ipsum: cu- 
+        <lb ed="#Bb" n="23"/>ius actus non est nisi velle siue quiescendo in termino siue se transferendo ad terminum: licet alius actu 
+        <lb ed="#Bb" n="24"/>volendi sit iste ab illo. &amp; tamen vtrumque indifferenter significatur actu volendi: quod tamen non contigit in genere 
+        <lb ed="#Bb" n="25"/>voluntatis quod est appetitus. Licet enim actus eius est &amp; respectu iam habiti &amp; respectu habendi, ratio ta 
+        <lb ed="#Bb" n="26"/>men vocabuli secundum conmunem vsum magis respicit habendum vt procedit obiectio: quod non contigit in vo 
+        <lb ed="#Bb" n="27"/>cabulo voluntatis. Et ideo non sequitur quod licet actus appetendi non est nisi respectu non habiti, quod si 
+        <lb ed="#Bb" n="28"/>militer neque actus volendi: quia licet secundum rationem rei indifferenter respiciant habitum &amp; habendum  
+        <lb ed="#Bb" n="29"/>ambo: tamen secundum rationem vsus nominis, appetitus respicit habendum tantum: voluntas vero communiter vtrumque.  
+        <lb ed="#Bb" n="30"/>
+      </p>
+      <p xml:id="vn58an-fe7023-d1e220">
+        ⁋ Ad secundum dicendum: quod deus vult se sicut finem. licet enim in re idem sint in deo voluntas &amp; volitum 
+        <lb ed="#Bb" n="31"/>secundum rationem tamen differunt: &amp; secundum hoc deus vt bonum &amp; volitum, est sicut finis &amp; perfectio diuinae volunta- 
+        <lb ed="#Bb" n="32"/>tis: quemadmodum ipse inquantum verum, est perfectio sui intellectus. Quod ergo assumitur, quod nihil est finis suiipsius 
+        <lb ed="#Bb" n="33"/>dicendum quod verum est secundum rem eandem &amp; secundum eandem rationem. Secundum rem tamen eandem &amp; diuersam rationem bene 
+        <lb ed="#Bb" n="34"/>potest idem esse finis suiipsius, quoniam idem inquantum voluntas habet rationem perfectibilis, indistantis tamen re &amp; 
+        <lb ed="#Bb" n="35"/>duratione a sua perfectione: bonum vero habet rationem perfectionis illius. Et sic voluntas dei inquan- 
+        <lb ed="#Bb" n="36"/>tum seipsum vult vt finem, est aliquod ordinabile ad finem: sed aliter quam alia. Quoniam ad finem ordinatur aliquid du  
+        <lb ed="#Bb" n="37"/>pliciter. vno modo vt illud cuius perfectio habet esse finis. alio modo sicut illud cuius adminiculo il- 
+        <lb ed="#Bb" n="38"/>lud cuius perfectio est finis, habet attingere finem. Primo modo voluntas ipsa ordinatur in finem. Se- 
+        <lb ed="#Bb" n="39"/>cundo modo illa quae sunt eius instrumenta attingendi finem.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

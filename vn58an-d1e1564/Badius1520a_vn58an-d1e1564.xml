@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="123-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1564"> <!-- alias="vn58an-a21q1" -->
+      <head xml:id="vn58an-d1e1564-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1564-Hd1e107" type="question-title">Utrum Deus habeat esse</head>
+      <p xml:id="vn58an-d1e1564-d1e110">
+        <lb ed="#Ba" n="48"/>CIrca primum arguitur quod deus non habeat esse. id est quod deus non sit, Primo sic. Si deus 
+        <lb ed="#Ba" n="49"/>est, tale est quo maius cogitari esse non potest: quia aliter finitus esset &amp; limitatus 
+        <lb ed="#Ba" n="50"/>&amp; nullum finitum ponitur deus. tale quidem impossibile est poni esse: quia quo-  
+        <lb ed="#Ba" n="51"/>llibet posito in esse potest excogitari maius, vt est quod continet in se quicquid est 
+        <lb ed="#Ba" n="52"/>suum &amp; etiam quicquod est alterius a se: quia omne ex duobus coniunctum maius 
+        <lb ed="#Ba" n="53"/>cogitatur quam singulum per se. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1564-d1e126">
+        ⁋ Secundo sic. si deus est, tale quid est quod 
+        <lb ed="#Ba" n="54"/>habet in se omnis boni &amp; nobilis infinitatem. Sed vnum infinitum nullum aliud  
+        <lb ed="#Ba" n="55"/>secum compatitur: vniversalui generis: quia totum quod sui generis est occupat: vel contrarii multo fortius: quia vnum con 
+   <!--261.xml-->
+        <pb ed="#Ba" n="123-v"/>
+        <lb ed="#Ba" n="1"/>trariorum non compatitur secum suum contrarium: sed destruit ipsum. ergo si deus est, nullum erit malum in rebus: 
+        <lb ed="#Ba" n="2"/>cum sit ipse bonus: nullumque aliud erit in rebus bonum &amp; nobile. consequens est manifeste falsum. ergo &amp; ans 
+      </p>
+      <p xml:id="vn58an-d1e1564-d1e143">
+        <lb ed="#Ba" n="3"/>⁋ In contrarium est primo illud quod de deo dicit propheta in Psal. Tu autem idem ipse es. &amp; Moyses loquens in  
+        <lb ed="#Ba" n="4"/>persona dei dicit. <ref xml:id="vn58an-d1e1564-Rd1e149">Exo. iii.</ref> 
+       <quote xml:id="vn58an-d1e1564-Qd1e152">Ego sum</quote>. 
+      </p>
+      <p xml:id="vn58an-d1e1564-d1e156">
+        ⁋ Secundo in contrarium est illud quod <name ref="#Anselm">Anselmus</name> arguit in proslogion sic. Id est quo  
+        <lb ed="#Ba" n="5"/>maius &amp; melius excogitari non potest deus est huiusmodi. ergo &amp;c. Maiorem probat sic. Cum dicitur id quo maius &amp; me 
+        <lb ed="#Ba" n="6"/>lius cogitari non potest audiens intelligit quod dicitur. ergo est in eius intellectu. sed non potest esse in solo intelle- 
+        <lb ed="#Ba" n="7"/>ctu eius, quoniam ipsum quod est in intellectu &amp; etiam in re, maius est eo quod est in solo intellectu, quare cum quod est 
+        <lb ed="#Ba" n="8"/>in re, per cognitionem potest esse in intellectu &amp; potest cogitari esse in re, maius potest cogitari eo quod est in soloi 
+        <lb ed="#Ba" n="9"/>tellectu. Est ergo necessario in re id quo maius cogitari non potest. Probat autem minorem sic, quoniam si deus 
+        <lb ed="#Ba" n="10"/>non esset quo maius cogitari non posset: tunc intellectus noster posset excedere deum: &amp; creatura 
+        <lb ed="#Ba" n="11"/>posset cogitare aliquid melius deo &amp; maius: quod falsum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1564-d1e177">
+        <lb ed="#Ba" n="12"/>⁋ Dicendum ad hoc: quod licet secundum quod dicit loam. Dam. tantum praeualuit perniciosa malitia 
+        <lb ed="#Ba" n="13"/>naturae hominium vt quosdam in irrationabilissimum &amp; omnium malorum pessimum perditionis barathrum perduceret, vt di 
+        <lb ed="#Ba" n="14"/>cant deum non esse: quorum insipientiam secretorum enunciator Dauid exprimens, ait. Dixit insipiens in cor. suo non 
+        <lb ed="#Ba" n="15"/>est deus: Tanmen in hoc quod deus sit, omnes quorum non est corrupta natura consentiunt: &amp; hoc quia hoc docet natu 
+        <lb ed="#Ba" n="16"/>ra. dicente Dam. Non reliquit nos deus in omnimoda ignorantia sui. omnibus enim cognitio essendi deum na- 
+        <lb ed="#Ba" n="17"/>turaliter inserta est. quia hoc etiam sacra attestatur scriptura dicente Dauid in Psal. Scitote quoniam domins ipse est 
+        <lb ed="#Ba" n="18"/>deus. Hoc denique vniuersa clamat creatura. dicente beato Augustinus, xv. de trinitate. Neque diuinorum librorum tantummodo 
+        <lb ed="#Ba" n="19"/>auctoritas deum esse praedicat: sed omnis quae nos circunstat creatura: ad quam etiam nos pertinemus. vniuersa enim 
+        <lb ed="#Ba" n="20"/>ipsa rerum natura proclamat habere se praestantissimum conditorem. Hoc deide ex ipsis creaturis efficacissime 
+        <lb ed="#Ba" n="21"/>ratio convincit humana, dicente <name ref="#Augustine">Augustinus</name> consequenter. Qui nobis mentem rationemque dedit quae viuentia non viuentibus, sen 
+        <lb ed="#Ba" n="22"/>su praedita non sentientibus, intelligentia non intelligentibus, immortalia mortalibus, incorruptibilia corruptibilibus 
+        <lb ed="#Ba" n="23"/>immutabilia mutabilibus, incorporalia corporalibus praeferenda videmus: ac per hoc rebus creatis creatorem fine 
+        <lb ed="#Ba" n="24"/>dubio praeponimus. Et de verbis domini dicit ( &amp; habetur in Glos. Raoid est Vt deus quid inuisibilis est: etiam a vi 
+        <lb ed="#Ba" n="25"/>sibilibus posset sciri: opus fecit quod opificem sua visibilitate modostrauit: vt per certum incertum posset sciri: &amp; il- 
+        <lb ed="#Ba" n="26"/>le esse omnium deus crederetur quid hoc fecit quod ab his impossibile est fieri. Hoc Philosophis nobiles quaesierunt: interrogantes 
+        <lb ed="#Ba" n="27"/>creaturas de creatore omnium specie ac disponne: artificem cognouerunt, quibus autem &amp; qualibus rationibus hoc 
+        <lb ed="#Ba" n="28"/>de deo ex creaturis nouerunt inferius videbitur. Deum igitur esse firmissime tenendum est. 
+      </p>
+      <p xml:id="vn58an-d1e1564-d1e220">
+        <lb ed="#Ba" n="29"/>⁋ Ad primum in oppositum quod quolibet ente posito poterit aliquid maius cogitari: Di 
+        <lb ed="#Ba" n="30"/>cendum quod verum est de ente finito: quia quolibet finito apposita per cognitionem entitate quae est in alio finito, sit 
+        <lb ed="#Ba" n="31"/>maius. Non autem verum est de ente infinito. infinitum ei apponne finiti non potest fieri maius: quia non recipit apponem 
+        <lb ed="#Ba" n="32"/>vt augeatur in se sub ratione illa quae est infinitum: quia infinities continet quodlibet finitum. vnde &amp; tali infinito nonposset 
+        <lb ed="#Ba" n="33"/>maius cogitari: est intellectu infinito. vnde etiam corpori infinito sub ratione quae infinitum non potest fieri additio. Quom 
+        <lb ed="#Ba" n="34"/>autem perfectio diuina omnia continet &amp; non patitur vllam additionem: immo per se tantus est &amp; tam bonus quam quolibet alio 
+        <lb ed="#Ba" n="35"/>adiucto: videbitur inferius loquendo de diuina perfectione. 
+      </p>
+      <p xml:id="vn58an-d1e1564-d1e238">
+        ⁋ Ad secundum quod infinitum simile non compatitur &amp; contrarium 
+        <lb ed="#Ba" n="36"/>destruit: Dicendum quod est infinitum extensione. de illo verum est quod dimensiones suae totum locum occupant: &amp; ideo 
+        <lb ed="#Ba" n="37"/>non compatitur secum aliquod dimensionatum. aliquid tamen non dimensionatum bene secum compateretur. Infinitum vero vir- 
+        <lb ed="#Ba" n="38"/>tute &amp; simplicitate cuiusmodi est deus, nullum ens expellit: immo omne ens penetrat &amp; continet &amp; compatitur se 
+        <lb ed="#Ba" n="39"/>cum: sicut cam causatum. Nec solum ens &amp; bonum: sed &amp; defectum entis &amp; malum: quia non est aliquid contrarium bono 
+        <lb ed="#Ba" n="40"/>quod ipse est formaliter: eo quod malum non priuat bonum quod ipse est: sed bonum aliquod creaturae cui contrariatur. &amp; 
+        <lb ed="#Ba" n="41"/>ideo per suam existentiam non destruit omne illud malum quod contrariatur bono creaturae: sicut ipsum habet destrue 
+        <lb ed="#Ba" n="42"/>re per suam exuntiam ipsum bonum creaturae quod natum est destrui per ipsum malu sci i si destruit quandoque malum illud, hoc fa 
+        <lb ed="#Ba" n="43"/>cit nostra voluntate inquantum ei contrariatur vt deordinatiuum a fine omnis entis quod ipse est: qua voluntate sua 
+        <lb ed="#Ba" n="44"/>ita est bonus &amp; potens super omne malum destruendum, quod nullo modo mala fieri in operibus suis permitteret nisi de ma 
+        <lb ed="#Ba" n="45"/>lo illo aliquod eliceret bonum, &amp; sic in finem &amp; decentiam vniuersi ordiaret: sicut dicit beatus <name ref="#Augustine">Augustinus</name> in ench. &amp; si 
+        <lb ed="#Ba" n="46"/>cut dicit beatus Greg. Quae deus iratus permittit: sic tolerat vt in consilii sui vsum vertat. Vnde sit vt quod 
+        <lb ed="#Ba" n="47"/>sine voluntate dei agitur, voluntati eius contrarium non sit: quia dum in vsum bonum mala vertuntur. 
+        <lb ed="#Ba" n="48"/>eius consilio militant etiam quae repugnant.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

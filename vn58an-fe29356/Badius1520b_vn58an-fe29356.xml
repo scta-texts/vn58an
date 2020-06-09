@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe29356"> <!-- alias="vn58an-a55q2" -->
+      <head xml:id="vn58an-fe29356-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe29356-d1e107">
+        <lb ed="#Bb" n="21"/>rca Secundum arguitur: quod in deo non sit ponendum plures esse proprietates, Primo sic. 
+        <lb ed="#Bb" n="22"/>pprium sequitur formam &amp; speciem rei, siue rationem speciei &amp; formae, sicut accidens sequ  
+        <lb ed="#Bb" n="23"/>ur rationem indiuidui. sed in diuinis non est nisi vna forma deitatis: ergo neque nisi 
+        <lb ed="#Bb" n="24"/>vnum, proprium, siue vna proprietas. 
+      </p>
+      <p xml:id="vn58an-fe29356-d1e118">
+        ⁋ Secundo sic. plures proprietates non possunt esse 
+        <lb ed="#Bb" n="25"/>nisi secundum eandem rationem speciei: aut secundum diuersas, neutro autem modo possunt poni 
+        <lb ed="#Bb" n="26"/>diuersae proprietates in diuinis: quia neque istae neque illae natae sunt esse circa idem nu 
+        <lb ed="#Bb" n="27"/>mero: quemadmodum neque duae albedines, neque nigredo &amp; albedo, quaecumque autem sunt in diuinis, habent 
+        <lb ed="#Bb" n="28"/>esse circa idem numero, vt circa diuinam essentiam. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe29356-d1e129">
+        ⁋ In contrarium est: quoniam non est, proprietas in  
+        <lb ed="#Bb" n="29"/>deo nisi propter personarum pluralitatem, vt habitum est iam supra. Sed plurium personarum necessario sunt 
+        <lb ed="#Bb" n="30"/>lures proprietates. ergo &amp;c. 
+        <lb ed="#Bb" n="31"/>
+      </p>
+      <p xml:id="vn58an-fe29356-d1e139">
+        ⁋ Dicendum quod hoc ad plures proprietates necesse habemus ponere in deo circa prosonas:  
+        <lb ed="#Bb" n="32"/>a plures quaelitates secundum praedictum modum inueniuntur denominantes eas, vt iam in sequente quaestione declarabitur. 
+        <lb ed="#Bb" n="33"/>
+      </p>
+      <p xml:id="vn58an-fe29356-d1e146">
+        ⁋ Ad primum in oppositum: quod proprietas sequitur formam &amp; speciem rei &amp;c. Dicendum quod est 
+        <lb ed="#Bb" n="34"/>uaedam proprietas absoluta: &amp; illa non est nisi vnica in vna forma &amp; specie. Et hoc loquendo stricte de pro 
+        <lb ed="#Bb" n="35"/>rio siue de proprietate: quemadmodum ponimus solum risibile esse proprium hominis. Vnde &amp; huiusmodi proprium saepe 
+        <lb ed="#Bb" n="36"/>onitur in descriptione rei, cum eius forma specifica ignoratur. Alia vero est proprietas respectiua: &amp; il 
+        <lb ed="#Bb" n="37"/>la in eadem forma &amp; specie bene potest esse multiplex, quia non tam sequitur essentiam formae quam modum haben 
+        <lb ed="#Bb" n="38"/>di illam &amp; subsistendi in illa, vt iam videbitur. Talis autem est proprietas personae in diuinis: de qua loqmur- 
+        <lb ed="#Bb" n="39"/>t similiter patebit. 
+      </p>
+      <p xml:id="vn58an-fe29356-d1e162">
+        ⁋ Ad secundum: quod plures proprietates neque eiusdem speciei neque diuersae possunt esse 
+        <lb ed="#Bb" n="40"/>circa idem numero &amp;c. Dicendum quod verum est de proprietatibus absolutis, vt circa subiectum cui inhae- 
+        <lb ed="#Bb" n="41"/>rent. Et sic in deo nulla est omnino proprietas circa diuinam essentiam. dicente Rica. iiii. de trinitate. ca. xvi. Pro- 
+        <lb ed="#Bb" n="42"/>prium est omni substantiae quae vere nomen habet ex re, habere quidem esse compositum: &amp; accuntibus subesse. Sola 
+        <lb ed="#Bb" n="43"/>autem diuina substantia habet simplex esse, &amp; nulli inhaerenti subiectum. Circa vero idem nuero, vt circa 
+        <lb ed="#Bb" n="44"/>fundamentum in quo fundantur: bene possunt esse diuersae proprietates relatiuae propter diuersum modum 
+        <lb ed="#Bb" n="45"/>habendi illud idem, vt non ab alio, vt a quo alius, &amp; huiusmodi, vt iam patebit
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

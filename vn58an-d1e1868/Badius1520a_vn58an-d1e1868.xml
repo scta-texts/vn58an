@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="152-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1868"> <!-- alias="vn58an-a25q3" -->
+      <head xml:id="vn58an-d1e1868-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e1868-Hd1e107" type="question-title">Utrum sit possibile esse plures Deos quam unum</head>
+      <p xml:id="vn58an-d1e1868-d1e110">
+        <lb ed="#Ba" n="8"/>CIrca tertium arguitur quod possibile est plures deos esse, primo sic. eodem gradu cur 
+        <lb ed="#Ba" n="9"/>trunt vnitas dei, &amp; vnitas mundi. Vnde <name ref="#Aristotle">Philosophus</name> in. xii. metaphysi. ex vnita- 
+        <lb ed="#Ba" n="10"/>ate mundi probat vnitatem dei: &amp; econuerso, vt dictum est supra. sed possibile est 
+        <lb ed="#Ba" n="11"/>isplures esse mundos &amp; simul &amp; successiue: quod etiam plures philosophi posue- 
+        <lb ed="#Ba" n="12"/>runt: cum plures mundos esse (vt videtur) non includit contradictionem: &amp; ita est 
+        <lb ed="#Ba" n="13"/>possibile deo, quia enim est omnipotens, potest omne possibile: quale est omne illud 
+        <lb ed="#Ba" n="14"/>in quo non includitur contradictio: quia aliter deo nihil est impossibile. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e131">
+        <lb ed="#Ba" n="15"/>⁋ Secundo sic. bonum &amp; perfectum est suiipsius diffusiuum: tunc enim secundum <name ref="#Aristotle">Philosophum</name> a 
+        <lb ed="#Ba" n="16"/>vnumquodque perfectum est: cum potest generare alterum tale quale ipsum est. Deus autem summe 
+        <lb ed="#Ba" n="17"/>bonus: &amp; summe perfectus est: in quo est quicquid in aliis perfectionis est. ergo potest producere alium 
+        <lb ed="#Ba" n="18"/>deum qualis ipse est: &amp; sic possibile est vt sint plures dii. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e146">
+        ⁋ In oppositum primo arguitur ex distin- l 
+        <lb ed="#Ba" n="19"/>ctione eorum sic. Si plures sint dii, puta duo, oportet quod ambo conveniant in intentione deitatis, &amp; vt sub 
+        <lb ed="#Ba" n="20"/>illa distinguantur. Aliter enim aut ambo non essent dii: aut non plures dii. Distinctio autem sub aliquo con- 
+        <lb ed="#Ba" n="21"/>muni non est nisi per aliquid additum illi communi in vno eorum vel in vtroque. ipso enim commu 
+        <lb ed="#Ba" n="22"/>ni non possunt distingui: quia ipso conueniunt: &amp; diuersitas in substantia reducitur ad multitu- 
+        <lb ed="#Ba" n="23"/>dinem: sicut conuenientia ad vnitatem, vt habetur. ix. metaphy. Id igitur quod est commune ipsis, 
+        <lb ed="#Ba" n="24"/>est causa conuenientiae ipsorum: &amp; quod est diuersum in eis est causa differentiae ipsorum. tale autem 
+        <lb ed="#Ba" n="25"/>quod facit diuersitatem additum ad id quod est idem, facit compositionem. vnus ergo eorum vel ambo 
+        <lb ed="#Ba" n="26"/>essent compositi. Non est autem deus nisi sit simplex, vt infra videbitur: aut ergo neuter eorum erit 
+        <lb ed="#Ba" n="27"/>deus aut alter tantum. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e168">
+        ⁋ Secundo quasi ex eodem medio alio modo sic. quicumque sunt plures re, si debent esse plux 
+        <lb ed="#Ba" n="28"/>res dii, de quibus est quaestio, oportet quod communicent eadem natura deitatis: non secundum hoc 
+        <lb ed="#Ba" n="29"/>aliquid: quia tunc non esset nisi vnus, sicut fides tenet tres personas in vna substantia esse vnum deum  
+        <lb ed="#Ba" n="30"/>sed necesse est quod tantum communicent eadem natura deitatis: secundum rationem vnam communem 
+        <lb ed="#Ba" n="31"/>in eo quod sunt deus simpliciter: &amp; secundum rationes diuersas in eo quod sunt hoc aliquid quaecunque sunt 
+        <lb ed="#Ba" n="32"/>talia. &amp; si idem communicent, hoc est secundum aliud &amp; aliud esse. Duorum enim diuersorum in eo quod est hoc 
+        <lb ed="#Ba" n="33"/>aliquid, non est idem esse: sed quaecumque eandem naturam conmunicant secundum aliud &amp; aliud esse, in nullo 
+        <lb ed="#Ba" n="34"/>eorum sua quiditas est suum esse: quia illud esse non est totum quod est naturae illius: sed participatum 
+        <lb ed="#Ba" n="35"/>in vtroque. Non est autem deus nisi cuius essentia est suum esse purum non participatum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e188">
+        ⁋ Ter 
+        <lb ed="#Ba" n="36"/>tio arguitur ad idem ex natura diuinae simplicitatis sic. natura quae ex seipsa determinat suppo- 
+        <lb ed="#Ba" n="37"/>situm, in pluribus inueniri non potest: quia id quod est principium indiuiduationis &amp; suppositi de- 
+        <lb ed="#Ba" n="38"/>terminati, pluribus esse commune non potest. secundum quod dicit Dam. de duabus na. Christianu Im- 
+        <lb ed="#Ba" n="39"/>possibile est vnam &amp; eandem hypostasim non vti characteristicis &amp; constitutiuis ipsius &amp; diuisiuis ipsius a re 
+        <lb ed="#Ba" n="40"/>liquis hypostasibus. natura diuina seipsa determinat suppositum &amp; hoc aliquid: quia seipsa est indi- 
+        <lb ed="#Ba" n="41"/>uidua: quia si alio a se fieret indiuidua, esset indiuiduum compositum ex ipsa natura: &amp; alio ei su 
+        <lb ed="#Ba" n="42"/>peraddito: quod est impossibile, vt infra probatur. lterum, si alio a se fieret indiuidua: tunc illo ipsa na 
+        <lb ed="#Ba" n="43"/>tura in illo indiuiduo determinaretur, postquam de se ad indiuiduum determinata non esset: sed indiffe- 
+        <lb ed="#Ba" n="44"/>rens ad plura indiuidua. naturam autem diuinam aliquo determinari est impossibile. Cum enim 
+        <lb ed="#Ba" n="45"/>deus sit esse purum &amp; subsistens, vt dictum est supra: illud ergo determinans cum facit ipsum esse 
+        <lb ed="#Ba" n="46"/>hoc aliquid, aut requiritur in deo ad essendi complementum in eo quod debet esse hoc aliquid: aut  
+        <lb ed="#Ba" n="47"/>non. Si non, ergo est ipsi accidentale: quia quicquid sequitur completum esse rei in natura &amp; suba 
+        <lb ed="#Ba" n="48"/>stantia sua, accidentale est illi, quod est impossibile ponere in deo: quia in deo nullum cadit accidens, vt 
+        <lb ed="#Ba" n="49"/>infra videbitur. Sed dato quod possit in deo cadere adhuc tale accidens: cum non possit esse nec adue 
+        <lb ed="#Ba" n="50"/>nire substantiali esse sine causa alia, de illa causa quaero, aut est ipsa diuina essentia quae est ipsum sub 
+        <lb ed="#Ba" n="51"/>sistens esse: aut aliquid aliud. Si primo modo: quare cum accidens quod: causatur a subiecto quid determi 
+        <lb ed="#Ba" n="52"/>nat ipsum subiectum &amp; in quo est: non indiuiduatur nisi per subiecti indiuiduationem: si ipsum es 
+        <lb ed="#Ba" n="53"/>se substantiale non est indiuiduatum: sed potest esse in pluribus: nec illud accidens. Et si sic, illud ac 
+        <lb ed="#Ba" n="54"/>cidens ipsum esse substantiale ad suppositum determinare non potest. Si autem causa illius acci- 
+        <lb ed="#Ba" n="55"/>dentis sit aliquid aliud ab ipsa diuina essentia &amp; eius esse: tunc nisi illud aliud esset, non haberet ab  
+   <!--319.xml-->
+        <pb ed="#Ba" n="152-v"/>
+        <lb ed="#Ba" n="1"/>ipso esse in deo, hoc accidens, neque esset ipsius dei indiuiduatio &amp; distinctio, sed esse eius proprium 
+        <lb ed="#Ba" n="2"/>quo habet esse hoc aliquid, dependeret ab alio. &amp; ita neuter ipsorum qui ponitur esse deus, ex se est 
+        <lb ed="#Ba" n="3"/>necesse esse, sed habet esse sui causam ab alio: cum nihil habeat esse nisi in supposito existat &amp; hoc ali 
+        <lb ed="#Ba" n="4"/>quid. Si autem illud determinans requiritur ad complementum esse substantialem in deo: &amp; per hoc 
+        <lb ed="#Ba" n="5"/>dat ei quod sit hoc aliquid: hoc non potest esse nisi quia aut includitur in ipso vt animatum in animali: aut  
+        <lb ed="#Ba" n="6"/>quia specificatur per ipsum tanquam per differentiam, vt animal per rationale. Si primo modo, tunc in  
+        <lb ed="#Ba" n="7"/>differenter illud conuenit ambobus diis, sicut &amp; ipsum esse: &amp; ita per illud non distingueretur vnus 
+        <lb ed="#Ba" n="8"/>eorum ab alio in eo quod est hoc aliquid sicut neque per ipsum esse. Secundus modus omnino stare non po 
+        <lb ed="#Ba" n="9"/>test. Cum enim differentia non est de ratione generis, sed ratio generis de se completa est quo ad esse 
+        <lb ed="#Ba" n="10"/>generis ante aduentum differentiae: licet sine differentia non possit subsistere in actu: quare cum ipsa 
+        <lb ed="#Ba" n="11"/>diuina essentia quae ponitur habere rationem generis sit ipsum esse in actu, quia est esse purum per 
+        <lb ed="#Ba" n="12"/>essentiam non participatum vt habitum est supra, illa differentia adueniens non potest ipsi essentiae 
+        <lb ed="#Ba" n="13"/>dare actum essendi. Si enim daret esse, acquireretur ei, &amp; non esset ipsum esse. Cum ergo vt probatum 
+        <lb ed="#Ba" n="14"/>est natura diuina vt sit hoc aliquid nullo determinari potest, &amp; tamen ipsa habet esse in actu, vt proba 
+        <lb ed="#Ba" n="15"/>tum est supra: &amp; nihil existit in actu nisi sit hoc aliquid: ipsa diuina essentia necessario de se vt essen 
+        <lb ed="#Ba" n="16"/>tia est: est hoc aliquid: nec potest igitur pluribus convenire. Non potest autem esse deus nisi cui conue 
+        <lb ed="#Ba" n="17"/>nit diuina essentia, plures ergo deos esse est impossibile. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e275">
+        ⁋ Quarto ex eodem sic, necessitas essendi non  
+        <lb ed="#Ba" n="18"/>conuenit nisi signato inquantum signatum: cum sit ratio suae indiuiduationis: quae non est communica- 
+        <lb ed="#Ba" n="19"/>bilis, nec potest alteri convenire: quia singularitas rei &amp; ratio indiuiduationis eius si alteri conveniret 
+        <lb ed="#Ba" n="20"/>tunc non esset singularitas, vel simul esset singularitas &amp; non singularitas, &amp; essent contradictoria 
+        <lb ed="#Ba" n="21"/>simul in eodem. Et ideo dicit <name ref="#Aristotle">Philosophus</name> in. vii. Metaph. Impossibile est quod substantia alicuius sint 
+        <lb ed="#Ba" n="22"/>quae dicuntur vniuersalia. Substantia enim prima quae est cuiuslibet, propria est cuilibet, &amp; non est alterius: vni- 
+        <lb ed="#Ba" n="23"/>niuersale autem commune est: necessitas ergo essendi quae deus est non potest alteri convenire. Probatio maio 
+        <lb ed="#Ba" n="24"/>ris est, quoniam quod de se non est hoc signatum non est de se actu existens: quia actu existens non est 
+        <lb ed="#Ba" n="25"/>nisi signatum &amp; distinctum. Si ergo necessitas essendi non esset de se signatum in supposito, non esset de 
+        <lb ed="#Ba" n="26"/>se existens in actu: quare oporteret quod ei acquireretur ab alio, a quo designatio sui esse fieret, &amp; sic ipsum 
+        <lb ed="#Ba" n="27"/>esse eius ab alio dependeret, &amp; non esset necesse esse. Quare cum vera dei natura id quod est non sit nisi neces 
+        <lb ed="#Ba" n="28"/>se esse, vt habitum est supra: ipsa non convenit nisi supposito signato inquantum signatum est, vt per 
+        <lb ed="#Ba" n="29"/>idem deus sit deus &amp; iste deus. Tale autem nullo modo plurificabile est. Sicut si sortes eodem signato 
+        <lb ed="#Ba" n="30"/>quo est sortes esset homo: sicut id quid est sortes re, non potest esse plures sortes: ita natura qua est ho-  
+        <lb ed="#Ba" n="31"/>mo non posset esse plures homines. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e311">
+        ⁋ Quinto virtute eiusdem medii arguit Ricardus in 
+        <lb ed="#Ba" n="32"/>primo de Tri. sic. Non aliud est deitas quam illa substantia dei vnius: si ergo aliud in substantia haberet 
+        <lb ed="#Ba" n="33"/>deitatem, habebit &amp; illam substantiam, &amp; sic idem erit in substantia plura &amp; vnum: quod est impossibile. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e318">
+        <lb ed="#Ba" n="34"/>⁋ Sexto arguit in eodem. c. xviii. sic. Deitas aut est conicabilis pluribus substantia diuersis aut inconicabi 
+        <lb ed="#Ba" n="35"/>lis. si inconicabilis, solum vnus deus est. si conicabilis, aut in vnitate substantiae, &amp; non est nisi vnus deus, 
+        <lb ed="#Ba" n="36"/>vt in personis diuinis tribus: aut in diuersitate substantiae. quod si sic, cum deitas non sit nisi illa substam 
+        <lb ed="#Ba" n="37"/>tia vnius dei, &amp; substantia vna non potest communicari pluribus diuersis in substantia, nisi vna 
+        <lb ed="#Ba" n="38"/>substantia sit simul vna &amp; plures, hoc autem est impossibile: non ergo deitas est communicabilis 
+        <lb ed="#Ba" n="39"/>pluribus differentibus in substantia, sed solum eisdem. tales autem propter vnitatem substantiae non 
+        <lb ed="#Ba" n="40"/>sunt nisi vnus deus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e337">
+        ⁋ Septimo arguit in eodem. c. x. &amp;. xiiii. sed alia via sic. ldem sunt in deo 
+        <lb ed="#Ba" n="41"/>nostro summa potentia, summa sapientia. &amp; summa essentia. aliquid ergo diuersum ab eo in sua summa 
+        <lb ed="#Ba" n="42"/>essentia non potest esse summa potentia &amp; summa sapientia, sed non est deus nisi sit summa poten- 
+        <lb ed="#Ba" n="43"/>tia, summa sapientia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e346">
+        ⁋ Octauo arguit ad idem Dam. libid es. sententiarum suarum. c. v. ratione 
+        <lb ed="#Ba" n="44"/>diuinae perfectionis sic. Si multos diceremus deos, necesse esset inter eos differentiam considerare,  
+        <lb ed="#Ba" n="45"/>quae esset aliquid perfectionis in vno &amp; non in alio, &amp; sic in neutro vel non in altero esset summa per 
+        <lb ed="#Ba" n="46"/>fectio: quia id quod esset perfectionis in vno quo differret ab altero, non esset in illo. Deus autem omnino 
+        <lb ed="#Ba" n="47"/>debet esse perfectus &amp; indeficiens. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e357">
+        ⁋ Et hoc est quod facilius arguitur. ix. sic. Si plures essent dii, cum 
+        <lb ed="#Ba" n="48"/>neuter esset ratio essendi alterum neque eius quod est in ipso, bonitas vnius eorum alteri deesset omnino, &amp; ita 
+        <lb ed="#Ba" n="49"/>non esset aliquid eorum quo nihil melius excogitari posset, quia melius esset habens bonitatem inte 
+        <lb ed="#Ba" n="50"/>gratam ex vtriusque bonitate, non est autem deus nisi quo melius nihil potest excogitari. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e366">
+        ⁋ De- 
+        <lb ed="#Ba" n="51"/>cimo ratione potentiae sic. &amp; est ratio Ricar. primo de Tri. c. vlti. Non est deus nisi sit omnipotens, 
+        <lb ed="#Ba" n="52"/>sed non potest esse omnipotens nisi vnus. ergo &amp;c. Maior patet: quia in deo nullius potentiae est defectus. 
+        <lb ed="#Ba" n="53"/>Minorem probat ibidem: quia qui vere omnipotens est facile efficit vt singulum caeterorum nihil possit, quod facere non 
+        <lb ed="#Ba" n="54"/>posset si alter deus omnipotens esset: quia tunc quantum vnus posset agere, tantum alter posset contra agere. 
+        <lb ed="#Ba" n="55"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e379">
+        ⁋ Vndecimo arguit Dam. sic vbi supra ex diuina incircu: scriptione. Si multi sunt dii. 
+   <!--320.xml-->
+        <pb ed="#Ba" n="153-r"/>
+        <lb ed="#Ba" n="1"/>nullus eorum erit vbique &amp; incircunscriptus: quia vnus eorum non erit in altero. consequens est impos 
+        <lb ed="#Ba" n="2"/>sibile in deo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e390">
+        ⁋ Duodecimo sic arguit ibidem ex regimine vniuersi &amp; ordine <name ref="#Anselm">Anselmus</name> in  
+        <lb ed="#Ba" n="3"/>mondo. ca. iii. sic. Omne quod est, per aliquod ens est, quia per nihil, nihil habet esse. &amp; illud oportet 
+        <lb ed="#Ba" n="4"/>esse vnum per quid sunt cuncta quae sunt: quod non est, nisi deus sit non plurificabilis. ergo &amp;c. Assumptum 
+        <lb ed="#Ba" n="5"/>probat trimembri diuisione: quia si essent plura per quae entia haberent esse, aut illa referuntur ad 
+        <lb ed="#Ba" n="6"/>vnum aliquod per quiod sunt, &amp; tunc non sunt omnia per plura: sed potius per illud vnum. Aut illa plu 
+        <lb ed="#Ba" n="7"/>ra sunt singula per se existentia: &amp; tunc cum in natura existendi per se conveniunt, ergo est aliqua vis 
+        <lb ed="#Ba" n="8"/>&amp; natura existendi per se, quam communiter habent vt per se sint. Verius ergo per idipsum vnum sunt 
+        <lb ed="#Ba" n="9"/>quam per plura quae sine illo esse vel stare non possunt. Aut illa plura per se abinuicem habent esse, 
+        <lb ed="#Ba" n="10"/>quod nulla patitur ratio. quoniam irrationalis cogitatio est: vt aliqua res sit per illud cui dat esse. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e414">
+        <lb ed="#Ba" n="11"/>⁋ Decimotertio arguit idem, &amp; eodem modo in c. iiii. sic. Quaecumque se habent adinuicem secundum gra- 
+        <lb ed="#Ba" n="12"/>dum &amp; ordinem dignitatis, habent aliquid quod omnibus eis supereminens est. &amp; pertractat quod hoc ne 
+        <lb ed="#Ba" n="13"/>cesse est esse tantum vnum, ita quod non possit plurificari, quoniam si ponantur plura talia, cum non possunt esse 
+        <lb ed="#Ba" n="14"/>inaequalia: quia tunc vnum illorum praecelleret, necessario ergo sunt aequalia. &amp; hoc non potest esse nisi per idem 
+        <lb ed="#Ba" n="15"/>quod est eorum essentia, aut aliquod aliud. Si primo modo, cum eorum essentia sit vna quantum est de se, non diuersifica 
+        <lb ed="#Ba" n="16"/>ta in vno &amp; in altero, illud necessario est vnum. Si secundo modo, tunc ipsa in essentia sua minora sunt 
+        <lb ed="#Ba" n="17"/>quam illud. ergo eis aliquod vnum supereminet. Plura igitur esse non possunt, quibus nihil est supeminens. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e432">
+        <lb ed="#Ba" n="18"/>⁋ Ad idem sunt rationes Auicicen quatuor in metaphysica sua efficacissimae quas ponemus in soluendo.  
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e437">
+        <lb ed="#Ba" n="19"/>⁋ Dicendum ad hoc, quod ex rationibus probantibus simpliciter quod deus est, &amp; etiam 
+        <lb ed="#Ba" n="20"/>ex probantibus quod sit tantum vnus, non habetur quod necesse est quod sit tantum vnus: vt impossibile sit quod sint 
+        <lb ed="#Ba" n="21"/>plures, nisi forte gratia materiae. In creaturis enim secundum theologicam intelligentiam res existens in  
+        <lb ed="#Ba" n="22"/>actu, ab alio habet esse in actu simpliciter, &amp; ab alio esse hoc, &amp; ab alio esse hoc aliquid. Quia enim 
+        <lb ed="#Ba" n="23"/>habet esse in actu, habet inquantum est effectus primi entis. quod vero habet esse hoc, habet a natu- 
+        <lb ed="#Ba" n="24"/>ra essentiae suae, inquantum est exemplatum diuinae rationis: vnde habet quod dicatur esse substantia vel acci 
+        <lb ed="#Ba" n="25"/>dens, homo vel asinus. quod vero habet esse hoc aliquid, habet a natura suppositi determinan- 
+        <lb ed="#Ba" n="26"/>tis naturam, in quo diuina actione essentiae acquiritur esse existentiae. Quomodo autem hoc fiat, aut  
+        <lb ed="#Ba" n="27"/>per materiam secundum philosophum, aut per alias dispositiones hypostaticas secundum <name ref="#JohnDamascenus">Damascenus</name> non est praesentis inqui- 
+        <lb ed="#Ba" n="28"/>sitionis. Et licet concordant philosophis quod in creatura qualibet ratione differunt esse simpliciter, &amp; esse hoc 
+        <lb ed="#Ba" n="29"/>&amp; esse hoc aliquid, non tamen concordant in hoc, quod res ab alio habeat esse simpliciter in actu, &amp; esse hoc 
+        <lb ed="#Ba" n="30"/>secundum essentiam. Ambo enim dicunt rem habere a forma sua, considerando scilicet causam suam proximam non primam: 
+        <lb ed="#Ba" n="31"/>vt dictum est supra. Et ideo tam secundum philosophos quam secundum theologos in creaturis ex eo quod aliquid probatur esse in 
+        <lb ed="#Ba" n="32"/>actu simpliciter, licet ex hoc habeatur quod sit vnum in supposito sicut est ens, ad modum quo probauit 
+        <lb ed="#Ba" n="33"/>deum esse vnum quaestio prima supra exequuta de vnitate dei, quoniam substantia cuiuslibet, propria est cui 
+        <lb ed="#Ba" n="34"/>libet, &amp; non est alterius nisi suiipsius, &amp; illius cuius est, &amp; non est in pluribus: vt dicit philosophus in vii. 
+        <lb ed="#Ba" n="35"/>meta. vniuersalia enim (vt probat ibidem) non sunt substantiae rerum, nisi quatenus sunt particularia 
+        <lb ed="#Ba" n="36"/>in suppositis: Non tamen ex hoc habetur probatum, quod sit tantum vnum in supposito, ad modum quo proba-  
+        <lb ed="#Ba" n="37"/>uit quaestio proxima praecedens quod tantum sit vnus deus, &amp; multo minus quod necesse sit quod sit tantum vnum. 
+        <lb ed="#Ba" n="38"/>ad modum quo quaerit ista quaestio, an sit tantum vnus deus, ita quod non possint esse plures. In creaturis 
+        <lb ed="#Ba" n="39"/>enim potest forma determinata supposito de se esse vniuersalis &amp; indeterminata secundum supposita, &amp; 
+        <lb ed="#Ba" n="40"/>esse in pluribus suppositis. secundum quod dicit philosophus. Quod vniuersale est, commune est. Non enim dicitur 
+        <lb ed="#Ba" n="41"/>vniuersale, nisi quod naturaliter est plurium rerum, &amp; commune plurium. Sed si sequatur in aliquo quod  
+        <lb ed="#Ba" n="42"/>cum eo quod ponatur esse, &amp; vnum in supposito, sit tantum vnum: &amp; hoc ita quod impossibile sit esse plura se- 
+        <lb ed="#Ba" n="43"/>cundum supposita, hoc solum tenet gratia materiae, aut scilicet quia ipsa forma est de se subsistens, &amp; ideo 
+        <lb ed="#Ba" n="44"/>non nata esse nisi hoc aliquid, nec considerari nisi sub ratione singularitatis, non sub aliqua ratio 
+        <lb ed="#Ba" n="45"/>ne communis: aut quia etsi ipsa forma de se nata esset multiplicari per supposita, quia tamen conti- 
+        <lb ed="#Ba" n="46"/>net totam suam materiam, in qua nata est esse, ita quod non nata est multiplicari per supposita secundum diui- 
+        <lb ed="#Ba" n="47"/>sionem quantitatis vllo modo, sicut totam suam materiam possibilem ad suam formam, secundum philosophum, continent 
+        <lb ed="#Ba" n="48"/>corpora caelestia: qui enim dicit caelum, dicit formam solum, qui vero dicit hoc caelum, dicit formam in  
+        <lb ed="#Ba" n="49"/>materia, &amp; tamen non potest secundum philosophum in eadem specie esse aliud caelum, quia totam suam materiam conti 
+        <lb ed="#Ba" n="50"/>net indiuisibiliter forma primo modo subsistens: dicunt philosophi quod non est in natura sua communis pluri 
+        <lb ed="#Ba" n="51"/>bus: sed solummodo singularis. species, nullo modo vniuersalis apta multiplicari. Si enim plures es- 
+        <lb ed="#Ba" n="52"/>set: vt homines: foret specie vnum, numero vero plura: &amp; ita vt dicit philosophus in xii. haberet materiam. 
+        <lb ed="#Ba" n="53"/>quia quaecumque sunt plura numero, habent materiam. Eorma autem subsistens, quia in se est ende- 
+        <lb ed="#Ba" n="54"/>lechia &amp; actus (vt dicit ibidem) non habet materiam. Eorma similiter continens totam suam materiam, 
+        <lb ed="#Ba" n="55"/>licet multiplicabilis esset quantum est ex parte formae, inquantum tamen est in materia sua tota, quae non po 
+   <!--321.xml-->
+        <pb ed="#Ba" n="153-v"/>
+        <lb ed="#Ba" n="1"/>test multiplicari, quia nec diuidi secundum quantitatem, nullo modo secundum philosophum est multiplicabilis per plu- 
+        <lb ed="#Ba" n="2"/>ra supposita. Per quod philosophus probat in i. cae. &amp; mund. mundum esse vnum perfectum, &amp; non posse esse plures. 
+        <lb ed="#Ba" n="3"/>Sed quocumque modo ista se habeant in creaturis, quae ad praesens non sunt perscrutanda, ita est proculdubio 
+        <lb ed="#Ba" n="4"/>in deo, quod in eo idem sunt omnino esse simpliciter &amp; esse hoc, quia vt dictum est supra, in deo idem sunt es- 
+        <lb ed="#Ba" n="5"/>sentia &amp; esse. ldem etiam cum esse simpliciter &amp; esse hoc, est in ipso esse hoc aliquid, quia sicut in deo non  
+        <lb ed="#Ba" n="6"/>differt essentia ab esse, sic nec esse hoc aliquid ab esse hoc: vt infra videbitur. Et sic ratione materiae omnes ra 
+        <lb ed="#Ba" n="7"/>tiones probantes deum esse, probant quod est vnus: &amp; rationes omnes, tam ad quaestionem an deus habeat esse: quam ad quaestionem 
+        <lb ed="#Ba" n="8"/>an habeat esse vnus ratione materiae: probant consiliter quod sit tantum vnus, &amp; omnes illae ad quemlibet illorum articulo 
+        <lb ed="#Ba" n="9"/>rum probant quod non possunt esse plures. Et ex hoc quod in deo idem sunt esse, &amp; esse hoc, &amp; esse hoc ali 
+        <lb ed="#Ba" n="10"/>quid, proculdubio in deo non est ponere rationem vniuersalis &amp; particularis contenti sub forma vni 
+        <lb ed="#Ba" n="11"/>uersali: vt infra videbitur. Sed deus solummodo rationem habet eius quod indiuidualiter habet esse hoc 
+        <lb ed="#Ba" n="12"/>aliquid in supposito, &amp; vnum numero, non dico vnus: vt infra videbitur, quoniam esse purum quod deus est, &amp; 
+        <lb ed="#Ba" n="13"/>quod est necessitas essendi, non convenit nisi signato inquantum signatum est, &amp; hoc sub ratione simplici 
+        <lb ed="#Ba" n="14"/>sine omni determinatione, &amp; contractione. Propter quod deus in se habet omnium perfectiones, &amp; ad eum redu 
+        <lb ed="#Ba" n="15"/>cuntur omnia alia tanquam ab ipso participantia quod in se perfectionis habent. secundum quod ex his processerunt 
+        <lb ed="#Ba" n="16"/>omnia argumenta ad istam partem supra inducta: vt patet inspicienti. Et ideo absolute concedendum quod  
+        <lb ed="#Ba" n="17"/>deus est vnus in essentia &amp; indiuiduali natura. Non dico in supposito, etenim deus licet sit plu- 
+        <lb ed="#Ba" n="18"/>res in suppositis: propter vnitatem tamen essentiae indiuisibilis in eis, non est nisi vnus deus in illis: vt in-  
+        <lb ed="#Ba" n="19"/>fra amplius patebit. ita quod impossibile est esse plures, neque per successionem: vt quod vno corrupto al- 
+        <lb ed="#Ba" n="20"/>ter ex substantia deitatis generetur: quia ipse vnus est necesse esse, vt habitum est supra, quod non potest non 
+        <lb ed="#Ba" n="21"/>esse vt videbitur infra: neque simul: quia inconicabilis est natura deitatis: nec rationem vniuersalis ha 
+        <lb ed="#Ba" n="22"/>bet: sed indiuidui, &amp; eius quod est hoc aliquid: vt dictum est. Non enim habet rationem vniuersalis sicut 
+        <lb ed="#Ba" n="23"/>generis: vt possimus dicere quod deus est vnus genere, plures autem specie: quia quaecumque se habent 
+        <lb ed="#Ba" n="24"/>vt species sub genere, per differentias additas generum contrahuntur. Et ideo oportet quod sint composita 
+        <lb ed="#Ba" n="25"/>ex eo quod est in potentia, &amp; ex eo quod est in actu: vt infra dicetur. Genus enim imponitur ab eo quod est in  
+        <lb ed="#Ba" n="26"/>specie potentiale, &amp; differentia ab eo quod est in ipsa actuale: vt habetur ex. vii. meta, Deus autem non potest 
+        <lb ed="#Ba" n="27"/>esse nisi purus actus simplicissimus. Nec habet deus rationem speciei: vt possimus dicere quod deus est 
+        <lb ed="#Ba" n="28"/>vnus specie, plures vero numero, siue per materiam, siue per accidentia, non per materiam, quia ipse est 
+        <lb ed="#Ba" n="29"/>purus actus &amp; endelechia, quae non habet materiam: vt infra dicetur, neque per accidentia, quia in deo 
+        <lb ed="#Ba" n="30"/>nullum cadit accidens: vt infra dicetur, &amp; quia tunc non esset per se necesse esse: vt inductum est supra. 
+        <lb ed="#Ba" n="31"/>Et ideo quia deitas non est suppositum, neque hoc aliquid per aliquam huiusmodi contractionem, sed  
+        <lb ed="#Ba" n="32"/>per id quod est in se in sua natura &amp; essentia, <name ref="#Augustine">Augustinus</name> viii. de trinitate. comparando deum ad illa quae sunt hoc 
+        <lb ed="#Ba" n="33"/>aliquid per huiusmodi contractionem, dicit. Bonum hoc, bonum illud. tolle hoc, &amp; illud, &amp; vi- 
+        <lb ed="#Ba" n="34"/>de ipsum bonum si potes. tunc ipsum deum videbis. Et sic secundum eandem naturam conmunem deitas alteri in na 
+        <lb ed="#Ba" n="35"/>tura conicari non potest. Et ideo quod conicatur, hoc est secundum eandem naturam totaliter &amp; in suppositis re 
+        <lb ed="#Ba" n="36"/>latiuis diuinis, aut analogiam diuersarum naturarum ad naturam diuinam in diuersis suppositis abso 
+        <lb ed="#Ba" n="37"/>lutis, inquantum scilicet id quod in solo deo est per essentiam, in aliis inuenitur per participationem, vt in  
+        <lb ed="#Ba" n="38"/>creaturis. Et ex hoc est quod omnis multitudo creaturarum ad diuinam vnitatem habet reduci. secundum  
+        <lb ed="#Ba" n="39"/>quod ex hoc a posteriori processerunt quaedam argumenta probantia deum esse vnum, &amp; tantum vnum. 
+        <lb ed="#Ba" n="40"/>Nullum tamen eorum probauit gratia formae, quod non possunt esse plures. ex vnitate enim &amp; or 
+        <lb ed="#Ba" n="41"/>dine mundi non potest probari deus non posse plurificari, nisi ex suppositione, quod scilicet mundus non 
+        <lb ed="#Ba" n="42"/>possit plurificari. Vnde philosophus concederet deum posse plurificari, si possibile esset mundum siue pri- 
+        <lb ed="#Ba" n="43"/>mun caelum plurificari. secundum quod dicit in. xii. Si plures essent caeli, vt homines, foret principum quod est circa 
+        <lb ed="#Ba" n="44"/>vnumquodque specie vnum, numero autem plura. Caelum autem sumit ibi pro mundo. secundum enim quod di-  
+        <lb ed="#Ba" n="45"/>cit ibi Commen. innuit quod mundus est vnus non plures. Per principia circa vnumquodque, intelligit 
+        <lb ed="#Ba" n="46"/>secundum Commen. primam essentia. scilicet deum. Vnde philosophus ibidem ex vnitate dei qua est ita vnus quod non pos- 
+        <lb ed="#Ba" n="47"/>sunt esse plures, vnitatem mundi, ita quod non possint esse plures, concludit dicens. Vnum numero &amp; ra- 
+        <lb ed="#Ba" n="48"/>tione est primum mouens immobile ens, &amp; motum ergo semper continue vnum solum. Gratia autem formae 
+        <lb ed="#Ba" n="49"/>arguendi solum illa argumenta probant deum non posse plurificari, quae hoc probabant ratione simpli 
+        <lb ed="#Ba" n="50"/>citatis &amp; gubernationis &amp; perfectionis eius, &amp; huiusmodi, quorum media sumebantur ex parte entitatis dei 
+        <lb ed="#Ba" n="51"/>quae secundum rationem nostram intelligendi praecedit eius vnitatem. Et sic processerunt quasi a priori &amp; a causa. 
+        <lb ed="#Ba" n="52"/>Ex quibus etiam rationibus habetur probatio necessaria, primum principium esse id quod est necesse esse per se- 
+        <lb ed="#Ba" n="53"/>alia via quam a posteriori ex creaturis. Quod intellexit Auicen. cum dixit in i. metaphysicae suae. Nos ha-  
+        <lb ed="#Ba" n="54"/>bebimus viam ad stabiliendum primum principium non ex via testificationis sensibilium: sed ex via proposi 
+        <lb ed="#Ba" n="55"/>tionum vniuersalium intelligibilium, quae faciunt necessarium quod ens habet principium, &amp; quod est necesse esse, 
+   <!--322.xml-->
+        <pb ed="#Ba" n="154-r"/>
+        <lb ed="#Ba" n="1"/>lpsum autem deum esse absolute, non est nobis via aliqua ad probandum nisi ex creaturis. secundum quod dicit 
+        <lb ed="#Ba" n="2"/>Commneato super. xi. meta. Impossibile est declarari substantiam abstractam esse nisi ex motu, &amp; omnes viae ducen- 
+        <lb ed="#Ba" n="3"/>tes ad primum motorem esse praeter viam motus qualiter sunt sufficientes: quasi dicat nullo modo. &amp; 
+        <lb ed="#Ba" n="4"/>si essent vere, essent numeratae in prima philosophia. Principia enim impossibile est vt demonstrentur. Et 
+        <lb ed="#Ba" n="5"/>quia quaestio de entitate praecedit quaestionem de vnitate &amp; necessitate &amp; omnium aliarum: Ideo ad probandum  
+        <lb ed="#Ba" n="6"/>per priora quod deus sit vnus, &amp; quod sit necesse esse, vel aliquod aliorum, non est nobis via nisi primo co- 
+        <lb ed="#Ba" n="7"/>gnito ex creaturis quia sit. Et ideo dicit Auicen. Propter infirmitatem animarum nostrarum non possumus 
+        <lb ed="#Ba" n="8"/>procedere per ipsam viam demonstratiuam, quae est progressus ex principiis ad sequentia, &amp; ex causa ad 
+        <lb ed="#Ba" n="9"/>causatum, nisi aliquibus ordinibus vniuersitatis eorum quae sunt. Ex hac igitur veritate de esse &amp; vni 
+        <lb ed="#Ba" n="10"/>tate dei, excluditur omnis error fatuorum dicentium in corde suo, quod non est deus, &amp; etiam omnis vanitas 
+        <lb ed="#Ba" n="11"/>poetarum &amp; philosophorum, maxime idololatrarum ponentium plures deos esse. vel a diuersis. secundum quod vnusqusque  
+        <lb ed="#Ba" n="12"/>infidelium errantium deum suum posuit quod ei eminentius visum fuerat in rebus: vt dicit <name ref="#Augustine">Augustinus</name> i de do-  
+        <lb ed="#Ba" n="13"/>ctrina christiana. vel ab eodem, siue ponendo plures aequales &amp; aeque primos, &amp; hoc vel ambos bo- 
+        <lb ed="#Ba" n="14"/>nos, vel vnum bonum &amp; vnum malum: vt posuerunt Manichaei, siue ponendo vnum principalem super omnes 
+        <lb ed="#Ba" n="15"/>quoniam omnes alii non dii sunt: sed daemonia. secundum illud Psal. Dii gentium daemonia: dominus autem caelos 
+        <lb ed="#Ba" n="16"/>fecit. &amp; siue ponantur naturae diuersae ab eis quae circa nos sunt, siue ponantur conformes hominibus &amp; 
+        <lb ed="#Ba" n="17"/>animalibus quibusdam: vt ponebant aliqui. sicut dicit philosophus. xii. meta. siue ponantur homines deificati: vt po 
+        <lb ed="#Ba" n="18"/>nebant pagani: sicut dicit <name ref="#Augustine">Augustinus</name> de civitate dei. siue ponantur idola muta: &amp; secundum illos de quibus dicitur in 
+        <lb ed="#Ba" n="19"/>Psal. Simulacra gentium argentum &amp; aurum. siue ponantur intelligentiae siue angeli boni, quod videtur ponere 
+        <lb ed="#Ba" n="20"/>Aristoteles. Licet enim ponat primum motorem summum deum &amp; primum, alios tamen motores sub ipso etiam po 
+        <lb ed="#Ba" n="21"/>nit deos fuisse in natura &amp; sua essentia habentes esse ex seipsis formaliter: licet inferioris gradus quam ha 
+        <lb ed="#Ba" n="22"/>beat prima intelligentia. Vnde postquam conclusit in fine. xii. meta. quod est vnus deus aeternus in fine no 
+        <lb ed="#Ba" n="23"/>bilitatis, statim subdit dicens. Aliquam substantiam aeternam non mobilem abstractam a sensibili- 
+        <lb ed="#Ba" n="24"/>bus esse manifestum est hoc modo, &amp; iam declaratum est hanc substantiam non habere aliam magnitudi- 
+        <lb ed="#Ba" n="25"/>nem: sed neque partem: neque diuisionem: &amp; manifestum est quod non patitur neque transmutatur. haec igitur ma-  
+        <lb ed="#Ba" n="26"/>nifesta sunt esse talia. Vtrum autem ponenda est substantia talis esse vna aut plures: aut quot sunt, con 
+        <lb ed="#Ba" n="27"/>siderandum. &amp; subdit statim determinando circa hoc suam intentionem dicens. Nos autem dicamus de 
+        <lb ed="#Ba" n="28"/>substantiis diuinis. Principium enim &amp; primum entium non mouetur nec substantialiter, nec accidentali- 
+        <lb ed="#Ba" n="29"/>ter: &amp; mouet, &amp; facit primum motum aeternum, &amp; aeternus motus fit per motorem aeternum, &amp; vnus per 
+        <lb ed="#Ba" n="30"/>vnum, &amp; nos videmus praeter motum totius simplicem alios motus aeternos quid sunt erraticorum. Necesse est igi 
+        <lb ed="#Ba" n="31"/>tur vt vnusquisque istorum motuum fiat per aliquid quod est aeternum per se &amp; per substantiam aeternam. Ex quo con 
+        <lb ed="#Ba" n="32"/>cludit dicens. Manifestum igitur quod sunt substantiae aeternae naturaliter, &amp; per se immobiles, &amp; sine magnitudi 
+        <lb ed="#Ba" n="33"/>ne propter praedictam causam. vbi manifeste ascribit omnibus aliis easdem proprietates quaes ascribit primae substam 
+        <lb ed="#Ba" n="34"/>tiae: gradum tamen inter eas solum assignat, cum dicit. Quoniam autem substantias esse, &amp; earum haec est prima, haec autem secunda 
+        <lb ed="#Ba" n="35"/>secundum ordinem motuum stellarum manifestum est. Vnde statim secundum numerum motuum concludit numerum harum sub 
+        <lb ed="#Ba" n="36"/>stantiarum quod sunt. xlvii. vel. lv. dicens. Non est igitur alia natura omninos nisi ista: immo necesse est quod numerus sub 
+        <lb ed="#Ba" n="37"/>stantiarum sit iste. Vnde concludit deridendo in fine positionem aliorum deorum ab illis quos iam numerauit 
+        <lb ed="#Ba" n="38"/>dicens. Alia autem sunt similia fabulis propter vsum legum &amp; quod est conferens. Et ideo dicunt quod ista sunt 
+        <lb ed="#Ba" n="39"/>similia quibusdam aliis animalibus, &amp; alia similia non conuenientia dictis. Si igitur aliquis dixerit ex 
+        <lb ed="#Ba" n="40"/>istis, &amp; acceperit primum tantum: opinabitur quod primae substantiae sunt dii, &amp; recte &amp; secundum quod opor- 
+        <lb ed="#Ba" n="41"/>tet. vbi dicit Commen. Si aliquis exposuerit sermonem eorum quem dicunt per deos primas substantias 
+        <lb ed="#Ba" n="42"/>quae sunt principia corporum caelestium: tunc expositio erit vera. Proculdubio ergo Aristorus posuit plu 
+        <lb ed="#Ba" n="43"/>res deos naturaliter ex seipsis existentes, reducendo omnes ad vnum primum, non sicut a quo alii haberent 
+        <lb ed="#Ba" n="44"/>esse post non esse: sed sicut praecedens eos in ordine dignitatis &amp; principii motiui: a cuius motu de- 
+        <lb ed="#Ba" n="45"/>pendent motus omnium aliorum per ordinem, &amp; quod vniformiter semper prior habet causalitatem super posterio 
+        <lb ed="#Ba" n="46"/>rem, qualem primus super omnes, sed immediate super vnum sibi proximum, &amp; mediante illo super omnes alios, &amp; 
+        <lb ed="#Ba" n="47"/>quod omnes secundum gradus suos haberent coniter causalitatem super omnia inferiora, &amp; non vnus sine aliis: vt 
+        <lb ed="#Ba" n="48"/>primus nihil poterit agere nisi per motum &amp; mediantibus aliis. vt sic non sit summus deus secundum eum 
+        <lb ed="#Ba" n="49"/>nisi quaedam intelligentia caeteris nobilior &amp; gradus superioris, sion tamen in infinitum distantis ab aliis, 
+        <lb ed="#Ba" n="50"/>&amp; quod quaelibet earum ex se esset virtutis &amp; substantiae infinitae: licet illa superior primum gradum habe- 
+        <lb ed="#Ba" n="51"/>ret actionis in mouendo alias, &amp; eis influendo per suum motum: ita etiam quod nulla illarum agere posset 
+        <lb ed="#Ba" n="52"/>nisi mediante motu sui corporis. Propter quod dicit ibi Commen. Quod moderni dicunt substantiam 
+        <lb ed="#Ba" n="53"/>primam esse priorem motore totius, falsum est. Quaelibet enim substantia est principium sub- 
+        <lb ed="#Ba" n="54"/>stantiae sensibilis &amp; secundum finem, &amp; secundum motorem. Et ideo dixit Aristoteles. Si aliqua substantia esset non 
+        <lb ed="#Ba" n="55"/>mouens: esset otiosa. ita vt dicamus quod vna actio sequitur vnum agentem tantum. Tumen est illic causa &amp; cau- 
+   <!--323.xml-->
+        <pb ed="#Ba" n="154-v"/>
+        <lb ed="#Ba" n="1"/>fatum. secundum quod intellectum est causa intelligentis. &amp; quod nulla intelligentia est forma quasi si- 
+        <lb ed="#Ba" n="2"/>nis communis &amp; vniuersalis nisi illa prima. Dispositio enim in iuuamento corporum caelestium adin-  
+        <lb ed="#Ba" n="3"/>uicem in causando entia quae sunt hic &amp; conseruando, est sicut dispositio regentium bonorum 
+        <lb ed="#Ba" n="4"/>qui iuuant se &amp;c. vt dictum est supra. Et ideo Aristoteles non posuit plus distare summum deum 
+        <lb ed="#Ba" n="5"/>ab aliis, quam ducem in ciuitate a ciuibus, vel ducem exercitus a conmilitonibus adinuicem se ha 
+        <lb ed="#Ba" n="6"/>bentibus secundum gradus &amp; ordines. Plato autem licet deos vocauit intelligentias sub summo deo- 
+        <lb ed="#Ba" n="7"/>multo tamen melius sentiebat de ipso &amp; fidei magis congruentia, quam Aristorus Posuit enim illum sum- 
+        <lb ed="#Ba" n="8"/>mun, non solum aeternum: sed alios ab illo incepisse, &amp; esse eorum conseruari, &amp; in potentia illius semper 
+        <lb ed="#Ba" n="9"/>esse vt ad voluntatem eius dissolui possint: sicut &amp; totum mundum: per gradus tamen &amp; ordines 
+        <lb ed="#Ba" n="10"/>rerum. secundum quod dicit in secundo Timaei. Dicendum est cur rerum conditor, fabricatorque naturae 
+        <lb ed="#Ba" n="11"/>omne hoc instituendum putauerit. &amp; cur, subdit dicens. Optimus erat: ab optimo porro, inuidia 
+        <lb ed="#Ba" n="12"/>longe relegata est. itaque consequenter cuncta sui similia prout natura cuiusque capax esse beatitu- 
+        <lb ed="#Ba" n="13"/>dinis poterat, effici voluit. Quam quidem voluntatem dei originem rerum certissimam si quis ponat, re- 
+        <lb ed="#Ba" n="14"/>cte eum putare consentiam. Vnde &amp; specialiter ad deos posteriores loquens longe post dicit. Qdei 
+        <lb ed="#Ba" n="15"/>deorum, quorum opifex, idemque pater ego, opera siquidem vos mea dissolubilia natura: me tamen ita vo 
+        <lb ed="#Ba" n="16"/>lente indissolubilia, quia facti generatique estis: immortales quidem nequaquam: nec omnino indisso- 
+        <lb ed="#Ba" n="17"/>lubiles, nec tamen vnquam dissoluemini, nec mortis necessitatem subibitis, quia voluntas mea maior est 
+        <lb ed="#Ba" n="18"/>nexus &amp; vegetatior ad aeternitatis vestrae custodiam, quam illi nexus vitales, ex quibus aeternitas ve- 
+        <lb ed="#Ba" n="19"/>stra coagmentata atque composita est. Natura ergo Plato solum vnum deum posuit: participatione 
+        <lb ed="#Ba" n="20"/>autem quadam immortalitatis &amp; adoptione substantias intellectuales proximiores deo caeteris, 
+        <lb ed="#Ba" n="21"/>deos appellauit. Quod non est absurdum a modo scripturae sacrae. secundum quod dicitur in Psal. Non 
+        <lb ed="#Ba" n="22"/>est similis tui in diis domine. &amp; iterum. Ego dixi dii estis. Ille autem qui verus deus &amp; naturalis est 
+        <lb ed="#Ba" n="23"/>non nisi vnicus est. Caeteri autem creaturae eius sunt, quod Plato verius quam Aristonus sentiebat: vt di- 
+        <lb ed="#Ba" n="24"/>ctum est. Hanc talem vnitatem dei Auicen. primo metaphysicae suae professus est deo inesse, cum di 
+        <lb ed="#Ba" n="25"/>xit. Dicamus esse impossibile: vt ei quod est necesse esse sit compar aliud necesse esse, ita vt hic simul 
+        <lb ed="#Ba" n="26"/>habeat esse cum illo, nec vnum eorum sit causa alterius, sed sint aequalia in comitatu essendi: ita 
+        <lb ed="#Ba" n="27"/>vt eius esse non dependeat ex esse alterius: nec comitetur illud. Et non solum sic esse dixit: sed  
+        <lb ed="#Ba" n="28"/>etiam efficacissima ratione conuicit, arguendo sic. Necesse esse debet esse vnica essentia. Sinau-  
+        <lb ed="#Ba" n="29"/>tem sunt multae: vt vnaquaeque earum sit necesse esse: aut ergo vnum eorum differt ab altero in  
+        <lb ed="#Ba" n="30"/>certitudine essentiae suae, ita quod vnum habet eam ab altero, &amp; tunc non est deus nisi vnus illorum 
+        <lb ed="#Ba" n="31"/>ille scilicet a quo alter habet esse, quia deus non potest esse qui habet esse suum ab altero. aut non: sed vterque  
+        <lb ed="#Ba" n="32"/>habet eam a seipso: &amp; tantum differunt per hoc quod hoc non est illud. Et reprobat hoc membrum ra- 
+        <lb ed="#Ba" n="33"/>tione diuisiua tali. Si ponantur duo non differre in certitudine essendi in hoc quod vnum eorum sit 
+        <lb ed="#Ba" n="34"/>ab altero: quia vtrumque eorum ex se est necesse esse: sed differunt ex eo quod hoc non est illud: tunc 
+        <lb ed="#Ba" n="35"/>aut vnum eorum differt ab altero, eo quod est praeter intellectum suae essentiae, &amp; ita per aliquod adium 
+        <lb ed="#Ba" n="36"/>ctum essentiae vnius, quod non est adiunctum essentiae alterius, neque de ratione essendi illius: aut vnum 
+        <lb ed="#Ba" n="37"/>differt ab altero, eo quod est de sua ratione essendi, &amp; de intellectu suae essentiae, quod non est de ratio 
+        <lb ed="#Ba" n="38"/>ne essendi, neque de intellectu alterius, quia scilicet proprietas &amp; solitudo vnius in necessitate es 
+        <lb ed="#Ba" n="39"/>sendi, non est proprietas &amp; solitudo alterius. Hanc diuisionem non proponit, sed membra eius 
+        <lb ed="#Ba" n="40"/>exequitur &amp; interimit: &amp; primo primum dicens. Quia si illa quae dicuntur conuenire in necessita- 
+        <lb ed="#Ba" n="41"/>te essendi, eo solo differunt quod est praeter intellectum essentiae eorum, quod scilicet est adiun- 
+        <lb ed="#Ba" n="42"/>ctum essentiae vnius, &amp; non est adiunctum essentiae alterius: tunc illud additum intentio- 
+        <lb ed="#Ba" n="43"/>ni essendi in qua conueniunt, aut est necessarium ad intentionem essendi in qua conueniunt, 
+        <lb ed="#Ba" n="44"/>aut non . Si sic, tunc quaecunque conuertuntur in necessitate essendi, necesse est vt in eo conue- 
+        <lb ed="#Ba" n="45"/>niant, ex quo sunt necesse esse. Si non, tunc necessitas essendi eis communis est vt genus aut spe 
+        <lb ed="#Ba" n="46"/>cies: vt scilicet necessitas essendi sit eis intentio vel generalis vel specialis. Si dicatur quod generalis, aut  
+        <lb ed="#Ba" n="47"/>ergo diuiditur in illa duo per differentias, aut per accidentia. per accidentia non potest: quia ac 
+        <lb ed="#Ba" n="48"/>cidens tale necessario consequens est. vel ex ipsa ratione essendi, &amp; tunc oporteret quod ambo con- 
+        <lb ed="#Ba" n="49"/>uenirent in intentione illius accidentis: quia vbi eadem est causa, &amp; idem effectus: sed positum 
+        <lb ed="#Ba" n="50"/>est quod in ea differrent, &amp; sic conuenirent &amp; differrent in eodem, quod est inconueniens. Vel ac- 
+        <lb ed="#Ba" n="51"/>cidit illa intentio accidentis ex causis extrinsecis, &amp; tunc sequitur quod non differrent in cer- 
+        <lb ed="#Ba" n="52"/>titudine essendi, si non esset talis causa extrinseca. &amp; quod si esset talis causa, quae sola faceret eos 
+        <lb ed="#Ba" n="53"/>differre in necessitate essendi, neutrum eorum esset per se singulariter necesse esse: sed necessi- 
+        <lb ed="#Ba" n="54"/>tas essendi vtriusque eorum sibi propria &amp; solitaria ab illo esset ei acquisita, &amp; neutrum eorum 
+        <lb ed="#Ba" n="55"/>a se illam haberet, quod est contra naturam eius quod est necesse esse, quia ipsum necesse 
+   <!--324.xml-->
+        <pb ed="#Ba" n="155-r"/>
+        <lb ed="#Ba" n="1"/>esse, id quod est necesse esse in sua singularitate debet habere per se non per aliud. Similiter per differen- 
+        <lb ed="#Ba" n="2"/>tias diuidi non potest. Cum enim differentiae non sunt de ratione generis, &amp; certitudo essendi secundum  
+        <lb ed="#Ba" n="3"/>positionem est eorum genus commune: differentiae illae non acquirerent eis certitudinem essendi: sed esse ali 
+        <lb ed="#Ba" n="4"/>quid in actu sub illa. Rationale enim non acquirit animali intentionem qua est animal: sed qua est hoc animal, ho 
+        <lb ed="#Ba" n="5"/>mo vel asinus. Quod est inconveniens in proposito: primo quia illud esse in actu non potest esse nisi ne 
+        <lb ed="#Ba" n="6"/>cessitas essendi. quia quanto aliquid est in actu magis perfectum, tanto illi magis convenit essendi ne- 
+        <lb ed="#Ba" n="7"/>cessitas. Sed illud est ratio generis in quo conveniunt, &amp; ratio generis non acquiritur per differentiam: vt 
+        <lb ed="#Ba" n="8"/>dictum est. Vnde dicit in libro iiii. Rationale enim non est conditio, vt ex ea pendeat animal quantum ad intentionem 
+        <lb ed="#Ba" n="9"/>animalis, &amp; certitudinem eius, sed ad hoc vt habeat esse signatum in specie. Nunc autem si ipsum necesse es 
+        <lb ed="#Ba" n="10"/>se esset intentio communis, &amp; esset differentia qua egeret ad hoc vt necesse esse haberet esse, tunc illud  
+        <lb ed="#Ba" n="11"/>quod esset ei quasi differentia, esset intra quiditatem eius quod est quasi genus, quod est impossibile. Primo er 
+        <lb ed="#Ba" n="12"/>go est inconveniens necesse esse diuidi per differentias acquirentes esse aliquid in actu sub necessita- 
+        <lb ed="#Ba" n="13"/>te essendi. ldem secundo est inconveniens: quia tunc necessitas essendi hoc dependeret ab alio quam quod in se 
+        <lb ed="#Ba" n="14"/>est necesse esse. Positum enim est quod sit necesse esse per se, in quo conveniunt ambo, &amp; impossibile est quod idem 
+        <lb ed="#Ba" n="15"/>simul sit necesse esse per se &amp; per aliud: vt probatum est supra in quaestione an deus habeat esse a se. Postquam 
+        <lb ed="#Ba" n="16"/>igitur necessitas essendi duobus comounis, quorum vtrumque est necesse esse, non potest esse intentio generalis, neces 
+        <lb ed="#Ba" n="17"/>se est quod sit intentio specialis: quod non potest esse. quoniam singularia eiusdem speciei postquam non sunt diuisa in  
+        <lb ed="#Ba" n="18"/>intellectu essentiae, in illa vnum sunt, &amp; si sint diuersa debent esse diuisa accidentibus, vel per materias: quia  
+        <lb ed="#Ba" n="19"/>differentiis non diuiditur nisi genus: &amp; iam ostensum est quod necesse esse accidentibus diuidi non potest. per 
+        <lb ed="#Ba" n="20"/>materias etiam diuidi non potest: quia necesse esse non potest habere materiam: quia materia est in poten- 
+        <lb ed="#Ba" n="21"/>tia esse. Deinde interimit membrum secundum praemissae subdiuisionis dicens. Si quis vero dixerit quod 
+        <lb ed="#Ba" n="22"/>necessitatem essendi esse proprietatem huius non prohibet eam esse proprietatem alterius: Eam enim esse 
+        <lb ed="#Ba" n="23"/>alterius non remouet eam esse proprietatem huius: vt ipsa sicut species vna ex se sit tota sine ali- 
+        <lb ed="#Ba" n="24"/>quo addito in diuersis indiuiduis, puta si ponantur duo angeli eiusdem esse speciei sine omni mate 
+        <lb ed="#Ba" n="25"/>ria &amp; accidense quibus distinguantur, sed quod solum seipsis distinguantur: licet exemplum non sit omnino 
+        <lb ed="#Ba" n="26"/>simile: Dicemus (inquit) quia hoc quod dicimus quod necessitas essendi assignatur, proprie rei illi inquan 
+        <lb ed="#Ba" n="27"/>tum est illius, &amp; inquantum consideratur non esse alterius, intelligitur quod non est proprietas alterius ipsamet, 
+        <lb ed="#Ba" n="28"/>sed consimilis eius, quoniam ipsa non debetur nisi ipsi soli. Sicut positis duobus angelis eiusdem speciei 
+        <lb ed="#Ba" n="29"/>id quod vnus est re non est id quod alter re: sed consimile ei. Sed tunc postquam vnum eorum est necesse esse vel 
+        <lb ed="#Ba" n="30"/>idem ipsum, in eo scilicet quod est necesse esse, &amp; in eo quod est hoc singulare, erit vnum tantum: vt nulla sit ra- 
+        <lb ed="#Ba" n="31"/>tio diuersitatis in eo ex hoc quod dicitur esse hoc ipsum proprie: &amp; quod dicitur esse necesse esse. &amp; tunc 
+        <lb ed="#Ba" n="32"/>quod est necesse esse, erit quod ipsum, id est quod est hoc singulare, &amp; non aliud praeter ipsum. Et 
+        <lb ed="#Ba" n="33"/>tunc sicut quod est hoc singulare non potest esse nisi vnum, quia singularitas vt singularitas incommu- 
+        <lb ed="#Ba" n="34"/>nicabilis est: Sic nec ipsum necesse esse potest esse in pluribus quam in vno, vel ipsum esse necesse esse 
+        <lb ed="#Ba" n="35"/>erit aliud quam ipsum esse ipsum, &amp; tunc coniunctio horum diuersorum quod est ipsum esse ipsum, &amp; quod est 
+        <lb ed="#Ba" n="36"/>ipsum esse necesse esse, vt quod ipse idem sit ipsum necesse esse, vel erit per seipsum, vel per causam aliam:  
+        <lb ed="#Ba" n="37"/>praeter se facientem illud esse necesse esse. Si autem quod est ipsum, necesse esse fuerit per seipsum, tunc quic- 
+        <lb ed="#Ba" n="38"/>quid est necesse esse, erit illud idem. Aliter enim non esset per seipsum necesse esse. Si vero id quod ipsum 
+        <lb ed="#Ba" n="39"/>fuerit quod est necesse esse per causam aliam facientem illud esse necesse esse, tunc de eo quod ipsum est ipsum  
+        <lb ed="#Ba" n="40"/>indem erit causa: &amp; proprietas sui esse solitarii erit causa: quia in suo solitario esse &amp; proprietario 
+        <lb ed="#Ba" n="41"/>secundum positionem non habet aliud esse quam necesse esse. Igitur quod est ipsum &amp; quod est necesse esse totum est 
+        <lb ed="#Ba" n="42"/>causatum in eo, quod est inconueniens. Ex quo efficacissime &amp; verissime concludit dicens. Necesse 
+        <lb ed="#Ba" n="43"/>igitur esse est vnum non sicut species sub genere, &amp; est vnum numero non sicut indiuiduum  
+        <lb ed="#Ba" n="44"/>sub specie: sed est intentio quae significat illud tantum suo nomine, in cuius esse nihil aliud sibi con- 
+        <lb ed="#Ba" n="45"/>municat: immo quod amplius est, nec communicare potest: vt ostensum est. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e1005">
+        ⁋ Secundam deductionem 
+        <lb ed="#Ba" n="46"/>inducit ad idem librum viii. dicens. Certitudo primi est ipsi tantum &amp; non alii. Vnus enim inquantum  
+        <lb ed="#Ba" n="47"/>est necesse esse est id quod ipsum est, &amp; eius essentia, id est, quod ab eodem habet quod sit hoc, &amp; quod sit essen- 
+        <lb ed="#Ba" n="48"/>tia quaedam, &amp; necesse esse simpliciter, propter quod impossibile est ipsum plurificari. Verbi gra- 
+        <lb ed="#Ba" n="49"/>tia. Si id quod est necesse esse sit hic homo, tunc necesse est vt hic sit hic propter humanitate. id est quia est 
+        <lb ed="#Ba" n="50"/>homo, quod si propter hoc quod est homo, sit hic homo, tunc humanitas indicat tantum hunc hominem. Si 
+        <lb ed="#Ba" n="51"/>enim esset humanitas alii praeter hunc, tunc non indicaret humanitas hunc, &amp; hic non est factus 
+        <lb ed="#Ba" n="52"/>hic nisi propter aliam causam praeter humanitatem. Similiter est dispositio de necesse esse. Si enim 
+        <lb ed="#Ba" n="53"/>ipsa per seipsam fuerit hoc signatum, tunc impossibile est vt illa certitudo sit alii: nisi illi. Alio- 
+        <lb ed="#Ba" n="54"/>quin ipsa certitudo in se non esset hoc. Si autem certitudo huius intentionis non fuerit huic si- 
+        <lb ed="#Ba" n="55"/>gnato ex seipso: sed ex alio a se: quare cum nec ipsum est ipsum: nisi quia ipsum est haec intentio 
+   <!--325.xml-->
+        <pb ed="#Ba" n="155-v"/>
+        <lb ed="#Ba" n="1"/>signata, tunc proprium esse eius erit ei acquisitum ab alio a se. &amp; sic non erit ipsum necesse esse, quod est 
+        <lb ed="#Ba" n="2"/>impossibile &amp; contra positum. lgitur certitudo de necesse esse vni tantum est, quod scilicet est necesse esse. Duo 
+        <lb ed="#Ba" n="3"/>enim non sunt duo, nisi propter intentionem, vel propter sustinens intentionem, vel propter illud in quo sunt 
+        <lb ed="#Ba" n="4"/>&amp; propter locum, &amp; propter horam &amp; tempus, &amp; omnino propter aliquam causam. Quaecumque autem non differunt 
+        <lb ed="#Ba" n="5"/>per intentionem, differunt per aliquid quod accidit intentioni, &amp; est adiunctum ei. Quod ergo non habet esse nisi inten- 
+        <lb ed="#Ba" n="6"/>tionis, nec dependet ex causa extrinseca, nec dispositione extriseca, in quae differt ab alio sibi consimili, 
+        <lb ed="#Ba" n="7"/>non est aliud ei conicans in sua intentione. lgitur primo nihil est aequale. Et subdit continuo ad idem tertiam dedu  
+        <lb ed="#Ba" n="8"/>ctionem dicens. Item dico quod necessitas essendi non potest esse intentio in quae conicet aliquod aliud a se vllo modo: ita 
+        <lb ed="#Ba" n="9"/>vt sint convenientia in certitudinibus, nec sunt diuersa certitudinibus. Quia enim necessitas essendi 
+        <lb ed="#Ba" n="10"/>non habet quiditatem adiunctam sibi nisi ipsam necessitatem essendi: vt dictumest supra &amp; infra dicetur, 
+        <lb ed="#Ba" n="11"/>necesse est vt id in quo singula quae sunt necesse esse differunt post convenientiam in quiditate &amp; ne- 
+        <lb ed="#Ba" n="12"/>cessitate essendi, sit aliquid quod est vel in omnibus illis, vel in nullo illorum, vel sit in aliquibus, &amp; in aliis 
+        <lb ed="#Ba" n="13"/>non sit. Huius diuisionis trimembris primo destruit secundum dicens: quod si non fuerit alicui eorum, tunc 
+        <lb ed="#Ba" n="14"/>non erit in eis aliquid propter quod accidit in eis diuersitas post convenientiam ipsorum. Quare cum in certi 
+        <lb ed="#Ba" n="15"/>tudinibus essendi, vt suppositum est, non sit inter ea diuersitas omnino: ergo sunt convenientium certitudi 
+        <lb ed="#Ba" n="16"/>num. falsum ergo est quod positum est: diuersas scilicet esse certitudines eorum postquam in certitudine &amp; neces 
+        <lb ed="#Ba" n="17"/>sitate essendi conveniunt. Secundo destruit tertium membrum dicens, quod si fuerit aliquibus eorum, &amp; aliquibus non 
+        <lb ed="#Ba" n="18"/>verbi gratia, quod vnum eorum ita sit discretum ab alio, quod habeat certitudinem necessitatis essendi, &amp; insuper ali 
+        <lb ed="#Ba" n="19"/>quid aliud quod est conditio discretionis, &amp; alii similiter est certitudo necessitatis essendi: sed cum pri- 
+        <lb ed="#Ba" n="20"/>uatione illius conditionis, ita quod non sit discretum ab hoc, nisi per priuationem huiusmodi: tunc erit ei neces- 
+        <lb ed="#Ba" n="21"/>sitas essendi &amp; certitudo quam habet ex hoc quod stabilitur existens cum priuatione illius conditionis quae  
+        <lb ed="#Ba" n="22"/>sequitur illud. Quare cum priuatio non habet intentionem acquisitam in rebus, alioquin essent in aliquo  
+        <lb ed="#Ba" n="23"/>intentiones infinitae: Ea enim quae ab aliquo remouentur, infinita sunt comparatione eorum quae de ipso affir 
+        <lb ed="#Ba" n="24"/>mantur: de quibus fierent negationes infinitae: Non potest igitur esse quin necessitas essendi sit ei certifica 
+        <lb ed="#Ba" n="25"/>ta sine additione quae est ei, aut non. Si autem non sine additione quae est ei, ltunc quod erit sine illa non habebit 
+        <lb ed="#Ba" n="26"/>necessitatem essendi: &amp; conditio immediate essendi erit in altero, quid est impossibile, quia tunc non esset ex se neces- 
+        <lb ed="#Ba" n="27"/>se esse. Si autem sine additione, tunc additio erit suprflua &amp; non erit de necessitate essendi, &amp; erit composi- 
+        <lb ed="#Ba" n="28"/>tum: sed necesse esse non est compositum. Tertio destruit primum membrum diuisionis principalis praepositae dupli- 
+        <lb ed="#Ba" n="29"/>ci ratione. Prima ostensiua &amp; simplex, quae talis est. si fuerit vnicuique eorum aliquid per quid discernitur 
+        <lb ed="#Ba" n="30"/>ab altero, tunc hoc indicat compositionem in vtroque eorum: quae non potest cadere in eo quod est necesse esse. secundum  
+        <lb ed="#Ba" n="31"/>quod inferius ostendetur. Secunda ratio composita est &amp; diuisiua: cuius primo proponit duo membra 
+        <lb ed="#Ba" n="32"/>dicens quod illud non potest esse quin aut necessitas essendi sit persecta absque vnaquaque dictarum conditio-  
+        <lb ed="#Ba" n="33"/>num, vel sit ei in vtroque conditio haec per quam perficiatur. Deinde prosequitur interimendo orimo pri 
+        <lb ed="#Ba" n="34"/>mum membrum dicens, quod si fuerit perfecta absque illis conditionibus, tunc in necessitate essendi non est di 
+        <lb ed="#Ba" n="35"/>uersitas per essentiam, sed per accidentia quae sequuntur: quibus non eget necessitas essendi ad suam existen 
+        <lb ed="#Ba" n="36"/>tiam, quae impossibile est cadere in eo quod est necesse esse: vt dictum est in prima ratione. Deinde in  
+        <lb ed="#Ba" n="37"/>terimit secundum membrum ratione diuisiua bimembri, cuius membra ponit primo dicens, quod si non perficitur 
+        <lb ed="#Ba" n="38"/>necessitas essendi sine illis conditionibus additis, tunc necessario non perficietur sine illis conditioni-  
+        <lb ed="#Ba" n="39"/>bus ad habendum in eis certitudinem necessitatis essendi, aut necessitas essendi erit intentio certifi- 
+        <lb ed="#Ba" n="40"/>cata in seipsa, ita vt nec illa duo, nec altera duo sint intra identitatem essendi secundum quod est ne- 
+        <lb ed="#Ba" n="41"/>cesse esse, sed est necessarium vt sit ei acquisitum esse cum aliquo illorum. Et hoc secundum membrum decla- 
+        <lb ed="#Ba" n="42"/>rat per exempla duo (Si tamen veritatem in se habet: sed nihil refert ad propositum) dicens. Verbi gratia. Sicut 
+        <lb ed="#Ba" n="43"/>hyle cuius substantialitas quamuis sit in definitione suae hyleitatis, tamen suum esse in effectu non est nisi per  
+        <lb ed="#Ba" n="44"/>hanc formam vel per aliam. Colorem quoque quamuis differentia nigredinis non constituit inquantum est 
+        <lb ed="#Ba" n="45"/>color: nec differentia albedinis, tamen vnaquaeque earum est ei quasi causa ad essendum in effectu, &amp; ad  
+        <lb ed="#Ba" n="46"/>habendum esse, nec vna earum tantum est causa eius, sed quaecumque euenerit, quamuis illa sit in vna dispositio 
+        <lb ed="#Ba" n="47"/>ne &amp; haec in alia. Deinde destruit primum membrum huius vltimae diuisionis dicens, quod si fuerit 
+        <lb ed="#Ba" n="48"/>res secundum iudicium primi modi, tunc vnumquodque eorum erit intrans in constitutione necessi 
+        <lb ed="#Ba" n="49"/>tatis essendi, &amp; erit conditio in illo. oportebit ergo quod vbicumque fuerit necessitas essendi, quod illa con 
+        <lb ed="#Ba" n="50"/>ditio ex vtroque confecta simul sit cum eo, &amp; non solum erit vna illarum conditionum in vno, &amp; 
+        <lb ed="#Ba" n="51"/>alia in alio, sed ambae in vnoquoque. &amp; si sic, per illas distingui non possunt, sicut nec per ipsum ne 
+        <lb ed="#Ba" n="52"/>cesse esse in quo conueniunt. Deinde destruit secundum membrum dicens, quod si fuerit secundum iu 
+        <lb ed="#Ba" n="53"/>dicium modi secundi, tunc necessitas essendi indigebit aliquo per quod habet esse, &amp; esset ei esse 
+        <lb ed="#Ba" n="54"/>non nisi postquam affirmaretur ei intentio illa qua ipsum necesse esse est. sicut materia non exi- 
+        <lb ed="#Ba" n="55"/>stit in actu nisi per formam, &amp; color nisi per albedinem &amp; nigredinem. Egeret igitur alio per 
+   <!--326.xml-->
+        <pb ed="#Ba" n="156-r"/>
+        <lb ed="#Ba" n="1"/>quod haberet esse, quod est inconueniens: quia ipsum necesse esse includit ex seipso esse in actu, sicut 
+        <lb ed="#Ba" n="2"/>color ex se includit coloreitatem, &amp; hyle hyleitatem, licet non includant ex se in actu entitatem. Vnde si 
+        <lb ed="#Ba" n="3"/>cut differentia albedinis &amp; nigredinis non adduntur ad colorem ad faciendum coloreitatem, neque for 
+        <lb ed="#Ba" n="4"/>ma ad hyle ad faciendum hyleitatem, sic oportet vt proprietas dictarum conditionum non sit aliquid  
+        <lb ed="#Ba" n="5"/>ad stabiliendum necessitatem essendi. Est autem hic aduertendum quod non potest esse simile omnino de ne- 
+        <lb ed="#Ba" n="6"/>cesse esse respectu coloris, &amp; hyle, quo ad esse in actu, quia illa per id quod sunt in essentia sua, 
+        <lb ed="#Ba" n="7"/>non includunt in se esse in actu, sicut facit necesse esse, quoniam necesse esse est stabilitum esse, immo ipsum 
+        <lb ed="#Ba" n="8"/>est stabilimentum essendi, &amp; esse est conditio in stabiliendaequiditate eius quod est necesse esse, vel vt 
+        <lb ed="#Ba" n="9"/>verius dicatur ipsum est ipsum esse in effectu cum priuatione priuationis, vel prohibitione destru 
+        <lb ed="#Ba" n="10"/>ctionis. Necesse enim esse est id quod est non potens non esse. In colore autem esse est consequens quid sequitur 
+        <lb ed="#Ba" n="11"/>quiditatem quae est color. lgitur quiditas quae per seipsam est color, inuenitur in effectu per esse, &amp; 
+        <lb ed="#Ba" n="12"/>est ei esse illud acquisitum a causa sua, quod quid est esse non est causa in stabilienda quiditate coloris, sed pro 
+        <lb ed="#Ba" n="13"/>prietas essendi. Reuertentes igitur ad propositum dicamus secundum Auicen. &amp; rei veritatem, quod si esse in  
+        <lb ed="#Ba" n="14"/>eo quod est necesse esse non esset causa formalis intrinseca ad stabiliendum quiditatem necessitatis essen 
+        <lb ed="#Ba" n="15"/>di, sed esset proprietas essendi inquantum acquiritur sibi esse, &amp; sic esse esset aliquid praeter illam qui  
+        <lb ed="#Ba" n="16"/>ditatem, veluti colori quod est in actu, est aliquid praeter quiditatem coloris, tunc procederet hoc secundum con 
+        <lb ed="#Ba" n="17"/>siderationem causarum rerum communium determinatarum suis differentiis vel substantialibus, vel acci 
+        <lb ed="#Ba" n="18"/>dentalibus, &amp; ideo diuersarum intentionibus diuersis, &amp; oporteret vt esse esset ei acquisitum, ad hoc 
+        <lb ed="#Ba" n="19"/>vt esset eius entitas. igitur proprietas esset, sicque in aliquo indigeret ea, in quo in rei veritate non in-  
+        <lb ed="#Ba" n="20"/>diget ea, quid est absurdum &amp; inconveniens, quia tunc esse esset in eo aliquid, &amp; non esset ipsum esse: 
+        <lb ed="#Ba" n="21"/>sed certitudo illius quod est necesse esse egeret alio secundo esse ad quid sequatur ei esse, sicut certi- 
+        <lb ed="#Ba" n="22"/>tudo coloris eget quid sit ei causa essendi, quod est impossibile. Si enim certitudo necessitatis essendi 
+        <lb ed="#Ba" n="23"/>penderet ex aliquo dante sibi necessitatem, tunc necessitas essendi in se esset possibilitas essendi, quod 
+        <lb ed="#Ba" n="24"/>non est verum. Ex quibus concludit in fine huius materiae. Probatum est igitur quod in necessitate 
+        <lb ed="#Ba" n="25"/>essendi non est communicatio. lgitur primo nihil communicat. Et sic patet quod non est ponere alium 
+        <lb ed="#Ba" n="26"/>deum conmunicantem ei in natura deitatis, ita quod nec est possibile esse alium. Et ne dicatur quod sit alius 
+        <lb ed="#Ba" n="27"/>deus malus non communicans ei in natura, sed contrarius &amp; contrariae naturae ei existens, vel quod  
+        <lb ed="#Ba" n="28"/>possibile est esse talem, subdit. Postquam autem liberum est a materia &amp; ab eius appendiciis &amp; ab omni 
+        <lb ed="#Ba" n="29"/>corruptione, &amp; vtraque haec sunt conditio eius quod cadit sub contrarietate: tunc primus non habet 
+        <lb ed="#Ba" n="30"/>contrarium. Ex his patent multa superius determinata circa esse dei, &amp; eius quiditatem. patebunt 
+        <lb ed="#Ba" n="31"/>etiam multa inferius determinando circa consequentia ad esse dei &amp; eius vnitatem: vt sunt immuta- 
+        <lb ed="#Ba" n="32"/>bilitas, simplicitas, &amp; caetera huiusmodi. de quibus videbitur inferius. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e1226">
+        <lb ed="#Ba" n="33"/>⁋ Ad primum in oppositum quod possibile est mundos esse plures, ergo &amp; plures deos: Dicen- 
+        <lb ed="#Ba" n="34"/>dum ad hoc quod multum restat inter opinionem Aristotelesphilosophis de primo principio, &amp; fidem catholicam quae 
+        <lb ed="#Ba" n="35"/>innititur ipsi primae veritati, a qua plures philosophi deuiauerunt. Eidei enim veritas cui concordat omnis 
+        <lb ed="#Ba" n="36"/>recta ratio, tenet quod vnum est primum principium omnium, a quo omnia habent esse, non necessita- 
+        <lb ed="#Ba" n="37"/>te naturae: sed libera voluntate nulli necessitati annexa, cuius solius est actio propria, &amp; imme- 
+        <lb ed="#Ba" n="38"/>diata creaturam omnem de non esse in esse producere sine omni medio materiali, vel agente in  
+        <lb ed="#Ba" n="39"/>hoc ei suffragante. Actio autem secundaria est creaturas quasdam mediantibus quibusdam gu 
+        <lb ed="#Ba" n="40"/>bernare: licet immediate posset. Econtra autem est opinio Philosophi, quod scilicet etsi a primo prin 
+        <lb ed="#Ba" n="41"/>cipio omnia alia habent esse effectiue, hoc est eis esse suum in gradu inferiori communicando,  
+        <lb ed="#Ba" n="42"/>&amp; hoc naturae necessitate, non tamen aliquid de non esse absoluto in esse producendo, &amp; quod eius 
+        <lb ed="#Ba" n="43"/>operatio propria sit primum mobile mouere, &amp; necessitate naturae ei coniunctum esse &amp; deter- 
+        <lb ed="#Ba" n="44"/>minate, &amp; mediante motu eius omnia alia regere &amp; gubernare, nec aliquid noui nisi median 
+        <lb ed="#Ba" n="45"/>te illius motu agere. secundum quod suis locis ex dictis eius omnia ista poterunt declarari. Vn- 
+        <lb ed="#Ba" n="46"/>de huic veritati catholicae praedictae obuians Commen. in xii. metaphysicae dicit. Moderni dicunt 
+        <lb ed="#Ba" n="47"/>substantiam primam esse priorem motore totius, quod falsum est. Quaelibet enim substantia ista- 
+        <lb ed="#Ba" n="48"/>rum est principium substantiae sensibilis. Et (vt dicit) quod ideo dixit Aristote, quod si essent aliquae  
+        <lb ed="#Ba" n="49"/>substantiae abstractae non mouentes, essent ociosae. Vnde dicit quod hoc quod dicit Plato in suis ver- 
+        <lb ed="#Ba" n="50"/>bis obscuris, quod creator creauit angelos: Deinde praecepit eis creare alia mortalia, &amp; remansit ipse 
+        <lb ed="#Ba" n="51"/>in quiete sine labore: Non est intelligendum ad literam. Et addit quod forte aestimare hoc in deo 
+        <lb ed="#Ba" n="52"/>fuit causa sabbati positi in lege filiorum lfrael. Sicut ergo philosophus posuit caelum esse pro- 
+        <lb ed="#Ba" n="53"/>pter suum motum, &amp; non posse existere nisi moueret: sic posuit persectionem dei esse in mo-  
+        <lb ed="#Ba" n="54"/>uendo caelum, &amp; quod non existeret, vel vanus esset &amp; ociosus nisi moueret. Sicut neque quaecunque  
+   <!--327.xml-->
+        <pb ed="#Ba" n="156-v"/>
+        <lb ed="#Ba" n="1"/>res potest esse sine eo quo perficitur in suo esse. Et ideo sicut ex naturali colligantia vnitas fomae 
+        <lb ed="#Ba" n="2"/>determinatur vnitate materiae &amp; econverso: sic posuit vnitatem primi mobilis siue mundi per con- 
+        <lb ed="#Ba" n="3"/>sequens determinari vnitate primi principii mouentis ipsum. &amp; similiter de aliis mobilibus &amp; moto 
+        <lb ed="#Ba" n="4"/>ribus: quia vt dicit in. xii. Motus aeternus fit per motorem aeternum, &amp; vnus per vnum. &amp; econtra in  
+        <lb ed="#Ba" n="5"/>telligendum secundum ipsum quod plures per plures. &amp; ideo ad vnitatem principii mouentis posuit sequi vni 
+        <lb ed="#Ba" n="6"/>tatem mobilis &amp; econverso: tam circa primum mouens &amp; mobile suum, quam circa posteriora &amp; mobilia eorum.  
+        <lb ed="#Ba" n="7"/>Et ita si primum caelum esset plures numero &amp; idem specie, &amp; primi mouentes, &amp; econverso, &amp; similiter 
+        <lb ed="#Ba" n="8"/>de caeteris. &amp; supposuit vtrumque esse impossibile. Vnde &amp; probat primo cae. &amp; mundo. pluralitatem mundi  
+        <lb ed="#Ba" n="9"/>omnino esse impossibilem. Fundamentum autem eius est, quod non est in aliquibus multitudo secundum nu- 
+        <lb ed="#Ba" n="10"/>merum: nisi in quibus est materia generabilis &amp; corruptibilis perticularis secundum quantitatem: vt secundum di.  
+        <lb ed="#Ba" n="11"/>uersas partes materiae eiusdem sub diuersis partibus quantitatis diuersetur forma secundum numerum per 
+        <lb ed="#Ba" n="12"/>ficiens diuersas partes materiae. secundum quod dicit in vii. meta. Neque demonstratio, neque definitio est 
+        <lb ed="#Ba" n="13"/>sensibilium particularium. Habent enim materiam quae habet naturam qua res potest esse &amp; non esse. Et 
+        <lb ed="#Ba" n="14"/>ideo corrumpuntur omnino particularia. Vnde &amp; in aeternis tam corporalibus quam incorporalibus, 
+        <lb ed="#Ba" n="15"/>non posuit speciem subsistere nisi in vnico supposito. Vnde &amp; dicit in. xii. vnde sumptum est argu- 
+        <lb ed="#Ba" n="16"/>mentum. Si plures essent caeli: vt homines plures scilicet numero: &amp; vnus specie foret principium mouens, 
+        <lb ed="#Ba" n="17"/>quod est circa vnumquodque caelum specie vnum, numero vero multa. sed quaecumque sunt numero multa 
+        <lb ed="#Ba" n="18"/>habent materiam. Nos autem econtrario dicimus quod deus est primus motor vniuersalis, nulli mobili 
+        <lb ed="#Ba" n="19"/>determinatus, neque etiam vniuerso, neque vllo modo ab ipso in suo esse dependet: sed econtra. Et 
+        <lb ed="#Ba" n="20"/>ideo super pluralitatem mundorum habet potentiam, vel successiue plures producendo continue in in  
+        <lb ed="#Ba" n="21"/>finitum, permittendo scilicet vnum cadere in nihilum, &amp; alium iterato producendo, vel simul alium mundum 
+        <lb ed="#Ba" n="22"/>vel alios isti communicando, quorum vnus ab altero non dependeret: sed ambo ab vno deo: vt non  
+        <lb ed="#Ba" n="23"/>oporteret plures mundos reducere ad aliquam vnitatem inter se: sed solum ad vnum principium omnium. 
+        <lb ed="#Ba" n="24"/>Et est falsum quicquid philosophus in huiusmodi suis principiis supposuit, &amp; dictam rerum connexionem 
+        <lb ed="#Ba" n="25"/>esse, &amp; indiuidua sub specie multiplicari non posse nisi per materiam. secundum quod alias omnia ista proprias de 
+        <lb ed="#Ba" n="26"/>bent habere determinationes. Vnde ex vnitate dei, &amp; quod non possunt esse plures, non potest argui 
+        <lb ed="#Ba" n="27"/>quod non possunt esse plures mundi: sed solum potest probari quod sit vnus tantum, non ex necessitate aliqua  
+        <lb ed="#Ba" n="28"/>naturae rerum: sed ex congruentia correspondentiae naturae exemplati ad exemplar, iuxta quod tamen plura 
+        <lb ed="#Ba" n="29"/>exemplata possent produci. Et secundum hunc modum Plato in secundo Tim. ex vnitate dei probauit vni 
+        <lb ed="#Ba" n="30"/>tatem mundi, cum dixit. Nunc vtrum recte mundum vnum dixerimus aut plures dici oportuerit, vel in  
+        <lb ed="#Ba" n="31"/>numerabiles, considerandum. Et statim respondet dicens. Vnum plane, quia iuxta exemplar formatus 
+        <lb ed="#Ba" n="32"/>est. Et quod illud exemplar sit vnum continue probat dicens. Id enim quod vniuersa continet intelligibilia 
+        <lb ed="#Ba" n="33"/>cum alio. secundum esse non poterat. Vtrum enim ex duobus contineret omnia non (opinor) liqueret, nec esset 
+        <lb ed="#Ba" n="34"/>vnum simplex cuncta continens, sed coniugatio copulata. sed de hoc satis visum est iam. Ex quo statim con 
+        <lb ed="#Ba" n="35"/>cludit intentum dicens. Vt igitur exemplari cuius aemulationem imitabatur, etiam in numero similis es- 
+        <lb ed="#Ba" n="36"/>set, idcirco neque duo, neque innumerabiles mundi, sed vnicus a deo factus est. Quin tamen plures poterant 
+        <lb ed="#Ba" n="37"/>facti fuisse, non negant. Haec igitur sit ars nostra contra philosophous in principiis suis eis obsistere in omnibus 
+        <lb ed="#Ba" n="38"/>in quibus veritati fidei contrariantur. Aliter enim in eis quae sunt post principia, non possemus eis re- 
+        <lb ed="#Ba" n="39"/>sistere. Propter quod Orige. in Homilis. iiii. super Exod. exponens illud quod dixit domins Moysi. Exod. vii. 
+        <lb ed="#Ba" n="40"/>Stabis in occursum eius super ripam fluminis, dicit. Sed nec illud putandum est nobis inaniter obser- 
+        <lb ed="#Ba" n="41"/>uatum, quod primo quidem Moyses non intrat ad Pharaonem: sed occurrit ei exeunti ad aquas:  
+        <lb ed="#Ba" n="42"/>postmodum vero intrat ad eum. Et in hoc arbitror intelligi posse, quod si nobis in verbo dei &amp; reli- 
+        <lb ed="#Ba" n="43"/>gionis assertione certamen est aduersus Pharaonem, &amp; est nobis in disputatione luctamen: non statim 
+        <lb ed="#Ba" n="44"/>prima fronte in gredi debemus ad vltima quaestionum loca, sed occurrendum nobis est aduersario 
+        <lb ed="#Ba" n="45"/>ad aquas suas. Aquae enim suae sunt auctores gentilium philosophorum. Ibi ergo nobis primodisputa- 
+        <lb ed="#Ba" n="46"/>re volentibus occurrendum est: vt ipsos arguamus, &amp; ipsos errasse doceamus. post hoc iam nobis 
+        <lb ed="#Ba" n="47"/>ingrediendum est &amp; ad interiora certaminis. Dns enim dicit. Nisi quis prius alligauerit fortem, non  
+        <lb ed="#Ba" n="48"/>potest introire in domum eius, &amp; vasa eius diripere. Prius ergo alligandus est fortis, &amp; quaestio- 
+        <lb ed="#Ba" n="49"/>nis vinculis constringendus, &amp; ita introeundum ad diripiendum vasa eius, &amp; liberandas animas, quas 
+        <lb ed="#Ba" n="50"/>deceptione &amp; fraude possederat. Quod cum fecerimus, stemus contra ipsum eo modo quo dicit Aposto 
+        <lb ed="#Ba" n="51"/>State ergo succincti lumbos vestros in veritate. 
+      </p>
+      <p xml:id="vn58an-d1e1868-d1e1391">
+        ⁋ Ad secundum quod bonum est suiipsius diffusiuum, dicen- 
+        <lb ed="#Ba" n="52"/>dum quod verum est, non tamen nisi secundum modum quo possibile est diffundi, sicut &amp; natura semper facit quod me 
+        <lb ed="#Ba" n="53"/>lius est: cum tamen est possibilius. Sciendum igitur quod deus quia est sua bonitas, omni modo quo possi- 
+        <lb ed="#Ba" n="54"/>bile est fieri diffusionem sui se diffundit. Cum enim diffusio non sit nisi secundum aliquam diuersitatem, &amp; secundum 
+        <lb ed="#Ba" n="55"/>aliquam identitatem, sicut est habitudo inter principiatum &amp; principium, quia nihil seipsum producit in esse 
+   <!--328.xml-->
+        <pb ed="#Ba" n="157-r"/>
+        <lb ed="#Ba" n="1"/>secundum <name ref="#Augustine">Augustinum</name> primo de trinitate. Etiam omne quod sit, sit a sibi simili, secundum philosophum 
+        <lb ed="#Ba" n="2"/>vii. Metaph. ldentitas diffundentis se ad illud in quo se diffundit, potest esse vel realis simili- 
+        <lb ed="#Ba" n="3"/>tudinis: vel analogiae &amp; proportionis. Secundo modo diffundit se diuina bonitas in creaturas 
+        <lb ed="#Ba" n="4"/>secundum scilicet diuersitatem substantiae &amp; suppositi: manente sola identitate seu vnitate 
+        <lb ed="#Ba" n="5"/>analogiae &amp; proportionis vnius ad alterum: inquantum id quod est bonitatis in deo per essen 
+        <lb ed="#Ba" n="6"/>tiam: in creaturis est per quandam participationem: &amp; hoc in earum essentia: non secundum 
+        <lb ed="#Ba" n="7"/>aliquid additum essentiae earum, vt probat <name ref="#Boethius">Boethius</name>  in libro de hebud. Primo modo potest 
+        <lb ed="#Ba" n="8"/>intelligi se bonitas diffundere dupliciter secundum duo quae possunt esse in natura se diffundente scilicet  
+        <lb ed="#Ba" n="9"/>natura &amp; suppositum. Potest ergo se diffundere secundum identitatem substantiae in diuersitate sup 
+        <lb ed="#Ba" n="10"/>positi, vel econtra secundum identitatem suppositi in diuersitate substantiae. Primo modo dupliciter 
+        <lb ed="#Ba" n="11"/>vel secundum identitatem naturae secundum speciem differentis: aut secundum numerum &amp; supposita. hoc modo  
+        <lb ed="#Ba" n="12"/>diffusio est per naturalem generationem. Sed impossibilis est in deo: quia diuina natura communis esse 
+        <lb ed="#Ba" n="13"/>non potest, vt ostensum est sufficienter. Sed talem diffusionem quaerebat argumentum. Vel secundum  
+        <lb ed="#Ba" n="14"/>identitatem naturae secundum numerum in diuersitate suppositi: sic est diffusio bonitatis naturae 
+        <lb ed="#Ba" n="15"/>diuinae in tribus diuinis personis. Diffusio autem secundum identitatem suppositi in diuersitate substam 
+        <lb ed="#Ba" n="16"/>tiae, est diffusio eiusdem personae super duas naturas in Christo. 
+        <lb ed="#Ba" n="17"/>
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

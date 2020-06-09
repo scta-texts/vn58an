@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="122-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1544"> <!-- alias="vn58an-a20q4" -->
+      <head xml:id="vn58an-d1e1544-Hd1e104">Quaestio 4</head>
+      <head xml:id="vn58an-d1e1544-Hd1e107" type="question-title">Utrum de eis loqui debeat sermone simplici, an ornato</head>
+      <p xml:id="vn58an-d1e1544-d1e110">
+   <!--258.xml-->
+            <pb ed="#Ba" n="122-r"/>
+        <lb ed="#Ba" n="1"/>Irca quartum arguitur quod ista scientia loqui debeat de deo &amp; de rebus diuinis modo or- s 
+        <lb ed="#Ba" n="2"/>nato &amp; composito, Primo sic. secundum Philosophum. ii. Ethicorum sermones inquirendi sunt secun 
+        <lb ed="#Ba" n="3"/>dum materiam. vbi ergo materia est elegantior: &amp; sermo quo explicatur debet esse 
+        <lb ed="#Ba" n="4"/>lelegantior. elegantissima est materia de deo &amp; de rebus diuinis. ergo ei competit ser- 
+        <lb ed="#Ba" n="5"/>Omo elegantissimus. ille maxime est ornatus &amp; compositus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1544-d1e128">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="6"/>lillo modo debet loqui scriptura quo veritatem efficacius suadere possit. ad hoc enim edi 
+        <lb ed="#Ba" n="7"/>lta est. hoc sit sermone ornato, vt patebit in soluendo per Aug. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1544-d1e136">
+        ⁋ In oppo- l 
+        <lb ed="#Ba" n="8"/>situm est Chrysostomus super illud Matthaei. xxiii. Quotiens volui congregare filios tuos. Dia (inquit)  
+        <lb ed="#Ba" n="9"/>verba diuina rustica sunt &amp; incomposita. 
+      </p>
+      <p xml:id="vn58an-d1e1544-d1e143">
+        <lb ed="#Ba" n="10"/>⁋ Dicendum ad hoc: quod cum secundum Platonem in secundo Timaei, vocis &amp; auditus ra 
+        <lb ed="#Ba" n="11"/>tio ad plenam vitae hominium instructionem data sit: siquidem sermonis est ordinata communicatio vt praesto fi 
+        <lb ed="#Ba" n="12"/>ant mutuae voluntatis indicia: tali ergo sermone debet scientia vti quali efficacius possit instruere, &amp; 
+        <lb ed="#Ba" n="13"/>materiae suae intentionem explicare, vt in sermone diuino non tam qualiter quam quid dicatur atten-  
+        <lb ed="#Ba" n="14"/>datur: et vt in omnibus qualitas sermonis quiditati rei explicandae deseruiat. Distinguendum est 
+        <lb ed="#Ba" n="15"/>ergo de sermonis compsitione &amp; ornatu. aut enim est instructioni deseruiens, vt melius instruat, &amp; 
+        <lb ed="#Ba" n="16"/>intentum clarius exprimat: aut non: sed magis instructioni &amp; expressioni impedimentum praebeat: &amp; 
+        <lb ed="#Ba" n="17"/>hoc vel ex parte proferentis: eo quod nimia intentio circa pronunciationis modum frequenter obliuionem 
+        <lb ed="#Ba" n="18"/>faciat sniarum. secundum quod dicit <name ref="#Augustine">Augustinus</name> iiii. de doct. Christia. Cauendum est ne fugiant ex animo quae dicen 
+        <lb ed="#Ba" n="19"/>da sunt, dum attenditur vt arte dicantur. vel ex parte audientis, vt dulcedo sermonis mentem audientis demulcen- 
+        <lb ed="#Ba" n="20"/>do ad se rapiat: nec rebus ipsis attendere sinat. Contra quod dicit <name ref="#Augustine">Augustinus</name> iiii. de doct. Christan Bonorum igeniorum  
+        <lb ed="#Ba" n="21"/>insignis est indoles in verbis verum amare non verba. Quid enim prodest clauis aurea: si apire non potest quod  
+        <lb ed="#Ba" n="22"/>volumus: aut quid obest lignea si hoc potest: quando nihil quaerimus nisi patere quod clausum est. vel ex parte 
+        <lb ed="#Ba" n="23"/>ipsius sententiae proferendae: quam frequenter sermonis compositio aut ornatus occultat: &amp; sermo incultus 
+        <lb ed="#Ba" n="24"/>ostentat. In istis tribus vltimis modis ista scientia omnino negligit sermonis compositionem &amp; ornatum, non 
+        <lb ed="#Ba" n="25"/>solum non curando de sermonis decentia in harmonia vocum: sed nec de eius congruentia in vnione dictionum. quin  
+        <lb ed="#Ba" n="26"/>barbarismum, aut soloecismum mauult incurrere, quam snimae integritati: &amp; eius ampliori expressioni in aliquo  
+        <lb ed="#Ba" n="27"/>derogare. Quod etiam debent pro posse doctores catholici obseruare. secundum quod dicit <name ref="#Augustine">Augustinus</name> iiii. de doct. Christana 
+        <lb ed="#Ba" n="28"/>In bonis doctoribus tanta docendi cura sit, vt verbum quod nisi obscurum vel ambiguum latinum esse non potest vul 
+        <lb ed="#Ba" n="29"/>gi more sic dicatur, vt ambiguitas obscuritasque vitetur, non sic dicatur vt a docti: sed potius vt ab indocti dici so 
+        <lb ed="#Ba" n="30"/>let. Si enim non piguit dicere interprstes nostros Non congregabo conventicula eorum de sanguinibus: quoniam sense- 
+        <lb ed="#Ba" n="31"/>runt ad rempertinere vt eo loco pluraliter enunciaretur hoc nomen, quod in latina sigua singulariter tantummodo dicitur-, 
+        <lb ed="#Ba" n="32"/>cur pietati doctorem pigeat imperiti loquentem ossum potius dicere quam os: ne ista syllaba non ab eo quid sunt ossa:  
+        <lb ed="#Ba" n="33"/>sed ab eo quid sunt ora intelligatur: Quid ei prodest locutionis integritas quam non consequitur anim intellectus: cum lo- 
+        <lb ed="#Ba" n="34"/>quendi omnino non sit cam: si quod loqmur non intelligunt propter quos loquimur vt intelligant: si tenet auditorem 
+        <lb ed="#Ba" n="35"/>discendi cupiditas: nec mentis capacitas desit: quae quodammodo intimata possit accipere: non curante illo 
+        <lb ed="#Ba" n="36"/>qui docet quanta eloquentia doceat: sed quanta euidentia. Cuius euidentiae diligens appetitus aliquando negli- 
+        <lb ed="#Ba" n="37"/>git verba cultiora: nec curat quid bene sonat: sed quid bene dicat atque intimet quod ostendere intendit. 
+        <lb ed="#Ba" n="38"/>Vnde ait quidam cum de genere talis locutionis ageret, esse in ea quandam diligentem negligentiam. ldem de eo-  
+        <lb ed="#Ba" n="39"/>dem lib. iii. Plerunque loquendi consuetudo vulgaris vtilior est quam integritas literata. Mallem quippe 
+        <lb ed="#Ba" n="40"/>cum barbarismo dici non esse absconditum ossum meum a te, quam vt ideo esset minus aptum: quia magis la 
+        <lb ed="#Ba" n="41"/>tinum est. Nam quid scriptum est: Non est absconditum os meum a te quod fecisti in occulto: non lucet legenti 
+        <lb ed="#Ba" n="42"/>vtrum correpta litera os pronunciet an producta. Si enim corripiat, ab eo quod sunt ossa: si autem producat, ab  
+        <lb ed="#Ba" n="43"/>eo quod sunt ora intelligitur. Vnde quod homines non obseruata vocum compositione &amp; congruentia fre 
+        <lb ed="#Ba" n="44"/>quenter offenduntur: hoc facit humana infirmitas: quia pietas non offenderetur. secundum quod di-  
+        <lb ed="#Ba" n="45"/>cit libo ii. Soloecismus nihil aliud est quam cum verba non ea lege sibi coaptantur qua aptauerunt quid prio 
+        <lb ed="#Ba" n="46"/>res nobis non sine auctoritate aliqua locuti sunt. vtrum enim inter homines an inter hominibus dicatur, ad re 
+        <lb ed="#Ba" n="47"/>rum nihil pertinet cognitionem. Item ibidem. Barbarismus quid aliud nisi verbum non eis literis 
+        <lb ed="#Ba" n="48"/>vel sono enunciatum quo ab eis qui ante nos latinae locuti sunt enunciari solet: Vtrum autem igno  
+        <lb ed="#Ba" n="49"/>rare producta aut correpta tertia syllaba dicatur, non multum curat qui peccatis suis deum vt 
+        <lb ed="#Ba" n="50"/>ignoscat petit. Quid ergo est integritas locutionis nisi alienae consuetudinis conseruatio loquentium 
+        <lb ed="#Ba" n="51"/>veterum auctoritate firmata: Sed tamen eo inde magis offenduntur homines quo infirmiores 
+        <lb ed="#Ba" n="52"/>sunt: quo doctiores fieri volunt non rerum scientia qua aedificantur: sed signorum: qua non inflari 
+        <lb ed="#Ba" n="53"/>omnino difficile est: cum et ipsa rerum scientia saepe ceruicem erigat nisi dominico reprimatur iu 
+        <lb ed="#Ba" n="54"/>go. Dicit ergo in ser. ii. super Ioan. Non timeamus ferulas grammaticorum, dum tamen ad veritatem solidam 
+        <lb ed="#Ba" n="55"/>&amp; certiorem parueniamus. Si vero sermonis compositio &amp; congruetia secundum nullum dictorum modorum impedimentum 
+   <!--259.xml-->
+        <pb ed="#Ba" n="122-v"/>
+        <lb ed="#Ba" n="1"/>praebeat expressioni sententiae, omnino vtilis est &amp; curanda. secundum quod dicit <name ref="#Augustine">Augustinus</name> iiii. de doct. 
+        <lb ed="#Ba" n="2"/>Christia. Illum oportet attendere qui potest disputare vel dicere sapienter etiam si non potest eloquenter 
+        <lb ed="#Ba" n="3"/>vt prosit audientibus: etiam si minus, quam prodesset si etiam eloquenter posset dicere. Porro qui non so 
+        <lb ed="#Ba" n="4"/>lum sapienter verum etiam eloquenter vult dicere, profecto plus proderit: si vtrumque potest. Qui ergo (vt 
+        <lb ed="#Ba" n="5"/>dicit in eodem) docet, vitabit verba omnia quae non decent: &amp; si pro eis omnia quae intelligantur integra po- 
+        <lb ed="#Ba" n="6"/>test dicere, id magis eligat: si autem non potest, aut quia non sunt: aut quia in praesentia non occur 
+        <lb ed="#Ba" n="7"/>runt: vtatur verbis minus integris: dum tamen ipsa res doceatur &amp; discernatur integre. Tamen sic de 
+        <lb ed="#Ba" n="8"/>trahat ornatum vt sordes non contrahat: quia per hoc summe impeditur in auditore promouen- 
+        <lb ed="#Ba" n="9"/>da vtilitas. secundum quod dicit in eodem in principio. Cum per artem rhetoricam &amp; vera suadeantur &amp; 
+        <lb ed="#Ba" n="10"/>falsa, quis audeat dicere aduersus mendacium in defensionibus suis inermen debere consistere veritatem, vt 
+        <lb ed="#Ba" n="11"/>videlicet qui res falsas persuadere conantur, nouerint auditorem vel beniuolum, vel intentum, vel 
+        <lb ed="#Ba" n="12"/>docilem primo facere: isti autem non nouerint: llli falsa breuiter: aperte: verisimiliter: &amp; isti vera sic 
+        <lb ed="#Ba" n="13"/>narrent vt audire taedeat: intelligere non pateat: credere postremo non libeat. Illi fallacibus argumentis ve 
+        <lb ed="#Ba" n="14"/>ritatem oppugnent: asserant falsitatem: isti nec vera defendere: nec falsa valeant refutare. Illi animos au  
+        <lb ed="#Ba" n="15"/>dientium in errorem mouentes impellentesque dicendo, terreant, contristent: isti pro veritate lenti fri- 
+        <lb ed="#Ba" n="16"/>gidique dormitent. Quis ita desipiat vt hoc sapiat: Cum ergo posita sit in medio facultas eloquii: quae 
+        <lb ed="#Ba" n="17"/>ad persuadenda siue praua siue recta valet plurimum, cur non bonorum studio comparatur vt mi 
+        <lb ed="#Ba" n="18"/>litet veritati: si eam ad obtinendum peruersas vanasque causas in vsus erroris &amp; iniquitatis vsur- 
+        <lb ed="#Ba" n="19"/>pent. Vnde &amp; talium eloquentia maxime cauenda est. secundum quod dicit <name ref="#Augustine">Augustinus</name> in eodem ca. iiii. Ar 
+        <lb ed="#Ba" n="20"/>fluit insipienti eloquentia, tanto magis cauendus est: quanto magis ab eo in iis quae audire inuti 
+        <lb ed="#Ba" n="21"/>le est delectatur auditor: &amp; eum cum diserte dicere audit: &amp; vere dicere aestimat. Sicut autem saepe su- 
+        <lb ed="#Ba" n="22"/>menda sunt arma salubria: ita semper vitanda est perniciosa dulcedo. Sed salubri suauitate vel sua 
+        <lb ed="#Ba" n="23"/>ui salubritate quod melius: Quanto enim magis illic appetitur suauitas, tanto salubritas facilius prodest. Id- 
+        <lb ed="#Ba" n="24"/>circo (vt ait continuo) sunt ecclesiastici viri qui diuina eloquia non solum sapienter: sed etiam eloquem 
+        <lb ed="#Ba" n="25"/>ter tractauerunt. Nec solum ipsi: sed etiam nostri auctores sacritu. secundum quod de hoc mouet Au 
+        <lb ed="#Ba" n="26"/>gustinus quaestionem ibidem, dicens. Sed quid est: ipse liber canonis solum sapienter non etiam eloquem 
+        <lb ed="#Ba" n="27"/>ter descriptus est. Cui quaestioni respondet <name ref="#Augustine">Augustinus</name> continuo dicens. Quae quidem quaestio apud me 
+        <lb ed="#Ba" n="28"/>facillime soluitur. Nam vbi eos intelligo, non solum nihil eis sapientius, verum etiam nihil eloquentius mihi vi 
+        <lb ed="#Ba" n="29"/>deri potest. Et audeo dicere, omnes qui recte intelligunt quod isti loquuntur, simul intelligere non eos lo 
+        <lb ed="#Ba" n="30"/>qui aliter debuisse. Sed quia hoc non vbique iuxta mundanam eloquentiam quae huic scientiae non con 
+        <lb ed="#Ba" n="31"/>gruebat (vt super illud primae Corinthr. i. Non in sapientia verbi, bene exponit ista Glos. Non praesumit 
+        <lb ed="#Ba" n="32"/>Apostolus in scientia verbi praedicare &amp;c. Ideo quasi distinctos modos eloquentiae subdit. Sicut au  
+        <lb ed="#Ba" n="33"/>tem est quaedam eloquentia quae magis aetatem iuuenilem decet quam senilem: Nam nec dicenda est elo 
+        <lb ed="#Ba" n="34"/>quentia si personae non congruat loquentis: ita est quaedam quae viros summa auctoritate dignissimos 
+        <lb ed="#Ba" n="35"/>pianeque diuinos decet. Hac illi locuti sunt: nec ipsos decet alia: nec alios ipsa. Ipsis enim congruit: aliis 
+        <lb ed="#Ba" n="36"/>autem quanto videtur humilior, tanto altius non ventositate: sed soliditate transcendit. Vbi eos non 
+        <lb ed="#Ba" n="37"/>intelligo, minus apparet mihi eorum eloquentia: sed eam non dubito esse talem qualis est vbi in-  
+        <lb ed="#Ba" n="38"/>telligo. Illud autem magis admiror, quod isti nostra eloquentia vsi sunt per quandam alteram eloquen- 
+        <lb ed="#Ba" n="39"/>tiam, vt nec deesset eis: nec emineret in eis: quia eam nec improbari nec ostentari oportet: quorum al- 
+        <lb ed="#Ba" n="40"/>terum fieret si vitaretur: alterum putari posset si facile cognosceretur: &amp; in quibus forte a doctis 
+        <lb ed="#Ba" n="41"/>agnoscitur intelligas tanquam inseparabilem non vocatam sequi eloquentiam. Neque enim haec humana in  
+        <lb ed="#Ba" n="42"/>dustria composita, sed diuina mente sunt fusa sapienter &amp; eloquenter, non intenta in eloquentiam 
+        <lb ed="#Ba" n="43"/>sapientia, sed a sapientia non recedente eloquentia. Si enim quidam disertissimi atque acutissimi dicere potuerunt 
+        <lb ed="#Ba" n="44"/>quae velut oratoria arte discuntur: quid mirum si &amp; in istis inueniuntur quos ille misit, qui fecit ige 
+        <lb ed="#Ba" n="45"/>nia: Quapropter eloquentes quidem non solum sapientes canonicos auctores nostrosque doctores fa- 
+        <lb ed="#Ba" n="46"/>teamur tali eloquentia vsos qualis personis huiusmodi congruebat. secundum quod ibidem declarat 
+        <lb ed="#Ba" n="47"/>per plura exempla tam in veteri quam in nouo testamento. 
+      </p>
+      <p xml:id="vn58an-d1e1544-d1e370">
+        <lb ed="#Ba" n="48"/>⁋ Ad primum in oppositum quod scientiae huius elegantissima est materia, ergo eius de 
+        <lb ed="#Ba" n="49"/>bet esse elegantissimus modus sapiendi: qui est in ornatu &amp; compositione sermonis: Dicendum quod  
+        <lb ed="#Ba" n="50"/>hoc verum est. secundum tamen quod decet grauitatem huius scientiae. 
+      </p>
+      <p xml:id="vn58an-d1e1544-d1e379">
+        ⁋ Ad secundum quod ornatus effica- 
+        <lb ed="#Ba" n="51"/>cius suadet: Dicendum quod verum est, non tamen debet esse talis quod decentiam corrumpat. quod fie 
+        <lb ed="#Ba" n="52"/>ret si tali colore sermonis esset ornata qualem describit ars rhetorice. 
+      </p>
+      <p xml:id="vn58an-d1e1544-d1e386">
+        ⁋ Secundum quem modum pro- 
+        <lb ed="#Ba" n="53"/>cedit argumentum in oppositum.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

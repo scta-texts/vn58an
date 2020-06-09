@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="183-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2194"> <!-- alias="vn58an-a30q6" -->
+      <head xml:id="vn58an-d1e2194-Hd1e104">Quaestio 6</head>
+      <head xml:id="vn58an-d1e2194-Hd1e107" type="question-title">Utrum Deus aliqua ratione sit mutabilis, an omnino dicendus immutabilis</head>
+      <p xml:id="vn58an-d1e2194-d1e110">
+        <lb ed="#Ba" n="43"/>CIrca sextum arguitur quod necesse est ponere deum aliqua ratione mutabilem, pri- 
+        <lb ed="#Ba" n="44"/>mo sic. <name ref="#Augustine">Augustinus</name> dicit. viii. super Gene. Spiritus creator mouet seipsum sine tem- 
+        <lb ed="#Ba" n="45"/>pore &amp; loco. ldem ad Oros, quaestione. xi. sed nihil mouetur nisi mutabile aliquo  
+        <lb ed="#Ba" n="46"/>modo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2194-d1e124">
+        ⁋ Secundo sic. Sapien. vii. dicitur de sapientia increata quod est mo-  
+        <lb ed="#Ba" n="47"/>bilior omnibus mobilibus. sed omne mobile aliquo modo est mutabile. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2194-d1e130">
+        <lb ed="#Ba" n="48"/>⁋ In contrarium est <name ref="#Augustine">Augustinus</name> iiii. de Trinit. id est vbi dicit. Omnino dei essentia qua  
+        <lb ed="#Ba" n="49"/>vest, nihil habet mutabile, tale autem omnino immutabile. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2194-d1e140">
+        ⁋ Ad quod etiam. 
+        <lb ed="#Ba" n="50"/>sunt auctoritates sacrae scripturae. Mala. iii. Ego sum deus, &amp; non mutor. lacobi. i. Apud quem non 
+        <lb ed="#Ba" n="51"/>est transmutatio. Numeri. xxiii. Non est deus quasi homomo vt mentiatur, neque vt filius hominis vt 
+        <lb ed="#Ba" n="52"/>mutetur. Est etiam ad hoc sententia philosophi qui probat. viii. physicorum quod in mouentibus ne- 
+        <lb ed="#Ba" n="53"/>cesse est stare in vnum primum mouens immobile per se &amp; per accidens. Vnde &amp; dicit <name ref="#Augustine">Augustinus</name> viiii. 
+   <!--382.xml-->
+        <pb ed="#Ba" n="184-r"/>
+        <lb ed="#Ba" n="1"/>super Gen. cap. xxx. Omnis mutabilitas innititur alicui immutabili, quod non est nisi deus, vt habitum est. 
+      </p>
+      <p xml:id="vn58an-d1e2194-d1e161">
+        ⁋ ltem- 
+        <lb ed="#Ba" n="2"/>vii. de triniitate. dicit. Quod mutatur non seruat ipsum esse: &amp; quod mutari potest: etsi non mutetur: potest quod fue- 
+        <lb ed="#Ba" n="3"/>rat non esse, quod nullo modo contingit in deo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2194-d1e168">
+        ⁋ ldem contra Maxim. Solus deus habet immorta- a 
+        <lb ed="#Ba" n="4"/>litatem. in omni autem mutabili nonnulla mors est ipsa mutatio. facit enim aliquid non esse quod erat. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2194-d1e173">
+        <lb ed="#Ba" n="5"/>⁋ Et est dicendum quod deus est omnino immutabilis nulla ratione mutabilitatis mu 
+        <lb ed="#Ba" n="6"/>tabilis. Cuius ratio proxima &amp; praecisa est: quia est omnino simplex, vt habitum est supra: &amp; tale omnino est in 
+        <lb ed="#Ba" n="7"/>mutabile, secundum quod dicit Augustius vi. de triniitate. cap. vi. Nihil simplex mutabile est. &amp;. xii. de civitate dit ca. ix. 
+        <lb ed="#Ba" n="8"/>Est bonum solum simplex, &amp; ob hoc solum immutabile: ab hoc creata sunt omnia bona: sed non simpli- 
+        <lb ed="#Ba" n="9"/>cia: &amp; ob hoc mutabilia. Et ex hac causa sumuntur omnes aliae quibus ostenditur esse immutabilis scilicet quia omne 
+        <lb ed="#Ba" n="10"/>quod mutatur est aliquo modo in potentia ad illud ad quod mutatur: quia nihil mutatur ad id quod habet in actu: &amp; 
+        <lb ed="#Ba" n="11"/>per mutationem se habet res aliter quam prius, Deus autem (vt oninsum est prius) propter suam simplicitatem non habet con 
+        <lb ed="#Ba" n="12"/>positionem ex aliis: &amp; ideo nullo modo est mutabilis mutatione vertibilitatis in non esse ab esse: nec econ 
+        <lb ed="#Ba" n="13"/>uerso, vt dictum est supra: neque cum alio. &amp; ideo nullo modo est mutabilis mutatione variabilitatis, 
+        <lb ed="#Ba" n="14"/>vt dictum est supra. &amp; hoc ideo: quia non habet omnino primam (vt ostensum est supra) compositionem 
+        <lb ed="#Ba" n="15"/>quae est actus cum potentia: per quam separatione ab actu suo possit mutari in statum deteriorem vel me 
+        <lb ed="#Ba" n="16"/>liorem vel alium aequalem. secundum quod ex hoc arguit eius immutabilitatem Ri. ii. de triniitate. ca. x. Vn  
+        <lb ed="#Ba" n="17"/>de quia est simplex esse quo est necesse, cui nihil addi, nihil subtrahi potest, vt habitum est ex praeceden- 
+        <lb ed="#Ba" n="18"/>tibus, omnino immutabilis esse iudicandus est. secundum quod dicit <name ref="#Augustine">Augustinus</name> de fide ad Pe. Eirmissime tene, &amp; nulla- 
+        <lb ed="#Ba" n="19"/>tenus dubites solum deum verum naturaliter immutabilem esse. hoc enim significauit Moysi seruo suo 
+        <lb ed="#Ba" n="20"/>cum dixit, Ego sum qui sum: &amp; de natura boni vere est quia immutabilis est. omnis enim mutatio 
+        <lb ed="#Ba" n="21"/>facit non esse quod erat. Et ex hoc patet quod sicut deus ex hoc dicendus est summe vnus quod est simpli- 
+        <lb ed="#Ba" n="22"/>cissimus in fine simplicitatis, vt habitum est supra: sic dicendus est summe esse ex hoc quod habet im 
+        <lb ed="#Ba" n="23"/>mutabilissimum esse. secundum quod dicit Augustius v. de triniitate. Sola est incommutabilis essentia quae deus 
+        <lb ed="#Ba" n="24"/>est: cui profecto ipsum esse maxime ac verissime conpetit. Quod enim mutatur non seruat ipsum esse: &amp; 
+        <lb ed="#Ba" n="25"/>quod mutari potest etiam si non mutetur potest quod fuerat non esse: ac per hoc illud solum quod non tantum non  
+        <lb ed="#Ba" n="26"/>mutatur, verunetiam omnino mutari non potest, fine scrupulo accidit quod verissime dicatur esse. &amp; de 
+        <lb ed="#Ba" n="27"/>moribus Manich. Hoc maxime dicendum est esse quid semper eodem modo simul est: quod ex nulla parte 
+        <lb ed="#Ba" n="28"/>corrumpitur atque mutari potest. subiacet enim huic verbo manentis in se atque immutabiliter se ha 
+        <lb ed="#Ba" n="29"/>bentis naturae significatio, quod nihil quam deum recte possumus dicere, cui si contrarium quaeras, omnino nihil est. &amp; 
+        <lb ed="#Ba" n="30"/>ideo per consequens vere immortalis est. Et econverso res omnis inquantum habet aliquid mutabili-  
+        <lb ed="#Ba" n="31"/>tatis intantum habet aliquod mortalitatis. Mors enim vt dicit <name ref="#Augustine">Augustinus</name> de vera religis non esse cognoscitur quicquod mo 
+        <lb ed="#Ba" n="32"/>ritur inquantum moritur. Nam si ea quae moriuntur penitus morerentur, ad nihilum sine dubio paruenirent:  
+        <lb ed="#Ba" n="33"/>sed tanto minus moriuntur quanto magis esse participant: quod vt breuius potest dici, tanto magis moriun 
+        <lb ed="#Ba" n="34"/>tur quanto minus sunt. Vt enim dicit de immortalitate animae in principio, omnis defectus ad nihilum ten 
+        <lb ed="#Ba" n="35"/>dit &amp; ad interitum. &amp;. xi. confes. ca. x. Inquantum quisque non est quod erat: &amp; est quod non erat, intantum moritur 
+        <lb ed="#Ba" n="36"/>&amp; oritur. &amp; ideo omnis creatura quia quodammodo est mutabilis, respectu esse dei quasi non est. secun- 
+        <lb ed="#Ba" n="37"/>dum quod dicit <name ref="#Anselm">Anselmus</name> Creaturae comparatae ad deum vix sunt: &amp; forte non sunt. ld tamen quid sunt non sunt ni 
+        <lb ed="#Ba" n="38"/>si inquantum similitudo eius sunt. secundum quod dicit in monoli. ca. xxxi. Sicut in viuo homine veritas hominis dici 
+        <lb ed="#Ba" n="39"/>tur esse: in picto vero similitudo siue imago: sic existendi veritas intelligitur in verbo, cuius essentia sic sum 
+        <lb ed="#Ba" n="40"/>me est, vt quodammodo illa sola sit: &amp; in his quae eius comparatione quodammodo non sunt, imitatio 
+        <lb ed="#Ba" n="41"/>aliqua illius summae essentiae perpenditur. ldeoque proprium est deo esse. Vnde dicit <name ref="#Anselm">Anselmus</name> proslogionxxii. Tu so 
+        <lb ed="#Ba" n="42"/>lus domine es quod es: in quo est aliquid mutabile non omnino est quod est: &amp; quod habet fuisse quod iam non est 
+        <lb ed="#Ba" n="43"/>&amp; futurum esse quod nondum est: id non est proprie &amp; absolute. Tu vero es quod es: quia quicquod aliquando  
+        <lb ed="#Ba" n="44"/>aut aliquo modo es: hoc totus ac semper es: &amp; tu es qui proprie &amp; simpliciter es: nec potes cogitari ali 
+        <lb ed="#Ba" n="45"/>quando non esse. &amp; in mond. ca. xxviii. Videtur consequi vt iste spiritus qui sic suo quodam mirabiliter singu- 
+        <lb ed="#Ba" n="46"/>lari &amp; singulariter mirabili modo est, quadam ratione solus sit: alia vero quaecumque videntur esse, huic col- 
+        <lb ed="#Ba" n="47"/>lata, non sint. Si enim diligenter intendatur, ille solus videbitur simpliciter &amp; perfecte &amp; absolute esse: alia 
+        <lb ed="#Ba" n="48"/>vero fere non esse: &amp; vix esse. Quoniam namque idem spiritus propter incommutabilem aeternitatem suam nullo mo 
+        <lb ed="#Ba" n="49"/>do secundum aliquem motum dici potest quia fuit vel erit: sed simpliciter est: neque commutabiliter 
+        <lb ed="#Ba" n="50"/>est aliquid quod aliquando aut non fuit aut non erit: neque non est quod aliquando fuit aut erit: sed quicquid  
+        <lb ed="#Ba" n="51"/>est simul &amp; semel &amp; incommutabiliter est: quoniam inquam huiusmodi est esse eius, iure ipse simpliciter &amp; ab  
+        <lb ed="#Ba" n="52"/>solute &amp; perfecte dicitur esse. Quoniam vero omnia alia mutabiliter secundum aliquid aliquando aut fuerunt 
+        <lb ed="#Ba" n="53"/>aut erunt: vel non sunt: aut sunt quod aliquando non fuerunt aut erunt: &amp; quoniam hoc quod fuerunt iam 
+        <lb ed="#Ba" n="54"/>non est: illud autem quod erunt nondum est: &amp; hoc quod in labili breuissimoque &amp; vix existenti praesenti est 
+        <lb ed="#Ba" n="55"/>vix est: quoniam ergo tam mutabiliter sunt: non immerito negantur simpliciter &amp; perfecte &amp; absolute esse: &amp; 
+   <!--383.xml-->
+        <pb ed="#Ba" n="184-v"/>
+        <lb ed="#Ba" n="1"/>asseruntur fere non esse &amp; vix esse. Ex hoc esnt vlterius concludit quod violentia nulla, neque aliquid quod est extra na- 
+        <lb ed="#Ba" n="2"/>turam, in deo cadere potest, quia tale non contingit rei sine eius transmutatione abextra, quod enim est de sub 
+        <lb ed="#Ba" n="3"/>stantia rei abintra, non potest ei esse violentum, neque praeter naturam. Violentum nanque secundum <name ref="#Aristotle">Philosophum</name> est id cuius 
+        <lb ed="#Ba" n="4"/>principium est extra. Vnde dicit Philosophus. i. de caelo &amp; mun. quod accidentia quae accidunt extra naturam non cadunt 
+        <lb ed="#Ba" n="5"/>supra corpora prima, quoniam sunt simplicia, de non est eis contrarium. 
+      </p>
+      <p xml:id="vn58an-d1e2194-d1e317">
+        <lb ed="#Ba" n="6"/>⁋ Ad primum in oppositum quod creator spiritus mouet seipsum: dicendum quod <name ref="#Augustine">Augustinus</name> in dicto 
+        <lb ed="#Ba" n="7"/>suo modo Platonicorum large sumit motum pro omni operatione, cum tamen secundum Philosophum. x. Ethr. motus &amp; ope 
+        <lb ed="#Ba" n="8"/>ratio multum differunt. Mouere ergo in deo intelligit actum intellectus &amp; voluntatis quo seipso intel 
+        <lb ed="#Ba" n="9"/>ligit &amp; vult se &amp; alia. Vnde Augustg . in. iini qas ad Oros. dicit quod deus non mouetur in tempore, quia nulla ac  
+        <lb ed="#Ba" n="10"/>idit illi noua cogitatio, nullum nouum consilium. Spiritus vero hominium mouetur in tempore reminiscendo praeteri- 
+        <lb ed="#Ba" n="11"/>a, futura expectando, aliqua noua discendo. Ex quo plane patet quod aeternam &amp; manentem dei cogitatio 
+        <lb ed="#Ba" n="12"/>nem siue consilium vocat eius motum quo mouet se, quia seipso vult cogitat &amp; consulit de omnibus. 
+      </p>
+      <p xml:id="vn58an-d1e2194-d1e339">
+        <lb ed="#Ba" n="13"/>⁋ Ad secundum quod omnibus mobilior est sapientia: dicendum quod eodem modo loquitur scriptura sicut iam dictus est 
+        <lb ed="#Ba" n="14"/>loqui <name ref="#Augustine">Augustinus</name> Sicut enim dicitur Spiritus sctuns sapientiae multiplex, quia in se continet omnium rerum mutabilium 
+        <lb ed="#Ba" n="15"/>immutabiles rationes, sic &amp; mouere seipsum dicitur, quia seipso in seipso continet omnium notitiam. Sic etiam dicitur 
+        <lb ed="#Ba" n="16"/>omnibus mobilior, quia actu notitiae &amp; voluntatis suae omnia praeuenit: &amp; motu suo tali omnia agendo &amp; mouendo est 
+        <lb ed="#Ba" n="17"/>vsque ad intima &amp; minima rerum attingit. Vnde dicit <name ref="#Augustine">Augustinus</name> super Gen. &amp; ad Oro. vbi supra, quod increatus 
+        <lb ed="#Ba" n="18"/>spiritus mouet seipsum sine tpore &amp; loco. Mouet autem creatum spiritum sine loco temporaliter: mouet autem crea 
+        <lb ed="#Ba" n="19"/>turam corpoream temporaliter &amp; localiter. vnde dicit. iii. de Tri. c. v. Dei voluntas in excelsa, sctam, &amp; secreta 
+        <lb ed="#Ba" n="20"/>sede praesidens quibusdam ordinatissimis creaturae motibus primo spiritualibus deinde corporalibus per cuncta 
+        <lb ed="#Ba" n="21"/>diffunditur. ac per. hoc voluntas dei prima &amp; summa causa est omnium specierum ac motionum.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

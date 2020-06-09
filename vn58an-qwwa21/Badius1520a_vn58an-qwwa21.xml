@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="123-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwa21"> <!-- alias="vn58an-a21prae" -->
+      <head xml:id="vn58an-qwwa21-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwa21-d1e107">
+   <!--260.xml-->
+            <pb ed="#Ba" n="123-r"/>
+        <lb ed="#Ba" n="1"/>Art. &amp; Xl. De deo an sit in se &amp; absolute.  
+        <lb ed="#Ba" n="2"/>lsis quasi praeambulis ad intentum nostrum principale, quo scilicet 
+        <lb ed="#Ba" n="3"/>theologia sit de deo: &amp; quod de rebus diuinis sit scientia: &amp; quomodo de eisdem 
+        <lb ed="#Ba" n="4"/>in eadem locutio sit habenda: Restat de principali intento prosequi: quae scilicet 
+        <lb ed="#Ba" n="5"/>&amp; qualia in hac scientia de deo &amp; de rebus diuinis ex ea sunt sentienda.  
+        <lb ed="#Ba" n="6"/>Et quia, vt dictum est supra in quaestione de subiecto &amp; materia huius 
+        <lb ed="#Ba" n="7"/>scientiae, proprius ordo &amp; modus procedendi in ea, est incipere a deo &amp; pro 
+        <lb ed="#Ba" n="8"/>cedere ad creaturas, ideo hic dubitandum est de duobus in summa. 
+        <lb ed="#Ba" n="9"/>Primum est de deo, vt de subiecto principali huius scientiae. 
+        <lb ed="#Ba" n="10"/>Secundum est de creaturis, vt de materia subiecto attributa. 
+        <lb ed="#Ba" n="11"/>Et iuxta duplicem praescriptum modum quo vtitur omnis tractatio di 
+        <lb ed="#Ba" n="12"/>uinarum scripturarum, circa deum duo sunt dubitanda.  
+        <lb ed="#Ba" n="13"/>Primum: quae &amp; qualia de deo sunt intelligenda. 
+        <lb ed="#Ba" n="14"/>Secundum: quomodo intellecta de ipso sunt proferenda. 
+        <lb ed="#Ba" n="15"/>Et quia deus consideratur vt in se existens: &amp; vt a quo omne aliud procedens: ideo circa ipsum dubitam 
+        <lb ed="#Ba" n="16"/>da sunt duo.  
+        <lb ed="#Ba" n="17"/>Primum de eis quae conueniunt deo in se. 
+        <lb ed="#Ba" n="18"/>Secundum: de eis quae conueniunt ei in comparatione ad creaturas. 
+        <lb ed="#Ba" n="19"/>Et quia in deo sunt substantiae vnitas &amp; personarum distinctio, ideo circa primum quaeruntur duo.  
+        <lb ed="#Ba" n="20"/>Primum de eis quae pertinent ad communem substantiam. 
+        <lb ed="#Ba" n="21"/>Secundum de eis quae pertinent ad personarum distinctionem. 
+        <lb ed="#Ba" n="22"/>Et quia in diuina essentia aliquid consideratur vt res &amp; natura subiecta: aliud vero vt proprietas 
+        <lb ed="#Ba" n="23"/>ei inhaerens: Ideo circa primum adhuc quaeruntur duo.  
+        <lb ed="#Ba" n="24"/>Primum de ipsa diuina substantia in se.  Secundum de substantialibus eius proprietatibus. 
+        <lb ed="#Ba" n="25"/>Et quia esse secundum Auicen. est primus conceptus in re, &amp; viuere est quidam modus esse: viue- 
+        <lb ed="#Ba" n="26"/>re enim viuentibus est esse, vt dicitur in secundo de anima: Ideo circa primum adhuc duo quaeruntur. 
+        <lb ed="#Ba" n="27"/>Primum de esse dei.  Secundum de viuere dei. 
+        <lb ed="#Ba" n="28"/>Et quia vnum &amp; ens intrant essentiam cuiusque rei: quia secundum Commen. iiii. meta, non sunt dispositio 
+        <lb ed="#Ba" n="29"/>nes additae essentiae: &amp; secundum Auicie.inid est metaphysi. suae, statim imprimuntur in anima impressione prima quae 
+        <lb ed="#Ba" n="30"/>non quaeritur ex aliis notioribus: Ideo circa diuinam essentiam inquirenda sunt duo.  
+        <lb ed="#Ba" n="31"/>Primum de eius entitate &amp; vnitate. Secundum de eius natura. 
+        <lb ed="#Ba" n="32"/>Et quia vnum circa ens significat negationem, &amp; est priuatio diuisibilitatis, vt dicit Philosophous. iiii. 
+        <lb ed="#Ba" n="33"/>metaphysicae: Ideo circa primum quaeruntur duo.  
+        <lb ed="#Ba" n="34"/>Primum de dei entitate.  Secundum de dei vnitate.  
+        <lb ed="#Ba" n="35"/>Et quia circa rei entitatem duo contingit considerare: secundum quod est duplex praecognitio circa subiectum scientiae, an  
+        <lb ed="#Ba" n="36"/>sit, &amp; quid sit, vt vult <name ref="#Aristotle">Philosophus</name> in principio poster. &amp; secundum eundem quaestio an sit, simplicior est quam quaestio quid sit: quia 
+        <lb ed="#Ba" n="37"/>cognito an sit res quaeritur quid sit, non econuerso: Ideo circa dei entitatem quaeruntur duo.  
+        <lb ed="#Ba" n="38"/>Primo an sit.  Secundo quid sit. 
+        <lb ed="#Ba" n="39"/>Et quia secundum <name ref="#Aristotle">Philosophum</name> secundo metaphysicae, vnumquodque sicut se habet ad esse: sic se ha 
+        <lb ed="#Ba" n="40"/>bet &amp; ad cognitionem: Ideo de deo an sit, quaestio est duplex. 
+        <lb ed="#Ba" n="41"/>Prima in se absolute.  Secunda in comparatione ad nostram notitiam. 
+        <lb ed="#Ba" n="42"/>lgitur circa primum inquirenda sunt quinque.  
+        <lb ed="#Ba" n="43"/>Primum: vtrum deus habeat esse. 
+        <lb ed="#Ba" n="44"/>Secundum: vtrum deus in esse communicat cum creaturis. 
+        <lb ed="#Ba" n="45"/>Tertium: vtrum esse dei sit aliquid praeter eius essentiam. 
+        <lb ed="#Ba" n="46"/>Quartum: vtrum esse dei sit ipsa essentia eius. 
+        <lb ed="#Ba" n="47"/>Quintum: vtrum deus habet esse a seipso.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

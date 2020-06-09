@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="129-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1629"> <!-- alias="vn58an-a22q1" -->
+      <head xml:id="vn58an-d1e1629-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1629-Hd1e107" type="question-title">Utrum Deum esse sit cognoscibile ab homine</head>
+      <p xml:id="vn58an-d1e1629-d1e110">
+        <lb ed="#Ba" n="40"/>CIrca primum arguitur quod deum esse non sit cognoscibile ab homine. Primo sic. illud quod est 
+        <lb ed="#Ba" n="41"/>in eo quod penitus est nobis inaccessibile, non potest sciri ab homine an sit: sicut scire non 
+        <lb ed="#Ba" n="42"/>possumus de aliquo an sit vltra torridam aonam. deus est huiusmodi. i. Timo. vlt. Habi 
+        <lb ed="#Ba" n="43"/>tat lucem inaccessibilem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1629-d1e121">
+        ⁋ Secundo sic. Quid semper latet in tenebris respectu 
+        <lb ed="#Ba" n="44"/>humanae cognitionis: non potest cognosci ab homine an sit: quia omne quod illuminat ali- 
+        <lb ed="#Ba" n="45"/>quid lumen est: deus est huiusmodi: vt in Psal. Posuit tenebras latibulum scilicet ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1629-d1e129">
+        <lb ed="#Ba" n="46"/>⁋ Tertio sic. in eis quae sunt ignotae naturae prius oportet scire quid sit: quam an sit: vt prius quid sit vacuum 
+        <lb ed="#Ba" n="47"/>quam an sit vacuum: vt dicitur. iiii. Physico. &amp; secundum eundem modum dicit <name ref="#Augustine">Augustinus</name> contra epistolam funda, quod  
+        <lb ed="#Ba" n="48"/>prius oportet scire quid sit malum quam vnde sit malum. sed deus non potest sciri ab homine quid sit: vt dicit 
+        <lb ed="#Ba" n="49"/>Damasenus &amp; infra habebitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1629-d1e143">
+        ⁋ In contrarium est: quoniam illud est cognoscibile ab homine quid sacra scri 
+        <lb ed="#Ba" n="50"/>ptura docet de deo: quia propter eius cognitionem est scriptura. secundum apsum. Oia propter nostram in- 
+        <lb ed="#Ba" n="51"/>structionem scripta sunt, esse deum docet sacra scriptura: dicente Dauid in Psal. Tu autem idem 
+        <lb ed="#Ba" n="52"/>ipse es. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1629-d1e152">
+        <lb ed="#Ba" n="53"/>⁋ Dicendum ad hoc: quod ista quaestio non quaerit nisi de complexo, vtrum contingit hominem 
+        <lb ed="#Ba" n="54"/>scire deum esse veritate compositionis praedicati cum subiecto, quae est in anima: &amp; diminuta rei entitas: an scilicet 
+   <!--274.xml-->
+        <pb ed="#Ba" n="130-r"/>
+        <lb ed="#Ba" n="1"/>contingat hominem tenere certa notitia quod vera sit illa propositio qua dicitur quod deus est. Non autem quaerit 
+        <lb ed="#Ba" n="2"/>an contingat hominem scire ipsum esse dei quo vere habet esse in se. De huiusmodi enim scientia erit sermo quaeren 
+        <lb ed="#Ba" n="3"/>do de deo quid sit: esse enim dei est sua quiditas: vt dictum est. Hoc ergo modo intelligendo quaestionem: Dicendum quod du  
+        <lb ed="#Ba" n="4"/>pliciter contingit scire rem aliquam esse. Vno modo per seipsam ex euidentia existentiae suae apud scientem: ad mo 
+        <lb ed="#Ba" n="5"/>dum quo scit ignem esse ille qui videt ignem praesentem oculis. hoc modo apud intellectum sciuntur prima principia scien 
+        <lb ed="#Ba" n="6"/>tiarum per se nota, quae sine medio se offerunt nostrae cognitioni. Cognoscimus enim ea non per aliquid extra se: 
+        <lb ed="#Ba" n="7"/>sed per aliquid intra se, quod est de sua integritate, quoniam secundum <name ref="#Aristotle">Philosophum</name> principia cognoscimus inquantum termi 
+        <lb ed="#Ba" n="8"/>nos cognoscimus. Et quia principia scientiarum sic sunt prima in cognitione quod cognoscuntur per se esse &amp; esse 
+        <lb ed="#Ba" n="9"/>vera: non per medium aliud: sed omnia alia cognoscuntur per ipsa: Ideo Comment. ii. Meta. comparat ea loco ianuae in  
+        <lb ed="#Ba" n="10"/>domo, quem nullus debet ignorare: sed primo intrare: &amp; per ipsum ire ad perscrutandum secretiora domus. Loquen 
+        <lb ed="#Ba" n="11"/>do de isto modo cognoscendi deum esse, dicendum quod deum esse non est cognoscibile ab homine: nisi cui illud est per se no 
+        <lb ed="#Ba" n="12"/>tum non cognoscendo scilicet deum esse, cognoscendo eius naturam &amp; quiditatem: sine cuius cognitione non cognoscimus ex eui 
+        <lb ed="#Ba" n="13"/>dentia rei terminos in illa propositione quae dicitur deus est. sed de cognitione quod est deus: &amp; an deum esse sit per 
+        <lb ed="#Ba" n="14"/>se notum nobis, videbitur inferius. Alio autem modo contingit scire rem aliquam esse non per se ex rei euidentia: sed per 
+        <lb ed="#Ba" n="15"/>medium notius deducens via ratiocinatiua ad illud cognoscendum tamquam ignotius ex colligantia existentiae vnius ad  
+        <lb ed="#Ba" n="16"/>existentiam alterius, quorum vnum ex rei euidentia videt per seipsum: alterum vero non visum per se ex rei euidentia 
+        <lb ed="#Ba" n="17"/>per illud visum per se tanquam per medium cognitione collatiua cognoscit, ad modum quo aliquis scit ignem esse in  
+        <lb ed="#Ba" n="18"/>domo quid videt oculis suis fumum exeuntem de camino: quo modo etiam sciuntur conclusiones in demonstrationibus 
+        <lb ed="#Ba" n="19"/>per sua principia. Loquendo autem de hoc modo cognoscendi, Dicendum absolute quod bene contingit hominem scire 
+        <lb ed="#Ba" n="20"/>deum esse: sciendo enim per visum &amp; experientiam sensus creaturas esse, ex naturali colligantia earum ad esse creato 
+        <lb ed="#Ba" n="21"/>ris infallibiliter potest sciri ductu naturalis rationis deum esse: secundum quod patebit clarius in quaestione, quarta sequenti. 
+      </p>
+      <p xml:id="vn58an-d1e1629-d1e212">
+        <lb ed="#Ba" n="22"/>⁋ Ad primum in oppositum quod deus inhabitat lucem inaccessibilem homini: Dicendum quod 
+        <lb ed="#Ba" n="23"/>duplex est lux quam inhabitat deus: lux scilicet suae naturae: &amp; lux creaturae: &amp; per vtramque cognoscibilis est ab homine 
+        <lb ed="#Ba" n="24"/>Lux creaturae quam inhabitat non est homini inaccessibilis: quia subest naturali rationi: &amp; ideo etiam ex puris na 
+        <lb ed="#Ba" n="25"/>turalibus astante generali illustratione diuina: secundum quod habitum est supra: est homini accessibilis: &amp; per illam est 
+        <lb ed="#Ba" n="26"/>deus ab homine cognoscibilis, vt dicetur in quaestione quarta sequente. Prima vero lux ex puris naturalibus 
+        <lb ed="#Ba" n="27"/>est homini inaccessibilis: ex dono autem gratiae specialis bene est ei accessibilis: secundum quod de cognitione dei 
+        <lb ed="#Ba" n="28"/>clara in luce diuinitatis per gratiam, infra videbitur. Vnde dicit ibi Glos. Habitat lucem inaccessibilem: quia nul- 
+        <lb ed="#Ba" n="29"/>lus ad eum accedit ex se: sed cui datur ex dono eius. 
+      </p>
+      <p xml:id="vn58an-d1e1629-d1e232">
+        ⁋ Ad secundum quod posuit tenebras la. suum. Dicendum quod si 
+        <lb ed="#Ba" n="30"/>cut apparitio dei in sua claritate dicitur eius manifestatio qua natus est cognosci aperta visione suae essen- 
+        <lb ed="#Ba" n="31"/>tiae: sic occultatio eius sub similitudine &amp; aenigmate creaturae quae est quasi tenebra respectu claritatis diuinae 
+        <lb ed="#Ba" n="32"/>lucis, dicitur eius latibulum: non tale quod omnino abscondat cognitionem latentis, sicut tenebrae corporales omnino abscon- 
+        <lb ed="#Ba" n="33"/>dunt corpus ne videatur omnino ab oculis corporis: sed quod claram dei cognitionem habendam per aptam visionem ob 
+        <lb ed="#Ba" n="34"/>umbret. 
+      </p>
+      <p xml:id="vn58an-d1e1629-d1e245">
+        ⁋ Ad tertium dicendum quod duplex est quod est, quoddam enim est quod est quod dicitur per nomen: &amp; est in demon- 
+        <lb ed="#Ba" n="35"/>stratiuis scientiis praecognitio. est aliud quod est scilicet ratio essentiae &amp; naturae eius quod dicitur ipso nomine: &amp; est in demon 
+        <lb ed="#Ba" n="36"/>stratiuis quaestio &amp; definitiua ratio: de quibus amplius infra videbitur. Quid est primo modo, debet sciri ante si 
+        <lb ed="#Ba" n="37"/>est. vnde dicit Aristoteles de vacuo: quod ad declarandum an sit vacuum &amp; qualiter sit: opetet accipere quid signifi- 
+        <lb ed="#Ba" n="38"/>cet nomen. &amp; tale quid est oportet scire de deo prius quam sciatur si est. Cum enim non scitur ex creaturis an sit nisi 
+        <lb ed="#Ba" n="39"/>per causalitatem &amp; eminentiam: vt dictum est supra: ad hoc vt via causalitatis &amp; eminentiae inuestigetur deum esse 
+        <lb ed="#Ba" n="40"/>oportet prius intelligere quid significetur hoc nomine deus: &amp; quod hoc nomine esse. Aliter enim probato quod esset aliquid emi- 
+        <lb ed="#Ba" n="41"/>nens super creaturas: non ex hoc sciretur deus esse. Nescienti enim quid significetur hoc nomine deus, nullo modo esset pro 
+        <lb ed="#Ba" n="42"/>batum quia deus esset. tali enim contingeret quod contingit quaerenti seruum fugitiuum quem non cognoscit omnino:  
+        <lb ed="#Ba" n="43"/>talis enim etsi quaesitum inueniat: non tamen cognoscit quia ille est: &amp; ita nescit se illum inuenisse. vt dicit 
+        <lb ed="#Ba" n="44"/>Themistius super princip. Post. &amp; hoc contingit ideo: quia nemo potest iudicare de eo quod ignorat. vt di 
+        <lb ed="#Ba" n="45"/>citur. i. Ethicorum Quid est secundo modo non necessario scitur ante si est. bene enim contingit scire de deo 
+        <lb ed="#Ba" n="46"/>si est, non cognita re ipsa quae deus est: secundum quod infra dicetur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

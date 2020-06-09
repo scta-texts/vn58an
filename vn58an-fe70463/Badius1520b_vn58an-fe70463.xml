@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="258-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe70463"> <!-- alias="vn58an-a72q2" -->
+      <head xml:id="vn58an-fe70463-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe70463-d1e107">
+        <lb ed="#Bb" n="3"/>CIrca secundum arguitur quod communium appropriatio in diuinis sit naturalis non volunta- 
+        <lb ed="#Bb" n="4"/>ria, Primo sic. Ricar. dicit. vi. de triniitate. ca. i. In diuina natura nihil potest esse ex opeante Qui 
+        <lb ed="#Bb" n="5"/>ratia: si tantum iuxta proprietatem exigentis naturae. Quod autem fit voluntarie sit opeante gratia: quia Ar 
+        <lb ed="#Bb" n="6"/>cum voluntas sit libera, quod agit gratiose agit, quaere cum conmunium appropriatio sit in ipsa 
+        <lb ed="#Bb" n="7"/>diuina natura: quia non est solummodo ex parte nostra &amp; in conceptunso. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe70463-d1e120">
+        ⁋ Secundo  
+        <lb ed="#Bb" n="8"/>sic. si appropriatio esset in diuinis voluntaria &amp; non naturalis, nullum cone plus esset ap-  
+        <lb ed="#Bb" n="9"/>propriabile vni personae quam alteri: quia pura voluntas ex se est ad vtrumlibet. consequens fal 
+        <lb ed="#Bb" n="10"/>sum est, vt patet ex dictis, &amp; amplius declarabitur in dicendis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe70463-d1e129">
+        ⁋ In contrarium est quod appropria In 
+        <lb ed="#Bb" n="11"/>tio facta est a doctoribus sacris: &amp; potuit non fuisse facta. quod autem est naturale &amp; non voluntarium non 
+        <lb ed="#Bb" n="12"/>potuit non fuisse factum. ergo &amp;c. 
+        <lb ed="#Bb" n="13"/>
+      </p>
+      <p xml:id="vn58an-fe70463-d1e139">
+        ⁋ Dico quod cum voluntas &amp; natura sint duo generalia principia agentia in rebus, omne 
+        <lb ed="#Bb" n="14"/>quod sit aut sit ab altero illorum tantum &amp; per se: aut ab vtroque simul: cum etiam comnmune appropriandum non ape Re 
+        <lb ed="#Bb" n="15"/>propriatur illi cui est appropriandum, nisi propter correspondentiam aliquam ad proprium illius maiorem quam ad pro 
+        <lb ed="#Bb" n="16"/>prium alterius. Secundum igitur quod multipliciter &amp; ex contrariis causis solet assignari proprium: secundum hoc du-  
+        <lb ed="#Bb" n="17"/>pliciter &amp; ex contrariis causis solet assignari propriatio, &amp; iudicari fore naturalis vel voluntaria. Est enim 
+        <lb ed="#Bb" n="18"/>proprium quoddam naturale quod a natura tribuitur ei cuius est: &amp; naturale illi est, puta patri quod sit primum &amp; 
+        <lb ed="#Bb" n="19"/>principium totius diuinitatis, &amp; filio quod sit verbum procedens per modum intellectus &amp; notitiae. Aliud vero est 
+        <lb ed="#Bb" n="20"/>proprium innaturale: immo contra naturam illius cui tribuitur: &amp; illi cui tribuitur non tribuitur nisi ab intellectu 
+        <lb ed="#Bb" n="21"/>erroneo: puta patri infirmitas &amp; impotentia, quia apud nos patres proprie senectutem existentes infirmi 
+        <lb ed="#Bb" n="22"/>solent esse &amp; impotentes: &amp; filio insipientia, quia filii apud nos in infantia insipientes solent esse. 
+      </p>
+      <p xml:id="vn58an-fe70463-d1e161">
+        ⁋ Aliqui ergo  
+        <lb ed="#Bb" n="23"/>aspicientes ad proprium secundo modo camm appropriationis assignant per viam dissimilitudinis &amp; correspon 
+        <lb ed="#Bb" n="24"/>dentiae in contrario communis ad proprium illius cui sit appropriatio, dicentes quod patri appropriatur potestas ne creda 
+        <lb ed="#Bb" n="25"/>tur fore infirmus &amp; impotens: filio vero sapientia ne credatur fore insipiens. Et sic sit talis appropriatio cam 
+        <lb ed="#Bb" n="26"/>remouendi ab illo cui sit appropriatio proprium per errorem tributum ei: &amp; sic cam vitandi erroris. Et quia ta 
+        <lb ed="#Bb" n="27"/>lis appropriatio nullam habet camm naturalem ex parte rei in appropriando cone: sed solum ex parte erronei in  
+        <lb ed="#Bb" n="28"/>tellectus: ideo talis appropriatio esset voluntaria &amp; nullo modo naturalis, &amp; potuit omnino non fuisse facta 
+        <lb ed="#Bb" n="29"/>nec facienda, nisi intellectus erroneus praecessisset, vt tangit vltima obiectio. Et videtur mihi quod ista cam ap-  
+        <lb ed="#Bb" n="30"/>propriandi est inconveniens: quia si propter istam canm secundum Hila. appropriaretur patri aeternitas, secundum eandem 
+        <lb ed="#Bb" n="31"/>canm &amp; multo magis posset appropriari &amp; filio. Eilius enim a multis haereticis creditus est esse teporalis non aeter 
+        <lb ed="#Bb" n="32"/>nus, a quibus ptr creditur aeternus. Ad hoc ergo remouendum deberet aeternitas potius appropriari filio: quod falsum 
+        <lb ed="#Bb" n="33"/>est: quia vnum cone non est per se appropriabile nisi vni personae, vt in sequentibus declarabitur. Praeterea sicut pa 
+        <lb ed="#Bb" n="34"/>tres proprie senectutem solent esse infirmi &amp; impotentes: sic solent esse desipientes: &amp; filii econtra in iuuentute so- 
+        <lb ed="#Bb" n="35"/>lent esse corporaliter potentes &amp; in sapientia proficientes. Patri igitur secundum dictam appropriationem posset appro 
+        <lb ed="#Bb" n="36"/>priari sapientia ne credatur insipiens, &amp; filio potentia ne credatur impotens, sicut econverso: quod est contra modum  
+        <lb ed="#Bb" n="37"/>appropriandi sanctorum. Alii ergo melius aspicientes ad proprium primo modo, canm assignant appropriationis 
+        <lb ed="#Bb" n="38"/>per viam similitudinis &amp; correspondentiae siue congruentiae communis ad proprium illius cui sit appropriatio: &amp; hoc aut  
+        <lb ed="#Bb" n="39"/>per viam similitudinis: aut per viam excellentiae, vt in sequenti quaestione declarabitur. Dicunt ei quod communia omnia quae pertinent ad in 
+        <lb ed="#Bb" n="40"/>tellectum, per viam similitudinis appropriantur filio, quia ipse procedit per viam intellectus: illa vero quae pertinent ad vo- 
+        <lb ed="#Bb" n="41"/>luntatem, appropriantur spiritu sancto: quia ipse procedit per modum voluntatis: &amp; illa quae pertinent coniter ad vtrunque vt 
+        <lb ed="#Bb" n="42"/>origo &amp; primum siue principium respectu illorum, appropriantur patri: quia ipse est origo aliorum, vt in sequenti 
+        <lb ed="#Bb" n="43"/>quaestione declarabitur. Et sit talis appropriatio &amp; ad veritati declarationem &amp; ad erroris vitationem. Nam per  
+        <lb ed="#Bb" n="44"/>huiusmodi appropriationem manuducimur ad cognitionem propriorum in illis quibus appropriantur communia: &amp; hoc 
+        <lb ed="#Bb" n="45"/>ratione similitudinis &amp; conformitatis quam illa communia habent ad propria. Postquam enim de omnibus notum est quod sint communia, 
+        <lb ed="#Bb" n="46"/>&amp; ipsa appropriantur vni potius quam alteri, &amp; appropriatio dicitur a ratione proprii, intelligitur quod sit aliquid proprium illi 
+        <lb ed="#Bb" n="47"/>cui appropriatur. Ex quo vlterius per huiusmodi appropriationem vitatur error latentior potius quam per appropriatio- 
+        <lb ed="#Bb" n="48"/>nem praecedentem: quia enim non appropriatur nisi quod est cone: &amp; non est appropriatio nisi quidam tractus siue deter- 
+        <lb ed="#Bb" n="49"/>minatio communis ad proprium, per appropriationem intelliguntur illi cui sit appropriatio ineem &amp; aliquid cone illi cum 
+        <lb ed="#Bb" n="50"/>aliis &amp; aliquid proprium illi praeter alios. Et secundum quod ex hoc appropriata cognoscuntur esse vere communia, vitatur error 
+        <lb ed="#Bb" n="51"/>Arrianorum: quid cum sepauerit personas per substantiarum diuersitatem: nihil secundum veritatem potuerunt ponere 
+        <lb ed="#Bb" n="52"/>cone tribus personis. secundum vero quod ex hoc appropriata per appropriationem cognoscuntur trahi ad, propria, vitatur 
+        <lb ed="#Bb" n="53"/>error Sabellianorum: quid cum confudissent personas per proprietatum identitatem, nihil secundum veritatem alicui personae 
+        <lb ed="#Bb" n="54"/>proprium potuerunt ascribere: cum per propria sit personarum vera &amp; realis distinctio. Et sic ecclesia ponen 
+        <lb ed="#Bb" n="55"/>do in diuinis appropriata, mediam viam tenet inter duos contrarios errores, vitando Scyllam &amp; Charybdim- 
+   <!--531.xml-->
+        <pb ed="#Bb" n="258-v"/>
+        <lb ed="#Bb" n="1"/>Et quia talis appropriatio habet ex parte eius quod appropriatur &amp; eius cui appropriatur causam naturalem 
+        <lb ed="#Bb" n="2"/>dicua. scilicet convenientiam communis ad proprium illius cui sit appropriatio: ex hoc aliqui credidere quod appropria 
+        <lb ed="#Bb" n="3"/>tio esset omnino &amp; pure naturalis &amp; non voluntaria. Sed non est ita: quia cam appropriationis non tam 
+        <lb ed="#Bb" n="4"/>est dicta conuenientia, quam dicta declaratio veritatis, &amp; erroris vitatio: quae sunt tanquam causa finalis mo 
+        <lb ed="#Bb" n="5"/>tiua vt fieret ab appropriante talis appropriatio, sine qua nulla esset appropriandi necessitas: etsi propter 
+        <lb ed="#Bb" n="6"/>primam canm esset appropriandi pluralitas. Quae quidem cam motiua non tam est naturae quam hominis ad talem appro 
+        <lb ed="#Bb" n="7"/>priationem faciendam: ita quod non tam propter naturam necesse fuit talem fieri appropriationem, quam propter hominis instru 
+        <lb ed="#Bb" n="8"/>ctionem in cognitione veritatis, &amp; cautelam in vitatione erroris. 
+      </p>
+      <p xml:id="vn58an-fe70463-d1e257">
+        ⁋ Dico ergo breuiter ad quaestionem quod ap  
+        <lb ed="#Bb" n="9"/>propriatio in diuinis non est totaliter naturalis, vt procedit vltima obiectio: nec totaliter voluntaria, vt 
+        <lb ed="#Bb" n="10"/>procedunt duae primae obiectiones: sed partim naturalis &amp; partim voluntaria est: &amp; plus voluntaria quam natu- 
+        <lb ed="#Bb" n="11"/>ralis: quia cam siue ratio materialis quae possibile est fieri talem appropriationem, est naturalis: puta dicta similitudo  
+        <lb ed="#Bb" n="12"/>ocounis ad proprium illius cui est appropriandum. Cam vero siue ratio principalis &amp; finalis propter quam necesse fuit fie 
+        <lb ed="#Bb" n="13"/>ri talem appropriationem, erat voluntaria, puta dicta instructio, &amp; erroris vitatio. Et sic inchoatiue siue ori 
+        <lb ed="#Bb" n="14"/>ginaliter est naturalis &amp; a natura. Completiue autem est voluntaria &amp; a voluntate: &amp; hoc quodammodo ad  
+        <lb ed="#Bb" n="15"/>modum quo <name ref="#Aristotle">Philosophus</name> in secundo moralis. determinat de virtute morali quod partim est a natura, partim ab assue 
+        <lb ed="#Bb" n="16"/>tudine. Sicut enim dicit ibidem de virtutibus, Neque natura neque praeter naturam insunt virtutes: sed inatis 
+        <lb ed="#Bb" n="17"/>quidem nobis suscipere eas: perfectis autem per assuetudinem: possumus hic dicere de appropriatione: neque natura 
+        <lb ed="#Bb" n="18"/>neque praeter naturam inest appropriatio: sed innatis quidem communibus suscipere eam: perfectis autem in ea per voluntatem. 
+        <lb ed="#Bb" n="19"/>
+      </p>
+      <p xml:id="vn58an-fe70463-d1e287">
+        ⁋ Ad argumenta vtriusque partis est respondendum. Quod ergo arguitur primo quod in diuina 
+        <lb ed="#Bb" n="20"/>natura nihil potest esse iuxta exigentis naturae proprietatem: Dico hic iuxta idem quod iam dixi ad principalem quaestio 
+        <lb ed="#Bb" n="21"/>nem. Quod enim totaliter est in diuina natura, non est in illa nisi iuxta exigentis naturae proprietatem, quale est i 
+        <lb ed="#Bb" n="22"/>lud in quo Ricar. declarat dictum suum subdens continue. Sicut enim inascibili naturale est ab alio non proce- 
+        <lb ed="#Bb" n="23"/>dere: sic ei naturale est de seipso procedentem habere. Sed taliter non est appropriatio in diuina natura: quia 
+        <lb ed="#Bb" n="24"/>necessario esset tantum a natura absque omni opeatione voluntatis per liberum arbitrium, vt procedit argumentum &amp; bene 
+        <lb ed="#Bb" n="25"/>sed ipsa est partim in diuina natura: partim in conceptu appropriantis: &amp; plus in conceptu approprian- 
+        <lb ed="#Bb" n="26"/>tis: quam in diuina natura. Est enim in diuina natura solummodo, quia in illa sunt appropriationis materia 
+        <lb ed="#Bb" n="27"/>ia. scilicet quod appropriatur, &amp; cui sit appropriatio, &amp; ratione cuius sit appropriatio. Est enim in conceptu appro 
+        <lb ed="#Bb" n="28"/>priantis: quia in illo est appropriatio formaliter: &amp; quod formale est in illa: &amp; etiam cam finalis praedicta- 
+        <lb ed="#Bb" n="29"/>propter quam sit appropriatio. Et sic in diuina natura bene potest esse partim iuxta exigentis naturae proprietatem: 
+        <lb ed="#Bb" n="30"/>&amp; partim iuxta voluntatis exigentis libertatem. 
+      </p>
+      <p xml:id="vn58an-fe70463-d1e313">
+        ⁋ Quod arguitur secundo, si appropriatio esset voluntaria nul 
+        <lb ed="#Bb" n="31"/>lum commune esset plus appropriabile vni personae quam alteri: Dico quod verum est si esset pure voluntaria hambens 
+        <lb ed="#Bb" n="32"/>nullam rationem appropriandi a natura aliquod cone plus vni personae quam alteri. Tunc enim voluntas rationalis esset ad  
+        <lb ed="#Bb" n="33"/>vtrumlibet, in appropriando scilicet illud vni &amp; alteri vt procedit obiectio. Postquam tamen non est ita voluntaria quiando ha 
+        <lb ed="#Bb" n="34"/>beat in natura &amp; ex natura rationem appropriandi secundum praedicta, bene cum hoc quod appropriatio est voluntaria:  
+        <lb ed="#Bb" n="35"/>&amp; voluntas est adhuc ad vtrumlibet scilicet in appropriando &amp; non appropriando cone illi cui est appropriabile 
+        <lb ed="#Bb" n="36"/>secundum naturam, etiam est quodammodo naturalis: quia ratione illa quae liberum arbitrium voluntatis ducitur a natura 
+        <lb ed="#Bb" n="37"/>ad appropriandum appropriabile, bene est vnum cone plus appropriabile vni personae quam alteri: &amp; quo ad hoc ape  
+        <lb ed="#Bb" n="38"/>propriatio est naturalis, sicut dictum est. 
+      </p>
+      <p xml:id="vn58an-fe70463-d1e333">
+        ⁋ Per hoc patet quod tertium argumentum bene concludit quod appropriatio 
+        <lb ed="#Bb" n="39"/>aliqua modo est voluntaria, nequaquam tamen potest concludere quod ita sit voluntaria: quind cum hoc aliquo modo sit naturali.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

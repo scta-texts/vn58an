@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="65-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e785"> <!-- alias="vn58an-a8q3" -->
+      <head xml:id="vn58an-d1e785-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e785-Hd1e107" type="question-title">Utrum si theorica an practica</head>
+      <p xml:id="vn58an-d1e785-d1e110">
+        <lb ed="#Ba" n="26"/>CIrca tertium arguitur quod ista scientia sit practica. Primo sic. FEinis practicae est ope 
+        <lb ed="#Ba" n="27"/>ratio. secundo metaphysicae. &amp; secundum <name ref="#Augustine">Augustinus</name> iiii. de civitate dei. <quote xml:id="vn58an-d1e785-Qd1e119" source="http://scta.info/resource/adcd-l8-d1e1121"><!-- word start 145 -->Practica ad agendum vitam 
+        <lb ed="#Ba" n="28"/>&amp; mores pertinet <!-- word end 151 --></quote>. haec scientia principaliter ad operationem ordinatur, &amp; ad agen  
+        <lb ed="#Ba" n="29"/>dum vitam &amp; mores. <ref xml:id="vn58an-d1e785-Rd1e129">Iac. i.</ref> 
+       <quote xml:id="vn58an-d1e785-Qd1e132" source="http://scta.info/resource/iac1_22">Estote factores verbi, non auditores tantum.</quote> &amp; apsus. ii. 
+        <lb ed="#Ba" n="30"/>
+       <ref xml:id="vn58an-d1e785-Rd1e137">Tim. iii.</ref> 
+       <quote xml:id="vn58an-d1e785-Qd1e140" source="http://scta.info/resource/IItim3_16">Omnis scriptura diuinitus inspirata</quote> &amp;c. vbi sequitur: Vt perfectus sit 
+        <lb ed="#Ba" n="31"/>homo dei ad omne opus bonum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e146">
+        ⁋ Secundo sic. Sacra scriptura nihil aliud  
+        <lb ed="#Ba" n="32"/>est quam lex diuina. Vnde &amp; diuiditur penes diuisionem legis diuinae in veteri &amp; nouo testamen- 
+        <lb ed="#Ba" n="33"/>to. Lex autem pertinet ad scientiam practicam: quia ad mores. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e154">
+        ⁋ Tertio sic. Illa scien- 
+        <lb ed="#Ba" n="34"/>tia est practica, cuius finis est bonum intellectus practici. haec scientia est huiusmodi secundum 
+        <lb ed="#Ba" n="35"/>
+       <ref xml:id="vn58an-d1e785-Rd1e160">
+        <name ref="#Augustine">Augustinum</name> primo de doctrina christiana</ref>. <quote xml:id="vn58an-d1e785-Qd1e166" source="http://scta.info/resource/addc-l1-d1e526">Legis &amp; omnium diuinarum scripturarum plenitu 
+        <lb ed="#Ba" n="36"/>do &amp; finis dilectio est, qua fruendum</quote>. &amp; li. ii. <quote xml:id="vn58an-d1e785-Qd1e171" source="http://scta.info/resource/addc-l2-d1e192">In eo se exercet omnis scripturarum studiosus nihil in 
+        <lb ed="#Ba" n="37"/>eis aliud inuenturus quam diligendum esse deum: &amp; proximum propter deum</quote>. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e177">
+        ⁋ Ad oppositum 
+        <lb ed="#Ba" n="38"/>Primo sic. secundum <ref xml:id="vn58an-d1e785-Rd1e181">
+        <name ref="#Boethius">Boe.</name> 
+        <title>de trinitate.</title>
+       </ref> Tres sunt partes speculatiuae scientiae, Naturalis, Mathematica, &amp; theolo 
+        <lb ed="#Ba" n="39"/>gia. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e193">
+        ⁋ Secundo sic. Nobilissima scientiarum quae maxime est sui gratia, speculatiua est non practi- 
+        <lb ed="#Ba" n="40"/>ca, secundum <ref xml:id="vn58an-d1e785-Rd1e197" target="http://scta.info/resource/aristmet-l1">
+        <name>philosophum</name>. i. <title>metaphysicae</title>
+       </ref>, theologia est huiusmodi, vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e207">
+        ⁋ Tertio sic. 
+        <lb ed="#Ba" n="41"/>Sicut habitum est supra, ista scientia propriissime est sapientia: sed sapientia est supremus habitus 
+        <lb ed="#Ba" n="42"/>speculatiuus secundum <ref xml:id="vn58an-d1e785-Rd1e213" target="http://scta.info/resource/aristneth-l10">philosophum. x. Ethic</ref>. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e217">
+        ⁋ Quarto sic. <ref xml:id="vn58an-d1e785-Rd1e219" target="http://scta.info/resource/aristmet-l6">Philosophus dicit in. vi. metaphysicae</ref>. Si 
+        <lb ed="#Ba" n="43"/>aliquid est sempiternum non mobile abstractum, manifestum est quod cognitio eius erit in aliqua  
+        <lb ed="#Ba" n="44"/>scientia speculatiua. de tali est cognitio in ista scientia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e227">
+        <lb ed="#Ba" n="45"/>⁋ Ad quaestionem istam dicut aliqui: quod est aliqua scientia pure practica: vt illa quae 
+        <lb ed="#Ba" n="46"/>docet operanda, &amp; est propter opus principaliter: sicut est moralis scientia: de qua philosophus dicit quod 
+        <lb ed="#Ba" n="47"/>non est vt scientiamus sed vt boni fiamus. Alia vero est pure speculatiua vt quae docet speculanda nullo: modo 
+        <lb ed="#Ba" n="48"/>ordinata ad opus: vt mathematicae, quia in eis nullo modo attenditur modus neque finis: vt dicitur. iii. 
+        <lb ed="#Ba" n="49"/>metaphysicae. De ista igitur scientia dicunt quod est sicut media participans naturam vtriusque, par- 
+        <lb ed="#Ba" n="50"/>tim practica, partim speculatiua, quia finis eius, &amp; est veritas fidei, &amp; est bonitas morum, &amp; est simul 
+        <lb ed="#Ba" n="51"/>ad illuminandum intellectum in fide ad cognitionem veri, &amp; ad inflammandum affectum in  
+        <lb ed="#Ba" n="52"/>charitate ad amorem boni, &amp; ita est ad fidem instruendam, &amp; ad opera fidei exercenda. Quod  
+        <lb ed="#Ba" n="53"/>non potest stare. Cum enim haec scientia sit vtilissima inter scientias huius vitae, ad quam &amp; ad  
+        <lb ed="#Ba" n="54"/>cuius finem omnes aliae &amp; fines earum reducuntur: vt habitum est supra: finis autem vltimus 
+   <!--145.xml-->
+        <pb ed="#Ba" n="65-v"/>
+        <lb ed="#Ba" n="1"/>diuersorum ordinatorum ad idem semper debet esse vnus &amp; idem. vel si plures sint, oportet quod semper vnus 
+        <lb ed="#Ba" n="2"/>ordinetur ad alterum, vt sic sit vnicus principalis. Vnicus ergo finis principalis necessario debet poni 
+        <lb ed="#Ba" n="3"/>huius scientiae, non duo aeque principales. Non igitur debet simul haec scientia dici theorica &amp; pra 
+        <lb ed="#Ba" n="4"/>ctica: sed alterum solum, vel principaliter. Quod aliqui concedunt, dicentes quod principaliter est pra 
+        <lb ed="#Ba" n="5"/>ctica: quia non est in ea speculatio: nisi propter actionem: sicut ostendunt obiecta ad partem illam in  
+        <lb ed="#Ba" n="6"/>ducta. Quod non potest stare. Est enim finis &amp; bonum idem: vt dicitur. iii. metaphysicae. &amp; vt dicitur. ii. 
+        <lb ed="#Ba" n="7"/>physicae. non omne vltimum finis est: sed optimum. Licet ergo plura sint bona ad quae aliquid ordinatur, non 
+        <lb ed="#Ba" n="8"/>quodlibet eorum debet dici finis eius: sed solum id quod est optimum illorum: &amp; maxime ad quod omnia 
+        <lb ed="#Ba" n="9"/>illa quae sunt illius ordinantur. Nunc autem indubitanter constat quod melior est ex se veri cognitio 
+        <lb ed="#Ba" n="10"/>quam boni operatio: quia non attenditur in moribus operatio boni: nisi vt serenetur oculus men- 
+        <lb ed="#Ba" n="11"/>tis sedatis passionibus, &amp; fiat clarior in speculatione veri. Beati enim mundo corde: quoniam ipsi 
+        <lb ed="#Ba" n="12"/>deum videbunt: vt dicitur Mat. v. secundum quod de hoc dictum est supra. Operatio igitur boni ad hoc est: vt 
+        <lb ed="#Ba" n="13"/>oculus mentis sanus fiat, &amp; in speculando opus sanitatis agat: vt primo speculando per fidem- 
+        <lb ed="#Ba" n="14"/>intantum proficiat: vt credita intelligat quantum possibile est in praesenti: &amp; tunc deinde in futuro cre- 
+        <lb ed="#Ba" n="15"/>dita &amp; intellecta facie ad faciem videat. Vnde <name ref="#Augustine">Augustinus</name> in ser. de lacob &amp; Esau. Tota operatio no 
+        <lb ed="#Ba" n="16"/>stra in hac vita est sanare oculum cordis, vnde videatur deus: ad hoc sacrosancta mysteria ce- 
+        <lb ed="#Ba" n="17"/>lebrantur: ad hoc sermo dei praedicatur: ad hoc exhortationes ecclesiae morales ad corrigendos mores 
+        <lb ed="#Ba" n="18"/>ad emundandas carnales concupiscentias: ad hoc agunt quicquid agunt diuinae sanctaeque literae, vt pur- 
+        <lb ed="#Ba" n="19"/>getur illud interius ab ea re quae nos impedit ab aspectu dei. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e301">
+        ⁋ Nec est igitur huius scientiae du 
+        <lb ed="#Ba" n="20"/>plex finis: sed vnicus: nec practicus: sed speculatiuus: ad quem ordinatur omnis finis practicus. Sim 
+        <lb ed="#Ba" n="21"/>pliciter ergo debet dici haec scientia speculatiua &amp; non practica. Sicut ergo moralis scientia specu 
+        <lb ed="#Ba" n="22"/>latur verum: sed non nisi ad operandum bonum: non tamen dicitur speculatiua sed practica: Sic 
+        <lb ed="#Ba" n="23"/>ista scientia licet aliquo modo respiciat opus, quia tamen propter speculationem, simpliciter debet 
+        <lb ed="#Ba" n="24"/>dici speculatiua. est enim in ea labor operis propter quietem speculationis. Vnde sicut scientiae pure 
+        <lb ed="#Ba" n="25"/>practicae ordinantur ad speculatiuas, &amp; vniuersaliter vita actiua ordinatur ad contemplatiuam:  
+        <lb ed="#Ba" n="26"/>Sic quod in ista scientia est actionis, ordinatur ad illud quod in ea est speculationis. Et debet in nobis si 
+        <lb ed="#Ba" n="27"/>nis speculatiuae semper esse per intentionem voluntatis: licet aliquando finis prracticae quaeritur in  
+        <lb ed="#Ba" n="28"/>exercitio operis. Hinc dicit beatus Grego. vi. Moral. In contemplatione principium quod deus est: quae  
+        <lb ed="#Ba" n="29"/>ritur: in operatione vero necessitatis fasce laboratur. Et ideo licet secundum Augu. ista scientia dici po 
+        <lb ed="#Ba" n="30"/>test, vt in pluribus, practica: &amp; scientia non sapientia, propter considerationem &amp; actionem tempo 
+        <lb ed="#Ba" n="31"/>ralium: simpliciter tamen dici debet sapientia speculatiua propter considerationem aeternorum, quo-  
+        <lb ed="#Ba" n="32"/>rum regulis temporalia diriguntur. hoc enim est de perfectione huius sapientiae, quod in ea per illa quae  
+        <lb ed="#Ba" n="33"/>sunt purae speculationis, diriguntur illa quae sunt actionis. Quanto enim virtus aliqua altior est: 
+        <lb ed="#Ba" n="34"/>tanto ad plura vnico simplici se extendit: vt habetur in libro de causis. in quo ista scientia assimilatur 
+        <lb ed="#Ba" n="35"/>sapientiae diuinae qua deus ipse notitia purae speculationis omnia operanda cognoscit &amp; dirigit. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e338">
+        <lb ed="#Ba" n="36"/>⁋ Ad primum in oppositum, quod haec scientia principaliter ad actionem &amp; mores ordinatur: Di 
+        <lb ed="#Ba" n="37"/>cendum quod falsum est: quoniam, vt dictum est, non respicit opus nisi propter speculationem. Vn- 
+        <lb ed="#Ba" n="38"/>de quod dicit lac. Estote factores. &amp; iterum. Scienti bonum &amp; non facienti peccatum est illi. Et apsus. 
+        <lb ed="#Ba" n="39"/>Sit homo dei ad omne opus bonum instructus. hoc non est, nisi vt hic cor mundetur: &amp; hic con 
+        <lb ed="#Ba" n="40"/>templari incipiamus, saltem in speculo &amp; in aenigmate, &amp; in hoc proficiamus: vt aliquando con 
+        <lb ed="#Ba" n="41"/>templemur aperta specie, &amp; perueniamus vbi omnis cessabit actio, &amp; perseuerabit contemplatio:  
+        <lb ed="#Ba" n="42"/>quoniam Maria optimam partem elegit quae non auferetur ab ea. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e356">
+        ⁋ Ad secundum quod sacra scriptu 
+        <lb ed="#Ba" n="43"/>ra est lex diuina: dicendum quod verum est, non tamen talis lex qualis est humana, quia illa ex re- 
+        <lb ed="#Ba" n="44"/>gulis pure practicis docet operanda: &amp; ideo est pure practica. haec autem ex regulis speculatiuis 
+        <lb ed="#Ba" n="45"/>vt dictum est, &amp; ideo est pure speculatiua. 
+      </p>
+      <p xml:id="vn58an-d1e785-d1e365">
+        ⁋ Ad tertium quod finis huius scientiae est dilectio dei, &amp; 
+        <lb ed="#Ba" n="46"/>fruitio boni: Dicendum quod verum est, non tamen ex hoc debet ista scientia dici practica. Est enim 
+        <lb ed="#Ba" n="47"/>duplex bonum voluntatis. Vnum quod ab ipsa voluntate perficitur: vt est actio bona quam in aliud extra 
+        <lb ed="#Ba" n="48"/>se extendit. Sicut est quaelibet actio directa in finem. Aliud vero quod ipsam voluntatem perficit. 
+        <lb ed="#Ba" n="49"/>vt est operatio perfecta quam intra se elicit, &amp; per quam fini vltimo se vnit. Primum bonum voluntatis perti 
+        <lb ed="#Ba" n="50"/>net ad scientiam practicam: quia in ipsa est speculatio vt actionem dirigat: quod proprium practi- 
+        <lb ed="#Ba" n="51"/>cae est. Secundum vero bonum voluntatis pertinet ad scientiam specialiter speculatiuam, quia in  
+        <lb ed="#Ba" n="52"/>ipsa est speculatio solummodo, vt voluntati obiectum suae operationis perfecte ostendat: vt in ip- 
+        <lb ed="#Ba" n="53"/>sum statim opeatione perfecta tendat, quod est, proprium speculatiuae supremae: quae cognitionem ex- 
+        <lb ed="#Ba" n="54"/>tendit in amorem. Et est ista operatio perfecta voluntatis: dilectio dei &amp; finis vltimus ad quem temn 
+        <lb ed="#Ba" n="55"/>dit ista scientia. Qua quidem actione voluntatis in praesenti tendit in deum: vt in quodam modo  
+   <!--146.xml-->
+        <pb ed="#Ba" n="66-r"/>
+        <lb ed="#Ba" n="1"/>distans a se: quia amore imperfecto. In futuro autem se penitus immerger eidem amore perfe- 
+        <lb ed="#Ba" n="2"/>cto: vt sibi intime coniuncto &amp; vnito. Primum ergo bonum non est finis huius scientiae, nisi fi- 
+        <lb ed="#Ba" n="3"/>nis sub fine: sed secundum: ad quod ordinatur primum vt in finem vltimum. &amp; ex hoc habet ista scien 
+        <lb ed="#Ba" n="4"/>tia quod perfectissime sit speculatiua: &amp; nomen sapientiae sibi appropriet: vt dicatur sapientia a sapo 
+        <lb ed="#Ba" n="5"/>re: quia non solum illuminat intellectum in cognitione veri: sed vlterius inflammat affectum in  
+        <lb ed="#Ba" n="6"/>fruitionem boni: bono se vniendo, non se ad aliquod bonum operandum vlterius extendendo . Sic 
+        <lb ed="#Ba" n="7"/>enim continet quicquid est perfectionis in omni habitu tam speculatiuo quam practico: quia finem 
+        <lb ed="#Ba" n="8"/>omnis veri in cognitione, &amp; finem omnis boni in affectione. Et ideo respectu istius scientiae nul- 
+        <lb ed="#Ba" n="9"/>la alia potest dici sapientia: sed ista respectu omnium aliarum: secundum quod supra determinatum 
+        <lb ed="#Ba" n="10"/>est. Vnde &amp; quia huius scientiae speculatio: sicut &amp; vitae futurae, perficitur in affectione dilectio- 
+        <lb ed="#Ba" n="11"/>nis &amp; fruitionis, dicitur a quibusdam quod ista scientia debet dici potius affectiua quam speculati- 
+        <lb ed="#Ba" n="12"/>ua: sed non est ita. Denominatio enim scientiae debet esse a fine suo intra, in quo stat ipsa cognitio 
+        <lb ed="#Ba" n="13"/>intra limites suos. Nunc autem illud quod est in affectione sequens huius scientiae speculationem 
+        <lb ed="#Ba" n="14"/>finis extra se est: sed ipsa speculatio quae stat in cognitione veri in intellectu, est finis eius intra 
+        <lb ed="#Ba" n="15"/>se: vt scientia est. &amp; ideo simpliciter &amp; absolute verius debet dici speculatiua quam practica aut affectiua.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

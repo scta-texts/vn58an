@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="1-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe94ds"> <!-- alias="vn58an-a41q1" -->
+      <head xml:id="vn58an-fe94ds-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe94ds-d1e107">
+        <lb ed="#Bb" n="37"/>CIrca primum arguitur quod deus non sit dicendus esse bonus, quoniam bonum addit super ens 
+        <lb ed="#Bb" n="38"/>respectum ad finem, quia per Boethium, cuius finis bonus est, ipsum quoque bonum est. Deo autem non 
+        <lb ed="#Bb" n="39"/>convenit respectus aliquis ad finem: quia non est ad finem aliquem ordinatus: quia ipse est vl 
+        <lb ed="#Bb" n="40"/>imus finis omnium. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe94ds-d1e118">
+        ⁋ Secundo sic. deo cum sit purum esse: nihil est oppo 
+        <lb ed="#Bb" n="41"/>situm nisi purum non ens. Sed bono est aliquid oppositum praeter purum non ens scilicet ma-  
+        <lb ed="#Bb" n="42"/>lum, quid supponit aliquod ens. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe94ds-d1e125">
+        ⁋ In contrarium est illud Psal. Confitemi 
+        <lb ed="#Bb" n="43"/>ni domino quoniam bonus. 
+        <lb ed="#Bb" n="44"/>
+      </p>
+      <p xml:id="vn58an-fe94ds-d1e133">
+        ⁋ Quia ante determinationem cuiuslibet quaestionis de re quacumque significata per  
+        <lb ed="#Bb" n="45"/>nomen, oportet scire quid significatur per nomen: &amp; quis sit intellectus eius: idcirco hic sciendum est in principio: quod cum 
+        <lb ed="#Bb" n="46"/>in rebus creatis a quibus manuducimur ad diuina, videmus duplex bonum: quoddam quod consistit in natura &amp; es 
+        <lb ed="#Bb" n="47"/>sentia rei: quoddam vero quoid consistit in accnte: &amp; aliquo essentiae rei supaddito. Bonum primo modo, appel- 
+        <lb ed="#Bb" n="48"/>lat Boethicorum in fine de hebd. generale bonum: quia consequitur omne ens secundum quod ens est. Secundum bonum appellat spe 
+        <lb ed="#Bb" n="49"/>ciale bonum: &amp; tale bonum vt dicit est iustu esse: accipiendo iustum a generali iustitia: quae secundum Philosophum. v. Ethicorum con 
+        <lb ed="#Bb" n="50"/>prehendit omnes virtutes: &amp; bonum iustitiae omne bonum virtutis &amp; superadueniens essentiae rei, per quod ordiatur ad opera 
+        <lb ed="#Bb" n="51"/>ri: quia virtus est quae habentem perficit: &amp; opus eius bonum reddit. Vnde distinguendo primum bonum contra 
+        <lb ed="#Bb" n="52"/>secundum, dicit Boetsicoaem quod bonum esse ad essentiam, iustum vero esse ad actum respicit. Et dicit <ref xml:id="vn58an-fe94ds-Rd1e152">
+        <name ref="#Augustine">Augustinus</name> viii. de 
+        <lb ed="#Bb" n="53"/>triniita. cap. 4.</ref> 
+       <quote xml:id="vn58an-fe94ds-Qd1e160" source="http://scta.info/resource/adt-l8-d1e955">Cum audio (verbi gratia) quod dicitur animus bonus: sicut duo verba sunt, ita ex eis verbis 
+   <!--17.xml-->
+        <pb ed="#Bb" n="1-v"/>
+        <lb ed="#Bb" n="1"/>duo quaedam intelligo: aliud quo animus est: aliud quo bonus. Et quidem vt animus esset, non egit ipse 
+        <lb ed="#Bb" n="2"/>aliquid: non enim iam erat qui ageret vt esset: vt autem sit bonus animus, video agendum esse volun 
+        <lb ed="#Bb" n="3"/>tate: non quia idipsum quo animus est: non est aliquid boni: sed nondum dicitur animus bonus: quia 
+        <lb ed="#Bb" n="4"/>restat ei actio voluntatis qua sit praestantior</quote>. Haec autem duo genera bonorum quamuis in creaturis dif 
+        <lb ed="#Bb" n="5"/>ferant, in deo tamen idipsum sunt: &amp; in vna ratione boni transferuntur a nobis in deum. Et cum bo 
+        <lb ed="#Bb" n="6"/>num diuiditur primo aequaliter in decem praedicamenta, sicut ens, vt vult <ref xml:id="vn58an-fe94ds-Rd1e181">
+        <name ref="#Aristotle">Philosophus</name> in princi- 
+        <lb ed="#Bb" n="7"/>pio Ethicorum</ref> necessarium est quod ipsum differat ab esse siue a natura &amp; essentia rei in qua fundatur secundum  
+        <lb ed="#Bb" n="8"/>rationem tantum: quia neque aliud re addit essentiae, sicut album addit super corpus: nec aliud intentione 
+        <lb ed="#Bb" n="9"/>sicut sensibile addit super vegetabile: quia tunc bonum contraheret ens: sed solum super esse &amp; essentiam 
+        <lb ed="#Bb" n="10"/>rei cuius est, addit aliquid secundum rationem: hoc est aliam rationem quam sit ratio esse vel entis, quae est de 
+        <lb ed="#Bb" n="11"/>terminatus modus ipsius entis, ne bonum sit omnino synonymum cum esse vel ente. Determinatus autem  
+        <lb ed="#Bb" n="12"/>modus quid est rationis tantum, positiuus &amp; absolutus esse non potest: quia nihil est tale quid, nisi ponat rem 
+        <lb ed="#Bb" n="13"/>aut intentionem aliquam aliam super id cuius est. Oportet igitur quod sit negatiuus aut positiuus re- 
+        <lb ed="#Bb" n="14"/>spectiuus, secundum quod de hoc satis habitum est supra. Negatiuum autem modum nihil potest ad  
+        <lb ed="#Bb" n="15"/>dere super ens, nisi negando a seipso diuersitatem: quia ens quodcumque ex natura sua ad seipsum idem 
+        <lb ed="#Bb" n="16"/>titatem ponit ex eo quod est. Et ille modus significatur nomine vnius: &amp; format primum conceptum 
+        <lb ed="#Bb" n="17"/>additum rationi entis. Oportet igitur quod bonum super ens &amp; vnum addat respectum rationis tantum. 
+        <lb ed="#Bb" n="18"/>ld autem quod est rationis tantum, oportet fundari in eo quod est rei, ne sit ratio vana. In re autem qualibet tam 
+        <lb ed="#Bb" n="19"/>creata quam increata est considerare &amp; speciem &amp; ipsum subsistens in forma &amp; specie. Species autem duo ha 
+        <lb ed="#Bb" n="20"/>bet agere: &amp; secundum hoc duo habet respicere. Secundum considerationem intellectus nostri est species primo 
+        <lb ed="#Bb" n="21"/>rei manifestatiua &amp; declaratiua. scilicet quia est id quod est. Secundo est rei in suo esse perfectiua &amp; completiua. Vnde  
+        <lb ed="#Bb" n="22"/>cum res nata est denominari a sua forma &amp; specie secundum ea quae forma agit circa eam: potest ergo consi 
+        <lb ed="#Bb" n="23"/>derari res vt per formam suam &amp; speciem ipsa res nata est manifestari esse id quod est. Sic considera- 
+        <lb ed="#Bb" n="24"/>tur in ipsa respectus rationis quem habet per suam speciem ad intellectum cognoscentem: &amp; denominatur hoc 
+        <lb ed="#Bb" n="25"/>nomine verum: vt patet ex supra determinatis. Potest etiam alio modo considerari res, vt per suam 
+        <lb ed="#Bb" n="26"/>formam, &amp; speciem habet perfici &amp; compleri secundum se in suo esse. Sic consideratur in ipsa respe 
+        <lb ed="#Bb" n="27"/>ctus rationis ad ipsam formam &amp; speciem suam: &amp; denominatur hoc nomine bonum. Vnde quia ve 
+        <lb ed="#Bb" n="28"/>rum nominat respectum quem habet res per speciem ad intellectum, in quo perficitur actus manife- 
+        <lb ed="#Bb" n="29"/>standi: Bonum vero nominat respectum ad ipsam speciem quae rem perficit: Ideo dicit <ref xml:id="vn58an-fe94ds-Rd1e237">
+        <name ref="#Aristotle">Philosophus</name> 
+        <lb ed="#Bb" n="30"/>vi. meta.</ref> quod verum &amp; falsum sunt in consideratione, bonum vero &amp; malum sunt in rebus. Et nunquam definitur 
+        <lb ed="#Bb" n="31"/>verum nisi per actum manifestandi: neque bonum nisi per actum perficiendi. Et quia verum nominat respectum quem habet res per 
+        <lb ed="#Bb" n="32"/>peciem ad cognitionem in manifestando: quod facit species ratione qua est species simpliciter: bonum 
+        <lb ed="#Bb" n="33"/>vero nominat respectum quem habet res ad ipsam speciem in perficiendo: quod non facit species nisi quia in 
+        <lb ed="#Bb" n="34"/>se perfecte continet ea quae nata sunt perficere esse &amp; essentiam rei: non quia est species simpliciter: &amp; sic 
+        <lb ed="#Bb" n="35"/>ratio speciei inquantum perficit, se habet per additionem ad rationem speciei simpliciter: Ideo post rationem entis 
+        <lb ed="#Bb" n="36"/>&amp; vnius est tertio ratio veri: &amp; quaerto ratio boni. Sic ergo bonum significat suo nomine principaliter ens perfectionem 
+        <lb ed="#Bb" n="37"/>suam attigens: sicut verum significat ens seipsum intellectui manifestans. Perfectionem autem suam res siue ens potest 
+        <lb ed="#Bb" n="38"/>attigere dupliciter. Vno modo quia perfecte perfectionem suam habet in se &amp; ex se omnino. Alio modo quia illam recipit 
+        <lb ed="#Bb" n="39"/>ab alio &amp; extra se: &amp; hoc vel imperfecte, quoniam illam imperfecte attingit propter aliquam distantiam a suo fine: vel 
+        <lb ed="#Bb" n="40"/>perfecte, quoniam illam perfecte attingit ex perfecta coniunctione cum fine. Primo modo cadit ratio boni in solo 
+        <lb ed="#Bb" n="41"/>deo. Secundo modo cadit in creaturis. Propter quod dicit <ref xml:id="vn58an-fe94ds-Rd1e269">
+        <name ref="#Boethius">Boethius</name>  de hebd.</ref> Primum bonum in eo quod est 
+        <lb ed="#Bb" n="42"/>bonum est. Secundum vero bonum est, quoniam ex eo fluxit cuius esse bonum est. Propter quod primum bonum est bonum per 
+        <lb ed="#Bb" n="43"/>essentiam: Secundum vero per participationem solum. Et quia omne participatum est ab illo quod est per essentiam: &amp; omne hamiens aut re 
+        <lb ed="#Bb" n="44"/>cipiens bonum suum ab alio tendit in illud vt suum bonum in illo bono perficiatur: ideo deus bonus dicitur vt 
+        <lb ed="#Bb" n="45"/>finis: alia vero omnia sicut ea quae sunt ad finem. Et sicut alia dicuntur bona quae tendunt in primum bonum si 
+        <lb ed="#Bb" n="46"/>cut in finem vt ipsum attingant: sic deus dicitur bonum quia finis est omnis boni: &amp; in se &amp; ex se habet 
+        <lb ed="#Bb" n="47"/>perfectionem &amp; complementum omnis boni: vt non sit bonum hoc aut illud sicut sunt caetera bona: sed sim 
+        <lb ed="#Bb" n="48"/>pliciter bonum: &amp; bonum omnis boni. dicente <ref xml:id="vn58an-fe94ds-Rd1e290">
+        <name ref="#Augustine">Augustinus</name> viii. de trinitate. ca. iiii.</ref> 
+       <quote xml:id="vn58an-fe94ds-Qd1e296" source="http://scta.info/resource/adt-l8-d1e952">Bona est terra</quote>. &amp; caetera plurima 
+        <lb ed="#Bb" n="49"/>quae enumerat tam in rebus corporalibus quam spiritualibus. vbi subdit. <quote xml:id="vn58an-fe94ds-Qd1e301" source="http://scta.info/resource/adt-l8-d1e952">Quid plura: bonum hoc, bonum illud  
+        <lb ed="#Bb" n="50"/>&amp; vide ipsum bonum si potes: ita deum videbis non alio bono bonum, sed omnis boni bonum</quote>. Non bonus animus 
+        <lb ed="#Bb" n="51"/>aut bonus angelus, aut bonum caelum: sed bonum bonum. Sic enim fortasse facilius aduertitur quid velim dice 
+        <lb ed="#Bb" n="52"/>re. &amp; infra. Cum itaque audis bonum hoc &amp; bonum illud, quae possunt alias dici &amp; non bona, si poteris sine il- 
+        <lb ed="#Bb" n="53"/>lis quae participatione bona sunt perspicere ipsum bonum cuius participatione bona sunt. Simul enim &amp; ipsum  
+        <lb ed="#Bb" n="54"/>intelligis cum audis hoc aut illud bonum. Si ergo potueris illis detractis per seipsum perspicere bonum, perspexe- 
+        <lb ed="#Bb" n="55"/>ris deum. Secundum hunc ergo modum praeexpositum ponendum est quod deus dicendus est esse bonus. 
+   <!--18.xml-->
+        <pb ed="#Bb" n="2-r"/>
+        <lb ed="#Bb" n="1"/>Ad primum in oppositum: quod bonum dicit respectum ad finem: quod non con 
+        <lb ed="#Bb" n="2"/>uenit deo: Dicendum quod hoc non habet veritatem nisi de bono in creaturis. In deo autem dicit respectum for 
+        <lb ed="#Bb" n="3"/>mae diuinae essentiae vt forma est ad ipsam vt res quae deus est: habens in se omnem rationem perfectionis, quae  
+        <lb ed="#Bb" n="4"/>deitati congruit: &amp; vterque respectus significatur nomine boni in diuersis, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe94ds-d1e331">
+        ⁋ Ad secundum: quod bono 
+        <lb ed="#Bb" n="5"/>opponitur malum, quid non convenit deo: Dicendum quod hoc solum habet veritatem de bono creaturae. Bono enim  
+        <lb ed="#Bb" n="6"/>dei nullum malum opponitur nisi quod est purus defectus, vt in tertia quaestione videbitur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="104-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwa16"> <!-- alias="vn58an-a16prae" -->
+      <head xml:id="vn58an-qwwa16-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwa16-d1e107">
+   <!--222.xml-->
+            <pb ed="#Ba" n="104-r"/>
+        <lb ed="#Ba" n="1"/>Artic. &amp; Vl. 
+        <lb ed="#Ba" n="2"/>Equitur de modo exponendi hanc scientiam ex parte ipsiue 
+        <lb ed="#Ba" n="3"/>expositionis, vbi perquirenda sunt. ix. 
+        <lb ed="#Ba" n="4"/>Primum: vtrum expositio profunda sit in ea inuestiganda. 
+        <lb ed="#Ba" n="5"/>Secundum: vtrum multiplex sit in ea expositio quaerenda.  
+        <lb ed="#Ba" n="6"/>Tertium: vtrum solum quadruplex expositio sit in ea quaerenda.  
+        <lb ed="#Ba" n="7"/>Quartum: vtrum vbique in ea est multiplex expositio inuestiganda. 
+        <lb ed="#Ba" n="8"/>Quintum: vtrum in qualibet expositione &amp; sensu subest ei veritas. 
+        <lb ed="#Ba" n="9"/>Sextum: vtrum omnis expositio vera est in ea indifferenter accipienda. 
+        <lb ed="#Ba" n="10"/>Septimum: vtrum rationis inuestigatione est exponenda. 
+        <lb ed="#Ba" n="11"/>Octauum: vtrum potior sit expositio rationis inuestigatione an auctoritate.  
+        <lb ed="#Ba" n="12"/>Nonum: vtrum expositio inuestigata claro sermone proponenda sit.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

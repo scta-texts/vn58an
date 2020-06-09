@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="175-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe47895"> <!-- alias="vn58an-a61q3" -->
+      <head xml:id="vn58an-fe47895-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe47895-d1e107">
+        <lb ed="#Bb" n="35"/>CIrca tertium arguitur quod in spiritu sancto sit aliqua alia proprietas quam spirari: Pri- 
+        <lb ed="#Bb" n="36"/>mo sic. sicut conuenit soli patri esse a quo alius per generationem: &amp; communiter 
+        <lb ed="#Bb" n="37"/>patri &amp; filio esse a quo alius per spirationem: sic conuenit communiter patri &amp; si 
+        <lb ed="#Bb" n="38"/>io &amp; spiritui sancto esse a quo alius per creationem. sed esse a quo alius per gene 
+        <lb ed="#Bb" n="39"/>rationem, est proprium patri: esse a quo alius per spirationem, est proprium filio con 
+        <lb ed="#Bb" n="40"/>muniter cum patre. ergo consimiliter esse a quo alius per creationem, est proprium 
+        <lb ed="#Bb" n="41"/>spiritui sancto communiter cum patre &amp; filio. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e125">
+        ⁋ Secundo sic. sicut conuenit proprie patri quod non sit 
+        <lb ed="#Bb" n="42"/>ab alio per generationem: sic conuenit spiritui sancto communiter cum patre &amp; filio quod non sit ab alio per  
+        <lb ed="#Bb" n="43"/>creationem, quare cum propter illud proprietas propria patris est ingenitum esse, similiter propter istud 
+        <lb ed="#Bb" n="44"/>proprietas communis spiritu sancto cum patre &amp; filio est increatum esse. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e134">
+        ⁋ Tertio sic. sicut conuenit soli 
+        <lb ed="#Bb" n="45"/>patri esse a quo omnis alius in diuinis, sic conuenit spiritui sancto esse a quo nullus alius in diui- 
+        <lb ed="#Bb" n="46"/>nis. sed illud est proprium solius patris: ergo istud consimiliter proprium est solius spiritus sancti. 
+        <lb ed="#Bb" n="47"/>
+      </p>
+      <p xml:id="vn58an-fe47895-d1e144">
+        ⁋ Quarto sic. sicut commune est patri &amp; filio quod ab ipsis est alius per spirationem: sic commune est pa 
+        <lb ed="#Bb" n="48"/>tri &amp; spiritui sancto quod non habent esse ab alio per generationem. sed illud est communis proprietas 
+        <lb ed="#Bb" n="49"/>patris &amp; filii, ergo &amp; istud est communis proprietas patris &amp; spiritus sancti. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e151">
+        ⁋ Quinto sic. sicut patri 
+        <lb ed="#Bb" n="50"/>conuenit non esse ab alio per generationem: sic &amp; spiritui sancto. sed propter illud patris proprie- 
+        <lb ed="#Bb" n="51"/>tas est ingenitum esse. ergo propter idem hoc etiam est proprietas spiritus sancti communis eum patre. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e158">
+        ⁋ Se- 
+        <lb ed="#Bb" n="52"/>xto sic. sicut convenit pri quod ab ipso est alius per generationem, &amp; ipse non est ab alio per generationem: sic 
+        <lb ed="#Bb" n="53"/>econuerso conuenit spiritui sancto quod ipse est ab alio per spirationem, &amp; ab ipso non sit alius per spiratio- 
+        <lb ed="#Bb" n="54"/>nem. Quare cum propter illa duo duplex proprietas conueniat patri: &amp; propter vnum illorum eius 
+   <!--365.xml-->
+        <pb ed="#Bb" n="175-v"/>
+        <lb ed="#Bb" n="1"/>proprietas est generare: propter alterum vero eius proprietas ingenitum esse: ergo &amp; propter ista 
+        <lb ed="#Bb" n="2"/>duplex proprietas conuenit spiritui sancto: vt propter vnum illorum eius proprietas sit spirari: &amp; 
+        <lb ed="#Bb" n="3"/>propter alterum eius proprietas sit non spirantem esse. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e178">
+        ⁋ Septimo sic. sicut commune est patri &amp; filio 
+        <lb ed="#Bb" n="4"/>quod ab ipsis est alius per spirationem: sic commune est filio &amp; spiritui sancto quod non est ab ipsis alius per 
+        <lb ed="#Bb" n="5"/>generationem. si ergo illud est proprietas communis patris &amp; filii: &amp; istud erit proprietas communis si 
+        <lb ed="#Bb" n="6"/>lii &amp; spiritus sancti. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e187">
+        ⁋ Octauo sic. secundum Augustinus, xv. de trinitate. cap. xvii. esse donum proprium est spi 
+        <lb ed="#Bb" n="7"/>ritui sancto in diuinis: quia nec donum dicitur nisi spiritus sanctus. sed donum est aliud a spirari: 
+        <lb ed="#Bb" n="8"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e194">
+        ⁋ Contra. tunc essent plures notiones quam quinque, secundum quod superius argutum est, quod fal- 
+        <lb ed="#Bb" n="9"/>sum est. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e200">
+        ⁋ Specialiter autem arguitur contra vltimum quod esse donum non sit proprium spiritus san- 
+        <lb ed="#Bb" n="10"/>cti: quia quod convenit alteri personae, non est proprium vnius. licet enim proprietas vna possit esse pluribus 
+        <lb ed="#Bb" n="11"/>personis communis: non tamen idem potest esse proprium vni &amp; conuenire alteri. Esse donum conue 
+        <lb ed="#Bb" n="12"/>nit alteri quam personae spiritus sancti: quia filius donum est: eo quod datus est. Esaiae. ix. Puer natus est no 
+        <lb ed="#Bb" n="13"/>bis, &amp; filius datus est nobis. quicquid autem proprie datur scilicet gratuito, donum est. ergo &amp;c. 
+        <lb ed="#Bb" n="14"/>
+      </p>
+      <p xml:id="vn58an-fe47895-d1e213">
+        ⁋ Dico secundum quod dictum est in principio solutionis quaestionis decimae articu 
+        <lb ed="#Bb" n="15"/>li praecedentis, quod proprietas vna potest esse alia ab altera, vel secundum rem, vel secundum rationem tantum. 
+        <lb ed="#Bb" n="16"/>Loquendo ergo de diuersitate secundum rem: Dico quod in spiritu sancto non est alia proprietas quam spi 
+        <lb ed="#Bb" n="17"/>rari. Loquendo autem de diuersitate proprietatum secundum rationem, bene verum est quod in spiritu sancto 
+        <lb ed="#Bb" n="18"/>sunt aliae proprietates quam spirari, quae tamen secundum rem eaedem sunt cum ipso spirari. Quemadmodum in pa 
+        <lb ed="#Bb" n="19"/>tre sunt proprietates aliae secundum rationem a generare, quae tamen eaedem sunt secundum rem cum generare 
+        <lb ed="#Bb" n="20"/>&amp; in filio aliae a generari: &amp; communiter in patre &amp; filio aliae a spirare: quae tamen eaedem secundum rem 
+        <lb ed="#Bb" n="21"/>sunt cum ipso spirare. secundum quod haec omnia patent inspicienti superius determinata, maxime in quae  
+        <lb ed="#Bb" n="22"/>stione. x. iam tacta, &amp; in quaestione quarta de proprietatibus filii. 
+        <lb ed="#Bb" n="23"/>
+      </p>
+      <p xml:id="vn58an-fe47895-d1e235">
+        ⁋ Ad primum in oppositum dico quod in proposito non loquimur de proprio siue de 
+        <lb ed="#Bb" n="24"/>proprietate conueniente deo quacumque: sed solumodo de illa quae dicitur notitia, vt insinuat vltima 
+        <lb ed="#Bb" n="25"/>ratio. Est autem notitia secundum superius determinata proprietas relatiua ad dignitatem pertinens 
+        <lb ed="#Bb" n="26"/>qua notificatur vna persona in ordine ad aliam, vel duae ad vnam, aut vna ad duas. Quapropter ta 
+        <lb ed="#Bb" n="27"/>lis proprietas non potest simul omnibus convenire. Quare licet esse a quo aliud per creatione, sit quaedam pro 
+        <lb ed="#Bb" n="28"/>prietas relatiua: quia tamen non est personae ad personam: sed communiter convenit omnibus personis diuinis 
+        <lb ed="#Bb" n="29"/>&amp; non nisi in ordine ad creaturas: nullo igitur modo potest dici talis proprietas de quali ad praesens 
+        <lb ed="#Bb" n="30"/>est sermo: neque spiritus sancti, neque alicuius alterius personae diuinae siue communiter siue singulariter. 
+        <lb ed="#Bb" n="31"/>
+      </p>
+      <p xml:id="vn58an-fe47895-d1e255">
+        ⁋ Ad secundum patet per idem. licet enim conueniat spiritui sancto cum patre &amp; filio quod non sit ab alio 
+        <lb ed="#Bb" n="32"/>per creationem: non tamen sicut patri convenit quod non sit ab alio per generationem: quia patri convenit non 
+        <lb ed="#Bb" n="33"/>esse ab alio per generationem: quia ipse est generans: &amp; sic a quo alius habet esse primo: &amp; qui non ha 
+        <lb ed="#Bb" n="34"/>bet esse ab alio: sed ab ipso omnis alius: &amp; sic quia ipse est primus omnino: quod est simpliciter dignita 
+        <lb ed="#Bb" n="35"/>tis: &amp; secundum ordinem vnius personae diuinae ad alias: super quod fundatur illa negatio qua pater dicitur 
+        <lb ed="#Bb" n="36"/>esse ingenitus, siue non habens esse ab alio per generationem: vt superius expositum est. Spiritui san- 
+        <lb ed="#Bb" n="37"/>cto autem etsi communiter cum patre &amp; filio conveniat non esse ab alio per creationem: esto quod hoc sit quia ipse 
+        <lb ed="#Bb" n="38"/>est creans siue potens creare, quod est dignitatis simpliciter: vt super huiusmodi affirmationem fundetur illa 
+        <lb ed="#Bb" n="39"/>negatio: &amp; sic sit dignitatis simpliciter: quia tamen ista dignitas non est in ordine inter ipsas diui 
+        <lb ed="#Bb" n="40"/>nas personas inter se: sed communiter in ordine ipsarum ad creaturas: ideo non esse ab alio per cre 
+        <lb ed="#Bb" n="41"/>ationem, non potest esse proprietas quae est notio alicuius personae diuinae: de quali est sermo ad  
+        <lb ed="#Bb" n="42"/>praesens: sicut est non esse ab alio per generationem: quia est proprietas pertinens ad dignitatem 
+        <lb ed="#Bb" n="43"/>simpliciter, &amp; conuenit vni personae diuinae in ordine ad aliam. Vnde &amp; negatio importata nomi 
+        <lb ed="#Bb" n="44"/>ne ingeniti: licet fundetur super rationem primitatis qua a patre habet esse omnis alius &amp; omne 
+        <lb ed="#Bb" n="45"/>aliud: non tamen habet rationem dignitatis notionalis: inquantum illa primitas respicit aliud in  
+        <lb ed="#Bb" n="46"/>creaturis: sed solummodo inquantum respicit aliquos in diuinis. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e290">
+        ⁋ Ad tertium, quod sicut patri conue 
+        <lb ed="#Bb" n="47"/>nit esse a quo omnis alius in diuinis: sic spiritui sancto conuenit esse a quo nullus alius in diuinis:  
+        <lb ed="#Bb" n="48"/>Dico quod verum est: hoc excepto quod illud est dignitatis in patre simpliciter: non sic istud in spiri- 
+        <lb ed="#Bb" n="49"/>tu sancto. &amp; hoc ideo quia si aliquid est dignitatis simpliciter: eius contrarium non est dignitatis 
+        <lb ed="#Bb" n="50"/>simpliciter. Et ideo, quia esse a quo alius in diuinis est dignitatis simpliciter: nullo modo esse 
+        <lb ed="#Bb" n="51"/>a quo nullus alius in diuinis potest esse dignitatis simpliciter: sicut neque non genitor potest esse 
+        <lb ed="#Bb" n="52"/>proprietas filii: licet non genitum sit proprietas patris: vt habitum est supra in quarta quaestione 
+        <lb ed="#Bb" n="53"/>de proprietatibus filii. Propter quod deficit simile, &amp; non sequitur: licet esse a quo omnis alius, 
+        <lb ed="#Bb" n="54"/>sit proprium patri: &amp; hoc in duabus notionibus quae sunt generare, spirare: vt tactum est supra 
+   <!--366.xml-->
+        <pb ed="#Bb" n="176-r"/>
+        <lb ed="#Bb" n="1"/>in tertia quaestione de proprietatibus patris, quod similiter esse a quo nullus alius sit notio omnino.  
+      </p>
+      <p xml:id="vn58an-fe47895-d1e316">
+        <lb ed="#Bb" n="2"/>⁋ Ad quartum quod communis proprietas patris &amp; filii est quod ab ipsis habet esse alius per spiratio- 
+        <lb ed="#Bb" n="3"/>nem: ergo consimiliter proprietas communis patris &amp; spiritus sancti est quod ipsi non habent esse ab  
+        <lb ed="#Bb" n="4"/>alio per generationem: Dico quod non sequitur: eo quod non est simile in hoc, quod illud commune patri &amp; fi 
+        <lb ed="#Bb" n="5"/>lio est dignitatis simpliciter: nequaquam autem istud commune patri &amp; spiritui sancto. Dico inquantum eis 
+        <lb ed="#Bb" n="6"/>commune est. Quod dico propterea, quod non esse ab alio per generationem vno modo potest negare generationem 
+        <lb ed="#Bb" n="7"/>inquantum est vna emanatio simpliciter. Alio modo inquantum est emanatio prima conmuniter. Primo 
+        <lb ed="#Bb" n="8"/>modo convenit patri &amp; spiritui sancto: &amp; negat solummodo esse immediate per generationem: &amp; hoc mo-  
+        <lb ed="#Bb" n="9"/>do aequaliter ingenitus siue non genitus dicuntur esse pater &amp; spiritus sanctus: &amp; non est alicuius digni- 
+        <lb ed="#Bb" n="10"/>tatis: quia est pura negatio eius quod est simpliciter dignitatis in filio. Secundo autem modo conue 
+        <lb ed="#Bb" n="11"/>nit soli patri: &amp; negat esse per generationem tam mediate quam immediate: &amp; ideo ponit rationem pri 
+        <lb ed="#Bb" n="12"/>mitatis eius a quo est omnis alius. &amp; hoc modo ingenitus siue non genitus dicitur solus pater: &amp; 
+        <lb ed="#Bb" n="13"/>est dignitatis simpliciter, vt habitum est supra. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e346">
+        ⁋ Ad quintum patet per iam dicta. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e349">
+        ⁋ Ad sextum. 
+        <lb ed="#Bb" n="14"/>quod proprietas patris est quod non est ab alio per generationem, secundum quam dicitur esse ingenitus: ergo 
+        <lb ed="#Bb" n="15"/>proprietas spiritus sancti est quod non est ab ipso alius per spirationem, secundum quam dicatur non spirans: 
+        <lb ed="#Bb" n="16"/>Dico secundum iam dicta quod non est simile: quia non spirare non est nisi pura negatio: quod non est digni 
+        <lb ed="#Bb" n="17"/>tatis simpliciter: non sic autem non esse ab alio per generationem in patre, propter affirmationem ad di-  
+        <lb ed="#Bb" n="18"/>gnitatem pertinentem super quam fundatur: vt patet ex dictis. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e362">
+        ⁋ Ad septimum, quod sicut proprietas 
+        <lb ed="#Bb" n="19"/>communis patris &amp; filii est quod ab eis sit alius per spirationem: sic debet esse communis proprietas fi- 
+        <lb ed="#Bb" n="20"/>lii &amp; spiritus sancti, quod non est ab eis alius per generationem: Dico quod non est simile. Esse enim ab 
+        <lb ed="#Bb" n="21"/>eis alium per spirationem simpliciter dignitatis est, &amp; determinate, &amp; in ordine ad diuinam perso 
+        <lb ed="#Bb" n="22"/>nam: quae tria constituunt proprietatem notionalem. Propter quod esse a quo alius per spirationem- 
+        <lb ed="#Bb" n="23"/>est proprietas notionalis: non sic autem esse a quo non est alius per generationem: quia non solummodo  
+        <lb ed="#Bb" n="24"/>negat id quid est simpliciter dignitatis: &amp; ideo non potest esse simpliciter dignitatis: nec proprietas notionalis 
+        <lb ed="#Bb" n="25"/>quod tamen non est indignitatis: quia conditionis est non defectus. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e380">
+        ⁋ Ad octauum quod esse donum est, proprium 
+        <lb ed="#Bb" n="26"/>spiritui sancto: &amp; est proprietas alia ab eo quod est spirari: Dico quod sicut circa filium ista tria, proprietas con 
+        <lb ed="#Bb" n="27"/>stitutiua personae eius, imago, &amp; verbum, quae diuersimode dicuntur esse proprietates siue propria filio 
+        <lb ed="#Bb" n="28"/>considerantur ordine quodam secundum determinata in quaestione. iiii. de proprietatibus filii: sic cir 
+        <lb ed="#Bb" n="29"/>ca spiritum sanctum ordine quodam considerantur ista tria, proprietas constitutiua personae eius 
+        <lb ed="#Bb" n="30"/>donum, &amp; esse zelum: &amp; sunt proprietates siue propria spiritus sancti diuersimode eisdem modis qui  
+        <lb ed="#Bb" n="31"/>bus illa tria. Vnde ex declaratione illorum modorum ibi exposita circa propria personae filii quo 
+        <lb ed="#Bb" n="32"/>ad illa tria, intelligatur declaratio istorum modorum hic circa propria personae spiritus sancti quo 
+        <lb ed="#Bb" n="33"/>ad dicta alia tria. Est enim spirari proprietas constitutiua personae spiritus sancti: sicut generari 
+        <lb ed="#Bb" n="34"/>est proprietas constitutiua personae filii. Est similiter donum proprietas spiritus sancti conueniens 
+        <lb ed="#Bb" n="35"/>ei ratione spirari: sicut esse imaginem conuenit filio ratione eius quod est generari. Sicut enim filius 
+        <lb ed="#Bb" n="36"/>ex eo quod procedit modo generationis naturalis procedit vt simile, &amp; dicitur imago: Natura enim 
+        <lb ed="#Bb" n="37"/>est vis assimilatiua eius quod producit illi quod ab ipso producitur: sic esse donum conuenit spiritui sancto 
+        <lb ed="#Bb" n="38"/>ratione eius quod est spirari. Ex eo enim quod procedit modo spirationis voluntariae, procedit vt amor: &amp; dici 
+        <lb ed="#Bb" n="39"/>tur donum. Voluntas enim est vis incentiua amoris, quid producitur ab illis in illum in quem tendit. pro 
+        <lb ed="#Bb" n="40"/>pter quod dicitur donum illius: quasi illi liberaliter collatum: secundum quod haec amplius iam inferius decla- 
+        <lb ed="#Bb" n="41"/>rabuntur in quaestione octaua. Est etiam zelum proprietas spiritus sancti significatiua personae spi- 
+        <lb ed="#Bb" n="42"/>ritus sancti: sicut verbum est proprietas filii significatiua ipsius personae filii: vt aliquantulum ta- 
+        <lb ed="#Bb" n="43"/>ctum est supra: &amp; iam inferius amplius declarabitur in quaestione quinta &amp; septima. 
+      </p>
+      <p xml:id="vn58an-fe47895-d1e422">
+        ⁋ Quia argui- 
+        <lb ed="#Bb" n="44"/>tur vltimo quod donum non est proprium spiritus sancti: quia conuenit etiam filio: Dico quod datum ali- 
+        <lb ed="#Bb" n="45"/>quod potest dici donum duplici de causa siue ratione. Vna accepta ex dispositione ipsius dantis scilicet 
+        <lb ed="#Bb" n="46"/>quia dans ipsum dat liberaliter, quod dare ratione liberalitatis qua dans dat, proprie dicitur esse donare, &amp; ipsum da 
+        <lb ed="#Bb" n="47"/>tum donum. Illud enim quod datur ex debito, &amp; non ex liberalitate, datum tantum est, &amp; non donum. &amp; tale da 
+        <lb ed="#Bb" n="48"/>re est dare simpliciter: &amp; non donare. Alia autem ratio accepta est ex conditione dati quia ex natura sua 
+        <lb ed="#Bb" n="49"/>habet rationem donabilis: non quia simpliciter potest dari. simpliciter enim dari potest ex liberalita- 
+        <lb ed="#Bb" n="50"/>te donantis: ex conditione autem sua donabile non est nisi id quod ex se ordinatur vt alteri detur: quod  
+        <lb ed="#Bb" n="51"/>est solummodo persona spiritus sancti, inquantum in ratione &amp; modo suo procedendi habet quod sit do-  
+        <lb ed="#Bb" n="52"/>num, &amp; ordinatur ad alterum vt cui donetur, secundum quod iam patebit inferius. Et talis conditio so- 
+        <lb ed="#Bb" n="53"/>lummodo facit quod aliquid dicatur donum: non autem merus actus quo aliquid ex liberalitate dam 
+        <lb ed="#Bb" n="54"/>tis datur: secundum quem modum filius datus est nobis. Propter quod non obstante quod filius da 
+        <lb ed="#Bb" n="55"/>tus est, spiritui sancto proprium est quod sit donum.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

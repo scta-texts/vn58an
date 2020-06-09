@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="27-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe7341"> <!-- alias="vn58an-a47q5" -->
+      <head xml:id="vn58an-fe7341-Hd1e104">Quaestio 5</head>
+      <p xml:id="vn58an-fe7341-d1e107">
+   <!--69.xml-->
+            <pb ed="#Bb" n="27-v"/>
+        <lb ed="#Bb" n="1"/>CIrca Quintum arguitur quod deus non vult seipsum de necessitate, Primo sic. quid  
+        <lb ed="#Bb" n="2"/>d convenit deo, digniori &amp; nobiliori modo ei convenit quo potest cuiquam rei convenire. 
+        <lb ed="#Bb" n="3"/>velle autem non de necessitate, est nobilius voluntati quam velle de necessitate: quia cum 
+        <lb ed="#Bb" n="4"/>ult non de necessitate, habet in sua potestate velle quid non haberet. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe7341-d1e123">
+        ⁋ Se- 
+        <lb ed="#Bb" n="5"/>cundo sic. si deus seipsum de necessitate velit, cum necessitatem illam nullus alius 
+        <lb ed="#Bb" n="6"/>seu nihil aliud a se sibi possit imponere: ex seipso ergo illam habet. Quare cum 
+        <lb ed="#Bb" n="7"/>non sit principium agens per se nisi aut natura aut voluntas, secundum Philosophum. vii. meta 
+        <lb ed="#Bb" n="8"/>physi. &amp; Augustinum. v. de ciui. dei, aut ergo illam necessitatem habet ratione voluntatis, aut ratione na- 
+        <lb ed="#Bb" n="9"/>turae. Non ratione voluntatis: quia hoc derogaret libertati eius, dicente <name ref="#Augustine">Augustinus</name> secundum senten- 
+        <lb ed="#Bb" n="10"/>tiam Stoicorum. v. de ciui. dei. Capite. xi. Stoici laborauerunt ita causas distinguere, vt quasdam subtra 
+        <lb ed="#Bb" n="11"/>herent necessitati, quasdam subderent: atque in iis quas esse sub necessitate voluerunt: poluerunt etiam no 
+        <lb ed="#Bb" n="12"/>stras voluntates, ne videlicet non essent liberae si subderentur necessitati. &amp; si de voluntate nostra, mul- 
+        <lb ed="#Bb" n="13"/>to fortius ergo de voluntate dei: quia illa magis libera est quam nostra, vt iam dictum est supra. si ergo deus 
+        <lb ed="#Bb" n="14"/>seipsum velit de necessitate, hoc est ratione suae naturae. idem ergo re est deum velle seipsum absolute ex necessi- 
+        <lb ed="#Bb" n="15"/>tate, quod est velle ex necessitate naturae simpliciter. consequens falsum est: quia sunt diuersae rationes &amp; pri 
+        <lb ed="#Bb" n="16"/>cipia volendi: quae simul in eodem secundum actum eundem non concurrunt. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe7341-d1e155">
+        ⁋ In contrarium est, quoniam si deus non 
+        <lb ed="#Bb" n="17"/>vellet se de necessitate, cum quod non est necesse esse, possibile est non esse, secundum <name ref="#Aristotle">Philosophum</name> in li. Peri her. possibile er- 
+        <lb ed="#Bb" n="18"/>go esset deum non velle seipsum, non volendo autem seipsum auerteretur a seipso vt a summo bono: a quo non 
+        <lb ed="#Bb" n="19"/>auertitur voluntas nisi peccare posset: ergo voluntas dei peccare posset, consequens falsum est. ergo &amp;c. 
+        <lb ed="#Bb" n="20"/>
+      </p>
+      <p xml:id="vn58an-fe7341-d1e170">
+        ⁋ Quin ponendum sit quod deus de necessitate sic velit seipsum quod non est possibile 
+        <lb ed="#Bb" n="21"/>ipsum non velle seipsum: quemadmodum possibile est ipsum non velle alia a seipso: de hoc non est ma 
+        <lb ed="#Bb" n="22"/>gna dubitatio: quoniam secundum <name ref="#Aristotle">Philosophum</name> &amp; in physic. &amp; in Ethicis, finis in operandis se habet ad vo- 
+        <lb ed="#Bb" n="23"/>luntatem sicut principium in speculandis ad intellectum: &amp; ea quae sunt ad finem, sicut conclusiones. Sed in spe 
+        <lb ed="#Bb" n="24"/>culatiuis intellectus de necessitate assentit principiis, licet non conclusionibus: ergo &amp; fini de necessi 
+        <lb ed="#Bb" n="25"/>tate acquiescit voluntas, licet non eis quae sunt ad finem. Cum igitur deus est finis voluntatis cuiusque: quia est omnis bo 
+        <lb ed="#Bb" n="26"/>ni bonum: voluntas quaelibet necessario vult bonum quod est deus, dum tamen sit ei cognitum. sibiipsi autem in  
+        <lb ed="#Bb" n="27"/>cognitum esse non potest, vt patet ex supra determinatis. Necesse est ergo ponere quod deus seipsum ve- 
+        <lb ed="#Bb" n="28"/>lit de necessitate: ita quod seipsum non velle non potest. &amp; hoc eo maxime quia voluntas non potest velle nisi bonum: ita 
+        <lb ed="#Bb" n="29"/>quod in volendo non potest auerti a bono aspiciendo ad non bonum, vt supra dictum est secundum Diony- 
+        <lb ed="#Bb" n="30"/>sium. In ipso autem deo est perfecta ratio omnis boni, a qua deficit omne bonum quod est extra ipsum. 
+      </p>
+      <p xml:id="vn58an-fe7341-d1e197">
+        ⁋ Sed  
+        <lb ed="#Bb" n="31"/>tota dubitatio in quaestione est, cum voluntas dei sit omnino libera etiam in volendo seipsum, quomodo 
+        <lb ed="#Bb" n="32"/>cum voluntatis libertate stat necessitas volendi: maxime cum ista necessitas non sit ex suppositione si 
+        <lb ed="#Bb" n="33"/>cut si dicatur velle seipsum de necessitate quando vult: quemadmodum cadit necessitas circa illa quae secundum se sim 
+        <lb ed="#Bb" n="34"/>pliciter &amp; absolute sunt contingentia: sed est necessitas simpliciter &amp; absoluta. Et praeterea cum in dicta pro 
+        <lb ed="#Bb" n="35"/>positione, Deus vult seipsum de necessitate, illa determinatio potest determinare actum volendi vel vt 
+        <lb ed="#Bb" n="36"/>terminatur in obiectum volitum, vel vt egreditur ab ipso volente: dubium adhuc non est quin deus 
+        <lb ed="#Bb" n="37"/>habeat necessitatem volendi seipsum prout actus terminatur in obiectum. Licet enim nulla necessitate vellet 
+        <lb ed="#Bb" n="38"/>seipsum secundum quod determinat actum vt egreditur a volente: de necessitate tamen videtur velle se- 
+        <lb ed="#Bb" n="39"/>ipsum secundum quod determinat actum vt transit in obiectum: quamuis hoc modo non velit de neces- 
+        <lb ed="#Bb" n="40"/>sitate alia, eo quod non sunt per se &amp; proprie obiecta volendi. Verbi gratia in simili ex parte actus videndi. si 
+        <lb ed="#Bb" n="41"/>enim esset quis in lumine dum tamen voluntarie aperiret oculos, de necessitate videret lumen: non autem  
+        <lb ed="#Bb" n="42"/>alia quae possent sibi praesentari in lumine. Actus etiam videndi ab ipso nullo modo necessario: sed mera volun 
+        <lb ed="#Bb" n="43"/>tate egrederetur. Tota ergo difficultas est, an deus de necessitate velit seipsum ex illa comparatione quae actus 
+        <lb ed="#Bb" n="44"/>volendi egreditur ab ipsa voluntate. Cum enim ab ipsa egreditur libere dum tamen libera sit dei voluntas etiam in  
+        <lb ed="#Bb" n="45"/>volendo se, vt concessum est: supra) videtur aliquibus impossibile si simulponatur quod egrediatur ab ipsa necessario: 
+        <lb ed="#Bb" n="46"/>&amp; quasi oppositio in adiecto scilicet quod egrediatur ab ipsa libere &amp; non libere: quia quod est necessarium, non est libe- 
+        <lb ed="#Bb" n="47"/>re, &amp; econtrario. secundum quod dictum est opponendo ab <name ref="#Augustine">Augustino</name> secundum sententiam Stoicorum.  
+        <lb ed="#Bb" n="48"/>
+      </p>
+      <p xml:id="vn58an-fe7341-d1e242">
+        ⁋ Et est dicendum quod deus seipsum vult de necessitate determinatione etiam determinante actum volendi 
+        <lb ed="#Bb" n="49"/>vt egreditur a voluntate siue a volente. Distinguendo tamen necessitatem secundum quod distinguit <name ref="#Aristotle">Philosophus</name> in. v. 
+        <lb ed="#Bb" n="50"/>metaphysicae, &amp; Augustinus. v. de ciui. dei, quod est quaedam necessitas violentiae siue coactionis ab alio, 
+        <lb ed="#Bb" n="51"/>&amp; est quaedam necessitas immutabilitatis, quae est ex seipsa absque causa alia. Primo modo secundum Au 
+        <lb ed="#Bb" n="52"/>gustinum necessitas est quae non est in nostra potestate vt possimus impedire quod sit secundum ip- 
+        <lb ed="#Bb" n="53"/>lam: sed etiam si nolimus efficit quod potest, sicut est necessitas mortis. Sed sub tali necessitate non  
+        <lb ed="#Bb" n="54"/>cadit actus volendi voluntatis nostrae in volendo recte vel perperam: quare multo fortius neque in  
+        <lb ed="#Bb" n="55"/>volendo absolute. talis enim necessitas non facit reuerti voluntatem a sua dispositione in id quod est 
+   <!--70.xml-->
+        <pb ed="#Bb" n="28-r"/>
+        <lb ed="#Bb" n="1"/>ontrarium motui quid sit per voluntatem, vt dicitur. v. meta. Vnde respectu actus interioris voluntas cogi non 
+        <lb ed="#Bb" n="2"/>potest, etsi respectu actus exterioris impediatur. Vnde respectu actus exterioris talis necessitas derogat liber 
+        <lb ed="#Bb" n="3"/>tati: quia impedit voluntatem, vt dicitur. v. metaphysi. Vnde (vt dicitur ibidem) talis necessitas contristat vo 
+        <lb ed="#Bb" n="4"/>luntatem. Vbi dicit Commenta. Voluntas est delectabilis: necessitas autem contristabilis. Sed talis necessi 
+        <lb ed="#Bb" n="5"/>tas omnino circa dei voluntatem esse non potest: quia in deo nulla cadit violentia, vt dictum est su- 
+        <lb ed="#Bb" n="6"/>pra. Vndesolum cadit in ipso necessitas incommutabilis: &amp; est propria ei, vt dicit <name ref="#Averroes">Commentator</name> su 
+        <lb ed="#Bb" n="7"/>per. v. metaphysicae. Et de hac necessitate subdistinguendum est in proposito: quod potest considerari 
+        <lb ed="#Bb" n="8"/>vt est praeuia vel quasi praeuia ad voluntatem: vt voluntas ipsa intelligatur cadere sub ipsa necessi- 
+        <lb ed="#Bb" n="9"/>tate in eo quod ab ipsa egreditur actus volendi. Vel potest considerari vt est concomitans ipsam vo- 
+        <lb ed="#Bb" n="10"/>luntatem: vt ipsa necessitas intelligatur cadere sub ipsa voluntate in eliciendo actum. Necessitas primo modo pro  
+        <lb ed="#Bb" n="11"/>culdubio auferret libertatem in eliciendo actum: ita quod voluntas in eliciendo actum volendi non esset aliud quam na 
+        <lb ed="#Bb" n="12"/>tura: &amp; sic non esset plus libertatis in voluntate vt est voluntas, quam in natura vt natura: sed praecisa necessitas 
+        <lb ed="#Bb" n="13"/>imutabilitatis: ita quod quamuis voluntas vt voluntas libera esset quantum est de se, tamen propter necessitatem cui as 
+        <lb ed="#Bb" n="14"/>sociaretur, determinaretur ad actum quemadmodum appetitus bruti ex se indifferens determinatur 
+        <lb ed="#Bb" n="15"/>per appetibile, vt patet ex supra determinatis. Vnde de hoc modo necessitatis, vt includit volunta 
+        <lb ed="#Bb" n="16"/>tem, dico quod deus non vult se de necessitate: sed libere tantum. aliter enim in volendo non ageret, sed  
+        <lb ed="#Bb" n="17"/>potius pateretur vel ageretur. Necessitas autem immutabilitatis secundo modo considerata dico quod non aufert  
+        <lb ed="#Bb" n="18"/>libertatem: sed magis firmat eam in actu suo: eo quod voluntas talem actum volendi delectabiliter &amp; 
+        <lb ed="#Bb" n="19"/>quasi eligibiliter elicit: licet propter obiecti bonitatem immutabiliter actui suo inhaeret. Hoc modo etiam beati 
+        <lb ed="#Bb" n="20"/>in patria in volendo deum liberae erunt voluntatis, &amp; liberioris quam modo sint: licet necessitas immu 
+        <lb ed="#Bb" n="21"/>tabilitatis concomitetur immutabiliter tenens eam in actu suo. Nec erit illa libertas quae est liberi 
+        <lb ed="#Bb" n="22"/>arbitrii: quia illa non est nisi respectu eorum quae sunt ad finem, non respectu finis, vt visum est su 
+        <lb ed="#Bb" n="23"/>pra: &amp; amplius est videndum loquendo de voluntate creaturae. Vnde erit absoluta libertas: quali 
+        <lb ed="#Bb" n="24"/>dicimus deum velle seipsum. Non enim vult seipsum libertate arbitrii: sed tantum alia a se, vt dictum est 
+        <lb ed="#Bb" n="25"/>supra, &amp; infra dicendum est, loquendo de voluntate dei in respectu ad creaturas. 
+      </p>
+      <p xml:id="vn58an-fe7341-d1e325">
+        ⁋ Quidam autem 
+        <lb ed="#Bb" n="26"/>non distinguentes circa voluntatem inter libertatem simpliciter dictam, quae est in omni actu vo 
+        <lb ed="#Bb" n="27"/>luntatis, &amp; libertatem arbitrii quae est solummodo in actu voluntatis circa ea quae sunt ad finem, di 
+        <lb ed="#Bb" n="28"/>cunt quod voluntas dei in volendo seipsum non est libera: neque similiter voluntas creaturae in volendo  
+        <lb ed="#Bb" n="29"/>finem est libera: sed solum in volendo alia a se ex parte dei, &amp; in volendo ea quae sunt ad finem ex 
+        <lb ed="#Bb" n="30"/>parte creaturae: quasi non esset ratio libertatis simpliciter in voluntate, alia a ratione libertatis arbitrii. 
+        <lb ed="#Bb" n="31"/>Sed non est ita, vt patet ex supra determinatis. Dicimus ergo quod simul stant, quod scilicet deus libere &amp; 
+        <lb ed="#Bb" n="32"/>necessario vult seipsum: &amp; hoc non solum stando &amp; perseuerando in actum volendi: sed etiam in ipsum  
+        <lb ed="#Bb" n="33"/>actum simpliciter eliciendo: nec libertas impedit necessitatem: nec econverso. Et hoc quodam modo  
+        <lb ed="#Bb" n="34"/>(quemadmodum infra debet determinari) dicimus quod pater &amp; filius spirant spiritum sanctum libera vo 
+        <lb ed="#Bb" n="35"/>luntate concomitante necessitate, non ab aliquo alio agente quam sit ipsa voluntas, quod ipsam incommu- 
+        <lb ed="#Bb" n="36"/>tabiliter teneat in suo obiecto: sed seipso sibi huiusmodi necessitatem immutabilitatis libere impo- 
+        <lb ed="#Bb" n="37"/>nente, per idem principium agens facit se in obiectum, &amp; tenet se quiescendo in ipso: quemadmodum eodem princi 
+        <lb ed="#Bb" n="38"/>pio grauetur moue ad centrum &amp; quiescit in ipso. Et est ibi illud principium voluntas libera ex parte volun 
+        <lb ed="#Bb" n="39"/>tatis, sicut hic forma grauitatis ex parte grauis. Sicut enim voluntas siue dei siue cuiusque beati in bo- 
+        <lb ed="#Bb" n="40"/>num cognitum quod deus est, delectabiliter &amp; quasi eligibiliter mouetur: ita tamen quod non potest non mo 
+        <lb ed="#Bb" n="41"/>ueri in ipsum nulla necessitate naturae praeueniente vel concomitante voluntatem in suo actu, quasi 
+        <lb ed="#Bb" n="42"/>necessario inclinans voluntatem in actum: sed sibiipsi imponit necessitatem immutabilitatis in affectando mo 
+        <lb ed="#Bb" n="43"/>tum: &amp; hoc propter firmitatem suae libertatl. Haec est enim natura talis necessitatis quod scilicet sit in re absque cam alia, 
+        <lb ed="#Bb" n="44"/>sed ex sua, propria ratione, vt determinat Philosophus. v. meta. &amp; clarius exponit Comment. ibidem. Sic ergo dei 
+        <lb ed="#Bb" n="45"/>voluntas siue cuiusque beati in bono gustato quod deus est, delectabiliter &amp; quasi eligibiliter se tenet: ita 
+        <lb ed="#Bb" n="46"/>tamen quod non potest se non tenere in ipsum nulla necessitate praeueniente aut concomitante vo- 
+        <lb ed="#Bb" n="47"/>luntatem in isto actu, quasi necessario figens ipsum in actum &amp; in obiecto: sed sibi ipsi fixionem huiusmodi seu 
+        <lb ed="#Bb" n="48"/>stabilitionem affectando necessitatem huiusmodi sibi imponit eadem de cam qua prius. Et in hoc differt quo  
+        <lb ed="#Bb" n="49"/>dammodo necessitas concomitans libertatem dei in actu volendi seipsum, &amp; in actu spirandi spiritum 
+        <lb ed="#Bb" n="50"/>sanctum: quia. scilicet in illo non solum ipsa libertas voluntatis sibiipsi necessitatem imponit sicut hic secundum iam 
+        <lb ed="#Bb" n="51"/>dictum modum: immo etiam in illo voluntatem concomitatur naturae necessitas: quia natura ipsa producto con- 
+        <lb ed="#Bb" n="52"/>municatur per actum, vt infra debet exponi. Hic autem in actu isto nulla necessitas naturae conco- 
+        <lb ed="#Bb" n="53"/>mitatur: quia in ipso non fit alicuius naturae communicatio: sed solum voluntatis adhaesio cum volito &amp; vnio. 
+        <lb ed="#Bb" n="54"/>Et quod talis necessitas bene stet simul cum voluntatis libertate in proposito, clare patet commutando propositio 
+        <lb ed="#Bb" n="55"/>nem istam quae est de re, Deus necessario vult seipsum: in illam de dicto, Deum velle seipsum est necessa 
+   <!--71.xml-->
+        <pb ed="#Bb" n="28-v"/>
+        <lb ed="#Bb" n="1"/>rium. vniversalisic, necessarium est deum velle seipsum. In hac enim clare potest exprimi libertas cum neces 
+        <lb ed="#Bb" n="2"/>sitate nullo inconuenienti apparente: dicendo quod necessarium est deum libere velle seipsum: vel, deum 
+        <lb ed="#Bb" n="3"/>libere velle seipsum est necessarium: ita quod in ipsa libertate consistit ratio necessitatis quae necessario vult se 
+        <lb ed="#Bb" n="4"/>ipsum, iuxta modum iam expositum. quoniam quod non potest non velle libere seipsum, hoc totum ex firmita 
+        <lb ed="#Bb" n="5"/>te suae libertatis venit: &amp; solum ex illa: quemadmodum quod ignis non potest combustibile approxima 
+        <lb ed="#Bb" n="6"/>tum non comburere, hoc prouenit ex sola dispositione suae naturae. Vnde dicit <name ref="#Augustine">Augustinus</name> v. de ciuita. dei.  
+        <lb ed="#Bb" n="7"/>Si illa definiatur necessitas secundum quam dicimus necesse est vt ita fiat vel ita fiat: nescio cur eam timea- 
+        <lb ed="#Bb" n="8"/>mus ne libertatem auferat voluntatis. Et hoc siue illa necessitas ponatur ab alio in casu quo loquitur 
+        <lb ed="#Bb" n="9"/>Augustinus, siue illa necessitas ponatur in eodem, vt in proposito nostro. Vnde cum dicimus deum neces 
+        <lb ed="#Bb" n="10"/>sario velle seipsum, non intelligimus in hoc talem necessitatem qualem intelligimus cum dicimus 
+        <lb ed="#Bb" n="11"/>deum necessario intelligere seipsum: aut necessario viuere. Cum enim dicimus ipsum necessario vi- 
+        <lb ed="#Bb" n="12"/>uere, necessitas illa oritur ex ratione suae naturae absolutae: quia ipsa non est nisi viuere quoddam &amp; 
+        <lb ed="#Bb" n="13"/>vita, vt habitum est supra. Cum vero dicimus ipsum necessario intelligere seipsum, necessitas illa ori- 
+        <lb ed="#Bb" n="14"/>tur ex determinatione intellectus per intelligibile, quo necesse est semper quasi informari, vt habi- 
+        <lb ed="#Bb" n="15"/>tum est supra. Cum vero dicimus eum necessario velle seipsum, illa necessitas nec oritur ex na- 
+        <lb ed="#Bb" n="16"/>tura diuina, ea ratione qua natura est, neque ex aliqua determinatione in voluntate ex obiecto volito 
+        <lb ed="#Bb" n="17"/>sed solum &amp; mere ex conditione libertatis in voluntate sua. secundum quod omnia haec patent ex iam 
+        <lb ed="#Bb" n="18"/>&amp; supra determinatis. Argumenta autem vtriusque partis partractanda sunt: quia ambo in aliquo deficiunt. 
+        <lb ed="#Bb" n="19"/>
+      </p>
+      <p xml:id="vn58an-fe7341-d1e441">
+        ⁋ Quod ergo arguitur primo: quod velle non de necessitate est dignior modus volen- 
+        <lb ed="#Bb" n="20"/>di, ergo deo conuenit: Dicedum quod verum est loquendo de necessitate praeueniente voluntatem &amp; tollem 
+        <lb ed="#Bb" n="21"/>te libertatem, quicunque sit ille. Loquendo tamen de necessitate concomitante libertatem, &amp; quae illam con 
+        <lb ed="#Bb" n="22"/>patitur: immo quasi causatur ab ea: non est verum: immo huiusmodi necessitas est propter vigorem libertatis, &amp; 
+        <lb ed="#Bb" n="23"/>contrarium eius propter libertatis infirmitatem, vt patet ex praedictis. 
+      </p>
+      <p xml:id="vn58an-fe7341-d1e452">
+        ⁋ Ad secundum: quod si deus vellet seipsum 
+        <lb ed="#Bb" n="24"/>de necessitate, necessitatem illam non haberet ratione voluntatis, quia derogaret libertati illius: Dicendum  
+        <lb ed="#Bb" n="25"/>quod verum est loquendo de necessitate cui subest voluntas: quae non est nisi necessitas coactionis, de quae  
+        <lb ed="#Bb" n="26"/>ibi loquitur <name ref="#Augustine">Augustinus</name> ad literam: aut necessitas praeueniens voluntatem qualitercumque &amp; qua-  
+        <lb ed="#Bb" n="27"/>liscumque sit illa. Loquendo vero de necessitate concomitante voluntatem, siue ex ratione ipsius volun- 
+        <lb ed="#Bb" n="28"/>tatis, quod contingit in proposito: siue ratione naturae, vt contingit in spiratione spiritus sancti, sicut dictum 
+        <lb ed="#Bb" n="29"/>est: non habet illud veritatem: &amp; multum differt hac necessitate deum velle seipsum absolute ex necessitate 
+        <lb ed="#Bb" n="30"/>&amp; velle seipsum ex necessitate naturae simpliciter. Quia illud quod sit ex necessitate naturae simpliciter, omni 
+        <lb ed="#Bb" n="31"/>no excludit voluntarium: non autem velle seipsum ex necessitate quae est ex ipsius libertatis perfectione, aut quae est ratio 
+        <lb ed="#Bb" n="32"/>ne suae naturae concomitantis voluntatem. 
+      </p>
+      <p xml:id="vn58an-fe7341-d1e478">
+        ⁋ Ad primum in oppositum: quod si deus non vellet seipsum de necessita- 
+        <lb ed="#Bb" n="33"/>te, posset ergo seipsum non velle: Dicendum quod verum est quod non potest non velle seipsum: sed hoc non nisi propter 
+        <lb ed="#Bb" n="34"/>necessitatem concomitantem voluntatem secundum dictum modum: quae (vt dictum est) non impe- 
+        <lb ed="#Bb" n="35"/>dit voluntatis libertatem. de ratione enim libertatis simpliciter, non est posse velle &amp; non velle (vt qui 
+        <lb ed="#Bb" n="36"/>dam putant) sed solummodo affectanter &amp; quasi eligibiliter velle. Posse enim non velle quid vult, non est ni 
+        <lb ed="#Bb" n="37"/>si ex libertatis infirmitate: quemadmodum &amp; posse peccare est ex voluntatis defectibilitate.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

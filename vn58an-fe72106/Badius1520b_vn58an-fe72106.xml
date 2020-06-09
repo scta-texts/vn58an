@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe72106"> <!-- alias="vn58an-a73prae" -->
+      <head xml:id="vn58an-fe72106-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-fe72106-d1e107">
+        <lb ed="#Bb" n="34"/>VIso a. &amp; XLarticulo hucusque quae &amp; qualia de deo in se &amp; 
+        <lb ed="#Bb" n="35"/>absolute sunt intelligenda: sequitur vltimo in hac parte nostrae disputa 
+        <lb ed="#Bb" n="36"/>tionis ordinariae quomodo intellecta de eo sunt proferenda. Et primo quo  
+        <lb ed="#Bb" n="37"/>ad illorum significationem siue nominationem per nomina incomple- 
+        <lb ed="#Bb" n="38"/>xa. Secundo quo ad illorum praedicationes per propositiones complexas. 
+        <lb ed="#Bb" n="39"/>Circa primum quaeruntur vndecim. 
+        <lb ed="#Bb" n="40"/>Primum est: vtrum deus &amp; quae in ipso &amp; de ipso intelliguntur, signi 
+        <lb ed="#Bb" n="41"/>ficari possint nomine vocali. 
+        <lb ed="#Bb" n="42"/>Secundum est: vtrum significari possint nomibus impositis creaturis. 
+        <lb ed="#Bb" n="43"/>Tertium: vtrum nomina significantia deum &amp; creaturas, vniuoce significent illos. 
+        <lb ed="#Bb" n="44"/>Quartum: vtrum nomina significantia deum &amp; creaturas communiter, significent illos pure aequiuoce. 
+        <lb ed="#Bb" n="45"/>Quintum: vtrum per prius significent deum quam creaturas, an conuerso. 
+        <lb ed="#Bb" n="46"/>Sextum: vtrum nomina significantia deum &amp; quae sunt in eo, possint illa significare indifferenter 
+        <lb ed="#Bb" n="47"/>in abstracto &amp; in concreto. 
+        <lb ed="#Bb" n="48"/>Septimum: vtrum congruentius significent illa in abstractione quam in concretione.  
+        <lb ed="#Bb" n="49"/>Octauum: vtrum deus aliquo nomine proprie nominari possit. 
+        <lb ed="#Bb" n="50"/>Nonum: vtrum possit esse aliquod nomen proprium deo quo significari aut nominari possit. 
+        <lb ed="#Bb" n="51"/>Decimum: vtrum verius deus intelligatur quam significetur aut nominetur. 
+        <lb ed="#Bb" n="52"/>Vndecimum: vtrum nomina de deo aliquid de ipso significent priuatiue, an positiue.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

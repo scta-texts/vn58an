@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="23-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe6299"> <!-- alias="vn58an-a46q4" -->
+      <head xml:id="vn58an-fe6299-Hd1e104">Quaestio 4</head>
+      <p xml:id="vn58an-fe6299-d1e107">
+        <lb ed="#Bb" n="41"/>CIrca quartum arguitur, quod amor in deo sit actus ipse amandi, quia sicut se habet in  
+        <lb ed="#Bb" n="42"/>deo notitia ad actum cognoscendi ex parte intellectus, sic se habet amor ad actum 
+        <lb ed="#Bb" n="43"/>amandi ex parte voluntatis. sed ex parte intellectus notitia est ipse actus noscendi in  
+        <lb ed="#Bb" n="44"/>eius intelligentia, non autem habitus in memoria, neque aliquid aliud in eo. ergo ex 
+        <lb ed="#Bb" n="45"/>parte voluntatis amor ipse erit actus amandi in voluntate: non autem vt habitus vel vt 
+        <lb ed="#Bb" n="46"/>passio. 
+      </p>
+      <p xml:id="vn58an-fe6299-d1e123">
+        ⁋ Quia autem amor sit in voluntate vt passio siue affectio, arguitur, quia eius con 
+        <lb ed="#Bb" n="47"/>trarum. scilicet odium, passio est &amp; affectio in illo cuius est, &amp; contraria sunt eiusdem generis, non ergo est actio 
+        <lb ed="#Bb" n="48"/>aut habitus. 
+      </p>
+      <p xml:id="vn58an-fe6299-d1e130">
+        ⁋ Quia autem sit habitus arguitur, quoniam illud quod mouet agentem ad agendum, habitus est in ipso 
+        <lb ed="#Bb" n="49"/>non actus vel passio, quia est vt principium illorum. amor in deo est huiusmodi, vt patet ex di- 
+        <lb ed="#Bb" n="50"/>cto Dionysii in fine quaestionis praecedentis. ergo est habitus, non actio aut passio. 
+        <lb ed="#Bb" n="51"/>
+      </p>
+      <p xml:id="vn58an-fe6299-d1e140">
+        ⁋ Hic oportet intelligere: in principio: quod cum in genere triplex sit appetitus, scilicet 
+        <lb ed="#Bb" n="52"/>pure naturalis absque omni cognitione: animalis per cognitionem sensitiuam: &amp; rationalis per 
+        <lb ed="#Bb" n="53"/>cognitionem intellectiuam: Quorum primum non est nisi per principium inclinatiuum ad motum: non 
+        <lb ed="#Bb" n="54"/>autem motiuum nisi per accidens: Secundum est per principium motiuum: sed per appetibilis deter- 
+        <lb ed="#Bb" n="55"/>minationem: Tertium vero est motiuum libere &amp; ex se, sicut patet ex supra determinatis: Sic autem est 
+   <!--62.xml-->
+        <pb ed="#Bb" n="24-r"/>
+        <lb ed="#Bb" n="1"/>in essentialiter ordinatis secundum gradus adinuicem, quod quicquid est perfectionis in inferiori &amp; 
+        <lb ed="#Bb" n="2"/>imperfectiori, est &amp; in perfectiori: licet sub ratione eminentiori: quemadmodum vegetabile est in sensibili, 
+        <lb ed="#Bb" n="3"/>&amp; vtrumque in rationali: sicut trigonum in tetragono &amp; tetragonum in petagono: vt determinat <name ref="#Aristotle">Philosophus</name> se 
+        <lb ed="#Bb" n="4"/>cundo de anima. Principium igitur inclinatiuum ad motum secundum appetitum pure naturalem non motiuum, est in princi 
+        <lb ed="#Bb" n="5"/>pio motiuo secundum appetitum animalem: &amp; principium motiuum secundum appetitum animalem: amoto illo quid est imperfectio- 
+        <lb ed="#Bb" n="6"/>nis in ips scilicet determinatiuo ad motum per appetibile praedictum, virtute est in motiuo secundum appetitum rationa 
+        <lb ed="#Bb" n="7"/>lem. Hoc enim principum. scilicet voluntas, secundum quod est natura habet principium inclinatiuum ad motum in se 
+        <lb ed="#Bb" n="8"/>non motiuum: secundum autem quod est appetitus simpliciter, non mouet nisi quasi indeterminate &amp; quasi 
+        <lb ed="#Bb" n="9"/>in habitu: sicut non mouet appetitus animalis priusquam determinetur per obiectum. Secundum autem quod ille ap  
+        <lb ed="#Bb" n="10"/>petitus est rationalis, seipsum ex seipso determinat ad actum, solummodo proposito sibi bono per cogni 
+        <lb ed="#Bb" n="11"/>tionem in intellectu. Vt in appetitu qui est voluntas, sit tria considerare secundum rationem differetia 
+        <lb ed="#Bb" n="12"/>scilicet principium inclinatiuum, &amp; principium motiuum simpliciter, &amp; rationem qua dicitur ex se motiuum 
+        <lb ed="#Bb" n="13"/>ex qua habet libertatem: vt dictum est supra: cui in nullo derogatur per principium naturale inclina- 
+        <lb ed="#Bb" n="14"/>tiuum: licet principium motiuum sit quasi concomitans principium naturale inclinatiuum. Quoniam principium 
+        <lb ed="#Bb" n="15"/>inclinatiuum: eo quod non est motiuum: licet determinet obiectum in quod est mouendum: &amp; hoc simpliciter 
+        <lb ed="#Bb" n="16"/>&amp; in genere: vt bonum sub ratione boni simpliciter: &amp; in illo ad bonum quod est ratio omnis boni: secun 
+        <lb ed="#Bb" n="17"/>dum quod verificatur &amp; exponitur illud philosophi, Omnia bonum appetunt: non tamen determinat appe 
+        <lb ed="#Bb" n="18"/>titum ad aliquem motum determinatum in determinatum bonum: quemadmodum determinatur appe- 
+        <lb ed="#Bb" n="19"/>titus animalis secundum praedeterminatum modum. Huiusmodi autem principium inclinatiuum sub ratio-  
+        <lb ed="#Bb" n="20"/>ne qua est inclinatiuum &amp; non motiuum, amor est in omni genere appetitus: &amp; diuersificatur secundum 
+        <lb ed="#Bb" n="21"/>diuersificationem appetitus: vt secundum quod sunt quinque modi appetitus, scilicet naturalis, animalis, hu 
+        <lb ed="#Bb" n="22"/>manus, angelicus, &amp; diuinus: sic quinque sunt modi amoris: vt patet ex auctoritate Dionysii posi 
+        <lb ed="#Bb" n="23"/>ta in praecedenti quaestione. Et (vt dicit in eodem) amor est virtus quaedam vnitiua &amp; continua- 
+        <lb ed="#Bb" n="24"/>tiua. &amp; non solum vnitiua &amp; continuatiua, sed etiam conuersiua, secundum quod dicit in praece- 
+        <lb ed="#Bb" n="25"/>dentibus. Est autem ecstaticus diuinus amor, non finens seipsos esse amantes sed amandorum:  
+        <lb ed="#Bb" n="26"/>vt scilicet amans non maneat ipse amans: sed fiat quodammodo ipse amatus. secundum quod de- 
+        <lb ed="#Bb" n="27"/>clarat per illud quod dixit Paulus, Viuo ego iam non ego, viuit autem in me Christus: dicens. Vt 
+        <lb ed="#Bb" n="28"/>vere amator &amp; mente excedens, sic inquit, deo non ipsam sui viuens: sed amati vitam vt nimis di- 
+        <lb ed="#Bb" n="29"/>lectissimam. Et secundum hoc amor tripliciter habet considerari, praecipue ille qui est cum appetitu ra 
+        <lb ed="#Bb" n="30"/>tionali, de quo principaliter loquimur. Vno modo inquantum habet vim inclinatiuam volun- 
+        <lb ed="#Bb" n="31"/>tatis amatiuae in actum amandi: &amp; mediante actu in obiectum. Alio modo inquantum in ipso 
+        <lb ed="#Bb" n="32"/>actu vnit amantem cum amato. Tertio modo inquantum per vnionem convertit amantem in amatum 
+        <lb ed="#Bb" n="33"/>quodammodo. 
+      </p>
+      <p xml:id="vn58an-fe6299-d1e230">
+        ⁋ Descendendo igitur ad quaestionem dicimus quod amor consideratus primo modo habet 
+        <lb ed="#Bb" n="34"/>rationem habitus tanquam inclinatiui potentiae ad actum &amp; in obiectum. Vnde dicit Dionysius quod  
+        <lb ed="#Bb" n="35"/>amor mouit ipsum deum ad agendum, vt habetur in fine praecedentis quaestionis. Secundo modo  
+        <lb ed="#Bb" n="36"/>quodammodo habet rationem actus: &amp; est amor idem quod ipsa amatio: quae est actio amandi, si- 
+        <lb ed="#Bb" n="37"/>cut lectio est actio legendi. Tertio autem modo habet quodammodo rationem passionis. Conver- 
+        <lb ed="#Bb" n="38"/>tendo enim amantem in amatum tanquam in summe dilectum, summam concipit delectationem ex praesen- 
+        <lb ed="#Bb" n="39"/>tia summe delectabilis sibi: &amp; per hoc sit ipsius amoris intensio: &amp; amandi actus. Magis enim ama-  
+        <lb ed="#Bb" n="40"/>mus quod quasi essentialiter &amp; essentiali amore nobis aliquo genere magis vnitur, aut naturali pro 
+        <lb ed="#Bb" n="41"/>pagatione, aut familiari conversatione, aut aliquo alio modo. Sed quasi accidentaliter &amp; quasi acci 
+        <lb ed="#Bb" n="42"/>dentali intensione amoris aliquando magis amamus ad tempus quos amamus ex aliqua passione quam illos quos 
+        <lb ed="#Bb" n="43"/>amamus ex naturali propagatione: vel alio modo: licet facilius transit: sicut &amp; transit ipsa passio. Et 
+        <lb ed="#Bb" n="44"/>intenditur sic amor ex passione: quemadmodum si quis esset naturaliter rubeus, ex passione super- 
+        <lb ed="#Bb" n="45"/>uenientis verecundiae amplius fit rubeus. Et sic amor dicitur passio propter intensionem quam reci- 
+        <lb ed="#Bb" n="46"/>pit in se ex passione: sed magis proprie passibilis qualitas siue affectio. Et licet secundum haec 
+        <lb ed="#Bb" n="47"/>amor vno modo possit dici habitus, alio modo actio, tertio autem modo passio: ex se tamen &amp; ex 
+        <lb ed="#Bb" n="48"/>sua natura non habet, quod sit passio, nisi quia in ipso sit intensio ex passione: neque quod sit actio, nisi quia 
+        <lb ed="#Bb" n="49"/>per actionem vnit amantem amato: sed ex se &amp; natura sua habet solummodo quod sit habitus. Vnde 
+        <lb ed="#Bb" n="50"/>quia in deo non cadit passio nisi metaphorice dicta, vt infra videbitur: ideo amor dei in sua essentia 
+        <lb ed="#Bb" n="51"/>intensionem non est natus recipere: neque in deo habet vllo modo rationem passionis aut affectionis nisi 
+        <lb ed="#Bb" n="52"/>extendendo nomen affectionis, sicut ipsum extendit Augustinus, ad nomen habitus. In deo au-  
+        <lb ed="#Bb" n="53"/>tem quia est vera amationis actio, quodam modo in deo actio potest dici, sicut &amp; in creaturis suo  
+        <lb ed="#Bb" n="54"/>modo: &amp; secundum hoc ab aliquibus amor dicitur primus actus voluntatis: proprie autem neque in deo: neque  
+        <lb ed="#Bb" n="55"/>in creaturis habet aliam rationem quam rationem habitus: &amp; hoc secundum modum quo ratio habitus potest poni 
+   <!--63.xml-->
+        <pb ed="#Bb" n="24-v"/>
+        <lb ed="#Bb" n="1"/>in deo, secundum praedeterminata. 
+      </p>
+      <p xml:id="vn58an-fe6299-d1e287">
+        ⁋ Sed est aduertendum, quod amor vt habet rationem habitus, distin-  
+        <lb ed="#Bb" n="2"/>guitur in tres modos amoris, secundum quod respicit diuersos actus amationis quorum est principium 
+        <lb ed="#Bb" n="3"/>inclinatiuum: &amp; similiter in alios tres: secundum quod respicit essentiam ipsius habitus. Primo modo di-  
+        <lb ed="#Bb" n="4"/>stinguitur in amorem concupiscentiae siue beniuolentiae: &amp; in amorem beneficentiae: &amp; in amorem con- 
+        <lb ed="#Bb" n="5"/>placentiae. Amor primo modo est ille quo volumus bonum alicui. Secundum quem ea quae alicui volumus non 
+        <lb ed="#Bb" n="6"/>dicimus proprie amare sed concupiscere: &amp; illum amare cui bonum desideramus: quemadmodum  
+        <lb ed="#Bb" n="7"/>vult &amp; amat aliquis vinum: &amp; hoc im proprie &amp; per accidens: quia amat ipsum sibi in vsum: &amp; per se 
+        <lb ed="#Bb" n="8"/>amat seipsum. Iste modus amoris non cadit in deo nisi respectu creaturarum quibus vult bonum 
+        <lb ed="#Bb" n="9"/>propter ipsas subiectiue, non propter se, licet per ordinem ab bonum quod est ipse. Amor beneficentiae est ille 
+        <lb ed="#Bb" n="10"/>quo non solum bonum alicui desideramus sed facere disponimus. Et est iste modus similiter in deo 
+        <lb ed="#Bb" n="11"/>respectu creaturarum: &amp; non differt multum a primo. Amore complacentiae volumus bonum alicuius 
+        <lb ed="#Bb" n="12"/>vt est eius, quia in ipso nobis complacet. Et est iste modus verissimus amoris: quia est boni secundum  
+        <lb ed="#Bb" n="13"/>quod est bonum siue secundum quod est honestum, non secundum quod est vtile aut delectabile. &amp; est in deo 
+        <lb ed="#Bb" n="14"/>perfectissimus &amp; respectu sui &amp; respectu creaturarum. Vult enim deus bonum vniuscuiusque secun- 
+        <lb ed="#Bb" n="15"/>dum quod eius, siue sui, siue alterius: licet bonum alterius vult in ordine ad bonum quod est eius. Se 
+        <lb ed="#Bb" n="16"/>cundum vero quod amor respicit aut nominat essentiam ipsius habitus, distinguitur in amorem 
+        <lb ed="#Bb" n="17"/>naturalem, liberalem, &amp; gratuitum. Et est amor naturalis in omnibus entibus iuxta gradum ap-  
+        <lb ed="#Bb" n="18"/>petitus in eis, vt dictum est: &amp; est etiam in agentibus per voluntatem, principium &amp; origo omnis volun- 
+        <lb ed="#Bb" n="19"/>tariae actionis, non cessans inclinare voluntatem in actum volendi bonum: sed indeterminate. dicente 
+        <lb ed="#Bb" n="20"/>Augustino in expositione tituli psalmi. x. Beati quorum. Ipsa dilectio vacare non potest. Quid enim de 
+        <lb ed="#Bb" n="21"/>vnoquoque homine etiam male operatur nisi amor: Vnde iste amor in nobis origo est &amp; fundamen 
+        <lb ed="#Bb" n="22"/>tum amoris liberalis, qui consistit in virtutibus acquisitis: &amp; ex contrario amoris illiberalis &amp; faci- 
+        <lb ed="#Bb" n="23"/>norosi qui consistit in vitiis. Vnde secundum quod est principium inclinans ad bonum simpliciter, dici 
+        <lb ed="#Bb" n="24"/>tur Charitas large sumendo charitatem. Secundum vero quod est principium inclinans ad bonum appa 
+        <lb ed="#Bb" n="25"/>rens &amp; vt nunc, dicitur libido vel cupiditas. Et est idem in radice naturae. vnde dicit <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Bb" n="26"/>ibidem. Purga ergo amorem tuum: aquam fluentem in cloacam, converte ad hortum. Quales impetus habebat ad  
+        <lb ed="#Bb" n="27"/>mundum, tales habeat ad artificem mundi. Non vobis dicitur nihil ametis: absit: pigri mortui detesta 
+        <lb ed="#Bb" n="28"/>ti miseri eritis. Amate. Sed quid ametis, videte. Amor dei, amor proximi, charitas dicitur. Amor 
+        <lb ed="#Bb" n="29"/>mundi, amor huius seculi, cupiditas dicitur: cupiditas refrenetur: charitas excitetur. Et sic ab amo- 
+        <lb ed="#Bb" n="30"/>re naturali oriuntur ista duo, quasi duae radices virtutum &amp; operum virtutis: &amp; radices vitiorum &amp; 
+        <lb ed="#Bb" n="31"/>operum vitiorum. Vnde &amp; per distinctionem amoris in amorem qui est in finem: &amp; in eum qui est 
+        <lb ed="#Bb" n="32"/>ad finem, distinguuntur praecepta legis diuinae in praecepta primae tabulae quae pertinent ad amorem 
+        <lb ed="#Bb" n="33"/>dei: &amp; in praecepta secundae tabulae quae pertinent ad amorem proximi. Iste amor naturalis in volun 
+        <lb ed="#Bb" n="34"/>tate dei est vt voluntas est natura: &amp; secundum rationem &amp; ordinem conceptuum nostri intellectus 
+        <lb ed="#Bb" n="35"/>est quasi praeuius actui volendi elicito a diuina voluntate, inclinans ipsum in bonum quod est ipse: in quod  
+        <lb ed="#Bb" n="36"/>ipsa semetipsam libere &amp; quasi eligibiliter mouet volendo &amp; amando seipsum. Et quia est so- 
+        <lb ed="#Bb" n="37"/>lum principium inclinans non mouens, nihil derogat libertati diuinae voluntatis: immo magis est 
+        <lb ed="#Bb" n="38"/>in firmitatem libertatis. Quae voluntas quasi inclinatur per amorem: &amp; propria quasi electione tenet se 
+        <lb ed="#Bb" n="39"/>immutabili necessitate concomitante in bono amato. In homine autem &amp; in angelo tempore praecedit 
+        <lb ed="#Bb" n="40"/>eius inclinatio in bonum ante omnem actum volendi electiuum elicitum ex voluntate angelica aut hu 
+        <lb ed="#Bb" n="41"/>mana. Vtrum autem actus volendi non electiuus in angelo praecessit primum actum volendi electiuum 
+        <lb ed="#Bb" n="42"/>uo malus angelus erat obstinatus: &amp; bonus per gratiam confirmatus: de hoc nihil ad praesens. Et quia 
+        <lb ed="#Bb" n="43"/>iste amor inclinat in modum naturae ad vnum vltimum: ideo comparat <name ref="#Augustine">Augustinus</name> eum ponderi in gra 
+        <lb ed="#Bb" n="44"/>uibus &amp; leuibus cum dicit. xiii. libro confessionum capite. ix. Te fruimur requies nostra, locus noster 
+        <lb ed="#Bb" n="45"/>amor illuc attollit nos: corpus pondere suo nititur ad locum suum: ignis sursum, deorsum lapis 
+        <lb ed="#Bb" n="46"/>sua loca petunt. minus ordinata inquieta sunt: ordinantur &amp; quiescunt. Pondus meum amor meus 
+        <lb ed="#Bb" n="47"/>eo feror quocumque feror. Amor autem liberalis in intellectualibus est: &amp; consistit in habitibus vir- 
+        <lb ed="#Bb" n="48"/>tutum includentibus in se amorem naturalem, sub modo perfectiori inclinans in bonum simplici- 
+        <lb ed="#Bb" n="49"/>ter quam secundum quod erat pure naturalis. Et est in homine amor naturalis radix &amp; origo amoris li 
+        <lb ed="#Bb" n="50"/>beralis &amp; omnium habituum virtuosorum: vt sint habitus virtutum nihil aliud quam determinationes amo- 
+        <lb ed="#Bb" n="51"/>ris naturalis: quibus determinate inclinat ad bonum secundum quod est finis diuersarum virtu- 
+        <lb ed="#Bb" n="52"/>tum: &amp; per fines proprios ad finem omnium bonorum communem. in quo consistit beatitudo &amp; fi- 
+        <lb ed="#Bb" n="53"/>nis virtutum. dicente <name ref="#Augustine">Augustino</name> de moribus ecclesiae capite, xv. Non arbitror cum de moribus 
+        <lb ed="#Bb" n="54"/>&amp; vita sit quaestio, amplius esse quaerendum quod sit hominis summum bonum quo referenda sunt omnia 
+        <lb ed="#Bb" n="55"/>nisi quod habere est beatissimum: id autem solus deus: cui haerere non valemus nisi dilectione, amo 
+   <!--64.xml-->
+        <pb ed="#Bb" n="25-r"/>
+        <lb ed="#Bb" n="1"/>re, charitate. Quia si virtus ad beatam vitam nos ducit, nihil omnino esse affirmauerim, nisi summum amo 
+        <lb ed="#Bb" n="2"/>rem dei. Nam illud quod quadripertita dicitur virtus, ab ipsius amoris vario affectu, quantum intelligo, dicitur. vt Te 
+        <lb ed="#Bb" n="3"/>perantia sit amor integrum se praebens ei quod amatur: fortitudo amor facile tolerans omnia propter id quod amatur: iu- 
+        <lb ed="#Bb" n="4"/>stitia amor soli amato seruiens: prudentia amor ea quibus adiuuatur, ab eis quibus impeditur sagaciter 
+        <lb ed="#Bb" n="5"/>eligens. Sed hunc amorem non cuiuslibet rei sed dei esse dicimus. Et infra. xxiii. Vt nihil aliud sit bene vi- 
+        <lb ed="#Bb" n="6"/>uere quam toto corde, tota anima, tota mente diligere deum, a quo existit, vt incorruptus in eo amor atque inte 
+        <lb ed="#Bb" n="7"/>ger custodiatur, quod est temperantiae: vt nullis frangatur incommodis, quod est fortitudinis: nulli alii seruiat, quod est 
+        <lb ed="#Bb" n="8"/>iustitiae: vigilet in discernendis rebus, quod est prudentiae. Et secundum hoc si virtutem ad amorem comparemus, ni 
+        <lb ed="#Bb" n="9"/>hil aliud est quam ordo amoris, vel amor ordinatus. Quantum enim ad materiale in virtute &amp; substantiam ha-  
+        <lb ed="#Bb" n="10"/>bitus, virtus non est nisi amor ordinatus: quantum vero ad formale &amp; completiuum virtus non est nisi ordo amo 
+        <lb ed="#Bb" n="11"/>ris. Talis autem amor in deo est: quemadmodum &amp; habitus virtutum. secundum modum superius determinatum. Et quia 
+        <lb ed="#Bb" n="12"/>iste amor secundum diuersas virtutes inclinat ad diuersos fines proprios diuersarum virtutum circa huma- 
+        <lb ed="#Bb" n="13"/>na bona: in modum eius quod mouetur processiue ad loca diuersa: cuius motus principium, instrumentum pes est 
+        <lb ed="#Bb" n="14"/>ideo <name ref="#Augustine">Augustinus</name> hunc amorem comparat pedi. Exponens enim illud Psalmi. ix. In laqueo suo quem absconde 
+        <lb ed="#Bb" n="15"/>runt comprehensus est pes eorum. dicit sic. Pes animae recte intelligitur amor: qui cum prauus est, vocatur cupi- 
+        <lb ed="#Bb" n="16"/>ditas aut libido: cum autem rectus, dilectio vel charitas. Amore enim mouemur tanquam ad locum quo tendimus 
+        <lb ed="#Bb" n="17"/>Amor autem charitatis est virtus gratum faciens, diuinitus infusa: quae est forma caeterarum virtutum diri 
+        <lb ed="#Bb" n="18"/>gens ipsas in vnum finem vltimum supernaturalem modo supernaturali: cum ex se non dirigant in illum nisi modo naturali 
+        <lb ed="#Bb" n="19"/>&amp; humnano. Et talis amor est in deo: immo est ipse deus, dicente loannem. in tertia Cano. sua. Deus charitas est. 
+        <lb ed="#Bb" n="20"/>&amp; in nobis comparatur alis: quia eo ad caelestia volamus. 
+        <lb ed="#Bb" n="21"/>
+      </p>
+      <p xml:id="vn58an-fe6299-d1e469">
+        ⁋ Quia ergo arguitur primo quod amor est actio in voluntate: quia notitia est actio in intel- 
+        <lb ed="#Bb" n="22"/>lectu: Dicendum quod reuera pro actione quandoque sumitur sicut &amp; notitia: vt cum partes imagis in nobis distinguuntur 
+        <lb ed="#Bb" n="23"/>penes illa tria, mens, notitia, &amp; amor. proprie tamen amor non est actio sed amatio. 
+      </p>
+      <p xml:id="vn58an-fe6299-d1e476">
+        ⁋ Ad secundum quod est i 
+        <lb ed="#Bb" n="24"/>passio: quia eius contrarium vt odium, est passio: dicendum quod odium secundum quod est nomen vi- 
+        <lb ed="#Bb" n="25"/>tii, passio non est, sicut neque amor, nisi ex annexa tristitia: quemadmodum &amp; amor quandoque dicitur passio ex 
+        <lb ed="#Bb" n="26"/>annexo gaudio vel delectatione. 
+      </p>
+      <p xml:id="vn58an-fe6299-d1e485">
+        ⁋ Argumentum probans quod sit habitus, simpliciter concedendum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

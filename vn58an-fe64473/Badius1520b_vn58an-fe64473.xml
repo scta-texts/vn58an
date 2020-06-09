@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="236-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe64473"> <!-- alias="vn58an-a69q2" -->
+      <head xml:id="vn58an-fe64473-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe64473-d1e107">
+        <lb ed="#Bb" n="9"/>CIrca secundum arguitur quod in diuinis sit tantum vnus modus identitatis secundum 
+        <lb ed="#Bb" n="10"/>formam &amp; speciem, Primo sic. Distinctio relationum communium secundum for- 
+        <lb ed="#Bb" n="11"/>mam &amp; speciem non est nisi secundum formalem &amp; specificam distinctionem suo 
+        <lb ed="#Bb" n="12"/>um fundamentorum, vt patet ex supra determinatis, quare cum ex parte fun- 
+        <lb ed="#Bb" n="13"/>damenti identitatis in diuinis nulla omnino cadat distinctio: quia non est in di 
+        <lb ed="#Bb" n="14"/>uinis nisi vnica &amp; singularis substantia: nulla ergo consimiliter distinctio secundum  
+        <lb ed="#Bb" n="15"/>formam &amp; speciem potest esse in diuinis ex parte identitatis. 
+      </p>
+      <p xml:id="vn58an-fe64473-d1e125">
+        ⁋ Secundo sic. diffe a 
+        <lb ed="#Bb" n="16"/>rentia secundum materiam tantum non diuersificat formam &amp; speciem alicuius existentis in differenti- 
+        <lb ed="#Bb" n="17"/>bus secundum materiam solum. sed identitas in diuiuis non diuersificatur nisi secundum materiam 
+        <lb ed="#Bb" n="18"/>tantum: quia secundum relata quae sunt idipsum omnino in primo modo identitatis, &amp; alterum &amp; alterum in se 
+        <lb ed="#Bb" n="19"/>cundo, vt patet ex praedeterminatis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe64473-d1e136">
+        ⁋ In contrarium est, quia si modi identitatis ad se &amp; ad lI 
+        <lb ed="#Bb" n="20"/>alium non differunt nisi secundum materia. scilicet secundum relata quae sunt materia &amp; subiectum solum 
+        <lb ed="#Bb" n="21"/>&amp; non secundum formalem rationem fundamentorum, tunc secundum idem fundamentum omni 
+        <lb ed="#Bb" n="22"/>no posset aliquid identitate referri ad seipsum &amp; ad alium: cum eadem substantia quae est in diuinis in vno ali 
+        <lb ed="#Bb" n="23"/>quo, sit in quolibet alio. consequens falsum est: quia eadem ratione posset aliquod aequalitate &amp; similitudine re- 
+        <lb ed="#Bb" n="24"/>ferri ad seipsum &amp; ad alium: cum eadem quantitas &amp; qualitas quae est in vno aliquo: sit etiam in quolibet sicut 
+        <lb ed="#Bb" n="25"/>&amp; eadem. illud tamen falsum est secundum praedeterminata. ergo &amp;c. 
+        <lb ed="#Bb" n="26"/>
+      </p>
+      <p xml:id="vn58an-fe64473-d1e155">
+        ⁋ Dico quod in relationibus comounibus distinctio secundum formam &amp; speciem non accipitur se 
+        <lb ed="#Bb" n="27"/>cundum rem fundamentorum: sed solummodo secundum formales rationes ipsorum. Res enim fundamenti omnium relationum quae  
+        <lb ed="#Bb" n="28"/>sunt in diuinis &amp; propriarum &amp; conmunium vna est singularis quae differt secundum formales rationes substantiae 
+        <lb ed="#Bb" n="29"/>quantitatis &amp; quaelitatis importantium quo ad aliquas species suas in creaturis aliquid perfectionis simpliciter quam id-  
+        <lb ed="#Bb" n="30"/>circo a creaturis transferuntur ad diuina: secundum superius determinata: &amp; hoc manente in consideratione 
+        <lb ed="#Bb" n="31"/>rationis, ratione substantiae quantitatis &amp; quaelitatis: &amp; secundum rem rationes quantitatis &amp; qualitatis incidant in rationem 
+        <lb ed="#Bb" n="32"/>substantiae. Non enim approbamus dictum aliquorum dicentium quod res praedicamentorum quantitatis &amp; quaelitatis transfe 
+        <lb ed="#Bb" n="33"/>runtur a creaturis ad diuina non secundum rationem generis: quemadmodum transfertur res substantiae: sed secundum ratio- 
+        <lb ed="#Bb" n="34"/>nem aliquarum specierum tantum, prout supius determinauimus. Et propter dictam distinctionem secundum rationes for 
+        <lb ed="#Bb" n="35"/>males in diuinis substantiae quantitatis &amp; quaelitatis, dicuntur distingui formaliter &amp; secundum formam ac spe 
+        <lb ed="#Bb" n="36"/>ciem rationis tria genera relationum conmunium, quae sunt identitas, aequalitas, &amp; similitudo. Et consimiliter di 
+        <lb ed="#Bb" n="37"/>co ex parte modorum identitatis: quod quia ipsi accipiuntur non secundum rem &amp; naturam fundamenti: sed secundum forma-  
+        <lb ed="#Bb" n="38"/>les rationes in illa, secundum formam &amp; speciem differunt atque distinguuntur. Quia sicut illa tria genera relatio 
+        <lb ed="#Bb" n="39"/>num conmunium distinguuntur secundum tres formales rationes scilicet substantiae quantitatis &amp; quaelitatis: sic duo modi 
+        <lb ed="#Bb" n="40"/>identitatis distinguuntur secundum duas formales rationes substantiae, quorum vnus est quo praecise &amp; proprie ap  
+        <lb ed="#Bb" n="41"/>pellatur substantia aliquid quod est absolutum &amp; essentiale distinctum contra notionale &amp; respectiuum: quod quidem 
+        <lb ed="#Bb" n="42"/>essentiale est in eo cuius est cum eius notionali siue respectiuo: &amp; per hoc est in eo vt aliquoid eius. Alius ve 
+        <lb ed="#Bb" n="43"/>ro est quo coniter appellatur substantia omne quod habet rationem substantiae: cuiusmodi est quocquod est in diuinis 
+        <lb ed="#Bb" n="44"/>&amp; in creaturis consideratum vt est aliquid in rerum natura, &amp; res alicuius praedicamenti. Super substantiam pri 
+        <lb ed="#Bb" n="45"/>mo modo dictam fundatur secundus modus identitatis quo aliquid dicitur idem alteri a se secundum rationem eius 
+        <lb ed="#Bb" n="46"/>quod est aliquid sui &amp; similiter alterius inquantum huiusmodi. Super substantiam vero secundo modo dictam fundatur pri- 
+        <lb ed="#Bb" n="47"/>mus modus identitatis quo aliquid dicitur idem sibi secundum rationem scilicet totalitatis suae, vt pater sibiipsi secundum  
+        <lb ed="#Bb" n="48"/>rationem totalitatis suae, qui constitutus est ex substantia cum proprietate: &amp; similiter filiatio sibiipsi:s 
+        <lb ed="#Bb" n="49"/>&amp; deitas atque bonitas: &amp; vniuersaliter quicquid est in diuinis &amp; in creaturis ratione totalitatis eius 
+        <lb ed="#Bb" n="50"/>qua est aliquid, vt tactum est in quaestione praecedenti. Et est ratio totalitatis in relatis ratio vna for- 
+        <lb ed="#Bb" n="51"/>malis: quamuis naturaliter differant relata in isto modo identitatis, puta pater, paternitas, deitas, boni- 
+        <lb ed="#Bb" n="52"/>tas, &amp; huiusmodi in diuinis. Et ideo est identitas in omnibus his secundum formam &amp; speciem ra 
+        <lb ed="#Bb" n="53"/>tionis, differens solum secundum naturam relatorum. Et similiter in alio modo identitatis ratio par 
+        <lb ed="#Bb" n="54"/>tialitatis vel quasi partialitatis qua aliquid est aliquid alicuius, est formalis ratio in relatis vna, quan- 
+        <lb ed="#Bb" n="55"/>uis naturaliter differant relata: puta pater &amp; filius a bonitate &amp; veritate. Et ideo iden-  
+   <!--487.xml-->
+        <pb ed="#Bb" n="236-v"/>
+        <lb ed="#Bb" n="1"/>titas patris &amp; filii. Et similiter bonitatis &amp; veritatis est eadem secundum formam &amp; speciem rationis: quamuis 
+        <lb ed="#Bb" n="2"/>naturaliter differunt relata. Sed differt relatio identitatis &amp; materialiter &amp; formaliter simul: cum di- 
+        <lb ed="#Bb" n="3"/>citur secundum secundum modum, pitr est idem filio: aut bonitas est eadem sapientiae: &amp; cum dicitur secundum primum mo-  
+        <lb ed="#Bb" n="4"/>dum identitatis, Deitas est eadem deitati siue sibiipsi: aut deitas patris est eadem deitati filii: quia 
+        <lb ed="#Bb" n="5"/>ibi relata sunt alia &amp; alia secundum alios &amp; alios respectus: aut alias rationes. Personae enim differunt respecti 
+        <lb ed="#Bb" n="6"/>bus: &amp; attributa rationibus secundum praedeterminata. Et est ibi relatio secundum id quod est aliquid relatorum  
+        <lb ed="#Bb" n="7"/>in ambobus eisdem secundum substantiam eandem numero: quae etiam est aliquid vtriusque. Hic vero sunt relata 
+        <lb ed="#Bb" n="8"/>eadem: &amp; est relatio secundum id quod est habens totalitatem relatorum. Et sic licet idem sit in re id quo pater 
+        <lb ed="#Bb" n="9"/>est idem filio: &amp; quo deitas est eadem sibi. scilicet vna substantia numeralis: differt tamen relatio identitatis 
+        <lb ed="#Bb" n="10"/>in illis secundum relationes formales totalitatis &amp; partialitatis fundamenti. Ibi enim substantia est relatio 
+        <lb ed="#Bb" n="11"/>nis fundamentum vt est aliquod relati &amp; propria pars: hic vero vt est totalitas relati: licet non differat 
+        <lb ed="#Bb" n="12"/>dicere, deitas est eadem deitati aut sibiipsi: &amp; deitas patris est eadem deitati filii: quia vna &amp; eadem est 
+        <lb ed="#Bb" n="13"/>deitas vtriusque: nisi in eo quod cum dicitur deitas esse eadem sibi, differentia eius secundum quod fit relatio in re 
+        <lb ed="#Bb" n="14"/>latis, est a ratione sola. Cum vero dicitur deitas patris eadem deitati filii, similiter est differentia illius a sola ratio 
+        <lb ed="#Bb" n="15"/>ne: sed est adminiculo relatorum differentia eius validior &amp; apparentior: licet non minor, vt patet ex 
+        <lb ed="#Bb" n="16"/>praedictis. Non tamen pater dicitur idem filio quia substantia vtriusque est eadem: sed solummodo quia 
+        <lb ed="#Bb" n="17"/>substantia vtriusque est vna: &amp; hoc quia vnitas illius realis est: &amp; ex natura rei: identitas autem illa ra 
+        <lb ed="#Bb" n="18"/>tionalis est &amp; a ratione. Et fundamentum relationis est tale absolutum, siue sit illa relatio secundum rem siue 
+        <lb ed="#Bb" n="19"/>secundum rationem: non autem relatio siue realis siue rationalis. Et sic omnino secundum aliam rationem substan 
+        <lb ed="#Bb" n="20"/>tiae pater est idem filio &amp; sibiipsi. Est enim substantia qua pater est idem sibi, quasi totum ad substantiam 
+        <lb ed="#Bb" n="21"/>qua est idem filio. illa enim continet essentiam &amp; relationem: ista vero essentiam tantum. Et similiter substantia 
+        <lb ed="#Bb" n="22"/>qua pater est idem sibi, quasi totum est ad substantiam qua deitas est eadem sibi: sed secundum eandem rationem 
+        <lb ed="#Bb" n="23"/>substantiae: quia ratione substantiae quae est totalitas relatorum. Et secundum dicta concedenda est vlti- 
+        <lb ed="#Bb" n="24"/>ma ratio eadem concludens. 
+        <lb ed="#Bb" n="25"/>
+      </p>
+      <p xml:id="vn58an-fe64473-d1e279">
+        ⁋ Ad primam in oppositum, quod ex parte substantiae in diuinis nulla cadit omnino  
+        <lb ed="#Bb" n="26"/>distinctio: Dico quod verum est: substantiam in diuinis stricte sumendo scilicet pro essentia absque omni ratione 
+        <lb ed="#Bb" n="27"/>respectus &amp; relationis. Accipiendo tamen large substantiam sicut sumitur quando dicit <name ref="#Aristotle">Philosophus</name> quod vnum 
+        <lb ed="#Bb" n="28"/>in substantia sequitur idem, bene cadit in substantia distinctio, vt iam dictum est: &amp; expositum est su 
+        <lb ed="#Bb" n="29"/>perius. Et sic large accepta substantia ipsa bene distinguitur secundum duas formales rationes &amp; in di- 
+        <lb ed="#Bb" n="30"/>uinis &amp; in creaturis: secundum quas sunt duo modi identitatis &amp; in diuinis &amp; in creaturis, vt dictum 
+        <lb ed="#Bb" n="31"/>est. 
+      </p>
+      <p xml:id="vn58an-fe64473-d1e298">
+        ⁋ Ad secundum quod in diuinis identitas distiguitur secundum materiam tamt scilicet secundum relata, ergo &amp;c. Dico 
+        <lb ed="#Bb" n="32"/>nm quod falsum est. immo cum hoc quod differentia est secundum relata quando aliquid refertur ad se &amp; ad alterum: est 
+        <lb ed="#Bb" n="33"/>etiam differentia secundum rationes formales substantiae in his relatis &amp; in illis, vt patet ex iam dictis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

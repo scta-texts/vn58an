@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="36-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e467"> <!-- alias="vn58an-a5q1" -->
+      <head xml:id="vn58an-d1e467-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e467-Hd1e107" type="question-title">Utrum studendum sit homini ut sciat</head>
+      <p xml:id="vn58an-d1e467-d1e110">
+   <!--86.xml-->
+            <pb ed="#Ba" n="36-r"/>
+        <lb ed="#Ba" n="1"/>CIrca primum arguitur quod non est studendum homini vt sciat. Primo sic. ad illud quod 
+        <lb ed="#Ba" n="2"/>est homini inexplicabile non est ei studendum vt sciat: quia frustra studeret:  
+        <lb ed="#Ba" n="3"/>cunctae res sic sunt difficiles: vt homo eas non possit explicare: sicut dicitur Ecclsi. i 
+        <lb ed="#Ba" n="4"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e467-d1e126">
+        ⁋ Secundo sic. ad illud non est studendum quo adepto homo acquirit 
+        <lb ed="#Ba" n="5"/>sibi materiam doloris: scire est huiusmodi. Ecclsio. i.t Qui addit scientiam: addit &amp; dolorem. 
+        <lb ed="#Ba" n="6"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e467-d1e134">
+        ⁋ Tertio sic. ad illud non est homini studendum: quod non potest inuenire. 
+        <lb ed="#Ba" n="7"/>notitia rerum omnium est huiusmodi. Ecclesi. iii. Mundum tradidit deus dispositioni: vt non inueniat homo opus quod opera 
+        <lb ed="#Ba" n="8"/>tus est deus ab initio vsque ad finem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e467-d1e141">
+        ⁋ Quarto sic. homo non debet studere minori bono 
+        <lb ed="#Ba" n="9"/>&amp; dimittere maius: scientia minus bonum est quam vita. Ecclsi. iii. Cognoui quod non esset melius nisi laeta- 
+        <lb ed="#Ba" n="10"/>ri &amp; facere bona in vita sua. studendo autem scientiae frequenter homo negligit opera vitae. ergo 
+        <lb ed="#Ba" n="11"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e467-d1e150">
+        ⁋ Contra est: quoniam illi studendum est quod necessarium est saluti. scire est huiusmodi. Esa. v. Propter 
+        <lb ed="#Ba" n="12"/>ea ductus est populus meus captiuus: quia non habuit scientiam. &amp;. xxvii. Non est populus sapiens:  
+        <lb ed="#Ba" n="13"/>propterea non miserebitur eius qui fecit illum. ergo &amp;c. 
+   
+      </p>
+      <p xml:id="vn58an-d1e467-d1e157">
+        <lb ed="#Ba" n="14"/>⁋ Dicendum ad hoc: quod omnis homo qui intendit deuenire ad terminum aliquem 
+        <lb ed="#Ba" n="15"/>ad quem deuenire non potest, nisi per viam deducentem ad ipsum terminum: necesse habet se ponere in 
+        <lb ed="#Ba" n="16"/>via &amp; ambulare per eam. Nunc autem est ita quod terminus vnus est vitae humanae ad quem deuenire in-  
+        <lb ed="#Ba" n="17"/>tendit homo scilicet notitia perfecta summi veri: ad quam paruenire non potest, nisi ambulando in cognoscen 
+        <lb ed="#Ba" n="18"/>do per alia vera quae sunt ad ipsum, tanquam per viam: vt dictum est. ambulare autem per notitiam ab 
+        <lb ed="#Ba" n="19"/>vno in aliud non potest nisi studendo scientiae: cum homini scientia non contingat nisi per studium 
+        <lb ed="#Ba" n="20"/>&amp; inuestigationem: vt dictum est supra. Necessario igitur studendum est homini vt sciat. &amp; ideo dicitur 
+        <lb ed="#Ba" n="21"/>Ecclesi. vii. Haec habet eruditio &amp; sapientia quod tribuit vitam possessori suo. &amp; ibidem. vi. Quid amplius ha 
+        <lb ed="#Ba" n="22"/>bet sapiens a stulto nisi vt pergat vbi est vita: vnde <name ref="#Augustine">Augustinus</name> xix. de Tri. Sine scientia nec virtutes ipsae quam 
+        <lb ed="#Ba" n="23"/>bus recte viuitur possunt haberi: per quas haec vita misera sic gubernatur: vt ad illam quae vere beata 
+        <lb ed="#Ba" n="24"/>est perueniatur aeternam. Et econtra dicitur studere scientiae negligentibus Osee. iiii. Quia tu repulisti sci 
+        <lb ed="#Ba" n="25"/>entiam: &amp; ego repellam te. Hinc etiam Acad, qui negabant verum posse inueniri: dicebant tamen non 
+        <lb ed="#Ba" n="26"/>a 
+        <lb ed="#Ba" n="27"/>esse cessandum a studio &amp; veritatis inuestigatione: &amp; hoc est opus sapientis. 
+      </p>
+      <p xml:id="vn58an-d1e467-d1e193">
+        <lb ed="#Ba" n="28"/>⁋ Ad primum in oppositum, quod cunctae res sunt homini difficiles: &amp; inexplicabiles: Dicen 
+        <lb ed="#Ba" n="29"/>dum secundum Glos. ibidem. quod verum est, vt ad plenum eas homo explicet: &amp; ad summam scientiae earum perueniat in 
+        <lb ed="#Ba" n="30"/>vita ista: quia quanto homo magis sciendo notitiam rerum ingreditur: tanto amplius inuenit eam profun- 
+        <lb ed="#Ba" n="31"/>dam. Propter quod dixit Salomon sapientissimus in rerum naturis, Ecclesi. vii. Dixi sapiens efficiar: &amp; 
+        <lb ed="#Ba" n="32"/>ipsa longius recessit a me amplius quam erat. &amp; ibidem. viii. Est homo qui diebus ac noctibus somnum 
+        <lb ed="#Ba" n="33"/>non capit oculis: &amp; quanto plus laborauerit: tanto minus inueniet. vnde Gloss. super illud cap 
+        <lb ed="#Ba" n="34"/>Quanto ad sapientiam accedis: tanto a te recedit: &amp; altiorem se ostendit. &amp; hoc maxime verum est 
+        <lb ed="#Ba" n="35"/>accedendo ad sapientiam quae de deo est. vnde dicit Chryso: super Matthicor. Sicut quanto acutius 
+        <lb ed="#Ba" n="36"/>viderimus, tanto magis discimus quam a caeli regione differimus: sic etiam quanto ad virtutis ascendimus ex- 
+        <lb ed="#Ba" n="37"/>celsum, tanto amplius docemur quam sit inter nos &amp; deum grande discrimen. &amp; Orig. super pri. Exo. 
+        <lb ed="#Ba" n="38"/>loquens de profunditate sacrae scripturae dicit sic. Videtur mihi vnusquisque sermo diuinae scriptu- 
+        <lb ed="#Ba" n="39"/>rae similis esse alicui seminum: quod tanto accumulatius diffunditur: quanto peritus agricola plus semi 
+        <lb ed="#Ba" n="40"/>ni laboris impendit. lta &amp; hic sermo si peritum &amp; diligentem inuenerit colonum: cum primo contactus vi 
+        <lb ed="#Ba" n="41"/>detur exiguus &amp; breuis: vt coeperit excoli crescit in arborem: vt possint disputatores &amp; rhetores 
+        <lb ed="#Ba" n="42"/>huiusmodi habitare in ramis eius. Tentabimus igitur pro viribus nostris aliqua disserere: etiam si neque vni 
+        <lb ed="#Ba" n="43"/>uersa nobis explicare possibile est: quia &amp; hoc ipsum agnoscere: quod supra vires nras sit horum scientia: non 
+        <lb ed="#Ba" n="44"/>paruae arbitror esse peritiae. Nec est mirum quod sit inexplicabilis: quia ad infinitum scibile ducit: vt dictum est 
+        <lb ed="#Ba" n="45"/>Vnde conpetenter potest homo dicere illud Psal. Mirabilis facta est scientia t. ex me. confor. est &amp; non pote 
+        <lb ed="#Ba" n="46"/>ro ad eam. Et nota quod talia dicta sacrae scripturae &amp; de sacra scriptura non sunt vt studiosos terre- 
+        <lb ed="#Ba" n="47"/>ant: &amp; a studio in desperantiam sciendi ponendo repellant: sed vt tepidos excitent: &amp; praesumptuo- 
+        <lb ed="#Ba" n="48"/>sos confutent. secundum quod dicit Glos. super illud. Cunctae res sunt difficiles. Haec sententia est con- 
+        <lb ed="#Ba" n="49"/>tra eos qui sine labore &amp; discendi studio sanctas scripturas se nouisse putant. 
+      </p>
+      <p xml:id="vn58an-d1e467-d1e243">
+        ⁋ Ad secundum quod  
+        <lb ed="#Ba" n="50"/>studio homo acquirit sibi materiam doloris: Dicendum quod duplex est dolor sicut &amp; tristitia: secundum  
+        <lb ed="#Ba" n="51"/>Apostus ii. ad Corint. vii. seculi, &amp; secundum deum. Seculi dolor est quid est pro temporalium amissione: &amp; quia: non 
+        <lb ed="#Ba" n="52"/>in omnibus homo prosperatur ad nunc. Iste nociuus est: &amp; non additur ex scientia: immo repellitur. Dolor secun 
+        <lb ed="#Ba" n="53"/>dum deum est dolere quia homo peccauit &amp; fecit quae odit deus. Iste vtilis est &amp; additur ex scientia. vnde dicit 
+        <lb ed="#Ba" n="54"/>Glos. super illud. Qui addit scientiam: addit dolorem. Quia quanto plus scit: tanto plus diuina iudi 
+        <lb ed="#Ba" n="55"/>cia timet: quia cui plus committitur: ab eo plus exigetur. 
+      </p>
+      <p xml:id="vn58an-d1e467-d1e260">
+        ⁋ Ad tertium quod homo non potest opus dei 
+        <lb ed="#Ba" n="56"/>inuenire: Dicendum quod verum est ad plenum. Non tamen propter hoc retrahendum est studium 
+   <!--87.xml-->
+        <pb ed="#Ba" n="36-v"/>
+        <lb ed="#Ba" n="1"/>quia studendo ex illis potest scire multa sibi vtilia: vt ibi dicit Gloss. 
+      </p>
+      <p xml:id="vn58an-d1e467-d1e271">
+        ⁋ Ad quartum: quod homo stu- 
+        <lb ed="#Ba" n="2"/>dendo negligit opera vitae: Dicendum quod non est verum nisi vane studiosus sit: immo studere ordi- 
+        <lb ed="#Ba" n="3"/>nata intentione, studere ipsum est opus meritorium vitae aeternae: quia nec sine scientia dirigi possunt 
+        <lb ed="#Ba" n="4"/>virtutum opera: vt dictum est. propter quod dixit Christus Apostolius. Estote prudentes sicut serpentes 
+        <lb ed="#Ba" n="5"/>&amp; simplices sicut columbae. prudentes studendo scientiae, simplices studendo recta intentione. &amp; Apostinus i 
+        <lb ed="#Ba" n="6"/>Timo. iiii. Attende tibi &amp; doctrinae. Hoc enim faciens, teipsum saluum facies: &amp; eos qui te audierint.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

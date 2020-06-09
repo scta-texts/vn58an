@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="228-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe62359"> <!-- alias="vn58an-a68q4" -->
+      <head xml:id="vn58an-fe62359-Hd1e104">Quaestio 4</head>
+      <p xml:id="vn58an-fe62359-d1e107">
+        <lb ed="#Bb" n="24"/>CIrca Quartum arguitur quod tres modi relationum conmunium in deo dicuntur secundum  
+        <lb ed="#Bb" n="25"/>relationem non substantiam, Primo sic. imago in eo quod imago similis est &amp; aequalis. 
+        <lb ed="#Bb" n="26"/>Nam dicit Aug. lxxxiii quaestionibus quaestione viii. Omnis imago est similis: sed non omne simile 
+        <lb ed="#Bb" n="27"/>est imago. Et. q. lxxiiii. dicit de filio respectu patris. Imago eius est, quia de il 
+        <lb ed="#Bb" n="28"/>lo est, &amp; similitudo quia imago est. Et. vi. de Trini. ca. vlti. Imago si perfecte 
+        <lb ed="#Bb" n="29"/>imitatur id cuius est imago: ipsa coaequatur ei. Si autem coaequetur, ergo est co- 
+        <lb ed="#Bb" n="30"/>aequalis. sed imago secundum quod imago relatiue dicitur. Nam dicit <name ref="#Augustine">Augustinus</name> quod filius eo est imago quo  
+        <lb ed="#Bb" n="31"/>filius: quo autem filius est, relatiue dicitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe62359-d1e130">
+        ⁋ Secundo sic. Augustinus. v. de Trini. ca. vi. inqui  
+        <lb ed="#Bb" n="32"/>rit secundum quid filius sit seu dicatur aequalis patri, dicens. Quia filius non ad filium dicitur relatiue: sed  
+        <lb ed="#Bb" n="33"/>ad patrem: non secundum hoc quod ad patrem dicitur, aequalis est filius patri. per quod innuit (vt videtur) quod si 
+        <lb ed="#Bb" n="34"/>in deitate duo essent filii, aequalis diceretur vnus alteri secundum quod ambo essent filii. &amp; eadem ratione simi- 
+        <lb ed="#Bb" n="35"/>lis. Sed si in diuinis esset alius filius, sicut tunc vnus filius ad alium conpararetur secundum aequalitatem 
+        <lb ed="#Bb" n="36"/>aut similitudinem propter conformitatem filiationum: sic econtra modo cum vnus filius comparatur 
+        <lb ed="#Bb" n="37"/>ad patrem qui non est filius secundum id quod est ad patrem, propter difformitatem paternitatis ad filiatio 
+        <lb ed="#Bb" n="38"/>nem filius debet dici inaequalis aut dissimilis patri. id autem secundum quod ad patrem dicitur filius, est rela 
+        <lb ed="#Bb" n="39"/>tio: secundum relationem ergo filius debet dici patri aequalis. &amp; hoc alia relatione quam prnitate &amp; filiatione 
+        <lb ed="#Bb" n="40"/>fundata super illas relationes quae sunt paternitas &amp; filiatio. 
+      </p>
+      <p xml:id="vn58an-fe62359-d1e152">
+        ⁋ Tertio sic. sic se habet relatio ad rela a 
+        <lb ed="#Bb" n="41"/>tionem: sicut se habet substantia ad substantiam: ergo permutatim sicut se habet substantia ad relationem 
+        <lb ed="#Bb" n="42"/>sic se habet relatio ad substantiam. Sed substantia numquam dicitur secundum relationem: ergo nec relatio vnquam diciu 
+        <lb ed="#Bb" n="43"/>secundum substantiam, quare cum identitas, aequalitas, &amp; similitudo in diuinis relationes sint: non dicuntur secundum 
+        <lb ed="#Bb" n="44"/>substantiam. Quare cum secundum <name ref="#Augustine">Augustinus</name> quaecumque sunt in diuinis aut secundum substantiam dicuntur aut secundum  
+        <lb ed="#Bb" n="45"/>relationem: quia nihil in illis dicitur secundum accidens: dicuntur ergo in diuinis secundum relationem. 
+      </p>
+      <p xml:id="vn58an-fe62359-d1e170">
+        ⁋ Quarto 
+        <lb ed="#Bb" n="46"/>sic. secundum <name ref="#Augustine">Augustinus</name> v. de triniitate. ca. vii. secundum substantiam dici, est dici ad se. sed nulla relatio dicitur ad se: 
+        <lb ed="#Bb" n="47"/>immo relatio dicitur ad aliud secundum praedicta. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe62359-d1e180">
+        ⁋ In contrarium est <name ref="#Augustine">Augustinus</name> v. de triniitate. ca. vi. Qui per- 
+        <lb ed="#Bb" n="48"/>scrutando secundum quid filius non dicitur aequalis patri. scilicet quod non secundum relationem qua dicitur ad patrem: sic 
+        <lb ed="#Bb" n="49"/>concludit dicens. Restat igitur vt secundum substantiam sit aequalis, quare vlterius concludo, non secundum relatio 
+        <lb ed="#Bb" n="50"/>nem: cum sint duo modi praedicandi seu dicendi ex opposito distincti in diuinis. 
+      </p>
+      <p xml:id="vn58an-fe62359-d1e192">
+        ⁋ Praeterea ea quae conue  
+        <lb ed="#Bb" n="51"/>niunt personis diuinis. secundum id quod est in eis simpliciter vnum, conveniunt eis: quia in quo diuinae personae sunt 
+        <lb ed="#Bb" n="52"/>vnum: non est nisi ipsa diuina substantia, vt substantia est. Sed relationes cones intrinsecae tribus perso- 
+        <lb ed="#Bb" n="53"/>nis (de quibus ad praesens est sermo: de communibus autem ad extrinsecum debet esse sermo loquendo de deo 
+        <lb ed="#Bb" n="54"/>in comparatione ad creaturas) conveniunt diuinis personis secundum id in quo sunt vnum: quia super vnita 
+        <lb ed="#Bb" n="55"/>tem omnes fundantur, vt habitum est supra. ergo &amp;c. 
+   <!--471.xml-->
+        <pb ed="#Bb" n="228-v"/>
+      </p>
+      <p xml:id="vn58an-fe62359-d1e210">
+        <lb ed="#Bb" n="1"/>⁋ Dico ad intellectum quaestionis &amp; ad eius dissolutionem, quod cum duo praedicamenta 
+        <lb ed="#Bb" n="2"/>olummodo sunt in diuinis scilicet substantia &amp; relatio: quicquid ergo est in diuinis, ad alterum illorum  
+        <lb ed="#Bb" n="3"/>pertinet: &amp; est aut substantia aut relatio, vt longe superius declaratum est. Et similiter omnis modus 
+        <lb ed="#Bb" n="4"/>essendi, praedicandi, seu dicendi, aut ad modum essendi, praedicandi, seu dicendi substantiae, aut relationis 
+        <lb ed="#Bb" n="5"/>pertinet. Quae quidem substantia &amp; relatio in diuinis sunt idipsum re, inquantum secundum superius 
+        <lb ed="#Bb" n="6"/>determinata, relatio in diuinis incidit in substantiam: &amp; ideo in diuinis distinctio substantiae &amp; 
+        <lb ed="#Bb" n="7"/>relationis inter se non potest esse secundum rem. Distinctio igitur ipsorm scilicet substantiae &amp; relationis in di 
+        <lb ed="#Bb" n="8"/>uinis inter se non est nisi secundum, proprias rationes &amp; modos essendi, praedicandi, seu dicendi. Est autem  
+        <lb ed="#Bb" n="9"/>proprius substantiae modus &amp; ratio, esse &amp; praedicari &amp; dici secundum se &amp; absolute. Modus autem pro- 
+        <lb ed="#Bb" n="10"/>prius &amp; ratio relationis est esse, praedicari, &amp; dici in ordine ad aliud. Vnde vna &amp; eadem res in di- 
+        <lb ed="#Bb" n="11"/>uinis quae est ipsa natura diuina, vt est, praedicatur, &amp; dicitur absolute &amp; secundum se: substantia est: &amp; 
+        <lb ed="#Bb" n="12"/>substantia dicitur: &amp; substantialiter praedicatur: Vt vero est praedicatur &amp; dicitur in ordine ad aliud: relatio 
+        <lb ed="#Bb" n="13"/>est &amp; dicitur, &amp; relatiue praedicatur. Et appellat <name ref="#Augustine">Augustinus</name> modum essendi &amp; praedicandi &amp; dicendi absolute 
+        <lb ed="#Bb" n="14"/>qui est substantiae: modum essendi, praedicandi, &amp; dicendi ad se. Modum vero essendi, praedicandi, seu di 
+        <lb ed="#Bb" n="15"/>cendi relationis: appellat modum essendi, praedicandi, seu dicendi ad aliud. Qui modus qui ex parte 
+        <lb ed="#Bb" n="16"/>substantiae dicitur ad se: non sic debet intelligi, vt substantia intelligatur esse praedicari aut dici ad se 
+        <lb ed="#Bb" n="17"/>vtendo illa determinatione per se, ad aliquid ponendum circa esse praedicari aut dici ipsius substan 
+        <lb ed="#Bb" n="18"/>tiae, acsi ipsa substantia esset aliquod relatum ad seipsam: aut forma relatiua qua aliquid refertur ad se 
+        <lb ed="#Bb" n="19"/>ipsum. Sed sic debet intelligi, vt videlicet substantia intelligatur esse praedicari &amp; dici ad se: vtendo illa 
+        <lb ed="#Bb" n="20"/>determinatione ad se: ad aliquod remouendum circa esse praedicari &amp; dici substantiae scilicet abnegando ab  
+        <lb ed="#Bb" n="21"/>ea esse praedicari &amp; dici ad aliud: &amp; per hoc cointelligendo circa ipsam modum praedicandi, essendi, &amp; 
+        <lb ed="#Bb" n="22"/>dicendi alium nobiliorem, qui est esse praedicari &amp; dici secundum se &amp; absolute. Et sunt idem inter se ista 
+        <lb ed="#Bb" n="23"/>duo, dici ad se, &amp; dici substantialiter ex parte substantiae. Et similiter ex parte relationis ista duo: di- 
+        <lb ed="#Bb" n="24"/>ci ad aliud: &amp; dici relatiue. dicente Augustino. v. de trinitate cap. viii. Illud praecipue teneamus, 
+        <lb ed="#Bb" n="25"/>quicquod ad se dicitur praestantissima illa diuinitatis trinitas, substantialiter dici: quicquid autem ad  
+        <lb ed="#Bb" n="26"/>aliud, non similiter: sed relatiue. 
+      </p>
+      <p xml:id="vn58an-fe62359-d1e272">
+        ⁋ Est etiam aduertendum quod esse praedicari &amp; dici secundum substantiam 
+        <lb ed="#Bb" n="27"/>aut secundum relationem dupliciter potest intelligi. Vno modo formaliter: Alio modo quasi materia 
+        <lb ed="#Bb" n="28"/>liter scilicet fundamentaliter. Primo modo idem est secundum substantiam dici quid substantialiter siue ad se, 
+        <lb ed="#Bb" n="29"/>siue secundum se &amp; absolute dici: &amp; similiter idem secundum relationem dici: quod relatiue siue ad aliud dici. Et 
+        <lb ed="#Bb" n="30"/>hoc modo dici secundum substantiam: opponitur ei quod est dici relatiue siue ad aliud. Et secundum hoc potest 
+        <lb ed="#Bb" n="31"/>formari quaestio de omni eo quod inuenitur in diuinis: Vtrum. scilicet dicatur secundum substantiam, an secundum relatio 
+        <lb ed="#Bb" n="32"/>nem. i. substantialiter, an relatiue: secundum quod formauit quaestionem de aequalitate Magister Sen- 
+        <lb ed="#Bb" n="33"/>tentiarum. i. li. Sententiarum. dist. xxxi. in principio dicens sic. Considerari oportet cum tres personae aequa  
+        <lb ed="#Bb" n="34"/>les sibi sint: vtrum relatiue hoc dicantur: vel secundum substantiam. Quod bene declarat cum respondet subdens 
+        <lb ed="#Bb" n="35"/>Ad quod dicimus: quia sicut simile nihil sibi est: Similitudo enim (vt dicit Hilarius) sibi ipsi non  
+        <lb ed="#Bb" n="36"/>est: ita &amp; aequale aliquid sibi non dicitur. Dicitur ergo relatiue filius aequalis patri: &amp; vterque spiritui 
+        <lb ed="#Bb" n="37"/>sancto. Secundo autem modo idem est secundum substantiam dici quod a substantia fundamentaliter denominari 
+        <lb ed="#Bb" n="38"/>&amp; similiter idem est secundum relationem dici, quod relatiue fundamentaliter denominari. Et secundum hoc ibidem 
+        <lb ed="#Bb" n="39"/>Magister secundam quaestionem format de aequalitate, praesupposita responsione ad quaestionem primam iam 
+        <lb ed="#Bb" n="40"/>dictam, dicens. Et si relatiue, supple dicitur aequale &amp; non substantialiter secundum primum modum praedictum 
+        <lb ed="#Bb" n="41"/>iam quaestio secunda est penes secundum modum dicendi secundum substantiam, vel secundum relationem scilicet vtrum secundum  
+        <lb ed="#Bb" n="42"/>relationem an secundum essentiam consideranda sit aequalitas. Quod bene declarat ex sua responsione qua  
+        <lb ed="#Bb" n="43"/>dicit. Dicitur relatiue filius ad patrem &amp; vtrique spiritus sanctus, cum aequalis patri filius, &amp; vtrique spi 
+        <lb ed="#Bb" n="44"/>ritus sanctus propter summam simplicitatem essentiae &amp; vnitatem. Aequalis est igitur filius patri 
+        <lb ed="#Bb" n="45"/>secundum substantiam: non secundum relationem. Vbi dicendo secundum substantiam bene declarat quod prius statim 
+        <lb ed="#Bb" n="46"/>accepit essentiam pro substantia. Cum enim duo habeat in se filius: substantia. scilicet &amp; relationem: quae am- 
+        <lb ed="#Bb" n="47"/>bo sunt de constitutione personae in diuinis: &amp; secundum substantiam suam dicatur ad se: &amp; secundum rela- 
+        <lb ed="#Bb" n="48"/>tionem dicatur ad aliud: quaerit <name ref="#Augustine">Augustinus</name> eandem quaestionem per alia verba: &amp; eam pertractat. v. de 
+        <lb ed="#Bb" n="49"/>Trinitate. ca. vi. vnde assumptum est secundum argumentum. Alloquendo enim haereticos dicit sic. Coguntur 
+        <lb ed="#Bb" n="50"/>dicere secundum quid filius sit aequalis patri: vtrum secundum id quod ad se dicitur, an secundum id quod ad pa-  
+        <lb ed="#Bb" n="51"/>trem dicitur: quoniam ad patrem filius dicitur: ille autem non est filius, sed pater. &amp; supple si esset filius 
+        <lb ed="#Bb" n="52"/>aequalis patri secundum id quod est filius: &amp; secundum id quod ad patrem dicitur, oporteret quod similiter pa- 
+        <lb ed="#Bb" n="53"/>ter esset filius: quia aequalitas non fundatur nisi super id in quo ambo aequalia conueniunt. Nunc 
+        <lb ed="#Bb" n="54"/>autem pater &amp; filius non referuntur inter se relationibus convenientibus siue similibus: sed potius dissi 
+        <lb ed="#Bb" n="55"/>milibus &amp; disconuenientibus. Et hoc est quod <name ref="#Augustine">Augustinus</name> subdit dicens. Quia non sic ad se dicuntur 
+   <!--472.xml-->
+        <pb ed="#Bb" n="229-r"/>
+        <lb ed="#Bb" n="1"/>pater &amp; filius quom amicus. Relatione quippe dicitur amicus ad amicum: &amp; si aequaliter se diligunt, ea 
+        <lb ed="#Bb" n="2"/>dem in vtroque amicitia est. Quae quidem dilectio communis in vtroque est fundamentum amicitiae con 
+        <lb ed="#Bb" n="3"/>munis: quae ob hoc eadem estid i. aequalis. Et post pauca interposita concludit dicens. Quia vero filius 
+        <lb ed="#Bb" n="4"/>non ad filium relatiue dicitur sed ad patrem, non autem secundum hoc quod dicitur ad patrem, aequalis est filius pa 
+        <lb ed="#Bb" n="5"/>tri: restat vt secundum id aequalis sit quod ad se dicitur. Quicquid autem ad se dicitur secundum substantiam 
+        <lb ed="#Bb" n="6"/>dicitur, restat igitur vt secundum substantiam sit aequalis. 
+      </p>
+      <p xml:id="vn58an-fe62359-d1e361">
+        ⁋ His praelibatis patet quod quaestio valde in aequiuoco 
+        <lb ed="#Bb" n="7"/>proposita est. Si enim  secundum positum in quaestione intelligamus dicere circunstantiam causae forma-  
+        <lb ed="#Bb" n="8"/>lis iuxta primum membrum distinctionis praepositae, tunc quaestio ipsa secum responsionem suam importat. 
+        <lb ed="#Bb" n="9"/>In eo enim quod quaerit de relationibus an dicantur secundum substantiam an secundum relationem, manifestum 
+        <lb ed="#Bb" n="10"/>est quod non dicuntur nisi relatiue &amp; ad aliud, &amp; ita non nisi secundum relationem formaliter loquendo, secundum  
+        <lb ed="#Bb" n="11"/>quod processerunt duo media obiecta. lsta enim, pater est idem aequalis aut similis filio secundum relatio-  
+        <lb ed="#Bb" n="12"/>nem: puta secundum identitatem, aequalitatem, aut similitudinem, est per se quarto modi dicendi per se, sicut 
+        <lb ed="#Bb" n="13"/>illa, interfectum interiit secundum interfectionem. Si vero ly secundum intelligatur dicere circunstantiam qua-  
+        <lb ed="#Bb" n="14"/>si causae materialis &amp; fundamentalis iuxta secundum membrum distinctionis: in quo quaestio aliquam habet 
+        <lb ed="#Bb" n="15"/>dubitationem: Dico generaliter quod omnis relatio dicitur secundum substantiam, &amp; similiter quaecumque dicum 
+        <lb ed="#Bb" n="16"/>tur relatiua secundum substantiam dicuntur relatiua. Et hoc sumendo substantiam large, prout in diui 
+        <lb ed="#Bb" n="17"/>nis distinguitur contra relationem: quia nec in diuinis sicut nec in creaturis fundari potest super 
+        <lb ed="#Bb" n="18"/>relationem: quia esset procedere in infinitum relationem fundando super relationem. Quia qua ratione su 
+        <lb ed="#Bb" n="19"/>per vnam illarum puta primam fundaretur alia. scilicet secunda, etiam eadem ratione super illam aliaum scilicet secun 
+        <lb ed="#Bb" n="20"/>dam fundaretur tertia: quod est inconveniens: immo omnis relatio fundatur super absolutum. Speciali 
+        <lb ed="#Bb" n="21"/>ter autem relationes communes nec in diuinis nec in creaturis fundari possunt super relationes 
+        <lb ed="#Bb" n="22"/>alias quae sunt non communes: puta relatio communis inter patrem &amp; filium super paternitatem &amp; filiatio- 
+        <lb ed="#Bb" n="23"/>nem: quia secundum praedeterminata, relationes communes non fundantur nisi super aliquod vnum 
+        <lb ed="#Bb" n="24"/>existens in ambobus relatis, praecipue in diuinis: quia in illis illud vnum debet esse vnum singularita 
+        <lb ed="#Bb" n="25"/>te. Paternitas autem &amp; filiatio quae sunt relatiua inter se, nunquam sunt vnum: quia sunt opposita: nec 
+        <lb ed="#Bb" n="26"/>est in talibus etiam nata fundari relatio similitudinis aut dissimilitudinis, identitatis aut diuersi- 
+        <lb ed="#Bb" n="27"/>tatis, aequalitatis aut inaequalitatis, sicut neque caecitas, neque visio in lapide. Vnde nec duo filii, nec 
+        <lb ed="#Bb" n="28"/>duo patres in creaturis, aut in diuinis si essent in illis, ex eo quod ambo sunt patres aut filii, simi- 
+        <lb ed="#Bb" n="29"/>les, aequales, aut iidem vllo modo dicuntur. Et secundum haec concedenda sunt duo vltima obiecta. 
+        <lb ed="#Bb" n="30"/>
+      </p>
+      <p xml:id="vn58an-fe62359-d1e417">
+        ⁋ Ad primum in oppositum quod super rationem imaginis fundatur aequalitas &amp; simili- 
+        <lb ed="#Bb" n="31"/>tudo, &amp; imago relatio est: Dico quod super imaginem non fundatur relatio aequalitatis aut similitu- 
+        <lb ed="#Bb" n="32"/>dinis: sed sunt aequalitas, &amp; similitudo de essentia imaginis, &amp; eadem relatio est in illis quae est 
+        <lb ed="#Bb" n="33"/>in ratione imaginis, non quae est communis pertinens ad tertium genus relationum: sed quae est pro 
+        <lb ed="#Bb" n="34"/>pria pertinens ad secundum genus, secundum superius determinata. Et sic etiam obiectio de ista aequa 
+        <lb ed="#Bb" n="35"/>litate &amp; similitudine nihil facit ad propositum, vbi est quaestio de relatione communi. 
+      </p>
+      <p xml:id="vn58an-fe62359-d1e430">
+        ⁋ Ad secundum 
+        <lb ed="#Bb" n="36"/>quod filius non est aequalis patri secundum hoc quod ad patrem dicitur scilicet secundum filiationem: quia filius filia- 
+        <lb ed="#Bb" n="37"/>tione non ad filium dicitur sed ad patrem: Dico quod verum est: quia id secundum quod aliquis dicitur alteri 
+        <lb ed="#Bb" n="38"/>aequalis fundamentaliter, requirit scilicet &amp; quod sit vnum in ambobus vt dictum est supra, &amp; quod sit absolutum vt 
+        <lb ed="#Bb" n="39"/>dictum est iam. lta quod si alterum horum deficiat. secundum illud non potest dici aliquid alteri aequale. Hilia- 
+        <lb ed="#Bb" n="40"/>tio ergo secundum quam filius dicitur ad patrem, cum non est vnum aliquid in filio &amp; in patre: quia pater 
+        <lb ed="#Bb" n="41"/>in eo quod est pater non est filius: idcirco quia in diuinis filius non ad filium dicitur: sed ad patrem: 
+        <lb ed="#Bb" n="42"/>bene arguit <name ref="#Augustine">Augustinus</name> quod non secundum id quod ad patrem dicitur est aequalis patri, &amp; hoc tanquam ex vna 
+        <lb ed="#Bb" n="43"/>causa, qua deficiente in aliquo secundum illud nihil potest dici alteri aequale. Ex quo non sequitur quod  
+        <lb ed="#Bb" n="44"/>illa existente &amp; in illo deficiente alia causa, secundum illud possit dici aequale: quia hoc solummodo  
+        <lb ed="#Bb" n="45"/>tunc sequeretur si altera illarum causarum sufficeret. Quid si ita esset, tunc <name ref="#Augustine">Augustinus</name> dicendo quod filius non di-  
+        <lb ed="#Bb" n="46"/>citur aequalis patri secundum quod dicitur ad patrem: quia filius non dicitur relatiue ad filium: sed ad patrem 
+        <lb ed="#Bb" n="47"/>innueret bene sequi quod filius secundum quod ad patrem dicitur, esset aequalis illi si relatiue diceretur ad  
+        <lb ed="#Bb" n="48"/>filium: quod esset si pater esset filius: sic quod idem esset patrem esse &amp; filium esse, quia non essent idem li- 
+        <lb ed="#Bb" n="49"/>cet idem esset filius &amp; pater. FHilius tamen non diceretur filius relatiue ad filium: nisi per accidens scilicet 
+        <lb ed="#Bb" n="50"/>si idem esset filius vnius &amp; pater alterius: quia filius non dicitur per se nisi ad patrem. Sed etiam si 
+        <lb ed="#Bb" n="51"/>per accidens filius diceretur ad filium: tamen filius secundum id quod est ad filium non esset aequalis pa- 
+        <lb ed="#Bb" n="52"/>tri secundum id quod ille pater est: sed potius secundum quod filius est. Si vero non accidat quod aliquis sit filius 
+        <lb ed="#Bb" n="53"/>vnius &amp; pater alterius: sed filii duo sint duorum diuersorum patrum, tunc neuter relatiue dici- 
+        <lb ed="#Bb" n="54"/>tur ad alterum, secundum quod ambo sunt filii, nec per se, nec per accidens. Qui licet conveniant in filiatione 
+   <!--473.xml-->
+        <pb ed="#Bb" n="229-v"/>
+        <lb ed="#Bb" n="1"/>&amp; habeant commune &amp; vnum quod ambo funt filii: secundum hoc ergo nec iidem, nec aequales, nec similes 
+        <lb ed="#Bb" n="2"/>dicuntur, nec est filiatio existens in ambobus relatio communis: vt dictum est supra, articu. id est quaestid est de re- 
+        <lb ed="#Bb" n="3"/>lationibus communibus. Nunc autem in diuinis non est ita qod scilicet idem sit pater &amp; filius, neque respectu vnius, neque 
+        <lb ed="#Bb" n="4"/>respectu diuersorum, nisi secundum Sabellium, qui ponit personarum confusionem in diuinis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

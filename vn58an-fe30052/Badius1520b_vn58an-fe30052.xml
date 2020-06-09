@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="110-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe30052"> <!-- alias="vn58an-a55q6" -->
+      <head xml:id="vn58an-fe30052-Hd1e104">Quaestio 6</head>
+      <p xml:id="vn58an-fe30052-d1e107">
+   <!--234.xml-->
+            <pb ed="#Bb" n="110-r"/>
+        <lb ed="#Bb" n="1"/>lrca sextum arguitur quod omnes proprietates in deo sunt relationes reales, sic. 
+        <lb ed="#Bb" n="2"/>reale dicitur quid a re. nihil autem rei absolute est aut potest esse in diuinis, 
+        <lb ed="#Bb" n="3"/>nisi ipsa essentia: a qua ortum habet omne respectiuum: quod ex se non est 
+        <lb ed="#Bb" n="4"/>res. secundum Boethium dicentem de triniitate. capi. xii. quod tria praedicamenta, scilicet 
+        <lb ed="#Bb" n="5"/>substantia, quantitas, &amp; qualitas rem monstrant: alia vero praedicamenta circun- 
+        <lb ed="#Bb" n="6"/>stantias rei. nihil ergo in diuinis habet esse reale quid nisi ab ipsa diuina essen 
+        <lb ed="#Bb" n="7"/>tia. Ied proprietates quaecumque aequaliter realitatem habent ab ipsa essentia diuina: quia ab ipsa non habent 
+        <lb ed="#Bb" n="8"/>realitatem nisi quia in ipsa fundantur: &amp; omnes aequaliter in ea fundantur, quia immediate: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e131">
+        <lb ed="#Bb" n="9"/>⁋ Praeterea si relatio est realis a substantia in qua fundatur: cum non sit realis dicta nisi quia etiam 
+        <lb ed="#Bb" n="10"/>res sit aliqua, aliter enim non constitueret personam quae res est: res autem esse non potest propter 
+        <lb ed="#Bb" n="11"/>rem substantiae nisi quia ipsa est substantia: qua ratione ergo relatio potest dici res, eadem ratione potest 
+        <lb ed="#Bb" n="12"/>dici substantia. consequens est falsum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e142">
+        ⁋ Quia autem aliquae sint reales arguitur. <name ref="#Boethius">Boethius</name>  di- 
+        <lb ed="#Bb" n="13"/>cit libro de triniitate. quod sola relatio multiplicat trinitatem. quod autem aliquid multiplicat realiter, non 
+        <lb ed="#Bb" n="14"/>potest esse nisi reale. Multiplicatio autem trinitatis personarum in deo realis est, non secundum ra- 
+        <lb ed="#Bb" n="15"/>tionem tantum. dicente <name ref="#Augustine">Augustino</name> quod pater &amp; filius &amp; spiritus sanctus sunt tres res. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e158">
+        ⁋ Quia an 
+        <lb ed="#Bb" n="16"/>autem nec istae sint reales, ergo multo fortius nec aliqua aliarum, arguitur sic. Ioan. <name ref="#JohnDamascenus">Damascenus</name> 
+        <lb ed="#Bb" n="17"/>dicit lib.o i. cap. xi. Aliud est re considerare, aliud ratione &amp; cognitione. in omnibus quidem crea- 
+        <lb ed="#Bb" n="18"/>turis hypostaseon diuisio consideratur re, communitas autem earum ratione &amp; cognitione con 
+        <lb ed="#Bb" n="19"/>sideratur. in substantia vero supersubstantiali econuerso est. illic enim commune &amp; vnum re consideratur:  
+        <lb ed="#Bb" n="20"/>cognitione vero est secundum diuisum. sed istud diuisum non est nisi secundum proprietates persona 
+        <lb ed="#Bb" n="21"/>les. dicente eodem. Vnum enim deum cognoscimus: in solis vero proprietatibus &amp; paternitatis &amp; 
+        <lb ed="#Bb" n="22"/>filiationis &amp; processionis secundum existentiae modum differentiar intelligimus. ergo secundum pro- 
+        <lb ed="#Bb" n="23"/>prietates huiusmodi non differunt personae nisi cognitione seu ratione. hoc autem non esset si 
+        <lb ed="#Bb" n="24"/>essent relationes reales. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e183">
+        ⁋ Item <name ref="#Boethius">Boethius</name>  de trinitate dicit, quod relatio patris ad filium 
+        <lb ed="#Bb" n="25"/>&amp; vtriusque ad spiritum sanctum similis est relationi eiusdem ad seipsum. illa autem est ratio- 
+        <lb ed="#Bb" n="26"/>nis tantum. ergo &amp;c. 
+        <lb ed="#Bb" n="27"/>
+      </p>
+      <p xml:id="vn58an-fe30052-d1e195">
+        ⁋ Dicendum ad hoc secundum supra determinata, quod proprietates attributales relationes si- 
+        <lb ed="#Bb" n="28"/>ue respectus reales non sunt. cuius tamen ratio iam videbitur. De aliis autem sciendum, quod cum re- 
+        <lb ed="#Bb" n="29"/>latio omnis consistit in quodam ordine &amp; collatione quadam relatorum inter se, iste ordo va- 
+        <lb ed="#Bb" n="30"/>riari habet secundum varietatem ordinatorum: &amp; hoc tripliciter: quia aut consistit in ordine ordi- 
+        <lb ed="#Bb" n="31"/>natorum ex natura rei: vt ex vtraque parte ratio ordinis sit ex natura rei: vel in ordine ordinato 
+        <lb ed="#Bb" n="32"/>tum ex ratione intellectus: vt ex vtraque parte ratio ordinis sit ex ratione intellectuum: vel partim 
+        <lb ed="#Bb" n="33"/>in ordie ordinatorum ex natura rei, partim in ordie ordinatorum ex ratione intellectus: vt videlicet ex vna 
+        <lb ed="#Bb" n="34"/>parte sit ratio ordinis ex natura rei, &amp; ex alia ex ratione intellectus. Si in ordine ordinatorum ex natu- 
+        <lb ed="#Bb" n="35"/>ra rei, sic est relatio realis. Si in ordine ordinatorum ex ratione intellectus, sic est relatio rationis. Si 
+        <lb ed="#Bb" n="36"/>ptim vno modo &amp; partim alio modo: sic est partim &amp; ex vno latere relatio rationis, partim vero &amp; ex alio la 
+        <lb ed="#Bb" n="37"/>tere relatio rei. Exemplum de hoc tertio modo est: si homo dextera sua comparatur ad columnam, ista re- 
+        <lb ed="#Bb" n="38"/>latio quam homo habet ad columnam vt dexter ei: &amp; columna ad hominem vt ei sinistra: quia sita est ad dexte- 
+        <lb ed="#Bb" n="39"/>ram eius: ista inquam relatio hominis ad columnam realis est: quia dexterum super quod fundatur in  
+        <lb ed="#Bb" n="40"/>homine. secundum rem est in homine: relatio vero columnae ad hominem solum rationis est: quia sini- 
+        <lb ed="#Bb" n="41"/>strum super quod fundatur in columna, non est in columna nisi secundum conceptum intellectus, scilicet ex respe 
+        <lb ed="#Bb" n="42"/>ctu ad dexterum hominis. Exemplum de secundo est, quando intellectus accipit vnum vt duo: &amp; 
+        <lb ed="#Bb" n="43"/>er hoc intelligit illud sub quodam ordine &amp; respectu ad seipsum, sicut cum dicitur aliquid es 
+        <lb ed="#Bb" n="44"/>se idem sibiipsi. ibi enim est ex vtraque parte relatio secundum rationem: quia duplicatio ista eius- 
+        <lb ed="#Bb" n="45"/>dem non est nisi in conceptu intellectus. Vel cum dicitur in diuinis pater est aequalis filio, ex 
+        <lb ed="#Bb" n="46"/>vtraque parte est relatio secundum rationem, &amp; hoc quia aequalitas aliquorum non est relatio nisi secundum  
+        <lb ed="#Bb" n="47"/>magnitudines eorum commensuratas inter se, siue secundum quod habent magnitudines inter se commen- 
+        <lb ed="#Bb" n="48"/>suratas. &amp; ideo non est realis relatio aequalitas duorum aut plurium: nisi secundum duas aut plures 
+        <lb ed="#Bb" n="49"/>magnitudines commensuratas, secundum quas inter se commensurantur realiter abinuicem diuer 
+        <lb ed="#Bb" n="50"/>as, super quas fundantur respectus reales diuersi. Magnitudo autem spiritualis patris &amp; filii, est ipsa 
+        <lb ed="#Bb" n="51"/>diuina essentia: quae vna est in vtroque secundum rem, &amp; nullo modo plurificata. Cum ergo secundum ipsam 
+        <lb ed="#Bb" n="52"/>dicitur esse personarum aequalitas, oportet quod bis accipiatur secundum intellectum: semel vt habet 
+        <lb ed="#Bb" n="53"/>esse in vna persona: &amp; semel vt in alia: vel ter si trium personarum aequalitas secundum ipsam est 
+   <!--235.xml-->
+        <pb ed="#Bb" n="110-v"/>
+        <lb ed="#Bb" n="1"/>accipienda. vt secundum hoc diuersi respectus possint fundari in ea. Et ideo personarum aequa-  
+        <lb ed="#Bb" n="2"/>litas in diuinis ex vtraque parte est relatio secundum rationem. Et non est differentia in istis duo  
+        <lb ed="#Bb" n="3"/>bus exemplis: nisi quod in illo duplicantur per intellectum ambo, scilicet &amp; illud super quod fun- 
+        <lb ed="#Bb" n="4"/>datur ordo &amp; relatio vt est substantia rei, &amp; ipse cuius est, non enim est identitas nisi bis sumen- 
+        <lb ed="#Bb" n="5"/>do idem per intellectum, &amp; similiter substantiam eandem. In isto vero exemplo duplicatur pe 
+        <lb ed="#Bb" n="6"/>intellectum alterum solum: scilicet illud super quod fundatur ordo relationis. Personae enim diuinae ex se 
+        <lb ed="#Bb" n="7"/>non ex opere intellectus sunt plures: sed essentia deitatis quae vnica est in eis, inquantum in ea fun- 
+        <lb ed="#Bb" n="8"/>datur aequalitas, accipitur penes intellectum vt plurificata inquantum est huius &amp; inquantum est illius, &amp; quo ad  
+        <lb ed="#Bb" n="9"/>hoc magis realitatis est in relatione aequalitatis huius quam identitatis. Exemplum de primo est in  
+        <lb ed="#Bb" n="10"/>omnibus ordinatis secundum relationem consequentem quantitatem, qualitatem, aut actionem, duo 
+        <lb ed="#Bb" n="11"/>passionem: dum tamen ex vtraque parte correspondens ratio ordinis &amp; respectus inueniatur. Sic 
+        <lb ed="#Bb" n="12"/>enim referuntur adinuicem aequalia vel similia in creaturis: quia in vtroque est quantitas vel qua-  
+        <lb ed="#Bb" n="13"/>litas secundum rem, quibus ordinem &amp; respectum habent inter se: &amp; similiter naturaliter actiua 
+        <lb ed="#Bb" n="14"/>&amp; passiua: quia in vtroque est id realiter super quo fundatur actio &amp; passio: &amp; est semper illud  
+        <lb ed="#Bb" n="15"/>reale in creaturis aliud &amp; aliud re absoluta: vt alia &amp; alia quantitas, vniversalalia &amp; alia qualitas, vel alius 
+        <lb ed="#Bb" n="16"/>&amp; alius motus, aut aliquid aliud: secundum quod ipsa extrema relata necessario sunt alia &amp; alia re 
+        <lb ed="#Bb" n="17"/>bsoluta. Si enim illud reale non fuerit in vno extremo vnum re, &amp; in alio aliud re: non est in 
+        <lb ed="#Bb" n="18"/>creaturis relatio realis ex vtraque parte: immo si fuerit vnum re in vtroque differens sola ratione 
+        <lb ed="#Bb" n="19"/>ex vtraque parte, est relatio &amp; ordo secundum rationem tantum: vt dictum est de relatione identi- 
+        <lb ed="#Bb" n="20"/>tatis. Similiter si fuerit aliquid reale in vno cui non respondet aliud reale in altero: ex vna parte 
+        <lb ed="#Bb" n="21"/>est relatio &amp; ordo realis, ex altera vero rationis tantum: vt dictum est de homine &amp; columna. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e304">
+        ⁋ Hoc 
+        <lb ed="#Bb" n="22"/>est ergo quod summe disturbat nos in diuinis, vbi necesse habemus ponere secundum fidem &amp; dicta 
+        <lb ed="#Bb" n="23"/>anctorum, quod inter diuinas personas est relatio realis: ne sola ratione ponamus personas distin  
+        <lb ed="#Bb" n="24"/>gui. Quia enim nihil in diuinis est absolutum reale nisi essentia deitatis: &amp; ideo super ipsam oportet 
+        <lb ed="#Bb" n="25"/>singulos respectus in singulis personis fundari: obscurum est valde quomodo est magis realis relatio 
+        <lb ed="#Bb" n="26"/>inter diuinas personas secundum rationes actiuas &amp; passiuas quae sunt generare &amp; generari: quam  
+        <lb ed="#Bb" n="27"/>secundum rationes quantitatis &amp; qualitatis quae sunt aequale &amp; simile: cum tamen omnes isti 
+        <lb ed="#Bb" n="28"/>respectus fundentur in identitate diuinae essentiae. Quod licet ratio ad plenum non possit compre 
+        <lb ed="#Bb" n="29"/>hendere: tentandum tamen est aliquantulum attingere. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e324">
+        ⁋ Ad cuius intellectum sciendum est, quod 
+        <lb ed="#Bb" n="30"/>secundum praedicta, relatio est debilioris esse inter omnia praedicamenta, &amp; hoc ideo maxime quia praedi 
+        <lb ed="#Bb" n="31"/>camentum substantiae significat per modum entis, ratio enim substantiae est secundum se existere: 
+        <lb ed="#Bb" n="32"/>praedicamenta autem accidentis absoluta vt quantitas &amp; qualitas, significant per modum inhaerem 
+        <lb ed="#Bb" n="33"/>tiae, ratio enim accidentis est in esse: relatio vero significat per modum ad aliud se habentis. ra- 
+        <lb ed="#Bb" n="34"/>tio enim relationis est ad aliud esse, quasi nihil sit eius quod per ipsam refertur. dicente Boethio 
+        <lb ed="#Bb" n="35"/>cap. xii. de trinitate. Haec omnis praedicatio exterioribus datur. &amp; etiam dicit <name ref="#Aristotle">Philosophus</name> quinto me 
+        <lb ed="#Bb" n="36"/>taphysicae, quod scientia inquantum est relatio non est scientis: sed scibilis. Vnde aliqui putauerunt 
+        <lb ed="#Bb" n="37"/>relationem esse de secundis intentionibus, quae non sunt nisi res rationis non existentes extra in-  
+        <lb ed="#Bb" n="38"/>tellectum, quales sunt intentio generis &amp; speciei. Quod videtur sensisse <name ref="#Boethius">Boethius</name> , cum dixit in  
+        <lb ed="#Bb" n="39"/>bro de trinitate loquens de differentia praedicationis substantiae, quantitatis, qualitatis, &amp; relatio 
+        <lb ed="#Bb" n="40"/>nis. Patet ergo (inquit in cap. xii. quae sit differentia praedicationum: quod aliae quidem quasi rem 
+        <lb ed="#Bb" n="41"/>monstrant: aliae vero quasi circunstantias rei: quodque illa ita praedicantur: vt esse aliquid rem osten 
+        <lb ed="#Bb" n="42"/>dant: illa vero non esse: sed potius extrinsecus aliquid quodammodo assignant. Non igitur (vt dicit 
+        <lb ed="#Bb" n="43"/>in cap. xiii. potest praedicatone relatiua quicquam rei de qua dicitur, secundum se addere vel minuere. 
+        <lb ed="#Bb" n="44"/>vel mutare, quae tota non in eo quod est esse, consistit: sed in eo quod est in comparatione quodammodo se ha- 
+        <lb ed="#Bb" n="45"/>bere. &amp; in fine capituli dicit. Quocirca si pater &amp; filius ad aliquod dicuntur: nihil aliud differunt nis 
+        <lb ed="#Bb" n="46"/>sola relatione. Relatio vero non praedicatur ad id de quo praedicatur quasi ipsa res sit: &amp; secun- 
+        <lb ed="#Bb" n="47"/>dum rem non facit alteritatem rei de qua dicitur. Propter quod &amp; Gilbertus Porretanus in commen 
+        <lb ed="#Bb" n="48"/>to super hunc passum, relationes non inesse &amp; insistentes personis, sed affixas dicit, sic inquiens 
+        <lb ed="#Bb" n="49"/>Theologicae personae quoniam essentiarum oppositione a seinuicem aliae esse non possunt, harum quae  
+        <lb ed="#Bb" n="50"/>dictae sunt extrinsecus affixarum rerum oppositione a se inuicem aliae &amp; probantur &amp; sunt. Quod  
+        <lb ed="#Bb" n="51"/>non vsquaquaque falsum est. relatio enim &amp; res est, &amp; modus: sed ex se non est nisi circunstantia 
+        <lb ed="#Bb" n="52"/>siue quidam modus. nisi aliquis sic velit extendere rem, vt rem appellet etiam modum rei: ma-  
+        <lb ed="#Bb" n="53"/>xime qui sequitur rem ex natura rei &amp; non ex natura intellectus: qui etiam res rationis appella 
+        <lb ed="#Bb" n="54"/>tur, cum habet esse a solo intellectu: licet non appellatur res simpliciter. quod etsi respectus qui 
+   <!--236.xml-->
+        <pb ed="#Bb" n="111-r"/>
+        <lb ed="#Bb" n="1"/>sequitur ex natura rei, possit dici res vera aliquo modo, hoc non conuenit ei ratione illa &amp; com- 
+        <lb ed="#Bb" n="2"/>paratione qua est ad aliud, siue ex eo quod est respectus: aut relatio. Aliter enim non esset 
+        <lb ed="#Bb" n="3"/>vna res sed plures, neque vna realitas sed plures, respectus ille qui esset ad plures termi- 
+        <lb ed="#Bb" n="4"/>nos. Et sic non esset vna relatio secundum rem qua vnus est aequalis duobus, neque vna pa- 
+        <lb ed="#Bb" n="5"/>ternitas qua vnus est pater duorum filiorum in creaturis: cum sint duo termini ad quos:  
+        <lb ed="#Bb" n="6"/>quod falsum est. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e404">
+        ⁋ Praeterea si relatio ex se eo quod est respectus &amp; ad aliud, esset res, tunc compara- 
+        <lb ed="#Bb" n="7"/>ta ad substantiam non esset nisi modus tantum. &amp; sic vno modo esset res: alio modo tantum mo 
+        <lb ed="#Bb" n="8"/>dus: quod est inconueniens: sicut est inconveniens quod aliquid vno modo sit accidens: alio modo sub- 
+        <lb ed="#Bb" n="9"/>stantia. Propter quod relatio quod ipsa est res vera siue realis, hoc accipit ab alio: vt a suo funda-  
+        <lb ed="#Bb" n="10"/>mento: quia ab alio habere hoc non potest: quia ad aliud comparationem non habet nisi 
+        <lb ed="#Bb" n="11"/>vt ad fundamentum, aut vt ad terminum. Specialiter autem de relationibus notionum in  
+        <lb ed="#Bb" n="12"/>diuinis quod realitatem sumant a fundamento suo vt dicantur reales, patet inspiciendo iam 
+        <lb ed="#Bb" n="13"/>dicta: hoc enim necesse est propter hoc, quod consistunt in ordine &amp; collatione ordinatorum 
+        <lb ed="#Bb" n="14"/>ex natura rei existentis in eis absque omni consideratione intellectus. Secundum enim supra determi- 
+        <lb ed="#Bb" n="15"/>nata deitas seipsa formaliter habet esse: immo est ipsum esse: &amp; secundum se a nullo habet esse prin- 
+        <lb ed="#Bb" n="16"/>cipiatiue: propter quod tanquam forma pura est prima ratio principiandi omnia, &amp; fundatur in ipsa 
+        <lb ed="#Bb" n="17"/>respectus &amp; ordo ad principiata: &amp; ordine quodam naturae primo ad primum principiatum. Qui qui  
+        <lb ed="#Bb" n="18"/>dem respectus ad primum principiatum cum ipsa forma deitatis constituit primam personam:  
+        <lb ed="#Bb" n="19"/>quae ratione suae primitatis necessario innascibilis est: quae non habet esse ab alio sed ab ip- 
+        <lb ed="#Bb" n="20"/>io omnis alius &amp; omne aliud: sed ordine quodam naturae primo primum principiatum. 
+        <lb ed="#Bb" n="21"/>Per hoc enim quod deitas in hac prima persona est intelligere quoddam secundum actum, ip- 
+        <lb ed="#Bb" n="22"/>sa deitas foecunda est, &amp; ratio principiandi actiue modo naturae &amp; intellectualis operationis, 
+        <lb ed="#Bb" n="23"/>vt qua quis habet producere: &amp; similiter passiue, vt qua quis habet produci: &amp; per hoc 
+        <lb ed="#Bb" n="24"/>quod est ratio ex qua fundatur in ipsa respectus qui est ab alio produci, &amp; constituit cum es- 
+        <lb ed="#Bb" n="25"/>sentia secundam personam, &amp; existens in vtraque persona simul, est foecunda vt sit ratio pro- 
+        <lb ed="#Bb" n="26"/>ducendi actiue, qua duo producunt modo voluntatis: &amp; similiter passiue vt ex qua quis sic 
+        <lb ed="#Bb" n="27"/>producitur: &amp; per hoc fundatur in ea respectus qui est ab alio produci modo voluntatis: &amp; 
+        <lb ed="#Bb" n="28"/>constituit cum ea tertiam personam. Et sic relationes notionales in diuinis ex hoc reales sunt 
+        <lb ed="#Bb" n="29"/>quod fundantur in ipsa deitatis essentia ex sola natura eius absque omni consideratione &amp; collatio-  
+        <lb ed="#Bb" n="30"/>ne intellectus: quemadmodum &amp; in creaturis relationes reales dicuntur quae fundantur in re 
+        <lb ed="#Bb" n="31"/>ex sola natura rei absque consideratione intellectus. 
+        <lb ed="#Bb" n="32"/>Dubium. 
+        <lb ed="#Bb" n="33"/>
+      </p>
+      <p xml:id="vn58an-fe30052-d1e466">
+        ⁋ Sed dubium est vtrum cum hoc quod sunt reales relationes, possunt dici res: &amp; est 
+        <lb ed="#Bb" n="34"/>verum proculdubio quod inquantum includunt in se suum fundamentum, sicut reales dicun- 
+        <lb ed="#Bb" n="35"/>tur quia fundantur in re, sic &amp; res sunt quia rem sui fundamenti in se includunt. Sed secun- 
+        <lb ed="#Bb" n="36"/>dum hoc non sunt nisi vna res, licet sint tres relationes vel quatuor. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e475">
+        ⁋ Aliis videtur quod sicut 
+        <lb ed="#Bb" n="37"/>respectus fundatus in re ex consideratione intellectus dicitur ad minus res rationis tam se- 
+        <lb ed="#Bb" n="38"/>cundum ordinem quem habet ad fundamentum, quam secundum ordinem quem habet ad ob- 
+        <lb ed="#Bb" n="39"/>iectum: quia vtrunque ordinem habet ex consideratione intellectus: sic respectus ille qui fun- 
+        <lb ed="#Bb" n="40"/>datur in re ex natura rei absolutae, debeat dici res secundum vtrunque ordinem: quia ex natura rei 
+        <lb ed="#Bb" n="41"/>conuenit rei vterque: scilicet quod fundatur in re absoluta, &amp; quod respicit obiectum. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e488">
+        ⁋ Sed si hoc po- 
+        <lb ed="#Bb" n="42"/>natur circa reales relationes in diuinis, eadem ratione &amp; in creaturis: vt videlicet paternitas 
+        <lb ed="#Bb" n="43"/>in creaturis non solum dicatur res &amp; realis ex fundamento quae est naturalis potentia gene- 
+        <lb ed="#Bb" n="44"/>randi: sed etiam ex eo quod est obiectum: quod dicunt multi: &amp; quod illa realitas ex ordine ad obie- 
+        <lb ed="#Bb" n="45"/>ctum, est propria praedicamento relationis. 
+        <lb ed="#Bb" n="46"/>Quaestio. 
+        <lb ed="#Bb" n="47"/>
+      </p>
+      <p xml:id="vn58an-fe30052-d1e504">
+        ⁋ Sed tunc quaero: cum praedicamentum relatonis transfertur secundum aliquod manens in dinis, an ista res 
+        <lb ed="#Bb" n="48"/>maneat in dinis translato praedicamento relationis, an non, sed transit in substantiam. Et siue sic dicatur siue sic. 
+   <!--237.xml-->
+        <pb ed="#Bb" n="111-v"/>
+        <lb ed="#Bb" n="1"/>aut ista res est idem omnino cum modo praedicamenti quid est ad aliud esse: aut non. Si non, tunc si 
+        <lb ed="#Bb" n="2"/>translata relatione ad diuina non manet huiusmodi respectus: quia secundum aliquos est accidens in crea 
+        <lb ed="#Bb" n="3"/>turis: sed transit in substantiam: tunc quod manet de relatione in diuinis non est nisi modus tantum, 
+        <lb ed="#Bb" n="4"/>&amp; non est res plusquam in creaturis. Si autem manet in diuinis vt aliquid aliud ab illo modo, tunc re 
+        <lb ed="#Bb" n="5"/>aliqua creaturae esset in diuinis praeter rem deitatis, &amp; praeter modum essendi ad aliud: quod falsum 
+        <lb ed="#Bb" n="6"/>est. Si autem res illa in creaturis sit ipse modus, &amp; transfertur ad diuina, oportet quod maneat: quia 
+        <lb ed="#Bb" n="7"/>aliter nihil de praedicamento relationis maneret in diuinis. In diuinis ergo realitas relationis ex 
+        <lb ed="#Bb" n="8"/>ordine ad obiectum non est nisi ipse modus. &amp; sic secundum quod sunt diuersi modi ad aliud es- 
+        <lb ed="#Bb" n="9"/>endi, secundum quod sunt obiecta diuersa, sic &amp; diuersae res. Sed tunc non est disputatio nisi de 
+        <lb ed="#Bb" n="10"/>nomine, appellando extenso nomine rem quod alii appellant modum rei. Attamen si sic respe- 
+        <lb ed="#Bb" n="11"/>ctus possint dici res, hoc non est nisi quia ex natura rei fundantur in vera re. Quia enim rea- 
+        <lb ed="#Bb" n="12"/>liter &amp; ex natura ipsius rei fundantur in re secundum dictum modum vt dicantur res ex ordine 
+        <lb ed="#Bb" n="13"/>ad fundamentum, ideo etiam realiter respiciunt obiectum, &amp; dicuntur res in ordine ad obie- 
+        <lb ed="#Bb" n="14"/>ctum, non autem ex ordine ad obiectum. Non enim respicere obiectum realiter dat eis quod sunt 
+        <lb ed="#Bb" n="15"/>res etiam in comparatione ad obiectum: immo econuerso, quia enim sunt res ex ordine ad fun 
+        <lb ed="#Bb" n="16"/>damentum, etiam sunt res in ordine ad obiectum, &amp; etiam realiter respiciunt obiectum. Be- 
+        <lb ed="#Bb" n="17"/>ne tamen verum est si respectus dicatur res, quod sicut diuersi sunt respectus ex compa - 
+        <lb ed="#Bb" n="18"/>ratione ad diuersa obiecta, sic &amp; diuersae sunt res: sed hoc nunquam prouenit vt ex causa propter 
+        <lb ed="#Bb" n="19"/>quam sic, sed solum sine qua non. aliquando enim sunt diuersi respectus ad idem obiectum. 
+        <lb ed="#Bb" n="20"/>vt duorum filiorum ad eundem patrem: vt praedictum est. Vnde quod duorum filiorum sunt 
+        <lb ed="#Bb" n="21"/>duae filiationes ad eundem patrem, causa siue ratio quod sunt diuersi respectus, aut diuersae res, non 
+        <lb ed="#Bb" n="22"/>est obiectum vnum: sed potius fundamenta: quae sunt diuersae potentiae generandi passiuae in  
+        <lb ed="#Bb" n="23"/>diuersis materiis: ex quibus generantur duo filii: super quorum diuersas potentias passiuas fun 
+        <lb ed="#Bb" n="24"/>dantur diuersae filiationes, cum tamen paternitas vnica secundum rem respondeat eis in obiecto: quia 
+        <lb ed="#Bb" n="25"/>fundatur super vnicam potentiam generandi actiuam quae est in forma substantiali generantis. 
+        <lb ed="#Bb" n="26"/>Sic &amp; in diuinis quod respectus sunt diuersi ad diuersa obiecta, non sunt causa aut ratio obiecta, li 
+        <lb ed="#Bb" n="27"/>cet non sunt sine illorum diuersitate: quia secundum <name ref="#Aristotle">Philosophum</name> relatiua sunt simul natura: neu 
+        <lb ed="#Bb" n="28"/>trum tamen est causa alterius vt sit: sed causa &amp; ratio per se est ipsa diuina essentia inquantum 
+        <lb ed="#Bb" n="29"/>est fundamentum omnium diuinarum proprietatum. secundum praetactum modum. Licet enim sit 
+        <lb ed="#Bb" n="30"/>vnica re absoluta, propter tamen eiusdem infinitatem &amp; illimitatem ipsa est per se ratio vt qua  
+        <lb ed="#Bb" n="31"/>si sluant ab ipsa diuersi respectus modo actionis &amp; passionis sibi respondentes, &amp; vlterius diuer 
+        <lb ed="#Bb" n="32"/>sa producta: vt modo actionis generare &amp; spirare ad producendum actiue filium &amp; spiritum sanctum- 
+        <lb ed="#Bb" n="33"/>&amp; modo passionis generari &amp; spirari ad producendum quasi passiue filium &amp; spiritum sanctum: 
+        <lb ed="#Bb" n="34"/>vt ipsa essentia simplex &amp; vnica sit per se perfecta ratio eius quod respectus diuersi sunt, non solum 
+        <lb ed="#Bb" n="35"/>quod sunt respectus simpliciter, generare, &amp; spirare, generari &amp; spirari. &amp; per hoc quod sunt diuersi si- 
+        <lb ed="#Bb" n="36"/>ue distincti ipsi producti non econuerso, diuersitas productorum est ratio diuersitatis eius quod 
+        <lb ed="#Bb" n="37"/>est generare &amp; generari, spirare &amp; spirari. Ex quo patet quoddam suppositum superius, quod scili- 
+        <lb ed="#Bb" n="38"/>cet quiditas &amp; realitas secundum quam vna relatio alia est ab altera: non sumitur ex ordine ad  
+        <lb ed="#Bb" n="39"/>suum oppositum: sed potius ex suo fundamento. Vnde quod proprietates emanationum inter se 
+        <lb ed="#Bb" n="40"/>distinguuntur, hoc non est quia vna est ad aliam, aut vna ab alia: neque quia sunt ad diuerso 
+        <lb ed="#Bb" n="41"/>productos vel a diuersis producentibus: sed quia diuersimode fiuunt, vel potius sunt quasi di- 
+        <lb ed="#Bb" n="42"/>uersi fluxus ab eadem substantia. Vnde &amp; personae inter se sunt diuersae non tam quod vna pro- 
+        <lb ed="#Bb" n="43"/>cedit ab altera, quam quia diuersimode procedunt ab eadem: vt dictum est supra. Vnde cum vna 
+        <lb ed="#Bb" n="44"/>persona ab alia emanat, non tam sunt diuersae quia vna ab altera est, quam quia constituuntur di- 
+        <lb ed="#Bb" n="45"/>uersis proprietatibus emanationum. Pater enim est alius a filio non tam quia ab ipso est filius 
+        <lb ed="#Bb" n="46"/>uam quia constituitur proprietate qua actiue ab ipso est filius: &amp; filius proprietate qua qua  
+        <lb ed="#Bb" n="47"/>i passiue est a patre: vt constitutio in esse per talem proprietatem in patre sit praeuia se- 
+        <lb ed="#Bb" n="48"/>cundum rationem rationi emanationis ipsius producti. Sed quod respectus appelletur res, istum 
+        <lb ed="#Bb" n="49"/>modum loquendi non videtur admittere vsus ecclesiae. Cum enim quatuor sunt relatio- 
+        <lb ed="#Bb" n="50"/>nes reales in diuinis, tunc esset praeter rem essentiae quaternitas rerum in diuinis: quod non vi 
+        <lb ed="#Bb" n="51"/>detur admittere vsus loquendi: licet intellectus veritati non repugnaret. Propter quod si omni- 
+        <lb ed="#Bb" n="52"/>no dicendum sit quod relationes sint diuersae &amp; plures res iam dicto modo, videtur mihi quod melius sit 
+        <lb ed="#Bb" n="53"/>dicere cum determinatione, quod sunt plures &amp; diuersae res relationis: quam quod sint plures &amp; diuersae res re 
+        <lb ed="#Bb" n="54"/>simpliciter accepta: quia si absque determinatione diceretur res, cum non sit res in se existens: quia non  
+   <!--238.xml-->
+        <pb ed="#Bb" n="112-r"/>
+        <lb ed="#Bb" n="1"/>substantia: neque in se subsistens: quia non est persona: neque alteri inhaerens in diuinis: quia in diuinis 
+        <lb ed="#Bb" n="2"/>non est accidens: neque similiter in creaturis: quia tunc non transferretur manens in diuinis: esset 
+        <lb ed="#Bb" n="3"/>ergo necessario secundum opinionem Porretani res extrinsecus affixa: quemadmodum &amp; ille modus 
+        <lb ed="#Bb" n="4"/>videtur esse quiddam affixum substantiae inquantum res est. secundum dictam opinionem: quae non ponit quod  
+        <lb ed="#Bb" n="5"/>istam realitatem habeat a subiecto: sed potius ab obiecto, licet aliam realitatem habeat a fundamento: vt 
+        <lb ed="#Bb" n="6"/>scilicet quod plures respectus habeant a fundamento quod sint res &amp; vna res: sed a diuersis obiectis quod sint 
+        <lb ed="#Bb" n="7"/>diuersae res. Sed (vt iam dictum est) vtrumque modum realitatis habent a fundamento: vnum vt sunt vnum in  
+        <lb ed="#Bb" n="8"/>illo: alium vt diuersimode quasi siuunt ab illo: multo fortius quam quod ab eo siuunt diuersae creaturae. Ema 
+        <lb ed="#Bb" n="9"/>nationes enim interiores sunt rationes emanationum exteriorum. Praeterea si quis velit dicere quod in  
+        <lb ed="#Bb" n="10"/>creaturis alia res sit fundamentum relationis, alia vero ipsa relatio: &amp; quod sit accidens inhaerens suba 
+        <lb ed="#Bb" n="11"/>iecto sicut alia praedicamenta accidentis, &amp; quod cum hoc sit ibi modus proprius huius praedicamenti 
+        <lb ed="#Bb" n="12"/>qui est modus purus &amp; non res, &amp; consimiliter in diuinis, obuiabitur ei sic. Cum in diuinis duo sunt 
+        <lb ed="#Bb" n="13"/>praedicamenta translata a creaturis, substantia scilicet &amp; relatio, ita quod cum assumuntur in diui- 
+        <lb ed="#Bb" n="14"/>na praedicatione, quicquid in ipsis rei est vt sunt circa creaturas, non manet: sed totum transit in 
+        <lb ed="#Bb" n="15"/>diuinam substantiam: &amp; manent solum duo modi &amp; rationes illorum praedicamentorum: qui etiam 
+        <lb ed="#Bb" n="16"/>sunt iidem in creaturis: si ergo in diuinis essent diuersae res, substantiae scilicet &amp; relationis, am- 
+        <lb ed="#Bb" n="17"/>bo essent ibi ex natura deitatis: &amp; vni responderet vnus modus tramnslatus a creaturis, &amp; alteri alius. 
+        <lb ed="#Bb" n="18"/>Quare cum modus proprius solum fundatur immediate in re, propria, &amp; non in alia nisi per rem 
+        <lb ed="#Bb" n="19"/>propriam: quia scilicet habet esse vna earum in alia: sicut ergo in diuinis modus substantiae qui est 
+        <lb ed="#Bb" n="20"/>secundum se esse, per se &amp; immediate habet esse circa rem substantiae &amp; fundari in ipsa, sic &amp; 
+        <lb ed="#Bb" n="21"/>modus relationis qui est ad aliquid esse, per se &amp; immediate habet esse circa rem relationis, &amp; 
+        <lb ed="#Bb" n="22"/>fundari in ipsa. lta quod in diuinis modus relationis qui est respectus quidam &amp; ad aliquid esse 
+        <lb ed="#Bb" n="23"/>non habeat esse circa rem substantiae neque fundari in ipsa: nisi per rem relationis existentem in sub- 
+        <lb ed="#Bb" n="24"/>stantia, aut circa substantiam: sicut si in creaturis respectus quid est esse ad formam, non dicatur esse in essen 
+        <lb ed="#Bb" n="25"/>tia materiae nisi per rem aliam relationis existentem in ea. Ex quo necessario sequitur quod res illa relatio 
+        <lb ed="#Bb" n="26"/>nis alia a re substantiae esset aliquid absolutum: quia respectus ille qui non est nisi modus &amp; ad aliquid  
+        <lb ed="#Bb" n="27"/>esse, non fundatur nisi in re absoluta: quia quicquid est praeter absolutum esse, non est nisi modus 
+        <lb ed="#Bb" n="28"/>eius: qui est vel secundum se esse, vel ad aliquid esse. Modus autem non habet fundari in modo  
+        <lb ed="#Bb" n="29"/>quia qua ratione vnus eorum fundatur in alio, eadem ratione &amp; ille alius in tertio, &amp; esset abi- 
+        <lb ed="#Bb" n="30"/>re in infinitum. Standum est ergo in aliquo quid est res absoluta, in qua immediate fundatur omnis 
+        <lb ed="#Bb" n="31"/>modus. Et sic in diuinis non est simpliciter dicendum quod sit res praeter rem substantiae, ita quod cum 
+        <lb ed="#Bb" n="32"/>determinatione dicatur in deo praeter rem substantiae esse res relationis, hoc est secundum iam dictum 
+        <lb ed="#Bb" n="33"/>modum appellando rem ipsum modum rei simpliciter dictae: cui non curamus obuiare: quia non 
+        <lb ed="#Bb" n="34"/>esset disputatio nisi de nomine: quae non prodest vbi certum est de re. 
+        <lb ed="#Bb" n="35"/>
+      </p>
+      <p xml:id="vn58an-fe30052-d1e713">
+        ⁋ Ad primum in oppositum, quod relatio non potest esse realis a substantia subiecta: quia 
+        <lb ed="#Bb" n="36"/>tunc omnes relationes diuinae essent res &amp; respectus reales: quia omnes fundantur in substan- 
+        <lb ed="#Bb" n="37"/>tia diuina: Dicendum quod fundari in substantia potest proprietas dupliciter. Vno modo vt per- 
+        <lb ed="#Bb" n="38"/>fecte habet esse in substantia fundata ex natura substantiae absque omni consideratione intelle- 
+        <lb ed="#Bb" n="39"/>ctus, &amp; comparatione eius ad quodcumque reale alterius rationis: Vel non absque consideratione intel 
+        <lb ed="#Bb" n="40"/>lectus &amp; comparatione ad reale alterius rationis. Omnis proprietas primo fundata supra diuinam 
+        <lb ed="#Bb" n="41"/>substantiam, realis est. &amp; tales sunt solummodo proprietates personales. Secundo autem modo ne- 
+        <lb ed="#Bb" n="42"/>quaquam. Simile enim &amp; aequale non sunt relationes reales in deo: quia non fundantur in deo super 
+        <lb ed="#Bb" n="43"/>diuinam essentiam absque consideratione intellectus: vt supra dictum est. Similiter neque respectus 
+        <lb ed="#Bb" n="44"/>attributorum: quia non fundantur super diuinam essentiam absque omni consideratione intellectus &amp; 
+        <lb ed="#Bb" n="45"/>comparatione ad reale. Secundum enim quod supra determinatum est, non habent esse in deo nisi ex 
+        <lb ed="#Bb" n="46"/>consideratione intellectus diuini secundum se: aut etiam ex comparatione ad realem distinctio- 
+        <lb ed="#Bb" n="47"/>nem personarum diuinarum: aut ex consideratione intellectus diuini sub comparatione ad  
+        <lb ed="#Bb" n="48"/>distincta in creaturis: vt alii dicunt. Aliqui etiam ponunt quod non habent esse in deo nisi ex consi- 
+        <lb ed="#Bb" n="49"/>deratione intellectus nostri, &amp; comparatione ad correspondentia eis in creaturis. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e746">
+        ⁋ Ad secun- 
+        <lb ed="#Bb" n="50"/>dum quod relatio si est realis est res aliqua, ergo est substantia: Dicendum quod verum est inquan- 
+        <lb ed="#Bb" n="51"/>tum realis est: alias nequaquam. Quia hoc nomen relatio vno modo significat respectum vt est in  
+        <lb ed="#Bb" n="52"/>tentio pura &amp; ratio praedicamenti. &amp; sic relatio non est res, neque substantia, neque accidens, nec est realis, 
+        <lb ed="#Bb" n="53"/>sed modus ad aliud se habendi purus, nisi secundum modum praetactum, appellando rem modum rei: vel appel 
+        <lb ed="#Bb" n="54"/>lando modum realem: quia sequitur rem. Alio modo significat respectum vt est res praedicamenti 
+   <!--239.xml-->
+        <pb ed="#Bb" n="112-v"/>
+        <lb ed="#Bb" n="1"/>absoluti super quem fundatur, sicut &amp; significant omnia nomina specierum relationis: vt paternitas, fi- 
+        <lb ed="#Bb" n="2"/>liatio, &amp; huiusmodi. &amp; sic in diuinis significat rem quae est substantia, &amp; est substantia, sed sub ratione respe 
+        <lb ed="#Bb" n="3"/>ctus significata. Est enim quo ad hoc differentia inter significationem respectus in nominibus attri- 
+        <lb ed="#Bb" n="4"/>butoru quae sunt sapientia, bonitas, &amp; in nominibus proprietatum quae sunt paternitas, filiatio. 
+        <lb ed="#Bb" n="5"/>&amp; in nominibus personarum quae sunt pater, filius. Quoniam attributorum nomina significant substam 
+        <lb ed="#Bb" n="6"/>tiam sub ratione respectus rationalis, &amp; non imponuntur ad significandum respectum: sed ipsam suba 
+        <lb ed="#Bb" n="7"/>stantiam sub ratione respectus. Nomina vero proprietatum imponuntur ad significandum respectum 
+        <lb ed="#Bb" n="8"/>fundatum in substantia, &amp; non substantiam sub ratione substantiae: sed solummodo includunt eam in sua 
+        <lb ed="#Bb" n="9"/>significatione. Nomina vero personarum imponuntur ad significandum substantiam sub ratione respe 
+        <lb ed="#Bb" n="10"/>ctus: ita quod etiam significat ipsum realem respectum, &amp; ab illo imponuntur principaliter. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e786">
+        ⁋ Ad aliud,  
+        <lb ed="#Bb" n="11"/>diuisum in diuinis consideratur ratione &amp; cognitione: Dicendum quod in diuinis diuisum dupli- 
+        <lb ed="#Bb" n="12"/>cem habet comparationem: vnam ad id quod cone est: aliam ad suum condiuisum. Primo quidem modo consideratur  
+        <lb ed="#Bb" n="13"/>ratione &amp; cognitione: quia differunt sola ratione substantia &amp; proprietas: non autem secundo modo. Sed ista ramemn 
+        <lb ed="#Bb" n="14"/>sio est contraria dicto <name ref="#JohnDamascenus">Damascenus</name> quia comparat contrario modo cone &amp; diuisum in creaturis. Dicit enim 
+        <lb ed="#Bb" n="15"/>expresse quod diuisum consideratur re: ita quod diuisa sub communi inter se differunt re. Ergo secundum men- 
+        <lb ed="#Bb" n="16"/>tem eius, in diuinis diuisum consideratur ratione. id est quod distincta sub communi inter se sola ratio- 
+        <lb ed="#Bb" n="17"/>ne differunt. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e807">
+        ⁋ Ideo aliter dicendum: quod licet in deo (vt dictum est) proprietas significat substan- 
+        <lb ed="#Bb" n="18"/>tiam: non tamen est distinctiua personae vt est substantia: sed solum vt est respectus: vt sic sit alius 
+        <lb ed="#Bb" n="19"/>modus substantiae vt est substantia, &amp; alius vt est sub ratione respectus. lta quod diuinarum personarum  
+        <lb ed="#Bb" n="20"/>differentia penes huiusmodi modos rationis est respectu differentiae duarum personarum in diui- 
+        <lb ed="#Bb" n="21"/>nis secundum substantias absolutas. &amp; ita quo ad hoc secundum intentionem Damasceni diuisum considera 
+        <lb ed="#Bb" n="22"/>tione siue ratione est. Et hoc modo ad modum respectus aspiciendo dicit <name ref="#Boethius">Boethius</name> , secundum quod iam ha 
+        <lb ed="#Bb" n="23"/>bitum est, quod relatio non dicit rem sed modum solummodo. 
+      </p>
+      <p xml:id="vn58an-fe30052-d1e826">
+        ⁋ Ad vltimum quod relatio personarum inter 
+        <lb ed="#Bb" n="24"/>se similis est relationi eiusdem ad se, quae non est nisi secundum rationem: Dicendum quod verum est quo ad hoc 
+        <lb ed="#Bb" n="25"/>quod relatio ex vtraque parte fundatur super idipsum re. Differt tamen quo ad hoc quod ibi duplicatio 
+        <lb ed="#Bb" n="26"/>relationis super idem &amp; extremorum relatorum distinctio est ex sola ratione &amp; consideratione 
+        <lb ed="#Bb" n="27"/>intellectus: non sic in proposito: vt visum est supra.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

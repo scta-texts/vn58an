@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="137-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1748"> <!-- alias="vn58an-a24q2" -->
+      <head xml:id="vn58an-d1e1748-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e1748-Hd1e107" type="question-title">Utrum ex puris naturalibus cognoscibile sit quid sit Deus</head>
+      <p xml:id="vn58an-d1e1748-d1e110">
+        <lb ed="#Ba" n="35"/>CIrca Secundum arguitur: quod ex puris naturalibus cognoscibilis sit abshomine diuina quidi  
+        <lb ed="#Ba" n="36"/>uatas. Primo sic. Illud quo omnia alia cognoscimus: quo etiam de ipsis iudicamus: co 
+        <lb ed="#Ba" n="37"/>gnoscitur necessario cognitis aliis: quia propter quod vnumquodque &amp; illud magis. Sicut 
+        <lb ed="#Ba" n="38"/>llux ab oculo in cognoscendo per ipsum colores: &amp; iudicando de eis: &amp; prima princi 
+        <lb ed="#Ba" n="39"/>pia ab intellectu in cognoscendo conclusiones &amp; iudicando de eis. prima veritas, 
+        <lb ed="#Ba" n="40"/>iquae est diuina quiditas, est huiusmodi, vt vult <name ref="#Augustine">Augustinus</name> de vera reli. &amp;. xiiii. de trinitate. vt ha 
+        <lb ed="#Ba" n="41"/>bitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1748-d1e131">
+        ⁋ Secundo sic. <name ref="#Augustine">Augustinus</name> diciti. i.t soli. Ratio promittit ita 
+        <lb ed="#Ba" n="42"/>tuae menti demonstraturum deum vt oculis sol demonstratur. i sed oculis sol demonstratur prae- 
+        <lb ed="#Ba" n="43"/>sentialiter per suam essentiam. ergo per essentiam promittit ratio demonstraturum deum. sed non promittit 
+        <lb ed="#Ba" n="44"/>nisi implere posset. ergo ratio potest deum in essentia sua demonstrare. sed ipsa in nobis est pure natu 
+        <lb ed="#Ba" n="45"/>ralis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1748-d1e146">
+        ⁋ Tertio sic. Einis &amp; per se obiectum intellectualis cognitionis, veritas est secundum philosophum  
+        <lb ed="#Ba" n="46"/>ii. Metaph. Sed in eis quae sunt per se, si simpliciter ad simpliciter: &amp; magis ad magis in infinitum. Propter quod 
+        <lb ed="#Ba" n="47"/>dicit philosophus in primo Politicae: quod sicut medicinalis scientia est ad sanitatem in infinitum: &amp; quaelibet artium 
+        <lb ed="#Ba" n="48"/>finis est in infinitum. Nunc autem homo ex puris naturalibus potest cognoscere veritatem aliquam. ergo &amp; 
+        <lb ed="#Ba" n="49"/>maiorem veritatem poterit magis cognoscere: &amp; summam summe. Vnde secundum philosophum: intentio intelligi- 
+        <lb ed="#Ba" n="50"/>bilis non debilitat intellectum: sicut intentio sensibilis sensum: sed confortat magis: quia post 
+        <lb ed="#Ba" n="51"/>magis intelligibile non minus intelligit minus intelligibile: immo magis, vt dicit in. iii. de anima. sed sum 
+        <lb ed="#Ba" n="52"/>ma veritas est diuina quiditas. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1748-d1e164">
+        ⁋ Quarto sic. nos non scimus veritatem absque eo quod scientia- 
+        <lb ed="#Ba" n="53"/>mus canm eius. sed prima veritas est cam omnium aliarum veritatum in esse &amp; in esse verum. secundum quod vtrumque  
+        <lb ed="#Ba" n="54"/>horum habetur. ii. Metaph. ergo non scimus aliam veritatem absque eo quod scimus primam veritatem. Multas autem  
+        <lb ed="#Ba" n="55"/>veritates alias scimus ex puris naturalibus. ergo &amp; primam veritatem: illa autem est diuina quiditas. ergo &amp;c. 
+   <!--290.xml-->
+        <pb ed="#Ba" n="138-r"/>
+      </p>
+      <p xml:id="vn58an-d1e1748-d1e177">
+        <lb ed="#Ba" n="1"/>⁋ In oppositum est, quoniam secundum <name ref="#Augustine">Augustinus</name> xii. de civitate dei, quicquid scitur, scientis cognitione comprehenditur. ergo quid scitur ex 
+        <lb ed="#Ba" n="2"/>puris naturalibus: ex puris naturalibus comprehenditur. lii dei quiditas cum sit esse purum no limitatum, vt hitum est 
+        <lb ed="#Ba" n="3"/>supra, non praet comprehendi ab esse creaturae naturali limitato, vt videbtur loquendo de creaturis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1748-d1e189">
+        <lb ed="#Ba" n="4"/>⁋ Dicendum ad hoc: quod ad modum triplicis cognitionis sensitiuae contingit imaginari de 
+        <lb ed="#Ba" n="5"/>deo triplicem cognitionem intellectiuam. Est enim quaedam cognitio sensitiua rei ex eius panetia nuda per essen 
+        <lb ed="#Ba" n="6"/>tiam suam: Sicut oculus videt colores in pariete. Est autem alia cognitio sensitiua rei in. eius absentia. &amp; 
+        <lb ed="#Ba" n="7"/>haec est duplex. Vna quae res ipsa cognoscitur per suam, propriam speciem. Sicut homo imaginatur in tenebris colo- 
+        <lb ed="#Ba" n="8"/>res quos vidit in lumine. Alia quae res cognoscitur per speciem alienam: sicut ouis videns lupum, per speciem colo 
+        <lb ed="#Ba" n="9"/>ris eius &amp; figurae aestimat inimicum &amp; nociuum. Ad modum primae cognitionis sensitiuae deus cognoscitur 
+        <lb ed="#Ba" n="10"/>immediate per nudam essentiam: et hoc simplici intelligentia: non ratione collatiua per aliquod medium rationis. 
+        <lb ed="#Ba" n="11"/>Vnde &amp; illa cognitio dicitur cognitio visionis: quia in ea videt deum oculus mentis: ad modum quo videt 
+        <lb ed="#Ba" n="12"/>oculus corporis formam coloris. Hoc modo scire vel intelligere de deo quid sit per essentiam: non contingit ali- 
+        <lb ed="#Ba" n="13"/>cui creaturae ex puris naturalibus, de quo in se debet esse bona quaestio: neque similiter cognitione tali cogno  
+        <lb ed="#Ba" n="14"/>scibilis est in vita ista ex communi gratia. secundum quod dicit <name ref="#Augustine">Augustinus</name> in li. de fide cathol. Tua essentia &amp; species potest 
+        <lb ed="#Ba" n="15"/>dici, &amp; fora: &amp; est id quod est. Reliqua autem non sunt id quid sunt. Haec verissime potest dicere: Ego sum quod 
+        <lb ed="#Ba" n="16"/>sum. Haec tanta &amp; talis est: vt de eius visione nihil in hac vita sibi vsurpare mens humana audeat, quid solis 
+        <lb ed="#Ba" n="17"/>electis tuis praemium in subsequenti remumeratione reseruas. Vnde super illud: Habitat lucem inaccessibilem: quam 
+        <lb ed="#Ba" n="18"/>nullus hominium vidit: sed nec videre potest. Gl. In hac vita, post autem videbitur. Intelligo autem in hac vita 
+        <lb ed="#Ba" n="19"/>secundum communem cursum: &amp; secundum communem gratiam. In raptu autem ex gratia priuilegiata 
+        <lb ed="#Ba" n="20"/>bene potest videri est in vita ista: sicut viderunt eum Paulus &amp; Moyses. vt deteriat <name ref="#Augustine">Augustinus</name> in li. de videm 
+        <lb ed="#Ba" n="21"/>do deum, ad Paulinam. Ad modum autem secundae cognitionis sensitiuae non est deus omnino natus cognoscieti, quia 
+        <lb ed="#Ba" n="22"/>non habet speciem sui aliam a sua essentia quae cognoscibilis sit: quia nihil potest esse simplicius essentia eius: 
+        <lb ed="#Ba" n="23"/>de quo alias debet esse sermo. Ad modum autem tertii modi cognitionis sensitiuae sic in paneti cognoscitur 
+        <lb ed="#Ba" n="24"/>quid sit ex puris naturalibus assistente diuina illustratione generali. et hoc est ex creaturis, vt vi 
+        <lb ed="#Ba" n="25"/>debitur in sequentibus. Et de isto tertio modo cognoscendi processit prima ratio Aliter enim deus secundum conem cur- 
+        <lb ed="#Ba" n="26"/>sum huius vitae nobis non est ratio cognoscendi alia (dico tamquam primo cognitum) quam secundum illum modum quo 
+        <lb ed="#Ba" n="27"/>cognitio eius capitur ex creaturis: vt infra videbitur. 
+      </p>
+      <p xml:id="vn58an-d1e1748-d1e250">
+        ⁋ Ad secundum: quod ratio promittit se demonstraturam deum 
+        <lb ed="#Ba" n="28"/>vt oculis demonstratur sol: Dicendum quod verum est: sed non omnino in virtute sua: sed in virtute luminis giresalae, 
+        <lb ed="#Ba" n="29"/>vel special gratiae: cuius est susceptiua, &amp; firmitur per fidem se suscepturam confidit, si bene naturalibus suis vsa 
+        <lb ed="#Ba" n="30"/>fuerit: quia habenti dabitur. &amp; in tali confidentia illud promittit: non praesumendo devirtute naturali propria, si de 
+        <lb ed="#Ba" n="31"/>diuina bonitate gratuita. 
+      </p>
+      <p xml:id="vn58an-d1e1748-d1e261">
+        ⁋ Ad tertium: quod ex puris naturalibus potest homo cognoscereveritatem simplicite 
+        <lb ed="#Ba" n="32"/>ergo &amp; maiorem &amp; maximam: Dicendum quod illa dignitas, Si simpliciter ad simpliciter &amp;c. intelligitur solum in illis quae 
+        <lb ed="#Ba" n="33"/>adiuicem se habent per se: vt se habent album et disgregare. Propter quid sequitur. Si album disgregat, &amp; magis album 
+        <lb ed="#Ba" n="34"/>magis, &amp; maxime album maxime. Nunc autem in proposito l cognitio &amp; veritas per se, se habent adiuicem: &amp; ideo 
+        <lb ed="#Ba" n="35"/>sequitur quia veri est cognitio: quod maioris veri est maior cognitio: &amp; summi veri summa cognitio, sicut 
+        <lb ed="#Ba" n="36"/>si appetitus boni: &amp; maioris boni maior appetitus: &amp; maximi maximus: et per hunc modum finis artium 
+        <lb ed="#Ba" n="37"/>est infinitus: quia enim artifex appetit finem opeis per se secundum finis intensionem, sequitur intensio appetitus: vt si 
+        <lb ed="#Ba" n="38"/>medicus appetit facere sanitatem, maiorem sanitatem magis appetit facere: et si in infinitum cresceret intem 
+        <lb ed="#Ba" n="39"/>tio sanitatis: &amp; appetitus eius similiter Non tamen se habent adiuicem per se veritas &amp; potentia sciendi ipsam in sciente 
+        <lb ed="#Ba" n="40"/>sicut nec sanitas &amp; potentia recipiendi ipsam in subiecto. Et ideo sicut medicus l appetat sanitatem 
+        <lb ed="#Ba" n="41"/>semper magis &amp; magis in infinitum secundum crementum sanitatis: non tamen facit eam in subiecto semper magis ac 
+        <lb ed="#Ba" n="42"/>magis in infinitum: sed solum secundum possibilitatem subiecti, vt dicit philosophus. ii. cae. &amp; mun. Sic sciens siue potens 
+        <lb ed="#Ba" n="43"/>scire &amp; cognoscere: licet veritas &amp; scibile excrescat per intentionem in infinitum: non tamen potest eam recipere per 
+        <lb ed="#Ba" n="44"/>cognitione nisi secundum modum &amp; gradum esse &amp; naturae suae, vt dictum est. Nec est in hoc defectus aliquis 
+        <lb ed="#Ba" n="45"/>ex parte cognoscibilis ex natura eius excellentiae quam non potest pati recipiens: sicut est ex parte solis ne 
+        <lb ed="#Ba" n="46"/>videat eum oculus vespertilionis: sed ex parte subiecti: quia omnino eum capere non potest. Immo si capere posset 
+        <lb ed="#Ba" n="47"/>quantuncumque debiliter, capientem confortaret: vt semper magis ac magis posset se cognoscere &amp; alia: &amp; 
+        <lb ed="#Ba" n="48"/>numquam corrumperet, econtrario ei quod contingit in sole: &amp; vniverstalei circa excellentiam sensibilium. sed hoc habet 
+        <lb ed="#Ba" n="49"/>per se quaestionem bonam. 
+      </p>
+      <p xml:id="vn58an-d1e1748-d1e304">
+        ⁋ Consiliter dicendum ad quartum: quod nullam veritatem scimus nisi sciendo priniam veritatem 
+        <lb ed="#Ba" n="50"/>Sed hoc non contingit ex puris naturalibus nisi secundum modum quo scitur ex creaturis, vt infra videbitur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

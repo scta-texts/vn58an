@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="238-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2606"> <!-- alias="vn58an-a36q6" -->
+      <head xml:id="vn58an-d1e2606-Hd1e104">Quaestio 6</head>
+      <head xml:id="vn58an-d1e2606-Hd1e107" type="question-title">Utrum intellectus divinus sit compositus</head>
+      <p xml:id="vn58an-d1e2606-d1e110">
+        <lb ed="#Ba" n="15"/>CIrca sextum arguitur, quod intellectus dei sit compositiuus &amp; diuisiuus. Pri- 
+        <lb ed="#Ba" n="16"/>mo sic. Cognitio veritatis enunciabilium est per intellectum componentem 
+        <lb ed="#Ba" n="17"/>&amp;idiuidentem: quia consistit in complexione affirmationis: aut negationis, se 
+        <lb ed="#Ba" n="18"/>cundum philosophum in principio Peri herme. &amp; secundum Boethium ibidem 
+        <lb ed="#Ba" n="19"/>in commento. Non rerum conplexione fit affirmatio vel negatio: sed sermonum: nec 
+        <lb ed="#Ba" n="20"/>in rebus est veritas aut falsitas: sed in intellectibus atque operationibus. sed in deo 
+        <lb ed="#Ba" n="21"/>est cognitio veritatis enunciabilium: vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2606-d1e128">
+        ⁋ Secundo sic. Perfectius est ra- 
+        <lb ed="#Ba" n="22"/>tio veritatis in intellectu: componente &amp; diuidente, quam in eo qui est simplicium intelligentia: vt pa 
+        <lb ed="#Ba" n="23"/>tet in parte ex praedeterminatis, &amp; amplius infra patebit loquendo de veritate in creaturis. Sed quod 
+        <lb ed="#Ba" n="24"/>perfectius est, semper deo attribuendum est in omnibus: vt habitum est supra: ergo ratio veri 
+        <lb ed="#Ba" n="25"/>tatis debet attribui intellectui diuino vt componenti &amp; diuidenti. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2606-d1e140">
+        ⁋ In contrarium est: 
+        <lb ed="#Ba" n="26"/>quoniam intellectus diuinus cognoscit omnia per suam essentiam &amp; in sua essentia: vt dictum est, &amp; 
+        <lb ed="#Ba" n="27"/>amplius infra dicetur. Circa essentiam autem suam nihil intelligit componendo &amp; diuidendo: sed  
+        <lb ed="#Ba" n="28"/>simplici intuitu totam infinitatem eius intuetur. Aliter enim esset discursiuus intellectus eius 
+        <lb ed="#Ba" n="29"/>intelligendo vnum post alterum, quia non est compositio nisi posterioris concepti cum prius con 
+        <lb ed="#Ba" n="30"/>cepto, cuius contrarium statim determinabitur in sequenti quaestione. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2606-d1e153">
+        <lb ed="#Ba" n="31"/>⁋ Dicendum ad hoc, quod non est intellectus componens aut diuidens: nisi praecedente sim- 
+        <lb ed="#Ba" n="32"/>plicium intelligentia, &amp; seorsum componendorum vel diuidendorum: quae licet sint indiuisa 
+        <lb ed="#Ba" n="33"/>&amp; indistincta re, diuersa tamen sunt &amp; distincta atque seorsum concepta in mentis intelligentia. &amp; 
+        <lb ed="#Ba" n="34"/>hoc quia illa quae simul &amp; indiuisa sunt in re, non simul sufficit &amp; sub esse indiuiso cognoscere. Con 
+        <lb ed="#Ba" n="35"/>positione enim &amp; diuisione opus omnino non est vbi comprehenso de aliquo, simplici intelli- 
+        <lb ed="#Ba" n="36"/>gentia eo quod quid est, statim indistincte simul cointelligitur quid ei conueniens, vel discrepans 
+        <lb ed="#Ba" n="37"/>ab eo esse potest. immo in intellectu qui talis comprehensionis est, compositionem vel diuisionem conce- 
+        <lb ed="#Ba" n="38"/>ptuum fieri omnino impossibile est: quia nihil ab eo vt seorsum extra aliud, &amp; secundum prius &amp; 
+        <lb ed="#Ba" n="39"/>posterius capitur: quae necessario compositionem &amp; diuisionem praecedunt. Nisi enim seorsum 
+        <lb ed="#Ba" n="40"/>penes intellectum praecedentia, &amp; per ordinem concepta in forma compositionis vel diuisionis 
+        <lb ed="#Ba" n="41"/>apud intellectum ordinari non possunt: quia ipsa forma compositionis vel diuisionis, siue affir 
+        <lb ed="#Ba" n="42"/>mationis vel negationis in re non existit: vt dicit <name ref="#Boethius">Boethius</name> : sed solummodo est dispositio intelle 
+        <lb ed="#Ba" n="43"/>ctus absque eo quod existit in rebus. Nunc autem ita est quod intellectus dei simplici intellectu com- 
+        <lb ed="#Ba" n="44"/>prehendendo suam essentiam sub ratione infinitae simplicitatis statim simul indistincte &amp; immu 
+        <lb ed="#Ba" n="45"/>tabiliter cointelligit quicquid conveniens est, &amp; attribuendum per compositionem ab intellectu creato, 
+        <lb ed="#Ba" n="46"/>vel discrepans ab eo &amp; remouendum ab eo per diuisionem. ita quod impossibile est quod seorsum &amp; secundum  
+        <lb ed="#Ba" n="47"/>ordinem comprehendat vnum, aut aliud, aut quod aliquam compositionem, aut diuisionem in se formet, 
+        <lb ed="#Ba" n="48"/>quae non est in re intellecta, sicut contingit in intellectu creato, &amp; hoc propter infinitam limpidi 
+        <lb ed="#Ba" n="49"/>tatem naturalem intellectus diuini &amp; obtusitatem naturalem respectu ipsius omnis intellectus 
+        <lb ed="#Ba" n="50"/>creati. Et sic absolute dicendum est quod dei intellectus non est compositiuus aut diuisiuus: sed  
+        <lb ed="#Ba" n="51"/>solummodo est simplicium intelligentia, &amp; eius quod quid est de sua essentia: simul in ea comprehen 
+        <lb ed="#Ba" n="52"/>dendo quod quid est in omni alia re, &amp; quicquid natum est convenire vel discrepare a re quae ipse est vel 
+        <lb ed="#Ba" n="53"/>quodcumque aliud. &amp; sic per suam essentiam simplici intelligentia intelligit simul quicquid seor- 
+        <lb ed="#Ba" n="54"/>sum, aut per compositionem, aut diuisionem natum est intelligi circa suam essentiam vel crea 
+   <!--491.xml-->
+        <pb ed="#Ba" n="238-v"/>
+        <lb ed="#Ba" n="1"/>turae a quocumque intellectu creato. 
+      </p>
+      <p xml:id="vn58an-d1e2606-d1e217">
+        <lb ed="#Ba" n="2"/>⁋ Et per hoc patet responsio ad primum. Bene enim deus intelligit veritates enun- 
+        <lb ed="#Ba" n="3"/>ciabilium: quae licet non consistat nisi circa compositionem &amp; diuisionem in intellectu creato: respe 
+        <lb ed="#Ba" n="4"/>ctu cuius loquitur Philosophus: bene tamen capitur sine omni compositione &amp; diuisione ab intellectu 
+        <lb ed="#Ba" n="5"/>increato. sed de hoc amplius dicetur inferius. 
+      </p>
+      <p xml:id="vn58an-d1e2606-d1e228">
+        ⁋ Ad secundum quod perfectior ratio veritatis est illa quae  
+        <lb ed="#Ba" n="6"/>consistit in compositione &amp; diuisione intellectus: Dicendum quod hoc solum habet veritatem respectu 
+        <lb ed="#Ba" n="7"/>intellectus creati. In ipso enim necessario perfecta ratio veritatis consistit, quia in ipso non est veri- 
+        <lb ed="#Ba" n="8"/>tas nisi accepta a rebus creatis &amp; a creaturis, in quibus veritas non est tanquam in rebus nisi ex con- 
+        <lb ed="#Ba" n="9"/>formitate quadam quam habent in suo esse ad suum exemplar primum verissime in diuina essentia, 
+        <lb ed="#Ba" n="10"/>a quo per quandam imitationem &amp; assimilationem procedunt in esse: vt dictum est supra: &amp; amplius 
+        <lb ed="#Ba" n="11"/>dicendum est loquendo de creaturis. ita quod ratio veri non consistit in eis, nisi in quadam adaequatione  
+        <lb ed="#Ba" n="12"/>rei ad rem, quae non consistit in ipsis rebus nisi quasi materialiter: sed in illo solummodo quid vtrumque 
+        <lb ed="#Ba" n="13"/>concipit, &amp; ex collatione earum in se conformitatem vnius ad alteram format, quemadmodum nunquam sciet 
+        <lb ed="#Ba" n="14"/>homo de pictura Herculis quod sit vera eius imago, nisi videndo ex aduerso Herculem &amp; ipsam ima-  
+        <lb ed="#Ba" n="15"/>ginem: ipsos in esse conferendo: &amp; sic conformitatem &amp; correspondentiam imaginis ad imaginatum 
+        <lb ed="#Ba" n="16"/>concipiendo. Talem autem correspondentiam concipere non potest intellectus creatus sine incomple 
+        <lb ed="#Ba" n="17"/>xorum collatione &amp; compositione. Propter quod veritas rerum ab ipso intellectu creato in sola compositio- 
+        <lb ed="#Ba" n="18"/>ne consistit, sicut amplius debet declarari loquendo de veritate in creaturis. Hoc autem non requiritur 
+        <lb ed="#Ba" n="19"/>in cognitione veritatis rerum ab ipso intellectu increato: quia eius essentia quae est suum proprium 
+        <lb ed="#Ba" n="20"/>intelligibile, est ratio veritatis omnium veritatum aliarum, in qua perfectissime resplendet quicquid  
+        <lb ed="#Ba" n="21"/>veritatis est in aliis, &amp; ab ipsa in omnibus aliis describitur. Et ideo sicut simplici intelligentia vi 
+        <lb ed="#Ba" n="22"/>sa diuina essentia perfecte videtur essentia cuiuslibet creaturae, sic visa ipsa vt est ratio cuiuscumque  
+        <lb ed="#Ba" n="23"/>creaturae, perfecte videtur quicquid veritatis est in quacumque creatura. Et ideo (vt dictum est) cir- 
+        <lb ed="#Ba" n="24"/>ca diuinum intellectum non potest cadere error aut falsitas, sicut neque sensus potest errare circa pro 
+        <lb ed="#Ba" n="25"/>prium obiectum, neque intellectus circa id quid quid est in simplici intelligentia. In quo patet quantum 
+        <lb ed="#Ba" n="26"/>distat modus intelligentiae intellectus diuini &amp; intellectus creati. propter quod bene dicitur per 
+        <lb ed="#Ba" n="27"/>Esaiam. Non enim cogitationes meae vt cogitationes vestrae. Et quia aliter fiunt nostrae quam suae, &amp; pro 
+        <lb ed="#Ba" n="28"/>pter hoc sunt fallibiles, quod &amp; ipse bene nouit: ideo dicitur in Psal. Dns scit cogitationes hominium 
+        <lb ed="#Ba" n="29"/>quoniam vanae sunt. Vnde ad dictum modum diuini intellectus aspiciens Dionysius dicit. vii. c. de di. no. 
+        <lb ed="#Ba" n="30"/>Diuina sapientia (seipsam scilicet cognoscens) cognoscit omnia materialia immaterialiter, diuisa in- 
+        <lb ed="#Ba" n="31"/>diuisibiliter, &amp; multa vnite. Et similiter possumus dicere quod cognoscere practica speculatione, &amp; 
+        <lb ed="#Ba" n="32"/>quicquid indignitatis &amp; imperfectionis est in modo cognoscendi creaturae, remoueri debet a mo 
+        <lb ed="#Ba" n="33"/>do cognoscendi &amp; intelligendi dei.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

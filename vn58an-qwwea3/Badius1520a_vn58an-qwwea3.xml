@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="28-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwea3"> <!-- alias="vn58an-a3prae" -->
+      <head xml:id="vn58an-qwwea3-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwea3-d1e107">
+   <!--70.xml-->
+            <pb ed="#Ba" n="28-r"/>
+       <!-- again, I'm inconsistent about whether line one should be present or not -->
+        <lb ed="#Ba" n="1"/>Artic. Ill. De quiditate rei scibilis id est quid sciri potest ab homine. 
+        <lb ed="#Ba" n="2"/>Via disciplinati est intantum certitudinem quaerere secundum  
+        <lb ed="#Ba" n="3"/>vnumquodque genus: inquantum natura rei recipit, ideo postquam visum est 
+        <lb ed="#Ba" n="4"/>de certitudine scientiae humanae, videndum est de quiditate scibilis ab eo. 
+        <lb ed="#Ba" n="5"/>Et circa hoc quaeruntur. v. 
+        <lb ed="#Ba" n="6"/>Primum: vtrum contingit hominem scire non entia. 
+        <lb ed="#Ba" n="7"/>Secundum: vtrum contingit hominem scire omnia entia. 
+        <lb ed="#Ba" n="8"/>Tertium: vtrum contingit hominem scire omnia ex philosophicis disciplinis. 
+        <lb ed="#Ba" n="9"/>Quartum: vtrum contingit hominem scire omnia ex puris naturalibus. 
+        <lb ed="#Ba" n="10"/>Quintum: vtrum contingit hominem scire per gratiam illa quae excedunt naturam.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="216-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2420"> <!-- alias="vn58an-a34q5" -->
+      <head xml:id="vn58an-d1e2420-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e2420-Hd1e107" type="question-title">Utrum veritas perfectius et verius esse habeat in eius essentia, 
+   an in eius intelligentia</head>
+      <p xml:id="vn58an-d1e2420-d1e110">
+        <lb ed="#Ba" n="35"/>CIrca Quintum arguitur: quod veritas diuina perfectius &amp; principalius habet esse in  
+        <lb ed="#Ba" n="36"/>eius essentia quam in eius intelligentia. Primo sic per illud quod dictum est supra. 
+        <lb ed="#Ba" n="37"/>Dispositio vniuscuiusque in esse &amp;c. Sed esse perfectius habet res in sua essentia 
+        <lb ed="#Ba" n="38"/>quam in intelligentia: quia primum est esse naturae: hoc secundum, esse rationis, quid secundum philosophum 
+        <lb ed="#Ba" n="39"/>vt dictum est, diminutum est esse. ergo &amp; perfectius esse habet veritas diuina in dei essen 
+        <lb ed="#Ba" n="40"/>tia quam in eius intelligentia. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e126">
+        ⁋ Secundo sic, vt iam dictum est secundum <name ref="#Anselm">Anselmus</name> Veritas in existentia 
+        <lb ed="#Ba" n="41"/>causa est veritatis quae est in cognitione. verius autem esse habet vnumquodque in causa quam in causa 
+        <lb ed="#Ba" n="42"/>to. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e137">
+        ⁋ Tertio sic. veritas omnis in diuinis non est nisi essentialis, vt supra habitum est: quae 
+        <lb ed="#Ba" n="43"/>non habet per se esse nisi in essentia: &amp; in nullo alio, nisi per hoc quod essentia habet esse in illo. verius 
+        <lb ed="#Ba" n="44"/>autem vnumquodque habet esse in illo in quo habet esse per se, quam in quo habet esse per aliud. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e144">
+        ⁋ Contra 
+        <lb ed="#Ba" n="45"/>veritas est per se obiectum &amp; motiuum intellectus: mouens solummodo eum in habitu &amp; in potentia vt est 
+        <lb ed="#Ba" n="46"/>in re ipsa: actu autem vt est in ipso intellectu. vnumquodque autem perfectius habet esse in dispositione 
+        <lb ed="#Ba" n="47"/>qua est in actu, quam qua est in potentia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e153">
+        ⁋ Secundo sic. cum aliquid denominatur ab eo 
+        <lb ed="#Ba" n="48"/>quod est in alio: illud quo denominatur verius est in illo alio quam in denominato. Verbi gratia, 
+        <lb ed="#Ba" n="49"/>cibus denominatur sanus a sanitate quae est in animali: &amp; verius habet esse sanitas in animali quam in cibo. Res 
+        <lb ed="#Ba" n="50"/>autem vel essentia dicitur vera a veritate quae est in intellectu. Probatio: quia veritas est quaedam  
+        <lb ed="#Ba" n="51"/>adaequatio propter quam dicitur vera res: &amp; similiter intellectus. Adaequatio autem est in intelle- 
+        <lb ed="#Ba" n="52"/>ctu: non in re. Intellectus enim adaequatur rei: &amp; est adaequatio in eo quod adaequatur: non autem  
+        <lb ed="#Ba" n="53"/>in eo cui adaequatur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e169">
+        ⁋ Tertio sic. veritas non dicit in re nisi respectum ad intellectum. 
+        <lb ed="#Ba" n="54"/>Res autem secundum suam essentiam non dicit nisi potentialem respectum: quia est intelligibile: siue natum intel 
+        <lb ed="#Ba" n="55"/>ligi. vt vero est in intelligentia: est intellectum in actu. verius autem habet esse vnumquodque secundum quod est 
+        <lb ed="#Ba" n="56"/>in actu, quam secundum quod est in potentia: quia secundum quod est potentia non est. ergo &amp;c. 
+   <!--447.xml-->
+        <pb ed="#Ba" n="216-v"/>
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e182">
+        <lb ed="#Ba" n="1"/>⁋ In quaestione ista de veritate diuina oportet coniicere quid dicendum sit ex eis 
+        <lb ed="#Ba" n="2"/>quae experimur circa veritatem creaturae, de qua debet esse sermo loquendo de creaturis: quamquam mul 
+        <lb ed="#Ba" n="3"/>to aliter &amp; aliter habet esse veritas in deo, &amp; in creaturis: vt iam patebit in parte. Dictum enim est supra: 
+        <lb ed="#Ba" n="4"/>quod veritas nominat in quiditate ipsa quae est obiectum per se intellectus, respectum quendam eius 
+        <lb ed="#Ba" n="5"/>ad intellectum: &amp; hoc vt est declaratiuum eius quod est: quemadmodum econtra falsum est simulatiuum 
+        <lb ed="#Ba" n="6"/>eius quod non est. Dictum est etiam quod istum respectum potest dicere circa intelligibile obiectum intellectus 
+        <lb ed="#Ba" n="7"/>diuini quod est ipsa diuina essentia: vel sub ratione qua diuina essentia est apta intelligi: &amp; 
+        <lb ed="#Ba" n="8"/>quasi in potentia se habeat vt intelligatur: similiter &amp; intelligentia diuina vt in potentia est ad  
+        <lb ed="#Ba" n="9"/>hoc quod eam actu intelligat (Dico secundum rationem intelligendi: quia in se non est nisi actu intelligens 
+        <lb ed="#Ba" n="10"/>vt infra patebit) vel potest dicere illum respectum sub ratione illa qua iam actu est intellecta ab in  
+        <lb ed="#Ba" n="11"/>telligentia actu intelligente. Secundum hoc enim dictum est in praecedenti quaestione: quod veritas &amp; habet esse 
+        <lb ed="#Ba" n="12"/>in diuina essentia, &amp; etiam in eius intelligentia. Sed ad intelligendum in quo illorum verius consistit 
+        <lb ed="#Ba" n="13"/>quod quaerit quaestio praesens: ne lateat in ipsa aequiuocatio: oportet primo scire quod in intelligentia habet 
+        <lb ed="#Ba" n="14"/>esse quadrupliciter veritas, siue quatuor modis, &amp; duobus primis sicut in subiecto, duobus aliis 
+        <lb ed="#Ba" n="15"/>sicut in cognoscente: de qua secundum quemlibet modum quaestio potest intelligi, vt patebit. Intelligentia 
+        <lb ed="#Ba" n="16"/>enim de ratione sua propria qua est attributum in essentia diuina diuersum ab aliis, dicit respe- 
+        <lb ed="#Ba" n="17"/>ctum quendam ad intelligibile diuinum: inquantum. scilicet ipsa diuina essentia sub ratione respectus quid est 
+        <lb ed="#Ba" n="18"/>importatus nomine intelligentiae, nata est seipsam per cognitionem siue per actum intelligendi compre- 
+        <lb ed="#Ba" n="19"/>hendere: quemadmodum econuerso intelligibile diuinum dicit respectum quendam ad diuinam intelli 
+        <lb ed="#Ba" n="20"/>gentiam: inquantum. scilicet ipsa diuina essentia sub ratione respectus qui est importatus nomine in-  
+        <lb ed="#Ba" n="21"/>telligibilis, nata est per cognitionem ab eius intelligentia comprehendi: Et similiter quemadmodum  
+        <lb ed="#Ba" n="22"/>veritas nomine suo dicit respectum eundem: inquantum. scilicet diuina essentia sub ratione eius scilicet verita- 
+        <lb ed="#Ba" n="23"/>tis, est suiipsius apud intelligentiam per intellectualem cognitionem manifestatiua, vt rationem mani- 
+        <lb ed="#Ba" n="24"/>festationis addit veritas nomine suo super rationem quae importatur nomine intelligibilis quam in se 
+        <lb ed="#Ba" n="25"/>includit. &amp; secundum hoc intelligentia dicit respectum quendam diuinae essentiae vt subiecti vel funda- 
+        <lb ed="#Ba" n="26"/>menti ad intelligibile diuinum sub ratione intelligibilis. Potest ergo intelligentia diuina sub ra- 
+        <lb ed="#Ba" n="27"/>tione qua intelligentia est, considerari &amp; sub comparatione ad essentiam, vt ad suum subiectum siu- 
+        <lb ed="#Ba" n="28"/>fundamentum: &amp; sub comparatione ad intelligibile: vt ad terminum &amp; obiectum. Primo modo diuina 
+        <lb ed="#Ba" n="29"/>intelligentia ab essentia quam sub suo respectu in significato suo includit, habet quod sit vera intelli 
+        <lb ed="#Ba" n="30"/>gentia: quemadmodum bonitas quod sit vera bonitas: &amp; aeternitas quod sit vera aeternitas: &amp; caetera 
+        <lb ed="#Ba" n="31"/>omnia quae in deo considerantur. Et sic in diuina intelligentia habet esse veritas essentialis: quae 
+        <lb ed="#Ba" n="32"/>eadem est cum veritate omnium aliorum quae in deo considerantur, vt patet ex supra determinatis, et est 
+        <lb ed="#Ba" n="33"/>primus modus quo veritas habet esse in diuina intelligentia. Et fide huiusmodi veritate quaestio propo 
+        <lb ed="#Ba" n="34"/>sita intelligatur, vtrum. scilicet veritas principalius, dignius, siue verius sit in diuina essentia: an in eius 
+        <lb ed="#Ba" n="35"/>intelligentia: patet quod secundum rationem intelligendi principalius &amp; dignius habet esse in essentia quam in  
+        <lb ed="#Ba" n="36"/>intelligentia: quia intelligentia non est vera intelligentia: nisi quia essentia quam in se continet, est ve- 
+        <lb ed="#Ba" n="37"/>ra essentia. Et similiter intelligendum est de veritate in omnibus aliis quae sunt in deo. Et similiter 
+        <lb ed="#Ba" n="38"/>intelligendum de veritate in essentia &amp; intelligentia creata: quia intelligentia suo nomine non  
+        <lb ed="#Ba" n="39"/>nominat nisi potentiam: &amp; ita purum respectum super essentiam cuius est, vt infra patebit. Et respe 
+        <lb ed="#Ba" n="40"/>ctus inquantum respectus est, nihil realitatis aut veritatis habet nisi a suo fundamento, vt habitum 
+        <lb ed="#Ba" n="41"/>est supra. Secundo modo habet intelligentia propriam rationem veritatis ab obiecto, quam alia attributa 
+        <lb ed="#Ba" n="42"/>non habent: eo scilicet quod veritas in deo vt obiectum, proprium secundum rationem sui respectus respicit intelligentiam &amp; 
+        <lb ed="#Ba" n="43"/>non aliud attributum in deo. Rationem autem veritatis ab intelligibili, habet intelligentia dupli- 
+        <lb ed="#Ba" n="44"/>citer: secundum quod in intelligentia comparata ad intelligibile duo considerant scilicet intelligendi ratio: &amp; in-  
+        <lb ed="#Ba" n="45"/>telligendi actio consistens circa intelligibile vt est intelligenti praesens. Ratio intelligendi in intel- 
+        <lb ed="#Ba" n="46"/>ligentia est esse formale illud quo intelligibile facit intelligentiam talem in actu quale ipsum est: cum 
+        <lb ed="#Ba" n="47"/>de se inquantum intelligentia est, non est nisi in potentia tale. Quae in deo sola ratione differunt: in  
+        <lb ed="#Ba" n="48"/>creata autem intelligentia differunt aliquando re. Res enim existens extra animam notitia sua exi- 
+        <lb ed="#Ba" n="49"/>stente in intelligentia informat intelligentiam: &amp; facit eam quodammodo esse talem qualis ipsa est. 
+        <lb ed="#Ba" n="50"/>Secundum hunc enim modum anima per intellectum quodammodo est omnia intelligibilia, sicut secundum sen 
+        <lb ed="#Ba" n="51"/>sum omnia sensibilia, vt determinat philosophus. iii. de anima. Similitudo autem illa in intelligentia re differt ab 
+        <lb ed="#Ba" n="52"/>eo quod est extra: quia est accidens in intelligentia creata. Vnde sicut inter se sunt diuersae ipsae res 
+        <lb ed="#Ba" n="53"/>sic habent diuersas veritates: &amp; illa veritas rei in anima diminuta est respectu veritatis quae  
+        <lb ed="#Ba" n="54"/>est in re extra: quemadmodum &amp; ipsa est res diminuta respectu illius quae est extra. &amp; est veritas 
+        <lb ed="#Ba" n="55"/>signi respectu veritatis rei. Vnde &amp; hac veritate dicitur intelligentia vera inquantum ipsa est quodam 
+   <!--448.xml-->
+        <pb ed="#Ba" n="217-r"/>
+        <lb ed="#Ba" n="1"/>modo conformis rei extra tamquam suo exemplari primo: sicut tabula per imaginem in ea depictam confor- 
+        <lb ed="#Ba" n="2"/>mis &amp; similis dicitur rei exemplari ad quam depicta est in ea tamquam exemplatum quoddam. Si ergo de huiusmodi 
+        <lb ed="#Ba" n="3"/>veritate quaestio proposita intelligatur, Sciendum quod veritas huiusmodi quia in se continet actum qui est in con 
+        <lb ed="#Ba" n="4"/>gnoscente vt in subiecto: &amp; obiectum quod est informans actum: &amp; in intelligente sicut in cognoscente, non 
+        <lb ed="#Ba" n="5"/>autem sicut in subiecto: potest igitur comparari ad intelligentiam vt habet esse in illa sicut accidens 
+        <lb ed="#Ba" n="6"/>in subiecto, ratione actus in ea eliciti: vel sicut obiectum in cognoscente. Si primo modo: sic est se- 
+        <lb ed="#Ba" n="7"/>cundus modus principalis quo veritas habet esse in intelligentia. Et patet quod loquendo de isto 
+        <lb ed="#Ba" n="8"/>modo existendi veritatem: dignius &amp; principalius habet esse veritas in essentia quam in intelligentia. Et 
+        <lb ed="#Ba" n="9"/>hoc siue fuerit veritas simplicis intelligentiae: qua intelligentia comprehendit id quod verum est in  
+        <lb ed="#Ba" n="10"/>re, aut in eius quiditate sub ratione incomplexi: siue fuerit veritas intelligentiae collatiuae, qua  
+        <lb ed="#Ba" n="11"/>comprehendit id quod verum est in re sub ratione complexi. Nisi secundum opinionem dicentium quod res in veri 
+        <lb ed="#Ba" n="12"/>tate sua sequitur aestimationem: quam reprobat philosophus. iiii. Meta. vt tactum est supra in quaestione disputatio 
+        <lb ed="#Ba" n="13"/>nis nostrae. Vnde quia huiusmodi comprehensio in sua veritate sequitur veritatem rei: ita quod in intelligen 
+        <lb ed="#Ba" n="14"/>tia complexa sine omni sua mutatione ad mutationem rei contingit eam mutari a veritate in falsita- 
+        <lb ed="#Ba" n="15"/>tem &amp; econuerso, quando est falsum &amp; verum possibile siue contingens: secundum quod dicit philosophus de opi- 
+        <lb ed="#Ba" n="16"/>nione sicut &amp; de oratione in praedicamentis: non autem econuerso ad mutationem comprehensionis ali- 
+        <lb ed="#Ba" n="17"/>quo modo mutatur veritas in re: secundum quod dicit philosophus in li. Peri her. Propter nostrum affirmare 
+        <lb ed="#Ba" n="18"/>vel negare nihil mutatur in re: lta quod secundum hoc veritas rei nullo modo dependet a veritate huiusmodi 
+        <lb ed="#Ba" n="19"/>cuiuscumque intelligentiae creatae: sed econuerso. verius &amp; dignius est vnumquodque in esse absoluto quam 
+        <lb ed="#Ba" n="20"/>dependenti. Et sicut est in creaturis, ita est in deo inquantum in ipso secundum rationem differunt actus in  
+        <lb ed="#Ba" n="21"/>telligendi &amp; obiectum: &amp; secundum rationem nostri intellectus actus intelligendi formatur a ratione 
+        <lb ed="#Ba" n="22"/>obiecti. Si vero quaestio intelligatur de veritate extra rem in intelligentia secundo modo scilicet vt obie 
+        <lb ed="#Ba" n="23"/>ctum in cognoscente, in quo obiecto cognoscens percipit ipsam rem: quae secundum se vt extra est, 
+        <lb ed="#Ba" n="24"/>solum in potentia est intellecta: inquantum vero vt obiectum est in intellectu, actu est intellecta: 
+        <lb ed="#Ba" n="25"/>cum manifestum est quod huiusmodi veritas fundatur in ratione intelligibilis per duplex esse suum 
+        <lb ed="#Ba" n="26"/>vnum in re extra: aliud obiectiue in intellectu siue in intelligentia: &amp; etiam est manifestum quod vt est 
+        <lb ed="#Ba" n="27"/>in intelligentia, est actu mouens ipsam: &amp; declaratiua sui apud ipsam: quod facit solummodo in  
+        <lb ed="#Ba" n="28"/>potentia vt secundum se est extra in sua essentia: quare cum in tali actu mouendi intellectum ad de- 
+        <lb ed="#Ba" n="29"/>clarationem sui consistit secundum praedicta ratio veritatis: perfectius est autem secundum dispositionem 
+        <lb ed="#Ba" n="30"/>actus cum secundum illum est in actu: quam cum secundum illum est in potentia tantum: Res igitur ipsa inquantum 
+        <lb ed="#Ba" n="31"/>est in intelligentia obiectiue actu mouens ipsam, perfectius habet rationem veritatis quam secundum quod 
+        <lb ed="#Ba" n="32"/>est secundum se in sua essentia extra. Quare cum secundum istum modum intelligendi dicitur vera veri 
+        <lb ed="#Ba" n="33"/>tate ipsius rei vt est obiectiue in ipsa: hoc igitur modo dicendum est quod veritas perfectius ha-  
+        <lb ed="#Ba" n="34"/>bet esse in intelligentia quam in ipsa essentia. Sed continet iste modus essendi &amp; veritatem perfectius 
+        <lb ed="#Ba" n="35"/>in intelligentia quam in essentia: continet enim in se tres,. quoniam veritatem existere in intelligentia 
+        <lb ed="#Ba" n="36"/>isto modo, nihil aliud est quam ipsam veritatem esse in intelligentia vt obiectum actualiter intellectum: 
+        <lb ed="#Ba" n="37"/>quae veritas non est existens in subiecto nisi in ipsa re: sed denominat ipsam rem secundum quod est secundum  
+        <lb ed="#Ba" n="38"/>e existens extra intelligentiam: &amp; etiam vt est existens in ipsa intelligentia: &amp; similiter ipsam intelligentiam 
+        <lb ed="#Ba" n="39"/>inquantum per cognitionem res consistit in ipsa sicut obiectum in cognoscente: in quo potest esse ipsa 
+        <lb ed="#Ba" n="40"/>veritas vt obiectum cognitum dupliciter. Et sic dupliciter intelligentiam debet denominare. Vno modo  
+        <lb ed="#Ba" n="41"/>cognoscendo siue intelligendo id quod verum est. Alio modo intelligendo ipsam veritatem qua &amp; 
+        <lb ed="#Ba" n="42"/>res extra: &amp; existens in intelligentia: &amp; similiter ipsa intelligentia habent esse vera. Haec veritas quae vno  
+        <lb ed="#Ba" n="43"/>modo in essentia rei extra vt in subiecto ipsam denominando: dupliciter habet esse in intelligentia. 
+        <lb ed="#Ba" n="44"/>Vno modo inquantum habet esse vt in subiecto in re ipsa: secundum quod obiectiue habet esse in intelligentia 
+        <lb ed="#Ba" n="45"/>ipsam denominando vt subiectum suum. Alio modo inquantum habet esse in ipsa intelligentia: non vt in  
+        <lb ed="#Ba" n="46"/>subiecto: sed vt in intelligente tantum &amp; determinante intelligentiam: non sicut subiectum: sed sicut cogno  
+        <lb ed="#Ba" n="47"/>scens. Et vtroque modo verius habet esse in intelligentia quam in essentia: hoc est in essentia vt est in in  
+        <lb ed="#Ba" n="48"/>telligentia, quam in essentia vt est secundum se extra: &amp; in intelligentia vt continens in se obiectiue essentiam, quam in  
+        <lb ed="#Ba" n="49"/>ipsa vt est extra. Perfectior enim est ratio veritatis vt denominat essentiam in intelligentia, &amp; ipsam in  
+        <lb ed="#Ba" n="50"/>telligentiam, quae vna est &amp; eadem, quam sit ratio eiusdem veritatis vt denominat rem extra. &amp; hoc quia 
+        <lb ed="#Ba" n="51"/>(vt iam dictum est) essentia rei vt est secundum se, est solum in potentia intellecta: &amp; ita vt est in po 
+        <lb ed="#Ba" n="52"/>tentia mouens: vt vero est in intelligentia, est secundum actum intellecta: &amp; ita vt ipsa est actu mo-  
+        <lb ed="#Ba" n="53"/>uens. Quare cum veritas fundatur in essentia inquantum habet vim manifestatiui &amp; declara 
+        <lb ed="#Ba" n="54"/>tiui suiipsius apud intelligentiam: dicente Auicenna, quod veritas est proprietas vniuscuius- 
+        <lb ed="#Ba" n="55"/>quod rei inquantum nata est de se veram aestimationem facere: dicente etiam beato Hilario 
+   <!--449.xml-->
+        <pb ed="#Ba" n="217-v"/>
+        <lb ed="#Ba" n="1"/>quod veritas est manifestatiuum esse: &amp; manifestum est quod tunc vnumquodque habet perfectius esse secundum quam 
+        <lb ed="#Ba" n="2"/>cumque rationem: inquantum secundum ipsam habet esse in actu, quam inquantum secundum ipsam habet solum esse in potentia: &amp; similiter 
+        <lb ed="#Ba" n="3"/>fundatur super aliquid: &amp; super aliquam eius rationem perfectius habet esse inquantum fundatur super illud secundum quod habet 
+        <lb ed="#Ba" n="4"/>secundum illam dispositionem esse in actu: quam inquantum fundatur super illud secundum quod secundum illam dispositionem 
+        <lb ed="#Ba" n="5"/>habet esse in potentia tantum. Quare cum, vt dictum est, veritas fundatur super essentiam rei inquantum 
+        <lb ed="#Ba" n="6"/>habet naturam siue vim intelligibilis, &amp; manifestatiui, &amp; secundum se est intellectum in potentia tantum 
+        <lb ed="#Ba" n="7"/>&amp; similiter manifestatiuum siue mouens in potentia tantum: vt vero est in intelligentia est actu intelle 
+        <lb ed="#Ba" n="8"/>ctum &amp; actu mouens: Absolute ergo dicendum est secundum huiusmodi intellectum quaestionis: quod veritas quae 
+        <lb ed="#Ba" n="9"/>cunque diuina &amp; alia perfectius &amp; principalius &amp; dignius habet esse in intelligentia: hoc est in  
+        <lb ed="#Ba" n="10"/>ipsa re secundum esse quod habet in intelligentia cognoscente, denominando veram &amp; ipsam rem, &amp; ipsam 
+        <lb ed="#Ba" n="11"/>intelligentiam: quam in ipsa essentia secundum se, denominando solum ipsam rei essentiam: quia pere- 
+        <lb ed="#Ba" n="12"/>ctius habet esse in ipsa essentia, vt iam actu intellecta &amp; actu mouens: quam habet esse in eadem vt 
+        <lb ed="#Ba" n="13"/>potentia est intellecta &amp; potentia mouens, sicut dictum est. Et sic in creaturis contrario modo  
+        <lb ed="#Ba" n="14"/>contingit de esse rei &amp; sua veritate secundum istum modum: quoniam veritas rei in anima est per- 
+        <lb ed="#Ba" n="15"/>fecta veritas: &amp; esse in eadem est esse diminutum: esse vero in re extra est perfectum esse &amp; diminuta 
+        <lb ed="#Ba" n="16"/>veritas. Sed iste modus quo veritas habet esse in intelligentia, non vt in subiecto, sed vt obiectum 
+        <lb ed="#Ba" n="17"/>in cognoscente, duplex est. secundum quod dictum est: quoniam veritas obiectum est intellectus Vno modo  
+        <lb ed="#Ba" n="18"/>mouens ipsum ad cognoscendum per se id quod verum est: &amp; est tertius modus principalis quo ve 
+        <lb ed="#Ba" n="19"/>ritas habet esse in intelligentia. Alio vero modo ad cognoscendum per se ipsam veritatem. Primo modo  
+        <lb ed="#Ba" n="20"/>(vt iam dictum est) verius esse habet in intelligentia vt in cognoscente, quam in re extra vt in subiecto: Sed aequali 
+        <lb ed="#Ba" n="21"/>ter habet esse in intelligentia, &amp; in essentia vt est in intelligentia: quia secundum eandem rationem manifestatiui. 
+        <lb ed="#Ba" n="22"/>Si tamen in aliquo illorum habet esse verius: hoc est in intelligentia: quia actualitatem manifestatiui habet 
+        <lb ed="#Ba" n="23"/>ab eo quod est in intelligentia, non autem ab eo quod est in essentia: nisi quia essentia est in intelligentia. Si vero veritas 
+        <lb ed="#Ba" n="24"/>moueat intelligentiam ad intelligendum ipsam veritatem significatam nomine absoluto: vt est quartus modus 
+        <lb ed="#Ba" n="25"/>principalis quo veritas habet esse in intelligentia: quae quidem veritas licet non existit nisi in re subiecta 
+        <lb ed="#Ba" n="26"/>vt in subiecto: tamen per se est in intelligentia vt obiectum apprehensum ab ipsa: &amp; hoc non nisi in intelli 
+        <lb ed="#Ba" n="27"/>gentia collatiua. Non enim est sic constituta veritas aliud quam verorum quaedam conformitas: &amp; ratio decla- 
+        <lb ed="#Ba" n="28"/>ratiua suiipsius &amp; illorum apud intelligentiam: in qua conformitate consistit perfecta ratio veritatis:  
+        <lb ed="#Ba" n="29"/>lta quod sine eius perceptione ex collatione vtriusque conformium adinuicem, a nullo intellectu diuino 
+        <lb ed="#Ba" n="30"/>potest esse perceptio perfectae &amp; syncerae veritatis: licet ipsum verum quod est res ipsa aut quiditas 
+        <lb ed="#Ba" n="31"/>sine vlla collatione percipi possit, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e499">
+        ⁋ Ad cuius intellectum sciendum quod sicut si- 
+        <lb ed="#Ba" n="32"/>mile inquantum simile dicit respectum quo res vna alteri similis est, similitudine quae fundatur in re super 
+        <lb ed="#Ba" n="33"/>aliquod absolutum: puta albedinem: &amp; consistit in conformitate secundum albedinem vnius ad albedinem alterius: 
+        <lb ed="#Ba" n="34"/>vt similitudo sit ipsa conformitas qua sunt similes &amp; conformes adinuicem: non sunt autem illi vel eorum 
+        <lb ed="#Ba" n="35"/>albedines ipsa similitudo aut conformitas: sed participant eam: Sic verum inquantum verum dicit respe- 
+        <lb ed="#Ba" n="36"/>ctum quo res vna alteri rei conformis est: veritate quae fundatur in rei essentia &amp; natura: &amp; ha- 
+        <lb ed="#Ba" n="37"/>bet esse in essentia rei: &amp; in intelligentia: ambo denominando, vt dictum est, vt conformitas illa 
+        <lb ed="#Ba" n="38"/>sit ipsa veritas qua ambo dicuntur esse vera: non autem sunt ipsa veritas. hoc enim non est verum nisi in ipso 
+        <lb ed="#Ba" n="39"/>deo solo: in quo non est alicuius participatio, sed habens est id quod habetur. Quemadmodum ergo similitu- 
+        <lb ed="#Ba" n="40"/>do dupliciter habet considerari: sicut etiam quodlibet esse quiditatiuum cuiuslibet rei creatae: Vno 
+        <lb ed="#Ba" n="41"/>modo sub ratione esse imparticipati: vt scilicet secundum se considerata non est nisi similitudo tantum: sicut humani 
+        <lb ed="#Ba" n="42"/>tas secundum se non est nisi humanitas tantum: Alio modo sub ratione participati: vt scilicet in hoc albo &amp; in illo 
+        <lb ed="#Ba" n="43"/>est haec similitudo in isto simili, &amp; illa in illo, quia participata est ab hoc albo &amp; ab illo, vt supra di- 
+        <lb ed="#Ba" n="44"/>ctum est de humanitate: Similiter ergo &amp; dupliciter habet considerari veritas scilicet &amp; secundum rationem partici 
+        <lb ed="#Ba" n="45"/>pationis in creaturis penes diuersitatem rerum &amp; veritatum in vtroque conformium: &amp; secundum rationem abstra 
+        <lb ed="#Ba" n="46"/>cti &amp; imparticipati. In deo autem secundum rationem identitatis penes diuersitatem ipsorum conformium secundum rationem 
+        <lb ed="#Ba" n="47"/>vt statim patebit. Nunc autem ita est: quod veritas non dicitur in eo quod habet veritatem in esse naturali 
+        <lb ed="#Ba" n="48"/>quocunque, nisi a veritate quiditatis suae. Non enim dicitur aliquis verus homo nisi quia habet veram 
+        <lb ed="#Ba" n="49"/>humanitatem: neque verum simile nisi quia habet veram similitudinem. Similiter ergo non dicitur aliquid ve 
+        <lb ed="#Ba" n="50"/>rum vt res vel natura vel essentia aliqua, nisi quia habet veritatem: hoc est conformitatem sui ad ali 
+        <lb ed="#Ba" n="51"/>quid, siue per identitatem vt in deo, siue per participationem vt in creaturis. Cumque duo ab aliqua dispositione 
+        <lb ed="#Ba" n="52"/>denominata sunt: quorum vnum denominatur tale ab illo inquantum habet esse in alio: illud aliud dignius ha 
+        <lb ed="#Ba" n="53"/>bet illam denominationem. Verbi gratia: Cum cibus dicitur sanus a sanitate corporis animalis per quandam at-  
+        <lb ed="#Ba" n="54"/>tributionem scilicet quia est effectiuus illius: dignius denominari habet a sanitate corpus animalis quam ci- 
+        <lb ed="#Ba" n="55"/>bus. Quare cum quaecumque res vt est natura &amp; essentia dicitur vera veritate vt ab ipsa participata: tanquam  
+   <!--450.xml-->
+        <pb ed="#Ba" n="218-r"/>
+        <lb ed="#Ba" n="1"/>qua est alicui conformis: verius ergo &amp; dignius attribuenda est ratio veritatis ipsius conformitatis vtri 
+        <lb ed="#Ba" n="2"/>quod communi vt est in esse quiditatiuo secundum se considerata, quam ipsis conformibus vt ab eis est parti 
+        <lb ed="#Ba" n="3"/>cipata: non quidem vt est huius secundum conformis &amp; illius: sed vt ipsa est: se conformitas vtriusque: quemadmo-  
+        <lb ed="#Ba" n="4"/>dum ratio similitudinis verius attribuitur similitudini vt secundum se consideratur in esse quiditatiuo quam alicui 
+        <lb ed="#Ba" n="5"/>consimilium. Quare cum veritas considerata vt est conformitas absoluta super vtrumque conformium: non ha-  
+        <lb ed="#Ba" n="6"/>bet esse nisi in consideratione actuali intelligentiae, quae ex collatione vtriusque conformis percipit ipsorum 
+        <lb ed="#Ba" n="7"/>conformitatem inter se, intelligendo conformitatem inter se quasi in esse quodam quiditatiuo: cum in vtroque  
+        <lb ed="#Ba" n="8"/>conformium intelligitur quasi in esse naturae: perfectior ergo &amp; dignior est ratio veritatis vt cadit in actua- 
+        <lb ed="#Ba" n="9"/>li perceptione intelligentiae, percipiendo scilicet eam (vt dictum est) secundum se &amp; absolute, quam vt habet esse in re conforma 
+        <lb ed="#Ba" n="10"/>ta alteri: &amp; hoc siue huiusmodi res consideretur vt intelligibile quoddam nondum actu intellectum: siue vt ipsa iam 
+        <lb ed="#Ba" n="11"/>actualiter sit intellecta. Si ergo secundum hoc proprie velimus loqui, &amp; dicamus veritatem vt consideratur 
+        <lb ed="#Ba" n="12"/>secundum se absolute quasi in esse quiditatiuo, esse in intelligentia: secundum vero quod consideratur vt in hoc &amp; in il 
+        <lb ed="#Ba" n="13"/>lo existens scilicet in vtroque conformium dicamus esse eam in essentia: &amp; hoc aut vt secundum se consideratur: aut  
+        <lb ed="#Ba" n="14"/>vt est actualiter intellecta in ipsa intelligentia: secundum hoc debemus principaliter intelligere quaestionem quae quaeritur 
+        <lb ed="#Ba" n="15"/>vtrum veritas principalius &amp; dignius habet esse in diuina essentia an in eius intelligentia. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e591">
+        ⁋ Et est di- 
+        <lb ed="#Ba" n="16"/>cendum simpliciter &amp; absolute, quod in eius intelligentia, quoniam in essentia secundum se non habet esse verstas 
+        <lb ed="#Ba" n="17"/>nisi quia est eius quod verum est: simiter neque in essentia vt in actuali consideratione intelligentiae est exis:  
+        <lb ed="#Ba" n="18"/>vt sicut in essentia non existit nisi quod est verum: &amp; ita veritas vt est huius conformis: non ipsa veritas 
+        <lb ed="#Ba" n="19"/>absoluta: sumendo veritatem pro ratione respectus, puri: quemadmodum modo loquimur de ipsa: similiter vt ab intel 
+        <lb ed="#Ba" n="20"/>ligentia apprehenditur exnins in essentia non percipitur nisi quod est veritate verum: &amp; ita veritas vt huiusmodi, non vt abso 
+        <lb ed="#Ba" n="21"/>luta. In intelligentia autem habet esse veritas vt est ipsa conformitas conformium: sicut similitudo est conformi 
+        <lb ed="#Ba" n="22"/>tas quaedam similium. &amp; sic percipitur non solum quod verum est intelligentia simplici quae percipitur vtrumque verorum secundum  
+        <lb ed="#Ba" n="23"/>se &amp; absolute: sed ipsa secundum se veritas quae est formasvtriusque verorum: &amp; hoc intelligentia collatiua 
+        <lb ed="#Ba" n="24"/>vnum eorum alteri conferendo. Per hunc ergo modum, perfectum esse veritatis non habet veritas nisi in actuali perce 
+        <lb ed="#Ba" n="25"/>ptione intelligentiae: &amp; sic in intelligentia habet esse non vt in subiecto: sed vt in participante: participando scilicet eam 
+        <lb ed="#Ba" n="26"/>non vt habet esse in aliquo sicut in subiecto: sed secundum esse quiditatiuum abstractum a quolibet sub 
+        <lb ed="#Ba" n="27"/>iecto: non abstractione vniuersalis a particulari logice: sed formae &amp; quiditatis ab eo cuius est metaphy 
+        <lb ed="#Ba" n="28"/>sice. Et secundum hoc bene definit <name ref="#Anselm">Anselmus</name> veritatem: cum dicit quod est rectitudo sola mente perceptibilis: &amp; per hoc 
+        <lb ed="#Ba" n="29"/>secundum praedictum modum in sola mente existens: ita quod nisi sit in perceptione actuali: non ha-  
+        <lb ed="#Ba" n="30"/>bet esse in sua perfecta ratione absoluta. Et ad horum euidentiam &amp; similiter illorum quae dicuntur 
+        <lb ed="#Ba" n="31"/>in prima &amp; tertia ratione ad hanc partem: sciendum quod res quaecumque considerata in se secundum esse 
+        <lb ed="#Ba" n="32"/>naturale aut quiditatiuum nullum omnino respectum dicit ad intellectum inquantum huiusmodi: sed  
+        <lb ed="#Ba" n="33"/>solum ex hoc quod habet in se rationem intelligibilis: hoc est quod sit manifestabile intellectui: &amp; hoc pas 
+        <lb ed="#Ba" n="34"/>siue: sed ex hoc primo habet rationem veri quod est sui manifestatiuum apud intellectum: &amp; hoc acti- 
+        <lb ed="#Ba" n="35"/>ue. Et haec est ratio veri in re imperfectissima, priusquam manifestans est se intellectui secundum actum: &amp; 
+        <lb ed="#Ba" n="36"/>actualiter intelligitur. Sed cum est secundum actum se manifestans intellectui: tunc habet rationem 
+        <lb ed="#Ba" n="37"/>veri perfectam, sed vt in concretione &amp; sub ratione participati perfectissimam: vt quando se manife 
+        <lb ed="#Ba" n="38"/>stat sub ratione veritatis vt in abstractione consideratur, quae non habet esse nisi in actuali perceptio- 
+        <lb ed="#Ba" n="39"/>ne vt obiectum in cognoscente, vt conformitas &amp; coaequatio vtriusque verorum: sine cuius perceptio 
+        <lb ed="#Ba" n="40"/>ne non percipitur veritas: sed solum id quod verum est siue veritatem habens aut participans. Nec 
+        <lb ed="#Ba" n="41"/>potest illa veritas percipi sine perceptione &amp; collatione adinuicem vtriusque verorum secundum correspondem 
+        <lb ed="#Ba" n="42"/>tiam: sicut nec potest percipi veritas imaginis Caesaris sine inspectione vtriusue. scilicet &amp; Caesaris &amp; imagi- 
+        <lb ed="#Ba" n="43"/>nis, &amp; collatione eorum inter se. secundum correspondentiam, secundum quod supra expositum est in quaestionibus 
+        <lb ed="#Ba" n="44"/>an contingit aliquid scire. Haec autem vera, inter qu. scilicet debet fieri huiusmodi collatio: &amp; quae debent sic si 
+        <lb ed="#Ba" n="45"/>bi correspondere, sunt res ipsa quae est vera res extra in sua essentia &amp; natura, &amp; ipse intellectus qui  
+        <lb ed="#Ba" n="46"/>est verus ex vero conceptu illius rei. Quae quidem collatio sit per actum intellectus considerantis si con 
+        <lb ed="#Ba" n="47"/>ceptus in intellectu nec plus nec minus continet quam continet natura rei extra: ita quod istius collationis res extra 
+        <lb ed="#Ba" n="48"/>sit vnum extremorum: &amp; ipse conceptus de illa re sit aliud. vt si intellectus inueniat quod conceptus 
+        <lb ed="#Ba" n="49"/>eius nec plus nec minus contineat quam continet natura rei extra, iudicat quod verus est intellectus conceptus: &amp; econ 
+        <lb ed="#Ba" n="50"/>uerso si inuenit quod conceptus eius plus aut minus contineat quam natura rei extra, iudicat quod conce- 
+        <lb ed="#Ba" n="51"/>ptus est falsus &amp; diminutus: &amp; simile iudicium facit circa rem. Et sic ex collatione vtriusque, scilicet 
+        <lb ed="#Ba" n="52"/>rei &amp; conceptus: secundum huiusmodi conformitatem concipitur veritas in abstractione quae est 
+        <lb ed="#Ba" n="53"/>forma vtriusque verorum inquantum vera sunt: &amp; hoc non nisi intellectu complexo quo vnum 
+        <lb ed="#Ba" n="54"/>comparatur alteri secundum correspondentiam &amp; conformitatem, dicente intelligentia quoniam  
+        <lb ed="#Ba" n="55"/>hoc est conforme illi: &amp; econuerso (quod tamen venatum est ex illo intellectu complexo collatiuo) concipitur intel 
+        <lb ed="#Ba" n="56"/>lectus incomplaexus scilicet conformitatis, quae est inter illa extrema collationis. Quemadmodum enim com 
+   <!--451.xml-->
+        <pb ed="#Ba" n="218-v"/>
+        <lb ed="#Ba" n="1"/>parans hoc album illi albo: &amp; econverso: &amp; concipiens quoniam hoc est conforme &amp; consimile illi: &amp; econm 
+        <lb ed="#Ba" n="2"/>uerso: abstrahit ab vtrisque rationem similitudinis &amp; conformitatis tanquam formam &amp; quiditatem con 
+        <lb ed="#Ba" n="3"/>munem vtrisque inquantum similia sunt: sic comparans verum quod est in intellectu ad verum quod est 
+        <lb ed="#Ba" n="4"/>in rebus: &amp; concipiens quoniam hoc est conforme &amp; consimile illi in veritate: &amp; econverso: abstrahit ab vtril 
+        <lb ed="#Ba" n="5"/>quod rationem communis conformitatis &amp; veritatis tanquam formam &amp; quiditatem communem vtris- 
+        <lb ed="#Ba" n="6"/>quod inquantum vera sunt &amp; conformia. Non dico abstractione logica qua abstrahitur vniuersale a pari 
+        <lb ed="#Ba" n="7"/>cularibus, vt homo ab hoc homine &amp; ab illo: sed metaphysica qua abstrahitur forma siue quiditas 
+        <lb ed="#Ba" n="8"/>ab eis quorum est quiditas: vt humanitas ab hoc homine &amp; ab illo: a quibus participatur. Per hunt 
+        <lb ed="#Ba" n="9"/>ergo modum veritas dignius habet esse in intelligentia quam in essentia. Hoc tamen non conuenit aes 
+        <lb ed="#Ba" n="10"/>liter cuicumque veritati: neque respectu cuiuscumque intelligentiae indifferenter. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e712">
+        ⁋ Ad cuius euidentiam sci 
+        <lb ed="#Ba" n="11"/>dum, quod duplex est veritas, sicut duplex res est in quae fundatur: veritas scilicet creata &amp; increata. iEt creata duplex 
+        <lb ed="#Ba" n="12"/>est scilicet naturalis &amp; artificialis. Intellectus autem in vniuerso non est nisi duplex scilicet creatus humanus il 
+        <lb ed="#Ba" n="13"/>angelicus, &amp; increatus: &amp; non se habet aliqua illarum veritatum aequaliter ad hos duos intellectus. Quod  
+        <lb ed="#Ba" n="14"/>primo inspiciendum est circa veritatem rei naturalis creatae. Secundo circa veritatem rei artificialis. Te 
+        <lb ed="#Ba" n="15"/>tio circa veritatem rei increatae. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e725">
+        ⁋ Circa primum ergo sciendum: quod veritas rei naturalis creatae ad intelle- 
+        <lb ed="#Ba" n="16"/>ctum increatum refertur essentialiter tanquam ad illum a quo habet causari, &amp; a quo essentialiter depen 
+        <lb ed="#Ba" n="17"/>det in suo esse naturali: ad intellectum vero creatum quemcumque refertur accidentaliter tanquam ad illum a quo per  
+        <lb ed="#Ba" n="18"/>eius similitudinem intellectus habet informari: &amp; per hoc rei extra in veritate conformari: &amp; ita a 
+        <lb ed="#Ba" n="19"/>quo habet quodammodo causari, vt patebit: &amp; a quo dependet in suo esse cognitiuo. Vnde cum se 
+        <lb ed="#Ba" n="20"/>cundum praedeterminata, veritas in re dicit respectum eius ad intellectum: veritas igitur rei naturalis en 
+        <lb ed="#Ba" n="21"/>tialem respectum siue essentialiter respectum dicit ad intellectum increatum: accidentalem aut ac 
+        <lb ed="#Ba" n="22"/>cidentaliter ad intellectum creatum. Cum igitur (vt iam conclusum est) veritas principalius &amp; perfectiu 
+        <lb ed="#Ba" n="23"/>esse habet in intelligentia quam in rei essentia: essentialiter igitur veritas rei naturalis perfectius habet 
+        <lb ed="#Ba" n="24"/>esse in intelligentia intellectus creati quam in sua essentia: &amp; hoc secundum modos praedeterminatos, inqui  
+        <lb ed="#Ba" n="25"/>bus supra concessum est veritatem dignius esse in intelligentia quam in rei essentia. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e749">
+        ⁋ Sequitur conside 
+        <lb ed="#Ba" n="26"/>re de veritate artificialis quom se habeat ad intellectum increatum &amp; creatum. Circa quam sciendum, quod ips 
+        <lb ed="#Ba" n="27"/>ad vtrumque intellectum refertur essentialiter tanquam a quo habet causari: &amp; a quo essentialiter depende 
+        <lb ed="#Ba" n="28"/>in suo fieri: &amp; in suo esse. Essentialem ergo respectum habet ad vtrumque: sed essentialiorem ad intellectum 
+        <lb ed="#Ba" n="29"/>increatum, quoniam artificiale secundum naturam &amp; formam simul habet esse in intellectu increato ratio 
+        <lb ed="#Ba" n="30"/>ne diuinae essentiae: quemadmodum dictum est de re naturali. Et ideo veritas artificialis rei sicut &amp; nati- 
+        <lb ed="#Ba" n="31"/>ralis verius &amp; perfectius habet esse in diuina intelligentia quam in propria essentia. In intellectu vero cre- 
+        <lb ed="#Ba" n="32"/>to artificiale non habet esse nisi secundum formam tantum: &amp; hoc ratione similitudinis alicuius, illius secundum 
+        <lb ed="#Ba" n="33"/>quam eam habet producere in materia extra, vt secundum <name ref="#Aristotle">Philosophum</name> in. vii. metaphysicae, fat simi- 
+        <lb ed="#Ba" n="34"/>le a simili, domus in materia a domo in mente. Quam etiam formam non habet ex se naturaliter: sed sibi 
+        <lb ed="#Ba" n="35"/>formatam in generali vel in speciali ab aliquo artificiali vel ab aliqua similitudine accepta ex re na 
+        <lb ed="#Ba" n="36"/>turali inquantum ars imitatur naturam. Et secundum hoc veritas rei artificialis inquantum ipsa 
+        <lb ed="#Ba" n="37"/>habet fieri ab intellectu artificis, verius habet esse in eo quam in re ipsa est. Inquantum vero similitudo at  
+        <lb ed="#Ba" n="38"/>tis in artifice accepta est ab aliquo artificiali, verius habet esse in illo &amp; primo, &amp; secundario in an 
+        <lb ed="#Ba" n="39"/>fice, &amp; tertio in artificiato ab ipso. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e785">
+        ⁋ Sequitur de veritate rei increatae quomodo se habeat ad intelli 
+        <lb ed="#Ba" n="40"/>gentiam creatam &amp; increatam. Ad intellectum, quidem creatum sic se habet, quod ex puris naturalibus nullis 
+        <lb ed="#Ba" n="41"/>potest huiusmodi veritatem comprehendere: siue quae consistit in conformitate diuinae essentia 
+        <lb ed="#Ba" n="42"/>ad intellectum humanum: siue ad diuinum: siue ad creaturas. cum his enim tribus habet conformitatem 
+        <lb ed="#Ba" n="43"/>vt iam patebit. Et hoc ideo: quia vt dictum est, huiusmodi conformitas non potest comprehendi sine co 
+        <lb ed="#Ba" n="44"/>latione conformium cognitorum: &amp; diuina essentia ex puris naturalibus a nulla creatura potesti 
+        <lb ed="#Ba" n="45"/>telligi. Si vero intelligatur ab intellectu beato: licet non potest comprehendere perfecte conformium 
+        <lb ed="#Ba" n="46"/>tem infinitam diuinae essentiae cum diuina intelligentia: &amp; similiter quae est diuinae essentiae ad ce 
+        <lb ed="#Ba" n="47"/>turam: quantum tamen ad id conformitatis quod comprehendit, quo ad hoc dignior est ratio verita 
+        <lb ed="#Ba" n="48"/>tis illius vt est in intelligentia sicut obiectum cognitum in cognoscente: quam indiuina essentia. quo scilicet bii 
+        <lb ed="#Ba" n="49"/>telligentia comprehenditur vt est vtriusque conformitas conformium. In diuina vero essentia non est nisi vt habi- 
+        <lb ed="#Ba" n="50"/>ta ab altero eorum. Et quia in intelligentia est vt iam actualiter intellecta, in diuina vero essentia vt possi 
+        <lb ed="#Ba" n="51"/>bilis intelligi: &amp; semper in perfectiori ratione veritatis est vnumquodque inquantum est sub ratione actualiter intellecti 
+        <lb ed="#Ba" n="52"/>quam sit inquantu solum intellectum potentialiter, aliis eisdem retentis: licet sic &amp; absolute quicquid est in deoinquantum l 
+        <lb ed="#Ba" n="53"/>ipso est, dignius habet esse quam in creatura quocumque modo ponatur esse in ipsa: Similiter est si consideretur huiusmodi veritas re 
+        <lb ed="#Ba" n="54"/>spectu intelligentiae diuinae, semper dignior ratio eius est vt habet esse in intelligentia quam in essentia: quia in intelligenia 
+        <lb ed="#Ba" n="55"/>hir esse vt intellectum in actu: in essentia autem vt intellectum in potentia. Propter quod omnes perfectae definitiones &amp; rectr id 
+   <!--452.xml-->
+        <pb ed="#Ba" n="219-r"/>
+        <lb ed="#Ba" n="1"/>aut veritatis dantur ex ordine aliquo siue comparatione ad intellectum: ita quod accipiant intelle- 
+        <lb ed="#Ba" n="2"/>ctum licet oblique in se: &amp; hoc cum ratione manifestationis illi faciendae vel adaequationis cum ipso: 
+        <lb ed="#Ba" n="3"/>vel cum ratione vtriusue scilicet manifestationis &amp; adaequationis. Primo modo dicitur quod verum est declara 
+        <lb ed="#Ba" n="4"/>tiuum esse, scilicet apud intellectum. secundum Hila. vel natum facere de se veram aestimationem 
+        <lb ed="#Ba" n="5"/>secundum Auicen. Secundo modo dicitur adaequatio rei &amp; intellectus. secundum lsaac. Tertio mo-  
+        <lb ed="#Ba" n="6"/>do dicitur rectitudo sola mente perceptibilis. secundum <name ref="#Anselm">Anselmus</name> Vnde quod dicit <name ref="#Augustine">Augustinus</name> quod veritas est 
+        <lb ed="#Ba" n="7"/>id quod res est: non est nisi definitio materialis, per id scilicet super quod veritas fundatur. vnde corrigens defi 
+        <lb ed="#Ba" n="8"/>nitionem dicit. Cui saltem manifestum est falsitatem esse qua res id putatur esse quod non est, intelligat 
+        <lb ed="#Ba" n="9"/>veritatem esse qua ostenditur id esse quod est. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e852">
+        <lb ed="#Ba" n="10"/>⁋ Per haec patet responsio ad illud quod arguebatur primo: quod esse in intelligentia es 
+        <lb ed="#Ba" n="11"/>esse cognitiuum &amp; rationis non verum, quale est esse naturae quod est in rei essentia. Dicendum quod licet non  
+        <lb ed="#Ba" n="12"/>sit in intelligentia vera &amp; perfecta ratio entitatis: sed in re extra: quia <name ref="#Aristotle">Philosophus</name> in. vii. meta. esse 
+        <lb ed="#Ba" n="13"/>rei in anima vocat esse eius diminutum: esse vero rei extra vocat esse verum: est tamen in ea perfecta ra 
+        <lb ed="#Ba" n="14"/>tio veritatis: quia in actu cognitiuo est motus rei in intelligentia secundum rationem veri: qui per 
+        <lb ed="#Ba" n="15"/>ficitur in intelligentia vt in suo termino: quemadmodum ratio grauis perficitur deorsum, ad quod incli- 
+        <lb ed="#Ba" n="16"/>nat motus grauis: &amp; similiter ratio boni perficitur in re extra, in quam terminatur motus in actu affe- 
+        <lb ed="#Ba" n="17"/>ctiuo. Non enim vniformiter sese consequuntur ratio entitatis &amp; veritatis: quemadmodum neque ratio bo 
+        <lb ed="#Ba" n="18"/>nitatis &amp; veritatis. Quod bene notauit Philosephus cum dixit in eodem: quod verum &amp; falsum non sunt 
+        <lb ed="#Ba" n="19"/>in rebus sicut bonum &amp; malum: sed in cognitione. Bonum enim non habet perfectam rationem boni 
+        <lb ed="#Ba" n="20"/>nisi in rebus: in intelligentia vero non nisi diminutam: quemadmodum neque esse: verum autem econverso. Et 
+        <lb ed="#Ba" n="21"/>quod assumitur in argumento quod dispositio vniuscuiusque in esse &amp;c. Dicendum quod illud dictum Philosophi, Dispo 
+        <lb ed="#Ba" n="22"/>sitio vniuscuiusque in esse, est sua dispositio in veritate: debet verificari quia quanto aliquid est perfectius 
+        <lb ed="#Ba" n="23"/>in esse: &amp; in veritate: &amp; econverso. sed non sequitur ex hoc, quod vbi res habet perfectius esse, ibi habet perfectius veri 
+        <lb ed="#Ba" n="24"/>tatem. Immo est fallacia figurae dictionis, commutando quid in vbi, sicut patet. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e891">
+        ⁋ Ad secundum quod veritas qua 
+        <lb ed="#Ba" n="25"/>est in intelligentia causatur a veritate quae est in rei essentia: Dicendum quod hoc non est verum de ve 
+        <lb ed="#Ba" n="26"/>ritate quae est in diuina intelligentia respectu creaturae. ipsa enim veritas quae est in rei essentia tam natu 
+        <lb ed="#Ba" n="27"/>ralis quam aertificialis, causatur ab illa quae est in diuina intelligentia. Veritas enim creaturae consistit in  
+        <lb ed="#Ba" n="28"/>conformitate &amp; adaequatione quadam secundum gradum perfectionis &amp; naturae suae ad id perfectio- 
+        <lb ed="#Ba" n="29"/>nis quod ei respondet in diuina essentia tanquam in suo exemplari primo: quemadmodum veritas imaginis in 
+        <lb ed="#Ba" n="30"/>speculo consistit in conformitate quadam ad suum prototypum. Nec similiter habet veritatem de veri- 
+        <lb ed="#Ba" n="31"/>tate quae est in intelligentia creaturae respectu rei artificialis quo ad formam artificii. Respectu vero 
+        <lb ed="#Ba" n="32"/>rei naturalis aut diuinae essentiae: licet veritas in intelligentia causetur a veritate quae est in ipsa essen- 
+        <lb ed="#Ba" n="33"/>tia, quia tamen perfectiori modo habet esse in intelligentia quam in essentia: quia secundum actualem apprehensionem in intelligen 
+        <lb ed="#Ba" n="34"/>tia. secundum potentialem solum in ipsa essentia: secundum hoc quodammodo perfectius habet esse in intelligentia, vt supra 
+        <lb ed="#Ba" n="35"/>dictum est. Et quod asfumitur, quod vnumquodque perfectius habet esse in cam quam in causato: verum est quando secundum eun 
+        <lb ed="#Ba" n="36"/>dem modum habet esse in vtroque. Quo ad hoc tamen quod veritas in intelligentia increata respectu intelligibi- 
+        <lb ed="#Ba" n="37"/>lis increati: &amp; in intelligentia creata respectu rei naturalis creatae vel increatae vel artificialis, maxi- 
+        <lb ed="#Ba" n="38"/>me quo ad materiam, canm habet aliquo modo a veritate existente in essentia rei intellectae: bene verum est quod ve 
+        <lb ed="#Ba" n="39"/>rius habet esse in rei essentia quam in ipsa intelligentia. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e926">
+        ⁋ Ad tertium, quod non est in deo nisi vna veritas funda- 
+        <lb ed="#Ba" n="40"/>ta in essentia &amp;c. Dicendum quod verum est: tamen istam eandem dicimus esse verius in intelligentia quam in essentia: quod 
+        <lb ed="#Ba" n="41"/>in intelligentia est actu intellecta: in essentia autem in potentia intellecta solummodo, vt dictum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e2420-d1e933">
+        ⁋ Ratio 
+        <lb ed="#Ba" n="42"/>secunda ad oppositum. scilicet quod adaequatio in quae consistit veritas, est in intellectu: quia ipse adaequatur rei: non econverso: ergo 
+        <lb ed="#Ba" n="43"/>&amp; veritas &amp;c. sophistica est. Quoniam adaequatio vno modo est coaequantis actio &amp; ccaequati passio. Alio autem 
+        <lb ed="#Ba" n="44"/>modo est corregulatio &amp; correspondentia inter ccaequans &amp; ccaequantum. Ideo dicendum ad rationem: quod super coaequa 
+        <lb ed="#Ba" n="45"/>tionem primo modo dictam non fundatur veritas: quia tunc non esset in deo vllo modo: sed fundatur super eam secundo modo 
+        <lb ed="#Ba" n="46"/>Et primo modo est coaequatio in intellectu creato, quando veritas in ipso causatur a re extra. Secundo modo est coaequatio 
+        <lb ed="#Ba" n="47"/>in ipso ex seipso ex collatione vtriusque verorum percepta ab intellectu: non quia illa coaequatio sit ipsa ve 
+        <lb ed="#Ba" n="48"/>ritas: sed fundatur in ipsa. Dicitur enim coaequantio praecise ex hoc quod vnum verorum alteri correspondet. Veritas au-  
+        <lb ed="#Ba" n="49"/>tem est in ipsa ecaequatione, qua manifestatiua est apud intellectum quod sit talis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

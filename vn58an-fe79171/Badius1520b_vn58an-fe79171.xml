@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="289-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe79171"> <!-- alias="vn58an-a75prae" -->
+      <head xml:id="vn58an-fe79171-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-fe79171-d1e107">
+        <lb ed="#Bb" n="39"/>SEquitur Articu. LXXV. de diuinis praedicationibus in spe 
+        <lb ed="#Bb" n="40"/>ciali. vbi quaeruntur sex. Quorum 
+        <lb ed="#Bb" n="41"/>Primum: vtrum singula quae sunt in diuinis de quolibet alio similiter 
+        <lb ed="#Bb" n="42"/>existente in diuinis possint praedicari. 
+        <lb ed="#Bb" n="43"/>Secundum: vtrum singula illorum possint mutuo praedicari de singu 
+        <lb ed="#Bb" n="44"/>is praedicatione affirmatiua. 
+        <lb ed="#Bb" n="45"/>Tertium: vtrum praedicatio vnius illorum de pluribus personis resol- 
+        <lb ed="#Bb" n="46"/>uenda sit in vnam singularem: an in vnam pluralem: dicendo pater est 
+        <lb ed="#Bb" n="47"/>aeternus, filius est aeternus, spiritus sanctus est aeternus: &amp; sunt vnus 
+        <lb ed="#Bb" n="48"/>eternus: an &amp; sunt tres aeterni. &amp; sic de caeteris. 
+        <lb ed="#Bb" n="49"/>uartum: vtrum econtra, praedicatio plurium personarum de vna il- 
+        <lb ed="#Bb" n="50"/>larum siue essentiali siue personali resoluenda sit in vnam singularem an in vnam pluralem: dicen- 
+        <lb ed="#Bb" n="51"/>do deus vel aeternus est pater, deus vel aeternus est filius, deus vel aeternus est spiritus sanctus &amp; est 
+        <lb ed="#Bb" n="52"/>vnus aliquis: an tres aliqui.  
+        <lb ed="#Bb" n="53"/>Quintum: vtrum dictio exclusiua addita vni eorum quae sunt in diuinis ex parte subiecti aut ex par- 
+        <lb ed="#Bb" n="54"/>te praedicati excludat aliquid aliorum respectu subiecti aut respectu praedicati, dicendo solus aut  
+   <!--593.xml-->
+        <pb ed="#Bb" n="289-v"/>
+        <lb ed="#Bb" n="1"/>tantum pater est immortalis: non ergo filius aut spiritus sanctus est immortalis: aut dicendo pater est 
+        <lb ed="#Bb" n="2"/>tantum vel solum sapiens: non ergo est bonus. 
+        <lb ed="#Bb" n="3"/>Sextum: vtrum dictio exceptiua praeter aut praeterquam aut nisi possit excipere aliquid eorum quae sunt 
+        <lb ed="#Bb" n="4"/>in diuinis ab aliis respectu praedicati, aut respectu subiecti: dicendo nullus generat praeter patrem aut  
+        <lb ed="#Bb" n="5"/>praeterquam seu nisi pater: pater nullum generat praeterquam seu nisi filium.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

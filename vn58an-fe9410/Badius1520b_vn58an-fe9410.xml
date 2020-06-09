@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="34-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe9410"> <!-- alias="vn58an-a49q5" -->
+      <head xml:id="vn58an-fe9410-Hd1e104">Quaestio 5</head>
+      <p xml:id="vn58an-fe9410-d1e107">
+        <lb ed="#Bb" n="40"/>CIrca. v. arguitur quod beatitudo dei sit aliqua actio eius, &amp; non eius essentia. Primo sic 
+        <lb ed="#Bb" n="41"/>Si essentia dei esset sua btitudo, cum essentiam habeat absque operatione, tunc deus esset bea 
+        <lb ed="#Bb" n="42"/>tus absque omni sua operatione. Consequens falsum est secundum iam determinata. ergo &amp;c. 
+        <lb ed="#Bb" n="43"/>
+      </p>
+      <p xml:id="vn58an-fe9410-d1e118">
+        ⁋ Secundo sic. beatitudo rei consistit in optima eius dispositione. in essentia autem dei 
+        <lb ed="#Bb" n="44"/>secundum quod est essentia non consistit eius optia dispositio: sed in opeatione, quia disposi- 
+        <lb ed="#Bb" n="45"/>tio qua res existit absolute, similis est dormienti: &amp; qua existit in opeatione, est similis vi 
+        <lb ed="#Bb" n="46"/>giliae. &amp; melior est dispositio rei quae est similis vigiliae, quam dormitioni secundum philosophum. i. Ethici. ergo &amp;c. Vnde ibidem 
+        <lb ed="#Bb" n="47"/>dicit quod felicitas est opeatio quaedam. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e129">
+        ⁋ Tertio sic. illud propter quod est natura intellectualis, finis est eius &amp; bea 
+        <lb ed="#Bb" n="48"/>titudo. hoc est opeatio eius: quoniam deus non est sine operatione: vt dicit philosophus. x. Ethic. Et vt dicit. ii. Cae. &amp; Mum. 
+        <lb ed="#Bb" n="49"/>omnis res cuius est opeatio, est propter suam opeationem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e137">
+        ⁋ In contrarium arguitur primo sic. Ois actio pro 
+        <lb ed="#Bb" n="50"/>cedit ab eo cuius est. quod autem ab alio procedit, potius perfectionem suam ab illo recipit quam ipsum perficiat. finis 
+        <lb ed="#Bb" n="51"/>autem rei siue beatitudo eius ipsam perficit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e144">
+        ⁋ Secundo sic. Sola diuina essentia fruendum est. Frui autem 
+        <lb ed="#Bb" n="52"/>est rei alicui inhaerere propter se. nulli autem propter se inhaerendum est, nisi diuinae essentiae: non aut alicui opeationi: quia 
+        <lb ed="#Bb" n="53"/>opeatio est id quo inhaeretur. Solis autem illis fruendum est, quae nos beatos faciunt: secundum <name ref="#Augustine">Augustinus</name> i de doctrina chiiri. Beatos 
+        <lb ed="#Bb" n="54"/>autem non facit nisi beatitudo: sicut neque albos nisi albedo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e156">
+        ⁋ Praeterea id quod non est 
+   <!--84.xml-->
+        <pb ed="#Bb" n="35-r"/>
+        <lb ed="#Bb" n="1"/>nisi propter aliud, non est finis vltimus. actio siue dei siue creaturae non est nisi propter aliud: vt di- 
+        <lb ed="#Bb" n="2"/>cit Comment. super. ii. Cae. &amp; Mum. &amp; videbitur ramndendo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e167">
+        ⁋ Praeterea in secundo Cae. &amp; Mum. dicit <name ref="#Aristotle">Philosophus</name> 
+        <lb ed="#Bb" n="3"/>Res integra bonitate non indiget operatione qua sit bona: quoniam ipsa est propter quam sit omnis opeatio &amp; 
+        <lb ed="#Bb" n="4"/>actio &amp; complementum opeationis. deus est res integra bonitate, secundum quod ibi exponit Comment. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e177">
+        ⁋ Prae 
+        <lb ed="#Bb" n="5"/>terea. Beatitudo est finis vltimus. sed vltimum simpliciter non est opeatio aliqua, sed magis terminus 
+        <lb ed="#Bb" n="6"/>eius in quem tendit: &amp; ille in dei beatitudine non est nisi ipsa diuina essentia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e184">
+        ⁋ Praeterea. finis vl 
+        <lb ed="#Bb" n="7"/>timus est quod primum est in intentione. hoc non potest esse opeatio: quia nihil opeatur nisi intendendo finem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e190">
+        <lb ed="#Bb" n="8"/>⁋ Quaestio ista quaerit de beatitudinem quid sit re, tanquam id quo deus dicatur esse beatus. 
+        <lb ed="#Bb" n="9"/>Dicendum ad hoc, quod cum in deo quicquod est idipsum est vt ipsa diuina essentia, re nihil aliud est bea- 
+        <lb ed="#Bb" n="10"/>titudo dei quam ipsa diuina essentia: quod non quaerit quaestio. Immo cum deus dicatur beatus, &amp; alia sit ratio beatitu 
+        <lb ed="#Bb" n="11"/>dinis qua est beatus: &amp; eius quid ipsa beatitudine est beatus: Quaestio est quid sit beatitudo dei re, largis 
+        <lb ed="#Bb" n="12"/>sime sumendo rem pro illa ratione qua dicitur beatus. Et est dicendum: quod cum beatitudo in creaturis a qui  
+        <lb ed="#Bb" n="13"/>bus nomen ad diuina translatum est: &amp; a qua modo nostro ratio beatitudinis deo attribuitur: consistit 
+        <lb ed="#Bb" n="14"/>in fine suo vltimo quo habet perfectionem &amp; complementum sui esse: vt debet exponi loquendo de beatitu 
+        <lb ed="#Bb" n="15"/>dine creaturae: ratio beatitudinis in deo est illud quod quasi perfectionem &amp; complementum diuini esse impor- 
+        <lb ed="#Bb" n="16"/>tat: quod etiam habet rationem finis &amp; vltimi respectu omnium eorum quae in deo considerantur: ad quem etiam omnia 
+        <lb ed="#Bb" n="17"/>alia tendunt vt in vltimum finem: vt eo perficiantur quodammodo quom &amp; ipse deus, quem &amp; naturaliter ap- 
+        <lb ed="#Bb" n="18"/>petunt, licet diuersimode: secundum quod &amp; diuersimode ipsum assequuntur: vt in sequentibus patebit. Ne 
+        <lb ed="#Bb" n="19"/>tamen in aequiuoco procedamus de fine, sciendum est quod finis quandoque sumitur communiter pro vltimo &amp; ter- 
+        <lb ed="#Bb" n="20"/>mino rei quocumque: quemadmodum punctus dicitur finis lineae, &amp; cutis finis animalis: vt dicit philosophus. v. Metaph. 
+        <lb ed="#Bb" n="21"/>Quandoque vero sumitur proprie pro vltio &amp; termino quoid est bonum &amp; optimum rei. secundum quod dicit philosophus. ii. Physi. 
+        <lb ed="#Bb" n="22"/>rinis est non omne vltimum: sed optimum. &amp; vtroque modo finis omnium in deo est. Primo enim modo 
+        <lb ed="#Bb" n="23"/>finis omnium quae sunt et considerantur tam in deo quam in creaturis, esse dei est siue diuina essentia: vt sim 
+        <lb ed="#Bb" n="24"/>pliciter &amp; absolute consideratur: &amp; praecise quia est quasi omnium contentiuum. dicente Diony. v. de di. no, Deus 
+        <lb ed="#Bb" n="25"/>non quodam modo est existens: sed simpliciter &amp; incircunscripte totum in se esse coaccepit &amp; praeaccepit. 
+        <lb ed="#Bb" n="26"/>propter quod est quasi principium a quo omnia quasi ordine quodam rationis educuntur: &amp; in quod vt in  
+        <lb ed="#Bb" n="27"/>finem &amp; terminum reducuntur. Propter quod Dionyus. subdit dicens. Ante alias dei ipsius participationes esse 
+        <lb ed="#Bb" n="28"/>praepositum est. Propter quod prima &amp; dignissima diuinarum rationum in deo dicitur. secundum Dionysium 
+        <lb ed="#Bb" n="29"/>dicentem ibidem. Convenienter cunctis aliis principalius sicut ens deus laudatur ex digniore donorum eius. 
+        <lb ed="#Bb" n="30"/>Vbi sequitur in antiquam translatione. Et maxime participationum prima. Secundo modo est finis omnium quae sunt 
+        <lb ed="#Bb" n="31"/>&amp; considerantur tam in deo quam in creaturis, esse dei siue essentia eius non secundum praecisam rationem esse vel 
+        <lb ed="#Bb" n="32"/>essentiae: sed sub ratione boni quod super rationem absolutam ipsius esse addit rationem respectus ad appetitum 
+        <lb ed="#Bb" n="33"/>Esse enim siue essentia dei secundum hoc est bonum illud quod omnia appetunt, vt eo perficiantur secundum gradum &amp; 
+        <lb ed="#Bb" n="34"/>modum naturae suae. secundum quod dicit Dio. iiii. de di. no. Dia ad seipsum bonitas convertit: &amp;c. vt habetur in  
+        <lb ed="#Bb" n="35"/>uaestione sequenti. Et de fine isto secundo modo hic logmur. hoc enim modo beatitudo habet rationem finis:  
+        <lb ed="#Bb" n="36"/>quia consistit in adeptione iam dicti boni: quod dicit respectum ad appetitum inquantum natum est mouere appe 
+        <lb ed="#Bb" n="37"/>titum ad consecutionem sui: &amp; hoc per actum, proprium suae naturae convenientem. Ob hoc enim quaelibet res est pro 
+        <lb ed="#Bb" n="38"/>pter suam operationem, quod per eam finem suum nata est attingere: vt dicetur in sequentibus. Sed de tali bo 
+        <lb ed="#Bb" n="39"/>no quid sic habet rationem finis, contingit loqui dupliciter. Vno modo vt in se consideratur tanquam attingi- 
+        <lb ed="#Bb" n="40"/>bile &amp; perfectiuum omnium. Alio modo secundum quod natum est attingi a diuersis diuersimode secundum diuer- 
+        <lb ed="#Bb" n="41"/>sitatem graduum &amp; naturae suae. Primo modo est finis per indifferentiam quantum est de ratione sua se habens 
+        <lb ed="#Bb" n="42"/>ad omnia: nec habet rationem beatitudinis aut beatificati nisi omnia nata essent dici beata in ipsum attin- 
+        <lb ed="#Bb" n="43"/>gendo qualicumque modo. Secundo modo diuersimode est finis diuersorum: secundum quod diuersimode ipsum asem 
+        <lb ed="#Bb" n="44"/>lequuntur: &amp; sunt duo modi in genere: quoniam quaedam eorum assequuntur ipsum. actione sua pure naturali: quaedam 
+        <lb ed="#Bb" n="45"/>vero actione intellectuali. Primo modo consequuntur ipsum omnia non intellectualia: &amp; hoc non attingendo  
+        <lb ed="#Bb" n="46"/>imediate essentiam illius boni in se &amp; immediate, sed solum in quadam effigie &amp; similitudine ipsius, quae 
+        <lb ed="#Bb" n="47"/>est proprius finis illarum intra: sed diuersus secundum diuersitatem naturarum: per quem ordinantur vlterius secun 
+        <lb ed="#Bb" n="48"/>dum rationem cuiusdam respectus in essentiam illius boni vltimi. Et illum finem, proprium quoddam entium non acquirit aliqua  
+        <lb ed="#Bb" n="49"/>sua actione, nisi modica &amp; imperfecta: qua &amp; conseruat ipsum: vt infima creatura: sicut terra. Quaedam 
+        <lb ed="#Bb" n="50"/>vero acquirunt ipsum sua operatione perfectiori, &amp; conseruant sibi, vt alia elementa &amp; corpora caelestia, quantum 
+        <lb ed="#Bb" n="51"/>pertinet ad eorum perfectionem corporalem vt corpora sunt. Sed hoc diuersimode. Quaedam enim hoc bonum con 
+        <lb ed="#Bb" n="52"/>sequuntur pluribus motibus siue actionibus: quaedam paucioribus: &amp; quaedam perfectius, quaedam  
+        <lb ed="#Bb" n="53"/>iperfectius, secundum quod debet exponi loquendo de creaturis. &amp; de hoc erit sermo in parte iam inferius. Secundo  
+        <lb ed="#Bb" n="54"/>modo consequuntur illum finem intellectualia actione intellectuali cognitiua &amp; volitiua: &amp; in istis habet primo 
+   <!--85.xml-->
+        <pb ed="#Bb" n="35-v"/>
+        <lb ed="#Bb" n="1"/>rationem beatitudinis &amp; beatificantis: sed diuersimode, secundum quod diuersimode sua operatione intellectuali 
+        <lb ed="#Bb" n="2"/>iliud consequuntur. Quaedam enim consequuntur illud immediate in essentia illius. Quaedam vero 
+        <lb ed="#Bb" n="3"/>non immediate in essentia eius: sed in aliqua effigie &amp; similitudine eius. Isto secundo modo ipsum 
+        <lb ed="#Bb" n="4"/>consequuntur homines pro statu vitae praesentis etiam ex puris naturalibus. Ex qua consecutione philosophi ponebant 
+        <lb ed="#Bb" n="5"/>in homine beatitudinem duplicem secundum duplicem consecutionem illius: Vnam politicam circa actionem boni 
+        <lb ed="#Bb" n="6"/>moralis: Aliam speculatiuam: &amp; illam esse supremam circa speculationem veri secundum scientias speculati- 
+        <lb ed="#Bb" n="7"/>uas. Et in isto modo in superiori effigie &amp; similitudine consequuntur homines illud bonum: sed in infimo gra 
+        <lb ed="#Bb" n="8"/>du beatitudinis. Primo modo consequuntur beatitudinem deus &amp; beati in gloria siue angeli siue ho-  
+        <lb ed="#Bb" n="9"/>mines: quoniam bonum illud quod est ipsa diuina essentia, immediate in essentia eius consequuntur: propter quod 
+        <lb ed="#Bb" n="10"/>in superiori gradu participant beatitudinem, &amp; sunt quasi dii: vt infra dicetur. Vnde nomine dei 
+        <lb ed="#Bb" n="11"/>omnes sic bonos comprehendens philosophus, distinguit beatitudinem horum a beatitudine hominium in statu praesenti sub 
+        <lb ed="#Bb" n="12"/>differentia ad illa quae non sunt nata beatificari, cum dicit. x. Ethico. Diis quidem omnis vita beata:  
+        <lb ed="#Bb" n="13"/>hominibus autem inquantum similitudo quaedam talis operationis existit: aliorum autem nullum felix: quia  
+        <lb ed="#Bb" n="14"/>nequaquam communicant speculationem. De istis autem quae istud bonum immediate consequuntur sua opera 
+        <lb ed="#Bb" n="15"/>tione intellectuali, subdistinguendum: quoniam quoddam eorum consequitur ipsum per essentiam eius &amp; 
+        <lb ed="#Bb" n="16"/>essentialiter: quaedam vero per essentiam eius: sed participatione. Primo modo solus deus trinitas ipsum 
+        <lb ed="#Bb" n="17"/>consequitur: quia consequitur sua operatione suam essentiam &amp; essentialiter: quia in reali identitate &amp; vnio 
+        <lb ed="#Bb" n="18"/>ne naturali. Secundo modo alii beati: quia licet consequuntur immediate ipsam diuinam essentiam sua opera- 
+        <lb ed="#Bb" n="19"/>tione: hoc tamen sit in diuersitate essentiae &amp; vnione per gratiam tantum, ide qua nihil ad praesens: ni- 
+        <lb ed="#Bb" n="20"/>si quatenus pertinet ad illa quae dicenda sunt circa dei beatitudinem in consequendo suam essentiam sub ra 
+        <lb ed="#Bb" n="21"/>tione boni &amp; essentialiter. De cuius consecutione sciendum est, quod deus suam essentiam sub ratione boni du  
+        <lb ed="#Bb" n="22"/>pliciter consequitur. Vno modo naturaliter &amp; absolute: inquantum ipse per essentiam est ipsa bonitas sua. 
+        <lb ed="#Bb" n="23"/>Alio modo per suam operationem intellectualem ex consecutione eius. Primo modo non dicitur beatus: sicut 
+        <lb ed="#Bb" n="24"/>neque aliqua creatura ex eo quod habet per naturam: &amp; inquantum eam sic consequitur, non seshabet ad ipsum deum 
+        <lb ed="#Bb" n="25"/>sicut finis extra in quem tendit sua operatione: sed solum sicut forma naturaliter habita absque omni actio 
+        <lb ed="#Bb" n="26"/>ne &amp; operatione. Et ideo quamuis habet rationem perfectionis formae, non tamen finis: &amp; propterea non est in  
+        <lb ed="#Bb" n="27"/>illa completa ratio perfectionis, qualis est in fine perfectio enim quae est ex fine, maioris perfectionis rationem 
+        <lb ed="#Bb" n="28"/>habet quam illa quae est ex forma: vt iam patebit. Quia autem deus beatus dicitur, hoc contingit ex consecutio 
+        <lb ed="#Bb" n="29"/>ne eius secundo modo: quoniam in illa solummodo consequitur eam secundum rationem finis: quod non potest continge 
+        <lb ed="#Bb" n="30"/>re aliter quam per suam operationem: sicut neque in quacumque re alia. Finis enim non consequitur nisi inquantum est 
+        <lb ed="#Bb" n="31"/>effectus causarum: effectus autem causarum esse non potest nisi ordine quodam sit quasi prius causa causarum 
+        <lb ed="#Bb" n="32"/>neutrum autem fit sine propria rei opeatione intellectuali cognitionis &amp; voluntatis: secundum quod explicabi 
+        <lb ed="#Bb" n="33"/>tur in quaestione sequenti. Vnde quia res secundum quod existit. in sua operatione secunda, est velut in actu 
+        <lb ed="#Bb" n="34"/>respectu eius vt absolute consideratur secundum suam essentiam: quia vt sic, est quasi aliquod in habitu &amp; in potentia: no 
+        <lb ed="#Bb" n="35"/>bilior est autem dispositio rei secundum quod est in actu: quam secundum quod est in potentia aut in hitu: &amp; nobilior est 
+        <lb ed="#Bb" n="36"/>ratio perfectionis qua perficitur secundum quod est in actu: quam qua perficitur secundum quod est in potentia aut in ha 
+        <lb ed="#Bb" n="37"/>bitu: Ideo perfectio quae perficitur sua essentia sub ratione boni consequendo ipsam per suam operationem secun 
+        <lb ed="#Bb" n="38"/>dum quam est vt existens in actu, nobilior est quam illa qua consequitur eam per suam naturam: vt respectu actus 
+        <lb ed="#Bb" n="39"/>est quasi in potentia &amp; in habitu. Et secundum hoc beatitudo dei in hoc consistit, quod finis suus qui est 
+        <lb ed="#Bb" n="40"/>essentia sua, inquantum est vt causa causarum se habens, quasi moueat diuinum intellectum in actum intel 
+        <lb ed="#Bb" n="41"/>ligendi sub ratione veri: &amp; sic ipsum informet vt bonum cognitum: &amp; similiter actum intelligendi eius. In 
+        <lb ed="#Bb" n="42"/>tellectum enim inquantum intellectum, est forma intellectus, &amp; ipse est quodammodo intelligibile etiam in illis 
+        <lb ed="#Bb" n="43"/>quae intelligunt aliuda se. secundum philosophum. iii. de Aia. Bonum autem cognitum in intellectu allicit voluntatem: quae  
+        <lb ed="#Bb" n="44"/>allecta sua actione quasi mouet se in finem, ipsum sibi adipiscendo sub ratione boni &amp; finis vt est cau- 
+        <lb ed="#Bb" n="45"/>sa causarum: &amp; per hoc vi amoris quasi tranfformatur in finem, &amp; summe eidem conformatur: in quo consistit 
+        <lb ed="#Bb" n="46"/>btintudinis complementum: vt patebit in quaestione sequenti. &amp; ideo tanto magis quanto per maiorem identitatem 
+        <lb ed="#Bb" n="47"/>vnitur sibi secundum actum intellectus &amp; voluntatis quam cuicunque alteri. maiorem enim identitatem vnionis sequitur 
+        <lb ed="#Bb" n="48"/>maior cognitio, maior dilectio: &amp; per consequens maior delectatio. iuxta illud quod dicit Auicenna loquens 
+        <lb ed="#Bb" n="49"/>de btintudine dei in ix. Metaph. Cuius perfectio est nobilior &amp; abundantior &amp; sibi vicinior, &amp; cuius actio est 
+        <lb ed="#Bb" n="50"/>perfectior &amp; nobilior &amp; apprehensio in se fortior, illius delectatio quam habet est excellentior &amp; glorio 
+        <lb ed="#Bb" n="51"/>sior sine dubio. Propter quod etiam dicit philosophus in xii. Metaphysi. Voluptas est actio illius quia intelligit 
+        <lb ed="#Bb" n="52"/>per se id quod est nobilius per se quando intelligit se. Desideratum autem est valde nobile &amp; voluptuosum. Ex 
+        <lb ed="#Bb" n="53"/>quo concludit. Est igitur deus in fine nobilitatis. Consistit ergo summe beatitudo dei in persecta confor 
+        <lb ed="#Bb" n="54"/>mitate, &amp; quasi assimilatione per opeationem intellectualem: intellects scilicet &amp; voluntatis ad seipsum: siue ad suum 
+        <lb ed="#Bb" n="55"/>esse: siue essentiam, sub ratione boni &amp; finis omnium vltimi. Nunc autem ita est (secundum quod dicit 
+   <!--86.xml-->
+        <pb ed="#Bb" n="36-r"/>
+        <lb ed="#Bb" n="1"/>Auicen. vi. Metaphysica. cum, res in assimilando alicui rei habet finem suum, &amp; res ipsa finis est, &amp; assimila 
+        <lb ed="#Bb" n="2"/>tio ipsa finis est. hoc est dictu: Res illa per quam &amp; in qua sit assimilatio, finis est, etiam si secundum 
+        <lb ed="#Bb" n="3"/>se consideretur absque hoc quod sit terminus actus per quem perficitur illa assimilatio. Et habet rationem finis diffe 
+        <lb ed="#Bb" n="4"/>rentis ab eo cuius est finis: vel secundum rem respectu creaturarum: vel secundum rationem respectu dei. Et similiter si 
+        <lb ed="#Bb" n="5"/>nis est actio ipsa qua perficitur assimilatio: vt in se comprehendit rem illam vt terminum actionis: &amp; est 
+        <lb ed="#Bb" n="6"/>vtrumque quodammodo vt terminus &amp; finis intra. Primo modo secundum praedicta habet rationem finis vni- 
+        <lb ed="#Bb" n="7"/>uersalis omnium, &amp; non proprie beatificantis: sed solum secundo modo. Et cum in hoc toto, licet sit idem re, in  
+        <lb ed="#Bb" n="8"/>deo sit considerare duo differentia secundum rationem scilicet rationem ipsius actus intellectualis: &amp; rationem ipsius 
+        <lb ed="#Bb" n="9"/>obiecti: super hoc proposita est quaestio praesens: cum vtroque ipsorum simul perficitur ratio beatitudinis: ita quod  
+        <lb ed="#Bb" n="10"/>neutrum possit eam perficere sine altero: in quo ipsorum debet dici consistere dei beatitudo: vt pos- 
+        <lb ed="#Bb" n="11"/>sit dici quod ipsum sit principaliter dei beatitudo. Nec potest dici interimendo quaestionem, quod in neutro 
+        <lb ed="#Bb" n="12"/>possit dici consistere principaliter, simpliciter &amp; absolute: eo quod non secundum rationem eandem consistat 
+        <lb ed="#Bb" n="13"/>in eis: quia in vno eorum consistit secundum rationem actus: in alio vero secundum rationem obiecti, quoniam quandocun 
+        <lb ed="#Bb" n="14"/>quod aliqua se habent in ratione finis respectu alicuius, cum impossibile est duos fines esse aequaliter ali- 
+        <lb ed="#Bb" n="15"/>cuius, siue secundum eandem rationem, siue secundum diuersas, vt patet inducendo in singulis: oportet igi 
+        <lb ed="#Bb" n="16"/>tur quod vnus illorum sit sub altero. In finibus autem sic se habentibus: licet sunt diuersarum rationum, necessa 
+        <lb ed="#Bb" n="17"/>rio vnus est principalior: quia diuersitas eorum in ratione finis cum se habeat per ordinem, non potest esse 
+        <lb ed="#Bb" n="18"/>pure aequoca in ratione finis: sed ad minus oportet quod sit analoga. &amp; inter analogice se habentia in ali- 
+        <lb ed="#Bb" n="19"/>quo vno bene sit comparatio secundum illud. Nunc autem ita se habet in finibus ordinatis: quorum vnus 
+        <lb ed="#Bb" n="20"/>est sub alio: vt semper vltimus sub quo est alius, principalis est respectu illius, &amp; formalis &amp; perfe- 
+        <lb ed="#Bb" n="21"/>ctiuus. Quare cum praedicta duo in proposito sic se habeant adinuicem, quod ipsum obiectum est vlti- 
+        <lb ed="#Bb" n="22"/>mus finis &amp; formalis respectu actus siue operationis: quia non est operatio nisi propter illius con 
+        <lb ed="#Bb" n="23"/>secutionem: &amp; in se habet rationem fiuxus: &amp; non quietis nisi inquantum ipsum attingit: licet non sit 
+        <lb ed="#Bb" n="24"/>factiuum illius: quemadmodum est propter aliud actio quae dicitur factio, secundum philosophum in i. &amp;. x. Ethico. 
+        <lb ed="#Bb" n="25"/>ldcirco dicimus quod principalius beatitudo dei consistat in ipso obiecto, quam in ipsa eius operatione in-  
+        <lb ed="#Bb" n="26"/>tellectuali: &amp; quod ipsa diuina essentia sub ratione boni consecuta a deo per opeationem suam, simpliciter &amp; ab  
+        <lb ed="#Bb" n="27"/>solute debet dici dei beatitudo: &amp; non ipsa operatio nisi quatenus attingitur per ipsam obiectum- 
+        <lb ed="#Bb" n="28"/>&amp; ipsa illo informatur. Aliter enim opeatio nullo modo posset habere rationem perfectionis respectu operantis. 
+        <lb ed="#Bb" n="29"/>Si enim operatio praecise consideretur infra limites suos, operatio habet esse perfecta quia procedit a 
+        <lb ed="#Bb" n="30"/>perfecto: &amp; non econverso. Et ita cum secundum Auiecen. vt videbitur in quaestione sequenti, est quidam finis per  
+        <lb ed="#Bb" n="31"/>essentiam: est &amp; alius finis necessarius: finis per essentiam dicendus est solum obiectum, &amp; non operatio, nisi 
+        <lb ed="#Bb" n="32"/>sicut necessarius ad illum adipiscendum. Et sicut hoc dicimus de beatitudine dei, multo fortius &amp; di 
+        <lb ed="#Bb" n="33"/>cimus de beatitudine omnium beatorum: quorum operatio non est quid increatum, sicut est operatio dei:  
+        <lb ed="#Bb" n="34"/>vt nullo modo posset esse aeque nobile neque secundum rem neque secundum rationem ipsi obiecto quod deus 
+        <lb ed="#Bb" n="35"/>est: sicut in deo aequaliter nobile est re actio &amp; obiectum: licet differant in hoc ratione. Magnum autem  
+        <lb ed="#Bb" n="36"/>est inconveniens dicere quod illud in quo principaliter consistit nostra beatitudo, vt quo sumus beati, sit 
+        <lb ed="#Bb" n="37"/>quid creatum aut creatura. dicente Hugone super. vii. Cae. Hier. Simus in ipso &amp; ipse in nobis: vt non sit aliud  
+        <lb ed="#Bb" n="38"/>extra ipsum in quo beatificemur: sicut aliud non potest esse praeter ipsum a quo creemur. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e504">
+        ⁋ Ad intelli 
+        <lb ed="#Bb" n="39"/>gendum autem quomodo potius esse siue essentia dei sub ratione boni debet dici dei beatitudo &amp; finis 
+        <lb ed="#Bb" n="40"/>omnium, quam alterius rationis in deo etiam sub ratione boni: vt sapientia vel potentia aut huiusmodi: Sciendum quod li 
+        <lb ed="#Bb" n="41"/>cet omnia quae in deo considerantur, habent rationem boni: sicut potentia: &amp; quaecunque alia habent 
+        <lb ed="#Bb" n="42"/>rationem veri &amp; entis: sicut tamen ratio entis siue esse in deo quasi prima est &amp; simplicissima &amp; am- 
+        <lb ed="#Bb" n="43"/>plissima in continentia: super quam primo cadit intellectus noster: sic &amp; ratio veri &amp; boni vt considerantur cir 
+        <lb ed="#Bb" n="44"/>ca esse dei, rationem veri &amp; boni simplicissimi &amp; amplissimi habent. Sicut enim esse continet gene- 
+        <lb ed="#Bb" n="45"/>raliter omnes rationes entis: sic esse, sub ratione veri continet cem rationem veri: &amp; sub ratione bo 
+        <lb ed="#Bb" n="46"/>ni omnem rationem boni. Propter quod vt sic consideratur, propriissime habet rationem finis omnium 
+        <lb ed="#Bb" n="47"/>&amp; voliti simplicissimi vt sicut quemadmodum deus intelligendo suum esse sub ratione veri, intel- 
+        <lb ed="#Bb" n="48"/>ligit in eo omnes alias rationes essendi in ipso: sic volendo suum esse sub ratione boni, vult omnes alias 
+        <lb ed="#Bb" n="49"/>rationes quae sunt in eo sub ratione boni: &amp; sic quicquid est verum in creaturis, reducitur ad vnum verum 
+        <lb ed="#Bb" n="50"/>secundum rem in deo: in quo sunt plures rationes verorum: quia vera sapientia, vera potentia, &amp; hu 
+        <lb ed="#Bb" n="51"/>iusmodi: quae omnes reducuntur ad verum in ratione essendi: &amp; quicquid est boni &amp; omnium ta 
+        <lb ed="#Bb" n="52"/>lium omnes rationes creaturarum inquantum omnia habent rationem boni in creaturis, reducuntur 
+        <lb ed="#Bb" n="53"/>ad vnum bonum reale in deo: in quo sunt plures rationes boni. Bona enim est sapientia, bona est potentia &amp; 
+        <lb ed="#Bb" n="54"/>huiusmodi quae omnes reducuntur ad bonum in ratione essendi: vt sic deus dicatur Alpha &amp; o, principium &amp; finis, ratione eius 
+        <lb ed="#Bb" n="55"/>quod est aliquid secundum rem respectu omnis creaturae, &amp; ratione eius quod est aliquid in ratione essendi 
+   <!--87.xml-->
+        <pb ed="#Bb" n="36-v"/>
+        <lb ed="#Bb" n="1"/>&amp; respectu omnis creaturae, &amp; simul respectu omnium aliarum rationum quae considerantur in deo. Et per hunc mo 
+        <lb ed="#Bb" n="2"/>dum neque diuina essentia, neque esse dei, neque aliquod in deo consideratum sub ratione essentiae aut esse, aut aliquo  
+        <lb ed="#Bb" n="3"/>rum huiusmodi, habet rationem beatitudinis, aut finis beatificantis deum aut creaturam: sed solum esse diuinum, in-  
+        <lb ed="#Bb" n="4"/>quantum habet rationem veri simpliciter, continentis omnem rationem veri: &amp; boni simpliciter, continentis rationem omnis bo 
+        <lb ed="#Bb" n="5"/>ni: non autem proprie loquendo, sapientia diuina etiam sub ratione qua est bona, neque potentia sub 
+        <lb ed="#Bb" n="6"/>ratione qua est bona: quia talis ratio boni non continet omnem rationem boni: quia ratio boni quod est 
+        <lb ed="#Bb" n="7"/>sapientia, inquantum est sapientia non continet quasi sub se (vt ita loquar) bonum quod est esse, inquantum est 
+        <lb ed="#Bb" n="8"/>esse absolute: sed econuerso: quemadmodum ratio sapientiae non continet rationem esse vniuersaliter 
+        <lb ed="#Bb" n="9"/>sed econuerso. Et sic patet quod licet esse dei sit quasi primum &amp; simplicissimum, ad quod reducuntur omnia 
+        <lb ed="#Bb" n="10"/>inquantum sunt simpliciter &amp; absolute: inquantum tamen sunt appetentia, non reducuntur ad ip- 
+        <lb ed="#Bb" n="11"/>sum sub ratione qua est esse, sed sub ratione qua est verum &amp; bonum, &amp; maxime sub ratione qua est 
+        <lb ed="#Bb" n="12"/>bonum: quia in ipsa consistit principaliter ratio beatitudinis: vt in sequenti quaestione videbitur. 
+        <lb ed="#Bb" n="13"/>
+      </p>
+      <p xml:id="vn58an-fe9410-d1e576">
+        ⁋ Ad illud ergo: quod essentia dei non est dei beatitudo: quia tunc esset beatus absque  
+        <lb ed="#Bb" n="14"/>omni actu: patet quid dicendum est secundum iam dicta: quia bene verum est quod diuina essentia non 
+        <lb ed="#Bb" n="15"/>est dicenda finis dei siue sua beatitudo, vt in se &amp; absolute consideratur, secundum quod procedit obiectio: quia  
+        <lb ed="#Bb" n="16"/>sic deus in eo quod esset beatus, esset similis dormienti, &amp; non esset in ratione melioris dispositionis in  
+        <lb ed="#Bb" n="17"/>qua debet esse inquantum beatus est. Illa enim est ei inquantum existit in suo actu intelligendi &amp; vo- 
+        <lb ed="#Bb" n="18"/>lendi: quemadmodum quaelibet res alia in nobiliori dispositione est secundum quod existit in suo actu, quam se 
+        <lb ed="#Bb" n="19"/>cundum quod existit alio modo. Propter quod dicit philosophus in xii. Metaphysicae. quod voluptas est actio illius. &amp; vigilia 
+        <lb ed="#Bb" n="20"/>&amp; sensus &amp; intellectus sunt voluptuosa. Vnde licet diuina essentia non sit eius beatitudo in se con- 
+        <lb ed="#Bb" n="21"/>siderata &amp; absolute: considerata tamen vt est terminus diuinae operationis secundum intellectum &amp; vo 
+        <lb ed="#Bb" n="22"/>luntatem: reuera ipsa est dei beatitudo vt dictum est. Vnde non potest argumentum concludere 
+        <lb ed="#Bb" n="23"/>quod aliqua diuina actio vel operatio sit principaliter secundum rem dei beatitudo: sed quod essentia sua non 
+        <lb ed="#Bb" n="24"/>est eius beatitudo absque omni sua operatione. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e602">
+        ⁋ Per quod patet responsio ad secundum. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e605">
+        ⁋ Ad ter- 
+        <lb ed="#Bb" n="25"/>tium quod philosophus determinat quod sit operatio, &amp;. i. &amp;. x. Ethico. Dicendum quod philosophus quando dicit quod fe- 
+        <lb ed="#Bb" n="26"/>licitas siue beatitudo est operatio: non sumit ibi operationem intellectus aut voluntatis praecise, 
+        <lb ed="#Bb" n="27"/>excludendo obiectum intellectum &amp; volitum: vt secundum praedictam rationem per operationem 
+        <lb ed="#Bb" n="28"/>intelligendi &amp; volendi se habet ad intelligentem &amp; volentem. Aliter enim diceremus quod bonum in-  
+        <lb ed="#Bb" n="29"/>creatum esset extra: essentiam beatitudinis creaturae intellectualis: quod falsum est: quia nihil citra bo- 
+        <lb ed="#Bb" n="30"/>num increatum creaturam intellectualem satiare potest: vt declarari debet loquendo de eius beatitudine 
+        <lb ed="#Bb" n="31"/>Finis enim eius non est nisi apud quem est: quies. Sumit ergo philosophus in dicto suo operationem vt comprehen 
+        <lb ed="#Bb" n="32"/>dit in se obiectum intellectum sub ratione eius quod quasi informat intelligentem, &amp; obiectum volitum sub 
+        <lb ed="#Bb" n="33"/>ratione qua in ipsum transubstantiatur volens secundum praedictum modum. Sic autem de operatione loquendo, ve 
+        <lb ed="#Bb" n="34"/>rum est quod est ipsa beatitudo &amp; nihil aliud: quia comprehendit in se omnem rationem in qua potest consiste- 
+        <lb ed="#Bb" n="35"/>re beatitudo secundum triplicem rationem finis: inquantum verum intellectum vt forma intelligen- 
+        <lb ed="#Bb" n="36"/>tis informat intelligentem: &amp; bonum volitum vt forma volentis transformatiin se volentem: qui  
+        <lb ed="#Bb" n="37"/>habet rationem finis vltimi: qui est finis continens finem inquantum verum simpliciter intellectum &amp; bo 
+        <lb ed="#Bb" n="38"/>num simpliciter volitum habet rationem finis: &amp; simiter continens finem, inquantum actus intelligendi &amp; volendi 
+        <lb ed="#Bb" n="39"/>praecise dicuntur finis siue beatitudo: vt dictum est. Et hoc modo loquens de actione <name ref="#Averroes">Commentator</name> super. ii. Cae. 
+        <lb ed="#Bb" n="40"/>&amp; Mum. dicit quod fines sunt actiones tantum. Et sic restringendo operationem quam philosophus extendit, si proprie 
+        <lb ed="#Bb" n="41"/>velimus loqui de eo quod vere debet dici beatitudo vt finis vltimus quid non est sub fine, non debemus di 
+        <lb ed="#Bb" n="42"/>cere quod operatio sit finis aut beatitudo: immo opeatio est id cuius est finis: licet aliter quam operans est id cu 
+        <lb ed="#Bb" n="43"/>ius est finis. Quia id cuius causa sit aliquid, dupliciter dicitur esse huius, vt cuius &amp; quo, sicut dicitur in primo Physicae. 
+        <lb ed="#Bb" n="44"/>&amp; expressius. ii. de Aia. Vt cuius, quemadmodum anima est finis corporis organici cuius est forma. Vt quo,  
+        <lb ed="#Bb" n="45"/>quemadmodum anima est finis opeationis naturalis per quam producitur in corpore organico. Vbi ponit philosophus dictam 
+        <lb ed="#Bb" n="46"/>propositionem ad infinuandum quod anima aliter est finis corporis organici: aliter opeationis naturae. De quibus 
+        <lb ed="#Bb" n="47"/>immediate prius probauit quod respectu illorum duorum anima est causa finalis siue propter quid: vt ex hoc cla- 
+        <lb ed="#Bb" n="48"/>rum sit quod philosophus intendit ibi distinguere duos modos ex parte eius quod habet causam finalem respectu ipsi 
+        <lb ed="#Bb" n="49"/>us causae finalis vnius &amp; eiusdem: secundum quos vno modo dicitur esse causa finalis vnius, &amp; alio mo 
+        <lb ed="#Bb" n="50"/>do alterius. Non quod intendit distinguere duos modos ex parte ipsius causae finalis respectu vnius &amp; 
+        <lb ed="#Bb" n="51"/>eiusdem: secundum quos vno modo vnum dicitur illorum esse finis, &amp; alio modo aliud: quemad-  
+        <lb ed="#Bb" n="52"/>modum aliqui solent dicitur quod finis dicitur dupliciter: cuius &amp; quo: idest res in qua inuenitur ra 
+        <lb ed="#Bb" n="53"/>tio boni quae est obiectum voluntatis, &amp; vsus siue operatio eius circa ipsum: &amp; quod secundum hoc 
+        <lb ed="#Bb" n="54"/>obiectum volitum est finis vt cuius: ipsa vero operatio intellectus circa ipsum, est finis vt quo. Im 
+        <lb ed="#Bb" n="55"/>mo sic debet dici: quod obiectum volitum est finis volentis &amp; intelligentis: vt cuius est principaliter 
+   <!--88.xml-->
+        <pb ed="#Bb" n="37-r"/>
+        <lb ed="#Bb" n="1"/>finis. Est autem finis operationis volendi &amp; intelligendi, vt quo intelligens &amp; volens acquirit siue adi 
+        <lb ed="#Bb" n="2"/>piscitur sibi finem in obiecto volito &amp; intellecto. Vnde Philosophus. xii. Metaphic. loquens de beatitudine 
+        <lb ed="#Bb" n="3"/>dei, dicit quod fit per acquisitionem intellecti. infinuans per hoc quod in praecisa operatione intellectuali 
+        <lb ed="#Bb" n="4"/>non consistit nisi inquantum per ipsam ipsum intellectum quodammodo acquiritur intelligenti secundum praedeter- 
+        <lb ed="#Bb" n="5"/>minatum modum. vt sic etiam secundum <name ref="#Aristotle">Philosophum</name> praecise sumendo operationem, ponendum est quod prin- 
+        <lb ed="#Bb" n="6"/>cipalius consistat beatitudo in obiecto quam in operatione. Quamquam enim sic consistat in vtroque, vt etiam 
+        <lb ed="#Bb" n="7"/>aliquo modo operatio poteritur dici ipsa beatitudo, &amp; sic ab vtroque eorum denominetur beatus, &amp; vtrum 
+        <lb ed="#Bb" n="8"/>quod eorum sit finis beatificati, licet diuersimode: vt vnum eorum est finis vt quod principaliter intenditur 
+        <lb ed="#Bb" n="9"/>alterum vero vt quo illud obtinetur: licet hoc non pertinet ad intentionem philosophi in dicto suo, ma-  
+        <lb ed="#Bb" n="10"/>xime circa felicitatem hominis, quam non potuit ponere in obiecto cognito &amp; amato, vt iam infra pa 
+        <lb ed="#Bb" n="11"/>tebit: quia tamen quandoque aliquid aliqualiter potest denominari a pluribus, ita quod ab vno principaliter 
+        <lb ed="#Bb" n="12"/>&amp; propter se, ab alio autem secundario, &amp; propter aliud: cum absolute &amp; simpliciter quaeritur quid sit illud a quo  
+        <lb ed="#Bb" n="13"/>denominatur tale, debet reddi in responsione illud a quo principaliter tale denominatur, &amp; melius re- 
+        <lb ed="#Bb" n="14"/>spondetur quam si reddatur alterum. Verbi gratia, Si quis bona facit proximo suo diligenti deum, &amp; 
+        <lb ed="#Bb" n="15"/>ob hoc dicitur bonus, ipse potest denominari bonus, &amp; quia facitur propter proximum, &amp; quia facit propter deum. Quia tamen 
+        <lb ed="#Bb" n="16"/>facit propter deum principaliter &amp; intuitu dei, non autem propter proximum, nisi quia in ipso agnoscit deum 
+        <lb ed="#Bb" n="17"/>cum absolute quaeritur quare ipse est bonus, etsi bene respondetur, quia bona facit propter proximum, melius 
+        <lb ed="#Bb" n="18"/>respondetur, quia bona facit propter deum, quia etsi faceret proximo non propter deum, non vere 
+        <lb ed="#Bb" n="19"/>posset dici bonus. Quare quamuis in proposito aliquis potest denominari beatus, &amp; ab operatione qua  
+        <lb ed="#Bb" n="20"/>tendit in finem, &amp; ab ipso fine quem adipiscitur illa operatione, quia tamen a fine principaliter denomina 
+        <lb ed="#Bb" n="21"/>tur beatus, tanquam ab illo quod principaliter intendit, &amp; ab operatione tanquam ab illo quod intendit pro 
+        <lb ed="#Bb" n="22"/>pter finem, &amp; ita secundario, inquantum scilicet ipso finis adipiscitur (quia si praescribatur finis a substantiam 
+        <lb ed="#Bb" n="23"/>actionis, non propter illam posset dici beatus) cum quaeritur absolute quid sit illud a quo iste dicitur 
+        <lb ed="#Bb" n="24"/>beatus, etsi quoquo modo bene dicitur quod sit operatio eius qua tendit in finem: melius tamen dicitur quod  
+        <lb ed="#Bb" n="25"/>sit ipse finis siue operationis obiectum. Sicut enim in genere causae formalis, res magis habet de- 
+        <lb ed="#Bb" n="26"/>nominari a forma proxima &amp; vltima, quam a prima remota: sic econuerso in genere causae finalis, ma-  
+        <lb ed="#Bb" n="27"/>gis debet denominari a fine vltimo remoto, quam a fine proximo: quia sicut forma proxima est per- 
+        <lb ed="#Bb" n="28"/>fectior in ratione formae quam remota, &amp; est prima in intentione: licet sit vltima in executione: sic finis 
+        <lb ed="#Bb" n="29"/>remotus est perfectior in ratione finis quam propinquus: &amp; prior in intentione, licet vltimus in executione. 
+        <lb ed="#Bb" n="30"/>vt sic denominatione quae est in genere causae finalis, qualis est ista qua dicitur aliquis esse beatus 
+        <lb ed="#Bb" n="31"/>magis debet res denominari a fine qui est extra, quam a fine qui est intra, quamuis finis extra non penitus 
+        <lb ed="#Bb" n="32"/>manet extra, immo per ipsum actum sit intra: secundum quod infra amplius videbitur. Quare cum illud  
+        <lb ed="#Bb" n="33"/>a quo quis dicitur beatus, est sua beatitudo, sicut illud a quo quis dicitur albus, est sua albedo: mul- 
+        <lb ed="#Bb" n="34"/>to melius ergo est dicere quod beatitudo rei sit eius finis vltimus qui est obiectum operationis: quam di-  
+        <lb ed="#Bb" n="35"/>cere quod sit ipsa operatio. Et est temerarium in hoc sequi dictum philosophi, vt iam patebit. Sic ergo operatio si- 
+        <lb ed="#Bb" n="36"/>ue intellectus siue voluntatis, non potest esse vltimus finis eius, secundum quod praecise sumitur: vt ideo  
+        <lb ed="#Bb" n="37"/>nullo modo posset in ipsa principaliter consistere beatitudo, vt aperte iam patebit. Quia enim operat o 
+        <lb ed="#Bb" n="38"/>vt fruitio vel vsus aliquis circa rem potius est finis opeantis, quam res ipsa: vt quod pecunia non est finis prin 
+        <lb ed="#Bb" n="39"/>cipalis alicuius: sed potius habere &amp; possidere eam aut expendere aut erogare: hoc contingit in  
+        <lb ed="#Bb" n="40"/>rebus quae sunt ad finem, nullo autem modo in re illa quae obiectiue est finis, ad quem sunt omnia alia &amp; ipse 
+        <lb ed="#Bb" n="41"/>ad nihil aliud a se. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e774">
+        ⁋ Ad quartum quod operatio est finis cuiuslibet cuius est operatio, quia est pro- 
+        <lb ed="#Bb" n="42"/>pter suam operationem: Dicendum est distinguendo de rebus quarum est finis, quae sunt subiectae fini. 
+        <lb ed="#Bb" n="43"/>Est enim quaedam res quae tantum habet finem intra se, &amp; nullo modo extra: &amp; est res alia quae non  
+        <lb ed="#Bb" n="44"/>tantum finem habet intra sed etiam extra. Quae sic se habent per ordinem, quia res quae habet finem 
+        <lb ed="#Bb" n="45"/>extra se: ipsa &amp; sua actio ordinantur sicut ad finem, ad rem quae non habet finem extra, &amp; ad eius 
+        <lb ed="#Bb" n="46"/>actionem. Res primo modo solus deus est. Res secundo modo est omnis creatura. Vnde si compare 
+        <lb ed="#Bb" n="47"/>mus multas causas finales quae sunt in creaturis, &amp; illam quae est in creatore, adinuicem, duplex est 
+        <lb ed="#Bb" n="48"/>ordo in ipsis, vel scilicet incipiendo ab vna extremitate, scilicet a fine summo: vel ab infimo. Verbi gratia (se 
+        <lb ed="#Bb" n="49"/>cundum quod dicit Comment. in expositione diciae propositionis) si dicamus quod motus caeli est propter 
+        <lb ed="#Bb" n="50"/>actionem rei aeternae diuinae, cum omne ens habeat actionem: &amp; elementorum contrarietas est propterimo- 
+        <lb ed="#Bb" n="51"/>tum caeli: &amp; generatio est propter elemen: orum contrarietatem. Et econverso, si dicamus quare est generatio:  
+        <lb ed="#Bb" n="52"/>propter contrarietatem elementorum: &amp; elementa contraria quare sunt: propter motum caeli: &amp; motus caeli 
+        <lb ed="#Bb" n="53"/>quare est: propter actionem diuinam. &amp; hic quiescit desiderium humanum. Et de vtroque genere rerum 
+        <lb ed="#Bb" n="54"/>verum est, quod omnis rei est aliqua operatio, &amp; quod res est propter suam operationem vt propter finem. 
+        <lb ed="#Bb" n="55"/>Sed distinguendum est. de fine: quia secundum Auiecen. vi. Metapyhic. est finis per essentiam qui est finis per se, &amp; 
+   <!--89.xml-->
+        <pb ed="#Bb" n="37-v"/>
+        <lb ed="#Bb" n="1"/>est finis necessarius ad illum qui est per se, &amp; pertinet ad fines per accidens. Verbi gratia per simile 
+        <lb ed="#Bb" n="2"/>circa causam formalem in serra, vt per ipsam perficiatur incidere, causa per se est quod sit dentata. 
+        <lb ed="#Bb" n="3"/>Causa vero necessaria, est quod sit durities in materia. Finis primo modo non convenit alicui opeationi, vt 
+        <lb ed="#Bb" n="4"/>praecise accipitur non includens in se terminum eius secundum modum praedictum: quia impossibile est 
+        <lb ed="#Bb" n="5"/>simpliciter, vt operatio praecise considerata quaecumque, sit finis alicuius vltimus. Quod patet in actione volun 
+        <lb ed="#Bb" n="6"/>tatis, &amp; intellectus: quae ponitur esse vltimus finis. Primo ex comparatione ad obiectum. Secundo ex com- 
+        <lb ed="#Bb" n="7"/>paratione ad subiectum. In comparatione ad cbiectum, hoc est ad intellectum &amp; volitum, hoc aperte 
+        <lb ed="#Bb" n="8"/>patet, quia actus intelligendi &amp; volendi necessario terminatur primo &amp; principalius sicut in finem 
+        <lb ed="#Bb" n="9"/>ad intellectum &amp; volitum quod est res, quam ad seipsa. Quamuis enim aliquis intelligit se intelligere aut velle 
+        <lb ed="#Bb" n="10"/>siue velit se velle &amp; intelligere, primi tamen intellecti &amp; voliti rationem ad quae terminantur actus in-  
+        <lb ed="#Bb" n="11"/>telligendi &amp; volendi, non potest habere &amp; intelligere &amp; velle, quia nihil potest intelligere quid intelli 
+        <lb ed="#Bb" n="12"/>gat, aut velit, nisi aliquid intelligat &amp; velit quod non sit ipsum intelligere &amp; velle, quemadmodum im 
+        <lb ed="#Bb" n="13"/>possibile est quod primum visibile sit ipsum videre, cum visus videt se videre. Non enim potest aliquis videre se 
+        <lb ed="#Bb" n="14"/>videre nisi videat aliquod primo visibile, vt lucem vel colorem, quod non est ipse actus videndi. ldem pa 
+        <lb ed="#Bb" n="15"/>tet in comparatione ad subiectum: hoc est ad intellectum &amp; voluntatem, siue ad intelligentem &amp; volen- 
+        <lb ed="#Bb" n="16"/>tem, quoniam actus intelligendi &amp; volendi est effectus &amp; causatum ab intelligente &amp; volente, aut quasi effectus 
+        <lb ed="#Bb" n="17"/>&amp; causatum. Nunc autem causatum &amp; factum perfectionem in esse habet a sua causa per se non autem econverso. Pro- 
+        <lb ed="#Bb" n="18"/>pter quod probat Auicen. ix. Meta. quod motus caeli non est finis motoris eius, quia est effectus eius: dicens. 
+        <lb ed="#Bb" n="19"/>lllud quod factum est acquirit suam perfectionem ab eo a quo factum est. Inconveniens est ergo vt econ- 
+        <lb ed="#Bb" n="20"/>uerso perficiat substantiam sui agentis. perfectio enim haec, inferior est perfectione agentis causae. ld autem  
+        <lb ed="#Bb" n="21"/>quod inferius est, non acquirit id quod nobilius est &amp; dignius: sed fortasse id quod est inferius, prae 
+        <lb ed="#Bb" n="22"/>parat nobiliori suum instrumentum &amp; suam naturam quousque ipsum nobilius habeat esse in aliqua rerum. 
+        <lb ed="#Bb" n="23"/>Et per hoc insinuat quod esse finem secundo modo, bene convenit alicui operationi: sed tamen non omni. Ad  
+        <lb ed="#Bb" n="24"/>cuius intellectum oportet distinguere operationem. Est enim quaedam eperatio qua res acquirit suum finem, in  
+        <lb ed="#Bb" n="25"/>qua consistit sua perfectio, sed non conseruatur per eam. Est autem alia operatio qua finis acquiritur &amp; con 
+        <lb ed="#Bb" n="26"/>seruatur. Operat o primo modo motus est qui quiescit paruento ad finem intentum ab agente, &amp; hoc si 
+        <lb ed="#Bb" n="27"/>ue sit finis ad quem peruenit motus per se, &amp; est terminus motus: siue sit finis qui non est per se terminus 
+        <lb ed="#Bb" n="28"/>motus, sed aliquid aliud, sed non peruenitur ad illud nisi per motum. secundum quod exemplum de primo 
+        <lb ed="#Bb" n="29"/>est (vt dicit Auicen. vi. Metapysicae. quod hominem aliquando tedet esse in vno loco, &amp; imaginatur for- 
+        <lb ed="#Bb" n="30"/>mam alterius loci: &amp; quia desiderat esse ibi, mouetur tunc ad illum locum &amp; peruenit motus ad illum 
+        <lb ed="#Bb" n="31"/>Exemplum vero de secundo est, quod homo aliquando imaginatur amicum suum, &amp; desiderat videre illum. Vnde mouetur 
+        <lb ed="#Bb" n="32"/>adlocum: in quo putat se inuenire illum, &amp; motus peruenit ad locum illum, quod non est desideratum: sed  
+        <lb ed="#Bb" n="33"/>aliud, quod est inuentio amici, quod est terminus per accidens respectu motus, &amp; non finis, sed eius qui  
+        <lb ed="#Bb" n="34"/>mouetur. Quia (vt dicit Auicenna) fine existente propter quem res est, &amp; quem intendit res, non destruitur 
+        <lb ed="#Bb" n="35"/>res: sed per eum perficitur res. Motus autem destruitur peruentione eius. Tali quidem operationi quae non pro- 
+        <lb ed="#Bb" n="36"/>prie dicitur operatio: nullo modo convenit quod sit finis rei motae. Solum ergo de operatione secundo modo  
+        <lb ed="#Bb" n="37"/>&amp; de fine secundo modo intelligitur dictum philosophi, quod res est propter suam operationem. &amp; hoc non est pro 
+        <lb ed="#Bb" n="38"/>pter ipsam operationem: sed quia operans suum finem non attingit sine sua operatione, neque ipsum conseruare 
+        <lb ed="#Bb" n="39"/>potest. Propter quod vult Auicen quod finis vltimus intentus a caelo &amp; motore eius, non est motus eius. 
+        <lb ed="#Bb" n="40"/>neque aliquid cuius esse in effectu acquiritur per motum: sed quod bonitas pura &amp; non aliquid extra a moto 
+        <lb ed="#Bb" n="41"/>re intentum sit vltimus eius finis. De quo sciendum, quod dupliciter potest considerari. Vno modo ratione 
+        <lb ed="#Bb" n="42"/>causalitatis suae. Alio modo ratione sui esse, qua est res ens &amp; natura aliqua. Differunt enim hae duae  
+        <lb ed="#Bb" n="43"/>rationes in eodem. Et licet in aliis generibus causae (secundum quod dicit Auicen. vi. Metaphyshica. res ali- 
+        <lb ed="#Bb" n="44"/>quando est causata in sua causalitate, hoc est quod habet a causa priori quod possit esse causa posterioris:  
+        <lb ed="#Bb" n="45"/>aliquando vero est causata in suo esse, hoc est quod habeat ab alio quod existat: In causa tamen finali hoc 
+        <lb ed="#Bb" n="46"/>est generale, quod in ipsa causalitate sua est causa omnium aliarum causarum, scilicet efficientis, mate 
+        <lb ed="#Bb" n="47"/>tialis, &amp; formalis, &amp; ipsa penitus nullam habet causam respectu suae causalitatis. Esse autem causae fina 
+        <lb ed="#Bb" n="48"/>lis duplex est. Vnum in intellectu: aliud in ipsa rei existentia. Primo modo adhuc nulla alia est prior ea 
+        <lb ed="#Bb" n="49"/>sed ipsa est causa causarum. secundum quod dicit Auiecten. vi. Metaph. In anima finis prior est agente: &amp; postea 
+        <lb ed="#Bb" n="50"/>imaginatur apud se actionem &amp; dispositionem recipientis &amp; causalitatem formae. Secundo modo suba 
+        <lb ed="#Bb" n="51"/>distinguit Auicen. in ix. Metaphysicae. quod finis aut ex se habet esse in effectu aut non: sed acquiritur ei 
+        <lb ed="#Bb" n="52"/>per operationem. Secundus modus nullo modo conuenit fini vltimo eadem ratione qua ipsa actio 
+        <lb ed="#Bb" n="53"/>non potest esse finis vltimus, vt ostensum est iam: licet conueniat alicui fini inferiori. secundum quod  
+        <lb ed="#Bb" n="54"/>dicit Auiecten. vi. Metaph. Cum aliquis fabricat sibi domum vt inhabitet eam, ipsa inquisitio inhabitatio 
+        <lb ed="#Bb" n="55"/>nis inducit eum ad fabricandum: &amp; est ei prima causa fabricandi inquantum ipse est fabricator: &amp; 
+   <!--90.xml-->
+        <pb ed="#Bb" n="38-r"/>
+        <lb ed="#Bb" n="1"/>est causatum, inquantum ipse est habitator. Primus autem modus est proprius fini vltimo. Vnde 
+        <lb ed="#Bb" n="2"/>dicit Auicen. vi. Metaphysicae. quod ista causa non est causa inquantum inuenta, sed inquantum est aliquid  
+        <lb ed="#Bb" n="3"/>Vnde secundum modum quo habet esse in intellectu est causa causarum aliarum in earum cau 
+        <lb ed="#Bb" n="4"/>salitate: secundum modum vero quo iam habet esse in effectu, est causatum simpliciter in sua 
+        <lb ed="#Bb" n="5"/>entitate. Si enim non habuerit esse in effectu, sed suum esse fuerit praeter suum esse in effectu: tunc 
+        <lb ed="#Bb" n="6"/>nulla aliarum causarum erit sibi causa, nec etiam agens qui facit ei habere esse. lgitur causa fina 
+        <lb ed="#Bb" n="7"/>lis non est causa causata caeterarum causarum, secundum quod est causa finalis: sed secundum quod iam 
+        <lb ed="#Bb" n="8"/>est aliquid in effectu. Cum enim non habet esse in effectu, non est causata vllo modo. Ex quo con- 
+        <lb ed="#Bb" n="9"/>cludit. Quod igitur per essentiam est causa finalis, est causa caeterarum causarum. Sed ex modo quo  
+        <lb ed="#Bb" n="10"/>eius intentio iam habet esse in effectu, accidit ei vt sit causata, non scilicet in se, sed in eis quorum 
+        <lb ed="#Bb" n="11"/>est finis, quo ad eius adeptionem. Est enim alius modus quo finis sit in eis quae sunt ad finem &amp; 
+        <lb ed="#Bb" n="12"/>subiecta fini, ab eo quo sit in se: sicut alius est modus in causa formali, quo scilicet anima sit in cor 
+        <lb ed="#Bb" n="13"/>pore, &amp; quo sit in se. quamuis isti duo modi sunt vnum subiecto, vt dicit Commen. in expositione pro 
+        <lb ed="#Bb" n="14"/>ositionis quam exponimus. Vnde &amp; in isto casu subdistinguit Auicen. in ix. Metaph. de actione, quod  
+        <lb ed="#Bb" n="15"/>aut est talis quod huiusmodi bonitas possit acquiri per eam, &amp; perueniri ad eam: aut nullo modo: sed  
+        <lb ed="#Bb" n="16"/>sit huiusmodi bonitas omnino remota ab eo cuius est actio. Hoc secundo modo ipsa est finis crea 
+        <lb ed="#Bb" n="17"/>turarum non intellectualium: quae cum mouentur ad illam acquirendam per motum suum: &amp; 
+        <lb ed="#Bb" n="18"/>non possunt ipsam acquirere: vt perueniant ad essentiam eius: necessario mouentur ad acquiren- 
+        <lb ed="#Bb" n="19"/>dum in se aliquid quo aliquo modo habetur in se illa perfectio. Aliterenim cessaret motus eo- 
+        <lb ed="#Bb" n="20"/>rum omnino. Cum igitur (vt dicit) bonitas inquisita per motum sit existens per se, cuius natura 
+        <lb ed="#Bb" n="21"/>est vt non apprehendatur: omnem bonitatem cuius haec est natura, non inquirit quod mouetur 
+        <lb ed="#Bb" n="22"/>nisi assimiletur ei secundum quod possibile est Primo modo est finis intellectualium in statu gloriae:  
+        <lb ed="#Bb" n="23"/>licet diuersimode hoc conuenit per suam actionem deo &amp; angelis atque hominibus, vt iam videbi- 
+        <lb ed="#Bb" n="24"/>tur. &amp; secundum hoc in genere duo sunt modi perfectionis, quibus res perficiuntur bono increa 
+        <lb ed="#Bb" n="25"/>to, quod est finis per essentiam. Quaedam enim perficiuntur ipso per ipsam essentiam boni increati, 
+        <lb ed="#Bb" n="26"/>vt intellectuales naturae deus &amp; angeli &amp; homines in statu gloriae. Quaedam vero in participatio- 
+        <lb ed="#Bb" n="27"/>ne alicuius similitudinis eius, &amp; hoc dupliciter. Vel per operationem naturalem absque intellectu 
+        <lb ed="#Bb" n="28"/>&amp; voluntate illam sibi acquirendo: quod conuenit omnibus non intellectualibus. Vel per opera- 
+        <lb ed="#Bb" n="29"/>tionem rationis acquirendo illam cum intellectu &amp; voluntate, quod conuenit hominibus citra 
+        <lb ed="#Bb" n="30"/>statum gloriae. Sed &amp; differenter sua actione acquiritur dicta perfectio deo, &amp; angelis, &amp; homini- 
+        <lb ed="#Bb" n="31"/>bus in statu gloriae, &amp; etiam hominibus, &amp; aliis creaturis in statu praesentis vitae. Illis enim in glo 
+        <lb ed="#Bb" n="32"/>ria sua perfectio statim acquiritur tota in initio habendi eam, licet hoc non dicatur proprie quo  
+        <lb ed="#Bb" n="33"/>ad deum vt iam patebit. Istis autem quia non poterit acquiri sua perfectio in initio, perficitur in eis per mo 
+        <lb ed="#Bb" n="34"/>tum vt perueniat secundum quod perfectius est esse substantiae eius in suis dispositionibus consimile 
+        <lb ed="#Bb" n="35"/>lli, &amp; deinde maneat, in huiusmodi assimilatione in perseuerantia: &amp; hoc vel in eodem numero 
+        <lb ed="#Bb" n="36"/>secundum quod est ei possibile: vel saltem in eodem secundum speciem. Et sicut conuenit in generabilibus &amp; 
+        <lb ed="#Bb" n="37"/>corruptibilibus istam perfectionem conseruare in specie per successionem indiuiduorum: simili mo 
+        <lb ed="#Bb" n="38"/>do dicit Auicen. de caelo, quod quia perfecta assimilatio sua non potest haberi ab ipso existendo in  
+        <lb ed="#Bb" n="39"/>vnico vbi: ideo habet eam successione perpetua ab vno vbi in aliud, &amp; ita per motum, vt motus 
+        <lb ed="#Bb" n="40"/>non sit ipsa perfectio corporis caelestis nisi quia per ipsum habet perfectam assimilationem ad primum 
+        <lb ed="#Bb" n="41"/>quam possibile est ipsum habere per naturam. Et consimiliter est de actione voluntatis &amp; intellectus 
+        <lb ed="#Bb" n="42"/>in hominibus secundum statum vitae praesentis: quia per ipsam habetur perfecta assimilatio ad  
+        <lb ed="#Bb" n="43"/>quam potest homo attingere in praesenti: quae non est nisi in aliquo gradu assimilationis non at-  
+        <lb ed="#Bb" n="44"/>tingendo diuinitatis essentiam. Et consistit ista perfectio ( iuxta determinata a Philosopho in. i. &amp; 
+        <lb ed="#Bb" n="45"/>x. Ethicorum) in actione hominis secundum virtutem perfectam: a qua propter habitus confirma 
+        <lb ed="#Bb" n="46"/>tionem nullo modo possit deflecti secundum exigentiam suae naturae. Vnde &amp; secundum duplex genus 
+        <lb ed="#Bb" n="47"/>virtutis, scilicet moralis &amp; intellectualis, posuit huiusmodi perfectionem duplicem. Vnam secun- 
+        <lb ed="#Bb" n="48"/>dum felicitatem politicam, Aliam vero secundum felicitatem ciuilem: &amp; hanc perfectam &amp; su- 
+        <lb ed="#Bb" n="49"/>premam, &amp; illam imperfectam. &amp; hoc (secundum Auicen. ix. Metapsicae.) inquantum per cognitio 
+        <lb ed="#Bb" n="50"/>nem intellectualem in ipso quiescit dispositio totius: vt quanto dispositio huiusmodi in eo est 
+        <lb ed="#Bb" n="51"/>perfectior, tanto est beatior. iuxta illud quod dicit: <name ref="#Aristotle">Philosophus</name> in. x. Ethicorum. Inquantum proten- 
+        <lb ed="#Bb" n="52"/>dit speculatio, &amp; felicitas: &amp; in quibus magis existit speculatio: &amp; felices esse. Et hoc maxime quo ad  
+        <lb ed="#Bb" n="53"/>speculationem primi principii sub ratione finis omnium: sed non in nuda eius essentia in vita ista 
+        <lb ed="#Bb" n="54"/>&amp; vt ex scientiis speculatiuis ex puris naturalibus potest cognosci: quia quicquid ex scientiis speculati 
+   <!--91.xml-->
+        <pb ed="#Bb" n="38-v"/>
+        <lb ed="#Bb" n="1"/>uis ex puris naturalibus potest sciri de deo, non cognoscitur ab homine nisi in sensibilibus. Vltra 
+        <lb ed="#Bb" n="2"/>enim non possunt se extendere scientiae speculatiuae principia, quia ab eis sunt accepta sensu &amp; expe- 
+        <lb ed="#Bb" n="3"/>rientia, secundum <name ref="#Aristotle">Philosophum</name> in principio Metaphysicae, &amp; in fine posteriorum. Obiectiue ergo 
+        <lb ed="#Bb" n="4"/>sensibilia non potest excedere naturalis cognitio hominis de deo, quare neque sua beatitudo. Sensi- 
+        <lb ed="#Bb" n="5"/>bilia autem cognita vel amata non possunt plus intellectum &amp; voluntatem in homine perfice- 
+        <lb ed="#Bb" n="6"/>re, quam actus intelligendi &amp; volendi, &amp; maxime quam actus intelligendi, immo minus. Nobilior est enim actus 
+        <lb ed="#Bb" n="7"/>intelligendi ea, &amp; volendi, quam sint ipsa in sua natura: eo quod sunt in nobiliore natura: quemadmodum  
+        <lb ed="#Bb" n="8"/>&amp; ipsa cum per actum intelligendi habent esse in intellectu, nobilius habent ibi esse quam in natura 
+        <lb ed="#Bb" n="9"/>sua. secundum quod dicit <name ref="#Augustine">Augustinus</name> nono de Trinitate dei Capite. iiii. Beatitudo autem semper 
+        <lb ed="#Bb" n="10"/>debet poni in eo quod est nobilius. <name ref="#Aristotle">Philosophus</name> igitur hominis beatitudinem in praesenti in rebus 
+        <lb ed="#Bb" n="11"/>intellectis aut volitis ponere non debuit, sed in actu intelligendi tantum, etiam discernendo ab actu 
+        <lb ed="#Bb" n="12"/>ipsa intellecta vt intellecta sunt, potius quam in actu volendi, quia nobilius est sensibilia intelligere quam  
+        <lb ed="#Bb" n="13"/>velle, vt habitum est supra. Nec etiam in hoc aliter sentiendum est, si speculetur deum modo su- 
+        <lb ed="#Bb" n="14"/>premo quo possit ex puris naturalibus, vt modo generalissimo supra determinato, de quo loqui- 
+        <lb ed="#Bb" n="15"/>tur Augustinus. viii. de trinitate sub ratione veri Capit. secundo, &amp; ca. tertio sub ratione boni. In qua  
+        <lb ed="#Bb" n="16"/>quidem speculatione de re non transitoria contingit nobis transitoria cognitio. vt dicit libro deci 
+        <lb ed="#Bb" n="17"/>motertio Capite. xiiii. In qua etiam <name ref="#Aristotle">Philosophus</name> dicit summe consistere humanam beatitudinem 
+        <lb ed="#Bb" n="18"/>xii. Metaphysicae, sic inquiens. Aestimatur quod intellectum est diuinum magis quam hoc. ldest (secun- 
+        <lb ed="#Bb" n="19"/>dum Comment.) ille intellectus diuinus quia est semper actu, manifestum est ipsum nobiliorem 
+        <lb ed="#Bb" n="20"/>esse intellectu qui est in nobis. &amp; hoc quia intellectus noster est in continuo actu dicto modo in  
+        <lb ed="#Bb" n="21"/>telligendi deum, vt iam dictum est. Vnde subdit. Si deus est semper sicut nos in aliqua hora (&amp; est. 
+        <lb ed="#Bb" n="22"/>vt dicit <name ref="#Averroes">Commentator</name> quando diuidetur a potentia) hoc est mirum: et si magis sic est semper quam nos in vna ho 
+        <lb ed="#Bb" n="23"/>ra. In eo scilicet quod ipse nudam suam essentiam contemplatur: nos autem non nisi in effigie crea- 
+        <lb ed="#Bb" n="24"/>turae. Hoc (inquit) est magis mirum quid sit. Certe verum est: nec potest sciri citra statum gloriae nisi 
+        <lb ed="#Bb" n="25"/>in generali attributo. de quo continuo subdit. Et est vita: quia actio intellectus vita &amp;c. Et sicut po 
+        <lb ed="#Bb" n="26"/>suit hoc <name ref="#Aristotle">Philosophus</name> de homine &amp; bene, sic posuit de corpore caelesti ratione suae animae, ponendo ips 
+        <lb ed="#Bb" n="27"/>sum esse corpus animatum. Sic igitur patet quomodo perfectio secundum finem vltimum con- 
+        <lb ed="#Bb" n="28"/>sistit in operatione siue actione illorum quae non attingunt essentiam primi, nisi in aliqua eius effi- 
+        <lb ed="#Bb" n="29"/>gie, &amp; in homine secundum statum vitae praesentis. Non quia illa sit vltimus finis, sed quia per ipsam ha 
+        <lb ed="#Bb" n="30"/>betur &amp; conseruatur illa assimilatio, quae non ex se, sed ex ordine ad finem extra, quem non attin- 
+        <lb ed="#Bb" n="31"/>git in substantia, dicitur vltimus finis. In deo autem &amp; in beatis contingit illa perfectio per hoc quod nudam 
+        <lb ed="#Bb" n="32"/>diuinam essentiam attingunt sua actione intellectuali &amp; voluntaria: sed deus per essentiam &amp; es- 
+        <lb ed="#Bb" n="33"/>sentialem identitatem intelligentis &amp; intellecti, volentis &amp; voliti: &amp; ideo ipse solus essentialiter &amp; per 
+        <lb ed="#Bb" n="34"/>essentiam suam est beatus: quilibet autem alius beatus per eandem essentiam, sed per eius participa- 
+        <lb ed="#Bb" n="35"/>tionem non per identitatem: &amp; ideo participatiue solum, etsi per essentiam non suam, sed diui- 
+        <lb ed="#Bb" n="36"/>nam. Per dicta plane patet quomodo intelligendum est illud dictum Philosophi. Omne habens actio 
+        <lb ed="#Bb" n="37"/>nem siue operationem est propter illam vt propter finem suum, quoniam non habet hoc intelli- 
+        <lb ed="#Bb" n="38"/>gi de actione qua res non habens perfectionem mouetur ad ipsam acquirendam: si non per eam 
+        <lb ed="#Bb" n="39"/>simul conseruet acquisitam: quemadmodum deambulatio est actio qua sanitas acquiritur: &amp; cessat 
+        <lb ed="#Bb" n="40"/>ipsa acquisita. Talis enim actio deo non conuenit: vt dicit <name ref="#Aristotle">Philosophus</name> alibi in secundo caeli &amp; mun- 
+        <lb ed="#Bb" n="41"/>di: vnde ratio vltima assumpta erat &amp; patet per hoc responsio ad illam. Sed habet intelligi de actio- 
+        <lb ed="#Bb" n="42"/>ne qua acquirit suam perfectionem siue non statim, sed per motum &amp; successionem acquirendo 
+        <lb ed="#Bb" n="43"/>eam prius non habitam, &amp; similiter conseruando: quemadmodum habent eam &amp; acquirunt indiui- 
+        <lb ed="#Bb" n="44"/>dua generabilium &amp; corruptibilium, &amp; similiter conseruant: vel licet non acquirendo prius non ha 
+        <lb ed="#Bb" n="45"/>bitam conseruando tamen eam habitam, quemadmodum habent eam corpora caelestia secum 
+        <lb ed="#Bb" n="46"/>dum Philosophos: siue statim acquirendo eam sua actione per alium: &amp; per actionis eiusdem im- 
+        <lb ed="#Bb" n="47"/>mutabilitatem eam conseruando: quemadmodum habent eam beati deo se non naturaliter sed vo 
+        <lb ed="#Bb" n="48"/>luntarie intellectui eorum praesentando: vel non acquirendo: sed naturaliter eam sua actione ha-  
+        <lb ed="#Bb" n="49"/>bendo &amp; conseruando: quemadmodum habet eam solus deus. Nec est intelligendum quod res est pro 
+        <lb ed="#Bb" n="50"/>pter huiusmodi actionem vt propter suum finem essentialem: sed vt propter finem necessarium 
+        <lb ed="#Bb" n="51"/>ad illum finem alium, vel qui est ipsa diuina essentia immediate, vel qui est aliqua effigies vel si- 
+        <lb ed="#Bb" n="52"/>militudo vel imitatio eius, non attingendo illam essentiam secundum modum supra dictum: vt 
+        <lb ed="#Bb" n="53"/>in sequenti quaestione amplius dicetur. sine quo quidem fine necessario finis ille essentialis vel alius 
+        <lb ed="#Bb" n="54"/>sub eo, esse non habet nec conseruari. Vnde operatio illa est finis sub fine ordinatus ad finem princi- 
+   <!--92.xml-->
+        <pb ed="#Bb" n="39-r"/>
+        <lb ed="#Bb" n="1"/>palem in quo consistit ipsa perfectio esse rei. Sed intelligendum quod aliter actio in deo est ad huiusmodi 
+        <lb ed="#Bb" n="2"/>finem, qui est perfectio sua in esse: aliter vero actio in creaturis. Quia (vt dicit Comment. in exposi 
+        <lb ed="#Bb" n="3"/>tione dictae propositionis) actio entium quae non sunt semper entia (Verbi gratia hominis actio) pri- 
+        <lb ed="#Bb" n="4"/>ma intentione est propter aliud, secunda propter se. In rebus autem diuinis econuerso actio earum 
+        <lb ed="#Bb" n="5"/>est prima intentione propter suum esse, &amp; secunda propter aliud. Et hoc (vt dicit) exponendum &amp; de 
+        <lb ed="#Bb" n="6"/>clarandum est in scientia vniuersal scilicet in Metaphysica: &amp; debet sic exponi, vt puto: quod actio dei essentia 
+        <lb ed="#Bb" n="7"/>lis intelligere &amp; velle est deo prima intentione propter suum esse: quia cum sit primum ens: &amp; ideo 
+        <lb ed="#Bb" n="8"/>in eo quod est res &amp; natura quaedam, non ordinatur ad aliud, neque est propter aliud ad quod ordina 
+        <lb ed="#Bb" n="9"/>tur sicut in terminum &amp; finem: in gradu naturae perfectionem non habet in ordine ad aliud. Et 
+        <lb ed="#Bb" n="10"/>ideo actio sua prima intentione non potest esse nisi propter aeternitatem sui esse. Et quia bonitatis 
+        <lb ed="#Bb" n="11"/>suae est, vt fiuat ab ipso esse aliorum entium sua actione voluntaria &amp; intellectuali: &amp; acquiratur eis 
+        <lb ed="#Bb" n="12"/>perfectio sua, secundum quod possibile est eis: Quod enim habet actionem ex se, in se habet actionem 
+        <lb ed="#Bb" n="13"/>in alio: &amp; non est hoc nisi spirituale &amp; incorporeum vt solus deus: Actio vero non solum genera- 
+        <lb ed="#Bb" n="14"/>lis &amp; corruptibilis: sed etiam cuiuslibet creaturae prima intentione est propter aliud a se, quia su- 
+        <lb ed="#Bb" n="15"/>per ipsam est res &amp; natura alia a se, ad quam ordinatur sicut in terminum vltimum secundum 
+        <lb ed="#Bb" n="16"/>gradum naturae: tale autem necessario est primum in intentione, &amp; omne aliud sub ipso existens se- 
+        <lb ed="#Bb" n="17"/>cundum intentionem, vt velit hoc propter illud: quia cum persectio creaturae non attingentis di- 
+        <lb ed="#Bb" n="18"/>uinam essentiam sit aliqua effigies, &amp; non habet rationem effigiei qua est res absolute, sed sub ra- 
+        <lb ed="#Bb" n="19"/>tione qua est illius effigies, quod habet rationem finis, hoc est ei ex ordinatione ad vlteriorem finem 
+        <lb ed="#Bb" n="20"/>Oportet ergo quod ille primo intendatur, &amp; perfectio rei in suo esse secunda intentione. Et secundum 
+        <lb ed="#Bb" n="21"/>hoc caelum mouetur prima intentione propter suum amatum &amp; desideratum, secunda vero intentio- 
+        <lb ed="#Bb" n="22"/>ne propter esse sui perfectionem, vt assimilationem ad ipsum sibi possibilem per naturam acquirat.  
+        <lb ed="#Bb" n="23"/>&amp; istae sunt duae eius intentiones per se. Tertio autem, sed per accidens, intendit generationem in-  
+        <lb ed="#Bb" n="24"/>feriorum. secundum quod determinat Auicen. in nono Metaphysicae. Similiter etiam est in persectio- 
+        <lb ed="#Bb" n="25"/>ne creaturae intellectualis in gloria, quod habet duplicem intentionem praedictam. Cum enim sua per 
+        <lb ed="#Bb" n="26"/>fectio sit similiter in quadam perfecta assimilatione ad diuini esse perfectionem, in eo videlicet quod  
+        <lb ed="#Bb" n="27"/>essentiam illam attingit per intellectum &amp; voluntatem quadam participatione tantum, &amp; vnione gratiae 
+        <lb ed="#Bb" n="28"/>non naturae: nec habeat ista assimilatio in eo quod est quaedam participatio, rationem perfectionis, nisi 
+        <lb ed="#Bb" n="29"/>quia est effigies quaedam imparticipati quod ei respondet, non secundum aliquam rationem abso 
+        <lb ed="#Bb" n="30"/>luti, quia participatum inquantum participatum ens, respectum quendam ponit ad imparticipa- 
+        <lb ed="#Bb" n="31"/>tum a quo dependet in esse, quod respectu illius necessario habet rationem finis, &amp; non illud quod  
+        <lb ed="#Bb" n="32"/>ordinatur ad hoc: oportet igitur quod talis natura quantumcunque beata prima intentione agit actio 
+        <lb ed="#Bb" n="33"/>nem intelligendi &amp; volendi propter aliud, scilicet propter perfectionem in beatitudine dei, secun- 
+        <lb ed="#Bb" n="34"/>dum actionem illius intelligendi &amp; volendi, &amp; secunda intentione propter perfectionem sibi pro- 
+        <lb ed="#Bb" n="35"/>priam in esse, &amp; in propria beatitudine. Et propter hoc omnis creatura plus appetit persectionem 
+        <lb ed="#Bb" n="36"/>quae est in esse dei, quam quae est in seipsa: &amp; omnis creatura intellectualis plus appetit &amp; diligit appeti 
+        <lb ed="#Bb" n="37"/>tu naturaliter ordinato beatitudinem &amp; bonum dei, quam beatitudinem &amp; bonum proprium. Et est 
+        <lb ed="#Bb" n="38"/>beatitudo dei qua sibiipsi perfecte conformatur per actum intelligendi, &amp; in seipsum quodam-  
+        <lb ed="#Bb" n="39"/>modo perfecte transformatur per actum volendi (vt magis videbitur in quaestione sequenti) finis 
+        <lb ed="#Bb" n="40"/>vltimus omnis alterius perfectionis quae est in creaturis, &amp; complementum omnis actionis &amp; 
+        <lb ed="#Bb" n="41"/>operationis, propter quam est omnis actio &amp; operatio, siue in deo, siue in creaturis: vt finis iste, 
+        <lb ed="#Bb" n="42"/>qui est diuina perfectio, qua deus ipse est deus sua totalitate &amp; per esse suum in intellectu, sit cau 
+        <lb ed="#Bb" n="43"/>ia omnium causarum: &amp; in alio genere causae, &amp; in eodem tam in deo quam in creaturis sit etiam quo-  
+        <lb ed="#Bb" n="44"/>dammodo causa suiipsius: vt ipsa sit causatum quodammodo suiipsius, &amp; aliarum causarum: 
+        <lb ed="#Bb" n="45"/>non quo ad esse suum in intellectu: quo ad illud enim sicut quo ad rationem suae causalitatis, sem 
+        <lb ed="#Bb" n="46"/>per est prior, &amp; causa causarum: nec quo ad esse suum in natura &amp; essentia, siue existentia sua:  
+        <lb ed="#Bb" n="47"/>hoc enim habet ex se, inquantum est ipsa diuina essentia: quae nisi sic haberet esse in effectu ex se &amp; 
+        <lb ed="#Bb" n="48"/>primo, nec posset in se habere rationem causalitatis primae: sed si haberet oporteret illam habere ab  
+        <lb ed="#Bb" n="49"/>aliquo alio, a quo haberet esse in effectu: secundum quod haec omnia patent ex iam expositis: Sed est 
+        <lb ed="#Bb" n="50"/>solum quasi causatum sui, &amp; aliorum quo ad esse suum in eis quae sunt subiecta ei &amp; perfecta ab  
+        <lb ed="#Bb" n="51"/>pso sicut a fine, secundum modum praedictum, vt idipsum quod est finis per esse suum quod habet in  
+        <lb ed="#Bb" n="52"/>se &amp; ex se, licet per multa media vel secundum rem vel tantum secundum rationem differentia, est cau 
+        <lb ed="#Bb" n="53"/>sa siue principium esse sui in eo cuius est finis &amp; perfectio. &amp; sic secundum aliud &amp; aliud esse secundum 
+   <!--93.xml-->
+        <pb ed="#Bb" n="39-v"/>
+        <lb ed="#Bb" n="1"/>rationem est causa &amp; causatum suipsius. Vnde &amp; quia causatum semper habet reduci ad cau- 
+        <lb ed="#Bb" n="2"/>sam finis huiusmodi secundum esse quod habet in sibi subiectis, habet reduci ad seipsum, secundum  
+        <lb ed="#Bb" n="3"/>esse quod habet in se. Vt secundum hoc ad principalem quaestionem: dicendum sit quod simpliciter &amp; absolute britudo  
+        <lb ed="#Bb" n="4"/>dei, non tantum dei, sed &amp; omnium beatorum, sit ipsa diuina essentia sub ratione boni simpliciter: se- 
+        <lb ed="#Bb" n="5"/>cundum quod est aliquid secundum se, &amp; ex se existens in effectu, habens ex se rationem causalitatis 
+        <lb ed="#Bb" n="6"/>suae, finalis scilicet, quae est prima, &amp; suprema omnium &amp; nobilissima: ita quod si deus habet se in ra- 
+        <lb ed="#Bb" n="7"/>tione triplicis causae, finalis, efficientis, &amp; formalis, ratio causae finalis in eo nobilissima est. Propter 
+        <lb ed="#Bb" n="8"/>quod dicit Auic. septimo Metap. Si de vnaquaque causarum esset scientia per se, nobilior inter eas 
+        <lb ed="#Bb" n="9"/>esset scientia de finali, &amp; ipsa esset sapientia. &amp; haec etiam nobilior est reliquis partibus huius scientiae. 
+        <lb ed="#Bb" n="10"/>Et postquam diuina essentia secundum se, sub ratione qua est bonum simpliciter, absolute &amp; simpliciter sit 
+        <lb ed="#Bb" n="11"/>ipsa beatitudo omnium beatorum, beatitudo dei habet esse modo supremo per hoc quod habet esse in eo mo- 
+        <lb ed="#Bb" n="12"/>do supremo vt perfectio eius. Vnde etiam dicit <name ref="#Aristotle">Philosophus</name> in secundo caeli &amp; mundi: quod bonum 
+        <lb ed="#Bb" n="13"/>completum est vnum. &amp; vt dicit ibi Comment. omnia alia entia non intendunt nisi vt assimi- 
+        <lb ed="#Bb" n="14"/>lentur perfecte nobili, quod est deus, secundum quod in natura eorum est acquirere de assimilatio-  
+        <lb ed="#Bb" n="15"/>ne. Vnde &amp; sub perfectione eius est perfectio intellectualium creaturarum in gloria, &amp; sub illa 
+        <lb ed="#Bb" n="16"/>etiam daemonum in effigie &amp; similitudine quadam secundum scientias speculatiuas rerum creata 
+        <lb ed="#Bb" n="17"/>rum, &amp; ipsius dei, quantum in creaturis intellectu potentia naturali possit cognosci, &amp; sub illa corporum 
+        <lb ed="#Bb" n="18"/>caelestium ratione qua animata sunt, secundum opinionem Philosophorum, &amp; sub illa hominum 
+        <lb ed="#Bb" n="19"/>secundum statum naturae in praesenti vita, &amp; sub illa corporum caelestium ratione qua corpora sunt 
+        <lb ed="#Bb" n="20"/>&amp; sub illa sensibilium, &amp; sub illa vegetabilium, &amp; sub illa mixtorum inanimatorum, &amp; sub illa ele- 
+        <lb ed="#Bb" n="21"/>mentorum, &amp; sub illa primae materiae: secundum quod de omnibus istis perfectionibus debet haberi 
+        <lb ed="#Bb" n="22"/>disputatio specialis in propriis locis. Et posuerunt Stoici in gradu quolibet perfectionis in singu- 
+        <lb ed="#Bb" n="23"/>lis praedictis rationem beatitudinis. secundum quod dicit Comment. versus finem. x. Ethicorum. Se- 
+        <lb ed="#Bb" n="24"/>cundum Stoicos secundum naturam viuere beate viuere est, vt sit felicitas extremum naturalis 
+        <lb ed="#Bb" n="25"/>appetitus, qua sortita natura finem habet, &amp; nihil amplius desiderat praeter retinere bonum ipsi 
+        <lb ed="#Bb" n="26"/>&amp; non perdere. Hoc autem existit &amp; irrationalibus: participant ergo &amp; irrationalia felicitatem, &amp; 
+        <lb ed="#Bb" n="27"/>eadem ratione omnia alia sub ipsis, vt patet ex dictis. Sed <name ref="#Aristotle">Philosophus</name> perfectionem dictam in  
+        <lb ed="#Bb" n="28"/>non intellectualibus, beatitudinem esse negat dicens. Diis omnibus vita bona, hominibus autem inquan- 
+        <lb ed="#Bb" n="29"/>tum similitudo quaedam talis operationis existit: aliorum autem animalium nullum felix: quia nequa  
+        <lb ed="#Bb" n="30"/>quam communicat speculationem. Sed disputatio super hoc est de nomine tantum. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e1394">
+        ⁋ Ad primum in con- 
+        <lb ed="#Bb" n="31"/>trarium: quod procedit ab alio, ab eo perfectiornem recipit, &amp; non est sua perfectio: Dicendum est se- 
+        <lb ed="#Bb" n="32"/>cundum praedicta, quod non est perfectio eius vt finis per essentiam, sed vt finis necessarius. Non enim in  
+        <lb ed="#Bb" n="33"/>alicuius desiderio, siue fuerit creatum, siue increatum, principaliter intenditur eius actio, neque aliquid  
+        <lb ed="#Bb" n="34"/>acquisitum per actionem seu operationem, quid scilicet simpliciter per ipsam habet esse in effectu aut 
+        <lb ed="#Bb" n="35"/>in ipso operante, sed ipsum bonum simpliciter, quod est ratio omnis boni, cuiusmodi est ipsa diuina essen- 
+        <lb ed="#Bb" n="36"/>tia sub ratione boni simpliciter, &amp; vniuersalis boni considerata, quemadmodum posuit &amp; optime Pla- 
+        <lb ed="#Bb" n="37"/>to: quod vt est boni huius vel illius, vt ipsius dei vel creaturae, ordinatur ad seipsum vt est secundum  
+        <lb ed="#Bb" n="38"/>se bonum, sicut dictum est. Quia enim est bonum huius vel illius, hoc consistit in quadam conformitate 
+        <lb ed="#Bb" n="39"/>&amp; assimilatione secundum actum vel operationem ad illud secundum se consideratum quod principali 
+        <lb ed="#Bb" n="40"/>ter intenditur. Et propter illud intentio cuiusque inquantum illud est suum bonum, est assimilari illi vt ipsum  
+        <lb ed="#Bb" n="41"/>sit in illo &amp; ille in ipso, secundum quod possibile est, &amp; perfectius esse habet vel per essentiam &amp; essentia 
+        <lb ed="#Bb" n="42"/>liter, vel per essentiam &amp; participatiue, vel per similitudinem &amp; participatiue tantum, vt patet ex praedictis. 
+        <lb ed="#Bb" n="43"/>Et quia ista assimilatio non sit nisi per rei actionem: tertio in intentione cadit actio vt necessario ad illam 
+        <lb ed="#Bb" n="44"/>tanquam motus quidam atque transitus &amp; seruitium siue instrumentum in illud quod principaliter intenditur. 
+        <lb ed="#Bb" n="45"/>Ad quod cum peruenitur per intellectualem operationem &amp; voluntariam, tunc intellectualis natura omnino oc- 
+        <lb ed="#Bb" n="46"/>cupatur circa hoc &amp; sistit per intentionem. Sed tamen ex illo prius secundum ordinem quendam proue- 
+        <lb ed="#Bb" n="47"/>nit hoc quod inferius est in ordine rationis, tanquam necessarium ad perueniendum in illud. &amp; hoc est assi- 
+        <lb ed="#Bb" n="48"/>milare illi secundum possibilitatem. vt dicit Auicen. ix. Metaph. Illud autem necessarium etsi pro 
+        <lb ed="#Bb" n="49"/>cedat ab eo cuius est, siue sit operatio, siue assimilatio, &amp; ex hoc non potest habere rationem perfe 
+        <lb ed="#Bb" n="50"/>ctionis, vt procedit obiectio: inquantum tamen assimilatio respicit id cui assimilat, &amp; est quasi ipsum in  
+        <lb ed="#Bb" n="51"/>illo cui assimilat: bene potest assimilatio ipsa, &amp; similiter actio per quam habetur, habere rationem 
+        <lb ed="#Bb" n="52"/>perfectionis eius a quo quodammodo procedunt, etiam etsi illa assimilatio omnino accidentalis sit 
+        <lb ed="#Bb" n="53"/>quemadmodum in illis quae diuinam essentiam immediate non attingunt, ex hoc habet ratio- 
+        <lb ed="#Bb" n="54"/>nem magis nobilis quam sit ipsa substantia cuius est vt possit dici eius perfectio. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e1449">
+        ⁋ Ad secundum quod  
+   <!--94.xml-->
+        <pb ed="#Bb" n="40-r"/>
+        <lb ed="#Bb" n="1"/>ola diuina essentia fruendum est, &amp; tale est ipsa beatitudo: Dicendum quod verum est tanquam id quod pri 
+        <lb ed="#Bb" n="2"/>mo intenditur, &amp; in quo vltimo sistit propter se tanquam in fine vniuersali omnium. Sub isto tamen or- 
+        <lb ed="#Bb" n="3"/>dine beatitudo rei vt est huius vel illius, consistit in modo habendi illam per quandam conformi 
+        <lb ed="#Bb" n="4"/>tatem &amp; assimilationem in modo habendi illam in se diuersimode in deo &amp; in singulis speciebus 
+        <lb ed="#Bb" n="5"/>creaturarum, &amp; etiam in actionibus suis quibus acquirunt vel habent huiusmodi assimilationem, vt dictum 
+        <lb ed="#Bb" n="6"/>est: &amp; iam amplius dicetur. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e1469">
+        ⁋ Ad illud quod finis praecedit omnem operationem, &amp; ita id quod est ipsa 
+        <lb ed="#Bb" n="7"/>beatitudo: Dicendum quod verum est maxime de vltimo fine per essentiam, qui non tam praecedit ordine 
+        <lb ed="#Bb" n="8"/>quodam secundum suum esse in effectu, quam &amp; in intellectu omnia alia quibus deuenitur ad ipsum quod est 
+        <lb ed="#Bb" n="9"/>vnicum desideratum, &amp; omnia alia sunt quasi fluxus ad ipsum, vt dicit Auie. Nihilominus tamen 
+        <lb ed="#Bb" n="10"/>alia sub illo fine simul bene possunt habere rationem finis. vt patet secundum determinata. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e1480">
+        ⁋ Ad illud, quo 
+        <lb ed="#Bb" n="11"/>non est actio nisi propter aliud intenta. &amp;c. Dicendum quod verum est de omni genere actionis secundum praedetermi 
+        <lb ed="#Bb" n="12"/>nata, &amp; ideo nullo modo habet rationem vltimi, nec rationem perfectam beatitudinis. Potest tamen ha-  
+        <lb ed="#Bb" n="13"/>bere rationem finis sub fine, &amp; sic beatitudinis. vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e1489">
+        ⁋ Ad aliud quod res integra bonitate 
+        <lb ed="#Bb" n="14"/>vt deus non indiget operatione qua sit bona: Dicendum quod duplex est operatio, secundum praedicta, quae- 
+        <lb ed="#Bb" n="15"/>dam qua beatitudo habita conseruatur. talis operatio deo convenit, &amp; in tali consistit sua beatitu- 
+        <lb ed="#Bb" n="16"/>do, vt patet ex praedetermiatis. Alia vero est opeatio qua beatitudo acquiritur siue conseruetur cum 
+        <lb ed="#Bb" n="17"/>hoc siue non, &amp; siue aliquaudo prius fuerit non habita siue non . Sine tali operatione deus habet 
+        <lb ed="#Bb" n="18"/>suum bonum &amp; suam beatitudinem, quia eam habet naturaliter per realem identitatem qua ipse est sua 
+        <lb ed="#Bb" n="19"/>beatitudo, licet sub ratione beatitudinis siue beatificantis &amp; beatificati non habet eam, nisi per suam 
+        <lb ed="#Bb" n="20"/>operationem qua sibiipsi vnitur vt differens a seipso secundum rationem beatificantis &amp; beatificati. Vnde 
+        <lb ed="#Bb" n="21"/>quod diximus supra secundum philosophum, quod deus sua intellectuali operatione acquirat suam beatitudinem: ipse ibi large 
+        <lb ed="#Bb" n="22"/>loquitur de acquisitione, accipiendo acquisitionem pro actionis necessitate sine qua deus suam beatitudinem 
+        <lb ed="#Bb" n="23"/>habere non potest sub ratione beatificantis, vt dictum est. Quaedam autem alia habent eam per suam operatio 
+        <lb ed="#Bb" n="24"/>nem qua sibi eam acquirunt meritorie cum gratia, vel perfecte attingendo diuinam essentiam, vt beati 
+        <lb ed="#Bb" n="25"/>in gloria, vel imperfecte attingendo solam eius similitudinem, vt homines in praesenti vita per gra- 
+        <lb ed="#Bb" n="26"/>tiam fidei, vel ex puris naturalibus secundum philosophos. &amp; hoc non attingendo diuinam essentiam 
+        <lb ed="#Bb" n="27"/>nisi in aliqua eius similitudine. Et hoc bene exprimit philosophus litera sua qua dicit. Nobile per- 
+        <lb ed="#Bb" n="28"/>fecte completum est illud quod est nobile sine actione, &amp; sine operatione qua acquirit nobilitatem: 
+        <lb ed="#Bb" n="29"/>&amp; illud quod est propinquum nobili, est illud quod acquirit ipsum vna actione parua. Vbi dicit Commen. 
+        <lb ed="#Bb" n="30"/>lllud quod acquirit nobilitatem perfectam sine actione, est illud cuius actio est sua substantia, scilicet 
+        <lb ed="#Bb" n="31"/>intellectus abstractus, &amp; omnia alia quae dicuntur esse huiusmodi non dicuntur nisi per similitudi-  
+        <lb ed="#Bb" n="32"/>nem. Aduerte quod dicit acquirit sine actione, loquendo de acquisitione coniter dicta quae non est sine actio- 
+        <lb ed="#Bb" n="33"/>ne qua habetur, &amp; de actione qua proprie acquiritur. Vnde &amp; secundum diuersos modos habendi huiusmodi 
+        <lb ed="#Bb" n="34"/>bonum secundum possibilitatem suae naturae, distinguit quatuor ordines rerum, quorum quilibet ha-  
+        <lb ed="#Bb" n="35"/>bet latitudinem praeter vltimum: quorum primus (vt dicit) est ordo entium, quae comprehendunt nobi 
+        <lb ed="#Bb" n="36"/>litatem perfectam absque operatione, &amp; diuersificantur secundum magis &amp; minus. Haec autem sunt 
+        <lb ed="#Bb" n="37"/>entia abstracta, vt sunt intelligentiae: quae secundum Philosophum, dii sunt, omnes habentes vnum primum 
+        <lb ed="#Bb" n="38"/>&amp; supremum in isto ordine: quem ponit esse perfectissimum: &amp; omnes ponit esse beatos per essen 
+        <lb ed="#Bb" n="39"/>tiam &amp; essentialiter, &amp; nullo modo participatiue neque per acquisitionem, sed tamen per eorum, propriam 
+        <lb ed="#Bb" n="40"/>intellectualem opeationem, secundum quod dicit in x. Ethicorum. Perfecta felicitas quoniam speculatiua quae  
+        <lb ed="#Bb" n="41"/>dam est operatio, &amp; hinc vtique apparebit. Deos enim magis suspicati sumus beatos &amp; felices esse 
+        <lb ed="#Bb" n="42"/>&amp;c. Secundus ordo est eorum quae appropinquant perfectae nobilitati per operationem. &amp; hoc duo-  
+        <lb ed="#Bb" n="43"/>bus modis. Aut per modicam operationem, &amp; hoc non inuenitur nisi in corporibus caelestibus, &amp; 
+        <lb ed="#Bb" n="44"/>non est nisi primus orbis qui mouetur motu diurno. Quia enim est nobilius eorum quae sunt 
+        <lb ed="#Bb" n="45"/>illius generis: necesse est vt acquirat nobilitatem quae est in illo genere vnica actione: secundum quod il 
+        <lb ed="#Bb" n="46"/>lud quod est paucarum actionum est melius quam illud quod plurium. Aut per multam operationem, &amp; 
+        <lb ed="#Bb" n="47"/>inuenitur in corporibus caelestibus aliis, &amp; in nouissimo eorum quae sunt hic, scilicet in homine.  
+        <lb ed="#Bb" n="48"/>Tertius est ordo eorum quae non possunt apprehendere nobilitatem propinquam nobilitati per 
+        <lb ed="#Bb" n="49"/>fectae neque multa operatione neque modica, sed tamen comprehendunt nobilitatem minorem pro- 
+        <lb ed="#Bb" n="50"/>pinquam perfectae nobilitati: &amp; sunt alia a corporibus caelestibus &amp; hominibus praeter terram. 
+        <lb ed="#Bb" n="51"/>Quartus ordo est terra: quae non potest comprehendere nobilitatem per operationem, sed fere per 
+        <lb ed="#Bb" n="52"/>quietem tantum. 
+      </p>
+      <p xml:id="vn58an-fe9410-d1e1576">
+        ⁋ Ad duo vltima argumenta quod operatio non est vltimus finis, ergo nec beatitudo: Di- 
+        <lb ed="#Bb" n="53"/>cendum quod verum est perfectam rationem beatitudinis habendo. Aliquam tamen rationem eius ha 
+        <lb ed="#Bb" n="54"/>bet etiam cum praecise accipitur, vt patet ex iam praedeterminatis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

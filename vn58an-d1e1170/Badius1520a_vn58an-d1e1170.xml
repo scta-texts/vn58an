@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="94-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1170"> <!-- alias="vn58an-a13q6" -->
+      <head xml:id="vn58an-d1e1170-Hd1e104">Quaestio 6</head>
+      <head xml:id="vn58an-d1e1170-Hd1e107" type="question-title">Utrum eam addiscens acquirat aliquam notitiam 
+   eius super notitiam fidei</head>
+      <p xml:id="vn58an-d1e1170-d1e110">
+        <lb ed="#Ba" n="25"/>CIrca sextum arguitur, quod addiscens hanc scientiam non acquirit aliam notitiam 
+        <lb ed="#Ba" n="26"/>eius super notitiam fidei. Primo sic. ii. Corith. v. dicit Apostolus. Quandiu sumus in 
+        <lb ed="#Ba" n="27"/>hoc corpore peregrinamur a domino. per fidem enim ambulamus non per speciem. Glos. 
+        <lb ed="#Ba" n="28"/>Modo per fidem tantum illuminamur, non ergo aliquo habitu superiori. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e121">
+        ⁋ Secundo  
+        <lb ed="#Ba" n="29"/>sic. cognitio quae est per speculum &amp; in aenigmate non excedit habitum fidei: quia 
+        <lb ed="#Ba" n="30"/>speculum &amp; aenigma sunt de essentia fidei. omnis nostra cognitio in praesenti est 
+        <lb ed="#Ba" n="31"/>huiusmodi. i. Corinth. xiii. Videmus nunc per speculum in aenigmate. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e131">
+        ⁋ Tertio sic. omnis 
+        <lb ed="#Ba" n="32"/>cognitio quae est nunc ex parte: destruetur. omnis nostra cognitio quae nunc est, ex parte est, vt patet ibidem. Ex 
+        <lb ed="#Ba" n="33"/>parte cognoscimus: &amp; ex parte prophetamus: cum autem venerit quod perfectum est: euacuabitur quod ex 
+        <lb ed="#Ba" n="34"/>parte est. ergo omnis nostra cognitio quae nunc est destruetur. sed non destruetur adueniente quod per 
+        <lb ed="#Ba" n="35"/>fectum est aliqua cognitio in nobis nisi fidei: &amp; hoc ratione imperfectionis suae &amp; aenigmatis quod ha 
+        <lb ed="#Ba" n="36"/>bet, quia si aliqua alia esset in nobis: magis perficeretur. sicut perficietur charitas. ergo nunc non est nobis alia 
+        <lb ed="#Ba" n="37"/>cognitio quam fidei. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e147">
+        ⁋ In oppositum est, quoniam si discendo hanc scientiam nullam notitiam super 
+        <lb ed="#Ba" n="38"/>notitiam fidei acquireremus: frustra ergo esset studere in hac scientia ad inuestigandum ea quae sunt 
+        <lb ed="#Ba" n="39"/>credita: consequens est falsum. vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e154">
+        <lb ed="#Ba" n="40"/>⁋ Dicendum ad hoc, quod sicut in disciplinis circa idem triplex est modus cognoscen 
+        <lb ed="#Ba" n="41"/>di discipulo possibilis. vnus ex solo auditu: quo credit dictis magistri &amp; eius auctoritati: puta quia lu 
+        <lb ed="#Ba" n="42"/>na eclipsatur: si hoc dicat ei magister eius. Alius ex aspectu corporali: quo cernit oculis quia lu- 
+        <lb ed="#Ba" n="43"/>na eclipsatur: sed propter quid ignorat. Tertius ex ratione sola: qua certis temporibus &amp; certis si- 
+        <lb ed="#Ba" n="44"/>tibus ex motibus solis &amp; lunae circa terram: nouerit lunam necessario eclipsari: licet non videat quia 
+        <lb ed="#Ba" n="45"/>nunc eclipsatur: neque aliquis hoc ei dicat. Consimiliter in notitia eorum quae sunt fidei in hac scientia 
+        <lb ed="#Ba" n="46"/>triplex est modus cognoscendi. vnus qui est solius fidei, quasi ex auditu assentiendo diuinae auctoritati. 
+        <lb ed="#Ba" n="47"/>quia in scriptura sua illa asserit. Roma. x. Eides ex auditu. Alius est ex rei creditae apparentia: quo  
+        <lb ed="#Ba" n="48"/>modo cognoscunt eam sancti in patria. Tertius modus est medius quo cognoscuntur credita: non solum 
+        <lb ed="#Ba" n="49"/>auditu: nec apparentia rei quasi visu: sed ex rationis euidentia: qua intellectui conspicuum est naturam 
+        <lb ed="#Ba" n="50"/>rei sic se habere sicut fides tenet. Quemadmodum enim cognoscendo naturam solis &amp; lunae: &amp; discur 
+        <lb ed="#Ba" n="51"/>sus eorundem circa terram: per intellectus inuestigationem adiutorio luminis naturalis cum ge- 
+        <lb ed="#Ba" n="52"/>nerali illustratione diuina potest homini notum fieri quomodo contingit lunam eclipsari: sic co- 
+        <lb ed="#Ba" n="53"/>gnoscendo naturas terminorum credibilium, vt patris, &amp; filii, &amp; spiritus sancti in diuinis, per intel- 
+        <lb ed="#Ba" n="54"/>lectus inuestigationem adiutorio luminis supernaturalis &amp; diuinae illustrationis specialis potest ei 
+   <!--203.xml-->
+        <pb ed="#Ba" n="94-v"/>
+        <lb ed="#Ba" n="1"/>notum fieri quia spiritus sanctus procedit a patre &amp; filio: &amp; non a patre solo: &amp; sic de caeteris quae sunt 
+        <lb ed="#Ba" n="2"/>huius scientiae propria, &amp; ad fidem pertinentia. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e198">
+        ⁋ Ad cuius ampliorem cognitionem notandum, quod  
+        <lb ed="#Ba" n="3"/>actus intelligendi importat quandam interiorem notitiam. dicitur enim intelligere quasi intus le- 
+        <lb ed="#Ba" n="4"/>gere, quod euidenter patet in notitia quam habet intellectus ex eis quae percipit sensu. Cum enim vt dicit Phi 
+        <lb ed="#Ba" n="5"/>losophus, sensus est susceptiuus specierum sensibilium solum: intellectus a sensu recipit solas species intel 
+        <lb ed="#Ba" n="6"/>ligibiles sensibilium. Ipse tamen intellectus sub speciebus sensibilium inuestigando quasi subtus fodien-  
+        <lb ed="#Ba" n="7"/>do, penetrat ad cognoscendum ea quae latent intelligibilia sub speciebus sensibilium: quorum multa 
+        <lb ed="#Ba" n="8"/>sunt genera. Nam sub speciebus intelligibilibus sensibilium latent quiditates substantiarum accidem 
+        <lb ed="#Ba" n="9"/>tibus subiectarum: &amp; sub verbis latent significata verborum: &amp; sub effectibus latent causae. Oim talium 
+        <lb ed="#Ba" n="10"/>notitiam intellectus ab initio vt non est purus: sed solum phantasticus: non habet nisi quasi ex au-  
+        <lb ed="#Ba" n="11"/>ditu: sed per inuestigationem ex euidentia rationis eam acquirit. Vnde sicut sub speciebus accidem 
+        <lb ed="#Ba" n="12"/>tium quiditates substantiae, sub verbis significata, sub effectibus causae, per inuestigationem lumine na 
+        <lb ed="#Ba" n="13"/>turali cognoscuntur: eo quod illa quae latent ad illa quae patent habent colligantiam quasi naturalem: Sic 
+        <lb ed="#Ba" n="14"/>etiam sub figuris legalibus &amp; prophetalibus integumenta veritatum: &amp; sub terminis aenigmaticis cre 
+        <lb ed="#Ba" n="15"/>dibilium per inuestigationem lumine supernaturali cognoscuntur propter colligantiam supernatura 
+        <lb ed="#Ba" n="16"/>lem illorum quae latent ad illa quae patent. Vnde sicut simplici notitia loseph per intellectum cogno-  
+        <lb ed="#Ba" n="17"/>uit significatum in somnio Pharaonis spiritu prophetico: cuius Pharao solum species sensibiles aper  
+        <lb ed="#Ba" n="18"/>prehendit: Sic dono aliquo intellectus potest homo spiritualis intelligere veritates credibilium assen 
+        <lb ed="#Ba" n="19"/>tiendo eis ex euidentia rationis non ex solo auditu fidei: quas alius non intelligit: sed sola fide te- 
+        <lb ed="#Ba" n="20"/>net. Non enim minoris virtutis est lumen supnaturale ad ostendendum intellectui inuestiganti ea quae la 
+        <lb ed="#Ba" n="21"/>tent sub sensibilibus supernaturali colligantia, quam lumen naturale ad ostendendum intellectui inue- 
+        <lb ed="#Ba" n="22"/>stiganti ea quae latent sub aliis naturali colligantia. Vnde hanc inuestigationem <name ref="#Augustine">Augustinus</name> intelligens fa- 
+        <lb ed="#Ba" n="23"/>ciendam in expositione sacrae scripturae, dicit in ser. xxiii. super Ioan. Putemus scripturam dei tanquam  
+        <lb ed="#Ba" n="24"/>agrum esse, vbi volumus aliquid aedificare. Non ergo simus pigri, nec superficie contenti: fodia- 
+        <lb ed="#Ba" n="25"/>mus altius: donec parueniamus ad petram, de qua dicit apostolus. Petra erat Christus. Qua. scilicet quaeren- 
+        <lb ed="#Ba" n="26"/>dus est vbique in sacris scripturis. Vnde ad talem intellectum promerendum, primo credendum est 
+        <lb ed="#Ba" n="27"/>auctoritati sacrae scripturae: deinde studio sacra scripturae diligenti inuestigatione insistendum ad  
+        <lb ed="#Ba" n="28"/>hoc quod creditum est intelligendum, assistente nobis supernaturali illustratione diuina: quae nobis nunquam deest 
+        <lb ed="#Ba" n="29"/>in cognoscendis supernaturalibus: sicut nunquam deest in cognoscendis naturalibus, secundum quod habi- 
+        <lb ed="#Ba" n="30"/>tum est supra: si faciamus quod in nobis est: &amp; ad eius susceptionem nos praeparemus. Vnde non pro- 
+        <lb ed="#Ba" n="31"/>pter nudum credibilium conceptum sub forma credibilium sacra scriptura exponenda est: sed vt 
+        <lb ed="#Ba" n="32"/>eorum quae creduntur acquiratur intellectus. secundum quod dicit <name ref="#Augustine">Augustinus</name> super Ioan. sermo. primo. 
+        <lb ed="#Ba" n="33"/>Ad quid exponitur si non intelligitur: &amp; sermo. xxii. Ne quis desperet quod possit capere dono dei, quod  
+        <lb ed="#Ba" n="34"/>loqui dignatus est filius dei. Ergo quae loqui dignatus est: debemus credere quia voluit vt intelli- 
+        <lb ed="#Ba" n="35"/>geremus: sed si non possumus: praestet intellectum rogatus: qui verbum praestitit non rogatus. 
+        <lb ed="#Ba" n="36"/>Qui verbum (inquit) meum audit &amp; credit ei qui misit me: habet vitam aeternam. Nunquid igi- 
+        <lb ed="#Ba" n="37"/>tur nos audire voluit verbum suum, intelligere noluit: quasi dicat, in audiendo &amp; credendo vi- 
+        <lb ed="#Ba" n="38"/>ta aeterna est: multo magis in intelligendo. Sed gradus pietatis est fides. Fidei fructus, intellectus. 
+        <lb ed="#Ba" n="39"/>&amp; sermo. xxxix. Hide praecedente quae sanat oculum cordis nostri, quod intelligimus sine obscuri- 
+        <lb ed="#Ba" n="40"/>tate capiamus: quod non intelligimus, sine dubitatione credamus: a fundamento fidei non receda 
+        <lb ed="#Ba" n="41"/>mus, vt ad culmen perfectionis veniamus. &amp; sermo. xxxviii. Quisquis ad sciendum verbum dei ad  
+        <lb ed="#Ba" n="42"/>huc minus idoneus est, lacte fidei nutriatur. fides enim in meritum est: intellectus praemium. In ipso 
+        <lb ed="#Ba" n="43"/>labore intentionis desudat acies mentis nostrae, vt purget sordiculas nebulae humanae: &amp; serenetur 
+        <lb ed="#Ba" n="44"/>ad verbum dei. Et patet plane: quia in omnibus huiusmodi dictis <name ref="#Augustine">Augustinus</name> loquitur de intelli 
+        <lb ed="#Ba" n="45"/>gere huius vitae: contra eos qui exponunt illud Esaiae, Nisi credideritis non intelligetis, solummodo de 
+        <lb ed="#Ba" n="46"/>intellectu futurae vitae: ad quem necessario praeambula est fides huius vitae. quamuis enim hoc verum 
+        <lb ed="#Ba" n="47"/>sit: tamen non solum hoc verum est. Verum enim simul est &amp; pro intelligere praesentis vitae. quod aper 
+        <lb ed="#Ba" n="48"/>te patet ex illo quod dicit in ser. xxi. Discamus, vt si ille dignum iudicat quod modo verum est intelligamus: 
+        <lb ed="#Ba" n="49"/>si autem non poterimus: non eamus in id quod falsum est. Melius enim est nescire quam errare. Sed scire 
+        <lb ed="#Ba" n="50"/>melius est quam nescire: igitur ante omnia conari debemus vt sciamus verba dei: quare enim dicta 
+        <lb ed="#Ba" n="51"/>sunt nisi vt sciantur: quare sonuerunt nisi vt audiantur: quare audita sunt nisi vt intelligantur: Et 
+        <lb ed="#Ba" n="52"/>sicut dicit. ii. de lib. ar. nisi aliud esset credere: aliud intelligere: &amp; primo credendum quod intellige 
+        <lb ed="#Ba" n="53"/>re cuperemus: frustra propheta dixisset: Nisi credideritis non intelligetis. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e321">
+        ⁋ Absolute igitur dicendu 
+        <lb ed="#Ba" n="54"/>quod discens hanc scientiam vt congruit, super habitum fidei acquirit habitum intellectus: vt quae  
+        <lb ed="#Ba" n="55"/>primo credit fide, postmodum intelligit ratione: &amp; cui primo assentit ita suasus alterius auctoritatem 
+   <!--204.xml-->
+        <pb ed="#Ba" n="95-r"/>
+        <lb ed="#Ba" n="1"/>quasi audiendo, deinde assentit motus ab ipsa credibilis veritate vere intelligendo: ita quod id idem 
+        <lb ed="#Ba" n="2"/>quod ei primo fuit lacteus potus per fidem, postmodum est ipsi solidus cibus per intelligentiam: &amp; 
+        <lb ed="#Ba" n="3"/>quod vni est potus qui solum tenet fide: alteri est cibus qui capit intellectu. Vnde <name ref="#Augustine">Augustinus</name> ser 
+        <lb ed="#Ba" n="4"/>mo. xliiii. parte. ii. exponens illud apostoli ad Corinth. Non potui vobis loqui quasi spiritualibus:  
+        <lb ed="#Ba" n="5"/>sed quasi carnalibus, quasi paruulis in Christo lac vobis dedi potum: non solidum cibum. dicit. Ea- 
+        <lb ed="#Ba" n="6"/>dem in sacra doctrina: non eo modo a carnalibus, quo a spiritualibus cogitantur: quia &amp; illis lac est, 
+        <lb ed="#Ba" n="7"/>&amp; istis cibus: quia etsi non audiunt amplius, intelligunt amplius. Non enim aequaliter mente percipi 
+        <lb ed="#Ba" n="8"/>tur, quod fide ab vtrisque pariter percipitur. ltaque fit vt praedicaretur ab apostolis Christus ludaeis scan 
+        <lb ed="#Ba" n="9"/>dalum, gentibus stultitia, ipsis vero vocatis ludaeis &amp; Graecis, dei virtus, &amp; dei sapientia: sed carnali- 
+        <lb ed="#Ba" n="10"/>bus paruulis id tantum credendo tenentibus: spiritualibus autem capacibus id etiam intelligendo cernen 
+        <lb ed="#Ba" n="11"/>tibus. Illis ergo tanquam lacteus potus, istis tanquam solidus cibus. ldem ibidem exponens illud apostoli ad  
+        <lb ed="#Ba" n="12"/>Corinth. Si quis est inter vos propheta aut spiritualis agnoscit quae scribo vobis. dicit. Quae scri- 
+        <lb ed="#Ba" n="13"/>psit ad Corinth. aliter ab ipsis paruulis, aliter a capacioribus posse intelligi sciens ait. Si quis est &amp;c. 
+        <lb ed="#Ba" n="14"/>Solidam profecto voluit esse scientiam spiritualium: vbi non sola commodaretur fides: sed certa 
+        <lb ed="#Ba" n="15"/>cognitio teneretur: ac per hoc ea ipsa credebant quae spirituales insuper &amp; cognoscebant. Diffi- 
+        <lb ed="#Ba" n="16"/>cile est vt a me ista intelligat: qui ea in seipso experimento omnino non sentit, quod si non intelligat 
+        <lb ed="#Ba" n="17"/>credat: ne se ad spiritualem intellectum peruenire posse desperet: quem quaerit omnis qui exposi- 
+        <lb ed="#Ba" n="18"/>tioni. &amp; studio sacrae scripturae intendit. secundum quod dicit <name ref="#Augustine">Augustinus</name> in sermo. praedicto. Omnis 
+        <lb ed="#Ba" n="19"/>de hac re sermo quid agit: nisi vt non solum credatur verum etiam intelligatur &amp; sciatur quod dicitur. Ali 
+        <lb ed="#Ba" n="20"/>ter enim vanum esset multo studio insistere expositioni sacrae scripturae, postquam credita sunt illa firmiter 
+        <lb ed="#Ba" n="21"/>circa quorum notitiam laboramus. secundum enim quod dicit <name ref="#Augustine">Augustinus</name> ser. xxxvii. quod breuiter di- 
+        <lb ed="#Ba" n="22"/>citur non breuiter potest exponi, vt quod auditur intelligatur. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e389">
+        ⁋ Ne autem omnia quae sunt huius scien- 
+        <lb ed="#Ba" n="23"/>tiae primo credita talia intelligamus, vt intellectum eorum expectemus: Sciendum secundum Augus 
+        <lb ed="#Ba" n="24"/>s.t lxxxiii, quaestionibus quaes xine vlviii. quod credibilium tria sunt genera. Alia quae semper creduntur &amp; nunquam intelliguntur. 
+        <lb ed="#Ba" n="25"/>sicut est omnis historia: temporalia &amp; humana gesta percurrens: &amp; hoc maxime praeterita: quae neo 
+        <lb ed="#Ba" n="26"/>vidimus, nec visuri sumus: &amp; ideo omnino a sensu &amp; intellectu seiuncta sunt. Et de eo quod tale est dicit 
+        <lb ed="#Ba" n="27"/>quaest. liiii. Quicquid verum est atque a sensibilibus &amp; a mente seiunctum est: eredi tantum non sentiri aut intelli- 
+        <lb ed="#Ba" n="28"/>gi potest. De talibus dicit in epistola ad Consentium. Visibilium rerum praeteritarum quae temporaliter 
+        <lb ed="#Ba" n="29"/>transierunt sola fides est, quoniam non adhuc sperantur videnda: sed transacta &amp; facta creduntur: sicut 
+        <lb ed="#Ba" n="30"/>quod Christus semel pro peccatis nostris mortuus est. Alia vero mox vt creduntur intelliguntur: vt 
+        <lb ed="#Ba" n="31"/>sunt omnes rationes humanae, vniversali quae de numeris, vel disciplinis, id est cognita humana ratione de 
+        <lb ed="#Ba" n="32"/>rebus naturalibus: quia in istis non oportet quod fides praecedat rationem. de quibus dicit in epistola 
+        <lb ed="#Ba" n="33"/>ad Consentium. Sunt quaedam quae cum audimus non accommodamus eis fidem: &amp; ratione nobis red  
+        <lb ed="#Ba" n="34"/>dita: vera esse cognoscimus quae credere non valemus. Alia vero sunt quae primo creduntur: &amp; 
+        <lb ed="#Ba" n="35"/>postea intelliguntur: qualia sunt illa quae in diuinis rebus non possunt intelligi nisi ab his qui mun 
+        <lb ed="#Ba" n="36"/>do sunt corde, quod sit praeceptis seruatis: quae de bene viuendo accipiuntur. de quibus dicit Augu 
+        <lb ed="#Ba" n="37"/>stinus ad Consentium, quod neque praeterita, neque futura sunt: sed aeterna permanent: quae sunt inuisi 
+        <lb ed="#Ba" n="38"/>bilia: sed intellecta conspiciuntur: ac per hoc ipsa quodam modo sibi congruo videntur. haec enim 
+        <lb ed="#Ba" n="39"/>sunt illa de quibus per se &amp; praecipue est haec scientia tanquam de primis scibilibus in ea, vt infra vi- 
+        <lb ed="#Ba" n="40"/>debitur: per quorum cognitionem ad cognitionem aliorum proceditur. secundum quod expresse dicit 
+        <lb ed="#Ba" n="41"/>Augustinus de vera religi. Religionis (inquit) sectandae caput est historia &amp; prophetia: quae cum 
+        <lb ed="#Ba" n="42"/>credita fuerint: mentem purgabit vitae modus diuinis praeceptis conciliatus: &amp; idoneam faciet spi- 
+        <lb ed="#Ba" n="43"/>ritualibus percipiendis, quae nec praeterita sunt, nec futura, sed eodem modo semper manentia:  
+        <lb ed="#Ba" n="44"/>nulli mutabilitati obnoxia, id est vnum deum patrem &amp; filium &amp; spiritum sanctum, qua trinitate 
+        <lb ed="#Ba" n="45"/>quantum in hac vita datum est cognita: omnis intellectualis, &amp; animalis, &amp; corporalis creatura ab 
+        <lb ed="#Ba" n="46"/>eadem trinitate creatrice esse inquantum est &amp; ordinatissime administrari sine vlla dubitatione 
+        <lb ed="#Ba" n="47"/>perspicitur: quo cognito satis apparebit quantum homo assequi potest: quantum necessariis &amp; iu 
+        <lb ed="#Ba" n="48"/>stis legibus deo suo cuncta subiecta sunt: ex quo illa quae primo credimus nihil nisi auctoritatem 
+        <lb ed="#Ba" n="49"/>secuti, partim sic intelliguntur: vt videamus esse certissima: partim sic, vt videamus fieri posse 
+        <lb ed="#Ba" n="50"/>atque ita oportuisse. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e453">
+        <lb ed="#Ba" n="51"/>⁋ Ad primum in oppositum, quod modo per fidem tantum illuminamur: Dicendum quod li 
+        <lb ed="#Ba" n="52"/>tantum ibi solum excludit notitiam patriae quae est per speciem. Notitia enim quae est hic per intellectum 
+        <lb ed="#Ba" n="53"/>de credibilibus, nunquam est pura ab omni obscuritate fidei, vt dicetur in sequenti quaestione vnde dicit ibi 
+   <!--205.xml-->
+        <pb ed="#Ba" n="95-v"/>
+        <lb ed="#Ba" n="1"/>Glos. Est illuminatio per fidem: est illuminatio per speciem. Modo per fidem tantum illuminamur: non per 
+        <lb ed="#Ba" n="2"/>speciem. Homini enim vitam mortalem adhuc agenti non potest contingere vt dimoto atque discus 
+        <lb ed="#Ba" n="3"/>so omni nubilo phantasiarum corporalium: serenissima incommutabilis veritatis luce potiatur. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e473">
+        ⁋ Ad  
+        <lb ed="#Ba" n="4"/>secundum quod ex hoc eodem processit quod praesens nostra cognitio non excedit fidem: Dicendum quod ve- 
+        <lb ed="#Ba" n="5"/>rum est: ita quod sit intellectus purus fidei omnino impermixtus de aliquo, fide scilicet de eodem maxi 
+        <lb ed="#Ba" n="6"/>me quo ad per se credibilia totaliter euacuata. Quo ad aliquid tamen potest haberi intellectus de eodem 
+        <lb ed="#Ba" n="7"/>de quo prius habebatur sola fides: vt in sequenti quaestione patebit. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e484">
+        ⁋ Ad tertium quod omnis nostra 
+        <lb ed="#Ba" n="8"/>cognitio in praesenti est ex parte: ergo destruetur: Dicendum quod cognitio dicitur ex parte duplici- 
+        <lb ed="#Ba" n="9"/>ter. vno modo propter obscuritatem speculi &amp; aenigmatis: alio modo propter defectum perfectionis. 
+        <lb ed="#Ba" n="10"/>Primo modo ex parte est cognitio fidei. Et ideo oportet eam euacuari cum venerit visio per spe- 
+        <lb ed="#Ba" n="11"/>ciem: quia non compatiuntur se: sicut non potest aliquis simul videre alium per imaginem eius in  
+        <lb ed="#Ba" n="12"/>speculo, &amp; facie ad faciem: secundum quod vtranque harum cognitionum distinguit apostolus conse- 
+        <lb ed="#Ba" n="13"/>quenter cum subiungit dicens. Videmus nunc per speculum in aenigmate: tunc autem facie ad fa- 
+        <lb ed="#Ba" n="14"/>ciem. vbi dicit Glos. Nunc imagines veritatis per fidem videmus: tunc res ipsas a simili sese recto vul 
+        <lb ed="#Ba" n="15"/>tu aspicientium. Secundo modo ex parte est omnis cognitio per intellectum in praesenti respectu in  
+        <lb ed="#Ba" n="16"/>tellectus qui erit in patria: vbi iste intellectus complebitur. sicut etiam ibi complebitur charitas. &amp; 
+        <lb ed="#Ba" n="17"/>tangit Glos. In praesenti enim incomplexa credibilium per se conspicimus intellectu &amp; lumine ratio 
+        <lb ed="#Ba" n="18"/>nis naturalis per imagines rerum naturalium: sed complexionum ipsarum veritates in quibus con- 
+        <lb ed="#Ba" n="19"/>sistunt articuli fidei: ex manuductione fidei intelligimus intellectu in lumine &amp; illustratione su- 
+        <lb ed="#Ba" n="20"/>pernaturali: sed imperfecte. Quae quidem imperfectio complebitur in suturo: vbi intellectu natu- 
+        <lb ed="#Ba" n="21"/>rali in lumine gloriae videbimus incomplexorum veritates: &amp; per hoc perfecte veritates complexio 
+        <lb ed="#Ba" n="22"/>num ex ipsis. Vnde talis cognitio ex parte in praesenti non destruetur in futuro: sed perficietur ma 
+        <lb ed="#Ba" n="23"/>gis. 
+      </p>
+      <p xml:id="vn58an-d1e1170-d1e521">
+        ⁋ Vnde notandum quod quinque sunt modi humanae cognitionis per intellectum. Prima lumi- 
+        <lb ed="#Ba" n="24"/>ne supernaturali: &amp; modo supernaturali: &amp; de re supernaturali: qualem in gloria habent angeli 
+        <lb ed="#Ba" n="25"/>&amp; sancti de deo &amp; de rebus diuinis. Secunda lumine supernaturali: modo naturali: de re natu- 
+        <lb ed="#Ba" n="26"/>rali: qualem habent fideles per fidem de rebus naturaliter cognitis. Tertia lumine supernatu- 
+        <lb ed="#Ba" n="27"/>rali: modo naturali: de re supernaturali: qualis habetur in praesenti a fidelibus de rebus per se cre- 
+        <lb ed="#Ba" n="28"/>dibilibus, vel obscure per solam fidem, vel quodammodo clare per scientiam &amp; rationem. Quar-  
+        <lb ed="#Ba" n="29"/>ta lumine naturali: modo naturali: de re naturali: qualem habent philosophi de rebus sensibili- 
+        <lb ed="#Ba" n="30"/>bus. Quinta lumine naturali: modo naturali: de re supernaturali: qualem habent philosophi de 
+        <lb ed="#Ba" n="31"/>substantiis spiritualibus.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

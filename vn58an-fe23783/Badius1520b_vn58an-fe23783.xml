@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="87-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe23783"> <!-- alias="vn58an-a54q4" -->
+      <head xml:id="vn58an-fe23783-Hd1e104">Quaestio 4</head>
+      <p xml:id="vn58an-fe23783-d1e107">
+        <lb ed="#Bb" n="50"/>CIrca Quartum arguitur: quod ab illa persona quae in diuinis non est ab alia, non emanant 
+        <lb ed="#Bb" n="51"/>plures aliae quam vna. Primo sic. vbi non est nisi vnum simplex principium emanandi 
+        <lb ed="#Bb" n="52"/>osonam: neque nisi vna simplex emanatio: &amp; ita neque nisi vnum emanans: quia ab eodem 
+        <lb ed="#Bb" n="53"/>inquantum idem non procedit nisi idem. in persona illa quae in diuinis non est ab alia 
+        <lb ed="#Bb" n="54"/>non est nisi vnum simplex principium emanandi, vt ipsa diuina essentia, in qua  
+        <lb ed="#Bb" n="55"/>nulla est diuersitas nisi secundum rationem tantum, vt habitum est supra: ergo in deo 
+   <!--189.xml-->
+        <pb ed="#Bb" n="87-v"/>
+        <lb ed="#Bb" n="1"/>non est nisi vna simplex emanatio: neque emanans persona. et si in eis sit aliqua diuersitas, illa 
+        <lb ed="#Bb" n="2"/>erit secundum rationem tantum: quae non sufficit ad personarum differentiam siue distinctionem, vt infra dicetur 
+        <lb ed="#Bb" n="3"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e133">
+        ⁋ Secundo sic. quarumlibet duarum emanationum tantum differunt inter se rationes principiorum 
+        <lb ed="#Bb" n="4"/>emanationum, quantum rationes terminorum. sed duarum emanationum per modum. scilicet naturae &amp; voluntatis ra- 
+        <lb ed="#Bb" n="5"/>tiones principiorum sunt in eadem persona, d scilicet non est ab alia: ergo &amp; similiter rationes terminorum possunt esse 
+        <lb ed="#Bb" n="6"/>in eadem persona quae est ab alia,d scilicet sit emanans modo naturae &amp; voluntatis. &amp; eadem ratione quotquot sint 
+        <lb ed="#Bb" n="7"/>principia &amp; rationes emanandi in persona quae non est ab alia, ab illa non potest emanare nisi vnica persona siue 
+        <lb ed="#Bb" n="8"/>vnica emanatione siue pluribus. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e146">
+        ⁋ Tertio sic. illa quae sunt differentia sola ratione, non possunt esse princi 
+        <lb ed="#Bb" n="9"/>pia differentium re: quia cum plurima sint in deo attributa differentia ratione vt habitum est supra, tunc pari 
+        <lb ed="#Bb" n="10"/>ratione secundum quodlibet diuinum attributum esset aliquid emanans differens re ab illo a quo emanat: quod falsum 
+        <lb ed="#Bb" n="11"/>est, quaere cum omnia quae sunt in persona quae non est ab alia, differunt inter se in illa sola ratione. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e156">
+        ⁋ Quarto 
+        <lb ed="#Bb" n="12"/>sic. diuersus modus emanandi secundum speciem in eadem natura, non diuersificat emanans secundum speciem. dicente 
+        <lb ed="#Bb" n="13"/>Ambrosio li. de incarnatione verbi. Diuersa initia in plerisque, et vnam inesse substantiam, de scriptu 
+        <lb ed="#Bb" n="14"/>ris exemplum proferam. Licet ergo sit diuersa emanatio modo naturae &amp; voluntatis: non propter hoc erit 
+        <lb ed="#Bb" n="15"/>emanans diuersum specie. In diuinis autem (vt infra videbitur) non est emanantium diuersitas nisi specie 
+        <lb ed="#Bb" n="16"/>vel quasi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e169">
+        ⁋ Quinto sic. vnius naturae non est nisi vnus modus communicandi eam. Secundum enim 
+        <lb ed="#Bb" n="17"/>Commentatorem super. viii. Physicae. mures generati vnus ex propagatione, alter ex putrefactione, non sunt 
+        <lb ed="#Bb" n="18"/>eiusdem speciei. natura diuina non est nisi vnica. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e176">
+        ⁋ Sexto sic. de ratione personae quae non est ab alia, 
+        <lb ed="#Bb" n="19"/>est quod non sit nisi vnica. ergo &amp; similiter de ratione personae quae est ab alia. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e181">
+        ⁋ Quia vero emanent ad minus tres 
+        <lb ed="#Bb" n="20"/>arguitur Primo sic. quia in creaturis videmus tria principia emanationum &amp; actuum elicitiua, quae sunt 
+        <lb ed="#Bb" n="21"/>natura, ars siue intellectus, &amp; voluntas. Quare cum ista tria sunt in deo: &amp; duo illorum scilicet natura &amp; 
+        <lb ed="#Bb" n="22"/>voluntas, ponantur principia emanationum: &amp; per hoc emanare duas personas ab illa quae non est ab alia 
+        <lb ed="#Bb" n="23"/>eadem ratione ab arte quae est in ipso emanabit tertia. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e192">
+        ⁋ Secundo sic, non magis differunt natura &amp; 
+        <lb ed="#Bb" n="24"/>voluntas in deo, quam natura &amp; intellectus. Si ergo voluntas in persona quae non est ab alia est prin- 
+        <lb ed="#Bb" n="25"/>cipium productiuum alterius personae quam natura: ergo similiter &amp; intellectus. 
+        <lb ed="#Bb" n="26"/>
+      </p>
+      <p xml:id="vn58an-fe23783-d1e201">
+        ⁋ Dicendum quod secundum Ricardum li. v. de trinitate cica. v personam esse aliunde non est incon 
+        <lb ed="#Bb" n="27"/>municabilis existentia. alioquen cum personam esse non aliunde sed ex semetipsa (vt iam ostensum est) sit existem 
+        <lb ed="#Bb" n="28"/>tia omnino inconicabilis: non essent in diuinis nisi duae personae tantum: vnica tantum quae habet esse ab alia: sicut est 
+        <lb ed="#Bb" n="29"/>vnica tantum illa quae non habet esse ab alia. Et sic illi modo essendi quae persona habet esse ab alia, non repugnat 
+        <lb ed="#Bb" n="30"/>plures esse ab alia in diuinis: sicut repugnat illi modo essendi quo persona habet non esse ab alia. Et sic 
+        <lb ed="#Bb" n="31"/>non est possibile plures personas in diuinis non hire esse ab alia: cuius ratio habita est supra. Possibile est tamen 
+        <lb ed="#Bb" n="32"/>plures personas in diuinis esse ab alia: cuius ratio est communis quo ad vtrumque: quod scilicet de ratione primi &amp; 
+        <lb ed="#Bb" n="33"/>principii est vnitas: non sic autem de ratione eius quod habet esse ex principio. dicente Dio. iiii. ca. de di. 
+        <lb ed="#Bb" n="34"/>no. Dis dyas non est principium: monas autem totius dyadis principium. Eteni (vt dicit in ca. v in Mo 
+        <lb ed="#Bb" n="35"/>nade omnis numerus ante subsistit, quantum autem a monade prouenit, tantum discernitur &amp; multiplicatur. Et 
+        <lb ed="#Bb" n="36"/>haec multiplicantur &amp; discernuntur differentia absoluta rerum qualis est in creaturis, siue relationum re 
+        <lb ed="#Bb" n="37"/>alium qualis est in personis diuinis, siue rationum tantum qualis est in attributis diuinis essentialibus. Et est 
+        <lb ed="#Bb" n="38"/>triplex plurificatio ordine quodam se habens inter se &amp; ad primam vnitatem. Plurificatio enim creatura 
+        <lb ed="#Bb" n="39"/>rum praesupponit ordine durationis plurificationem diuinarum personarum: &amp; illa ordine quodam rationis 
+        <lb ed="#Bb" n="40"/>plurificationem attributorum: de quorum nunero sunt intellectus &amp; voluntas: quae sunt duo principia opea 
+        <lb ed="#Bb" n="41"/>tionum omnis intellectualis naturae: quae cum caeteris omnibus essentialibus ad diuinam essentiam pertinent. Persona 
+        <lb ed="#Bb" n="42"/>illa quae in diuinis non est ab alia: ex seipsa in seipsa ambit &amp; continet: &amp; ordine quodam ab ipsa habent inesse 
+        <lb ed="#Bb" n="43"/>aliis. Ex illa enim, vt dicit Ricar. v. de trinitate. ca. iiii. est omne quod est, ex illa omne esse, omnis existentia, omnis persona 
+        <lb ed="#Bb" n="44"/>humana angelica &amp; diuina. Per hoc enim quod ambo illa principia in se ex se non ab alio continet: ha- 
+        <lb ed="#Bb" n="45"/>bet illa in se in plena foecunditate &amp; non exhausta ad productionem duarum personarum intra semetipsam: 
+        <lb ed="#Bb" n="46"/>vt non solum sit possibile personam in diuinis esse ab alia, sed etiam propter duo principia emanationum in  
+        <lb ed="#Bb" n="47"/>diuinis quae sunt in illa, necesse est quod ab illa emanent duae aliae: vna per principium quod est intellectus: alia per prin 
+        <lb ed="#Bb" n="48"/>cipium quod est voluntas. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e252">
+        ⁋ Ad cuius intellectum sciendum, secundum quod determinatum est in prima quaestione. vii. 
+        <lb ed="#Bb" n="49"/>Quodlibet: quod in intellectuali natura intellectus &amp; voluntas perfectionem suam non habent nisi in duplici modo 
+        <lb ed="#Bb" n="50"/>actionis: quarum vna est essentialis actio intellectus &amp; voluntatis: alia vero personalis siue notionalis. 
+        <lb ed="#Bb" n="51"/>Non enim habet diuinus intellectus suam perfectionem quantuncumque perficiatur per actum intelligendi essentialem 
+        <lb ed="#Bb" n="52"/>quousque in ipso concipiatur verbum procedens per eius actum dicendi notionalem. Similiter neque voluntas per actum vo 
+        <lb ed="#Bb" n="53"/>sendi essentialem, quousque producatur in ipso amor procedens per eius actum spirandi notionalem, secundum 
+        <lb ed="#Bb" n="54"/>quod expressius in illa quaestione declarauimus, &amp; diffusius ab illa parte, Est igitur sciendum tamquam a prin- 
+        <lb ed="#Bb" n="55"/>cipio &amp;c. vsque ad illam partem, Vlterius autem est aduertendum. 
+   <!--190.xml-->
+        <pb ed="#Bb" n="88-r"/>
+      </p>
+      <p xml:id="vn58an-fe23783-d1e274">
+        <lb ed="#Bb" n="1"/>⁋ Ad primum in oppositum: quod in persona quae non est ab alia, non est nisi vnum simplex 
+        <lb ed="#Bb" n="2"/>principium emanandi, vt diuina essentia: quaere neque nisi vna simplex emanatio &amp;c. Dicendum quod licet di 
+        <lb ed="#Bb" n="3"/>uina essentia quae est forma vnica, simplex sit in essentia: est tamen multiplex in virtute. Et ideo ab ipsa 
+        <lb ed="#Bb" n="4"/>inquantum est penitus idem, &amp; secundum eandem rationem, non procedunt diuersae emanationes: sed solummodo sub ra 
+        <lb ed="#Bb" n="5"/>tionibus diuersis diuersarum proprietatum: sine quibus non est proxima ratio eliciendi aliquam emana 
+        <lb ed="#Bb" n="6"/>tionem productiuam personae: licet ex se sit prima ratio omnium diuinarum emanationum, vt dictum est su 
+        <lb ed="#Bb" n="7"/>pra, &amp; amplius declarabitur infra. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e292">
+        ⁋ Ad secundum: quod duarum emanationum quarum principia sunt intel 
+        <lb ed="#Bb" n="8"/>lectus siue natura &amp; voluntas, termini a quo, sunt in vna &amp; eadem persona quae non est ab alia: ergo &amp; 
+        <lb ed="#Bb" n="9"/>similiter termini ad quem siue rationes terminorum ad quos: cum non magis differant termini a qui  
+        <lb ed="#Bb" n="10"/>bus, quam termini ad quos siue rationes eorundem: Dicendum quod aliqua differre plus vel minus potest 
+        <lb ed="#Bb" n="11"/>intelligi dupliciter. vel secundum formam: vel secundum subiectum. Possunt enim quae magis differunt forma 
+        <lb ed="#Bb" n="12"/>conuenire in subiecto plus quam illa quae conveniunt forma. plus enim differunt albedo &amp; dulcedo quam duae  
+        <lb ed="#Bb" n="13"/>albedines: illae autem simul sunt in eodem subiecto: nequaquam istae. Licet ergo non plus differant rationes ter 
+        <lb ed="#Bb" n="14"/>minorum emanationum quam principiorum: bene tamen possibile est rationes principiorum compati se in eodem 
+        <lb ed="#Bb" n="15"/>non autem rationes terminorum. Cuius ratio est, quia ratio principii semper vergit in vnitatem: ratio 
+        <lb ed="#Bb" n="16"/>autem principiati in pluralitatem, vt propterea cum omnium necesse sit esse vnum primum principium, &amp; primum 
+        <lb ed="#Bb" n="17"/>principium debet hire in se rationes principiatiuas omnium aliorum quae recipiunt esse ab eo, necesse est quod  
+        <lb ed="#Bb" n="18"/>in primo principio quod non est ab alio, prima principia primarum emanationum sint simul: licet ra 
+        <lb ed="#Bb" n="19"/>tiones terminorum nequaquam. Et hoc ideo: quia emanatio quae est ad terminum secundum vnam rationem vt ad  
+        <lb ed="#Bb" n="20"/>productum sub ratione filiationis, principaliter procedit a principio quod est intellectus siue natura 
+        <lb ed="#Bb" n="21"/>ex adiuncto autem a principio quod est voluntas, &amp; non econverso. Econverso autem emanatio quae est ad terminum 
+        <lb ed="#Bb" n="22"/>secundum rationem spirationis, principaliter procedit a principio quod est voluntas: ex adiuncto solum a prin- 
+        <lb ed="#Bb" n="23"/>cipio quod est natura, &amp; non econverso. Et sic impossibile est quod vna persona habens in se duas rationes 
+        <lb ed="#Bb" n="24"/>terminorum, procedat seu emanet secundum illas duas emanationes: sicut impossibile est quod prin- 
+        <lb ed="#Bb" n="25"/>cipaliter emanet secundum vtranque emanationem: &amp; secundum neutram, sed secundum ambas ex adiuncto. 
+        <lb ed="#Bb" n="26"/>
+      </p>
+      <p xml:id="vn58an-fe23783-d1e336">
+        ⁋ Ad tertium: quod natura &amp; voluntas in persona quae non est ab alia differunt sola ratione: ergo non pos- 
+        <lb ed="#Bb" n="27"/>sunt esse principia plurium emanationum differentium re &amp;c. Dicendum quod natura quae est intellectus &amp; 
+        <lb ed="#Bb" n="28"/>voluntas, dupliciter possunt considerari in persona illa quae non est ab alia. Vno modo simpliciter &amp; absolute. 
+        <lb ed="#Bb" n="29"/>sic sunt principia praecisa actionum essentialium, quae sunt intelligere &amp; velle. Alio modo vt cum proprie 
+        <lb ed="#Bb" n="30"/>tatibus relatiuis. sic sunt principia proxima actionum notionalium, quae sunt dicere &amp; spirare. Primo 
+        <lb ed="#Bb" n="31"/>modo verum est quod sola ratione differunt inter se: nec sic possunt esse principia proxima diuersarum emanatio 
+        <lb ed="#Bb" n="32"/>num personalium re relationis differentium, licet sint principia remota. Secundo autem modo non est verum quod so 
+        <lb ed="#Bb" n="33"/>la ratione differunt scilicet totum hoc, intellectus cum vna proprietate relatiua, &amp; voluntas cum alia: immo dif 
+        <lb ed="#Bb" n="34"/>ferunt re ratione relationum. Sunt enim diuersae relationes reales dispeatae: licet non relatiue oppositae, secundum  
+        <lb ed="#Bb" n="35"/>quod sunt in persona quae non est ab alia, vt iam dicetur. Nec est simile de aliis attributis: quia rationes eorum 
+        <lb ed="#Bb" n="36"/>non dicunt propria principia aliquarum actionum omnino: sicut faciunt natura, intellectus, &amp; voluntas. Pro- 
+        <lb ed="#Bb" n="37"/>pter quod non obstante quod sola ratione differunt, possunt esse propria principia actionum essentialium: &amp; 
+        <lb ed="#Bb" n="38"/>sub rationibus proprietatum relatiuarum etiam possunt esse propria principia actionum notionalium, 
+        <lb ed="#Bb" n="39"/>vt iam videbitur. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e367">
+        ⁋ Ad quartum: quod diuersus modus emanationis secundum speciem non diuersificat ema 
+        <lb ed="#Bb" n="40"/>nans secundum speciem &amp;c. Dicendum quod large sumendo diuersitatem secundum speciem, ponimus in diuinis spe 
+        <lb ed="#Bb" n="41"/>cie differre duos emanationis modos, &amp; modos essendi diuersos personarum diuinarum. iuxta illud 
+        <lb ed="#Bb" n="42"/>quod dicit Ambrosius proxime ante auctoritatem inductam. Quia non ex alio sit pater, nec ex se fi- 
+        <lb ed="#Bb" n="43"/>lius, species hic videtur esse diuersa: species vtique distincta: sed indistincta diuinitas. Per hunc etiam 
+        <lb ed="#Bb" n="44"/>modum etiam ipsas personas iam dicemus specie differre: sed cum diuersitas siue distinctio secundum spe 
+        <lb ed="#Bb" n="45"/>ciem procedit a forma. secundum philosophum. xi. Metaphysicae. secundum quod duplex est forma, vel (vt magis proprie 
+        <lb ed="#Bb" n="46"/>loquar) duae rationes formae, scilicet absolutae quae est ipsius essentiae, &amp; relatiuae quae est ipsius pro 
+        <lb ed="#Bb" n="47"/>prietatis. Secundum primam in diuinis nulla est distinctio secundum speciem, immo deus est vna species 
+        <lb ed="#Bb" n="48"/>in vna singulari natura non plurificabili. Quam tamen distinctionem arguebant esse in deo 
+        <lb ed="#Bb" n="49"/>si in ipso sit ponere esse ingenitum &amp; genitum: quia ambos esse vnius substantiae secundum nume- 
+        <lb ed="#Bb" n="50"/>rum intelligere non potuerunt. Vnde &amp; contra tales dicit Ambrosius assumptam proposi- 
+        <lb ed="#Bb" n="51"/>tionem: quod in plerisque sunt diuersa initia secundum diuersum modum habendi &amp; accipiendi: vbi tamen non  
+        <lb ed="#Bb" n="52"/>est nisi vna natura habita aut accepta. Et hoc declarat in creaturis de vna natura communi, quae  
+        <lb ed="#Bb" n="53"/>diuersimode producta est in diuersis. secundum quod declarat ex textu Genesis. Et in fine declaratio- 
+        <lb ed="#Bb" n="54"/>nis concludit. ltaque aduertimus quae eiusdem generis sunt diuerso modo esse coepisse, alia de 
+        <lb ed="#Bb" n="55"/>aquis, alia de terra, alia de maris &amp; foeminae generatione: &amp; tamen vnius esse naturae. ltaque si in his quae  
+   <!--191.xml-->
+        <pb ed="#Bb" n="88-v"/>
+        <lb ed="#Bb" n="1"/>mortalia sunt, hoc potest conuenire: quemadmodum patris &amp; filii &amp; spiritus sancti diuinitati le- 
+        <lb ed="#Bb" n="2"/>gem cuiusdam necessitatis imponunt: scilicet diuersa initia. Secundum autem formam respectiuam in diuinis 
+        <lb ed="#Bb" n="3"/>bene potest esse &amp; est distinctio secundum speciem vel quasi. Sicut enim paternitas &amp; filiatio sunt relationes di- 
+        <lb ed="#Bb" n="4"/>uersae quasi specie: sic pater &amp; filius constitutae personae per illa sunt personae quasi specie diuersae: sed con 
+        <lb ed="#Bb" n="5"/>tinentes totam speciem suam in singulis indiuiduis non plurificabilem in aliis, vt infra dicetur. &amp; tali diuersi 
+        <lb ed="#Bb" n="6"/>tate secundum speciem diuersus modus emanationis secundum speciem, vt sunt generatio &amp; spiratio, bene distiguunt 
+        <lb ed="#Bb" n="7"/>emanans secundum speciem. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e424">
+        ⁋ Ad quintum: quod vnius naturae non est nisi vnus modus conicandi eam: Rndendum  
+        <lb ed="#Bb" n="8"/>est distiguendo &amp; ex parte modi communicandi, &amp; ex parte naturae communicatae. Ex parte naturae conicatae 
+        <lb ed="#Bb" n="9"/>dicendum quod natura dupliciter conicatur per actum productionis aut emanationis. Vno modo vt quae habet esse per pro 
+        <lb ed="#Bb" n="10"/>ductionem non solum in principaliter producto: sed etiam secundum id quod est. Alio modo vt quae habet esse secundum id quod 
+        <lb ed="#Bb" n="11"/>est absque productione: licet non in producto. Primo modo omnes formae creaturae habent esse per productionem: 
+        <lb ed="#Bb" n="12"/>quia non solum habens formam, habet esse per productionem, sed etiam ipsa forma: quia ex se non habet esse omnino. 
+        <lb ed="#Bb" n="13"/>Secundo modo forma deitatis habet esse per productionem: quia in ipso producto: non autem in se: quia ex se habet 
+        <lb ed="#Bb" n="14"/>esse etiam in supposito producto. Propter quod dictum est supra, quod in diuinis forma deitatis nullo modo pro 
+        <lb ed="#Bb" n="15"/>ducitur: sicut neque materia in naturalibus: sed solum habetur per productionem. Forma vero naturalis 
+        <lb ed="#Bb" n="16"/>quodammodo generatur. Sed primo modo proprietas personalis personae productae quodammodo habet 
+        <lb ed="#Bb" n="17"/>esse per productionem, vt supra dictum est: sed illa nullo modo est comunicabilis nec in se: quia singula- 
+        <lb ed="#Bb" n="18"/>ris est, in quo convenit cum deitate: nec in suppositis diuersis: &amp; in hoc differt ab eadem. Ex parte ve 
+        <lb ed="#Bb" n="19"/>ro modi conicandi dicendum quod modus conicandi naturam potest dici vnus vel diuersus aut tantum ex parte conicam 
+        <lb ed="#Bb" n="20"/>tis &amp; producentis id cui conicatur: aut tantum ex parte ipsius actus producendi illud: aut vtroque modo. Isto 
+        <lb ed="#Bb" n="21"/>tertio modo vnius naturae bene est diuersus modus communicandi in creaturis, vt patet in exen- 
+        <lb ed="#Bb" n="22"/>plis Ambrosii iam positis de productione eiusdem volatilis secundum speciem modo cle aquis: modo de terra 
+        <lb ed="#Bb" n="23"/>modo per coniunctionem maris &amp; foeminae. Sed hoc non contingit in illis quae non fiunt natura 
+        <lb ed="#Bb" n="24"/>liter in creaturis absque sexuum conmixtione, nisi vbi agens est supnaturale. In diuinis etiam vnius 
+        <lb ed="#Bb" n="25"/>naturae bene est diuersus modus conicandi, vt deitatis a patre in filium per generationem, &amp; ab vtroque  
+        <lb ed="#Bb" n="26"/>in spiritum sanctum per spirationem. Primo modo adhuc eiusdem naturae est diuersus modus communicam 
+        <lb ed="#Bb" n="27"/>di in creaturis: et hoc vel altero agente supnaturaliter, vel vtroque naturaliter. De primo po- 
+        <lb ed="#Bb" n="28"/>nit Ambrosius exemplum de veritate naturae carnis humanae quae in Christo &amp; nobis diuersis est 
+        <lb ed="#Bb" n="29"/>orta principiis: erat tamen vnus modus formandi eam. Suppleuit enim spiritus sanctus id quid semen 
+        <lb ed="#Bb" n="30"/>virile egisse potuisset: &amp; per hoc virgo quantum erat in se naturalis mater fuit. Si vero vtroque  
+        <lb ed="#Bb" n="31"/>agente naturaliter: sic quaecumque generantur ex propagatione maris &amp; fceminae, si virtute solius so 
+        <lb ed="#Bb" n="32"/>lis, stellarum, &amp; corporum caelestium eadem posset in materia produci commixtionis proportio secundum ca 
+        <lb ed="#Bb" n="33"/>lidum frigidum humidum &amp; siccum: &amp; talis virtus qualis cum naturali calore a generantibus effun- 
+        <lb ed="#Bb" n="34"/>ditur in semine: eadem secundum speciem possent produci virtute solis, caeli, &amp; stellarum absque maris &amp; 
+        <lb ed="#Bb" n="35"/>foeminae coniunctione. Et hoc quia ex parte agentis intra &amp; ipsius productionis, iste modus produ-  
+        <lb ed="#Bb" n="36"/>cendi idem est cum illo qui est per propagationem. Sed illud negarent philosophi posse fieri: et ideo non posse 
+        <lb ed="#Bb" n="37"/>eandem naturam conmunicari per propagationem &amp; sine. Propter quod dicit Auerrois: quod mus ex putrefa 
+        <lb ed="#Bb" n="38"/>ctione generatus &amp; fine non est eiusdem speciei: quod forte non est verum in speciebus vilibus saltem. Si vero 
+        <lb ed="#Bb" n="39"/>modo praedicto est diuersus modus communicandi ex parte actus producendi tantum, si agens sit supna- 
+        <lb ed="#Bb" n="40"/>turale, bene potest communicare eandem naturam secundum diuersos modos producendi eam, vel ex mate 
+        <lb ed="#Bb" n="41"/>ria praecedente, vel per creationem ex nihilo. Si vero sit agens naturale creatum, nequaquam. Et per hunc 
+        <lb ed="#Bb" n="42"/>modum pater eandem naturam deitatis communicat filio &amp; spiritui sancto secundum diuersas pro 
+        <lb ed="#Bb" n="43"/>ductiones. cuius ratio est foecunditas &amp; perfectio vtriusque principii, scilicet naturae &amp; volun- 
+        <lb ed="#Bb" n="44"/>tatis in deo: cum in creaturis non possit esse foecunditas communicandi naturam nisi secundum prin- 
+        <lb ed="#Bb" n="45"/>cipium quod est natura: non autem secundum principium aliud, etiam si principium quod est voluntas 
+        <lb ed="#Bb" n="46"/>sit in illa: &amp; hoc propter eius imperfectionem naturalem. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e512">
+        ⁋ Ad sextum: quod persona quae non est 
+        <lb ed="#Bb" n="47"/>ab alia, non est nisi vnica, quare neque illa quae est ab alia: Non est simile: &amp; patet quomodo non est 
+        <lb ed="#Bb" n="48"/>simile, &amp; per consequens solutio argumenti ex eis quae iam dicta sunt ad corpus quaestionis, &amp; in  
+        <lb ed="#Bb" n="49"/>dissolutione secundae rationis huius quaestionis, &amp; etiam ex dissolutione primi argumenti ad 
+        <lb ed="#Bb" n="50"/>quaestionem. ix. praecedentis tituli. 
+      </p>
+      <p xml:id="vn58an-fe23783-d1e523">
+        ⁋ Ad septimum: quod tria principia sunt emanationum, natura, 
+        <lb ed="#Bb" n="51"/>ars, &amp; voluntas: ergo tres emanationes &amp; tres personae ad minus procedunt ab illa: Dicendum 
+        <lb ed="#Bb" n="52"/>quod in intellectualibus natura, ars, &amp; intellectus sunt vnum principium &amp; idem, non autem natura 
+        <lb ed="#Bb" n="53"/>&amp; voluntas. &amp; hoc ideo: quia intellectus per obiectum sibi praesens impetu quodam siue quadam  
+        <lb ed="#Bb" n="54"/>immutabilitate naturalis necessitatis elicit actum suum, sicut &amp; natura absoluta non intelle- 
+        <lb ed="#Bb" n="55"/>ctualis: non sic autem voluntas, sed libere fertur in ipsum, secundum quod inferius amplius declarabitur. 
+   <!--192.xml-->
+        <pb ed="#Bb" n="89-r"/>
+      </p>
+      <p xml:id="vn58an-fe23783-d1e541">
+        <lb ed="#Bb" n="1"/>⁋ Ad octauum, quod non minus differunt natura &amp; intellectus, quam natura &amp; voluntas: Sicut ergo natu- 
+        <lb ed="#Bb" n="2"/>ra &amp; voluntas sunt diuersa principia emanationum, similiter natura &amp; intellectus &amp;c. Dicendum quod 
+        <lb ed="#Bb" n="3"/>licet minus non. differant natura &amp; intellectus, quam natura &amp; voluntas secundum rem, minus tamen 
+        <lb ed="#Bb" n="4"/>differunt secundum modum operandi. propter quod (vt iam dictum est) natura &amp; voluntas sunt diuer 
+        <lb ed="#Bb" n="5"/>sa principia emanationum, non autem natura &amp; intellectus.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

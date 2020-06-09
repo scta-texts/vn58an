@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="268-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe73581"> <!-- alias="vn58an-a73q3" -->
+      <head xml:id="vn58an-fe73581-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe73581-d1e107">
+        <lb ed="#Bb" n="50"/>CIrca Tertium arguitur quod nomina significantia deum &amp; creaturas non signi- 
+        <lb ed="#Bb" n="51"/>ficant illa vniuoce, Primo sic. In omni genere &amp; ordine rerum vnum est ante  
+        <lb ed="#Bb" n="52"/>multa. iuxta illud Dio. ca. iiii. de diuinis no. Dyas non principium. Monas autem  
+        <lb ed="#Bb" n="53"/>totius dyadis principium. In ordine autem producentium &amp; productorum productio 
+        <lb ed="#Bb" n="54"/>equoce ponit omnimodam pluralitatem inter producentem &amp; productum propter dissi- 
+        <lb ed="#Bb" n="55"/> militudinem producentis ad productum. Sol enim non calore generat calorem. Produ- 
+   <!--552.xml-->
+        <pb ed="#Bb" n="269-r"/>
+        <lb ed="#Bb" n="1"/>ctio autem vniuoca semper ponit vnitatem inter productum &amp; producentem: quia est per similitudi 
+        <lb ed="#Bb" n="2"/>nem producentis ad productum. lgnis enim calore generat calorem. Primi ergo agentis ad suum pro 
+        <lb ed="#Bb" n="3"/>ductum debet esse vniuocatio, &amp; illa est principium primum ad productionem aequiuocam, &amp; debet 
+        <lb ed="#Bb" n="4"/>aequiuoca ad vniuocam reduci. sed nomina quae a creaturis deo attribuuntur, &amp; a creaturis ad signifi 
+        <lb ed="#Bb" n="5"/>candum deum &amp; quae sunt in illo transferuntur, transferuntur ad illum vt ad causam primam ab effe- 
+        <lb ed="#Bb" n="6"/>ctu, vt declaratum est supra loquendo de attributis. Transferuntur ergo ad ipsum significandum vt 
+        <lb ed="#Bb" n="7"/>causam vniuocam ab effectu vniuoco. sed talia nomina dicuntur vniuoce de causa &amp; de effectu: 
+        <lb ed="#Bb" n="8"/>puta calor de calore in igne, &amp; de calore in ignito: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe73581-d1e144">
+        ⁋ Secundo sic. Quae dicuntur de aliqui-  
+        <lb ed="#Bb" n="9"/>bus convenientia nominis &amp; rei, dicuntur vniuoce de illis per definitionem vniuocorum. sic dicunt 
+        <lb ed="#Bb" n="10"/>de deo &amp; creaturis nomina quae deum &amp; creaturam significant: vt cum demonstrata notitia dei di- 
+        <lb ed="#Bb" n="11"/>citur, haec est sapientia, &amp; similiter notitia creaturae. Aliter enim cum sapientia dei non plus con- 
+        <lb ed="#Bb" n="12"/>ueniret sapientia creaturae quam creaturae bonitas: quia tantum differret sapientia dei a sapientia crea- 
+        <lb ed="#Bb" n="13"/>turae: quantum differt a bonitate illius. quod falsum est: quia si homo sit non bonus, &amp; sapiens: con- 
+        <lb ed="#Bb" n="14"/>municat cum deo inquantum ille est sapiens. sed licet esset bonus &amp; non sapiens, in nullo communica 
+        <lb ed="#Bb" n="15"/>ret deo inquantum ille est sapiens: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe73581-d1e162">
+        ⁋ In contrarium est quod minus diuersa magis nata sunt l 
+        <lb ed="#Bb" n="16"/>vniuoce eodem nomine significari quam magis diuersa: quia illa sunt propinquiora vnitati &amp; conve- 
+        <lb ed="#Bb" n="17"/>nientiae quam ista. Sed substantia &amp; accidens in creaturis minus diuersa sunt inter se quam id quod nomi- 
+        <lb ed="#Bb" n="18"/>natur nomine sapientiae in deo, &amp; id quid nominatur nomine sapientiae in creatura: quia substantia 
+        <lb ed="#Bb" n="19"/>&amp; accidens ambo sunt creaturae. sed substantia &amp; accidens eodem nomine vniuoce significari non 
+        <lb ed="#Bb" n="20"/>possunt: quia secundum Porph. si quisque omnia entia vocet, aequiuoce nuncupabit. Non videntur autem 
+        <lb ed="#Bb" n="21"/>substantia &amp; accidens magis vniuocari quam in ente. ergo &amp;c. 
+        <lb ed="#Bb" n="22"/>
+      </p>
+      <p xml:id="vn58an-fe73581-d1e181">
+        ⁋ Dico quod in esse tota actualitas rei consistit siue quo ad essentiam siue quo ad existen- 
+        <lb ed="#Bb" n="23"/>tiam. Quandiu enim res aliqua non est nisi in potentia tantum: non est siue non habet esse inquantum 
+        <lb ed="#Bb" n="24"/>huiusmodi. Ipsum etiam esse circuit intima &amp; minima vniuscuiusque rei. Nihil enim est in re qua  
+        <lb ed="#Bb" n="25"/>cumque cui esse non conveniat. Propter quod nihil est latius ente. Et est ipsum esse diuersum atque aliud  
+        <lb ed="#Bb" n="26"/>&amp; aliud in rebus secundum diuersitatem eius quod pertinet proprie ad quiditatem cuiusque, &amp; similiter 
+        <lb ed="#Bb" n="27"/>est ipsum esse vnum &amp; idem in vnoquoque secundum vnitatem quiditatis suae. Quaecumque ergo in aliquo  
+        <lb ed="#Bb" n="28"/>quantuncumque minimo in ratione vnitatis vniuocari possunt: vt nomen aliquod secundum illud de eis 
+        <lb ed="#Bb" n="29"/>dici possit vniuoce, &amp; illa vniuoce significare per illud: necesse est quod illa possint saltem vniuoca 
+        <lb ed="#Bb" n="30"/>ri in esse. Quare cum vt supra determinatum est loquendo de esse dei: deus &amp; creatura in nullo esse 
+        <lb ed="#Bb" n="31"/>vniuocari possunt: multo minus quam substantia &amp; accidens: ergo nec in aliquo alio. Sed non signifi- 
+        <lb ed="#Bb" n="32"/>cantur vniuoce eodem nomine nisi per aliquid eis vniuoce conveniens, quod primo &amp; per se signifi- 
+        <lb ed="#Bb" n="33"/>catur illo nomine. Dico igitur simpliciter quod non idem re, sed re omnino aliud, significat idem no 
+        <lb ed="#Bb" n="34"/>men de deo &amp; de creaturis. dicente Boethio de triniitate. c. v. Decem praedicamenta quae de rebus omni- 
+        <lb ed="#Bb" n="35"/>bus vniuersaliter praedicantur, talia sunt, qualia subiecta permiserunt. Nam eorum pars in reliquorum 
+        <lb ed="#Bb" n="36"/>praedicatione substantia est: pars in accidentium numero est: atque cum haec in diuinam praedicationem quis 
+        <lb ed="#Bb" n="37"/>vertit, cuncta mutantur quae praedicari possunt. Commentator. i. cum de deo praedicari dicentur siue 
+        <lb ed="#Bb" n="38"/>substantiae siue quantitates &amp;c. cuncta mutantur id est quamuis de deo praedicatur nomine substantia, vel quali  
+        <lb ed="#Bb" n="39"/>tas, vel quantitas, vel aliquod naturalium nomine appelletur, non tamen est quod dicitur: sed aliqua  
+        <lb ed="#Bb" n="40"/>rationis proportione ita nominatur. Propter quid subdit <name ref="#Boethius">Boethius</name>  dicens. Nam substantia in illo non 
+        <lb ed="#Bb" n="41"/>est vere substantia sed vltra substantiam. ldem qualitas &amp;c. Commen. Quasi vere quae de deo praedi  
+        <lb ed="#Bb" n="42"/>cantur non sunt quod nominantur, non quia non est tanta &amp;c. vt supra quaestione proxima praecedente. 
+        <lb ed="#Bb" n="43"/>
+      </p>
+      <p xml:id="vn58an-fe73581-d1e232">
+        ⁋ Est autem aduertendum quod interponit Commen. Quasi, excipiendo illud quod dicit <name ref="#Boethius">Boethius</name> , Quae  
+        <lb ed="#Bb" n="44"/>possunt praedicari, &amp; hoc propter relationem quam excipit. Vnde exponendo se subdit. Relatio vero 
+        <lb ed="#Bb" n="45"/>omnino non praedicari potest. &amp; hoc vt subdit in c. ix, neque de deo neque de caeteris. Commenta. 
+        <lb ed="#Bb" n="46"/>Vera essendi ratione. Per quod intelligit quod tria praedicamenta absoluta. scilicet substantia, quantitas, &amp; qua  
+        <lb ed="#Bb" n="47"/>litas aliquid sunt in se, &amp; similiter secundum ipsa sunt aliquid subiecta de quibus praedicantur. Non sic 
+        <lb ed="#Bb" n="48"/>autem. vii. praedicamenta relatiua. Vnde de tribus primis dicit <name ref="#Boethius">Boethius</name> . c. viii. Haec praedicamenta talia 
+        <lb ed="#Bb" n="49"/>sunt, vt in quo sunt ipsum esse faciunt quod dicitur. De aliis dicit. c. ix. Talia sunt vt non quasi ipsa 
+        <lb ed="#Bb" n="50"/>sit res id quod praedicantur de qua dicit id est secundum Commenrem quamuis in praedicamento de substantia relatio non 
+        <lb ed="#Bb" n="51"/>dicatur est: vt deus est pater vel homo est pater: non tamen ita dicitur quasi ipsa res de qua dicitur 
+        <lb ed="#Bb" n="52"/>sit idid est habeat esse aliquod eo quod praedicatur. Nam est quicquid pater est: sed illud quod est esse pa- 
+        <lb ed="#Bb" n="53"/>trem non est esse, quomodo quid est quale vel quantum est, &amp; esse quale vel quantum est esse: vt homo qui  
+        <lb ed="#Bb" n="54"/>est albus vel longus est, &amp; eum esse album vel longum est esse: sed esse patrem non est esse: quamuis qui  
+   <!--553.xml-->
+        <pb ed="#Bb" n="269-v"/>
+        <lb ed="#Bb" n="1"/>pouoo  
+   <!--553.xml-->
+        <pb ed="#Bb" n="269-v"/>
+        <lb ed="#Bb" n="2"/>pater est vere sit, &amp; hoc quia non est aliquis pater ex aliqua proprietate qua possit secundum se defi- 
+        <lb ed="#Bb" n="3"/>gnari, &amp; sine ad aliud extra se facta sui collatione demonstrari, sicut absque sui ad alterum compo- 
+        <lb ed="#Bb" n="4"/>sitione per se designatur homo esse homo forma humana, qualitate esse albus, quantitate longus. Vbi 
+        <lb ed="#Bb" n="5"/>pro voce quam <name ref="#Boethius">Boethius</name>  &amp; Commen. ponunt, posui patrem, &amp; hoc propter clariorem intellectum illius 
+        <lb ed="#Bb" n="6"/>vniuersaliter dicti de relationibus. Et nota quod non est ista differentia inter tria praedicamenta absoluta &amp; 
+        <lb ed="#Bb" n="7"/>praedicamenta relatiua, nisi quod de ratione sui praedicamenti illa relatiua non dicunt nisi rationem essen 
+        <lb ed="#Bb" n="8"/>di ad aliud, non autem aliquam propriam realitatem, qualem dicunt absoluta. Propter quod cum mutatio pra 
+        <lb ed="#Bb" n="9"/>dicamentorum quando transferuntur ad diuina non sit nisi secundum res signifiatas, vt dictum est, ideo alia 
+        <lb ed="#Bb" n="10"/>quia. scilicet proprias res dicunt, mutari possunt. Relationes autem nequaquam: quia proprias res non dicunt: 
+        <lb ed="#Bb" n="11"/>sed manent secundum rationem illam in diuinis quam tenuerunt in creaturis. Et ideo quo ad id quod de pro 
+        <lb ed="#Bb" n="12"/>prio habent relationes in sua significatione, vniuoce significant in diuinis &amp; in creaturis, non sic per 
+        <lb ed="#Bb" n="13"/>dicamenta absoluta. Sed aspiciendo ad realitatem quam relationes contrahunt in suo significato ex prae 
+        <lb ed="#Bb" n="14"/>dicamentis super quae fundantur, bene mutantur relationes translatae ad diuina sicut &amp; alia: &amp; sicut in  
+        <lb ed="#Bb" n="15"/>diuinis substantia non est substantia. scilicet talis qualis est in creaturis: sed supersubstantia: sic in diui- 
+        <lb ed="#Bb" n="16"/>nis paternitas non est paternitas, talis scilicet qualis est in crearuris: sed suppaternitas. Et hoc modo  
+        <lb ed="#Bb" n="17"/>nomina relationum aequiuoce dicuntur &amp; significant in diuinis &amp; in creaturis, sicut &amp; nomina praedica- 
+        <lb ed="#Bb" n="18"/>mentorum absolutorum. 
+      </p>
+      <p xml:id="vn58an-fe73581-d1e316">
+        ⁋ Et secundum hoc dico generaliter quod nomen significans communiter deu &amp; 
+        <lb ed="#Bb" n="19"/>creaturam aut aliquid quod est in deo &amp; in creatura, necessario significat illa aequiuoce &amp; non vniuo 
+        <lb ed="#Bb" n="20"/>ce. Et secundum hoc concedenda est vltima ratio. 
+        <lb ed="#Bb" n="21"/>
+      </p>
+      <p xml:id="vn58an-fe73581-d1e325">
+        ⁋ Ad primam in oppositum quod primi producentis ad productum suum debet esse vniuo 
+        <lb ed="#Bb" n="22"/>catio: quia vniuoca productio prior est productione quae est aequiuoca: Dico quod verum est de agente 
+        <lb ed="#Bb" n="23"/>primo ad suum primum productum: quia productio illius necessario est vniuoca, eo quod est prima: quia 
+        <lb ed="#Bb" n="24"/>aequiuoca non potest esse prima: sicut nec multum potest praecedere vnum: vt tangitur in argumento, &amp; 
+        <lb ed="#Bb" n="25"/>bene. Non autem est verum semper de agente primo ad secundum productum ab eo, quia agens primum &amp; 
+        <lb ed="#Bb" n="26"/>vniuocum respectu vnius producti bene potest esse agens primum &amp; aequiuocum respectu alterius produ 
+        <lb ed="#Bb" n="27"/>cti: sed ordine quodam: quia actio producentis aequiuoci necessario est secunda, &amp; secundi a secundo pro 
+        <lb ed="#Bb" n="28"/>ducti: &amp; praesupponit actionem producentis vniuoci quae est prima, &amp; primi atque primo producti, ad quam 
+        <lb ed="#Bb" n="29"/>reducitur secunda. Dico ergo quod sicut deus &amp; creatura in nullo vniuocantur, sic non est vniuoca sed  
+        <lb ed="#Bb" n="30"/>aequiuoca productio qua producit creaturam: &amp; necessario praesupponit vniuocam: sed non totius trinita- 
+        <lb ed="#Bb" n="31"/>tis producentis creaturam: sed primae personae in trinitate, qua. scilicet pater producit filium: &amp; etiam qua ambo 
+        <lb ed="#Bb" n="32"/>producunt spiritum sanctum: secundum quod specialius debet declarari in sequenti parte huius disputatio- 
+        <lb ed="#Bb" n="33"/>nis ordinari. Et secundum istas duas productiones duplex est assimilatio producentis ad productum. di-  
+        <lb ed="#Bb" n="34"/>cente Ambrosio in libro de incarnatione verbi. Alia est similitudo secundum imitationem, alia secundum natu 
+        <lb ed="#Bb" n="35"/>ram. Secundum imitationem enim est similitudo creaturae ad deum, secundum naturam autem filii ad patrem, &amp; 
+        <lb ed="#Bb" n="36"/>vtriusque illorum simul ad spiritum sanctum, secundum quod hoc clarius patet ex supra determinatis cir- 
+        <lb ed="#Bb" n="37"/>ca relationem similitudinis diuiuarum personarum inter se. 
+      </p>
+      <p xml:id="vn58an-fe73581-d1e362">
+        ⁋ Ad secundum quod nomina quae significant deum 
+        <lb ed="#Bb" n="38"/>&amp; creaturam dicuntur de illis convenientia rei &amp; nominis &amp;c. Dico quod sicut secundum Ambrosius est simi- 
+        <lb ed="#Bb" n="39"/>litudo secundum imitationem &amp; secundum naturam, sic &amp; convenientia. Et bene verum est quod inter deum &amp; crea 
+        <lb ed="#Bb" n="40"/>turam est convenientia imitationis, nulla tamen naturae, qua. scilicet eandem naturam singularem conicent, sicut diui- 
+        <lb ed="#Bb" n="41"/>nae personae conicant eandem diuinam essentiam, vel vniuersalem sicut species essentiam generis. Nunc autem vni 
+        <lb ed="#Bb" n="42"/>uocationem non operatur convenientia nisi sit secundum naturam, qualis non est inter deum &amp; creaturam: nec ma-  
+        <lb ed="#Bb" n="43"/>ior inter sapientiam dei &amp; sapientiam creaturae: quam inter sapientiam dei &amp; bonitatem creaturae: licet in-  
+        <lb ed="#Bb" n="44"/>ter sapientiam dei inquantum sapientia, &amp; sapientiam creaturae maior sit convenientia imitationis quam 
+        <lb ed="#Bb" n="45"/>inter sapientiam &amp; bonitatem creaturae vt tangit obiectio. Nec est maior convenientia secundum naturam 
+        <lb ed="#Bb" n="46"/>ad deum illorum in creaturis, quorum nomina transferuntur ad significandum deum per proprietatem 
+        <lb ed="#Bb" n="47"/>quam quorum nomina transferuntur ad significandum deum per similitudinem: licet sit maior conue 
+        <lb ed="#Bb" n="48"/>nientia secundum imitationem. Propter quod secundum diuersam rationem originis verbi transferuntur 
+        <lb ed="#Bb" n="49"/>nomina illorum &amp; istorum ad diuina: vt habitum est in praecedenti quaestione.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

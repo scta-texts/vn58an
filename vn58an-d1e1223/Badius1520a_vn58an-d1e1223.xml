@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="99-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1223"> <!-- alias="vn58an-a14q1" -->
+      <head xml:id="vn58an-d1e1223-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1223-Hd1e107" type="question-title">Utrum modus tradendi theologiam debeat esse multiformis an uniformis</head>
+      <p xml:id="vn58an-d1e1223-d1e110">
+        <lb ed="#Ba" n="29"/>Irca primum arguitur primo, quod modus huius scientiae debeat esse multiplex non 
+        <lb ed="#Ba" n="30"/>vniformis. Primo sic. He. i. Multifarie multisque modis olim deus loquens in patribus. 
+        <lb ed="#Ba" n="31"/>haec est locutio huius scientiae, quae respicit modum tradendi eius. Multiplex er- 
+        <lb ed="#Ba" n="32"/>go est modus tradendi hanc scientiam non vnicus. 
+      </p>
+      <p xml:id="vn58an-d1e1223-d1e121">
+        ⁋ Secundo sic. Ephi ii. dicitur. 
+        <lb ed="#Ba" n="33"/>lnnotescat principibus &amp; potestatibus per ecclesiam multiformis sapientia dei. sed  
+        <lb ed="#Ba" n="34"/>non innotescit esse talis nisi ex modo traditionis eius. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1223-d1e129">
+        ⁋ In contrarium est: 
+        <lb ed="#Ba" n="35"/>quoniam modus scientiae debet esse proportionalis auditori: quia aliter non instrueret 
+        <lb ed="#Ba" n="36"/>&amp; materiae: quia aliter non congrueret. sed ingenio carnali cui proponitur lac fidei in auctoritate 
+        <lb ed="#Ba" n="37"/>scripturae, magis est proportionalis modus vniformis quam multiformis: quia vniformi facilius instrui 
+        <lb ed="#Ba" n="38"/>tur: &amp; multiformi amplius confunditur: quia in paucioribus via magis. materiae similiter magis 
+        <lb ed="#Ba" n="39"/>congruit modus vniformis quam multiformis, quoniam ipsa est maximae simplicitatis &amp; vniformita- 
+        <lb ed="#Ba" n="40"/>tis, vt dictum est supra de vnitate huius scientiae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1223-d1e145">
+        <lb ed="#Ba" n="41"/>⁋ Dicunt aliqui, quod modus scientiae huius in tradendo eam debet esse multiplex, tum 
+        <lb ed="#Ba" n="42"/>propter dei sapientiam multiformem quae tradi debet in hac scientia, tum propter multiformen sta- 
+        <lb ed="#Ba" n="43"/>tum hominum quibus debet ista scientia congruere. Cum enim (vt dicunt) qui instrui possent vna via 
+        <lb ed="#Ba" n="44"/>&amp; vno modo, alia via &amp; alio modo instrui non possent: sed diuersi diuersimode de diuersis: ita quod modus 
+        <lb ed="#Ba" n="45"/>congruus vni non est modus congruus alteri: necessarium est vt modus huius scientiae multiplex sit. Et di- 
+        <lb ed="#Ba" n="46"/>stinguunt modos istos penes hoc: quod sacra scriptura aliquando praecipit, aliquando prohibet, aliquando permittit, aliquando con 
+        <lb ed="#Ba" n="47"/>sulit: aliquando minatur, aliquando promittit, aliquando terret, aliquando hortatur, aliquando reuelat arcana, ali 
+        <lb ed="#Ba" n="48"/>quando recitat facta &amp; caetera huiusmodi: vt secundum hoc modus scripturae alicui sit praeceptiuus: alicui pro 
+        <lb ed="#Ba" n="49"/>hibitiuus: alicui vero permissius &amp;c. huiusmodi. Dictum istorum manifestum est deficere &amp; in re dicta:  
+        <lb ed="#Ba" n="50"/>&amp; in ratione dicendi. In re dicta, quod scilicet modus scientiae huius sit multiplex, ex eo maxime quia alicui 
+        <lb ed="#Ba" n="51"/>praecipit: &amp; ideo praeceptiuus: alicui prohibet: &amp; ideo prohibitiuus, &amp; caetera huiusmodi: quia ista diuersitas non est ex parte 
+        <lb ed="#Ba" n="52"/>modi tractandi hanc scientiam siue tradendi: sed maxime est ex parte materiae quae tractatur in ipsa. secundum quod alibitra 
+   <!--214.xml-->
+        <pb ed="#Ba" n="100-r"/>
+        <lb ed="#Ba" n="1"/>dit praecepta, alibi prohibita, alibi proponit terrenda, alibi speranda &amp; caetera huiusmodi. Vnde si propter ista 
+        <lb ed="#Ba" n="2"/>modus scientiae huius posset dici multiplex: &amp; modus cuiuslibet alterius scientiae eodem modo posset dici mul- 
+        <lb ed="#Ba" n="3"/>tiplex secundum diuersas partes materiae quas tractat, quod non oportet: quoniam idem modus tractandi scien 
+        <lb ed="#Ba" n="4"/>tiam bene potest esse tractando diuersas materias siue terrendo siue prohibendo &amp; caetera huiusmodi. secundum  
+        <lb ed="#Ba" n="5"/>quod idem modus tractandi ratiocinatiuus siue argumentatiuus est in diuersis scientiis philosophicis secundum  
+        <lb ed="#Ba" n="6"/>diuersas materias quae tractantur. 
+      </p>
+      <p xml:id="vn58an-d1e1223-d1e191">
+        ⁋ In ratione autem dicendi deficit dictum illorum. licet enim mul- 
+        <lb ed="#Ba" n="7"/>tiplex sit dei sapientia &amp; multiplex hominium status: non tamen secundum hoc debet esse multiplex modus hu 
+        <lb ed="#Ba" n="8"/>ius scientiae. Non propter multiplicitatem sapientiae dei: tum quia vnus modus tractandi cuilibet sapientiae dei 
+        <lb ed="#Ba" n="9"/>potest applicari: etiam si in diuersis partibus scientiae diuersus modus sapientiae dei tractaretur, vt alicubi sa- 
+        <lb ed="#Ba" n="10"/>pientia qua praecipit, alicubi sapientia quae prohibet, &amp; caetera huiusmodi vt dictum est: tum quia hic non tractatur mul 
+        <lb ed="#Ba" n="11"/>tiplex scientia dei, de vna hic, alibi de alia: sed quasi in quolibet sermone huius scientiae secundum multiplicem sen 
+        <lb ed="#Ba" n="12"/>sum &amp; expositionem habetur multiplex scientia dei, vt infra dicetur. Similiter neque propter multiplicem sta 
+        <lb ed="#Ba" n="13"/>tum hominium debet esse multiplex modus huius scientiae: tum quia alicubi deberet tunc esse scientia ista tradi- 
+        <lb ed="#Ba" n="14"/>ta vni statui, hominum alicubi alteri: &amp; non tota vbique &amp; sic non vbique tota omni statui hominum, propo 
+        <lb ed="#Ba" n="15"/>ni deberet: quod falsum est, vt infra patebit. Quare cum tota vbique: cuilibet statui hominum consideranda pro 
+        <lb ed="#Ba" n="16"/>ponitur, propter diuersos status hominium nullo modo debetdici istius scientiae modus esse diuersus, vt saepius quam 
+        <lb ed="#Ba" n="17"/>libet snimam vnam diuersimode oporteret tractari: quod est absurdum. 
+      </p>
+      <p xml:id="vn58an-d1e1223-d1e217">
+        ⁋ Aliter igitur dicendum quod cum ista 
+        <lb ed="#Ba" n="18"/>scientia sicut &amp; quaelibet alia non sit tradita nisi vt ab homine ad cuius opus tradita est sciatur. secundum quod 
+        <lb ed="#Ba" n="19"/>dicit Apostolus Ro. v. Quaecumque scripta sunt ad nostram doct. scrip. sunt. &amp; <name ref="#Augustine">Augustinus</name> specialiter de ista scientiae 
+        <lb ed="#Ba" n="20"/>dicit super loannem. ser. ii. Ante omnia conari debemus vt sciamus verba dei, quare enim dicta sunt nisi vt 
+        <lb ed="#Ba" n="21"/>sciantur: necessarium est quod modus tradendi huius scientiae sicut &amp; cuiuslibet alterius sit conformis modo 
+        <lb ed="#Ba" n="22"/>sciendi, vt tali modo tractetur quo competentius ab homine sciri possit. De modo autem sciendi in scien 
+        <lb ed="#Ba" n="23"/>tiis dictum est supra, quod attenditur &amp; ex conditione materiae &amp; ex proprietate ipsius scientiae &amp; ex dispositione 
+        <lb ed="#Ba" n="24"/>scientis. Materia huius scientiae, vt infra dicetur, est rerum vniuersitas tam in opere creationis quam iterum factio- 
+        <lb ed="#Ba" n="25"/>nis. Proprietas vero huius scientiae est struere fundamentum spiritualis aedificii in eis quae sunt fidei. Dispo 
+        <lb ed="#Ba" n="26"/>sitio vero scientis est varietas status hominium quo ad intellectum &amp; quo ad affectum ad percipiendum ea quae 
+        <lb ed="#Ba" n="27"/>sunt huius scientiae. Quia ergo non valet haec scientia de singulis quae pertinent ad materiam huius scientiae tra 
+        <lb ed="#Ba" n="28"/>ctare singulariter &amp; distincte: &amp; prout diuersis statibus hominum diuersimode competit ea quae sunt 
+        <lb ed="#Ba" n="29"/>fidei infinuare: modus proprius &amp; competens huic scientiae est: non vt singula pertinentia ad hanc 
+        <lb ed="#Ba" n="30"/>scientiam seorsum tractentur, prout diuersis diuersimode congruunt: &amp; eos diuersimode &amp; de di- 
+        <lb ed="#Ba" n="31"/>uersis in fide informare possunt: sed debet esse talis vt sub vno &amp; eodem sermone contineantur di- 
+        <lb ed="#Ba" n="32"/>uersae sententiae de diuersis materiis &amp; diuersis credendis, diuersis statibus diuersimode con- 
+        <lb ed="#Ba" n="33"/>gruentes: vt qui amplius capere non potest, contentus sit superficie literae: qui vero amplius ca- 
+        <lb ed="#Ba" n="34"/>pere potest, secundum gradum sui profectus perquirat sub litera intelligentiam spiritualem. Et hoc est quod di 
+        <lb ed="#Ba" n="35"/>cit <name ref="#Augustine">Augustinus</name> ii. confes. approbando modum tradendi sacram scripturam, quo ad scripturam Moysi &amp; specialitur quo  
+        <lb ed="#Ba" n="36"/>adlibrum Geneseos, quid etiam generaliter pertinet ad totam scripturam, dicens sic. Ego deus meus non possum 
+        <lb ed="#Ba" n="37"/>minus credere de Moyse fidelissimo famulo tuo quam mihi optarem abs te dari muneris, si tempore quo 
+        <lb ed="#Ba" n="38"/>ille natus fuissem, eiusque loco me constituisses, vt per seruitutem cordis ac linguae meae literae illae dispen 
+        <lb ed="#Ba" n="39"/>sarentur quae tanto post omnibus gentibus essent profuturae: &amp; per vniuersum orbem tanto aucto 
+        <lb ed="#Ba" n="40"/>ritatis culmine omnium falsarum superbarumque doctrinarum superarentur snimae. Vellem quippe si tunc 
+        <lb ed="#Ba" n="41"/>essem Moyses: &amp; mihi abs te liber Geneseos scribendus adiungeretur: talem mihi facultatem dari: 
+        <lb ed="#Ba" n="42"/>&amp; eum texendi sermonis modum, vt neque illi qui nondum queunt intelligere tanquam excedentia vi- 
+        <lb ed="#Ba" n="43"/>res suas dicta recusarent: &amp; illi quid hoc possent, quamlibet veram sententiam cogitando eam non praeter- 
+        <lb ed="#Ba" n="44"/>missam in paucis verbis famuli tui reperirent: &amp; si alius aliam vidisset in luce veritatis, nec ipsa in  
+        <lb ed="#Ba" n="45"/>eisdem verbis intelligenda deesset. Sicut enim sons in paruo loco vberior est, pluribus riuis in am- 
+        <lb ed="#Ba" n="46"/>pliora spatia fiuxum ministrat, quam quilibet eorum riuorum qui per multa loca ab eodem fonte dedu 
+        <lb ed="#Ba" n="47"/>citur: ita narratio dispensatoris tui pluribus profutura paruo sermonis modulo scatet fluenta li- 
+        <lb ed="#Ba" n="48"/>quidae veritatis, vnde sibi quisque verum quod de his rebus potest hic illud ille aliud per longiores lo- 
+        <lb ed="#Ba" n="49"/>quelarum anfractus trahat. Vnde falsissimum est illud quod aliqui solent dicere, quod modus scietiae huius 
+        <lb ed="#Ba" n="50"/>debet esse multiformis: vt aliter alicubi fiat demonstratio veritati hebeti, aliter alicubi mediocri: &amp; ite 
+        <lb ed="#Ba" n="51"/>rum alibi aliter subtili: quia aliter erudiendi sunt paruuli &amp; imperfecti: &amp; aliter adulti &amp; perfecti. secundum  
+        <lb ed="#Ba" n="52"/>illud Apostoli i. Corith. iii. Tamquam puulis in Christo lac potum dedi vobis non escam, nondum enim poteratis: sed  
+        <lb ed="#Ba" n="53"/>nec nunc quidem potestis. Quia eim aliter &amp; aliter hi &amp; illi sunt instruendi, hoc bene est verum. Sed hoc sit quia alio 
+        <lb ed="#Ba" n="54"/>&amp; alio sensu capiunt scripturae expositionem hi &amp; illi: non quia alia dicta sacrae scripturae proponuntur inspiciem 
+        <lb ed="#Ba" n="55"/>da istis &amp; alia illis. imo omnia dicta scripturae coniter omnibus inspicienda proponuntur: quae se coaptat cuilibet iuxta 
+   <!--215.xml-->
+        <pb ed="#Ba" n="100-v"/>
+        <lb ed="#Ba" n="1"/>capaciratem suam. Vnde secundum <name ref="#Augustine">Augustinus</name> non alia seorsum sunt exponenda perfectis: &amp; alia par 
+        <lb ed="#Ba" n="2"/>uulis: sed communiter omnibus, vt capiat quisque secundum quod potest. vnde &amp; eadem doctrina propo 
+        <lb ed="#Ba" n="3"/>sita, propter diuersam capacitatem aliis est lac fidei tantum: aliis vero est solidus cibus, eorum qui cum fide pos 
+        <lb ed="#Ba" n="4"/>sunt capere intellectum aliquem, vt infra dicetur. Quia igitur sub compendio verborum simplicium 
+        <lb ed="#Ba" n="5"/>pluralitat em sententiarum colligere de diuersis &amp; diuersis congruentes &amp; sic per omnes partes 
+        <lb ed="#Ba" n="6"/>scientiae procedere est summam vniformitatem in modo tradendi &amp; describendi tenere: Dicendum  
+        <lb ed="#Ba" n="7"/>est absolute quod modus tradendi hanc scripturam summae simplicitatis &amp; vniformitatis est: &amp; tanto 
+        <lb ed="#Ba" n="8"/>maior in ea est vniformitas quanto ex parte materiae quam tractat maior est vnitas quam in aliis scientiis, vt 
+        <lb ed="#Ba" n="9"/>habitum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e1223-d1e335">
+        <lb ed="#Ba" n="10"/>⁋ Ad primum in oppositum quod in hac scientia multifariam multisque modis deus lo 
+        <lb ed="#Ba" n="11"/>cutus est: Dicendum quod illa varietas non refertur ad modum tractandi siue conscribendi illa quae sunt huius 
+        <lb ed="#Ba" n="12"/>scientiae: sed ad modum reuelandi conscribenda diuersis personis &amp; diuersimode. secundum quod ibi di-  
+        <lb ed="#Ba" n="13"/>cit Glos. Multifariam. i. multotiens, &amp; multis hominius scilicet Abrahae, lsaac &amp; lacob: &amp; caeteris, &amp; eisdem saepe mul 
+        <lb ed="#Ba" n="14"/>tis modis. i. multis quaelitatibus: quia modo per somnia, vt Danieli. modo aperta voce, vt Moysi. modo interiori in  
+        <lb ed="#Ba" n="15"/>spiratione vt Dauid. Vel vt dicit alia Glos. multifariae. i. multo &amp; diuerso genere locutionis: vt per somnia 
+        <lb ed="#Ba" n="16"/>vel inspirationes vniversalia pertas voces. Multisque modisi. i. rerum diuersis mysteriis futura significans. Sed omnis ista 
+        <lb ed="#Ba" n="17"/>diuersitas sub eodem modo tradendi hanc scientiam continetur. Vanum ergo multum est illud quod  
+        <lb ed="#Ba" n="18"/>solebat dici, quod in prophetis modus huius scientiae est reuelatiuus. Istud enim nihil admodum conscribem 
+        <lb ed="#Ba" n="19"/>di reuelata: sed solum quo ad modum percipiendi conscribenda. vnde quia quaecunque scripta sunt 
+        <lb ed="#Ba" n="20"/>in hac scientia per reuelationem agnoscebant ea conscriptores sui, per illud dictum tota ista scien- 
+        <lb ed="#Ba" n="21"/>tia modum reuelatorium habere dicenda esset: &amp; patet quam vanum hoc esset dicere. 
+      </p>
+      <p xml:id="vn58an-d1e1223-d1e364">
+        ⁋ Ad secundum quod haec est 
+        <lb ed="#Ba" n="22"/>multiformis sapientia dei: Dicendum quod verum est non quo ad modum tradendi eam, sed quo ad con- 
+        <lb ed="#Ba" n="23"/>tenta in ipsa: quia in multis &amp; mirabilibus factis sapientia dei in hac scientia describitur manifesta- 
+        <lb ed="#Ba" n="24"/>Vnde dicit ibi Glos, quod in graeco est multifaria sapientia. scilicet non solum varia: sed multa varietate distincta. 
+        <lb ed="#Ba" n="25"/>Videamus ergo quomodo est multiformis. Immensus est Christus: sed concipitur: vagit infans in 
+        <lb ed="#Ba" n="26"/>praesepio: sed ab angelis laudatur in caelo: Herodes persequitur: sed magi adorant: ignorant Pharisaei:  
+        <lb ed="#Ba" n="27"/>sed stella demonstrat. &amp;c. huiusmodi.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="242-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2668"> <!-- alias="vn58an-a38q1" -->
+      <head xml:id="vn58an-d1e2668-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e2668-Hd1e107" type="question-title">Utrum scientia Dei sit universalis an particularis</head>
+      <p xml:id="vn58an-d1e2668-d1e110">
+        <lb ed="#Ba" n="10"/>CIrca primum arguitur quod scientia dei sit vniversalis. Primo 
+        <lb ed="#Ba" n="11"/>sic. Scientia illa secundum quam maxime contingit sci 
+        <lb ed="#Ba" n="12"/>re omnia, vniuersalis est. dicente Philosopho. Scire maxi 
+        <lb ed="#Ba" n="13"/>me omnia, habentem vniuersalem scientiam necessa 
+        <lb ed="#Ba" n="14"/>rium est. scientia dei est huiusmodi, vt patet ex praecedenti 
+        <lb ed="#Ba" n="15"/>quaestione, &amp; infra patebit amplius. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2668-d1e126">
+        ⁋ Secundo  
+        <lb ed="#Ba" n="16"/>sic. illa scientia est vniuersalis, qua cognoscuntur parti 
+        <lb ed="#Ba" n="17"/>ta non partite: &amp; multa vniverslter: quia in solo vniversali sunt partita vniversalter: &amp; non partitae. scientia dei est huiusmodi secundum Diony. 
+        <lb ed="#Ba" n="18"/>vt supra in praecedenti quaestione ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2668-d1e136">
+        ⁋ Quia sit particularis arguitur, quoniam illa scientia est particularis quae vnum aliquod  
+        <lb ed="#Ba" n="19"/>ens habet obiectum. quoniam quod est obiectum scientiae vtest habitus in sciente, hoc est subiectum scientiae 
+        <lb ed="#Ba" n="20"/>vt est tradita per modum doctrinae. &amp; in doctrinis illa scientia est particularis quae vnum aliquod ens ha 
+        <lb ed="#Ba" n="21"/>bet vt subiectum, vt dicitur. 4 meta. &amp; habitum est supra in quaestionibus de subiecto &amp; vniversalitate scientiae 
+        <lb ed="#Ba" n="22"/>theologicae. scientia dei solum habet vnum aliquod ens scilicet essentiam suam obiectum, vt infra determinabi 
+        <lb ed="#Ba" n="23"/>tur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2668-d1e149">
+        ⁋ Quia neque vniversalis neque particularis debeat dici, arguitur. quoniam scientiae dicitur vniversalis propter obiectum quia est 
+        <lb ed="#Ba" n="24"/>vel. secundum quod scire Choriscum esse musicum est particularis: scire vero hominem esse musicum, est 
+        <lb ed="#Ba" n="25"/>vniversalis scientia, vt dicitur primo poster. Diuina essentia quae est sola obiectum diuinae scientiae, neque est vni 
+        <lb ed="#Ba" n="26"/>uersalis neque particularis, vt infra determinabitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2668-d1e158">
+        <lb ed="#Ba" n="27"/>⁋ Ad membra huius quaestionis possunt adduci quaedam rationes supra propositae de vni 
+        <lb ed="#Ba" n="28"/>uersalitate scientiae theologicae. Et est intelligendum quod in hac quaestione &amp; in omnibus aliis sequentibus de scientiae 
+        <lb ed="#Ba" n="29"/>dei, scientia sumitur non pro vno habitu intellectuali: sed communiter pro quolibet, &amp; pro sapientia &amp; intel 
+        <lb ed="#Ba" n="30"/>lectu &amp; arte &amp; prudentia &amp; scientia proprie dicta. secundum quod sacra scriptura vtitur singulis indifferenter pro omni 
+        <lb ed="#Ba" n="31"/>bus, vt dictum est. Ad solutionem huius quaestionis reducenda sunt ad memoriam supra determinata in quaestio 
+        <lb ed="#Ba" n="32"/>ne de vniversaltate scientiae theologicae, quoniam cum quaeritur de vniversaltate scientiae siue quae traditur per modum doctrinae extra, si 
+        <lb ed="#Ba" n="33"/>ue quae latet in mente scientis per modum habitus, non intelligitur quaestio de universalitate per praedicationem, quae consi- 
+        <lb ed="#Ba" n="34"/>deratur circa naturam &amp; essentiam rei praedicabilis de pluribus: quemadmodum scientiae simpliciter dicitur vniversalis vniversalitate ge 
+        <lb ed="#Ba" n="35"/>neris ad logicam, grammaticam, &amp; ad alias scientias scientia vero grammatica dicitur vniversalis vniversalitate speciei specialissimae 
+        <lb ed="#Ba" n="36"/>ad grammaticam Sortis &amp; ad grammaticam Platonis. Hoc modo scientia non dicitur vniversalis nisi propter vniversalitatem subiecti 
+        <lb ed="#Ba" n="37"/>&amp; obiecti, secundum quod scientia naturalis dicitur vniversalis ad scientiam caeli &amp; mundi: quia illa est de corpore mobili simpliciter 
+        <lb ed="#Ba" n="38"/>ista de corpore mobili ad situm solum: &amp; mobile simpliciter est genus ad mobile ad situm. Vnde quia diuina es- 
+        <lb ed="#Ba" n="39"/>sentia quae est sola obiectum diuinae scientiae, non est vniversale neque particulare, vt infra videbitur, scientiae igitur quae est habi- 
+        <lb ed="#Ba" n="40"/>tus in mente diuina nec est vniversalis nec particularis. Sed quemadmodum ipsa diuina essentia vere singularis est 
+        <lb ed="#Ba" n="41"/>&amp; singularitas quaedam, vt habitum est supra in quaestionibus de vnitate dei: scientiae diuina debet dici singularis 
+        <lb ed="#Ba" n="42"/>proprie loquendo: &amp; hoc secundum naturam singularitatis sui obiecti: quemadmodum in scientiis philosophicis traditis 
+        <lb ed="#Ba" n="43"/>per modum doctrinae, quaedam dicuntur vniversales per praedicationem propter vniversaltatem subiecti: &amp; quaedam particulares propter particu 
+        <lb ed="#Ba" n="44"/>laritatem. Sed de isto modo vniversalitatis non intelligitur quaestio de vniversalitate in scientiis. sic enim non esset metaphysi- 
+        <lb ed="#Ba" n="45"/>ca vniversalis: quia aut est de ente simpliciter vt de subiecto: aut de primo ente: quorum neutrum est vere 
+        <lb ed="#Ba" n="46"/>vniversale per praedicationem. &amp; cum hoc etiam si non esset vt de subiecto nisi de primo ente, quod nullo modo habet ratio 
+        <lb ed="#Ba" n="47"/>nem vniversalis praedicabilis, sicut aliquo modo habet ens: nihilominus esset scientia vniversalis, vt habitum est supra 
+        <lb ed="#Ba" n="48"/>in quaestione de vniversalitate theologicae scientiae. Immo ( vt ibi declaratum est) scientia tradita per modum doctrinae dicitur 
+        <lb ed="#Ba" n="49"/>vniversalis propter vniversalitatem seu generalitatem considerationis. Sic enim metaphysica dicitur vniversalis: quia considerat de ente 
+        <lb ed="#Ba" n="50"/>primo: &amp; eius gratia de ente simpliciter &amp; de omnibus partibus entis, secundum quod entes sunt: licet 
+        <lb ed="#Ba" n="51"/>non secundum, proprias rationes quibus sunt haec entia vel illa. Sic etiam (vt ibidem declaratum est) scientia theolo- 
+        <lb ed="#Ba" n="52"/>gica maxime dicenda est vniversalis: &amp; magis quam metaphysica: quia descendit ad considerandum de toto ente &amp; quaelibet 
+        <lb ed="#Ba" n="53"/>parte entis: non quia ens: sed quia tale ens: &amp; hoc vsque ad minima cuiuslibet entis: considerando &amp; 
+        <lb ed="#Ba" n="54"/>inspiciendo in seipso omnes rationes essentiae suae &amp; cuiuslibet entis generaliter. Vnde cum (vt ibidem 
+        <lb ed="#Ba" n="55"/>determinatum est) in hoc scientia theologica sequitur scientiam quae est in mente diuina, qua deus secum 
+   <!--500.xml-->
+        <pb ed="#Ba" n="243-r"/>
+        <lb ed="#Ba" n="1"/>cognoscendo seipso in seipso omnia alia a se vsque ad minima cognoscit, vt infra declarabitur loquendo  
+        <lb ed="#Ba" n="2"/>de tali vniuersalitate: dico quod scientia dei verissime debet dici vniversalis, vt patet ex ibi declaratis. 
+      </p>
+      <p xml:id="vn58an-d1e2668-d1e232">
+        <lb ed="#Ba" n="3"/>⁋ Per haec patent obiecta. Primum enim &amp; secundum procedunt de vniversalitate primo modo dicta. illa 
+        <lb ed="#Ba" n="4"/>enim facit maxime scire, quia est de primis principiis, &amp; in illis quodammodo scit omnia alia. secundum quod dicit 
+        <lb ed="#Ba" n="5"/>Philosophus primo metaphysicae. Scire maxime est habenti vniuersalem scientiam. hoc enim modo scit 
+        <lb ed="#Ba" n="6"/>quodammodo omnia subiecta: &amp; hoc maxime in diuina scientia: qua in vno simplici cognoscuntur 
+        <lb ed="#Ba" n="7"/>omnia impartite &amp; immaterialiter. quod appellat Dionysius. cognosci vniverslter. 
+      </p>
+      <p xml:id="vn58an-d1e2668-d1e245">
+        ⁋ Per idem patet ad tertium quod non dicitur 
+        <lb ed="#Ba" n="8"/>scientia particularis propter subiectum vel obiectum: sed propter illa ad quae se extendit notitia subie 
+        <lb ed="#Ba" n="9"/>cti vel obiecti.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

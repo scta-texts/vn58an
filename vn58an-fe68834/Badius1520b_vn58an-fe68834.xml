@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="251-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe68834"> <!-- alias="vn58an-a71q3" -->
+      <head xml:id="vn58an-fe68834-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe68834-d1e107">
+        <lb ed="#Bb" n="44"/>CIrca tertium arguitur quod similitudo &amp; aequalitas vniformiter penitus habent 
+        <lb ed="#Bb" n="45"/>esse in diuinis, primo sic. Sicut se habent in diuinis fundamenta inter se, 
+        <lb ed="#Bb" n="46"/>sic &amp; relationes fundatae in illis, quia quicquid convenit relationibus trahitur a 
+        <lb ed="#Bb" n="47"/>fundamentis. fundamenta relationum quae sunt aequalitas &amp; similitudo, sci- 
+        <lb ed="#Bb" n="48"/>licet quantitas &amp; qualitas, vniformiter habent esse in diuinis: quia ambo 
+        <lb ed="#Bb" n="49"/>sunt attributa essentialia solummodo propriis rationibus inter se &amp; ab aliis 
+        <lb ed="#Bb" n="50"/>distincta secundum superius determinata. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe68834-d1e125">
+        ⁋ Secundo sic. sicut se habent quantum &amp; qua-  
+        <lb ed="#Bb" n="51"/>le in denominando secundum se &amp; absolute illa quorum sunt quantitas &amp; qualitas: sic se habent 
+        <lb ed="#Bb" n="52"/>aequalitas &amp; similitudo in denominando eadem in ordine siue respectu &amp; comparatione ad aliud:  
+        <lb ed="#Bb" n="53"/>quia secundum eadem, scilicet secundum quantitatem &amp; qualitatem, denominantur primo quan- 
+   <!--518.xml-->
+        <pb ed="#Bb" n="252-r"/>
+        <lb ed="#Bb" n="1"/>ta &amp; qualia: secundo aequalia &amp; similia. Sed quantum &amp; quale vniformiter denominant in diui- 
+        <lb ed="#Bb" n="2"/>nis illa quorum sunt quantitas &amp; qualitas: quia sicut a quantitate denominatur aliquid quantum  
+        <lb ed="#Bb" n="3"/>sic &amp; a qualitate quale. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe68834-d1e145">
+        ⁋ In contrarium est quod aequalitas consequitur omnia quae sunt in  
+        <lb ed="#Bb" n="4"/>diuinis, quaelibet enim duo existentia in diuinis siue sint absoluta siue respectiua siue differant re siue 
+        <lb ed="#Bb" n="5"/>sola ratione: aequalia dicuntur. Similitudo autem in diuinis non sequitur nisi personas. solae enim 
+        <lb ed="#Bb" n="6"/>personae diuinae inter se similes dicuntur, secundum quod patet ex iam supra dictis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe68834-d1e155">
+        <lb ed="#Bb" n="7"/>⁋ Dico quod quaestio ista si intelligatur de aequalitate &amp; similitudine vt comparantur 
+        <lb ed="#Bb" n="8"/>secundum vniformitatem inter se: non in ordine ad fundamenta relata: sic determinata est supra 
+        <lb ed="#Bb" n="9"/>in quaestione prima de relationibus communibus vt habent esse in diuinis in generali. Si autem vt con- 
+        <lb ed="#Bb" n="10"/>parantur ad fundamenta: sic determinata est supra in quaestione secunda de relationibus commu 
+        <lb ed="#Bb" n="11"/>nibus in comparatione ad sua principia fundamentalia. Si autem intelligatur quaestio vt aequali- 
+        <lb ed="#Bb" n="12"/>tas &amp; similitudo comparantur ad diuinas personas relatas per illas specialiter: sic determinata est 
+        <lb ed="#Bb" n="13"/>supra in quaestione secunda de relationibus communibus vt habent esse in diuinis in generali. 
+        <lb ed="#Bb" n="14"/>Vnde nullo dictorum trium modorum quaestio proposita intelligenda est. Sed intelligenda est ge 
+        <lb ed="#Bb" n="15"/>neraliter in similitudine &amp; aequalitate vt comparantur generaliter ad relata per illas: siue sint per 
+        <lb ed="#Bb" n="16"/>sonae diuinae: siue quaelibet alia existentia in diuinis. Et cum vt patet ex dictis in praecedenti quae 
+        <lb ed="#Bb" n="17"/>stione, aequalia dicuntur quaecunque sunt in diuinis siue personae siue relationes siue attributa siue 
+        <lb ed="#Bb" n="18"/>existentia comparata inter se: non autem similia dicuntur nisi sole personae: idcirco licet quo ad plu 
+        <lb ed="#Bb" n="19"/>rima in diuinis aequalitas &amp; similitudo conformitatem habeant, vt quae dicuntur de vno confor 
+        <lb ed="#Bb" n="20"/>miter intelligi possint de altero: vt etiam propterea doctores quam plurima loquantur de aequalitate in  
+        <lb ed="#Bb" n="21"/>diuinis, &amp; perpauca de similitudine, dantes illa quae dicuntur de aequalitate conformiter intel- 
+        <lb ed="#Bb" n="22"/>ligi &amp; de similitudine: tamen difformitatem habent quo ad hoc quod plura in diuinis dicuntur aequa  
+        <lb ed="#Bb" n="23"/>lia quae non dicuntur esse similia: sed quaecunque dicuntur esse similia, etiam dicuntur aequalia. Cau 
+        <lb ed="#Bb" n="24"/>sa autem &amp; ratio huius difformitatis quo ad relata inter aequalitatem &amp; similitudinem ex parte 
+        <lb ed="#Bb" n="25"/>aequalitatis, est quod quantitas illa supra quam fundatur aequalitas, puta magnitudo, per se &amp; primo 
+        <lb ed="#Bb" n="26"/>est mensura substantiae siue essentiae rei: &amp; immediate insistens eidem: &amp; secundo est mensura omnium 
+        <lb ed="#Bb" n="27"/>quae insunt illi mediante substantia: vt patet in magnitudine corporali, quae non solum est mensu 
+        <lb ed="#Bb" n="28"/>ra substantiae primo &amp; per se denominans substantiam qualem, seu suppositum habens in se hu- 
+        <lb ed="#Bb" n="29"/>iusmodi substantiam extensam corporaliter, sed etiam omnium accidentium essentialiter existen- 
+        <lb ed="#Bb" n="30"/>tium in illa seu in illo: puta coloris &amp; etiam suiipsius. Non solum enim corporali magnitudine di 
+        <lb ed="#Bb" n="31"/>citur corpus seu suppositum corporeum magnum &amp; extensum corporaliter in longum aut la- 
+        <lb ed="#Bb" n="32"/>tum: sed etiam color &amp; ipsa magnitudo: &amp; vlterius per consequens non solum corpus dicitur cor- 
+        <lb ed="#Bb" n="33"/>poraliter magnitudine molis aequale alteri: sed etiam albedo existens in vno corpore etiam di- 
+        <lb ed="#Bb" n="34"/>citur aequalis albedini existenti in alio corpore: &amp; vna magnitudo dicitur aequalis alteri. Sic igi- 
+        <lb ed="#Bb" n="35"/>tur &amp; in spiritualibus magnitudo spiritualis non solum est mensura denominans substantiam spi 
+        <lb ed="#Bb" n="36"/>ritualem seu suppositum habens in se huiusmodi substantiam extensam spiritualiter primo &amp; per 
+        <lb ed="#Bb" n="37"/>se: sed etiam omnium aliorum quasi accidentium spiritualium existentium in illa seu in illo. Non 
+        <lb ed="#Bb" n="38"/>solum enim spirituali magnitudine dicitur deitas magna seu immensa &amp; extensa spiritualiter, seu 
+        <lb ed="#Bb" n="39"/>suppositum habens illam in se dicitur magnum &amp; immensum &amp; extensum spiritualiter: sed etiam 
+        <lb ed="#Bb" n="40"/>bonitas sapientia veritas &amp; caetera in eo existentia, vt dictum est: &amp; ipsa magnitudo siue immen- 
+        <lb ed="#Bb" n="41"/>sitas. Et per consequens etiam vlterius non solum dicitur vnum suppositum in deitate subsistens 
+        <lb ed="#Bb" n="42"/>esse aequale alteri: aut secundum Semiarrianos deitas vna alteri deitati: sed &amp; bonitas dicitur aequa 
+        <lb ed="#Bb" n="43"/>lis deitati &amp; sapientiae &amp; veritati, &amp; caetera omnia caeteris. Sed vna magnitudo spiritualis in crea- 
+        <lb ed="#Bb" n="44"/>turis dicitur aequalis alteri non autem in diuinis: &amp; hoc quia in eis non est nisi vna magnitudo.  
+        <lb ed="#Bb" n="45"/>Causa autem &amp; ratio huius difformitatis quo ad relata inter aequalitatem &amp; similitudinem ex 
+        <lb ed="#Bb" n="46"/>parte qualitatis est quod qualitas supra quam in diuinis fundatur similitudo: puta bonitas, non est vllo 
+        <lb ed="#Bb" n="47"/>modo forma aliquid afficiens in diuinis, aut denominans aliud quam suppositum cuius est primo per 
+        <lb ed="#Bb" n="48"/>se: non per aliquid existens in illo nisi per intellectum &amp; voluntatem quo ad bonitatem &amp; sapien- 
+        <lb ed="#Bb" n="49"/>tiam. Solum enim in diuinis dicitur suppositum bonum aut sapiens aut aliquid huiusmodi: puta 
+        <lb ed="#Bb" n="50"/>pater filius &amp; spiritus sanctus: non autem deitas, sapientia, paternitas, filiatio aut aliud aliquid 
+        <lb ed="#Bb" n="51"/>talium. Et per consequens in diuinis solum suppositum dicitur simile supposito: non autem ali-  
+        <lb ed="#Bb" n="52"/>quid aliud alteri: puta sapientia potentia, aut paternitas filiationi: licet in creaturis aliquando  
+        <lb ed="#Bb" n="53"/>afficit forma totum per partem, &amp; illud denominat: puta quod homo est bonus quia bona est anima 
+   <!--519.xml-->
+        <pb ed="#Bb" n="252-v"/>
+        <lb ed="#Bb" n="1"/>eius: &amp; albus quia corpus eius est album, &amp; corpus album dicitur quia superficies est alba. Et per 
+        <lb ed="#Bb" n="2"/>consequens vlterius non solum dicitur in creaturis totum simile toti, sed etiam pars parti: quod  
+        <lb ed="#Bb" n="3"/>nequaquam contingit in diuinis nisi quo ad intellectum &amp; voluntatem respectu sapientiae &amp; bonita- 
+        <lb ed="#Bb" n="4"/>tis. Non solum enim dicimus de qualibet diuina persona quod est sapiens &amp; bona, &amp; quod ex hoc sunt 
+        <lb ed="#Bb" n="5"/>similes: sed etiam dicimus quod intellectus illarum est sapiens: &amp; voluntas illarum est bona. Sed non  
+        <lb ed="#Bb" n="6"/>ex hoc dicimus intellectum vnius personae aut voluntatem similem esse intellectui aut volunta- 
+        <lb ed="#Bb" n="7"/>ti alterius: quia non est nisi vnus intellectus &amp; vna voluntas trium personarum. Et secundum prae- 
+        <lb ed="#Bb" n="8"/>dicta nihil est simile sibiipsi. Nisi forte dici possit quod intellectus inquantum est vnius personae alius 
+        <lb ed="#Bb" n="9"/>est secundum rationem: &amp; inquantum est alterius. Et quo ad hoc posset dici quod intellectus vnius 
+        <lb ed="#Bb" n="10"/>personae diuinae similis est in sapientia intellectui alterius: &amp; similiter in bonitate similis est volun 
+        <lb ed="#Bb" n="11"/>tas vnius personae voluntati alterius. Sic ergo causa &amp; ratio dictae difformitatis similitudinis &amp; 
+        <lb ed="#Bb" n="12"/>aequalitatis consistit in hoc videlicet quod attributa qualitatis in diuinis, puta bonitas, pietas, sapien 
+        <lb ed="#Bb" n="13"/>tia veritas &amp; caetera huiusmodi, secundum rationem inter se penitus &amp; ab aliis attributis sunt di 
+        <lb ed="#Bb" n="14"/>stincta: in eo videlicet quod non sunt alicuius denominatiua secundum qualem aut similem nisi eius 
+        <lb ed="#Bb" n="15"/>in quo sunt quasi in subiecto vt est persona secundum intellectum &amp; voluntatem, in quibus sunt 
+        <lb ed="#Bb" n="16"/>quasi habitus in prima specie qualitatis. &amp; quales esse ac similes denominant personas &amp; intelle- 
+        <lb ed="#Bb" n="17"/>ctum atque voluntatem illarum quasi potentias quasdam existentes in personis. Attributa autem qua-  
+        <lb ed="#Bb" n="18"/>litatis quae sunt magnitudo &amp; aeternitas, non sic sunt penitus secundum rationem abinuicem &amp; 
+        <lb ed="#Bb" n="19"/>ab aliis attributis distincta: quia non sunt solum aliquid illius in quo sunt quasi in subiecto pri- 
+        <lb ed="#Bb" n="20"/>mo &amp; per se: &amp; denominatio illius vt in persona: sed etiam sunt aliquid cuiuslibet quod pertinet ad  
+        <lb ed="#Bb" n="21"/>perfectionem illius vt ipsius essentiae &amp; cuiuslibet attributorum eius. Omnibus enim illis inest ma-  
+        <lb ed="#Bb" n="22"/>gnitudinis immensitas ratione perfectionis suae in esse essentiae suae, &amp; etiam immensitas aeterni 
+        <lb ed="#Bb" n="23"/>tatis ratione perfectionis in esse existentiae: licet immensitas magnitudinis &amp; aeternitatis in atttri- 
+        <lb ed="#Bb" n="24"/>butis consequantur ex immensitate magnitudinis &amp; aeternitatis essentiae, &amp; sint in deo simpliciter, 
+        <lb ed="#Bb" n="25"/>&amp; cuilibet personae diuinae ex immensitate magnitudinis essentiae illius contingit quod esse quod in creatu- 
+        <lb ed="#Bb" n="26"/>ris inuenitur esse dignitatis simpliciter eidem attribuendum est. &amp; per hoc magnitudo quae est 
+        <lb ed="#Bb" n="27"/>mensura diuinae essentiae, &amp; deriuatur in singula attributa, &amp; etiam est mensura illorum secundum 
+        <lb ed="#Bb" n="28"/>superius determinata, &amp; denominat illa: &amp; similiter aeternitas: &amp; per consequens singula eorum 
+        <lb ed="#Bb" n="29"/>inter se per magnitudinem &amp; aeternitatem denominantur esse aequalia &amp; similia: &amp; ipsa etiam 
+        <lb ed="#Bb" n="30"/>inuicem se denominant: dicendo quod bonitas est magna immensa &amp; aeterna: &amp; similiter sapientia 
+        <lb ed="#Bb" n="31"/>&amp; caetera talia. Similiter magnitudo diuina est aeterna, &amp; aeternitas diuina est magna &amp; immensa 
+        <lb ed="#Bb" n="32"/>Et idcirco etiam secundum magnitudinem &amp; aeternitatem singula in diuinis aequalia dicuntur 
+        <lb ed="#Bb" n="33"/>inter se, licet non dicantur inter se similia: nisi tantummodo personae diuinae intellectus atque volun- 
+        <lb ed="#Bb" n="34"/>tas eorum in quibus sunt habitus, qui soli sunt qualitates diuinae vt dictum est. Ex quo plane pa- 
+        <lb ed="#Bb" n="35"/>tet differentia magnitudinis spiritualis &amp; molis: quia magnitudo molis est in corporalibus acci- 
+        <lb ed="#Bb" n="36"/>dens omnino diuersum a qualibet qualitate: &amp; per quantitatem insunt illis qualitates corporales. 
+        <lb ed="#Bb" n="37"/>Vnde &amp; denominant etiam quantitatem molis: non autem subiectum illius: dicitur enim super 
+        <lb ed="#Bb" n="38"/>ficies alba &amp; colorata. Vnde &amp; duae superficies bene dicuntur similes. In spiritualibus autem non  
+        <lb ed="#Bb" n="39"/>sic: immo spiritualis magnitudo est aliquid in persectione cuiusque rei. Propter quod quaelibet illarum 
+        <lb ed="#Bb" n="40"/>denominatur a magnitudine: licet non econuerso. Et secundum hoc concedenda est vltima ratio 
+        <lb ed="#Bb" n="41"/>quae ad hoc processit. 
+        <lb ed="#Bb" n="42"/>
+      </p>
+      <p xml:id="vn58an-fe68834-d1e355">
+        ⁋ Ad primum in oppositum: quod in diuinis vniformiter se habent fundamenta aequa  
+        <lb ed="#Bb" n="43"/>litatis &amp; similitudinis, scilicet quantitas &amp; qualitas: ergo &amp; aequalitas &amp; similitudo: Dico quod quan- 
+        <lb ed="#Bb" n="44"/>titas &amp; qualitas in diuinis dupliciter considerari habent. Vno modo secundum se &amp; absolute. Et sic vt pro- 
+        <lb ed="#Bb" n="45"/>cedit argumentum &amp; bene, vniformiter habent esse in diuinis, &amp; sic secundum superius determi 
+        <lb ed="#Bb" n="46"/>nata habent rationem substantiae: &amp; non fundatur super ipsa nisi identitas. Alio modo in diuinis con 
+        <lb ed="#Bb" n="47"/>siderantur quantitas &amp; qualitas in ordine ad sua subiecta: &amp; vt sunt aliquid alterius: &amp; sic ha- 
+        <lb ed="#Bb" n="48"/>bent rationem quantitatis &amp; qualitatis: &amp; fundantur super ea aequalitas &amp; similitudo. Et quia 
+        <lb ed="#Bb" n="49"/>non se habent vniformiter ad sua subiecta, quia (vt dictum est) quicquid est in diuinis est aliquo  
+        <lb ed="#Bb" n="50"/>modo subiectum quantitatis: non autem qualitatis: idcirco quia secundum hanc rationem conse 
+        <lb ed="#Bb" n="51"/>quitur illa aequalitas &amp; similitudo: ipsa omnino difformiter se habent in diuinis: &amp; hoc 
+        <lb ed="#Bb" n="52"/>non ex aliquo defectu: sed ex conditione &amp; natura rei. 
+      </p>
+      <p xml:id="vn58an-fe68834-d1e379">
+        ⁋ Ad secundum, quod quantum &amp; qua-  
+        <lb ed="#Bb" n="53"/>le vniformiter denominant in diuinis ea quorum sunt: ergo &amp; similiter aequalitas &amp; si- 
+   <!--520.xml-->
+        <pb ed="#Bb" n="253-r"/>
+        <lb ed="#Bb" n="1"/>similitudo: Dico quod verum est quo ad hoc quod quaecunque in diuinis sunt vniformiter qualia &amp; 
+        <lb ed="#Bb" n="2"/>quanta, vniformiter sunt aequalia &amp; similia. Sed tamen non sequitur ex hoc: quaecunque in diuinis sunt 
+        <lb ed="#Bb" n="3"/>aequalia, sunt similia. Immo plura sunt aequalia quae non sunt similia: vt dictum est. Et quo ad hoc 
+        <lb ed="#Bb" n="4"/>non habent esse vniformiter in diuinis aequalitas &amp; similitudo, &amp; quale &amp; quantum: quia in diuinis 
+        <lb ed="#Bb" n="5"/>habent esse quanta siue denominantur a quantitate magna &amp; aeterna, quae nullo modo denomi- 
+        <lb ed="#Bb" n="6"/>nantur a qualitate qualia: vt patet ex dictis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

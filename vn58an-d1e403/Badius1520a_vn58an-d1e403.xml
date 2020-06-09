@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="32-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e403"> <!-- alias="vn58an-a4q5" -->
+      <head xml:id="vn58an-d1e403-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e403-Hd1e107" type="question-title">Utrum homo appetat scire ea quae notitiam rationis naturalis excedunt</head>
+      <p xml:id="vn58an-d1e403-d1e110">
+        <lb ed="#Ba" n="26"/>CIrca. v. arguitur: quod homo non appetat scire ea quae notitiam naturalis ratio- 
+        <lb ed="#Ba" n="27"/>nis excedunt. Primo sic. appetitus naturalis non excedit potentiam naturae: 
+        <lb ed="#Ba" n="28"/>quia oritur ex ipsa: &amp; effectus non transcendit causam, quare cum potentia na- 
+        <lb ed="#Ba" n="29"/>turae non potest attingere illa quae eam excedunt: neque eius appetitus vt ea ap 
+        <lb ed="#Ba" n="30"/>petat. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e123">
+        ⁋ Secundo sic: frustra res habet desiderium ad quod non potest attingere: sed  
+        <lb ed="#Ba" n="31"/>ratio naturalis non potest attingere vt cognoscat quae eam excedunt. ergo fru- 
+        <lb ed="#Ba" n="32"/>stra haberet ad sciendum illa defiderium. sed nullum defiderium naturale est frustra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e131">
+        <lb ed="#Ba" n="33"/>⁋ Tertio ex eodem medio contrario modo, argumento Auer. super principium. ii. Metaph. sic. Compehensio veri- 
+        <lb ed="#Ba" n="34"/>tatis eius non est impossibilis: cuius habemus desiderium naturale sciendi: quoniam si esset impossibilis: tuno 
+        <lb ed="#Ba" n="35"/>desiderium esset ociosum: &amp; concessum est, quod nulla res est ociosa in fundamento naturae, &amp; creatu 
+        <lb ed="#Ba" n="36"/>rae: sed comprehensio veritatis a ratione naturali eorum est impossibilis quae excedunt eam. ergo ad  
+        <lb ed="#Ba" n="37"/>sciendum illa non est ei desiderium naturale. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e144">
+        ⁋ Quarto sic: si homo ex puris naturalibus appeteret 
+        <lb ed="#Ba" n="38"/>illa scire, cum vanus esset appetitus nisi posset illa scire: nec appeteret illa scire nisi cognosceret: se 
+        <lb ed="#Ba" n="39"/>posse illa scire. ergo oporteret ex puris naturalibus se credere quod posset illa scire. sed hoc non est 
+        <lb ed="#Ba" n="40"/>nisi ex fide. ergo ex puris naturalibus posset haberi fides. consequens est falsum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e153">
+        ⁋ Ad op- 
+        <lb ed="#Ba" n="41"/>positum arguitur primo sic. quod naturaliter est in potentia ad aliqua, naturaliter desiderat fieri 
+        <lb ed="#Ba" n="42"/>in actu illa: sicut patet de materia ad omnes formas ad quas est in potentia: quia naturaliter il- 
+        <lb ed="#Ba" n="43"/>las desiderat: sed homo naturaliter est in potentia vt sciat omnia etiam supernaturalia: vt di- 
+        <lb ed="#Ba" n="44"/>ctum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e164">
+        ⁋ Secundo sic. omnes homines secundum Augu. natura desiderant beatitu 
+        <lb ed="#Ba" n="45"/>dinem: non nisi illam quae vera est: quia natura non desiderat nisi quod melius est &amp; bonum simplici 
+        <lb ed="#Ba" n="46"/>ter. Vnde <name ref="#Boethius">Boethius</name> . Mentibus hominum inserta est summi veri, &amp; boni cupiditas. sed bona beatitu- 
+        <lb ed="#Ba" n="47"/>dinis sunt supra notitiam naturalis rationis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e176">
+        <lb ed="#Ba" n="48"/>⁋ Auer. comment. Philosophi, qui exponens illud. ii. Metaph. Dispositio intellectus in 
+        <lb ed="#Ba" n="49"/>anima: &amp;c. ponit quod homo ex naturalibus suis possit deuenire vt intelligat primum principium: 
+        <lb ed="#Ba" n="50"/>&amp; principia separata post ipsum: Diceret quod desiderium hominis esset ad sciendum ea: nec sine illo 
+        <lb ed="#Ba" n="51"/>rum adeptione cessaret appetitus. Hoc licet verum sit: tamen error est illud ex quo ponit. Ponit enim 
+        <lb ed="#Ba" n="52"/>quoniam ex pura cognitione naturali quae est ex phantasmatibus de rebus sensibilibus possibile sit 
+        <lb ed="#Ba" n="53"/>deuenire in cognitionem quidditatis substantiarum separatarum: quod erroneum est: quia medium 
+        <lb ed="#Ba" n="54"/>cognoscendi ex phantasmatibus limitatum est: vt de substantiis separatis ex sensibilibus, sicut ex effecti- 
+   <!--80.xml-->
+        <pb ed="#Ba" n="33-r"/>
+        <lb ed="#Ba" n="1"/>bus earum, amplius non potest homo cognoscere nisi quia sunt: non autem quid sunt: nisi in generali 
+        <lb ed="#Ba" n="2"/>&amp; remanet omnino cognoscendum quid in natura &amp; in substantia sunt in speciali. Cum enim 
+        <lb ed="#Ba" n="3"/>effectus exteriores sint effectus artis siue substantiae separatae vt ars est: non autem essentiae vt essen- 
+        <lb ed="#Ba" n="4"/>tia est: in notitiam artis ducere possent vt ars est: non autem in notitiam essentiae vt essentia est. Limi 
+        <lb ed="#Ba" n="5"/>tata est ergo in hoc notitia naturalis: vt ad illa cognoscenda attingere non possit: nec ad hoc se ex 
+        <lb ed="#Ba" n="6"/>tendit lumen intellectus agentis: vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e211">
+        ⁋ Philosophis ponentes finem humanae cognitionis ex puris na- 
+        <lb ed="#Ba" n="7"/>turalibus haberi: &amp; in vita sua ex cognitione scientiarum speculatiuarum &amp; primorum principio- 
+        <lb ed="#Ba" n="8"/>rum quantum homini possibile est: &amp; quod in modica cognitione diuinorum consistit eius summa perfe- 
+        <lb ed="#Ba" n="9"/>ctio &amp; delectatio: licet non possit attingere ad quiditates substantiarum separatarum: &amp; eorum quae  
+        <lb ed="#Ba" n="10"/>apud illas sunt: Dicerent quod homo nullum appetitum haberet sciendi illa: ex quo ex suis naturalibus 
+        <lb ed="#Ba" n="11"/>ad ea peruenire non posset: ne ille appetitus esset frustra. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e225">
+        ⁋ Sed quod hoc non potest stare: apparet tri- 
+        <lb ed="#Ba" n="12"/>plici via. Primo ex parte intellectus humani: quoniam secundum philosophum ipse est: in potentia omnia intelli 
+        <lb ed="#Ba" n="13"/>gibilia: sicut sensus sensibilia: &amp; hoc non solum omnia intelligibilia ex sensibus abstracta: sed etiam 
+        <lb ed="#Ba" n="14"/>ex se separata. Cum enim secundum <name ref="#Aristotle">Philosophum</name> illa nobis sunt difficile intelligibilia: non propter se: 
+        <lb ed="#Ba" n="15"/>sed propter nos: non tamen vt ibi dicit Comment. sunt impossibilia nobis intelligi. Frustra enim essent 
+        <lb ed="#Ba" n="16"/>facta nobis intelligibilia: si nunquam ea intelligere possemus. sicut frustra esset factus sol nobis visibi- 
+        <lb ed="#Ba" n="17"/>lis: si eum nullo modo videre possemus. ita quod sicut prima materia si esset in potentia ad for- 
+        <lb ed="#Ba" n="18"/>mas: vt quasdam posset recipere opere naturae: &amp; alias non posset recipere nisi opere supernatura- 
+        <lb ed="#Ba" n="19"/>li: omnes tamen tam has quam illas naturaliter appeteret: Sic intellectus humanus cum sit in poten- 
+        <lb ed="#Ba" n="20"/>tia vt perficiatur notitia rerum naturalium quam potest sua actione attingere naturaliter: &amp; si- 
+        <lb ed="#Ba" n="21"/>militer supernaturalium quam solum potest supernaturaliter attingere: naturaliter appetat tam istam 
+        <lb ed="#Ba" n="22"/>notitiam quam illam: vt non solum homo ante adeptionem scientiae rerum naturalium appetat illarum notitiam: 
+        <lb ed="#Ba" n="23"/>immo post adeptionem scientiae rerum naturalium appetat etiam notitiam rerum supernaturalium. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e257">
+        <lb ed="#Ba" n="24"/>⁋ Secunda via patet idem ex parte scientiae incompletae: quam habet ex rebus naturalibus ad illa superiora co 
+        <lb ed="#Ba" n="25"/>gnoscenda: quoniam omne imperfectum quid se experitur imperfectum in aliquo actu, desiderat consequi per- 
+        <lb ed="#Ba" n="26"/>rectionem in illo: quoniam notitia imperfecta de aliquo necessario excitat intellectum bene dispositum ad 
+        <lb ed="#Ba" n="27"/>desiderandum eius perfectionem. Nunc autem experimur in nobis notitiam imperfectam separatorum ex 
+        <lb ed="#Ba" n="28"/>effectibus eorum scilicet notitiam quia sunt, &amp; quid sunt in generali: quae est imperfecta respectu notitia 
+        <lb ed="#Ba" n="29"/>eorum quid sunt in speciali. sicut in complexis imperfecta est notitia quia est, vt sol quod eclipsatur, nisi scientia 
+        <lb ed="#Ba" n="30"/>tur quare eclipsatur. Quare necessarium est quod homo desideret consequi illam notitiam perfectam. 
+        <lb ed="#Ba" n="31"/>Ex hoc ergo quod homo aliqua ex creaturis: sensibilibus cognoscat de deo &amp; separatis non quiescit eius 
+        <lb ed="#Ba" n="32"/>desiderium: sed necessario excitatur magis ad cognoscendum ea, ad quae tamen naturaliter attinge 
+        <lb ed="#Ba" n="33"/>re non potest. Semper enim effectus cognitus incitat appetitum ad cognoscendum causam igno-  
+        <lb ed="#Ba" n="34"/>tam: secundum quod dicitur. i. Metaph. de primis Philosophis: quod videntes a principio effectus apparen- 
+        <lb ed="#Ba" n="35"/>tes &amp; deficientes in cognitione causarum: vt de lunae passionibus: &amp; iis aeque fiunt circa solem, &amp; astra, 
+        <lb ed="#Ba" n="36"/>admirati sunt: &amp; propter id quid est admirari: tunc primum inceperunt philosophari. &amp; constat quod hoc 
+        <lb ed="#Ba" n="37"/>non erat: nisi quia ex eis quae nouerunt excitatus est in eis appetitus ad cognoscendum ea quae late 
+        <lb ed="#Ba" n="38"/>re eis perceperunt. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e292">
+        ⁋ Et ex hoc perfecte apparet tertia via. Non enim solum est in homine desiderium 
+        <lb ed="#Ba" n="39"/>ad percipiendum imperfectam notitiam: quam experitur in se: sed etiam ad expellendum illam quam in  
+        <lb ed="#Ba" n="40"/>se experitur ignorantiam: secundum quod etiam dicitur ibidem. Propter id quid est fugere ignorantiam 
+        <lb ed="#Ba" n="41"/>philosophati sunt. Quare cum homo. ex effectibus creaturarum experitur esse illa: quae naturalem eius cogni 
+        <lb ed="#Ba" n="42"/>tionem excedunt: &amp; scit naturam &amp; quiditatem eorum sibi esse ignotam: impossibile est quod appeti 
+        <lb ed="#Ba" n="43"/>tus eius non tendit ad illa cognoscenda: &amp; tanto magis quanto plura circa illa per creaturas experitur: 
+        <lb ed="#Ba" n="44"/>&amp; cognoscit ex hoc suam incompletam cognitionem &amp; ignorantiam: vt praedictum est. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e308">
+        <lb ed="#Ba" n="45"/>⁋ Absolute ergo dicendum, quod homo appetit scire ea quae rationis naturalis notitiam 
+        <lb ed="#Ba" n="46"/>excedunt: ita quod per naturam quiescere non potest humanus appetitus: quousque deueniat ad aper 
+        <lb ed="#Ba" n="47"/>tam notitiam separatorum, maxime quiditatis &amp; essentiae eius qui est prima veritas: ita quod nihil 
+        <lb ed="#Ba" n="48"/>citra ipsam sedare posset eius appetitum: etiam si videat clare omnes substantias angelicas: immo 
+        <lb ed="#Ba" n="49"/>tunc amplius eius desiderium ad nudam diuinam essentiam videndam excitaretur: quanto propinquior 
+        <lb ed="#Ba" n="50"/>esset fini: &amp; ei magis assimularetur: secundum quod videmus corpora moueri ad loca sibi naturalia, &amp; 
+        <lb ed="#Ba" n="51"/>tanto velocius moueri, quanto magis propinquant fini. Nullum ergo firmiter scibile potest quietare 
+        <lb ed="#Ba" n="52"/>appetitum hominis in sciendo: sed solum illud infinitum in summo cardine rerum constitutum. Cum 
+        <lb ed="#Ba" n="53"/>enim anima naturaliter capax sit summi boni per affectum: &amp; summi veri per intellectum: minori 
+        <lb ed="#Ba" n="54"/>impleri non potest: quia quod potest capere maius: non potest impleri minori: sed semper remaneret 
+   <!--81.xml-->
+        <pb ed="#Ba" n="33-v"/>
+        <lb ed="#Ba" n="1"/>aliquid de vacuo quod appeteretur impleri: &amp; ita adhuc etiam non esset quies. Et ideo dicit beatus 
+        <lb ed="#Ba" n="2"/>Augustinus in prin. Confes. Tu excitas vt laudare te delectet: quia fecisti nos ad te: &amp; inquietum est 
+        <lb ed="#Ba" n="3"/>cor nostrum donec quiescat in te. Reuera magna est confusio philosophorum: qui haec omnia vi- 
+        <lb ed="#Ba" n="4"/>dere poterant: immo quia necessario viderunt: &amp; in seipsis experti sunt: &amp; tamen in infimis perfectionem 
+        <lb ed="#Ba" n="5"/>humanae notitiae posuerunt. vnde &amp; multi eorum ex desiderio quod perceperunt hominem habere 
+        <lb ed="#Ba" n="6"/>ad illa cognoscenda, bene perceperunt quod notitia illorum non esset homini impossibilis: quoniam deside- 
+        <lb ed="#Ba" n="7"/>rium naturale non potest esse frustra neque ociosum: vt manifeste Comment. Auer. concludit super se- 
+        <lb ed="#Ba" n="8"/>cundum Metaph. &amp; ideo multis &amp; variis modis, sed erroneis conati sunt ostendere quomodo homo 
+        <lb ed="#Ba" n="9"/>ad perfectam notitiam illorum posset in vita ista peruenire. Viderunt enim bene (vt dicit Augus. 
+        <lb ed="#Ba" n="10"/>super Io. quo oportebat tendere: sed viam ignorauerunt, quae est via fidei: qua oportet prius oculum 
+        <lb ed="#Ba" n="11"/>mentis purgari: vt tandem ad illorum notitiam homo mereatur peruenire: non per naturam, sed per  
+        <lb ed="#Ba" n="12"/>gratiam, nec in hac vita: nisi forte ex priuilegio speciali: sed in futura. Errabant ergo dicentes sepa 
+        <lb ed="#Ba" n="13"/>rata quo ad essentias &amp; quiditates suas cognosci posse ex puris naturalibus, plus dando naturae 
+        <lb ed="#Ba" n="14"/>quam habuerit. Errabant etiam dicentes quod quiditates illae clare ab homine cognosci non possent: quia ex na 
+        <lb ed="#Ba" n="15"/>turalibus ad illas attingere non possent: denegando naturae quod habuit scilicet potentiam receptiuam vnius 
+        <lb ed="#Ba" n="16"/>ex dono alterius. Medium est ergo tenendum scilicet vt notitiam illorum recipere poterit: sed quod propria 
+        <lb ed="#Ba" n="17"/>actione ad illam attingere non poterit. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e373">
+        ⁋ Ad primum in oppositum: quod appetitus non excedit potem 
+        <lb ed="#Ba" n="18"/>tiam naturae: Dicendum quod notitia illorum non excedit potentiam naturae: quin naturalis ratio il-  
+        <lb ed="#Ba" n="19"/>la cognoscere possit: licet ex puris naturalibus ad illorum notitiam non possit attingere: sed solum per gratiam 
+        <lb ed="#Ba" n="20"/>&amp; adiutorium luminis infusi. Nunc autem appetitu naturali &amp; cognoscitiuo non solum inclinatur res 
+        <lb ed="#Ba" n="21"/>ad illud ad quod per se potest attingere: sed etiam ad illud ad quod naturaliter ordinatur vt dono alterius at  
+        <lb ed="#Ba" n="22"/>tingat illud. licet enim non nisi dono alterius ad illud attingat, nihilominus tamen oportet quod in se 
+        <lb ed="#Ba" n="23"/>naturalem potentiam habeat: qua attingere possit. secundum quod dicit Ioan. <name ref="#JohnDamascenus">Damascenus</name> in libro de duabus na. 
+        <lb ed="#Ba" n="24"/>&amp; vna persona Christian, contra illos qui dicunt quod homo de se nullam habet volitiuam potentiam: sed  
+        <lb ed="#Ba" n="25"/>a deo habet bonam voluntatem: malam autem a diabolo. Dicit enim quod isti ignorant quod impossibile est 
+        <lb ed="#Ba" n="26"/>qualenmcumque naturam vti actione cuius potentiam non secundum naturam accepit. Et per idem patet ad secun 
+        <lb ed="#Ba" n="27"/>dum. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e400">
+        ⁋ Et dicitur ad tertium quod est ex dicto Auer. prin. secun. Metaphysicae. quid ex hoc probauit quod separa 
+        <lb ed="#Ba" n="28"/>ta possunt ab homine cognosci quid sint: quod verum est: sed non ex puris naturalibus illorum notitiam 
+        <lb ed="#Ba" n="29"/>acquirendo: sicut ipse aestimauit: sed ex dono gratuito. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e408">
+        ⁋ Ad quartum: quod ratio naturalis iudicat impossi 
+        <lb ed="#Ba" n="30"/>bile hominem illa cognoscere: Dicendum quod falsum est: licet philosophi illud opinati sunt, quid non ponebant hominem 
+        <lb ed="#Ba" n="31"/>eleuari vltra illud quod posset per naturam. 
+      </p>
+      <p xml:id="vn58an-d1e403-d1e415">
+        ⁋ Ad quintum: quod cognoscere se posse illa scire non est nisi ex 
+        <lb ed="#Ba" n="32"/>fide: Dicendum quod non est verum: immo ex puris naturalibus posset illud cognoscere. posset enim ex puris 
+        <lb ed="#Ba" n="33"/>naturalibus scire se ad illorum notitiam per se venire non posse: &amp; ignorantiam eius experiri: &amp; scire quod intelle 
+        <lb ed="#Ba" n="34"/>ctus hominis esset in potentia ad illa cognoscenda: &amp; ita quod naturaliter illorum notitiam appete- 
+        <lb ed="#Ba" n="35"/>ret. Et si stetisset philosophus in hoc, nec nimium praesumendo a recta ratione errasset: cognoscens 
+        <lb ed="#Ba" n="36"/>propriam infirmitatem, &amp; ignorantiam, &amp; imperfectionem, compulsus fuisset diuinum adiutorium 
+        <lb ed="#Ba" n="37"/>inuocare: &amp; percepisset donum, quo sciret quomodo ad illorum notitiam ascendere deberet. sed nunc de pro  
+        <lb ed="#Ba" n="38"/>prio ingenio confidens: &amp; arrogantia excaecatus in errores a recta ratione deuiauit: vel confidendo  
+        <lb ed="#Ba" n="39"/>quod propriis viribus illam notitiam attingere posset: vel quod omnino eam percipere non posset: &amp; ita 
+        <lb ed="#Ba" n="40"/>ab eius perceptione in desperationem cecidit: &amp; per hoc nec se notitiam illius appetere percepit: quia 
+        <lb ed="#Ba" n="41"/>bene percepisset: si se in naturali rectitudine tenuisset. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

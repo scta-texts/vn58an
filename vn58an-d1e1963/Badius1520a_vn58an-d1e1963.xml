@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="166-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1963"> <!-- alias="vn58an-a28q2" -->
+      <head xml:id="vn58an-d1e1963-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e1963-Hd1e107" type="question-title">Utrum in Deo sit compositio ex materia de forma</head>
+      <p xml:id="vn58an-d1e1963-d1e110">
+   <!--346.xml-->
+            <pb ed="#Ba" n="166-r"/>
+        <lb ed="#Ba" n="1"/>CIrca secundum arguitur quod in deo sit compositio ex materia &amp; forma. Primo sic. quae 
+        <lb ed="#Ba" n="2"/>scunque plura in forma conueniunt, habent formam in materia, vt vult <name ref="#Aristotle">Philosophus</name> 
+        <lb ed="#Ba" n="3"/>in xii. metaphy. Deus &amp; creatura sunt huiusmodi. bonum enim, iustum, verum, ens: &amp; huiusmodi 
+        <lb ed="#Ba" n="4"/>fformae sunt: in quibus deus &amp; creatura conueniunt. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1963-d1e129">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="5"/>quod est singulare &amp; indiuiduum habet formam in materia: quia secundum Philoso- 
+        <lb ed="#Ba" n="6"/>phum indiuiduatio fit per materiam. Deus est huiusmodi, vt habitum est supra. ergo 
+        <lb ed="#Ba" n="7"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1963-d1e139">
+        ⁋ Contra est, quoniam omne compositum ex materia &amp; forma habet causam 
+        <lb ed="#Ba" n="8"/>esse formae in materia: cum materia est quantum est de se solummodo in potentia: &amp; nihil seipsum du 
+        <lb ed="#Ba" n="9"/>cit de potentia in actum: &amp; ita tale est ens causatum, Deus non est ens causatum secundum praedeterminata. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1963-d1e146">
+        <lb ed="#Ba" n="10"/>⁋ Si dicamus quod materia non est nisi in corporalibus, secundum quod dicit Auicen. in 
+        <lb ed="#Ba" n="11"/>ii. metaphysi. Non est opus materia nisi corporeitati inquantum est corporeitas: cum vt dictum est in 
+        <lb ed="#Ba" n="12"/>praecedenti quaest. in deo non potest esse corporeitas cum non sit corpus: planum est quod dicendum est 
+        <lb ed="#Ba" n="13"/>in proposito, quod in deo nulla est compositio ex materia &amp; forma. Si autem materiam non demus cor- 
+        <lb ed="#Ba" n="14"/>poralibus tantum: sed etiam incorporalibus: adhuc dicendum quod propter proprietates quae necessario consequum 
+        <lb ed="#Ba" n="15"/>tur compositum ex materia &amp; forma, Deus nullo modo potest esse compositus ex materia &amp; forma 
+      </p>
+      <p xml:id="vn58an-d1e1963-d1e162">
+        <lb ed="#Ba" n="16"/>⁋ Ad cuius intellectum sciendum: quod licet compositio ex materia &amp; forma minor sit compositio- 
+        <lb ed="#Ba" n="17"/>ne illa quae est ex partibus quantitatiuis, nec includit eam: quia &amp; materia &amp; forma in composito 
+        <lb ed="#Ba" n="18"/>praecedunt rationem quantitatis: sicut substantia praecedit accidens: ipsa tamen est maior illa quae est 
+        <lb ed="#Ba" n="19"/>ex genere &amp; differentia: &amp; includit eam. Omne enim compositum ex materia &amp; forma compositum 
+        <lb ed="#Ba" n="20"/>est ex genere &amp; differentia. Genus enim sequitur materiam in rebus materialibus. &amp; forte non sequi 
+        <lb ed="#Ba" n="21"/>tur nisi materiam: ita quod non possit esse ratio generis nisi in rebus materialibus, vt infra declarabitur 
+        <lb ed="#Ba" n="22"/>Et sic omne compositum ex materia &amp; forma est species sub genere in praedicamento substantiae: cuius 
+        <lb ed="#Ba" n="23"/>partes tam materia quam forma quantum est de se sunt possibiles esse &amp; non esse. Materia enim vt dicit 
+        <lb ed="#Ba" n="24"/>Auicen. in ii. metaphy. non est per se species existens perfecta in effectu: sed acquiritur ei sua existen- 
+        <lb ed="#Ba" n="25"/>tia perfecta in specie ex eo quod aduenit in illam id quod est forma: quae etiam per se non habet esse: sed solum 
+        <lb ed="#Ba" n="26"/>per hoc quod est in materia: quorum collectio scilicet materiae &amp; formae in composito, est ipsa species: in qua 
+        <lb ed="#Ba" n="27"/>vtrumque eorum est sicut pars: &amp; ideo vt dicit Auicen. sine dubio habent causam quae facit illa debere 
+        <lb ed="#Ba" n="28"/>esse: quod per consequens est causa esse totius compositi ex eis. Vnde &amp; probat <name ref="#Aristotle">Philosophus</name> per hoc quod 
+        <lb ed="#Ba" n="29"/>primum agens &amp; mouens, quia non potest habere suum esse aliunde, non potest esse compositum ex 
+        <lb ed="#Ba" n="30"/>materia &amp; forma. Quare cum deus est primum ens &amp; primum mouens: non potens habere causam 
+        <lb ed="#Ba" n="31"/>sui esse, vt patet ex supra determinatis: igitur nullo modo potest esse compositus ex materia &amp; for 
+        <lb ed="#Ba" n="32"/>ma. secundum quod processit ratio ad istam partem. Quod etiam ex hoc declaratur, quoniam omne habens formam in ma 
+        <lb ed="#Ba" n="33"/>teria necessario habet esse participatum: quod habet formam quae est sua quiditas &amp; essentia participa 
+        <lb ed="#Ba" n="34"/>tam per determinationem eius in materia, a qua habet suum esse, vt infra clarius exponetur. Deus autem 
+        <lb ed="#Ba" n="35"/>non potest habere esse participatum, neque per aliquid ei adueniens determinatum, vt habitum est 
+        <lb ed="#Ba" n="36"/>supra. Idcirco simpliciter dicendum quod omnino absurdum est ponere &amp; impossibile quod deus sit con- 
+        <lb ed="#Ba" n="37"/>positus ex materia &amp; forma. 
+      </p>
+      <p xml:id="vn58an-d1e1963-d1e215">
+        <lb ed="#Ba" n="38"/>⁋ Ad primum argumentum in oppositum quod deus &amp; creatura formam conmunem 
+        <lb ed="#Ba" n="39"/>participant &amp;c. Dicendum quod falsum est, Deus enim nullo participat secundum praedeterminata. Veruntamen dicen 
+        <lb ed="#Ba" n="40"/>dum quod duplex est formae comnmunitas, vel per participationem formae eiusdem secundum speciem vel secundum ge  
+        <lb ed="#Ba" n="41"/>nus, vel per analogiam &amp; per comparationem formarum omnino diuersarum inter se. De iis quae conveniunt in 
+        <lb ed="#Ba" n="42"/>forma primo modo, solum habet veritatem dictum Philosophi. Si tamen aliquid veritatis habet in 
+        <lb ed="#Ba" n="43"/>se: de quo alias debet esse sermo. Sic autem non communicant in forma deus &amp; creatura: sed solum se 
+        <lb ed="#Ba" n="44"/>cundo modo vt habitum est supra, &amp; amplius videbitur infra. de quibus non verificatur dictum Phi 
+        <lb ed="#Ba" n="45"/>losophi. 
+      </p>
+      <p xml:id="vn58an-d1e1963-d1e235">
+        ⁋ Ad secundum quod non est singulare nisi per materiam &amp;c. Dicendum quod cum singulare &amp; indiuiduum 
+        <lb ed="#Ba" n="46"/>inquantum huiusmodi dicat quandam incommunicabilitatem: aut ergo res habet illam ratione sui esse 
+        <lb ed="#Ba" n="47"/>&amp; naturae: aut non: sed solum ratione modi subsistendi indeterminato supposito, cuiusmodi rationem de 
+        <lb ed="#Ba" n="48"/>se non importat. Primo modo rationem singularis &amp; indiuidui solus deus habet: qui ex eo quod est 
+        <lb ed="#Ba" n="49"/>necesse esse, singularitas quaedam est, vt habitum est supra, &amp; infra habebitur amplius. De eo quid sic 
+        <lb ed="#Ba" n="50"/>est singulare, nullo modo habet veritatem dictum Philosophi. tale enim singulare nihil est nisi per suam 
+        <lb ed="#Ba" n="51"/>essentiam. Vnde &amp; ipsemet in. 4. metaphysy. dicit, quod in separatis a materia vnumquodque ex se habet esse 
+        <lb ed="#Ba" n="52"/>id quod est: hoc est indiuiduum &amp; singulare per essentiam suam. ex quo necesse habuit ponere quod in  
+        <lb ed="#Ba" n="53"/>eis sub eadem specie impossibile esset ponere plura indiuidua. sed non est ita, vt infra patebit. Secun- 
+        <lb ed="#Ba" n="54"/>do autem modo rationem indiuidui &amp; singularis habet omnis forma creata quae est essentia &amp; qui-  
+   <!--347.xml-->
+        <pb ed="#Ba" n="166-v"/>
+        <lb ed="#Ba" n="1"/>ditas rei subsistentis. cui proprie debetur indiuiduatio: non autem formae quae est altera pars compositi, vt 
+        <lb ed="#Ba" n="2"/>infra dicetur: quia forma ex eo quod est forma siue essentia quaedam, omnino indeterminata est ad rationem 
+        <lb ed="#Ba" n="3"/>communis &amp; singularis, vniuersalis &amp; particularis. Dia enim talia sunt de numero eorum quae accidunt es 
+        <lb ed="#Ba" n="4"/>sentiae creatae vt essentia est: ex eo scilicet quod recipit determinationem in supposito in quo subsistit aut vni 
+        <lb ed="#Ba" n="5"/>uersali aut singulari. Suppositum enim inquantum suppositum subsistit formae: &amp; ratione subsistentiae 
+        <lb ed="#Ba" n="6"/>quam de se importat, habet rationem determinationis formae in se: per quam recipit rationem vniuersalis, si si 
+        <lb ed="#Ba" n="7"/>gnificetur per suppositum indeterminatum cuiusmodi est animal aut homo: vel indiuidui particularis, si si 
+        <lb ed="#Ba" n="8"/>gnificetur per suppositum singulare cuiusmodi est hoc animal, vel hic homo. secundum quod amplius declarabitur 
+        <lb ed="#Ba" n="9"/>inferius. Et de eo quid sic factum est indiuidum. scilicet per determinationem sui in supposito, quia. scilicet forma ipsa 
+        <lb ed="#Ba" n="10"/>&amp; essentia de se indeterminata est, solum habet veritatem dictum Philos. Nec tamen forte de omni forma crea 
+        <lb ed="#Ba" n="11"/>ta. nisi ponamus materiam esse in omnibus creatis tam spiritualibus quam corporalibus. ponendo enim quod non 
+        <lb ed="#Ba" n="12"/>sit materia in incorporalibus: &amp; quod tamen omnis essentia creaturae quantum est de se indeterminata est 
+        <lb ed="#Ba" n="13"/>&amp; indifferens, vt ei accidat ratio indiuidui &amp; particularis per determinationem in supposito defi- 
+        <lb ed="#Ba" n="14"/>nito in se subsistente, &amp; ratio vniuersalis per determinationem in supposito indefinito per intelle- 
+        <lb ed="#Ba" n="15"/>ctum abstracto a suppositis definitis, ponenda est ratio indiuiduationis in creaturis spiritualibus 
+        <lb ed="#Ba" n="16"/>aliter quam per materiam, vt per accidentia hypostatica, vel per actionem efficientis quod facit eam subsistere in  
+        <lb ed="#Ba" n="17"/>determinato supposito: ita quod ratio huiusmodi determinationis in supposito determinato, est si- 
+        <lb ed="#Ba" n="18"/>cut, propria causa per se essentialis indiuiduationis in vnoquoque indiuiduo creaturae, &amp; est extra ratio 
+        <lb ed="#Ba" n="19"/>nem essentiae vt est essentia, quae etiam ex se non est nata fieri in esse a quocumque agente nisi singulariter 
+        <lb ed="#Ba" n="20"/>Sed de hoc debet esse sermo in suo loco inferius.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

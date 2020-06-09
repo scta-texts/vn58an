@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="136-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe37331"> <!-- alias="vn58an-a59q1" -->
+      <head xml:id="vn58an-fe37331-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe37331-d1e107">
+        <lb ed="#Bb" n="42"/>Circa primum arguitur quod generari non sit proprietas filii, Primo sic. si vnum oppositorum 
+        <lb ed="#Bb" n="43"/>est aliquod nobilitatis simpliciter, reliquum non est aliquid nobilitatis simpliciter quia in omnibus 
+        <lb ed="#Bb" n="44"/>ppositis semper est alterum eorum nobilius, secundum philosophum. x. Meta. cum ergo generari fiue ge 
+        <lb ed="#Bb" n="45"/>nitum esse &amp; non generari siue ingenitum esse sint opposita: &amp; non generari siue inge- 
+        <lb ed="#Bb" n="46"/>nitum esse est nobilitatis simpliciter: &amp; ideo proprietas patris, vt habitum est supra: 
+        <lb ed="#Bb" n="47"/>genari siue genitum esse non potest esse aliquod nobilitatis simpliciter. Sed nihil est pro- 
+        <lb ed="#Bb" n="48"/>prietas siue notio alicuius personae nisi sit aliquid quid est nobilitatis simpliciter: vt habitum est supra. er- 
+        <lb ed="#Bb" n="49"/>go &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe37331-d1e127">
+        ⁋ Secundo sic. productio similis in natura est generatio. spiritus sancti productio est productio si 
+        <lb ed="#Bb" n="50"/>milis in natura. Est enim spiritus sanctus similis in natura patri &amp; filio, sicut filius est similis patri. 
+        <lb ed="#Bb" n="51"/>spiritus sancti ergo productio est generatio. spiritus sanctus ergo generatur. sed quod alteri personae convenit 
+        <lb ed="#Bb" n="52"/>non est proptietas vnius. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe37331-d1e136">
+        ⁋ Contra. relatiue oppositorum in diuinis inter duas solas personas si 
+        <lb ed="#Bb" n="53"/>vnum eorum est proprietas vnius personae, alterum est proprietas alterius. generare &amp; generari relatiue opponum 
+        <lb ed="#Bb" n="54"/>tur inter solum patrem &amp; filium: quia solus pater generat &amp; solus filius generatur, vt habitum est 
+        <lb ed="#Bb" n="55"/>supra: &amp; iam infra amplius patebit, quare cum generare sit proprietas pris: consimiliter generari est proprietas filii. 
+   <!--287.xml-->
+        <pb ed="#Bb" n="136-v"/>
+      </p>
+      <p xml:id="vn58an-fe37331-d1e150">
+        <lb ed="#Bb" n="1"/>⁋ Dicendum ad hoc: quod cum generari dicitur aliquid dupliciter, subiectiue &amp; obie 
+        <lb ed="#Bb" n="2"/>ctiue, vt in sequenti quaestione declarabitur: &amp; generari subiectiue non est nisi materiae vel quasi, vt 
+        <lb ed="#Bb" n="3"/>declarabitur ibidem: quasi autem materia siue subiectum generationis diuinae non est nisi essentia diuina 
+        <lb ed="#Bb" n="4"/>licet sub ratione intellectus: de qua quidem essentia sub ratione intellectus generans generat, vt habitum 
+        <lb ed="#Bb" n="5"/>est iam supra: generari autem subiectiue non est proprie nisi subiecti generationis vel quasi: &amp; non nisi 
+        <lb ed="#Bb" n="6"/>in illo: Generari ergo hoc modo non est proprietas nisi essentiae, &amp; in illa: &amp; non filii, neque in filio, ni 
+        <lb ed="#Bb" n="7"/>si ratione essentiae existentis in illo per generationem: sed sic nullo modo est notio. An tamen sit 
+        <lb ed="#Bb" n="8"/>eius vt est in filio, an vt est in patre, de hoc erit sermo in sequenti quaestione. Restat ergo dubitatio 
+        <lb ed="#Bb" n="9"/>de generari obiectiue, &amp; est dicendum quod cum generari obiectiue dicit ab alio esse sub modo quo-  
+        <lb ed="#Bb" n="10"/>dam determinato: Est enim generari idem quod procedere accipiendo esse ab alio simile in natura il 
+        <lb ed="#Bb" n="11"/>li a quo accipit: &amp; hoc modo naturae: secundum hoc de ipso generari in diuinis contingit loqui du 
+        <lb ed="#Bb" n="12"/>pliciter. Vno modo ratione ipsius processionis ab alio, qua simpliciter aliquis habet ab alio esse. Alio 
+        <lb ed="#Bb" n="13"/>modo ratione modi determinati quo ab alio habet esse siue procedere. scilicet modo naturae: qui distin-  
+        <lb ed="#Bb" n="14"/>puitur ab alio modo procedendi passiue, qui est spirari, &amp; a quo nomen eius quod est generari imponitur. 
+        <lb ed="#Bb" n="15"/>Primo modo generati non distinguitur a spirari: quia ambo dicunt processionem passiuam qua ha 
+        <lb ed="#Bb" n="16"/>betur esse ab alio. Sed secundo modo abinuicem distinguuntur. modus enim determinatus in spi 
+        <lb ed="#Bb" n="17"/>rari, alius est a modo determinato in generari, vt habitum est supra, &amp; iam amplius habebitur in  
+        <lb ed="#Bb" n="18"/>fra. Et primo modo nec per generari nec per spirari importatur notio siue proprietas aliqua sic enim 
+        <lb ed="#Bb" n="19"/>ab alio esse esset proprietas siue notio vna communis filio &amp; spiritu sancto, quia. scilicet ambo habent esse ab alio. 
+        <lb ed="#Bb" n="20"/>Et si esse ab alio simpliciter esset proprietas siue notio, eius oppositum scilicet non esse ab alio simpli- 
+        <lb ed="#Bb" n="21"/>citer, nullo modo posset poni proprietas siue notio primae personae in diuinis, quia (vt procedit tertia ob- 
+        <lb ed="#Bb" n="22"/>iectio) si vnum oppositorum est dignitatis simpliciter, tunc non est reliquum dignitatis simpliciter. Vnde esse ab alio 
+        <lb ed="#Bb" n="23"/>simpliciter &amp; passiuae. nullo modo potest esse proprietas siue notio: sed si esse ab alio passiue sit notio, hoc non 
+        <lb ed="#Bb" n="24"/>est nisi ratione modi determinati quo habet esse ab alio, sicut nec esse a quo alius simpliciter. Sic enim cum 
+        <lb ed="#Bb" n="25"/>a patre est filius, &amp; a filio spiritus sanctus, ex hoc praeter conem spirationem actiuam esset vna notio commu- 
+        <lb ed="#Bb" n="26"/>nis patri &amp; filio: scilicet quia a patre est filius: &amp; a filio spiritus sanctus: etiam si spiritus sanctus 
+        <lb ed="#Bb" n="27"/>non a patre, sed a solo filio procederet. Sed si esse a quo alius actiue sit notio, hoc non est nisi ratio 
+        <lb ed="#Bb" n="28"/>ne modi determinati quo habet esse a quo alius: &amp; hoc ideo, quia ipsum simpliciter eo quod habet ra 
+        <lb ed="#Bb" n="29"/>tionem communis &amp; confusi, non importat id quod est dignitatis simpliciter, sed illam solummo-  
+        <lb ed="#Bb" n="30"/>do importat ratio quasi determinans ipsum confusum. Similiter nec est notio esse ab alio simpli 
+        <lb ed="#Bb" n="31"/>citer: sicut nec notio siue proprietas est esse a quo non est alius: quod convenit spiritui sancto: eo quod est 
+        <lb ed="#Bb" n="32"/>negatio non fundata in aliquo positiuo, quae nihil dignitatis omnino importare potest: Negatio enim 
+        <lb ed="#Bb" n="33"/>nihil dignitatis importare potest nisi ratione positiui substrati, vt habitum est supra: sed solummo-  
+        <lb ed="#Bb" n="34"/>do in eo quod est non ab alio esse: ipsum simpliciter proprietas est siue notio in prima diuinarum persona- 
+        <lb ed="#Bb" n="35"/>rum: &amp; hoc non ratione negationis, vt dictum est supra loquendo de ingenito: sed ratione positionis 
+        <lb ed="#Bb" n="36"/>substratae: quae est a quo alius. Quae positio tribus modis potest considerari. Primo modo vt in ge- 
+        <lb ed="#Bb" n="37"/>nere siue omnino simpliciter &amp; absolute: secundum quod a quo alius, est commune ad a quo alius per gene- 
+        <lb ed="#Bb" n="38"/>rationem, &amp; per spirationem, &amp; per creationem. Secundo modo vt in specie specialissima siue o- 
+        <lb ed="#Bb" n="39"/>mnino sub modo determinato: secundum quod a quo alius determinate dicit a quo alius per genera- 
+        <lb ed="#Bb" n="40"/>tionem, aut per spirationem, aut per creationem. Tertio modo vt a quo alius medio modo intelligatur 
+        <lb ed="#Bb" n="41"/>quasi in specie subalterna siue sub modo non determiato: secundum quod a quo alius non accipitur omnino 
+        <lb ed="#Bb" n="42"/>indeterminate, nec omnino determinate per generationem, aut spirationem, aut creationem: sed partim 
+        <lb ed="#Bb" n="43"/>indeterminate partim determinate, scilicet secundum quod dicit a quo alius primo. Est autem ipsum simpli- 
+        <lb ed="#Bb" n="44"/>citer non ab alio habere esse, notio siue proprietas ratione positionis substratae negationi quae est a quo alius 
+        <lb ed="#Bb" n="45"/>non primo modo considerando ipsum a quo alius: quia a quo alius illo modo partim conuenit filio, quia 
+        <lb ed="#Bb" n="46"/>ab ipso &amp; patre sunt spiritus sanctus &amp; creaturae, &amp; partim toti trinitatii quia a tota trinitate sunt crea- 
+        <lb ed="#Bb" n="47"/>turae: proprium autem vni personae non convenit ei nisi ratione eius quod sibi soli convenit: nec secundo modo 
+        <lb ed="#Bb" n="48"/>considerando ipsum a quo alius: quia nec ratione illius a quo alius per spirationem: quia illud etiam conuenit filio si 
+        <lb ed="#Bb" n="49"/>cut patri: &amp; proprium patri non potest ei convenire per id quid est ei cone cum filio: nec similiter ratione illius a 
+        <lb ed="#Bb" n="50"/>quo alius per generationem, quia secundum <name ref="#Augustine">Augustinus</name> vt habitum est supra, prima persona in diuinis etsi non generaret 
+        <lb ed="#Bb" n="51"/>nihilominus diceretur ingenita esse. Est igitur non ab alio esse notio siue proprietas ratione posi 
+        <lb ed="#Bb" n="52"/>tionis substratae negationi quae est a quo alius, tertio modo considerando ipsum a quo alius, scilicet 
+        <lb ed="#Bb" n="53"/>quod dicit a quo alius primo. Ex hoc enim non ab alio esse est notio negatiua personae alicuius, quia ab  
+        <lb ed="#Bb" n="54"/>illa habet esse alius primo: &amp; hoc simpliciter accipiendo primo: quia si per impossibile persona non  
+        <lb ed="#Bb" n="55"/>habens esse ab alio in diuinis: non primo generaret, sed primo spiraret: aut nec generaret nec spi 
+   <!--288.xml-->
+        <pb ed="#Bb" n="137-r"/>
+        <lb ed="#Bb" n="1"/>raret primo, sed primo crearet: non ab alio habere esse, esset notio in illa inquantum fundatur in eo quod est 
+        <lb ed="#Bb" n="2"/>a quo alius primo. Et hoc modo intelligitur dictum Augustini de prima persona quae non est ab alia in 
+        <lb ed="#Bb" n="3"/>diuinis: quod si non generaret, nihil minus esset ingenita: dum tamen primo spiraret &amp; secundo generaret &amp; ter- 
+        <lb ed="#Bb" n="4"/>tio crearet, aut primo crearet &amp; nec generaret nec spiraret. secundum quod Pagani ponunt vnam personam 
+        <lb ed="#Bb" n="5"/>absolutam ingenitam in diuinis, quae primo creat, &amp; deinde virtute accepta ab ipsa vlterius ipsa creata ge- 
+        <lb ed="#Bb" n="6"/>nerant. Vnde non ab alio esse, quod importatur nomine igeniti, non proprie supponit generare sicut nec spirare aut 
+        <lb ed="#Bb" n="7"/>creare: nec fundatur in ipso: sed in aliquo communiori: quod praecise non supponit nisi producere primo sim- 
+        <lb ed="#Bb" n="8"/>pliciter, &amp; in illo fundatur, siue ipsum producere primo esset generare siue spirare siue creare. Quia etsi ex na 
+        <lb ed="#Bb" n="9"/>tura rei in diuinis primum producere necessario &amp; naturaliter non est nisi generare: &amp; ad hoc aspiciendo  
+        <lb ed="#Bb" n="10"/>supra loquendo de ingenito, determinauimus quod supponit generare: &amp; in quaestione praecedente quod suppo- 
+        <lb ed="#Bb" n="11"/>nit generatiuum secundum rationem generatiui: cum tamen ingenitum non supponit ipsum producere primo ratione qua  
+        <lb ed="#Bb" n="12"/>ipsum est generare aut generatiuum, sed solummodo ratione qua ipsum est producere primo simpliciter: quia etsi per im 
+        <lb ed="#Bb" n="13"/>possibile producere primo non esset generare: non esse tamen ab alio, importatum nomine ingenitum, esset notio, vt di 
+        <lb ed="#Bb" n="14"/>ctum est: Propter hoc ingenitum dicitur esse notio negatiua ratione primitatis simpliciter quam supponit &amp; in  
+        <lb ed="#Bb" n="15"/>qua fundatur: cum tamen ipsa primitas non sit notio nisi inquantum incidit in generationem actiuam, quae secundum rem 
+        <lb ed="#Bb" n="16"/>&amp; naturam est prima productio: vt secundum veritatem ordine quodam rationis a quo alius siue producere primo 
+        <lb ed="#Bb" n="17"/>sit primum secundum rationem: secundum vero ingenitum: tertium generatiuum: quartum posse gener are: quintum genera- 
+        <lb ed="#Bb" n="18"/>re: sextum patrem esse. Et est aduertendum quod notio ista negatiua non proprie exprimitur nomine ingeniti: quia nomine 
+        <lb ed="#Bb" n="19"/>ingeniti magis determinata negatio importatur quam requirat haec proprietas: quia inge nitum dicit non ab  
+        <lb ed="#Bb" n="20"/>alio esse per generationem: &amp; fundatur negatio vt sic significata in affirmatione magis determinata quam 
+        <lb ed="#Bb" n="21"/>requirat ista proprietas: quia in eo a quo est alius per generationem. Ista enim proprietas dicit non esse ab alio simplicite 
+        <lb ed="#Bb" n="22"/>&amp; fundatur negatio haec in affirmatione quae est a quo est alius primo simpliciter, siue fuerit per generationem si- 
+        <lb ed="#Bb" n="23"/>ue quocumque alio modo. Quia tamen nomen proprium non est impositum productioni simpliciter quae dicitur aliquis esse 
+        <lb ed="#Bb" n="24"/>a quo alius primo simpliciter: &amp; generare est, proprium nomen primae productionis secundum naturam rei: ideo 
+        <lb ed="#Bb" n="25"/>in ista proprietate significanda vtimur cum negatione ista productione passiua quae est prima secundum rem- 
+        <lb ed="#Bb" n="26"/>&amp; determinata loco productionis passiuae, quae est prima indeterminate, dicendo ingenitum quasi vice eius 
+        <lb ed="#Bb" n="27"/>quod est improcedens. Quod enim sic est ingenitum quod neoc immediate nec mediate habet esse per generatio- 
+        <lb ed="#Bb" n="28"/>nem omnino, non procedit habendo siue accipiendo esse ab alio. Vnde illud positiuum super quod fundatur non ab  
+        <lb ed="#Bb" n="29"/>alio esse vt sit notio, non est notio. Non enim a quo alius primo, est notio nisi ratione modi determina 
+        <lb ed="#Bb" n="30"/>tim scilicet per generationem aut per spirationem. Propter quod dictum est supra: quod ingenitum est notio negatiua 
+        <lb ed="#Bb" n="31"/>&amp; hoc non nisi ratione negationis: vt tamen fundatur in affirmatione: non autem ratione ipsius affirmationis. 
+        <lb ed="#Bb" n="32"/>Et sicut a quo alius primo, non est notio nisi ratione modi determinati, quo scilicet est a quo per generationem 
+        <lb ed="#Bb" n="33"/>quae secundum rem &amp; naturam est prima productio actiua ratione sui modi determinati, importans quod est digni 
+        <lb ed="#Bb" n="34"/>tatis simpliciter, quod non importat ipsum indeterminatum: sic qui ab alio primo, non est notio nisi ratione 
+        <lb ed="#Bb" n="35"/>modi determinati: quo scilicet est qui ab alio per generationem: quae secundum rem &amp; naturam est prima productio passiua 
+        <lb ed="#Bb" n="36"/>ratione sui modi determinati quid importat id quid est dignitatis simpliciter: quod non importat ipsum inde- 
+        <lb ed="#Bb" n="37"/>terminatum inquantum ratio sua deficit a ratione determinati. Et sic per consimilem modum determinationis in 
+        <lb ed="#Bb" n="38"/>generare &amp; generari, aequalis dignitatis est in diuinis generare &amp; generari: &amp; est generari notio filii si- 
+        <lb ed="#Bb" n="39"/>cut &amp; generare est notio patris. 
+        <lb ed="#Bb" n="40"/>
+      </p>
+      <p xml:id="vn58an-fe37331-d1e366">
+        ⁋ Ad illud quod arguitur primo in oppositum, quod non generari est dignitas &amp; notio, er- 
+        <lb ed="#Bb" n="41"/>go eius oppositum quod est generari nec est dignitas nec notio: Dicendum quod verum esset si ingenitum vniversali non 
+        <lb ed="#Bb" n="42"/>generari esset notio ratione purae negationis: &amp; maxime vt negat specialiter ipsum generari. Nunc autem  
+        <lb ed="#Bb" n="43"/>quia non est notio nisi ratione negationis vt fundatur super affirmationem quae est a quo alius primo sicut dictum 
+        <lb ed="#Bb" n="44"/>est: &amp; generari non ponitur notio nisi ratione affirmationis ipsius esse ab alio per generationem: idcirco vtrumque eorum scilicet 
+        <lb ed="#Bb" n="45"/>&amp; generari &amp; non generari siue non genitum, esse possunt notiones: vnum affirmatiua ratione generationis passiuae af  
+        <lb ed="#Bb" n="46"/>firmatae: alterum negatiua ratione esse ab alio, etiam per generationem negati cum positione eius a quo alius primo. 
+        <lb ed="#Bb" n="47"/>
+      </p>
+      <p xml:id="vn58an-fe37331-d1e384">
+        ⁋ Ad secundum, quod generari convenit non tantum filio: sed &amp; spiritui sancto: quia producitur simul in natura: Di 
+        <lb ed="#Bb" n="48"/>cendum secundum superius determinata &amp; inferius amplius declaranda, quod generari non conuenit spiritui san- 
+        <lb ed="#Bb" n="49"/>cto. Quamuis enim ipse productus est similis in natura, non tamen producitur sub ratione similis &amp; modo principa 
+        <lb ed="#Bb" n="50"/>li naturae: quem requirit productio quae est generari. 
+      </p>
+      <p xml:id="vn58an-fe37331-d1e393">
+        ⁋ Tertium argumentum concedendum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

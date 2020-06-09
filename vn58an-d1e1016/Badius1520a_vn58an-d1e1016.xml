@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="84-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1016"> <!-- alias="vn58an-a12q1" -->
+      <head xml:id="vn58an-d1e1016-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1016-Hd1e107" type="question-title">Utrum mulier possit esse auditor seu auditrix theologiae</head>
+      <p xml:id="vn58an-d1e1016-d1e110">
+   <!--182.xml-->
+            <pb ed="#Ba" n="84-r"/>
+        <lb ed="#Ba" n="1"/>CIrca primum arguitur: quod mulier possit &amp; debeat esse auditor huius scientiae. Pri 
+        <lb ed="#Ba" n="2"/>mo sic. qui tenetur aliqua scire: potest &amp; debet scientiam audire ex qua illa sciuntur 
+        <lb ed="#Ba" n="3"/>quia nisi audiendo non posset scire illa. mulier tenetur scire illa quae sunt necessaria 
+        <lb ed="#Ba" n="4"/>ad salutem: quae non sciuntur nisi ex hac scientia: quia secundum Aug. ipsa est eorum quae sunt 
+        <lb ed="#Ba" n="5"/>necessaria ad salutem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1016-d1e128">
+        ⁋ Secundo sic. Nullum imperfectum debet impediri a pro 
+        <lb ed="#Ba" n="6"/>secutione suae perfectionis: Mulier est imperfecta in scientiis &amp; virtutibus sicut &amp; 
+        <lb ed="#Ba" n="7"/>vir, quae proueniunt ex auditu huius scientiae. Prouer. ii. Audiat sapientiam auris tua. Et sequitur. Tunc intelli 
+        <lb ed="#Ba" n="8"/>ges timorem domini: &amp; scientiam dei inuenies. ergo ab auditu huius scientiae impediri non debet. Pote 
+        <lb ed="#Ba" n="9"/>rit ergo esse auditor eius. 
+      </p>
+      <p xml:id="vn58an-d1e1016-d1e140">
+        ⁋ Contra. cum ista scientia non legatur nisi lectione publica: quem non 
+        <lb ed="#Ba" n="10"/>licet discere in publica lectione, non licet audire hanc scientiam. mulierem non licet discere in publica le 
+        <lb ed="#Ba" n="11"/>ctione. secundum illud. i. Cori. xiiii. Mulieres si quid volunt discere domiviros suos interrogent. Gl. Tm 
+      </p>
+      <p xml:id="vn58an-d1e1016-d1e147">
+        <lb ed="#Ba" n="12"/>⁋ Dicendum ad hoc: quod non est aliquis auditor scientiae cuiuscumque nisi vt instruatur in eis quae 
+        <lb ed="#Ba" n="13"/>sunt scientiae. Et quicumque est instruendus in scientia aliqua vel in eis quae pertinent ad ipsam, debet esse ali- 
+        <lb ed="#Ba" n="14"/>quo modo auditor eius. Quare cum huius scientiae sunt quaecumque sunt necessaria sciri ad salutem tam viro qua 
+        <lb ed="#Ba" n="15"/>mulieri siue in vita, siue in moribus: &amp; in his duobus quilibet homo est instruendus: vndeai&amp; praedica- 
+        <lb ed="#Ba" n="16"/>tio apistsoli de istis duobus erat. secundum quod super illud. i. Corin. ii. Non iudicaui me scire aliquid inter vos:  
+        <lb ed="#Ba" n="17"/>nisi dominum lesum Christun. dicit Gl. Sciendum quod Christum praedicat non solum qui fidem eius astruit:  
+        <lb ed="#Ba" n="18"/>sed &amp; quid mores quibus in ea viuitur, instruit. Non ergo ita accipiendum est quod hic dixit Apostolus: tamquam ea 
+        <lb ed="#Ba" n="19"/>tantum dixerit quae sunt credenda de Christo: sed etiam quae obseruanda sunt aut in vita: aut in mori- 
+        <lb ed="#Ba" n="20"/>bus ei quid accedit ad compagen corporis Christian. Necesse est ergo ponere quod quilibet Christianus etiam 
+        <lb ed="#Ba" n="21"/>mulier debeat esse auditor huius scientiae. Veruntamen intelligendum, quod secundum <name ref="#Augustine">Augustinus</name> ix. de civitate dicis in his quae 
+        <lb ed="#Ba" n="22"/>sunt fidei &amp; morum homo dupliciter potest instrui. Vno modo vt sciat tantum quid credendum: &amp; quod agen  
+        <lb ed="#Ba" n="23"/>dum propter adipiscendam vitam aeternam. Alio modo vt sciat quoniam hoc ipsum opituletur piis: &amp; contra im- 
+        <lb ed="#Ba" n="24"/>pios defendatur. Hoc secundo modo non debet esse aliquis huius scientiae auditor vt instruatur in ea, nisi 
+        <lb ed="#Ba" n="25"/>cuius est scire profunda huius scientiae: &amp; ea publice aliis suadere: &amp; contra aduersarios defendere 
+        <lb ed="#Ba" n="26"/>Quare cum hoc non licet facere mulierem: tum quia non licet eam publice docere: vt dictum est supra: immo 
+        <lb ed="#Ba" n="27"/>propter debilitatem ingenii muliebris non est possibile eam ad tantam perfectionem huius scientiae paruenire: in 
+        <lb ed="#Ba" n="28"/>mo profundando se in scrutando occulta huius scientiae, potius errando deficeret quam proficeret. Sic enim sciendo  
+        <lb ed="#Ba" n="29"/>vt dicit <name ref="#Augustine">Augustinus</name> hac scientia non pollent fideles plurimi: quamuis fide polleant plurimi: &amp; pauci sic ad eam 
+        <lb ed="#Ba" n="30"/>sciendam parueniunt: vt dicit contra epistolam fundamenti. Hoc ergo modo mulierem non licet esse auditorem 
+        <lb ed="#Ba" n="31"/>huius scientiae. Primo autem mod scilicet vt sciat quid credendum, &amp; quod agendum tantum, iterum distinguendum, quod in hoc 
+        <lb ed="#Ba" n="32"/>istrui potest dupliciter. Vno modo vt sciat homo ex ea quae saluti suae sunt necessaria: secundum statum suum sibi 
+        <lb ed="#Ba" n="33"/>congruentia. Alio modo, vt cum hoc etiam sciat ex ea quae secundum statum suum ei sunt inconpetentia. Hoc secundo modo 
+        <lb ed="#Ba" n="34"/>adhuc non licet mulierem esse auditorem huius scientiae: vt instruatur ex ea in illis quae scire eam non expedit 
+        <lb ed="#Ba" n="35"/>secundum statum suum. Vnde doctor discretus debet mulieri proponere ex hac scientia solummodo: quae ei opus est 
+        <lb ed="#Ba" n="36"/>scire: &amp; expediens: &amp; non vlteriora: etiam si ea discere velit: quia curiosae sunt ad sciendum mulieres quae 
+        <lb ed="#Ba" n="37"/>eis scire non expedit. Hoc est Gl. eis prohibet super illud. i. Tim. ii. Mulier in silentio discat. Nihil (inquit- 
+        <lb ed="#Ba" n="38"/>interrogans discat quod ignorat. Quod ignorat dico scilicet ignorantia pariculosa ad salutem. de qua dicit Apostolus 
+        <lb ed="#Ba" n="39"/>gnorans ignorabitur. Vnde multum fatue agunt qui mulieres vltra id quod decet &amp; expedit eas scire 
+        <lb ed="#Ba" n="40"/>ex hac scientia instruunt: &amp; maxime qui eis occulta scripturae pandunt: &amp; in vulgari sermone sacros 
+        <lb ed="#Ba" n="41"/>libros eis transferunt ad legendum. Audire autem hanc scientiam ad sciendum ea quae sunt ei necessaria ad sa- 
+        <lb ed="#Ba" n="42"/>lutem: &amp; expedientia secundum statum suum: bene licitum est mulieri: immo opportunum: sicut &amp; cuilibet hominim. 
+        <lb ed="#Ba" n="43"/>Sed tunc distinguendum est de audiendo hanc scientiam: quia autem contigit eam audire in lectione: qua series 
+        <lb ed="#Ba" n="44"/>sacrae scripturae exponitur: vel in praedicatione: qua quod expediens est de sacra scriptura proponitur. Primo 
+        <lb ed="#Ba" n="45"/>modo non licet omnino mulierem esse auditorem huius scientiae. tum quia in lectione proponuntur &amp; exponuntur ar 
+        <lb ed="#Ba" n="46"/>dua &amp; secreta scientiae quae non expedit mulierem audire. tum quia non licet mulierem hoc modo in publico 
+        <lb ed="#Ba" n="47"/>discere. Secundum illud. i. Tim. ii. Mulier in silentio discat. Secundo mod scilicet in praedicatione tam publica quam pri- 
+        <lb ed="#Ba" n="48"/>uata licet mulieri hanc scientiam audire: quia in praedicatione non sunt proponenda vlteriora: quam quae expe 
+        <lb ed="#Ba" n="49"/>diunt secundum communem statum saluti humanae. De hoc modo audiendi dicitur Deut. xxxi. Leges verba libri 
+        <lb ed="#Ba" n="50"/>huius coram omni Israel: tam viris quam mulieribus: paruulis &amp; aduenis: vt audientes discant &amp; timeantu 
+        <lb ed="#Ba" n="51"/>dominum: &amp; custodiant impleantque omnes sermones legis huius. Quia si vlterius aliquid velit addiscere 
+        <lb ed="#Ba" n="52"/>non debet publice praedicatorem interrogare: sed domi in secreto virum suum: vel quemcumque alium quid debet 
+        <lb ed="#Ba" n="53"/>in hoc esse ei loco viri. Et hoc est quod dicit Apostopus. i. Corin. xiiii. Mulieres in ecclesia taceant. 
+        <lb ed="#Ba" n="54"/>Si quid autem volunt discere viros suos interrogent. &amp; hoc domi tantum: vt dicit Gl. Turpe autem est 
+        <lb ed="#Ba" n="55"/>mulierem in ecclesia loqui. Gl. Quia contra disciplinam ecclesiasticam est. 
+      </p>
+      <p xml:id="vn58an-d1e1016-d1e251">
+   <!--183.xml-->
+            <pb ed="#Ba" n="84-v"/>
+        <lb ed="#Ba" n="1"/>
+        ⁋ Per dicta patet ad primum argumentum responsio. bene enim licet mulierem 
+        <lb ed="#Ba" n="2"/>esse auditorem huius scientiae ad sciendum sibi necessaria: non alia: &amp; hoc non lectione publica 
+        <lb ed="#Ba" n="3"/>sed praedicatione siue publica: siue priuata. 
+      </p>
+      <p xml:id="vn58an-d1e1016-d1e264">
+        ⁋ Ad secundum: quod mulier est imperfecta sicut &amp; vir 
+        <lb ed="#Ba" n="4"/>respectu eorum quae sunt scienda ex hac scientia: Dicendum quod verum est: sed non est ita disposita: 
+        <lb ed="#Ba" n="5"/>vt per notitiam eorum quae sunt huius scientiae perficiatur sicut vir, vt dictum est. Et ideo non per- 
+        <lb ed="#Ba" n="6"/>mittitur ei vt studeat ad perficiendum se per notitiam huius scientiae in hac vita: nisi quatenus sufficit 
+        <lb ed="#Ba" n="7"/>ei vt perueniat ad gloriam sempiternam: in qua perficietur omne quod imperfectum est hic.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

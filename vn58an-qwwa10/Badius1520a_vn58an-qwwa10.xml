@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwa10"> <!-- alias="vn58an-a10prae" -->
+      <head xml:id="vn58an-qwwa10-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwa10-d1e107">
+        <lb ed="#Ba" n="22"/>Art. A. de auctoritate sacrae scripturae. 
+        <lb ed="#Ba" n="23"/>Equitur de auctoritate huius scientiae: &amp; quia de eius aucto 
+        <lb ed="#Ba" n="24"/>ritate super alias scientias patet sufficienter ex habitis supra, comparan- 
+        <lb ed="#Ba" n="25"/>do eam ad alias: restant hic quaerenda de auctoritate eius respectu aucto 
+        <lb ed="#Ba" n="26"/>ritatis ecclesiae &amp; rationis naturalis, tria. 
+        <lb ed="#Ba" n="27"/>Primum: vtrum magis credendum est auctoritati huius scientiae quam ec- 
+        <lb ed="#Ba" n="28"/>clesiae, an econuerso. 
+        <lb ed="#Ba" n="29"/>Secundum: vtrum magis credendum est auctoritati huius scientiae, quam  
+        <lb ed="#Ba" n="30"/>rationi naturali.  
+        <lb ed="#Ba" n="31"/>Tertium: vtrum auctoritas huius scripturae possit esse contraria ratio 
+        <lb ed="#Ba" n="32"/>ni naturali. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

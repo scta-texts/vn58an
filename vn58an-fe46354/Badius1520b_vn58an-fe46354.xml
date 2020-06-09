@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="169-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe46354"> <!-- alias="vn58an-a60q6" -->
+      <head xml:id="vn58an-fe46354-Hd1e104">Quaestio 6</head>
+      <p xml:id="vn58an-fe46354-d1e107">
+        <lb ed="#Bb" n="24"/>CIrca sextum arguitur quod spiratio actiua sit proprietas siue actio vnius spiratoris, 
+        <lb ed="#Bb" n="25"/>Primo sic. sicut in denominando passio se habet ad passum, sic actio ad agentem. 
+        <lb ed="#Bb" n="26"/>sed spiratione quasi passiua non dicitur spiratus nisi vnus: ergo &amp; spiratione acti- 
+        <lb ed="#Bb" n="27"/>ua non dicitur spirator nisi vnus. 
+      </p>
+      <p xml:id="vn58an-fe46354-d1e118">
+        ⁋ Secundo sic. sicut se habet creatio actiua ad  
+        <lb ed="#Bb" n="28"/>creantem, sic spiratio actiua ad spirantem. sed quamquam plures sint creantes, tamen non dicitur 
+        <lb ed="#Bb" n="29"/>nisi vnus creator. ergo quamquam plures sint spirantes non tamen dicetur esse nisi 
+        <lb ed="#Bb" n="30"/>vnus spirator. 
+      </p>
+      <p xml:id="vn58an-fe46354-d1e127">
+        ⁋ Contrarium profitentur plures doctores: qui dicunt quod pater &amp; filius sunt duo  
+        <lb ed="#Bb" n="31"/>spiratores. 
+        <lb ed="#Bb" n="32"/>
+      </p>
+      <p xml:id="vn58an-fe46354-d1e135">
+        ⁋ Dico quod differt quaerere, An spiratio sit actio vnius personae, &amp; an sit actio vnius 
+        <lb ed="#Bb" n="33"/>spirantis. De primo expeditum est supra: vbi determinando de diuinis proprietatibus in genera- 
+        <lb ed="#Bb" n="34"/>li, determinatum est quod non solus pater spirat, sed etiam filius: ita quod in diuinis nulla potest esse actio 
+        <lb ed="#Bb" n="35"/>vnius personae tantum praeter generationem, nec potest procedere a sola prima persona nisi secunda sola. Quia  
+        <lb ed="#Bb" n="36"/>si tertia sit persona in diuinis, oportet quod illa procedat a prima &amp; secunda simul: &amp; si quarta, opor 
+        <lb ed="#Bb" n="37"/>teret quod procederet a tribus primis, &amp; sic deinceps. &amp; hoc quia sic est circa diuinas productiones, quod vi- 
+        <lb ed="#Bb" n="38"/>res productiuae sunt ordinatae: queadmodum secundum praedicta ordinatae sunt vires productiuae mo-  
+        <lb ed="#Bb" n="39"/>do intellectus &amp; voluntatis: &amp; semper producto per primam vim, a producente communicatur omnis 
+        <lb ed="#Bb" n="40"/>alia vis productiua. De secundo dicetur inferius disputando de modo loquendi de deo, assignando ra 
+        <lb ed="#Bb" n="41"/>tionem quare verba &amp; participia in diuinis pluraliter praedicantur de pluribus agentibus, non sic autem sem- 
+        <lb ed="#Bb" n="42"/>per verbalia nomina. Dicimus enim quod pater &amp; filius &amp; spiritus sanctus sunt tres creantes, non sic dicimus quod  
+        <lb ed="#Bb" n="43"/>sunt tres creatores. De tertio enim secus est. Dicimus enim quod pater &amp; filius sunt spiratores. Et sic ad pro 
+        <lb ed="#Bb" n="44"/>positam quaestionem dico quod spiratio actiua non est actio vnius spiratoris, sed plurium. Et hoc ideo, quia ra- 
+        <lb ed="#Bb" n="45"/>tio spirandi ad hoc quod ea quis spiret, ex conditione &amp; natura sua requirit pluralitatem spirantium: ita 
+        <lb ed="#Bb" n="46"/>quod si per impossibile poneretur quod productione generationis non communicaretur voluntas paterna, impossi- 
+        <lb ed="#Bb" n="47"/>bile esset ponere quod solus pater spiraret, quia (vt dictum est supra) non est voluntas ratio spiran- 
+        <lb ed="#Bb" n="48"/>di nisi sit concors plurium, nec aliter esset ad spirandum foecunda. 
+        <lb ed="#Bb" n="49"/>
+      </p>
+      <p xml:id="vn58an-fe46354-d1e174">
+        ⁋ Per hoc patet ad primum in oppositum dicendo quod non est simile de spiratione 
+        <lb ed="#Bb" n="50"/>actiua &amp; passiua: quoniam spirationis passiuae ratio nullam pluralitatem requirit spiratorum pas- 
+        <lb ed="#Bb" n="51"/>siue: sed est per spirationem passiuam constitutiua personae iam spiratae, vt iam dictum est supra. &amp; ideo 
+        <lb ed="#Bb" n="52"/>sicut ipsa est vnica, &amp; similiter spiratio passiua: sic necessario persona spirata est vnica. Spirationis 
+        <lb ed="#Bb" n="53"/>autem actiuae ratio non est constitutiua personae: sed secundum praedictum modum requirit quod sit 
+        <lb ed="#Bb" n="54"/>plurium personarum: eo quod licet sit vnica in radice voluntatis &amp; vt est ratio spirandi quasi remo 
+   <!--354.xml-->
+        <pb ed="#Bb" n="170-r"/>
+        <lb ed="#Bb" n="1"/>ta, est tamen quasi bifurcata per hoc quod debet esse concors ad hoc quod sit ratio spirandi quasi pro- 
+        <lb ed="#Bb" n="2"/>pinqua. Sic autem non est quasi bifurcata nisi per hoc quod non est foecunda nisi vt est duorum. 
+      </p>
+      <p xml:id="vn58an-fe46354-d1e196">
+        ⁋ Ad 
+        <lb ed="#Bb" n="3"/>secundum dico quod non est simile de creatione actiua, quoniam ratio creandi qua plures creant: sic vni 
+        <lb ed="#Bb" n="4"/>ca est quod sub omnimoda ratione vnitatis omnimodae est ratio creandi plurium. Propter quod etsi 
+        <lb ed="#Bb" n="5"/>plures creant: creant tamen vt vnum, &amp; ideo non sunt nisi vnus creator. Ratio autem spirandi qua  
+        <lb ed="#Bb" n="6"/>plures spirant, licet vnica sit, non tamen sub omnimoda ratione vnitatis, siue sub ratione omni- 
+        <lb ed="#Bb" n="7"/>modae vnitatis est ratio spirandi plurium, sed (vt dictum est) sub ratione quodammodo bifurcata sci 
+        <lb ed="#Bb" n="8"/>licet vt est plurium concors. Propter quod plures spirant: &amp; ideo non sunt vnus spirator sed plures 
+        <lb ed="#Bb" n="9"/>spiratores. Vnde quod plures creant vt sunt vnus, spirant tamen vt sunt plures, patet ex hoc: quod si per 
+        <lb ed="#Bb" n="10"/>impossibile ponatur esse vnica persona in diuinis absoluta, &amp; nulla persona relatiua, illa posset crea- 
+        <lb ed="#Bb" n="11"/>re ratione diuinae substantiae quae in illa esset. Si autem per impossibile amoueatur vis spiratiua a si 
+        <lb ed="#Bb" n="12"/>lio: vt per generationem non communicetur ei voluntas paterna: pater spirare non posset ratione volun 
+        <lb ed="#Bb" n="13"/>tatis suae: quia non esset plurium nec concors, &amp; ideo nec foecunda. Quia si esset: &amp; solus pater posset 
+        <lb ed="#Bb" n="14"/>spirare: nulla apparet ratio quare plures spirantes dicantur plures spiratores, non sic autem plures 
+        <lb ed="#Bb" n="15"/>creantes dicantur plures creatores. Vnde non credo quod graeci si per impossibile secundum ipsos ponere- 
+        <lb ed="#Bb" n="16"/>tur filius spirare cum patre, dicerent patrem &amp; filium esse plures spiratores: sicut nec dicunt ipsos 
+        <lb ed="#Bb" n="17"/>esse plures creatores: quia spirarent per voluntatem vt: voluntas est simpliciter, non vt concors duo-  
+        <lb ed="#Bb" n="18"/>rum: sicut creant per essentiam simpliciter, non vt est duorum vel trium. Vtrobique autem vniformiter 
+        <lb ed="#Bb" n="19"/>dicuntur plures creantes, &amp; plures spirantes, quia hoc convenit ratione modi significandi dictionum 
+        <lb ed="#Bb" n="20"/>vt patebit inferius, qui est vniformis in illis principiis creans &amp; spirans.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

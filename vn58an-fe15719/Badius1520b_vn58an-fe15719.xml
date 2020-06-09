@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="58-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe15719"> <!-- alias="vn58an-a52q3" -->
+      <head xml:id="vn58an-fe15719-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe15719-d1e107">
+        <lb ed="#Bb" n="30"/>CIrca tertium arguitur: quod ordo in diuinis non sit sine priori et posteriori, Primo sic. 
+        <lb ed="#Bb" n="31"/>sicut se habent ordinata adinuicem inter se in aliis modis ordinis respectu sui 
+        <lb ed="#Bb" n="32"/>principii: sic (vt videtur) in ordine naturae et rationis. Sed in omnibus aliis ordina 
+        <lb ed="#Bb" n="33"/>tis secundum ordinem est accipere prius et posterius, vt patet in creaturis ordinatis per se 
+        <lb ed="#Bb" n="34"/>et per accidens secundum quodcumque genus ordinis, et etiam in ordinatis secundum tem 
+        <lb ed="#Bb" n="35"/>pus et secundum locum: et secundum alios modos ordinis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe15719-d1e123">
+        ⁋ Secundo sic. in  
+        <lb ed="#Bb" n="36"/>quibuscunque ordinatis non est prius &amp; posterius: est falsitas: quia simul contra- 
+        <lb ed="#Bb" n="37"/>riatur immediate ei quod est prius &amp; posterius in ordine: sicut aequale ei quod est magis &amp; minus in 
+        <lb ed="#Bb" n="38"/>quantitate. Sed non est dicere quod ordinata in diuinis sint simul: quia quaecunque sunt simul in ali- 
+        <lb ed="#Bb" n="39"/>quo ordine, rationem eiusdem respectus &amp; comparationem habent ad principium, respectu cuius dicuntur 
+        <lb ed="#Bb" n="40"/>esse ordinata, vt patet in eis quae sunt simul tempore aut simul loco: prout patet ex definitione 
+        <lb ed="#Bb" n="41"/>eius quod est simul esse. v. physicae. Quaecunque ordinata sunt non habent rationem eiusdem respectus ad  
+        <lb ed="#Bb" n="42"/>principium: secundum alium enim &amp; alium respectum se habent filius &amp; spiritus sanctus ad patrem, &amp; in-  
+        <lb ed="#Bb" n="43"/>telligere &amp; viuere ad esse: quia spiritus inquantum procedit a filio, &amp; ordinem naturae habetad ip- 
+        <lb ed="#Bb" n="44"/>sum, respicit patrem mediante filio. filius autem respicit patrem immediate. similiter secundum ratio 
+        <lb ed="#Bb" n="45"/>nem viuere respicit immediate esse: quia non dicit nisi quasi modum essendi. Intelligere autem secundum rationem respi 
+        <lb ed="#Bb" n="46"/>cit mediate viuere: quia dicit modum viuendi. ergo etc. 
+      </p>
+      <p xml:id="vn58an-fe15719-d1e149">
+        ⁋ In oppositum est illud quod dicitur in syma 
+        <lb ed="#Bb" n="47"/>bolo Athanasii. In trinitate nihil prius aut posterius. Cum ergo in trinitate sunt &amp; ordinata ordine 
+        <lb ed="#Bb" n="48"/>naturae et ordine rationis: ergo etc. 
+        <lb ed="#Bb" n="49"/>
+      </p>
+      <p xml:id="vn58an-fe15719-d1e159">
+        ⁋ Quaestio ista &amp; similiter sequens pertinet ad modum explicandi vnumquodque or- 
+        <lb ed="#Bb" n="50"/>dinatorum secundum propriam rationem ordinis sui quam habet respectu principii differentem a pro  
+        <lb ed="#Bb" n="51"/>pria ratione ordinis quam habet quodcumque aliud: quemadmodum in creaturis patet in ordine elementorum: quod propria 
+        <lb ed="#Bb" n="52"/>ratio ordinis quam habet terra differentem a rationibus ordinis quam habent alia elementa, est quod terra dicitur esse in  
+        <lb ed="#Bb" n="53"/>sima, &amp; propria ratio ignis est quod dicitur esse supremus: et comomunis ratio aquae et aeris respectu illorum est quod dicuntur esse 
+        <lb ed="#Bb" n="54"/>media: &amp; proprie rationes vtriusque quibus differunt ordine inter se, est quod aqua dicatur esse sub aere: 
+        <lb ed="#Bb" n="55"/>&amp; aer supra aquam. Vnde cum non habemus dictiones proprias ad explicandum, proprias rationes ordinatorum  
+   <!--131.xml-->
+        <pb ed="#Bb" n="58-v"/>
+        <lb ed="#Bb" n="1"/>in diuinis: sed oportet ea transferri a creaturis: videtur aliquibus difficile intelligere quod ordo sit in ali 
+        <lb ed="#Bb" n="2"/>quibus: quin eo modo quo ponitur in eis ordo, ponantur in eis ad explicandum proprias rationes illo- 
+        <lb ed="#Bb" n="3"/>rum quas habent in ordine, prius &amp; posterius: vt sicut ordo transfertur a creaturis ad diuina, secun 
+        <lb ed="#Bb" n="4"/>dum aliam tamen rationem rei significatae, &amp; eminentiorem quam sit in creaturis: consimiliter transferantur 
+        <lb ed="#Bb" n="5"/>ab eisdem prius &amp; posterius: vt sicut quia in aliquibus est ordo secundum locum, est &amp; prius &amp; posterius secun 
+        <lb ed="#Bb" n="6"/>dum locum: &amp; quia secundum tempus, similiter prius &amp; posterius secundum tempus: consiliter sicut in aliquibus, vt in diuinis perso 
+        <lb ed="#Bb" n="7"/>nis, est ordo secundum naturam seu secundum originem, sic consimiliter prius &amp; posterius secundum originem: si 
+        <lb ed="#Bb" n="8"/>cut in attributis secundum rationem, consimiliter prius &amp; posterius secundum rationem. Quare cum noti 
+        <lb ed="#Bb" n="9"/>tia nominum transferendorum a creaturis ad diuina, habetur ex regula Anselumi superius expo- 
+        <lb ed="#Bb" n="10"/>sita quoniam quae nihil nisi dignitatis important vt simpliciter sit melius esse ipsa quam non ipsa: po- 
+        <lb ed="#Bb" n="11"/>ni debent in deo, cui nihil deest quod est dignitatis simpliciter: quae vero aliquid indignitatis im- 
+        <lb ed="#Bb" n="12"/>portant nullo modo debent attribui ei, in quo nihil indignitatis esse potest: 
+      </p>
+      <p xml:id="vn58an-fe15719-d1e205">
+        ⁋ Est igitur sciendum quod  
+        <lb ed="#Bb" n="13"/>cum in ratione contingunt siue concurrunt ista tria, scilicet ratio respectus, &amp; ratio principii, &amp; ratio 
+        <lb ed="#Bb" n="14"/>prioris &amp; posterioris seu eius quod est ante &amp; post: ipsa super diuersa fundantur, propter quod dif 
+        <lb ed="#Bb" n="15"/>ferunt ratione inter se. Ratio enim respectus est in aliquibus ex comparatione simplici quam habent 
+        <lb ed="#Bb" n="16"/>inter se siue ad aliud siue ad alia, &amp; potest esse vbi non est ratio principii neque prioris aut posterio- 
+        <lb ed="#Bb" n="17"/>ris, quemadmodum est respectus vnius ad alterum in duobus similibus quae ex se nihil indignitatis in 
+        <lb ed="#Bb" n="18"/>portant, sed potius aliquid dignitatis: propter quod transfertur ad diuina, et dicuntur in deo esse rela 
+        <lb ed="#Bb" n="19"/>tiones &amp; respectus. Ratio autem principii est in aliquibus inquantum habent aliquod primum in suo ge- 
+        <lb ed="#Bb" n="20"/>nere, siue fuerit primum causalitate, quia ab ipso sunt alia: siue sit primum in naturae dignitate aut simpli 
+        <lb ed="#Bb" n="21"/>citate, siue in situ locali, siue in tporis successione vel in aliquo aliorum modorum tactorum in quaestione signa 
+        <lb ed="#Bb" n="22"/>ta: siue a Philosophous expressorum. v. meta. in capite de ante &amp; post. Ratio autem principii &amp; principiati si- 
+        <lb ed="#Bb" n="23"/>militer nihil indignitatis important, sed potius dignitatis: ideo in deo ponuntur, vt infra patebit. Vnde (vt dictum 
+        <lb ed="#Bb" n="24"/>est) ordo fundatur in respectu quem habent aliquid aut aliqua ad aliquid vt ad principium, siue vt a quo ha 
+        <lb ed="#Bb" n="25"/>bent esse, siue quocumque alio modo: aut in respectu quem habent aliqua inter se in comperatione ad illud  
+        <lb ed="#Bb" n="26"/>principium. Ideo ordo simpliciter recipi debet in diuinis sicut &amp; ratio talis respectus &amp; comparatio- 
+        <lb ed="#Bb" n="27"/>nis. Ratio autem eius quod est ante, fundatur in habitudine quam habet res cui conuenit ratio principii 
+        <lb ed="#Bb" n="28"/>vt est res &amp; essentia aliqua, non vt habens rationem principii, ad rem quae respicit eam sub ratione 
+        <lb ed="#Bb" n="29"/>principii vt similiter illa res quaedam est. Et econuerso ratio eius quod est post, fundatur in ha 
+        <lb ed="#Bb" n="30"/>bitudine quam habet res respiciens aliam in ratione principii, inquantum ambae res sunt: aut in habitu 
+        <lb ed="#Bb" n="31"/>dine quam habent vt res sunt, illa inter se, quae respectum habent ad aliquid sub ratione principii. Verbi 
+        <lb ed="#Bb" n="32"/>gratia in creaturis quamuis aliqua sint simul &amp; coaequaeua duratione secundum quod sunt aliquid in rerum 
+        <lb ed="#Bb" n="33"/>natura: &amp; secundum quod respectum habent adinuicem secundum rationem principii &amp; principiati 
+        <lb ed="#Bb" n="34"/>nihilominus tamen vna illarum secundum id quod est in essentia sua, dependet ab alia &amp; non econuer- 
+        <lb ed="#Bb" n="35"/>so. Verbi gratia, licet lux &amp; radius sunt coaequaeua &amp; simul secundum rationem principii &amp; principiati, in essen 
+        <lb ed="#Bb" n="36"/>tia sua radius dependet a luce, &amp; non econuerso. Similiter est de sono &amp; cantu: propter quod in ta- 
+        <lb ed="#Bb" n="37"/>libus inuenitur ante &amp; post: quia semper illud quod in essentia sua non dependet ab alio dicitur ante 
+        <lb ed="#Bb" n="38"/>&amp; illud quod dependet ab illo, dicitur post. Et propter hoc in creaturis etsi esse haberent coaeternum deo, sicut po 
+        <lb ed="#Bb" n="39"/>suerunt philosophi, creator tamen esset ante &amp; creatura post natura &amp; intellectu. Et etiam secundum 
+        <lb ed="#Bb" n="40"/>quod dicit Auicen, non esse in ipsa essentia creaturae, est ante eius esse prioritate essentia. hoc est in-  
+        <lb ed="#Bb" n="41"/>quantum essentia ex se nata esset non esse, si ipsum non reciperet ab alio: licet semper ipsum &amp; de 
+        <lb ed="#Bb" n="42"/>necessitate haberet ab alio. Et secundum hunc modum ante &amp; post fundantur in habitudine re- 
+        <lb ed="#Bb" n="43"/>rum quam habent adinuicem secundum id quid sunt absque ratione causalitatis. Sed tunc maxime di- 
+        <lb ed="#Bb" n="44"/>citur ante, quod sic non dependet ab alio, vt etiam tempore secundum id quod est, potest alterum praecede 
+        <lb ed="#Bb" n="45"/>re: sicut in hominibus pater praecedit filium: &amp; hoc modo principium lineae dicitur esse ante: quia esset et 
+        <lb ed="#Bb" n="46"/>si non esset illud quod est post: &amp; similiter incorporea respectu corporeorum: &amp; caelum respectu elementarium: &amp; vni 
+        <lb ed="#Bb" n="47"/>uersaliter in quibuscumque inuenitur ante &amp; post, ex huiusmodi habitudine habetur in eis non ex ratione 
+        <lb ed="#Bb" n="48"/>simplicis respectus: neque cum hoc ex ratione comparationis ad aliquid vt ad principium: &amp; ita neque  
+        <lb ed="#Bb" n="49"/>ex ratione ordinis qui in hoc fundatur, vt dictum est: vt secundum hoc de ratione ordinis non sunt 
+        <lb ed="#Bb" n="50"/>ante &amp; post: immo potest esse perfecta ratio ordinis, etsi non sint illa. Nec debet esse alicui difficile in  
+        <lb ed="#Bb" n="51"/>spicienti iam dicta, intelligere ordinem absque priori &amp; posteriori: quia prius &amp; posterius non coin- 
+        <lb ed="#Bb" n="52"/>cidunt in ordine nisi ratione rerum ordini subiectarum: &amp; ita ratione materiae suae tantum: non autem ratione 
+        <lb ed="#Bb" n="53"/>suae formae. Qui ergo vult videre an in diuinis cum ratione ordinis recipi debeant ante &amp; post, aspicere 
+        <lb ed="#Bb" n="54"/>debet ad subiecta ordini secundum se, vt sunt res &amp; natura aliqua in se. Nunc autem clarum est quod res subiecta ordi 
+        <lb ed="#Bb" n="55"/>ni in diuinis (etiam largissime sumendo rem ad illud quod etiam est aliquid secundum rationem tantum) non po 
+   <!--132.xml-->
+        <pb ed="#Bb" n="59-r"/>
+        <lb ed="#Bb" n="1"/>test esse subiecta ordini nisi ipsa diuina essentia, aut respectus existens in ea: quia plura secundum prae- 
+        <lb ed="#Bb" n="2"/>determinata non est inuenire in diuinis quam essentiam, &amp; respectum siue relationem. Essentia autem non est 
+        <lb ed="#Bb" n="3"/>nisi vnica in ipsis ordinatis: &amp; ideo ratione ipsius non potest in ordinatis esse an aut post: quia anm &amp; post semper ali 
+        <lb ed="#Bb" n="4"/>quam diuersitatem requirunt in eis super quae fundantur, vt patet in praedictis. Respectus autem et 
+        <lb ed="#Bb" n="5"/>si sint plures &amp; personales &amp; rationales, inquantum tamen respectus sunt, sunt simul natura &amp; 
+        <lb ed="#Bb" n="6"/>intelligentia: quia respectus inquantum respectus siue relatio, nullam rationem prioritatis habet ad  
+        <lb ed="#Bb" n="7"/>respectum siue relationem. Neque ergo ratione diuinae essentiae, neque ratione respectuum siue relatio- 
+        <lb ed="#Bb" n="8"/>num in illa, possunt in deo fundari aut esse ante &amp; post. 
+      </p>
+      <p xml:id="vn58an-fe15719-d1e322">
+        ⁋ Quare cum non sit reperire in diuinis 
+        <lb ed="#Bb" n="9"/>Plura in quibus possunt fundari ante &amp; post, simpliciter igitur &amp; absolute concedere oportet quod etsi in 
+        <lb ed="#Bb" n="10"/>diuinis sit ordo: est tamen sine omni ante &amp; post, priori &amp; posteriori, in ipsis ordinatis. 
+        <lb ed="#Bb" n="11"/>
+      </p>
+      <p xml:id="vn58an-fe15719-d1e331">
+        ⁋ Quod ergo arguitur primo in oppositum: quod in omnibus aliis modis ordinum &amp; 
+        <lb ed="#Bb" n="12"/>ordinatorum est inuenire prius &amp; posterius: ergo &amp; in istis qui sunt in diuinis: Dicendum quod bene se 
+        <lb ed="#Bb" n="13"/>queretur si prius &amp; posterius consequerentur ordinem ratione eius quod est formale, scilicet habitu 
+        <lb ed="#Bb" n="14"/>dinis ad principium. Nunc ergo (vt dictum est) sequitur ratione materialis in ordinatis: quae alia est in  
+        <lb ed="#Bb" n="15"/>ordinibus circa creaturas: alia in ordinibus diuinis. Idcirco bene possuntur consequi prius &amp; posterius 
+        <lb ed="#Bb" n="16"/>ordinem in creaturis: nullo tamen modo ordinem in deo, vt patet ex iam determinatis. Propter quod 
+        <lb ed="#Bb" n="17"/>Augustinus diuinis personis attribuit ordinem ratione principiationis quae est in ipsis: cum tamen re- 
+        <lb ed="#Bb" n="18"/>moueat ab eis prius &amp; posterius: cum dicit libo iii. contra Maximinum. Genitum a genitore mitti opor 
+        <lb ed="#Bb" n="19"/>tebat: verum hoc non est inaequalitas substantiae: sed ordo naturae, non quod alter esset altero prior: sed  
+        <lb ed="#Bb" n="20"/>quod alter esset ex altero. 
+      </p>
+      <p xml:id="vn58an-fe15719-d1e353">
+        ⁋ Ad secundum, quod in diuinis ordinibus non est ordinatorum simultas: ergo est in 
+        <lb ed="#Bb" n="21"/>eis prius &amp; posterius: Dicendum quod illa regula contrariorum non intelligitur nisi circa suum proprium sub 
+        <lb ed="#Bb" n="22"/>iectum: sicut &amp; intelligitur consimilis regula de priuatiue oppositis. Circa non proprium vero sub 
+        <lb ed="#Bb" n="23"/>iectum circa quid non est natum esse vnum illorum &amp; ita neque aliud, non habet veritatem: vt visus 
+        <lb ed="#Bb" n="24"/>cum non habet esse circa lapidem: non sequitur, lapis non est videns, ergo est caecus. Similiter 
+        <lb ed="#Bb" n="25"/>cum aequalitas non habet esse circa colorem vnum comparatum ad quendam alium colorem, non se 
+        <lb ed="#Bb" n="26"/>quitur: color non est aequalis colori, ergo est ei inaequalis: vt maior vel minor. Sic autem est in proposito 
+        <lb ed="#Bb" n="27"/>quod cum simul prius &amp; posterius consequuntur ordinata ratione materiae, qualis non habet esse in diuinis, vt dictum 
+        <lb ed="#Bb" n="28"/>est: neutrum illorum habet esse circa ordinata in diuinis. &amp; ideo non sequitur in eis: quod si non habent 
+        <lb ed="#Bb" n="29"/>esse simul, vt bene probat obiectio, quod se habeant secundum prius &amp; posterius.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

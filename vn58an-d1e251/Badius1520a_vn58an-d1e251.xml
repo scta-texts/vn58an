@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="25-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e251"> <!-- alias="vn58an-a2q4" -->
+      <head xml:id="vn58an-d1e251-Hd1e104">Quaestio 4</head>
+      <head xml:id="vn58an-d1e251-Hd1e107" type="question-title">Utrum quilibet homo quaecumque scit, sciat ea aeque certitudinaliter</head>
+      <p xml:id="vn58an-d1e251-d1e110">
+        <lb ed="#Ba" n="32"/>CIrca quartum arguitur, quod omnes homines quicumque sciunt eadem, sciunt ea aeque cer 
+        <lb ed="#Ba" n="33"/>titudinaliter. Primo sic. quicumque rem aequaliter intelligunt: aeque certitudinaliter 
+        <lb ed="#Ba" n="34"/>eam sciunt: quia ex modo intelligendi rem procedit certitudo scientiae de ea. sed qui 
+        <lb ed="#Ba" n="35"/>cumque aliquid intelligunt aequaliter illud intelligunt. secundum quod dicit <name ref="#Augustine">Augustinus</name> 8 quiod quid xio 
+        <lb ed="#Ba" n="36"/>Non est dubium nec posse rem alium alio plus intelligere. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e251-d1e127">
+        ⁋ Secundo 
+        <lb ed="#Ba" n="37"/>asic. certitudo scientiae consistit in notitia veritatis: sed notitia veritatis non contingit 
+        <lb ed="#Ba" n="38"/>diuersis secundum magis &amp; minus: quia est adaequatio quaedam rei &amp; intellectus: &amp; ita quae  
+        <lb ed="#Ba" n="39"/>dam aequalitas. aequalitas autem magis &amp; minus non suscipit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e251-d1e137">
+        ⁋ Contra est, quia tunc docens &amp; 
+        <lb ed="#Ba" n="40"/>discens aequaliter scirent: quia discens aequaliter nouit id quod nouit docens, vt dictum est supra. con 
+        <lb ed="#Ba" n="41"/>sequens est falsum: quia licet motum habeat aliquod eius quod habet motor: non tamen habet ipsum eodem 
+        <lb ed="#Ba" n="42"/>modo quo habet motor. vt dicit commen. super. ix. Metaphy. 
+      </p>
+      <p xml:id="vn58an-d1e251-d1e146">
+        <lb ed="#Ba" n="43"/>⁋ Ad hoc dicendum, quod dispositio intellectus de re intelligibili est sicut dispositio sen 
+        <lb ed="#Ba" n="44"/>sus de re sensibili. propter quod Philosophous. ii. Metaphysicae assimilauit virtutem intellectus in compre- 
+        <lb ed="#Ba" n="45"/>hendendo secundum certitudinem intelligibilia abstracta quae sunt summe intelligibilia debilissimo 
+        <lb ed="#Ba" n="46"/>visui in comprehendendo maxime visibile, scilicet solem. vt ibidem dicit commen. Sicut ergo alterum 
+        <lb ed="#Ba" n="47"/>altero contingit vnam &amp; eandem rem certius videre oculo corporis: sic contingit alterum altero 
+        <lb ed="#Ba" n="48"/>vnam &amp; eandem rem certius videre oculo mentis: &amp; per hoc eam certius scire: &amp; hoc duplici 
+        <lb ed="#Ba" n="49"/>de causa accepta ex parte videntis. Vna ex parte dispositionis naturalis in ipso. Altera ex parte dis 
+        <lb ed="#Ba" n="50"/>positionis acquisitae ab eo. Ex parte dispositionis naturalis: quia vnus habet oculum intellectus al 
+        <lb ed="#Ba" n="51"/>tero clariorem perspicaciorem &amp; limpidiorem: &amp; ideo habet maiorem virtutem in se limpidius &amp; 
+        <lb ed="#Ba" n="52"/>perspicacius veritatem rei conspiciendi quam alter: secundum quod de hoc infra dicetur: &amp; ex hoc certius 
+        <lb ed="#Ba" n="53"/>sciendi eam, vt dictum est. sicut habens oculum carnis clariorem &amp; limpidiorem &amp; perfectiorem in se: 
+        <lb ed="#Ba" n="54"/>limpidius &amp; clarius videt visibile corporale quam alter. Ex parte dispositionis acquisitae: causa est: quia 
+   <!--65.xml-->
+        <pb ed="#Ba" n="25-v"/>
+        <lb ed="#Ba" n="1"/>vnus magis exercitatus est circa inspectionem veritatis rei scitae: quam alter: &amp; ideo de notitia eius habet ha 
+        <lb ed="#Ba" n="2"/>bitum magis confirmatum quam alter: &amp; conditiones particulares quiditatis rei distinctius videt quam alter: &amp; 
+        <lb ed="#Ba" n="3"/>ex hoc certius &amp; discretius eam videt quam alter. secundum quod ille qui frequenter videt imaginem aliquam 
+        <lb ed="#Ba" n="4"/>sub imitatione ad archetypum, perfectius secundum vnamquamque particulam videt in quo eum perfecte imita 
+        <lb ed="#Ba" n="5"/>tur, &amp; in quo deficit, quam ille qui solo aspectu aduertit quia est vera rei imago ad eius imaginem facta. 
+      </p>
+      <p xml:id="vn58an-d1e251-d1e190">
+        <lb ed="#Ba" n="6"/>⁋ Ad primum, quod non contingit alium alio plus vel minus intelligere: Dicendum quod  
+        <lb ed="#Ba" n="7"/>plus vel minus intelligere potest determinare actum intelligendi: vel respectu rei intellectae. sic non 
+        <lb ed="#Ba" n="8"/>potest eadem res secundum plus vel minus intelligi adiuersis: quia non habet esse in seipsa secundum plus 
+        <lb ed="#Ba" n="9"/>vel minus in veritate: sicut neque in esse, quare neque in cognitione. Quod enim signat essentiam cuiusli 
+        <lb ed="#Ba" n="10"/>bet: hoc finis cognitionis &amp; esse reii. vt dicitur. v. Metaphy. Essentia autem rei neque intenditur: neque remit 
+        <lb ed="#Ba" n="11"/>titur in se, quia igitur res ipsa quaelibet vno &amp; simplici modo se habet in sua veritate, quicumque in ea in  
+        <lb ed="#Ba" n="12"/>telligit aliquid plus vel minus aliter rem intelligit quam est: &amp; ita false: quare nec eam tunc intelligit si 
+        <lb ed="#Ba" n="13"/>cut argumentum dicit: quia non contingit intelligere nisi verum. Vel potest li magis &amp; minus intelligi de 
+        <lb ed="#Ba" n="14"/>terminare actum intelligendi respectu ipsis intelligentis: sic bene contigit eandem rem vnum plus intelli 
+        <lb ed="#Ba" n="15"/>gere quam alterum: &amp; ita certius. Sed hoc subdistinguendum: quod rem eandem plus vel minus intelligere ex 
+        <lb ed="#Ba" n="16"/>parte intelligentis potest intelligi intensiue vel extensiue. Extensiue hoc contingit quando vnus particulas 
+        <lb ed="#Ba" n="17"/>quiditatis &amp; essentiae rei quas ratio distinguit distinctius intelligit quam alter. Intensiue: quando vnus 
+        <lb ed="#Ba" n="18"/>limpidius videt id quod est veritatis rei quam alter: inquantum profundius visu intellectuali vnus eam pe- 
+        <lb ed="#Ba" n="19"/>netrat quam altur, &amp; minus potest eum impedire obnubilatio falsitatum. &amp; vtroque modo contingit vnum altero ma-  
+        <lb ed="#Ba" n="20"/>gis &amp; certius aliquid intelligere. 
+      </p>
+      <p xml:id="vn58an-d1e251-d1e225">
+        ⁋ Ad secundum quod veritas est adaequatio: dicendum quod verum est: quia 
+        <lb ed="#Ba" n="21"/>quantum veritas manifestatur cuilibet, tantum eam intelligit. hoc tamen non impedit: quin vni 
+        <lb ed="#Ba" n="22"/>plus manifestetur quam alteri: &amp; eam plus intelligat. &amp; licet veritas ipsa est adaequatio intellectus &amp; rei 
+        <lb ed="#Ba" n="23"/>intellectae in quolibet intelligente: non tamen est adaequatio intellectuum plurium intelligentium inter 
+        <lb ed="#Ba" n="24"/>se. Sicut enim aequalitas est tanta binarii ad binarium quanta quaternarii ad quaternarium: non tamen est 
+        <lb ed="#Ba" n="25"/>aequalitas binarii ad quaternarium: sic tanta est adaequatio rei &amp; intellectus minus apprehendentis 
+        <lb ed="#Ba" n="26"/>veritatem rei: quanta in magis apprehendente: licet non adaequatur apprehensio vnius apprehensioni alterius.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

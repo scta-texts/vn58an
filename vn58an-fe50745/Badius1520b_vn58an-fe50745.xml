@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 10</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 10</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="185-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe50745"> <!-- alias="vn58an-a61q10" -->
+      <head xml:id="vn58an-fe50745-Hd1e104">Quaestio 10</head>
+      <p xml:id="vn58an-fe50745-d1e107">
+        <lb ed="#Bb" n="21"/>CIrca Decimum arguitur quod spiritus sanctus non datur vt donum a patre &amp; filio nec 
+        <lb ed="#Bb" n="22"/>econverso, Primo sic. sicut nemo dat aut potest dare quod non habet apud se: sic ne 
+        <lb ed="#Bb" n="23"/>mini datur nec potest dari id quod habet apud se, quare cum filius habeat apud se spi 
+        <lb ed="#Bb" n="24"/>ritum sanctum: quia procedit ab ipso: &amp; similiter pater: &amp; in diuinis procedens semper est 
+        <lb ed="#Bb" n="25"/>in eo a quo procedit, non recedens ab illo: spiritus sanctus ergo nequaquam a patre da 
+        <lb ed="#Bb" n="26"/>tur aut potest dari filio, nec econverso. 
+      </p>
+      <p xml:id="vn58an-fe50745-d1e123">
+        ⁋ Secundo sic. id quid datur alicui, non habetur ab  
+        <lb ed="#Bb" n="27"/>illo cui datur si non detur eidem, quia de illo quod quis habet ex alterius dono, potest dici 
+        <lb ed="#Bb" n="28"/>illud Apostoli. i. Cori. iii. Quid habes quod non accepisti: Si ergo ipisis sanctus a patre daretur filio aut econ 
+        <lb ed="#Bb" n="29"/>uerso, neuter haberet in se spiritum sanctum si non ab vtroque vtrique daretur. consequens falsum est: quia 
+        <lb ed="#Bb" n="30"/>filius &amp; similiter pater habent in se spiritum sanctum ex actu procedendi illius de substantia illorum, sicut pater 
+        <lb ed="#Bb" n="31"/>habet in se filium manentem ex actu generationis eius de sua substantia: non autem ex alicuius 
+        <lb ed="#Bb" n="32"/>dono. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe50745-d1e139">
+        ⁋ Tertio sic. si a patre datur vt donum filio spiritus sanctus aut econverso: aut er 
+        <lb ed="#Bb" n="33"/>go datur spiritus sanctus iam existens vel non iam existens, non secundo modo: quia sicut nemo potest dare quod  
+        <lb ed="#Bb" n="34"/>non habet, sic nihil potest dari quod non iam existit. Si ergo dicto modo datur spiritus sanctus, oportet quod 
+        <lb ed="#Bb" n="35"/>detur iam existens vt possit dari. quod si sic, cum spiritus sanctus processione existit, alia est actio qua mutuo 
+        <lb ed="#Bb" n="36"/>datur a patre &amp; filio: &amp; qua procedit ab vtroque. Vtraque autem est aeterna &amp; intranea. quare cum non sit 
+        <lb ed="#Bb" n="37"/>dare istund, actio essentialis eo quod non convenit spiritu sancto: quia non dat seipsum patri aut filio: erit ergo  
+        <lb ed="#Bb" n="38"/>actio personalis &amp; notionalis. consequens falsum est: quia tunc non essent solum duae actiones notionales 
+        <lb ed="#Bb" n="39"/>generare &amp; spirare: &amp; duae quasi passiones notionales scilicet generari &amp; spirari: sed etiam dare spntum sctantm 
+        <lb ed="#Bb" n="40"/>esset actio notionalis: &amp; similiter dari, esset quasi passio notionalis: &amp; similiter actio notionalis esset reci- 
+        <lb ed="#Bb" n="41"/>pere spcanium sctuntum tam ex parte patris quam ex parte filii. consequens falsum est: quia tunc essent plures notiones 
+        <lb ed="#Bb" n="42"/>quam expositae: quod falsum est secundum sanctos, &amp; etiam apud doctores. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe50745-d1e164">
+        ⁋ Contra. illud quod voluntate 
+        <lb ed="#Bb" n="43"/>liberali ab vno in alterum procedit: &amp; per hoc habet esse illius: datur ab illo a quo sic procedit vt donum illi 
+        <lb ed="#Bb" n="44"/>in quo procedit. In hoc enim procedit ratio dationis doni quae dicitur donatio. Spiritus sctuns autem sic procedit a patre 
+        <lb ed="#Bb" n="45"/>in filium etiam secundum graecos, qui non ponunt ipsum procedere a filio: sicut patet ex supra deteriatis. ergo &amp;c. 
+        <lb ed="#Bb" n="46"/>
+      </p>
+      <p xml:id="vn58an-fe50745-d1e175">
+        ⁋ Dico iuxta processum vltimae rationis, quod spiritus sanctus datur vt donum a patre 
+        <lb ed="#Bb" n="47"/>filio, &amp; econverso: in hoc videlicet quod ab vtroque procedit liberali voluntate: non solum vt persona distincta 
+        <lb ed="#Bb" n="48"/>ab illis a quibus procedit, &amp; in se subsistens: sed etiam cum hoc vt in alio existens. lta quod actus procedendi quo  
+        <lb ed="#Bb" n="49"/>spiritus sanctus procedit: non solum terminatur ad spntum sctunim vt ad personam quae producitur: sed etiam ad personam in  
+        <lb ed="#Bb" n="50"/>qua producitur, vt ad filium inquantum procedit a patre in filium: &amp; ad patrem inquantum procedit a filio in pa- 
+        <lb ed="#Bb" n="51"/>trem. lta quod licet vnica productione siue processione aeterna spiritus sanctus procedat a patre &amp; filio secundum  
+        <lb ed="#Bb" n="52"/>superius determinata: est tamen istam processionem dupliciter considerare. Vno scilicet modo vt ipsa est a patre:  
+        <lb ed="#Bb" n="53"/>alio autem modo vt ipsa est a filio: sicut &amp; vnicam substantiam deitatis est considerare vt est patris, &amp; 
+        <lb ed="#Bb" n="54"/>siliter vt est filii: &amp; aliquod aliter attribuitur ei vt est patris, quam vt est filii: vt patet ex supius determi- 
+        <lb ed="#Bb" n="55"/>natis. Et vtroque modo est processionem illam considerare dupliciter. Vno scilicet modo vt est terminata ad personam 
+   <!--386.xml-->
+        <pb ed="#Bb" n="186-r"/>
+        <lb ed="#Bb" n="1"/>spiritus sancti subsistentem secundum se. Alio modo vt quando vlterius progreditur &amp; terminatur ad personam 
+        <lb ed="#Bb" n="2"/>in qua spiritus sanctus producitur. Et hoc ad modum quo gratiae creatio in anima consideratur vno modo vt 
+        <lb ed="#Bb" n="3"/>terminatur ad ipsam gratiam de non esse in esse productam. Alio modo vt mediante gratia per hoc quod produ-  
+        <lb ed="#Bb" n="4"/>citur in anima, terminatur quoquo modo in animam. Et primo modo processio spiritus sancti considerata proprie 
+        <lb ed="#Bb" n="5"/>dicitur productio a liberali voluntate naturali: sicut productio gratiae de non esse in esse dicitur creatio. 
+        <lb ed="#Bb" n="6"/>Secundo autem modo considerata proprie dicitur datio siue donatio a voluntate liberali: sicut creatio gra- 
+        <lb ed="#Bb" n="7"/>tiae in anima proprie dicitur datio siue donatio. Et tam productio spiritus sancti quam donatio coniter dicitur proces- 
+        <lb ed="#Bb" n="8"/>sio: sicut tam creatio gratiae quam eius donatio coniter dicitur processio qua spiritus sanctus procedit in dono 
+        <lb ed="#Bb" n="9"/>suo in creaturam. Sed processio spiritus sancti secundum seipsum vtroque illorum modorum aeterna est, &amp; vna &amp; 
+        <lb ed="#Bb" n="10"/>eadem actio secundum rem, differens sola ratione. Processio autem eius in dono suo vtroque illorum modorum est tporalis. 
+        <lb ed="#Bb" n="11"/>Differt autem secundum rationem processio spiritus sancti secundum seipsum vtroque dictorum modorum tam ex parte termi 
+        <lb ed="#Bb" n="12"/>norum quam ex parte procedentis. Primo enim modo processionis terminus est ipse spiritus sanctus procedens. Secundo 
+        <lb ed="#Bb" n="13"/>auntem modo terminus est ille in quem procedit. Item primo modo processionis procedit ipse spiritus sctuns proprie 
+        <lb ed="#Bb" n="14"/>vt est spiritus &amp; persona in se subsistens. Secundo autem modo proprie procedit vt est amor duos inter se conne 
+        <lb ed="#Bb" n="15"/>ctens. Pater enim spirando spiritum sanctum in filium, dat ipsum filio vt amorem suum quo illum diligit: &amp; hoc 
+        <lb ed="#Bb" n="16"/>aeternaliter eodem actu quo ipsum spirat: tam in ordine ad illum quid ipsum dat quam in ordine ad illum cui datur 
+        <lb ed="#Bb" n="17"/>lpsum enim spcentum sanctum dari filio non est aliud quam ipsum spirari in filium: &amp; similiter patrem dare spiritum sctantm 
+        <lb ed="#Bb" n="18"/>filio, non est aliud quam ipsum spirare in filium: &amp; differunt sola ratione &amp; ordine atque relatione: quia spirare 
+        <lb ed="#Bb" n="19"/>&amp; spirari simpliciter solummodo dicunt ordinem realem &amp; relationem inter spirantem &amp; spiratum: &amp; spirari in fi- 
+        <lb ed="#Bb" n="20"/>lium vel in patrem mediante spirato, dicit ordinem rationis inter spirantem atque dantem spiritum sanctum: &amp; 
+        <lb ed="#Bb" n="21"/>illum in quem spiratur, siue accipientem cui datur: &amp; similiter inter spcantum sanctum vt est donum, &amp; illum quid illum dat:  
+        <lb ed="#Bb" n="22"/>&amp; similiter cui datur. Et est vndique relatio rationis: in quo differt ista datio a datione quae datur vt donum a pa 
+        <lb ed="#Bb" n="23"/>tre &amp; filio creaturae intellectuali temporaliter. Illa enim datio in ordine ad illum cui datur, vt est actiua 
+        <lb ed="#Bb" n="24"/>in dante, relationem importat solummodo secundum rationem: sed aeternam: &amp; nouam determinationem quando secundum actum 
+        <lb ed="#Bb" n="25"/>dat: vt est eadem secundum rem cum processione aeterna qua procedit &amp; spiratur ille cui datur. Vt vero est illa da 
+        <lb ed="#Bb" n="26"/>tio passiua &amp; receptio quaedam in eo cui datur, in ordine ad dantem temporalis est: &amp; secundum rem alia processio 
+        <lb ed="#Bb" n="27"/>ab illa qua procedit aeternaliter a dante: &amp; fundatur in illa relatio realis quae est in recipiente in ordine 
+        <lb ed="#Bb" n="28"/>ad dantem, &amp; similiter in ordine ad ipsum. Recipitur enim vera transmutatione reali temporaliter a recipiente 
+        <lb ed="#Bb" n="29"/>licet detur absque omni transmutatione dantis &amp; doni. Et per hoc etiam ipsa processio spiritus sancti in crea- 
+        <lb ed="#Bb" n="30"/>turam licet aeterna sit vt est processio, &amp; in ordine ad illos a quibus procedit: temporalis tamen est vt est 
+        <lb ed="#Bb" n="31"/>receptio &amp; in ordine ad illud in quod procedit: &amp; fundatur secundum eam relatio realis in eo in quem procedit 
+        <lb ed="#Bb" n="32"/>ad illos a quibus procedit: &amp; similiter in ipso dono ad illud in quod procedit. Quae tamen est aeterna, licet nouam 
+        <lb ed="#Bb" n="33"/>recipiat denominationem: sicut &amp; quaelibet relatio dei ad creaturam: ex parte dei secundum rationem est et aeterna: 
+        <lb ed="#Bb" n="34"/>&amp; solummodo nouam sortitur denominationem: licet tamen econverso ex parte creaturae sit tmporalis: &amp; secundum rem: secundum quod 
+        <lb ed="#Bb" n="35"/>hoc alibi latius declarauimus. Illa autem datio quae pertinet ad dationem spiritus scti creaturae, in ferius ex- 
+        <lb ed="#Bb" n="36"/>ponenda est: nec de ipsa aliquod ad propositum. De ista autem datione qua datur filio a patre vel econverso 
+        <lb ed="#Bb" n="37"/>quo ad relationes quae circa illum considerantur, est aduertendum quod respectus &amp; relatio in hoc conveniunt 
+        <lb ed="#Bb" n="38"/>&amp; differunt, quod non est respectus sine relatione, nec econverso. Dis etiam relatio est respectus quidam: sed 
+        <lb ed="#Bb" n="39"/>non econverso: puta dextrum in animali relatio est ad sinistrum in eodem, &amp; respectus ad illud, siue respe- 
+        <lb ed="#Bb" n="40"/>ctum est habens ad illud. Dextrum autem in animali respectum habet ad columnam quae sita est a dextris ipsius 
+        <lb ed="#Bb" n="41"/>animalis: &amp; per hoc est finistra animali: &amp; est finistrum in colunna relatio secundum rationem ad dextrum in animali: &amp; 
+        <lb ed="#Bb" n="42"/>respectus ad illud secundum rationem fundatur in relatione secundum rationem: cum econverso respectus in animali ad  
+        <lb ed="#Bb" n="43"/>columnam sit respectus secundum rationem fundatus in relatione secundum rem quae est dextrum in animali, quam habet 
+        <lb ed="#Bb" n="44"/>non ad finistrum columnae, ad quod non habet relationem neque respectum nisi secundum rationem: sed ad sinistrum 
+        <lb ed="#Bb" n="45"/>animalis: ad quod etiam habet respectum secundum rem. Et secundum hoc omnis relatio secundum rem est respectus secundum  
+        <lb ed="#Bb" n="46"/>rem in ordine ad illud ad quod refertur secundum rem, &amp; econverso. Et similiter omnis relatio secundum rationem sic est respe 
+        <lb ed="#Bb" n="47"/>ctus secundum rationem ad illud ad quod refertur secundum rationem, &amp; econverso. Relatio etiam secundum rem bene habet in se 
+        <lb ed="#Bb" n="48"/>respectum secundum rationem fundatum in illa in ordine ad illud ad quod refertur secundum rationem: propter scilicet respectum 
+        <lb ed="#Bb" n="49"/>secundum rationem fundatum in illa: vt in dextris animalis fundatur respectus secundum rationem ad sinistrum colunnae pro 
+        <lb ed="#Bb" n="50"/>pter illum respectum. Et per hunc modum quo omnis relatio inter animal &amp; columnam secundum dextrum &amp; fini- 
+        <lb ed="#Bb" n="51"/>strum ortum habet a dextro quid secundum rem est in animali: quia. scilicet in dextro animalis fundatur respectus secundum  
+        <lb ed="#Bb" n="52"/>rationem ad columnam, per quod coluna secundum rationem est sinistra animali: Dico quod omnis relatio inter donum quod est 
+        <lb ed="#Bb" n="53"/>spiritus sctuns, &amp; donantem, &amp; illum cui donatur, &amp; illorum per consequens inter se, ortum habet a relatione quae secundum 
+        <lb ed="#Bb" n="54"/>se est in dono quod est spiritus sctuns: quia. scilicet in illa fundatur respectus quo spiritus sctuns donum est, &amp; respi- 
+        <lb ed="#Bb" n="55"/>cit donantem &amp; illum cui donatur: &amp; est respectus secundum rationem, a quo habet ad illos relationem secundum rationem 
+   <!--387.xml-->
+        <pb ed="#Bb" n="186-v"/>
+        <lb ed="#Bb" n="1"/>&amp; illi etiam inter se. &amp; hoc siue consideretur vt donum datum creaturae a diuinis personis, siue 
+        <lb ed="#Bb" n="2"/>vni personae diuinae ab alia. Et per hunc modum respectus verbi ad ea quae dicuntur verbo, &amp; 
+        <lb ed="#Bb" n="3"/>similiter ad dicentem verbo, &amp; dicentis verbo ad dictum verbo inter se secundum rationem fundatur 
+        <lb ed="#Bb" n="4"/>in relatione reali qua est verbum dictum a patre. Ex quo patet magna differentia inter verbum 
+        <lb ed="#Bb" n="5"/>&amp; donum. Verbum enim quod est filius, eo quod est verbum respectum realem importat ad dicentem 
+        <lb ed="#Bb" n="6"/>verbum: &amp; respectum rationalem ad dicentes verbo: &amp; similiter ad dicta verbo. Donum enim quod 
+        <lb ed="#Bb" n="7"/>est spiritus sanctus, eo quod donum est nullum respectum realem importat ad dantem ipsum: neque  
+        <lb ed="#Bb" n="8"/>ad illum vel illud cui datur: sed secundum rationem tantum: quae tamen propria est spiritui sancto: sicut pro  
+        <lb ed="#Bb" n="9"/>prium est soli filio: non tantum quod sit verbum quod dicitur: sed etiam quod sit verbum quo singula dicuntur. 
+        <lb ed="#Bb" n="10"/>
+      </p>
+      <p xml:id="vn58an-fe50745-d1e347">
+        ⁋ Quod arguitur primo contra iam determinata: quod spiritus sanctus non datur vt 
+        <lb ed="#Bb" n="11"/>donum a patre filio nec econuerso: quia tam filius quam pater habent spiritum sanctum apud se in eo quod  
+        <lb ed="#Bb" n="12"/>ab ipsis procedit: Dico quod habens aliquid in se, siue apud se, vno modo bene etiam potest illud reci- 
+        <lb ed="#Bb" n="13"/>pere &amp; habere ab alio, alio modo. &amp; sic recipit quod habet: sed modo alio quam quo habet illud. sicut 
+        <lb ed="#Bb" n="14"/>aliquis qui habet aliquid vno modo: sed non habet illud alio modo: puta qui habet alicuius rei 
+        <lb ed="#Bb" n="15"/>ossessionem: sed non proprietatem: potest illam dare quo ad possessionem: nequaquam autem quo ad proprietatem. 
+        <lb ed="#Bb" n="16"/>Vnde filius licet habeat spiritum sanctum eo quod ab ipso procedit non recedendo, vt procedit argumentum 
+        <lb ed="#Bb" n="17"/>quia tamen vt amor etiam procedit a patre in filium secundum superius determinata: ideo vt procedit a patre 
+        <lb ed="#Bb" n="18"/>bene a patre datur filio: &amp; filius eum recipit a patre. Et sic eum habet alio modo a patre quam a se: quia 
+        <lb ed="#Bb" n="19"/>a se habet ipsum per hoc quod a se procedit subsistens in eo. Apatre autem habet ipsum per hoc quod a pa- 
+        <lb ed="#Bb" n="20"/>tre procedit in ipsum vt in amatum ab eodem procedentem. Et sic sicut nemo potest dare quod nullo modo  
+        <lb ed="#Bb" n="21"/>habet: bene tamen potest dare vno modo quid non habet alio modo: sic non potest accipere ab alio id quod ha 
+        <lb ed="#Bb" n="22"/>bet a se secundum omnem modum quo natum est haberi: potest tamen bene accipere ab alio secundum vnum modum  
+        <lb ed="#Bb" n="23"/>id quod habet a se secundum alium modum. Et sic filius spiritum sanctum quem habet in se vt est persona subsistens 
+        <lb ed="#Bb" n="24"/>per hoc quod ab ipso procedit: bene habet etiam a patre vt ille est amor connectens per hoc quod procedit 
+        <lb ed="#Bb" n="25"/>patre secundum determinata. sic etiam econverso contingit habere. scilicet a se, &amp; etiam a filio. 
+      </p>
+      <p xml:id="vn58an-fe50745-d1e382">
+        ⁋ Per. hoc pa 
+        <lb ed="#Bb" n="26"/>et responsio ad secundum. Quod dicitur, id quid datur alicui non habetur ab illo cui datur si non detur eidem &amp;c. 
+        <lb ed="#Bb" n="27"/>Dico quod verum est si daretur illi omni modo quo natum est haberi: quia vt procedit argumentum vlterius 
+        <lb ed="#Bb" n="28"/>de eo quod habet quis ex alterius dono, quo ad modum quo habet illud ex dono: potest dici, Quid habes 
+        <lb ed="#Bb" n="29"/>quod non accepisti: Sed quando aliquid datur tantum secundum modum vnum habendi, quod etiam est haberi secundum alium 
+        <lb ed="#Bb" n="30"/>modum habendi: bene potest illud ab aliquo haberi de seipso: &amp; etiam ex alterius dono. vt contingit 
+        <lb ed="#Bb" n="31"/>in voluntate secundum iam dicta de spiritu sancto: de quo verum est dicere tam ex parte filii quam ex 
+        <lb ed="#Bb" n="32"/>parte patris, quod vterque illorum habet ab illo vno modo illum quem non accepit: sed ex se habuit alio 
+        <lb ed="#Bb" n="33"/>modo. Sed secus est de diuina substantia habita in filio a patre per generationem: &amp; in spiritu san 
+        <lb ed="#Bb" n="34"/>cto ab vtroque per spirationem: quia filius secundum nullum modum habendi quo diuina substantia nata est ha-  
+        <lb ed="#Bb" n="35"/>beri, aliunde est quam a patre: similiter nec spiritus sanctus aliunde quam a patre &amp; filio. Propter quod de di-  
+        <lb ed="#Bb" n="36"/>uina substantia ex parte filii &amp; spiritus sancti potest dici. Quid habes quod non accepisti: quia nullo 
+        <lb ed="#Bb" n="37"/>modo ex se habent diuinam substantiam: sed ab alio: non ex dono, sed ex naturali processione. 
+      </p>
+      <p xml:id="vn58an-fe50745-d1e411">
+        ⁋ Ad 
+        <lb ed="#Bb" n="38"/>tertium: si spiritus sanctus detur vt donum filio a patre: aut ergo datur vt iam existens aut vt non exi 
+        <lb ed="#Bb" n="39"/>stens: Dico quod cum ista interrogatio implicet ordinem quendam existentiae dati ad actum datio- 
+        <lb ed="#Bb" n="40"/>nis: ordo iste potest intelligi fore durationis vel naturae. Si primo modo, dico quod neutra pars dif 
+        <lb ed="#Bb" n="41"/>iunctionis concedenda est: quia spiritus datur a patre filio aut econuerso neque vt iam existens 
+        <lb ed="#Bb" n="42"/>priusquam detur: neque vt prius non existens. Non primo modo: quia &amp; existit procedendo ab aeter 
+        <lb ed="#Bb" n="43"/>no a patre: &amp; similiter datur filio &amp; econuerso: &amp; sic datur vt nunquam praeexistens. Neque secundo  
+        <lb ed="#Bb" n="44"/>modo: quia vt procedit argumentum, Spiritus sanctus nunquam fuit non existens: &amp; sic non datur 
+        <lb ed="#Bb" n="45"/>vt prius quam detur non existens: &amp; simul cum eo quod datur accipiendo existere. Sed secundo modo 
+        <lb ed="#Bb" n="46"/>dico quod spiritus sanctus datur non vt iam in dando non existens: sed vt in dando existens. ita quod  
+        <lb ed="#Bb" n="47"/>simul duratione sint existere eius secundum esse personale &amp; subsistentiae a patre &amp; filio: &amp; datio eius 
+        <lb ed="#Bb" n="48"/>filio a patre, &amp; patri a filio. sed ordine quodam naturae existentia illius est primum: &amp; dari eius- 
+        <lb ed="#Bb" n="49"/>dem secundum. Et per hunt modum spiritus sanctus si debeat dari existit primo vt possit dari secun 
+        <lb ed="#Bb" n="50"/>do. 
+      </p>
+      <p xml:id="vn58an-fe50745-d1e442">
+        ⁋ Et quod tunc vlterius arguitur, quod si ita est, alia ergo est actio qua spiritus sanctus datur mu 
+        <lb ed="#Bb" n="51"/>tuo filio a patre &amp; econuerso: &amp; qua procedit ab vtroque: Dico quod secundum iam dicta spiritum sanctum 
+        <lb ed="#Bb" n="52"/>procedere a patre &amp; filio vt est persona subsistens, reuera ordine quodam naturae primum est, &amp; 
+        <lb ed="#Bb" n="53"/>ipsum procedere in filium a patre vel econuerso vt donum quod est dare ipsum, est secundum. Licet 
+        <lb ed="#Bb" n="54"/>enim eadem processio vtrobique sit secundum rem, differt tamen secundum rationem: sicut differunt secundum ra- 
+   <!--388.xml-->
+        <pb ed="#Bb" n="187-r"/>
+        <lb ed="#Bb" n="1"/>tionem productio spiritus sancti secundum se, &amp; productio eius in filio a patre vel econverso. Et est ordine 
+        <lb ed="#Bb" n="2"/>naturae ratio processionis spiritus sancti prima respectu rationis processionis eiusdem in alterutrum illorum. Spitus 
+        <lb ed="#Bb" n="3"/>sctuns enim a patre procedit quasi accipiendo esse: licet non potest non esse neque duratione: neque natura. 
+        <lb ed="#Bb" n="4"/>Ab eodem autem procedit quasi vlterius in filium vt iam habens. Re vera ergo vt procedit obiectio, alia est 
+        <lb ed="#Bb" n="5"/>actio qua spiritus sanctus mutuo datur filio a patre: &amp; qua procedit ab vtroque: sed secundum rationem tantum. 
+        <lb ed="#Bb" n="6"/>Propter quod non sequitur vlterius quod dare spiritum &amp; spirare ipsum sint duae actiones notionales: non  
+        <lb ed="#Bb" n="7"/>secundum rationem tantum: &amp; similiter dari &amp; spirari: quod nullum est inconveniens: Quemadmodum verbum &amp; 
+        <lb ed="#Bb" n="8"/>filius sunt duae relationes notionales differentes secundum rationem tantum. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

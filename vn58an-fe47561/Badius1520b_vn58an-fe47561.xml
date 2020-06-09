@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe47561"> <!-- alias="vn58an-a61q1" -->
+      <head xml:id="vn58an-fe47561-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe47561-d1e107">
+        <lb ed="#Bb" n="16"/>Irca primum arguitur quod spiritus non sit nomen personae diuinae, Primo sic, non  
+        <lb ed="#Bb" n="17"/>est persona diuina nisi relatiua vt habitum est supra. sed spiritus sanctus non est 
+        <lb ed="#Bb" n="18"/>nomen relatiuum, sed absolutum: quia absolutum est quod dicitur spiritus &amp; simi- 
+        <lb ed="#Bb" n="19"/>liter quod dicitur sanctus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe47561-d1e118">
+        ⁋ Secundo sic. nomen quod communiter con- 
+        <lb ed="#Bb" n="20"/>uenit tribus personis diuinis, essentiale est in diuinis &amp; non personale, vt patet 
+        <lb ed="#Bb" n="21"/>ex supra determinatis. hoc nomen spiritus sanctus conuenit tribus personis. pa 
+        <lb ed="#Bb" n="22"/>ter enim &amp; spiritus est &amp; sanctus, similiter &amp; filius, &amp; quaecumque alia persona in diuinis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe47561-d1e127">
+        ⁋ Con 
+        <lb ed="#Bb" n="23"/>tra. i. Ioan. iii. dicitur. Tres sunt qui testimonium dant in caelo, pater, verbum, &amp; spiritus sanctus. 
+        <lb ed="#Bb" n="24"/>hoc autem non esset nisi spiritus sanctus esset nomen personae. ergo &amp;c. 
+        <lb ed="#Bb" n="25"/>
+      </p>
+      <p xml:id="vn58an-fe47561-d1e137">
+        ⁋ Dicunt aliqui quod nomen aliquod dupliciter potest considerari. Vno modo ratio 
+        <lb ed="#Bb" n="26"/>ne sui principalis significati. Alio modo ratione actus sui. Primo quidem modo dicunt quod spiritus 
+        <lb ed="#Bb" n="27"/>sanctus non est proprium nomen personae: sed commune trinitati, vt procedunt duo prima obiecta. 
+        <lb ed="#Bb" n="28"/>Secundo modo (vt procedit tertium obiectum) dicunt quod est, proprium nomen personae in diuinis. Vtuntur enim 
+        <lb ed="#Bb" n="29"/>theologi hoc nomine spiritus sanctus pro nomine relatiuo nondum imposito: licet de se sit absolutum. 
+        <lb ed="#Bb" n="30"/>Quod non oportet dicere: immo simpliciter potest dici quod spiritus sanctus est proprium nomen personae &amp; rela 
+        <lb ed="#Bb" n="31"/>tiuum. 
+      </p>
+      <p xml:id="vn58an-fe47561-d1e153">
+        ⁋ Ad cuius intellectum &amp; ad dissolutionem argumentorum simul, sciendum est quod hoc nomen spi 
+        <lb ed="#Bb" n="32"/>ritus vno modo dicitur a spiritualitate, appellando qualemcunque rem prae naturae suae subtilitate spiritu 
+        <lb ed="#Bb" n="33"/>alem spiritum. secundum quod etiam ventus spiritus dicitur. &amp; hoc modo spiritus est in diuinis nomen naturae siue essen 
+        <lb ed="#Bb" n="34"/>tiae, &amp; penitus absolutum, conveniens tribus personis: vt procedunt duo prima obiecta. Et hoc modo deus essentialiter 
+        <lb ed="#Bb" n="35"/>supponens &amp; coniter pro tribus personis, dicitur spiritus. loam. iiii. Deus spiritus est. Alio autem modo dicitur spiritus ab actu spiramn 
+        <lb ed="#Bb" n="36"/>d scilicet quia spiratur &amp; spiratione esse habet, &amp; quasi per expulsionem siue excussionem a spirante de eo de quo spi 
+        <lb ed="#Bb" n="37"/>ratur: secundum quod supra declaratum est: assignando differentiam inter generationem &amp; spirationem. Hoc autem modo no 
+        <lb ed="#Bb" n="38"/>minando spnitum: spiritus in diuinis est nomen personae, non essentiae: &amp; penitus relatiuum, conveniens solummodo tertiae perso 
+        <lb ed="#Bb" n="39"/>nae in diuinis: &amp; est institutum a proprietate personali relatiua quae est spirari: sicut genitum impositum est a proprie 
+        <lb ed="#Bb" n="40"/>tate relatiua quae est generari. secundum modum superius expositum de genito: &amp; iam exponetur de spum scton. Quia vt 
+        <lb ed="#Bb" n="41"/>dicit <name ref="#Augustine">Augustinus</name> v. de trinitate. ca. xi. Spiritus sanctus in eo quod proprie dicitur spiritus sanctus, relatiue dicitur: sed ipsa relatio non 
+        <lb ed="#Bb" n="42"/>apparet in hoc nomine sicut in hoc nomine donum. Quia autem cum nomine spiritus adiugitur sanctus, hoc sit per Antono- 
+        <lb ed="#Bb" n="43"/>masiam: quia huic spiritui sanctitas appropriatur: vt spiritus iste ab aliis spiritibus discernatur: vt sit idem ex parte 
+        <lb ed="#Bb" n="44"/>tertiae personae in diuinis spantum esse: quod est ex parte personae secundae genitum esse. &amp; secundum hoc bene procedit tertia obiectio.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

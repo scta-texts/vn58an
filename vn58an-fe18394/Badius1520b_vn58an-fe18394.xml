@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="67-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe18394"> <!-- alias="vn58an-a53a6" -->
+      <head xml:id="vn58an-fe18394-Hd1e104">Quaestio 6</head>
+      <p xml:id="vn58an-fe18394-d1e107">
+        <lb ed="#Bb" n="27"/>CIrca Sextum arguitur: quod in deo sit ponere vnum suppositum absolutum conmune tri 
+        <lb ed="#Bb" n="28"/>bus respectiuis, Primo sic. persona in sui significatione includit suppositum cum pro 
+        <lb ed="#Bb" n="29"/>prietate relatiua distinctiua. secundum conem &amp; magistralem definitionem personae: quae di-  
+        <lb ed="#Bb" n="30"/>cit quod persona est hypostasis proprietate distincta. Hypostasis autem rationem suppositi in 
+        <lb ed="#Bb" n="31"/>portat. in deo ergo est ponere rationem suppositi praeter relatiuam proprietatem. Sed in deo 
+        <lb ed="#Bb" n="32"/>peter relatiuam proprietatem distiguentem nihil est nisi quod est cone &amp; absolutum. ergo &amp;c. 
+        <lb ed="#Bb" n="33"/>
+      </p>
+      <p xml:id="vn58an-fe18394-d1e125">
+        ⁋ Secundo sic. <name ref="#Augustine">Augustinus</name> dicit. vii. de trinitate. Dis essentia quae relatiue dicitur: est est aliquid 
+        <lb ed="#Bb" n="34"/>excepto relatiuo. Et sequitur. Quapropter si pater non est aliquid ad seipsum, non est omnino quid relatiue di 
+        <lb ed="#Bb" n="35"/>catur ad aliud. ldem autem potest dici de filio &amp; spiritu sancto. Sunt ergo aliquid ad seipsum, excepto 
+        <lb ed="#Bb" n="36"/>illo quo relatiue dicuntur inter se. Hoc autem excepto non est nisi vnum conmune tribus, quia secundum Boe 
+        <lb ed="#Bb" n="37"/>thium sola relatio multiplicat trinitatem. aliquod autem ad se existens non est nisi suppositum. ergo &amp;c. 
+        <lb ed="#Bb" n="38"/>
+      </p>
+      <p xml:id="vn58an-fe18394-d1e142">
+        ⁋ Tertio sic. pater est aliquis: &amp; est pater. sed non eodem est aliquis &amp; pater, quia paternitate est 
+        <lb ed="#Bb" n="39"/>pater: non autem paternitate est aliquis: eo quod tunc filius non esset aliquis: quia non habet in se 
+        <lb ed="#Bb" n="40"/>paternitatem, nec esse aliquis includit esse patrem: quia tunc similiter vt prius, etiam filius non esset ali 
+        <lb ed="#Bb" n="41"/>quis. est ergo pater aliquis: excepto eo quo est pater, quo convenit cum filio. sed esse aliquem est esse 
+        <lb ed="#Bb" n="42"/>suppositum. Quod autem est patri cone cum filio, non est nisi vnum absolutum: quia secundum Boethium &amp; <name ref="#Augustine">Augustinum</name> 
+        <lb ed="#Bb" n="43"/>pater &amp; filius in omnibus sunt vnum praeter quod ad aliquid dicuntur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe18394-d1e160">
+        ⁋ Quarto sic. dicit Au 
+        <lb ed="#Bb" n="44"/>gustinus. vii. de trinitate. Dis res ad seipsam subsistit, quanto magis deus: ad se autem non subsistit 
+        <lb ed="#Bb" n="45"/>nisi suppositum. ergo in deo est suppositum absolutum. absolutum non est nisi vnicum in deo, vt 
+        <lb ed="#Bb" n="46"/>prius. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe18394-d1e169">
+        ⁋ Quinto sic. essentia diuina vt est essentia, habet rationem personae: quia ipsa 
+        <lb ed="#Bb" n="47"/>est in se indiuisa propter suam simplicitatem, &amp; a qualibet alia diuisa &amp; distincta: vt a qualibet 
+        <lb ed="#Bb" n="48"/>essentia creata. quod autem tale est, habet rationem personae in natura intellectuali, vt patet in ho 
+        <lb ed="#Bb" n="49"/>minibus &amp; angelis. ipsa autem essentia diuina vt est essentia, est quid absolutum. ergo &amp;c. 
+        <lb ed="#Bb" n="50"/>
+      </p>
+      <p xml:id="vn58an-fe18394-d1e180">
+        ⁋ Sexto sic. intelligere in deo quia est de essentialibus &amp; absolutis. secundum nostram rationem in-  
+        <lb ed="#Bb" n="51"/>telligendi praecedit omne relatiuum reale: &amp; ita omnem personam relatiuam: &amp; tamen praesupponit aliquam perso 
+        <lb ed="#Bb" n="52"/>nam intelligentem: quae non potest esse nisi absoluta communis tribus personis relatiuis: quia si esset relatiua 
+        <lb ed="#Bb" n="53"/>similiter praesupponeret suam correlatiuam: quia relatiua secundum philosophum sunt simul natura. ergo &amp;c. 
+        <lb ed="#Bb" n="54"/>
+      </p>
+      <p xml:id="vn58an-fe18394-d1e191">
+        ⁋ Septimo sic. actus dicendi praesupponit dicentem personam: quae si esset relatiua, simul praesup 
+        <lb ed="#Bb" n="55"/>poneret suum correlatiuum, scilicet personam dictam: &amp; ita esset antequam diceretur. consequens est fal- 
+   <!--150.xml-->
+        <pb ed="#Bb" n="68-r"/>
+        <lb ed="#Bb" n="1"/>sum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe18394-d1e202">
+        ⁋ In oppositum est: quoniam cum illud suppositum non est nisi naturae intellectualis: ipsum  
+        <lb ed="#Bb" n="2"/>esset persona. ergo in deo esset personarum quaternitas: quod contra fidem est. 
+      </p>
+      <p xml:id="vn58an-fe18394-d1e207">
+        <lb ed="#Bb" n="3"/>⁋ Quaestionem istam disputauimus in nostro quinto Quolibet: ex quo aliqua bre- 
+        <lb ed="#Bb" n="4"/>uiter recolligendo cum supra determinatis: dicamus quod cum secundum iam determinata supra, in 
+        <lb ed="#Bb" n="5"/>deo non sit ratio vniuersalis: quare nec ratio absoluti suppositi vniuersalis aut communis. secundum  
+        <lb ed="#Bb" n="6"/>quem modum diximus iam supra suppositum esse in vniuersalibus &amp; singularibus: licet supposi 
+        <lb ed="#Bb" n="7"/>tum non habet esse proprie nisi in singularibus, vt determinatum est in praedicto Quolibet. Si ergo  
+        <lb ed="#Bb" n="8"/>in eo sit ratio suppositi absoluti: illud erit singulare &amp; vnicum: quia nihil absolutum in deo plu 
+        <lb ed="#Bb" n="9"/>rificatur, vt dictum est opponendo. Vnicum autem absolutum in deo non est nisi forma deitatis. Suppositum 
+        <lb ed="#Bb" n="10"/>ergo absolutum in deo non potest poni nisi in forma deitatis, circunscriptis per intellectum relatiuis proprieta 
+        <lb ed="#Bb" n="11"/>tibus. Et nihil quaerit ista quaestio, nisi an circunscriptis dictis proprietatibus constitutiuis trium personarum 
+        <lb ed="#Bb" n="12"/>maneat in deo aliquod suppositum vnum absolutum commune illis tribus. 
+      </p>
+      <p xml:id="vn58an-fe18394-d1e232">
+        ⁋ Est autem opinio ali 
+        <lb ed="#Bb" n="13"/>quorum notata super. xxvi. distinctionem primi Sententiarum: quod si tollatur pluralitas nominum quae  
+        <lb ed="#Bb" n="14"/>sunt pater, &amp; flius, &amp; spiritus sctuns, quae imponuntur a relatiuis proprietatibus &amp; distinctiuis, hoc no-  
+        <lb ed="#Bb" n="15"/>men deus significat personam quandam distinctam proprietatibus essentialibus ab omnibus aliis 
+        <lb ed="#Bb" n="16"/>naturis, creaturarum. scilicet quemadmodum ludaei quidam &amp; gentiles intelligunt vnum deum eminentem pro 
+        <lb ed="#Bb" n="17"/>prietatibus eorum quae sunt. Quod non potest stare: quoniam (vt determinatum est in praedicto Quolibet)  
+        <lb ed="#Bb" n="18"/>nihil habet rationem suppositi nisi habeat rationem entis determinati. Eorma enim non est supposi 
+        <lb ed="#Bb" n="19"/>tum vt nomine formae significatur: sed habens formam tanenmmodo. Habere autem formam nulli convenit 
+        <lb ed="#Bb" n="20"/>nisi per determinatum modum habendi eam. Aliter enim forma esset forma tantum vt humanitas vel 
+        <lb ed="#Bb" n="21"/>asinitas: non autem habita ab aliquo sicut a supposito: veluti ab homine vel asino. Determinatio 
+        <lb ed="#Bb" n="22"/>autem non potest esse nisi in habente formam, nisi per aliquid fundatum in ipsa forma vel essentia, quod ra- 
+        <lb ed="#Bb" n="23"/>tionis alterius est quam sit ipsa forma, quia seipsa ex ratione qua forma est, nullam habet determina 
+        <lb ed="#Bb" n="24"/>tionem. Illa autem ratio non potest esse pure negatiua: quia illa nihil determinat. Est ergo positi- 
+        <lb ed="#Bb" n="25"/>ua absoluta vel respectiua. Non absoluta: quia cu illa non potest esse res alia addita ipsi essentiae for- 
+        <lb ed="#Bb" n="26"/>mae, oportet quod fundetur in ipsa essentia formae: &amp; sic ipsam essentiam formae in se determinaret:  
+        <lb ed="#Bb" n="27"/>quid solum fit in creaturis &amp; in formis creatis: non autem in forma increata: quia illimitata &amp; inde 
+        <lb ed="#Bb" n="28"/>terminabilis est, vt habitum est supra. Alio autem modo non potest constitui ratio suppositi absoluti. 
+        <lb ed="#Bb" n="29"/>Si ergo in deo sit suppositum, oportet quod constituatur per rationem respectiuam in ipsa essentia fun- 
+        <lb ed="#Bb" n="30"/>datam, quae non agit determinationem aliquam rei secundum se consideratae: propter quod non determinat 
+        <lb ed="#Bb" n="31"/>essentiam: sed solum rei comparatae ad alterum secundum relatiuam oppositionem: quae est ipsius relati, quod  
+        <lb ed="#Bb" n="32"/>est ipsum constitutum quasi ex essentia &amp; relatione, &amp; ipsum determinatum atque distinctum, vt infra di- 
+        <lb ed="#Bb" n="33"/>cetur. Ablatis ergo per intellectum proprietatibus &amp; nominibus earum, nullo modo manet in deo ra-  
+        <lb ed="#Bb" n="34"/>tio suppositi: nec possibile est poni in deo aliam rationem suppositi quam relati. Vnde philosophis qui verum 
+        <lb ed="#Bb" n="35"/>habebant intellectum deitatis, etsi non trinitatis personarum relatarum, praecise intelligebant eam vt quan- 
+        <lb ed="#Bb" n="36"/>dam singularitatem absolutam indeterminatam &amp; illimitatam: ita quod falsus &amp; fictitius fuisset eorum in-  
+        <lb ed="#Bb" n="37"/>tellectus, &amp; non essentiam deitatis intellexissent sed figmenti, quod sibi in imaginatione constru 
+        <lb ed="#Bb" n="38"/>xissent si sub ratione suppositi absoluti eam intellexissent: quemadmodum est falso eam intellexissent, si eam 
+        <lb ed="#Bb" n="39"/>intellexissent non intelligendo eam sub proprietatibus relatiuis &amp; in supposito relatiuo subsistenti 
+        <lb ed="#Bb" n="40"/>existere: immo (vt verius dicam) intelligendo eam existere absque relatiuis proprietatibus: nec in  
+        <lb ed="#Bb" n="41"/>supposito relatiuo. Vnde dicit Hil. iii. de trinitate. cap. vii. Numquod nomen dei ignorabatur: Hoc 
+        <lb ed="#Bb" n="42"/>Moyses de rubo audiuit: hoc Genesis in exordio creati orbis nunciauit: hoc lex exposuit: prophe 
+        <lb ed="#Bb" n="43"/>tae praetulerunt: homines in huius mundi operibus senserunt: gentes etiam mentiendo veneratae sunt 
+        <lb ed="#Bb" n="44"/>Non ergo ignorabatur dei nomen: sed plane deus ignorabatur: nam deum nemo noscit, nisi confiteatur &amp; pa 
+        <lb ed="#Bb" n="45"/>trem vnigeniti filii. Et li. v. cap. xvii. Prius confitendus est pater &amp; filius: vt vnus deus possit 
+        <lb ed="#Bb" n="46"/>intelligi. Vnum verum deum non apprehendet euangelicae &amp; apostolicae praedicationis ignara impietas. 
+        <lb ed="#Bb" n="47"/>Sicut enim naturae essentiae creaturae est, vt non existat nisi in supposito absoluto &amp; determinato per  
+        <lb ed="#Bb" n="48"/>naturae participationem: sic naturae deitatis est vt non existat nisi in supposito relatione determi- 
+        <lb ed="#Bb" n="49"/>nato. Vnde abbas loachim quia non potuit intelligere vnam deitatis naturam non cointelli- 
+        <lb ed="#Bb" n="50"/>gendo proprietates personales, nisi intelligendo eam sub ratione suppositi, &amp; personae, vt in di- 
+        <lb ed="#Bb" n="51"/>uinis saluaret personarum trinitatem, &amp; negaret quaternitatem: quamuis concesserit quod pater &amp; fi- 
+        <lb ed="#Bb" n="52"/>lius &amp; spiritus sanctus sint vna essentia, vna substantia, vna natura: vnitatem tamen huiusmodi non 
+        <lb ed="#Bb" n="53"/>veram &amp; propriam quasi vnum aliquod re singulare sit in patre &amp; filio &amp; spiritu sancto: sed quasi conie- 
+        <lb ed="#Bb" n="54"/>ctiuam &amp; similitudinariam esse confessus est: quemadmodum multi homines dicuntur vnus populus, &amp; multi si 
+        <lb ed="#Bb" n="55"/>deles vna ecclesia. Et cecidit in haeresim Arrianam personas separando. Vnde &amp; appellauit Magi- 
+   <!--151.xml-->
+        <pb ed="#Bb" n="68-v"/>
+        <lb ed="#Bb" n="1"/>strum Petrum Lombardum haereticum: eo quod in suis sententiis dixit: quoniam quaedam sum- 
+        <lb ed="#Bb" n="2"/>ma res est pater &amp; filius &amp; spiritus sanctus. Vnde asserit quod ille non tam trinitatem quam quater- 
+        <lb ed="#Bb" n="3"/>nitatem astruebat in deo, videlicet tres personas relatiuas, &amp; vnam communem essentiam, quas 
+        <lb ed="#Bb" n="4"/>quartam personuam. scilicet absolutam, manifeste protestans quod nulla res est quae sit pater &amp; filius &amp; spiritus 
+        <lb ed="#Bb" n="5"/>sanctus, nec essentia nec natura. Et hoc ideo: quia si hoc posuisset, visum fuit ei quod necesse habebat 
+        <lb ed="#Bb" n="6"/>ponere quod esset secundum se persona aliqua, quod non est verum. Est eni in personis non distincta ab ipsis: nen 
+        <lb ed="#Bb" n="7"/>autem persona. Et sic credit ecclesia, quod quaedam res &amp; natura est pater, filius, spiritus sanctus 
+        <lb ed="#Bb" n="8"/>ita tres simul sunt illa natura: &amp; quaelibet trium personarum per se: vt vnitas sit in natura, &amp; 
+        <lb ed="#Bb" n="9"/>distinctio in personis. secundum quod haec omnia expresse habentur in <ref xml:id="vn58an-fe18394-Rd1e351" target="http://scta.info/resource/cice-l1t1-d1e134">principio Decretalium. c. Damnamus 
+        <lb ed="#Bb" n="10"/>ergo &amp; reprobamus</ref> &amp;c. Et sicut contingebat loachim personas separare cum Arrio, ne poneret 
+        <lb ed="#Bb" n="11"/>personarum in deo quaternitatem, eo quod essentiae siue naturae vnitatem intelligere non potuit 
+        <lb ed="#Bb" n="12"/>sine ratione personalitatis: sic contigit contrario modo Sabellio, quod personas confundebat ne negaret 
+        <lb ed="#Bb" n="13"/>substantiae siue naturae vnitatem, quam non potuit intelligere nisi in vnica personalitate: quam po- 
+        <lb ed="#Bb" n="14"/>nebat esse in tribus, sicut nos ponimus in tribus ipsam essentiam absque propria personalitate. In eo 
+        <lb ed="#Bb" n="15"/>enim quod posuit vnam personam absolutam in ipsa essentia, necesse habuit ponere proprietates 
+        <lb ed="#Bb" n="16"/>personales relatiuas fundari in illa persona: sicut &amp; nos in ipsa essentia: &amp; ponere illam vnam- 
+        <lb ed="#Bb" n="17"/>sicut &amp; nos ipsam essentiam, esse patrem &amp; filium &amp; spiritum sanctum: ita quod proprietates illae pro 
+        <lb ed="#Bb" n="18"/>prias personas non distinguerent super illam personalitatem essentiae: sed quod illa vna personalitas 
+        <lb ed="#Bb" n="19"/>in illas se diffunderet: &amp; illae simul se in istam confunderent: vt sicut secundum Arrium aliud pa- 
+        <lb ed="#Bb" n="20"/>ter, aliud filius, aliud spiritus sanctus: sic secundum Sabellium, qui pater, ille filius, ille spiritus sanctus. 
+        <lb ed="#Bb" n="21"/>Reuera haec necesse habent ponere ponentes in deo vnam personam absolutam: quia illius esset per se age 
+        <lb ed="#Bb" n="22"/>re actiones diuinas, &amp; esse terminum actionum personalium, vt esset pater quia generat: &amp; filius quia gene 
+        <lb ed="#Bb" n="23"/>ratur: &amp; spiritus sctuns quia procedit. vt relationes sint aduentitiae ipsi personae ex actu, nullo modo rationes elicien 
+        <lb ed="#Bb" n="24"/>di vel terminandi actus: &amp; esset ille qui generat, ille qui generatur: &amp; spirans, qui spiratur: &amp; generaret &amp; spi 
+        <lb ed="#Bb" n="25"/>raret seipsum. quod catholici inducunt tamquam inconveniens &amp; absurdum contra Sabellium. Nos igitur Scyllam 
+        <lb ed="#Bb" n="26"/>vitantes atque charvbdim, mediam viam inter duas pestes teneamus: Dicendo quod in diuinis est essen- 
+        <lb ed="#Bb" n="27"/>tia vna, singularitate essentiae communis tribus personis, ne personas diuidamus sicut Arrius: non 
+        <lb ed="#Bb" n="28"/>singularitate personae, ne ipsas confundamus sicut Sabellius. 
+        <lb ed="#Bb" n="29"/>
+      </p>
+      <p xml:id="vn58an-fe18394-d1e398">
+        ⁋ Quia ergo arguitur Primo in oppositum: quod persona est hypostasis proprietate 
+        <lb ed="#Bb" n="30"/>distincta: Dicendum quod non definitur ibi generaliter persona vt consideratur in sua generali- 
+        <lb ed="#Bb" n="31"/>tate siue communitate, prout habet inueniri in omnibus rationalibus &amp; intellectualibus: sed spe 
+        <lb ed="#Bb" n="32"/>cialiter vt habet esse in deo: &amp; hypostasis stat ibi in illa generalitate vt conuenit omni substan 
+        <lb ed="#Bb" n="33"/>tiae indiuiduae subsistenti more latinorum, siue fuerit intellectualis, siue non intellectualis. Vn- 
+        <lb ed="#Bb" n="34"/>de non includit determinatam rationem distinctionis siue per essentiae, siue per naturae deter 
+        <lb ed="#Bb" n="35"/>minationem, vt contingit in creaturis, siue per relatiuas proprietates, vt contingit in diuinis 
+        <lb ed="#Bb" n="36"/>secundum modum supra determinatum. Persona autem diuina includit determinatam rationem distin-  
+        <lb ed="#Bb" n="37"/>ctionis scilicet per relatiuam proprietatem. Et sic in ista definitione personae diuinae cum dicitur quod est 
+        <lb ed="#Bb" n="38"/>hypostasis proprietate distincta, ly Hypostasis distincta, in illa definitione est quasi genus: l pro 
+        <lb ed="#Bb" n="39"/>prietate (subintellige relatiua) quasi differentia: &amp; sic hypostasis supponit ibi vt commune 
+        <lb ed="#Bb" n="40"/>secundum rationem &amp; intentionem: non autem vt aliquid commune secundum rem: quemadmodum est 
+        <lb ed="#Bb" n="41"/>essentia: quod tamen supponit argumentum. aliter enim non esset intellecta vna persona absoluta 
+        <lb ed="#Bb" n="42"/>manens subtractis proprietatibus. 
+      </p>
+      <p xml:id="vn58an-fe18394-d1e429">
+        ⁋ Ad secundum, quod relatiue dictum est aliquid excepto rela 
+        <lb ed="#Bb" n="43"/>tiuo: Dicendum quod intellectus illius dicti est, quod omne quod relatiue dicitur, praeter rationem respe 
+        <lb ed="#Bb" n="44"/>ctus quo relatiue &amp; ad aliud dicitur, est aliquid in re absoluta in qua fundatur ille respectus. 
+        <lb ed="#Bb" n="45"/>
+      </p>
+      <p xml:id="vn58an-fe18394-d1e438">
+        ⁋ Sed ex parte eius quod dicitur aliquid: Sciendum quod potest habere suppositionem simplicem pro 
+        <lb ed="#Bb" n="46"/>essentia vel personalem pro supposito. Primo autem modo sumitur in dicto Aug. Et sic pater 
+        <lb ed="#Bb" n="47"/>in diuinis est aliquid.d i. diuina essentia: quae est aliud quid ab essentia creata excepto relatiuo. 
+        <lb ed="#Bb" n="48"/>hoc est ratione respectus siue relationis: quae formaliter imponitur nomine paternitatis. Secun 
+        <lb ed="#Bb" n="49"/>do modo procedit argumentum non secundum intentionem Augustniuni 
+      </p>
+      <p xml:id="vn58an-fe18394-d1e449">
+        ⁋ Ad tertium: quod pater alio 
+        <lb ed="#Bb" n="50"/>est aliquis: alio est pater: Dicendum quod falsum est, quemadmodum non est alio persona, alio ista 
+        <lb ed="#Bb" n="51"/>persona patris: licet persona supponat indeterminate pro eo quod supponit determinate per- 
+        <lb ed="#Bb" n="52"/>sona filii, patris, &amp; spiritus sancti. &amp; significat communiter intentionem illam quam signifi- 
+        <lb ed="#Bb" n="53"/>cat determinate quaelibet illarum, secundum quod patet ex supra determinatis. Et quod argui- 
+        <lb ed="#Bb" n="54"/>tur, quod paternitate est pater: non est autem paternitate aliquis: quia tunc filius non esset ali- 
+   <!--152.xml-->
+        <pb ed="#Bb" n="69-r"/>
+        <lb ed="#Bb" n="1"/>quis: Dicendum quod paternitate est pater determinate: sed aliquis indeterminate. Propter quod  
+        <lb ed="#Bb" n="2"/>non sequitur quod filius non est aliquis: quia sua filiatione est aliquis indeterminate: &amp; non seque- 
+        <lb ed="#Bb" n="3"/>retur, pater paternitate est aliquis: ergo filius non est aliquis: nisi aliquis diceret aliquid determi 
+        <lb ed="#Bb" n="4"/>natum. Non sequeretur ergo illud quod vlterius concluditur. 
+      </p>
+      <p xml:id="vn58an-fe18394-d1e475">
+        ⁋ Ad quartum quod deus ad seipsum subsistit, Di 
+        <lb ed="#Bb" n="5"/>cendum: quod cum secundum Auinus. vii. de triniitate. vnde argumentum assumptum est, ab eo quod est subsistere suba 
+        <lb ed="#Bb" n="6"/>stantiam dicimus: &amp; substantiam secundum praedicta possumus accipere secundum morem latinorum 
+        <lb ed="#Bb" n="7"/>pro essentia, vel secundum morem graecorum pro subsistentia: Similiter subsistere dupliciter potest acci 
+        <lb ed="#Bb" n="8"/>pi. Vno modo vt ab eo dicitur substantia quae est essentia. Alio modo vt ab eo dicitur substantia quae est 
+        <lb ed="#Bb" n="9"/>subsistentia. Primo modo idem est deo esse quid subsistere: &amp; ad seipsum deus subsistit non relatiue. lam enim 
+        <lb ed="#Bb" n="10"/>(vt concludit) substantia non est substantia: sed relatiuum. Et hoc modo loquitur ibi Augustin 
+        <lb ed="#Bb" n="11"/>nus de subsistere. Secundo autem modo non est idem deo esse quid subsistere: sicut non est ei idem 
+        <lb ed="#Bb" n="12"/>esse &amp; patrem esse. &amp; hoc modo relatiue subsistit, non ad se: sicut &amp; relatiue est persona, non ad se 
+        <lb ed="#Bb" n="13"/>
+      </p>
+      <p xml:id="vn58an-fe18394-d1e498">
+        ⁋ Ad quintum dicendum quod essentia diuina vt essentia est, non potest habere rationem personae: quia 
+        <lb ed="#Bb" n="14"/>persona vt persona, habet rationem incommunicabilis &amp; esse determinati in sua singularitate:  
+        <lb ed="#Bb" n="15"/>non sic autem essentia sub ratione qua est essentia simpliciter, habet quod sit esse determinati &amp; 
+        <lb ed="#Bb" n="16"/>incommunicabile quid. Immo omnis essentia vt simpliciter essentia est, communicabile quid est 
+        <lb ed="#Bb" n="17"/>pluribus suppositis: licet in deo secundum rationem esse indeterminati singularis: in creatu- 
+        <lb ed="#Bb" n="18"/>ris vero sub ratione esse indeterminati vniuersalis: quamuis essentia deitatis, quia ex se singularis 
+        <lb ed="#Bb" n="19"/>est, potius ex se videatur habere rationem personae quam essentia creata: quia ex se vniuersalis est. 
+        <lb ed="#Bb" n="20"/>Siue enim essentia sit singularis siue vniuersalis, nihil refert ad non esse personam: dum tamen ip- 
+        <lb ed="#Bb" n="21"/>sa de se sit communicabilis siue in substantiae singularitate siue in pluralitate: quia illa sola ra- 
+        <lb ed="#Bb" n="22"/>tio quae confert incommunicabilitatem in natura intellectuali, confert personalitatem. Vnde ad formam ar 
+        <lb ed="#Bb" n="23"/>gumenti dicendum, quod indiuisio duplex est, &amp; similiter diuisio siue distinctio, sicut &amp; duplex est vni 
+        <lb ed="#Bb" n="24"/>tas &amp; pluralitas, scilicet essentialis &amp; personalis. Licet ergo essentia diuina vt essentia est, in se est 
+        <lb ed="#Bb" n="25"/>indiuisa, &amp; a qualibet alia diuisa: quia illa diuisio est essentialis, &amp; similiter indiuisio, non au-  
+        <lb ed="#Bb" n="26"/>tem personalis: quia non est penes rationem incommunicabilis: vt dictum est: idcirco non oportet quod  
+        <lb ed="#Bb" n="27"/>diuina essentia inquantum est essentia, habeat rationem personae. 
+      </p>
+      <p xml:id="vn58an-fe18394-d1e531">
+        ⁋ Ad sextum: quod intelligere quia est de abso- 
+        <lb ed="#Bb" n="28"/>lutis praecedit omne relatiuum reale &amp; personale &amp;c. Dicendum quod secundum rationem nostram intelli 
+        <lb ed="#Bb" n="29"/>gendi illud est prius quod simpliciorem &amp; absolutiorem intellectum de se format. &amp; sic vniuersaliter 
+        <lb ed="#Bb" n="30"/>absolutum inquantum absolutum, prius est relatiuo quod includit illud absolutum: quemadmodum persona in-  
+        <lb ed="#Bb" n="31"/>cludit essentiam. Si autem relatiuum non includit secundum intellectum suum intellectum absoluti, non opor 
+        <lb ed="#Bb" n="32"/>tet: vt contingit in proposito. Vnde distinguendum est de absolutis in deo: quia quaedam significant 
+        <lb ed="#Bb" n="33"/>per modum habitus, quaedam per modum agere siue actus. De illis quae significant per modum habitus, vni- 
+        <lb ed="#Bb" n="34"/>uersaliter verum est quod praecedunt omnem relationem realem, non autem verum est hoc de illis quae significant per 
+        <lb ed="#Bb" n="35"/>modum agere: vt sunt intelligere &amp; velle: immo illa praesupponunt suppositum relatiuum non ab alio exi- 
+        <lb ed="#Bb" n="36"/>stens: cui primo secundum rationem conveniunt intelligere &amp; velle, nec tamen simul praesupponunt suum correlatiuum 
+        <lb ed="#Bb" n="37"/>quo ad actum intelligendi: neque similiter quo ad actum dicendi, de quo processit vltimum argumentum: licet quo  
+        <lb ed="#Bb" n="38"/>ad actum nostrum intelligendi. 
+      </p>
+      <p xml:id="vn58an-fe18394-d1e557">
+        ⁋ Est ergo sciendum ad dissolutionem huius assumpti in vtroque argumento:  
+        <lb ed="#Bb" n="39"/>quod relatiuum potest considerari vt relatiuum simpliciter: &amp; vt comparatur ad actum intelligendi passiue cuius- 
+        <lb ed="#Bb" n="40"/>cumque: vel vt est pertinens ad originem, &amp; comparatur ad actum originandi siue actiue siue passiue. 
+        <lb ed="#Bb" n="41"/>Primo modo verum est quod sunt simul natura, hoc est naturali intelligentia: quia vnum sine altero in  
+        <lb ed="#Bb" n="42"/>telligi non potest: immo vnum est ratio intelligendi alterum. Secundo autem modo vnum po- 
+        <lb ed="#Bb" n="43"/>test esse prius altero inquantum actus originatur ab vno &amp; terminatur in alterum, &amp; hoc secun- 
+        <lb ed="#Bb" n="44"/>dum modum quo secundum rationem nostram prius &amp; posterius cadunt circa ordinem originis: de quo in  
+        <lb ed="#Bb" n="45"/>fra erit sermo amplior. Sed mediante actu intelligendi &amp; dicendi dicens &amp; intelligens simul dat in  
+        <lb ed="#Bb" n="46"/>telligere suum correlatiuum, vt infra magis declarabitur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

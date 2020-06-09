@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="9-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe2385"> <!-- alias="vn58an-a43q3" -->
+      <head xml:id="vn58an-fe2385-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe2385-d1e107">
+        <lb ed="#Bb" n="13"/>CIrca tertium arguitur quod in deo sit nunerus &amp; ratio totius numeralis. Primo sic. In deo sunt 
+        <lb ed="#Bb" n="14"/>tres personae distinctae. aut ergo genere, aut specie, aut nunero sunt differentes. Isti autem  
+        <lb ed="#Bb" n="15"/>sunt tres modi diuersorum in creaturis. secundum philosophum. i. Top. Sed non genere vel spe: ergo  
+        <lb ed="#Bb" n="16"/>nuero: quia maior differentia includit minorem. sed quae differunt nunero: vnum inter se 
+        <lb ed="#Bb" n="17"/>constituunt. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe2385-d1e120">
+        ⁋ Secundo sic. <name ref="#JohnDamascenus">Damascenus</name> dicit. Nunero non natura differunt hyposta 
+        <lb ed="#Bb" n="18"/>ses. ergo idem quod prius. 
+      </p>
+      <p xml:id="vn58an-fe2385-d1e128">
+        ⁋ Tertio sic. omnis multitudo numerus est. dicente Auicen. iii. 
+        <lb ed="#Bb" n="19"/>Meta. Multitudo ipse numerus est. trinitas personarum multitudo quaedam est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe2385-d1e134">
+        ⁋ In contrarium est, quia vt 
+        <lb ed="#Bb" n="20"/>dicit Boe. de trinitate. hoc est vere vnum, in quo nullus est nunerus. deus est verissime vnum, vt probatum est supra. ergo &amp;c. 
+        <lb ed="#Bb" n="21"/>
+      </p>
+      <p xml:id="vn58an-fe2385-d1e141">
+        ⁋ Hic sunt aduertenda quaedam superius determinata de natura numeri in quadam  
+        <lb ed="#Bb" n="22"/>quaestne de simplicitate dei, videlicet quod omnis nunerus proprie dictus ab vnitate aliqua sumit originem: in qua  
+        <lb ed="#Bb" n="23"/>virtute totus continetur: quemadmodum in continuo continentur infinita diuisibilia: in quo vnitas continui quia ac 
+        <lb ed="#Bb" n="24"/>cidit rei in qua est: accidit ei diuisio &amp; nunerus ex diuisione procedens, &amp; non solum ex diuisione eorum quae  
+        <lb ed="#Bb" n="25"/>actu fuerunt aliquando in eodem continuo: sed eorum quae suam formam &amp; speciem habent in continuo. Quoniam omnia talia 
+        <lb ed="#Bb" n="26"/>quantum est ex natura &amp; ratione continui nata sunt esse vnum continuum: &amp; maxime illa quae nata sunt perficere 
+        <lb ed="#Bb" n="27"/>eandem materiam. Sed secundum diuersas partes materiae diuersis formis indiuidualibus distinguuntur, quemadmo  
+        <lb ed="#Bb" n="28"/>dum nunerantur generabilia &amp; corruptibilia sub eadem spe. Et ideo omnia quae sic nuerantur sunt multa nuero, sed spe 
+        <lb ed="#Bb" n="29"/>cie vnum. Et in solis talibus est vera &amp; perfecta ratio numeri, cuius natura est quod vnitates eius specie con- 
+        <lb ed="#Bb" n="30"/>ueniunt: secundum quam natae sunt esse vnum in continuo, &amp; diuisae sunt secundum formas numerales secundum  
+        <lb ed="#Bb" n="31"/>diuersas partes materiae. Vnde &amp; illa quae diuersa sunt specie, eo quod non sunt nanta esse vnum in conti 
+        <lb ed="#Bb" n="32"/>nuo: quantum est ex natura specierum non constituunt verum numerum. Talia enim (vt dicit Auicen) mul- 
+        <lb ed="#Bb" n="33"/>ta sunt sine numero. Multa quidem, quia plura abinuicem diuisa. Sine nunero, quia sub nulla vnitate 
+        <lb ed="#Bb" n="34"/>nata redigi. secundum quod omnia ista patent ex ibidem determinatis. Ex quibus colligimus duas conditiones quae ve- 
+        <lb ed="#Bb" n="35"/>rum numerum constituunt, quarum vna est, quod illa quae numerantur sunt plura diuisa. secunda quod nata sunt in vni- 
+        <lb ed="#Bb" n="36"/>tate continui vnius esse contenta. Primo debent esse abinuicem diuisa, quia vnita in continuo non nume- 
+        <lb ed="#Bb" n="37"/>rantur nisi in potentia qua possibilia sunt ad diuisionem. &amp; ideo sunt vnum: &amp; non habent numerum. Se 
+        <lb ed="#Bb" n="38"/>cundo debent esse sub eadem specie contenta. quia illa quae sunt diuersarum specierum, vel non sunt nata habere for 
+        <lb ed="#Bb" n="39"/>mam in materia, etsi sunt eiusdem speciei, quia numquam nata sunt esse vnum in aliquo continuo a quo diuidantur 
+        <lb ed="#Bb" n="40"/>etsi sint multa, non tamen sunt numerata. 
+      </p>
+      <p xml:id="vn58an-fe2385-d1e185">
+        ⁋ Quibus inspectis dicimus quod in deo ratio numeri simpliciter dicti 
+        <lb ed="#Bb" n="41"/>nullo modo cadit. Primo. quia etsi sit in deo considerare plura secundum attributorum differentiam, vel personarum 
+        <lb ed="#Bb" n="42"/>distinctionem, non tamen sunt diuisa abinuicem: sed in esse vnita, &amp; vnum simplex. &amp; secundum hanc conditionem in  
+        <lb ed="#Bb" n="43"/>deo repugnat nunero verissima vnitas essentiae quae nullam patitur partitionem aut diuisionem. Propter quid di-  
+        <lb ed="#Bb" n="44"/>cit Boet. quod illud est vere vnum in quo nullus est nunerus. Vnde quia omnis alia forma quae est in creaturis 
+        <lb ed="#Bb" n="45"/>non est vere vna, sed partibilis per plura secundum numerum &amp; supposita: ideo in ipsa aliqua ratio numeri ca 
+        <lb ed="#Bb" n="46"/>dit scilicet aliquod illius numeri formalis. vt habitum est in praedeterminata quaest. Secundo in deo non cadit nume 
+        <lb ed="#Bb" n="47"/>rus simpliciter: quia etsi in deo sint quoquo modo (vt dictum est) plura vel attributa vel supposita, vel 
+        <lb ed="#Bb" n="48"/>suppositorum proprietates, quae in suppositis comprehenduntur, non tamen vt sub eadem specie &amp; forma respectus con 
+        <lb ed="#Bb" n="49"/>tenta. Non enim in deo sunt plures pres, vel plures filii, vel plures spiritus sancti, vel plures sapientiae aut  
+        <lb ed="#Bb" n="50"/>plures bonitates, quasi sub ratione eiusdem speciei atomae contentae: sed quodlibet illorum est quasi vna species 
+        <lb ed="#Bb" n="51"/>respectus. Non dico simpliciter species: quia ibi non est ratio vniuersalis, vt dictum est. Vnde etsi in deo sub 
+        <lb ed="#Bb" n="52"/>llis pluribus esset essentiae partitio, adhuc a vera ratione numeri deficerent. lta quod nihil in deo est de 
+        <lb ed="#Bb" n="53"/>ratione numeri: nisi in personis &amp; attributis pluralitas. Quia tamen propter vnitatem essentiae non est illa plu- 
+        <lb ed="#Bb" n="54"/>ralitas simpliciter &amp; absolute secundum rationem, non potest adhuc poni in deo nunerus simpliciter. Vnde quia 
+        <lb ed="#Bb" n="55"/>non est ibi pluralitas simpliciter &amp; absolute, sed cum determinatione, pluralitas scilicet attributorum &amp; personarum. 
+   <!--34.xml-->
+        <pb ed="#Bb" n="10-r"/>
+        <lb ed="#Bb" n="1"/>deo in deo nullo modo ponitur nunerus simpliciter &amp; absolute, sed sub determinatione: dicendo quod in deo est 
+        <lb ed="#Bb" n="2"/>numetrus attributorum &amp; personarum, Et est iste alius a nunero formali, &amp; numero accidentali mathematico, conve 
+        <lb ed="#Bb" n="3"/>niens tamen cum vtroque: sed plus cum nunero formali, &amp; maxime plurium differentium specie aut etiam genere. Conue 
+        <lb ed="#Bb" n="4"/>it enim cum numero mathematico, quia ille a radice formae vnitatis oritur: &amp; numerus personarum &amp; diuinorum 
+        <lb ed="#Bb" n="5"/>attributorum ortum hi a radice formae deitatis, quae singularitas &amp; vnitas quaedam est. Sed differt in hoc, quod in  
+        <lb ed="#Bb" n="6"/>nuero mathematico vnitas diuiditur vt fiat nunerus, in nunero autem personarum &amp; attributorum vna &amp; ea- 
+        <lb ed="#Bb" n="7"/>dem in singulis coniter habetur. &amp; ita per ipsam non numeratur, sed per respectus formales in ipsa, vt supra ha- 
+        <lb ed="#Bb" n="8"/>bitum est de attributis, &amp; infra dicetur de personis. Illi autem respectus formales quasi specie differunt, vt dictum 
+        <lb ed="#Bb" n="9"/>est. Et in hoc differt nunerus iste a nunero formali: quod in illo numerata nunquam radicantur in vna forma 
+        <lb ed="#Bb" n="10"/>singulari sicut in isto: &amp; in illo numerantur per formas absolutas: in isto vero solum per fomales respectus. Et 
+        <lb ed="#Bb" n="11"/>sicut in praecedente quaestione vnitas singularis diuinae substantiae in tribus personis est ratio quare in deo non 
+        <lb ed="#Bb" n="12"/>potest esse vniuersale, sic est ratio quare in eo non potest esse nunerus simpliciter. Vnde Aug. lib. i. contra Ma- 
+        <lb ed="#Bb" n="13"/>ximinum Arrianum qui personas separauit, dicit. c. viii. sine causa putas nos nunero coartari cum deitatis po- 
+        <lb ed="#Bb" n="14"/>tentia etiam rationem numeri excedit. Et quod istam potentiam appellat qua singularis essentia potest simul 
+        <lb ed="#Bb" n="15"/>esse in tribus, manifestat per illud quod continue subdit dicens. Si enim animae multae hominium accepto spiritu scton, 
+        <lb ed="#Bb" n="16"/>quodammodo conflatae igne charitatis vnam animam fecerunt: quanto magis nos vnum dicimus semper sibi inuicem 
+        <lb ed="#Bb" n="17"/>&amp; inseparabiliter &amp; ineffabili charitate cohaerentes patrem &amp; filium &amp; spantum sanctum: 
+        <lb ed="#Bb" n="18"/>
+      </p>
+      <p xml:id="vn58an-fe2385-d1e263">
+        ⁋ Ad primum quod pater &amp; filius &amp; spiritus sanctus, quia sunt tres ad minus differunt 
+        <lb ed="#Bb" n="19"/>numero: Dicendum reuera quod vnum nunero est hoc vnum quod cum alio vno est constituens nunerum. Quare cum 
+        <lb ed="#Bb" n="20"/>vnitas personae cum persona non constituit numerum, vt dictum est, non potest dici vnum nunero. Sed est aliud ge- 
+        <lb ed="#Bb" n="21"/>nus vnitatis quam sit in creaturis, sicut &amp; in deo est alia ratio definitionis suppositi quam sit indiuiduatio-  
+        <lb ed="#Bb" n="22"/>nis in creaturis, vt dictum est supra. vt secundum hoc in trinitate sit ponere vnum &amp; vnum &amp; vnum: sed non numerum 
+        <lb ed="#Bb" n="23"/>secundum quod dicitur in li. de fide c, xv. Cum tertio repetitur vnum, non nunerus coaceruatur sed vnum esse aliud asseritur 
+        <lb ed="#Bb" n="24"/>gignens, genitus, &amp; procedens, tres quidem personae: sed substantia vna. 
+      </p>
+      <p xml:id="vn58an-fe2385-d1e279">
+        ⁋ Ad secundum de <name ref="#JohnDamascenus">Damascenus</name> dicendum quod non lo- 
+        <lb ed="#Bb" n="25"/>quitur ibi de nunero simpliciter &amp; absolute, sed cum determinatioe scilicet personarum, vt patet inspicienti. 
+      </p>
+      <p xml:id="vn58an-fe2385-d1e287">
+        ⁋ Ad ter- 
+        <lb ed="#Bb" n="26"/>tium quod multitudo est numerus: Dicendum quod cum nomen non imponit nisi qui nouit rem. secundum Commen. ix. Meta. 
+        <lb ed="#Bb" n="27"/>secundum quod res nobis sunt magis notae &amp; prius. secundum hoc a nobis prius sunt rebus nomia imposita. Nunc 
+        <lb ed="#Bb" n="28"/>autem ita est secundum philosophum. x. Meta. quod multitudo est nobis notior quam vnitas, sicut compositum quam simplex, 
+        <lb ed="#Bb" n="29"/>vt habetur in principio Phyce. Et ideo multo siue multitudini nomen prius est impositum, &amp; deinde vnita 
+        <lb ed="#Bb" n="30"/>ti. Propter quod multum imponitur a modo affirmationis. Multum enim secundum philosophum est vna plura, id est ens diuisum per 
+        <lb ed="#Bb" n="31"/>vnitates plures. Vnum vero significat modo negationis &amp; priuationis illius diuisionis quae significatur nomine 
+        <lb ed="#Bb" n="32"/>multi. Vnum enim est ens indiuisum secundum quod haec manifesta sunt ex supra determinatis. Est tamen aduer 
+        <lb ed="#Bb" n="33"/>tendum quod licet diuisio secundum modum nominis positiue significat. secundum rem tamen non nisi priuationem dicit. Di- 
+        <lb ed="#Bb" n="34"/>uisio enim non est nisi aliquorum abinuicem amotio. Econtrario autem indiuisio licet secundum modum nomins signi 
+        <lb ed="#Bb" n="35"/>ficet negationem siue negatiue: illa tamen negatio non est nisi negationis, &amp; ita secundum rem vera positio. quae 
+        <lb ed="#Bb" n="36"/>tanto maior est quanto res simplicior &amp; maioris vnitatis. Multitudo ergo &amp; multum &amp; generaliter omnes 
+        <lb ed="#Bb" n="37"/>termini nuerales suo nomine semper important vnitatum abinuicem separationem &amp; diuisionem, quae secundum rem est 
+        <lb ed="#Bb" n="38"/>negatio vnionis. Quia igitur in deo nulla est vnitatum abinuicem separatio aut diuisio, neque locum habet 
+        <lb ed="#Bb" n="39"/>aliqua illius vnionis negatio quae est in verissima vnitate essentiae deitatis, in qua tres personae vere 
+        <lb ed="#Bb" n="40"/>sunt vnum: ideo in deo non cadit nomen multitudinis aut multi simpliciter &amp; absolute: sicut neque nomen 
+        <lb ed="#Bb" n="41"/>nueri. Et trinitas personarum non est simpliciter multitudo: quia licet sit trium, non tamen est earum diuisio: sed indi 
+        <lb ed="#Bb" n="42"/>uisa vnitas. Neque tres personae sunt multae similiter eadem ratione: sed sunt multae personae: siue in personali 
+        <lb ed="#Bb" n="43"/>tate: sicut multitudo &amp; nunerus earum non simpliciter est nunerus, sed personarum tantum, vt dictum est. Quia si di 
+        <lb ed="#Bb" n="44"/>catur quod in personis est distinctio licet non diuisio, &amp; secundum hoc sunt ibi vere &amp; simpliciter tres vnitates. 
+        <lb ed="#Bb" n="45"/>ergo &amp; vera multitudo siue nunerus: Dicendum secundum praedicta quod non sequitur, quoniam non sunt huiusmodi vni- 
+        <lb ed="#Bb" n="46"/>tates quasi spcriesu eiusdem, quales debent esse vnitates quae constituunt nunerum simpliciter:r sed sunt ad modum quo in  
+        <lb ed="#Bb" n="47"/>creaturis sunt diuersae vnitates suppositoram secundum speciesum diuersorum, in quibus non est nunerus simpliciter, sed  
+        <lb ed="#Bb" n="48"/>cum determinatone nunerus formarum, vt patet ex supra determinatis. Et iuxta hunc modum in deo trium 
+        <lb ed="#Bb" n="49"/>personarum non est aliquis nunerus simpliciter, sed cum determinatione tantu scilicet suppositorum relatiuorum.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

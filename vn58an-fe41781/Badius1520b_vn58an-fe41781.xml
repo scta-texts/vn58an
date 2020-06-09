@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe41781"> <!-- alias="vn58an-a60prae" -->
+      <head xml:id="vn58an-fe41781-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-fe41781-d1e107">
+        <lb ed="#Bb" n="40"/>Arti. LX. de spiratione actiua, quae est proprietas patri &amp; filio communis. 
+        <lb ed="#Bb" n="41"/>Equitur de proprietate communi patri &amp; filio, quae est spira- 
+        <lb ed="#Bb" n="42"/>tio actiua. Circa quam. x. sunt dubitanda.  
+        <lb ed="#Bb" n="43"/>guorum primum est: vtrum principium elicitiuum eius sint ambo si 
+        <lb ed="#Bb" n="44"/>mul natura &amp; voluntas in patre &amp; filio communiter existentes: an 
+        <lb ed="#Bb" n="45"/>alterum eorum tantum. 
+        <lb ed="#Bb" n="46"/>Secundum: vtrum realiter distincta sit &amp; diuersa a generatione.  
+        <lb ed="#Bb" n="47"/>Tertium: vtrum sit aliquis ordo inter generationem &amp; spirationem 
+        <lb ed="#Bb" n="48"/>Quartum: vtrum generatio sit principalior productio quam spiratio. 
+        <lb ed="#Bb" n="49"/>Quintum: vtrum actiua spiratio sit proprietas constitutiua alicuius personae.  
+        <lb ed="#Bb" n="50"/>Sextum: vtrum spiratio actiua sit proprietas siue actio vnius spiratoris. 
+        <lb ed="#Bb" n="51"/>Septimum: vtrum plures spirantes sint vnum principium spirandi.  
+        <lb ed="#Bb" n="52"/>Octauum: vtrum aliquis spirantium habeat rationem spiratiuam ab alio. 
+        <lb ed="#Bb" n="53"/>Nonum: vtrum vnus spirantium scilicet pater, principalius spiret quam alter, puta filius. 
+        <lb ed="#Bb" n="54"/>Decimum: vtrum spirantes habeant aliquam aliam proprietatem communem quam spirationem actiuam.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

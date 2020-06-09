@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="283-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe77595"> <!-- alias="vn58an-a74q3" -->
+      <head xml:id="vn58an-fe77595-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe77595-d1e107">
+   <!--581.xml-->
+            <pb ed="#Bb" n="283-v"/>
+        <lb ed="#Bb" n="1"/>CIrca tertium arguitur quod nihil potest proprie praedicari in diuinis, Primo sic. 
+        <lb ed="#Bb" n="2"/>Quod non significat aliquid proprie, non potest de aliquo proprie praedicari: quia 
+        <lb ed="#Bb" n="3"/>dicatum non praedicat de subiecto nisi id quod significat. sed in diuinis nullum 
+        <lb ed="#Bb" n="4"/>st praedicabile quod aliquid proprie significat: quia in deo nihil est praedicabile nisi 
+        <lb ed="#Bb" n="5"/>ranslatum a creaturis translatione rei &amp; nominis: vt in illis quae principali- 
+        <lb ed="#Bb" n="6"/>ter exprimunt quae sunt dignitatis simpliciter: vt in talibus nominibus bonus, 
+        <lb ed="#Bb" n="7"/>&amp; sapiens: vel translatione rei tantum: vt in hoc nomine deus: vt habitum est su- 
+        <lb ed="#Bb" n="8"/>pra quaestione. ix. articuli praecedentis in corpore solutionis in fine, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe77595-d1e131">
+        ⁋ Secundo sic. Augus. 
+        <lb ed="#Bb" n="9"/>dicit contra Adiman. indigna esse diuinae maiestati, quae homines cum aliqua dignitate putant 
+        <lb ed="#Bb" n="10"/>dicere: vt habitum est supra quaestione. viii. articuli praecedentis in quarto argumento. sed si ista non  
+        <lb ed="#Bb" n="11"/>sunt digna diuinae maiestati, multo fortius ergo nec aliqua alia. sed quae non sunt digna diuinae 
+        <lb ed="#Bb" n="12"/>maiestati, in diuinis proprie praedicari non possunt: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe77595-d1e142">
+        ⁋ In contrarium est quod illa quae se ha-  
+        <lb ed="#Bb" n="13"/>bent sicut forma ad subiectum, proprie praedicari possunt de illo. In diuinis plura sunt quae ha-  
+        <lb ed="#Bb" n="14"/>bent aliquid existens in deo se habens ad aliud sicut forma ad subiectum: vt bonitas &amp; sapientia 
+        <lb ed="#Bb" n="15"/>quae sunt sicut qualitas, magnitudo, &amp; aeternitas, quae sunt sicut quantitates respectu diuinae es 
+        <lb ed="#Bb" n="16"/>sentiae &amp; personarum: in quibus sicut formae etiam sunt paternitas &amp; filiatio, quae sunt relationes: ergo &amp;c. 
+        <lb ed="#Bb" n="17"/>
+      </p>
+      <p xml:id="vn58an-fe77595-d1e156">
+        ⁋ Dico quod quaestio de proprie vel improprie praedicari non habet locum in diui- 
+        <lb ed="#Bb" n="18"/>nis nec in aliis de praedicationibus quae fiunt per identitatem, in quibus idem praedicatur de se 
+        <lb ed="#Bb" n="19"/>ipso: vt deus est deus, deitas est deitas: quia talis praedicatio non potest esse nisi propria: sed solum 
+        <lb ed="#Bb" n="20"/>in illis in quibus praedicatur distinctum de distincto: vt attributum de attributo: vel de natura, 
+        <lb ed="#Bb" n="21"/>vel de persona, vel econuerso quodcumque illorum de alio: quam per informationem. In qua praedicatione 
+        <lb ed="#Bb" n="22"/>dico quod proprie aut improprie praedicari prouenit ex parte illius quod praedicatur. &amp; hoc dupliciter- 
+        <lb ed="#Bb" n="23"/>Vno modo ex parte nominis significantis. Alio modo ex parte ipsius rei significatae. Primo mo-  
+        <lb ed="#Bb" n="24"/>do prouenit ex modo significandi nominis: quia vbi est informatio aliqua vel propositio improprie, 
+        <lb ed="#Bb" n="25"/>subiectum eo quod se habet in ratione materiae debet significare per modum subsistentis, &amp; prae- 
+        <lb ed="#Bb" n="26"/>dicatum eo quod se habet in ratione formae debet significare per modum informantis, vel formali-  
+        <lb ed="#Bb" n="27"/>ter ad modum quo partes definitionis sunt formae &amp; definiti: vt animal &amp; rationale hominis, 
+        <lb ed="#Bb" n="28"/>vel ad modum quo accidens est forma subiecti: vt albedo hominis. Idcirco dico quod ad hoc quod ali 
+        <lb ed="#Bb" n="29"/>quid in diuinis proprie praedicetur de alio vt distinctum de distincto, siue secundum rem, siue 
+        <lb ed="#Bb" n="30"/>secundum rationem, debet significari per modum formae existentis in supposito aut in subiecto 
+        <lb ed="#Bb" n="31"/>&amp; econverso: sed quod proprie debet subiici, debet significari per modum subsistentis. Et hoc modo 
+        <lb ed="#Bb" n="32"/>proprietatis nihil potest proprie praedicari neque in diuinis: neque in aliis, nisi modo concreto: licet 
+        <lb ed="#Bb" n="33"/>subiectum vtroque modo bene subiiciatur: vt dicitur, deus est bonus, vel deitas est bona. Abstra- 
+        <lb ed="#Bb" n="34"/>cta autem omnia praedicantur improprie, siue de abstracto, siue de concreto, dicendo deus vel dei- 
+        <lb ed="#Bb" n="35"/>tas est bonitas, &amp; secundum hoc illud, trinitas, compositum ex duplici nomine, vno concreto, 
+        <lb ed="#Bb" n="36"/>alio abstracto, partim proprie, partim improprie praedicatur. Secundo modo, scilicet ex parte 
+        <lb ed="#Bb" n="37"/>rei significatae proprie aut improprie praedicari prouenit duobus modis secundum duplicem 
+        <lb ed="#Bb" n="38"/>comparationem rei significatae in praedicato: quia comparatur ad vocem siue ad nomen si- 
+        <lb ed="#Bb" n="39"/>gnificans ipsam, &amp; comparatur ad subiectum de quo in nomine enunciatur. Primo modo pro- 
+        <lb ed="#Bb" n="40"/>uenit proprie praedicari in propositione ex hoc quod nomen significat rem proprie, &amp; econtra improprie- 
+        <lb ed="#Bb" n="41"/>tas ex hoc quod nomen significat rem translatiue, &amp; hoc siue translatione rei &amp; nominis simul: vt 
+        <lb ed="#Bb" n="42"/>vniuersaliter contingit quando eodem nomine significatur quod est in diuinis, &amp; quod est in creatu 
+        <lb ed="#Bb" n="43"/>ris, siue translatione solius rei: vt contingit in hoc nomine deus: cuius significatum est summa 
+        <lb ed="#Bb" n="44"/>illorum de deo per supereminentiam quae de creaturis significant aliquid dignitatis simplici- 
+        <lb ed="#Bb" n="45"/>ter: cui nomen deus primo &amp; principaliter est impositum, non translatum: quia nonn erat prius 
+        <lb ed="#Bb" n="46"/>alicui in creaturis impositum: sicut erant nomina quae in creaturis significant aliquid dignita- 
+        <lb ed="#Bb" n="47"/>tis vel pertinens ad dignitatem simpliciter scilicet particulariter: vt haec nomina, sapientia, bo- 
+        <lb ed="#Bb" n="48"/>nitas, aut translata ad diuina significant non esse sed simile supereminenter. Cum dicitur deus 
+        <lb ed="#Bb" n="49"/>est bonus, non est quod dicitur rationis aut generis proprietate: sed tantummodo rationis propor 
+        <lb ed="#Bb" n="50"/>tione seu proportionali transumptione, scilicet rei supereminentis in deo: quae simpliciter est in  
+        <lb ed="#Bb" n="51"/>creatura, &amp; hoc transumptione rei. cui sic transumpto, si nihil aliud imponeretur quam impositum 
+        <lb ed="#Bb" n="52"/>sit in creaturis, esset transumptio solius rei absque transumptione nominis, sicut contingit in hoc 
+        <lb ed="#Bb" n="53"/>nonmine deus. Et propter talem transumptionem rei dicit <name ref="#Boethius">Boethius</name>  quod cuncta quae praedicari 
+        <lb ed="#Bb" n="54"/>possunt cum quis ea in diuinam vertit praedicationem, cuncta mutantur, &amp; sunt talia qualia fore 
+   <!--582.xml-->
+        <pb ed="#Bb" n="284-r"/>
+        <lb ed="#Bb" n="1"/>permiserunt subiecta. Puta si subiectum sit deus, significant aliquid supereminens translatum per 
+        <lb ed="#Bb" n="2"/>intellectum. Si vero subiectum sit creatura, significant aliquid simpliciter, prout expositum est 
+        <lb ed="#Bb" n="3"/>supra quaestione. ii. articuli praecedentis. Quia igitur quicquid significatum est per nomen quodcunque  
+        <lb ed="#Bb" n="4"/>ab homine viatore aut intellectum de diuinis, sic translatiue de deo significamus &amp; cognoscimus 
+        <lb ed="#Bb" n="5"/>secundum Dionysium enim de deo nihil nisi in participibus cognoscimus: dico quod isto modo primo se- 
+        <lb ed="#Bb" n="6"/>cundi modi principalis proprietatis, nihil omnino proprie praedicari potest in diuinis, neque negatiue 
+        <lb ed="#Bb" n="7"/>sicut neque affirmatiue. Secundo modo huius secundi modi principalis scilicet ex parte rei significatae in  
+        <lb ed="#Bb" n="8"/>praedicato vt ipsa comparatur ad subiectum, proprie &amp; improprie praedicari prouenit ex eo quod praedicatum rem 
+        <lb ed="#Bb" n="9"/>explicat quam significat nomen tanta perfectione &amp; tanta integritate quanta est in deo quantum ad se- 
+        <lb ed="#Bb" n="10"/>ipsum: vel minore. Si enim nomen quod praedicatur explicat rem significatam in tanta perfectione &amp; integritate 
+        <lb ed="#Bb" n="11"/>quanta est in deo secundum se: tunc praedicatur proprie. Sin autem, tunc dicitur praedicari improprie. Sed ex- 
+        <lb ed="#Bb" n="12"/>plicare nomine quod est in diuinis, contingit dupliciter, vel significando, vel infinuando, sicut in praecede- 
+        <lb ed="#Bb" n="13"/>ti quaestione expositum est. Quia igitur nullum nomen in creatura est quod de deo in tanta perfectio 
+        <lb ed="#Bb" n="14"/>ne &amp; integritate aliquid quod est in ipso exprimit significando, in quanta est in eo: quia non explicat rem 
+        <lb ed="#Bb" n="15"/>significando per nomen nisi prout intellectus creatus eam intelligit: &amp; adhuc minus, vt in penulti 
+        <lb ed="#Bb" n="16"/>ma quaestione articuli praecedentis expositum est: Idcirco dico quod vt prius adhuc nihil omnino pro- 
+        <lb ed="#Bb" n="17"/>prie praedicari potest in diuinis significando, neque in affirmatiua neque in negatiua propositione: quia 
+        <lb ed="#Bb" n="18"/>termini idem significant in propositione negatiua quod in affirmatiua. Potest tamen aliquid proprie prae- 
+        <lb ed="#Bb" n="19"/>dicari in diuinis insinuando affirmationem non veram: sed metaphoricam, &amp; hoc multo melius per 
+        <lb ed="#Bb" n="20"/>propositiones negatiuas quam per affirmatiuas. Eo quod tales propositiones negatiuae nihil explicant 
+        <lb ed="#Bb" n="21"/>significando de deo, nec ab ipso remouendo quod clare absurdum est ei non inesse: vt quando remouent 
+        <lb ed="#Bb" n="22"/>a deo illa quae ex se sunt aliquid dignitatis simpliciter: vt cum dicitur: deus non est sapiens, deus 
+        <lb ed="#Bb" n="23"/>non est bonus, aut remouendo ab ipso, quod clare absurdum est ei inesse secundum aliquem modum: vt quan- 
+        <lb ed="#Bb" n="24"/>do remouent ab eo illa quae ex se sunt aliquid indignitatis simpliciter: vt cum dicitur Deus non est 
+        <lb ed="#Bb" n="25"/>mortalis, deus non est finitus: vel aliquid quod est indignitatis secundum aliquem ordinem: vt cum dicitur: 
+        <lb ed="#Bb" n="26"/>deus non est visibilis, deus non est comprehensibilis. Licet enim esse visibile &amp; comprehensibile sit digni 
+        <lb ed="#Bb" n="27"/>tatis simpliciter in se &amp; absolute: aliter enim esse visibile aut comprehensibile nullo modo attribue- 
+        <lb ed="#Bb" n="28"/>retur deo: esse tamen visibile vel comprehensibile a creatura, non est dignitatis simpliciter. &amp; hoc 
+        <lb ed="#Bb" n="29"/>modo vere remouetur &amp; clare a deo. Propositiones vero affirmatiuae nihil explicant significando  
+        <lb ed="#Bb" n="30"/>de deo nisi tribuendo ei quod clarum est ei in esse: vt quando tribuunt deo illa quae sunt alicuius di 
+        <lb ed="#Bb" n="31"/>gnitatis simpliciter, quales affirmatiuae sunt illae quibus Dionysius praefert negatiuas sibi contra 
+        <lb ed="#Bb" n="32"/>tias, &amp; non aliae. Propter quod audiendo dictas propositiones negatiuas bene percipit intellectus quod  
+        <lb ed="#Bb" n="33"/>nullus sanae mentis proferret illas intendendo significare id quod propositiones praetendunt. Percipit 
+        <lb ed="#Bb" n="34"/>etiam audiendo affirmatiuas quod quilibet sanae mentis intendit significare id quod propositiones praeten 
+        <lb ed="#Bb" n="35"/>dunt. Et idcirco auditis propositionibus negatiuis, cogitur audiens sanae mentis ad alium intellectum 
+        <lb ed="#Bb" n="36"/>se diuertere: &amp; aduertere quod aliud proferens intendit quam verba praetendant: &amp; quod affirmatiue &amp; per 
+        <lb ed="#Bb" n="37"/>antiphrasim loquatur, proferendo scilicet oppositum eius quod intendit. &amp; hoc quemadmodum sacra scriptura cum 
+        <lb ed="#Bb" n="38"/>literaliter praetendit sensum absurdum: cogit quaerere sensum spiritualem. Nequaquam autem sic cogitur 
+        <lb ed="#Bb" n="39"/>ad alium intellectum se diuertere aut aduertere auditis propositionibus affirmatiuis, quod scilicet proferens 
+        <lb ed="#Bb" n="40"/>aliud intendat quam verba praetendunt: sed potius suadetur stare in sensu verborum. &amp; hoc quemadmo-  
+        <lb ed="#Bb" n="41"/>dum sacra scriptura cum literaliter praetendit sensum verum, non cogit alium quaerere: sed suadet 
+        <lb ed="#Bb" n="42"/>illum seruare &amp; tenere. Et propterea negatiuae aptiores sunt ad insinuandum oppositum eius quod 
+        <lb ed="#Bb" n="43"/>verba praetendunt, quam affirmatiuae. Et quia sic per negatiuas insinuatur tanta perfectio in deo quam 
+        <lb ed="#Bb" n="44"/>ta in ipso est: non sic autem per affirmatiuas: sed solummodo significatur persectio quae in ipso est 
+        <lb ed="#Bb" n="45"/>sed non tanta: idcirco secundum quod expositum est in quaestione praecedente, negatiuae tales sunt 
+        <lb ed="#Bb" n="46"/>propriae, &amp; affirmatiuae impropriae. Sunt etiam negatiuae verae simpliciter: quia perfecte infinuant 
+        <lb ed="#Bb" n="47"/>id quod in re est, &amp; sicut est in re. &amp; per hoc sunt compactae in infinuando, &amp; similia similibus iun 
+        <lb ed="#Bb" n="48"/>gunt: licet in significando non solum non sunt compactae sed dissutae: &amp; ideo falsae. Affirmatiuae vero 
+        <lb ed="#Bb" n="49"/>licet sint verae: quia non significant de deo nisi quod ipse est, non tamen sunt simpliciter verae: quia 
+        <lb ed="#Bb" n="50"/>non significant de eo totum quod ipse est, hoc est sub ratione tantae perfectionis quanta in se est: vt 
+        <lb ed="#Bb" n="51"/>iam dictum est in praecedente quaestione secundum Hugonem. Et per hoc affirmatiuae sunt incompactae 
+        <lb ed="#Bb" n="52"/>&amp; mentientes, &amp; hoc (quia vt dicit Hugo ibidem loquens de deitate) nulla rerum creata- 
+        <lb ed="#Bb" n="53"/>rum species ita in eius similitudinem approximat: vt id quid vere in ipsa est, expresse, &amp; sic pro- 
+        <lb ed="#Bb" n="54"/>prietatem ostendat. Et loannes Saracenus. Nobis in hac vita positis nequaquam se diuinitas sicut 
+        <lb ed="#Bb" n="55"/>est insinuar: sed parum de se aliquid sensibus nostris aperit, ldeoque etiam dicit Dionysius, 
+   <!--583.xml-->
+        <pb ed="#Bb" n="284-v"/>
+        <lb ed="#Bb" n="1"/>&amp; lgnoramus superessentialem &amp; inuisibilem infinabilitatem. Et sunt dicto modo negatiuae aptio- 
+        <lb ed="#Bb" n="2"/>res ad explicandum diuina quam affirmatiuae: quemadmodum dissimiles &amp; viles species aptiores 
+        <lb ed="#Bb" n="3"/>sunt quam similes &amp; dignae. Propter idem Dionysius ex vno concludit alterum dicens. Si igitur nega 
+        <lb ed="#Bb" n="4"/>tiones in diuinis verae sunt: affirmationes vero incompactae: obscuritati arcanorum magis apta 
+        <lb ed="#Bb" n="5"/>est per dissimiles formationes manifestatio. Quod exponens loannes Scotus dicit. Si vera est nega 
+        <lb ed="#Bb" n="6"/>tio in diuinis rebus, non autem vera sed metaphorica affirmatio: Vere enim dicitur deus inuisibilis, 
+        <lb ed="#Bb" n="7"/>non autem visibilis vere &amp; proprie dicitur: similiter infinitus &amp; incomprehensibilis vere de eo praedi- 
+        <lb ed="#Bb" n="8"/>catur: finitus vero &amp; comprehensibilis non proprie: quid mirum si naturalibus simplicibusque formis lon 
+        <lb ed="#Bb" n="9"/>ge dissimiles mixtaeque confusae deformesque plus ad diuina &amp; ineffabilia valeant significanda, dum 
+        <lb ed="#Bb" n="10"/>in sanctis visionibus sanctorum prophetarum lego humanam effigiem &amp;c. vt supra quaestione praecedenti pro- 
+        <lb ed="#Bb" n="11"/>xima in fine. &amp; sequitur. Sicut itaque negatio affirmationi praeponitur in significationibus, ita inconve- 
+        <lb ed="#Bb" n="12"/>nientes &amp; deformes species formosis conuenientibusque praeponuntur. 
+        <lb ed="#Bb" n="13"/>
+      </p>
+      <p xml:id="vn58an-fe77595-d1e398">
+        ⁋ Quod ergo arguitur primo, quod nihil significat proprie non potest de aliquo proprie pre- 
+        <lb ed="#Bb" n="14"/>dicari: Dico quod verum est comparando rem praedicatam ad nomen ipsam significans: aut ad ipsum subiectum 
+        <lb ed="#Bb" n="15"/>significando aliquid de ipso affirmatiue. Bene tamen potest proprie praedicari aspiciendo ad modum signifi- 
+        <lb ed="#Bb" n="16"/>candi nominis, &amp; similiter comparando rem praedicatam ad ipsum subiectum, infinuando aliquid de ipso 
+        <lb ed="#Bb" n="17"/>negatiue: sicunt patet ex iam expositis. 
+      </p>
+      <p xml:id="vn58an-fe77595-d1e409">
+        ⁋ Ad secundum, quod illa sunt indigna deo quae homines cum aliqua  
+        <lb ed="#Bb" n="18"/>dignitate putant dicere: Dico quod verum est significando aliquid de ipso affirmatiue: quia nihil signi 
+        <lb ed="#Bb" n="19"/>ficant nisi diminute. Quod autem ex illo concluditur: ergo nec alia sunt digna deo: &amp; ideo nec proprie di 
+        <lb ed="#Bb" n="20"/>cuntur de ipso: Dico quod verum est quando accipiuntur affirmatiue aliquid significando de deo. quando tamen accipiuntur 
+        <lb ed="#Bb" n="21"/>negatiue aliquid insinuando de ipso: magis sunt digna deo propter affirmatiuam metaphoricam 
+        <lb ed="#Bb" n="22"/>insinuatam per oppositum, in qua id quod est dignum deo insinuatur remoto omni modo quo ex crea- 
+        <lb ed="#Bb" n="23"/>turis cognoscitur, aut etiam potest cognosci a creaturis: vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe77595-d1e425">
+        ⁋ Ad tertium, quid est in contra- 
+        <lb ed="#Bb" n="24"/>rium: quid se habet sicut forma ad subiectum proprie praedicatur de illo: Dico quod verum est in primo mo-  
+        <lb ed="#Bb" n="25"/>do accipiendi proprie, &amp; hoc propter praedicari improprie aliis modis: vt patet ex dictis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

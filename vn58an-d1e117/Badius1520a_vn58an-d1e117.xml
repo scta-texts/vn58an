@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="14-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e117"> <!-- alias="vn58an-a1q5" -->
+      <head xml:id="vn58an-d1e117-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e117-Hd1e107" type="question-title">Utrum contingat hominem acquirere scientiam per semetipsum</head>
+      <p xml:id="vn58an-d1e117-d1e110">
+        <lb ed="#Ba" n="17"/>CIrca quintum arguitur quod non contingit hominem scire per seipsum acquirendo scientiam si 
+        <lb ed="#Ba" n="18"/>ne doctore. Primo sic. in eo quid homo potest per se acquirere frustra quaerit auxilium alterius 
+        <lb ed="#Ba" n="19"/>Nunc autem homo vt sciat non frustra quaerit alterius auxilium vt paret. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e117-d1e119">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="20"/>m <ref xml:id="vn58an-d1e117-Rd1e123" target="http://scta.info/resource/aristmet-l9">
+        <name>Philosophum</name>. ix. metaphysi</ref>. nihil procedit de potentia ad actum nisi per aliquid praeexistens 
+        <lb ed="#Ba" n="21"/>actu tale quale est illud in potentia, quare cum homo vt dictum est in quaestione proxima, ex 
+        <lb ed="#Ba" n="22"/>se solum est in potentia sciens, non potest fieri in actu sciens nisi per aliud sciens in actu. hoc 
+        <lb ed="#Ba" n="23"/>autem est doctor aliquis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e117-d1e137">
+        ⁋ Tertio sic. secundum <ref xml:id="vn58an-d1e117-Rd1e139">
+        <name>philosophum</name> in elen.</ref> Oportet eum credere 
+        <lb ed="#Ba" n="24"/>qui discit. Em autem <name ref="#Augustine">Augustinus</name> de moribus eccle. quod credimus debetur auctoritati. nuilus ergo addiscit 
+        <lb ed="#Ba" n="25"/>nisi credens auctoritati. hoc autem est acquirere scientiam non nisi ab aliquo docente. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e117-d1e153">
+        ⁋ Oppositum argui 
+        <lb ed="#Ba" n="26"/>tur primo sic <ref xml:id="vn58an-d1e117-Rd1e157" target="http://scta.info/resource/aristmet-l1">
+        <name ref="#Aristotle">Philosophus</name> dicit. i. metaphysicae</ref>. <quote xml:id="vn58an-d1e117-Qd1e163">Ars sit cum ex multis experimento intellectis vna fit vniversalis de 
+        <lb ed="#Ba" n="27"/>similibus acceptio</quote>. &amp; <ref xml:id="vn58an-d1e117-Rd1e168" target="http://scta.info/resource/aristmet-l1">ibidem</ref>. Experientia artem fecit. Sed experientiam de rebus scibilibus potest homo capere per  
+        <lb ed="#Ba" n="28"/>se sine omni doctore. &amp; similiter naturali ratione potest colligere vniuersalem de similibus acceptionem: quia sm 
+        <lb ed="#Ba" n="29"/>Commenta. super prologum de anima, Intellectus facit vniuersalitatem in rebus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e117-d1e177">
+        <lb ed="#Ba" n="30"/>⁋ Ad intellectum huius quaestionis notandum est in principio quod omnis cognitio est 
+        <lb ed="#Ba" n="31"/>per assimilationem cognoscentis ad cognitum. vnde dicebant quidam philosophantium, vt recitat <name ref="#Aristotle">Philosophus</name> in primo 
+        <lb ed="#Ba" n="32"/>de anima: quod intellectus compositus esset ex omnibus quatenus omnia cognosceret. Sed hoc est impossi- 
+        <lb ed="#Ba" n="33"/>bile sm quod contra eos ibidem determinat Philosophus, vt per rerum substantiam eis assimiletur, non enim oportet 
+        <lb ed="#Ba" n="34"/>vt sit naturae ignis ad hoc vt cognoscat ignem: neque naturae aquae ad hoc vt cognoscat aquam: &amp; sic 
+        <lb ed="#Ba" n="35"/>de caeteris. Sed solum oportet vt assimiletur eis informatus per earum species. vnde sm quod determinat. ii. &amp;. iii. 
+        <lb ed="#Ba" n="36"/>de anima, oportet intellectum esse potentiam passiuam speciei susceptiuam: &amp; se habere ad intelligibilia sicut 
+        <lb ed="#Ba" n="37"/>sensum ad sensibilia: &amp; ideo ab omnibus esse immixtum &amp; nulli habere quicquam conmune vt omnia intelligat 
+        <lb ed="#Ba" n="38"/>vt de se sit intellectus omnes formae quae recipiuntur in eo non actum, sed potentia. &amp; sic intellectus de se quodam  
+        <lb ed="#Ba" n="39"/>modo est omnia intelligibilia. Sed actu nihil eorum est antequam intelligat: sed sicut tabula apta scripturae ni 
+        <lb ed="#Ba" n="40"/>hil habens actu scriptum in ea. Est ergo de se in potentia essentiali receptiua: quae per se non exit in actum: 
+        <lb ed="#Ba" n="41"/>sed per illud quod recipit de specie intelligibilium. lpsae etiam species intellectus quibus in rebus sensibilibus infor 
+        <lb ed="#Ba" n="42"/>mari debet extra intellectum non sunt intelligibiles in actu, sed in potentia solum: &amp; ideo nec de se possunt fie 
+        <lb ed="#Ba" n="43"/>ri in actum vt moueant intellectum passiuum. Oportet ergo ponere virtutem aliam existentem in actu quae intelligibi 
+        <lb ed="#Ba" n="44"/>lia in potentia facit intelligibilia in actum, vt possint actu mouere intellectum passiuum. Haec autem est vis quan 
+        <lb ed="#Ba" n="45"/>appellamus intellectum agentem: qui ponitur altera potentia animae cum possibili: vt possibilis intellectus se habeat ad intel 
+        <lb ed="#Ba" n="46"/>ligibilia sicut perspicuum in medio &amp; organo ad colores: &amp; agens ad omnia ista sicut lux. vt sicut lux facit 
+        <lb ed="#Ba" n="47"/>colores esse in actu vt moueant medium &amp; oculum: sic intellectus agens facit intelligibilia esse in actum vt moueanti 
+        <lb ed="#Ba" n="48"/>tellectum possibilem &amp; fiat intellectus vnum in actu compositum ex intellectu &amp; intelligibili, sicut ex ma- 
+        <lb ed="#Ba" n="49"/>teria &amp; forma. Intellectus autem possibilis sic informatus specie intelligibilium statim in lumine intelle 
+        <lb ed="#Ba" n="50"/>ctus agentis sine omni notitia actuali vel habituali generali vel speciali praecedente: sed potentiali so- 
+        <lb ed="#Ba" n="51"/>lum: de qua notitia potentiali dicit Glos. super illud ad Heb. i. Cum sit splendor. Deus inseminauit animae ini 
+        <lb ed="#Ba" n="52"/>tia intellectus &amp; sapientiae: Naturaliter concipit primas intentiones intelligibilium incomplexorum primo 
+        <lb ed="#Ba" n="53"/>cognoscendo terminos &amp; quiditates rerum. &amp; sic primo informatur mentis intelligentia primis re- 
+        <lb ed="#Ba" n="54"/>rum conceptibus: vt expressissimis similitudinibus veritatis rerum in actuali consideratione mentis descriptis, vt 
+        <lb ed="#Ba" n="55"/>sunt intentiones entis &amp; vnius numeri &amp; magnitudinis &amp; caeterorum incomplexorum quae sunt prima na- 
+   <!--44.xml-->
+        <pb ed="#Ba" n="15-r"/>
+        <lb ed="#Ba" n="1"/>turaliter intellecta &amp; incomplexa. Et vocatur eorum intellectus indiuisibilium intelligentia: quae mens primo na- 
+        <lb ed="#Ba" n="2"/>turaliter cognoscit terminos: ex quorum collectione adinuicem per intellectum componentem &amp; diuidentem con- 
+        <lb ed="#Ba" n="3"/>similiter concipit naturaliter sine omni discursu primas conceptiones intelligibilium conplexorum, vt quod totum est 
+        <lb ed="#Ba" n="4"/>maius sua parte. Si ab aequalibus aequalia demas, quae relinquuntur remanent aequalia. De quolibet affirmatio 
+        <lb ed="#Ba" n="5"/>vel negatio &amp; non simul de eodem. &amp;c. huiusmodi: quae sunt prima principia scientiarum conplexa naturaliter in  
+        <lb ed="#Ba" n="6"/>tellecta, prius tamen intellectis terminis. De talibus enim dicit Philosophus: quod principia cognoscimus inquantum 
+        <lb ed="#Ba" n="7"/>terminos cognoscimus. Et sunt ista quasi principia per se naturaliter intellecta cuiuslibet scientiae ex 
+        <lb ed="#Ba" n="8"/>puris naturalibus acquirendae. Quod dico propter notitiam syncerae veritatis: &amp; etiam propter notitiam scibilium 
+        <lb ed="#Ba" n="9"/>supnaturalium, vt sunt ea quae sunt fidei &amp; reuelationis: quae ex puris naturalibus &amp; ita per se acquirendo homo 
+        <lb ed="#Ba" n="10"/>scire non potest: sed solum per illustrationem diuinam: &amp; ita deo interius docente, vt dictum est supra, quid se- 
+        <lb ed="#Ba" n="11"/>cunda &amp; infra dicetur. In illis autem primis principiis naturalibus includitur in potentia notitia omnium par- 
+        <lb ed="#Ba" n="12"/>ticularium conclusionum quae sequuntur: quae per studium &amp; diligentiam ductu rationis naturalis de potentia de 
+        <lb ed="#Ba" n="13"/>ducuntur in actum, vt intellectus ea in actu sciat &amp; in particulari: quae in principiis sciuit in potentia &amp; 
+        <lb ed="#Ba" n="14"/>in vniversalis &amp; per hunc modum generatur in anima scientiae habitus perfectus reponendo in habitu memoriae quod 
+        <lb ed="#Ba" n="15"/>prius lucebat in consideratione intelligentiae: vt intelligentia ad memoriam recurrens cum opus fue 
+        <lb ed="#Ba" n="16"/>rit, iterum consimili notitia actualis considerationis informetur. lta quod cognitio omnis intellectualis tam pri- 
+        <lb ed="#Ba" n="17"/>cipiorum quam conclusionum sit acquisita &amp; nulla innata. Sed cognitio principiorum naturaliter acquiritur: 
+        <lb ed="#Ba" n="18"/>quia nec studio nec deliberatione. &amp; quo ad hoc dicitur cognitio eorum naturalis. Cognitio vero conclu 
+        <lb ed="#Ba" n="19"/>sionum voluntario studio &amp; mentis indagatione acquiritur: &amp; ideo nullo modo dicitur naturalis. 
+      </p>
+      <p xml:id="vn58an-d1e117-d1e285">
+        ⁋ Hinc dicit 
+        <lb ed="#Ba" n="20"/>Commen. super. iii. de anima. Intellectus qui in nobis est, duas habet actiones: quarum vna est comprehendere in 
+        <lb ed="#Ba" n="21"/>tellecta: alia est extrahere formas &amp; denudare a materiis. quod nihil aliud est nisi facere eas intellectas 
+        <lb ed="#Ba" n="22"/>in actu postquam erant in potentia. Intellecta autem duobus modis fiunt in nobis: aut naturaliter &amp; sunt pri- 
+        <lb ed="#Ba" n="23"/>mae propositiones: aut voluntate &amp; sunt intellecta acquisita ex primis propositionibus. 
+      </p>
+      <p xml:id="vn58an-d1e117-d1e296">
+        ⁋ Sed circa de 
+        <lb ed="#Ba" n="24"/>ductionem intellectus de potentia in actum: Sciendum quod sicut in naturalibus aliquando principium agens in  
+        <lb ed="#Ba" n="25"/>tra, ita potens est vt sine omni adminiculo exterioris agentis potentiam potest in actum deducere: aliquan- 
+        <lb ed="#Ba" n="26"/>do vero ita est debile quod sibi non sufficit ad illud sine adminiculo agentis exterioris. verbi gratia, in aegro 
+        <lb ed="#Ba" n="27"/>tante aliquando vis naturalis intra curatiua morbi tam potens est vt sine omni adminiculo exteriori 
+        <lb ed="#Ba" n="28"/>&amp; adiutorio medici &amp; medicinae de potentia sano faciat actu sanum. Aliquando vero est tam de- 
+        <lb ed="#Ba" n="29"/>bilis vt hoc non possit facere sine adiutorio medicinae exterioris. Similiter contigit in proposito quod aliquis 
+        <lb ed="#Ba" n="30"/>homo aliquando inuenitur ex solertia naturali ita subtilis &amp; industrius, vt solo adiutorio interiori 
+        <lb ed="#Ba" n="31"/>luminis intellectus agentis possit ex primis principiis naturaliter intellectis elicere ductu naturalis 
+        <lb ed="#Ba" n="32"/>rationis conclusiones proximas: &amp; ex illis alias vlteriores: &amp; sic deinceps gradatim &amp; ordinatim proceden- 
+        <lb ed="#Ba" n="33"/>do vsque ad conclusiones vltimas particulares rei cognoscendae. De tali homine dico quod per se &amp; sine omni 
+        <lb ed="#Ba" n="34"/>doctore exteriori potest dicto modo sibi perfectam scientiam acquirere. Tunc enim opinamur vnumquodque  
+        <lb ed="#Ba" n="35"/>cognoscere cum cognoscimus causas primas &amp; prima principia vsque ad elementa. Sicut scribitur in 
+        <lb ed="#Ba" n="36"/>principio Physicae. vbi dicit Commntatorm quod doctrinae ordinatae est incipere a cognitione primarum causarum rei 
+        <lb ed="#Ba" n="37"/>cognoscendae perfecte vsque ad causas propinquas. Quando vero homo ex naturali industria non est talis 
+        <lb ed="#Ba" n="38"/>dico quod per se scientiam alicuius rei perfectam acquirere non potest sine doctore: potest tamen aliquem gradum 
+        <lb ed="#Ba" n="39"/>in ipsa acquirere maiorem vel minorem secundum qualitatem subtilitatis maioris aut minoris in ipso, ma 
+        <lb ed="#Ba" n="40"/>xime adhibitis studio &amp; diligentia, quia studio acuendo ingenium aliquando recuperat id in quo 
+        <lb ed="#Ba" n="41"/>natura deficit. secundum quod dicit <name ref="#Boethius">Boethius</name>  de dii. schol. Studio diligenter immorandum est. Diligentia enim 
+        <lb ed="#Ba" n="42"/>cuiuslibet obtusitas permolitur. Et Chrysosto. super illud Matth. xxii. de resurrectione mortuorum. Non legi- 
+        <lb ed="#Ba" n="43"/>stis dicit, ex lectionum diligentia nascitur scientia. lgnorantia autem negligentiae est filia. Et sicut est in hoc 
+        <lb ed="#Ba" n="44"/>dispositio diuersa in diuersis ex parte luminis naturalis menti inhaerentis: Sic ex parte luminis diui 
+        <lb ed="#Ba" n="45"/>ni menti assistentis vt dictum est. &amp; ita propter diuersam vtriusque dispositionem in diuersis diuersi 
+        <lb ed="#Ba" n="46"/>mode se habent diuersi ad scientiae inuestigationem per seipsos. Credo igitur quod per se homo sine omni docto- 
+        <lb ed="#Ba" n="47"/>re exteriori ex puris naturalibus potest scientiam sibi acquirere. Sic enim ab initio artes repertae sunt:  
+        <lb ed="#Ba" n="48"/>vt dicit Philosophus. i. metaphysicae. Sed tamen nullus per se ad perfectum aliquod deducere potuit, vt dicitur. ii. metaphy. 
+      </p>
+      <p xml:id="vn58an-d1e117-d1e356">
+        <lb ed="#Ba" n="49"/>⁋ Ad primum in contrarium quod frustra quaereret homo alterius auxilium si per se posset 
+        <lb ed="#Ba" n="50"/>scientiam acquirere: Dicendum quod non est verum: quia facilius citius &amp; perfectius homo scientiam  
+        <lb ed="#Ba" n="51"/>per magistrum acquirit: quam per se vt patebit in sequenti quaestione. 
+      </p>
+      <p xml:id="vn58an-d1e117-d1e366">
+        ⁋ Ad secundum: quod homo est in potentia sciens i 
+        <lb ed="#Ba" n="52"/>&amp; ideo non potest procedere in actum sine aliquo existente in actu: Dicendum quod licet idem secundum idem non sit potens 
+        <lb ed="#Ba" n="53"/>seipsum ducere de potentia in actum: quando tamen in vno sunt duo quorum vnum est principium actiuum, alterum 
+        <lb ed="#Ba" n="54"/>passiuum: potest bene seipsum per id quid est in ipso in actu, deducere in actum id quod est in ipso in po 
+   <!--45.xml-->
+        <pb ed="#Ba" n="15-v"/>
+        <lb ed="#Ba" n="1"/>tentia. Sicut contingit in animatis quod mouentur ex seipsis: quia sunt diuisibilia in duo: quorum vnum est 
+        <lb ed="#Ba" n="2"/>per se mouens, vt anima: reliquum vero per se motum vt corpus: sicut dicitur. viii. Physicae. Sic contingit in proposito: quoniam 
+        <lb ed="#Ba" n="3"/>anima humana habet in se agens quo potest omnia facere quae pertinent ad actum intelligendi: &amp; possibile quo  
+        <lb ed="#Ba" n="4"/>potest omnia fieri: vt dicitur. iii. de anima. Species enim vniversalis recepta in possibili per agens mouet possibile &amp; in 
+        <lb ed="#Ba" n="5"/>format vt actu speculetur: tanquam ratio concipiendi verbum mentis in quo speculatur notitiam veritatis vt di- 
+        <lb ed="#Ba" n="6"/>ctum est supra, quies secunda &amp; tertia. 
+      </p>
+      <p xml:id="vn58an-d1e117-d1e392">
+        ⁋ Ad tertium quod nullus addiscit nisi credens auctoritati: Dicen 
+        <lb ed="#Ba" n="7"/>dum quod dictum illud exponit seipsum. Bene enim verum est quod discere proprie sumendo discere non con- 
+        <lb ed="#Ba" n="8"/>tigit fine doctore: quia discere dicitur relatiue ad docere. Sed iste non est omnis modus sciendi. quia prae 
+        <lb ed="#Ba" n="9"/>ter hunc est alius scilicet sciendo per propriam inuentionem. secundum quod dicit <name ref="#Aristotle">Philosophus</name> in elen. Quod quis nouit, inueniendo  
+        <lb ed="#Ba" n="10"/>vel addiscendo nouit. Vnde noscere inueniendo non est addiscere nisi large sumpto vocabulo pro inuestigare: vbi 
+        <lb ed="#Ba" n="11"/>nulli oportet credere: sed solum ex notitia priorum procedere ad notitiam posteriorum, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

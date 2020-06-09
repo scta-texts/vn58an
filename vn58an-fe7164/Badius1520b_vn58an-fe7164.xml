@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="26-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe7164"> <!-- alias="vn58an-a47q4" -->
+      <head xml:id="vn58an-fe7164-Hd1e104">Quaestio 4</head>
+      <p xml:id="vn58an-fe7164-d1e107">
+        <lb ed="#Bb" n="40"/>CIrca quartum arguitur quod actus volendi dei in volendo seipsum principaliter terminatur in 
+        <lb ed="#Bb" n="41"/>personam, quia cum dicitur, deus vult seipsum, constructio est reciproca. In constructione autem  
+        <lb ed="#Bb" n="42"/>reciproca idem agit in seipsum. cum ergo velle non est principaliter nisi personarum: quoniam non 
+        <lb ed="#Bb" n="43"/>unt actus diuini nisi personarum, vt habitum est supra. ergo nec ipsum volitum est aliquid 
+        <lb ed="#Bb" n="44"/>liud quam persona. 
+      </p>
+      <p xml:id="vn58an-fe7164-d1e120">
+        ⁋ Secundo sic. voluntas vt habitum est, est boni per se. ergo magis &amp; principa 
+        <lb ed="#Bb" n="45"/>lius est eius quod magis habet rationem boni. hoc autem est persona: quia persona habet rationem perfecti &amp; 
+        <lb ed="#Bb" n="46"/>in se subsistentis, essentia autem non habet nisi rationem alicuius existentis &amp; subsistentis in perso 
+        <lb ed="#Bb" n="47"/>na, vt infra videbitur. &amp; bonitas rei in ratione suae perfectionis consistit, vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe7164-d1e129">
+        ⁋ In contra 
+        <lb ed="#Bb" n="48"/>rium est, quoniam bonitas in deo non est nisi essentialis non personalis, sicut neque veritas, vt dictum est supra: &amp; determi 
+        <lb ed="#Bb" n="49"/>nauimus in quaedam quaestione de quolibet: ita quod nec veritas convenit personae nec bonitas nisi ratione essentiae exi- 
+        <lb ed="#Bb" n="50"/>stentis in persona. principalius ergo bonitas habet esse in essentia quam in persona. Cum ergo voluntas non est nisi 
+        <lb ed="#Bb" n="51"/>boni: cum deus vult se, actus volendi verius &amp; principalius terminatur ad essentiam, quam ad personam. 
+        <lb ed="#Bb" n="52"/>Consimilis quaestio potuit supra fuisse mota circa actum quo deus intelligit se- 
+        <lb ed="#Bb" n="53"/>psum: &amp; eodem modo habet terminari vt ista.  Vnde dicendum ad vtranque quaestionem secun- 
+        <lb ed="#Bb" n="54"/>dum eandem viam simul: quod cum (vt dictum est) intellectus non est nisi veri, &amp; voluntas 
+        <lb ed="#Bb" n="55"/>non est nisi boni, Sciendum quod verum &amp; bonum dupliciter habent esse alicuius. Vno modo  
+   <!--68.xml-->
+        <pb ed="#Bb" n="27-r"/>
+        <lb ed="#Bb" n="1"/>vt cuius est, sicut subiecti quod per se habet denominari a veritate verum &amp; a bonitate bonum. Alio 
+        <lb ed="#Bb" n="2"/>modo vt quod est ratio secundum quam habent esse bonum &amp; verum in alio vt in subiecto, &amp; a quo habet de 
+        <lb ed="#Bb" n="3"/>nominari ab illis. Verbi gratia, in creaturis compositis ex materia &amp; forma ratio secundum quam ve- 
+        <lb ed="#Bb" n="4"/>tum &amp; bonum habent esse in composito, forma est, secundum modum supra determinatum. Sunt ta- 
+        <lb ed="#Bb" n="5"/>men vt subiecti principaliter denominati ab eis, compositi ex materia &amp; forma: quemadmodum esse licet 
+        <lb ed="#Bb" n="6"/>sit a forma, tamen est principaliter ipsius compositi, &amp; similiter omnes operationes quarum ratio est 
+        <lb ed="#Bb" n="7"/>forma. vnde &amp; perfectio rei licet sit a forma, tamen ratio perfectionis est principaliter compositi: &amp; for 
+        <lb ed="#Bb" n="8"/>ma vt habet esse sicut aliquid in composito, non habet nisi rationem imperfecti. Et cum isto dupli 
+        <lb ed="#Bb" n="9"/>ci modo dicantur verum &amp; bonum esse alicuius, actum tamen intelligendi &amp; volendi non termi- 
+        <lb ed="#Bb" n="10"/>nant principaliter nisi secundum quod habent esse alicuius vt subiecti perfecti denominati per ipsa: non vt 
+        <lb ed="#Bb" n="11"/>quod est ratio qua habent esse in alio &amp; denominare ipsum. Vnde cum aliquis dicitur intellige- 
+        <lb ed="#Bb" n="12"/>re verum in composito aut velle bonum, hoc non dicitur quia intelligat vel velit iformam compositi 
+        <lb ed="#Bb" n="13"/>principaliter: sed potius ipsum compositum. Vnde hunc modum sequendo in deo, cum essentia ha 
+        <lb ed="#Bb" n="14"/>bet esse in deo vt aliquid in supposito &amp; sumpto vt per se perfectum subsistens, videretur alicui quod verum 
+        <lb ed="#Bb" n="15"/>&amp; bonum subiectiue principaliter essent suppositi, &amp; denominarent ipsum non essentiam: sed quod eius es- 
+        <lb ed="#Bb" n="16"/>sent solummodo vt eius quod est ratio qua habent esse in supposito &amp; denominare ipsum: &amp; quod idcir 
+        <lb ed="#Bb" n="17"/>co cum deus dicitur intelligere aut velle seipsum, actus intelligendi &amp; volendi principaliter termi- 
+        <lb ed="#Bb" n="18"/>nentur ad suppositum non autem ad essentiam, nisi secundum quod habet esse in supposito. Sed non  
+        <lb ed="#Bb" n="19"/>est ita. Contrario enim modo quo ad hoc contingit in deo &amp; in creaturis: quia enim esse verum bonum 
+        <lb ed="#Bb" n="20"/>&amp; huiusmodi sunt de essentialibus &amp; omnino absolutis, non conueniunt nisi singulariter tribus per  
+        <lb ed="#Bb" n="21"/>ionis, &amp; non per se &amp; primo nisi essentiae: non solum vt ei quod est ratio esse veri &amp; boni in supposito: 
+        <lb ed="#Bb" n="22"/>ed eius quod quasi subiectiue habet esse &amp; esse verum &amp; esse bonum &amp; denominari ab eis, &amp; non super 
+        <lb ed="#Bb" n="23"/>positum nisi per hoc quod essentia habet esse in ipso. &amp; hoc ideo, quia in creaturis suppositum subsistit 
+        <lb ed="#Bb" n="24"/>vt aliquid absolutum, cuius aliquid est ipsum formale, &amp; aliquid ipsum materiale. ita quod ab vtroque ha 
+        <lb ed="#Bb" n="25"/>bet esse &amp; esse bonum &amp; esse verum &amp; esse perfectum: licet principaliter ratione formae. Aliquid enim 
+        <lb ed="#Bb" n="26"/>realitatis dat materia siue materiale praeter id quod dat forma siue formale: ita quod id quod est vnius 
+        <lb ed="#Bb" n="27"/>eorum, non est alterius: sed quod est amborum, est totius compositi. Propter quod principaliter perfectio 
+        <lb ed="#Bb" n="28"/>in entitate veritate &amp; bonitate est compositi, &amp; nullius componentium. In deo vero suppositum sub 
+        <lb ed="#Bb" n="29"/>sistit vt aliquid respectiuum, in quo respectus quasi formalis est respectu essentiae: nihil tamen realitatis 
+        <lb ed="#Bb" n="30"/>habet nisi a suo fundamento quod est ipsa diuina essentia: &amp; ideo neque aliquid veritatis aut bonitatis:  
+        <lb ed="#Bb" n="31"/>sed principaliter esse &amp; esse verum &amp; esse bonum sunt essentiae non suppositi, nisi quia essentia est 
+        <lb ed="#Bb" n="32"/>in ipso: secundum quod haec omnia patent ex supra determinatis. Quare cum ad id principaliter habent terminari 
+        <lb ed="#Bb" n="33"/>actus intelligendi &amp; volendi quod principaliter habet rationem veri &amp; boni: dico quod cum deus intel- 
+        <lb ed="#Bb" n="34"/>igit &amp; vult seipsum, actus intelligendi &amp; volendi principaliter terminatur ad essentiam &amp; non ad per  
+        <lb ed="#Bb" n="35"/>onam nisi per essentiam, inquantum essentia esse habet in persona, &amp; econtrario ei quod contingit in creaturis. 
+        <lb ed="#Bb" n="36"/>
+      </p>
+      <p xml:id="vn58an-fe7164-d1e232">
+        ⁋ Ad primum in oppositum: quod vbi est reciproca constructio, actio terminatur in ip 
+        <lb ed="#Bb" n="37"/>sum agens, cuius non est principaliter nisi suppositum: Dicendum quod verum est vel ratione sui vel ra 
+        <lb ed="#Bb" n="38"/>tione alicuius quod est in ipso. Vt cum dicitur, Sortes sanat seipsum, si se sanet secundum oculum 
+        <lb ed="#Bb" n="39"/>tantum, vera est: non tamen terminatur ad totum nisi per accidens: ad partem autem per se. Vnde in propo 
+        <lb ed="#Bb" n="40"/>sito terminatur actus in agentem non ratione suppositi &amp; secundum eam rationem qua est agens, sed ra 
+        <lb ed="#Bb" n="41"/>tione eius quod habet esse in supposito, cuius est alia ratio quam sit ratio suppositi. 
+      </p>
+      <p xml:id="vn58an-fe7164-d1e245">
+        ⁋ Ad secundum quod per- 
+        <lb ed="#Bb" n="42"/>sona in deo magis habet rationem boni quam essentia: quia magis habet rationem perfecti: dicendum quod 
+        <lb ed="#Bb" n="43"/>est quaedam ratio perfecti in essendo: quaedam vero in supponendo. In crcaturis ratio perfecti vtroque  
+        <lb ed="#Bb" n="44"/>modo magis est suppositi quam alicuius existentis in supposito: propter quod similiter &amp; ratio boni &amp; ra 
+        <lb ed="#Bb" n="45"/>tio veri, vt dictum est. In deo vero licet in subsistendo perfectior est ratio suppositi quam essentia: quia ipsa ex 
+        <lb ed="#Bb" n="46"/>se non subsistit: sed ipsa est aliquid in subsistente: ratio tamen essendi perfectior est in essentia quam in  
+        <lb ed="#Bb" n="47"/>supposito: eo quod essentia habet esse ex se, suppositum autem non nisi quia in se habet essentiam. Cum 
+        <lb ed="#Bb" n="48"/>ergo assumitur quod bonum sequitur rei perfectionem: dicendum quod verum est perfectionem in essendo non 
+        <lb ed="#Bb" n="49"/>in subsistendo. Vnde cum illud quod est perfectius in subsistendo est perfectius in ratione boni, vt contigit in  
+        <lb ed="#Bb" n="50"/>subsistentibus absolute: ratio boni non est principalius in ipso propter perfectionem in subsistendo sed  
+        <lb ed="#Bb" n="51"/>propter perfectionem in essendo. Licet ergo in personis diuinis perfectior sit ratio subsistendi quam in essen 
+        <lb ed="#Bb" n="52"/>tia: quia tamen in eis non est perfectior ratio essendi, non terminat principalius actum volendi persona quam 
+        <lb ed="#Bb" n="53"/>essentia: sed potius econverso. Vnde cum omnis actio diuina manens intra reducitur ad actionem volendi vel intelli 
+        <lb ed="#Bb" n="54"/>gendi, omnis actio diuina essentialis manens intra principalit terminatur ad essentiam &amp; non ad personam: nisi quia in ipsa 
+        <lb ed="#Bb" n="55"/>habetur essentia: &amp; econtrario actio notionalis ad personam &amp; non ad essentiam, nisi quia per ipsam conicata est in persona.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

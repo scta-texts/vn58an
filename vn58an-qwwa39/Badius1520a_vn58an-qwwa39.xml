@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="243-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwa39"> <!-- alias="vn58an-a39prae" -->
+      <head xml:id="vn58an-qwwa39-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwa39-d1e107">
+        <lb ed="#Ba" n="41"/>VIso de veritate &amp; intelligibilitate dei vt de obiecto intelle- 
+        <lb ed="#Ba" n="42"/>ctus: &amp; similiter de eius intellectu &amp; de intellectiua potentia, &amp; de eius scientia. 
+        <lb ed="#Ba" n="43"/>vt de habitu in intellectu ad eliciendum actum intelligendi, sequitur quarto de ipso 
+        <lb ed="#Ba" n="44"/>actu intelligendi qui est intelligere quasi elicitum de potentia &amp; ex ha- 
+        <lb ed="#Ba" n="45"/>bitu per obiectum. Et quia intelligere est sic quasi actio in deo, ideo cir- 
+        <lb ed="#Ba" n="46"/>ca hoc quaeruntur duo. Quorum  
+        <lb ed="#Ba" n="47"/>Primum est de actione dei in generali. 
+        <lb ed="#Ba" n="48"/>Secundum de actione quae est intelligere in speciali. 
+        <lb ed="#Ba" n="49"/>Circa primum quaeruntur octo. 
+        <lb ed="#Ba" n="50"/>Primum: vtrum deo conueniat agere. 
+        <lb ed="#Ba" n="51"/>ndum: vtrum actio dei sit ipsius essentia. 
+        <lb ed="#Ba" n="52"/>Tertium: vtrum aliquam actionem agat diuina essentia. 
+        <lb ed="#Ba" n="53"/>Quartum: vtrum diuina essentia sit ratio agendi omnem diuinam actionem. 
+   <!--502.xml-->
+        <pb ed="#Ba" n="244-r"/>
+        <lb ed="#Ba" n="1"/>Quintum: vtrum diuina essentia sit per se terminus alicuius diuinae actionis. 
+        <lb ed="#Ba" n="2"/>Sectum: vtrum omnes diuinas actiones communiter agunt omnes personae.  
+        <lb ed="#Ba" n="3"/>Septimum: vtrum actiones communes agant personae omnes vniformiter. 
+        <lb ed="#Ba" n="4"/>Octauum: vtrum deo conueniat aliqua actio in se manens.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

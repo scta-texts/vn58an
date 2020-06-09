@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="108-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe29575"> <!-- alias="vn58an-a55q4" -->
+      <head xml:id="vn58an-fe29575-Hd1e104">Quaestio 4</head>
+      <p xml:id="vn58an-fe29575-d1e107">
+        <lb ed="#Bb" n="40"/>CIrca Quartum arguitur: quod omnes proprietates sunt notiones, Primo sic. iillud est 
+        <lb ed="#Bb" n="41"/>notio quo res innotescit: sed qualibet proprietate personae diuinae nobis innote 
+        <lb ed="#Bb" n="42"/>scunt: quia secundum Ambrosium, sunt quasi quaedam qualitates, et secundum Da- 
+        <lb ed="#Bb" n="43"/>mascenum, quasi quaedam accidentia: vt patet ex praedictis. Et talia secundum philosophum i i. de anima, 
+        <lb ed="#Bb" n="44"/>maximam partem conferunt ad cognoscendum quod quod est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe29575-d1e120">
+        ⁋ Secundo sic. essen- 
+        <lb ed="#Bb" n="45"/>tialius conveniunt deo proprietates per quas personae respiciunt sese mutuo, quam illae per  
+        <lb ed="#Bb" n="46"/>quaes respicit deus creaturas: quia &amp; illae verius dicuntur notiones personarum quam istae dei 
+        <lb ed="#Bb" n="47"/>tatis. sed illae notiones sunt per quaes nobis essentialia deitatis innotescunt: cuiusmodi sunt esse creatorem, 
+        <lb ed="#Bb" n="48"/>esse gubernatorem, &amp; huiusmodi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe29575-d1e131">
+        ⁋ In oppositum arguitur, Primo quod nulla proprietas sit notio. cum 
+        <lb ed="#Bb" n="49"/>enim notio non debet dici nisi ratio &amp; principium cognoscendi rem: tale autem in diuinis respectu personarum 
+        <lb ed="#Bb" n="50"/>non est nisi communis essentia a qua habent esse: quia secundum philosophum eadem est ratio essendi &amp; cognoscendi. ergo  
+        <lb ed="#Bb" n="51"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-fe29575-d1e141">
+        ⁋ Secundo quod comomunis spiratio actiua non debet dici notio: sic. illud solummodo debet dici notio quod pro  
+        <lb ed="#Bb" n="52"/>priam cognitionem de re manifestat., propter quod de definitione dicit philosophus, quod est notificationis gratia. Im 
+        <lb ed="#Bb" n="53"/>portat enim propropriam notitiam de re: &amp; ideo proprie notio rei dicitur: non autem genus, quod conem notitiam de re in- 
+        <lb ed="#Bb" n="54"/>portat. sed spiratio actiua quia communis est patri &amp; filio, nullam, propriam notitiam importat. ergo &amp;c. 
+   <!--231.xml-->
+        <pb ed="#Bb" n="108-v"/>
+      </p>
+      <p xml:id="vn58an-fe29575-d1e154">
+        <lb ed="#Bb" n="1"/>⁋ Praeterea secundum philosophum, eadem sunt principia essendi &amp; cognoscendi. sed communis spiratio acti- 
+        <lb ed="#Bb" n="2"/>ua, nullius personae est principium essendi: quia non est personae constitutiua. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe29575-d1e161">
+        ⁋ Tertio 
+        <lb ed="#Bb" n="3"/>arguitur quod innascibilitas non est notio: quia nihil praeter alias proprietates personales importat 
+        <lb ed="#Bb" n="4"/>nisi negationem. Negatio autem non est per se principium cognoscendi, quale debet esse notio in di- 
+        <lb ed="#Bb" n="5"/>uinis. aliter enim plures aliae negationes, notiones in diuinis dici deberent, vt infra magis patebit. 
+        <lb ed="#Bb" n="6"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe29575-d1e172">
+        ⁋ Quarto arguitur, quod generatio passiua &amp; spiratio passiua non possunt dici notiones 
+        <lb ed="#Bb" n="7"/>quia notio debet esse principium declarandi aliquod dignitatis in eo cuius est notio: quod non faciunt 
+        <lb ed="#Bb" n="8"/>passiua generatio &amp; spiratio: quia dicunt personam esse, sed ab alio. vbi licet sit dignitatis ipsum esse. 
+        <lb ed="#Bb" n="9"/>nullius tamen dignitatis est ipsum esse habere ab alio: immo magis videtur esse defectus: quia quod  
+        <lb ed="#Bb" n="10"/>habet aliquis omnino non nisi ab alio, non habet illud ex se: quod est magnae indignitatis. ergo &amp;c. 
+        <lb ed="#Bb" n="11"/>
+      </p>
+      <p xml:id="vn58an-fe29575-d1e185">
+        ⁋ Dicendum ad hoc: quod notio multipliciter dicitur. Vno enim modo dicitur aliquid notio for- 
+        <lb ed="#Bb" n="12"/>maliter: quia est ipsa cognitio de re omnino impressa menti, sic nihil aliud est quam simplex mentis con 
+        <lb ed="#Bb" n="13"/>ceptus in quo res cognoscitur. Alio vero modo dicitur aliquid notio effectiue: quia facit &amp; causat 
+        <lb ed="#Bb" n="14"/>notitiam rei in mente. &amp; hoc contingit dupliciter: quia tale aut est aliquid extra rem, ordinem tamen 
+        <lb ed="#Bb" n="15"/>ad rem habens: sic omnis effectus notio potest dici respectu suae causae. Vel aliquid in re: &amp; hoc 
+        <lb ed="#Bb" n="16"/>dupliciter. Vel vt aliquid essentiae rei quo constituitur in esse: &amp; hoc modo definitio, &amp; vniuersali 
+        <lb ed="#Bb" n="17"/>ter quod est forma essentialis inre: dicitur notio rei: &amp; hoc modo solum tres proprietates personales personarum 
+        <lb ed="#Bb" n="18"/>constitutiuae, dicendae sunt notiones personarum. Vel vt aliquid virtute existens in eo quo res constituitur 
+        <lb ed="#Bb" n="19"/>in esse: quemadmodum vis motiua omnium vniuersaliter consistit in vi motiua primi mobilis: &amp; est notio 
+        <lb ed="#Bb" n="20"/>respectu motoris primi mobilis: &amp; hoc modo innascibile siue ingenitum, est notio patris. secundum quod  
+        <lb ed="#Bb" n="21"/>inferius declarabitur loquendo de innascibili. Vel vt aliquid concomitans rem essentialiter in esse 
+        <lb ed="#Bb" n="22"/>constitutam: quemadmodum accidentia sequuntur substantiam: &amp; sunt notiones. Et iuxta hunc modum re 
+        <lb ed="#Bb" n="23"/>moto tamen omni modo accidentalitatis, duplex notio est in diuinis personis: quia aut consequuntur 
+        <lb ed="#Bb" n="24"/>personam ratione personae: vel ratione diuinae essentiae in ipsa. Primo modo communis spiratio actiua ne 
+        <lb ed="#Bb" n="25"/>tio est patris &amp; filii: ordine enim quodam consequitur foecunditas spirationis generationem, vt habitum 
+        <lb ed="#Bb" n="26"/>est supra. Secundo modo vniuersaliter omnes aliae proprietates quae sunt in personis secundum essentiam 
+        <lb ed="#Bb" n="27"/>siue personarum comparatarum inter se: vt sunt aequalitas, similitudo, &amp; huiusmodi: siue singu 
+        <lb ed="#Bb" n="28"/>larum personarum secundum se, vt sunt attributa essentialia, notiones dicuntur. Vnde inspiciendo dicta 
+        <lb ed="#Bb" n="29"/>patet quod in proposito solum dicuntur notiones proprietates illae quae sunt personarum constitutiuae, aut in  
+        <lb ed="#Bb" n="30"/>unt personis ratione qua sunt personae, non ratione qua sunt essentiae. Et tales sunt solummodo  
+        <lb ed="#Bb" n="31"/>quinque: quarum numerus accipitur sic. Cum enim (secundum supra determinata) persona in deo non est 
+        <lb ed="#Bb" n="32"/>nisi relatiua: et hoc secundum rationem originis: relatio autem secundum rationem originis potest esse vel vnius 
+        <lb ed="#Bb" n="33"/>d vnum: quorum vnus est a quo alius: &amp; alius qui ab alio: &amp; vnus ab vno: sic sunt duae notiones:  
+        <lb ed="#Bb" n="34"/>vna patris, vt paternitas siue generatio actiua quae alius est ab eo: alia vero filii, vt filiatio siue na 
+        <lb ed="#Bb" n="35"/>scibilitas qua ipse est ab alio: vel potest esse plurium ad vnum qui est ab illis pluribus: et sic est 
+        <lb ed="#Bb" n="36"/>notio communis spirationis actiuae patris &amp; filii: vel potest esse vnius ad plures: &amp; hoc vel vnius 
+        <lb ed="#Bb" n="37"/>quo sunt plures: &amp; sic est notio patris innascibilitas, vt infra patebit: vel vnius qui est a pluri 
+        <lb ed="#Bb" n="38"/>bus: sic spiratio passiua est notio spiritus sancti. 
+        <lb ed="#Bb" n="39"/>
+      </p>
+      <p xml:id="vn58an-fe29575-d1e248">
+        ⁋ Ad dissolutionem quorundam argumentorum distinguendum est hic de notione 
+        <lb ed="#Bb" n="40"/>sicut supra distinctum est de proprietate: quoniam aliquid potest dici notio largissime, large, stricte, &amp; 
+        <lb ed="#Bb" n="41"/>strictissime. Primo modo, omnis proprietas diuina largissime accepta proprietate potest dici notio. secundum  
+        <lb ed="#Bb" n="42"/>pber procedunt duo prima obiecta. Large autem loquendo de notionibus personarum, non dicuntur nisi. v. proprie 
+        <lb ed="#Bb" n="43"/>ates quae sunt in personis secundum ipsas personas: non secundum essentiam communem, vt dictum est. Stricte autem lo- 
+        <lb ed="#Bb" n="44"/>uendo non sunt nisi quatuor ex illis. Communis enim spiratio actiua nullam notitiam personae propriam 
+        <lb ed="#Bb" n="45"/>facit. Stricte autem loquendo non potest dici notio. secundum quod procedit quarta ratio: &amp; similiter quinta. 
+        <lb ed="#Bb" n="46"/>ptrictissime autem loquendo non sunt notiones nisi tres personales proprietates. Innascibilitas enim ratione 
+        <lb ed="#Bb" n="47"/>negationis quam importat, notio esse non potest, vt procedit penultima ratio Ratio autem affirmationis intel- 
+        <lb ed="#Bb" n="48"/>ectae quicquod dignitatis simpliciter importat, continetur in actiua generatione &amp; spiratione: &amp; quo ad hoc ac 
+        <lb ed="#Bb" n="49"/>llas reducitur, vt inferius patebit loquendo de innascibilitate. 
+      </p>
+      <p xml:id="vn58an-fe29575-d1e273">
+        ⁋ Ad illud quod assumitur in tertia ra 
+        <lb ed="#Bb" n="50"/>tione: quod nulla proprietas est notio, quia non est principium essendi in personis: sed solum ipsa essentia: Di 
+        <lb ed="#Bb" n="51"/>cendum quod in personis &amp; est esse &amp; est ad aliud esse. Primum est ab essentia, &amp; est commune tribus. 
+        <lb ed="#Bb" n="52"/>Secundum vero a proprietate, &amp; distinguitur secundum distinctionem proprietatum. dicente Augustino. vii. de 
+        <lb ed="#Bb" n="53"/>trinitate. Substantia patris ipse pater est: non quo pater est: sed quo est. Et sic vno modo princi- 
+        <lb ed="#Bb" n="54"/>pium &amp; ratio cognoscendi personas est essentia: &amp; alio modo proprietas. Sed ista propria est 
+   <!--232.xml-->
+        <pb ed="#Bb" n="109-r"/>
+        <lb ed="#Bb" n="1"/>personis, secundum quod sunt personae: &amp; ideo proprie dicuntur notiones personarum &amp; non ipsa essentia. 
+      </p>
+      <p xml:id="vn58an-fe29575-d1e293">
+        <lb ed="#Bb" n="2"/>⁋ Ad vltimum quod generatio &amp; spiratio passiuae non possunt dici notiones: Dicendum quod in eo quod est 
+        <lb ed="#Bb" n="3"/>ab alio habere esse per generationem aut spirationem, est tria considerare. scilicet ipsum habere es 
+        <lb ed="#Bb" n="4"/>se, quod est dignitatis, &amp; commune omnibus, &amp; ideo non dat rationem notionis. Et ipsum simpliciter ab alio 
+        <lb ed="#Bb" n="5"/>habere illud, quod non ponit rationem dignitatis, neque etiam indignitatis: &amp; ideo etiam non dat ra-  
+        <lb ed="#Bb" n="6"/>tionem notionis. Est etiam in illo tertium considerare, scilicet habere ab alio esse sic, scilicet per na- 
+        <lb ed="#Bb" n="7"/>turalem generationem aut spirationem, quae quia sunt nobiles modi habendi, idcirco dant rationem 
+        <lb ed="#Bb" n="8"/>notionis. Quomodo autem sunt nobiles modi habendi, satis declaratur primo sententiarum distin  
+        <lb ed="#Bb" n="9"/>xxv. de filio, cap. Hic quaeritur. de spiritu sancto, cap. lta etiam.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

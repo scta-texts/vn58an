@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="69-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe18871"> <!-- alias="vn58an-a53a7" -->
+      <head xml:id="vn58an-fe18871-Hd1e104">Quaestio 7</head>
+      <p xml:id="vn58an-fe18871-d1e107">
+        <lb ed="#Bb" n="47"/>Irca septimum arguitur, quod persona non significat aliquid commune in diuinis. 
+        <lb ed="#Bb" n="48"/>Primo sic. Non est communitas nisi aliqua vnitas pluribus conveniens. plures 
+        <lb ed="#Bb" n="49"/>non sunt in diuinis nisi tres personae. sed persona non est aliquod vnum conue- 
+        <lb ed="#Bb" n="50"/>niens tribus: quoniam in personalitate differunt. In eo autem in quo aliqui diffe 
+        <lb ed="#Bb" n="51"/>runt, vnitatem &amp; conuenientiam non habent. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe18871-d1e120">
+        ⁋ Secundo sic. Commune vni 
+        <lb ed="#Bb" n="52"/>uocum est verum vniuersale ad illos quibus est commune. Persona autem diuinis 
+        <lb ed="#Bb" n="53"/>ersonis convenit vniuoce: quia secundum idem nomen, &amp; secundum eandem rationem assignatam a 
+        <lb ed="#Bb" n="54"/>Boethio, &amp; correctam a Ricardo: vt dictum est. ergo si persona est commune tribus personis, est al- 
+        <lb ed="#Bb" n="55"/>quod verum vniuersale in diuinis: cuius oppositum determinatum est supra. 
+      </p>
+      <p xml:id="vn58an-fe18871-d1e131">
+        ⁋ In contrarium  
+   <!--153.xml-->
+        <pb ed="#Bb" n="69-v"/>
+        <lb ed="#Bb" n="1"/>est id quod dicit Augustinus. vii. de trinitate. Propterea dicimus tres personas: quia commune est 
+        <lb ed="#Bb" n="2"/>persona eis id quod est. 
+      </p>
+      <p xml:id="vn58an-fe18871-d1e143">
+        <lb ed="#Bb" n="3"/>⁋ Dicendum ad hoc: quod triplex est communitas: quaedam rei purae, quaedam rationis pu- 
+        <lb ed="#Bb" n="4"/>rae, quaedam vero media partim rei, partim rationis. Primo modo est communitas solius essentiae, 
+        <lb ed="#Bb" n="5"/>&amp; attributorum essentialium tribus personis. Et secundum hanc communitatem dicitur quod pater est 
+        <lb ed="#Bb" n="6"/>deus: filius est deus: spiritus sanctus est deus. Et haec est remotissima a ratione vniuersalis: quia 
+        <lb ed="#Bb" n="7"/>in vnitate rei singularis fundatur, non sic autem communitas vniuersalis. Communitas tertio mo 
+        <lb ed="#Bb" n="8"/>do dicta est communitas relationis tribus personalibus relationibus: quae sunt paternitas, filiatio, 
+        <lb ed="#Bb" n="9"/>spiratio. Quae relatio est vnum praedicamentum in diuinis, non solum ratio praedicamenti. Secundum hanc 
+        <lb ed="#Bb" n="10"/>enim communitatem dicimus quod paternitas est relatio, filiatio est relatio, spiratio est relatio: &amp; quasi 
+        <lb ed="#Bb" n="11"/>in concreto dicimus quod pater est relatiuum, filius est relatiuum, spiritus sanctus est relatiuum. &amp; haec con- 
+        <lb ed="#Bb" n="12"/>munitas magis appropinquat vniuersali quam praecedens, quia non consistit in vnitate relationis sin- 
+        <lb ed="#Bb" n="13"/>gularis: sed quasi in abstracta a tribus relationibus singularibus realibus praedictis. Nec tamen in  
+        <lb ed="#Bb" n="14"/>ea est vera ratio vniuersalis: quia non sunt in ipsis tres realitates in fundamento suppositorum: sed  
+        <lb ed="#Bb" n="15"/>vnica tantum, quia in vna re singulari quae deitas est, fundantur, vt infra patebit: &amp; vniuersale verum 
+        <lb ed="#Bb" n="16"/>debet habere diuersam realitatem in suis suppositis, secundum quod de hoc habitum est satis superius. 
+        <lb ed="#Bb" n="17"/>propter quod dicta est ista conmunitas, partim rei, partim rationis: licet non sit in ea vera vniuersa- 
+        <lb ed="#Bb" n="18"/>litas. Quomodo autem illae tres relationes dicuntur reales, &amp; quodam modo tres res, non solum propter 
+        <lb ed="#Bb" n="19"/>realitatem naturae &amp; essentiae quae est earum fundamentum, sed propter realitatem hypostasum quas 
+        <lb ed="#Bb" n="20"/>constituunt, videbitur inferius. Communitas autem secundo modo dicta, est communitas illa quae est 
+        <lb ed="#Bb" n="21"/>in nomine personae. Sed hoc ponunt diuersi diuersimode. Quidam enim dicunt quod communitas perso- 
+        <lb ed="#Bb" n="22"/>nae est secundum negationem: sicut est communitas indiuidui ad Petrum &amp; ad Paulum: quia 
+        <lb ed="#Bb" n="23"/>scilicet non capit essentia singularis eorum partitionem in plures, sicut capit essentia humani- 
+        <lb ed="#Bb" n="24"/>tatis si mpliciter in humanitatem huius &amp; illius, secundum quod supra tactum est. Sed hoc non est ve 
+        <lb ed="#Bb" n="25"/>rum, quod persona in diuinis non consistit in pura negatione, etiam si non significaret nisi intena 
+        <lb ed="#Bb" n="26"/>tionem, sicut significat indiuiduum, immo fundatur in creaturis in ipsius naturae communis po 
+        <lb ed="#Bb" n="27"/>sitiua determinatione, &amp; in diuinis super relationes diuinorum suppositorum: vt praedictum est. 
+        <lb ed="#Bb" n="28"/>
+      </p>
+      <p xml:id="vn58an-fe18871-d1e202">
+        ⁋ Ideo aliter respondendum est, alio modo ponendo personam significare substantiam vel essentiam 
+        <lb ed="#Bb" n="29"/>alio vero modo ponendo ipsam significare intentionem. Ponendo vero perfonam significare sub- 
+        <lb ed="#Bb" n="30"/>stantiam vel essentiam, quidam aspiciunt in ponendo eius communitatem ad naturam relationum quae sunt 
+        <lb ed="#Bb" n="31"/>personarum constitutiuae: quidam vero ad ipsas personas siue hypostases singulares constitutas. Ad 
+        <lb ed="#Bb" n="32"/>communem vero essentiam non potest fieri aspectus: quia tenet vnitatem &amp; non multiplicat trini 
+        <lb ed="#Bb" n="33"/>tatem, secundum Boethium: sine qua multiplicatione non est personae communitas: vt dictum est iam su- 
+        <lb ed="#Bb" n="34"/>pra secundum Ricardum. Secundum primum modum dicunt aliqui quod ibi est communitas in re relationum quae  
+        <lb ed="#Bb" n="35"/>sunt constitutiuae personarum: super quas est ibi (vt dictum est) communis ratio relationis ad pa- 
+        <lb ed="#Bb" n="36"/>ternitatem filiationem &amp; spirationem. &amp; illam dicunt significari nomine personae: sicut speciales re- 
+        <lb ed="#Bb" n="37"/>lationes significantur nominibus patris &amp; filii &amp; spiritus sancti. Et ideo personam communem esse ad  
+        <lb ed="#Bb" n="38"/>patrem, &amp; filium, &amp; spiritum sanctum: sicut est relatio simpliciter communis ad paternitatem, filiationem, 
+        <lb ed="#Bb" n="39"/>&amp; communem spirationem. Sed hoc non potest stare, quoniam (vt dictum est secundum Ricar. supra) nomen personae non 
+        <lb ed="#Bb" n="40"/>significat nisi singulare vnicum in se &amp; indistinguibile in se, &amp; distinctum a quolibet alio, &amp; quid tale 
+        <lb ed="#Bb" n="41"/>nullam rem communem significat. Vnde si ita esset vt dicunt, tunc non esset communitas alia praedi- 
+        <lb ed="#Bb" n="42"/>cata cum dicitur, pater est persona, filius est persona, spiritus sanctus est persona, quam illa quae prae- 
+        <lb ed="#Bb" n="43"/>dicatur cum dicitur pater est relatiuum, filius est relatiuum, spiritus sanctus est relatiuum. Quod falsum est: 
+        <lb ed="#Bb" n="44"/>quia esse relatiuum simpliciter nullam rationem distinctionis importat, sicut importat nomen personae. Et 
+        <lb ed="#Bb" n="45"/>reuera si persona proprie &amp; per se significatione prima &amp; absoluta diceretur significare substan  
+        <lb ed="#Bb" n="46"/>tiam quae est hypostasis, aut relationem, tunc non posset esse commune ad tres hypostases relatiuas 
+        <lb ed="#Bb" n="47"/>nisi significando communem relationem ad illarum relationes, aut nihil omnino reale quod est commu 
+        <lb ed="#Bb" n="48"/>ne intelligitur nomine personae: quod proculdubio verum est. Ideo ponentes quod persona significat sub- 
+        <lb ed="#Bb" n="49"/>stantiam vel essentiam, ponunt communitatem eius absque significatione communis alicuius. Magister Gerar- 
+        <lb ed="#Bb" n="50"/>dus La pucelle, qui ponens quod persona significat essentiam non gratia sui, sed gratia suppositorum, ita 
+        <lb ed="#Bb" n="51"/>quod supponat pro personis non pro essentia, vt expositum est supra: ratione huius suppositionis dicit quod  
+        <lb ed="#Bb" n="52"/>pluraliter accipitur, &amp; tamen substantiam significat in plurali sicut &amp; in singulari, &amp; ita quod communitas 
+        <lb ed="#Bb" n="53"/>eius non est in significatione: sed in suppositione. Et arguit contra eum Praepositinus sic. Hoc no-  
+        <lb ed="#Bb" n="54"/>men deus etsi aliquando supponit pro persona, aliquando pro essentia: tamen vbi supponit pro persona, 
+   <!--154.xml-->
+        <pb ed="#Bb" n="70-r"/>
+        <lb ed="#Bb" n="1"/>inquantum supponit pro persona, non supponit pro essentia. Vbi ergo supponit pro qualibet persona 
+        <lb ed="#Bb" n="2"/>eandem conitatem habet cum persona: &amp; potest in plurali praedicari de tribus sicut &amp; persona. Quod non est ve- 
+        <lb ed="#Bb" n="3"/>rum, non est ergo illa ratio sufficiens. Ricar. vero consequenter dicens opinioni suae praepositae, diceret quod perso 
+        <lb ed="#Bb" n="4"/>na non dicit aliquid commune ad tres per significationem: sed solum per indeterminationem, quia non significat 
+        <lb ed="#Bb" n="5"/>nisi aliquem vnum qui est distinctus ab omnibus, cuius ratio inquantum huiusmodi communis esse non potest, ni- 
+        <lb ed="#Bb" n="6"/>si quia non determinat aliquem talium significatum personae, neque in singulari, neque in plurali quantum 
+        <lb ed="#Bb" n="7"/>est ex parte significati: sed in singulari significat aliquem talem: in plurali vero aliquos tales. In  
+        <lb ed="#Bb" n="8"/>quo concordat Simodo Tornacen. quid dicit (vt recitat Praepositinus) quod gratia consignificationis hoc no 
+        <lb ed="#Bb" n="9"/>men persona transit ad pluralitatem: vt dicatur, pater &amp; filius &amp; spiritus sanctus sunt tres personae id est sunt 
+        <lb ed="#Bb" n="10"/>vnum: &amp; per se. id it distincti: vt hoc pronomen se sit pluralis numeri &amp; masculini generis, sicut in sin  
+        <lb ed="#Bb" n="11"/>gulari pater est persona id est vnum, per se . i. distinctus: vt ly se sit masculini generis. sed nomine personae in  
+        <lb ed="#Bb" n="12"/>singulari ntelligitur singulariter, in plurali pluraliter. Et redit quo ad istam communitatem 
+        <lb ed="#Bb" n="13"/>haec positio in idem cum positione dicente quod persona non significat nisi essentiam: &amp; supponit pro 
+        <lb ed="#Bb" n="14"/>hypostasi. ita quod si non ponatur aliquid aliud de significato personae quam essentia, aut relatio distin-  
+        <lb ed="#Bb" n="15"/>ctiua, aut hypostasis singularis, in illo communi nihil est quod commune est tribus nisi sola vox perso 
+        <lb ed="#Bb" n="16"/>nae. Dico secundum quod sumatur ista conmunitas: quia ex parte essentiae communis (vt dictum est) su 
+        <lb ed="#Bb" n="17"/>mi non potest. Et sic esset sola communitas aequiuocationis, quod non apparet esse concedendum. Vnde vi 
+        <lb ed="#Bb" n="18"/>detur esse recurrendum ad positionem dicentem quod persona de significato suo absoluto nomen est in-  
+        <lb ed="#Bb" n="19"/>tentionis secundae secundum praedictum modum: quamuis non supponat nisi rem quae est suppositum sin  
+        <lb ed="#Bb" n="20"/>gulare, sub illa indifferentia quam ponit Ricar. vt dictum est. Et est illa intentio ratio qua intellectus con 
+        <lb ed="#Bb" n="21"/>cipit suppositum reale quod est hypostasis, significatum nomine rei: vt est pater &amp; filius in diuinis, Pe- 
+        <lb ed="#Bb" n="22"/>trus &amp; Paulus in creaturis: concipit inquam vt distinctum per se a quolibet. Et consistit ista intentio in  
+        <lb ed="#Bb" n="23"/>respectu quodam &amp; modo se habendi huiusmodi rei in comparatione &amp; respectu ad essentiam conmunem 
+        <lb ed="#Bb" n="24"/>&amp; ad quodlibet aliud quod consimilem habet distinctionem, siue in vna essentia singulari: vt contin  
+        <lb ed="#Bb" n="25"/>git in diuinis: siue in vna essentia specifica: vt contingit in hominibus: siue in pluribus essentiis spe 
+        <lb ed="#Bb" n="26"/>cificis: vt contingit in hominibus &amp; angelis. In omnibus enim istis nomen personae quasi eiusdem inten- 
+        <lb ed="#Bb" n="27"/>tionis est: nisi quod ab absoluto sumitur in creaturis, &amp; a respectiuo in diuinis. Vnde quia ratio ta 
+        <lb ed="#Bb" n="28"/>lis intentionis consistit in quadam comparatione, sicut &amp; aliarum intentionum generis &amp; speciei, ideo con 
+        <lb ed="#Bb" n="29"/>munitas intentionis quodammodo est communitas proportionis. Est enim Petrus indiuiduum &amp; 
+        <lb ed="#Bb" n="30"/>persona sicut Paulus: quia eodem modo se habet ad speciem suam, &amp; ad suum condiuisum, sicut 
+        <lb ed="#Bb" n="31"/>Paulus: &amp; consimili modo dicitur homo esse species sicut asinus, &amp; quantitas genus sicut qualitas:  
+        <lb ed="#Bb" n="32"/>&amp; hoc propter similem comparationem ad sua inferiora. Et sic in nomine personae ex parte significa 
+        <lb ed="#Bb" n="33"/>ti nihil potest sumi cone secundum quod distinguitur in contenta, nisi ratio intentionis: quae in sua commu- 
+        <lb ed="#Bb" n="34"/>nitate nihil rei habet extra: sed solum consistit in conceptu intellectus: nec habet rationem vniuersalis 
+        <lb ed="#Bb" n="35"/>realis: sed intentionalis tantum, licet consideratur circa rem, &amp; habet rationem accidentis, non existentis in re: 
+        <lb ed="#Bb" n="36"/>sed solum in conceptu intellectus. Propter hoc non est inconveniens si ponamus quod habeat rationem 
+        <lb ed="#Bb" n="37"/>vniuersalis veri intentionalis, licet ratio vniuersalis realis nullo modo ponatur in diuinis. Illud etiam 
+        <lb ed="#Bb" n="38"/>quia est quodammodo in re, aliquam compositionem poneret in deo: quod non facit istud: quia solum po 
+        <lb ed="#Bb" n="39"/>nitur in conceptione intellectus. Sed est aduertendum quod huiusmodi intentionem vniuersalem contin  
+        <lb ed="#Bb" n="40"/>git quandoque ad aliquid comparari velut ad subiectum circa quod consideratur, vt persona ad patrem &amp; 
+        <lb ed="#Bb" n="41"/>filium: ad Petrum &amp; Paulum: &amp; species ad hominem &amp; asinum: &amp; genus ad quantitatem &amp; qualitatem. Et habet 
+        <lb ed="#Bb" n="42"/>talis intentio quasi rationem speciei specialissimae continentis quasi indiuidua: cuiusmodi sunt haec, perso 
+        <lb ed="#Bb" n="43"/>na Petri vel persona Pauli: haec species hominis, illa species afini: hoc genus quantitatis, illud ge- 
+        <lb ed="#Bb" n="44"/>nus qualitatis. Quandoque vero contingit comparari ad aliam intentionem sibi suppositam, de quam  
+        <lb ed="#Bb" n="45"/>praedicatur tanquam genus de speciebus: vt facit haec intentio vniuersale, de hac intentione quae est spe 
+        <lb ed="#Bb" n="46"/>cies, &amp; illa quae est genus. Vnde in proposito ratio personae est quasi speciei specialissimae intentio cir- 
+        <lb ed="#Bb" n="47"/>ca subiectum continens quasi particulares intentiones circa subiecta particularia, vt sunt haec persona vel 
+        <lb ed="#Bb" n="48"/>illa: sed in nomine persona non est intellectum aliquid circa quod consideratur: nisi indeterminate, iuxta su- 
+        <lb ed="#Bb" n="49"/>perius determinata secundum Ricar. Et super istam communitatem intentionis, alia est communitas qua ho 
+        <lb ed="#Bb" n="50"/>mo praedicatur de Petro &amp; Paulo, alia qua persona praedicatur de eifdem: nec habet persona aliam commu- 
+        <lb ed="#Bb" n="51"/>nitatem in diuinis, &amp; ad ipsam exprimendam primo fuit hoc nomen persona translatum ad diuina: quia 
+        <lb ed="#Bb" n="52"/>alia communitas haberi non potuit quae plurificari posset de tribus, &amp; esse substantiuum huius adie- 
+        <lb ed="#Bb" n="53"/>ctiui tres, secundum quod dicit Praepositinus. Cum enim scriptura dicebat, Pater &amp; filius &amp; spiritus sanctus 
+        <lb ed="#Bb" n="54"/>sunt tres: quaerebatur quid vel qui tres. Et forte poterat dici tres res: sed quia hoc vocabulum ni 
+        <lb ed="#Bb" n="55"/>mis commune est, oportuit inuenire aliud vocabulum minus commune, quod posset iugi huic vocabu 
+   <!--155.xml-->
+        <pb ed="#Bb" n="70-v"/>
+        <lb ed="#Bb" n="1"/>lo tres: &amp; translatum est hoc nonmen persona: &amp; raminsum est tres personae: vt ait Autinus non vt diceretur, sed ne 
+        <lb ed="#Bb" n="2"/>tacereturid est vt non plene rninderemus: sed ne omnino taceremus. Vt enim dicit. vii. de trinitate. Loquendi causa de 
+        <lb ed="#Bb" n="3"/>ineffabili: vt fari aliquo modo possemus, &amp; effari nullo modo possumus: dictum est a graecis vna essentia, 
+        <lb ed="#Bb" n="4"/>tres stae: a Latinis autem vna essentia vel sba, tres personae. Cum enim quaeritur quid tria vel tres, conferimus nos ad  
+        <lb ed="#Bb" n="5"/>inueniendum aliquid speciale vel generale nomen, quo contemplamur haec tria, neque occurrit animo: quia 
+        <lb ed="#Bb" n="6"/>excedit supereminentia deitatis vsitati eloquii facultatem. Pater ergo &amp; filius &amp; spiritus sanctus 
+        <lb ed="#Bb" n="7"/>quoniam tres sunt, quaeramus quid tres sunt, quid commune habent. Si enim tres personae, commune est eis id quod  
+        <lb ed="#Bb" n="8"/>est persona: alioquin nullo modo possunt ita dici. Sed dicimus tres personas, quia volumus vel vnum ali- 
+        <lb ed="#Bb" n="9"/>quod vocabulum seruire huic significationi: qua intelligitur trinitas id est quod significat aliquid commune 
+        <lb ed="#Bb" n="10"/>tribus: sub qua coniter intelliguntur illi tres. Et non est dicta conitas nisi rationis: quam inuestigat Au 
+        <lb ed="#Bb" n="11"/>gustinus ibidem remouendo a natura personae omnem conitatem realem: vt pt maxime in capite sexto. Et est rai- 
+        <lb ed="#Bb" n="12"/>sio quae ramendetur tres personae, non satiffaciens interrogationi: sed interroganti tantum. Cum enim quaerebant quid tres, itentio 
+        <lb ed="#Bb" n="13"/>eorum erat sibi rminderi rem aliquam conem illis vno nomine significatam, quod coniter de illis in plurali vt subie 
+        <lb ed="#Bb" n="14"/>ctum illi adiectiuo tres praedicaretur: quemadmodum cum dicitur tres sunt currentes, &amp; quaeritur qui tres, &amp; ramiedetur 
+        <lb ed="#Bb" n="15"/>homines: &amp; vlterius quid homines, &amp; rmindetur Petrus, Seruatius, loannes. Tale autem nomen in diuinis inueniri non po 
+        <lb ed="#Bb" n="16"/>tuit: vnde quia nihil potuit eis esse cone nisi intentio personae, nec satiffacit interrogationi, nec intentioni inter- 
+        <lb ed="#Bb" n="17"/>rogantis: sed solum pertinaciae haereticorum: quia non habebant vltra quid quaererent: quemadmodum si 
+        <lb ed="#Bb" n="18"/>quaereretur Petrus, loannes, Paulus, qui tres: &amp; respondeatur tres personae. Vnde si cum ista conmunitate in  
+        <lb ed="#Bb" n="19"/>tentionis intelligatur communitas indifferentiae secundum positionem Rcar. responderi: tunc plenissime satissit 
+        <lb ed="#Bb" n="20"/>interrogationi &amp; interroganti quantum possibile est. Nec tamen ista responsio dicendo tres res, nec illa 
+        <lb ed="#Bb" n="21"/>dicendo tres personae, siue persona intelligatur supponere pro intentione, siue pro suppositis singulari- 
+        <lb ed="#Bb" n="22"/>bus sub indifferentia, satiffecit omnino interrogationi similiter &amp; interroganti, quia interrogatio pe- 
+        <lb ed="#Bb" n="23"/>tebat &amp; intentio interrogantis de substantiuo substantiae illius adiectiui tres, intendendo substantiam illam 
+        <lb ed="#Bb" n="24"/>plurificatam responderi, &amp; plurificationem illam determinari circa ipsam per illud adiectiuum tres: ita quod  
+        <lb ed="#Bb" n="25"/>quo ad hoc nihil aliud quaerebatur per quidquam per qui: sed solummodo quo ad hoc quod quod quaerebat de substantia 
+        <lb ed="#Bb" n="26"/>plurificata absolute &amp; sub ratione essentiae, qui vero de substantia plurificata in suppositis. Vnde 
+        <lb ed="#Bb" n="27"/>quia talis substantia siue essentia in diuinis non habet reperiri, falsum supponebat quaestio in diuinis:  
+        <lb ed="#Bb" n="28"/>&amp; ideo interrogationi non erat, respondendum nec satiffaciendum: quia impossibile erat: nec simili 
+        <lb ed="#Bb" n="29"/>ter intentioni interrogantis: quia ipsa similiter falsum supponebat in diuinis: sed solum erat satista- 
+        <lb ed="#Bb" n="30"/>ciendum pertinaciae eius quantum possibile fuit. Vnde dicit Ricar. iiii. de trinitate. c. v. Qui nomen personae primo ad di  
+        <lb ed="#Bb" n="31"/>uina transtulerunt hoc ipsum ex necessitate fecest, vt haberent quod rminderent quaerentibus quae tria tres illi in tri 
+        <lb ed="#Bb" n="32"/>nitate essent, cum tres deos, esse ranmndere non possent. 
+      </p>
+      <p xml:id="vn58an-fe18871-d1e458">
+        ⁋ Est tamen hic aduertendum: quod ipsam interrogationem non 
+        <lb ed="#Bb" n="33"/>oportet ponere supposuisse falsum quantum erat ex se: sed solum quantum erat ex intentione interrogantis: quoniam  
+        <lb ed="#Bb" n="34"/>quantum erat ex se, neutram interrogationem oportet supponere falsum, quoniam interrogatio vtraque quantum est ex 
+        <lb ed="#Bb" n="35"/>parte eius quod est tres, non his necesse supponere nisi ternarium suppositorum: &amp; per quid non est necesse quod intelli 
+        <lb ed="#Bb" n="36"/>gatur quaeri de alio quam de essentia &amp; quiditate illorum simpliciter, nec magis supponit eam triplicatam quam simpli- 
+        <lb ed="#Bb" n="37"/>cem &amp; vnicam. Vnde siue in respondendo explicetur essentia triplicata, siue simplex, &amp; vnica, responsio sa 
+        <lb ed="#Bb" n="38"/>tiffacit interrogationi. Vnde interrogatio per quid non intendit nisi illi tres quid sunt in substantia 
+        <lb ed="#Bb" n="39"/>&amp; sufficientissime respondetur dicendo deus. Per qui autem non est necesse quod intelligatur quaeri de alio quam  
+        <lb ed="#Bb" n="40"/>de proprietatibus suppositorum: in quibus non magis substantiam triplicatam quam vnicam oportet intelligi. 
+        <lb ed="#Bb" n="41"/>Vnde non oportet in respondendo exprimere essentiam: sed satissit interrogationi, si trinitas persona 
+        <lb ed="#Bb" n="42"/>rum rnmndeatur. Vnde interrogatio per qui non intendit nisi illi tres quid sunt in suppositis: &amp; sufficientissime ramen 
+        <lb ed="#Bb" n="43"/>detur exprimendo sub propriis nominibus, &amp; dicendo pater &amp; filius &amp; spiritus sanctus, vel sub vno nomine 
+        <lb ed="#Bb" n="44"/>coni tribus quod continet intellectum trium, siue significat illa principali significatione licet sub indetermiatio 
+        <lb ed="#Bb" n="45"/>ne (vt ponit Ricar. siue non: sed solum intentionem coem, &amp; suprponendo pro illis, dicendo personae vel tres 
+        <lb ed="#Bb" n="46"/>res. Nec differt sic ramindere vel sic: nisi quod nomine personae habetur intellectus trium sub quaedam indeterminatione 
+        <lb ed="#Bb" n="47"/>&amp; indifferentia absque significatione alicuius realis communis ad illos: sicut habetur hoc nomine res, quod pluraliter prae 
+        <lb ed="#Bb" n="48"/>dicatur de tribus. sed persona addit rationem communis intentionis: &amp; ideo melius rmendetur dicendo tres personae quam di-  
+        <lb ed="#Bb" n="49"/>cendo tres res, quia quaestio est de suppositis singularibus, &amp; secundum interrogantis intentionem vt sunt sub 
+        <lb ed="#Bb" n="50"/>aliquo communi, neque quod est essentia, neque quod est relatio, neque quod est intentio, &amp; maxime quod de se supposi- 
+        <lb ed="#Bb" n="51"/>tionem suam non habet determinatam ad supposita singularia. Vnde vt satisfieret omnino interrogationi &amp; 
+        <lb ed="#Bb" n="52"/>pertinaciae interrogantis quantum possibile erat, maxime cum interrogatur per quid, raminsum est nomine personae: quod  
+        <lb ed="#Bb" n="53"/>habet determinatam suppositionem pro suppositis singularibus, &amp; cum hoc conem intentionem significat, li 
+        <lb ed="#Bb" n="54"/>cet nec de illa fuit intentio interrogantis, nec virtus interrogationis, &amp; tale est hoc nomen persona. Pro- 
+        <lb ed="#Bb" n="55"/>pter quod dixit Auinus vi. de trinitate. Voluimus vel vnum vocabulum seruare huic significationi quae intelligitur 
+        <lb ed="#Bb" n="56"/>trinitas, ne omnino taceremus interroganti quid tres cum tres esse fateamur. Est autem illa significa- 
+   <!--156.xml-->
+        <pb ed="#Bb" n="71-r"/>
+        <lb ed="#Bb" n="1"/>tio intentionis communis in nomine persona: non qua significatur trinitas: sed intelligitur: vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe18871-d1e519">
+        <lb ed="#Bb" n="2"/>⁋ Ad primum prim. Dicendum quod verum est: non tamen per hoc excluditur: quin persona sit cone quid ad tres scilicet supposi 
+        <lb ed="#Bb" n="3"/>tione: vt dicit opinio Pucelle: vel quaedam indifferentia: vt diceret Ricar. &amp; Simon: vel rationis intentione, 
+        <lb ed="#Bb" n="4"/>vt patet ex praedictis. 
+      </p>
+      <p xml:id="vn58an-fe18871-d1e528">
+        ⁋ Ad secundum, dicendum quod verum est de vniuoco vnitate rei, non autem de vniuoco 
+        <lb ed="#Bb" n="5"/>vnitate propositionis, qualis est in nomine intentionis: vt dictum est, quemadmodum non dicuntur vniuoce re- 
+        <lb ed="#Bb" n="6"/>ctor qui in ciuitate, &amp; quid in naui. &amp; de tali conitate loquitur <name ref="#Augustine">Augustinus</name> cum dicit, quod personam est commune.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

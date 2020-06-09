@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="232-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2550"> <!-- alias="vn58an-a36q1" -->
+      <head xml:id="vn58an-d1e2550-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e2550-Hd1e107" type="question-title">Utrum intellectus sit in Deo</head>
+      <p xml:id="vn58an-d1e2550-d1e110">
+        <lb ed="#Ba" n="11"/>CIrca primum arguitur quod in deo non debet dici esse intellectus. Primo sic. Quan  
+        <lb ed="#Ba" n="12"/>to ratio alicuius est perfectior: tanto prior: et si non in eodem, saltem in alio: quia 
+        <lb ed="#Ba" n="13"/>omne minus perfectum habet reduci ad perfectius tanquam ad suum principium. 
+        <lb ed="#Ba" n="14"/>propter quod reprehendit philosophus. xii. Metaph. illos qui dixerunt quod principia sunt 
+        <lb ed="#Ba" n="15"/>imperfectissima. Perfectior autem est ratio actus intelligendi quam intellectus: quia 
+        <lb ed="#Ba" n="16"/>non est intellectus perfectus nisi per suum actum intelligendi. ergo simpliciter 
+        <lb ed="#Ba" n="17"/>prior est actus intelligendi quam quicunque intellectus: &amp; hoc si non in eodem: tamen in alio. Si ergo in  
+        <lb ed="#Ba" n="18"/>deo esset ponere intellectum: prior esset in ipso actus intelligendi quam eius intellectus, vel in alio. vtrum 
+        <lb ed="#Ba" n="19"/>quod est impossibile: quia in eodem necessario intellectus praecedit actum intelligendi: &amp; non potest 
+        <lb ed="#Ba" n="20"/>actus intelligendi praecedere diuinum intellectum in alio. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2550-d1e134">
+        ⁋ Secundo sic, non est intellectus 
+        <lb ed="#Ba" n="21"/>in aliquo nisi vt actu perfectiori perficiatur quam sit ille quem habet non ex ratione intellectus: sicut patet in  
+        <lb ed="#Ba" n="22"/>homine cui datus est intellectus vt perficiatur actu intelligendi: qui est perfectior quam actus sentiendi 
+        <lb ed="#Ba" n="23"/>vel essendi simpliciter quem habet non ex ratione intellectus. sed deus actu perfectiori perfici non po- 
+        <lb ed="#Ba" n="24"/>test: qui est actus primus: qui est actus essendi purus subsistens: quia inquantum talis habet in se omnis 
+        <lb ed="#Ba" n="25"/>perfectionis rationem: vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2550-d1e148">
+        ⁋ In contrarium est,. quoniam quod melius est esse ip 
+        <lb ed="#Ba" n="26"/>sum quam non ipsum, deo attribuendum est: habere autem intellectum, melius est quam non habere: vt pa 
+        <lb ed="#Ba" n="27"/>tet in omnibus aliis a deo, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2550-d1e155">
+        <lb ed="#Ba" n="28"/>⁋ Dicendum ad hoc: quod de natura &amp; ratione materiae est quod est impeditiuum cogni 
+        <lb ed="#Ba" n="29"/>tionis. vnde &amp; dicit <name ref="#Aristotle">Philosophus</name> in secundo de anima: quod plantae cognitionem non habent propter suam ma 
+        <lb ed="#Ba" n="30"/>terialitatem: quia etsi habent aliquam virtutem animae: tamen habent eam omnino impressam mate- 
+        <lb ed="#Ba" n="31"/>riae: ita quod non percipiunt obiectum nisi sub esse omnino materiali non abstracto aliquo modo a mate  
+        <lb ed="#Ba" n="32"/>ria: quod requiritur ad rationem infimam cognoscendi. Vnde secundum quod aliqua minus sunt mate 
+        <lb ed="#Ba" n="33"/>rialia: &amp; habent obiectum minus materiale: tanto sunt magis cognoscitiua. Propter quod sensus est co 
+        <lb ed="#Ba" n="34"/>gnitiuus in insimo gradu cognoscendi: quia. scilicet receptiuus est specierum materialium sine materia 
+        <lb ed="#Ba" n="35"/>in organo tamen materiali: vnus tamen minus materialiter &amp; magis cognitiuus est quam alter: quod non oportet 
+        <lb ed="#Ba" n="36"/>hic exponere: &amp; quod post sensum est magis separatum a materia: etiam sub esse adhuc minus materiali 
+        <lb ed="#Ba" n="37"/>speciem recipit: vt intellectus: quem tanto magis necesse est ponere in re, quanto ipse magis est imma-  
+        <lb ed="#Ba" n="38"/>terialis. Esse enim separatum a materia, est causa quare aliquid est intellectiuum aut aliquid intelligibile 
+        <lb ed="#Ba" n="39"/>secundum actum: quemadmodum econtra materia impedit quod aliquid non sit intellectiuum seu actu intellectum. 
+        <lb ed="#Ba" n="40"/>iuxta illud quod dicit Philosophus. iii. de Aia. In his que sunt sine materia, idem intellectus &amp; quod intelligitur, quia 
+        <lb ed="#Ba" n="41"/>scilicet illa separatio a materia, est ratio quare intellectiuum est intellectiuum: &amp; quare intelligibile, secun 
+        <lb ed="#Ba" n="42"/>dum actum est intellectum. Quare cum deus sit talis forma pura expers omnino materiae: vt habitum est su 
+        <lb ed="#Ba" n="43"/>pra: &amp; per se est speties &amp; forma omnium rerum: eo quod in sua essentia omnium continet perfectio- 
+        <lb ed="#Ba" n="44"/>nes: vt habebitur infra: Idcirco simpliciter est dicendum quod in deo est intellectus: &amp; quod ipse sit sub-a 
+        <lb ed="#Ba" n="45"/>stantia intellectualis cognitiua intellectualiter. 
+      </p>
+      <p xml:id="vn58an-d1e2550-d1e200">
+        <lb ed="#Ba" n="46"/>⁋ Ad primum in oppositum quod perfectius semper est prius vel in eodem vel in  
+        <lb ed="#Ba" n="47"/>alio: Dicendum quod verum est quando illud quod habet rationem perfectioris, &amp; quod habet rationem im- 
+        <lb ed="#Ba" n="48"/>perfectioris in eodem distare possunt abinuicem: &amp; differunt re vel intentione: secundum quod con- 
+        <lb ed="#Ba" n="49"/>tingit quando est primo in potentia, &amp; deinde vadit de potentia in actum. Non autem est verum: vbi 
+        <lb ed="#Ba" n="50"/>omnino re &amp; intentione vnum est idipsum quod alterum, &amp; differunt sola ratione: sicut contin  
+        <lb ed="#Ba" n="51"/>git in attributis deo. Semper enim ratio incompleti praecedit rationem completi quando sunt circa idem. 
+        <lb ed="#Ba" n="52"/>Et sic secundum rationem intelligendi necessario intellectus diuinus praecedit actum intelligendi: quia 
+   <!--480.xml-->
+        <pb ed="#Ba" n="233-r"/>
+        <lb ed="#Ba" n="1"/>non habet esse nisi ex intellectu. 
+      </p>
+      <p xml:id="vn58an-d1e2550-d1e224">
+        ⁋ Ad secundum: quod intellectus non est ponendus in aliquo nisi propter A 
+        <lb ed="#Ba" n="2"/>actum perfectiorem quam sit actus praecedens ante intellectum: Dicendum quod verum est vbi actus abinuicem differunt 
+        <lb ed="#Ba" n="3"/>re vel intentione. In talibus enim semper perfectior est posterior: quia aliquod addit super priorem. Non autem est 
+        <lb ed="#Ba" n="4"/>verum quando differunt sola ratione. tunc enim id quod vnicum est, ratio distinguit: &amp; de eodem simplici 
+        <lb ed="#Ba" n="5"/>quod omnium in se perfectionum rationes habet, plures &amp; varios sibi conceptus format. Vnde esse in deo 
+        <lb ed="#Ba" n="6"/>a quo essentia dicitur: est primus conceptus de eo &amp; perfectissimus &amp; infinitissimus &amp; sibi pro- 
+        <lb ed="#Ba" n="7"/>priissimus: quia continet infinitum pelagus omnium eorum quae deo conveniunt. Propter quod esse est 
+        <lb ed="#Ba" n="8"/>actus diuinus perfectissimus, continens in se omnes alios: vt intelligere &amp; velle: &amp; omnes alios qui sub 
+        <lb ed="#Ba" n="9"/>eis continentur: Sicut quod dicitur essentia, est ratio subsistendi perfectissima: continens in se omnes alias: vt 
+        <lb ed="#Ba" n="10"/>quod sit intellectus aut voluntas: siue intellectiuus &amp; volitiuus: &amp; omnes alias quae sub istis continentur. 
+        <lb ed="#Ba" n="11"/>Sicut igitur intelligere est quidam actus specialis in deo, contentus sub esse, quia sub esse determi- 
+        <lb ed="#Ba" n="12"/>natum modum essendi pertinentem ad determinatam nobilitatem in agendo dicit: sic intellectus vel intel 
+        <lb ed="#Ba" n="13"/>lectiuum in deo est quaedam ratio subsistendi specialis in deo contenta sub essentia, dicens determinatum 
+        <lb ed="#Ba" n="14"/>modum subsistendi pertinentem ad determinatam nobilitatem in subsistendo. Propter quod in di 
+        <lb ed="#Ba" n="15"/>uina essentia oportet ponere rationem intellectus, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

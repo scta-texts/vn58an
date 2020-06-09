@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="106-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe28936"> <!-- alias="vn58an-a55q1" -->
+      <head xml:id="vn58an-fe28936-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe28936-d1e107">
+        <lb ed="#Bb" n="26"/>CIrca Primum istorum arguitur: quod in diuinis non sit ponere aliquas proprietates personarum: 
+        <lb ed="#Bb" n="27"/>Primo sic. proprietas semper est aliquid extra intellectum eius cuius est proprietas 
+        <lb ed="#Bb" n="28"/>vt risibile est aliquid extra intellectum hominis. Contingit enim intelligere hominem non 
+        <lb ed="#Bb" n="29"/>cointelligendo risibile. Sed in diuinis nihil est quod est extra intellectum personarum 
+        <lb ed="#Bb" n="30"/>quia in diuinis secundum supius determinata non sunt nisi substantia &amp; relatio: &amp; 
+        <lb ed="#Bb" n="31"/> 
+       <!-- line break that needs to be removed from image coordinates -->
+        <lb ed="#Bb" n="32"/>ambo sunt de intellectu personae, vt inferius patebit: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e127">
+        ⁋ Secundo sic. proprie 
+        <lb ed="#Bb" n="33"/>tas non constituit in esse id cuius est proprietas: quemadmodum risibile non constituit hominem in esse 
+        <lb ed="#Bb" n="34"/>hominis. paternitas, &amp; filiatio, &amp; huiusmodi, constituunt personas in esse personarum: ergo non sunt proprietates ea 
+        <lb ed="#Bb" n="35"/>rum. In diuinis autem non dicuntur verius proprietates quam ista, vt infra patebit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e136">
+        ⁋ Tertio sic. in sim- 
+        <lb ed="#Bb" n="36"/>plicibus nulla est differentia inter abstractum &amp; concretum nisi in modo significandi, vt inter albedinem &amp; 
+        <lb ed="#Bb" n="37"/>album: quia album secundum philosophum solam qualitatem significat sicut &amp; albedo. sed in diuinis persona aeque simplex 
+        <lb ed="#Bb" n="38"/>est &amp; essentia, vt iam patebit inferius. nulla ergo est differentia inter patrem &amp; paternitatem: inter filium 
+        <lb ed="#Bb" n="39"/>&amp; filiationem, nisi in modo significandi tantum. Sed inter proprietatem, &amp; id cuius est proprietas, necessario est 
+        <lb ed="#Bb" n="40"/>alia differentia quam in modo significandi tantum. ergo paternitas &amp; filiatio non sunt proprietas patris &amp; filii. 
+        <lb ed="#Bb" n="41"/>Sed praeter haec &amp; consimilia in diuinis non sunt aliae proprietates personarum. ergo &amp;c. vt prius. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e153">
+        ⁋ In contrarium 
+        <lb ed="#Bb" n="42"/>est illud Damansceni li. i. ca. x. Propter patrem habent filius &amp; spiritus sanctus omnia quaecumque habent. hoc est, quia 
+        <lb ed="#Bb" n="43"/>habet ea praeter igenerationem &amp; generationem &amp; processionem. In his enim solum hypostaticis proprietatibus 
+        <lb ed="#Bb" n="44"/>abinuicem differunt. Et ca. xi. Quoniam secundum omnia vnum sunt pater &amp; filius &amp; spiritus sanctus praeter igene 
+        <lb ed="#Bb" n="45"/>rationem &amp; generationem &amp; processionem. Vnum enim deum cognoscimus in solis proprietatibus paternitatis 
+        <lb ed="#Bb" n="46"/>&amp; filiationis &amp; processionis: &amp; secundum existentiae modum differentiam intelligimus. 
+        <lb ed="#Bb" n="47"/>
+      </p>
+      <p xml:id="vn58an-fe28936-d1e169">
+        ⁋ Dicendum quod in eis quorum natura occulta est, prius quam sciatur an sint oportet scire quid  
+        <lb ed="#Bb" n="48"/>sit quod significatur per nomen, vt dicit Comm. super ca. de vacuo. iiii. physic. Occulte autem valde habent esse 
+        <lb ed="#Bb" n="49"/>proprietates in diuinis: cuius signum est multiplicitas errorum circa ipsas. Prius ergo oportet hic vi 
+        <lb ed="#Bb" n="50"/>dere quid nomine proprietatis significari intelligimus: &amp; ex hoc demum an tale quid &amp; quom in deo intelli- 
+        <lb ed="#Bb" n="51"/>gere debemus. Est igitur sciendum secundum quod Ambrosius determinat in libro de incarnati. quod tam in creatu 
+        <lb ed="#Bb" n="52"/>ris quam in diuinis quaedam sunt vocabula quae exprimunt naturam vt homo, leo, deus. Quaedam vero exprimunt 
+        <lb ed="#Bb" n="53"/>naturae modum aliquem aut qualitatem, large accepta quaelitate. Nam (vt dicit) in diuinis significatorium 
+        <lb ed="#Bb" n="54"/>generantis &amp; geniti exprimit substantiae qualitatem. Sed sciendum quod talium qualitatum quaedam sunt suba 
+        <lb ed="#Bb" n="55"/>stantiae vt substantia est, vt sunt bonitas, veritas, &amp; huiusmodi: quae in diuinis dicuntur attributa: Quae 
+   <!--227.xml-->
+        <pb ed="#Bb" n="106-v"/>
+        <lb ed="#Bb" n="1"/>dam vero suppositi: &amp; illa sunt quae hic appellantur proprietates. Et secundum hoc dicendum quod in diui 
+        <lb ed="#Bb" n="2"/>nis oportet ponere proprietates sicut &amp; attributa. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e198">
+        <lb ed="#Bb" n="3"/>⁋ Ad primum in oppositum: quod proprietas est aliquid extra intellectum eius cuius est proprie 
+        <lb ed="#Bb" n="4"/>tas: Dicendum quod verum est quando proprietas idem est quod proprium quintum vniuersale. Sic autem non sumitur hic, vt 
+        <lb ed="#Bb" n="5"/>lictum est. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e207">
+        ⁋ Ad secundum: quod proprietas non constituit in esse id cuius est proprietas: respondendum est eodem 
+        <lb ed="#Bb" n="6"/>nodo. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e212">
+        ⁋ Ad tertium: quod in simplicibus non est differentia concreti &amp; abstracti nisi in modo significandi 
+        <lb ed="#Bb" n="7"/>ec. Propter hanc rationem Mgtur Praepositinus attendens diuinam simplicitatem dixit nullam proprietatem ponen- 
+        <lb ed="#Bb" n="8"/>dam esse in diuinis, sic inquiens. Innotuit diuersas esse opiniones de proprietatibus, quidam enim pene infinitas con 
+        <lb ed="#Bb" n="9"/>stituunt, vt Mgtu Gilbertus: quidam. vi. vt Mgtur Radulphus: quidam tres, vt mgter Robertus: quidam nullam, in qua 
+        <lb ed="#Bb" n="10"/>sententia dicitur fuisse diu Mgtur luo Carnotensis: &amp; huic opinioni consentimus. Et omnes auctoritates &amp; 
+        <lb ed="#Bb" n="11"/>propotones in quibus insinuatur quod proprietates sunt in diuinis, exponit ponendo in ipsis poni abstractum indicans 
+        <lb ed="#Bb" n="12"/>pprietatem siue nomine coni quod est proprietas, siue nomine proprio quid est paternitas aut filiatio, pro concreto in 
+        <lb ed="#Bb" n="13"/>dicante personam, sic inquiens. Cum dicimus Paternitas est in patre, vel pater paternitate distinguitur: 
+        <lb ed="#Bb" n="14"/>filio, modi loquendi sunt: &amp; est sensus, paternitas est in patre. i. pater est pater: sicut cum dico: Rogo 
+        <lb ed="#Bb" n="15"/>dilectionem tuam. i. te dilectum. Cum dicimus: Pater generat filium: idem praedicatur de se: quia is est sensus. Pater 
+        <lb ed="#Bb" n="16"/>est pater filii, siue a patre est filius. Sed contra hoc (vt dicit) videntur clamare omnes auctoritates. Nan 
+        <lb ed="#Bb" n="17"/>Augustinus dicit. Proprium est patri generare: proprium est filio generari: &amp; spiritu scton, proprium est procedere. Similiter 
+        <lb ed="#Bb" n="18"/>alia est proprietas qua pater generat: alia qua filius generatur: &amp;c. Auctoritas sic intelligenda est: proprium est 
+        <lb ed="#Bb" n="19"/>patri generare. id est solus pitur generat. &amp; sic est in aliis. Hila. Proprium est prim quod sit ptre: proprium est filio quod sit filius: pro  
+        <lb ed="#Bb" n="20"/>prium est spiritu sctom quod sit spiritus sanctus. ergo alia est proprietas: &amp;c. Haec auctoritas exponatur vt praemissa: se 
+        <lb ed="#Bb" n="21"/>lus pitur est ptr &amp;c. Item Amb In personis proprietas: in essentia vnitas &amp;c. Dicimus quod auctoritas illa sic ex 
+        <lb ed="#Bb" n="22"/>onenda est: in personis proprietasi. i. personae quae sunt distinctae, &amp; sunt vnum in essentia, &amp; aequales in maiestati 
+        <lb ed="#Bb" n="23"/>adorentur. Hiero. Confitemur non tantum nomina: sed etiam nominum proprietates. Sed si diligenter attendatur, appa 
+        <lb ed="#Bb" n="24"/>ret quod non dixit: Confitemur proprietates personarum: sed nominium: &amp; proprietas dici solet eius significatio. 
+        <lb ed="#Bb" n="25"/>Est ergo sensus: confitemur non tantum nomina: sed etiam proprietates noim id e. significationes. quae sint autem 
+        <lb ed="#Bb" n="26"/>significationes nominium, exponit cum addit. i. personas. Sed loannes <name ref="#JohnDamascenus">Damascenus</name> magis videtur esse contrarius 
+        <lb ed="#Bb" n="27"/>ait. Idiomata sunt characteristica hypostaseon &amp; non naturae. idest proprietates deteriatiuae sunt 
+        <lb ed="#Bb" n="28"/>ersonarum &amp; non naturae. ldem Io. Singula hypostaseon, proprium existendi modum possidet. Sic rmndemus 
+        <lb ed="#Bb" n="29"/>idiomata &amp;c. i. personae adinuicem distiguuntur: sed non natura ab aliqua earum, quaelibet persona proprium exi 
+        <lb ed="#Bb" n="30"/>stendi modum possideti. i. quaelibet persona est vna substantia: ita quod non alia. Respondet etiam rationi quae obiicitur 
+        <lb ed="#Bb" n="31"/>contra ipsum, sic inquiens. Sed obiicitur nobis sic: nulla proprietate pitr distiguitur a filio: nec filius a pre, &amp; pte 
+        <lb ed="#Bb" n="32"/>est idem in essentia cum filio: ergo ptr est filius. Instantia. nullo accnte distiguitur ptr a filio, nec filius a pre- 
+        <lb ed="#Bb" n="33"/>&amp; pitur est idem cum filio in essentia: ergo ptr est filius. Et intendit quod seipsis distinguuntur sicut simplicia. Ali- 
+        <lb ed="#Bb" n="34"/>ter enim esset processus in infinitum. Vnde subdit. Quaeritur a nobis: si personae non distiguuntur proprietatibus, quo 
+        <lb ed="#Bb" n="35"/>distiguuntur: Ad hoc dicimus quod seipsis distinguuntur. Dicit. enim Hiero. Personae seipsis &amp; nominbus distiguum 
+        <lb ed="#Bb" n="36"/>tur: ergo pitur seipso distiguitur a filio &amp; spiritu scton, &amp; sic de aliis. Et adducit pro se vnam rationem dicens. Sed 
+        <lb ed="#Bb" n="37"/>uaritur ab illis vtrum illa proprietas quae pitrer distiguitur a filio, sit substantialis: et si hoc, ergo piter substantialitur 
+        <lb ed="#Bb" n="38"/>distinguitur a filio: ergo non est eiusdem substantiae cum filio. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e287">
+        ⁋ Reuera Praepositinus bene vidit quod proprie- 
+        <lb ed="#Bb" n="39"/>tates quae propriissime sunt proprietates in diuinis, non habent poni nisi propter necessitatem distiguendi per  
+        <lb ed="#Bb" n="40"/>sonas abinuicem. Vnde qui imaginantur tantum vnicam personam in deo, vt ludaei &amp; Gentiles, non necesse habent 
+        <lb ed="#Bb" n="41"/>ponere aliquas proprietates in illa. Idcirco postquam negauit proprietates esse in diuinis, necesse habuit 
+        <lb ed="#Bb" n="42"/>onere quod personae diuinae seipsis distinguantur. Aliter enim ponendo eas distigui, necesse erat eas pone 
+        <lb ed="#Bb" n="43"/>re distingui aliquibus quae sunt earum aliquid, quae non nisi proprietates (vt dictum est) habent appellari. Vnde di 
+        <lb ed="#Bb" n="44"/>cit Ambrosius in principio de trinitate. Non ipse pater qui filius: sed inter patrem &amp; filium generationis ex 
+        <lb ed="#Bb" n="45"/>pressa distinctio est. vt scilicet proprietate generationis actiuae &amp; passiuae distiguuntur. Sed quod personas diuina 
+        <lb ed="#Bb" n="46"/>non possumus ponere seipsis distingui nisi pro tanto quod distiguuntur per aliquid sui, hoc efficacissime at 
+        <lb ed="#Bb" n="47"/>aret quadruplici ratione contra Praepositinum: quibus apparet error fore in dicto eius, &amp; quod necessario 
+        <lb ed="#Bb" n="48"/>pportet ponere proprietates esse in deo. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e312">
+        ⁋ Quarum prima talis est. Quaecumque simplicia seipsis diffe- 
+        <lb ed="#Bb" n="49"/>runt, differunt eo quod est sui: aliter enim differrent aliquo quid est sui, &amp; aliquo non differrent. Quae  
+        <lb ed="#Bb" n="50"/>cunque autem sic differunt omnino differunt, &amp; in nullo conueniunt: quemadmodum differunt 
+        <lb ed="#Bb" n="51"/>genera praedicamentorum substantiae &amp; accidentis. Si ergo sic differrent diuinae personae, omnino differrent:  
+        <lb ed="#Bb" n="52"/>&amp; in nullo convenirent. consequens falsum est: ergo &amp; ans. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e323">
+        ⁋ Secunda talis. simplex quidlibet quod seipso secundum 
+        <lb ed="#Bb" n="53"/>totum non aliquid sui differt ab aliis simplicibus, eo penitus quo differt ab vno, &amp; ab altero. si erge 
+        <lb ed="#Bb" n="54"/>hoc modo differrent inter se personae diuinae tres: tunc pater eo penitus quo differt siue distiguitur a si 
+        <lb ed="#Bb" n="55"/>io, differt siue distiguitur &amp; a spiritu sctom. Quare cum personae diuinae non distiguuntur aliquo absoluto: quia  
+   <!--228.xml-->
+        <pb ed="#Bb" n="107-r"/>
+        <lb ed="#Bb" n="1"/>tunc differrent in substantia &amp; natura: sed solum aliquo relatiuo: vna ergo &amp; eadem relatione differret 
+        <lb ed="#Bb" n="2"/>ptur a filio &amp; spirius scton. quod si sic: ergo &amp; econverso filius &amp; spiritus sanctus vna &amp; eadem relatione differrent a 
+        <lb ed="#Bb" n="3"/>pre: &amp; essent vna eademque persona: cum in diuinis personas non multiplicat nisi relatio. Quia autem vna rela 
+        <lb ed="#Bb" n="4"/>tione filius &amp; spiritus sctuns differrent a pre, si ptr vnica relatione differret ab ambobus: patet. quia ea relatonie 
+        <lb ed="#Bb" n="5"/>quae aliqua differunt ab aliquo: &amp; referuntur ad illud: &amp; omnia relatiua eisdem relationibus adiuicem referuntur quibus ad  
+        <lb ed="#Bb" n="6"/>inuicem opponuntur. Si ant vna est relatio quae ptur refertur ad filium &amp; ad spcntum sctanm: &amp; similiter vna est relatio saltem 
+        <lb ed="#Bb" n="7"/>secundum speciem quae ambo referuntur ad patrem. quia ratio relationis consistit in hoc quod est ad aliud se hre: ad vnum autem 
+        <lb ed="#Bb" n="8"/>per relationem vnam specie n possunt referri plures: secundum plures relationes specie differentes: quemadmodum  
+        <lb ed="#Bb" n="9"/>ad patrem vnum quid est pitur vna relatione secundum speciem quae est prnitas, non pabet referri plures secundum plures relationes 
+        <lb ed="#Bb" n="10"/>specie diciturentes: cuiusmodi sunt filiatio &amp; seruitus. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e358">
+        ⁋ Tertia ratio talis est: si personae diuinae seipsis secundum totum 
+        <lb ed="#Bb" n="11"/>differunt inter se, aut ergo illud est absolutum aut respectiuum. Non absolutum: quia tunc vt prius differrent in  
+        <lb ed="#Bb" n="12"/>absolutis. Non respectiuum: quia tunc diuinae personae non essent nisi quidam respectus: quod est contra illud <name ref="#Augustine">Augustinus</name> de 
+        <lb ed="#Bb" n="13"/>tritate. Dem quod relatiue dicitur, aliquid est praeter hoc quod ad aliud dicitur. Et cum ptur &amp; filius eodem respectu referuntur ad  
+        <lb ed="#Bb" n="14"/>spnium sctantum, eadem persona omnino essent ptr &amp; filius sicut &amp; sunt vnum principium spiritus scti. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e372">
+        ⁋ Ex quo su- 
+        <lb ed="#Bb" n="15"/>mitur quaerta ratio ad idem quam inducit contra se Praepositinus, talis. Si piter &amp; filius sunt vnum principium spiritus 
+        <lb ed="#Bb" n="16"/>scti: sed non sunt vnum in persona: ergo sunt vnum in proprietate quae referuntur ad spntum sctanm: &amp; ideo in deo est 
+        <lb ed="#Bb" n="17"/>ponere proprietatem. et si vnam, eadem ratione &amp; plures. Et ramendet Praepositinus dicens quod ideo vnum sint prin 
+        <lb ed="#Bb" n="18"/>cipium spiritus scti: quia vno modo spirant, quod non valet ei ad suum propositum: quia non spirarent eodem modo nisi es 
+        <lb ed="#Bb" n="19"/>set aliquod idem in eis quo differrent a spiritus scto: quod non potest esse nisi proprietas: quia ratione substantiae communis 
+        <lb ed="#Bb" n="20"/>non sunt vnum principium spiratiuum. Aliter enim ipse spiritus sctuns spiraret. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e388">
+        ⁋ Ad argumentum ergo tertium 
+        <lb ed="#Bb" n="21"/>principale supra inductum, quod in simplicibus non differant abstractum &amp; concretum nisi in modo significandi:  
+        <lb ed="#Bb" n="22"/>Dicendum quod est quoddam simplex in quo non est nisi pura vnitas significata: &amp; nullo modo aliquorum 
+        <lb ed="#Bb" n="23"/>pluralitas: qualis significatur hoc nomine deus, vel hoc nomine sapientia. Est vero aliud simplex in quo ali 
+        <lb ed="#Bb" n="24"/>quo modo est significata pluralitas: non tamen repugnans simplicitati. vt in hoc nomine persona vel ptr aut sfi 
+        <lb ed="#Bb" n="25"/>lius aut spiritus sctuns. De simplici primo modo bene procedit obiectio: sed tale simplex non est persona in diui- 
+        <lb ed="#Bb" n="26"/>nis: sed secundo modo. Et de illo non est verum quod abstractum &amp; concrerum non differant nisi in modo significandi 
+        <lb ed="#Bb" n="27"/>imo differunt &amp; in significato: quia abstractum significat aliquid eius quod significat concretum, vt illud a quo  
+        <lb ed="#Bb" n="28"/>nomen quasi formaliter imponitur: quod est ipsa proprietas. Concretum vero cum hoc est significat ipsam substan- 
+        <lb ed="#Bb" n="29"/>tiam conem, vt infra patebit. Et secundum hoc quia proprietas cadit quasi foraliter in significato personae, ipsa 
+        <lb ed="#Bb" n="30"/>est substantialis personae, secundum quod substantiale distiguitur contra accuntale. Non tamen ex hoc sequitur quod sit substan- 
+        <lb ed="#Bb" n="31"/>tia: neque quod substantialiter, hoc est secundum substantiam, vna persona distinguatur ab alia. Bene tamen potest dici 
+        <lb ed="#Bb" n="32"/>quod substantialiter ex opposito ei quod est distingui accntaliter. Et sic non valet ratio quam pro se inducit 
+        <lb ed="#Bb" n="33"/>Praepositinus. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e419">
+        ⁋ Quod autem ponit Praepositinus quod omnes praedicationes quae videntur insinuare proprietates esse in  
+        <lb ed="#Bb" n="34"/>deo, debent exponi emphatica loquutione ponendo abstractum pro concreto: non est verum. Si enim secundum  
+        <lb ed="#Bb" n="35"/>quod dicit, idem est dicere paternitas est in pirse aut piter generat, quod piter est pitre: tunc simliter idem esset dicere 
+        <lb ed="#Bb" n="36"/>ptr generat: &amp; simiter pater spirat: quod pitr est. Quare cum patrem esse patrem semper est idem: &amp; quaecumque vni &amp; ei 
+        <lb ed="#Bb" n="37"/>dem sunt eadem, inter se sunt eadem, idem ergo esset dicere: Pliitur generat &amp; pter spirat, &amp; per consequens eadem esset 
+        <lb ed="#Bb" n="38"/>persona generata &amp; spirata: quod falsum est. Aliter hoc improbat Magtur. i. Sententiarum distin. xxvi. ca. Hic quaeri 
+        <lb ed="#Bb" n="39"/>potest. Similiter quod dicit quod idem est dicere, proprium est pilrsiophs generare, &amp; quod solus ptr generat, non est verum: licet 
+        <lb ed="#Bb" n="40"/>vnum concomitatur alterum. Non enim solus generaret nisi solus haberet proprietatem quae est ad generare. Auctoritatem 
+        <lb ed="#Bb" n="41"/>Ambrosii forte bene exponit: quia nihil in diuinis est adorandum nisi ratione deitatis. Propter quod &amp; 
+        <lb ed="#Bb" n="42"/>vnica adoratione trinitas est adoranda. Sed de hoc nihil ad praesens: nec obstat quando proprietates sint 
+        <lb ed="#Bb" n="43"/>in diuinis: etsi ex hoc adorandae quod radicantur in essentia deitatis, &amp; diuinas personas constituunt. Et 
+        <lb ed="#Bb" n="44"/>quod dicit attendendum in auctoritate Hieronymi: quod non dicit proprietates personarum: sed nominum: non  
+        <lb ed="#Bb" n="45"/>oportet. Quod plane exprimit Hierony. in principio auctoritatis sic inquiens. Exceptis vocabulis quae 
+        <lb ed="#Bb" n="46"/>proprietatem indicant personarum, quicquid de vna persona dicitur de tribus potest intelligi. &amp; infra. Impietatem 
+        <lb ed="#Bb" n="47"/>Sabellii declinantes tres personas expressas sub proprietate distinguimus. Et sic proprietates sunt perso- 
+        <lb ed="#Bb" n="48"/>narum, vt constituentes &amp; distinguentes eas: &amp; sunt nominium vt a quibus nominia quasi foraliter imponuntur: quas 
+        <lb ed="#Bb" n="49"/>tamen solas non significant nomina: sed cum substantia cmouni: quae ambo includuntur in significato personae. Propter quod 
+        <lb ed="#Bb" n="50"/>addit. i. personas: non quia persona significetur per nomen, &amp; non personae proprietas, vt. vult Praepositinus. Vnde 
+        <lb ed="#Bb" n="51"/>&amp; Magtur Sententiarum l id es. dist. xxv. ca. vlti. illa auctoritate probat quod persona ibi stat pro proprietate. &amp; 
+        <lb ed="#Bb" n="52"/>dist. xxvi. ca. Quocirca. Dictum autem Damasceni li. iii. ca. vi. manifeste exponit contra intentionem litterae 
+        <lb ed="#Bb" n="53"/>quae sic iacet. Neque differunt abiuicem hypostases secundum substantiam sed secundum accntia, quae sunt characteristica 
+        <lb ed="#Bb" n="54"/>scilicet designatiua idiomata. characteristica vero hypostaseos &amp; non naturae. Etenm hypostasim deter 
+        <lb ed="#Bb" n="55"/>minant subiecta cum accntibus. Quare quod cone est cum proprietatibus habet hypostasis. i. persona. Apo- 
+        <lb ed="#Bb" n="56"/>pellat autem largissimo nomine accidetia ipsas proprietates. Ecce quam plane non intendat per haec verba solum 
+   <!--229.xml-->
+        <pb ed="#Bb" n="107-v"/>
+        <lb ed="#Bb" n="1"/>personas inter se esse distinctas, &amp; non naturam a personis, vt dicit Praepositinus: sed quod personae distinctae sunt 
+        <lb ed="#Bb" n="2"/>nter se secundum proprietates: &amp; non secundum substantiam: quae proprietates determinatiuae sunt substantiae non  
+        <lb ed="#Bb" n="3"/>naturae, vt infra declarabitur: ita quod persona in suo significato &amp; substantiam &amp; proprietatem contineat. Et 
+        <lb ed="#Bb" n="4"/>uod dicit in exponne secundae auctoritatis de libr. iii. ca. v. quod quaelibet persona, proprium modum existendi possi 
+        <lb ed="#Bb" n="5"/>de id est quaelibet persona est vna substantia: ita quod non alia: manifeste est contra illud Damas. li. i. c. xi. Secundum omni 
+        <lb ed="#Bb" n="6"/>vnum sunt pater, filius, &amp; spiritus sanctus, praeter ingenerationem, generationem, &amp; processionem. vnum enim deum co- 
+        <lb ed="#Bb" n="7"/>gnoscimus: in solis vero proprietatibus &amp; paternitatis &amp; filiationis &amp; processionis &amp; secundum camm &amp; cau 
+        <lb ed="#Bb" n="8"/>sale: quia pater est causa, &amp; filius ex hac causa, &amp; spiritus sanctus, &amp; secundum perfectitudinem hypostaseos scilicet 
+        <lb ed="#Bb" n="9"/>existentiae modum, differentiam intelligimus. Ecce, quia per illud quod dicit: quaelibet persona, proprium modum existen 
+        <lb ed="#Bb" n="10"/>di possidet: non intelligit quod quaelibet persona est substantia deitatis, &amp; non alia: sed quod quaelibet persona habet 
+        <lb ed="#Bb" n="11"/>proprium modum existendi: hoc est subsistendi secundum suam proprietatem scilicet vt a qua alia, vel quae ab alia, vel quae ab  
+        <lb ed="#Bb" n="12"/>aliis. Et secundum hoc in diuinis vsitatur triplex modus interrogandi siue praedicandi: qui sunt per quid, quid respi 
+        <lb ed="#Bb" n="13"/>cit substantiam: per qui, qui respicit personam: per quomodo, qui respicit proprietatem. Sed qui &amp; quomodo re- 
+        <lb ed="#Bb" n="14"/>ducuntur ad vnum modum. scilicet relationis, quia quid respondet ei quod refertur, quom respondet ei quo refertur, siue 
+        <lb ed="#Bb" n="15"/>nominaliter siue participialiter significetur. 
+      </p>
+      <p xml:id="vn58an-fe28936-d1e509">
+        ⁋ Et quod arguit Praepositinus quod non sequitur, personae non distin-  
+        <lb ed="#Bb" n="16"/>guuntur proprietatibus: ergo non distinguuntur: Sicut non sequitur, Non distinguuntur accidentibus: ergo 
+        <lb ed="#Bb" n="17"/>non distinguuntur: Dicendum quod non est simile: quia in eis quae distinguuntur secundum accidentia: restat alia distin 
+        <lb ed="#Bb" n="18"/>ctio quae est secundum substantiam. propter quod non sequitur: si aliqua non distinguuntur secundum substantiam: quod non di-  
+        <lb ed="#Bb" n="19"/>stinguuntur. In diuinis autem personis praeter distinctionem secundum proprietates: non restat alia distinctio, vt visum 
+        <lb ed="#Bb" n="20"/>est. Et ideo bene sequitur: Non distinguuntur secundum proprietates: ergo non distinguuntur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

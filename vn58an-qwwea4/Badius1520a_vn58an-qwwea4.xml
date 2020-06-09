@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwea4"> <!-- alias="vn58an-a4qprae" -->
+      <head xml:id="vn58an-qwwea4-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwea4-d1e107">
+        <lb ed="#Ba" n="5"/>Artic. IIII. de appetitu &amp; desiderio sciendi in homine. 
+        <lb ed="#Ba" n="6"/>Via scibilia non sunt facta homini cognoscibilia, nisi vt aliquando  
+        <lb ed="#Ba" n="7"/>ea sciat &amp; cognoscat: ad sciendum autem ea non se extenderet nisi sci- 
+        <lb ed="#Ba" n="8"/>re ea appeteret: Idcirco postquam visum est de qualitate scibilium ab ho-  
+        <lb ed="#Ba" n="9"/>mine, videndum est de appetitu siue desiderio sciendi in ipso. Et circa 
+        <lb ed="#Ba" n="10"/>hoc quaeruntur nouem. 
+        <lb ed="#Ba" n="11"/>Primum: vtrum Homo appetat scire. 
+        <lb ed="#Ba" n="12"/>Secundum: vtrum omnis homo appetat scire. 
+        <lb ed="#Ba" n="13"/>Tertium: vtrum homo naturaliter appetat scire. 
+        <lb ed="#Ba" n="14"/>Quartum: vtrum omnes homines aequaliter appetant scire. 
+        <lb ed="#Ba" n="15"/>Quintum: vtrum homo appetat scire ea quae notitiam rationis naturalis excedunt. 
+        <lb ed="#Ba" n="16"/>Sextum: vtrum homo appetat scire omnia. 
+        <lb ed="#Ba" n="17"/>Septimum: vtrum homo aequaliter appetat scire singula. 
+        <lb ed="#Ba" n="18"/>Octauum: vtrum sit aliquod vnum quod homo principaliter appetat scire. 
+        <lb ed="#Ba" n="19"/>Nonum: vtrum propter illud quod homo principaliter appetit scire, appetat omnia alia scire.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

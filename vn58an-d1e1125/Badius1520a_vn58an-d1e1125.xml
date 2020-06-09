@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="91-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1125"> <!-- alias="vn58an-a13q2" -->
+      <head xml:id="vn58an-d1e1125-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e1125-Hd1e107" type="question-title">Utrum theologia possit addisci ab homine sine speciali illustratine divina</head>
+      <p xml:id="vn58an-d1e1125-d1e110">
+   <!--196.xml-->
+            <pb ed="#Ba" n="91-r"/>
+        <lb ed="#Ba" n="1"/>CIrca secundum arguitur quod haec scientia potest addisci ab homine sine speciali illustratio 
+        <lb ed="#Ba" n="2"/>ne diuina. Primo sic. super illud. i. Corinth. xiii. Si nouero omnia mysteria. dicit 
+        <lb ed="#Ba" n="3"/>Glos. Occulta noui &amp; veteris testamenti: quae mali sciunt. &amp; hoc non nisi addiscer 
+        <lb ed="#Ba" n="4"/>do. haec sunt illa quae sunt huius scientiae. sed mali non percipiunt diuinam illu 
+        <lb ed="#Ba" n="5"/>strationem specialem: immo secundum <name ref="#Augustine">Augustinus</name> tenebris peccatorum eam ex- 
+        <lb ed="#Ba" n="6"/>cludunt. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1125-d1e133">
+        ⁋ Secundo sic: quod summum est in cognitione huius scientiae, est 
+        <lb ed="#Ba" n="7"/>pertinens ad diuinarum personarum distinctionem: &amp; substantiae vnitatem. sed hoc Philosophi po 
+        <lb ed="#Ba" n="8"/>tuerunt discere sine luminis specialis infusione: naturalis rationis persuasione: secundum quod dicit Au 
+        <lb ed="#Ba" n="9"/>gust. vii. confes. lbic scilicet in libris Platonis) legi omnino multis &amp; multiplicibus suaderi rationibus quod in prin 
+        <lb ed="#Ba" n="10"/>cipio erat verbum: &amp; verbum erat apud deum &amp;c. huiusmodi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1125-d1e145">
+        ⁋ Ad oppositum est Augu. xi. de cicite 
+        <lb ed="#Ba" n="11"/>dei. Scriptura quae canonica appellatur: de his rebus est: quas ignorare non expedit: nec per nos ipsos 
+        <lb ed="#Ba" n="12"/>nosse idonei sumus. sed ad talia discenda a nobis requiritur in nobis lumen supernaturale. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1125-d1e152">
+        <lb ed="#Ba" n="13"/>⁋ Item ibidem in fi. eiusdem ca. Haec scientia est de his quae a nostris sensibus interioribus remota 
+        <lb ed="#Ba" n="14"/>sunt. talia autem sine specialis luminis illustratione discere non possumus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1125-d1e159">
+        <lb ed="#Ba" n="15"/>⁋ Dicendum ad hoc secundum superius determinatam: quod homo naturaliter ordi 
+        <lb ed="#Ba" n="16"/>natus est: vt quaedam possit scire ad quae solo adiutorio luminis naturalis &amp; illustrationis genera 
+        <lb ed="#Ba" n="17"/>lis potest attingere: &amp; aliquam quae omnem eius facultatem naturalem excedunt: &amp; hoc tum pro- 
+        <lb ed="#Ba" n="18"/>pter eius debilitatem, quod in tam excellenti cognoscibili sigi non potest: tum propter eius obtusita- 
+        <lb ed="#Ba" n="19"/>tem: qua illustratione generali &amp; vi luminis naturalis illa inspicere non sufficit. Quare si talia de 
+        <lb ed="#Ba" n="20"/>bet scire: necessario requiritur aliquid supernaturale, &amp; speciale ei infusum, quo in virtute fortifice 
+        <lb ed="#Ba" n="21"/>tur &amp; eleuetur &amp; in visu acuatur. hoc autem est quod apellamus speciale lumen speciali illustratio-  
+        <lb ed="#Ba" n="22"/>ne infusum: quod est quasi sanitas spiritualium oculorum mentis, quod sufficit intellectui scibilia 
+        <lb ed="#Ba" n="23"/>supernaturalia illustrare vt ipsa scire possit. Cum ergo de talibus quae sunt secundi generis sit ista 
+        <lb ed="#Ba" n="24"/>scientia vt infra videbitur, ab homine disci non potest omnino sine speciali illustratione diuina: se- 
+        <lb ed="#Ba" n="25"/>cundum quod de hoc habitum est supra snfficienter art. iii. q. v. &amp;. art. v. q. iii. &amp; de hoc dicit <name ref="#Augustine">Augustinus</name> in epi 
+        <lb ed="#Ba" n="26"/>stola ad Consentium. Cum coepero te in tanti huius secreti intelligentiam introducere: nisi deus in 
+        <lb ed="#Ba" n="27"/>tus adiuuerit omnino non potero. &amp; ibidem. Tu autem charissime ora fortiter, &amp; fideliter: vt det 
+        <lb ed="#Ba" n="28"/>tibi dominus intellectum: ac sic ea quae forinsecus adhibet diligentia praeceptoris siue doctoris, pos 
+        <lb ed="#Ba" n="29"/>sint esse fructuosa: quoniam neque qui plantat est aliquid: neque qui rigat: sed qui incrementum dat deus 
+      </p>
+      <p xml:id="vn58an-d1e1125-d1e197">
+        <lb ed="#Ba" n="30"/>⁋ Est igitur sciendum quod humana ratio aliter mouetur in acquisitione scientiae de rebus naturali 
+        <lb ed="#Ba" n="31"/>bus quae sibi subsunt. Aliter vero in acquisitione rerum supernaturalium quae eam excedunt. Quoniam in acqui 
+        <lb ed="#Ba" n="32"/>sitione scientiae rerum naturalium motu proprio procedit ex naturaliter sibi cognitis ad incognita 
+        <lb ed="#Ba" n="33"/>via naturalis inuestigationis cognoscenda. In acquisitione vero scientiae rerum supernaturalium 
+        <lb ed="#Ba" n="34"/>sequtur motum naturae intellectualis superioris supernaturaliter cognoscenda ei omnino reuelantis: ad 
+        <lb ed="#Ba" n="35"/>modum quo corpora elementaria mouentur duplici motu: vno sibi naturali: altero quo sequuntur 
+        <lb ed="#Ba" n="36"/>motum corporum superiorum: &amp; simiter se habent in motu suo spherae inferiores respectu primi mobilis. 
+      </p>
+      <p xml:id="vn58an-d1e1125-d1e215">
+        <lb ed="#Ba" n="37"/>⁋ Ad primum in oppositum: quod mali possunt scire mysteria huius scientiae: Dicen 
+        <lb ed="#Ba" n="38"/>dum quod verum est: sed hoc non sine alicuius specialis luminis illustratione. Non dico gratiae gratum fac 
+        <lb ed="#Ba" n="39"/>entis qua mali carent: sed gratis datae, quae plerumque datur malis in vsum fidelium. 
+      </p>
+      <p xml:id="vn58an-d1e1125-d1e224">
+        ⁋ Ad secundum 
+        <lb ed="#Ba" n="40"/>quod philosophis cognouerunt naturali ratione personarum distinctionem &amp; substantiae vnitatem: Dicendum 
+        <lb ed="#Ba" n="41"/>quod non est verum. Quia enim inuenit Augusti. illud, In principio erat verbum &amp;c. in libris Platonis: hoc non 
+        <lb ed="#Ba" n="42"/>posuit Plato in suis libris tanquam a se inuentum: sed tanquam a doctrina aliorum acceptum scilicet propheta- 
+        <lb ed="#Ba" n="43"/>rum: quoniam vt dicit <name ref="#Augustine">Augustinus</name> ii. de doctrina christia. probabile est Platonem tempore Hieremiae prophetae 
+        <lb ed="#Ba" n="44"/>profectum fuisse in Aegyptum: &amp; quod ibi per Hieremiam prophetam niis literis fuerit imbutus: &amp; ideo ex hoc 
+        <lb ed="#Ba" n="45"/>potuit scribere ea quae fide laudantur. 
+      </p>
+      <p xml:id="vn58an-d1e1125-d1e244">
+        ⁋ Sed contra hoc arguet aliquis, ex eo quod dicit <name ref="#Augustine">Augustinus</name> super Ioan. 
+        <lb ed="#Ba" n="46"/>ser. ii. Hi (inquit) de quibus dicit Apostolus, Qui cum cognouissent deum: vident hoc quod dixit 
+        <lb ed="#Ba" n="47"/>loan, quia per verbum dei facta sunt omnia: &amp; quia vnigenitum filium habuit deus. Et dicendum 
+        <lb ed="#Ba" n="48"/>quod viderunt deum &amp; diuinam mentem: quam osne vocabant, aut filium: non vt distinctam personam 
+        <lb ed="#Ba" n="49"/>secundum quod fidelis tenet: sed vt artem &amp; conceptum quendam essentialem diuinae mentis, perti- 
+        <lb ed="#Ba" n="50"/>nentem ad essentiam: licet filio approprietur. vnde appropriata viderunt: licet non propria: &amp; licet 
+        <lb ed="#Ba" n="51"/>circa illa ex naturalibus multipliciter persuaserunt veritatem: non tamen attingebant vnquam ad illa 
+        <lb ed="#Ba" n="52"/>vt sunt propria huic scientiae: quia talia excaecant magis quam illuminant: iuxta illud quod dicit Gloss. 
+        <lb ed="#Ba" n="53"/>Exo. in fine. Scriptura sancta sanctis. &amp; suam ignorantiam fatentibus lumen est, iniquis vero &amp; scien 
+        <lb ed="#Ba" n="54"/>tiam iactantibus nubes est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

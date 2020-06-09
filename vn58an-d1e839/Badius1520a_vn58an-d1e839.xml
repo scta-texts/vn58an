@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="70-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e839"> <!-- alias="vn58an-a9q1" -->
+      <head xml:id="vn58an-d1e839-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e839-Hd1e107" type="question-title">Utrum idem sit auctor utriusque testamenti</head>
+      <p xml:id="vn58an-d1e839-d1e110">
+        <lb ed="#Ba" n="37"/>Irca primum arguitur: quod non sit idem auctor vtriusque testamenti. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e115">
+        ⁋ Primo 
+        <lb ed="#Ba" n="38"/>sic. Sapientis non est mutare quod statuit: quia variatio actionis est nota impro 
+        <lb ed="#Ba" n="39"/>uisionis. Cum ergo varium &amp; diuersum est nouum testamentum a veteri: qui  
+        <lb ed="#Ba" n="40"/>statuit vetus, non statuit nouum. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e125">
+        ⁋ Secundo sic. eiusdem non est statuere contraria. 
+        <lb ed="#Ba" n="41"/>Statuta nouae legis contraria sunt statutis veteris legis. ibi enim dicitur: Oculum 
+        <lb ed="#Ba" n="42"/>pro oculo: hic dicitur: Qui te percusserit in vnam maxillam, praebe ei &amp; alteram. ergo  
+        <lb ed="#Ba" n="43"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e134">
+        ⁋ Tertio sic. ab optimo praecepta crudelitatis non procedunt, sed misericordiae: praecepta veteris te 
+        <lb ed="#Ba" n="44"/>stamenti sunt crudelitatis: vt patet, oculum pro oculo. Cum ergo optimus sit auctor noui testamenti:  
+        <lb ed="#Ba" n="45"/>quod patet in praeceptis misericordiae quae sunt in nouo testamento: ille non est auctor veteris. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e141">
+        ⁋ Quarto 
+        <lb ed="#Ba" n="46"/>sic. Matth. v. Sit sermo vester est est: non non. quod amplius est a malo est. sed amplius erat quod in lege erat 
+        <lb ed="#Ba" n="47"/>praeceptum, cum dictum est. Reddes domino iuramenta tua. ergo illud erat a malo. Sed quod a malo est: non est 
+        <lb ed="#Ba" n="48"/>a deo bono statutum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e150">
+        ⁋ Quinto sic. ille non est auctor bonus qui non dat praecepta bona:  
+        <lb ed="#Ba" n="49"/>talis erat auctor vete. test. Exe. xx. Ego dedi eis praecepta non bona, &amp; iudicia in quibus non  
+        <lb ed="#Ba" n="50"/>viuent: &amp; pollui eos in muneribus suis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e157">
+        ⁋ Contra. super illud apostoli ad Gali. Abraham 
+        <lb ed="#Ba" n="51"/>duos habuit filios. dicit Chrysost. Sicut ergo diuersae sunt foeminae, sed vir vnus vtriusque: Sic &amp; 
+        <lb ed="#Ba" n="52"/>duo sunt testamenta: vnus vero vtriusque legis est conditor. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e164">
+        <lb ed="#Ba" n="53"/>⁋ Dicendum secundum quod recitat <name ref="#Augustine">Augustinus</name> in li. de haeresibus. Manichaei deum qui legen 
+        <lb ed="#Ba" n="54"/>per Moysem dedit: &amp; Hebraeis locutus est: dicunt non esse verum deum: sed vnum ex principibus tene- 
+   <!--155.xml-->
+        <pb ed="#Ba" n="70-v"/>
+        <lb ed="#Ba" n="1"/>brarum: &amp; illum condidisse vetus testamentum. Deum autem verum condidisse nouum non vetus, quorum  
+        <lb ed="#Ba" n="2"/>rationes ad hoc supra inductae sunt. Quorum error tam absurdus est: quod improbatione non indi  
+        <lb ed="#Ba" n="3"/>get neque dignus est. Non enim est sapientis contra quamlibet positionem fatuam disputare. constat 
+        <lb ed="#Ba" n="4"/>enim quod inimicus humani generis princeps tenebrarum leges salubres hominibus non daret:  
+        <lb ed="#Ba" n="5"/>maxime quae ipsum hominem ad seruiendum deo vero ordinarent. Cum etiam secundum Manichaeos contra 
+        <lb ed="#Ba" n="6"/>rii erant principes tenebrarum, &amp; deus lucis: &amp; adinuicem non cessabant pugnare: Sed potius si 
+        <lb ed="#Ba" n="7"/>posset talis praecepta legis peruerteret. Quare cum huiusmodi leges &amp; praecepta plurima de vno vero 
+        <lb ed="#Ba" n="8"/>deo colendo: &amp; proximum diligendo contineat vetus testamentum: nullo modo fatendum est: ipsum  
+        <lb ed="#Ba" n="9"/>esse conscriptum ab aliquo principe tenebrarum: vel contrario vni deo vero. Propter quod dicit 
+        <lb ed="#Ba" n="10"/>Chrysost. si haec ab initio diaboli lex fuisset: numquam intantum profecisset. nisi enim illa praeissent: non tam 
+        <lb ed="#Ba" n="11"/>facile ista fuissent secuta. Si a diabolo esset vetus testamentum: nequaquam simulacra coli vetuisset: 
+        <lb ed="#Ba" n="12"/>ex aduerso autem sui cultum etiam praecepisset. hoc enim diabolus fieri volebat. Eirmiter ergo credendum  
+        <lb ed="#Ba" n="13"/>est ab illo esse conscriptum &amp; editum vetus testamentum a quo et nouum. Maxime cum secundum Au 
+        <lb ed="#Ba" n="14"/>gustinum. xvi. de civitate dit Vetus testamentum non est aliud nisi noui occultatio: &amp; nouum non est aliud  
+        <lb ed="#Ba" n="15"/>nisi veteris reuelatio. &amp; ideo dicit super Io. Ille dedit legem qui dedit gratiam. Sed legem per 
+        <lb ed="#Ba" n="16"/>seruum misit: cum gratia ipse descendit. Vnde dicitur Numeri. xxxii. de tabulis veteris testa- 
+        <lb ed="#Ba" n="17"/>menti: quia scriptura dei erat sculpta in tabulis. Nos igitur (vt dicit Chrysostomus super Matthicorum  
+        <lb ed="#Ba" n="18"/>vnum atque eundem vtriusque testamenti asserimus conditorem: qui ad varias hominum vtilitates 
+        <lb ed="#Ba" n="19"/>vtrumque testamentum diuersis tporibus dispensauit. Quod manifeste testatus est Hieremi. xxxi. cum dixit 
+        <lb ed="#Ba" n="20"/>in persona domini. Eeriam domui lsrael, &amp; domui luda fpedus nouum: non secundum pactum quod pe 
+        <lb ed="#Ba" n="21"/>pigi cum patribus vestris &amp;c. Qui ergo pepigit cum patribus in veteri testamento, pactum fe- 
+        <lb ed="#Ba" n="22"/>cit cum filiis in nouo testamento. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e227">
+        <lb ed="#Ba" n="23"/>⁋ Ad primum in oppositum: quod sapientis non est mutare quid statuit: Dicendum quod sa 
+        <lb ed="#Ba" n="24"/>piens aliquando aliquid statuit propter id quid est in se rectum &amp; perfectum: aliud vero statuit quia  
+        <lb ed="#Ba" n="25"/>congruum &amp; vtile alii. Quid statuit primo modo non mutat. Sic autem statuit praecepta nouae legis: cui 
+        <lb ed="#Ba" n="26"/>nulla alia supuentura sunt: vt dictum est supra. Quod vero statuit secundo modo, bene mutat. Sicut me- 
+        <lb ed="#Ba" n="27"/>dicus statuit diaetam convalescenti, quam mutat cum convalescens confirmatus est in sanitate: &amp; sic statuit 
+        <lb ed="#Ba" n="28"/>deus vetus testamentum tanquam veteri populo congruum: cui non posset conpetere nouum, quod postmodum  
+        <lb ed="#Ba" n="29"/>conpetens fuit nouo ppistso, vt dictum est supra. Et hoc est quod dicit <name ref="#Augustine">Augustinus</name> de vera rel. Quicumque ideo  
+        <lb ed="#Ba" n="30"/>negat vtrumque testamentum ab vno deo esse: quia non eisdem sacramentis tenetur populus ntur: quibus ludaei te 
+        <lb ed="#Ba" n="31"/>nebantur, potest dicere non posse fieri vt idem paterfamilias iustissimus aliud imperet eis quibus seruitu 
+        <lb ed="#Ba" n="32"/>tem duriorem vtilem iudicat, aliud eis quos in filiorum gradum adoptare dignatur. Si autem praece 
+        <lb ed="#Ba" n="33"/>pta vitae mouent: quod in veteri lege minora sunt, in euangelio maiora: et ideo putant non ad vnum 
+        <lb ed="#Ba" n="34"/>deum vtraque pertinere: potius putent se perturbari cum medicus alia per ministros suos im- 
+        <lb ed="#Ba" n="35"/>becillioribus praecipiat: alia per seipsum, valentibus. Vt enim ars medicinae cum eadem maneat:  
+        <lb ed="#Ba" n="36"/>neque vllo pacto ipsa mutetur: mutat tamen praecepta: quia mutabilis est valetudo: ita &amp; diui 
+        <lb ed="#Ba" n="37"/>na prouidentia cum sit ipsa omnino immutabilis, mutabili tamen creaturae subuenit, &amp; pro diuer 
+        <lb ed="#Ba" n="38"/>sitate morborum alias alia iubet ac vetat. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e267">
+        ⁋ Ad secundum: quod idem non statuit contraria: dicendum quod scri 
+        <lb ed="#Ba" n="39"/>ptura in nullo continet contraria. tunc enim contineret falsa: cum contraria non possint simul 
+        <lb ed="#Ba" n="40"/>esse vera: licet illud opinati sunt Manichaei: secundum plura capitula quae inducunt, quasi contraria 
+        <lb ed="#Ba" n="41"/>vtriusque legis, quae <name ref="#Augustine">Augustinus</name> ostendit concordantia in i. contra Adamantium &amp; contra Faustum. Vnde quid  
+        <lb ed="#Ba" n="42"/>ibi praecipitur, oculum pro oculo, non est contrarium illi quod hic dicitur. Si quis te percusserit in  
+        <lb ed="#Ba" n="43"/>vna maxilla: praebe. &amp;c. Nam vt dicit Chrysostomus, illud praecepit vt percussori timorem in-  
+        <lb ed="#Ba" n="44"/>cuteret: Hoc vero praecepit vt percussum ad tolerantiam praeparet: percussorem supplicio ter- 
+        <lb ed="#Ba" n="45"/>rendo: &amp; percussum virtute patientiae consolidando. &amp; hoc congruebat vtrique tempori &amp; vtrique po 
+        <lb ed="#Ba" n="46"/>pulo: vt patet ex supradictis. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e290">
+        ⁋ Ad tertium: quod ab optimo non procedunt praecepta crudelita- 
+        <lb ed="#Ba" n="47"/>tis: dicendum quod licet lex antiqua dicta sit lex crudelitatis propter edicta dura valde: tamen erat 
+        <lb ed="#Ba" n="48"/>lex benignitatis: aspiciendo ad intentionem legislatoris: &amp; statum populi veteris. Vnde Chry 
+        <lb ed="#Ba" n="49"/>sostomus loquens de praecepto Talionis dicit. Illud praecepit non vt mutuo nobis oculos eru 
+        <lb ed="#Ba" n="50"/>amus: sed vt innocentes manus contineamus. Nihil enim aliud intendebat legislator per prae- 
+        <lb ed="#Ba" n="51"/>cepta vtriusque testamenti: quam homines ad pacem &amp; ad concordiam trahere: ad quam illos opor 
+        <lb ed="#Ba" n="52"/>tebat compellere tanquam induratos peccatis timore pcenae: &amp; ita per dura praecepta: Istos autem 
+        <lb ed="#Ba" n="53"/>tanquam virtuti aptos: ad idem competebat trahere amore iustitiae: &amp; ita per praecepta lenita- 
+        <lb ed="#Ba" n="54"/>tis. Vnde &amp; <name ref="#Augustine">Augustinus</name> de vtilitate credendi. Illam legem dicimus vtiliter esse latam: quod  
+   <!--156.xml-->
+        <pb ed="#Ba" n="71-r"/>
+        <lb ed="#Ba" n="1"/>homines qui reuocari a peccatis ratione non poterant, tali lege coercendi erant scilicet poenarum 
+        <lb ed="#Ba" n="2"/>quae videri a stultis possunt minis &amp; terroribus. a quibus gratia Christi cum liberat, legem il 
+        <lb ed="#Ba" n="3"/>lam non damnat: sed obtemperare suae charitati non seruire timori legis inuitat. Lex enim pae- 
+        <lb ed="#Ba" n="4"/>dagogus noster in Christo erat. Ille igitur paedagogum dedit hominibus quem timerent, qui ma 
+        <lb ed="#Ba" n="5"/>gistrum postea quem diligerent. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e328">
+        ⁋ Ad quartum: Quod amplius est, a malo est: Dicendum quod l a malo 
+        <lb ed="#Ba" n="6"/>non supponit ibi pro legis institutore: vt dixerunt Manichaei: sed pro institutionis occasione:  
+        <lb ed="#Ba" n="7"/>quia vt dicit Chrysostomus: accipientium legem infirmitas exigebat. Et similiter vt dicit super 
+        <lb ed="#Ba" n="8"/>Matthic. v. nunc iurare a malo est. i. ab infirmitate non iurantis: sed qui iurare cogit. Vel stat ibi 
+        <lb ed="#Ba" n="9"/>pro legis imperfectione. Vnde Chrysostomus. Sic Christus a malo esse dixit: non vt ostenderet 
+        <lb ed="#Ba" n="10"/>ex diabolo esse: veterem legem: sed vt vehementer ab antiqua vilitate reuocaret. Sicut ma-  
+        <lb ed="#Ba" n="11"/>milla nutricis cum omne suum impleuerit officium, &amp; puerum ad mensuram firmioris aeta- 
+        <lb ed="#Ba" n="12"/>tis adduxerit: inutilis iam esse videtur: &amp; parentes qui prius eam necessariam esse filio iudica: 
+        <lb ed="#Ba" n="13"/>bant, illam irrisionibus prosequuntur. 
+      </p>
+      <p xml:id="vn58an-d1e839-d1e348">
+        ⁋ Ad quintum: quod dedit eis praecepta bona: Dicendum quod  
+        <lb ed="#Ba" n="14"/>praecepta veteris testamenti erant non bona simpliciter propter legis permissiones quae ma-  
+        <lb ed="#Ba" n="15"/>lae erant simpliciter: et ideo non obseruandae in noua lege: videlicet vt cum libello repudii vxorem di 
+        <lb ed="#Ba" n="16"/>mittere, odio habere inimicum, &amp; caetera huiusmodi. Illi tamen populo bona erant: quia congruem 
+        <lb ed="#Ba" n="17"/>tia ei: &amp; ideo permissa. Velut econtrario (vt dicit Chrysostomus) portari in humeris in prima 
+        <lb ed="#Ba" n="18"/>aetate bonum est: postea vero miserrimum: lacte nutriri ad mamillam, in initio vtile: postea ve 
+        <lb ed="#Ba" n="19"/>ro perniciosum. Vel secundum aliam Gl. Exe. xx. Praecepta quae erant bona in se: mala erant transgres 
+        <lb ed="#Ba" n="20"/>soribus. Sicut &amp; lex bona mala erat transgredienti. &amp; hoc per occasionem: vt dicitur Ro. vii. 
+        <lb ed="#Ba" n="21"/>vel secundum aliam Gl. illud intelligitur de praeceptis cerimonialibus: quae post idololatriam ludaeo  
+        <lb ed="#Ba" n="22"/>rum deo iussa sunt offerri potius quam idolis: quae non erant per se bona: nec tamen mala quando  
+        <lb ed="#Ba" n="23"/>deo offerebantur. &amp; ita semper in bonum &amp; a bono deo sunt data.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

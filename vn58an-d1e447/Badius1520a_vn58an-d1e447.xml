@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="35-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e447"> <!-- alias="vn58an-a4q9" -->
+      <head xml:id="vn58an-d1e447-Hd1e104">Quaestio 9</head>
+      <head xml:id="vn58an-d1e447-Hd1e107" type="question-title">Utrum propter illud quod homo principaliter appetit scire, appetat omnia alia scire</head>
+      <p xml:id="vn58an-d1e447-d1e110">
+        <lb ed="#Ba" n="39"/>CIrca. ix. arguitur: quod propter illud quod homo principaliter appetit scire: non appe 
+        <lb ed="#Ba" n="40"/>tit scire alia. Primo sic: propter illud quod primam &amp; perfectam habet rationem scibilis, non 
+        <lb ed="#Ba" n="41"/>est appetendum aliud scire: quia non eget alio vt sciatur: sed econverso alia indigent 
+        <lb ed="#Ba" n="42"/>eo vt sciantur. istud quod homo principaliter appetit scire est huiusmodi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e447-d1e121">
+        ⁋ Secundo  
+        <lb ed="#Ba" n="43"/>sic, quae appetit homo scire tanquam vergentia in suam damnationem, non appetit scire propter 
+        <lb ed="#Ba" n="44"/>principale scibile: quia istud ordinatur ad omnium salutem. multa talia appetit homo sci 
+        <lb ed="#Ba" n="45"/>re vt patet. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e447-d1e131">
+        ⁋ Tertio sic. <ref xml:id="vn58an-d1e447-Rd1e133" target="http://scta.info/resource/aristmet-l1">
+        <name ref="#Aristotle">Philosophus</name>. i. Metaphyhsica.</ref> vult quod scientia speculatiua est propter seipsam, non er- 
+        <lb ed="#Ba" n="46"/>go homo appetit eam scire propter istud scibile. 
+      </p>
+      <p xml:id="vn58an-d1e447-d1e142">
+        ⁋ Quarto sic. multa alia appetit homo scire non cogi 
+        <lb ed="#Ba" n="47"/>tans de hoc scibili: quod non esset si appeteret illa propter istud. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e447-d1e147">
+        ⁋ Contra est illud <ref xml:id="vn58an-d1e447-Rd1e149">
+        <name ref="#Augustine">Augustinus</name> xix. 
+        <lb ed="#Ba" n="48"/>de ciui. d.</ref> Illud est finis: propter quod amantur caetera, propter quod amantur appetuntur: quare cum hoc scibile 
+        <lb ed="#Ba" n="49"/>sit finis scientiae humanae: vt dictum est: propter illud caetera appetit scire. 
+      </p>
+      <p xml:id="vn58an-d1e447-d1e160">
+        <lb ed="#Ba" n="50"/>⁋ Dicendum ad hoc: quod appetitibus ordinatis ad aliquid vnum: vt ad vltimum 
+        <lb ed="#Ba" n="51"/>appetibile &amp; finem: necesse est omnia alia appeti propter illud vltimum appetibile: vt scilicet mediantibus illis 
+        <lb ed="#Ba" n="52"/>ascendat homo ad vltimum. Cuius ratio est: quia nullum aliorum habet rationem appetibilis: nisi in-  
+        <lb ed="#Ba" n="53"/>quantum ratio vltimi appetibilis in ipso relucet. Sicut ergo in appetitu boni quicquod appetitur: 
+        <lb ed="#Ba" n="54"/>appetitur sub ratione boni: &amp; ideo necesse est quod appetatur aut tanquam bonum perfectum: quod est 
+        <lb ed="#Ba" n="55"/>vltimum &amp; finis: aut tanquam tendens in vltimum &amp; finem: consimiliter in appetitu veri in scien- 
+   <!--85.xml-->
+        <pb ed="#Ba" n="35-v"/>
+        <lb ed="#Ba" n="1"/>do quicquid homo appetit scire, illud appetit sub aliqua ratione veri: &amp; ideo necesse est quod illud ap  
+        <lb ed="#Ba" n="2"/>petat tanquam vltimum verum quod est finis: aut tanquam verum tendens in vltimum verum vt in finem. quod si sit vl 
+        <lb ed="#Ba" n="3"/>timum: vt in eius cognitione sit status. Si vero sit ad vltimum: vt eius cognitio sit gradus &amp; via 
+        <lb ed="#Ba" n="4"/>ascendendi ad notitiam veri vltimi. Seper enim imperfectum in quo est alicuius perfectionis inchoatio, or 
+        <lb ed="#Ba" n="5"/>dinatur ad illud in quo est ipsa perfectio. Et ideo dicit Chrysosto. super illud Matth. Et ecce Cen- 
+        <lb ed="#Ba" n="6"/>turio. Scriptura infallibilis de deo, creatura est omnium rerum: quia nihil creatum est in mundo per 
+        <lb ed="#Ba" n="7"/>quod non manifestissime deus ostenditur. Et hoc quod tale est &amp; vltimum: vltimo est ab appetitu prosequendum, 
+        <lb ed="#Ba" n="8"/>&amp; primum mouens appetitum: per quod mouent omnia alia appetibilia ordinata ad ipsum tanquam cau 
+        <lb ed="#Ba" n="9"/>sae secundae: quae non mouerent nisi motae a primo mouente: &amp; non nisi in ordine ad operationem. 
+        <lb ed="#Ba" n="10"/>Vnde &amp; sicut appetitus principalius est illius quod est vltimum: quam alicuius aliorum: sic est alio- 
+        <lb ed="#Ba" n="11"/>rum per ordinem: semper enim est amplius &amp; principalius: quanto immediatius se habent, &amp; propin- 
+        <lb ed="#Ba" n="12"/>quius ad illud appetitiuum. 
+      </p>
+      <p xml:id="vn58an-d1e447-d1e206">
+        ⁋ Et est aduertendum quod propter vltimum appetuntur alia quae sunt ad  
+        <lb ed="#Ba" n="13"/>ipsum dupliciter: &amp; formaliter &amp; finaliter. Primo formaliter: quia non appetuntur alia: nisi quia in se 
+        <lb ed="#Ba" n="14"/>habent rationem &amp; formam vltimi quodam modo: licet imperfectam: vt omne verum rationem primi 
+        <lb ed="#Ba" n="15"/>veri: &amp; omne bonum rationem primi boni: quia omne aliud verum &amp; bonum est sicut quaedam impressio pri- 
+        <lb ed="#Ba" n="16"/>mi veri &amp; boni: per cuius rationem mouet appetitum &amp; intellectum. Et ideo finaliter secundo ap  
+        <lb ed="#Ba" n="17"/>petuntur propter vltimum verum &amp; bonum: quia per ipsa tanquam per imperfecta proficiscitur appeti 
+        <lb ed="#Ba" n="18"/>tus quousque deueniatur ad vltimum: vt ad verum &amp; bonum perfectum habens in se perfectam ra 
+        <lb ed="#Ba" n="19"/>tionem veri &amp; boni simpliciter: &amp; omnem rationem cuiuslibet veri &amp; boni particularis. Et ideo pri- 
+        <lb ed="#Ba" n="20"/>mun verum in omni alio vero &amp; per omne aliud verum quasi vocat intellectum vt tendat ad sui no 
+        <lb ed="#Ba" n="21"/>titiam: &amp; primum bonum in omni alio bono: &amp; per ipsum quasi vocat affectum: vt tendat in sui frui 
+        <lb ed="#Ba" n="22"/>tionem &amp; amorem. Et ideo quousque intellectus perducatur in persectam notitiam summi veri: &amp; 
+        <lb ed="#Ba" n="23"/>affectus in fruitionem summi boni: nunquam potest humanus appetitus quiescere: sed illis duobus ade 
+        <lb ed="#Ba" n="24"/>ptis totus perficietur: &amp; nihil restabit appetendum: vt dictum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e447-d1e235">
+        ⁋ Ad primum in opposi- 
+        <lb ed="#Ba" n="25"/>tum quod vltimum verum non eget alio vt sciatur: Dicendum quod verum est quantum est in se: quia. est sum 
+        <lb ed="#Ba" n="26"/>me scibile. quantum tamen est ex parte nostra: qui non sufficimus statim illud capere, per gradus alio 
+        <lb ed="#Ba" n="27"/>rum verorum. debemus ad ipsum ascendere &amp; ideo appetere debemus alia scire propter illud. Vn 
+        <lb ed="#Ba" n="28"/>de Autinus viii. de Trinit. Consuetudo carnalis vera quae creata sunt: sentit vt potest: veritatem au-  
+        <lb ed="#Ba" n="29"/>tem qua creata sunt non potest intueri. Nam si posset, nullo modo esset lux ista corporea manife- 
+        <lb ed="#Ba" n="30"/>stior. Et ideo sicut exeunti de carcere qui non posset solem aspicere, primo ostenderetur lumen candelae: de 
+        <lb ed="#Ba" n="31"/>inde lumen solis reflexum in medio: deinde radius solis in aere: vt postea fortificatus posset solem in  
+        <lb ed="#Ba" n="32"/>seipso aspicere: sic nos debemus primo creatas veritates aspicere: &amp; per illas ad veritatem summam 
+        <lb ed="#Ba" n="33"/>ascendere: vt docet <name ref="#Augustine">Augustinus</name> i. soli. 
+      </p>
+      <p xml:id="vn58an-d1e447-d1e261">
+        ⁋ Ad secundum, quod plurima scita vergunt in damnationem scientis:  
+        <lb ed="#Ba" n="34"/>Dicendum quod hoc non est propter scire: quia etiam secundum philosophum scientia malorum bo- 
+        <lb ed="#Ba" n="35"/>na est: &amp; ideo etiam ad scientiam primi scibilis ordinatur: sed quod nocet hoc est per accidens: propter 
+        <lb ed="#Ba" n="36"/>scientis abusum, vel aliquid huiusmodi. 
+      </p>
+      <p xml:id="vn58an-d1e447-d1e270">
+        ⁋ Ad tertium quod scientiae speculatiuae sunt propter se: Dicendum  
+        <lb ed="#Ba" n="37"/>quod verum est generaliter sumendo eanum scilicet secundum quod includit speculationem summi scibilis secun- 
+        <lb ed="#Ba" n="38"/>dum illud quod dicit <name ref="#Aristotle">Philosophus</name> maxime de prima philosophia inquantum est de cognitione dei: quamuis in illo spe 
+        <lb ed="#Ba" n="39"/>culo omnis quae ex scientia philosophica habetur non sit finis: immo ipsa ordinatur ad istam sicut ad finem: 
+        <lb ed="#Ba" n="40"/>vt infra dicetur. 
+      </p>
+      <p xml:id="vn58an-d1e447-d1e284">
+        ⁋ Ad quartum quod non omnis appetens scire cogitat de vltimo fine: Dicendum quod immo 
+        <lb ed="#Ba" n="41"/>iplicite: inquantum in quolibet appetibili alio est impressa ratio vltimi appetibilis: propter quam appetitur: sed  
+        <lb ed="#Ba" n="42"/>inquantum ipsa inuenit defectum vlterius nititur: quousque perfecte in seipso vltimum appetibile reperiat. 
+        <lb ed="#Ba" n="43"/>
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

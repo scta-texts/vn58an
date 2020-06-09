@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="32-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe8817"> <!-- alias="vn58an-a49q1" -->
+      <head xml:id="vn58an-fe8817-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe8817-d1e107">
+        <lb ed="#Bb" n="41"/>Irca primum arguitur quod deus non possit dici beatus, siue quod beatitudo non sit in deo.  
+        <lb ed="#Bb" n="42"/>Primo sic. Beatitudo secundum <name ref="#Aristotle">Philosophum</name> primo Ethicorum, est praemium vir 
+        <lb ed="#Bb" n="43"/>tutum. Praemio autem respondet meritum. Deo autem non conuenit aliquid me- 
+        <lb ed="#Bb" n="44"/>reri: quia hoc est indigentis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe8817-d1e121">
+        ⁋ Secundo sic. secundum Boethium. iiii. de con- 
+        <lb ed="#Bb" n="45"/>solatione philosophiae. Beatitudo est status omnium bonorum aggregatione per- 
+        <lb ed="#Bb" n="46"/>fectus. in deo autem non potest esse aliqua aggregatio: quia ipsa non est sine con- 
+        <lb ed="#Bb" n="47"/>positione: quae non est in deo secundum praedeterminata. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe8817-d1e130">
+        ⁋ Tertio sic. bea 
+        <lb ed="#Bb" n="48"/>titudo finis est eius qui est beatus. deo autem non est aliquis finis: immo ipse est omnium finis. ergo  
+        <lb ed="#Bb" n="49"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-fe8817-d1e138">
+        ⁋ In contrarium est illud quod dicit de deo Apostolus primae Timoticorm vltimo. Beatus &amp;lo- 
+        <lb ed="#Bb" n="50"/>lus potens. ergo &amp;c. 
+        <lb ed="#Bb" n="51"/>
+      </p>
+      <p xml:id="vn58an-fe8817-d1e145">
+        ⁋ Dicendum quod ex hoc dicitur beatus quicumque beatus est, quod perfecte attingit &amp; al 
+        <lb ed="#Bb" n="52"/>sequitur bonum in quod sicut in vltimum tendit appetitu ex ratione naturae suae sibi debito. 
+   <!--80.xml-->
+        <pb ed="#Bb" n="33-r"/>
+        <lb ed="#Bb" n="1"/>Vnde dicit <name ref="#Augustine">Augustinus</name> x. &amp;. xiii. de Tri. Beatus est qui omnia habet quae vult, &amp; nihil vult male. Nunc autem 
+        <lb ed="#Bb" n="2"/>licet bonum in quod sicut in vltimum tendunt omnia, siue naturali, siue animali, siue voluntario appeti 
+        <lb ed="#Bb" n="3"/>tu, sit summum bonum quod deus est (vt habitum est in parte supra: &amp; inferius debet declarari suo loco- 
+        <lb ed="#Bb" n="4"/>aliqua tamen etsi ipsum attingant secundum quod gradus naturae suae requirit, beata tamen esse ex hoc 
+        <lb ed="#Bb" n="5"/>non dicuntur: eo quod perfecte illud bonum non attingunt neque nata sunt attingere: hoc est, secundum 
+        <lb ed="#Bb" n="6"/>id quod illud bonum est in sua natura &amp; essentia, sed solum imperfecte: &amp; hoc est, in aliquo gradu per 
+        <lb ed="#Bb" n="7"/>fectionis sibi debitae: qua aliquam effigiem particularem diuinae bonitatis in se assequuntur: ad quam  
+        <lb ed="#Bb" n="8"/>suo appetitu naturali tendunt determinate: &amp; in ipso adepto quiescunt, nihil vlterius appetendo  
+        <lb ed="#Bb" n="9"/>Et talia sunt omnia praeter illa quae sunt intellectum habentia. Intellectum autem habentia ipsum non  
+        <lb ed="#Bb" n="10"/>attingunt secundum quod gradus naturae suae requirit, ipsum perfecte assequendo in aliqua effigie &amp; si 
+        <lb ed="#Bb" n="11"/>militudine eius particulari: siue fuerit in seipsis siue in aliis: sed solummodo ipsum perfecte assequen- 
+        <lb ed="#Bb" n="12"/>do secundum illud quo habet esse bonum. in natura &amp; essentia sua: &amp; hoc quia natura intellectua 
+        <lb ed="#Bb" n="13"/>lis in hoc excedit creaturam non intellectualem in appetitu, quod omnis alia creatura appetitu suo ten 
+        <lb ed="#Bb" n="14"/>dit in aliquod particulare bonum: &amp; ad hoc determinatur vel ex natura, vt habentia appetitum 
+        <lb ed="#Bb" n="15"/>absque cognitione: vel ex obiecti determinatione, vt habentia appetitum animalem tantum. Natura autem  
+        <lb ed="#Bb" n="16"/>intellectualis ad nullum bonum particulare determinatur vllo modo: sed est simpliciter boni vniuer- 
+        <lb ed="#Bb" n="17"/>salis &amp; in vniuersali: quia omnis boni secundum quod bonum est, aut aliquam rationem boni habet. Pro- 
+        <lb ed="#Bb" n="18"/>pter quod perfecte talis naturae appetitus quietari non potest nisi perfecte assecuto omni bono. 
+        <lb ed="#Bb" n="19"/>Quare cum illud assequi non potest in aliquo particulari bono: nec etiam in omnibus particulari 
+        <lb ed="#Bb" n="20"/>bus bonis simul acceptis: quia extra illa est aliqua ratio boni quod non est particulare bonum: sed  
+        <lb ed="#Bb" n="21"/>est ratio omnis boni: quo habito habetur omne bonum, cuiusmodi est solus deus: illud ergo bo- 
+        <lb ed="#Bb" n="22"/>num quod appetit sicut vltimum natura intellectualis, bonum vniuersale est quod est deus in seipso. &amp; 
+        <lb ed="#Bb" n="23"/>ideo assequendo ipsum hoc modo, natura intellectualis dicitur beata ex hoc solo quod ipsum tali modo  
+        <lb ed="#Bb" n="24"/>assequitur. Quare cum ipse deus bonum quod ipse est persectissime assequitur: quia per summam identi 
+        <lb ed="#Bb" n="25"/>tatem: cum alia ipsum non assequuntur nisi per quandam vnionem: vt in sequentibus quaestionibus iam amplius pa 
+        <lb ed="#Bb" n="26"/>tebit: idcirco dicendum est quod deus est beatus: &amp; non simpliciter beatus: sed summe beatus. 
+        <lb ed="#Bb" n="27"/>
+      </p>
+      <p xml:id="vn58an-fe8817-d1e216">
+        ⁋ Ad primum in oppositum: quod beatitudo est praemium virtutis: Dicendum quod illud di 
+        <lb ed="#Bb" n="28"/>ctum philosophi solum intelligitur de beatitudine acquisita qua quis est beatus beatitudinis participatio 
+        <lb ed="#Bb" n="29"/>ne, quam quis assequitur merito virtutum &amp; operum eius, vel ex puris naturalibus, secundum phi- 
+        <lb ed="#Bb" n="30"/>losophos: vel cum gratia, secundum veritatem fidei. Non autem intelligitur de beatitudine naturaliter ha 
+        <lb ed="#Bb" n="31"/>bita qua beatus est solus deus qui est beatus per essentiam: vt amplius iam infra patebit. 
+      </p>
+      <p xml:id="vn58an-fe8817-d1e227">
+        ⁋ Ad secun 
+        <lb ed="#Bb" n="32"/>dum: quod in deo non est bonorum aggregatio: Dicendum quod aggregatio plurium bonorum potest intelli- 
+        <lb ed="#Bb" n="33"/>gi in vno vel per compositionem: quemadmodum vnitates diuersae aggregantur in numero: vel per redu 
+        <lb ed="#Bb" n="34"/>ctionem: quemadmodum omnes numeri &amp; vnitates eorum aggregantur in vnitate prima, quae est principium nu 
+        <lb ed="#Bb" n="35"/>meri. Aggregatio bonorum primo modo, ponit compositionem: &amp; non est in deo. Aggregatio vero bo 
+        <lb ed="#Bb" n="36"/>norum secundo modo, est in deo per summam simplicitatem: quemadmodum est in centro aggregatio omnium 
+        <lb ed="#Bb" n="37"/>linearum procedentium a circunferentia. De hac aggregatione dicit Dionyus. v. de diui. no. In tota omnium na 
+        <lb ed="#Bb" n="38"/>tura omnes per singulas naturae rationes convolutae sunt per vnam inconfusam vnitatem. Et inter plures ratio- 
+        <lb ed="#Bb" n="39"/>nes rerum quas exemplificando inducit, subdit. Ois compactio, omnis discretio &amp;c. Vnde quemad  
+        <lb ed="#Bb" n="40"/>modum est in deo compactio sic &amp; aggregatio. quod plane exprimit alia translatio quae dicit sic 
+        <lb ed="#Bb" n="41"/>in tota totorum natura omnes naturae vniuscuiusque rationes congregatae sunt secundum vnam &amp; 
+        <lb ed="#Bb" n="42"/>inconfusam vnitionem. 
+      </p>
+      <p xml:id="vn58an-fe8817-d1e253">
+        ⁋ Ad tertium, quod deo non est finis: Dicendum quod verum est secundum rem 
+        <lb ed="#Bb" n="43"/>differens a se: quemadmodum ipse est finis aliorum. Finis autem intra se qui secundum rationem solummodo 
+        <lb ed="#Bb" n="44"/>differt a seipso, non inconuenienter attribuitur deo: vt infra patebit.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

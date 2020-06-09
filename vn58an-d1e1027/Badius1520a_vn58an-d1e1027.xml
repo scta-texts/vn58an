@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="84-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1027"> <!-- alias="vn58an-a12q2" -->
+      <head xml:id="vn58an-d1e1027-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e1027-Hd1e107" type="question-title">Utrum iuvenis possit esse auditor theologiae</head>
+      <p xml:id="vn58an-d1e1027-d1e110">
+        <lb ed="#Ba" n="8"/>CIrca secundum arguitur: quod iuuenis non debet esse auditor huius scientiae. Pri- 
+        <lb ed="#Ba" n="9"/>mo sic. maior requiritur maturitas &amp; compositio in auditore huius scientiae quam  
+        <lb ed="#Ba" n="10"/>cuiuslibet scientiae secularis: quia est scientia Christianae religionis. Sed philosophus 
+        <lb ed="#Ba" n="11"/>dicit in primo Ethicorum quod politicae scientiae non est, proprius auditor iuuenis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1027-d1e121">
+        <lb ed="#Ba" n="12"/>⁋ Secundo sic. Apostolus dicit Heb. vi. Perfectorum est solidus cibus. solidus 
+        <lb ed="#Ba" n="13"/>cibus est sacra scriptura, vt ibi exponit Gl. &amp; hoc maxime eis qui eam audiunt:  
+        <lb ed="#Ba" n="14"/>Perfecti autem non sunt iuuenes: ergo eam audire non debent. 
+      </p>
+      <p xml:id="vn58an-d1e1027-d1e131">
+        ⁋ Contra est illud  
+        <lb ed="#Ba" n="15"/>Ecclesi. vi. Eili a iuuentute accipe doctrinam: &amp; vsque ad canos inuenies sapientiam. Gl. Qui in iuuen- 
+        <lb ed="#Ba" n="16"/>tute studet sanae doctrinae: &amp; in senectute dulces fructus metet sapientiae. haec est sana doctrina 
+        <lb ed="#Ba" n="17"/>a qua expectantur fructus sapientiae. ergo &amp;c. 
+   
+      </p>
+      <p xml:id="vn58an-d1e1027-d1e140">
+        <lb ed="#Ba" n="18"/>⁋ Ad hoc dicendum secundum iam dicta: quod loquendo de auditore huius scientiae per 
+        <lb ed="#Ba" n="19"/>praedicationem ad cognoscendum credenda &amp; operanda, prout competunt iuueni secundum statum 
+        <lb ed="#Ba" n="20"/>suum: ipse debet esse auditor huius scientiae: nec ab isto modo audiendi eam aliqua aetas aut sexus 
+        <lb ed="#Ba" n="21"/>excluditur. Loquendo autem de auditore a magistro per lectionem ad inuestigandum secundum seriem 
+        <lb ed="#Ba" n="22"/>scripturae eius occulta mysteria: intelligendum quod sicut seruus dicitur aliquis proprius &amp; conve 
+        <lb ed="#Ba" n="23"/>niens &amp; vtilis domino: quid in omnibus domino suo se conformat: &amp; obsequitur: &amp; correspondet ei in omnibus 
+        <lb ed="#Ba" n="24"/>voluntati suae: Seruus autem non proprius &amp; inconveniens &amp; inutilis quid se domino suo non conformat: neque  
+        <lb ed="#Ba" n="25"/>obsequitur: neque respondet ei in omnibus voluntati suae: consimili modo dicitur aliquis auditor scientiae ali 
+        <lb ed="#Ba" n="26"/>cuius proprius: qui scientiae aptus est: &amp; in omnibus scientiae se conformat. Dicitur autem auditor non pro- 
+        <lb ed="#Ba" n="27"/>prius, qui scientiae non est aptus neque conformis omnino. Loquendo ergo de iuuene inquantum nominat  
+        <lb ed="#Ba" n="28"/>aetatem minorem: quia ratione aetatis lubricus est ad vitia: &amp; labilis in scientia. secundum quod dicitur Thren. iii. 
+        <lb ed="#Ba" n="29"/>super illud. Bonum est viro. Magnum (inquit Gl. est iuueni se a vitiis abstinere: &amp; lubricae ac perplexae viae 
+        <lb ed="#Ba" n="30"/>errorem fugere. Haec enim aetas fragilis est: &amp; labilis in scientia: temeraria. Secundum hoc ergo iuuenis ratione 
+        <lb ed="#Ba" n="31"/>scilicet aetatis inconveniens &amp; inutilis est auditor scientiae huius. Inconveniens inquantum est mente &amp; ratione 
+        <lb ed="#Ba" n="32"/>instabilis: &amp; imperfectus. Inutilis inquantum est ad vitia procliuis. Quo ad primum sciendum quod pro- 
+        <lb ed="#Ba" n="33"/>prius &amp; conveniens auditor huius scientiae debet esse talis vt profundas veritates eius capere possit: 
+        <lb ed="#Ba" n="34"/>&amp; iudicare de his quae audit in scientia, bene dicta accipiendo: &amp; contraria refutando. Hoc autem non potest 
+        <lb ed="#Ba" n="35"/>facere nisi firmus &amp; stabilis in ratione &amp; intellectu: &amp; quid notitiam habet aliquam fixam de his quae determinat  
+        <lb ed="#Ba" n="36"/>scientia, quia vt dicitur in principio Ethicorum nullus bene iudicat: nisi qui nouit. Sed iuuenis ratione 
+        <lb ed="#Ba" n="37"/>aetatis mente &amp; ratione non est stabilis: nec habet fixam notitiam eorum quae pertinent ad hanc scientiam 
+        <lb ed="#Ba" n="38"/>quae maxime sunt cognoscibilia fidei. Ideo iuuenis inconveniens &amp; inidoneus auditor est lectio- 
+        <lb ed="#Ba" n="39"/>nis huius scientiae: in qua difficiliora tractantur. sed prius indiget (secundum quod dicit Apostolus Hebr. 
+        <lb ed="#Ba" n="40"/>v. vt doceatur quae sunt elementa exordii sermonis dei: quia ei lacte opus est: non solido cibo. 
+        <lb ed="#Ba" n="41"/>Et sunt elementa exordii sermonis dei secundum Gl. Simplex doctrina articulorum fidei: quasi lac 
+        <lb ed="#Ba" n="42"/>infanti: cui non est opus solidus cibus. i. doctrinae quae est de arcanis dei, quia vt dicit consequem 
+        <lb ed="#Ba" n="43"/>ter Apostios omnis quid lactis est particeps: expers est sermonis iustitiae. qui secundum Gl. perfectis convenit 
+        <lb ed="#Ba" n="44"/>Paruulus enim est: &amp; ideo secundum Gl. sicut puulus quid non discernit cibos perit sumendo noxios:  
+        <lb ed="#Ba" n="45"/>sic indoctus: qui nec bonorum nec malorum valet apprehendere rationem, perit cum solida doctrina ei propo 
+        <lb ed="#Ba" n="46"/>nitur: quam capere non valet: quia sumit malum quandoque: &amp; damnat bonum. Et ideo sermo lectionis 
+        <lb ed="#Ba" n="47"/>huius scientiae quo agit vt non solum credatur: verunetiam intelligatur: sciatque quod dicitur: facilius il- 
+        <lb ed="#Ba" n="48"/>los premit quam pascit: quoniam vt consequenter addit Apostolus, Perfectorum est solidus cibus: qui pro 
+        <lb ed="#Ba" n="49"/>consuetudine exercitatos habent sensus ad discretionem boni &amp; mali. quod secundum Gl. inexerci 
+        <lb ed="#Ba" n="50"/>tati mente non possunt. Et ideo quodam fidei lacte prius nutriendi sunt, praedicationis verbo 
+        <lb ed="#Ba" n="51"/>&amp; in notitiam simplicem literae sacrae scripturae ad fidei fundationem imbuendi: Sicut ludaei instruunt 
+        <lb ed="#Ba" n="52"/>pueros suos in veteri testamento. Quod est facere vtile esset anquam puer Christianus ad aliquam aliam scien 
+        <lb ed="#Ba" n="53"/>tiam discendam poneretur. secundum quod dicit <name ref="#Augustine">Augustinus</name> i de docria chris. Ille (inquit) erit diuinarum scripturarum soler 
+        <lb ed="#Ba" n="54"/>tissimus indagator: qui primo eas legerit: notasque habuerit, etsi nondum intellectu, iam tamen lectione.  
+   <!--184.xml-->
+        <pb ed="#Ba" n="85-r"/>
+        <lb ed="#Ba" n="1"/>Nam caeteras securius leget fide charitatis instructus: ne praeoccupent imbecillem animum, &amp; pericu- 
+        <lb ed="#Ba" n="2"/>losis mendaciis atque phantasmatibus illudentes praeiudicent aliquid contra intelligentiam sanam. &amp; 
+        <lb ed="#Ba" n="3"/>in fine eiusdem. Cum quisque cognouerit finem praecepti esse charitatem de corde puro &amp; conscien- 
+        <lb ed="#Ba" n="4"/>tia bona, &amp; fide non ficta, omnem intellectum diuinarum scripturarum ad ista tria relaturus: ad tra- 
+        <lb ed="#Ba" n="5"/>ctationem illorum librorum securus accedat. Per hunc modum dicit philosophus in principio Ethico,. quod 
+        <lb ed="#Ba" n="6"/>iuuenis non est proprius auditor ciuilis scientiae: quia est inexpertus actuum qui sunt secundum vitam 
+        <lb ed="#Ba" n="7"/>ex quibus procedunt rationes scientiae moralis. Vnde sicut ibi iuuenis non est conveniens auditor 
+        <lb ed="#Ba" n="8"/>scientiae ciuilis: quia inex pertus est actuum secundum vitam: Sic non est hic conueniens auditor huius 
+        <lb ed="#Ba" n="9"/>scientiae: quia non est validus &amp; exercitatus scibilium quae sunt secundum fidem. Quomodo autem est au-  
+        <lb ed="#Ba" n="10"/>ditor inutilis inquantum est passionum insecutor, patebit in sequenti quaestione proxima. 
+      </p>
+      <p xml:id="vn58an-d1e1027-d1e252">
+        <lb ed="#Ba" n="11"/>⁋ Per dicta patent duo prima argumenta. Bene enim probant quod non debet esse iu 
+        <lb ed="#Ba" n="12"/>uenis auditor lectionis huius scientiae, ad intelligendum credita &amp; scripturae abscondita: nisi virtus super 
+        <lb ed="#Ba" n="13"/>pleat aetatem: vt confirmatus in fide sit canus mente: licet non aetate. Auditor tamen debet esse prae 
+        <lb ed="#Ba" n="14"/>dicationis vel lectionis literalis simplicis cognitionis ad credenda discernendum non intelligendum:  
+        <lb ed="#Ba" n="15"/>vt supra dictum est. Et ideo dicit Glos. super illud Omnis qui lactis est particeps. Spirituales (in-  
+        <lb ed="#Ba" n="16"/>quit) ista carnalibus non omnino taceant propter catholicam fidem quae omnibus praedicanda est: 
+        <lb ed="#Ba" n="17"/>nec tamen sic disserant: vt volentes eos perducere ad intelligentiam non capacem. facilius enim facient fa- 
+        <lb ed="#Ba" n="18"/>stidiri in veritate sermonem: quam in sermone percipi veritatem. 
+      </p>
+      <p xml:id="vn58an-d1e1027-d1e272">
+        ⁋ Per idem patet ad argumentum in oppo 
+        <lb ed="#Ba" n="19"/>situm: Fili a iuuentute accipe doctrinam. Quod bene exponit Glosid es. sanam doctrinam. &amp; hoc quo ad simpli 
+        <lb ed="#Ba" n="20"/>cem notitiam credendorum, &amp; ex hoc in prouecta aetate ascendnedo vt studio auditionis exposi- 
+        <lb ed="#Ba" n="21"/>tionis huius scientiae intelligantur credita: &amp; in senectute metat dulces fructus sapientiae scilicet puras 
+        <lb ed="#Ba" n="22"/>veritates scientiae huius percipiendo. Vnde sequitur ibidem. Quasi is quid arat &amp; qui seminat: accedet ad eam. 
+        <lb ed="#Ba" n="23"/>Arat quidem mentem ad fidem parando, seminat verbum fidei studio lectionis vt fructificet confouendo.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

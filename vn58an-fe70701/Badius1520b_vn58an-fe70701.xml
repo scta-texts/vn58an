@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="258-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe70701"> <!-- alias="vn58an-a72q3" -->
+      <head xml:id="vn58an-fe70701-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe70701-d1e107">
+        <lb ed="#Bb" n="40"/>CIrca tertium arguitur quod non omnia communia in diuinis sint appropriabilia, Primo sic. Appropria 
+        <lb ed="#Bb" n="41"/>tum per se positum dat intelligere, proprium cui est appropriatum, &amp; suprponit pro illo solo, vt 
+        <lb ed="#Bb" n="42"/>vrbs pro Roma, sicut dictum est supra. Quare si omnia communia in diuinis essent appropria- 
+        <lb ed="#Bb" n="43"/>bilia, quidlibet illorum per se positum daret intelligere, proprium cui esset appropriatum: &amp; superpo 
+        <lb ed="#Bb" n="44"/>neret pro illo solo. consequens falsum est: quia est aliquod primum &amp; conissimum in diuinis per se 
+        <lb ed="#Bb" n="45"/>ipositum quod nullum, proprium dat intelligere aut supponit pro illo. vt cum dicitur Exo. x. Ego sum qui  
+        <lb ed="#Bb" n="46"/>sum. esse supponit ibi coniter pro tota trinitate, non pro aliqua persona singulari. &amp; sicut hoc 
+        <lb ed="#Bb" n="47"/>a contingit de esse: sic de pluribus aliis communibus in diuinis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe70701-d1e127">
+        ⁋ Secundo sic. appropriatio sit propter conveniem 
+        <lb ed="#Bb" n="48"/>tiam &amp; similitudinem ad, propria illorum quibus appropriantur maiorem quam ad propria aliorum secundum iam determiata 
+        <lb ed="#Bb" n="49"/>sed est cone in diuinis aliquod puta deitas, a qua quaelibet personarum denominatur deus, quod non maiorem similitudinem ha 
+        <lb ed="#Bb" n="50"/>bet ad proprium vnius personae quam alterius: eo quod quasi materialis &amp; fundamentalis est ad omnia, propria: &amp; sic quasi 
+        <lb ed="#Bb" n="51"/>in potentia &amp; per indifferentiam se habet ad omnia propria sicut materia ad omnes formas, ad quas aequaliter est 
+        <lb ed="#Bb" n="52"/>in potentia. &amp; quod tale est nullam maiorem similitudinem habet ad vnum illorum quam ad aliud. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe70701-d1e140">
+        ⁋ Contra 
+        <lb ed="#Bb" n="53"/>maiorem convenientiam habent in diuinis cum, propriis quecumque communia quae proprie sunt in diuinis, puta potestas. 
+        <lb ed="#Bb" n="54"/>sapientia, bonitas &amp; caetera huiusmodi, quam quodcunque commune eorum quae translatiue habent esse in illis: puta 
+        <lb ed="#Bb" n="55"/>lux, dulcedo, &amp; huiusmodi: quia illa verius habent esse in diuinis quam ista, quare cum aliqua istorum habent 
+   <!--532.xml-->
+        <pb ed="#Bb" n="259-r"/>
+        <lb ed="#Bb" n="1"/>appropriari translata ad diuina: multo fortius &amp; quodlibet illorum. 
+      </p>
+      <p xml:id="vn58an-fe70701-d1e157">
+        <lb ed="#Bb" n="2"/>⁋ Dico ex determinatis in praecedenti quaestione, quod in appropriatione est duo con 
+        <lb ed="#Bb" n="3"/>siderare scilicet appropriationis originem ex parte naturae &amp; pluralitatis appropriandi, &amp; appropriationis  
+        <lb ed="#Bb" n="4"/>complementum ex parte voluntatis &amp; actus appropriandi. Aspiciendo siquidem ad secundum. scilicet ad appro 
+        <lb ed="#Bb" n="5"/>priationis actum &amp; complementum, qui procedit ab vsu &amp; voluntate appropriantium: si esset quaestio de appro 
+        <lb ed="#Bb" n="6"/>priatione quo ad actum appropriandi, an scilicet omnia communia in diuinis essent appropriabilia, vere puto quod  
+        <lb ed="#Bb" n="7"/>nequaquam: immo quod sunt plurima quorum adhuc appropriatio non est vsitata nec in sacra scriptura nec 
+        <lb ed="#Bb" n="8"/>in dictis sanctorum nec in obseruantia ecclesiae. Sed illorum solummodo appropriatio est vsitata, quorum est eui 
+        <lb ed="#Bb" n="9"/>dens similitudo ad propria: aliorum autem nequaquam. Vnde si iam sunt aliqua vsitate appropriata patri: hoc est pro  
+        <lb ed="#Bb" n="10"/>pter congruentiam specialem &amp; euidentem ad primitatem in ipso, quae in ipso est proprietas continens &amp; rationem innasci 
+        <lb ed="#Bb" n="11"/>bilitatis in carendo principio alio, &amp; rationem generationis in principiando alia. Propter quod aeternitas ei appro 
+        <lb ed="#Bb" n="12"/>priatur propter congruentiam ad primitatem suam in carendo alio principio: quia aeternitas de ratione sua di- 
+        <lb ed="#Bb" n="13"/>cit carentiam principii in durando. Vnde <name ref="#Augustine">Augustinus</name> de appropriatione aeternitatis patris secundum Hila, non 
+        <lb ed="#Bb" n="14"/>arbitratur Hila. per huiusmodi appropriationem dare intelligere nisi quod pater non habet patrem de quo sit, 
+        <lb ed="#Bb" n="15"/>vt dicit. vii. de triniitate. ca. vlti. Est etiam alius modus appropriandi patri aeternitatem scilicet propter comgruentiam 
+        <lb ed="#Bb" n="16"/>ad primitatem patris scilicet in principiando alia. Quia enim aeternitas est prima mensura durandi: quia ab aeternita 
+        <lb ed="#Bb" n="17"/>te fluit aeuum sicut ab aeuo tempus, secundum illud Boethi. Tempus ab aeuo Ire iubes: &amp; patri conpetit ratio 
+        <lb ed="#Bb" n="18"/>principiandi omnia alia: ideo etiam patri appropriatur aeternitas. Similiter appropriata est patri potestas vsi 
+        <lb ed="#Bb" n="19"/>tate. Similiter etiam aliqua sunt appropriata filio, puta veritas sapientia lux &amp; huiusmodi: &amp; similiter spiritu 
+        <lb ed="#Bb" n="20"/>sancto bonitas, pietas, dulcedo &amp; huiusmodi. &amp; hoc euenit quia euidenter similitudinem &amp; congruentiam habent ad pro 
+        <lb ed="#Bb" n="21"/>pria illorum. Quam appropriationem beatus Bernardus super Cantica explicans dicit. Obeata trinitas, veritas, 
+        <lb ed="#Bb" n="22"/>bonitas, aeternitas. Vnde &amp; aliqua quae nunquam patri fuerunt appropriata, bene de nouo incipiunt appropria 
+        <lb ed="#Bb" n="23"/>ri: sicut ante tempus Hila. forte species non fuit appropriata filio: nec vsus spiritu sancto: quia non fuit eui- 
+        <lb ed="#Bb" n="24"/>dens appropriandi ratio: quae euidens incepit fieri per expositionem <name ref="#Augustine">Augustinus</name> Nec tamen eam plene euidentem fecit:.: 
+        <lb ed="#Bb" n="25"/>nec quo ad speciem nec quo ad vsum. Quo ad speciem, in eo quod dicit, In imagine speciem nominauit credo: 
+        <lb ed="#Bb" n="26"/>propter pulchritudinem. Species enim aequiuocum est, &amp; similiter pulchritudo. Vno enim modo species ap  
+        <lb ed="#Bb" n="27"/>pellatur forma quae dat esse inquantum dat esse simpliciter: cui adest modus inquantum dat determinatum es 
+        <lb ed="#Bb" n="28"/>se: &amp; ordo inquantum alteri congruit vt fini ad quem est. Et consistunt ista tria in simplici essentia cuiusque  
+        <lb ed="#Bb" n="29"/>formae creatae: &amp; sunt tres partes vestigii in quacumque natura. scilicet species, modus, &amp; ordo: &amp; sic forma est 
+        <lb ed="#Bb" n="30"/>qua res consistit, qua discernitur, qua congruit. secundum quod de specie modo &amp; ordine dicit <name ref="#Augustine">Augustinus</name> de natu 
+        <lb ed="#Bb" n="31"/>ra boni. ca. v. Vbi aliquis modus aliqua species &amp; aliquis ordo est, aliquod bonum est: aliqua natura est: vbi nul 
+        <lb ed="#Bb" n="32"/>lus modus nulla species nullus ordo est, nullum bonum est: nulla natura est. Et sic inuenitur in forma omni 
+        <lb ed="#Bb" n="33"/>no simplici, creata tamen. Quia etsi in diuinis essentia penitus absoluta sit species: quia ipsa species est sicut 
+        <lb ed="#Bb" n="34"/>est forma qua deus est: non tamen species est sicut in creaturis: quia in illis non est forma species nisi opea 
+        <lb ed="#Bb" n="35"/>tionem contingens. Modus etiam in illa non est secundum quod est in creaturis: quia in creaturis modus determina 
+        <lb ed="#Bb" n="36"/>tionem &amp; limitationem secundum mensuram dicit, &amp; medium inter nimium &amp; modicum. dicente <name ref="#Augustine">Augustinus</name> de natura 
+        <lb ed="#Bb" n="37"/>boni cap. vi. Parua ac exigua communi vsu loquendi modica dicuntur: quia modus aliquis in eis respicit: si 
+        <lb ed="#Bb" n="38"/>ne quo iam non modica sed omnino nulla essent. Illa autem non propter nimium progressum dicuntur modica, quae ni 
+        <lb ed="#Bb" n="39"/>mietate culpantur, Deus autem nec immoderatus dicendus est, a quo modus omnibus rebus tribuitur vt aliquo mo 
+        <lb ed="#Bb" n="40"/>do esse possint. Est tamen eius modus eius immensitas: in quo licet non sit finis consumens: est tamen in eo finis 
+        <lb ed="#Bb" n="41"/>consummans. Ordo etiam in illo non est qualis est in creaturis scilicet alicuius ad aliquod aliud vt ad finem: sed ali 
+        <lb ed="#Bb" n="42"/>cuius ad aliquod aliud vt ad illud quod est ratio quaedam eius quod est omnium finis. Ordo autem in creaturis est 
+        <lb ed="#Bb" n="43"/>eorum quae sunt ad finem inter se: &amp; cum hoc omnium aliorum simul ad ipsum finem. Hic dicit <name ref="#Augustine">Augustinus</name> de natura boni: quod  
+        <lb ed="#Bb" n="44"/>deus super omnem creaturae modum est: super omnem speciem: super omnem ordinem: nec spatiis locorum supra est: 
+        <lb ed="#Bb" n="45"/>sed inaestimabili &amp; singulari potentia, a qua omnis modus, omnis species, omnis ordo. Et sic in deo spe 
+        <lb ed="#Bb" n="46"/>cies non consistit nisi in simplici natura: nata tamen cum alio componi: nec modus nisi in immenso: nec ordo ni 
+        <lb ed="#Bb" n="47"/>si in pluribus: quae quidem plura sunt rationes omnium communium in deo inter se ordinatorum: &amp; sic propriorum 
+        <lb ed="#Bb" n="48"/>inter se: &amp; etiam communium ad propria. Qui quidem ordo non est nisi ad instar plurium quae inter 
+        <lb ed="#Bb" n="49"/>se ordinantur in eodem toto absque vlteriori ordine eorum ad aliud in ratione finis. In quolibet enim 
+        <lb ed="#Bb" n="50"/>illorum quae in deo sunt distincta siue secundum rationem vt communia, siue secundum rem vt 
+        <lb ed="#Bb" n="51"/>propria, &amp; simplex est species cuiusque illorum: &amp; modus immensus: &amp; ordo cogruus singulorum ad  
+        <lb ed="#Bb" n="52"/>singula: sicut plura quae ordinantur inter se in creaturis, aliquae partes sunt eiusdem totius: &amp; cuiuslibet illorum 
+        <lb ed="#Bb" n="53"/>em species compositionem contigens: &amp; modus mensuratus &amp; finitus siue determinatus: &amp; ordo congruus. Et propter 
+        <lb ed="#Bb" n="54"/>pluralitatem distinguitur in eis ternarius aliter quam in speciem modum &amp; ordinem scilicet in nunerum mensuram &amp; potes 
+        <lb ed="#Bb" n="55"/>dus. Et sunt idem mensura &amp; modus: similiter ordo &amp; pondus: praeter hoc quod pondus dicit habilita 
+   <!--533.xml-->
+        <pb ed="#Bb" n="259-v"/>
+        <lb ed="#Bb" n="1"/>tem tendendi ad situm: &amp; ordo quietem in situ. Eadem autem est ratio tendendi ad situm &amp; consistendi in situ. Pro 
+        <lb ed="#Bb" n="2"/>specie autem ponitur numerus: quia in isto ordine species secundum rem siue secundum rationem plurificatur in di- 
+        <lb ed="#Bb" n="3"/>uersis: quorum quodlibet habet in creaturis, propriam mensuram: &amp; in diuinis quotquot sunt plura non habent 
+        <lb ed="#Bb" n="4"/>mensuram nisi vnica. scilicet imensitatis. Et inuenitur iste ternarius correspondenter in deo &amp; in creaturis. In creatu 
+        <lb ed="#Bb" n="5"/>ris quidem siue distinctis abinuicem: sicut sunt diuersa tota siue diuersae partes in eodem toto. De quo  
+        <lb ed="#Bb" n="6"/>dicit <name ref="#Augustine">Augustinus</name> quo ad distinctionem partium in toto, de Gen. contra Manichaeos ca. xvii. Non alicuius anima- 
+        <lb ed="#Bb" n="7"/>is corpus &amp; membra considero, vbi non mensuram &amp; numerum &amp; ordinem inueniam ad vnitatem concordiae 
+        <lb ed="#Bb" n="8"/>pertinere: quae omnia vnde veniant non intelligo nisi a summa mensura &amp; numero &amp; ordine, quae in ipsa 
+        <lb ed="#Bb" n="9"/>dei sublimitate incommutabili ac aeterna consistunt. Et extendendo ista tria etiam ad partes vniuersi distin 
+        <lb ed="#Bb" n="10"/>ctas abinuicem sicut diuersa tota, subdit dicens. In omnibus mensuras numeros &amp; ordinem vides: ar  
+        <lb ed="#Bb" n="11"/>tificem quaere: nec alium inuenies nisi vbi summa mensura &amp; summus numerus &amp; summus ordo est 
+        <lb ed="#Bb" n="12"/>cid ei. deum. Inuenitur autem dictus ternarius in deo, &amp; inter distinctos realiter, vt inter personas quae inter se 
+        <lb ed="#Bb" n="13"/>habent numerum, &amp; distinctae sunt suis formis siue speciebus, puta proprietatibus relatiuis: &amp; habent 
+        <lb ed="#Bb" n="14"/>mensuram vnius immensitatis, &amp; ordinem naturae inter se, de quo habitum est supra. Sunt etiam inter commu- 
+        <lb ed="#Bb" n="15"/>nia personarum quae inter se habent numerum suarum formarum siue specierum. scilicet rationes proprias &amp; mensuram immen 
+        <lb ed="#Bb" n="16"/>sitatis &amp; ordinem naturae inter se, de quo etiam habitum est supra. Et sunt numerus iste mensura &amp; ordo  
+        <lb ed="#Bb" n="17"/>communes tribus diuinis personis sicut &amp; ipsa absoluta quorum sunt primo &amp; per se. Sed numerus appropria 
+        <lb ed="#Bb" n="18"/>tur patri primo quia in ipso est pluralitas proprietatum. scilicet ingeneratio &amp; generatio actiue. Filio autem appro 
+        <lb ed="#Bb" n="19"/>priatur mensura: quia est imago procedens sub ratione mensurarum. Spiritui sancto autem ordo: quia ipse in finem per 
+        <lb ed="#Bb" n="20"/>amorem dirigit. Ad ordinem autem quoruncumque distinctorum inter se, sequitur congruentia &amp; pulchritudo in eis. dicen 
+        <lb ed="#Bb" n="21"/>te <name ref="#Augustine">Augustinus</name> libi i. de ordine ca. xiii. Ordo atque dispositio quia vniuersi cogruentiam ipsa distinctione cu- 
+        <lb ed="#Bb" n="22"/>stodit, ex contrariis omnium rerum simul pulchritudo figuratur. Et ista pulchritudo diuersatur secundum diuersi 
+        <lb ed="#Bb" n="23"/>tatem ordinatorum: quia in diuinis est quaedam pulchritudo propriorum. scilicet diuinarum personarum inter se: quaedam ve- 
+        <lb ed="#Bb" n="24"/>ro ex ordie communium in tribus personis existentium. Et prima istarum, propria est ordinatis, secundum quod ipsa ordi 
+        <lb ed="#Bb" n="25"/>nata, propria sunt: &amp; ordo illorum, proprius est illis. Secunda vero est communis propriis secundum quod ipsa ordinata 
+        <lb ed="#Bb" n="26"/>communia sunt: &amp; ordo illorum ommunis est illis. Et iterum prima istarum duplex est, secundum quod duplex est ordo in propriis. 
+        <lb ed="#Bb" n="27"/>Est enim quidam ordo in singulis existens, &amp; mutuus eorum adinuicem. Est autem alius ordo in vno illorum ad vnum 
+        <lb ed="#Bb" n="28"/>non mutuus. Et primo istorum duorum modorum est ordo trium personarum diuinarum mutuus inter se scilicet patris 
+        <lb ed="#Bb" n="29"/>ad filium &amp; econverso: &amp; vtriusque ad spiritum sanctum &amp; econverso: de quo habitum est superius. Secundo vero modo 
+        <lb ed="#Bb" n="30"/>est ordo solius filii vt est imago sub ratione imaginis ad patrem per se: non autem econverso patris vt imagina 
+        <lb ed="#Bb" n="31"/>ti ad filium imaginem nisi per accidens: quia filius vt imago, per se habet ordinem ad patrem vt ad imaginatum. Ad  
+        <lb ed="#Bb" n="32"/>modum quo secundo genere relationis filius vt imago &amp; mensuratum per se ad patrem refertur vt ad imaginatum: Er 
+        <lb ed="#Bb" n="33"/>auntem econverso ad filium vt ad imaginem non refertur vt imaginatum &amp; mensura nisi per accidens, secundum su- 
+        <lb ed="#Bb" n="34"/>perius determinata. Et pulchritudo in ordinatis primo istorum modorum sicut &amp; ordo, est propria in 
+        <lb ed="#Bb" n="35"/>singulis ordinatis personis: quia propria est patri vt consistit in ordine qui est patris ad filium: &amp; econ 
+        <lb ed="#Bb" n="36"/>uerso propria est filio vt consistit in ordine qui est filii ad patrem: &amp; similiter vt est in spiritu sancto 
+        <lb ed="#Bb" n="37"/>respectu vtriusque: sed est communis in solis patre &amp; filio respectu spiritus sancti. Et ideo talis pulchritudo  
+        <lb ed="#Bb" n="38"/>quia est, propria singulis vel duobus nulli potest esse appropriata: quia in diuinis non est, propriatum nisi cone 
+        <lb ed="#Bb" n="39"/>tribus, vt supra determinatum est. Pulchritudo etiam in ordinatis secundo istorum modorum sicut &amp; ordo ipse 
+        <lb ed="#Bb" n="40"/>in vnica persona est tantum, puta in filio vt est imago: &amp; hoc in ordine quem habet ad patrem tantum. &amp; ideo ista 
+        <lb ed="#Bb" n="41"/>pulchritudo in imagine non est appropriata: quia est, propria, &amp; est in illa inquantum plene &amp; perfecte repenertat 
+        <lb ed="#Bb" n="42"/>id cuius est imago. De qua pessime aliqui intelligunt loqu <name ref="#Augustine">Augustinus</name> quando exponendo Hila. dicit. In imagine spe 
+        <lb ed="#Bb" n="43"/>ciem nominauit credo propter pulchritudinem. Postquam enim ista pulchritudo sit propria, non potest appropriari: quia 
+        <lb ed="#Bb" n="44"/>vt dictum est, nihil est appropriabile nisi cone. Pulchritudo autem in diuinis ex ordine omnium inter se communis 
+        <lb ed="#Bb" n="45"/>est tribus personis: sicut &amp; ipsa ordinata inueniuntur coniter in tribus personis. Et de ista pulchritudie intel 
+        <lb ed="#Bb" n="46"/>ligit <name ref="#Augustine">Augustinus</name> quod est appropriata imagini, &amp; intellecta ab Hila, nomine speciei. Et hoc propter similitudinem ad  
+        <lb ed="#Bb" n="47"/>proprium imaginis, quod consistit in cogruentia aequalitate &amp; similitudie imaginis vt est imago ad imaginatum. 
+        <lb ed="#Bb" n="48"/>uam aequalitas &amp; similitudo pertinent ad secundum genus relationis, vt habitum est supra. Vnde postquam dixit <name ref="#Augustine">Augustinus</name> In ima 
+        <lb ed="#Bb" n="49"/>gine speciem nominauit credo propter pulchritudinem. continue subiuxit. Vbi est iam tanta congruentia &amp; prima 
+        <lb ed="#Bb" n="50"/>equalitas &amp; prima similitudo nulla in re dissidens, &amp; nullo modo inaequlis &amp; nulla ex parte dissimilis: sed ad  
+        <lb ed="#Bb" n="51"/>identitatem respondens ei cuius est imago. Et in quo ad identitatem subdit. Et vbi est prima &amp; summa vita &amp;c. Vnde  
+        <lb ed="#Bb" n="52"/>ista pulchritudo est imagis vt est ipsa aliquid in se scilicet summa vita summa sapia summa bonitas &amp; caetera communia in di 
+        <lb ed="#Bb" n="53"/>uinis. In imagine enim duplex pulchritudo consideratur: vna vt est representatiua eius cuius est imago: alia vt 
+        <lb ed="#Bb" n="54"/>est res quaedam in se. Et prima pulchritudo consideratur in imagine vt perfecte imitatur illud cuius est imago, &amp; est reprs 
+        <lb ed="#Bb" n="55"/>sentatiua perfecte illius: &amp; consistit in numero propriorem scilicet personarum &amp; personalium: &amp; hoc secundum conmensuratio 
+   <!--534.xml-->
+        <pb ed="#Bb" n="260-r"/>
+        <lb ed="#Bb" n="1"/>nem in aequalitate quantitatis, &amp; secundum conformationem in similitudie quaelitatis ipsius imaginis ad id cuius est 
+        <lb ed="#Bb" n="2"/>&amp; non econverso. Secunda vero pulchritudo consideratur in imagine &amp; eo cuius est imago sicut &amp; in caete 
+        <lb ed="#Bb" n="3"/>ris rebus: &amp; consistit in numero communium secundum commensurationem mutuam eorundem in aequalitate quantitatis:  
+        <lb ed="#Bb" n="4"/>&amp; secundum conformationem in similitudine quaelitatis: ad modum quo in corpore est pulchritudo cum est multi 
+        <lb ed="#Bb" n="5"/>tudo membrorum perfecta in quantitate &amp; quaelitate, quae congrue &amp; proportionaliter sunt disposita &amp; ordinata. secundum 
+        <lb ed="#Bb" n="6"/>quod propter hanc proportionem &amp; dispositionem dicit <name ref="#Augustine">Augustinus</name> Vbi iam est tanta congruentia &amp;c. Propter perfectionem 
+        <lb ed="#Bb" n="7"/>autem in quantitate ad quam sequitur summa aequalitas, subdit. Vbi est prima &amp; summa vita &amp;c. Propter perfectio 
+        <lb ed="#Bb" n="8"/>nem autem in quaelitate ad quam sequitur summa similitudo, addit. Tamquam verbum perfectum &amp;c. Sunt enim verbum &amp; ars 
+        <lb ed="#Bb" n="9"/>tanquam lux &amp; splendor siue quaelitas intellectus. Et pertinent ista aequalitas &amp; ista similitudo ad tertium genus re 
+        <lb ed="#Bb" n="10"/>lationis. Quo ad vsum autem simliter non planam aut euidentem fecit Aug. appropriationem Hila. in eo quod dicit. 
+        <lb ed="#Bb" n="11"/>Dilectio, delectatio, felicitas, vel beatitudo vsus appellatus est. Vsus enim aequocum est ad vsum proprie di 
+        <lb ed="#Bb" n="12"/>ctum: &amp; ad vsum communiter acceptum qui continet in se ipsum frui. Vsus enim proprie acceptus distigui 
+        <lb ed="#Bb" n="13"/>tur contra frui, secundum quod definiendo vti &amp; frui dicit <name ref="#Augustine">Augustinus</name> primo de doctrina christiana ca. viii. FErui est 
+        <lb ed="#Bb" n="14"/>amore alicui rei inhaerere propter seipsam. Vti vero est id quod in vsum venit referre ad obtinendum illud  
+        <lb ed="#Bb" n="15"/>quodo fruendum est. Et vsus ab vti tali modo accepto nequaquam appropriari potest spiritui sancto: quia vsus ta 
+        <lb ed="#Bb" n="16"/>lis non est nisi eorum quae sunt ad finem. Eine autem non est vtendum sed fruendum tantum. Spiritus sanctus autem non est res 
+        <lb ed="#Bb" n="17"/>quae sit ad finem &amp; qua vtendum est neque proprie neque appropriate: sed solummodo qua fruendum est vt fine com 
+        <lb ed="#Bb" n="18"/>muniter cum patre &amp; filio. dicente <name ref="#Augustine">Augustinus</name> vbi supra cap. vii. Res illae quibus fruendum est nos beatos faciunt:  
+        <lb ed="#Bb" n="19"/>illae quibus vtendum, tendentes ad beatitudinem adiuuant. &amp;. c. ix. Res ergo quibus fruendum est sunt pater &amp; filius &amp; 
+        <lb ed="#Bb" n="20"/>spiritus sanctus eadem trinitas: quaedam res summa conmunis omnibus fruentibus ea: vtendum est hoc mundo. De 
+        <lb ed="#Bb" n="21"/>vsu vero communiter accepto dicit <name ref="#Augustine">Augustinus</name> x. de triniitate. ca. xi. Vti est assumere aliquod in facultatem volunta 
+        <lb ed="#Bb" n="22"/>tis: ideoque omnis qui fruitur vtitur. Assumit enim aliquod in facultatem voluntatis cum fine delectationis. Et hoc mo-  
+        <lb ed="#Bb" n="23"/>do vsus appropriatur spiritui sancto tanquam conveniens cum, proprio illius: quia. scilicet procedit vt amor: qui suauis est: 
+        <lb ed="#Bb" n="24"/>&amp; omnia delectat, &amp; fini in quae est vltima beatitudo coniungit: &amp; ita patrem &amp; filium. Quod exponit <name ref="#Augustine">Augustinus</name> in  
+        <lb ed="#Bb" n="25"/>exponendo camm dictae appropriationis dicens. Vsus appellatus est spiritus sanctus genitoris genitique suaui 
+        <lb ed="#Bb" n="26"/>tas, in geniti largitate atque vbertate perfundens omnes creaturas pro captu earum vt ordinem suum teneant 
+        <lb ed="#Bb" n="27"/>&amp; locis suis acquiescant. Sic ergo loquendo de appropriatione quo ad actum &amp; complementum eius: nequaquam  
+        <lb ed="#Bb" n="28"/>omnia communia sunt appropriata: nec de hoc quaerit quaestio. Loquendo autem de aptitudine seu habilitate 
+        <lb ed="#Bb" n="29"/>ad appropriationem prout proposita est quaestio in diuinis: dicunt aliqui quod non omnia communia in diuinis sunt ape  
+        <lb ed="#Bb" n="30"/>propriabilia, puta essentia, esse, vita, viuere &amp; caetera huiusmodi : d scilicet in ratione suae communitatis nullam similitu 
+        <lb ed="#Bb" n="31"/>dinem aut congruentiam habent cum, proprio alicuius personae magis quam cum, proprio alterius. Et reuera si ita esset, quaecum 
+        <lb ed="#Bb" n="32"/>quod iam talia in diuinis essent, nequaquam appropriabilia essent deficiente cam appropriationis secundum praedetermina- 
+        <lb ed="#Bb" n="33"/>ta. sed hoc est impossibile: quia. scilicet personae diuiae sunt ordiatae penes primum secundum &amp; tertium ratione suorum propriorum.  
+        <lb ed="#Bb" n="34"/>Similitecommunia quae sunt in propriis ordinata sunt penes primum secundum &amp; tertium ratione sui. S impossibile est quod primum 
+        <lb ed="#Bb" n="35"/>in ordinati in vera coordinatione penes primum secundum &amp; tertium, non magis conveniat cum primo in ordinatis 
+        <lb ed="#Bb" n="36"/>in alia coordinatione quam cum secundo aut tertio etiam aliis eifdem retentis. &amp; similiter est de secundo in vna coordinatione cum 
+        <lb ed="#Bb" n="37"/>secundo in alia: &amp; simliter de tertio cum tertio. Impossibile est ergo esse aliqua communia in diuinis quin sint appropriabilia ali 
+        <lb ed="#Bb" n="38"/>cui personae potius quam alteri: &amp; hoc propter maiorem convenientiam ad proprium illius quam ad proprium alterius. Quod puto 
+        <lb ed="#Bb" n="39"/>esse verum de omnibus communibus siue sint absoluta siue relatiua. Vnde dico quod sicut in diuinis omnia cmoniquae pertinent ad 
+        <lb ed="#Bb" n="40"/>voluntatem: quia sunt in tertia differentia ordis ad illa quae pertinent ad intellectum: &amp; ad illa quae indifferenter se habent ad in 
+        <lb ed="#Bb" n="41"/>tellectum &amp; voluntatem: appropriantur spiritui sancto quid est tertia persona in diuinis: similite communia illa quae perti- 
+        <lb ed="#Bb" n="42"/>nent ad intellectum: quia sunt in secunda differentia ordinis: appropriantur filio quid est secunda persona in diuinis:  
+        <lb ed="#Bb" n="43"/>sic illa quae indifferenter se habent ad vtrumque, quia sunt in prima differentia ordinis: sunt generaliter &amp; appropriam 
+        <lb ed="#Bb" n="44"/>tur patri quid est prima persona in diuinis: &amp; hoc etiam si nulla alia specialior est appropriationis ratio commu 
+        <lb ed="#Bb" n="45"/>nium in diuinis facienda patri aut filio aut spiritu sancto. Et sic illa quae indifferenter se habet ad intellectum &amp; vo 
+        <lb ed="#Bb" n="46"/>luntatem, sunt quasi pertinentia ad memoriam: quae patri approprianda est cum omnibus pertinentibus ad illam: similiter si 
+        <lb ed="#Bb" n="47"/>lio intelligentia cum omnibus pertinentibus ad illam: &amp; spiritui sancto voluntas cum omnibus pertinentibus ad illam. Dico er- 
+        <lb ed="#Bb" n="48"/>go quod esse &amp; essentia viuere &amp; vita deitas &amp; deus appropriabilia sunt patri potius quam filio &amp; spiritu san- 
+        <lb ed="#Bb" n="49"/>cto: sed secundum actum &amp; vsum sanctorum appropriata non sunt: &amp; hoc quia speciales rationes appropriandi prae- 
+        <lb ed="#Bb" n="50"/>ter rationem primi ad aliquod proprium patris in illis non sunt inuentae, sicut inuentae sunt super generalem ra- 
+        <lb ed="#Bb" n="51"/>tionem secundi in illis quae iam appropriata sunt filio: &amp; sicut inuentae sunt super generalem rationem 
+        <lb ed="#Bb" n="52"/>in illis quae iam appropriata sunt spiritui sancto. 
+        <lb ed="#Bb" n="53"/>
+      </p>
+      <p xml:id="vn58an-fe70701-d1e567">
+        ⁋ Argumentum primum in oppositum bene probat quod nullum talium per se ad- 
+        <lb ed="#Bb" n="54"/>huc est appropriatum alicui personae: qui tamen sit quodlibet illorum appropriabile, nequaquam probat. Quid au  
+        <lb ed="#Bb" n="55"/>tem sentiendum est de esse in illo dicto, Ego sum qui sum: patebit in sequentibus. 
+      </p>
+      <p xml:id="vn58an-fe70701-d1e574">
+        ⁋ Ad secundum 
+   <!--535.xml-->
+        <pb ed="#Bb" n="260-v"/>
+        <lb ed="#Bb" n="1"/>specialiter inductum de deitate, quod non sit appropriabilis: quia per indifferentiam se habet ad propria 
+        <lb ed="#Bb" n="2"/>trium personarum: Dico quod verum est quod deitas non est appropriabilis quantum est ex speciali ratio- 
+        <lb ed="#Bb" n="3"/>ne appropriandi. Quantum tamen est de generali ratione appropriandi, videlicet quia deitas est primum &amp; 
+        <lb ed="#Bb" n="4"/>principium quoddam respectu omnium propriorum &amp; proprietatum &amp; communium quae proerti 
+        <lb ed="#Bb" n="5"/>nent ad voluntatem &amp; intellectum: in hoc convenit magis cum, proprio patris quam filii aut spiritus sancti 
+        <lb ed="#Bb" n="6"/>in eo videlicet quod pater est primum &amp; principium respectu aliarum personarum. ideo potius est pra 
+        <lb ed="#Bb" n="7"/>tri appropriabile quam filio aut spiritui sancto. 
+      </p>
+      <p xml:id="vn58an-fe70701-d1e596">
+        ⁋ Ad tertium in oppositum: quia non bene concludit in  
+        <lb ed="#Bb" n="8"/>entum: quod scilicet translatiue dicta de deo appropriabilia sunt: quare multo fortius quaecumque propria: Di 
+        <lb ed="#Bb" n="9"/>co quod verum esset si ratio eius quod est proprie aut traslatiue dici, esset ratio seu causa appropriationis 
+        <lb ed="#Bb" n="10"/>aut res ipsa significata hincinde. Nunc autem non est ita: sed in translatis cam appropriationis est con 
+        <lb ed="#Bb" n="11"/>ditio rei significatae hincinde. Quia enim lux corporalis est motiua virtutis cognitiuae, ideo ipsa transla- 
+        <lb ed="#Bb" n="12"/>ta ad diuina appropriabilis est: sicut &amp; alia quae pertinent in deo ad virtutem cognitiuam quae est 
+        <lb ed="#Bb" n="13"/>intellectus: &amp; hoc praecipue quia reprssentat lucem spiritualem, quae pertinet ad intellectum. Non sic autem  
+        <lb ed="#Bb" n="14"/>deitas conditionem aliquam specialem importat propter quam alicui determinate poterit appropria- 
+        <lb ed="#Bb" n="15"/>ri: &amp; ideo nec appropriatum est nomen deitatis in diuinis: sicut appropriatum est nomen lucis. Vn- 
+        <lb ed="#Bb" n="16"/>de &amp; propter istam indifferentiam nomen dei triplicem deriuationem habet a nominibus graecis:  
+        <lb ed="#Bb" n="17"/>&amp; secundum vnam appropriatur patri: secundum aliam filio: secundum tertiam spiritui sancto. Deus 
+        <lb ed="#Bb" n="18"/>enim vno modo dicitur a theon quod est fouere siue fouens, &amp; appropriatur patri: quia ab ipso omnia 
+        <lb ed="#Bb" n="19"/>habent fomentum, in eo quod est primum principium dandi omnibus esse. Alio autem modo dicitur a 
+        <lb ed="#Bb" n="20"/>theos quod est videre siue videns, quod appropriatur filio: quia per modum visus &amp; cognitionis procedit 
+        <lb ed="#Bb" n="21"/>Tertio deus dicitur ab aethin quod est ardere siue ardens, quod appropriatur spiritui sancto: quia ipse 
+        <lb ed="#Bb" n="22"/>procedit vt ardor aut flamma.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

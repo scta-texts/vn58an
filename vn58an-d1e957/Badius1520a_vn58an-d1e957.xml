@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="79-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e957"> <!-- alias="vn58an-a11q4" -->
+      <head xml:id="vn58an-d1e957-Hd1e104">Quaestio 4</head>
+      <head xml:id="vn58an-d1e957-Hd1e107" type="question-title">Utrum vir religiosus possit doctor eius</head>
+      <p xml:id="vn58an-d1e957-d1e110">
+        <lb ed="#Ba" n="30"/>Irca quaertum arguitur quod vir religiosus non debeat esse doctor huius scientiae Primo sic. xvi. 
+        <lb ed="#Ba" n="31"/>qid ii. c. i. dicit Nicena Synodus. Monachum per omnia singularitur agere oportet. doctoris 
+        <lb ed="#Ba" n="32"/>officium est non singularitur agere: sed cum multis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e957-d1e119">
+        ⁋ Secundo sic. dicit Greg. in reg 
+        <lb ed="#Ba" n="33"/>stroio Nemo potest ecclesiasticis obsequis deseruire &amp; in monachorum regula ordinate per 
+        <lb ed="#Ba" n="34"/>sistere: docere obsequium ecclesiasticum est vnum de praecipuis. illud autemem non debet facere, 
+        <lb ed="#Ba" n="35"/>propter quod in regula non potest persistere. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e957-d1e129">
+        ⁋ Tertio sic. Hieronymus ad Hyperium 
+        <lb ed="#Ba" n="36"/>&amp; Desiderium. Monachus non doctoris: sed plangentis habet officium. docere autem 
+        <lb ed="#Ba" n="37"/>non debet hanc scientiam qui non potest habere doctoris officium. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e957-d1e136">
+        ⁋ Quarto sic. vii. dsi. i. dicit ca 
+        <lb ed="#Ba" n="38"/>Praecipit. Monachorum vita subiectionis habet verbum &amp; disciplinatus non docendi. 
+      </p>
+      <p xml:id="vn58an-d1e957-d1e141">
+        ⁋ Contra est illud Hie 
+        <lb ed="#Ba" n="39"/>ro. ad Rusticum. Si clericatus titillat discas quod possis docere multo tempore discas quae postea doceas.
+      </p>
+      <p xml:id="vn58an-d1e957-d1e146">
+        <lb ed="#Ba" n="40"/>⁋ Ista quaestio nihil aliud inquirit quam an status religionis repugnet statui doctoris 
+        <lb ed="#Ba" n="41"/>ita quod simul non possit quis esse religiosus &amp; doctor: supposito quod alioqui sit idoneus &amp; literatus. Dice 
+        <lb ed="#Ba" n="42"/>re simpliciter quod nulli religioso liceat officium doctoris assumere, non est verum. Ne beatum Grego. aut  
+        <lb ed="#Ba" n="43"/>beatum <name ref="#Augustine">Augustinus</name> Anglorum episcopum &amp; loannem Dam. &amp; quam plurimos alios negemus officium docto- 
+        <lb ed="#Ba" n="44"/>ris habuisse, aut fecisse cuius officium exercere non debebant. constat enim indubitanter omnes istos docuisse &amp; 
+        <lb ed="#Ba" n="45"/>religiosos fuisse. Distinguendum igitur ex parte monachorum sub monachis omnes religiosos comprehen- 
+        <lb ed="#Ba" n="46"/>dendo, quoniam cum idem est monachus &amp; clericus, aliquid potest ei conuenire inquantum monachus &amp; aliquid in-  
+        <lb ed="#Ba" n="47"/>quantum clericus. Inquantum enim monachus officium non habet doctoris siue docentis, sed plan 
+        <lb ed="#Ba" n="48"/>gentis, vt dicit Hiero. in tertio argumento. qui per illud dictum suum noluit excludere quando mona 
+        <lb ed="#Ba" n="49"/>chus possit esse doctor: sed voluit distinguere inter officia monachi &amp; clerici: ostendendo quid 
+        <lb ed="#Ba" n="50"/>cuique officio conueniat, vt dicit Gratianus. xvi. quaestio. i. c. Superiori. vnde vt ibidem dicit. vsque ad 
+        <lb ed="#Ba" n="51"/>tempora Tosimi papae monachi simpliciter fuerunt monachi. scilicet laici &amp; non clerici. Si vero loqua- 
+        <lb ed="#Ba" n="52"/>mur de monachis inquantum clerici vel aliquo modo literati, reuocanda est distinctio illa in  
+        <lb ed="#Ba" n="53"/>praecedenti quaestione habita quod docere potest aliquis vel ex officio vel beneficio. Si enim monachus sa 
+        <lb ed="#Ba" n="54"/>nam habeat doctrinam, inquantum huiusmodi bene licet cum docere ex beneficio: sed priuatim conso- 
+   <!--173.xml-->
+        <pb ed="#Ba" n="79-v"/>
+        <lb ed="#Ba" n="1"/>cios suos monachos multo magis quam mulierem. Cui istud concessum est supra. Loquendo vero de 
+        <lb ed="#Ba" n="2"/>docere ex officio, Sciendum quod docere potest aliquis ex officio auctoritatis pastoralis, aut auctori- 
+        <lb ed="#Ba" n="3"/>tatis magistralis. Primo modo publica praedicatione. Secundo modo publica lectione. Ex officio 
+        <lb ed="#Ba" n="4"/>autem auctoritatis pastoralis potest aliquis docere populum praedicatione, vel quia habet auctoritatem pasto- 
+        <lb ed="#Ba" n="5"/>ralem ordinariam vel commissam. Secundo modobene licitum est religiosum vel monachum docere populum 
+        <lb ed="#Ba" n="6"/>praelati a quo missus est de consensu abbatis sui: sed non vltra commissionem procedere. secundum 
+        <lb ed="#Ba" n="7"/>quod dicit Gregorius in Registro. Si quispiam monachorum ad clericatus officium accesserit, non ibi 
+        <lb ed="#Ba" n="8"/>aliquam habeat vlterius potestatem. Auctoritate autem pastorali ordinaria non licet eum docere o- 
+        <lb ed="#Ba" n="9"/>mnino sicut neque praedicare, nisi ipse assumptus sit in praelatum, &amp; tunc videndum est an licet re- 
+        <lb ed="#Ba" n="10"/>ligiosum docere, &amp; an licet eum praelatum esse. Et constat eum posse praelatum esse non disceden 
+        <lb ed="#Ba" n="11"/>do a priori voto, cum ad hoc fuerit electus &amp; ordinatus, vt probat Grat. pluribus ca. xvi. d id i. ante illum. &amp; 
+        <lb ed="#Ba" n="12"/>His omnibus. 
+      </p>
+      <p xml:id="vn58an-d1e957-d1e215">
+        ⁋ Idcirco dicendum quod religiosus potest esse doctor auctoritate pastorali: sed tunc ab  
+        <lb ed="#Ba" n="13"/>soluitur ab obseruantiis quae specialiter solent obseruari in monasteriis: quia ambo non possent si- 
+        <lb ed="#Ba" n="14"/>mul custodiri. sicut dicit Grego. in ii. argumento. Satis enim incongruum est (vt idem dicit) si cum 
+        <lb ed="#Ba" n="15"/>vnum ex his pro sui magnitudine diligenter quis non possit explere, ad vtrumque videatur idoneus 
+        <lb ed="#Ba" n="16"/>Si vero neutro modo habeat auctoritatem pastoralem nullo modo licet eum docere populum pu 
+        <lb ed="#Ba" n="17"/>blica praedicatione, quia non licet eum praedicare omnino cuiuscunque sit literaturae. secundum quod  
+        <lb ed="#Ba" n="18"/>dicit Leo papa. xvi. qu. i. c. Addidimus. Praeter domini sa cerdotes nullus audeat praedicare siue mona 
+        <lb ed="#Ba" n="19"/>chus siue laicus sit ille, cuiuslibet scientiae glorietur, nisi forte intus fuerit diuina gratia ad hoc con- 
+        <lb ed="#Ba" n="20"/>monitus. sicut refert beatus Gregorius de beato Be nedicto qui homines montis Cassiani ad fidem 
+        <lb ed="#Ba" n="21"/>adduxit. &amp; de quodam Equitio cui angelus in som nis apparuit, &amp; eum ad praedicandum misit. vt 
+        <lb ed="#Ba" n="22"/>dicit Grat. causa praedicta in. c. Hoc idem. Si vero loquamur de docere auctoritate magistrali per le- 
+        <lb ed="#Ba" n="23"/>ctionem: dicendum quod hoc modo docere summe competit religiosis, &amp; sacram scripturam expone- 
+        <lb ed="#Ba" n="24"/>re, quanto magis iuxta dictamen sacrae scriptura districtius debent viuere: Sic enim inuicem sacram 
+        <lb ed="#Ba" n="25"/>scripturam docuerunt sancti eremitae &amp; exposuerunt, sicut patet in collationibus patrum. Per haec 
+        <lb ed="#Ba" n="26"/>patent obiecta. 
+      </p>
+      <p xml:id="vn58an-d1e957-d1e248">
+        <lb ed="#Ba" n="27"/>⁋ Ad primum quod oportet monachum singulariter agere: dicendum quod doctoris of 
+        <lb ed="#Ba" n="28"/>ficium praedicando auctoritate pastorali ordinaria non est singulariter agere, quia habet cum hoc 
+        <lb ed="#Ba" n="29"/>illos quos docet gubernare. Docere autem omnibus modis aliis, quia est fine regimine, non repu- 
+        <lb ed="#Ba" n="30"/>gnat ei quod est singulariter agere. Vel dicendum quod loqui tur de monacho vt monachus, non autem  
+        <lb ed="#Ba" n="31"/>vt clericus. 
+      </p>
+      <p xml:id="vn58an-d1e957-d1e262">
+        ⁋ Per idem dicendum ad secundum, quod nemo potest ecclefiasticis obsequiis deseruire, scili 
+        <lb ed="#Ba" n="32"/>cet populum gubernando, &amp; in monachorum regula ordinate persistere, scilicet quo ad claustri 
+        <lb ed="#Ba" n="33"/>obseruantias. potest tamen quo ad illa quae sunt ordini substantialia. &amp; tam haec quam illa bene potest 
+        <lb ed="#Ba" n="34"/>obseruare cum officio docendi, dum tamen non sit ei cura regiminis annexa. 
+      </p>
+      <p xml:id="vn58an-d1e957-d1e271">
+        ⁋ Similiter etiam pa 
+        <lb ed="#Ba" n="35"/>tet tertium. docere enim non est officium monachi vt monachi: sic enim esset laici nisi ex beneficio ad modum 
+        <lb ed="#Ba" n="36"/>mulieris si sanam habeat doctrinam. Est tamen bene monachi inquantum clerici literati &amp; edocti, iu 
+        <lb ed="#Ba" n="37"/>xta determinatum modum. 
+      </p>
+      <p xml:id="vn58an-d1e957-d1e280">
+        ⁋ Similiter patet quartum. monachus enim nisi praelatus vel missus a prae 
+        <lb ed="#Ba" n="38"/>lato non habet officium docentis praedicando, sed discipuli &amp; subiecti. potest tamen bene habere officium 
+        <lb ed="#Ba" n="39"/>docentis legendo vt dictum est. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

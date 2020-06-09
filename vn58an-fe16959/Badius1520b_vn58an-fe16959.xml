@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="62-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe16959"> <!-- alias="vn58an-a53a3" -->
+      <head xml:id="vn58an-fe16959-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe16959-d1e107">
+        <lb ed="#Bb" n="20"/>CIrca tertium arguitur: quod persona. habet esse vniuoce &amp; secundum eandem rationem in  
+        <lb ed="#Bb" n="21"/>deo &amp; in creaturis, Primosic. quod habet esse in aliquibus secundum idem nomen &amp; eam 
+        <lb ed="#Bb" n="22"/>dem definitionem, convenit eis vniuoce &amp; eodem modo. sic habet esse persona in deo 
+        <lb ed="#Bb" n="23"/>&amp; in creaturis, vt patet ex definitione personae secundum Ricar. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe16959-d1e118">
+        ⁋ Secundo 
+        <lb ed="#Bb" n="24"/>sic. illud habet vniuoce &amp; eodem modo esse in aliquibus, cuius formalis ratio &amp; 
+        <lb ed="#Bb" n="25"/>completiua habet esse vniuoce in eisdem. Eormalis autem ratio personae est quod sit ali 
+        <lb ed="#Bb" n="26"/>cuius, hoc est in se singularis &amp; incommunicabilis, &amp; a quolibet alio tali alius quis, &amp; distinctus ab eo. &amp; 
+        <lb ed="#Bb" n="27"/>hoc vniuoce habet esse in deo &amp; in creaturis, quia quod in se sit singularis &amp; incommunicabilis non i- 
+        <lb ed="#Bb" n="28"/>portat nisi negationem: similiter neque quod sit alius quis a distincto ab eo, negatio autem vniuoce &amp; eo- 
+        <lb ed="#Bb" n="29"/>dem modo habet esse in deo &amp; in creaturis: quemadmodum non esse lapidem vniuoce &amp; eodem modo con 
+        <lb ed="#Bb" n="30"/>uenit eis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe16959-d1e136">
+        ⁋ In contrarium arguitur primo sic. nihil significans rem aliquam &amp; naturam ha 
+        <lb ed="#Bb" n="31"/>bet esse vniuoce &amp; eodem modo in eis quorum non est aliqua natura communis: quia vniuocatio est 
+        <lb ed="#Bb" n="32"/>ex rei communis vnitate, vt patet ex definitione vniuocorum in praedicamentis. deo autem &amp; creatu- 
+        <lb ed="#Bb" n="33"/>rae nulla habet esse communis natura, vt patet ex supra determinatis: &amp; nomen personae significat rem 
+        <lb ed="#Bb" n="34"/>a &amp; naturam subsistentem, vt infra patebit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe16959-d1e148">
+        ⁋ Secundo sic illis non conuenit vniuoce esse perso- 
+        <lb ed="#Bb" n="35"/>nam, quibus non conveniunt vniuoce ea quae sunt de ratione personae &amp; integritate eius. De ratione au 
+        <lb ed="#Bb" n="36"/>tem personae &amp; integritate eius est natura siue essentia &amp; ratio incommunicabilitatis, vt patet exeius defi 
+        <lb ed="#Bb" n="37"/>nitione superius exposita, neutrum autem horum est vniuoce in deo &amp; in creaturis: quia de ra- 
+        <lb ed="#Bb" n="38"/>tione &amp; integritate personae est essentia in diuinis vt est communicabile quid in eadem singulari- 
+        <lb ed="#Bb" n="39"/>tate. in creaturis vero vt est communicabile non in eadem singularitate sed solum in communitate rati 
+        <lb ed="#Bb" n="40"/>nis. Vnde in diuinis est vna essentia singularis plurium: in creaturis autem non: sed necessario plures plu- 
+        <lb ed="#Bb" n="41"/>rium. Similiter etiam incommunicabilitas personae in diuinis est ex proprietate relatiua: in creaturis au  
+        <lb ed="#Bb" n="42"/>tem ex sola negatione. ergo &amp;c. 
+        <lb ed="#Bb" n="43"/>
+      </p>
+      <p xml:id="vn58an-fe16959-d1e170">
+        ⁋ Ad intellectum quaesiti in hac quaestione oportet videre quod intelligatur nomine personae 
+        <lb ed="#Bb" n="44"/>id scilicet facit aliquid esse personam, &amp; aspicere ad illud, an vniuoce &amp; secundum eandem rationem habeat esse in deo &amp; in crea 
+        <lb ed="#Bb" n="45"/>turis. Quia si sic: &amp; vniuoce &amp; secundum eandem rationem persona haberet esse in illis. Si vero non, nequaquam. Et quia esse 
+        <lb ed="#Bb" n="46"/>osonam secundum Boethium de duab. naturis, non convenit alicui vniversali sed solummodo singulari: &amp; secundum rationem 
+        <lb ed="#Bb" n="47"/>illam qua est singulare licet non quodcumque: sed in se existens non in alio: in accidentibus enim non est persona, neque anima 
+        <lb ed="#Bb" n="48"/>nfa vt est actus corporis est persona, neque deitas ipsa quae est in suppositis, neque vniverslter aliquid quid non habet esse 
+        <lb ed="#Bb" n="49"/>suum in se, &amp; per se alteri non vnitum: vnde humanitas Christi non est persona in Christo: Ad rationem igitur 
+        <lb ed="#Bb" n="50"/>singularis in se &amp; secundum se existentis, quod intelligitur nomine personae, oportet aspicere in hac quaestione. Super rationem 
+        <lb ed="#Bb" n="51"/>enim talis singularis nihil addit ratio personae: licet persona suo nomine non nominat huiusmodi singulare nisi 
+        <lb ed="#Bb" n="52"/>circa determinatam materiam, intellectuaele. scilicet vt dictum est. Circa rationem igitur talis singularis vt coniter ac- 
+        <lb ed="#Bb" n="53"/>cipitur, non determinando sibi materiam hanc vel aliam: sed vt absoluto nomine intelligitur: Sciendum quod nomine sin  
+        <lb ed="#Bb" n="54"/>gularis duo intelliguntur: &amp; intentio quaedam indistinctionis rei in se &amp; distinctionis eius ab aliis, &amp; ipsa res cir 
+        <lb ed="#Bb" n="55"/>ca quam intelligitur huiusmodi intentio: &amp; ad vtrumque debemus aspicere. Aspiciendo igitur primo ad rem ipsam 
+   <!--140.xml-->
+        <pb ed="#Bb" n="63-r"/>
+        <lb ed="#Bb" n="1"/>sciendum quod quodammodo aliter habet esse in creaturis, aliter in diuinis: &amp; quodammodo similiter. In creatu. 
+        <lb ed="#Bb" n="2"/>ris enim nihil habet esse singulare nisi sit indiuiduum sub aliqua forma: quae quantum est de se, forma est &amp; 
+        <lb ed="#Bb" n="3"/>essentia tantum absque ratione vniuersalis &amp; singularis: cui accidit ratio vniuersalis ex consideratione  
+        <lb ed="#Bb" n="4"/>intellectus circa ipsam, inquanum. scilicet considerat eam vt abstractam a singularibus: &amp; iterum vt applicabilem 
+        <lb ed="#Bb" n="5"/>eisdem per praedicationem. Vnde cum talis forma specifica est ex natura sua diuidua est, hoc est nata diuidi 
+        <lb ed="#Bb" n="6"/>non dico illa diuisione quae est in formam generis &amp; differentiae, vt in partes integrantes eius essentiam, de qua  
+        <lb ed="#Bb" n="7"/>nihil ad praesens: sed in partes subiectiuas, ad quas tota integritas formae est in potentia, vt tota sit in hac 
+        <lb ed="#Bb" n="8"/>et tota in illa: vt humanitas in hac humanitate quae est Petri: &amp; in illa humanitate quae est Pauli. in qui-  
+        <lb ed="#Bb" n="9"/>bus illa indiuiduatur per hoc quod facta est haec &amp; illa: quid secundum <name ref="#Aristotle">Philosophum</name> non fit nisi per subiectam materiam 
+        <lb ed="#Bb" n="10"/>in qua primo ex se est partibilitas, vt quod humanitas non est haec, nisi quia in hac parte: nec illa, nisi 
+        <lb ed="#Bb" n="11"/>quia in illa parte materiae, quemadmodum albedo non est haec, nisi quia est in hoc subiecto. Vnde &amp; for- 
+        <lb ed="#Bb" n="12"/>mas immateriales omnes posuit ex se esse singulares, quemadmodum nos ponimus deitatem esse ex se quan  
+        <lb ed="#Bb" n="13"/>dam singularitatem: quod non est ponendum: immo quod quaelibet forma creaturae specifica est &amp; materialis &amp; indi 
+        <lb ed="#Bb" n="14"/>uidualis in plures partes subiectiuas, etiam licet in se absque omni subiecto &amp; materia nata sit subsistere. 
+        <lb ed="#Bb" n="15"/>Eit autem illa eius indiuiduatio in parte subiectiua, vt humanitas in hac humanitate, immo in hoc 
+        <lb ed="#Bb" n="16"/>homine effectiue, non nisi per agens dans ei esse, nec per materiam etsi habeat materiam, nec per aliquod  
+        <lb ed="#Bb" n="17"/>accidens ei inhaerens, sed primo per suam significationem &amp; determinationem quam habet ab agente illam. 
+        <lb ed="#Bb" n="18"/>Quamquam enim secundum Ambrosium. i. de Trini. omnis creatura certis limitibus suis contenta est, humanitas tamen 
+        <lb ed="#Bb" n="19"/>ampliorem habet latitudinem spiritualem siue rationis essentiae suae quam haec humanitas. Et ideo haec humanitas 
+        <lb ed="#Bb" n="20"/>respectu humanitatis simpliciter, est determinata limitata &amp; significata: in qua significatione consistit 
+        <lb ed="#Bb" n="21"/>primo ratio singularis formae subiectiuae, sicut &amp; indiuiduatio ipsius formae communis. Ex consequenti autem fit 
+        <lb ed="#Bb" n="22"/>vtrumque eorum per negationem consequentem illam determinationem &amp; annexam ei non per vnicam, sed per duplicem: per qua. scilicet 
+        <lb ed="#Bb" n="23"/>separatur ab eo quod est sub se, &amp; ab eo quod est iuxta se. Humanitas enim diuisa est in hanc humanitatem &amp; il 
+        <lb ed="#Bb" n="24"/>lam. Etiam si non esset diuisa, esset tamen quantum est ex se diuisibilis, etsi non separatur ab eo quod est 
+        <lb ed="#Bb" n="25"/>sub se per vllam negationem. Sed haec humanitas ex eo quod est haec, nec est diuisa, nec diuisibilis in aliqua  
+        <lb ed="#Bb" n="26"/>sub se suae naturae: &amp; ideo negatiue se habet ad ea quae imaginari possent sub se: negatiue est se habet ad  
+        <lb ed="#Bb" n="27"/>ea quae sunt iuxta se, &amp; ex opposito diuisa sub specie. Singularitas enim suae formae nec conicabilis est ali 
+        <lb ed="#Bb" n="28"/>quibus sub se, neque alicui iuxta se. Ex hoc eim habet indiuiduum creaturae quod est hoc aliquidid est aliquid vnum in  
+        <lb ed="#Bb" n="29"/>se, quod non est natum esse hoc, &amp; alid sub se: &amp; similiter alid quod a quolibet alio sub forma suae speciei. Habet est 
+        <lb ed="#Bb" n="30"/>ex hoc quod est singulare suppositum, siue fuerit intellectuale, siue non intellectuale, &amp; etiam quod est persona cum 
+        <lb ed="#Bb" n="31"/>fuerit in natura intellectuali. Ratio enim suppositi vel personae in creatura: ex hoc habetur quod ipsa sit existens 
+        <lb ed="#Bb" n="32"/>in se, &amp; secundum se in natura inconicabili: quod necessario habetur in creaturis ex illa duplici negatione circa 
+        <lb ed="#Bb" n="33"/>formam &amp; naturam rei determinatam. In diuinis autem non sic est ratio singularitatis ex parte rei, quia in eis 
+        <lb ed="#Bb" n="34"/>ipsa forma deitatis etiam vt simpliciter &amp; absolute consideratur, singularis est, nullo modo nata diui- 
+        <lb ed="#Bb" n="35"/>di in aliquo sub se accipiendo determinationem. Vnde non est nata in supposito indiuiduari: per proprie 
+        <lb ed="#Bb" n="36"/>tates tamen relatiuas nata est conicari manens in eadem singularitate essentiae: per quas proprietates constituitur 
+        <lb ed="#Bb" n="37"/>ratio suppositi &amp; personae in diuinis, &amp; singularitatis earundem: non inquantum illae proprietates sunt relatiuae 
+        <lb ed="#Bb" n="38"/>tantum: sed inquantum sunt relatiue oppositae. Ex quo sequitur duplex negatio. vna ratione cuiuslibet pro 
+        <lb ed="#Bb" n="39"/>prietatis personalis. quia enim ipsa ex se inconicabilis est, ex hoc habetur negatio remouens pluralitatem commu 
+        <lb ed="#Bb" n="40"/>nicandi alteri suam proprietatem in eadem natura, ne in diuinis sint plures personae eiusdem respectus vel plures 
+        <lb ed="#Bb" n="41"/>patres, vel plures filii, vel plures spiritusancti. Altera, ratione oppositionis distinguentis: per quam habetur ne 
+        <lb ed="#Bb" n="42"/>gatio remouens quamlibet personam a sua correlatiua. Et sic completur ratio distinctionis diuinarum personarum 
+        <lb ed="#Bb" n="43"/>&amp; singularitas earum per negationem, sicut &amp; creaturarum, &amp; quo ad hoc vniuoce &amp; secundum eandem rationem 
+        <lb ed="#Bb" n="44"/>habet esse persona in deo &amp; in creaturis, vt processit secunda obiectio ad primam partem. Inquantum tamen huiusmodi 
+        <lb ed="#Bb" n="45"/>negationes concomitantur in diuinis relatiuas proprietates, quae in essentia communi personas constituunt prin 
+        <lb ed="#Bb" n="46"/>cipaliter atque distiguunt, l non sine virtute negationum annexarum: in creaturis vero concomitantur ipsius na 
+        <lb ed="#Bb" n="47"/>turae &amp; essentiae determiationem, quae ipsam essentiam contrahit in suppositum &amp; personam, l non sine virtute negatio 
+        <lb ed="#Bb" n="48"/>num annexarum, vt dictum est supra: Et secundum hoc licet ratione negationum vniuoce, &amp; secundum eandem ratio 
+        <lb ed="#Bb" n="49"/>nem habet esse &amp; constitui persona in deo &amp; in creaturis: ratione tamen illorum quibus dictae negationes sunt 
+        <lb ed="#Bb" n="50"/>annexae hincinde, quod illic est ipsa essentia vel natura determinata, hic vero proprietatum relatio, multum 
+        <lb ed="#Bb" n="51"/>aequiuoce &amp; alia atque alia ratione habet esse persona in deo &amp; in creaturis: inquantum altera est ratio &amp; aequo  
+        <lb ed="#Bb" n="52"/>ca constituendi personam, in creatura essentiae creatae determiatio, &amp; in deo proprietatum relatio. Ex parte tamen ne- 
+        <lb ed="#Bb" n="53"/>gationum aliquod refert de negatione respectu eius quod est sub se, &amp; respectu eius quod est iuxta se. Quia ex parte 
+        <lb ed="#Bb" n="54"/>eius quod negatur omnino, est vniuoce negatio sub se, quia sicut diuina persona singsa in se plurificari non pot, sic nec 
+        <lb ed="#Bb" n="55"/>creata persona. Ex parte vero eius quod negatur iuxta se, quodammodo est vniuoca &amp; quodammodo aequoca, quod ei vna 
+   <!--141.xml-->
+        <pb ed="#Bb" n="63-v"/>
+        <lb ed="#Bb" n="1"/>persona negatur ab altera in diuinis, hoc non est ratione naturae &amp; essentiae, sed personalis proprietatis. In creatu 
+        <lb ed="#Bb" n="2"/>ris vero &amp; ratione essentiae &amp; ratione personalitatis vna remouetur ab altera: quia in deo vna est essentia singu 
+        <lb ed="#Bb" n="3"/>laris communis pluribus personis: non sic in creaturis. Sic ergo aspiciendo ad rem ipsam circa quam conside 
+        <lb ed="#Bb" n="4"/>ratur intentio singularis in deo &amp; in creaturis, quodammodo vniuoce &amp; quodammodo aequoce habet esse 
+        <lb ed="#Bb" n="5"/>psona in illis. Si vero aspiciamus ad ipsam intentionem, cum ratio intentionis non diuersatur propter diuersitatem re 
+        <lb ed="#Bb" n="6"/>rum circa quaes est: non enim est alia ratio speciei quae est intentio logicalis: inquantum consideratur circa substantiam, vt circa 
+        <lb ed="#Bb" n="7"/>hominem aut asinum: &amp; inquantum consideratur circa accidens siue fuerit absolutum vt circa albedinem aut ni 
+        <lb ed="#Bb" n="8"/>gredinem, siue respectiuum vt circa dominium vniversaliseruitutem: Dicendum est quod omnino vniuoce &amp; secundum eandem rationem 
+        <lb ed="#Bb" n="9"/>persona habet esse in deo &amp; in creaturis: quamuis in deo consideratur circa respectiuum: in creaturis vero 
+        <lb ed="#Bb" n="10"/>circa absolutum: nisi quod personae intentio consideratur in deo in pluribus personis respectu essentiae singularis: non 
+        <lb ed="#Bb" n="11"/>sic autem in creaturis. Sed hoc rationem intentionis in nullo variat.  
+        <lb ed="#Bb" n="12"/>
+      </p>
+      <p xml:id="vn58an-fe16959-d1e356">
+        ⁋ Ad primum argumentum ostendens quod omnino vniuoce &amp; eadem ratione in deo sit &amp; in  
+        <lb ed="#Bb" n="13"/>creaturis, quia eadem est definitio personae vtrobique: Dicendum quod non est verum: quia talis est aequiuoca 
+        <lb ed="#Bb" n="14"/>tio in definitione qualis est &amp; in nomine. Existentia enim incommunicabilis est in persona creata &amp; in increata 
+        <lb ed="#Bb" n="15"/>sed aequoca incommunicabilitate. Inconicabilitas enim existentiae in persona creata habetur ex essentiae deter 
+        <lb ed="#Bb" n="16"/>minatione: in persona vero increata ex proprietatum relatione, vt dictum est. 
+      </p>
+      <p xml:id="vn58an-fe16959-d1e367">
+        ⁋ Ad primum argumentum in op 
+        <lb ed="#Bb" n="17"/>ositum ostendens quod omnino aequiuoce est persona in illis: quia nulla res aut natura communis est vniuoce deo &amp; 
+        <lb ed="#Bb" n="18"/>creaturis: Dicendum quod ratio ista probat quod non penitus vniuoce convenit eis, si tamen persona est nomen rei &amp; na 
+        <lb ed="#Bb" n="19"/>turae: sicut etiam nomina attributorum essentialium non penitus vniuoce conveniunt deo &amp; creaturis, vt patet ex 
+        <lb ed="#Bb" n="20"/>supra determinatis. Nec tamen ex hoc sequitur quod penitus aequoce: quia est media analogia. secundum quam tam 
+        <lb ed="#Bb" n="21"/>essentialia quam personalia quae conveniunt coniter deo &amp; creaturis, per prius deo conveniunt quantum est ex ratione signi 
+        <lb ed="#Bb" n="22"/>ficati per vocem: licet quantum est ex vocis impositione, conveniunt eis modo converso, quia a creaturl sit omnis vocum trans 
+        <lb ed="#Bb" n="23"/>latio quibus vtimur circa creatorem, secundum quod melius infra declarabitur disputando de modo loquendi de deo. Si 
+        <lb ed="#Bb" n="24"/>vero persona sit nomen intentionis, tunc argumentum falsum supponit de significato personae, quod significat rem 
+        <lb ed="#Bb" n="25"/>&amp; naturam: immo potius quendam modum conceptus circa rem, quem nihil repugnat vniuoce quodammodo &amp; se 
+        <lb ed="#Bb" n="26"/>cundum eandem rationem esse in deo &amp; in creaturis, &amp; quodammodo aequoce, vt iam dictum est. Sed de illo erit sermo in 
+        <lb ed="#Bb" n="27"/>sequenti quaestione, in qua loqmur de significato huius nominis persona. licet enim nulla res pure vniuoce con 
+        <lb ed="#Bb" n="28"/>uenit deo &amp; creaturae, nihil tamen repugnat aliquam intentionem secundam pure vniuoce ipsis convenire: quia 
+        <lb ed="#Bb" n="29"/>non ponit aliquid in deo, sed potius in conceptu intellectus, vt infra patebit. 
+      </p>
+      <p xml:id="vn58an-fe16959-d1e398">
+        ⁋ Ad secundum quod essentia non 
+        <lb ed="#Bb" n="30"/>est vniuoca de ratione personae in deo &amp; creaturis: quia in deo habet rationem conicabilis: in creaturis vero in- 
+        <lb ed="#Bb" n="31"/>conicabilis: Dicendum quod secundum Ricar. A. de triniitate. cap. viii. vt infra magis exprimetur, personam iuxta eandem 
+        <lb ed="#Bb" n="32"/>intelligentiam accipimus in singulari &amp; in plurali. Sed siue essentia sit conicabilis, siue non, siue plures in 
+        <lb ed="#Bb" n="33"/>pluribus personis siue vna &amp; eadem singularis, nihil interest. Vnde cum duo sint de integritate personae scilicet esntia 
+        <lb ed="#Bb" n="34"/>&amp; personalis proprietas, vt patebit inferius circa personas diuinas, ipsa essentia est quasi materiale in ea- 
+        <lb ed="#Bb" n="35"/>dem, &amp; proprietas quasi formale: ita quod in ratione proprietatis consistit ratio personae: ita quod persona est vna si proprietas 
+        <lb ed="#Bb" n="36"/>sit inconicabilis &amp; vna: &amp; plures personae si plures sint tales, siue substantia sit conicabilis pluribus in vna sin  
+        <lb ed="#Bb" n="37"/>gularitate, siue tantum in pluribus singularititabus. Vt enim dicit Ricar. ca. x. sicut esse substantialiter alid &amp; 
+        <lb ed="#Bb" n="38"/>alid non tollit vbique vnitatem personae, sic esse pluraliter vnum &amp; alium, non scindit vbique vnitatem substantiae. Namn in  
+        <lb ed="#Bb" n="39"/>humana natura alia est substantia anima, alia corpus: cum tamen nin sint nisi vna persona. In diuina vero natura alius ali 
+        <lb ed="#Bb" n="40"/>quis est persona vna, &amp; alius aliquis persona altera: cum tamen non sit nisi vna eademque substantia. Et vt dicit 
+        <lb ed="#Bb" n="41"/>cap. xxv. proprium est diuinae naturae pluralitatem habere in vnitate substantiae personarum. Econtra vero pro 
+        <lb ed="#Bb" n="42"/>prium est humanae naturae substantiarum pluralitatem habere in vnitate personae. Nam quod humana persona 
+        <lb ed="#Bb" n="43"/>in simplicitate substantiae inuenitur, non est de naturae ipsius conditione: sed de ipsius conditionis corruptio 
+        <lb ed="#Bb" n="44"/>ne fore deprehenditur: &amp; hoc non nisi ab eo quod est formale in esse hominis, a quo principaliter trahit suam per- 
+        <lb ed="#Bb" n="45"/>sonalitatem vt in anima sepeata. Cum etiam additur quod inconicabilitas non est eiusdem rationis in creaturis &amp; in deo:  
+        <lb ed="#Bb" n="46"/>Dicendum quod inquantum est ex parte positiui quod importatur nomine proprietatis in diuinis, non est aliquod correspon 
+        <lb ed="#Bb" n="47"/>dens in indiuiduatione creaturae: &amp; quantum ad hoc ratio indiuiduationis vel personalitatis non est vniuoce in 
+        <lb ed="#Bb" n="48"/>creaturis &amp; in deo. quantum tamen est ex parte negationum annexarum, partim est vniuocatio, partim aequiuo 
+        <lb ed="#Bb" n="49"/>catio, vt expositum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

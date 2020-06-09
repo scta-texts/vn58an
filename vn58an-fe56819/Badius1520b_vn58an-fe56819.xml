@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="207-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe56819"> <!-- alias="vn58an-a65q2" -->
+      <head xml:id="vn58an-fe56819-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe56819-d1e107">
+        <lb ed="#Bb" n="44"/>CIrca Secundum arguitur quod non vniformiter idem aequale &amp; simile causantur 
+        <lb ed="#Bb" n="45"/>ab vno: &amp; diuersum dissimile inaequale a multo, Primo sic. diuersum, inaequale, 
+        <lb ed="#Bb" n="46"/>&amp; dissimile, causantur semper a multo ex natura ipsius multi absque opera- 
+        <lb ed="#Bb" n="47"/>tione intellectus. Propter quod relationes communes sequentes multum sunt sem 
+        <lb ed="#Bb" n="48"/>per reales. Et hoc vel ex parte vtriusque extremorum: vt quando est inter crea 
+        <lb ed="#Bb" n="49"/>turas: vel alterius tantum, vt quando est inter deum &amp; creaturam. ldem autem aequale 
+        <lb ed="#Bb" n="50"/>&amp; simile aliquando causantur ab vno ex natura ipsius vnius absque opere intellectus: aliquando autem non 
+        <lb ed="#Bb" n="51"/>absque opere intellectus. Secundum hoc enim aliquando sunt relationes communes secundum rem: aliquando  
+        <lb ed="#Bb" n="52"/>autem secundum rationem tantum, vt patet ex praedeterminatis. sed relationes quae sunt secundum rem non vni 
+        <lb ed="#Bb" n="53"/>formiter causantur cum relationibus secundum rationem, vt patet ex praedeterminatis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe56819-d1e131">
+        ⁋ Secundo  
+        <lb ed="#Bb" n="54"/>sic. diuersum, inaequale, &amp; dissimile causantur a multo vt continet actu relata per illa: quia non 
+   <!--430.xml-->
+        <pb ed="#Bb" n="208-r"/>
+        <lb ed="#Bb" n="1"/>est multum nisi aggregatione illorum. ldem autem aequale &amp; simile causantur ab vno, vt virtute conti- 
+        <lb ed="#Bb" n="2"/>net relata per illa: quia non est vnum nisi vnitate rei indiuisae sub vna forma. sed modus causandi 
+        <lb ed="#Bb" n="3"/>iste &amp; ille non sunt vniformes. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe56819-d1e147">
+        ⁋ In contrarium est quod relationes quae sequuntur multum, ope 
+        <lb ed="#Bb" n="4"/>ponuntur sicut priuatio &amp; habitus ad illas quae sequuntur vnum. Sed habitus &amp; priuatio causantur 
+        <lb ed="#Bb" n="5"/>vniformiter ab eadem causa substantiae, vt est defectu positiua in vno, &amp; defectiua in alio: sicut 
+        <lb ed="#Bb" n="6"/>idem est causa salutis &amp; periculi nauis per suam praesentiam &amp; suam absentiam. Pro quanto enim ponitur 
+        <lb ed="#Bb" n="7"/>causa per suam praesentiam: pro tanto causatur habitus: &amp; pro quanto deficit per suam absentiam 
+        <lb ed="#Bb" n="8"/>pro tanto causatur priuatio. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe56819-d1e161">
+        <lb ed="#Bb" n="9"/>⁋ Dico quod secundum processum vltimi argumenti vniformiter sequuntur ad mu tum. 
+        <lb ed="#Bb" n="10"/>diuersum, dissimile, &amp; inaequale: &amp; ad vnum, idem simile &amp; aequale. Sed hoc vniformitate lin op- 
+        <lb ed="#Bb" n="11"/>posito: secundum quod illae relationes sunt oppositae, &amp; ab oppositis causis secundum priuationem &amp; habitum 
+        <lb ed="#Bb" n="12"/>circa idem re causantur. Relationes enim quae causantur ab vno: causantur ab illo ratione indiuisionis 
+        <lb ed="#Bb" n="13"/>rei existentis sub forma vnius. Illae vero quae sequuntur multum, causantur a multo ratione diuisionis 
+        <lb ed="#Bb" n="14"/>oppositae, quae consistit in aggregatione plurium rerum indiuisarum sub pluribus formis vnius: si 
+        <lb ed="#Bb" n="15"/>cut patet ex quaestione praecedente ex modis diuersitatis oppositis modis identitatis, &amp; ex modis 
+        <lb ed="#Bb" n="16"/>dissimilitudinis oppositis modis similitudinis, &amp; ex modis inaequalitatis oppositis modis aequa  
+        <lb ed="#Bb" n="17"/>litatis. ldem enim aequale &amp; simile causantur ab vno in forma &amp; specie: vt tamen distinctum 
+        <lb ed="#Bb" n="18"/>est per vnum &amp; vnum quae sunt formae &amp; speciei eiusdem: &amp; per hoc vt diminuta ab illo vno 
+        <lb ed="#Bb" n="19"/>proprietate vnitatis: aut vnita in illo proprietate vnionis secundum praedeterminata. Ex opposito 
+        <lb ed="#Bb" n="20"/>autem diuersum inaequale &amp; dissimile causantur a multo aggregante in se vnum &amp; vnum di 
+        <lb ed="#Bb" n="21"/>stincta vel in forma speciei, vt patet in inaequali: secundum quod haec patent ex dictis in praecedente 
+        <lb ed="#Bb" n="22"/>quaestione.  
+        <lb ed="#Bb" n="23"/>
+      </p>
+      <p xml:id="vn58an-fe56819-d1e196">
+        ⁋ Quia arguitur primo quod relationens communes praedictae non vniformiter causantur 
+        <lb ed="#Bb" n="24"/>ab vno &amp; multo: quia causatae ab vno aliquando sunt secundum rem, aliquando secundum rationem tantum: quae  
+        <lb ed="#Bb" n="25"/>vero causantur a multo, semper sunt secundum rem: Dico quod haec ratio probat bene quod non causan- 
+        <lb ed="#Bb" n="26"/>tur vniformiter directe: quod contingit quia non sunt vniformia vnum &amp; multum ad quae sequun 
+        <lb ed="#Bb" n="27"/>tur. Et hoc quia vnum est indiuisum secundum formam &amp; speciem: multum vero est secundum formas &amp; spe 
+        <lb ed="#Bb" n="28"/>cies diuisum: &amp; non nisi aggregatione vnum. Non tamen probat ratio illa quin causentur ab illis 
+        <lb ed="#Bb" n="29"/>vniformiter ex opposito: sicut &amp; illa opposita sunt: &amp; cum hoc etiam vt ista vniformitas non in  
+        <lb ed="#Bb" n="30"/>telligatur de eodem aequali &amp; simili: nisi causatis ab vno quod natum est habere multum sibi con 
+        <lb ed="#Bb" n="31"/>trarium: cuiusmodi est in creaturis: non autem in diuinis, in quibus idem aequale &amp; simile 
+        <lb ed="#Bb" n="32"/>non habent opposita diuersum, inaequale, &amp; dissimile. Et etiam ex hoc quod illa conformitas est ex ope 
+        <lb ed="#Bb" n="33"/>posito: contingit quod in creaturis ab vno causatur relatio secundum rationem tantum: cum tamen diuersi- 
+        <lb ed="#Bb" n="34"/>tas illi opposita sit secundum rem tantum, vt contingit in diuersitate secundum numerum, quae opponitur 
+        <lb ed="#Bb" n="35"/>identitati fundatae super vnum dictum ab vnitate singularitatis: quae identitas non est nisi secundum rationem 
+        <lb ed="#Bb" n="36"/>tam in creaturis quam in diuinis, vt patetur ex supra determinatis. Si etiam velimus comparare diuersum 
+        <lb ed="#Bb" n="37"/>inaequale &amp; dissimile causata. a multo in creaturis: ad idem aequale &amp; simile causata ab vno in  
+        <lb ed="#Bb" n="38"/>diuinis: dico quod vniformiter causantur ab vno &amp; multo hincinde: sed ex opposito non in eodem 
+        <lb ed="#Bb" n="39"/>siue in eadem natura: sed in diuerso: siue in alia natura: secundum quod alia est natura creata a natu- 
+        <lb ed="#Bb" n="40"/>ra increata.  
+      </p>
+      <p xml:id="vn58an-fe56819-d1e235">
+        ⁋ Per idem patet ad secundum ex hoc quod non nisi ex opposito praedicta causantur ab  
+        <lb ed="#Bb" n="41"/>vno &amp; multo. Amulto enim vt congregat plura in actu, causantur diuersum inaequale &amp; dissi- 
+        <lb ed="#Bb" n="42"/>mile: ab vno autem vt tantum virtute continet plura, causantur idem aequale &amp; simile: &amp; sic dire- 
+        <lb ed="#Bb" n="43"/>cte difformiter causantur ab illis: quia vt ab oppositis, causantur illae relationes ab vno &amp; mul 
+        <lb ed="#Bb" n="44"/>to, vt procedit ista ratio: &amp; vt relationes oppositae. secundum quod procedit praecedens ratio.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="184-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2214"> <!-- alias="vn58an-a31q1" -->
+      <head xml:id="vn58an-d1e2214-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e2214-Hd1e107" type="question-title">Utrum Deus possit dici esse aeternus</head>
+      <p xml:id="vn58an-d1e2214-d1e110">
+        <lb ed="#Ba" n="33"/>CIrca primum arguitur quod deus non possit dici esse aeternus. primo sic. Deus non est id 
+        <lb ed="#Ba" n="34"/>cuius ipse est auctor, quia tale est creatura. sed secundum Aug. li.l lxxxiii qaetionibus deus ipsius 
+        <lb ed="#Ba" n="35"/>aeternitatis est auctor. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2214-d1e119">
+        ⁋ Secundo sic. deus non est id quod est infra eum: quia illud  
+        <lb ed="#Ba" n="36"/>non est nisi creatura. aeternitas est aliquid infra deum, quia dicitur in secunda propositione de causis. 
+        <lb ed="#Ba" n="37"/>Deus est supra aeternitatem. &amp; in Canti. ii. Exo. dicitur. Dns regnabit in aeternum &amp; vltra 
+        <lb ed="#Ba" n="38"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2214-d1e129">
+        ⁋ In contrarium est quod dicitur in symbo. Athana. Aeternus pater, aeternus fi 
+        <lb ed="#Ba" n="39"/>lius, aeternus spiritus sanctus. 
+      </p>
+      <p xml:id="vn58an-d1e2214-d1e134">
+        <lb ed="#Ba" n="40"/>⁋ Dicendum ad, hoc quod cum aeternitas dicat durationem in essendo rei aeternae: duratio 
+        <lb ed="#Ba" n="41"/>autem in essendo duo respicit, &amp; terminos essendi quo ad initium &amp; finem, &amp; essendi modum quo ad fuxum &amp; 
+        <lb ed="#Ba" n="42"/>stabilitatem: quaestio ergo de aeternitate dei potest attendi vel per respectum ad termios essendi, vtrum. scilicet deus sit aeter 
+        <lb ed="#Ba" n="43"/>nus, hoc est carens principio &amp; fine in suo esse: secundum quod dicit <name ref="#Anselm">Anselmus</name> in Mon. Vera aeternitas principu finis 
+        <lb ed="#Ba" n="44"/>quod meta carere intelligitur. vel potest attendi per respectum ad essendi modum: vtrum. scilicet deus sit aeternus hoc est hamiens 
+        <lb ed="#Ba" n="45"/>durationem stantem &amp; fixam. secundum quod dicit <name ref="#Anselm">Anselmus</name> in eodem. Aeternitas nihil aliud est quam essendi incommutabi 
+        <lb ed="#Ba" n="46"/>litas. de quae habitum est in quaestione praecedenti. Quaesitum vero in quaestione ista primo modo, determinatum est in  
+        <lb ed="#Ba" n="47"/>praecedentibus: vbi onsum est quod deus est necesse esse hamens esse ex se per essentiam, &amp; non potens omnino non esse. Vnde quo 
+        <lb ed="#Ba" n="48"/>ad omnem modum patet huius quaestionis determiatio ex praecedentibus, &amp; non restat nisi partractatio. Sciendum igitur quod  
+        <lb ed="#Ba" n="49"/>deus ex hoc quod est purum esse, secundum quod determiatum est supra, habet in se perfectionem omnis entis, vt determiabitur infra: 
+        <lb ed="#Ba" n="50"/>&amp; ideo omnis dispositio quae rationem perfectionis importat inquantum huiusmodi, pura. scilicet ab omni ratione imperfectionis, deo attribui 
+        <lb ed="#Ba" n="51"/>debet. Talis autem dispositio importatur nomine aeternitatis. Idcirco absolute concedendum est quod deus debet dici esse 
+        <lb ed="#Ba" n="52"/>aeternus. Ad intellectum autem assumpti sciendum: quod cum esse dicit actum existendi, &amp; omnis actus existendi ponit 
+        <lb ed="#Ba" n="53"/>durationem in esse circa illud cuius est: ita quod esse &amp; duratio in essendo in diuersis: sunt diuersa secundum  
+        <lb ed="#Ba" n="54"/>diuersitatem eius cuius sunt: necessario sequitur quod secundum diuersitatem rerum est diuersitas modi essendi 
+   <!--384.xml-->
+        <pb ed="#Ba" n="185-r"/>
+        <lb ed="#Ba" n="1"/>&amp; durationis in essendo. Vnde &amp; dictum est supra, quod propter rerum diuersitatem quae subsunt enti 
+        <lb ed="#Ba" n="2"/>ens de quolibet vsque ad minima rerum dicitur analogice, &amp; alio modo quam de alio. Nunc autem modus 
+        <lb ed="#Ba" n="3"/>essendi &amp; durandi rei entis per essentiam, quia ipsa est simplex &amp; immutabilis secundum praedeterminata, non 
+        <lb ed="#Ba" n="4"/>potest esse nisi simplex &amp; vniformis sine omni variatione: sicut modus essendi rei entis per partici- 
+        <lb ed="#Ba" n="5"/>pationem: quia ipsa nec omnino simplex est, nec omnino immutabilis, non potest esse nisi variabilis &amp; multi 
+        <lb ed="#Ba" n="6"/>formis: vt debet exponi loquendo de creaturis. Quia sicut rei mobili &amp; transmutabili vel secundum sub 
+        <lb ed="#Ba" n="7"/>stantiam, vel secundum dispositiones substantiae attribuitur dispositio mensurae: quae modum durationis sibi respon 
+        <lb ed="#Ba" n="8"/>dentis importat: cuiusmodi est tempus: Tempus enim nihil aliud est nisi dispositio mensure quae dicit modum du  
+        <lb ed="#Ba" n="9"/>rationis essendi in transitu &amp; successione distincte secundum prius &amp; posterius in re mobili &amp; transmutabili 
+        <lb ed="#Ba" n="10"/>existens, vt patet secundum philosophum ex definitione temporis in iiii. Physicae. sicut declarari habet loquendo de 
+        <lb ed="#Ba" n="11"/>tempore: consimiliter &amp; rei omnino permanenti &amp; intransmutabili secundum substantiam &amp; dispositiones substam 
+        <lb ed="#Ba" n="12"/>tiae: cuiusmodi est deus: debet attribui dispositio mensurae quae modum durationis sibi respondentis impor 
+        <lb ed="#Ba" n="13"/>tet: cuiusmodi est aeternitas. Aeternitas enim nihil aliud est nisi dispositio quae dicit modum durationis es 
+        <lb ed="#Ba" n="14"/>sendi in permanentia &amp; fixione in re fixa &amp; permanenti absque omni transmutatione existens. vt patet 
+        <lb ed="#Ba" n="15"/>secundum Boethium ex definitione aeternitatis quam ponit. v. de consolatione dicens. Aeternitas est intermina 
+        <lb ed="#Ba" n="16"/>bilis vitae tota simul &amp; perfecta possessio. In quae definitione non nisi vniformitatem durationis circa mo 
+        <lb ed="#Ba" n="17"/>dum essendi quem importat aeternitas, exprimit: quae vt dicit <name ref="#Boethius">Boethius</name>  in fine de consol. clarius nobis ex 
+        <lb ed="#Ba" n="18"/>temporis &amp; temporalium cognitione liquet. In cognitionem enim simplicium oportet nos deuenire ex co 
+        <lb ed="#Ba" n="19"/>gnitione compositorum. secundum philosophum in principio Physicae. Sicut ergo in sumendo tempus large &amp; consimiliter 
+        <lb ed="#Ba" n="20"/>motum dicimus omnem creaturam mobilem &amp; temporalem: secundum quod dicit <name ref="#Augustine">Augustinus</name> viii. super Gen. &amp; in quaestio- 
+        <lb ed="#Ba" n="21"/>nibus ad Oros. dicit creaturam spiritualem moueri per tempus: eo quod durationem omnimode fixam &amp; perma-  
+        <lb ed="#Ba" n="22"/>nentem non habet in suo esse: sed quodammodo variabilem &amp; succedentem: eo quod quaelibet creatura quantum 
+        <lb ed="#Ba" n="23"/>est de se continue tendit in non esse: quia de nihilo est, vt declarari debet loquendo de creaturis: quae 
+        <lb ed="#Ba" n="24"/>quidem duratio tempus appellatur: Tempus enim secundum philosophum, est mensura motus secundum prius &amp; posterius: 
+        <lb ed="#Ba" n="25"/>Sic deum dicimus aeternum: eo quod in suo esse habet durationem omnino fixam &amp; permanentem quae aeternitas 
+        <lb ed="#Ba" n="26"/>appellatur, &amp; procedit ex ipsius entis omnimoda intransmutatione in suo esse. secundum quod dicit Augusg. lib. lxxxiiii. 
+        <lb ed="#Ba" n="27"/>qo. Quod immutabile est, aeternum est: semper enim eiusmodi est: quod autem commutabile est, tempori obnoxium est. 
+        <lb ed="#Ba" n="28"/>Non enim semper eiusdem modi est: &amp; ideo aeternum non recte dicitur. Et. viii. de trinitate. c. xix. Non proprie voca 
+        <lb ed="#Ba" n="29"/>tur aeternum: quod aliqua parte mutatur. Inquantum ergo mutabiles sumus, intantum ab aeternitate distamus. 
+        <lb ed="#Ba" n="30"/>Vera autem immortalitas: vera immutabilitas: ipsa est aeternitas. ldem dicit de natura boni. Propter 
+        <lb ed="#Ba" n="31"/>quod dicit <name ref="#Anselm">Anselmus</name> in mondo. xxiiii. Aeternitas numquam est dissimilis. tempus autem in aliquo est dissimile. Hanc 
+        <lb ed="#Ba" n="32"/>autem similitudinem &amp; vniformitatem describit Boet. per membra definitionis praedictae: excludendo omnem 
+        <lb ed="#Ba" n="33"/>temporalium variationem: appellando etiam omnem creaturam ratione suae variabilitatis temporalem. secundum  
+        <lb ed="#Ba" n="34"/>quod dicit exponendo suam definitionem, sic. Quicquid viuit in tempore id praesens a praeteritis in futura proce 
+        <lb ed="#Ba" n="35"/>dit: nihil enim est in tpore constitutum: quod totum vitae suae spatium possit amplecti: sed crastinum quidem 
+        <lb ed="#Ba" n="36"/>non apprehendit: hesternum vero perdidit. Quod igitur interminabilis vitae plenitudinem totam pari 
+        <lb ed="#Ba" n="37"/>ter comprehendit ac possidet: cui nec futuri aliquid absit: nec aliquid praeteriti: id aeternum iure per 
+        <lb ed="#Ba" n="38"/>hibetur. Secundum hanc ergo explanationem primo describit aeternitatem in generali &amp; in summa, ex 
+        <lb ed="#Ba" n="39"/>ratione scilicet subiecti in quo est aeternitas. Ex cuius vniformitate in essendo habet esse cum dicit vitae. 
+        <lb ed="#Ba" n="40"/>Vita enim nominat actum essendi purum: qui excludit omnem variationem &amp; dissimilitudinem in  
+        <lb ed="#Ba" n="41"/>essendo: quia eius contrarium est mors: quae contingit in omni modo variationis: quia omnis va 
+        <lb ed="#Ba" n="42"/>riatio mors quaedam est in eo quod variatur, vt praedictum est, quae nullo modo in deo potest cadere 
+        <lb ed="#Ba" n="43"/>vt similiter dictum est. Et ideo esse ipsum quod deus est, propriissime vita appellatur: quia (vt dicit 
+        <lb ed="#Ba" n="44"/>Gregorius super Exe, esse dei est numquam dissimiliter esse. Cum ergo dicit quia aeternitas est vitae, in sum- 
+        <lb ed="#Ba" n="45"/>ma eius vniformitatem omnimodam exprimit: ponendo subiectum in dicta definitione loco gene- 
+        <lb ed="#Ba" n="46"/>ris: per quod in generali omnem variationem ab ipsa excludit. Et tunc per alias particulas quae ponuntur 
+        <lb ed="#Ba" n="47"/>in definitione loco differentiarum, quasi per partes eam describit: excludendo ab ea per illas particulas omnem dissi 
+        <lb ed="#Ba" n="48"/>militudinem &amp; variationem quae contingit circa tempus ex rerum temporalium variatione. Perfecta enim 
+        <lb ed="#Ba" n="49"/>vniformitas durationis consistit in hoc quod nec est incipiens nec definens: nec diuersum esse ha 
+        <lb ed="#Ba" n="50"/>bens: nec succedens: nec dependens. Propter primum dicitur aeternitas possessio: quod enim possidetur 
+        <lb ed="#Ba" n="51"/>iam habitum est: nec acquiritur inquantum huiusmodi: &amp; ita haberi non incipit: &amp; significat in aeternitate 
+        <lb ed="#Ba" n="52"/>carentiam principii in duratione essendi circa aeternum: per quod generaliter excluditur omnis duratio 
+        <lb ed="#Ba" n="53"/>essendi quae est circa id quid in creaturis incipit esse de nouo. Propter secundum dicitur interminabilis:  
+        <lb ed="#Ba" n="54"/>quod enim terminari non potest definere esse non potest: &amp; significat in aeternitate carentiam finis in duratione 
+        <lb ed="#Ba" n="55"/>essendi circa aeternum: per quod generaliter excludit omnem durationem essendi periodalem, quae est 
+   <!--385.xml-->
+        <pb ed="#Ba" n="185-v"/>
+        <lb ed="#Ba" n="1"/>circa id quid in creaturis desinit esse. Propter tertium dicit tota. Cum enim totalitas partialitati oppo- 
+        <lb ed="#Ba" n="2"/>nitur, quod vere est totum in se continet quicquod naturae suae est, tamquam indiuiduum perfectum totaliter con 
+        <lb ed="#Ba" n="3"/>tinens in simplici totam naturam suae speciei: &amp; ideo partium sub se multitudinem vel diuersitatem non ha-  
+        <lb ed="#Ba" n="4"/>bet: &amp; significat in aeternitate simplicitatem quae omnino immutabilis est: &amp; excludit omnem durationem 
+        <lb ed="#Ba" n="5"/>essendi pluribus conicatam vt partibus subiectiuis, cuiusmodi est ratio tporis, quae pluribus secundum idem nomen &amp; rationem 
+        <lb ed="#Ba" n="6"/>convenit. Quaelibet enim pers tporis tempus est. Propter quaertum dicitur simul quod enim est simil, cum habet esse sui vnum aliquid, non 
+        <lb ed="#Ba" n="7"/>expectat alid: &amp; significat in aeternitate imptibilitatem quo ad partes integrantes, quae in simplici instanti conti 
+        <lb ed="#Ba" n="8"/>netur existens semper penseops &amp; nihil respiciens praeteritum vniversal expectans futurum, per quod excluditur tota successio quae 
+        <lb ed="#Ba" n="9"/>est in tempore: &amp; fiuxus instantis tporalis. Vnde dicit <name ref="#Boethius">Boethius</name>  de trinitate. c. xi. Tantum inter nrarum rerum praesens 
+        <lb ed="#Ba" n="10"/>quod est nunc, interest ac diuinarum: quod nostrum nunc, quasi currens, tempus facit: diuinum vero nunc perma- 
+        <lb ed="#Ba" n="11"/>nens atque consistens neque mouens sese, aeternitatem facit. Et Augu. xi. consi. c. xv. Praesens si semper esset 
+        <lb ed="#Ba" n="12"/>nec in praeteritum transiret: non iam esset tempus: sed aeternitas. Quoniam vt dicit <name ref="#Boethius">Boethius</name>  in fine de con- 
+        <lb ed="#Ba" n="13"/>solatione, Aeternitatem infinitus temporum motus imitatur: sed quoniam manere non potuit in praesen- 
+        <lb ed="#Ba" n="14"/>ti, infinitum temporis iter arripuit: sicque factum est vt esse continuaret eundo, cuius plenitudinem comple 
+        <lb ed="#Ba" n="15"/>cti non valuit permanendo. Propter quintum dicitur perfecta: quod enim perfectum est in duratione sua essendi, a 
+        <lb ed="#Ba" n="16"/>nullo dependet in suo esse: &amp; significat independentiam aeternitatis ab alio in suo esse: qua eam semper 
+        <lb ed="#Ba" n="17"/>durare necesse est: &amp; excludit omnem durationem aeui. Quantuncumque enim aeuiterna manent in duratione 
+        <lb ed="#Ba" n="18"/>essendi simplicis aeuitatis: semper tamen in hoc dependent ab vno primo simplici: quod est ipsum ne- 
+        <lb ed="#Ba" n="19"/>cesse esse. Secundum quod dicit. xvii. propositio de causis. Dis virtus cui non est finis, pendens est per infinitum 
+        <lb ed="#Ba" n="20"/>primum quod est virtus virtutum. Et sic patet quod definitio aeternitatis excludit omnes rationes defectibili 
+        <lb ed="#Ba" n="21"/>tatis in duratione essendi aliarum rerum: &amp; includit perfectam rationem in duratione essendi entis aeterni 
+        <lb ed="#Ba" n="22"/>quod deus est: vt solus deus propter suam immutabilitatem vere debeat dici aeternus. Secundum quod dicit 
+        <lb ed="#Ba" n="23"/>Boethius. v. de conso. Deum aeternum esse cunctorum ratione degentium conmune iudicium est. 
+      </p>
+      <p xml:id="vn58an-d1e2214-d1e369">
+        <lb ed="#Ba" n="24"/>⁋ Ad argumenta in oppositum: quod deus est auctor aeternitatis: &amp; quod est supra aeter- 
+        <lb ed="#Ba" n="25"/>nitatem: &amp; quod regnabit vltra aeternitatem: Dicendum quod sicut esse cui nihil latius &amp; communius est secundum  
+        <lb ed="#Ba" n="26"/>praedeterminata verissime convenit deo: &amp; quasi soli deo: per participationem tamen quandam omnibus creaturis 
+        <lb ed="#Ba" n="27"/>convenit: secundum gradum tamen &amp; ordinem: &amp; secundum plus &amp; minus: secundum quod plus &amp; minus appropinunt ad 
+        <lb ed="#Ba" n="28"/>esse dei: sic illa quae sunt deo propinquissima, etiam per quandam attributionem conveniunt quibusdam creatu- 
+        <lb ed="#Ba" n="29"/>ris: &amp; hoc ei magis approximatis: licet non omnibus: &amp; illis secundum plus &amp; minus inquantum ei magis ape  
+        <lb ed="#Ba" n="30"/>proximantur: vt sunt incommutabilitas &amp; aeternitas. Et sic vita beatorum dicitur vita incommutabilis &amp; 
+        <lb ed="#Ba" n="31"/>aeterna: inquantum diuinae scilicet visioni inhaerentes carent terminatione finis &amp; successione variationis. 
+        <lb ed="#Ba" n="32"/>Dicitur etiam aeternum, quid non subest variationi in esse propter carentiam durationis in essendo: vel ex per 
+        <lb ed="#Ba" n="33"/>te finis tantum: sicut est duratio mundi secundum fidem catholicam. secundum quod dicitur in Psal. Terra in aeternum 
+        <lb ed="#Ba" n="34"/>stat. vel etiam etsi principio caruisset sicut &amp; carebit fine: sicut posuerunt philosophi. Et siue istis modis, 
+        <lb ed="#Ba" n="35"/>siue aliis aliquod aliud a deo aeternum dicitur, cuius Deus ipse est cam, &amp; aeternitatis eius: numquam tamen eiusdem natu 
+        <lb ed="#Ba" n="36"/>rae est aeternitas eius cum aeternitate dei: sed participata ab illa: &amp; pro tanto pro quanto immutabilitate parti 
+        <lb ed="#Ba" n="37"/>cipat. Vnde tempus etsi semper fuisset: &amp; semper futurum esset: tamen numquam fuisset aeternitas: quia vt dicit <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Ba" n="38"/>xi. de civitate dei. c. vi. si recte discernuntur aeternitas &amp; tempus: tempus sine mutabilitate non est: in aeternitate 
+        <lb ed="#Ba" n="39"/>autem nulla mutatio est. Et ideo si mundus semper fuisset cum deo, &amp; futurus esset: respectu tamen dei non aeter- 
+        <lb ed="#Ba" n="40"/>nus: sed tporalis dici deberet: quia variabilis est atque mutabilis. Vnde dicit <name ref="#Augustine">Augustinus</name> de angelis. xii. de civitate dit 
+        <lb ed="#Ba" n="41"/>c. xv. Angeli etsi immortalitas eorum non transit in tpore: nec praeterita est quasi iam non sit: nec futura qua  
+        <lb ed="#Ba" n="42"/>si nondum sit: tamen eorum motus quibus tempora paguntur ex futuro in praeteritum transeunt. Et ideo creato- 
+        <lb ed="#Ba" n="43"/>ri in cuius motu dicendum non est fuisse quod iam non sit: vel futurum esse quod nondum sit: coaeterni esse non 
+        <lb ed="#Ba" n="44"/>possunt. Talis ergo aeternitatis participatae deus est auctor non suae: quia ipse per essentiam est illa. Et 
+        <lb ed="#Ba" n="45"/>hoc modo ad literam intelligitur dictum <name ref="#Augustine">Augustinus</name> dicit enim sic. Dem aeternum aeternitate aeternum est. Nam &amp; anima 
+        <lb ed="#Ba" n="46"/>aeternitatem consequi creditur: sed aeterna aeternitatis participatione sit: non ita deus aeternus: sed ipsius aeter 
+        <lb ed="#Ba" n="47"/>nitatis est auctor. Hoc idem de pulchritudine &amp; bonitate licet intelligi. 
+      </p>
+      <p xml:id="vn58an-d1e2214-d1e433">
+        ⁋ Et de tali aeternitate, per  
+        <lb ed="#Ba" n="48"/>ticipata. scilicet intelligitur quod deus est supra aeternitatem. Aeternitas enim per essentiam est supra aeternitatem per 
+        <lb ed="#Ba" n="49"/>ticipatam: quia est causa ei: vt dicit Comm. super illam secundam propositionem de causis. Causa prima est 
+        <lb ed="#Ba" n="50"/>supra aeternitatem: quoniam est causatum ipsius. Et per hunc modum etiam est prius illa aeternitate: etsi semper 
+        <lb ed="#Ba" n="51"/>fuisset: &amp; vltra eam etiam est per eundem modum. secundum <name ref="#Anselm">Anselmus</name> in prosol. c. xx. quid illius dicti triplicem assignat 
+        <lb ed="#Ba" n="52"/>rationem, dicens. Vltra omnia vero quomodo es: qualiter enim es vltra ea quae finem non habebunt: an quia illa 
+        <lb ed="#Ba" n="53"/>sine te nullatenus esse possunt: tu autem nullo modo minus es: etiam si illa redeunt in nihilum: Sic 
+        <lb ed="#Ba" n="54"/>enim quodammodo es vltra illa. An etiam quia illa cogitari possunt habere finem: tu vero nequaquam:  
+   <!--386.xml-->
+        <pb ed="#Ba" n="186-r"/>
+        <lb ed="#Ba" n="1"/>an etiam hoc modo transis omnia etiam aeterna: quia tua &amp; illorum aeternitas, tota tibi praesens est: cum illa nondum  
+        <lb ed="#Ba" n="2"/>habent de sua aeternitate quod venturum est: sicut iam non habent quod praeteritum est:
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

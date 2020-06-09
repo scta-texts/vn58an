@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="16-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe4207"> <!-- alias="vn58an-a45q1" -->
+      <head xml:id="vn58an-fe4207-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe4207-d1e107">
+        <lb ed="#Bb" n="27"/>CIrca primum arguitur quod in deo non sit voluntas. Primo 
+        <lb ed="#Bb" n="28"/>sic. Voluntas secundum <name ref="#Anselm">Anselmum</name> de libe. arbi. est in-  
+        <lb ed="#Bb" n="29"/>strumentum seipsum mouens. in deo autem nihil est seips 
+        <lb ed="#Bb" n="30"/>sum mouens: quia seipsum mouens est simul mouens 
+        <lb ed="#Bb" n="31"/>&amp; motum: &amp; reducitur ad aliud prius mouens non  
+        <lb ed="#Bb" n="32"/>motum. secundum philosophum. viii. Phyisici,. quod non potest contin 
+        <lb ed="#Bb" n="33"/>gere alicui quod est in deo: quia est primum mouens immobile dans cuncta moueri, secundum Boethium 
+        <lb ed="#Bb" n="34"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe4207-d1e130">
+        ⁋ Secundo sic. voluntas non est in aliquo nisi ex ordinatione eius in finem per voluntatem. 
+        <lb ed="#Bb" n="35"/>voluntas enim finis est secundum philosophum. iii. Ethico. Deus autem nullum ordinem habet in finem: quia non est 
+        <lb ed="#Bb" n="36"/>ipsi finis: sed ipse est omnium finis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe4207-d1e137">
+        ⁋ In contrarium est illud Ephesi. v. Nolite esse imprudentes:  
+        <lb ed="#Bb" n="37"/>sed intelligentes quae sit voluntas dei. &amp; Roma. xii. Vt probetis quae sit voluntas dei.  
+        <lb ed="#Bb" n="38"/>
+      </p>
+      <p xml:id="vn58an-fe4207-d1e145">
+        ⁋ Quaestionem de voluntate in quo habet esse: oportet determinare pro rationem boni: 
+        <lb ed="#Bb" n="39"/>sicut quaestionem de intellectu in quo habet esse, oportet determinare per rationem veri: sed econtra 
+        <lb ed="#Bb" n="40"/>rio determinatis supra circa illam de intellectu diuino. 
+      </p>
+      <p xml:id="vn58an-fe4207-d1e152">
+        ⁋ Est igitur sciendum quod ex parte intellectus, &amp; 
+        <lb ed="#Bb" n="41"/>vniuersaliter ex parte virtutis cognitiuae ita est quod nihil habet cognosci nisi secundum quod habet esse apud 
+        <lb ed="#Bb" n="42"/>cognoscentem vt perfectio eius: &amp; secundum quod secundum actum est declaratiuum &amp; manifestatiuum suiipsius 
+        <lb ed="#Bb" n="43"/>apud ipsum, &amp; habens apud ipsum perfectam rationem veri. Actus enim cognoscendi in patiendo  
+        <lb ed="#Bb" n="44"/>perficitur, &amp; quasi per motum rei cognitae in cognoscenti. Cognitum autem apud cognoscentem non habet esse ni 
+        <lb ed="#Bb" n="45"/>si sub ratione esse immaterialis. Vnde vbi non habet esse rationem in materialis sed materialis, ibi non 
+        <lb ed="#Bb" n="46"/>habet rationem cogniti: &amp; ibi habet rationem cogniti quantum est de se, vbi habet rationem esse imma- 
+        <lb ed="#Bb" n="47"/>terialis, secundum Commenta. super principium secundi Metaph. Eadem autem semper est ratio cognoscen- 
+        <lb ed="#Bb" n="48"/>tis &amp; cogniti sicut in sensibus &amp; sensibilibus eadem est ratio organi &amp; obiecti. Eadem ergo ratione 
+        <lb ed="#Bb" n="49"/>nihil habet aliquod cognoscere nisi sub ratione esse immaterialis. Ex quo contingit quod illa quae omni- 
+        <lb ed="#Bb" n="50"/>no habent esse materiale, nihil omnino cognoscunt, neque cognoscuntur nisi per aliquam sui abstra 
+        <lb ed="#Bb" n="51"/>ctionem a materia &amp; esse materiali. Quae vero habent aliquod esse imateriale, secundum gra- 
+        <lb ed="#Bb" n="52"/>dus immaterialitatis plus sunt cognoscentia &amp; cognoscibilia. Vnde sensibilia quae habent formax 
+        <lb ed="#Bb" n="53"/>alligatas omnino materiae secundum substantiam &amp; esse, infimum gradum habent cognoscen- 
+        <lb ed="#Bb" n="54"/>tium: &amp; post haec, illa quae habent formas alligatas materiae secundum esse: &amp; non secundum essen 
+        <lb ed="#Bb" n="55"/>tiam: vt sunt rationabilia sicut homines: &amp; super haec, illa quae habent formas omnino abstractas 
+   <!--47.xml-->
+        <pb ed="#Bb" n="16-v"/>
+        <lb ed="#Bb" n="1"/>a materia &amp; secundum esse &amp; secundum essentiam, limitatas tamen vt sunt intellectualia, sicut angeli: &amp; 
+        <lb ed="#Bb" n="2"/>super omnia forma illa est cognitiua, quae omnino est libera a materia &amp; conditionibus materiae, vt est 
+        <lb ed="#Bb" n="3"/>illa quae omnino est illimitata, vt est deitatis essentia: propter quod est medium &amp; ratio seipsum co- 
+        <lb ed="#Bb" n="4"/>gnoscendi &amp; omnia alia: quod nulli formae creatae conuenit: vt supra dictum est in parte, &amp; amplius 
+        <lb ed="#Bb" n="5"/>dicetur inferius. Et sicut secundum iam dictum modum est ex parte intellectus, &amp; virtutis cognitiuae. 
+        <lb ed="#Bb" n="6"/>sic est econtrario ex parte voluntatis &amp; virtutis appetitiuae: quod nihil habet appeti nisi secundum quod ha-  
+        <lb ed="#Bb" n="7"/>bet esse in se vt perfectio appetentis: &amp; vt secundum actum quietatiuum illius, &amp; habens in se secundum se 
+        <lb ed="#Bb" n="8"/>perfectam rationem boni. Actus enim appetitius rationalis in agendo perficitur, &amp; quasi per modum appetentis in  
+        <lb ed="#Bb" n="9"/>id quod appetitur. Appetitum autem secundum seipsum non habet esse nisi sub ratione esse naturalis. Vnde vbi res 
+        <lb ed="#Bb" n="10"/>naturalis habet rationem esse abstracti ab esse naturali: vt in consideratione mathematica: ibi non ha 
+        <lb ed="#Bb" n="11"/>bet omnino rationem appetiti: quia neque boni. secundum philosophum. iii. Metaphy. &amp; vbi habet suum esse na 
+        <lb ed="#Bb" n="12"/>turale, ibi habet rationem boni &amp; appetiti quantum est de se. Quare cum eadem debet esse ratio appete- 
+        <lb ed="#Bb" n="13"/>tis &amp; appetiti: sicut cognoscentis &amp; cogniti: eadem ergo ratione nihil habet appetere nisi ratione 
+        <lb ed="#Bb" n="14"/>sui esse in se naturalis: &amp; quaecunque habent in se aliquod esse naturale, habent rationem appeti- 
+        <lb ed="#Bb" n="15"/>tus &amp; appetentis. Ex quo contingit, quod cum omnia quaecunque sunt habent aliquod esse naturale in se 
+        <lb ed="#Bb" n="16"/>quod omnia entia habent appetere: sed diuersimode secundum gradus esse &amp; naturae suae. Vnde quae 
+        <lb ed="#Bb" n="17"/>non habent perfectionem in natura sua &amp; esse: nisi quia sunt similitudo &amp; participatio eius quod est 
+        <lb ed="#Bb" n="18"/>perfectum per essentiam &amp; in suo esse: sicut bonum ipsorum proprium quod consistit in ipsa perfectione 
+        <lb ed="#Bb" n="19"/>eorum non est bonum perfectum secundum determinata: sic non habent illud appetere, vt perfecte quie  
+        <lb ed="#Bb" n="20"/>tata in eo: sed appetunt ipsum vt in ipsum per appetitum tendentia sicut in finem &amp; bonum simpli- 
+        <lb ed="#Bb" n="21"/>citer, a quo habent quod sunt bona per participationem. Et sic appetentia sunt omnia creata quae ha-  
+        <lb ed="#Bb" n="22"/>bent suum proprium bonum per participationem, licet diuersimode, vt in sequenti quaestione. iii. dicetur. 
+        <lb ed="#Bb" n="23"/>lllud vero ens quod habet perfectionem simpliciter in natura sua &amp; essentia: sicut bonum ipsius quod con- 
+        <lb ed="#Bb" n="24"/>sistit in eius perfectione, est bonum perfectum secundum supra determinata: sic appetit illud vt per- 
+        <lb ed="#Bb" n="25"/>fecte in suo bono quietatum. Et hoc modo soli deo convenit appetere. Appetitus aut cum est absque  
+        <lb ed="#Bb" n="26"/>cognitione, tunc dicitur pure naturalis sicut materia appetit formam. Cum vero cum cognitiua est 
+        <lb ed="#Bb" n="27"/>sensitiua, tunc vocatur appetitus animalis. Quando vero est cum cognitione intellectuali, tunc 
+        <lb ed="#Bb" n="28"/>dicitur voluntas. Cum ergo deus est naturae intellectualis, in deo ponendum est esse voluntatem: non quia  
+        <lb ed="#Bb" n="29"/>ex hoc quod deus habet intellectum, argui posset quod habeat voluntatem, vt habere intellectum sit ra 
+        <lb ed="#Bb" n="30"/>tio habendi voluntatem: sed quia sine intellectu non est voluntas. 
+        <lb ed="#Bb" n="31"/>
+      </p>
+      <p xml:id="vn58an-fe4207-d1e259">
+        ⁋ Ad primum in oppositum: quod voluntas est instrumentum seipsum mouens: Dicen 
+        <lb ed="#Bb" n="32"/>dum quod si motus sumatur proprie pro variatione quacunque, sic definitio illa solum conuenit volunta 
+        <lb ed="#Bb" n="33"/>ti creaturae. Si autem sumatur improprie pro quacunque actione, sic conuenit voluntati increatae: quia 
+        <lb ed="#Bb" n="34"/>est primum principium actionis suae: &amp; seipsum libere ponit in actum: vt in tertia quaestione sequenti vi 
+        <lb ed="#Bb" n="35"/>debitur. 
+      </p>
+      <p xml:id="vn58an-fe4207-d1e270">
+        ⁋ Ad secundum quod non est voluntas nisi ordinati in finem &amp;c. Dicendum quod non est volun 
+        <lb ed="#Bb" n="36"/>tas nisi finis. Sed hoc contingit dupliciter: vel vt distantis ab ipso: &amp; ideo tendentis in ipsum mo-  
+        <lb ed="#Bb" n="37"/>do praedicto: &amp; quid sic est finis, proprie dicituriordinatum in finem: &amp; solum conuenit voluntati crea- 
+        <lb ed="#Bb" n="38"/>tae: vel vt quietati in fine: &amp; quid sic est finis, non proprie dicitur ordinari in finem: sed dicitur finis 
+        <lb ed="#Bb" n="39"/>absolute: &amp; hoc modo finis est voluntas increata.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

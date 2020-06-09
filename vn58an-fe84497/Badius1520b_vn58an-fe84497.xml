@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="309-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe84497"> <!-- alias="vn58an-a75q6" -->
+      <head xml:id="vn58an-fe84497-Hd1e104">Quaestio 6</head>
+      <p xml:id="vn58an-fe84497-d1e107">
+        <lb ed="#Bb" n="31"/>CIrca sextum &amp; vltimum arguitur, quod dictio exceptiua praeter, praeterquam, &amp; nisi, 
+        <lb ed="#Bb" n="32"/>non potest excipere aliquid eorum quae sunt in diuinis, ab alio: Primo sic. Dictio 
+        <lb ed="#Bb" n="33"/>exceptiua non est exceptiua nisi partis a toto, &amp; hoc vel partis subiectiuae a to- G 
+        <lb ed="#Bb" n="34"/>to vniuersali, vt cum dicitur, omnis homo currit praeter Sortem: vel partis in-  
+        <lb ed="#Bb" n="35"/>tegralis a toto: vt totus Petrus est albus praeter pedem: vel econuerso totius a 
+        <lb ed="#Bb" n="36"/>parte: vt Petrus non est albus nisi pede. Sed in diuinis non potest esse pars vni- 
+        <lb ed="#Bb" n="37"/>uersalis, quia in illis non est numerus diuisione, nec natus esse: nec ratio vniuersalis: neque potest esse 
+        <lb ed="#Bb" n="38"/>pars integralis, quia in illis non est numerus collectione: &amp; per hoc nec ratio integri. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e127">
+        ⁋ Se 
+        <lb ed="#Bb" n="39"/>cundo sic. Exceptio non est nisi eius quod continetur sub aliquo toto in quantitate, quod est termi  
+        <lb ed="#Bb" n="40"/>nus continens plures partes subiectiuas vel integrales cum signo vniuersali distributiuo, puta omnis 
+        <lb ed="#Bb" n="41"/>homo, vel omne ens, vel totus homo. sed sub tali toto per distributionem huius signi totus, non ca- 
+        <lb ed="#Bb" n="42"/>dit deus, vel aliquid eorum quae sunt in diuinis: quia singula quae sunt in deo, sunt idipsum: &amp; non 
+        <lb ed="#Bb" n="43"/>est totum nisi distributiuum integri, in quo necessario est aliud &amp; aliud, nec similiter sub tali toto 
+        <lb ed="#Bb" n="44"/>per distributionem huius signi omnis, continetur deus, nec aliquid eorum quae in ipso sunt: quia 
+        <lb ed="#Bb" n="45"/>in tali toto in quantitate distributiuum per hoc signum omnis non est nisi commune distribuibi- 
+        <lb ed="#Bb" n="46"/>le: quale nullum est in deo: quia in deo (vt prius dictum est) non est commune vniuersalitate sed con 
+        <lb ed="#Bb" n="47"/>munione, quod non est distribuibile: quale nullum est in deo: quia non bene dicitur, omnis deus: li 
+        <lb ed="#Bb" n="48"/>cet deitas sit communis communione. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e151">
+        ⁋ Tertio sic. Exceptum &amp; illud a quo facta est exceptio debent 
+        <lb ed="#Bb" n="49"/>esse distincta semper, quare etiam quanto aliqua magis sunt inter se distincta, tanto magis vnum 
+        <lb ed="#Bb" n="50"/>illorum natum est ab altero excipi. si ergo non in illis quae maiorem distinctionem habent inter se, 
+        <lb ed="#Bb" n="51"/>nec in illis quae habent minorem. sed maiorem habent distinctionem Deus &amp; creatura, &amp; ea quae  
+        <lb ed="#Bb" n="52"/>sunt in deo ab illis quae sunt in creaturis, quam illa quae sunt in deo inter se. sed in deo &amp; in creaturis 
+        <lb ed="#Bb" n="53"/>non potest cadere exceptio, vt creatura sit exceptum, &amp; creator sit id a quo habet esse exceptio. er- 
+        <lb ed="#Bb" n="54"/>go &amp;c. Vltimae assumptionis probatio est, quod exceptum &amp; illud a quo sit exceptio, debent contine- 
+   <!--633.xml-->
+        <pb ed="#Bb" n="309-v"/>
+        <lb ed="#Bb" n="1"/>ri vt partes sub eodem toto in quantitate, contentae in vno toto distributo per hoc signum omnis, 
+        <lb ed="#Bb" n="2"/>vel per hoc signum totus: sub quali non possunt contineri deus &amp; creatura. Non sub distributo hoc 
+        <lb ed="#Bb" n="3"/>signo totus, quia non nisi constituto ex pluribus: ex deo autem &amp; creatura nihil potest constitui. Ne 
+        <lb ed="#Bb" n="4"/>quod sub distributo hoc signo omnis, quia omnis non est distributiuum nisi vnius in plura: quorum singu 
+        <lb ed="#Bb" n="5"/>lum est de numero omnium aliorum, vt patet dicendo: omne animal, vbi animal non distribuitur 
+        <lb ed="#Bb" n="6"/>nisi pro illis quorum quodlibet est de numero omnium aliorum. sed deus non est omnino de nu- 
+        <lb ed="#Bb" n="7"/>mero omnium: quia de filio dicitur Ioan. i. Omnia per ipsum facta sunt. ipse autem non est factus: &amp; 
+        <lb ed="#Bb" n="8"/>sic ipse non est de numero omnium. Eadem ratione nec pater, nec spiritus sanctus. Vnde &amp; commu 
+        <lb ed="#Bb" n="9"/>niter dicitur pro tota trinitate. Ex ipso, &amp; per ipsum, &amp; in ipso sunt omnia. vbi dicit Glos. Ecce tri- 
+        <lb ed="#Bb" n="10"/>&amp; nitas personarum hic ostenditur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e194">
+        ⁋ Quarto communiter &amp; quo ad exclusionem &amp; exce- 
+        <lb ed="#Bb" n="11"/>ptionem sic. Quae sic se habent quod vno nominato necesse est alterum intelligi, vnum illorum non po 
+        <lb ed="#Bb" n="12"/>test excludi ab altero nec excipi ab altero siue ab alio, puta si nominato Petro, dicendo, Petrus est ho 
+        <lb ed="#Bb" n="13"/>mo, necesse sit intelligere Paulum, neuter ipsorum posset excludi ab altero respectu cuiuslibet praedicati 
+        <lb ed="#Bb" n="14"/>aut subiecti, dicendo solus Petrus: vt sequatur, non ergo Paulus: aut econverso, nec vnum eorum excludi aut  
+        <lb ed="#Bb" n="15"/>etiam excipi ab aliquo respectu cuiusque praedicati aut subiecti, quin alterum simul excipiatur ab eodem: vt dicen 
+        <lb ed="#Bb" n="16"/>do: Solus homo iniustus currit: ergo Petrus non currit, quindo etiam sequatur, ergo Paulus non currit: vel dicendo:  
+        <lb ed="#Bb" n="17"/>omnis homo currit praeter Petrum: quin etiam sequatur, praeter Paulum: puta si homine nominato intelligatur ra 
+        <lb ed="#Bb" n="18"/>tionale, non potest rationale excludi ab homine, vt sequatur, solus homo, non ergo rationale: neque  
+        <lb ed="#Bb" n="19"/>homo excipi, quin simul ab eodem &amp; respectu eiusdem excipiatur &amp; rationale: vt non dicatur, omne 
+        <lb ed="#Bb" n="20"/>animal praeter hominem, excipiendo hominem, quin etiam simul excipiatur rationale. Sed sic se ha-  
+        <lb ed="#Bb" n="21"/>bent inter se personae diuinae, quod scilicet vna nominata intelligitur alia secundum <name ref="#Augustine">Augustinus</name> iiii. de tri- 
+        <lb ed="#Bb" n="22"/>nita. cap. ix. Vbi exponens illud Ioan. xiiii. Haec est autem vita aeterna, vt cognoscant te solum deum 
+        <lb ed="#Bb" n="23"/>verum, &amp; quem misisti lesum Christum: dicit. Est ordo verborum, vt te &amp; quem misisti lesum Chri 
+        <lb ed="#Bb" n="24"/>stum, cognoscant solum verum deum. Cur ergo tacuit de spiritu sancto: Et respondet alia interro 
+        <lb ed="#Bb" n="25"/>gatione subdens continuo. An quoniam consequens est vbicumque nominatur vnum, tanta pace vni 
+        <lb ed="#Bb" n="26"/>adhaereas, vt per hanc vtrumque vnum sit, iam intelligatur &amp; pax quamuis non commemoretur: q. d. sic. 
+        <lb ed="#Bb" n="27"/>Et intelligit per vnum vni patrem &amp; filium: per pacem autem spiritum sanctum. Vnde super dicto 
+        <lb ed="#Bb" n="28"/>verbo dicit Glossa. Ordo, vt cognoscant te, &amp; quem misisti lesum Christum, cum spiritu sancto, qui  
+        <lb ed="#Bb" n="29"/>est amborum esse, solum &amp; verum deum. Et si sic se habent inter se personae: multo fortius &amp; quae  
+        <lb ed="#Bb" n="30"/>libet alia quae in diuinis minus distinguuntur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e243">
+        ⁋ In contrarium est, quod vbicunque aliquid vni 
+        <lb ed="#Bb" n="31"/>soli de numero plurium conuenit per exceptionem, vere dici potest quod nulli illorum omnium con- 
+        <lb ed="#Bb" n="32"/>uenit praeterquam illi vni, vel nisi vni. sed in diuinis aliquid soli vni personae conuenit inter personas 
+        <lb ed="#Bb" n="33"/>diuinas: puta filio quod sit verbum vel imagos ergo &amp;c. Hinc etiam excipiendo dicit Ioan. Damasce. 
+        <lb ed="#Bb" n="34"/>de tribus personis diuinis lib. i. cap. xi. Secundum omnia sunt vnum, pater &amp; filius &amp; spiritus san- 
+        <lb ed="#Bb" n="35"/>ctus, praeter ingenerationem, generationem, &amp; processionem. ergo &amp;c. 
+        <lb ed="#Bb" n="36"/>
+      </p>
+      <p xml:id="vn58an-fe84497-d1e259">
+        ⁋ Dico quod dictiones exclusiuae &amp; exceptiuae eandem vim &amp; idem officium habent 
+        <lb ed="#Bb" n="37"/>&amp; circa subiectum &amp; circa praedicatum. Sicut enim hoc quod est reduplicatio, quam importat ly 
+        <lb ed="#Bb" n="38"/>inquantum, vel in eo quod, est determinatio praedicati denotans modum inhaerentiae ipsius in sub- 
+        <lb ed="#Bb" n="39"/>iecto scilicet per se: sic exclusio &amp; exceptio quam important l tantum, solus, praeter, praeterquam, &amp; nisi, est 
+        <lb ed="#Bb" n="40"/>determinatio praedicati vel subiecti indifferenter denotando modum quo praedicatum inhaeret sub 
+        <lb ed="#Bb" n="41"/>iecto, &amp; quo subiectum subiicitur praedicato, scilicet praecise: licet diuersimode dictiones exclusiuae 
+        <lb ed="#Bb" n="42"/>&amp; exceptiuae. Quoniam exclusiuae praecisionem ipsam circa praedicatum aut subiectum ponunt, re- 
+        <lb ed="#Bb" n="43"/>mouendo siue praecidendo consortium a subiecto respectu praedicati, &amp; a praedicato respectu subie- 
+        <lb ed="#Bb" n="44"/>cti: secundum modum determinatum in praecedenti quaestione. Dictiones vero exceptiuae praecisio- 
+        <lb ed="#Bb" n="45"/>nem illam ponunt ipsam exprimendo. Vnde omnis propositio exclusiua resoluitur in exceptiuam 
+        <lb ed="#Bb" n="46"/>&amp; omnis exceptiua reducitur in exclusiuam. Et non sunt inuentae exceptiones nisi propter exposi- 
+        <lb ed="#Bb" n="47"/>tionem exclusionum: nec distinctiones exceptiuae, nisi propter expositionem officii exclusiuarum. 
+        <lb ed="#Bb" n="48"/>Et cum tam exclusiua quam exceptiua propositio vim habeat duarum propositionum, scilicet vnius 
+        <lb ed="#Bb" n="49"/>affirmatiuae &amp; vnius negatiuae: &amp; etiam propositio exclusiua habeat duo, scilicet vnum inclusum 
+        <lb ed="#Bb" n="50"/>per primam propositionem, quod est illud a quo excluditur, &amp; aliud exclusum per secundam: Et 
+        <lb ed="#Bb" n="51"/>similiter exceptiua duo habeat, vnum scilicet suppositum, quod est illud quod econtrario est, &amp; il- 
+        <lb ed="#Bb" n="52"/>lud quod excipitur per primam: ista duo &amp; duo sibiinuicem respondent ex parte exclusiuae &amp; ex- 
+        <lb ed="#Bb" n="53"/>ceptiuae vniformiter quo ad hoc quod id quod includit exclusiua semper supponit exceptiua ipsi respondens 
+   <!--634.xml-->
+        <pb ed="#Bb" n="310-r"/>
+        <lb ed="#Bb" n="1"/>&amp; eadem propositione. Sed propositio continens exclusum semper formatur in propositionem exce 
+        <lb ed="#Bb" n="2"/>ptiuam, puta dicendo, non nisi homo currit, sensus est, homo currit, &amp; nihil aliud ab homine cur- 
+        <lb ed="#Bb" n="3"/>rit: &amp; continet ly homo inclusum respectu praedicati: &amp; l aliud ab homine exclusum respectu praedicati, 
+        <lb ed="#Bb" n="4"/>scilicet a consortio hominis in commutando praedicatum. &amp; de illa, nihil aliud ab homine cur- 
+        <lb ed="#Bb" n="5"/>rit, formatur talis exceptiua, nihil currit praeter hominem: quae supponit hominem currere, &amp; ex- 
+        <lb ed="#Bb" n="6"/>cipit a consortio in cursu cum homine omne aliud, dicendo, nihil aliud ab homine currit: &amp; sic de 
+        <lb ed="#Bb" n="7"/>caeteris suo modo: siue ex parte subiecti, siue ex parte praedicati fiant exceptio &amp; exclusio. Quare cum de eis 
+        <lb ed="#Bb" n="8"/>dem re &amp; officio siue in dictionibus, siue in orationibus semper idem sit iudicium, cum secundum 
+        <lb ed="#Bb" n="9"/>determinata in quaestione praecedenti, dictiones exclusiuae in diuinis possunt excipere vnum ab alio 
+        <lb ed="#Bb" n="10"/>in praedicato respectu subiecti, &amp; econuerso: similiter &amp; dictiones exceptiuae possunt excipere vnum 
+        <lb ed="#Bb" n="11"/>ab alio in praedicato respectu subiecti, dicendo, nullus est pater in diuinis nisi generans, omnis in di- 
+        <lb ed="#Bb" n="12"/>uinis spirat, praeterquam spiritus sanctus, aut praeter spiritum sanctum. Et secundum quod diuersimode 
+        <lb ed="#Bb" n="13"/>vera vel falsa est exclusiua masculine vel foeminine aut neutraliter exposita quo ad propositionem 
+        <lb ed="#Bb" n="14"/>continentem exclusum: similiter est diuersimode vera vel falsa continens illud a quo excipitur, pro  
+        <lb ed="#Bb" n="15"/>ut haec patere possunt conferenti se ad superius determinata. Propter quam identitatem &amp; corre- 
+        <lb ed="#Bb" n="16"/>spondentiam officiorum dictionum exceptiuarum &amp; exclusiuarum, &amp; difficultatem ex illis contin  
+        <lb ed="#Bb" n="17"/>gentem in diuinis praedicationibus, quidam omnino omiserunt perscrutari quicquam de dictionibus 
+        <lb ed="#Bb" n="18"/>exceptiuis in diuinis. Et secundum hoc concedenda est vltima ratio pro ista parte adducta. 
+        <lb ed="#Bb" n="19"/>
+      </p>
+      <p xml:id="vn58an-fe84497-d1e344">
+        ⁋ Ad primum in contrarium, quod dictio exceptiua non excipit nisi partem a toto 
+        <lb ed="#Bb" n="20"/>vel vniuersali vel integrali: Dico quod verum est. Et quod assumitur, quod in diuinis non potest esse pars 
+        <lb ed="#Bb" n="21"/>nec vniuersalis nec integralis: dico quod de integrali loquendo verum est stricte sumendo integrale. 
+        <lb ed="#Bb" n="22"/>Totum enim integrale stricte loquendo non est nisi continens plura absoluta collectione numera 
+        <lb ed="#Bb" n="23"/>ta in eodem composito ex illis, secundum quod corpus hominis est totum integrale ad caput &amp; caete 
+        <lb ed="#Bb" n="24"/>ra membra illius, quae dicuntur collectione numerata, sicut quum vno nomine simul &amp; semel dici 
+        <lb ed="#Bb" n="25"/>mus plures vnitates, vel duo aut plura vna, vt homines. &amp; haec quidem numeratio ex distributis 
+        <lb ed="#Bb" n="26"/>partibus constat. Totum autem integrale, loquendo de integro, est continens plura de absoluto &amp; 
+        <lb ed="#Bb" n="27"/>relato, quasi collectione quadam numerata in illo vt in qua constituto, non de composito de illis aut  
+        <lb ed="#Bb" n="28"/>ex aliquibus illorum: secundum quod pater est quid totum ad essentiam &amp; proprietatem, inquantum 
+        <lb ed="#Bb" n="29"/>essentia est in illo quo est, &amp; quo est aliquid: proprietas vero quo ad aliquid est, &amp; non tantum vnica, sed  
+        <lb ed="#Bb" n="30"/>plures, scilicet innascibilitas, paternitas, &amp; spiratio actiua. Propter quod quodlibet illorum bene a pa 
+        <lb ed="#Bb" n="31"/>tre excipi potest respectu alicuius subiecti in propositione, tanquam pars integralis a toto integrali: pro  
+        <lb ed="#Bb" n="32"/>ut iam inferius amplius declarabitur, licet non vt a toto vere vniuersali aut integrali, sicut est in so 
+        <lb ed="#Bb" n="33"/>lis creaturis, prout procedit obiectio, &amp; bene. Loquendo enim de vniuersali proprie, verum est quod in  
+        <lb ed="#Bb" n="34"/>diuinis non potest esse pars vniuersalis. Vniuersale vero improprie loquendo de vniuersali, est commune se 
+        <lb ed="#Bb" n="35"/>cundum rem, &amp; est forma pluribus communis communitate vnius rei singularis existentis in illis, 
+        <lb ed="#Bb" n="36"/>&amp; tota in quolibet illorum, sub diuersis tamen rationibus quibus distinguuntur abinuicem, vel sal 
+        <lb ed="#Bb" n="37"/>tem quomodo distinguuntur personae diuinae rationibus notionalibus proprietatum personalium:  
+        <lb ed="#Bb" n="38"/>vel secundum rationem tantum, quomodo distinguuntur inter se omnia essentialia existentia commu- 
+        <lb ed="#Bb" n="39"/>niter in tribus personis. Quorum vnum &amp; primum est: cuius ratio etiam absolutissima, essentia, &amp; 
+        <lb ed="#Bb" n="40"/>quae cadit non descensu per determinationem aut per significationem suam, sed significatione, sci- 
+        <lb ed="#Bb" n="41"/>licet per virtutis immensitatem, quae in singulis eorum quae in diuinis abinuicem distinguuntur, 
+        <lb ed="#Bb" n="42"/>siue secundum rem, siue secundum rationem essentialiter praedicatur vt significata in illis omni- 
+        <lb ed="#Bb" n="43"/>bus sub rationibus distinctis eorundem: &amp; vt a qua nominatur quodlibet illorum &amp; dicitur ens sim 
+        <lb ed="#Bb" n="44"/>pliciter. Pater enim essentia deitatis est ens, &amp; filius eadem est ens, &amp; similiter spiritus sanctus. Simili 
+        <lb ed="#Bb" n="45"/>ter quodlibet aliorum essentialium, puta deitas, bonitas, veritas, &amp; sicde singulis, quae a suis pro- 
+        <lb ed="#Bb" n="46"/>priis vel dicuntur esse ad aliquid, puta personae rationibus suarum proprietatum relatiuarum, vel 
+        <lb ed="#Bb" n="47"/>dicuntur esse aliquid, puta deitas, bonitas, &amp; caetera essentialia. a quibus etiam quibus insunt 
+        <lb ed="#Bb" n="48"/>&amp; de quibus praedicantur non dicuntur esse simpliciter, sed esse aliquid, vt patet ex supra de- 
+        <lb ed="#Bb" n="49"/>terminatis. De tali vniuersali loquendo bene verum est quod in diuinis non est pars vniversalitatis, quia deitas si 
+        <lb ed="#Bb" n="50"/>ue essentia deitatis partes non habet: sed est tota significata in singulis diuinis personis &amp; attributis. Lo- 
+        <lb ed="#Bb" n="51"/>quendo de vniversali proprie: illo modo est vniversale quo secundum rem significatam diuersatur in partibus suis subiectis: &amp; sumi 
+        <lb ed="#Bb" n="52"/>tur dupliciter: vno modo stricte, alio modo large. Stricte non est nisi forma pluribus communis, non con 
+   <!--635.xml-->
+        <pb ed="#Bb" n="310-v"/>
+        <lb ed="#Bb" n="1"/>munitate vnius rei singularis existentis in illis, &amp; quae est tota in quolibet illorum: sed comn 
+        <lb ed="#Bb" n="2"/>tate rei vnius secundum rationem tantum, abstractae ab illis per intellectum, &amp; in quodlib 
+        <lb ed="#Bb" n="3"/>consideratione intellectus descendens vt in subiectiuas partes eius per determinationem a 
+        <lb ed="#Bb" n="4"/>secundum quod genus est totum vniuersale ad species in quas descendit, determ 
+        <lb ed="#Bb" n="5"/>rias differentias, aut per eius significationem: secundum quod species specialissima est totum vni 
+        <lb ed="#Bb" n="6"/>uersale ad indiuidua in quae descendit sua significatione facta per agens, siue etiam per mati 
+        <lb ed="#Bb" n="7"/>siue absque materia. Et sic totum vniuersale continet plura diuisione numerata, sed non ni 
+        <lb ed="#Bb" n="8"/>si vnitate. Large autem sumendo vniuersale in diuinis, vniuersale est ens dictum ab essenti 
+        <lb ed="#Bb" n="9"/>tis, quod est commune praedicabile in diuinis, quorum quodlibet a sua propria ra 
+        <lb ed="#Bb" n="10"/>simpliciter, sed ens aliquid: &amp; descendit ens in illa vt in contenta sua quasi partes subiectiuas: &amp; ho 
+        <lb ed="#Bb" n="11"/>descensu non per determinationis additionem ad modum quo descendit in species, al 
+        <lb ed="#Bb" n="12"/>nis, ad modum quo species creaturae per significationem descendit in indiuidua: sed per rei simplicita 
+        <lb ed="#Bb" n="13"/>tem, per aliam &amp; aliam ipsius rationem. Quae res simplex propter virtutis immensitat 
+        <lb ed="#Bb" n="14"/>quae sunt dignitatis simpliciter sub illorum diuersis rationibus, puta deitas, bonitas, paternitas, pa- 
+        <lb ed="#Bb" n="15"/>ter, &amp; caetera omnia quae sunt in diuinis, &amp; quae aliquid dignitatis simpliciter nominant in creatu 
+        <lb ed="#Bb" n="16"/>ris, &amp; secundum hoc nomen suum translata sunt a creaturis ad diuina. Et quia essentia diuina sic 
+        <lb ed="#Bb" n="17"/>est omnia illa, propterea ens dictum ab huiusmodi essentia continet illa quasi partes subiectiuas 
+        <lb ed="#Bb" n="18"/>sub se: &amp; respectu illorum est quasi totum vniuersale. Propter quod bene quodlibet illorum ab illo 
+        <lb ed="#Bb" n="19"/>excipi potest in propositione respectu subiecti &amp; praedicati, tanquam pars subiecta a toto vniuersali, pro 
+        <lb ed="#Bb" n="20"/>ut iam amplius declarabitur. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e466">
+        ⁋ Ad secundum, quod exceptio non est nisi eius quod continetur sub ali 
+        <lb ed="#Bb" n="21"/>uo toto in quantitate: Dico quod verum est secundum aliquem modum, prout scilicet continetur 
+        <lb ed="#Bb" n="22"/>sub toto vniuersali, vel sub toto integrali, iuxta modum iam supra expositum. Quod autem assu- 
+        <lb ed="#Bb" n="23"/>mitur, quod sub toto in quantitate per signum distributiuum totius integralis, cuiusmodi est hoc si 
+        <lb ed="#Bb" n="24"/>gnum totus, non continetur deus, nec aliquid eorum quae sunt in diuinis, patet ex iam dictis 
+        <lb ed="#Bb" n="25"/>quod falsum est: quia dicendo totus pater, aliqua quae sunt in diuinis, cadunt sub ista distributione 
+        <lb ed="#Bb" n="26"/>aliquo modo vt sub distributione totius in quantitate, &amp; totius integralis: non obstante quod omnia 
+        <lb ed="#Bb" n="27"/>quae sunt in deo, sunt idipsum re absoluta. bene tamen distinguuntur sicut absolutum &amp; proprie- 
+        <lb ed="#Bb" n="28"/>tas relatiua: immo etiam sicut diuersimode proprietates relatiuae: propter quam distinctionem si- 
+        <lb ed="#Bb" n="29"/>ue diuersitatem respectu alicuius praedicati potest excipi a toto, vt est contentiuum aliorum, dicendo to 
+        <lb ed="#Bb" n="30"/>tus pater est ad aliud praeterquam substantia sua. Substantia enim patris inquantum substantia, non  
+        <lb ed="#Bb" n="31"/>est ad aliud, sed proprietates eius sunt ad aliud, vt quo pater ipse est ad aliud: ipse vero pater est ad  
+        <lb ed="#Bb" n="32"/>aliud vt qui est ad aliud. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e495">
+        ⁋ Quod autem arguitur, quod non continetur deus aut aliquid eorum quae  
+        <lb ed="#Bb" n="33"/>in eo sunt sub toto in quantitate per signum totius integri: Similiter dicendum est quod falsum est: 
+        <lb ed="#Bb" n="34"/>quia dicendo iuxta iam supra dicta, omne ens diuinum, omnia diuina cadunt sub ista distributio- 
+        <lb ed="#Bb" n="35"/>ne quoquo modo vt sub distributione totius in quantitate totius vniuersalis, quia cadunt quoquo  
+        <lb ed="#Bb" n="36"/>modo sub ratione vniuersalis: sicut patet ex dictis ibidem. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e507">
+        ⁋ Quia arguitur specialiter contra hoc, quod nec 
+        <lb ed="#Bb" n="37"/>deus nec aliquid eorum quae sunt in diuinis, possunt cadere sub distributione totius in quantita- 
+        <lb ed="#Bb" n="38"/>te, quantitate vniuersalis quam importat hoc signum omne: quia nec deus nec aliquid eorum quae  
+        <lb ed="#Bb" n="39"/>sunt in diuinis est commune distribuibile, quia non est in illis nisi commune communione in vni- 
+        <lb ed="#Bb" n="40"/>uersalitate, &amp; commune communione non est distribuibile: quia non bene dicitur omnis deus, cum 
+        <lb ed="#Bb" n="41"/>tamen deitas sit commune communione: Dico quod licet in diuinis nihil significatum nominaliter &amp; per 
+        <lb ed="#Bb" n="42"/>modum habitus, sit distribuibile, quia inquantum huiusmodi non est commune nisi communio- 
+        <lb ed="#Bb" n="43"/>ne: aliquid tamen significatum per modum actus verbaliter aut participialiter inquantum huiusmo 
+        <lb ed="#Bb" n="44"/>di bene est distribuibile, quia inquantum huiusmodi bene est commune vniuersalitate quoquo mo 
+        <lb ed="#Bb" n="45"/>do, scilicet large, quali modo (vt visum est iam supra) significatur quicquid est in diuinis hoc nomi- 
+        <lb ed="#Bb" n="46"/>ne ens. Propter quod licet non bene dicatur, omnis deus, vt dicit argumentum: bene tamen dicitur 
+        <lb ed="#Bb" n="47"/>omne ens diuinum. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e533">
+        ⁋ Ad tertium, quod deus non potest aliquo modo excipi a creatura, nec econverso, 
+        <lb ed="#Bb" n="48"/>ergo nec aliquid existentium in deo ab alio, quia illa minus differunt: Dico quod aliquid ab alio posse 
+        <lb ed="#Bb" n="49"/>excipi, huius causa non est plurium differentia: nisi sit contentorum in aliquo vno integro vel 
+        <lb ed="#Bb" n="50"/>vniuersali, quia in illa distribuitur. Licet ergo plus differunt deus &amp; creatura: quia tamen,- 
+        <lb ed="#Bb" n="51"/>vt dicit argumentum, non possunt conuenire in vno habente rationem integralis, sicut pos- 
+        <lb ed="#Bb" n="52"/>sunt plura existentia in diuinis in vnitate personae, vnum istorum bene potest excipi ab alio 
+        <lb ed="#Bb" n="53"/>exceptione a toto integrali, licet non deus a creatura, nec econuerso. Quomodo autem rationem 
+   <!--636.xml-->
+        <pb ed="#Bb" n="311-r"/>
+        <lb ed="#Bb" n="1"/>integri habeat persona in continendo absolutum &amp; relationem, iam tactum est supra: quod differt 
+        <lb ed="#Bb" n="2"/>ab integro in creaturis, quia semper continet plura absoluta. Exceptione autem a toto in quantita 
+        <lb ed="#Bb" n="3"/>te vniuersali bene creatura excipitur, &amp; etiam deus. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e559">
+        ⁋ Ad illud autem quod arguitur contra hoc, 
+        <lb ed="#Bb" n="4"/>quod hoc signum non est nisi distributiuum vnius in plura: quorum singulum est de numero alio- 
+        <lb ed="#Bb" n="5"/>rum: &amp; sic de numero omnium illorum: Deus autem non est de numero omnium: Dico secundum  
+        <lb ed="#Bb" n="6"/>quod iam inchoatum est in solutione duarum rationum praecedentium, praecipue primae, quod vniuersa 
+        <lb ed="#Bb" n="7"/>le cuius signum distributiuum est ly omne, accipitur vno modo stricte, quod non est commune se- 
+        <lb ed="#Bb" n="8"/>cundum rem, sed secundum rationem tantum: quod descendit in suas partes vere subiectiuas. Et hoc 
+        <lb ed="#Bb" n="9"/>dupliciter, vel significatione, vel determinatione, secundum iam dicta. Si primo modo vniuersa- 
+        <lb ed="#Bb" n="10"/>lis hoc signum omne est distributiuum tantummodo, tunc de numero omnium siue eorum quae  
+        <lb ed="#Bb" n="11"/>cadunt sub distributione huius signi omne, non sunt nisi ea, quae continentur sub singulis specie- 
+        <lb ed="#Bb" n="12"/>bus specialissimis, singulis distributionibus factis circa vniuersalia, quae sunt species specialissimae 
+        <lb ed="#Bb" n="13"/>sub quibus contenta habent veram &amp; perfectam vniuocationem in omnino vniformiter &amp; aequa 
+        <lb ed="#Bb" n="14"/>liter participando formam speciei, dicendo, omnis homo, omnis asinus, omnis albedo, omnis nigre- 
+        <lb ed="#Bb" n="15"/>do, &amp; sic de caeteris. Et sic verum est quod deus non est de numero omnium, quia non conti- 
+        <lb ed="#Bb" n="16"/>netur communiter cum creaturis sub aliqua specie specialissima, sicut nec illa quae continen- 
+        <lb ed="#Bb" n="17"/>tur sub specie afini, sunt de numero eorum quae continentur sub specie hominis. Si secun- 
+        <lb ed="#Bb" n="18"/>do modo vniuersalis hoc signum omne est distributiuum, tunc subdistinguendum est: licet iam su 
+        <lb ed="#Bb" n="19"/>pra non sit distinctum: quia aut descendit in suas partes subiectiuas determinatione rei, aut sola vo 
+        <lb ed="#Bb" n="20"/>cis determinatione per rem. Si primo istorum duorum modorum hoc signum omne est distributi 
+        <lb ed="#Bb" n="21"/>uum tantummodo, tunc de numero omnium, siue de numero eorum quae cadunt sub distributione hu 
+        <lb ed="#Bb" n="22"/>ius signi omne, non sunt nisi ea quae continentur sub iisdem generibus generalissimis, singulis dis 
+        <lb ed="#Bb" n="23"/>tributionibus factis circa vniuersalia, quae sunt genera generalissima: dicendo, omnis substantia, o- 
+        <lb ed="#Bb" n="24"/>mnis quantitas, omnis qualitas, &amp; sic de caeteris. Sub quibus contenta non habent veram &amp; perfe 
+        <lb ed="#Bb" n="25"/>ctam vniuocationem in omnino vniformiter &amp; aequaliter participando formam generis. dicente 
+        <lb ed="#Bb" n="26"/>Philosopho. vii. physico. quod aequiuocationes latent in genere: &amp; hoc tam in quolibet subalterno quam in  
+        <lb ed="#Bb" n="27"/>generalissimo: &amp; hoc propter eandem causam, quia scilicet secundum quod idem dicit in decimo me- 
+        <lb ed="#Bb" n="28"/>taphysicae, semper in diuisione generis dignius &amp; nobilius est alterum extremum contrarietatis, sci- 
+        <lb ed="#Bb" n="29"/>licet alterum differentium diuidentium genus, puta rationale quam irrationale: &amp; animatum quam inani 
+        <lb ed="#Bb" n="30"/>matum, &amp; spirituale quam materiale: &amp; incorporeum quam corporeum. Semper autem dignius &amp; nobilius 
+        <lb ed="#Bb" n="31"/>participat formam generis species quae participat illam nobiliori differentia, quam illa quae participat 
+        <lb ed="#Bb" n="32"/>eam differentia minus nobili. Et hoc modo etiam verum est quod deus non est de numero omnium: 
+        <lb ed="#Bb" n="33"/>quia non continetur sub aliquo genere, sicut nec illa quae continentur sub vno genere sunt de nu- 
+        <lb ed="#Bb" n="34"/>mero omnium quae continentur sub alio: puta quae continentur sub aliquo genere actionis, non  
+        <lb ed="#Bb" n="35"/>sunt de numero omnium quae continentur sub geunere substantiae. Quod autem descendit in  
+        <lb ed="#Bb" n="36"/>partes quasi subiectiuas determinatione vocis per rem significatam, duplex est. Quoddam quod non 
+        <lb ed="#Bb" n="37"/>determinatur nisi ex adiuncto expresso, cuiusmodi est aequiuocum casu. de quo dicit <name ref="#Boethius">Boethius</name> , quod  
+        <lb ed="#Bb" n="38"/>aequiuocationes determinantur per adiuncta, vt canis addendo latrabilis. &amp; tale non habet aliquam 
+        <lb ed="#Bb" n="39"/>rationem vniuersalis, quod possit vnica distributione distribui per hoc signum omne in communia 
+        <lb ed="#Bb" n="40"/>quae sub ipso continentur tanquam partes subiectiuae: de quo nihil ad praesens. Aliud vero est quod descen 
+        <lb ed="#Bb" n="41"/>dit in partes quasi sibi subiectiuas determinatione vocis per rem significatam, ex natura ipsius rei 
+        <lb ed="#Bb" n="42"/>significatae absque aliquo adiuncto expresso, cuiusmodi est commune analogum: quod pro tanto ha-  
+        <lb ed="#Bb" n="43"/>bet rationem vniuersalis quod possit vnica distributione distribui per hoc signum omne, in omnia sua 
+        <lb ed="#Bb" n="44"/>significata quasi in supposita, sicut potest vniuersale verum in sua vere supposita. Quod quidem 
+        <lb ed="#Bb" n="45"/>non continet sua significata aeque principalia, neutrum scilicet per rationem aliquam, sicut conti- 
+        <lb ed="#Bb" n="46"/>net aequiuocum casu: propter quod nullam habet rationem vniuersalis: nec aliquid participat de ratione 
+        <lb ed="#Bb" n="47"/>vniuoca: &amp; ideo non descendit in illa vt in partes subiectiuas, sicut descendit species specialissima- 
+        <lb ed="#Bb" n="48"/>sed continet sua significata secundum prius &amp; posterius, &amp; sic descendit in illa: quia vnum si- 
+        <lb ed="#Bb" n="49"/>gnificat primo &amp; per se, quasi illi soli nomen conueniret. &amp; reuera participalitate &amp; antonoma- 
+        <lb ed="#Bb" n="50"/>tice loquendo illi soli conuenit. alterum vero significat secundario, &amp; per primum: ex eo 
+        <lb ed="#Bb" n="51"/>videlicet quod illud secundum in essentia sua est quasi quaedam effigies &amp; imago illius primi. 
+        <lb ed="#Bb" n="52"/>ldeo enim ipsum primum mutuat nomen suum secundo: &amp; hoc praecipue inquantum ipsum se- 
+        <lb ed="#Bb" n="53"/>cundum est ens absolute: sumendo est primo adiacens, non autem inquantum est ens aliquid, su- 
+   <!--637.xml-->
+        <pb ed="#Bb" n="311-v"/>
+        <lb ed="#Bb" n="1"/>mendo est secundo adiacens: &amp; hoc quia esse dicitur vnumquodque tam creatum quam increatum, ab 
+        <lb ed="#Bb" n="2"/>essentia primi principii. Sed ab illa primo &amp; principaliter dicitur ens id quod increatum est, quia il 
+        <lb ed="#Bb" n="3"/>la non solum est quo est ens increatum, sed etiam totum quod est in fine simplicitatis existens non  
+        <lb ed="#Bb" n="4"/>compositum ex aliis, neque compositum alteri, neque habens alterum compositum sibi, sicut habet o- 
+        <lb ed="#Bb" n="5"/>mnis alia essentia. Secundario autem ab illa eadem essentia dicitur esse ens id quod creatum est, 
+        <lb ed="#Bb" n="6"/>quia illa non est quod est ens creatum, sed solummodo quo est simpliciter: quia creatura est essen- 
+        <lb ed="#Bb" n="7"/>tia ex hoc quod effigies dei est, eo ipso absolute est: ipsa diuina essentia autem propria sui generis so- 
+        <lb ed="#Bb" n="8"/>lum aliquid est. In quo est accipere secundum partes essentiae quod est secundum rationem sui ge- 
+        <lb ed="#Bb" n="9"/>neris, &amp; quo est aliquid secundum illam: puta in homine animalitas est quod est simpliciter: ratio- 
+        <lb ed="#Bb" n="10"/>nalitas aliquid in specie est. Vnde aliud est quo homo est aliquid secundum speciem, &amp; quod est se 
+        <lb ed="#Bb" n="11"/>cundum genus, &amp; quo est absolute vt effigies diuinae essentiae est. Et sic ab eo quo deus dicitur esse 
+        <lb ed="#Bb" n="12"/>simpliciter, creatura dicitur esse absolute: sed deus quadam denominatione intrinseca, creatura ve 
+        <lb ed="#Bb" n="13"/>ro quadam denominatione extrinseca: sicut dicit <name ref="#Averroes">commentator</name> 
+       <name ref="#Boethius">Boethii</name>  super illud, Diuersitas est 
+        <lb ed="#Bb" n="14"/>esse &amp; quod est, vt habitum est supra, quaestione secunda huius articuli ante finem. Quae deno-  
+        <lb ed="#Bb" n="15"/>minatio non dicitur extrinseca quia non est ab essentia propria generi creaturae, vt ipsa aliquid  
+        <lb ed="#Bb" n="16"/>est, vt ea aliquid habet esse aliquid: sed solum quia non est ab illa nisi vt est quaedam effi- 
+        <lb ed="#Bb" n="17"/>gies dei &amp; participatio eius. Per quod quidem vnum quid sunt esse creata &amp; increata, &amp; esse crea 
+        <lb ed="#Bb" n="18"/>ti &amp; increati: sed differt in hoc, quod increatum est per essentiam suam, quia ab eo solo est quod est se 
+        <lb ed="#Bb" n="19"/>cundum id quod est: creatura autem non est ab eo quod est secundum id quod est, sed solummo- 
+        <lb ed="#Bb" n="20"/>do est ab illo secundum quod effigies dei est. Et quia secundum hunc modum inquantum creatu- 
+        <lb ed="#Bb" n="21"/>ra est effigies increati, est quoquo modo ipsum increatum, &amp; esse suum similiter esse illius: &amp; quo  
+        <lb ed="#Bb" n="22"/>ad hoc ens vniuoce significat illa duo: inquantum autem ipsum creatum deficit a veritate increa 
+        <lb ed="#Bb" n="23"/>ti, omnino est aliud ab illo: &amp; quo ad hoc aequiuoce significat illa duo. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e734">
+        ⁋ Et per hunc modum ana-  
+        <lb ed="#Bb" n="24"/>logia media est inter simpliciter vniuocationem &amp; aequiuocationem puram. Et hoc modo ens sim 
+        <lb ed="#Bb" n="25"/>pliciter tanquam vniuersale quoddam descendit in ens creatum &amp; increatum. Nihil enim reale com- 
+        <lb ed="#Bb" n="26"/>mune significat creato &amp; increato, non tamen est pure aequiuocum, sed partim vniuocum &amp; par- 
+        <lb ed="#Bb" n="27"/>tim aequiuocum. Et quo ad hoc quod habet rationem vniuoci potest distribuere simul pro creato &amp; 
+        <lb ed="#Bb" n="28"/>increato, dicendo, omne ens est: licet non sit vere nisi deus. Et ideo vltimo ab ista vniuersali quae simul 
+        <lb ed="#Bb" n="29"/>comprehendit deum &amp; creaturam, dicendo ens est deus, bene excipiendo, nullum ens est vere nisi 
+        <lb ed="#Bb" n="30"/>solus, excipiendo a remotione ab esse vere omne ens vniuersaliter ipsum ens increatum, secundum 
+        <lb ed="#Bb" n="31"/>quod per eundem modum aut conformem, accidens non dicitur ens nisi ab essentia subiecti. Vt ideo 
+        <lb ed="#Bb" n="32"/>Philosophus intelligatur dicere quod accidens non est ens nisi quia est entis. Et etiam vt ideo sub vna 
+        <lb ed="#Bb" n="33"/>distributione simul cadant substantia &amp; accidens, dicendo omne ens est creatum, &amp; per exceptio- 
+        <lb ed="#Bb" n="34"/>nem dicitur, nullum ens est vere nisi substantia. Et sic sicut propter analogiam esse, quae est inter 
+        <lb ed="#Bb" n="35"/>substantiam &amp; accidens, ens partim vniuoce continet ambo, &amp; cadunt simul sub vna distributio- 
+        <lb ed="#Bb" n="36"/>ne, a qua quodlibet illorum potest excipi, vnum ab affirmatiua dicendo, omne ens vere est praeter 
+        <lb ed="#Bb" n="37"/>accidens: &amp; econuerso alterum a negatiua dicendo, nullum ens vere est praeter substantiam: Sic 
+        <lb ed="#Bb" n="38"/>propter analogiam esse quae est inter deum ex vna parte, &amp; creaturam simpliciter, vt substantia 
+        <lb ed="#Bb" n="39"/>&amp; accidens simul sub ratione vniuoca ipsius esse simpliciter continentur, ex altera ens simplici- 
+        <lb ed="#Bb" n="40"/>ter adhuc generalius continet ambo, &amp; cadunt simul sub vna definitione, a qua quodlibet illo- 
+        <lb ed="#Bb" n="41"/>rum potest excipi, vnum sub affirmatiua dicendo, omne ens vere est praeter creaturam: &amp; econuer 
+        <lb ed="#Bb" n="42"/>so alterum a negatiua, dicendo nullum ens vere est praeter deum: licet multum differenter ve- 
+        <lb ed="#Bb" n="43"/>re esse dicatur de deo respectu creaturae, &amp; de substantia respectu accidentis. Et sic postquam ex toto 
+        <lb ed="#Bb" n="44"/>vniuersali in quantitate deus &amp; creatura excipi possunt, ex contrario sicut ex falso concluditur quod  
+        <lb ed="#Bb" n="45"/>nihil eorum quae sunt in deo vnum possit excipi ab altero: immo inquantum ens est commune vni 
+        <lb ed="#Bb" n="46"/>uocum omnibus quae sunt in deo, &amp; magis vniuocum quam sit species specialissima ad sua indiui- 
+        <lb ed="#Bb" n="47"/>dua, eo quod in illis essentia speciei numeratur, non sic autem diuina essentia in illis quae sunt in deo:  
+        <lb ed="#Bb" n="48"/>sed est eadem &amp; simplex. Quod quidem ens cum hoc quod est commune tali vniuocatione, bene sub 
+        <lb ed="#Bb" n="49"/>ratione vniuersalis potest esse contentiuum plurium, &amp; distribui in illa, eo quod significat per modum 
+        <lb ed="#Bb" n="50"/>agere actu primo, sicut generare &amp; spirare significant per modum agere actu secundo. Et proprie 
+        <lb ed="#Bb" n="51"/>secundum superius determinata, possunt sic plurificari, vt dicamus plures creantes &amp; plures spi 
+        <lb ed="#Bb" n="52"/>rantes: licet nequaquam possint alia in diuinis significata per modum habitus sic plurificari, vt dicamus 
+        <lb ed="#Bb" n="53"/>plures dii, plures aeterni. Propter quod sub nomine tali in diuinis sub vna distributione non pos- 
+   <!--638.xml-->
+        <pb ed="#Bb" n="312-r"/>
+        <lb ed="#Bb" n="1"/>sunt comprehendi illi quibus nomen &amp; ratio nominis conuenit: puta nomen quod est deus vel 
+        <lb ed="#Bb" n="2"/>aeternus patri &amp; filio &amp; spiritui sancto, vt dicatur omnis deus, omnis aeternus. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e810">
+        ⁋ Quod ergo argui 
+        <lb ed="#Bb" n="3"/>tur, quod deus non potest excipi a distributione aliqua sub qua continetur communiter cum creatus A 
+        <lb ed="#Bb" n="4"/>ris, quia ipse non est de numero omnium: Dico quod verum est sumendo ly omnium, vt ly omne est al 
+        <lb ed="#Bb" n="5"/>distributiuum vniuersalis proprie dicti &amp; stricte accepti, &amp; sola significatione descendentis in sua 
+        <lb ed="#Bb" n="6"/>supposita aut determinatione rei propter rem. Sumendo autem l omnium vt ly omne est distri- 
+        <lb ed="#Bb" n="7"/>butiuum vniuersalis proprie dicti &amp; stricte accepti, descendentis in sua supposita determinatione vo 
+        <lb ed="#Bb" n="8"/>cis tantum per rei naturam: Dico quod non est verum: immo sicut hoc modo substantia est de numero 
+        <lb ed="#Bb" n="9"/>omnium entium creatorum, &amp; comprehenduntur sub vna distributione substantia &amp; accidens, di 
+        <lb ed="#Bb" n="10"/>cendo, omne ens est, intelligendo de ente creato, siue dicendo, omne ens creatum est: sic hoc modo 
+        <lb ed="#Bb" n="11"/>deus est de numero omnium entium simpliciter &amp; absque determinatione dicto ente, &amp; comprehen 
+        <lb ed="#Bb" n="12"/>duntur sub vna distributione deus &amp; creatura, ente analogo ad substantiam &amp; accidens in creatu 
+        <lb ed="#Bb" n="13"/>ris, quod significamus nomine entis creati, existente vno significato illius entis simpliciter &amp; commu 
+        <lb ed="#Bb" n="14"/>nioris, &amp; ipso deo existente altero significato, secundum modum supra expositum. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e839">
+        ⁋ Quod vlterius 
+        <lb ed="#Bb" n="15"/>arguitur contra hoc, quod scilicet nec hoc modo deus possit dici de numero omnium, eo quod omnia facta 
+        <lb ed="#Bb" n="16"/>sunt ab ipso: Dico quod hoc nomine omnia quod est neutri generis &amp; nominatiui casus, numeri plu- 
+        <lb ed="#Bb" n="17"/>ralis, supponens illi verbo sunt, apposito illo, facta per ipsum, continens vim signi distributiui totius 
+        <lb ed="#Bb" n="18"/>vniuersalis, &amp; simul vim vniuersalis distributi significati hoc nomine ens, vel ( vt largius loqua-  
+        <lb ed="#Bb" n="19"/>mur) significati hoc nomine res, quod significat analogice rem dictam a ratitudine, quae significatur 
+        <lb ed="#Bb" n="20"/>nomine entis veri, continentis omne ens existens in rerum natura extra intellectum, vel ratum exi  
+        <lb ed="#Bb" n="21"/>stere, scilicet deum &amp; creaturam, &amp; etiam rem dictam a reor reris, quae significatur nomine entis 
+        <lb ed="#Bb" n="22"/>diminuti, continentis omne ens existens in intellectu ab opere intellectus, aut diminutum existens 
+        <lb ed="#Bb" n="23"/>ab opere naturae aut intellectus deficientis: qui quidem duo modi entium veri &amp; diminuti signi- 
+        <lb ed="#Bb" n="24"/>ficantur analogice nomine entis communissime abstracti: &amp; vna distributione latissima continet 
+        <lb ed="#Bb" n="25"/>deum &amp; creaturam, &amp; quod est secundum animam: immo vniuersaliter ens diminitum simplici- 
+        <lb ed="#Bb" n="26"/>ter: dico inquam, quod tali nomine potest intelligi signum distributiuum significatum in ipso facere dis 
+        <lb ed="#Bb" n="27"/>tributionem rei distributae intellectae per idem nomen, aut secundum naturam &amp; ipsius signi distribu 
+        <lb ed="#Bb" n="28"/>tiui &amp; ipsius distributi, aut secundum modum vsus talis distributionis a nobis. Si primo modo,  
+        <lb ed="#Bb" n="29"/>dico quod adhuc sub tali distributione simul continentur deus &amp; creatura, aut etiam cum eis ens dimi 
+        <lb ed="#Bb" n="30"/>nutum, &amp; falsa est propositio, quia deus non est ens factum, quia tunc esset de numero factorum: 
+        <lb ed="#Bb" n="31"/>&amp; ideo cum omnia facta sunt ab ipso, ipse esset factus a se, &amp; de numero factorum a se, quod falsum 
+        <lb ed="#Bb" n="32"/>est: quia secundum <name ref="#Augustine">Augustinum</name> super Ioan. sermo. i. a se fieri non potuit qui fecit omnia. Eo quod se- 
+        <lb ed="#Bb" n="33"/>cundum eundem in principio libri de Trinitate, non solum deus ita non est, sed necspiritualis nec cor- 
+        <lb ed="#Bb" n="34"/>poralis creatura. nulla enim omnino res est quae seipsam gignat vt sit. Licet enim sit de numero o- 
+        <lb ed="#Bb" n="35"/>mnium distributorum sub hoc nomine ens largius accepto ad deum &amp; creaturam, &amp; adhuc largis- 
+        <lb ed="#Bb" n="36"/>sime accepto ad ens verum &amp; diminutum, non tamen est de numero omnium distributorum sub 
+        <lb ed="#Bb" n="37"/>hoc nomine ens large accepto ad substantiam &amp; accidens, quod est ens creatum, &amp; ita factum: &amp; 
+        <lb ed="#Bb" n="38"/>ita non est de numero factorum. Esse enim de numero factorum idem est quod esse vnum ex factis. 
+        <lb ed="#Bb" n="39"/>Si secundo modo, sic dico quod solummodo vera est, &amp; non alio modo: &amp; hoc distributione quae ap-  
+        <lb ed="#Bb" n="40"/>pellatur distributio accommoda: vt sic intelligatur quod omnia facta sunt ab ipso, sic quod nihil sit factum 
+        <lb ed="#Bb" n="41"/>quod non sit factum ab ipso: iuxta illud quod dicitur de filio, quod sumptum est in argumento. O- 
+        <lb ed="#Bb" n="42"/>mnia per ipsum facta funt. Et ad dandum intellectum quomodo hoc esset verum, subditur. Et si- 
+        <lb ed="#Bb" n="43"/>ne ipso factum est nihil. Et sic non intelligitur tali propositione quod simpliciter omnia facta sunt ab  
+        <lb ed="#Bb" n="44"/>ipso vel per ipsum, sed solummodo quod quaecunque facta sunt, ab ipso vel per ipsum facta sunt. Et ideo  
+        <lb ed="#Bb" n="45"/>per tale dictum non intelligitur quod ipse a quo vel per quem facta sunt omnia, intelligatur factus, aut  
+        <lb ed="#Bb" n="46"/>comprehensus sub tali distributione: neque etiam entia diminuta quae sunt defectus &amp; priuationes 
+        <lb ed="#Bb" n="47"/>incidentes in opere creaturae. dicente <name ref="#Augustine">Augustino</name> secundum praedicta. Sane fratres quod sequitur, 
+        <lb ed="#Bb" n="48"/>Omnia per ipsum facta sunt, &amp; sine ipso factum est nihil: videte ne sic cogitetis quod nihil, aliquid est. 
+        <lb ed="#Bb" n="49"/>Solent enim multi male intelligentes, sine ipso factum est nihil, putare aliquid esse nihil. Peccatum 
+        <lb ed="#Bb" n="50"/>quidem non per ipsum est factum, &amp; manifestum est quod peccatum nihil est, &amp; nihil fiunt homines 
+        <lb ed="#Bb" n="51"/>cum peccant. Et idolum non per verbum factum est: habet quidem formam humanam quandam-  
+        <lb ed="#Bb" n="52"/>sed ipse homo per verbum factus est, forma hominis in idolo non per verbum facta est. Scriptum 
+        <lb ed="#Bb" n="53"/>est enim. Scimus quod idolum nihil est, ergo non factum per verbum. Sed quaecunque facta sunt natu- 
+   <!--639.xml-->
+        <pb ed="#Bb" n="312-v"/>
+        <lb ed="#Bb" n="1"/>raliter quaecunque sunt in creaturis omnino. Vnde nec sub ista distributionem, Omnia per ipsum 
+        <lb ed="#Bb" n="2"/>facta sunt, cadunt omnia factibilia: sicut nec sub illa distributione: llluminat omnem hominem venien 
+        <lb ed="#Bb" n="3"/>tem in hunc mundum, loannis primo. etiam si diceret absolute illuminat omnem hominem: quia 
+        <lb ed="#Bb" n="4"/>nihil illuminatur quod non ipse illuminet: multi tamen sunt venientes in hunc mundum qui ab  
+        <lb ed="#Bb" n="5"/>ipso non illuminantur. Sicut cum in ciuitate est vnicus magister qui docet pueros, dicitur de illo 
+        <lb ed="#Bb" n="6"/>uod docet omnes pueros ciuitatis, quia non est alius qui doceat. Vnde quia, vt dictum est, ex natura 
+        <lb ed="#Bb" n="7"/>distributionis &amp; distributi illa est simpliciter falsa, omnia per ipsum facta sunt, &amp; illa, illuminat o- 
+        <lb ed="#Bb" n="8"/>mnem hominem venientem in hunc mundum: quia illa distributione non solum comprehenditur 
+        <lb ed="#Bb" n="9"/>deus, sed etiam omnis naturalis creatura, siue facta siue nondum facta, sed factibilis, &amp; omne ens 
+        <lb ed="#Bb" n="10"/>diminutum Ilsta autem non solum comprehendit hominem venientem in hunc mundum illumi- 
+        <lb ed="#Bb" n="11"/>natum, sed etiam non illuminatum. Et sic licet deus non sit de numero omnium factorum, est ta- 
+        <lb ed="#Bb" n="12"/>men de numero omnium cadentium sub distributione huius signi omnis, cadentis vt super distri 
+        <lb ed="#Bb" n="13"/>butum, super ens largius vel largissime acceptum. Non dico numero vniuoco, sicut quaelibet spe 
+        <lb ed="#Bb" n="14"/>cies est de numero eorum quae sunt sub genere, aut indiuiduum quodlibet de numero omnium 
+        <lb ed="#Bb" n="15"/>quae sunt sub eadem specie. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e970">
+        ⁋ Ex quibus patet quale officium distributionis habeant in diuinis si- 
+        <lb ed="#Bb" n="16"/>pna distributiua totus &amp; omnis. Nec oportet super hoc fieri specialem quaestionem: vtrum scilicet 
+        <lb ed="#Bb" n="17"/>in diuinis possit esse distribuibile per signum distributiuum. Ad cuius intellectum clariorem, ex pra 
+        <lb ed="#Bb" n="18"/>missis aduertenda est vna distinctio generalis de tali distribuibili in partes vel in quasi partes: vi- 
+        <lb ed="#Bb" n="19"/>delicet quod est quoddam totum integrale, quoddam vero vniuersale. Et integrale sumitur duplici- 
+        <lb ed="#Bb" n="20"/>ter: stricte, quod non est nisi in creaturis habentibus partes absolute differentes: &amp; large, quod non 
+        <lb ed="#Bb" n="21"/>est in diuinis, nisi in personis singulis habentibus quasi partes quibus instituuntur, absolutum 
+        <lb ed="#Bb" n="22"/>quod est essentia, &amp; relationem, quae est proprietates. &amp; vtroque modo est distribuibile signo vniuer 
+        <lb ed="#Bb" n="23"/>sali totius integri: &amp; potest fieri exceptio ab ipso secundum modum praeexpositum. Totum vni- 
+        <lb ed="#Bb" n="24"/>uersale etiam dupliciter est, scilicet improprie &amp; proprie. Improprie, vt est deitas vel caeterorum 
+        <lb ed="#Bb" n="25"/>quodcunque substantiale aut denominatum ab illo nominaliter, puta a deitate deus, a bonitate bo- 
+        <lb ed="#Bb" n="26"/>nus, &amp; sic de caeteris. Cui quidem vniuersali non potest addi signum distributiuum vniuersalis 
+        <lb ed="#Bb" n="27"/>in diuinis, dicendo omnis deus, vel omnis aeternus, vt dictum est: &amp; hoc ea ratione qua tres perso 
+        <lb ed="#Bb" n="28"/>nae non possunt dici plures aeterni vel plures dii: &amp; etiam qua nihil significatum nomine, nisi verba 
+        <lb ed="#Bb" n="29"/>liter sit significatum aut participialiter, ac a verbo deriuatum, potest dici pluraliter, secundum supe 
+        <lb ed="#Bb" n="30"/>rius tacta. Vnde huic nomini persona, quia significat commune secundae intentionis, bene potest 
+        <lb ed="#Bb" n="31"/>addi signum distributiuum totius vniuersalis, dicendo in diuinis: omnis persona: &amp; potest fieri ex- 
+        <lb ed="#Bb" n="32"/>ceptio ab ipso dicendo, nulla persona generat praeter patrem: omnis persona spirat praeter spiritum 
+        <lb ed="#Bb" n="33"/>sanctum. Vniuersale autem proprie est aliquid dupliciter, scilicet stricte &amp; large. Large, immo 
+        <lb ed="#Bb" n="34"/>largissime, est in diuinis vniuersale, ens dictum ab essentia, &amp; vniuersaliter omne in diuinis verba- 
+        <lb ed="#Bb" n="35"/>liter aut participialiter significatum, conueniens pluribus personis. Et possunt distribui signo vni 
+        <lb ed="#Bb" n="36"/>uersali, dicendo, omne ens diuinum, omnis creator, omnis intelligens, omnis volens. Et potest etiam 
+        <lb ed="#Bb" n="37"/>a tali vniuersali fieri exceptio secundum modum supra signatum. Et est in sic vniuersali multo ve 
+        <lb ed="#Bb" n="38"/>rior &amp; perfectior vniuocatio eorum quae quasi partes subiectiuas continet, quam sit indiuiduorum in  
+        <lb ed="#Bb" n="39"/>creaturis sub eadem specie. Latet enim in specie specialissima &amp; in vnitate rei vt significata est per il 
+        <lb ed="#Bb" n="40"/>lam, multo maior aequocatio respectu eius quid sic est vniuersale in deo, &amp; vnitatis rei significatae per 
+        <lb ed="#Bb" n="41"/>illud: quam latet in genere &amp; in vnitate rei significatae per illud respectu speciei specialissimae, &amp; rei si- 
+        <lb ed="#Bb" n="42"/>gnificatae per illam. Quia dicto modo vniuersale in deo significat vnam rem existentem contentam 
+        <lb ed="#Bb" n="43"/>in quasi pluribus, subiectam, non plurificatam. Species autem significat vnam rem plurificatam 
+        <lb ed="#Bb" n="44"/>in pluribus sub se contentis, licet absque addito diuerso re hincinde sicut additur in diuersis specie 
+        <lb ed="#Bb" n="45"/>bus contentis sub eodem genere. Propter quod aequiuocatio latet in genere quae non latet in spe 
+        <lb ed="#Bb" n="46"/>ci. Quod quidem nomen ens rationem vniuersalis habet, licet non hoc nomen deus, quia signifi- 
+        <lb ed="#Bb" n="47"/>cat per modum actus. Et ideo sicut illa quae in diuinis significant per modum actus secundi qui est 
+        <lb ed="#Bb" n="48"/>agere, vt sunt omnia participialiter significantia, sicut intelligens, volens, creans, possunt distribui 
+        <lb ed="#Bb" n="49"/>pro personis quarum est agere: sic hoc participium ens significans per modum actus primi, qui est 
+        <lb ed="#Bb" n="50"/>esse, potest distribuere generaliter pro omnibus quae sunt in diuinis, quia esse est omnium illorum.  
+        <lb ed="#Bb" n="51"/>Sed inquantum sit distributio sub ente pro personis, debet exponi ens per qui est, masculine: quan  
+        <lb ed="#Bb" n="52"/>do vero sit distributio pro essentialibus, debet exponi per quod est, neutraliter. Et secundum hoc 
+        <lb ed="#Bb" n="53"/>solum variatur distributio pro personis &amp; pro essentialibus in diuinis. Stricte autem sumendo  
+   <!--640.xml-->
+        <pb ed="#Bb" n="313-r"/>
+        <lb ed="#Bb" n="1"/>vniuersale duplex est, quia aut descendit in partes subiectiuas sola significatione: &amp; sic solummo-  
+        <lb ed="#Bb" n="2"/>do vniuersale in creaturis est species specialissima sub quocumque genere, aut descendit in suas partes 
+        <lb ed="#Bb" n="3"/>subiectiuas determinatione: &amp; hoc dupliciter. Quia aut determinatione rei significatae per vocem 
+        <lb ed="#Bb" n="4"/>aliquo reali absoluto, &amp; sic solummodo vniuersale est in creaturis genus, tam generalissimum quam 
+        <lb ed="#Bb" n="5"/>subalternum. Aut determinatione solius vocis significantis rem per ipsam rem significatam, &amp; hoc 
+        <lb ed="#Bb" n="6"/>dupliciter, aut ex ipsius vocis appositione: vt contingit cum imponitur aequiuoco, quod non est 
+        <lb ed="#Bb" n="7"/>proprie vniuersale, sed quando est nomen appellatiuum potius est plura vniuersalia, quae non vni 
+        <lb ed="#Bb" n="8"/>ca distributione sed pluribus possunt distribui. Aut ipsius rei natura, cuiusmodi est omne analo-  
+        <lb ed="#Bb" n="9"/>gum: quod licet vnica distributione pro suis contentis possit distribui ratione vniuocationis in ip- 
+        <lb ed="#Bb" n="10"/>so, ratione tamen aequiuocationis quam participat, &amp; ratione illa qua illa quo quo modo secundum  
+        <lb ed="#Bb" n="11"/>prius &amp; posterius significat, quaelibet illarum est distinguenda. Quale quidem vniuersale licet stri 
+        <lb ed="#Bb" n="12"/>cte &amp; proprie appellemus vniuersale respectu vniuersalis quod est improprie aut large in diuinis:  
+        <lb ed="#Bb" n="13"/>est tamen large &amp; improprie vniuersale respectu vniuersalis vniuoci generis vel speciei in creatu- 
+        <lb ed="#Bb" n="14"/>ris. Et vniuersalitas talis vniuersalis potest esse lata, cuiusmodi est entis in creaturis ad substantiam 
+        <lb ed="#Bb" n="15"/>&amp; accidens: latior, cuiusmodi est ad deum &amp; ad creaturas: &amp; latissima, cuiusmodi est entis ad ens ve- 
+        <lb ed="#Bb" n="16"/>rum &amp; diminutum. Et ab omnibus istis modis vniuersalis distributi poterit fieri exceptio respectu 
+        <lb ed="#Bb" n="17"/>alicuius praedicati &amp; cuiuscumque contentorum sub illo, vt patet inspicienti, &amp; liquet ex supra determi 
+        <lb ed="#Bb" n="18"/>natis. 
+      </p>
+      <p xml:id="vn58an-fe84497-d1e1098">
+        ⁋ Ad quartum: quae sic se habent quod vno nominato alterum necesse est intelligi, vnum eorum 
+        <lb ed="#Bb" n="19"/>non potest excludi ab alio nec excipi: Dico quod reuera persona vna intellecta, altera nominata ab illa 
+        <lb ed="#Bb" n="20"/>inclusa in propositione aliqua, non potest excipi vel excludi respectu illius siue subiecti siue praedica pi 
+        <lb ed="#Bb" n="21"/>ti, respectu cuius vna persona nominata necesse est alteram intelligi. Cuius ratio est, quia id quod  
+        <lb ed="#Bb" n="22"/>est in vna illarum propter quod praedicatum dicitur de illo, aut ipsum dicitur de subiecto, etiam 
+        <lb ed="#Bb" n="23"/>est in alio. Vnde quod vna persona in subiecto proposita &amp; nominata, intelligatur altera, hoc non con- 
+        <lb ed="#Bb" n="24"/>tingit nisi quia eo quo persona nominata respicit praedicatum, praecise eodem respicit illud &amp; alte- 
+        <lb ed="#Bb" n="25"/>ra intellecta, sicut contingit in exemplo Augustini de patre &amp; filio nominatis, &amp; spiritu sancto in-  
+        <lb ed="#Bb" n="26"/>tellecto respectu illius praedicati, vnus solus verus, sequitur, vnus deus verus. In hoc enim nulla est differentia. 
+        <lb ed="#Bb" n="27"/>ldipsum enim est in tribus personis, propter quod duae nominatae dicuntur vnus solus verus deus: &amp; ideo illis 
+        <lb ed="#Bb" n="28"/>nominatis necesse est spiritum sanctum cointelligi, sic quod respectu illius praedicati illis inclusis respectu praedicati, 
+        <lb ed="#Bb" n="29"/>spiritus sanctus a consortio eorum in praedicato non potest ab illis excludi, dicendo, soli pater &amp; filius sunt vnus so 
+        <lb ed="#Bb" n="30"/>lus verus deus: ita quod non spiritus sanctus, neque excipi viceuersa dicendo, nullus praeter patrem &amp; filium est 
+        <lb ed="#Bb" n="31"/>vnus solus verus deus: aut, quilibet praeter spiritum sanctum est vnus solus verus deus. Sed non  
+        <lb ed="#Bb" n="32"/>est verum quod semper vna nominata necesse sit reliquam intelligi, puta quando persona nominata 
+        <lb ed="#Bb" n="33"/>respicit subiectum aliquod quod est in eo non commune cum altera persona. Vnde quia id propter 
+        <lb ed="#Bb" n="34"/>quod pater &amp; filius spirant, idipsum est et commune in ipsis, vna nominata altera intelligitur: nec 
+        <lb ed="#Bb" n="35"/>potest excludi respectu talis praedicati aut excipi. Quia tamen illud non est in spiritu sancto, nomi 
+        <lb ed="#Bb" n="36"/>natis patre &amp; filio, dicendo, pater &amp; filius spirant, non est necesse respectu talis praedicati cointelligi 
+        <lb ed="#Bb" n="37"/>spiritum sanctum. Et ideo respectu talis praedicati bene potest spiritus sanctus excludi, dicendo, so 
+        <lb ed="#Bb" n="38"/>li pater &amp; filius spirant: non ergo spiritus sanctus, dicendo quilibet praeter spiritum sanctum spirat 
+        <lb ed="#Bb" n="39"/>&amp; nullus spirat nisi pater &amp; filius. 
+   <!--641.xml-->
+        <pb ed="#Bb" n="313-v"/>
+        <lb ed="#Bb" n="1"/>an 
+        <lb ed="#Bb" n="2"/>Explicita est Suma Quaestionum Ordinariarum. Magistri Henrici AGandauo Theo 
+        <lb ed="#Bb" n="3"/>logi Solennis, Opera &amp; impensis lodoci Badii Ascensii, Cui Christianissi- 
+        <lb ed="#Bb" n="4"/>tu: 
+        <lb ed="#Bb" n="5"/>mus Francorum Rex, concessit de singulari gratia priuilegium &amp; 
+        <lb ed="#Bb" n="6"/>auctoritatem imprimendi &amp; vendendi haec &amp; alia eiusdem 
+        <lb ed="#Bb" n="7"/>Doctoris Solemnis opera, in regno suo, Cauitque ne alius quis 
+        <lb ed="#Bb" n="8"/>piam attentet eadem rursum imprimere, aut aliubi im 
+        <lb ed="#Bb" n="9"/>pressa isthic vaenundare, sub pcena confiscationis 
+        <lb ed="#Bb" n="10"/>sic impressorum intra triennium ab Nonis lu 
+        <lb ed="#Bb" n="11"/>liis Anni Domini. M. D. &amp; X. vt constat per 
+        <lb ed="#Bb" n="12"/>literas patentes Regio Sigillo obsi- 
+        <lb ed="#Bb" n="13"/>gnatas, &amp; concessas praesente &amp; 
+        <lb ed="#Bb" n="14"/>si n:hi 
+        <lb ed="#Bb" n="15"/>annuente praereuerendo in Chri 
+        <lb ed="#Bb" n="16"/>sto patre, tunc Parrhisio 
+        <lb ed="#Bb" n="17"/>rum Antistite, nunc autem  
+        <lb ed="#Bb" n="18"/>Senonum Archiepso 
+        <lb ed="#Bb" n="19"/>dignissimo, mul 
+        <lb ed="#Bb" n="20"/>tisque aliis fide 
+        <lb ed="#Bb" n="21"/>ii triui 
+        <lb ed="#Bb" n="22"/>m- 
+        <lb ed="#Bb" n="23"/>dignis. sub 
+        <lb ed="#Bb" n="24"/>in:  
+        <lb ed="#Bb" n="25"/>signante 
+        <lb ed="#Bb" n="26"/>iitu 
+        <lb ed="#Bb" n="27"/>i. obtu: 
+        <lb ed="#Bb" n="28"/>umquotd tantus:  
+        <lb ed="#Bb" n="29"/>Pedovni
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

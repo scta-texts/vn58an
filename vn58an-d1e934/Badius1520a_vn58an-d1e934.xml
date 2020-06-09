@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="77-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e934"> <!-- alias="vn58an-a11q2" -->
+      <head xml:id="vn58an-d1e934-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e934-Hd1e107" type="question-title">Utrum mulier possit esse doctrix eius</head>
+      <p xml:id="vn58an-d1e934-d1e110">
+        <lb ed="#Ba" n="29"/>CIrca secundum arguitur quod mulier possit esse doctor huius scientiae. Primo sic. 
+        <lb ed="#Ba" n="30"/>Prouer. iiii. Vnigenitus fui coram matre mea &amp; docebat me. id autem quod docebat 
+        <lb ed="#Ba" n="31"/>erat huius scientiae, vt patet ibidem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e934-d1e119">
+        ⁋ Secundo sic, non est minoris gratiae 
+        <lb ed="#Ba" n="32"/>prophetare quam docere: immo &amp; prophetarum est docere publice ea quae eis reueian 
+        <lb ed="#Ba" n="33"/>tur. i. ad Cor. xiiii. Qui prophetat hominibus loquitur ad aedificationem. mulieribus 
+        <lb ed="#Ba" n="34"/>concessum est prophetare, vt Mariae sorori Moysi. Exo. xiiii. Debborae ludic. iiii. Didae 
+        <lb ed="#Ba" n="35"/>iiii. Reg. xxii. Annae. Lui nest ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e934-d1e131">
+        ⁋ Tertio sic. i. Pet. iiii. Vnusquisque sicut accepit 
+        <lb ed="#Ba" n="36"/>gratiam in alterutrum administrantes. sed mulieres quandoque gratiam scientiae huius accipiunt: ergo  
+        <lb ed="#Ba" n="37"/>aliis debent administrare, quod non possunt facere nisi docendo. ergo &amp;c. vnde Maria &amp; Martha cum 
+        <lb ed="#Ba" n="38"/>apostolis genera linguarum acceperunt: &amp; publice sicut apostoli docuisse &amp; praedicasse leguntur. 
+      </p>
+      <p xml:id="vn58an-d1e934-d1e140">
+        ⁋ Con 
+        <lb ed="#Ba" n="39"/>tra est illud apostoli. i. Ti. ii. Docere mulierem non permitto. 
+      </p>
+      <p xml:id="vn58an-d1e934-d1e145">
+        <lb ed="#Ba" n="40"/>⁋ Dicendum ad hoc: quod ista quaestio &amp; sequentes differunt a praecedenti. Illa enim quae  
+        <lb ed="#Ba" n="41"/>siuit de potentia absoluta facti, cuius est posse docere: an solius dei, an quodam modo hominis &amp; angeli- 
+        <lb ed="#Ba" n="42"/>lstae vero quaestiones quaerunt de potentia iuris &amp; auctoritatis: an scilicet. status quarundam personarum per- 
+        <lb ed="#Ba" n="43"/>mittat quod officium doctoris habeant. Rndendum igitur ad istas quaestiones quantum ad potentiam docendi non de fa 
+        <lb ed="#Ba" n="44"/>cto, sed de iuris permissione. Planum est eim quod de facto quilibet homo sciens siue vir siue mulier, siue senex siue 
+        <lb ed="#Ba" n="45"/>iuuenis, siue religiosus siue secularis, siue clericus siue laicus potest docere quae nouit. Dicendum igitur ad  
+        <lb ed="#Ba" n="46"/>istam propositam quaestionem &amp; consimiliter ad alias, quod docere potest aliquis ex officio vel ex beneficio. Vt autem  
+        <lb ed="#Ba" n="47"/>aliquis possit docere ex officio quatuor in eo requiruntur, duo respectu doctrinae, &amp; duo respectu illo 
+        <lb ed="#Ba" n="48"/>rum quibus dispensanda est doctrina. Primum est docendi constantia, ne de facili a veritate cognita 
+        <lb ed="#Ba" n="49"/>doctor se diuertat. Secundum est exequendi efficacia, ne per infirmitatem ab opere desistat. Tertium 
+        <lb ed="#Ba" n="50"/>est docentis auctoritas, vt auditores sibi credendo obediant. Quartum est sermonis viuacitas, vt vitia 
+        <lb ed="#Ba" n="51"/>corrodendo ad virtutes impellat. Propter primum Christius. Mat. v. primos doctores comparat iuci quae  
+        <lb ed="#Ba" n="52"/>non tenebrescit: propter secundum ciuitati quae non deficit: propter tertium lucernae quae super candela 
+        <lb ed="#Ba" n="53"/>brum ponitur: propter quartum sali quo caro a putredine praeseruatur. 
+      </p>
+      <p xml:id="vn58an-d1e934-d1e178">
+        ⁋ Quantum ergo ad istam quae- 
+        <lb ed="#Ba" n="54"/>stionem dicendum, quod contraria his quatuor inueniuntur in mulieribus, propter quod mulier ex officio docere 
+        <lb ed="#Ba" n="55"/>non potest: &amp; ideo nec doctor esse huius scientiae. De primis duobus dicit glos. Luc. vlti. Quia constam 
+   <!--170.xml-->
+        <pb ed="#Ba" n="78-r"/>
+        <lb ed="#Ba" n="1"/>tiam praedicandi non habet infirmior sexus: &amp; ad exequendum infirmior est: mandatur viris officium euam 
+        <lb ed="#Ba" n="2"/>pelizandi. Mulier vero praedicandi seu docendi constantiam non habet: quia de facili a veritate seducitur. 
+        <lb ed="#Ba" n="3"/>Et ideo postquam dixit Apostolus id ist Timo. ii. Docere mulierem non permitto: post modicum subiunxit 
+        <lb ed="#Ba" n="4"/>quasi pro causa. Adam non est seductus: mulier autem seducta in praeuaricatione fuit. Mulier secundo exe 
+        <lb ed="#Ba" n="5"/>quendi officium doctoris non habet efficaciam: quia sexus fragilitatem patitur, qui non sufficit in  
+        <lb ed="#Ba" n="6"/>publico discurrere &amp; laborare. Et ideo ibidem etiam cum dixisset: Docere mulierem non permitto:  
+        <lb ed="#Ba" n="7"/>statim addidit: Sed esse in silentio. Mulier tertio doctoris auctoritatem habere non potest propter sexus con 
+        <lb ed="#Ba" n="8"/>ditionem qui non habet exequendi libertatem: quia sub alterius debet esse potestate. Gen. iii. sub po- 
+        <lb ed="#Ba" n="9"/>testate viri eris: &amp; ipse dominabitur tui. Et ideo cum mulieri officium docendi inhibuisset, dicendo  
+        <lb ed="#Ba" n="10"/>Docere mulierem non permitto, immediate adiuxit: Neque dominari in virum. vbi dicit Glos. Vnde 
+        <lb ed="#Ba" n="11"/>etiam auctoritatem docendi ei negauit. Et postquam dixit primae Corinth. xiiii. Non permittitur eis loqui: im 
+        <lb ed="#Ba" n="12"/>mediate adiunxit: Sed subditas esse sicut lex dicit. vnde quod sumeret auctoritatem praesidentis, indecens 
+        <lb ed="#Ba" n="13"/>esset ei &amp; verecundum valde. &amp; ideo addit Apostolus. Turpe est autem mulieri in ecclesia loqui. vbi dicit 
+        <lb ed="#Ba" n="14"/>Glos. Quia contra disciplinam ecclesiasticam est. Mulier quarto viuacitatem sermonis non habet 
+        <lb ed="#Ba" n="15"/>ad mortificandum: sed magis prouocandum peccata, &amp; ideo super illud. Docere mulierem non per 
+        <lb ed="#Ba" n="16"/>mitto, dicit Glos. Si enim loquitur magis incitat ad luxuriam &amp; irritatur. &amp; ideo dicitur Ecclesiastici. ix. Collo 
+        <lb ed="#Ba" n="17"/>quium illius quasi ignis exardescit. Glos. In corda auditorum. 
+      </p>
+      <p xml:id="vn58an-d1e934-d1e226">
+        ⁋ Loquendo autem de docere ex benefi- 
+        <lb ed="#Ba" n="18"/>cio &amp; charitatis feruore, bene licet mulierem docere sicut &amp; quemlibet alium si sanam doctri- 
+        <lb ed="#Ba" n="19"/>nam habeat: &amp; hoc priuatim: &amp; in silentio: &amp; non in publico &amp; in facie ecclesiae. Hoc enim solum licet 
+        <lb ed="#Ba" n="20"/>docentibus ex officio: &amp; tali modo docere solummodo ei prohibetur. Vnde cum dixisset Apostolus pri 
+        <lb ed="#Ba" n="21"/>mae Corinth. xiiii. Potestis omnes prophetare vt omnes discant: ne crederet aliquis quod hoc liceret mu 
+        <lb ed="#Ba" n="22"/>lieri in publico sicut viro, intulit. Mulieres in ecclesia taceant. Non enim permittitur eis loq. Ve- 
+        <lb ed="#Ba" n="23"/>rum est in ecclesia secundum quod dicit Glos. super illud. ad Timo. Docere mulierem non permitto. Ni- 
+        <lb ed="#Ba" n="24"/>hilominus tamen alibi in priuato eis permittitur docere ea quae licet eas discere: &amp; hoc maxime mu 
+        <lb ed="#Ba" n="25"/>lieres alias &amp; puellulas: viros autem non. tum quia sermo earum viros ad libidinem inflammaret, vt dictum 
+        <lb ed="#Ba" n="26"/>est. tum quia hoc est turpe &amp; inhonestum viris. secundum quod dicit Hiero. ad Paulinam. Discunt pro  
+        <lb ed="#Ba" n="27"/>pudor a foeminis quod viros doceant. &amp; hoc nisi sit mulier speciali gratia praedita: vt fuit virgo bea- 
+        <lb ed="#Ba" n="28"/>ta quae Apostolos in silentio docuit. secundum quod <name ref="#Augustine">Augustinus</name> in sermone quodam de virgi- 
+        <lb ed="#Ba" n="29"/>nis natiuitate: loquens de apostolorum &amp; eius disciplina, dicit. Ipsi per reuelationem spiritus sancti 
+        <lb ed="#Ba" n="30"/>edocti fuerunt omnem veritatem. Incomparabiliter tamen manifestius ac eminentius ipsa per eun 
+        <lb ed="#Ba" n="31"/>dem spiritum ipsius veritatis intelligebat profunditatem, ac per hoc multa eis per eam reuelaban- 
+        <lb ed="#Ba" n="32"/>tur: quae in se non solum scientia sed ipso effectu, ipso experimento didicerat de mysteriis eiusdem do 
+        <lb ed="#Ba" n="33"/>mini Christian 
+      </p>
+      <p xml:id="vn58an-d1e934-d1e266">
+        <lb ed="#Ba" n="34"/>⁋ Ad primum in oppositum: quod dixit Salomon de matre sua, Docebat me: dicendum  
+        <lb ed="#Ba" n="35"/>quod hoc erat doctrina priuata qua mater erudiuit filium tamquam minorem: quod licuit: quia talibus etiam li 
+        <lb ed="#Ba" n="36"/>cet conuersari cum foeminis: nec turpe est eis neque ad libidinem earum sermonibus prouocantur. 
+        <lb ed="#Ba" n="37"/>Melius dicendum quod illi verbo docebat non supponitur ly mater, sed pater. vnde litera sic iacet. Hilius 
+        <lb ed="#Ba" n="38"/>fui patris mei tenellus &amp; vnigenitus coram matre mea: &amp; docebat me. Glos. interli. Pater. 
+      </p>
+      <p xml:id="vn58an-d1e934-d1e280">
+        ⁋ Ad  
+        <lb ed="#Ba" n="39"/>secundum: quod licet mulierem prophetare, quare &amp; docere: Dicendum quod prophetia data est mu- 
+        <lb ed="#Ba" n="40"/>lieribus non ad publicam instructionem: sed priuatam. &amp; si vt per eam viros doceat: hoc est ex gra 
+        <lb ed="#Ba" n="41"/>tia speciali, quae non respicit sexuum distinctionem. secundum quod dicitur Col. iii. Induite nouum ho 
+        <lb ed="#Ba" n="42"/>minem qui renouatur secundum imaginem eius qui creauit illum vbi non est masculus neque foe 
+        <lb ed="#Ba" n="43"/>mina. Viris autem data est ad publicam instructionem. Et ideo, vt dictum est, postquam prophetiam 
+        <lb ed="#Ba" n="44"/>apostolis omnibus concessit, specialiter mulieribus publicam doctrinam abstulit non viris, vt dictum 
+        <lb ed="#Ba" n="45"/>est. 
+      </p>
+      <p xml:id="vn58an-d1e934-d1e298">
+        ⁋ Ad tertium quod vnusquisque secundum quod accepit gratiam administret: Dicendum quod hoc licet 
+        <lb ed="#Ba" n="46"/>sed vnicuique secundum quod decet scilicet mulieribus priuate &amp; viris publice. &amp; ideo sequitur ibidem. Sicut boni 
+        <lb ed="#Ba" n="47"/>dispiesatores multiformis gratiae dei: tanquam ex virtute quam administrat deus vt in omnibus honorificetur deus. 
+        <lb ed="#Ba" n="48"/>Vnde &amp;si ex speciali gratia detur mulieri vt publice praedicet: hoc tunc licet ei quia gratia, vt dictum 
+        <lb ed="#Ba" n="49"/>est, distinctionem sexuum non respicit. tali enim gratia concessum est mulieribus publice prophe- 
+        <lb ed="#Ba" n="50"/>tare in ve. test. in virorum contumeliam: quia effceminati facti erunt: sicut &amp; foeminis concessum 
+        <lb ed="#Ba" n="51"/>est publica regimina super viros gerere: &amp; similiter in primitiua ecclesia propter messis multitu- 
+        <lb ed="#Ba" n="52"/>dinem &amp; metentium paucitatem concessum est mulieribus Marthae &amp; Mariae publice praedicare 
+        <lb ed="#Ba" n="53"/>&amp;. iiii. Philippi filiabus publice prophetare. secundum quod habetur Act. xxi.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

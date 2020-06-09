@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e304"> <!-- alias="vn58an-a3q2" -->
+      <head xml:id="vn58an-d1e304-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e304-Hd1e107" type="question-title">Utrum contingat hominem scire omnia entia</head>
+      <p xml:id="vn58an-d1e304-d1e110">
+        <lb ed="#Ba" n="12"/>CIrca secundum arguitur, quod contingit hominem scire omnia entia. Primo sic. <ref xml:id="vn58an-d1e304-Rd1e114" target="http://scta.info/resource/aristda-l3">
+        <name>philosophus</name> 
+        <lb ed="#Ba" n="13"/>dicit. 3 de anima</ref>. quod intellectus est quodam modo omnia intelligibilia: sicut sensus est 
+        <lb ed="#Ba" n="14"/>omnia sensibilia. Sensus sic est omnia sensibilia quod potest omnia sentire. ergo intel- 
+        <lb ed="#Ba" n="15"/>lectus ita est omnia intelligibilia: quod potest omina intelligere. haec sunt omnia sci 
+        <lb ed="#Ba" n="16"/>bilia &amp; omnia entia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e304-d1e129">
+        ⁋ Secundo sic. qui potest scire &amp; intelligere magis sci- 
+        <lb ed="#Ba" n="17"/>bile &amp; intelligibile: &amp; minus. secundum <ref xml:id="vn58an-d1e304-Rd1e133">
+        <name ref="#Aristotle">philosophum</name>. x. de anima.</ref> homo potest scire &amp; intelligere 
+        <lb ed="#Ba" n="18"/>summe scibile. vt dictum est. Ioannem. . <quote xml:id="vn58an-d1e304-Qd1e141" source="http://scta.info/resource/io17_3">Haec est vita aeterna</quote>. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e304-d1e146">
+        ⁋ Oppositum arguitur. Primo sic. <ref xml:id="vn58an-d1e304-Rd1e148">Eccle- 
+        <lb ed="#Ba" n="19"/>siastici. i.</ref> 
+       <quote xml:id="vn58an-d1e304-Qd1e153" source="http://scta.info/resource/sir3_25">Plurima sunt super sensum hominis</quote>. sed illa non potest scire. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e304-d1e157">
+        ⁋ Secundo sic. <ref xml:id="vn58an-d1e304-Rd1e159">Ecclesiasti 
+        <lb ed="#Ba" n="20"/>ci. A.</ref> 
+       <quote xml:id="vn58an-d1e304-Qd1e164" source="http://scta.info/resource/qoh7_24 http://scta.info/resource/qoh7_24">Dixi sapiens efficiar: &amp; ipsa recessit a me multo plus quam erat</quote>. Sed hoc non contingeret, si continge- 
+        <lb ed="#Ba" n="21"/>ret eum scire omnia entia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e304-d1e170">
+        <lb ed="#Ba" n="22"/>⁋ Dicendum ad hoc, quod ita est in omnibus quibus conpetit operatio aliqua exercenda 
+        <lb ed="#Ba" n="23"/>per instrumentum: quod agens de se sufficiens vt agere possit, si habeat copiam instrumenti: dicendus est 
+        <lb ed="#Ba" n="24"/>simpliciter posse in illam operationem: licet ei deficiat instrumentum: &amp; ideo non possit procedere in actum. 
+        <lb ed="#Ba" n="25"/>sicut oculus dicitur posse videre omne visibile: licet non possit procedere in actum videndi deficiente luce ex- 
+        <lb ed="#Ba" n="26"/>teriori. Nunc autem ita est: quod propria operatio hominis secundum quod homo, est scire &amp; intelligere, quia est eius 
+        <lb ed="#Ba" n="27"/>operatio secundum intellectum: &amp; rationem qua vere homo est. secundum philosophum. S. Ethicorum Ad operationem autem 
+        <lb ed="#Ba" n="28"/>huiusmodi: homo quantum est ex natura sui intellectus si sufficienter illustretur luce intellectuali proportio 
+        <lb ed="#Ba" n="29"/>nali cuilibet scibili secundum statum &amp; gradum suum, est in potentia vt sciat &amp; intelligat vnumquodque.  
+        <lb ed="#Ba" n="30"/>Absolute ergo concedendum est quod homo potest scire omnia entia hoc est omnia scibilia. Et ob hoc dicitur in  
+        <lb ed="#Ba" n="31"/>li. de spiritu &amp; anima. Aia ad similitudinem totius sapientiae facta omnium in se similitudinem gerit. Dicit etiam 
+        <lb ed="#Ba" n="32"/>Auicen. in ix. Metaphysicae suae: quod sua perfectio animae rationalis est: vt fiat secundum intelligibile: &amp; descri 
+        <lb ed="#Ba" n="33"/>batur in ea forma totius: &amp; ordo intellectus in toto: &amp; bonitas influens in omne: &amp; vt incipiens a prim 
+        <lb ed="#Ba" n="34"/>cipio totius procedat ad substantias intellectuales spirituales absolute: &amp; deinde ad spirituales pendentes ali 
+        <lb ed="#Ba" n="35"/>quo modo a corporibus: &amp; deinde ad animas mouentes corpora: &amp; postea ad corpora caelestia: &amp; vt haec 
+        <lb ed="#Ba" n="36"/>omnia fiant descripta in anima secundum dispositiones &amp; vires eorum: quousque perficiatur in ea dispositio esse 
+        <lb ed="#Ba" n="37"/>vniuersitatis, &amp; sic transeat per intellectum in instar totius mundi: &amp; cernens id quod est pulchrum abso 
+        <lb ed="#Ba" n="38"/>lute: &amp; bonitas absolute: &amp; decor verus: fiat vnum cum eo: insculpta eius exemplo. 
+      </p>
+      <p xml:id="vn58an-d1e304-d1e209">
+        <lb ed="#Ba" n="39"/>⁋ Ad primum in oppositum, quod plura sunt supra sensum hominis: Dicendum quod verum 
+        <lb ed="#Ba" n="40"/>est attingenda lumine naturali. Si tamen sufficienter illustretur lumine supnaturali: nihil est supra sen- 
+        <lb ed="#Ba" n="41"/>sum hominis quin possit illud intellectu attingere. 
+      </p>
+      <p xml:id="vn58an-d1e304-d1e218">
+        ⁋ Ad secundum quod sapientia recedit ab inuestigante:  
+        <lb ed="#Ba" n="42"/>Dicendum quod dicitur recedere: quia quanto homo plus inuestigat scientiam lumine naturalis rationis: tan- 
+        <lb ed="#Ba" n="43"/>to magis patet ei profunditas. Nihil tamen est scibile in creaturis, si sufficienti lumine illustretur quin  
+        <lb ed="#Ba" n="44"/>possit illud scire. Maxime cum illustretur ad hoc vt possit scire summum intelligibile attingendo licet non con 
+        <lb ed="#Ba" n="45"/>prehendendo. In cuius comparatione cognitionis potest etiam verificari illud Ecclesiastes. 7. Dixi sapiens effi- 
+        <lb ed="#Ba" n="46"/>ciar, &amp; ipsa longius recessit a me multo magis quam erat: Et alta profunditas, quis inueniet eam: Quan  
+        <lb ed="#Ba" n="47"/>to enim amplius cognoscitur illud, tanto amplius recedere dicitur cognitio illius ab eo: quoniam semper 
+        <lb ed="#Ba" n="48"/>de scibili illo claret 
+        <lb ed="#Ba" n="49"/>plus restare cognoscendum quam iam cognitum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

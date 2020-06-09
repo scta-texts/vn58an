@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="135-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe37075"> <!-- alias="vn58an-a58q5" -->
+      <head xml:id="vn58an-fe37075-Hd1e104">Quaestio 5</head>
+      <p xml:id="vn58an-fe37075-d1e107">
+   <!--285.xml-->
+            <pb ed="#Bb" n="135-v"/>
+        <lb ed="#Bb" n="1"/>CIrca. v. arguitur, quod generare non sit per se opus prni intellectus, primo sic. nihil perfectum est per se 
+        <lb ed="#Bb" n="2"/>generatiuum perfectionis suae in seipso: quia per hoc esset generatiuum suiipsius, &amp; idem secundum idem re 
+        <lb ed="#Bb" n="3"/>pectu suiipsius esset in actum &amp; in potentia, &amp; iret seipso de potentia in actum: quae omnia falsa 
+        <lb ed="#Bb" n="4"/>iunt &amp; incompossibilia. intellectus pinus perfectus est verbo generato in ipso, vt habitum est 
+        <lb ed="#Bb" n="5"/>ex supra determinatis. ergo intellectus prnus non est per se generatiuus verbi. Sed ge 
+        <lb ed="#Bb" n="6"/>nerare non est opus nisi eius quod est generatiuum verbii, quia in diuinis non generatur nisi 
+        <lb ed="#Bb" n="7"/>erbum, quid est ipse filius, vt patet ex praedeterminatis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe37075-d1e129">
+        ⁋ Secundo sic. generare est agere. intellectus 
+        <lb ed="#Bb" n="8"/>non est virtus actiua sed passiua. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe37075-d1e134">
+        ⁋ Contra sic. Secundum suprius determiata generare in diuinis est opus 
+        <lb ed="#Bb" n="9"/>naturae vt intellectualis est: natura autem intellectualis vt intellectualis est, non est nisi intellectus. ergo &amp;c. 
+        <lb ed="#Bb" n="10"/>
+      </p>
+      <p xml:id="vn58an-fe37075-d1e142">
+        ⁋ In huius quaestionis dissolutione non est opus diu immorari: quia patet ex prae- 
+        <lb ed="#Bb" n="11"/>determinatis. Cum enim natura incorporea quaelibet intellectualis est &amp; voluntaria, intellectus &amp; 
+        <lb ed="#Bb" n="12"/>voluntas duae sunt potentiae principales in illa: &amp; se tenet intellectus cum principio quod est natura, quod ex 
+        <lb ed="#Bb" n="13"/>opposito distinguitur contra principium quod est voluntas, quae sunt principia duarum productionum in di-  
+        <lb ed="#Bb" n="14"/>uinis. Est enim intellectus principium productionis verbi, siue filii: voluntas vero spiritus sancti. Et ideo 
+        <lb ed="#Bb" n="15"/>cum productio verbi sit generare, principium generationis actiuae est intellectus non vt qui generat, sed vt quo  
+        <lb ed="#Bb" n="16"/>generans generat. Qui enim generat, non est nisi persona, sed aliquo sui vt principio generatiuo. Et hoc 
+        <lb ed="#Bb" n="17"/>iuxta illud quod dicit Auinus, xv. de triniitate. cap. xxii. Intellectus &amp; amor mea sunt non sua, nec sibi, sed  
+        <lb ed="#Bb" n="18"/>mihi agunt quod agunt: immo ego per illa. Et secundum hoc dico quod proprie loquendo generare in diuinis 
+        <lb ed="#Bb" n="19"/>non est opus paterni intellectus, sed ipsius patris, cuius est intellectus. Ascribendo tamen actionem ei quo  
+        <lb ed="#Bb" n="20"/>agens agit vt principaliter actiuo, quaestio est vtrum ascribenda est paterno intellectui actio quae est genera 
+        <lb ed="#Bb" n="21"/>re. Et est dicendum quod intellectus vt distinguitur contra voluntatem dupliciter potest considerari. Vno 
+        <lb ed="#Bb" n="22"/>modo vt nudus &amp; purus non informatus ab obiecto aliqua notitia siue habituali, siue actuali. Alio 
+        <lb ed="#Bb" n="23"/>modo vt est notitia aliqua informatus. Primo modo quasi virtus passiua est &amp; quasi materialis nata 
+        <lb ed="#Bb" n="24"/>informari notitia ab obiecto agente in ipsam. Secundo modo consideratur dupliciter. Vno modo vt est informatus no-  
+        <lb ed="#Bb" n="25"/>titia quasi simplici, &amp; quasi confusa. Alio modo vt est informatus notitia declaratiua. Primo mo-  
+        <lb ed="#Bb" n="26"/>do vocatur memoria, nec generatur aliquid in ipso intellectu ipso agente, aut etiam agente illo ipso 
+        <lb ed="#Bb" n="27"/>cuius est intellectus, sed solum agente obiecto, nec dicitur talis notitia in creaturis aut in diuinis ver 
+        <lb ed="#Bb" n="28"/>bum. Et licet in creaturis differt re ab ipso obiecto cognito, &amp; ab intellectu in quo est, in deo tamen 
+        <lb ed="#Bb" n="29"/>differt ab eisdem sola ratione. Secundo autem modo vocatur intelligentia: &amp; est in ipsa generatio notitiae 
+        <lb ed="#Bb" n="30"/>declaratiuae ab illa quae est simplex in memoria. dicente Augustinus, xv. de trinite. ca. xxi. Cignitur intimum verbum 
+        <lb ed="#Bb" n="31"/>uod nullius linguae est, tanquam scientia de scientia, &amp; visio de visione, &amp; intelligentia quae apparet in co 
+        <lb ed="#Bb" n="32"/>gitatione de intelligentia quae in memoria iam fuerat. &amp; cap. x. Ex ipsa scientia quam memoria tene- 
+        <lb ed="#Bb" n="33"/>mus. &amp;c. vt supra habitum est saepius. Et sit ista cognitio non a sola notitia memoriae, sed etiam ab ipsa me 
+        <lb ed="#Bb" n="34"/>moria continente notitiam illam in se, &amp; ab ipso obiecto relucente in ipsa notitia, &amp; sic &amp; ab ipso cognoscen- 
+        <lb ed="#Bb" n="35"/>te inquantum cognoscens est, &amp; a cognito simul, vt declaratum est supra. Sed hoc non nisi conversione intel 
+        <lb ed="#Bb" n="36"/>lectus, qui sub ratione memoriae est notitia simplici informatus. Intellectus enim qui vt est sub tali no 
+        <lb ed="#Bb" n="37"/>titia habet rationem memoriae, &amp; vt est sub notitia declaratiua habet rationem intelligentiae, idem se- 
+        <lb ed="#Bb" n="38"/>cundum se consideratus, vt scilicet non est aliqua notitia informatus, est intellectus tantum, &amp; vt talis 
+        <lb ed="#Bb" n="39"/>conversiuus est ex se super seipsum, &amp; super notitiam qua est informatus sub ratione memoriae, &amp; simili 
+        <lb ed="#Bb" n="40"/>ter super eius obiectum. Cumque super illa sic conversus fuerit spirituali quadam conversione, &amp; se vt potentiale quid  
+        <lb ed="#Bb" n="41"/>dam atque informabile notitia intellectuali non autem formatum quantum est ex se, illis opposuerit tanquam informa 
+        <lb ed="#Bb" n="42"/>tiuo intellectus notitia intellectuali, confestim illa omnia agunt notitiam declaratiuam in ipso intellectu sic conver 
+        <lb ed="#Bb" n="43"/>so, tanquam vnum per se principium generatiuum intelligentiae informatae notitia declaratiua. Propter quod dicit <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Bb" n="44"/>ca. xxii. Ad memoriam meam aciem cognitionis aduerto, ac sic in corde meo dico quid scio, verbumque de scien- 
+        <lb ed="#Bb" n="45"/>tia mea gignitur. Est tamen in diuinis eadem scientia penitus &amp; aeque perfecta secundum rem &amp; quae gignit &amp; quae  
+        <lb ed="#Bb" n="46"/>gignitur, sicut idem est intellectus sub vtraque. In creaturis autem bene potest differre sicut completum &amp; incom 
+        <lb ed="#Bb" n="47"/>pletum, existens tamen in completo sub complemento, &amp; idem re cum ipso. 
+      </p>
+      <p xml:id="vn58an-fe37075-d1e228">
+        ⁋ Et sic ad quaestionem dicendum quod generare est 
+        <lb ed="#Bb" n="48"/>opus paterni intellectus, prout opus attribuitur vi aut potentiae qua elicitur: &amp; hoc non vt est intellectus nudus, 
+        <lb ed="#Bb" n="49"/>neque vt est formata intelligentia, sed vt est menoria existens in actuali notitia intellectiua essentiali, intelli 
+        <lb ed="#Bb" n="50"/>gendo diuinam essentiam simpliciter. vt enim talis, in intellectu ad illam converso sub ratione qua est intellectus purus 
+        <lb ed="#Bb" n="51"/>agit in ipsum, naturaliter informando ipsum sub ratione intelligentiae notitia simillima declaratiua, &amp; generan- 
+        <lb ed="#Bb" n="52"/>do de ipso notitiam declaratiuam quae verbum dicitur. Quam informationem agit in ipsum non solum vt res &amp; natu- 
+        <lb ed="#Bb" n="53"/>ra aliqua &amp; obiectum intelligibile, sed vt est natura intellectiua actu intellectus. Aliter enim productum non esset 
+        <lb ed="#Bb" n="54"/>verbum, neque ipsum producere tale esset dicere, sicut neque informatio menoriae siue simplicis intelligentiae a solo 
+        <lb ed="#Bb" n="55"/>obiecto intelligibili dicitur esse verbum, aut actio eius huiusmodi dicitur esse dicere. 
+   <!--286.xml-->
+        <pb ed="#Bb" n="136-r"/>
+      </p>
+      <p xml:id="vn58an-fe37075-d1e252">
+        <lb ed="#Bb" n="1"/>⁋ Ad primum in oppositum quod intellectus paternus perfectus est verbo generato in 
+        <lb ed="#Bb" n="2"/>ipso, ergo non est generatiuus ipsius, quia tunc idem respectu suiipsius esset in actum &amp; in potentia, &amp; seipso &amp; 
+        <lb ed="#Bb" n="3"/>de potentia in actu, quod est impossibile: Dicendum quod verum esset si secundum eandem rationem vnus &amp; idem esset 
+        <lb ed="#Bb" n="4"/>modo in potentia &amp; modo in actu secundum generationem verbi: hoc enim esset omnino impossibile. Nunc 
+        <lb ed="#Bb" n="5"/>autem quia intellectus in potentia est ad generatiouem verbi in ipso &amp; de ipso vt purus est &amp; nudus:  
+        <lb ed="#Bb" n="6"/>in actu vero est vt iam informatus est notitia simplici sub ratione memoriae, vt a quo procedit gene 
+        <lb ed="#Bb" n="7"/>randi seu dicendi actio, &amp; sic non secundum eandem rationem est in potentia &amp; in actu, sed in potentia est vt con 
+        <lb ed="#Bb" n="8"/>uersus, in actu vt actiuus in conversum, &amp; sic non vt vnus, sed vt duo, immo vt duae vires eiusdem 
+        <lb ed="#Bb" n="9"/>potentiae intellectiuae: idcirco igitur nullum est inconveniens quod sic vnum vt duo, &amp; secundum duas rationes respectu 
+        <lb ed="#Bb" n="10"/>suiipsius sit in potentia &amp; in actu, &amp; seipso vadens de potentia in actum. Est igitur aduertendum quod in-  
+        <lb ed="#Bb" n="11"/>tellectus paternus quadrupliciter consideratur. Vno modo vt est purus &amp; nudus, &amp; sic est in poten- 
+        <lb ed="#Bb" n="12"/>tia solum ad notitiam in ipso &amp; de ipso generandam. Sed hoc dupliciter. primo enim modo consideratur vt 
+        <lb ed="#Bb" n="13"/>est in potentia ad notitiam simplicem generatam secundum rationem in ipso a sua essentia vt sub ratione 
+        <lb ed="#Bb" n="14"/>veri est obiectum cognitum. Secundo autem modo consideratur vt est in potentia ad notitiam declaratiuam 
+        <lb ed="#Bb" n="15"/>generatam secundum rem in ipso &amp; de ipso ab eodem vt est informatus notitia simplici habente rationem me- 
+        <lb ed="#Bb" n="16"/>moriae. Et iste modus considerandi paternum intellectum, scilicet vt est informatus notitia simplici 
+        <lb ed="#Bb" n="17"/>secundum praedictum, est tertius modus principalis considerandi ipsum: qui secundum quartum mo-  
+        <lb ed="#Bb" n="18"/>dum principalem consideratur vt perfectus est notitia declaratiua siue verbo generato de se actiue vt est 
+        <lb ed="#Bb" n="19"/>intellectus informatus notitia simplici: &amp; de se quasi passiue vt est intellectus nudus &amp; purus. Et 
+        <lb ed="#Bb" n="20"/>per hoc paternus intellectus secundum quod est perfectus notitia declaratiua, summe perfectus est: non 
+        <lb ed="#Bb" n="21"/>sic autem secundum quod est informatus &amp; perfectus tantum notitia simplici. Vnde &amp; secundum illam rationem perfectionis quam 
+        <lb ed="#Bb" n="22"/>habet a notitia declaratiua, non est eius generare: sicut neque creaturis perfectis simpliciter, cuius- 
+        <lb ed="#Bb" n="23"/>modi sunt angeli &amp; corpora caelestia, conpetit generare. Secundum illam vero rationem perfectionis quam ha 
+        <lb ed="#Bb" n="24"/>bet a notitia simplici, conpetit ei generare: &amp; hoc quia notitia simplex non omnimodam rationem perfectio- 
+        <lb ed="#Bb" n="25"/>nis importat: quod, proprium generanti. Vnde &amp; in creaturis non conpetit aliquibus generare nisi propter ali 
+        <lb ed="#Bb" n="26"/>quam rationem imperfectionis eis annexam. secundum quod alibi plenius declaraui. 
+      </p>
+      <p xml:id="vn58an-fe37075-d1e311">
+        ⁋ Ad secundum quod generare est age 
+        <lb ed="#Bb" n="27"/>re: intellectus autem est virtus passiua. &amp;c. Medium hoc tactum est in argumento quodam quaestionis se 
+        <lb ed="#Bb" n="28"/>cundae praecedentis: &amp; ad ipsum diffusius in magno digressu responsum est ibidem. Vnde ad dissolutionem 
+        <lb ed="#Bb" n="29"/>huius argumenti &amp; necessariorum ad eius declarationem, ad dicta illa recurratur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="63-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e763"> <!-- alias="vn58an-a8q1" -->
+      <head xml:id="vn58an-d1e763-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e763-Hd1e107" type="question-title">Utrum theologia sit utilis</head>
+      <p xml:id="vn58an-d1e763-d1e110">
+        <lb ed="#Ba" n="17"/>CIrca primum arguitur: quod haec scientia non sit vtilis. Primo sic. Nihil est vtile ni 
+        <lb ed="#Ba" n="18"/>si ex relatione in finem extra, quia secundum <name ref="#Augustine">Augustinus</name> Vti est referre in finem. 
+        <lb ed="#Ba" n="19"/>Sed inter omnes scientias ista sola non est relata in finem extra se: sed in se conti 
+        <lb ed="#Ba" n="20"/>net finem omnium aliarum scientiarum: vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e763-d1e124">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="21"/>vtile pertinet ad actum voluntatis: quia secundum <name ref="#Augustine">Augustinus</name> vti est assumere 
+        <lb ed="#Ba" n="22"/>aliquid in facultatem voluntatis. scientia non pertinet ad voluntatem: sed ad in  
+        <lb ed="#Ba" n="23"/>tellectum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e763-d1e137">
+        ⁋ Ad oppositum arguitur primo sic. vtile est illud quod re- 
+        <lb ed="#Ba" n="24"/>latum est in finem: haec scientia immediate refertur in finem vitae humanae, quae est visio dei: vt su 
+        <lb ed="#Ba" n="25"/>pra habitum est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e763-d1e144">
+        ⁋ Secundo sic. quod alterum regulat &amp; dirigit: vtile est ei. haec scientia est 
+        <lb ed="#Ba" n="26"/>huiusmodi respectu aliarum: vt dictum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e763-d1e149">
+        ⁋ Tertio sic. Apostoteneus dicit. ii. ad Timo. iii. 
+        <lb ed="#Ba" n="27"/>Omnis scientia diuinitus inspirata est vtilis ad docendum &amp;c. haec est talis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e763-d1e154">
+        <lb ed="#Ba" n="28"/>⁋ Ad hoc intelligendum est: quod vtile dicitur aliquid ex relatione, &amp; profectu ad alte 
+        <lb ed="#Ba" n="29"/>rum dupliciter: proprie scilicet &amp; improprie. Proprie illud dicitur alteri vtile: quod natum est sumi in fa- 
+        <lb ed="#Ba" n="30"/>cultatem alterius: vt praedominantis. sicut martellus vtilis est fabro. hoc modo ista scientia est vti- 
+        <lb ed="#Ba" n="31"/>lis homini: &amp; magis quam aliqua aliarum: quia immediatius per ipsam in finem suum tendit. Dicit 
+        <lb ed="#Ba" n="32"/>enim Auicen. quod omnes scientiae communicant in vna vtilitate, quae est acquisitio perfectionis huma 
+        <lb ed="#Ba" n="33"/>nae, praeparantis ipsum hominem ad futuram felicitatem: non vt immediate omnes attingant ad eam: 
+        <lb ed="#Ba" n="34"/>sed vt iuuent se mutuo: vt scilicet vna earum attingat illam immediate, veluti ista: quia sine hac 
+        <lb ed="#Ba" n="35"/>scientia nemo beatus est: vt dicit Gloss. super illud. i. Corinth. ii. Nos spiritum dei accepimus, vt scientiae 
+        <lb ed="#Ba" n="36"/>mus quae donata sunt nobis. &amp; per istam attingant eam omnes aliae: inquantum ista sumit omnes 
+        <lb ed="#Ba" n="37"/>alias in vsum suum: vt supra dictum est. Vtilitatem huius scientiae ad illum finem tangit Aposto 
+        <lb ed="#Ba" n="38"/>lus cum dicit. ii. Timo. iii. Omnis scientia diuinitus inspirata vtilis est ad docendum, ad arguendum, 
+        <lb ed="#Ba" n="39"/>ad corripiendum, ad erudiendum in iustitia: vt perfectus sit homo dei ad omne opus bonum in  
+        <lb ed="#Ba" n="40"/>structus. &amp; hoc in quatuor conditionibus: respondentibus quatuor generibus hominum: quorum 
+        <lb ed="#Ba" n="41"/>instructioni vtilis est haec scientia. Est enim vtilis infidelibus, vt in fide informentur &amp; ei obediant. Sic vti 
+        <lb ed="#Ba" n="42"/>lis est ad docendum. Glos. ignorantes. Est etiam vtilis rebellibus: vt fidei obediant: ad corrigendum. 
+        <lb ed="#Ba" n="43"/>Gloss. contumaces. &amp; obedientibus: hoc est rudibus vt credenda percipiant: ad erudiendum. Glos. 
+        <lb ed="#Ba" n="44"/>rudes. &amp; tepidis: vt credita opere implere studeant: ad arguendum. Gloss, negligentes. Improprie 
+        <lb ed="#Ba" n="45"/>autem sumendo vtile, ista scientia vtilis est aliis sicut dominans est seruienti: &amp; regens ad id quod  
+        <lb ed="#Ba" n="46"/>regitur. haec enim scientia est adeo alta super alias: vt aliter eis vtilis esse non possit: sicut patet ex 
+        <lb ed="#Ba" n="47"/>praedeterminatis.
+      </p>
+      <p xml:id="vn58an-d1e763-d1e200">
+        <lb ed="#Ba" n="48"/>⁋ Ad primum in oppositum: quod ista scientia non est relata in finem extra se: Dicen 
+        <lb ed="#Ba" n="49"/>dum quod verum est alicuius scientiae alterius vitae huius. Refertur tamen vt in finem ad scientiam 
+        <lb ed="#Ba" n="50"/>alterius vitae: quem etsi in seipso comprehendit: hoc est imperfecte: propter imperfectam notitiam quam  
+   <!--142.xml-->
+        <pb ed="#Ba" n="64-r"/>
+        <lb ed="#Ba" n="1"/>tradit de deo: respectu illius quae erit in patria. 
+      </p>
+      <p xml:id="vn58an-d1e763-d1e216">
+        ⁋ Ad secundum quod vtile pertinet ad actum vo- 
+        <lb ed="#Ba" n="2"/>luntatis: Dicendum quod verum est: inquantum voluntas est vniuersalis motor: super omnes vires 
+        <lb ed="#Ba" n="3"/>animae. Vti tamen &amp; vtile pertinet ad actum cuiuslibet praedominantis ordinantis alterum in 
+        <lb ed="#Ba" n="4"/>actum, &amp; in finem suum: quamuis voluntas ex hoc quod vult quamlibet aliam potentiam sic vel sic ali- 
+        <lb ed="#Ba" n="5"/>quo vti: etiam sic ipsa quodammodo vtatur. 
+      </p>
+      <p xml:id="vn58an-d1e763-d1e228">
+        ⁋ Ad tertium in oppositum: quod ista scientia est vtilis 
+        <lb ed="#Ba" n="6"/>aliis: Dicendum quod verum est improprie loquendo: vt dictum est: ad modum quo dominus est vti 
+        <lb ed="#Ba" n="7"/>lis seruo: vt determinat Auicen. de vtilitate metaphysicae suae ad alias scientias: in primo Metaphy 
+        <lb ed="#Ba" n="8"/>sicae suae.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

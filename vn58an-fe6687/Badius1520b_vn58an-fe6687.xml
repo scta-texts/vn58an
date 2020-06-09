@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe6687"> <!-- alias="vn58an-a47prae" -->
+      <head xml:id="vn58an-fe6687-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-fe6687-d1e107">
+        <lb ed="#Bb" n="27"/>Equitur Arti. &amp;LVIl. de actione voluntatis quae est velle siue 
+        <lb ed="#Bb" n="28"/>amare. Circa quam quaeruntur quatuor.  
+        <lb ed="#Bb" n="29"/>Primo de ipsa actione voluntatis quae est velle vel amare secundum se. 
+        <lb ed="#Bb" n="30"/>Secundo de ipsa in comparatione ad actionem intellectus, quae est intelligere. 
+        <lb ed="#Bb" n="31"/>Et quia in altera illarum vel in ambabus consistit dei beatitudo: ideo tertio quae  
+        <lb ed="#Bb" n="32"/>retur de dei beatitudine. Et quia beatitudini annexa est delectatio: ideo 
+        <lb ed="#Bb" n="33"/>uarto quaeretur de dei delectatione. 
+        <lb ed="#Bb" n="34"/>Circa primum istorum quaeruntur quinque.  
+        <lb ed="#Bb" n="35"/>Primum: vtrum deus sit volens. 
+        <lb ed="#Bb" n="36"/>Secundum: vtrum quilibet actus eius volendi sit eiusdem rationis. 
+        <lb ed="#Bb" n="37"/>Tertium: vtrum deus velit seipsum. 
+        <lb ed="#Bb" n="38"/>Quartum: vtrum actus volendi seipsum principaliter terminetur ad essentiam an ad personas. 
+        <lb ed="#Bb" n="39"/>uintum: vtrum deus velit seipsum de necessitate.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

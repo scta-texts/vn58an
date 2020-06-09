@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 11</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 11</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="60-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e721"> <!-- alias="vn58an-a7q11" -->
+      <head xml:id="vn58an-d1e721-Hd1e104">Quaestio 11</head>
+      <head xml:id="vn58an-d1e721-Hd1e107" type="question-title">Utrum in usum suum habeat assumere quaecumque sunt determinata in aliis scientiis</head>
+      <p xml:id="vn58an-d1e721-d1e110">
+   <!--135.xml-->
+            <pb ed="#Ba" n="60-v"/>
+        <lb ed="#Ba" n="1"/>CIrca vndecimum arguitur, quod ista scientia in vsum suum habet assumere quaecumque  
+        <lb ed="#Ba" n="2"/>in aliis scientiis sunt inuestigata. Primo sic. Veritas vbicumque inuenitur, dei est &amp; 
+        <lb ed="#Ba" n="3"/>a spiritu sancto. vt dictum est supra. Sed omnia quae dei sunt, in vsum scientiae huius 
+        <lb ed="#Ba" n="4"/>licet assumere: quia est scientia diuina. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e721-d1e126">
+        ⁋ Secundo sic. Ecclesiastici. xlii. scribitur in  
+        <lb ed="#Ba" n="5"/>persona fidelis deum glorificantis in creaturis. Memor ero operum domini: &amp; quae  
+        <lb ed="#Ba" n="6"/>avidi annunciabo in sermonibus domini. illi sunt sermones huius scientiae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e721-d1e134">
+        ⁋ Con 
+        <lb ed="#Ba" n="7"/>trarium est illud quod dicit Ambrosius in Hexame. De numero caelorum ordine &amp; motu 
+        <lb ed="#Ba" n="8"/>&amp; caeterorum huiusmodi quae aliena sunt a studio nostro &amp; diuinae lectionis serie: his qui foris sunt re 
+        <lb ed="#Ba" n="9"/>linquamus. hoc non esset faciendum: si in vsum huius scientiae illa essent assumenda. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e721-d1e143">
+        ⁋ Item 
+        <lb ed="#Ba" n="10"/>
+       <ref xml:id="vn58an-d1e721-Rd1e147">
+        <name ref="#Augustine">Augustinus</name> ix. de trinitate in principio</ref> dicit. Non quicquod ab homine sciri potest in rebus humanis, huic scien- 
+        <lb ed="#Ba" n="11"/>tiae tribuendum. sed totum esset ei tribuendum: si in vsum eius esset assumendum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e721-d1e156">
+        <lb ed="#Ba" n="12"/>⁋ Dicendum ad hoc, quod sic est in omnibus quae velut vtilia sunt ordinata in aliquem 
+        <lb ed="#Ba" n="13"/>finem: quod a fine debent determinari: vt inquantum ad finem vtilia sunt assumantur in eius prosecutione 
+        <lb ed="#Ba" n="14"/>alias autem non: quia in vanum alias assumerentur. Quare cum vt determinatum est supra, ea quae sunt 
+        <lb ed="#Ba" n="15"/>aliarum scientiarum sunt assumenda ad istam tanquam vtilia: quaecumque ergo vera in aliis scientiis inue- 
+        <lb ed="#Ba" n="16"/>niantur, si cognoscantur esse vtilia huic scientiae, secure ab hac scientia sunt assumenda: &amp; alia non. 
+        <lb ed="#Ba" n="17"/>Et ideo dictum est supra, quod non voluntate affectante: sed necessitate compellente assumantur. Quaecumque igitur 
+        <lb ed="#Ba" n="18"/>vera sunt in aliis scientiis: &amp; cognoscibilia in vniuersis creaturis: ad hanc scientiam assumi possunt. 
+        <lb ed="#Ba" n="19"/>sed assumi non debent nisi in gloriam dei, inquantum fructum aliquem faciunt huic scientiae: &amp; in pro- 
+        <lb ed="#Ba" n="20"/>ximi profectum: inquantum aliquem quandoque facilius dicta secularium scientiarum ad spiritualem vitam 
+        <lb ed="#Ba" n="21"/>ducunt, quam huius sacrae scripturae. secundum quod de primo dicitur Ecclesiastici. xlii. in persona doctoris fidelis 
+        <lb ed="#Ba" n="22"/>sacrae scripturae. Memor ero operum domini &amp;c. Memor ero. ex aliis scientiis in quibus perscrutantur spe 
+        <lb ed="#Ba" n="23"/>cialiter. Operum domini. Glos. Quae ipse dixit &amp; facta sunt. Quaecumque vid id est in aliis scientiis didici. In ser 
+        <lb ed="#Ba" n="24"/>monibus domin id est sermonibus huius sacrae scripturae: qui sunt sermones domini. Memor ero illorum operum. Et quare 
+        <lb ed="#Ba" n="25"/>hoc faciendum, sequitur post aliqua interposita. Et gloria domini plenum est opus eius. i. materia glorificandi  
+        <lb ed="#Ba" n="26"/>deum est in omni opere eius, propter quod debent assumi in sermonibus eius. &amp; hoc est quod sequitur. Nonne domins 
+        <lb ed="#Ba" n="27"/>&amp;c. De secundo vero dicit Orig. in Homilis. Quomodo Abraham Cethuram accepit in vxorem. Sane (inquit)  
+        <lb ed="#Ba" n="28"/>praeter hoc quod ex lege dei edocemur, si etiam ex his eruditionibus quae extrinsecus videntur esse in seculo: aliquas 
+        <lb ed="#Ba" n="29"/>contigimus: verbi causa, vt est eruditio literarum artis grammaticae, vt est geometrica doctrina, vel ratio 
+        <lb ed="#Ba" n="30"/>numerorum, vel etiam dialectica disciplina: &amp; haec omnia extrinsecus quaesita ad nostra instituta perdu- 
+        <lb ed="#Ba" n="31"/>cimus: tunc videbimur ex alienigenis in matrimonium sumpsisse, vel etiam concubinas: &amp; si de huius 
+        <lb ed="#Ba" n="32"/>modi coniugiis disputando disserendo contradicentes redarguendo conuertere aliquos poterimus 
+        <lb ed="#Ba" n="33"/>ad fidem: &amp; suis eorum rationibus &amp; artibus superantes veram philosophiam Christi &amp; veram pie 
+        <lb ed="#Ba" n="34"/>tatem dei suscipere suaserimus: tunc ex dialectica &amp; rhetorica videbimur quasi ex alienigena qua  
+        <lb ed="#Ba" n="35"/>dam, vel concubina filios genuisse. 
+      </p>
+      <p xml:id="vn58an-d1e721-d1e211">
+        <lb ed="#Ba" n="36"/>⁋ Ad primum in oppositum de dicto Ambro. Dicendum quod illud dixit Ambrous non  
+        <lb ed="#Ba" n="37"/>quia talia nunquam sint assumenda in vsum huius scripturae si opus fuerit: sed quia passim non sunt as- 
+        <lb ed="#Ba" n="38"/>lumenda. &amp; licet nulla passim sint assumenda, hoc tamen potius de talibus dicit: quia rarius habent 
+        <lb ed="#Ba" n="39"/>vsum in hac scriptura quam alia. Vnde dicit ibidem. Quid mihi quaerere quae sit mensura circuitus ter 
+        <lb ed="#Ba" n="40"/>rae, quam geometrae aestimant stadiorum. clxxx. quam libenter fateor me nescire, quod scire nihil proderit. Propter 
+        <lb ed="#Ba" n="41"/>quod dicitur in figura Leui. ii. Primitias tantum eorum offeretis ac munera. Glos. interli. Elementa &amp; omnia 
+        <lb ed="#Ba" n="42"/>quae philosophi repererunt, quae diuinis eloquiis necessaria sunt. &amp; Glos. margi. Dicitur in canti. Mel 
+        <lb ed="#Ba" n="43"/>&amp; lac sub ligua tua. vt ostendatur paganorum scientia &amp; ludaeorum litera ecclesiasticae doctrinae subiecta 
+        <lb ed="#Ba" n="44"/>esse. Horum non vult integram doctrinam offerri: vnde ait Primitias tantum offeretis. Primitias enim 
+        <lb ed="#Ba" n="45"/>illius sapientiae offerimus: non totam: sicut Paulus ait ad Ephe. Sicut vester poeta dicit. Huius genus 
+        <lb ed="#Ba" n="46"/>sumus, quod enim inuenit congruum scientiae dei: non respuit: non tamen vltra testimonia multiplica 
+        <lb ed="#Ba" n="47"/>uit: quia placuit deo per stultitiam praedicationis saluos facere credentes. vt infra videbitur. 
+      </p>
+      <p xml:id="vn58an-d1e721-d1e240">
+        ⁋ Ad secun 
+        <lb ed="#Ba" n="48"/>dum de dictis <name ref="#Augustine">Augustinus</name> Dicendum quod aliqua attribuuntur huic scientiae tanquam ad integritatem eius 
+        <lb ed="#Ba" n="49"/>pertinentia. hoc modo non omnia quae sciri possunt huic scientiae tribuenda sunt. Alia vero attri 
+        <lb ed="#Ba" n="50"/>buuntur huic scientiae tanquam vtilia &amp; proficua illis quae pertinent ad integritatem huius scientiae. 
+        <lb ed="#Ba" n="51"/>Hloc modo omnia quae sunt scita in aliis scientiis bene possunt huic scientiae attribui. Vnde scien- 
+        <lb ed="#Ba" n="52"/>dum quod in humanis scientiis quaedam sunt noxia &amp; falsa: quae in sermonibus huius scientiae nunquam  
+        <lb ed="#Ba" n="53"/>debent assumi nisi vt improbentur. Quaedam autem sunt vera: sed vana: quia nullum vsum ad hanc 
+        <lb ed="#Ba" n="54"/>scientiam habent: &amp; ideo nunquam assumi debent. Alia vero sunt vera &amp; huic. scientiae proficua: &amp; talia assu- 
+   <!--136.xml-->
+        <pb ed="#Ba" n="61-r"/>
+        <lb ed="#Ba" n="1"/>mi debent cum opus est. Horum trium distinctionem tangit <name ref="#Augustine">Augustinus</name> in suo dicto cum ait. Non 
+        <lb ed="#Ba" n="2"/>quicquid sciri ab homine potest in rebus: vbi plurimum superuacuae vanitatis. ecce secundum. Et 
+        <lb ed="#Ba" n="3"/>noxiae curiositatis. ecce primum. Huic scientiae tribuendum: sed illud tantummodo quo fides saluberri- 
+        <lb ed="#Ba" n="4"/>ma, quae ad veram beatitudinem ducit: gignitur, nutritur, defenditur, roboratur. ecce tertium. Scien 
+        <lb ed="#Ba" n="5"/>dum tamen quod non sunt aliqua ita vana, si tamen vera, si huic scientiae sint proficua: quin ad hanc 
+        <lb ed="#Ba" n="6"/>scientiam sint assumenda: quia tunc non sunt vana. nihil enim est in creaturis quin per similitudi- 
+        <lb ed="#Ba" n="7"/>nem aliquam in diuinam cognitionem ducat. vt infra videbitur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

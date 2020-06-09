@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwa30"> <!-- alias="vn58an-a30prae" -->
+      <head xml:id="vn58an-qwwa30-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwa30-d1e107">
+        <lb ed="#Ba" n="22"/>Art. &amp; XXDe immutabilitate dei.  
+        <lb ed="#Ba" n="23"/>Via immutabilitatis causa est simplicitas, ideo post quaestio- 
+        <lb ed="#Ba" n="24"/>nes de dei simplicitate: sequuntur quaestiones de eius immutabilitate, &amp; 
+        <lb ed="#Ba" n="25"/>sunt sex. 
+        <lb ed="#Ba" n="26"/>Prima: vtrum deus sit mutabilis mutatione a non esse in esse. 
+        <lb ed="#Ba" n="27"/>Secunda: vtrum sit mutabilis motu corruptionis ab esse in non esse. 
+        <lb ed="#Ba" n="28"/>Tertia est iuxta hoc: vtrum potest cogitari non esse. 
+        <lb ed="#Ba" n="29"/>Quarta: vtrum est mutabilis mutatione variationis ab vno esse in aliud esse. 
+        <lb ed="#Ba" n="30"/>Quinta: vtrum sit mutabilis secundum situm operationes alternando  
+        <lb ed="#Ba" n="31"/>circa diuersa. 
+        <lb ed="#Ba" n="32"/>Sexta: vtrum aliqua ratione sit mutabilis, vel omnino dicendus est immutabilis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="209-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2355"> <!-- alias="vn58an-a33q3" -->
+      <head xml:id="vn58an-d1e2355-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e2355-Hd1e107" type="question-title">Utrum ratio intelligendi Deum: sit ratio intelligendi omnia alia ab eo</head>
+      <p xml:id="vn58an-d1e2355-d1e110">
+        <lb ed="#Ba" n="22"/>CIrca tertium arguitur, quod ratio intelligendi deum non sit ratio intelligendi omnia 
+        <lb ed="#Ba" n="23"/>alia. Primo sic. Nihil est ratio intelligendi illud a quo habet summam distantiam 
+        <lb ed="#Ba" n="24"/>l&amp; diuersitatem: quia nihil intelligitur nisi per sibi conveniens. sed omne aliud  
+        <lb ed="#Ba" n="25"/>la deo summam distantiam &amp; diuersitatem habet a deo, &amp; ita etiam a ratione intelligen- 
+        <lb ed="#Ba" n="26"/>di eius quae est ipse: vt patet ex supra habitis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2355-d1e123">
+        ⁋ Secundo sic. Vna ratio 
+        <lb ed="#Ba" n="27"/>intelligendi non est nisi vnius intellecti, sicut non est vna ratio essendi nisi vnius 
+        <lb ed="#Ba" n="28"/>entis: quia eadem vel proportionabilia sunt principia essendi &amp; cognoscendi. secundum 
+        <lb ed="#Ba" n="29"/>philosophum in secundo metaphysiy. deus &amp; creatura non sunt idem intellectum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2355-d1e133">
+        ⁋ Tertio sic. Infini 
+        <lb ed="#Ba" n="30"/>tum non potest esse ratio intelligendi finitum: quia inter ipsa nulla est proportio. Ratio autem qua  
+        <lb ed="#Ba" n="31"/>deus intelligitur est infinita, &amp; quaelibet creatura finita. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2355-d1e140">
+        ⁋ Quarto sic. Res non scitur per 
+        <lb ed="#Ba" n="32"/>id quod non est idem sibi: sed separatum ab ea. secundum quod vult philosophus in vii. meta. contra Platonem de ideis 
+        <lb ed="#Ba" n="33"/>ponentem (secundum quod ei Aristoteles imponit) quod essent separatae a rebus: &amp; tamen esset nostra scien- 
+        <lb ed="#Ba" n="34"/>tia per ipsas. sed quo ipse deus est intelligibilis, est id quod ipse est, separatum omnino ab eo quod 
+        <lb ed="#Ba" n="35"/>est aliud ab ipso. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2355-d1e151">
+        ⁋ In contrarium est: quoniam ratio intelligendi rem respondet rationi per- 
+        <lb ed="#Ba" n="36"/>fectionis eius in esse. Eadem enim secundum philosophum. ii. meta. sunt principia essendi &amp; cognoscendi. Sed ratio per- 
+        <lb ed="#Ba" n="37"/>fectionis qua deus perfectus est in esse, est ratio perfectionis omnium in esse: quia in se omnium perfectiones 
+        <lb ed="#Ba" n="38"/>in esse continet. ergo &amp; ratio cognitionis dei: est ratio cognitionis omnium aliorum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2355-d1e160">
+        <lb ed="#Ba" n="39"/>⁋ Quaestio ista omnino necessaria est ad sciendum perfecte intelligibilitatem dei. Sicut enim 
+        <lb ed="#Ba" n="40"/>ad perfecte sciendum esse dei non sufficit scire simpliciter quia deus habet esse: sed &amp; quia esse eius est quodammodo  
+        <lb ed="#Ba" n="41"/>esse omnium aliorum, quia in esse eius continetur omne esse, immo quodammodo est omne esse, vt habitum est ex 
+        <lb ed="#Ba" n="42"/>supra determinatis: Sic ad sciendum intelligibilitatem dei, quom scilicet sit intelligibile quid, non suffi 
+        <lb ed="#Ba" n="43"/>cit scire simpliciter quia sit intelligibilis, &amp; cui sit ratio aliqua vt intelligatur: sed etiam oportet 
+        <lb ed="#Ba" n="44"/>scire, quia ratio intelligibilitatis eius est quodam modo ratio intelligibilitatis omnium aliorum: &amp; quod  
+        <lb ed="#Ba" n="45"/>in eius intelligibilitate contineatur omnium intelligibilitas. immo quod ratio intelligibilitatis in ipso ad  
+        <lb ed="#Ba" n="46"/>intelligendum seipsum sit ratio intelligibilitatis ad intelligendum omnia alia a seipso. Et disponit quaestio 
+        <lb ed="#Ba" n="47"/>ista multum ad quaestionem an intelligens deum intelligit omnia alia ab ipso: &amp; similiter ad quaestionem, 
+        <lb ed="#Ba" n="48"/>an deus intelligendo se, intelligat omnia alia a se. 
+      </p>
+      <p xml:id="vn58an-d1e2355-d1e184">
+        ⁋ Ad quaestionem ergo istam dicendum, quod ratio qua  
+        <lb ed="#Ba" n="49"/>aliquid est intelligibile in se, potest intelligi esse ratio qua alia sunt intelligibilia, quinque modis. 
+        <lb ed="#Ba" n="50"/>Primo, quia ab vnius cognitione dependet cognitio alterius, ita vt cognitio illius haberi non pos- 
+        <lb ed="#Ba" n="51"/>sit quin simul habeatur cognitio istius, &amp; hoc dupliciter. Primo ad modum quo vnum correlatiuo- 
+        <lb ed="#Ba" n="52"/>rum sine altero intelligi non potest. Secundo, quemadmodum in cognitione sensitiua visus corporalis vi- 
+        <lb ed="#Ba" n="53"/>so speculo necessario videntur simul res quarum imagines continentur in speculo. Tertio, quia ratio 
+        <lb ed="#Ba" n="54"/>vnius est declaratiua &amp; ostensiua rationis alterius apud intelligentem, quemadmodum in cognitione 
+   <!--433.xml-->
+        <pb ed="#Ba" n="209-v"/>
+        <lb ed="#Ba" n="1"/>visus corporalis, visa lucem videntur colores splendentes in luce. Quarto, quia in ratione illius conti- 
+        <lb ed="#Ba" n="2"/>netur ratio intelligendi istius: quemadmodum specie intellecta necesse est genus cointelligi, quia ratio speciei con 
+        <lb ed="#Ba" n="3"/>tinet in se rationem generis. Quito, quia per id quo intelligitur vnum, intelligitur &amp; aliud. &amp; iste modus solummodo 
+        <lb ed="#Ba" n="4"/>paertiet ad intentionem propositae quaestionis. Prio enim modo id quo ipse est intelligibilis in se, est ratio intelligendi alia 
+        <lb ed="#Ba" n="5"/>a se, secundum rationem scilicet cuiusdam respectus &amp; dependentiae aliorum a e scilicet inquantum ipse est per se &amp; sufficiens causa 
+        <lb ed="#Ba" n="6"/>aliorum. Cognita autem causa per se &amp; sufficienti alicuius effectus, necesse est simul cognosci &amp; effectum. Secundum  
+        <lb ed="#Ba" n="7"/>enim philosophum in i. phyiti. &amp; in principio poste. tunc scire dicimur vnumquodque, cum causam cognoscimus pro 
+        <lb ed="#Ba" n="8"/>pter quam res est. Secundo autem modo nequaquam. ipse enim non habet rationem speculi in continendo spe 
+        <lb ed="#Ba" n="9"/>cies aliorum tamquam aliquod aliud a sua essentia: sicut continet res speculum materiale. lpse enim non continet in 
+        <lb ed="#Ba" n="10"/>se rationes intelligendi aliorum tanquam superadditas suae essentiae: quia nulla est dispositio in eo super 
+        <lb ed="#Ba" n="11"/>addita suae essentiae, quia esset accidens ipsi, &amp; faceret compositionem cum ipso, quod est contra supra determina- 
+        <lb ed="#Ba" n="12"/>ta. nisi extendamus rationem speculi ad id quod continet aliorum perfectiones sub ratione vnius simpli- 
+        <lb ed="#Ba" n="13"/>cis essentiae, sicut sunt in deo rationes perfectionum omnium entium: vt infra videbitur. Tertio modo 
+        <lb ed="#Ba" n="14"/>ratio qua deus est intelligibilis in se, est ratio cognoscendi siue intelligendi alia a se: non tamen simul 
+        <lb ed="#Ba" n="15"/>intelligendo vtrumque obiectiue, de quo sermo habitus est supra, &amp; de quo nihil ad praesens, vbi debet es 
+        <lb ed="#Ba" n="16"/>se sermo de intelligibilitate dei per essentiam suam tanquam obiectum per se intelligendum. Verum enim est quod  
+        <lb ed="#Ba" n="17"/>nulla veritas intelligitur nisi in ratione primae veritatis. vbi prima veritas in eo quod est ratio intelli- 
+        <lb ed="#Ba" n="18"/>gendi alia, est proprium intelligibile &amp; cognoscibile cognitione saltem generalissima: vt supra determinatusem. 
+        <lb ed="#Ba" n="19"/>guarto autem modo simiter ratio quae deus est intelligibilis, non est ratio quae intelligibilia sunt omnia alia ab ipso. Non en 
+        <lb ed="#Ba" n="20"/>ratio aliorum per aliquam compositionem continetur in ratione sua: quemadmodum ratio generis continetur in  
+        <lb ed="#Ba" n="21"/>ratione speciei: vt patet ex supra determinatis. Sed de quinto modo intelligitur quaestio ista, ans scilicet deus 
+        <lb ed="#Ba" n="22"/>sit ita intelligibilis quod sit intelligibilitas omnium: &amp; quod ratio intelligibilitatis in ipso non solum sit ra- 
+        <lb ed="#Ba" n="23"/>tio intelligendi ipsum deum vt obiectum: sed etiam omnia alia ab ipso: vt scilicet sit tale intelligibile, quid natum  
+        <lb ed="#Ba" n="24"/>est actu facere ex se sua ratione intelligere se, &amp; omnia alia a siorum Isto ergo modo dicendum quod ratio 
+        <lb ed="#Ba" n="25"/>qua deus est intelligibilis, est ratio qua intelligibilia sunt alia ab ipso. Ipse enim est tale intelligibile 
+        <lb ed="#Ba" n="26"/>quod intellectum potest mouere ad omnia alia a se intelligenda. &amp; sic est vnum intelligibile ad omnia in actu intelligenda 
+        <lb ed="#Ba" n="27"/>omnium intelligibilitates in se continens: sicut est vnum esse ad omnia alia essenda omnium esse in se continens. Necesse enim 
+        <lb ed="#Ba" n="28"/>est vt dispositio cuiuslibet rei in esse sit sua dispositio in veritate. Et ita sicut deus inquantum ipsum est est 
+        <lb ed="#Ba" n="29"/>primum, est ratio essendi omnia, faciendo omnia quae vult esse per esse suum, continens in se rationes essendi omnium aliorum: sici 
+        <lb ed="#Ba" n="30"/>quantum est veritas prima est ratio intelligendi omnia, faciendo omnia quae vult secum intelligi, continens 
+        <lb ed="#Ba" n="31"/>in se omnes rationes intelligendi omnium: sub esse tamen eminentiori, quam habeat esse in rebus aliis: vt infra di 
+        <lb ed="#Ba" n="32"/>cetur loquendo de dei perfectione. Continet autem rationes illas omnium, non tanquam aliqua multa, vel re, 
+        <lb ed="#Ba" n="33"/>vel intentione, sicut species naturae continent in se rationes generis &amp; differentiae: sed tanquam vnum sim 
+        <lb ed="#Ba" n="34"/>plex in essentia deitatis, quae est vna ratio simplex intelligibilitatis in deo ad intelligendum seipsum. 
+        <lb ed="#Ba" n="35"/>quae etiam vna simplex, est rationes multae &amp; propriae singulorum ad intelligendum omnia alia a se. 
+        <lb ed="#Ba" n="36"/>Et sic beati intelligendo deum, vno simplici intuitu omnem suam scientiam comprehendunt. dicente Augus. 
+        <lb ed="#Ba" n="37"/>xv. de trinitate. c. xvi. Dem scientiam nostram vno simul conspectu videbimus. Quod quia difficile est intelli 
+        <lb ed="#Ba" n="38"/>gere, ad huius aliqualem apprehensionem notandum: quod secundum Commen. xii. metaphyhic. intellectus natus est di 
+        <lb ed="#Ba" n="39"/>uidere adunata in esse. ita quod illa quae indiuisa sunt in esse rei, nec potest aliquod eorum esse seorsum 
+        <lb ed="#Ba" n="40"/>sine alio, manente natura rei intellectus potest concipere seorsum vnum sine altero. Quemadmodum bina 
+        <lb ed="#Ba" n="41"/>rius qui est in ternario: licet manente ternario seorsum extra non potest esse: intellectus tamen binarium quod  
+        <lb ed="#Ba" n="42"/>est in ternario, seorsum &amp; per se concipit. Simitlicet extra hominem non potest esse seorsum sensibile eius: in  
+        <lb ed="#Ba" n="43"/>tellectus tamen seorsum concipit sensibile in ipso existens, praeter hoc quod concipit rationale. Et sic multa 
+        <lb ed="#Ba" n="44"/>existentia in eodem, quae non pabet esse seorsum distincta: abinuicem secundum esse, bene pabet esse distincta seorsum abinui 
+        <lb ed="#Ba" n="45"/>cem secundum rationem intelligibilis, &amp; hoc dupliciter. vel secundum aequedistantiam, ita quod ratio vnius non  
+        <lb ed="#Ba" n="46"/>includit rationem alterius: quemadmodum distincta sunt abinuicem materia &amp; forma: licet secundum 
+        <lb ed="#Ba" n="47"/>esse sunt abinuicem indistincta in composito ex materia &amp; forma. vel secundum gradus &amp; ordinem, ita 
+        <lb ed="#Ba" n="48"/>quod ratio vnius includat rationem alterius, quemadmodum in homine sunt distincta intellectiuum. 
+        <lb ed="#Ba" n="49"/>sensitiuum, vegetatiuum. Includitur enim vegetatiuum in sensitiuo, &amp; sensitiuum in intellectiuo, quem- 
+        <lb ed="#Ba" n="50"/>admodum trigonum in tetragono, &amp; pentagonum in hexagono, sicut vult Philosophus. Primo modo in deo 
+        <lb ed="#Ba" n="51"/>nullo modo cadit aliquarum rationum multitudo: quia illa non est sine compositione ex pluribus re 
+        <lb ed="#Ba" n="52"/>differentibus. Secundo modo multa abinuicem differentia secundum maiorem &amp; minorem diuersitatem possunt intel 
+        <lb ed="#Ba" n="53"/>ligi concludi in eodem tripliciter: quia plura tripliciter possunt contineri in eodem secundum ordinem &amp; gra- 
+        <lb ed="#Ba" n="54"/>dus diuersos differentes secundum esse perfectius &amp; minus perfectum. Semper enim continens per- 
+        <lb ed="#Ba" n="55"/>fectioris rationis est quam contentum. Aut enim ratio perfectior addit super rationem minus perfectam 
+   <!--434.xml-->
+        <pb ed="#Ba" n="210-r"/>
+        <lb ed="#Ba" n="1"/>aliquid diuersum secundum rem, vel diuersum secundum intentionem &amp; non secundum rem, vel secundum rationem tantum 
+        <lb ed="#Ba" n="2"/>&amp; non secundum rem, neque secundum intentionem. Primo modo in numero maiori continetur multitudo 
+        <lb ed="#Ba" n="3"/>plurium nunerorum minorum: vt in denario nonus, octauus, &amp; sic de aliis. Semper enim nunerus maior ad  
+        <lb ed="#Ba" n="4"/>dit vnitatem super minorem, &amp; a minori subtrahitur vnitas quae fuit in maiori. Et sic vnitate addi 
+        <lb ed="#Ba" n="5"/>ta vel subtracta: semper species numerorum variantur: &amp; secundum diuisionem &amp; distinctionem intellectus, in  
+        <lb ed="#Ba" n="6"/>vno numero plures numeri continentur: vt in denario nonus, octauus, &amp; sic de aliis. Talis multitudo  
+        <lb ed="#Ba" n="7"/>rationum intelligibilium omnino non cadit in deo: quia necessario ponit compositionem ex re differenti- 
+        <lb ed="#Ba" n="8"/>bus. &amp; quid sic est vnum vno modo, est vere multa alio modo: vt habitum est supra. Secundo modo 
+        <lb ed="#Ba" n="9"/>in speciebus entium semper in superiori secundum gradum dignitatis naturae continentur omnes inferiores 
+        <lb ed="#Ba" n="10"/>In hoc enim omnes definitiones rerum &amp; formae quae sunt in eis assimilantur numeris. Nam differen 
+        <lb ed="#Ba" n="11"/>tia addita vel subtracta, variat speciem, sicut vnitas addita vel subtracta variat numerum: vt vult 
+        <lb ed="#Ba" n="12"/>Philosophus in viii. meta. Nec isto modo adhuc cadit in deo aliqua multitudo rationum intelligendi:  
+        <lb ed="#Ba" n="13"/>quia talis aliquam compositionem ponit, qualis est in specie ex genere &amp; differentia: qualis nec in deo 
+        <lb ed="#Ba" n="14"/>esse potest: vt patet ex supra determinatis. Sed multitudo rationum intelligibilium secundum rationem 
+        <lb ed="#Ba" n="15"/>intelligendi tantum, cadit in deo: quemadmodum ipse in sua essentia simplicissima habet omnium per- 
+        <lb ed="#Ba" n="16"/>fectionum quae sunt &amp; possunt esse rationes: in quibus etiam consistunt rationes ideales, secundum quod  
+        <lb ed="#Ba" n="17"/>cadunt sub ratione diuini intellectus &amp; sapientiae: vt infra patebit. 
+      </p>
+      <p xml:id="vn58an-d1e2355-d1e364">
+        <lb ed="#Ba" n="18"/>⁋ Ad primum in oppositum, quod ratio intelligendi alterius debet habere aliquam identita 
+        <lb ed="#Ba" n="19"/>tem cum ipso, qualem non habet deus cum aliquo alio a se: Dicendum secundum supra determinata, quod 
+        <lb ed="#Ba" n="20"/>est quaedam identitas &amp; indistantia secundum essentiam &amp; naturam: quaedam vero secundum imaginationem vel imi- 
+        <lb ed="#Ba" n="21"/>tationem &amp; correspondentiam quandam. Primo modo debet esse identitas &amp; indistantia in eis, quorum 
+        <lb ed="#Ba" n="22"/>vnum est ratio intelligendi alterius secundo modo iam tacto. &amp; sic ratio intelligendi in deo qua 
+        <lb ed="#Ba" n="23"/>se intelligit, non est ratio intelligendi aliquid aliud a se: quia creatura quaelibet in infinitum distat 
+        <lb ed="#Ba" n="24"/>a diuina essentia, &amp; cum nullo alio a se in essentia conuenientiam habet. Secundo autem modo est iden- 
+        <lb ed="#Ba" n="25"/>titas diuinae essentiae &amp; indistantia quaedam ad omnem creaturam, quia per ideas suas, &amp; rationes per- 
+        <lb ed="#Ba" n="26"/>fectionum sunt omnes quodammodo in ipsa: vt infra dicetur. &amp; hoc modo ratio illa, qua deus intel- 
+        <lb ed="#Ba" n="27"/>ligit se, est ratio intelligendi omnia alia a se. 
+      </p>
+      <p xml:id="vn58an-d1e2355-d1e389">
+        ⁋ Ad secundum, quod vna ratio intelligendi est vnius intelle- 
+        <lb ed="#Ba" n="28"/>cti, dicendum quod deus per se est ratio intelligendi solummodo seipsum. sed quia est ratio idealis propria sin 
+        <lb ed="#Ba" n="29"/>gulorum, cum hoc etiam est ratio intelligendi omnia alia a se. Et ideo determinat philosophus in. xii. metaphysi. quod 
+        <lb ed="#Ba" n="30"/>deus solum seipsum intelligit, &amp; quod alia non intelligit nisi intelligendo seipsum, &amp; ita vt habent esse in ipso, 
+        <lb ed="#Ba" n="31"/>non autem vt in propria natura, quod qualiter debet intelligi, exponi habet cum erit sermo de scientia dei 
+        <lb ed="#Ba" n="32"/>respectu creaturarum. creatura autem vt habet esse in deo non est nisi deus. 
+      </p>
+      <p xml:id="vn58an-d1e2355-d1e402">
+        ⁋ Ad tertium quod ratio intelligendi 
+        <lb ed="#Ba" n="33"/>deum est infinita: ergo non potest esse ratio intelligendi alia a se quae sunt finita: Dicendum ad hoc 
+        <lb ed="#Ba" n="34"/>quod infinitum modo infinito repraesentans non potest esse ratio intelligendi finitum. Modo tamen finito reprae- 
+        <lb ed="#Ba" n="35"/>sentans bene potest esse ratio intelligendi finitum, quoniam potentia infinita modo finito agens potest 
+        <lb ed="#Ba" n="36"/>esse causa effectus finiti. Per hunc ergo modum ratione infinita qua deus est intelligibilis modo infini 
+        <lb ed="#Ba" n="37"/>to, creatura bene potest esse intelligibilis modo finito. Sub modo enim reprssentandi infinite, plu 
+        <lb ed="#Ba" n="38"/>res modi aut infiniti possunt esse reprsesentandi finite: vt sic vna ratio intelligendi deum sit quodammo 
+        <lb ed="#Ba" n="39"/>do plures rationes intelligendi alia a deo: quemadmodum dictum est in quadam quaestione de quolibet: quod  
+        <lb ed="#Ba" n="40"/>vna idea speciei vnius, est quodammodo plures respectu plurium indiuiduorum sub illa: &amp; vt sic ratio vna 
+        <lb ed="#Ba" n="41"/>intelligendi deum quae intelligit se &amp; alia, sit quodammodo ratione diuersa vt est ratio intelligendi se: &amp; vt est ra 
+        <lb ed="#Ba" n="42"/>tio intelligendi alia a se. &amp; vt est ratio intelligendi alia a se, diuersificatur secundum rationem: vt est ratio intelligen 
+        <lb ed="#Ba" n="43"/>di diuersa quae sunt alia a se. Inquantum enim reprssentat totalitatem perfectionis diuini esse, est ratio intelligen 
+        <lb ed="#Ba" n="44"/>di deum. Inquantum vero repraesentat diuersos modos perfectionum creaturarum sub illa totalitate, est 
+        <lb ed="#Ba" n="45"/>ratio intelligendi alia a se. 
+      </p>
+      <p xml:id="vn58an-d1e2355-d1e433">
+        ⁋ Ad quartum, quod separatum ab alio non est ratio intelligendi ipsum, di-  
+        <lb ed="#Ba" n="46"/>cendum quod aliquid est ratio intelligendi aliud, Vno modo vt obiectum intellectui, quemadmodum imago 
+        <lb ed="#Ba" n="47"/>in speculo ad cognoscendum id cuius est imago. Alio modo vt ratio intelligendi tantum, &amp; non vt ob 
+        <lb ed="#Ba" n="48"/>iectum: quemadmodum species in oculo ad cognoscendum id cuius est species. Primo modo contingit 
+        <lb ed="#Ba" n="49"/>dupliciter. Aut enim obiectum illud intellectus continet in se omnes perfectiones vsque ad intima &amp; mi- 
+        <lb ed="#Ba" n="50"/>nima eorum. Aut solum reprsesentat specificam eorum naturam. Primo modo separatum ab alio potest esse ob 
+        <lb ed="#Ba" n="51"/>iectiue ratio intelligendi alia. &amp; sic deus tanquam speculum speculabile visum intellectualiter, est ratio vi 
+        <lb ed="#Ba" n="52"/>dendi alia, quia alia licet sint separata ab ipso in esse proprio eorum: verius tamen illa habent esse in illo quam 
+        <lb ed="#Ba" n="53"/>in seipsis. Secundo modo separatum ab alio non potest esse obiectiue ratio intelligendi alia. &amp; hoc modo  
+        <lb ed="#Ba" n="54"/>ideae Platonis (secundum quod imponit ei Aristoteles separatae erant a particularibus rerum naturalibus &amp; extra 
+   <!--435.xml-->
+        <pb ed="#Ba" n="210-v"/>
+        <lb ed="#Ba" n="1"/>intellectum secundum se subsistentes: vt quiditates &amp; essentiae rerum participatae ab eis solum per formas materi 
+        <lb ed="#Ba" n="2"/>les ab eis impssas materiis, non autem in seipsis, immo quod in seipsis subsisterent inparticipatae, &amp; reprssentaret esse re 
+        <lb ed="#Ba" n="3"/>rum specificum, non proprias rationes earum particulares vsque ad intima &amp; minima. Vnde dicit <name ref="#Aristotle">Philosophus</name> i. vi. ne- 
+        <lb ed="#Ba" n="4"/>ta. contra Platonem. Si bonum illud quod est bonum erit aliud, &amp; sua essentia boni, &amp; animal &amp; essentia animalis, &amp; 
+        <lb ed="#Ba" n="5"/>essentia entis &amp; ens, &amp; illae substantiae sunt priores. Si sunt absoluta abiuicem, quaedam non sciuntur per scientiam, qui 
+        <lb ed="#Ba" n="6"/>dicimus absoluta, si bonum per se non habeat essentiam boni. Scire enim cuiuslibet rei, est scire quid est per essentiam 
+        <lb ed="#Ba" n="7"/>vbi dicit Commen. Si fuerit quiditates rerum non eaedem per se cum rebus: sed absoluta abinuicem, contiget vt ste 
+        <lb ed="#Ba" n="8"/>primae non sint scitae: quoniam non sciuntur res nisi per suas quiditates. &amp; cum suae quiditates fuerit aliae ab eis, n 
+        <lb ed="#Ba" n="9"/>poterunt sciri. Vnde dicit <name ref="#Aristotle">Philosophus</name> in eodem, quod essentia circuli &amp; circulus, essentia animae &amp; anima sunt idem. Res ver 
+        <lb ed="#Ba" n="10"/>totalis congregata: vt iste circulus vniversalialiquid particularium, non habet definitionem: sed cognoscitur vniuer 
+        <lb ed="#Ba" n="11"/>salis ratione aut sensu. Definitio vero totius est &amp; speciei. Materia vero per se non cognoscitur. &amp; hocen si 
+        <lb ed="#Ba" n="12"/>pra expositum. Si autem sit aliquoid ratio intelligendi tantum: sic bene potest esse sepeatum ab intellecto. Est enim aliquando rati 
+        <lb ed="#Ba" n="13"/>intelligendi in intelligente: &amp; res intellecta omnino extra. &amp; de eo vt est ratio intelligendi, non loquitur Philosophus.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="100-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1234"> <!-- alias="vn58an-a14q2" -->
+      <head xml:id="vn58an-d1e1234-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-d1e1234-d1e107">
+        <lb ed="#Ba" n="28"/>CIrca secundum arguitur quod modus tradendi hanc scientiam debeat esse argumen 
+        <lb ed="#Ba" n="29"/>tatiuus siue doctrinalis siue ratiocinatius siue inquisitiuus, quod idem est, Primo sic. cer 
+        <lb ed="#Ba" n="30"/>tior scientia certiori modo debet tradi: quia certitudo in modo tradendi certo con 
+        <lb ed="#Ba" n="31"/>sistit. haec scientia certissima est scientiarum, vt habitum est supra: ergo &amp;c. Sed certissimus 
+        <lb ed="#Ba" n="32"/>modus tradendi scientiam est modus inquisitiuus siue argumentatiuus: cum vt dicit Au 
+        <lb ed="#Ba" n="33"/>lgust. ii. soi. non melius veritas inuestigari possit quam interrogando &amp; respondendo:  
+        <lb ed="#Ba" n="34"/>quae maxime fiunt in modo inquisitiuo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1234-d1e125">
+        ⁋ Secundo sic. scientiae summe 
+        <lb ed="#Ba" n="35"/>necessariae vt sciatur conpetit modus tradendi quo maxime scientia acquiritur: scientia ista maxime 
+        <lb ed="#Ba" n="36"/>necessaria est vt sciatur: quia est scientia salutis. Modus maxime faciens scire inquisitiuus &amp; ratio- 
+        <lb ed="#Ba" n="37"/>cinatiuus est: quia secundum <name ref="#Augustine">Augustinus</name> de vera relgion quod scimus debetur rationi. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1234-d1e137">
+        ⁋ Oppositum ar- 
+        <lb ed="#Ba" n="38"/>guitur. scientia illa quae est de eis quae excedunt hominis rationem, si debet ab homine comprehen- 
+        <lb ed="#Ba" n="39"/>di debet tradi illo modo quo talia ab homine magis possibile est apprehendi. Sed modus quo ma-  
+        <lb ed="#Ba" n="40"/>gis possibilia sunt apprehendi non est modus inquisitiuus: quia inquisitio non procedit nisi ex 
+        <lb ed="#Ba" n="41"/>illis quae supponuntur vt nota rationi: per quae inuestigat ignota: qualia non supponit ista scientia 
+        <lb ed="#Ba" n="42"/>cum sit de illis quae rationem excedunt. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1234-d1e151">
+        <lb ed="#Ba" n="43"/>⁋ Dicendum ad hoc: quod cum vt patebit inferius scientia ista sit principaliter 
+        <lb ed="#Ba" n="44"/>de eis quae facultatem naturalis rationis excedunt: &amp; hoc propter eius debilitatem &amp; illarum re- 
+        <lb ed="#Ba" n="45"/>rum elongationem: Manifestum est quod inquisitio naturalis rationis de se, ad inquisitionem siue 
+        <lb ed="#Ba" n="46"/>inuestigationem illarum non posset sufficere: &amp; idcirco modus tradendi hanc scientiam non potest 
+        <lb ed="#Ba" n="47"/>esse inquisitiuus secundum discursum naturalis rationis purae. Sed quia oportet secundum deter- 
+        <lb ed="#Ba" n="48"/>minata superius quod notitiam eius accipiat homo a sciente aliquo superiori qui eam nouit, cuius actionem non 
+        <lb ed="#Ba" n="49"/>sufficit ab initio perfecte recipere ad eius notitiam perfectam percipiendam: immo necesse est vt eam 
+        <lb ed="#Ba" n="50"/>primo imperfecte percipiat: &amp; illius notitiae imperfectae manuductione idoneus fiat vt aliquando eius 
+        <lb ed="#Ba" n="51"/>notitiam perfectam attingat: igitur cum perfecta notitia huius scientiae &amp; eorum quae tractantur in ea 
+        <lb ed="#Ba" n="52"/>nata est sic acqui. scilicet modo doctrinali inquisitiuo: manifestum est quod ista scientia ab initio ab illo scien 
+        <lb ed="#Ba" n="53"/>te superiori modo inquisitiuo tradi non debuit. Quia etsi sic ab illo eius auctore tradi potuit: Non enim 
+        <lb ed="#Ba" n="54"/>ratio omnium quae in hac scientia docuit, ei defuit: homo tamen propter cuius eruditionem tra- 
+   <!--216.xml-->
+        <pb ed="#Ba" n="101-r"/>
+        <lb ed="#Ba" n="1"/>denda erat, huiusmodi rationem capere idoneus non fuit. secundum quod dicit <name ref="#Augustine">Augustinus</name> de moribus eccle- 
+        <lb ed="#Ba" n="2"/>siae. Caligantes hominum mentes perspicuitati synceritatique rationis aspectum idoneum intendere ne- 
+        <lb ed="#Ba" n="3"/>queunt. Quamquam etsi ad capiendum rationem eorum quae in hac scientia tractantur idoneus fuisset: expedientius 
+        <lb ed="#Ba" n="4"/>tamen fuit vt non ratione tradita: sed miraculorum operatione ostensa fidem ei adhiberet, quamquam ali- 
+        <lb ed="#Ba" n="5"/>qui fidem ei non adhibent: quia rationem non habent. vnde <name ref="#Augustine">Augustinus</name> ad Consentium. Sunt quaedam  
+        <lb ed="#Ba" n="6"/>quae cum audierimus non accommodamus fidem: &amp; ratione nobis reddita vera esse cognoscimus 
+        <lb ed="#Ba" n="7"/>quae credere non valemus: &amp; vniuersa dei mirabilia ideo ab infidelibus non creduntur: quia eorum 
+        <lb ed="#Ba" n="8"/>ratio non videtur. Et reuera sunt de quibus ratio reddi non potest: non tamen non est. Quid enim est 
+        <lb ed="#Ba" n="9"/>in rerum natura quod irrationabiliter fecerit deus: Sed quorundam mirabilium operum eius expedit oc 
+        <lb ed="#Ba" n="10"/>cultam esse rationem: ne apud animos fastidio lamguidos eiusdem rationis cognitione vilescant. Sunt enim mul 
+        <lb ed="#Ba" n="11"/>ti qui plus tenentur admiratione rerum quam cognitione causarum vbi mirabilia mira esse desistunt. Vn- 
+        <lb ed="#Ba" n="12"/>de opus est eos ad inuisibilium fidem visibilibus mirabilibus excitari, vt puritate purgati eo parueniant vbi fa 
+        <lb ed="#Ba" n="13"/>miliaritate veritatis mirari desistant. Quare cum modus tradendi &amp; acquirendi rei alicuius notitiam 
+        <lb ed="#Ba" n="14"/>non sit nisi duplex, vnus via rationis quae mentem illuminat vt ea quae quaeruntur intelligantur: &amp; vnus 
+        <lb ed="#Ba" n="15"/>via auctoritatis quae assensum rationis flagitat vt ea quae proponuntur credantur. secundum quod dicit Au 
+        <lb ed="#Ba" n="16"/>gustinus de vera reis. Medicina animae in auctoritatem rationemque distribuitur: auctoritas fidem fia- 
+        <lb ed="#Ba" n="17"/>gitat &amp; rationi praeparat viam: ratio ad intellectum cognitionem perducit. Primus modus inqui- 
+        <lb ed="#Ba" n="18"/>sitiuus est ex notis ignotorum notitiam inuestigans. Secundus vero modus authenticus est: fidem 
+        <lb ed="#Ba" n="19"/>eorum quae ignota sunt exponens. Et vt dictum est modus tradendi hanc scientiam non potest es- 
+        <lb ed="#Ba" n="20"/>se doctrinalis inquisitiuus procedens sermone regulari &amp; connexo. Necesse est igitur quod sit authenticus 
+        <lb ed="#Ba" n="21"/>sententiatiuus procedens sermone simplici &amp; absoluto. Ex prima enim traditione sua non est ordinata 
+        <lb ed="#Ba" n="22"/>haec scientia vt intellectum demonstret eorum quae tractat: sed solummodo vt homo eis fidem exhi- 
+        <lb ed="#Ba" n="23"/>beat: &amp; ideo proprie dicitur scientia fidei. Et etiam ideo solet dici quod proprius modus scientiae huius nar- 
+        <lb ed="#Ba" n="24"/>ratiuus est: quia per totum quasi sententias &amp; conclusiones credendas proponit, vt quod in principio 
+        <lb ed="#Ba" n="25"/>creauit deus cae. &amp; ter. &amp; quod tunc terra erat imanis &amp; va. &amp; caetera huiusmodi. Et ideo philosophis quid vt dicit <name ref="#Augustine">Augustinus</name>  
+        <lb ed="#Ba" n="26"/>nihil volebant credere nisi quod ratione potuerunt agnoscere, fidem scientiae huic exhibere noluerunt: sed  
+        <lb ed="#Ba" n="27"/>simplicitatem eius respuebant. Quid seipsum testatur fecisse ante suam conuersionem, cum dicit. iii. con 
+        <lb ed="#Ba" n="28"/>fes. Animum meum institui intendere in scripturas sanctas: vt viderem quales essent. &amp; ecce video 
+        <lb ed="#Ba" n="29"/>rem non conspectam superbis neque nudatam pueris: sed incessu humilem, successu excelsam: &amp; velatam 
+        <lb ed="#Ba" n="30"/>mysteriis: sed visa est mihi indigna quam Tullianae dignitati compararem. Tumor enim meus refugie 
+        <lb ed="#Ba" n="31"/>bat modum eius.
+      </p>
+      <p xml:id="vn58an-d1e1234-d1e261">
+        <lb ed="#Ba" n="32"/>⁋ Ad primum in oppositum, quod scientia ista certissima est: quare debet habere mo 
+        <lb ed="#Ba" n="33"/>dum certissimum: Dicendum secundum quod determinatum est supra, quod etsi scientia ista sit certissima- 
+        <lb ed="#Ba" n="34"/>hoc est ex parte rei scitae, non autem ex parte hominis scientis eam, nisi quantum ad securitatem &amp; firmi 
+        <lb ed="#Ba" n="35"/>tatem adhaerentiae veritati quam tractat prius quam credibile in ipsa factum sit intelligibile. Nunc ergo cum 
+        <lb ed="#Ba" n="36"/>icitur quod scientia certissima debet habere certissimum modum: Dicendum quod verum est iuxta genus suae certitudi 
+        <lb ed="#Ba" n="37"/>nis: &amp; hoc in proposito maxime non ex parte rei scitae: sed ex parte scientis. Modus enim sciendi magis sequitur 
+        <lb ed="#Ba" n="38"/>conditionem scientis quam rei scitae. Cum ergo certitudo securitatis &amp; adhaerentiae in hac scientia sit ex 
+        <lb ed="#Ba" n="39"/>auctoritate primae veritatis, vt dictum est supra, certissimus modus respondens certitudini adhaeren- 
+        <lb ed="#Ba" n="40"/>tiae est modus tradendi hanc scientiam modo authentico non inquisitiuo: quia modus inquisitius 
+        <lb ed="#Ba" n="41"/>causat certitudinem euidentiae. quae licet eorum quae traduntur in hac scientia, maior potest esse 
+        <lb ed="#Ba" n="42"/>in multis: quam eorum quae traduntur in aliis scientiis. hoc tamen non potest attingere quan-  
+        <lb ed="#Ba" n="43"/>tum est ex parte discentis, vt dictum est, ex prima huius scientiae traditione: sed ex speciali diuina il 
+        <lb ed="#Ba" n="44"/>lustratione vel ex eius rationabili expositione. Vnde <name ref="#Augustine">Augustinus</name> docens qualiter &amp; ad quid per homines 
+        <lb ed="#Ba" n="45"/>administratae sunt sacrae scripturae, loquens de eis sub metaphora montium, dicit sic. Ex montibus 
+        <lb ed="#Ba" n="46"/>venit vobis auxilium vt ista audiretis: sed nondum potestis intelligere &amp;c. vt supra. Vnde &amp; prae- 
+        <lb ed="#Ba" n="47"/>ter rationem iam dictam propter eandem rationem qua primi doctores huius scientiae simplices 
+        <lb ed="#Ba" n="48"/>esse debebant non illustrati rationibus humanae sapientiae, vt in eis magis illucesceret diuina auctori- 
+        <lb ed="#Ba" n="49"/>tas, eadem ratione omnino debet ista scientia tradi modo simplici sine rationum connexione, vt 
+        <lb ed="#Ba" n="50"/>non humana industria: sed diuina auctoritate intelligatur edita. secundum quod dicit <name ref="#Augustine">Augustinus</name> xviii. 
+        <lb ed="#Ba" n="51"/>de ciui. dei. Quia ea quae sunt huius scientiae diuinis vocibus populo sunt commendata, non argumen- 
+        <lb ed="#Ba" n="52"/>tationum coniectationibus inculcata: vt non hominis ingenium: sed dei eloquium contemnere for 
+        <lb ed="#Ba" n="53"/>midaret qui illas cognosceret. Et super illud. i. Petri. ii. Non voluntate humana allata est aliquando  
+        <lb ed="#Ba" n="54"/>prophetia. dicit Glos. Attendite prophetico sermoni. Nam a deo est. Quod potest probari per hoc quod pro 
+        <lb ed="#Ba" n="55"/>phetia non est talibus verbis &amp; tali modo locutionis scripta quali vtuntur homines seculares in locutio 
+   <!--217.xml-->
+        <pb ed="#Ba" n="101-v"/>
+        <lb ed="#Ba" n="1"/>ne sua: &amp; quali seculares scripturae sunt compositae. 
+      </p>
+      <p xml:id="vn58an-d1e1234-d1e328">
+        ⁋ Ad secundum: quod scientia ista est summe neces 
+        <lb ed="#Ba" n="2"/>saria vt sciatur: dicendum quod duplex est necessitas sciendi hanc scientiam. Vna principalis ad cognoscendum creden 
+        <lb ed="#Ba" n="3"/>da. Alia secundaria ad cognita &amp; credita defendendum. Prima necessitate necessaria est vt sciatur scilicet ne 
+        <lb ed="#Ba" n="4"/>cessitate sine qua non est salis scilicet ad fide tenendum ea quae tractat: propter quod primo tradita est. Est autem neces- 
+        <lb ed="#Ba" n="5"/>saria secunda necessitate ad opitulandum piis &amp; ad defendendam fidem contra impios, ad intelligendum. scilicet per ratio 
+        <lb ed="#Ba" n="6"/>nem illa quae per ipsam traduntur. sed ad hoc non est prima eius traditio facta per primos doctores 
+        <lb ed="#Ba" n="7"/>sed ad hoc est eius expositio facta per doctores sequentes, qui idcirco debuerunt scientia seculari esse 
+        <lb ed="#Ba" n="8"/>praediti, vt supra determinatum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

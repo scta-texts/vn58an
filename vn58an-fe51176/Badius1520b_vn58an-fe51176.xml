@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="187-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe51176"> <!-- alias="vn58an-a62q1" -->
+      <head xml:id="vn58an-fe51176-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe51176-d1e107">
+        <lb ed="#Bb" n="30"/>CIrca Primum arguitur quod non sit aliqua relatio communis, Primo sic generaliter tam in  
+        <lb ed="#Bb" n="31"/>diuinis quam in creaturis. Sicut non dicitur relatio propria nisi quia solum vni creatorum 
+        <lb ed="#Bb" n="32"/>convenit: puta paternitas in diuinis soli patri, &amp; filiatio soli filio, &amp; vniverstalit illae quae  
+        <lb ed="#Bb" n="33"/>sunt in actiuis &amp; passiuis: sic non dicitur relatio communis nisi quia convenit vtrique ex- 
+        <lb ed="#Bb" n="34"/>tremorum relatorum inter se. Sed non est aliqua relatio talis neque in diuinis neque  
+        <lb ed="#Bb" n="35"/>in creaturis: quia tam in his quam in illis relationis esse est ad aliud se habere: nec est 
+        <lb ed="#Bb" n="36"/>relatio nisi inter relatiue opposita: Talia autem non sunt aliquibus communia: contraria enim &amp; vniversale opposita 
+        <lb ed="#Bb" n="37"/>non sunt simul in eisdem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e127">
+        ⁋ Secundo sic. cum opposita nata sint fieri circa idem: cone autem oppo- 
+        <lb ed="#Bb" n="38"/>nitur proprio: si ergo sint relationes cones in deo aut in creaturis: opponuntur propriis relationibus 
+        <lb ed="#Bb" n="39"/>in eisdem. hoc autem falsum est: quia in diuinis relationes propriae non opponuntur nisi inter se tantum. Similiter in 
+        <lb ed="#Bb" n="40"/>creaturis non sunt rlesiones propriae: sed quae sunt, non sunt nisi in actiuis &amp; passiuis, &amp; in mensuris: quae non 
+        <lb ed="#Bb" n="41"/>opponuntur nisi inter se. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e138">
+        ⁋ ldem arguitur tertio: sed specialiter in diuinis. Primo sic. secundum  
+        <lb ed="#Bb" n="42"/>Damas. li. Sententiarum suarum ca. ii. &amp;. xi. Pater &amp; filius &amp; spiritus sanctus secundum omnia sunt vnum praeter ge  
+        <lb ed="#Bb" n="43"/>nerationem, ingenerationem, &amp; processionem. Sed relationes cones siquae sunt in diuinis sunt, praeter genera 
+        <lb ed="#Bb" n="44"/>rationem &amp; ingenerationem &amp; processionem: quia istae non sunt communes sed, propriae secundum ratione prin- 
+        <lb ed="#Bb" n="45"/>cipii aut principiati: suntque praeter illa vnum: tum quia illud est substantia: &amp; substantia non est relatio:  
+        <lb ed="#Bb" n="46"/>tum quia secundum relationem ipsa relata non sunt vnum: sed potius alia &amp; alia, quia (vt iam dictum est) rela 
+        <lb ed="#Bb" n="47"/>tionis esse est ad aliud se habere. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e155">
+        ⁋ Quarto sic. in dicto cap. xi. dicit Damasc.s In omnibus 
+        <lb ed="#Bb" n="48"/>creaturis conitas siue quod cone est: ratione consideratur. in supsubstantiali autem trinitate econtrario 
+        <lb ed="#Bb" n="49"/>est. illic enim cone &amp; vnum re consideratur. Sed relationes cones re non possunt considerari in diuinis: quia in 
+        <lb ed="#Bb" n="50"/>diuinis nihil potest considerari re nisi substantia: quae est res vna absoluta &amp; non relatio: sicut dictum est 
+        <lb ed="#Bb" n="51"/>&amp; tres personae quae sunt tres res subsistentes relatiue: &amp; quaetuor relationes reales: quaerum nulla est communis tiritit 
+        <lb ed="#Bb" n="52"/>bus personis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e168">
+        ⁋ Quinto sic. quaelibet relatio communis habet aliam relationem communem sibi contrariam &amp; 
+        <lb ed="#Bb" n="53"/>oppositam: puta in creaturis identitas diuersitatem: aequalitas inaequalitatem: similitudo dissimilitudinem. Nunc autem 
+        <lb ed="#Bb" n="54"/>ita est de oppositis &amp; contrariis quod nata sunt esse circa idem, quare cum tales contrarietates relationum 
+   <!--389.xml-->
+        <pb ed="#Bb" n="187-v"/>
+        <lb ed="#Bb" n="1"/>communium nullo modo natae sint esse circa deum: quia in ipso nulla cadit diuersitas: nulla inaequalitas 
+        <lb ed="#Bb" n="2"/>nulla dissimilitudo: vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e184">
+        ⁋ Contrarium arguitur Primo coniter tam in deo quam in crea 
+        <lb ed="#Bb" n="3"/>turis sic. Relatio quae eodem nomine &amp; eadem ratione denominat vtrumque relatorum: &amp; cui secundum idipsum convenit esse 
+        <lb ed="#Bb" n="4"/>in illis: est relatio communis. In hoc enim consistit ratio communis. Talis relatio habet esse tam in diuinis quam in cre 
+        <lb ed="#Bb" n="5"/>aturis, vt infra patebit de identitate, aequalitate, &amp; similitudine. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e193">
+        ⁋ Secundo arguitur idem spe 
+        <lb ed="#Bb" n="6"/>cialiter in diuinis sic. secundum philosophum. i. Ethicorum. quanto aliquod est communius tanto est diuinius, nobilius, 
+        <lb ed="#Bb" n="7"/>atque dignius: &amp; ideo tanto etiam magis deo conuenit &amp; eidem attribuendum est secundum superius de- 
+        <lb ed="#Bb" n="8"/>terminata, quare cum in diuinis sint relationes propriae quales inueniuntur in creaturis: multo for 
+        <lb ed="#Bb" n="9"/>tius ergo &amp; in eis sunt aliquae communes. 
+        <lb ed="#Bb" n="10"/>
+      </p>
+      <p xml:id="vn58an-fe51176-d1e206">
+        ⁋ Hic oportet primo videre quare relatio dicitur communis &amp; quae. Secundo vnde ha 
+        <lb ed="#Bb" n="11"/>bet quod sit communis. Tertio concludetur intentum. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e211">
+        ⁋ De primo aduertendum est quod relatio dicitur communis quae secundum  
+        <lb ed="#Bb" n="12"/>idem nomen &amp; eandem rem &amp; eadem ratione relatis per ipsam conuenit. &amp; haec est ratio quare dicitur communis. Vnde 
+        <lb ed="#Bb" n="13"/>hilosophus. v. meta. loquens de relationibus comomunibus, dicit quod aequale simile &amp; idem omnia dicuntur secundum eundem mo 
+        <lb ed="#Bb" n="14"/>dum: quia referuntur ad vnum. Quod tamquam cam dictorum exponens Commeto. dicit ibidem sic. Proprium est istis tri- 
+        <lb ed="#Bb" n="15"/>bus generibus relatiuis: quod proportio in eis est eadem in vtroque extremo. Similium enim vtrumque simile: &amp; similiter 
+        <lb ed="#Bb" n="16"/>aequalia. Et hoc intendebat cum dixit: quia referuntur ad vnum. id est quia conveniunt in aliquo. Et econtrario in 
+        <lb ed="#Bb" n="17"/>aliis speciebus relationis scilicet secundum potentias &amp; mensurationes. Et intellige de contrariis eorum quod di-  
+        <lb ed="#Bb" n="18"/>ctum est de eodem aequali &amp; similit quia diuersorum vtrumque diuersum est: &amp; inaequalium vtrumque est in aequale 
+        <lb ed="#Bb" n="19"/>&amp; dissimilium vtrumque dissimile est: quae sunt tres contrarietates secundum tria genera relationum conmunium, vt in  
+        <lb ed="#Bb" n="20"/>fra patebit. Et sumit hic Commetn. proportionem eandem pro conformi &amp; mutua habitudine extremorum 
+        <lb ed="#Bb" n="21"/>adinuicem. Et hoc (vt dicit) intendebat Aristotel. cum dixit: Quia referuntur ad vnum. id est secundum Comment. 
+        <lb ed="#Bb" n="22"/>quia conveniunt in aliquo. Econtra in aliis spebus relationis. Conveniunt autem in vno, &amp; hoc vel in spe 
+        <lb ed="#Bb" n="23"/>ciali: vt vbi sub ommuni habitudine &amp; conformi nulla continetur habitudo difformis: vt puta sub idem 
+        <lb ed="#Bb" n="24"/>titate aequalitate &amp; similitudine omnis habitudo contenta est conformis Qualis enim est habitudo vnius 
+        <lb ed="#Bb" n="25"/>extremi ad alterum: talis est econverso. Vel in generali: vt si sub communi habitudine conformi continentur ha 
+        <lb ed="#Bb" n="26"/>bitudines difformes: prout sub inaequalitate quae sub ratione &amp; nomine inaequalitatis est relatio communis 
+        <lb ed="#Bb" n="27"/>inaequalium: quod vtrumque est inaequale: continentur habitudines sic difformes: vt scilicet alterius modi sit habi 
+        <lb ed="#Bb" n="28"/>bitudo vnius extremorum ad alterum: alterius vero econverso. Cum enim duo &amp; quatuor sunt iaequalia 
+        <lb ed="#Bb" n="29"/>&amp; vtrumque eorum est &amp; dicitur aequale alteri: tamen quia secundum philosophum. x. Met. inaequale continet maius &amp; mi- 
+        <lb ed="#Bb" n="30"/>nus: vnum eorum, puta quatuor, est inaequale duplum: alterum vero, puta duo, est inaequale sub 
+        <lb ed="#Bb" n="31"/>duplum. Et sic licet sit eadem habitudo inaequalitatis in generali illorum adinuicem: tamen est alia &amp; alia ha- 
+        <lb ed="#Bb" n="32"/>bitudo in speciali: qua vnum dicitur ad aliud habitudine dupli ad subduplum. Alterum vero econver- 
+        <lb ed="#Bb" n="33"/>so habitudine subdupli ad duplum. Dicuntur tamen nihilominus omnia haec: relatiua relatione communi: &amp; hoc 
+        <lb ed="#Bb" n="34"/>propter conem habitudinem generalem sub nomine inaequalis: sub quo ambo continentur: &amp; duplum tamquam maius: &amp; 
+        <lb ed="#Bb" n="35"/>subduplum tamquam minus: &amp; sic de caeteris habitudinibus diuersis contentis sub inaequali: &amp; similiter de contem 
+        <lb ed="#Bb" n="36"/>tis sub diuerso &amp; dissiii. Et propter talem conformitatem relationum conmunium in nomine: relationes cones 
+        <lb ed="#Bb" n="37"/>appellari possunt relationes consimilium nominium: Et hoc ad differentiam relationum in actiuis &amp; passiuis at  
+        <lb ed="#Bb" n="38"/>quod in mensuris: quae semper sunt consimilium nominium: licet non solum propter nominium conionem dicantur relationes cones 
+        <lb ed="#Bb" n="39"/>sed potius propter conionem rationis &amp; rei super quam fundantur, vt iam dicetur. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e275">
+        ⁋ Sed ista communio nominm in genere 
+        <lb ed="#Bb" n="40"/>talium relationum semper inuenitur: non autem semper in speciebus: in quo aliqui errabant dicentes quod duplum 
+        <lb ed="#Bb" n="41"/>subduplum, multiplex submultiplex, &amp; huiusmodi relationes non continentur sub genere relationum conmu 
+        <lb ed="#Bb" n="42"/>nium: quia non sunt eorundem nominim. Distiguebant enim relationes omnes in relationes nominium dissiilium &amp; nominim 
+        <lb ed="#Bb" n="43"/>silium: &amp; dicebant quod secundum philosophum. v. Meta. relationes dissimilium nominium ad tria genera relationum reducuntur 
+        <lb ed="#Bb" n="44"/>cilicet ad relationes modo numeri &amp; secundum potentiam &amp; secundum mensuram: quia in istis vtrumque relatiuorum non 
+        <lb ed="#Bb" n="45"/>simpliciter induit idem nomen. Nam mensura &amp; mensuratum: agens &amp; actum: duplum &amp; subduplum: non penitus 
+        <lb ed="#Bb" n="46"/>idem nomen habent. Et (vt dicunt) simiter ad tria genera reducuntur relatiua similium nominim. Nam (vt dicunt) talia 
+        <lb ed="#Bb" n="47"/>relatiua secundum vnitatem accipiuntur. Vnitas autem tripliciter accipit scilicet in substantia, in quantitate, &amp; in  
+        <lb ed="#Bb" n="48"/>qualitate. Et secundum hoc tres sunt relationes similium nominim. Quia secundum philosophum. v. Meta. Vnum in substantia 
+        <lb ed="#Bb" n="49"/>facit idem: vnum in quantitate facit aequale: vnum in qualitate facit simile. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e299">
+        ⁋ Sed non est omnino ita vt dicunt 
+        <lb ed="#Bb" n="50"/>nec intelligunt mentem Aristotelis distinguentis tres modos relationum in v. Meta. &amp; sub vno illorum 
+        <lb ed="#Bb" n="51"/>modorum comprehendit idem, aequale, &amp; simile. Vnde dicit ibidem expresse. Aequale idem &amp; simile dicuntur secundum  
+        <lb ed="#Bb" n="52"/>vnum modum. Et quia contraria sunt sub eodem genere: secundum eundem in x. Meta. modi autem relationum vo- 
+        <lb ed="#Bb" n="53"/>cantur relationum genera: sub eodem ergo modo relationis cum illis continentur eorum contraria. scilicet diuersum 
+        <lb ed="#Bb" n="54"/>inaequale &amp; dissimile. Et sunt omnia haec relatiua similium nominum: &amp; relationes communes: &amp; sic 
+        <lb ed="#Bb" n="55"/>totum genus relationis est rsionum conium siue similium nominm: &amp; non aliarum. &amp; est omnium talium contentiuum. Et sic 
+   <!--390.xml-->
+        <pb ed="#Bb" n="188-r"/>
+        <lb ed="#Bb" n="1"/>relatiua communium nominium non solum accipiuntur secundum vnitatem siue secundum vnum, vt illi putant: sed  
+        <lb ed="#Bb" n="2"/>etiam secundum multum. Constat autem quod hoc non obstante duplum &amp; dimidium &amp; caetera talia quae dicuntur mo-  
+        <lb ed="#Bb" n="3"/>do numeri, continentur sub aequali: quod est nomen vnum cone eis quo inuicem referantur in genere: licet 
+        <lb ed="#Bb" n="4"/>sub diuersis nominibus referantur in speciebus. Et sic sub eodem modo relationum comounium &amp; consimilium nominium 
+        <lb ed="#Bb" n="5"/>continentur idem &amp; diuersum: simile &amp; dissimile: aequale &amp; inaequale. Nec faciunt relationes illae quae  
+        <lb ed="#Bb" n="6"/>sunt dissimilium rationum in suis speciebus, vnum modum relationis per se: quia licet sint dissimilium nominium 
+        <lb ed="#Bb" n="7"/>in suis speciebus: sunt tamen similium nominium in suo genere: &amp; in nomine sui generis: sicut duplum &amp; suba 
+        <lb ed="#Bb" n="8"/>duplum sub nomine inaequalis, quod non contingit plus in inaequali quam in aequali: nisi propter maiorem diuersitatem 
+        <lb ed="#Bb" n="9"/>quantitatum in quibus fundatur inaequalitas: quam sit illorum in quibus fundatur aequalitas: aut etiam qualitatum 
+        <lb ed="#Bb" n="10"/>in quibus fundantur similitudo &amp; dissimilitudo, &amp; substantiarum in quibus fundantur idem &amp; diuersum. Hic 
+        <lb ed="#Bb" n="11"/>super illud <name ref="#Boethius">Boethii</name> . i. de triniitate. ca. xiii. Dem aequale aequali aequale: &amp; simile simili simile est. dicit Comment. 
+        <lb ed="#Bb" n="12"/>Quae videlicet eiusdem nominis sunt relationes: ipsae quoque quantitates &amp; qualitates secundum quas ea 
+        <lb ed="#Bb" n="13"/>in quibus sunt aequalia sunt atque similia: etsi illa proprietate qua subiectorum suorum altera quidem huius 
+        <lb ed="#Bb" n="14"/>altera vero illius proprie sunt, diuersae intelliguntur: non tamen ideo diuersae sicut dupli &amp; dimidii &amp; 
+        <lb ed="#Bb" n="15"/>caeterorum inaequalium quantitates. Et ita licet duplum &amp; subduplum non sunt eorundem nominium neque habitudi 
+        <lb ed="#Bb" n="16"/>num in speciali: quia tamen sunt eorundem nominium &amp; earundem habitudinum in generali: &amp; hoc quando reducuntur ad  
+        <lb ed="#Bb" n="17"/>inaequale: ideo omnia illa pertinent ad genus relationum conmunium: &amp; distinguuntur coniter contra relatio-  
+        <lb ed="#Bb" n="18"/>nes in actiuis: &amp; in mensuris: quae semper sunt diuersarum habitudinum &amp; diuersorum nominium: de quarum di 
+        <lb ed="#Bb" n="19"/>stinctione erit sermo inferius. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e363">
+        ⁋ De secundo notandum est quod quaecumque habent communionem in aliquo vno  
+        <lb ed="#Bb" n="20"/>absoluto: siue re sint diuersa, siue ratione tantum. secundum rationem communicandi illud necessario habent habitu 
+        <lb ed="#Bb" n="21"/>dinem communem &amp; conformen inter se: puta quicumque habent communionem in eadem mercatura. secundum con- 
+        <lb ed="#Bb" n="22"/>munionem conicandi illam habent ambo adinuicem habitudinem communem &amp; conformem mu- 
+        <lb ed="#Bb" n="23"/>tuam qua dicuntur socii: &amp; quid habent cocmomnionem in eadem voluntate concordi, secundum rationem conicandi illam am- 
+        <lb ed="#Bb" n="24"/>bo habent inuicem mutuo habitudinem communem &amp; conformen qua dicuntur amici: &amp; quid habent communionem 
+        <lb ed="#Bb" n="25"/>in cohabitando eundem locum conmunem de propinquo, secundum rationem conicandi illum ambo habent adinuicem 
+        <lb ed="#Bb" n="26"/>mutuo habitudinem conem &amp; conformen qua dicuntur vicini. Talis autem habitudo comomunis relatio communis 
+        <lb ed="#Bb" n="27"/>est: quae in hoc quod conformis est nomine &amp; ratione in vtroque extremorum: differt a relationibus in acti- 
+        <lb ed="#Bb" n="28"/>uis &amp; passiuis. Dicente <name ref="#Augustine">Augustinus</name> x. de trinitate. ca. vi. Non sic ad se dicuntur pater &amp; filius, quomodo amici aut  
+        <lb ed="#Bb" n="29"/>vicini. Relatiue quippe dicitur amicus ad amicum. Et si aequaliter se diligunt: eadem in vtroqu. id e. aequa  
+        <lb ed="#Bb" n="30"/>lis amicitia est. Et relatiue vicinus dicitur ad vicinum: &amp; quia aequaliter sibi vicini sunt (quantum enim 
+        <lb ed="#Bb" n="31"/>iste illi: intantum &amp; ille huic vicinatur) eadem in vtroque vicinitas. Ex dictis duobus concludens tertium &amp; 
+        <lb ed="#Bb" n="32"/>intentum, dico quod postquam conicare eodem aliquo absoluto contingit &amp; in diuinis &amp; in creaturis, prout 
+        <lb ed="#Bb" n="33"/>inferius declarabitur, ponendum est quod tam in deo quam in creaturis sit relatio cons scilicet communicantibus illam rem 
+        <lb ed="#Bb" n="34"/>secundum quam habent inter se huiusmodi relationes: secundum quod processit penultima ratio, quae concedenda est. Quod  
+        <lb ed="#Bb" n="35"/>&amp; multum congruit dignitati diuinarum personarum, vt inferius declarabitur: secundum quod processit vltima 
+        <lb ed="#Bb" n="36"/>ratio: quae idcirco etiam concedenda est. 
+        <lb ed="#Bb" n="37"/>
+      </p>
+      <p xml:id="vn58an-fe51176-d1e408">
+        ⁋ Ad primum in oppositum, quod nulla est relatio communis: quia non est relatio nisi ad  
+        <lb ed="#Bb" n="38"/>aliud &amp; ad oppositum: Dico quod non dicitur relatio communis, quasi communis &amp; eadem sit numero, re, &amp; ratione in 
+        <lb ed="#Bb" n="39"/>extremis relatiue oppositis: quoniam in extremis semper est alia &amp; alia re vel ratione, vt infra declarabitur 
+        <lb ed="#Bb" n="40"/>sicut est etiam ipsa res absoluta super quam fundatur relatio communis: quae est alia &amp; alia re vel ratione, vt similite 
+        <lb ed="#Bb" n="41"/>inferius declarabitur: per quod contingit quod relata habent oppositionem inter se: sed nihilominus dicitur 
+        <lb ed="#Bb" n="42"/>relatio communis: quia est diuersorum extremorum relatorum mutuo inuicem secundum vnum nomen, &amp; vnam ra- 
+        <lb ed="#Bb" n="43"/>tionem, &amp; vnam rem super quam fundatur. Vnde etsi sit relatio aliqua diuersorum extremorum secundum vnum nomen 
+        <lb ed="#Bb" n="44"/>&amp; vnam rationem &amp; vnam rem fundamenti: non tamen ex hoc dicitur relatio communis, nisi sit mutuo adinuicem re- 
+        <lb ed="#Bb" n="45"/>latorum secundum illud nomen. Vt cum in creaturis diuersi sint patres &amp; diuersi filii: &amp; tam in creaturis 
+        <lb ed="#Bb" n="46"/>quam in diuinis sit identitas vniuscuiusque ad seipsum: &amp; cum in diuinis spiratio actiua sit communis relatio 
+        <lb ed="#Bb" n="47"/>patris &amp; filii: &amp; sint diuersa relata secundum vnum nomen &amp; vnam rationem &amp; vnam rem fundamenti 
+        <lb ed="#Bb" n="48"/>quia tamen non est relatio eorum mutua adinuicem secundum illud nomen: Non enim est pater ad patrem, aut  
+        <lb ed="#Bb" n="49"/>filius ad filium in creaturis, neque aliquod eorum quorum quodlibet est idem sibiipsi reciproce, est ad al 
+        <lb ed="#Bb" n="50"/>terum mutuo retransitiue: &amp; hoc tali modo identitatis quo singulum eorum est idem sibi: neque etiam 
+        <lb ed="#Bb" n="51"/>communi spiratione dicitur pater ad filium: Idcirco non est paternitas duorum patrum, neque fraternitas 
+        <lb ed="#Bb" n="52"/>duorum fratrum, aut identitas duorum reciproca, aut spiratio actiua, relatio communis: qua-  
+        <lb ed="#Bb" n="53"/>liter illa est communis de qua ad praesens loquimur. Similiter etiam licet oppositorum in quolibet 
+        <lb ed="#Bb" n="54"/>genere oppositionis sub eodem nomine vtrumque alteri dicitur oppositum: quia tamen secundum aliam &amp; aliam 
+        <lb ed="#Bb" n="55"/>rationem rei singulum dicitur oppositum: non propter illam identitatem nominis dicitur oppositio relatio 
+   <!--391.xml-->
+        <pb ed="#Bb" n="188-v"/>
+        <lb ed="#Bb" n="1"/>communis. Cum enim est oppositio contrariorum: puta albi &amp; nigri: vnum est oppositum albedine: alte- 
+        <lb ed="#Bb" n="2"/>rum vero nigredine. Similiter cum est oppositio priuatorum, vnum est oppositum habitu: alterum ve- 
+        <lb ed="#Bb" n="3"/>ro carentia habitus. Similiter in contradictoriis vnum est oppositum affirmatione, alterum negatione 
+        <lb ed="#Bb" n="4"/>Et in relatiue oppositis vt sunt pater &amp; filius, vnum est oppositum paternitate: alterum filiatione:  
+        <lb ed="#Bb" n="5"/>&amp; oppositio in vno non importat aliam relationem secundum rem quam paternitatem: &amp; in alio non aliam 
+        <lb ed="#Bb" n="6"/>quam filiationem. lta quod vniuersaliter in relatione quae est oppositio, nihil est commune extremis op- 
+        <lb ed="#Bb" n="7"/>positis in nomine oppositionis nisi vox sola. Propter hoc relatio importata nomine oppositionis 
+        <lb ed="#Bb" n="8"/>non pertinet ad relationes communes. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e471">
+        ⁋ Quod arguitur secundo: quod commune non opponitur nisi proprio: 
+        <lb ed="#Bb" n="9"/>Dico quod verum est quando oppositio alicuius consideratur ad aliquid extra se: sicut semper consideratur 
+        <lb ed="#Bb" n="10"/>in absolutis. Non autem est verum quando consideratur ad aliquid intra se scilicet inter illa quae sub ipsa con 
+        <lb ed="#Bb" n="11"/>tinentur: quemadmodum etiam relatio non semper est ad aliquid extra se, vt patet in generalissimo 
+        <lb ed="#Bb" n="12"/>relationis: sed solum ad intra se scilicet inter illa quae sub ipsa continentur. Et secundum hunc modum relatio con 
+        <lb ed="#Bb" n="13"/>munis non habet oppositionem nisi illorum quae continet intra se: vt quaelibet relatio communis identita- 
+        <lb ed="#Bb" n="14"/>tis, aequalitatis, &amp; similitudinis, continet plures identitates, aequalitates, &amp; similitudines inter se 
+        <lb ed="#Bb" n="15"/>oppositas secundum oppositionem relatiuam. Secundum contrarietatem vero ad relationes communes diuersi- 
+        <lb ed="#Bb" n="16"/>tatis inaequalitatis &amp; dissimilitudinis. Et quaelibet illarum continet opposita relatiue inter se: sed  
+        <lb ed="#Bb" n="17"/>omnes pertinent ad relationes communes vel in specie vel in genere, sicut dictum est de duplo &amp; dimi 
+        <lb ed="#Bb" n="18"/>dio respectu inaequalis. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e495">
+        ⁋ Ad tertium: quod in diuinis omnia sunt vnum praeter generationem &amp; ingene 
+        <lb ed="#Bb" n="19"/>rationem &amp; spirationem: Dico quod verum est. Et quod assumitur quod communes relationes sunt praeter ista si 
+        <lb ed="#Bb" n="20"/>sunt in diuinis: Dico quod similiter verum est. Sed quod assumitur quod sunt praeter communem substantiam, quid  
+        <lb ed="#Bb" n="21"/>est illud vnum in diuinis: Dico quod non est verum: quia ibi sumitur substantia large, extendendo scilicet illam ad  
+        <lb ed="#Bb" n="22"/>omne id quod in diuinis convenit tribus communiter personis ratione substantiae: siue vt substantia est 
+        <lb ed="#Bb" n="23"/>siue vt quantitas est: siue vt qualitas. Quamuis igitur communis relatio in diuinis non sit vnum illud quod 
+        <lb ed="#Bb" n="24"/>est substantia: quia substantia non est relatio vt procedit argumentum: est tamen in personis in quibus sub 
+        <lb ed="#Bb" n="25"/>stantia est concomitata: &amp; ratione ipsius per quod reducitur ad vnitatem substantiae. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e514">
+        ⁋ Per idem patet ad  
+        <lb ed="#Bb" n="26"/>uartum: dicendo quod cone in diuinis non consideratur nisi re. Dico quod verum est: sed hoc potest esse vel 
+        <lb ed="#Bb" n="27"/>primo &amp; principaliter: &amp; sic non consideratur re commune in diuinis nisi substantia absoluta. vel se- 
+        <lb ed="#Bb" n="28"/>cundario &amp; per reductionem ad illud vnum re: &amp; sic commune consideratum in diuinis est relatio commu- 
+        <lb ed="#Bb" n="29"/>nis, de qua loquimur: quia ipsa ab illo communi oritur, licet non ratione qua illud est vnum re: sed po- 
+        <lb ed="#Bb" n="30"/>tius ratione qua est vnum &amp; vnum, aliud. scilicet &amp; aliud cone, prout inferius declarabitur. 
+      </p>
+      <p xml:id="vn58an-fe51176-d1e527">
+        ⁋ Ad quintum, 
+        <lb ed="#Bb" n="31"/>quod relationes communes oppositae &amp; contrariae non possunt esse circa deum: quare nec relatio commu 
+        <lb ed="#Bb" n="32"/>nis simpliciter: eo quod contraria nata sunt fieri circa idem: Dico quod hoc vltimum solum verum est nisi alte 
+        <lb ed="#Bb" n="33"/>rum contrariorum naturaliter insit. Nunc autem diuinis naturaliter insunt identitas, aequalitas, &amp; simi 
+        <lb ed="#Bb" n="34"/>litudo. Propter quod non sequitur, licet opposita istorum non possunt inesse, quod ista non insint. Est tamen aduer- 
+        <lb ed="#Bb" n="35"/>tendum quod aliter naturaliter insunt diuinis illa tria: quam alterum contrariorum naturaliter insit in rebus na 
+        <lb ed="#Bb" n="36"/>turalibus. In istis enim naturalibus quia sunt composita ex materia &amp; forma, aliquid potest eis naturaliter 
+        <lb ed="#Bb" n="37"/>inesse ratione formae &amp; non ratione materiae: puta igni calidum: quia formam igneitatis naturaliter conse- 
+        <lb ed="#Bb" n="38"/>quitur caliditas, nec compatitur secum frigiditatem: quemadmodum conpatitur frigiditatem forma aquae. Materia 
+        <lb ed="#Bb" n="39"/>autem ignis sicut est in potentia ad formam aquae vel terrae: sic est in potentia ad frigiditatem. Quae quidem po- 
+        <lb ed="#Bb" n="40"/>tentia duo dicit scilicet carentiam formae, &amp; aptitudinem ad illam. In hoc enim differt priuatio a negatione secundu 
+        <lb ed="#Bb" n="41"/>philosophum. iiii. Metaquod scilicet priuatio ponit aptitudinem: &amp; est negatio non simpliciter:r sed circa subiectum determi 
+        <lb ed="#Bb" n="42"/>natum. Negatio vero non dicit aptitudinem: &amp; est simpliciter circa omnia. Propter quod dicitur. De quolibet au  
+        <lb ed="#Bb" n="43"/>firmatio vel negatio dicitur: non sic autem priuatio aut habitus. Nunc autem in deo vbi est forma tantum qua  
+        <lb ed="#Bb" n="44"/>naturaliter consequitur alterum contrariorum: sic est carentia alterius contrariorum quod in ipso nec est po 
+        <lb ed="#Bb" n="45"/>tentia nec aptitudo ad illud. Et sic in deo priuatio alicuius est carentia illius: quae proprie est nega- 
+        <lb ed="#Bb" n="46"/>tio: non autem priuatio. Propter quod bene potest esse relatio aliqua communis in diuinis licet contrarium eius 
+        <lb ed="#Bb" n="47"/>non possit esse in illis. Immo ex hoc verissime inest deo: puta identitas, aequalitas, aut similitudo  
+        <lb ed="#Bb" n="48"/>quia contrarium eius puta diuersitas, inaequalitas, aut dissimilitudo, nullo modo potest ei inesse 
+        <lb ed="#Bb" n="49"/>vt inferius amplius declarabitur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

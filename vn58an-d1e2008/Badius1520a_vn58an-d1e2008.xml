@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="169-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2008"> <!-- alias="vn58an-a28q6" -->
+      <head xml:id="vn58an-d1e2008-Hd1e104">Quaestio 6</head>
+      <head xml:id="vn58an-d1e2008-Hd1e107" type="question-title">Utrum sit in Deo compositio ex potentia et actu</head>
+      <p xml:id="vn58an-d1e2008-d1e110">
+        <lb ed="#Ba" n="8"/>CIrca Sextum arguitur: quod in deo sit compositio ex actum &amp; potentia. Primo sic. in eo 
+        <lb ed="#Ba" n="9"/>in quo est potentia perfecta per actum: est compositio ex potentia &amp; actu: sicut ex perfe- 
+        <lb ed="#Ba" n="10"/>ctione &amp; perfectibili. in deo est potentia perfecta per actum: quia deus nihil agit neque potest 
+        <lb ed="#Ba" n="11"/>agere cuius non habeat potentiam agendi: &amp; omnis potentia agendi actu sibi respondente 
+        <lb ed="#Ba" n="12"/>perficitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2008-d1e123">
+        ⁋ Secundo sic. omnis potentia praecedens actum facit compositionem cum 
+        <lb ed="#Ba" n="13"/>actu sequente in eo in quo est: quia sunt diuersa: cum nihil idem praecedit seipsum. In deo 
+        <lb ed="#Ba" n="14"/>potentia est praecedens actum. Prius nim potuit multa facere quam facit ea. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2008-d1e131">
+        ⁋ In contrarium est: quia secundum 
+        <lb ed="#Ba" n="15"/>philosophum in perpetuis non differt esse &amp; posse: actus &amp; potentia. Deus autem summe perpetuus est, vt in-  
+        <lb ed="#Ba" n="16"/>fra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2008-d1e138">
+        <lb ed="#Ba" n="17"/>⁋ Hic oportet primo distinguere modos potentiae &amp; actus: deinde videre in quibus 
+        <lb ed="#Ba" n="18"/>ex modis eorum dubitationem habet proposita quaestio: &amp; demum si secundum illos modos in deo possit poni aliqua 
+        <lb ed="#Ba" n="19"/>compositio. Actus autem a philosophous distinguitur in ii. de anima, quod alius est sicut scientia, alius vero sicut consi- 
+        <lb ed="#Ba" n="20"/>derare. Quorum primus est actus vt habitus. Secundus vero est actus vt opari ex habitu. Primo enim modo 
+        <lb ed="#Ba" n="21"/>dicitur actus forma &amp; perfectio rei cuiusque. Secundo modo dicitur actus operatio ex ipsa egrediens: qui similiter du 
+        <lb ed="#Ba" n="22"/>plex est. Quidam enim dicitur actus primus: quidam vero dicitur actus secundus. Actus primus dicitur ille quem 
+        <lb ed="#Ba" n="23"/>forma &amp; perfectio rei opeatur in ipsa re per se. secundum quod actus lucis dicitur lucere: &amp; viuentis viuere: &amp; es- 
+        <lb ed="#Ba" n="24"/>sentiae esse: qui est actus absolutus non deteriatus ad aliud. Actus vero secundus dicitur opeatio quam opeatur 
+        <lb ed="#Ba" n="25"/>forma rei siue res per suam potentiam ad aliud determinata. Actus etiam primus quid est esse ab essentia 
+        <lb ed="#Ba" n="26"/>rei in ipsa re, similiter duplex est. secundum duplex esse quod habet res a sua forma &amp; essentia, quorum vnum 
+        <lb ed="#Ba" n="27"/>est esse essentiae: quo forma quaelibet vel essentia secundum se accepta tantum est id quod est in se: quod est quidi  
+        <lb ed="#Ba" n="28"/>tatiuum: siue esse essentiale essentiae rei vt essentia est: cui accidit omnis alia conditio essendi sequens, vt 
+        <lb ed="#Ba" n="29"/>dictum est supra. Aliud vero est esse actualis existentiae. &amp; hoc est duplex. Vnum in intellectu vt in cogno-  
+        <lb ed="#Ba" n="30"/>scente: quod est diminutum esse existentiae rei, vt patebit infra loquendo de veritate in deo. Aliud vero est in re 
+        <lb ed="#Ba" n="31"/>exterius: quod est verum esse rei pertinens ad aliquod. x. praedicamentorum: quo id quod in se est natura &amp; essen- 
+        <lb ed="#Ba" n="32"/>tia quaedam, ab alio sit in existentia. Et est in re primum esse, inquantum res a reor reris dicta, habet rationem for 
+        <lb ed="#Ba" n="33"/>malem exemplarem in diuina essentia. Secundum inquantum est obiectum in eius intelligentia. Tertium vero in  
+        <lb ed="#Ba" n="34"/>quantum est effectus quidam productus ab eius potentia. Actus vero secundus similiter duplex est. qui-  
+        <lb ed="#Ba" n="35"/>dam manens in ipso agente: vt sunt intelligere, velle: &amp; omnis actus quo aliquod mouetur ex se. Alius ve 
+        <lb ed="#Ba" n="36"/>ro est transiens in rem extra: qualis est omnis actio qua aliquod mouet &amp; transmutat aliud a se. secundum quod 
+        <lb ed="#Ba" n="37"/>amplius declaratum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e2008-d1e186">
+        ⁋ Potentia vero distinguitur prima diuisione in potentiam actiuam &amp; passi 
+        <lb ed="#Ba" n="38"/>uam. Secundum Philo. enim in. ix. Meta. Potentiae omnes dicuntur: aut quia agunt, aut quia patiuntur. Et secundum Comm, quod in  
+        <lb ed="#Ba" n="39"/>telligitur de hoc nomine potentia, primo fuit impositum intentioni ex qua possunt procedere actiones 
+        <lb ed="#Ba" n="40"/>validae: quae dicitur fortitudo siue potentia naturalis difficile patiendi: &amp; facile agendi: cuius con 
+        <lb ed="#Ba" n="41"/>trarium est in potentia quae vocatur debilitas. Nomine autem illius potentiae dignior est res illa quae non  
+        <lb ed="#Ba" n="42"/>patitur vllo modo: quam quae aliquo modo patitur. Vnde philosophus in. v. Metaphhice. loquens de tali potentia, dicit. Po- 
+        <lb ed="#Ba" n="43"/>tentia est qua res non patitur omnino, neque transmutatur. Dem enim quod destruitur aut corrumpitur aliqua corru- 
+        <lb ed="#Ba" n="44"/>ptione, accidit ei hoc quia non habet potentiam: aut quia diminuitur ab eo aliqua potentia. Et tamen 
+        <lb ed="#Ba" n="45"/>aliquo modo potentia dicitur, quod enim corrumpitur, vt dicitur in. v. Meta. aestimatur esse in potentia ad cortu- 
+        <lb ed="#Ba" n="46"/>ptionem. Non enim corrumperetur nisi haberet hanc potentiam. Deinde vero hoc nomen potentia translatum fuit 
+        <lb ed="#Ba" n="47"/>ad possibilitatem recipiendi. Potentia autem actiua duplex est. quaedam quae est principium opeationis rei in se 
+        <lb ed="#Ba" n="48"/>ipsa. secundum quod sciens et volens possibilis est considerare, nisi aliquid prohibeat extrinsecus. vt dicitur 
+        <lb ed="#Ba" n="49"/>in ii. de anima. Alia vero est principium transmutationis ad aliud. de quae dicit philosophus in v. &amp;. ix. Metaph. 
+        <lb ed="#Ba" n="50"/>quod potentia est principium transmutationis in aliud. secundum quod est aliud. Potentia vero passiua quae est 
+        <lb ed="#Ba" n="51"/>ad possibilitatem recipiendi, duplex est, vt dicit philosophus in. ii. de anima. Quaedam enim est ad corruptionem a contra 
+        <lb ed="#Ba" n="52"/>rio in priuatiuas dispositiones: sicut calidum est in potentia vt fiat frigidum: quae ex hoc quod est prin- 
+        <lb ed="#Ba" n="53"/>cipium corrumpendi, aliquam impotentiae rationem habet. Quaedam vero est ad rei perfectionem: quae tunc ve 
+        <lb ed="#Ba" n="54"/>rius dicitur habere rationem potentiae quando est ad melius, &amp; minus vere quando est ad peius. secundum quod de vtroque modo 
+        <lb ed="#Ba" n="55"/>simul dicit philosophus in. v. Metaph. Etur (inquit) potens quod habet potentiam qua transmutatur in aliquod aut in  
+   <!--354.xml-->
+        <pb ed="#Ba" n="170-r"/>
+        <lb ed="#Ba" n="1"/>peius aut in melius. Potentia vero qua habet aliquid transmutari in melius, duplex est. Vna. scilicet quae aliquid  
+        <lb ed="#Ba" n="2"/>est in potentia ad recipiendum secum aliud quo perficiatur. Alia vero quae aliquod est in potentia vt transmutetur in  
+        <lb ed="#Ba" n="3"/>esse perfectum &amp; completum. Et prima duplex est. Vna enim earum est potentia passiua ad ea quae sunt formae 
+        <lb ed="#Ba" n="4"/>&amp; res naturae. secundum quod de hoc modo &amp; de alio iam dicto dicit philosophus in ix. Meta. Materia est in potentia 
+        <lb ed="#Ba" n="5"/>vt veniat ad formam. Et similiter illa quae mouentur ad completionem. Alia vero est potentia passiua possibilis 
+        <lb ed="#Ba" n="6"/>ad receptionem eius quod est ad salutem secundum habitum &amp; naturam sine corruptione: vt est potentia sensus &amp; 
+        <lb ed="#Ba" n="7"/>intellectus. Cum igitur sic diuersis modis dicuntur potentia &amp; actus: sciendum quod loquendo de potentia actiuaquae 
+        <lb ed="#Ba" n="8"/>est principium transmutationis, &amp; actu secundo qui est opeatio egrediens ab ipsa in aliud extra, ex illis non praet 
+        <lb ed="#Ba" n="9"/>intelligi aliqua compositio in re est creata: quia actio inquantum egreditur a re nihil ponit in agente: sed solum in  
+        <lb ed="#Ba" n="10"/>passo. Motus enim in quo conveniunt actio &amp; passio ab agente: non in ipso est vt in subiecto: sed in passo 
+        <lb ed="#Ba" n="11"/>solummodo, vt habetur in. iii. Phiycae. Et sic in quocumque agente nulla est compositio ex tali actum &amp; potentia. Loquen  
+        <lb ed="#Ba" n="12"/>do vero de potentia actiua &amp; actu secundo qui egreditur ab ipsa: &amp; manet in agente tamquam accidens &amp; trans 
+        <lb ed="#Ba" n="13"/>mutatio existens in ipso, ex tali potentia &amp; actu est compositio in creaturis vt in intelligente inquantum est 
+        <lb ed="#Ba" n="14"/>intelligens: &amp; similiter in currente aut volente, &amp; caeteris huiusmodi agentibus. Tali enim actu perficitur potentia in ipso 
+        <lb ed="#Ba" n="15"/>agente. Sed talis compositio non potest intelligi in deo: quia potentia in ipso ab actu differt sola ratione: quorum 
+        <lb ed="#Ba" n="16"/>diuersitas nullam facit compositionem, vt infra videbitur. Actio enim dei non potest esse aliqua transmutatio aut  
+        <lb ed="#Ba" n="17"/>dispositio inhaerens in ipsco. vt infra patebit. Loquendo autem de potentia passiua illa quae est ad corruptionem, 
+        <lb ed="#Ba" n="18"/>ex illa nulla habet fieri compositio cum aliquo actu in re. Per actum enim ei correspondentem nihil componitur: 
+        <lb ed="#Ba" n="19"/>sed potius quod compositum est, corrumpitur &amp; destruitur. Loquendo autem de potentia passiua illa quae receptiua est 
+        <lb ed="#Ba" n="20"/>alicuius in re ad salutem &amp; perfectionem: intelligendum quod cum omnis potentia tanlmus est in aliquo &amp; respectu alicuius in 
+        <lb ed="#Ba" n="21"/>aliquo vt in iperfecto, &amp; respectu eius quo debet perfici, secundum quod in matia est potentia ad susceptionem forae intra 
+        <lb ed="#Ba" n="22"/>se: &amp; in fora est potentia vt informet materiam: &amp; sic in composito mutuo perficiuntur: Vnde anima sepeata a corpore 
+        <lb ed="#Ba" n="23"/>ipefecta est in suo esse: nec perficitur potentia eius &amp; appetitus nisi fuerit corpori vnita: De tali igitur potemn 
+        <lb ed="#Ba" n="24"/>tia &amp; actu intelligendum quod potest intelligi potentia componi vt cum actu cum eo in quo est: quod est subtractum 
+        <lb ed="#Ba" n="25"/>potentiae, vel cum eo ad quod est, quod superuenit ipsi potentiae: &amp; ei cui subtracta est. Primo modo est compositio 
+        <lb ed="#Ba" n="26"/>ex potentia &amp; actu in omni eo quod est in potentia ad aliud secum vniendum: &amp; sic in materia secundum se vt nu- 
+        <lb ed="#Ba" n="27"/>da considerata absque omni forma, consideratur compositio ex essentia materiae &amp; possibilitate eius ad  
+        <lb ed="#Ba" n="28"/>susceptionem formae. Similiter in quolibet susceptibili alicuius accntis vel accuntalis in se, intelligenda est 
+        <lb ed="#Ba" n="29"/>compositio aliqua ex eo quod est secundum se, &amp; potentia quae est susceptiuum alterius in se. Et similiter talis compositio est 
+        <lb ed="#Ba" n="30"/>in essentia cuiuslibet formae materialis: ex eo scilicet quod ipsa est in se: &amp; ex potentia quae est vnibilis alteri ad  
+        <lb ed="#Ba" n="31"/>eius informationem. Est est compoteo in essentia cuiuslibet creaturae: ex eo quod res est in se absolute considerata 
+        <lb ed="#Ba" n="32"/>dicta a ratitudine: &amp; potentia ad esse essentiae suae. Est est in essentia cuiuslibet creaturae ex eo quod est 
+        <lb ed="#Ba" n="33"/>secundum se &amp; absolute, &amp; potentia ad teriationem suam in supposito. Est etiam in ipso supposito quocumque 
+        <lb ed="#Ba" n="34"/>creaturae absolute considerato cum potentia ad esse existentiae. Est est in illis quae habent existentiam incompletam in  
+        <lb ed="#Ba" n="35"/>materia cum potentia ad esse completum acquirendum per agens educens id quod in potentia est ad actum. Est est in na 
+        <lb ed="#Ba" n="36"/>tura generis cum potentia quam habet ad differentias ad constitutionem speciei. Sed iste modus compotenis non 
+        <lb ed="#Ba" n="37"/>est vere compositio: quoniam vt infra videbitur, potentia non est nisi respectus fundatus in eo cuius est, in respectu 
+        <lb ed="#Ba" n="38"/>ad aliud. quid comparatus ad id super quod in illo fundatur, cadit in eius essentiam. Compatus vero ad aliud, habet 
+        <lb ed="#Ba" n="39"/>naturam respectus: qui non facit compotenem aliquam cum eo cuius est: vt simiter infra videbitur. Iste autem modus compotenis et 
+        <lb ed="#Ba" n="40"/>siteset vera compotes in creaturis, omnino in deo cadere non praet, quia in eo nulla est omnino potentia ad vnionem cum alto 
+        <lb ed="#Ba" n="41"/>vt ipse informet aliud: vel vt ab aliquo alio informetur: sicut habitum est supra. Intelligendo vero compotenen 
+        <lb ed="#Ba" n="42"/>ex potentia &amp; actu secundo mod scilicet cum eo ad quod est: sic sunt totidem modi compoteonis: quot iam praedicti: vt in  
+        <lb ed="#Ba" n="43"/>telligatur fieri compositio ex omni eo quod est in potentia ad aliud: cum eo quo perficitur illa potentia, cuiusmodi est compo 
+        <lb ed="#Ba" n="44"/>sitio ex materta &amp; forma. Potentia enim materiae qua materia est susceptiua formae, perficitur per formam: &amp; 
+        <lb ed="#Ba" n="45"/>potentia formae qua inclinatur ad materiam, perficitur per esse suum in materia. &amp; simiter est in compositione accntis cum 
+        <lb ed="#Ba" n="46"/>subiecto: &amp; rei cum esse essentiae, &amp; essentiae cum supposito: &amp; suppositi cum esse existentiae: et incompleti in esse 
+        <lb ed="#Ba" n="47"/>existentiae vel essentiae cum suo complemento. Materia enim est in potentia ad formam et econverso: et subie- 
+        <lb ed="#Ba" n="48"/>ctum ad accidens: et econverso: et res vt res est ad esse essentiae: et essentia ad suppositum: et suppositum ad  
+        <lb ed="#Ba" n="49"/>existentiam: et incompletum ad completum. Et sic patet quod compositio ex actu et potentia communissima est et 
+        <lb ed="#Ba" n="50"/>simplicissima: et in omni alio modo compotenis includitur, non econverso. Nec tamen potest inueniri in deo: quia in ipso non 
+        <lb ed="#Ba" n="51"/>potest inueniri aliquorum diuersitas re absoluta vel intentione, vt infra videbitur: quorum tamen alterum 
+        <lb ed="#Ba" n="52"/>necessarium est ad quamlibet praedictarum conpotonum: vt patet ex praedeteriatis, &amp; amplius declarabitur inferius. 
+        <lb ed="#Ba" n="53"/>Vnde etsi diuina essentia sit habilis vt concipiatur sub ratione sapientiae bonitatis &amp; huiusmodi, &amp; sic quodam 
+        <lb ed="#Ba" n="54"/>modo est in potentia ad illa: sola tamen ratione haec omnia abinuicem differunt: &amp; ab ipsa diuina essentia: quae nullam 
+        <lb ed="#Ba" n="55"/>faciunt compositionem: ita quod quocumque modo in deo consideretur potentia, illa ab actu ad quem est, sola ratione 
+   <!--355.xml-->
+        <pb ed="#Ba" n="170-v"/>
+        <lb ed="#Ba" n="1"/>differt. Et siter ab eo in quom est: &amp; sic nullius compositionis potest esse pars. Cum igitur omnis potentia quaecum 
+        <lb ed="#Ba" n="2"/>actu nata est facere aliquam compositionem differens est ab ipso: in deo autem omnino non distat potentia ab actu 
+        <lb ed="#Ba" n="3"/>neque differt: in deo ergo nulla potest esse omnino compositio ex potentia &amp; actu. Ex quo relinquitur quod sit 
+        <lb ed="#Ba" n="4"/>actus purus &amp; simplex, vt infra amplius videbitur. In quo aprtissime patet quaeliter deus omnis creaturae 
+        <lb ed="#Ba" n="5"/>simplicitatem quantuncumque simplex imaginetur, aut ponatur in esse, multum per omnem modum excedit. Licet 
+        <lb ed="#Ba" n="6"/>enim in simplicissimis creaturis: siqua tamen tales sint, quae secundum philosophum in viii. Metaphysicae. non habent materiam 
+        <lb ed="#Ba" n="7"/>neque sensibilem, neque intelligibilem: ita sit quod vnumquodque eorum statim est illud quod est per essentiam: eo quod secundum 
+        <lb ed="#Ba" n="8"/>Comm, non est aliquod additum: sed essentia est ipsum. Et secundum quod dicit Auic. v. Meta. quiditas omnis sim- 
+        <lb ed="#Ba" n="9"/>plicis est ipsum. nihil enim ibi est receptibile suae quiditatis: Nullum tamen eorum statim est id quod est per existentiam. li 
+        <lb ed="#Ba" n="10"/>cet enim essentia eorum per generationem non vadit de incompleto ad completum: quia non fiunt ex materia: nec ex 
+        <lb ed="#Ba" n="11"/>aliquo praeexistente in potentia: vadit tamen essentia eorum per creationem de non esse ad esse: ad quod ipsa rei 
+        <lb ed="#Ba" n="12"/>essentia inquantum est essentia, in potentia est: quia solus deus in se est necesse esse. Gem autem aliud quan- 
+        <lb ed="#Ba" n="13"/>tum est de se solum est possibile esse. Et ideo in quolibet tali necesse est concipere compositionem ex illo quid  
+        <lb ed="#Ba" n="14"/>est in se scilicet ex potentia qua est susceptiuum in se actus alicuius ab alio a se. Vnde dicit Auic. i. i. Meta. Ni 
+        <lb ed="#Ba" n="15"/>hil est quod omnino sit expoliatum ab eo quod est in potentia respectu suiipsius nisi necesse esse. Et li. viii. Cae 
+        <lb ed="#Ba" n="16"/>tera omnia extra necesse esse habent quiditates quae sunt per se possibiles: quibus non accidit esse nisi extrisecus. Et 
+        <lb ed="#Ba" n="17"/>Comm. dicit super. iii. de anima. Nulla forma est liberata a potentia simpliciter nisi prima forma. 
+      </p>
+      <p xml:id="vn58an-d1e2008-d1e392">
+        <lb ed="#Ba" n="18"/>⁋ Ad primum in oppositum: quod in deo est potentia quae perficitur per actum: Dicendum quod verum 
+        <lb ed="#Ba" n="19"/>est de actu quid est agere. Sed illa perfectio non ponit aliquod in deo agente: quia eius potentia agendi &amp; eius 
+        <lb ed="#Ba" n="20"/>actio vt in ipso sunt: eius substantia sunt. Et differunt sola ratione: quae in deo nullam ponit compositionem: vt 
+        <lb ed="#Ba" n="21"/>patebit loquendo de attributis. Nunc autem perfectio quam diuina actio ponit in aliud extra se: solum in deo 
+        <lb ed="#Ba" n="22"/>ponit perfectionem quae est respectus ad illud sine omni compotene. Et de tali actu procedit obiectio. Loquendo autem  
+        <lb ed="#Ba" n="23"/>de actu quid est vt habitus aliquis in natura &amp; substantia rei: vel vt actus distans a potentia: talis non est aliquis in 
+        <lb ed="#Ba" n="24"/>deo perficiens potentiam in ipso: quia poneret compotenem, vt patet ex praedictis. 
+      </p>
+      <p xml:id="vn58an-d1e2008-d1e410">
+        ⁋ Per idem patet ad secundum: quoniam  
+        <lb ed="#Ba" n="25"/>procedit de potentia ad agere: quae actum praecedit inquantum terminatur ad opeatum: non autem inquantum habet 
+        <lb ed="#Ba" n="26"/>esse in opeante: in quo sola ratione differunt: propter quod nullam omnino compotenem ponunt in deo, vt dictum est. 
+        <lb ed="#Ba" n="27"/>
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

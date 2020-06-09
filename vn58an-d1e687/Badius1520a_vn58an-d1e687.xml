@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="58-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e687"> <!-- alias="vn58an-a7q8" -->
+      <head xml:id="vn58an-d1e687-Hd1e104">Quaestio 8</head>
+      <head xml:id="vn58an-d1e687-Hd1e107" type="question-title">Utrum omnes aliae ordinentur ad eam</head>
+      <p xml:id="vn58an-d1e687-d1e110">
+        <lb ed="#Ba" n="9"/>CIrca octauum arguitur, quod non ordinantur omnes aliae scientiae ad istam. Primo sic. 
+        <lb ed="#Ba" n="10"/>lud quod in seipso finem suum consequitur, ad aliud non ordinatur: quia adepto 
+        <lb ed="#Ba" n="11"/>ine quiescit vnumquodque. scientiae philosophicae in seipsis finem suum consequum 
+        <lb ed="#Ba" n="12"/>tur, scilicet cognitionem veritatis: quae naturali ratione ex creaturis potest acqui- 
+        <lb ed="#Ba" n="13"/>ri. Vnde <name ref="#Aristotle">Philosophus</name> posuit in ea humanam beatitudinem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e687-d1e127">
+        ⁋ Secundo  
+        <lb ed="#Ba" n="14"/>a sic. ad istam scientiam non ordinatur quod fidem euacuat, sed solum id quod eam cor 
+        <lb ed="#Ba" n="15"/>roborat. secundum <ref xml:id="vn58an-d1e687-Rd1e133">
+        <name ref="#Augustine">Augustinus</name> xiiii. de trinitate</ref>. in principio. Sed aliae scientiae in eis quae docent fidem eua- 
+        <lb ed="#Ba" n="16"/>cuant: quia scientia habet claram notitiam in qua non est fidei obscuritas. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e687-d1e143">
+        ⁋ Contra. in eis 
+        <lb ed="#Ba" n="17"/>quae ordinantur ad eundem finem: illa quae imperfecte consequuntur finem ordinantur ad illud quod 
+        <lb ed="#Ba" n="18"/>perfecte ipsum consequitur. vt vult <name ref="#Aristotle">Philosophus</name> in principio Ethicorum scientiae omnes finem habent dei 
+        <lb ed="#Ba" n="19"/>cognitionem. Hic enim est finis philosophiae secundum Auicen. primo metaphysicae, quem omnes aliae scientiae imper 
+        <lb ed="#Ba" n="20"/>fecte consequuntur: quia per creaturam solum, quae vt dicit Hug. in prolog. super cael. Hier. creato- 
+        <lb ed="#Ba" n="21"/>rem suum demonstrat. Sed est similitudo peregrina ad excellentem maiestatem. Ista autem scien- 
+        <lb ed="#Ba" n="22"/>tia eum perfecte consequitur: quantum vita praesens patitur: quia de ipsa dicitur Ecclesiastici. vi. 
+        <lb ed="#Ba" n="23"/>Cui cognita est: permanet vsque ad conspectum dei. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e687-d1e164">
+        <lb ed="#Ba" n="24"/>⁋ Dicendum ad hoc, quod ordo doctrinae ad doctrinam dupliciter attenditur: &amp; ex par 
+        <lb ed="#Ba" n="25"/>te nostra: &amp; ex parte rei. Ex parte nostra, doctrina illa ordinatur ad aliam: a qua nobis est facilior via de 
+        <lb ed="#Ba" n="26"/>ueniendi in notitiam alterius. Ex parte vero rei illa ordinatur ad aliam: quae attingit imperfecte quod altera con- 
+        <lb ed="#Ba" n="27"/>sequitur perfecte. &amp; vtroque modo omnis alia scientia ordinatur ad istam. Primo igitur ex parte nostra omnis alia 
+        <lb ed="#Ba" n="28"/>scientia ordinatur ad istam: quia per illas est nobis facilior via disciplinae deueniendi in cognitionem 
+        <lb ed="#Ba" n="29"/>istius. Ordo enim disciplinae nostrae requirit vt ab imperfecto ad perfectius: &amp; a nobis magis noto 
+        <lb ed="#Ba" n="30"/>ad minus notum ascendamus: &amp; ideo cum intentione vltima in scientia philosophica est cognitio dei 
+        <lb ed="#Ba" n="31"/>altissimi: &amp; cognitio angelicorum spirituum &amp; ordinum suorum. vt dicit Auicen. primo metaphy 
+        <lb ed="#Ba" n="32"/>sicae. &amp; in eodem consistit tota intentio theologica. sicut patet. Omnes autem aliae scientiae docent 
+        <lb ed="#Ba" n="33"/>nos deuenire in cognitionem dei: &amp; rerum spiritualium diuinarum imperfectam, scilicet quo ad  
+        <lb ed="#Ba" n="34"/>communia scibilia de ipsis: quae facultatem humanae rationis non excedunt: &amp; illa docent per nobis 
+        <lb ed="#Ba" n="35"/>magis nota, vt per creaturas, in quibus elucescunt sicut causae in effectu. Ilsta vero scientia docet 
+        <lb ed="#Ba" n="36"/>de eisdem propria scibilia pertinentia: quae sibi soli naturaliter de se sunt cognita: quae facultatem 
+        <lb ed="#Ba" n="37"/>naturalis rationis excedunt: &amp; docet illa modo nobis minime noto cognoscere, scilicet via fidei. Id- 
+        <lb ed="#Ba" n="38"/>circo omnes aliae scientiae quantum est ex parte nostra ad istam ordinantur. Vnde &amp; Philosophi scien 
+        <lb ed="#Ba" n="39"/>tiam illam in qua ponebant dei cognitionem &amp; inuisibilium, vltimam ordinabant adipiscendam: &amp; 
+        <lb ed="#Ba" n="40"/>ad illam omnem aliam dirigebant. Et ideo de illa scientia vltima dicit Auicen. quod ipsa est excellen- 
+        <lb ed="#Ba" n="41"/>tior super omnes scientias, quantum vero ad nos posterioratur post omnes scientias: quia propter 
+        <lb ed="#Ba" n="42"/>debilitatem animarum nostrarum non possumus procedere per viam quae est progressus ex prin- 
+        <lb ed="#Ba" n="43"/>cipiis ad sequentia: &amp; ex causa ad causatum. Vnde de ordine huius scientiae ad alias dicit Hugus in  
+        <lb ed="#Ba" n="44"/>prolog. cael. Hierar. Philosophia tres partes continet, Logicam,. Ethicam, Theoricam. Theoricae autem 
+        <lb ed="#Ba" n="45"/>sunt tres partes, Mathematica, Physica, Theologia, quarum mathematica speculatur visibilium 
+        <lb ed="#Ba" n="46"/>rerum visibiles formas. Physica vero visibilium rerum inuisibiles causas. Theologia vero inui- 
+        <lb ed="#Ba" n="47"/>sibiles substantias: &amp; inuisibilium substantiarum inuisibiles naturas. Et est in his quasi progressic 
+        <lb ed="#Ba" n="48"/>quaedam &amp; profectus mentis ad cognoscendum verum. Per visibiles enim visibilium formas per- 
+        <lb ed="#Ba" n="49"/>uenitur ad inuisibiles visibilium causas: &amp; per inuisibiles visibilium causas ascenditur ad inuisibi- 
+        <lb ed="#Ba" n="50"/>les substantias: &amp; earum cognoscendas naturas. haec autem philosophiae summa est: &amp; veritatis 
+        <lb ed="#Ba" n="51"/>perfectio: qua nihil altius esse potest animo contemplanti. Secundo vero ex parte rei omnis alia scien 
+        <lb ed="#Ba" n="52"/>tia ad istam ordinatur: sicut non principales ad principalem. Sed alia ratione practicae, alia vero specula- 
+        <lb ed="#Ba" n="53"/>tiuae: inquantum vt dictum est supra, alia ratione est principalis ad practicas: alia vero ad speculatiuas 
+        <lb ed="#Ba" n="54"/>Practicae quidem omnes ordinantur ad istam ex eo quod principalis est ad illas: quia scilicet considerat  
+   <!--131.xml-->
+        <pb ed="#Ba" n="58-v"/>
+        <lb ed="#Ba" n="1"/>&amp; intendit finem vltimum ad quem realiter ordinantur proprii fines omnium scientiarum pra- 
+        <lb ed="#Ba" n="2"/>cticarum: qui sunt imperfecti in se, &amp; non perficiuntur nisi reductione ad finem vltimum. In pra- 
+        <lb ed="#Ba" n="3"/>cticis autem scientiis est ordo secundum ordinem finium, vt sicut scientia est sub scientia: cuius si 
+        <lb ed="#Ba" n="4"/>nis est sub fine alterius, sic illa scientia ordinatur ad aliam cuius finis ordinatur ad finem alterius. 
+        <lb ed="#Ba" n="5"/>Cum igitur fines omnium scientiarum practicarum ordinentur in finem huius scientiae, in quo per- 
+        <lb ed="#Ba" n="6"/>ficiuntur cum in se sint imperfecti: necessario etiam omnes practicae scientiae ordinantur ad istam- 
+        <lb ed="#Ba" n="7"/>vt in qua perficiuntur: quia finem vltimum per ipsam perfecte consequuntur, in praesenti per gratiam 
+        <lb ed="#Ba" n="8"/>in futuro per gloriam: cum in se sint imperfectae: quia imperfectae per proprios fines illum finem vl 
+        <lb ed="#Ba" n="9"/>timum assequuntur. Propter quod Salomon postquam petiuit a domino assistricem sapientiam ad intellectum 
+        <lb ed="#Ba" n="10"/>iudicii &amp; legum: &amp; considerasset insufficientiam &amp; imperfectionem in omnibus aliis scientiis re- 
+        <lb ed="#Ba" n="11"/>spectu istius, dixit. Si quis erit consummatus inter filios hominum, si ab illo fugerit sapientia tua in  
+        <lb ed="#Ba" n="12"/>nihilum computabitur. vt dicitur Sapientiae. ix. Reuera in nihilum computandus est homo sciens 
+        <lb ed="#Ba" n="13"/>omnem aliam scientiam, istam vero ignorans. Propter quod dicitur in eodem. xiii. Vani sunt omnes ho-  
+        <lb ed="#Ba" n="14"/>mines quibus non subest scientia dei. &amp; Prouerb. xix. Vbi non est scientia dei non est bonum. Pro- 
+        <lb ed="#Ba" n="15"/>pter quod dicit Augustinus. v. confes. Infelix enim homo ille qui scit omnia illa: te autem nescit. Bea- 
+        <lb ed="#Ba" n="16"/>tus autem qui te scit etiam si illa nescit. Qui vero te &amp; illa nouit: non propter illa beatior: sed pro 
+        <lb ed="#Ba" n="17"/>pter te solum beatus. Similiter scientiae speculatiuae ordinantur ad istam eo quod principalis est ad illas: quia. scilicet con 
+        <lb ed="#Ba" n="18"/>siderat prima principia altissima, sub quibus omnia alia continentur quae considerantur in aliis scien- 
+        <lb ed="#Ba" n="19"/>tiis: quae perfectam notitiam non habent in sua veritate: nisi inquantum ordinantur in principia 
+        <lb ed="#Ba" n="20"/>prima simpliciter. Conclusiones enim scientiae in fine non cognoscuntur perfecte per principia illius scien- 
+        <lb ed="#Ba" n="21"/>tiae: non enim illa principia perfecte cognoscuntur nisi reducantur in principia superioris scientiae: &amp; 
+        <lb ed="#Ba" n="22"/>sic per ordinem vsque ad principia prima primae scientiae &amp; supremae. Propter quod dicit Auer. super vii. 
+        <lb ed="#Ba" n="23"/>Metaphysicae, quod impossibile est cognoscere quiditatem scientiae sensibilis si non cognoscatur causa 
+        <lb ed="#Ba" n="24"/>prima omnium. Nunc autem ita est in scientiis speculatiuis: quod ordo est in ipsis scientiis secundum 
+        <lb ed="#Ba" n="25"/>ordinem principiorum, vt sicut principia sunt sub principiis: &amp; scientia sub scientia. vt sic illa scien- 
+        <lb ed="#Ba" n="26"/>tia ordinetur ad aliam: cuius principia ordinantur ad principia alterius. Cum igitur principia 
+        <lb ed="#Ba" n="27"/>omnium scientiarum speculatiuarum ordinantur ad principia huius scientiae: quia sunt prima &amp; al 
+        <lb ed="#Ba" n="28"/>tissima, vt habitum est supra: in quibus persiciuntur in veritate &amp; cognitione, necessario etiam omnes 
+        <lb ed="#Ba" n="29"/>scientiae speculatiuae ordinantur ad istam, vt in qua omnes perfectionem notitiae veritatis consequumn 
+        <lb ed="#Ba" n="30"/>tur. &amp; ideo dictum est supra: quod huius scientiae est omnes alias iudicare approbando bene dicta: &amp; 
+        <lb ed="#Ba" n="31"/>reprobando errata. 
+   
+      </p>
+      <p xml:id="vn58an-d1e687-d1e305">
+        <lb ed="#Ba" n="32"/>⁋ Ad primum in oppositum, quod aliae scientiae in se finem habent suum: Dicendum quod  
+        <lb ed="#Ba" n="33"/>verum est: ad quem naturalis intellectus per se potest attingere. Secundum quod dicit Glos. super il- 
+        <lb ed="#Ba" n="34"/>lud Ro id est Inuisibilia dei. Quantum tamen ad finem cognitionis: quem intellectus humanus dono alterius ad-  
+        <lb ed="#Ba" n="35"/>iutus potest suscipere: non habent aliae scientiae in se finem suum. Quare cum omnis scientia ordina 
+        <lb ed="#Ba" n="36"/>tur ad perfectionem vltimam intellectus: &amp; illa quantum est possibile homini in vita ista est ex hac 
+        <lb ed="#Ba" n="37"/>scientia: ideo omnes manuducendo ordinantur ad istam. 
+      </p>
+      <p xml:id="vn58an-d1e687-d1e321">
+        ⁋ Ad secundum quod aliae scientiae fidem eua 
+        <lb ed="#Ba" n="38"/>cuant: Dicendum quod non est verum in eis quae sunt per se credibilia: quoniam aliae scientiae nullo mo 
+        <lb ed="#Ba" n="39"/>do ea intelligere faciunt. In eis autem quae non sunt per se &amp; pura credibilia, si aliqua sunt scibilia ex 
+        <lb ed="#Ba" n="40"/>scientiis philosophicis: &amp; cum hoc alias credibilia: non tamen scientiae philosophicae tam clara notitia 
+        <lb ed="#Ba" n="41"/>faciunt ipsa scire: quin quo ad hoc quod expectantur sciri clariori notitia, adhuc maneant credibilia. 
+        <lb ed="#Ba" n="42"/>Vnde &amp; sic euacuare fidem vt perficiatur quantum possibile est in vita ista per intellectum, summe 
+        <lb ed="#Ba" n="43"/>vtile est. euacuare autem fidem vt contraria fidei sentiamus, illud omnino perniciosum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

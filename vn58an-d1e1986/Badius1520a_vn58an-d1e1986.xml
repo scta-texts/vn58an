@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="167-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1986"> <!-- alias="vn58an-a28q4" -->
+      <head xml:id="vn58an-d1e1986-Hd1e104">Quaestio 4</head>
+      <head xml:id="vn58an-d1e1986-Hd1e107" type="question-title">Utrum sit in Deo compositio ex natura et supposito</head>
+      <p xml:id="vn58an-d1e1986-d1e110">
+        <lb ed="#Ba" n="29"/>CIrca quartum arguitur quod in deo sit compositio ex essentia &amp; esse, primo sic 
+        <lb ed="#Ba" n="30"/>Quaecunque intellectus abinuicem potest seorsum diuidere, inter se sunt compo- 
+        <lb ed="#Ba" n="31"/>sita, quia non est diuisio nisi compositorum. Intellectus potest diuidere in deo essen 
+        <lb ed="#Ba" n="32"/>tiam ab esse, quia intellectus componit vnum alteri in propositione affirmatiua 
+        <lb ed="#Ba" n="33"/>dicendo deum esse, &amp; non componit nisi quae prius diuisa intellexit. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1986-d1e123">
+        <lb ed="#Ba" n="34"/>⁋ Secundo sic. quaelibet diuersa in eodem aliquam faciunt compositionem, essentia &amp; 
+        <lb ed="#Ba" n="35"/>esse in deo habent diuersitatem aliquam. Aliter enim de ipso diuersimode concipere 
+        <lb ed="#Ba" n="36"/>non possemus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1986-d1e133">
+        ⁋ Contra est, quod essentia dei non est nisi ipsum esse eius. idem sibiipsi compo- 
+        <lb ed="#Ba" n="37"/>sitionem habere non potest. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1986-d1e138">
+        <lb ed="#Ba" n="38"/>⁋ Dicendum ad hoc: quod secundum superius determinata esse rei duplex est: quoddam complexum 
+        <lb ed="#Ba" n="39"/>quod consistit in compositione &amp; diuisione animae, quoddam vero incomplexum. &amp; hoc est duplex: quoddam quid di-  
+        <lb ed="#Ba" n="40"/>citur esse essentiae, quoddam vero quid dicitur actualis existentiae. De esse quidem complexo nihil ad propositam quae  
+        <lb ed="#Ba" n="41"/>stionem, quia tale esse non est in ipsis rebus, sed tantum in compositione animae. vnde &amp; secundum Philo. vi. Meta. appel 
+        <lb ed="#Ba" n="42"/>lari potest diminuta rei entitas. Solum ergo de esse incomplexo quod consistit in ipsa re, habet dubitationem pro  
+        <lb ed="#Ba" n="43"/>posita quaestio: quod non diuersificatur aliquo modo in deo penes esse essentiae &amp; existentiae, quia ipsa in deo sola 
+        <lb ed="#Ba" n="44"/>ratione, non re nec intentione differunt inter se, sicut nec ab ipsa diuina essentia, quae multo maiorem habent 
+        <lb ed="#Ba" n="45"/>differentiam in creaturis. vt expositum est supra in quaestionibus de esse dei, &amp; in quadam quaestione de quolibet 
+        <lb ed="#Ba" n="46"/>circa esse creaturae. Vnde quia vt ibi declaratum est res quaecumque ex eo quod res est a reor reris dicta, indifferens 
+        <lb ed="#Ba" n="47"/>est ad esse per essentiam &amp; non esse per essentiam, &amp; solum participat esse a quo dicitur ens per essentiam, ex eo quod est exem 
+        <lb ed="#Ba" n="48"/>platum quoddam diuini esse. dicente Dio. de di. no. c. v. vel. ii. Nihil est ens cuius non sit essentia, &amp; secundum ipsum  
+        <lb ed="#Ba" n="49"/>per se esse. secundum ipsum id est secundum rationem diuini exemplaris, vt consequenter exponit. Et ex hoc quod sic habet esse ens 
+        <lb ed="#Ba" n="50"/>per essentiam dicitur res a ratitudine. lpsa etiam essentia vt est essentia &amp; natura aliqua exemplata a ratione diuini exem 
+        <lb ed="#Ba" n="51"/>plaris, indifferens est quantum est de se vt absolute consideratur, ad esse actualis existentiae &amp; non esse, &amp; solum 
+        <lb ed="#Ba" n="52"/>participat esse actualis existentiae ex eo quod est effectus quidam diuinae potentiae. Superessentialis enim diui- 
+        <lb ed="#Ba" n="53"/>nitas eorum quae sunt essentias esse substituens adduxit. vt dicit Dio. iiii. c. cae. Hier. &amp;. c. xiii. dicit. Principium 
+        <lb ed="#Ba" n="54"/>excelsum est &amp; essentia &amp; creator &amp; causalis, primasque essentias ad esse adducens. &amp; de di. no. c. v. Praeexti 
+   <!--350.xml-->
+        <pb ed="#Ba" n="168-r"/>
+        <lb ed="#Ba" n="1"/>tisse omnium existentium paradigmata secundum vnam supressentialem vnitatem, concedendum: dein &amp; essentias 
+        <lb ed="#Ba" n="2"/>adduxit. Idcirco ergo in qualibet creatura alia est ratio &amp; intentio seorsum qua est res a reor reris:  
+        <lb ed="#Ba" n="3"/>alia qua est essentia: alia qua est existentia quaedam. omne autem quod ex se dicit indeterminatum quid re 
+        <lb ed="#Ba" n="4"/>ceptibile determinationis extra suam intentionem, compositionem facit cum illo in eodem, vt dictum est supra. 
+        <lb ed="#Ba" n="5"/>Oportet igitur in qualibet creatura inquantum creatura est, ponere ex tribus intentionibus duplicem con- 
+        <lb ed="#Ba" n="6"/>positionem, vnam quae prima omnium est scilicet ex eo quod res est secundum se a reor reris dicta, &amp; esse essentiae 
+        <lb ed="#Ba" n="7"/>eius: &amp; aliam vlteriorem ex eo quod est essentia quaedam: &amp; esse existentiae suae in effectu. Et sunt istae com 
+        <lb ed="#Ba" n="8"/>positiones ex differentibus secundum intentionem &amp; conceptum mentis: licet non ex differentibus re, vt habitum 
+        <lb ed="#Ba" n="9"/>est ex praedeterminatis. Quia igitur vt habitum est similiter ex supradeterminatis: ista in deo penitus idem 
+        <lb ed="#Ba" n="10"/>sunt re &amp; intentione: licet non ratione scilicet quod ipse est in se: &amp; secundum esse essentiae &amp; existentiae eius: propter 
+        <lb ed="#Ba" n="11"/>ea oportet absolute dicere quod in deo nulla cadit omnino compositio ex eo quod est res aliqua absolute 
+        <lb ed="#Ba" n="12"/>&amp; ex eius esse vel essentiae vel existentiae: quia diuina res ex eo quod res est: essentia &amp; natura quaedam  
+        <lb ed="#Ba" n="13"/>est: immo ipsum esse in existentia: immo ipsum necesse esse: &amp; ita non solum esse per essentiam: sed &amp; per existen 
+        <lb ed="#Ba" n="14"/>tiam: &amp; econverso ipsum esse simplicissimum est ipsa diuina res &amp; essentia absque omni determinatione ad  
+        <lb ed="#Ba" n="15"/>ueniente, vt nulla compositio per intellectum possit concipi inter ista. Etem si ratione differant, illa diuer 
+        <lb ed="#Ba" n="16"/>sitas est sine omni compositione: quia fundatur supra respectus, vt patebit loquendo de diuersitate diuino 
+        <lb ed="#Ba" n="17"/>rum attributorum. 
+      </p>
+      <p xml:id="vn58an-d1e1986-d1e218">
+        <lb ed="#Ba" n="18"/>⁋ Ad primum in oppositum quod essentia dei &amp; esse eius abinuicem diuidi possunt per intel- 
+        <lb ed="#Ba" n="19"/>lectum: Dicendum quod intellectus noster non separat indiuisa nisi secundum diuersos modos intelligendi. 
+        <lb ed="#Ba" n="20"/>Sed hoc potest intelligi dupliciter. vno modo vt illa diuersitas ortum habeat solum ex parte intelle- 
+        <lb ed="#Ba" n="21"/>ctus &amp; concipientis: ita quod diuersitas illa non assignatur esse ex natura rei &amp; in re ipsa absolute: sed so 
+        <lb ed="#Ba" n="22"/>lum in relatione ad ipsum intellectum concipientem: aut cum hoc ad aliquid aliud. Alio modo vt or 
+        <lb ed="#Ba" n="23"/>tum habeat quodammodo ex parte ipsius rei intellectae &amp; conceptae. Primo modo intellectus rationalis vel in  
+        <lb ed="#Ba" n="24"/>tellectualis distinguit &amp; diuidit in deo diuersitatem attributorum: &amp; quaecumque distinguuntur in deo pertinen- 
+        <lb ed="#Ba" n="25"/>tia ad communem essentiam. Vnde quia intellectus ipse cum respectu quem concipit circa rem est 
+        <lb ed="#Ba" n="26"/>tota causa &amp; ratio diuersificandi huiusmodi conceptus in eis quae sunt omnino indiuisa, vt infra videbitur: ideo ta 
+        <lb ed="#Ba" n="27"/>lis diuersitas dicitur diuersitas secundum rationem tantum. Secundo autem modo distinguit intellectus suo con 
+        <lb ed="#Ba" n="28"/>ceptu diuersitatem eorum quae sunt indiuisa in re composita ex eis, sed inter se diuisa: &amp; hoc vel in na- 
+        <lb ed="#Ba" n="29"/>tura &amp; essentia: vt contingit in diuersitate materiae &amp; formae in composito ex vtroque: &amp; ideo talis diuer- 
+        <lb ed="#Ba" n="30"/>sitas dicitur esse secundum rem &amp; naturam: vel sunt indiuisa re &amp; natura, sed non intentione, vt contingit in di 
+        <lb ed="#Ba" n="31"/>uersitate generis &amp; differentiae in specie, &amp; essentiae a supposito, &amp; essentiae ab esse. dico actualis existen- 
+        <lb ed="#Ba" n="32"/>tiae: quia cum ipsa facit compositionem in creatura: non autem ab esse essentiae: quia illud est pro- 
+        <lb ed="#Ba" n="33"/>prius actus eius essentialis: sicut viuere est actus vitae in viuente. Vnde in creatura ex essentia &amp; es 
+        <lb ed="#Ba" n="34"/>se essentiali non est aliqua compositio: sicut neque in viuente ex viuere &amp; vita. Et ideo talis diuersi- 
+        <lb ed="#Ba" n="35"/>tas dicitur esse non secundum rationem tantum: neque secundum rem &amp; naturam: sed secundum intentiones diuersas cir 
+        <lb ed="#Ba" n="36"/>ca eandem rem simplicem consideratas, quarum vna seorsum accipitur ab alia nec eam includit in se: &amp; ideo quae 
+        <lb ed="#Ba" n="37"/>si accidentaliter ei aduenit. verbi gratia, secundum quod dicit Auicen. v. metaphysi. equinitas quod est natura 
+        <lb ed="#Ba" n="38"/>equi vt res quaedam est non est nisi equinitas tantum. In cuius definitione non continetur vniversalitas nec particu 
+        <lb ed="#Ba" n="39"/>laritas: nec vnitas nec multitudo: nec esse in singularibus: nec esse in anima: nec esse in potentia: nec esse 
+        <lb ed="#Ba" n="40"/>in actu: sed id cui accidunt omnia haec. ex se enim non est vniversale neque particulare nec vnum nec multa nec ens 
+        <lb ed="#Ba" n="41"/>in singularibus nec ens in anima: ita. scilicet vt haec contineantur intra intentionem equinitatis. Vnitas autem est, proprie 
+        <lb ed="#Ba" n="42"/>tas quae cum adiugitur equinitati sit equinitas per ipsam vnum: &amp; ex hoc quod in eius definitione conveniunt mul- 
+        <lb ed="#Ba" n="43"/>ta est communis: &amp; ex hoc quod accipitur cum proprietatibus &amp; accidentibus singularitatis est singula- 
+        <lb ed="#Ba" n="44"/>ris. Consimiliter habet multas alias proprietates accidentes sibi. Et per hunc modum posuit Auicen. esse ac- 
+        <lb ed="#Ba" n="45"/>cidere rei enti: non quod sit res aliqua absoluta rei adueniens: sicut est dispositio in albo &amp; nigro, vt im 
+        <lb ed="#Ba" n="46"/>posuit ei Commen. in 4. metaphysicae. equinitas enim vt est equnitas non est aliquid aliorum: quia quodlibet aliorum appro 
+        <lb ed="#Ba" n="47"/>priat &amp; determinat equinitatem: &amp; cum fuerit intellectum cum ea: tunc erit in hoc composito ex am- 
+        <lb ed="#Ba" n="48"/>bobus quasi pars. potest enim considerari secundum se quamuis sit cum alio a se, &amp; impossibile sit ipsum es 
+        <lb ed="#Ba" n="49"/>se nisi cum altero. 
+      </p>
+      <p xml:id="vn58an-d1e1986-d1e290">
+        ⁋ Dicendum ergo ad propositum: quod quando intellectus componit in propositione il- 
+        <lb ed="#Ba" n="50"/>la quae prius concipit diuisa, diuisione ortum accipiente ex diuersitate rei vel diuersitate intentionum 
+        <lb ed="#Ba" n="51"/>fundatarum in re, illa diuisa compositionem aliquam ponunt in re. Et sic quia extra intentionem essentiae 
+        <lb ed="#Ba" n="52"/>rei creatae est suum esse actuale, licet nihil rei absolutae addat essentiae, vt habitum est supra: Ideo contigit quod 
+        <lb ed="#Ba" n="53"/>in omni creatura sit compositio ex essentia &amp; esse, vt sit esse intentio alia extra intentionem essen- 
+        <lb ed="#Ba" n="54"/>tiae: &amp; quasi accidentalis ei: secundum modum supratactum. Et accipio hic in hac quaestione essentiam 
+        <lb ed="#Ba" n="55"/>large pro eo quod quid est: &amp; re cuius est: de quibus proponitur quaestio sequens. Quando vero intellectus componit in 
+   <!--351.xml-->
+        <pb ed="#Ba" n="168-v"/>
+        <lb ed="#Ba" n="1"/>propositione illa quae concipit diuisa diuisione ortum accipiente ex parte intellectus solum, illa nullam 
+        <lb ed="#Ba" n="2"/>compositionem ponunt in re, sicut sunt attributa diuersa in deo, vt infra patebit. Et sic quia extra inten- 
+        <lb ed="#Ba" n="3"/>tionem essentiae dei non est suum esse actuale: quia ipsa est ipsum necesse esse, vt habitum est supra: ideo 
+        <lb ed="#Ba" n="4"/>in deo ista nullam faciunt compositionem. Propter quod dicit <name ref="#Boethius">Boethius</name>  de hebd. Quod est, habere potest aliquid  
+        <lb ed="#Ba" n="5"/>praeter id quid est, esse vero nihil habet admixtum. 
+      </p>
+      <p xml:id="vn58an-d1e1986-d1e324">
+        ⁋ Per idem patet ad secundum: quoniam diuersa sola ratio 
+        <lb ed="#Ba" n="6"/>ne simul sunt sine omni compositione vt dictum est, &amp; amplius dicetur infra: non autem diuersa re vel 
+        <lb ed="#Ba" n="7"/>intentione, vt dictum est, &amp; similiter infra dicetur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

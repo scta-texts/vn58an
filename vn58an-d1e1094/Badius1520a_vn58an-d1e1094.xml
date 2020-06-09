@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 8</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 8</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="89-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1094"> <!-- alias="vn58an-a12q8" -->
+      <head xml:id="vn58an-d1e1094-Hd1e104">Quaestio 8</head>
+      <head xml:id="vn58an-d1e1094-Hd1e107" type="question-title">Utrum quilibet fidelis sit ad audiendum eam admittendus</head>
+      <p xml:id="vn58an-d1e1094-d1e110">
+        <lb ed="#Ba" n="35"/>CIrca. viii. arguitur quod quilibet fidelis ad auditum omnium quae sunt huius scien 
+        <lb ed="#Ba" n="36"/>tia: indifferenter est admittendus. Primo sic. Matthae. v. dicitur. Nemo accendit 
+        <lb ed="#Ba" n="37"/>lucernam &amp; ponit eam sub modio: sed super candelabrum, vt luceat: omnibus qui  
+        <lb ed="#Ba" n="38"/>in domo sunt. Glos. in ecclesia vel in mundo. Lucerna secundum Glos. sacra est do 
+        <lb ed="#Ba" n="39"/>ctrina: quae in quolibet dicto suo lucerna est. iuxta illud Psal. Lucerna pedibus m. 
+        <lb ed="#Ba" n="40"/>ver. tuum. Non autem posset omnibus lucere quae in domo sunt id est in fide ecclesiae:  
+        <lb ed="#Ba" n="41"/>nisi omnes indifferenter ad auditum eius admitterentur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1094-d1e128">
+        ⁋ Secundo sic. 
+        <lb ed="#Ba" n="42"/>quilibet tenetur scire quae debet obseruare: sed quaecunque dicta sacrae scripturae: tam in credendis quam  
+        <lb ed="#Ba" n="43"/>in agendis quilibet fidelis debet obseruare: secundum illud Matth. v. Qui soluerit vnum de man 
+        <lb ed="#Ba" n="44"/>datis istis minimis: minimus vocabitur in regno caelorum. Glos. vel non agendo vel non credendo  
+        <lb ed="#Ba" n="45"/>ergo quilibet tenetur illa scire: sed non posset ea scire, nisi audiendo. Ro. viii. Quomodo credent si non  
+        <lb ed="#Ba" n="46"/>audiant: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1094-d1e142">
+        ⁋ In oppositum videtur esse illud. i. Corinth. ii. Non iudicaui me scire aliquid in  
+        <lb ed="#Ba" n="47"/>ter vos: nisi lesum Christum: &amp; hunc crucifixum. sapientiam autem loquimur inter perfectos. &amp; sequi- 
+        <lb ed="#Ba" n="48"/>tur ca. iii. Ego autem fratres non potui vobis loqui quasi spiritualibus, sed quasi carnalibus. hoc autem 
+        <lb ed="#Ba" n="49"/>vt videtur non fecit nisi quia sciuit aliqua quae decet docere illos &amp; non istos. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1094-d1e151">
+        <lb ed="#Ba" n="50"/>⁋ Dicendum ad hoc, quod quaestio ista eadem est cum illa quam mouet <name ref="#Augustine">Augustinus</name> super Ioan. 
+        <lb ed="#Ba" n="51"/>parte. ii. ser. xx. exponendo illud Ioan. xvii. Adhuc multa habeo vobis dicere quae non potestis portare 
+        <lb ed="#Ba" n="52"/>modo. Est autem quaestio illa: Vtrum spirituales homines habeant aliquid in doctrina quod carnalibus 
+        <lb ed="#Ba" n="53"/>taceant: &amp; spiritualibus dicant: &amp; persuadet ad partem negatiuam: quia vt dicit: si diceremus eos aliqua  
+        <lb ed="#Ba" n="54"/>talia habere: cauendum &amp; timendum est ne sub hac occasione in occultis nesaria doceantur spiritualium 
+   <!--194.xml-->
+        <pb ed="#Ba" n="90-r"/>
+        <lb ed="#Ba" n="1"/>nomine: velut ea quae carnales capere non possunt. Persuadet autem in oppositum ex dicto Apostolii. i 
+        <lb ed="#Ba" n="2"/>Corinth. ii. iuxta argumentum vltimum iam inductum. cui persuasioni etiam aperte videtur con- 
+        <lb ed="#Ba" n="3"/>sentire <name ref="#Augustine">Augustinus</name> iiii. de doctrina christina dicens sic. Sunt quaedam quae vi sua non intelliguntur: aut vix 
+        <lb ed="#Ba" n="4"/>quantolibet, &amp; quantumlibet, quamuis planissime dicentis versentur eloquio: quae in populi audientiam vel 
+        <lb ed="#Ba" n="5"/>raro si aliquid vrget: vel nunquam omnino mittenda sunt. Ne ergo in quaestione hac dictorum Augustinu 
+        <lb ed="#Ba" n="6"/>ni aliqua controuersia permaneat: distinguendum est: quod ea quae sunt sacrae scripturae in audientiam 
+        <lb ed="#Ba" n="7"/>fidelium dupliciter possunt proponi. Vno modo in simplici dicto secundum seriem scripturae: vt au 
+        <lb ed="#Ba" n="8"/>diens solummodo ex ipso simplici dicto instruatur quid credere debeat. Alio vero modo possunt 
+        <lb ed="#Ba" n="9"/>proponi in expositione profunda: vt audiens intellectum credendorum percipiat. Primo modo pro 
+        <lb ed="#Ba" n="10"/>ponendi nihil est in sacra scriptura quod spiritualibus debet dici, &amp; carnalibus abscondi. Nihil enim est 
+        <lb ed="#Ba" n="11"/>in tota scriptura quo instrui non possit paruulus: saltem quo ad superficien literae: quia vt dicit bea 
+        <lb ed="#Ba" n="12"/>tus Gregor. in prolog. Moral. Diuinus sermo sicut mysteriis prudentes exercet: sic plerunque sima 
+        <lb ed="#Ba" n="13"/>plices superficie refouet: habet in publico vnde paruulos nutriat: seruat in secreto vnde mentes sub 
+        <lb ed="#Ba" n="14"/>tilium in admiratione suspendat, quasi quidam quippe fluuius (vt ita dixerim) planus &amp; altus: in  
+        <lb ed="#Ba" n="15"/>quo &amp; agnus ambulat: &amp; elephas natat. Quae sic loquitur (vt ait Augutinus v. super Gen. ) vt altitu- 
+        <lb ed="#Ba" n="16"/>dine superbos irrideat: profunditate attentos terreat: veritate magnos pascat: affabilitate paruu- 
+        <lb ed="#Ba" n="17"/>los nutriat. Hoc ergo modo proponendi nihil est in sacra scriptura: ad cuius audientiam tam in prae- 
+        <lb ed="#Ba" n="18"/>dicatione quam in lectione omnes fideles indifferenter non sunt admittendi. Loquendo autem de secun- 
+        <lb ed="#Ba" n="19"/>do modo proponendi, bene sunt aliqua quae profunda expositione spiritualibus dici possunt: &amp; car- 
+        <lb ed="#Ba" n="20"/>nalibus abscondi. De quibus loquitur <name ref="#Augustine">Augustinus</name> in dicto libro. iiii. de doctrina christiana secundum quod de hoc 
+        <lb ed="#Ba" n="21"/>erit sermo inferius: vbi dubitabitur quibus exponenda sit sacra scriptura. 
+      </p>
+      <p xml:id="vn58an-d1e1094-d1e224">
+        <lb ed="#Ba" n="22"/>⁋ Per haec patent obiecta. quod enim arguitur primo: Nemo accendit lucernam &amp;c. 
+        <lb ed="#Ba" n="23"/>Dicendum quod lucerna sacrae scripturae omnibus debet lucere fidelibus &amp; nulli abscondi: quo ad eius 
+        <lb ed="#Ba" n="24"/>simplicem sermonem: etiam quo ad eius simplicem expositionem: vt infra dicetur. Quo tamen ad subti 
+        <lb ed="#Ba" n="25"/>lem &amp; profundam expositionem quam simplices capere non possunt, bene potest, &amp; debet eis in pluribus 
+        <lb ed="#Ba" n="26"/>locis abditis abscondi: vt infra dicetur. &amp; ita nec debent ad huiusmodi dictorum sacrae scripturae audientiam 
+        <lb ed="#Ba" n="27"/>admitti. 
+      </p>
+      <p xml:id="vn58an-d1e1094-d1e240">
+        ⁋ Ad secundum quod quilibet fidelis quaelibet dicta sacrae scripturae tam in agendis quam in cre 
+        <lb ed="#Ba" n="28"/>dendis debet obseruare: ergo omnia audire: Dicendum quod verum est, quo ad agenda &amp; credenda in  
+        <lb ed="#Ba" n="29"/>generali, quantum ei sufficiat vt nulli praecepto diuinae legis contrarium agat aut discordet. Quia tamen 
+        <lb ed="#Ba" n="30"/>singula eius dicta expresse, &amp; in particulari discernat &amp; intelligat siue in agendis siue in creden- 
+        <lb ed="#Ba" n="31"/>dis: hoc non oportet. Et ideo non oportet vt ad audientiam multorum dictorum sacrae scripturae 
+        <lb ed="#Ba" n="32"/>quo ad profundas eorum expositiones admittatur: nihil tamen est in ea, cuius simplex dictum cuiquam, tam 
+        <lb ed="#Ba" n="33"/>sit simplex fidelis, occultari oportet. Nihil enim continet pertinens ad agenda vel credenda: in quibus ex 
+        <lb ed="#Ba" n="34"/>superficie literae quantum sibi sufficit instrui quantuncunque simplex sit non possit. 
+      </p>
+      <p xml:id="vn58an-d1e1094-d1e258">
+        <lb ed="#Ba" n="35"/>⁋ Ad argumentum in oppositum ex dicto apostoli: quod non potuit loqui carnalibus 
+        <lb ed="#Ba" n="36"/>sicut spiritualibus: Dicendum quod hoc verum est: non quia aliqua locutus sit spiritualibus quae non  
+        <lb ed="#Ba" n="37"/>erant dicenda carnalibus: sed quia eandem doctrinam ab ipso vtrisque simul propositam quilibet eorum 
+        <lb ed="#Ba" n="38"/>intellexit secundum modum suum: &amp; id quod carnalis apprehendit literaliter &amp; carnaliter: spiritualis 
+        <lb ed="#Ba" n="39"/>apprehendit spiritualiter. Quoniam sicut dicit <name ref="#Augustine">Augustinus</name> Caro Christin, mors, &amp; vulnera non eodem 
+        <lb ed="#Ba" n="40"/>modo a carnalibus: quo a spiritualibus cogitantur: &amp; illis lac est: istis vero cibus. Quod etsi isti non au-  
+        <lb ed="#Ba" n="41"/>diunt amplius, amplius tamen intelligunt: &amp; sic non aequaliter mente ab eis percipitur: etiam quod fide pari- 
+        <lb ed="#Ba" n="42"/>ter ab vtrisque recipitur. Inde enim est quod praedicatus est Christus crucifixus ab apostolis, ludaeis quid 
+        <lb ed="#Ba" n="43"/>dem scandalum, gentibus autem stultitia: ipsis autem vocatis ludaeis &amp; graecis dei virtus &amp; dei 
+        <lb ed="#Ba" n="44"/>sapientia: vt dicitur. i. Corinth. i. Sed carnalibus paruulis id tantum credendo tenentibus, spirituali- 
+        <lb ed="#Ba" n="45"/>bus capacioribus id etiam intelligendo cernentibus. Illis ergo erat tanquam lacteus potus: istis tanquam so 
+        <lb ed="#Ba" n="46"/>lidus cibus: non quia isti hoc aliter in populis: illi aliter in cubilibus cognouerunt: sed quod eodem mo 
+        <lb ed="#Ba" n="47"/>do vtrisque cum palam diceretur audiebant, pro suo modo quique capiebant. Hoc igitur cognito se- 
+        <lb ed="#Ba" n="48"/>cundum quod concludit <name ref="#Augustine">Augustinus</name> nulla videtur esse necessitas: vt aliqua secreta doctrinae docean- 
+        <lb ed="#Ba" n="49"/>tur, &amp; abscondantur fidelibus &amp; paruulis, seorsum dicenda maioribus. Et ideo fatendum quod dixit 
+        <lb ed="#Ba" n="50"/>Apostolus. Non potui vobis loqui quasi spiritualibus: sed quasi carnalibus, quia hoc ipsum: quod non  
+        <lb ed="#Ba" n="51"/>iudicauit se scire nisi lesum Christum, &amp; hunc crucifixum: ipsis non potuit loqui quasi spiritua- 
+        <lb ed="#Ba" n="52"/>libus: quia id sicut spirituales capere non valebant. Quicunque autem inter eos spirituales erant, id quod  
+        <lb ed="#Ba" n="53"/>illi tanquam carnales audiebant, spirituali intelligentia capiebant. Vt sic intelligatur dictum quod ait 
+        <lb ed="#Ba" n="54"/>Apost. Non potui vobis loqui quasi spiritualibus, quasi dicat: non potuistis quasi spirituales reci- 
+   <!--195.xml-->
+        <pb ed="#Ba" n="90-v"/>
+        <lb ed="#Ba" n="1"/>pere: sed quasi carnales. Ex quo sit vt dicit <name ref="#Augustine">Augustinus</name> vt spirituales ista carnalibus non omnino taceant propter 
+        <lb ed="#Ba" n="2"/>catholicam fidem, quae omnibus praedicanda est. Non tamen sic desudant: vt volentes eos perducere ad intelligentiam non  
+        <lb ed="#Ba" n="3"/>capiant. facilius enim fastidiri facerent in veritate sermonem, quam in sermone percipi veritatem. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

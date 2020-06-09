@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2819"> <!-- alias="vn58an-a40q3" -->
+      <head xml:id="vn58an-d1e2819-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e2819-Hd1e107" type="question-title">Utrum semper et uniformiter intelligat Deus seipsum</head>
+      <p xml:id="vn58an-d1e2819-d1e110">
+        <lb ed="#Ba" n="6"/>CIrca tertium arguitur, quod deus non semper &amp; vniformiter seipsum intelligit. Primo sic. 
+        <lb ed="#Ba" n="7"/>Simplex ad quodcumque se convertit, totaliter se convertit. intellectus diuinus sim 
+        <lb ed="#Ba" n="8"/>plicissimus est, &amp; convertit se quandoque ad intelligendum alia a se. ergo totaliter se con 
+        <lb ed="#Ba" n="9"/>uertit. sed quod totalitur se convertit ad intelligendum vnum aliquod, non simul intelligit aliud. 
+        <lb ed="#Ba" n="10"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2819-d1e123">
+        ⁋ Secundo sic. Deus quom intelligit alia a se, intelligit seipsum, &amp; econverso: quia 
+        <lb ed="#Ba" n="11"/>aga aliter mutaretur a modo intelligendi seipsum quando intelligeret alia a se. sed non vni 
+        <lb ed="#Ba" n="12"/>formiter intelligit alia a: se, quia alia &amp; alia ratione, sicut alia est ratio in deo vnius &amp; alterius, quoniam  
+        <lb ed="#Ba" n="13"/>vnumquodque aliorum intelligit sua, propria ratione, vt hominem sua ratione &amp; equum sua ratione. Alia au 
+        <lb ed="#Ba" n="14"/>tem est ratio in deo hominis &amp; equi &amp; singulorum: vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2819-d1e135">
+        ⁋ Contra. vbi est vna &amp; 
+        <lb ed="#Ba" n="15"/>eadem ratio intelligendi &amp; vniformis, &amp; semper vniformiter &amp; aequaliter se habet ad intellectum, intel 
+        <lb ed="#Ba" n="16"/>ligens vniformiter &amp; semper per illam intelligit. in deo ratio intelligendi se est ipsa sua essentia, quia 
+        <lb ed="#Ba" n="17"/>ipsa est ratio omnium diuinorum actuum: vt habitum est supra: &amp; ipsa semper vniformiter se 
+        <lb ed="#Ba" n="18"/>habet ad intellectum diuinum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2819-d1e146">
+        <lb ed="#Ba" n="19"/>⁋ Dicendum ad hoc, quod ratio quare aliquid non semper idem vniformiter intelligit, est quod ob-  
+        <lb ed="#Ba" n="20"/>iectum non vniformiter se offert, aut praesens est intelligenti, sicut contingit in intellectu creaturae. 
+        <lb ed="#Ba" n="21"/>In deo autem semper vniformiter obiectum se offert &amp; praesens est intellectui diuino. Idcirco iuxta hoc 
+        <lb ed="#Ba" n="22"/>quod procedit vltima obiectio, deus semper &amp; vniformiter intelligit seipsum. Quare autem &amp; in quo  
+        <lb ed="#Ba" n="23"/>hoc aliter contingit in deo &amp; in creaturis, videbitur infra in sexta quaestione sequente. 
+      </p>
+      <p xml:id="vn58an-d1e2819-d1e159">
+        <lb ed="#Ba" n="24"/>⁋ Ad primum in oppositum, quod deus intelligendo creaturam non simul intelligit seipsum 
+        <lb ed="#Ba" n="25"/>quia totaliter se convertit ad illam: Dicendum quod intelligens diuersa, aut intelligit illa per vnam sim- 
+        <lb ed="#Ba" n="26"/>plicem &amp; omnino indiuisibilem rationem secundum rem, aut omnino per diuersas, aut diuisibilem quo  
+        <lb ed="#Ba" n="27"/>dammodo per diuersas. Primo modo solus deus seipsum &amp; omnes creaturas vna simplici ratione secundum rem quae 
+        <lb ed="#Ba" n="28"/>est sua essentia intelligit: sed seipsum primo &amp; per se. sed in se &amp; per se, quia ipse est ratio omnium, cognoscit alia 
+        <lb ed="#Ba" n="29"/>a selsecundo, non ordine naturae aut durationis: quia naturaliter vno intuitu simplici se &amp; alia a 
+        <lb ed="#Ba" n="30"/>se cognoscit: sed solum ordine rationis nostrae: multo tamen alio &amp; diuerso modo a nostro mo-  
+        <lb ed="#Ba" n="31"/>do intelligendi. dicente <name ref="#Augustine">Augustinus</name> xi. de ciui. dei. c. xxi. Non more nostro ille quod futurum est prospi- 
+        <lb ed="#Ba" n="32"/>cit, vel quid praesens est aspicit, vel quod praeteritum est, respicit: sed alio modo quodam a nrarum cogitationum con 
+        <lb ed="#Ba" n="33"/>suetudine longe alteque diuerso. &amp; infra. Neque enim eius intentio de cogitatione in cogitationem 
+        <lb ed="#Ba" n="34"/>transit, in cuius incorporeo intuitu simul aspicit cuncta quae nouit. Quod igitur illo modo intelligit 
+        <lb ed="#Ba" n="35"/>diuersa, non tantum conuertitur ad vnum illorum, quin simul intelligit &amp; aliud. Secundo modo in  
+        <lb ed="#Ba" n="36"/>telligunt creaturae diuersa, vel per diuersas rationes, vel per diuersas species vniuersales diuersa in-  
+        <lb ed="#Ba" n="37"/>diuidua diuersarum specierum, vel per eandem speciem vniuersalem diuersa indiuidua sub ipsa. 
+      </p>
+      <p xml:id="vn58an-d1e2819-d1e195">
+        ⁋ Ad secun 
+        <lb ed="#Ba" n="38"/>dum quod deus non vniformiter intelligit alia a se: Dicendum quod ex parte ipsius modi intelligendi in se non est ali 
+        <lb ed="#Ba" n="39"/>qua diuersitas in deo in intelligendo diuersa, licet diuersis rationibus respectiuis propriis rerum 
+        <lb ed="#Ba" n="40"/>ipsas intelligat: quia omnes in natura simplicis essentiae diuinae vniuntur: quia se primo intelli- 
+        <lb ed="#Ba" n="41"/>git, &amp; per se intelligit omnia alia, inquantum ipsa in se habet rationes idearum.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

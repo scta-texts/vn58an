@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="87-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1072"> <!-- alias="vn58an-a12q6" -->
+      <head xml:id="vn58an-d1e1072-Hd1e104">Quaestio 6</head>
+      <head xml:id="vn58an-d1e1072-Hd1e107" type="question-title">Utrum omnis homo debeat esse auditor theologiae</head>
+      <p xml:id="vn58an-d1e1072-d1e110">
+        <lb ed="#Ba" n="36"/>CIrca sextum arguitur quod omnes tenentur audire hanc scientiam. Primo sic. 
+        <lb ed="#Ba" n="37"/>Apostolus dicit. i. Corin. xiiii. Quae scribo vobis domini sunt mandata. Si quis au-  
+        <lb ed="#Ba" n="38"/>tem ignorat, ignorabitur. Glos. Adeo in futuroid i. reprobabitur. sed ignoran  
+        <lb ed="#Ba" n="39"/>tur nisi ex ista scientia audiantur. Quare cum quilibet tenetur facere vt in futu- 
+        <lb ed="#Ba" n="40"/>ro non reprobetur: quilibet istam scientiam debet audire. 
+      </p>
+      <p xml:id="vn58an-d1e1072-d1e123">
+        ⁋ Secundo sic. Quilibet 
+        <lb ed="#Ba" n="41"/>eo quod sibi a deo concessum est vti debet ad id ad quod concessum est ei. Aliter enim 
+        <lb ed="#Ba" n="42"/>frustra esset ei concessum. Sacra scriptura omnibus communiter concessa est ad doctrinam. secundum 
+        <lb ed="#Ba" n="43"/>quod dicit apso. Ronimn, xv. Quaecumque scripta sunt ad nostram doctrinam scripta sunt. ergo quilibet debet 
+        <lb ed="#Ba" n="44"/>ea vti ad suam doctrinam. Hoc autem non potest esse nisi eam audiendo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1072-d1e135">
+        ⁋ Contra est. 
+        <lb ed="#Ba" n="45"/>quoniam homo non tenetur ad illud sine quo finem suum ad quem est potest adipisciei sine auditione hu 
+        <lb ed="#Ba" n="46"/>ius scientiae finem suum potest homo adipiscici. Turbam enim vt dicit <name ref="#Augustine">Augustinus</name> contra epistolam fund.  
+        <lb ed="#Ba" n="47"/>fidei simplicitas tutissimam tenet. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1072-d1e147">
+        <lb ed="#Ba" n="48"/>⁋ Dicendum ad hoc: quod finis necessitatem imponit eis quae sunt ad finem. Cum 
+        <lb ed="#Ba" n="49"/>igitur auditus huius scientiae est de eis quae ordinant hominem in finem humanae vitae: qui  
+        <lb ed="#Ba" n="50"/>est beatitudo siue visio dei: debitum audiendi hanc scientiam ex tali fine debet determinari. 
+        <lb ed="#Ba" n="51"/>llli ergo quibus subtractio auditus huius scientiae non est vitiosa: nec excludit a fine hu- 
+        <lb ed="#Ba" n="52"/>manae vitae: non tenentur audire hanc scientiam. Illi vero quibus subtractio auditus 
+        <lb ed="#Ba" n="53"/>huius scientiae intantum est vitiosa, quod excludit a fine humanae vitae, eam proculdu- 
+   <!--190.xml-->
+        <pb ed="#Ba" n="88-r"/>
+        <lb ed="#Ba" n="1"/>bio audire tenentur: quia quilibet tenetur facere id sine quo finem suum attingere non potest. 
+        <lb ed="#Ba" n="2"/>Est igitur intelligendum quod quidam hominum nec sunt sic ingenio praediti, nec sic aliis disci- 
+        <lb ed="#Ba" n="3"/>plinis imbuti: vt ad mysteria huius scripturae inuestiganda, &amp; ad populum instruendum vnquam 
+        <lb ed="#Ba" n="4"/>vtiles esse possint. Isti debent solummodo curam propriae salutis gerere: nec vnquam acquiescere vt 
+        <lb ed="#Ba" n="5"/>praeficiantur in statu: vbi curae aliorum eos oporteat intendere, &amp; alios instruere, qualis est ma-  
+        <lb ed="#Ba" n="6"/>xime turba hominum popularis. Et de istis dicendum quod non oportet eos esse auditores huius scien- 
+        <lb ed="#Ba" n="7"/>tiae per lectionem: sed solum per praedicationem: quousque instruantur in fide &amp; moribus quantum 
+        <lb ed="#Ba" n="8"/>eis sufficit ad salutem, &amp; se custodire in fide, spe, &amp; charitate, &amp; per illa attingere finem vlti- 
+        <lb ed="#Ba" n="9"/>mun huius scientiae. secundum quod talis instructio cuilibet adulto baptizato proponenda est: gros 
+        <lb ed="#Ba" n="10"/>so modo ea quae sunt huius scripturae transcurrendo. secundum quod dicit Augustinus. iiii. de Aca. 
+        <lb ed="#Ba" n="11"/>Narratio plena est cum quisque primo catechizatur ab eo quid scriptum est. In principio fecit deus cae 
+        <lb ed="#Ba" n="12"/>sum &amp; terram, vsque ad praesentia tempora ecclesiae. Non tamen propterea debemus totum Penta- 
+        <lb ed="#Ba" n="13"/>teucum, totumque ludicum, &amp; Regnorum, &amp; Esdrae libros, totumque euangelium &amp; actus apostolorum, 
+        <lb ed="#Ba" n="14"/>vel omnia quae iis voluminibus continentur, narrando euoluere &amp; explicare: sed cuncta sum- 
+        <lb ed="#Ba" n="15"/>matim complecti. In omnibus sane non tantum nos oportet intueri praecepti finem, quid est charitas 
+        <lb ed="#Ba" n="16"/>de corde puro &amp; conscientia bona: &amp; fide non ficta: quo ea quae loquimur cuncta referamus: sed  
+        <lb ed="#Ba" n="17"/>etiam illius quem loquendo instruimus: ad id mouendus atque illuc dirigendus est aspectus: quia vt 
+        <lb ed="#Ba" n="18"/>dicit in ser. de laude charitatis, totam magnitudinem &amp; altitudinem diuinorum eloquiorum se- 
+        <lb ed="#Ba" n="19"/>cura possidet charitas: qua deum &amp; proximum diligimus. Docet enim nos caelestis vnus magister 
+        <lb ed="#Ba" n="20"/>&amp; dicit. Diliges dominum deum tuum ex toto corde tuo: &amp; ex tota anima tua: &amp; ex tota men- 
+        <lb ed="#Ba" n="21"/>te tua: &amp; proximum tuum sicut teipsum. In his duobus praeceptis tota lex pendet &amp; prophetae. 
+        <lb ed="#Ba" n="22"/>Si ergo non vacas omnes paginas sacras perscrutari, omnia inuolucra sermonum euoluere, omnia 
+        <lb ed="#Ba" n="23"/>secreta scripturarum penetrare, tene charitatem vbi pendent omnia: ita tenebis quod ibi didicisti: te- 
+        <lb ed="#Ba" n="24"/>nebis etiam quod nondum didicisti. Si enim nosti charitatem: aliquid nosti: vnde &amp; illud pendet 
+        <lb ed="#Ba" n="25"/>quod forte non nosti, &amp; in eo quod in scripturis non intelligis charitas latet. Ille itaque tenet &amp; quod patet 
+        <lb ed="#Ba" n="26"/>&amp; quod latet in diuinis sermonibus, qui charitatem tenet in moribus. Vnde concludit in si. primi 
+        <lb ed="#Ba" n="27"/>de doctrina christiana. Homo itaque fide, spe, &amp; charitate subnixus eamque inconcusse retinens non in 
+        <lb ed="#Ba" n="28"/>diget scripturis, nisi ad alios instruendos. Alii vero sic sunt naturali ingenio praediti, &amp; aliis di 
+        <lb ed="#Ba" n="29"/>sciplinis imbuti: vt ad mysteria huius scientiae inuestiganda, &amp; ad populum instruendum aliquando  
+        <lb ed="#Ba" n="30"/>vtiles esse possint. De quibus distinguendum. Aut enim disponunt vnquam consentire vt ad sta- 
+        <lb ed="#Ba" n="31"/>tum praeficiantur in quo instructioni aliorum debent intendere: aut non. Si primo modo: dicen- 
+        <lb ed="#Ba" n="32"/>dum quod tales omnino debent esse auditores huius scientiae: non solum per praedicationem: sed etiam 
+        <lb ed="#Ba" n="33"/>audiendo eam per lectionem: dummodo praedicatione non potuerint sufficienter instrui vt sint 
+        <lb ed="#Ba" n="34"/>idonei alios docere secundum gradum status sui. Aliter enim exponerent se discrimini ex prae- 
+        <lb ed="#Ba" n="35"/>sumptione, non ex charitate opus vltra vires assumerent. Propter quod de talibus dicit Aposto- 
+        <lb ed="#Ba" n="36"/>lus in epistola ad Timo. Scientiam quoque non negligat literarum obtinentem eum qui secun- 
+        <lb ed="#Ba" n="37"/>dum doctrinam est fidelem sermonem: vt potens sit exhortari in doctrina sacra, &amp; contradicen- 
+        <lb ed="#Ba" n="38"/>tes redarguere. Vnde dicit Aoximus papa distin. xxxvi. In ecclesiasticis disciplinis per ordinem non  
+        <lb ed="#Ba" n="39"/>imbutus, nequaquam ad summum ecclesiae sacerdotium aspirare praesumat. Vt enim dicitur in Mala. 
+        <lb ed="#Ba" n="40"/>labia sacerdotis custodiunt scientiam, &amp; legem requiram de ore eius. Vnde negligentibus au-  
+        <lb ed="#Ba" n="41"/>ditum huius scientiae, interdicit dominus ascensum ad gradum regiminis populi per Osee dicens. 
+        <lb ed="#Ba" n="42"/>Tu quoque scientiam repulisti, &amp; ego repellam te ne sacerdotio fungaris mihi. Hinc etiam dicit Gre 
+        <lb ed="#Ba" n="43"/>gorius in primo pasto. Nulla ars doceri praesumitur: nisi intenta prius meditatione discatur. Ab im 
+        <lb ed="#Ba" n="44"/>peritis ergo pastorale magisterium qua temeritate praesumitur, quando ars est artium regimen 
+        <lb ed="#Ba" n="45"/>animarum: Et in quo consistit illa temeritas consequenter declarat dicens. Sunt nonnulli qui in-  
+        <lb ed="#Ba" n="46"/>tra sanctam ecclesiam per speciem regiminis gloriam affectant honoris: videri doctores cupiunt 
+        <lb ed="#Ba" n="47"/>&amp; quod est miserrimum, tunc quaerunt sacram scripturam addiscere, quando pro gradu dignita 
+        <lb ed="#Ba" n="48"/>tis in ea deberent alios docere. contra illud quod dicitur distin. xxxvi. Praedicatores per quos eccle 
+        <lb ed="#Ba" n="49"/>sia circunfertur, sacris literis debent semper insistere: nec tunc quaerant discere cum ex officio de 
+        <lb ed="#Ba" n="50"/>beant alios docere. Sed secundum quod dicit Hieronymus ad Rusticum, si clericatus titillat, mul 
+        <lb ed="#Ba" n="51"/>to tempore discas quod postea doceas. Non enim erit magister qui non se nouit esse discipulum, 
+        <lb ed="#Ba" n="52"/>sicut dicit <name ref="#Boethius">Boethius</name>  de disciplina schola. De illis autem quid ex aliis scientiis instructi, &amp; ingenio naturali 
+        <lb ed="#Ba" n="53"/>praediti sunt, vt ad perfectionem huius scientiae possint attingere, &amp; aliis ex auditu huius scientiae multum 
+        <lb ed="#Ba" n="54"/>proficere, etsi nunquam curae &amp; doctrinae aliorum proponant intendere, aut vt pphilosou praeficiantur assentire: subdi- 
+        <lb ed="#Ba" n="55"/>stiguendum, quia tales si dimittunt auditum huius scientiae, aut hoc est ex causa rationabili, veluti quia sunt im 
+   <!--191.xml-->
+        <pb ed="#Ba" n="88-v"/>
+        <lb ed="#Ba" n="1"/>pediti legitimis negotiis quaecumque sint illa: aut sine causa rationali, &amp; impedimento negotiorum 
+        <lb ed="#Ba" n="2"/>legitimorum. Si primo modo: dicendum adhuc, quod non tenentur audire hanc scientiam: nisi quan- 
+        <lb ed="#Ba" n="3"/>tum eis ad salutem est necessarium: quod potest sufficienter fieri per praedicationem, quia vt dicitur. i 
+        <lb ed="#Ba" n="4"/>Corin. xii. Diuisiones gratiarum sunt, idem autem spiritus: &amp; diuisiones operationum sunt &amp;c. 
+        <lb ed="#Ba" n="5"/>vt continue sequitur. vbi dicit Glos. Gratias autem hic appellat diuersos gradus &amp; ordines: quid 
+        <lb ed="#Ba" n="6"/>sunt in officiis ecclesiae: quibus alii aliis subseruiunt: quia sunt opera maiora &amp; opera minora: &amp; 
+        <lb ed="#Ba" n="7"/>deus non omnia vni tribuit: sed omnia in omnibus operatur: vt quod non habeat quis in se, ha 
+        <lb ed="#Ba" n="8"/>beat in alio: &amp; sic maneat charitas. Et in eodem cap. Et quosdam posuit deus in ecclesia, primo 
+        <lb ed="#Ba" n="9"/>prophetas, secundo apostolos, tertio doctores. &amp; sequitur. Nunquid omnes prophetae: nunquid  
+        <lb ed="#Ba" n="10"/>omnes doctores: Glos. Prophetas scripturarum mysteria reuelantes, doctores praecepta viuendi dam 
+        <lb ed="#Ba" n="11"/>tes. Si vero negotiis legitimis impediti non sunt, tunc omnino ad auditum huius sacrae scripturae de- 
+        <lb ed="#Ba" n="12"/>bent se tranfferre: quia reddituri sunt rationem de talento sibi commisso: pro eo scilicet quod ingenium 
+        <lb ed="#Ba" n="13"/>naturale &amp; scientians acquisitas in vsum huius scientiae non ordinant, cui famulari debent vt 
+        <lb ed="#Ba" n="14"/>in ea deus cognoscatur &amp; diligatur quantum possibile est pro statu huius vitae, etiani si ex sola de 
+        <lb ed="#Ba" n="15"/>sidia &amp; negligentia ab auditu eius se alienent. Quia si eam audire ex aliquo contemptu omit- 
+        <lb ed="#Ba" n="16"/>tant: vel quia auditum eius non esse necessarium dicant, aut paruipendant: vel aliarum scientia- 
+        <lb ed="#Ba" n="17"/>rum auditum eius auditui tanquam precionsiorem anteponant: isti maiorem damnationem incur- 
+        <lb ed="#Ba" n="18"/>runt. secundum quod dicit Chrysostomus in principio super Mat. lam considera quam sit omnino ex- 
+        <lb ed="#Ba" n="19"/>tremae dementiae: vt qui tanta deberemus vitae perfectione pollere: vt nihil prorsus literis egere- 
+        <lb ed="#Ba" n="20"/>mus: sed scribenda spiritui praeberemus corda propaginis: si primam illam perdidimus di-  
+        <lb ed="#Ba" n="21"/>gnitantem, &amp; minoribus indigemus: ne secundo quidem remedio ad nostram vtamur salutem. 
+        <lb ed="#Ba" n="22"/>Si enim illis indigere &amp; non gratia spiritus sancti splendere culpabile est: vide quanti sit crimi- 
+        <lb ed="#Ba" n="23"/>nis nec per illud auxilium velle proficere: sed quasi frustra &amp; vane posita scripta caelestia despi 
+        <lb ed="#Ba" n="24"/>cere, maius est absque dubio subire supplicium. &amp; sequitur post aliqua interposita.  Et quis est 
+        <lb ed="#Ba" n="25"/>tam infelix qui non haec preciosiora credit omnibus &amp; clariora fateatur: Ille sine dubio qui non vel 
+        <lb ed="#Ba" n="26"/>tanto eis studio vacat: quanto in diabolicis: illis theatris occupatur. Ibi enim plurimi totos dies pera- 
+        <lb ed="#Ba" n="27"/>gunt: &amp; cum omni diligentia quae audierint memoriae commendant: eaque ad sui animi per- 
+        <lb ed="#Ba" n="28"/>niciem penitus infixa custodiunt. Hic vero vbi loquitur deus, ne exiguum quidem tempus patien- 
+        <lb ed="#Ba" n="29"/>ter expectant. Et certe propter hoc deus gehennam minatur. Nam praecipiente nobis deo non  
+        <lb ed="#Ba" n="30"/>modo vt audiamus quae dicuntur: verum vt cum omni etiam deuotione faciamus, nec audire 
+        <lb ed="#Ba" n="31"/>curamus. Quando igitur ea quae dicuntur implebimus: qui nec sermonem super his quidem pa 
+        <lb ed="#Ba" n="32"/>tienter audimus: Vnde Orig. in Homilis. de Rebecca, exponens quomodo seruus Abrahae obtu- 
+        <lb ed="#Ba" n="33"/>lit ei inaures aureas &amp; armillas, dicit. Vult aurea in auribus verba percipere, &amp; aureos actus 
+        <lb ed="#Ba" n="34"/>in manibus habere: sed haec prius accipere non potuit: neque mereretur nisi venisset ad puteos hau- 
+        <lb ed="#Ba" n="35"/>rire aquas. Tu ergo qui non vis venire ad aquas, qui non vis in auribus tuis aurea prophetatum 
+        <lb ed="#Ba" n="36"/>verba suscipere: quomodo poteris esse ornatus in doctrina, ornatus in actibus, ornatus in mori 
+        <lb ed="#Ba" n="37"/>bus: reuera hoc esse non potest. Reuera nequaquam. secundum eundem super Exod. xxxiiii. &amp; est in Glos. Quis non 
+        <lb ed="#Ba" n="38"/>strum tanto labore &amp; studio diuinas quaerit literas: quanto quasiuit humanas. Aliqui vt recitari au- 
+        <lb ed="#Ba" n="39"/>dierint quae leguntur statim discedunt. nulla de his quae dicta sunt adinuicem quaestio: nulla col 
+        <lb ed="#Ba" n="40"/>latio: non interrogant patres suos vt dicant sibi: nec presbyteros vt annuncient. Alii nec pa- 
+        <lb ed="#Ba" n="41"/>tienter expectant vsquequo lectiones in ecclesia recitentur. Alii nec si recitentur: sciunt: sed in  
+        <lb ed="#Ba" n="42"/>remotioribus ecclesiae locis secularibus curis occupantur: quibus non iam velamen super cor. 
+        <lb ed="#Ba" n="43"/>sed paries &amp; murus positus est. Si enim qui adest &amp; intendit &amp; quae audit retractat &amp; discu- 
+        <lb ed="#Ba" n="44"/>tit: vix potest ad libertatem scientiae peruenire: qui abscondit aures suas ne audiat, &amp; terga in  
+        <lb ed="#Ba" n="45"/>faciem legentis obuertit, quomodo dicendus est velamen habere suppositum, ad quem ne ipsum 
+        <lb ed="#Ba" n="46"/>quidem velamen literae quo sensus velatur, qui est sensus vocis, accessit: Nec solum hoc damnum: 
+        <lb ed="#Ba" n="47"/>sed etiam cum hoc simul diuinam offensam incurrit. secundum illud quod dicit Chrysosto: 
+        <lb ed="#Ba" n="48"/>mus post verba eius supradicta. Quomodo (inquit) non putamus offendi quando eo de tantis re 
+        <lb ed="#Ba" n="49"/>bus loquente contemptis quae dicuntur ad alia omnino convertimur: ldem lib. ii. Hoc est quod omnes 
+        <lb ed="#Ba" n="50"/>quasi vna peste corrumpit: quoniam lectionem scripturarum vtique diuinarum ad solos putatis 
+        <lb ed="#Ba" n="51"/>monachos pertinere: cum multo magis illis sit necessaria, qui cum versantur in medio, &amp; vul- 
+        <lb ed="#Ba" n="52"/>nus quotidie super vulnus accipiunt: ipsius dei potius indigent medicamine. ltaque multo est grauius 
+        <lb ed="#Ba" n="53"/>atque deterius supersiuam esse legem dei putare, quam illam omnino nescire. Haec enim verba sunt 
+        <lb ed="#Ba" n="54"/>quae deidiabolica prorsus meditatione promuntur. Propterea enim ille suadet nihil omnino esse 
+        <lb ed="#Ba" n="55"/>commodi diuinas audire scripturas: nequando etiam ex auditu, sequi videat actionem. 
+      </p>
+      <p xml:id="vn58an-d1e1072-d1e413">
+   <!--192.xml-->
+            <pb ed="#Ba" n="89-r"/>
+        <lb ed="#Ba" n="1"/>
+        ⁋ Ad primum in oppositum: quod ignorans ignorabitur: dicendum secundum Glos. quod 
+        <lb ed="#Ba" n="2"/>hoc non dicit Apostolus de iis quae pertinent ad paucorum intelligentiam: vt sunt obscura myste- 
+        <lb ed="#Ba" n="3"/>ria &amp; occulta huius scientiae: sed de iis quae fidem &amp; mores aedificant, quae sunt saluti necessaria 
+        <lb ed="#Ba" n="4"/>Priora sciri non possunt sine auditu lectionis huius scientiae: ista vero sciri possunt a quolibet ex sim 
+        <lb ed="#Ba" n="5"/>plici auditu praedicationis. 
+      </p>
+      <p xml:id="vn58an-d1e1072-d1e431">
+        ⁋ Ad secundum quod sacra doctrina ad omnium vsum est concessa: Dicen 
+        <lb ed="#Ba" n="6"/>dum quod verum est: &amp; omnes debent ea vti ad suam eruditionem, vel ex auditu lectionis, vel praedicationis 
+        <lb ed="#Ba" n="7"/>vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e1072-d1e438">
+        ⁋ Ad tertium quod est in oppositum, quod sine auditu huius scientiae potest homo finem 
+        <lb ed="#Ba" n="8"/>suum adipisci: Dicendum quod verum est de homine populari: vt dictum est. de homine autem disponente se 
+        <lb ed="#Ba" n="9"/>ad gubernationem aliorum: vel alias disposito ad profectum magnum sibi &amp; aliis ex auditu huius 
+        <lb ed="#Ba" n="10"/>scientiae, non est ita, vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

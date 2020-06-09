@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="29-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e327"> <!-- alias="vn58an-a3q4" -->
+      <head xml:id="vn58an-d1e327-Hd1e104">Quaestio 4</head>
+      <head xml:id="vn58an-d1e327-Hd1e107" type="question-title">Utrum contingat hominem scire omnia ex puris naturalibus</head>
+      <p xml:id="vn58an-d1e327-d1e110">
+        <lb ed="#Ba" n="38"/>CIrca. iiii. arguitur: quod contingit hominem scire omnia ex puris naturalibus suis. 
+        <lb ed="#Ba" n="39"/>Primo sic. Homo potest scire ex puris naturalibus suis ea quorum notitia inclu- 
+        <lb ed="#Ba" n="40"/>ditur in potentia, in primis principiis naturaliter cognitis: quia ex illorum no 
+        <lb ed="#Ba" n="41"/>titia per naturalis rationis inuestigationem potest cognitionem aliorum dedu 
+        <lb ed="#Ba" n="42"/>cere in actum. omnia scibilia sunt huiusmodi. Omnium enim scibilium notitia in po 
+        <lb ed="#Ba" n="43"/>tentia includitur in primis principiis. ergo &amp;c. Probatio assumpti est: quia pri- 
+        <lb ed="#Ba" n="44"/>mum principium incomplexum est intentio entis inquantum ens est: primum complexum est: de 
+        <lb ed="#Ba" n="45"/>quolibet affirmatio vel negatio: vt dictum est supra. Sub intentione &amp; conceptu entis simplici- 
+        <lb ed="#Ba" n="46"/>ter continetur omnis conceptus incomplexus: siue sit creati, siue increati: vt vult Auicen. i. Metaph. suae. Sub 
+        <lb ed="#Ba" n="47"/>conceptu illius complexi: de quolibet affirmatio vel negatio, continetur quilibet conceptus comple- 
+        <lb ed="#Ba" n="48"/>xus siue sint extrema entis creati siue increati. 
+      </p>
+      <p xml:id="vn58an-d1e327-d1e136">
+        ⁋ Secundo sic. frustra esset aliquid in potentia ad ali 
+        <lb ed="#Ba" n="49"/>ud, nisi actu illud posset attingere. Cum ergo intellectus humanus secundum <name ref="#Aristotle">Philosophum</name> est in 
+        <lb ed="#Ba" n="50"/>potentia omnia intelligibilia: &amp; hoc in puris naturalibus constitutus: nihil autem est ponere fru- 
+        <lb ed="#Ba" n="51"/>stra in fundamento naturae, &amp; creaturae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e327-d1e149">
+        ⁋ Oppositum arguitur sic. Scientia hominis ex 
+        <lb ed="#Ba" n="52"/>puris naturalibus non est nisi via sensus secundum Philosophum: Sed plura sunt scibilia, quorum 
+        <lb ed="#Ba" n="53"/>notitia a sensu non capit ortum: quia omnino non cadunt sub sensu: nec ea quae cognoscuntur ex sensu 
+        <lb ed="#Ba" n="54"/>sufficiunt ad hoc vt faciant illa sciri: vt sunt quidditates incorporalium. ergo &amp;c. 
+   <!--73.xml-->
+        <pb ed="#Ba" n="29-v"/>
+      </p>
+      <p xml:id="vn58an-d1e327-d1e162">
+        <lb ed="#Ba" n="1"/>⁋ Ad hoc dicendum: quod ab agente per instrumentum non potest procedere actio 
+        <lb ed="#Ba" n="2"/>ad quam instrumentum se extendere non potest: quia instrumento artis fabrilis, opus carpentatio- 
+        <lb ed="#Ba" n="3"/>nis faber efficere non potest. Nunc autem ita est: quod ratio naturalis in cognitione quae sibi ex puris 
+        <lb ed="#Ba" n="4"/>naturalibus conpetit: vtitur vt instrumento lumine naturali sibi veritates rerum illustrante, &amp; eas in-  
+        <lb ed="#Ba" n="5"/>tellectui manifestante: lumen autem illud quia naturale est, limitatum est ad solummodo notitiam homi- 
+        <lb ed="#Ba" n="6"/>nis naturalem illustrandam. Cum ergo illa notitia quae est naturalis, sit adminiculo sensuum &amp; sensibilium 
+        <lb ed="#Ba" n="7"/>lux homini connaturalis solum illustrat ad sciendum notitiam eorum, quae mediante sensu nata sunt 
+        <lb ed="#Ba" n="8"/>cognosci. talia sunt illa quae sunt scibilia philosophica solum: praeter quae sunt plura alia quae excedunt 
+        <lb ed="#Ba" n="9"/>naturalem intellectum hominis: quia per sensibilia non potest ad eorum quidditates cognoscendas 
+        <lb ed="#Ba" n="10"/>attingere. Maxime autem dei: quia omnia sensibilia sunt effectus quidam virtutem illius in nullo 
+        <lb ed="#Ba" n="11"/>adaequantes, &amp; sine cognitione eius quod quid est, omnino scientia de natura rei haberi non potest: 
+        <lb ed="#Ba" n="12"/>secundum quod dicit Philosophus. vi. Metaphysicae. Oportet non ignorare illud quod significat ali- 
+        <lb ed="#Ba" n="13"/>quid quid est: quia absque hoc facere nihil est. Vbi dicit Commenta. Quaerere enim aliquid scire 
+        <lb ed="#Ba" n="14"/>hoc non determinato est quasi non quaerere. Vnde volentes ex vestigio creaturae diuinam essenti- 
+        <lb ed="#Ba" n="15"/>am perfecte cognoscere, irridet lob. xi. Eorsitan (inquit) vestigia dei comprehendes: &amp; omnipo- 
+        <lb ed="#Ba" n="16"/>tentem vsque ad perfectum reperies. &amp;. xxxvi. Ecce deus magnus: vincens scientiam nostram. &amp; non  
+        <lb ed="#Ba" n="17"/>solum clara illorum notitia nostri intellectus possibilitatem excedit: sed &amp; illa quae nata est haberi de eis 
+        <lb ed="#Ba" n="18"/>per fidem &amp; in aenigmate: secundum quod dicetur infra. 
+      </p>
+      <p xml:id="vn58an-d1e327-d1e204">
+        ⁋ Ad primum in oppositum: quod omnium notitia 
+        <lb ed="#Ba" n="19"/>in potentia includitur in primis principiis: Dicendum primo ex parte primorum principiorum: quod sicut in  
+        <lb ed="#Ba" n="20"/>naturalibus illud quod procedit ex radice semper tenet &amp; sapit naturam radicis: nec potest naturam 
+        <lb ed="#Ba" n="21"/>radicis excedere: sic prima principia naturalis cognitionis cum a sensibus &amp; sensibilibus velut a ra 
+        <lb ed="#Ba" n="22"/>dice traliantur: vt saepius dictum est: vim &amp; naturam sensibilium excedere non possunt: vt sicut ip 
+        <lb ed="#Ba" n="23"/>sa in naturali notitia hominis accepta sunt a sensibilibus: vltra notitiam eorum quae adminiculo 
+        <lb ed="#Ba" n="24"/>sensuum nata sunt cognosci, extendi non possunt. Licet ergo ratio entis simpliciter &amp; absolute acce- 
+        <lb ed="#Ba" n="25"/>pta sit sufficiens in potentia ratio cognoscendi quodlibet cognoscibile: quid sub ratione generali en 
+        <lb ed="#Ba" n="26"/>tis continetur: inquantum tamen est accepta per sensum a sensibilibus: limitata est vt sit in potentia prin 
+        <lb ed="#Ba" n="27"/>cipium cognoscendi solum illa ad quae potest deducere ratio naturalis adminiculo sensuum &amp; sen- 
+        <lb ed="#Ba" n="28"/>sibilium &amp; non alia. Secundo dicendum ex parte luminis naturalis intellectus: vt est coniunctus: quod quamuis 
+        <lb ed="#Ba" n="29"/>principia prima sint quantum est de se sufficienter in potentia ad faciendum scire quodlibet cogno 
+        <lb ed="#Ba" n="30"/>scibile: quod tamen lumen illud limitatum naturaliter est: vt non sit natum illustrare ad eliciendum 
+        <lb ed="#Ba" n="31"/>notitiam aliquam, vltra notitiam quae ex sensibilibus hauritur, vltra quam non potest se extendere: ni 
+        <lb ed="#Ba" n="32"/>si ei adiutorium luminis superioris addatur. Sicut lux naturalis in oculo cati, sufficit ad illustran 
+        <lb ed="#Ba" n="33"/>dum medium: vt eo videat aliqua visibilia grossa, &amp; non potest ei ostendere minuta: nisi lumine so- 
+        <lb ed="#Ba" n="34"/>lis vel candelae, vel aliquo exteriori superinfuso. 
+      </p>
+      <p xml:id="vn58an-d1e327-d1e241">
+        ⁋ Ad secundum quod omnia sunt naturaliter homi- 
+        <lb ed="#Ba" n="35"/>ni cognoscibilia: Dicendum quod aliqua sunt homini cognoscibilia naturaliter: quia ex principiis ei na 
+        <lb ed="#Ba" n="36"/>turaliter inditis potest in illorum cognitionem deuenire sine adiutorio exteriori. sic homini in sta 
+        <lb ed="#Ba" n="37"/>tu huius vitae solum sunt naturaliter cognoscibilia, ea quae sensuum adminiculo capere potest. Alio mo 
+        <lb ed="#Ba" n="38"/>do sunt aliqua ei naturaliter cognoscibilia: quia de natura sua natus est illa intelligere: sed hoc non quod ex 
+        <lb ed="#Ba" n="39"/>puris naturalibus illa intelligit: sed quia naturaliter ita ordinata sunt: vt nata sint recipere lumen, quo 
+        <lb ed="#Ba" n="40"/>adiuta illa intelligat. vnde secundum hunc modum homo ordinatur ad hoc: vt per gratiam eleuetur ad 
+        <lb ed="#Ba" n="41"/>suscipiendum maius bonum, quam sit illud quod potest attingere per naturam: quod non videbant Philosophi: 
+        <lb ed="#Ba" n="42"/>&amp; ideo cognitionem hominis, &amp; beatitudinem non posuerunt vltra id quod potest attingere per na- 
+        <lb ed="#Ba" n="43"/>turam, &amp; ideo errauerunt.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

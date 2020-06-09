@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="288-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe78891"> <!-- alias="vn58an-a74q7" -->
+      <head xml:id="vn58an-fe78891-Hd1e104">Quaestio 7</head>
+      <p xml:id="vn58an-fe78891-d1e107">
+        <lb ed="#Bb" n="36"/>Irca Septimum arguitur quod omnis propositio in diuinis in qua praedicatur no-  
+        <lb ed="#Bb" n="37"/>men translatum a creaturis, sit multiplex secundum aequiuocationem, Primo sic. 
+        <lb ed="#Bb" n="38"/>multiplicitas propositionis secundum aequiuocationem est propter multiplicita- 
+        <lb ed="#Bb" n="39"/>tem termini siue nominis plura significantis in illa aequiuoce. In hoc enim 
+        <lb ed="#Bb" n="40"/>multiplicitas aequiuocationis differt a multiplicitate amphibologiae. quare 
+        <lb ed="#Bb" n="41"/>cum secundum praedeterminata omnis terminus siue nomen in diuinis transla- 
+        <lb ed="#Bb" n="42"/>tus a creaturis aequiuoce significat plura. scilicet &amp; rem quae est in diuinis: &amp; rem 
+        <lb ed="#Bb" n="43"/>quae est in creaturis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe78891-d1e127">
+        ⁋ Secundo sic. illa praedicatio est multiplex secundum aequiuocationem quae  
+        <lb ed="#Bb" n="44"/>affirmatiuam &amp; negatiuam eiusdem praedicati &amp; subiecti singularis potest habere simul veras:  
+        <lb ed="#Bb" n="45"/>quia haec maxima, &amp; primum principium omnium scientiarum. secundum philosophum. iiii. De quolibet vno 
+        <lb ed="#Bb" n="46"/>&amp; eodem eiusdem affirmatio vel negatio vere: &amp; non simul ambo. de deo autem qui est vnus 
+        <lb ed="#Bb" n="47"/>&amp; singularis ambo scilicet affirmatio &amp; negatio eiusdem sunt simul verae: puta ista, deus non est bo- 
+        <lb ed="#Bb" n="48"/>nus: Deus est bonus: quia secundum determinata ambae sunt expressiuae veritatis diuinorum, licet 
+        <lb ed="#Bb" n="49"/>vna magis quam altera, vt patet ex praedeterminatis, non est autem expressiua veritatis propositio 
+        <lb ed="#Bb" n="50"/>circa aliquid nisi ipsa sit vera: quia verum non cognoscitur nisi vero. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe78891-d1e145">
+        ⁋ In contrarium est 
+        <lb ed="#Bb" n="51"/>illud quod dicit <name ref="#Boethius">Boethius</name>  de rebus decem praedicamentorum quae sub eodem nomine praedicantur de deo &amp; de 
+        <lb ed="#Bb" n="52"/>creaturis. de Trini. cap. v. Haec talia sunt qualia subiecta permiserunt. Sed in diuinis subiecta 
+        <lb ed="#Bb" n="53"/>non permittunt quantum in se est illa aliud significare quam subiectis diuinis congruit. illis autem non con 
+        <lb ed="#Bb" n="54"/>gruit id quid significant in creaturis. dicente Boethio ibidem. Nam pars eorum in reliquarum 
+        <lb ed="#Bb" n="55"/>rerum praedicatione substantia est. Attamen cum in diuinam vertit quis praedicationem, cuncta 
+   <!--591.xml-->
+        <pb ed="#Bb" n="288-v"/>
+        <lb ed="#Bb" n="1"/>mutantur. Nam substantia in illo non est vere substantia: sed vltra substantiam: idem qualitas &amp;c. 
+        <lb ed="#Bb" n="2"/>Nomina ergo translata a creaturis ad diuina in praedicationibus diuinis non significant nisi id  
+        <lb ed="#Bb" n="3"/>quod diuinis congruit. Illud autem non est nisi vnum. dicente Boethio ibidem de deo. Neque aliud est 
+        <lb ed="#Bb" n="4"/>quod est, neque aliud est quod iustus: sed idem est esse deo quod iusto, idem est esse deo quod magno. Sed  
+        <lb ed="#Bb" n="5"/>non est propositio multiplex secundum aequiuocationem propter praedicatum, in qua terminus siue no 
+        <lb ed="#Bb" n="6"/>men quod praedicatur non significat nisi vnum &amp; idem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe78891-d1e180">
+        <lb ed="#Bb" n="7"/>⁋ Dico quod non est multiplex in oratione nisi propter ambiguum impediens iudicium 
+        <lb ed="#Bb" n="8"/>veritatis, quod in ea est ad plures sensus quos per indifferentiam continet. &amp; hoc siue ipsum 
+        <lb ed="#Bb" n="9"/>multiplex sit in oratione per se: vt multiplex amphibologicum, siue per partem eius, vt multiplex aequi 
+        <lb ed="#Bb" n="10"/>uocum. Ex indifferentia enim orationis ad duos sensus causatur in ea ambiguum: &amp; ex ambiguo mul 
+        <lb ed="#Bb" n="11"/>tiplex. Vnde ista interrogatio, est ne verum canem panem comedere an non: est multiplex secundum am- 
+        <lb ed="#Bb" n="12"/>phibologiam: quia ex ordine illorum duorum accusatiuorem scilicet canem &amp; panem ante illud verbum comede- 
+        <lb ed="#Bb" n="13"/>re ambigua est oratio dicta: &amp; per indifferentiam se habet ad duos sensus: quorum vnus est sub tali 
+        <lb ed="#Bb" n="14"/>ordine verborum, canem comedere panem: &amp; est verus: alter autem sub tali ordine verborum: Panem 
+        <lb ed="#Bb" n="15"/>comedere canem, &amp; est falsus. Vnde respondendum est ad illam interrogationem quia multiplex est plu 
+        <lb ed="#Bb" n="16"/>ribus responsionibus, distinguendo &amp; dicendo quod verum est secundum primum sensum, &amp; falsum secundum  
+        <lb ed="#Bb" n="17"/>secundum. Si enim vnica responsione &amp; fine distinctione responderetur secundum primum sensum dicendo quod 
+        <lb ed="#Bb" n="18"/>esset verum: argueretur ex secundo sic: Verum est canem panem comedere: turtellus est panis: ero verum 
+        <lb ed="#Bb" n="19"/>est turtellum comedere canem, quid tamen aperte falsum est: falsum est ergo &amp; concessum. Si etiam vnica 
+        <lb ed="#Bb" n="20"/>responsione responderetur secundum secundum sensum: dicendo quod non esset verum: argueretur ex primo 
+        <lb ed="#Bb" n="21"/>sensu sic: Non est verum canem panem comedere: latrabile est canis: ergo non est verum latrabile 
+        <lb ed="#Bb" n="22"/>comedere panem: quod tamen falsum est: falsum est ergo &amp; concessum. Et sic vtroque modo respon- 
+        <lb ed="#Bb" n="23"/>dens apparenter saltem esset redargutus. Similiter ista interrogatio, est ne verum omnem canem esse 
+        <lb ed="#Bb" n="24"/>animal an non: est multiplex secundum aequiuocationem: quia ex aequiuocatione huius nominis ca- 
+        <lb ed="#Bb" n="25"/>nis quod plura significat: ambigua est oratio dicta: &amp; per indifferentiam se habet ad duos sensus: quo  
+        <lb ed="#Bb" n="26"/>rum vnus est, quadrupes quoddam esse animal, &amp; est verus: alter autem, signum caeleste esse animal: &amp; 
+        <lb ed="#Bb" n="27"/>est falsus. Vnde ad illam orationem quia multiplex est, respondendum est pluribus responsionibus, di- 
+        <lb ed="#Bb" n="28"/>stinguendo &amp; dicendo quod verum est secundum primum sensum: &amp; falsum secundum secundum. Si enim simpliciter 
+        <lb ed="#Bb" n="29"/>vnica responsione &amp; fine distinctione responderetur secundum primum sensum, dicendo quod esset verum: 
+        <lb ed="#Bb" n="30"/>argueretur ex secundo sic. Omnis canis est animal: Sydus caeleste est canis: ergo sydus caeleste est 
+        <lb ed="#Bb" n="31"/>animal: quod tamen aperte falsum est: falsum est ergo &amp; concessum. Similiter si vnica responsione respon 
+        <lb ed="#Bb" n="32"/>deretur secundum secundum sensum, dicendo quod non est verum: argueretur ex sensu primo sic: Nullus ca 
+        <lb ed="#Bb" n="33"/>nis est animal latrabile: quadrupes est canis: ergo non est animal: quod tamen falsum est: falsum 
+        <lb ed="#Bb" n="34"/>est ergo &amp; concessum. Et sic etiam vtroque modo respondens esset apparenter redargutus. Vnde si 
+        <lb ed="#Bb" n="35"/>oratio talis qualis est aliqua dictarum interrogationum determinationem aliquam haberet per quam 
+        <lb ed="#Bb" n="36"/>non ad vtrumque sensum per indifferentiam se haberet, sed determinate, quod ambiguum tolleret, nec impe- 
+        <lb ed="#Bb" n="37"/>diret iudicium veritatis: nequaquam esset multiplex iudicanda: &amp; vnica responsione secure posset 
+        <lb ed="#Bb" n="38"/>ad ipsam responderi: vt si quaereretur sub tali ordine verborum: est ne verum canem comedere 
+        <lb ed="#Bb" n="39"/>panem: dicendo quod sic: &amp; si sub tali ordine verborum quaereretur: est ne verum panem comedere canen:s 
+        <lb ed="#Bb" n="40"/>dicendo quod non: Et si argueretur contra vtramque responsionem vt prius, respondendum esset vt ape  
+        <lb ed="#Bb" n="41"/>pareat responsiones esse bonas &amp; absque redargutione, distinguendo maiorem vt prius: quia si- 
+        <lb ed="#Bb" n="42"/>cut multiplex fuit interrogatio, multiplex est &amp; propositio. Et hoc contingit vniuersaliter in  
+        <lb ed="#Bb" n="43"/>ambiguo &amp; multiplici secundum amphibologiam: &amp; non sic in ambiguo &amp; multiplici secundum aequi  
+        <lb ed="#Bb" n="44"/>uocationem: quia etsi interrogatio sit multiplex, &amp; aequiuoca est &amp; ambigua atque indetermina- 
+        <lb ed="#Bb" n="45"/>ta ad duos sensus: non ideo propositio formata ex interrogatione fit multiplex &amp; ambigua atque  
+        <lb ed="#Bb" n="46"/>indeterminata ad duos sensus secundum se considerata. Non enim licet ista interrogatio sit indeter 
+        <lb ed="#Bb" n="47"/>minata atque ambigua: et ideo multiplex: est ne omnis canis animal an nullus: quia est sub di- 
+        <lb ed="#Bb" n="48"/>stinctione: ideo oportet quod ista propositio omnis canis est animal, secundum se considerata sit inde- 
+        <lb ed="#Bb" n="49"/>terminata siue ambigua &amp; multiplex: quia praedicatum licet non restringat subiectum: bene 
+        <lb ed="#Bb" n="50"/>tamen determinat subiectum ad supponendum determinate reddendo locutionem veram modo  
+        <lb ed="#Bb" n="51"/>pro forma: vt cum dicitur homo est species: modo pro supposito, vt cum dicitur homo currit: modo 
+        <lb ed="#Bb" n="52"/>pro significato deteriato scilicet pro latrabili tantum, vt cum dicitur Canis est animal: modo pro praesentibus: vt cum dicitur 
+        <lb ed="#Bb" n="53"/>homo currit: modo pro praeteritis: vt cum dicitur homo cucurrit: modo pro futuris, vt cum dicitur homo 
+        <lb ed="#Bb" n="54"/>curret. Nihilominus tamen talis propositio posita in sylso in quo medius terminus est ille qui de 
+   <!--592.xml-->
+        <pb ed="#Bb" n="289-r"/>
+        <lb ed="#Bb" n="1"/>se est aequiuocus, in ordine ad alteram multiplex est &amp; distinguenda: &amp; vice versa propositio altera si- 
+        <lb ed="#Bb" n="2"/>militer: vt si absque vlla interrogatione praefacta arguatur sic. Omnis canis est animal: sydus est canis:  
+        <lb ed="#Bb" n="3"/>ergo sydus est animal. Quamquam enim illa maior, omnis canis est animal, ex determinatione subiecti a praedi 
+        <lb ed="#Bb" n="4"/>cato nec ambigua esset, nec multiplex, nec distinguenda: propter tamen aequiuocationem termini me- 
+        <lb ed="#Bb" n="5"/>dii verificantis vnam propositionem pro vno significato, &amp; aliam pro alio: singula illarum in ordine ad 
+        <lb ed="#Bb" n="6"/>alteram distinguenda esset vt multiplex. Sicut autem in propositione seu enunciatione accepta se 
+        <lb ed="#Bb" n="7"/>cundum se praedicatum determinat subiectum ad supponendum pro forma vel pro supposito: vel pro 
+        <lb ed="#Bb" n="8"/>aliquo significato, vel pro suppositis alicuius determinati temporis: sic etiam subiectum determi- 
+        <lb ed="#Bb" n="9"/>nat praedicatum ad supponendum pro aliquo significato determinato: licet aliis modis non determinet 
+        <lb ed="#Bb" n="10"/>istud: prout de praedicatis dicit <name ref="#Boethius">Boethius</name> : &amp; tactum est in vltimo argumento: Talia sunt praedicata qua  
+        <lb ed="#Bb" n="11"/>lia permiserunt subiecta. Quia igitur in diuinis in omni propositione in qua praedicatur nomen translatum 
+        <lb ed="#Bb" n="12"/>a creaturis ad vnum significatum determinatur praedicatum a subiecto: dico quod nulla illarum secundum 
+        <lb ed="#Bb" n="13"/>se accepta vt est enunciatio, multiplex est aut distinguenda: sed determinate aut vera est aut fal- 
+        <lb ed="#Bb" n="14"/>sa. Si tamen accipiatur vt propositio in syllogismo in ordine ad alteram: &amp; nomen illud translatum sit me 
+        <lb ed="#Bb" n="15"/>dium in vtraque ex ordine mutuo inter se: propter acceptionem medii termini in alia significatio- 
+        <lb ed="#Bb" n="16"/>ne in vna illarum &amp; in altera: bene vtraque illarum multiplex est &amp; distinguenda: vt in tali paralo- 
+        <lb ed="#Bb" n="17"/>gismo: omne iustum iustificari potest adhuc: deus est iustus: ergo iustificari potest adhuc. Falsa enim est 
+        <lb ed="#Bb" n="18"/>conclusio: &amp; vtraque propositionum distinguenda est: &amp; contrariis sensibus maior &amp; minor sunt verae. 
+        <lb ed="#Bb" n="19"/>Si enim  iustum significat iustum per essentiam quid est superiustum, maior est falsa &amp; minor vera. Si au 
+        <lb ed="#Bb" n="20"/>tem significat iustum per participationem, maior est vera &amp; minor falsa: quae tamen propter de- 
+        <lb ed="#Bb" n="21"/>terminationem praedicati a subiecto, secundum se simpliciter vera est nec multiplex nec ambigua 
+        <lb ed="#Bb" n="22"/>nec distinguenda. Secundum hoc ergo concedenda est vltima ratio.  
+        <lb ed="#Bb" n="23"/>
+      </p>
+      <p xml:id="vn58an-fe78891-d1e344">
+        ⁋ Quod arguitur primo in oppositum, quod immo multiplex est secundum aequiuoca 
+        <lb ed="#Bb" n="24"/>tionem: quia in ipsa est terminus aequiuocus: Dico quod verum esset propositione accepta secundum se in  
+        <lb ed="#Bb" n="25"/>orma enunciationis nisi aequiuocatio esset in praedicato determinata per subiectum: non dico restricta: si 
+        <lb ed="#Bb" n="26"/>cut cum dicitur canis latrabilis, restricta est aequiuocatio illius termini canis. Non autem quia determinata 
+        <lb ed="#Bb" n="27"/>est per subiectum, propterea amittit multiplicationem: si accipiat scilicet forma propositionis in syllogismo in  
+        <lb ed="#Bb" n="28"/>ordine ad alteram propositionem, in qua terminus aequiuocus est medium: sicut dictum est. 
+      </p>
+      <p xml:id="vn58an-fe78891-d1e357">
+        ⁋ Ad secundum 
+        <lb ed="#Bb" n="29"/>uod in diuinis praedicatio affirmatiua &amp; negatiua de eodem praedicato &amp; subiecto singulari non sunt si 
+        <lb ed="#Bb" n="30"/>mul verae: ergo est multiplex vtraque: Dico quod secundum iam dicta verum est vnam considerando in 
+        <lb ed="#Bb" n="31"/>comparatione alterius: quia secundum praedicta affirmatiua supponit aut pro eo quod est dignita- 
+        <lb ed="#Bb" n="32"/>tis in creaturis: &amp; vt in creaturis est: aut supponit in quadam generalitate attributi pro eo quid di-  
+        <lb ed="#Bb" n="33"/>gnitatis in diuinis &amp; vt in diuinis est: quod facit affirmatiuam incompactam &amp; mendacem: vt dictum 
+        <lb ed="#Bb" n="34"/>est supra: &amp; negatiuam quoquo modo veram. Negatiua enim aut negatio illud quod affirmat contra 
+        <lb ed="#Bb" n="35"/>ria affirmatiua supponit in affirmatiua metaphorica in particulari, id quod simpliciter dignitatis 
+        <lb ed="#Bb" n="36"/>est in deo: vt patet ex praedeterminatis. Considerando autem vtramque secundum se: neutra illarum mul 
+        <lb ed="#Bb" n="37"/>tiplex est: &amp; affirmatiua est vera proprie: &amp; praedicatur praedicatum de deo per proprietatem: nega 
+        <lb ed="#Bb" n="38"/>tiua autem est vera metaphorice: secundum praedicta.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

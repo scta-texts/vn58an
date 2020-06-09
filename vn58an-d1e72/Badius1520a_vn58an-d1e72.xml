@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="1-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e72"> <!-- alias="vn58an-a1q1" -->
+      <head xml:id="vn58an-d1e72-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e72-Hd1e107" type="question-title">Utrum contingat hominem aliquid scire</head>
+      <p xml:id="vn58an-d1e72-d1e110">
+        <lb ed="#Ba" n="37"/>CIrca primum istorum arguitur quod non contingit hominem scire quicquam 
+        <lb ed="#Ba" n="38"/>Primo ex parte modi sciendi, sic. Quicquid scit homo scit ex priori &amp; notiori si 
+        <lb ed="#Ba" n="39"/>bi. primo Poste. &amp; primo physicae. Sic autem non contingit eum scire aliquid nisi scien- 
+        <lb ed="#Ba" n="40"/>do illud per prius &amp; notius eo: &amp; eadem ratione illud per aliud prius &amp; notius illo 
+        <lb ed="#Ba" n="41"/>&amp; sic in infinitum. Sic autem procedendo ad scientiam nihil contingit scire omnino se 
+        <lb ed="#Ba" n="42"/>cundum philosophum secundo Metaphysicae. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e126">
+        ⁋ Secundo ex parte medii quo  
+        <lb ed="#Ba" n="43"/>scitur, sic. Omnis humana cognitio intellectiua ortum habet a sensu. <ref xml:id="vn58an-d1e72-Rd1e130">i. Metaph.</ref> &amp;. <ref xml:id="vn58an-d1e72-Rd1e133">ii. 
+        <lb ed="#Ba" n="44"/>poste.</ref> Sed a sensibus corporis syncera veritas non est expetenda, secundum <ref xml:id="vn58an-d1e72-Rd1e138">Aug. lxxxiii quaestionibus quaestio- 
+        <lb ed="#Ba" n="45"/>ne. ix.</ref> Ergo cognitione intellectiua non potest homo scire synceram veritatem. Sed non contingit ho 
+        <lb ed="#Ba" n="46"/>minem scire nisi sciendo synceram veritatem: quia nihil scitur nisi verum. i. poste. &amp; non est veritas 
+        <lb ed="#Ba" n="47"/>nisi sit syncera, id est pura a falsitate, secundum <ref xml:id="vn58an-d1e72-Rd1e148">Aug. lxxxiii quaestionibus quaestione i.</ref> ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e153">
+        ⁋ Tertio ex eodem medio argue 
+        <lb ed="#Ba" n="48"/>bant negantes scientiam, sicut habetur. <ref xml:id="vn58an-d1e72-Rd1e157">iiii. Metaphysicae</ref>, sic. Sensus nihil certi apprehendit de re,. quia 
+        <lb ed="#Ba" n="49"/>si aliquid apparet vni de re aliqua: contrarium eius apparet alteri de eadem: &amp; quod apparet vni in  
+        <lb ed="#Ba" n="50"/>vno tempore &amp; in vna dispositione: contrarium eius apparet eidem: in alio tempore, &amp; in alia dispo- 
+        <lb ed="#Ba" n="51"/>sitione. Quare cum intellectus nihil apprehendit nisi a sensu, intellectus nihil certi: potest apprehende 
+        <lb ed="#Ba" n="52"/>re de re quacunque, non potest autem esse scientia nisi apprehendendo aliquid certum &amp; determinatum se 
+        <lb ed="#Ba" n="53"/>cundum <ref xml:id="vn58an-d1e72-Rd1e171">Philosophum. vi. Meta</ref>. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e175">
+        ⁋ Quarto ex parte scibilis est similiter argumentum eorum. <ref xml:id="vn58an-d1e72-Rd1e177">iiii. 
+        <lb ed="#Ba" n="54"/>Meta.</ref> sic. Scientia non est nisi de fixo &amp; permanente secundum Boetium primo Arithme. In rebus autem  
+   <!--17.xml-->
+        <pb ed="#Ba" n="1-v"/>
+        <lb ed="#Ba" n="1"/>sensibilibus ex quibus habetur omnis humana cognitio mediante sensu, non est aliquid fixum autem 
+        <lb ed="#Ba" n="2"/>permanens, secundum <ref xml:id="vn58an-d1e72-Rd1e191">Augustinus qui dicit. lxxxiii, quod quid ix</ref>. Quod sensibile dicitur sine vlla intermissio- 
+        <lb ed="#Ba" n="3"/>ne temporis commutatur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e197">
+        ⁋ Quinto ex parte scientis, &amp; est argumentum Mennonis quo  
+        <lb ed="#Ba" n="4"/>negabat scientiam in principio Posterio. vt dicit <ref xml:id="vn58an-d1e72-Rd1e201">
+        <name>Commentator</name> super. ix. Metaphysicae</ref>, sic, ne- 
+        <lb ed="#Ba" n="5"/>mo addiscit nisi qui aliquid nouit. secundum <name ref="#Augustine">Augustinus</name> iii. de Aca. &amp; Philosophum. ix. Metaphysicae. 
+        <lb ed="#Ba" n="6"/>Qui autem aliquid nouit non addiscit: quia addiscere est motus ad sciendum. Nemo ergo est qui ali 
+        <lb ed="#Ba" n="7"/>quid addiscit. Nemo autem potest habere disciplinam qui nihil didicit, secundum Augu. ibidem. 
+        <lb ed="#Ba" n="8"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e220">
+        ⁋ Sexto arguitur ex eodem medio aliter formando argumentum, sic. nihil addiscit qui  
+        <lb ed="#Ba" n="9"/>nihil nouit: non potest autem habere disciplinam qui nihil addiscit: ergo non potest habere discipli 
+        <lb ed="#Ba" n="10"/>nam qui nihil nouit, homo quilibet ab initio nihil nouit: quia intellectus humanus antequam recipiat spe 
+        <lb ed="#Ba" n="11"/>cies, est sicut tabula rasa in qua nihil depictum est, vt dicitur in tertio de anima. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e229">
+        ⁋ Septi- 
+        <lb ed="#Ba" n="12"/>mo ex parte obiecti, sic. ille non potest scire rem qui non percipit essentiam &amp; quidditatem rei: sed  
+        <lb ed="#Ba" n="13"/>solum idolum eius, quia non nouit Herculem, qui solum vidit picturam eius. Homo autem ni 
+        <lb ed="#Ba" n="14"/>hil percipit de re nisi solum idolum eius, vt speciem receptam per sensus, quae idolum rei est non  
+        <lb ed="#Ba" n="15"/>ipsa res. Lapis enim non est in anima, sed species lapidis, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e240">
+        <lb ed="#Ba" n="16"/>⁋ In contrarium arguitur primo argumento Commen. super principium secundi Me- 
+        <lb ed="#Ba" n="17"/>taphysicae, sic. Desiderium naturale non est frustra, homo secundum <name ref="#Aristotle">Philosophum</name> in primo Metaphy 
+        <lb ed="#Ba" n="18"/>sicae natura scire desiderat: ergo defiderium hominis ad scire non est frustra. Esset autem frustra ni 
+        <lb ed="#Ba" n="19"/>si contingeret eum scire, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e255">
+        ⁋ Secundo ex eodem medio aliter formando argumentum sic, quid  
+        <lb ed="#Ba" n="20"/>homo naturaliter desiderat possibile est ei accidere, secundum quod dicit <name ref="#Augustine">Augustinus</name> iiii. contra Iul. Neque omnes 
+        <lb ed="#Ba" n="21"/>homines naturali instinctu beati esse vellemus nisi esse possemus. homo naturaliter scire desiderat  
+        <lb ed="#Ba" n="22"/>in ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e267">
+        ⁋ Tertio adhuc quasi ex eodem medio sic. vnumquodque potest attingere suam perfectionem 
+        <lb ed="#Ba" n="23"/>ad quam naturaliter ordinatur, quia aliter esset frustra. Scire est hominis perfectio ad quam naturali- 
+        <lb ed="#Ba" n="24"/>ter ordinatur: quia in scientia speculatiua consistit eius felicitas secundum Philosophum. x. Ethi. 
+        <lb ed="#Ba" n="25"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e276">
+        ⁋ Quarto sic. Philosophous dicit. iii. &amp;. iiii. Metaphysicae, &amp; secundo cae. &amp; mun. Quod non po 
+        <lb ed="#Ba" n="26"/>test compleri impossibile est vt incipiat fieri ab agente per naturam vel per rationem: quia omnis 
+        <lb ed="#Ba" n="27"/>motus habet finem &amp; complementum propter quem est. Sed secundum eundem primo Metaphysicae 
+        <lb ed="#Ba" n="28"/>homines philosophati sunt &amp; prudentiam primo inceperunt inuestigare propter id quid est scire &amp; in  
+        <lb ed="#Ba" n="29"/>telligere &amp; fugere ignorantiam: possibile est ergo hominem scire &amp; intelligere. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e287">
+        ⁋ Quinto sic. secundum 
+        <lb ed="#Ba" n="30"/>Augustinus de vera religione, qui dubitat an contingat aliquid scire se dubitare non dubitat, sed certus est, non 
+        <lb ed="#Ba" n="31"/>est autem certus nisi de vero quod scit: ergo illum qui dubitat se scire, necesse est concedere se ali- 
+        <lb ed="#Ba" n="32"/>quid scire. Hoc autem non esset nisi contingeret eum aliquid scire cum contingit eum dubitare.  
+        <lb ed="#Ba" n="33"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e298">
+        ⁋ Sexto quasi eadem via arguunt <name ref="#Aristotle">Philosophus</name> &amp; eius Commenta. iiii. Metaphysicae sic. qui ne 
+        <lb ed="#Ba" n="34"/>gat scientiam esse, dicit in hoc quia certus est quod non est scientia, de non est certus nisi de aliquo quid  
+        <lb ed="#Ba" n="35"/>scit: ergo qui negat scientiam esse, &amp; quod hominem non contingit scire, necesse habet concedere 
+        <lb ed="#Ba" n="36"/>scientiam esse, &amp; quia contingit hominem aliquid scire. Et est haec ratio consimilis rationi illi qua Phi 
+        <lb ed="#Ba" n="37"/>losophus concludit in iiii. Metaphysicae, quod illum qui negat loquelam esse, necesse est concedere lo- 
+        <lb ed="#Ba" n="38"/>quelam esse. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e315">
+        <lb ed="#Ba" n="39"/>⁋ Dicendum quod scire large accepto ad omnem notitiam certam qua cognoscitur 
+        <lb ed="#Ba" n="40"/>res sicut est absque omni fallacia &amp; deceptione, &amp; sic intellecta &amp; proposita quaestione contra negantes 
+        <lb ed="#Ba" n="41"/>scientiam &amp; omnem veritatis perceptionem, manifestum est &amp; clarum quod contingit hominem scire aliquid  
+        <lb ed="#Ba" n="42"/>&amp; hoc secundum omnem modum sciendi &amp; cognoscendi. Scire enim potest aliquis rem aliquam dupliciter 
+        <lb ed="#Ba" n="43"/>vel testimonio alieno &amp; exteriori, vel testimonio proprio &amp; interiori. Quia primo modo contingit 
+        <lb ed="#Ba" n="44"/>aliquid scire, dicit <name ref="#Augustine">Augustinus</name> contra Aca, xv. de trinitate. c. xii. Absit inquit, vt nos scire negemus, quae testimonio 
+        <lb ed="#Ba" n="45"/>didicimus aliorum. Alioquin nescimus oceanum, nec scimus esse terras atque vrbes, quas celeber- 
+        <lb ed="#Ba" n="46"/>rima fama conmendat. Nescimus fuisse homines &amp; opera eorum quae historica lectione didicimus. po 
+        <lb ed="#Ba" n="47"/>stremo nescimus in quibus locis vel ex quibus hominibus fuerimus exorti: quia haec omnia testi- 
+        <lb ed="#Ba" n="48"/>moniis aliorum didicimus. Quia autem secundo modo contingit aliquid scire &amp; rem percipere sicut 
+        <lb ed="#Ba" n="49"/>est, manifestum est ex eis quae experimur in nobis, &amp; circa nos. &amp; hoc tam in cognitione sensitiua 
+        <lb ed="#Ba" n="50"/>quam intellectiua. In cognitione enim sensitiua sensus ille vere rem percipit sicuti est fine omni deceptio 
+        <lb ed="#Ba" n="51"/>ne &amp; fallacia: cui in actione propria sentiendi suum proprium obiectum non contradicit aliquis sen- 
+        <lb ed="#Ba" n="52"/>sus verior vel intellectus acceptus ab alio sensu veriori fiue in eodem siue in alio. Nec de eo quid sic 
+        <lb ed="#Ba" n="53"/>percipimus dubitandum est quin percipiamus ipsum sicuti est, nec oportet in hoc aliquam vlteriorem 
+        <lb ed="#Ba" n="54"/>causam certitudinis quaerere. Quia vt dicit Philosophus, Quaerere rationem cuius habemus sen- 
+   <!--18.xml-->
+        <pb ed="#Ba" n="2-r"/>
+        <lb ed="#Ba" n="1"/>sum, infirmitas intellectus est. cuius enim dignius habemus aliquid quam rationem, non est quaerenda ratio. ex 
+        <lb ed="#Ba" n="2"/>perimentum ei sermonum verorum est vt conveniant rebus sensatis. Hic est quod dicit <name ref="#Augustine">Augustinus</name> vbi supra. Absit a no 
+        <lb ed="#Ba" n="3"/>bis vt ea quae per sensus corporis didicimus vera esse dubitemus. Per eos enim didicimus coelum &amp; terram 
+        <lb ed="#Ba" n="4"/>&amp; ea quae in eis nobis nota sunt. Hinc etiam Tullius in libro suo de Academica volens probare contra Academica quod contin  
+        <lb ed="#Ba" n="5"/>git aliquid certitudinaliter scire, dicit sic. Ordiamur a sensibus: quorum ita clara iudicia &amp; certa sunt 
+        <lb ed="#Ba" n="6"/>vt si optio naturae detur, non videam quid quaeratur amplius. Meo iudicio maxima est in sensibus veritas:  
+        <lb ed="#Ba" n="7"/>si &amp; sani sunt ac valentes &amp; omnia remouentur quae obstant &amp; impediunt. aspectus ipse fidem facit sui iu- 
+        <lb ed="#Ba" n="8"/>dicii. De fide vero in cognitione intellectiua, quia sic contingit per eam aliquid vere scire sicuti est: 
+        <lb ed="#Ba" n="9"/>statim subiungit ibidem. dicit Aut qualia sunt haec quae dum de sensibus percipi dicimus talia sequuntur ea 
+        <lb ed="#Ba" n="10"/>quae non sensibus percipi dicuntur, vt haec: ille est albus, ille est canus. Deinde sequuntur maiora, vt 
+        <lb ed="#Ba" n="11"/>si homo est animal est. quo ex genere notitia rerum nobis imprimitur. Cognitione igitur intellectiua sicut iam 
+        <lb ed="#Ba" n="12"/>dictum est de cognitione sensitiua, intellectus ille vere rem percipit sicuti est sine omni deceptione &amp; 
+        <lb ed="#Ba" n="13"/>fallacia: cui in actione propria intelligendi non contradicit intellectus verior, vel acceptus a sensu ve 
+        <lb ed="#Ba" n="14"/>riori, nec de tali intellectu plus dubitandum est quam de sensu. Vnde <name ref="#Augustine">Augustinus</name> vbi supra. Cum duo sunt genera 
+        <lb ed="#Ba" n="15"/>rerum quae sciuntur, vnum eorum quae per sensus corporis percipit animus, alterum eorum quae per seipsum, multa 
+        <lb ed="#Ba" n="16"/>illi philosophi (loquitur de Academica, garriunt contra corporis sensus: cum tamen quasdam firmissimas per seipsas perce 
+        <lb ed="#Ba" n="17"/>ptiones rerum verarum nequaquam in dubium reuocare potuerunt: quale est illud: scio me viuere. in quo non 
+        <lb ed="#Ba" n="18"/>metuimus ne aliqua veri similitudine fallamur. Quoniam certum est eum qui fallitur viuere. Vbi nec Academicus 
+        <lb ed="#Ba" n="19"/>dicere potest: fortassis dormis &amp; nescis &amp; in somnis vides: quia nec in ea scientia per somnia falli po 
+        <lb ed="#Ba" n="20"/>test: quia &amp; dormire &amp; in somnis videre viuentis est. Nec illud Academica dicere potest furis fortassis &amp; nescis 
+        <lb ed="#Ba" n="21"/>quia sanorum visis similia sunt etiam visa furentium. Sed qui furit viuit, nec contradicit Academica Non ergo  
+        <lb ed="#Ba" n="22"/>fallitur nec mentiri potest, qui dixerit se viuere, nec de hoc alia probatio requirenda est, quam illa quae  
+        <lb ed="#Ba" n="23"/>habetur exercitio intellectus, &amp; per signa euidentia a posteriori, qualia inferius ponentur. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e417">
+        ⁋ Contra hoc tamen 
+        <lb ed="#Ba" n="24"/>antiquitus vigebant. vii. errores tum ex parte sensus tum ex parte intellectus, quorum quinque reprobat  
+        <lb ed="#Ba" n="25"/>Philosophous. iiii. Metaph. illorum. scilicet errorem qui negabant scientiam negando illud principium scientiale 
+        <lb ed="#Ba" n="26"/>de quolibet affirmatio vel negatio &amp; non simul de eodem. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e426">
+        ⁋ Sextum vero qui erat Mennonis negantis hominem 
+        <lb ed="#Ba" n="27"/>posse addiscere, reprobat in principio Poste. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e431">
+        ⁋ Septimum vero qui erat Academicorum negantium veri 
+        <lb ed="#Ba" n="28"/>perceptionem, reprobant <name ref="#Augustine">Augustinus</name> &amp; Tullius in libris suis de Academicis. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e439">
+        ⁋ Eorum autem contra quorum errores 
+        <lb ed="#Ba" n="29"/>disputat Philosophous. iiii. Metaphysicae. quidam dicebant quod omnia essent falsa: quidam vero quod omnia essent ve 
+        <lb ed="#Ba" n="30"/>ra. Alii vero quod omnia essent vera &amp; falsa simul. Eorum vero qui dicebant quod omnia essent falsa: quidam ratio-  
+        <lb ed="#Ba" n="31"/>nem opinionis suae acceperunt ex parte rei, vt Anaxagoras &amp; Xenocrates: qui dicebant quod omne esset 
+        <lb ed="#Ba" n="32"/>admixtum cum omni, quia videbant fieri omne ex omni: &amp; illud mixtum dicebant esse neque ens, neque non ens, 
+        <lb ed="#Ba" n="33"/>&amp; quasi neutrum extremorum, sed medium per abnegationem inter ipsa, &amp; ideo impossibile esse vt aliquid  
+        <lb ed="#Ba" n="34"/>aestimetur vere: sed quod omnes aestimationes essent falsae: &amp; quod sic non esset scientia de aliquo: quia scientia so 
+        <lb ed="#Ba" n="35"/>lum verorum est, vt dicitur primo Posteriorum Isti errabant non distinguendo ens in potentia ab ente in actu. 
+        <lb ed="#Ba" n="36"/>in potentia enim contraria &amp; contradictoria sunt simul, non autem in actum. Circa entia enim in actu est solum 
+        <lb ed="#Ba" n="37"/>modo distinctio contrariorum &amp; contradictoriorum: quod scilicet aliquid sit determinate hoc &amp; non illud, per quid  
+        <lb ed="#Ba" n="38"/>est determinata veritas &amp; scientia de aliquo quod sit ipsum &amp; non aliud. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e463">
+        ⁋ Alii vero dicebant quod omnia a 
+        <lb ed="#Ba" n="39"/>essent falsa sumentes rationem suam ex parte sensus, vt Democritus. &amp; Leucippus: qui dixerunt quod idem sentitur a qui 
+        <lb ed="#Ba" n="40"/>busdam quidem dulce, &amp; a quibusdam amarum, &amp; quod isti non differunt nisi secundum multitudinem &amp; paucitatem 
+        <lb ed="#Ba" n="41"/>quia. scilicet illi quibus videtur dulce sunt plures &amp; sani: quibus vero amarum, sunt pauci &amp; infirmi. Nihil 
+        <lb ed="#Ba" n="42"/>ergo vt dicebant est in rei veritate determinate tale vel tale: immo quodlibet nec tale est nec tale. 
+        <lb ed="#Ba" n="43"/>&amp; sic nihil est verum, sed omnia sunt falsa, &amp; non est omnino scientia. Causa erroris istorum erat: quia aesti 
+        <lb ed="#Ba" n="44"/>mabant quod intellectus &amp; sensus idem essent, &amp; scientia a sensu comprehenderetur. Vnde cum eis visum fuit quod  
+        <lb ed="#Ba" n="45"/>sensibilia diuersam habent dispositionem apud sensum, nec aliquid certi sentiretur, crediderunt quod nec aliquid certe 
+        <lb ed="#Ba" n="46"/>sciretur. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e483">
+        ⁋ Horum opinioni annexa fuit opinio Acade. de quae dicit <name ref="#Augustine">Augustinus</name> quod affirmabant ab homine nihil veri aut ai 
+        <lb ed="#Ba" n="47"/>certi percipi posse. Non tamen hominem debere cessare a veritatis inquisitione. Veritatem autem dicebant aut solum 
+        <lb ed="#Ba" n="48"/>deum nosse, aut fortasse animam hominis exutam corpore. &amp; quod hoc intendebant de rebus tantum quae pertinent 
+        <lb ed="#Ba" n="49"/>ad philosophiam. de aliis autem non curabant. Ratio eorum secundum quod recitat <name ref="#Augustine">Augustinus</name> fuit, quia dicebant solum his signis ve 
+        <lb ed="#Ba" n="50"/>rum posse cognosci, quae non possent habere rationem falsi: ita quod verum a falso dissimilibus notis discerneretur, nec 
+        <lb ed="#Ba" n="51"/>haberet cum falso signa communia, &amp; sic id quid verum est falsum appere non posset, talia autem signa inueniri posse, im 
+        <lb ed="#Ba" n="52"/>possibile esse credebant, &amp; ideo concludebant quod veritas propter quasdam naturae tenebras vel non esset vel obruta 
+        <lb ed="#Ba" n="53"/>&amp; confusa nobis lateret. vnde &amp; dixit Democritus vt habetur. iiii. Metaphysicae Aut nihil omnino est verum: aut quid non mon 
+        <lb ed="#Ba" n="54"/>stratur nobis. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e510">
+        ⁋ Alii vero vt Protagoras &amp; eius sequaces dicebant omnia vera &amp; falsa esse simul: Dicendo quod non 
+   <!--19.xml-->
+        <pb ed="#Ba" n="2-v"/>
+        <lb ed="#Ba" n="1"/>esset veritas extra animam, &amp; quod illud quod apparet extra, non est aliquid quod est in ipsa re in tempore quo apparet: sed  
+        <lb ed="#Ba" n="2"/>est in ipso apprehendente. Vnde omnino negabant res habere esse extra animam: &amp; ideo oportebat illos dicere 
+        <lb ed="#Ba" n="3"/>quod duo contraria essent simul vera: non tantum secundum diuersos sensus apprehendentes sed etiam secundum eundem sensum 
+        <lb ed="#Ba" n="4"/>diuersimode dispositum: quia quod apparet vni mel secundum gustum: alteri apparet secundum gustum non mel: &amp; quod  
+        <lb ed="#Ba" n="5"/>vni apparet mel secundum visum, apparet eidem non mel secundum gustum: &amp; quod alicui apparet vnum per ocu 
+        <lb ed="#Ba" n="6"/>los: mutato situ oculorum apparet ei duo. Ex quo concludebant quod nihil determinatum appareret. 
+        <lb ed="#Ba" n="7"/>nec esset aliquid verum determinatum, &amp; quod ideo omnino non esset scientia. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e532">
+        ⁋ Alii vero vt Heraclitus 
+        <lb ed="#Ba" n="8"/>&amp; eius sequaces dixerunt quod omnia sunt simul vera &amp; falsa: quia aestimabant quod tantum sensibilia essent 
+        <lb ed="#Ba" n="9"/>entia: &amp; quod ipsa non essent determinata in esse suo, sed continue transmutata, &amp; quod sic nihil in eis 
+        <lb ed="#Ba" n="10"/>maneret idem in rei veritate: sed essent in eis simul ens &amp; non ens, &amp; de eodem: quia motus compo- 
+        <lb ed="#Ba" n="11"/>nitur ex esse &amp; non esse: &amp; omnis transmutatio media est inter ens &amp; non ens. Propter quod vlterius di 
+        <lb ed="#Ba" n="12"/>xerunt quod non oporteret respondere ad quaestionem sic vel non. Vnde &amp; Heraclitus in fine vitae 
+        <lb ed="#Ba" n="13"/>suae opinabatur quod non oporteret aliquid dicere, sed tantum mouebat digitum: ex quo mouebantur ad dicendum 
+        <lb ed="#Ba" n="14"/>quod de nullo scientia acquiri posset ab homine. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e550">
+        ⁋ Opinio Mennonis &amp; quorundam Platonicorum erat quod  
+        <lb ed="#Ba" n="15"/>nemo posset aliquid addiscere: &amp; quod ideo nemo posset aliquid scire, vt supra dictum est in v. &amp;. vi. ar 
+        <lb ed="#Ba" n="16"/>gumento. Defectus rationum opinionum istarum patebit statim in dissoluendo argumenta. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e557">
+        ⁋ Sed con 
+        <lb ed="#Ba" n="17"/>tra positionem omnium istorum principalem, quia negans scientiam destruit omnem fidem &amp; totam philo 
+        <lb ed="#Ba" n="18"/>sophiam: vt dicit Philosophus. iiii. Metaphysicae: impossibile est disputare demonstrando scientiam 
+        <lb ed="#Ba" n="19"/>esse, &amp; aliquid posse sciri: quia negant omnia sciendi principia, sed tantum vtendum est defensione scien 
+        <lb ed="#Ba" n="20"/>tiae contra ipsos sermonibus veris &amp; valde probabilibus, quos non possunt negare. Ex talibus igitur 
+        <lb ed="#Ba" n="21"/>sermonibus per tria aperta inconvenientia sequentia ex dicto ipsorum conuincit eos Tullius in libro 
+        <lb ed="#Ba" n="22"/>suo de Aca, quorum primum sumitur ex scientiis artificialibus. Secundum ex actibus virtutum. Tertium 
+        <lb ed="#Ba" n="23"/>ex operibus humanae conversationis. Primum inducit sic. Omnis ars ex multis perceptionibus sit: quas 
+        <lb ed="#Ba" n="24"/>si substraxeris, quomodo distingues artificem ab inscio: Quid eim est quod arte effici potest nisi is qui artem  
+        <lb ed="#Ba" n="25"/>tractabit multa perceperit: Vnde dicit <name ref="#Augustine">Augustinus</name> de vera religione nihil aliud esse artem vulgarem nisi rerum exper 
+        <lb ed="#Ba" n="26"/>tarum memoriam. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e584">
+        ⁋ Secundum inducit sic. quaero: vir ille bonus qui statuit omnem cruciatum perferre potius 
+        <lb ed="#Ba" n="27"/>quam officium perdat aut fidem, quo fieri potest vt nullum supplicium recuset nisi his rebus assensus sit quae 
+        <lb ed="#Ba" n="28"/>falsae esse non possunt: 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e591">
+        ⁋ Tertium inducit sic. quomodo suscipere aliquam rem aut agere fideliter audebit cui cer 
+        <lb ed="#Ba" n="29"/>tum nihil erit quod sequatur, vltimum bonorum ignorans quo omnia referantur: De hoc ponit bonum exemplum <name ref="#Aristotle">Philosophus</name> 
+        <lb ed="#Ba" n="30"/>iiii. Metaph. Ambulans enim vt dicit ambulat &amp; non stat, quia opinatur quod ambulandum est: &amp; non vadit per viam 
+        <lb ed="#Ba" n="31"/>ad puteum stantem in via, sed euitat ipsum. Scit enim quod casus in puteum est malus. Rationes igitur probantes 
+        <lb ed="#Ba" n="32"/>quod contingit aliquid scire, concedendae sunt. Ad rationes vero in oppositum respondendum per ordinem. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e606">
+        <lb ed="#Ba" n="33"/>⁋ Ad primum quod omnis scientia est ex priori &amp; notiori &amp;c. Dicendum quod ille modus acquirendi 
+        <lb ed="#Ba" n="34"/>scientiam solummo est intelligendus de scientiis conclusionum. Principia enim per se primo &amp; immediate cognoscuntur 
+        <lb ed="#Ba" n="35"/>non per alia: quia non habent alia notiora se. Non distinguentibus igitur notum per se ab illo quod est notum 
+        <lb ed="#Ba" n="36"/>per aliud, illis solummodo contingit ille processus in infinitum &amp; nihil scire, &amp; non aliis. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e617">
+        ⁋ Ad secun- 
+        <lb ed="#Ba" n="37"/>dum quod a sensibus corporis non est expetenda syncera veritas: Dicendum quod verum est vbique &amp; in omnibus 
+        <lb ed="#Ba" n="38"/>sequendo iudicium sensus. &amp; hoc propter duo, ex quibus <name ref="#Augustine">Augustinus</name> arguit, quod iudicium certum non est con- 
+        <lb ed="#Ba" n="39"/>stitutum in sensibus. Quorum primum est rerum sensibilium mutabilitas. Secundum est ipsius sensus fallibi- 
+        <lb ed="#Ba" n="40"/>litas. Apprehensione autem facta per sensus auertendo a sensibus vt iudicium fiat in ratione, quod  
+        <lb ed="#Ba" n="41"/>summe monet fieri <name ref="#Augustine">Augustinus</name> in inquisitione veritatis, bene a sensibus syncera veritas expetenda est. &amp; hoc 
+        <lb ed="#Ba" n="42"/>quantum ex puris naturalibus iudicio rationis in lumine puro naturali potest conspici: vel simpliciter iu 
+        <lb ed="#Ba" n="43"/>dicio intellectus in claritate lucis aeternae. De qua synceritate in iudicio rationis sequentis sensum loquitur 
+        <lb ed="#Ba" n="44"/>Augustinus ad literam: secundum quod de vtroque modo conspiciendi veritatem videbitur inferius. Ex sensu ergo origi 
+        <lb ed="#Ba" n="45"/>naliter bene est expetenda syncera veritas quodam modo: quoniam sensus proprii est certissima cognitio 
+        <lb ed="#Ba" n="46"/>circa suum, proprium obiectum nisi impediatur vel ex se vel ex medio, vel ab aliquo alio: nec contingit cessan- 
+        <lb ed="#Ba" n="47"/>te omni impedimento ipsum errare siue aliter apprehendere suum proprium obiectum quam sit: licet talis appre 
+        <lb ed="#Ba" n="48"/>hensio non sit mansiua vel propter rei vel propter ipsius sensus mutabilitatem: vt certa veritas diu  
+        <lb ed="#Ba" n="49"/>capi non possit stando omnino in iudicio sensus. Id tamen quod apprehensum est per sensum non deceptum 
+        <lb ed="#Ba" n="50"/>abstrahendo &amp; iudicium formando penes intellectum, vbi manet quasi sine transmutatione quod  
+        <lb ed="#Ba" n="51"/>apprehensum est, nec verisimilibus speciebus phantasmatum obumbrari potest, certissima veri- 
+        <lb ed="#Ba" n="52"/>tas a tali sensu capitur, &amp; nobis certissima scientia est illa rerum sensibilium quae ad sensus ex- 
+        <lb ed="#Ba" n="53"/>perientiam potest reduci. Vnde sensum dimittentes &amp; eius iudicium penitus abnegantes frequenter 
+   <!--20.xml-->
+        <pb ed="#Ba" n="3-r"/>
+        <lb ed="#Ba" n="1"/>in absurdissimos errores apud intellectum sophisticis rationibus decepti inciderunt. Sicut Zeno, qui  
+        <lb ed="#Ba" n="2"/>dixit quod nihil contingit moueri, &amp; quicumque dixit quod moto vno mouentur omnia. Vnde semper oportet 
+        <lb ed="#Ba" n="3"/>credere sensui particulari non impedito, nisi alius sensus dignior in eodem alio tempore, vel in alio eodem 
+        <lb ed="#Ba" n="4"/>tempore contradicat, vel virtus aliqua superior percipiens sensus impedimentum. Non enim sensus equae bene 
+        <lb ed="#Ba" n="5"/>dispositi sunt in omnibus vel in eodem diuersis temporibus, &amp; ideo non aequaliter iudicio eorum credendum est 
+        <lb ed="#Ba" n="6"/>vt patet in sano &amp; aegro. Magis enim credendum est gustui sani quam aegri, &amp; ei qui videt aliquid de proprie 
+        <lb ed="#Ba" n="7"/>quam qui videt de longe: &amp; ei qui videt aliquid per medium vniforme quam ei qui videt per medium non vni- 
+        <lb ed="#Ba" n="8"/>forme, &amp; sic de caeteris huiusmodi dispositionibus. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e684">
+        ⁋ Ad tertium quod idem saepius apparet diuersimode eidem 
+        <lb ed="#Ba" n="9"/>vel diuersis: Dicendum quod non sequitur ex hoc quod nulli sensui credendum est: quia vt dictum est in quo  
+        <lb ed="#Ba" n="10"/>vnus fallitur alter frequenter verum dicit: vel in quo idem fallitur in vna dispositione: verum dicit in alia. &amp; sic pa 
+        <lb ed="#Ba" n="11"/>tet quo deficiebat ratio Democriti. Licet ei sensibilia habent diuersam dispositionem apud sensum, aliquid tamen 
+        <lb ed="#Ba" n="12"/>determinate percipitur per sensum non deceptum in hora in quae non decipitur. Et non solum differunt sensationes pe 
+        <lb ed="#Ba" n="13"/>nes paucitatem &amp; multitudinem sensibilium, sed secundum dignitatem maiorem &amp; minorem sensuum in sentiendo.  
+        <lb ed="#Ba" n="14"/>Similiter patet defectus rationis Aca. Non ei verum est dictum eorum quod nihil percipitur determinate per signa, &amp; quod non 
+        <lb ed="#Ba" n="15"/>verificant de re: immo signa quae sunt propria sensibilia alicuius sensus, id quod sunt ostendunt sen 
+        <lb ed="#Ba" n="16"/>sui proprio non decepto nec impedito, &amp; in determinatam notitiam veritatis rei possunt intellectum in-  
+        <lb ed="#Ba" n="17"/>ducere. Vnde &amp; ipsimet solliciti erant in inquirendo veritatem per huiusmodi signa magis quam alii: li- 
+        <lb ed="#Ba" n="18"/>cet aestimatio eorum esset quod veritatem numquam possent inuenire: &amp; erat aestimatio eorum similis in hoc ei quod  
+        <lb ed="#Ba" n="19"/>currere aliquem ad apprehendendum aliquid quod nunquam apprehendet. Sicut improperat eis <name ref="#Aristotle">Philosophus</name> iii. Meta 
+        <lb ed="#Ba" n="20"/>physicae. Caetera vero pertinentia ad eorum opinionem amplius declarabuntur in quaestione proxima sequen 
+        <lb ed="#Ba" n="21"/>ti. Per idem patet falsum esse quod assumpsit Amphratagus quod res sequuntur sensuum apparentias, quoniam sen 
+        <lb ed="#Ba" n="22"/>sus siue verus siue deceptus non potest sumi nisi a re: quia sensus est virtus passiua. Vnde &amp; quamuis 
+        <lb ed="#Ba" n="23"/>idem diuersimode apparet eidem vel diuersis, hoc non est nisi propter deceptionem vel impedi- 
+        <lb ed="#Ba" n="24"/>mentum alicuius sensus cui non oportet credere in hoc: nec tamen propter hoc dicendum est quod nulli 
+        <lb ed="#Ba" n="25"/>sensui credendum est. Sensui enim non decepto omnino oportet credere: &amp; quis sit talis maxime habet 
+        <lb ed="#Ba" n="26"/>iudicare intellectus ex pluribus experimentationibus praehabitis circa illa in quibus sensus potest decipi vel 
+        <lb ed="#Ba" n="27"/>impediri. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e731">
+        ⁋ Ad quartum quod omnia sensibilia sunt in continua transmutatione: dicendum quod Heraclitiani 
+        <lb ed="#Ba" n="28"/>quorum illa fuit ratio solum sensibilia credebant esse entia: &amp; erat error omnium philosophantium, 
+        <lb ed="#Ba" n="29"/>vsque ad tempora ltalicorum, qui vnanimiter negabant scientiam esse propter mutabilitatem rerum sensi- 
+        <lb ed="#Ba" n="30"/>bilium naturalium. Quorum errorem percipientes posteriores philosophi ponebant scientiam esse, &amp; ali- 
+        <lb ed="#Ba" n="31"/>quid posse sciri in rebus sensibilibus naturalibus. Sed in modo sciendi &amp; acquirendi scientiam diuersi- 
+        <lb ed="#Ba" n="32"/>ficati sunt. Pythagoras enim primus ltalicorum credens cum praecedentibus quod de rebus naturalibus pro 
+        <lb ed="#Ba" n="33"/>pter earum transmutationem ex eis ipsis non posset haberi scientia: vt tamen saluaret aliquo modo scientiam 
+        <lb ed="#Ba" n="34"/>rerum naturalium, mathematica induxit in naturalibus, ponendo ipsa principia &amp; causas rerum naturalium 
+        <lb ed="#Ba" n="35"/>tam in esse quam in cognitione: eo quod per abstractionem suam a materia sensibili &amp; transmutabili quodam 
+        <lb ed="#Ba" n="36"/>modo sunt intransmutabilia. Plato autem posterior Pythagora videns mathematica secundum rem inesse 
+        <lb ed="#Ba" n="37"/>naturalibus, &amp; ideo realiter mutari cum naturalibus quantumcumque abstrahantur ab eis: nec per mathemati- 
+        <lb ed="#Ba" n="38"/>ca de naturalibus fixam posse haberi scientiam: posuit formas ideales causas &amp; principia rerum naturalium 
+        <lb ed="#Ba" n="39"/>tam in esse quam in cognitione, &amp; omnino separatas ab eis &amp; absque omni transmutatione: vt sic per illas de trans 
+        <lb ed="#Ba" n="40"/>mutabilibus intransmutabilis possit esse scientia. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e762">
+        ⁋ Aristoteles autem videns quod res nec habet esse nec 
+        <lb ed="#Ba" n="41"/>cognosci nisi per id quod est in re: &amp; quod singularium propter eorum transmutationem non posset esse scien 
+        <lb ed="#Ba" n="42"/>tia ex seipsis, posuit vniuersalia generae. scilicet &amp; species abstrahi per intellectum a singularibus, in quibus habent 
+        <lb ed="#Ba" n="43"/>esse secundum veritatem. Vniuersale enim est vnum in multis &amp; de multis, quae licet vt in singularibus sunt 
+        <lb ed="#Ba" n="44"/>sunt transmutabilia: vt tamen sunt in intellectu: sunt intransmutabilia. &amp; secundum hoc de rebus naturalibus 
+        <lb ed="#Ba" n="45"/>sensibilibus, particularibus, transmutabilibus per eorum vniuersalia existentia apud intellectum posuit fixam habe 
+        <lb ed="#Ba" n="46"/>ri scientiam. <name ref="#Augustine">Augustinus</name> autem philosophia Platonis imbutus siqua inuenit in ea fidei accommoda in scriptis 
+        <lb ed="#Ba" n="47"/>suis assumpsit, quae vero inuenit fidei aduersa, quantum potuit in melius interptatus est. Et ideo cum vt dicit in  
+        <lb ed="#Ba" n="48"/>l. lxxxiii, q. xliiii, q. sacrilegium videbatur esse opinari ideas rerum poni extra diuinam mentem, quas ipsa intue 
+        <lb ed="#Ba" n="49"/>retur ad constituendum quae constituebat: quod tamen Aristo. Platoni imposuit: dixit Platonem eas posuisse in diui 
+        <lb ed="#Ba" n="50"/>na intelligentia &amp; ibi subsistere: secundum quod dicit. viii. de ci. dei. c. iiii. Quid in eis Plato senserit. id est vbi finem omnium  
+        <lb ed="#Ba" n="51"/>actionum, vbi causam omnium naturarm, vbi lumen omnium rationum esse cognouerit vel crediderit, temere affir 
+        <lb ed="#Ba" n="52"/>mandum esse non arbitror. fortassis enim quam prae caeteris Platonem fama celebriore laudant, aliquid tale de deo sen 
+        <lb ed="#Ba" n="53"/>tiunt vt in illo inueniatur &amp; causa subsistendi, &amp; ratio intelligendi, &amp; ordo viuendi. Vnde <name ref="#Augustine">Augustinus</name> sanius interpretans di 
+        <lb ed="#Ba" n="54"/>cta Platonis quam Aristo. ponit principia certae scientiae &amp; cognitionis veritatis consistere in regulis siue ra 
+        <lb ed="#Ba" n="55"/>tionibus aeternis incommutabilibus existentibus in deo: quarum participatione per intellectualem cognitionem 
+   <!--21.xml-->
+        <pb ed="#Ba" n="3-v"/>
+        <lb ed="#Ba" n="1"/>cognoscitur quicquid syncerae veritatis in creaturis cognoscitur, vt sicut sua entitate est causa omnium 
+        <lb ed="#Ba" n="2"/>existendi inquantum sunt: sic &amp; sua veritate est causa omnium cognoscendi inquantum vera sunt, 
+        <lb ed="#Ba" n="3"/>&amp; per hoc de rebus transmutabilibus quantuncumque transmutabiles sint certa potest esse &amp; fixa scien 
+        <lb ed="#Ba" n="4"/>tia. secundum quod dicit <name ref="#Augustine">Augustinus</name> xii. de Trini. Non solum rerum sensibilium in locis positarum, sine spa 
+        <lb ed="#Ba" n="5"/>tiis localibus manent intelligibiles incorporalesque rationes: verumetiam motionum in tempori- 
+        <lb ed="#Ba" n="6"/>bus transeuntium sine temporali transitu stant etiam ipsae intelligibiles non sensibiles rationes: ad  
+        <lb ed="#Ba" n="7"/>quas mentis acie peruenire paucorum est. At cum peruenitur quantum fieri potest, non in eis ma 
+        <lb ed="#Ba" n="8"/>net ipse peruentor: &amp; sit rei transitoriae transitoria cogitatio. Quae tamen cogitatio transiens per di 
+        <lb ed="#Ba" n="9"/>sciplinas quibus eruditur animus memoriae commendatur, vt sit quo redire possit quae cogitur 
+        <lb ed="#Ba" n="10"/>inde transire, quamuis si ad memoriam congitatio non rediret: atque ibi quod commendauerat inueniret: ve- 
+        <lb ed="#Ba" n="11"/>lut rudis adhuc sicut ducta fuit duceretur: idque inueniret vbi primum inuenerat in illa incorpo- 
+        <lb ed="#Ba" n="12"/>rea veritate: vnde rursus quasi descriptum in memoria figuraretur. Sed de hoc amplior sermo erit in  
+        <lb ed="#Ba" n="13"/>quaestione proxima inferius. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e839">
+        ⁋ Ad quintum &amp; sextum quod non contingit scire: quia non contingit 
+        <lb ed="#Ba" n="14"/>addiscere: Dicendum quod assumptum falsum est. Bene enim contingit addiscere, vt patebit inferius. Sed  
+        <lb ed="#Ba" n="15"/>intelligendum quod addiscere dupliciter potest accipi. Vno modo communiter ad omnem acquisitionem 
+        <lb ed="#Ba" n="16"/>scientiae de nouo: sic non oportet quod omnis addiscens aliquid nouit: quia addiscens notitiam primo-  
+        <lb ed="#Ba" n="17"/>rum principiorum ex nulla notitia praecedente eam acquirit. Alio modo proprie ad cognitionem con 
+        <lb ed="#Ba" n="18"/>clusionum solum, quam acquirit secundum actum ex notitia principiorum praecedente: in qua latet se 
+        <lb ed="#Ba" n="19"/>cundum potentiam vt infra patebit: &amp; sic addiscens aliquid nouit. 
+      </p>
+      <p xml:id="vn58an-d1e72-d1e856">
+        ⁋ Ad septimum quod homo ni- 
+        <lb ed="#Ba" n="20"/>hil percipit de re cognoscibili nisi idolum solum: Dicendum quod percipere idolum rei contingit du 
+        <lb ed="#Ba" n="21"/>pliciter. Vno modo tanquam obiectum cognitionis: hoc modo verum est quod percipiens solum ido- 
+        <lb ed="#Ba" n="22"/>lum rei non cognoscit rem. Sicut videns imaginem Herculis depictam in pariete, ex hoc non vi- 
+        <lb ed="#Ba" n="23"/>det neque cognoscit Herculem. Alio modo tanquam rationem cognoscendi: sic non est verum. Per solam 
+        <lb ed="#Ba" n="24"/>enim speciem perceptam de re cognoscitur vere res, vt lapis vere videtur per solam speciem suam 
+        <lb ed="#Ba" n="25"/>sensibilem receptam in oculo: &amp; vere intelligitur per solam speciem suam intelligibilem receptam in  
+        <lb ed="#Ba" n="26"/>intellectu. Sed dices forte quod illa species est sensibilis recepta a sensu: ergo cum sit accidens &amp; simili 
+        <lb ed="#Ba" n="27"/>tudo solius accidentis, non ducit in cognitionem eius quod quid est &amp; substantiae rei. Ad quod di-  
+        <lb ed="#Ba" n="28"/>cendum quod etsi intellectus recipit primo species intelligibiles rerum sensibilium &amp; corporearum vt 
+        <lb ed="#Ba" n="29"/>sunt sensibiles, quas primo per illas species intelligit: secundario tamen sub illis speciebus sensibilium 
+        <lb ed="#Ba" n="30"/>naturalis rationis inuestigatione concipit per seipsam notitias rerum non sensibilium, vt sunt quiddi-  
+        <lb ed="#Ba" n="31"/>tates substantiarum, &amp; alia eiusdem modi quae proprias species non habent in intellectu. Et hoc est quod di 
+        <lb ed="#Ba" n="32"/>cit <name ref="#Augustine">Augustinus</name> ix. de Tri. c. iii. Ipsam vim qua per oculos cernimus siue sint radii, siue aliquod aliud, oculis cer- 
+        <lb ed="#Ba" n="33"/>nere non valemus, sed mente quaerimus, &amp; si fieri potest etiam hoc mente comprehendimus. Mens 
+        <lb ed="#Ba" n="34"/>ergo ipsa sicut corporearum rerum notitias per sensus corporis colligit: sic incorporearum per se 
+        <lb ed="#Ba" n="35"/>ipsam: &amp; appellat res corporeas vt sensibiles sunt. Res autem incorporeas quaecumque id quod sunt sensibi 
+        <lb ed="#Ba" n="36"/>lia non sunt: vt sunt mathematica &amp; quidditates substantiarum materia &amp; forma: &amp; huiusmodi  
+        <lb ed="#Ba" n="37"/>quorum notitiam mens sub speciebus sensibilium ex naturali colligantia sensibilium ad insensibilia na- 
+        <lb ed="#Ba" n="38"/>turalis rationis industria colligit quasi fodiendo sub ipsa specie a sensibili re ei praesentata: ad modum 
+        <lb ed="#Ba" n="39"/>quo ouis naturali instinctu per species sensatas aestimat insensatas: vt imaginando vel videndo per 
+        <lb ed="#Ba" n="40"/>speciem lupi sensibilem aestimat ipsum nociuum &amp; inimicum. &amp; ideo dicitur intelligere quasi ab  
+        <lb ed="#Ba" n="41"/>intus legere. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

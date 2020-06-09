@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="174-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe47516"> <!-- alias="vn58an-a61prae" -->
+      <head xml:id="vn58an-fe47516-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-fe47516-d1e107">
+   <!--362.xml-->
+            <pb ed="#Bb" n="174-r"/>
+        <lb ed="#Bb" n="1"/>Equitur Articu. Ll. de proprietatibus propriis spiritui san 
+        <lb ed="#Bb" n="2"/>cto. De quibus decem sunt inquirenda. 
+        <lb ed="#Bb" n="3"/>Primum est: vtrum spiritus sanctus sit nomen personae institutum a 
+        <lb ed="#Bb" n="4"/>proprietate personali. 
+        <lb ed="#Bb" n="5"/>ecundum est: vtrum spirari sit proprium spiritui sancto, 
+        <lb ed="#Bb" n="6"/>Tertium: vtrum spiritui sancto sit aliqua alia proprietas quam spirari. 
+        <lb ed="#Bb" n="7"/>guartum: vtrum spiritus sanctus spiretur a patre in filium &amp; econverso. 
+        <lb ed="#Bb" n="8"/>uintum: vtrum spiritus sanctus in eo quod spiratur procedat vt amor.  
+        <lb ed="#Bb" n="9"/>Sextum: vtrum procedat vt amor de amore: an sit amor de notitia. 
+        <lb ed="#Bb" n="10"/>Septimum: vtrum spiritus sanctus sit amor quo pater &amp; filius diligunt 
+        <lb ed="#Bb" n="11"/>se &amp; alia. 
+        <lb ed="#Bb" n="12"/>Octauum: vtrum spiritus sanctus procedat vt donum. 
+        <lb ed="#Bb" n="13"/>Nonum: vtrum spiritus sanctus sit donum quo caetera donantur. 
+        <lb ed="#Bb" n="14"/>Decimum: vtrum a 
+        <lb ed="#Bb" n="15"/>patre detur filio, &amp; econuerso.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

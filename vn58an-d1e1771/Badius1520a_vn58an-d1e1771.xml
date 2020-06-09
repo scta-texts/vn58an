@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="140-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1771"> <!-- alias="vn58an-a24q4" -->
+      <head xml:id="vn58an-d1e1771-Hd1e104">Quaestio 4</head>
+      <head xml:id="vn58an-d1e1771-Hd1e107" type="question-title">Utrum scire quid Deus non sit, expediat ad sciendum quid sit</head>
+      <p xml:id="vn58an-d1e1771-d1e110">
+   <!--294.xml-->
+            <pb ed="#Ba" n="140-r"/>
+        <lb ed="#Ba" n="1"/>Irca Quartum arguitur: quod scire quid non est deus, non expedit ad sciendum quod est. 
+        <lb ed="#Ba" n="2"/>Primo sic. sicut se habet vnumquodque ad esse, &amp; ad cognitionem. Sed vnumquodque con 
+        <lb ed="#Ba" n="3"/>tradictoriorum non confert ad esse alterius. ergo nec ad cognitionem, quid non est: est 
+        <lb ed="#Ba" n="4"/>contradictorium ad quod est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1771-d1e126">
+        ⁋ Secundo sic. Priuatio nata est cognosci per 
+        <lb ed="#Ba" n="5"/>habitum: non econverso: quia rectum est iudex suiipsius &amp; obliqui. vt dicitur. i de 
+        <lb ed="#Ba" n="6"/>anima. Quid non est: est priuatio eius quod est quid est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1771-d1e134">
+        ⁋ In contrarium est 
+        <lb ed="#Ba" n="7"/>Augustinus xxii. ser. super Ion Si non potes comprehendere quod est deus: vel comprehende quid non sit: multum profece- 
+        <lb ed="#Ba" n="8"/>ris si non aliud quam est de deo senseris. Nondum quis potest paruenire ad quid sit deus: perueniat ad quid non 
+        <lb ed="#Ba" n="9"/>sit: non est corpus: non est terra: non caelum: non luna: non sol: non stellae: non est deus mutabilis 
+        <lb ed="#Ba" n="10"/>species: transi haec omnia: hanc pietatem volo a te seruari: &amp; praecipue moneo vt si non vales compre 
+        <lb ed="#Ba" n="11"/>hendere deus quid sit: parum non tibi putes scire quid non sit. 
+      </p>
+      <p xml:id="vn58an-d1e1771-d1e147">
+        <lb ed="#Ba" n="12"/>⁋ Dicendum ad hoc: quod tendens in finem quencumque duobus promouetur: quorum vnum 
+        <lb ed="#Ba" n="13"/>est fuga, &amp; amotio eius quod est impedimentum motus in finem: &amp; facit deuiare a fine: Alterum vero 
+        <lb ed="#Ba" n="14"/>est adhaesio &amp; tentio eius quod est ductiuum in finem. &amp; hoc secundum duas partes iustitiae quibus acquiruntur 
+        <lb ed="#Ba" n="15"/>virtutes scilicet discedendo a malo &amp; faciendo bonum. Nunc autem cognitio quod est deus, finis est tendentis 
+        <lb ed="#Ba" n="16"/>studio suo in cognitionem dei: cuius impedimentum est ignorare quid non sit deus in creaturis: promo- 
+        <lb ed="#Ba" n="17"/>tiuum vero eius est scire quibus gradibus a creatura ascenditur ad cognitionem eius quod est deus: nec 
+        <lb ed="#Ba" n="18"/>potest scire de aliquo in creatura quia sit gradus ascendendi ad deum: nisi cognito quod non sit deus. ali 
+        <lb ed="#Ba" n="19"/>ter enim in illo sistere vellet in via. scilicet pro termino viae. Primum ergo quo mouetur tendes cognoscere quid  
+        <lb ed="#Ba" n="20"/>est deus: est cognoscere quid non est: ne in illo sistat putando id deum esse quod non est deus. Et ideo dicit 
+        <lb ed="#Ba" n="21"/>Boethius, quod cognitio mali bono deesse non potest: nec vitatur malum nisi cognitum. Et hoc est quod di-  
+        <lb ed="#Ba" n="22"/>cit <name ref="#Augustine">Augustinus</name> super Ion ser. xxi. Intelligamus quod verum est: si autem hoc non poterimus: non eamus in illud quod fal 
+        <lb ed="#Ba" n="23"/>sum est. Melius enim est nescire quam errare. ltaque ante omnia curare debemus vt sciamus. Si autem non pote 
+        <lb ed="#Ba" n="24"/>rimus deuenire ad veritatem, non eamus ad falsitatem. Et hoc maxime cauendum est circa cognitionem 
+        <lb ed="#Ba" n="25"/>quid est deus: quia vt dicit <name ref="#Augustine">Augustinus</name> i de trinitate. neque periculosius alicubi erratur: nec laboriosius aliquid quae 
+        <lb ed="#Ba" n="26"/>ritur: nec fructuosius aliquod inuenitur. Et quia in tali inuestigatione difficillimum est homines cauere sibi 
+        <lb ed="#Ba" n="27"/>omnino ab errore, ideo dicit Aug. ibidem. Si quod eis erga deum amoris vel timoris est, ad initium fidei 
+        <lb ed="#Ba" n="28"/>&amp; ordinem redeundum est. lam scientes quam salubriter in sancta ecclesia medicina fidelium constituta sit 
+        <lb ed="#Ba" n="29"/>vt ad perceptionem incommutabilis veritatis imbecillem mentem obseruata pietas sanet: ne in opinionem 
+        <lb ed="#Ba" n="30"/>noxiae falsitatis temeritas inordinata praecipitet: quia mentis humanae acies inualida in tam excellem 
+        <lb ed="#Ba" n="31"/>ti luce non figitur: nisi per iustitiam fidei nutrita vegetetur. Excedit enim, vt dicit de sent. Prosperi, super 
+        <lb ed="#Ba" n="32"/>eminentia diuinitatis non solum vsitati eloquii nostri: sed etiam intelligentiae nostrae facultatem. Non pua 
+        <lb ed="#Ba" n="33"/>enim notitiae pers est, si antequam scire possimus quid sit deus, possimus scire quid non sit. Quaerentes igitur quid sit 
+        <lb ed="#Ba" n="34"/>deus, quicquod cogitanti occurrit abiicimus, respuimus, improbamus, non esse hoc quod quaerimus nouimus: 
+        <lb ed="#Ba" n="35"/>quamuis illud nondum quale sit nouerimus. Est igitur in nobis (vt ita dicam) quaedam docta igno  
+        <lb ed="#Ba" n="36"/>rantia: sicut dicit ad Probam. 
+      </p>
+      <p xml:id="vn58an-d1e1771-d1e210">
+        <lb ed="#Ba" n="37"/>⁋ Ad primum in oppositum: quod oppositum non confert ad esse oppositi: ergo neque ad co 
+        <lb ed="#Ba" n="38"/>gnitionem: Dicendum quod verum est per se in causando esse aut cognitionem, per accidens autem amouens prohibens 
+        <lb ed="#Ba" n="39"/>bene potest conferre: sic vt frigidum circunstans calidum: &amp; in hoc prohibens ne diffundatur extra se: sed quod con 
+        <lb ed="#Ba" n="40"/>stringatur intra se. &amp; sic fortius comburit. sic cognoscere quid non sit deus, constringit intellectum 
+        <lb ed="#Ba" n="41"/>vt intra se spiritualiter quaerat quid sit deus: &amp; non euagetur quaerendo eum per creaturas extra se: &amp; sic valet 
+        <lb ed="#Ba" n="42"/>multum ad cognoscendum quid sit deus. 
+      </p>
+      <p xml:id="vn58an-d1e1771-d1e226">
+        ⁋ Ad secundum: quod priuatio non est principium cognoscendi 
+        <lb ed="#Ba" n="43"/>habitum: Dicendum quod verum est per se: sed magis econuerso: per accidens autem non est inconveniens 
+        <lb ed="#Ba" n="44"/>vt dictum est. Veruntamen intelligendum quod negatio circa id quod non est deus: duplex est: aliquid enim 
+        <lb ed="#Ba" n="45"/>negatur de deo ratione rei significatae: vt quod non est lapis aut canis. aliquid vero negatur de ipso 
+        <lb ed="#Ba" n="46"/>ratione imperfectionis secundum quam inuenitur in creaturis: vt quod deus non est bonus: quia est superbo 
+        <lb ed="#Ba" n="47"/>nus: &amp; ipsa bonitas: &amp; huiusmodi. Cognitio quid non est deus primo modo praeseruat ab errore: ne credatur 
+        <lb ed="#Ba" n="48"/>deus esse quod non est: non autem agit ad dirigendum in cognoscendo quid est: quia est pure negati- 
+        <lb ed="#Ba" n="49"/>ua nisi praeseruando a putando esse quod non est. Cognitio vero de deo quod non est secundo mo 
+        <lb ed="#Ba" n="50"/>do: non solum praeseruat ab errore, ne credatur esse deus quod non est: sed agit ad dirigendum in co- 
+        <lb ed="#Ba" n="51"/>gnoscendo quid est, eo quod non est pure negatiua: sed negando circa rem rationem imperfectionis intendit 
+        <lb ed="#Ba" n="52"/>includere circa eam in deo perfectionem illi ipessectioni contrariam. Vnde dicitur quod deus non est bonus ne intel 
+        <lb ed="#Ba" n="53"/>ligatur bonum convenire ipsi per inhaerentiam &amp; participationem: &amp; sic intelligatur esse bonitas ipsa per essentiam. 
+        <lb ed="#Ba" n="54"/>Et hoc est quod intellexit Auicen. in viii. Metaphysicae suae. Prius est esse expoliatum conditione negan- 
+   <!--295.xml-->
+        <pb ed="#Ba" n="140-v"/>
+        <lb ed="#Ba" n="1"/>di priuationes &amp; caeteras proprietates ab eo: non quod ipsum sit esse expoliatum: cuius haec proprietas 
+        <lb ed="#Ba" n="2"/>est. ipsum enim non est illud ens expoliatum conditione negandi: sed est ens conditione affirman- 
+        <lb ed="#Ba" n="3"/>d scilicet quod est. ens cum conditione non addita compositioni.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

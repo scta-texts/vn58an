@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="234-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2584"> <!-- alias="vn58an-a36q4" -->
+      <head xml:id="vn58an-d1e2584-Hd1e104">Quaestio 4</head>
+      <head xml:id="vn58an-d1e2584-Hd1e107" type="question-title">Utrum speculativa an practica</head>
+      <p xml:id="vn58an-d1e2584-d1e110">
+        <lb ed="#Ba" n="17"/>Irca Quartum arguitur: quod intellectus in deo sit practicus. Primo sic. intellectus ille 
+        <lb ed="#Ba" n="18"/>est practicus quid est principium opeationis &amp; rerum causatiuus: sicut patet de intellectu 
+        <lb ed="#Ba" n="19"/>artificis vt artifex est. intellectus dei est huiusmodi, vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2584-d1e119">
+        ⁋ Secun 
+        <lb ed="#Ba" n="20"/>do sic. intellectus ille practicus est quid considerat operanda, secundum philosophum. vi. Ethicorum 
+        <lb ed="#Ba" n="21"/>&amp;. ii. Meta. Intellectus dei est huiusmodi: quia intellectu suo nouit quaecumque ipse facturus 
+        <lb ed="#Ba" n="22"/>est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2584-d1e129">
+        ⁋ Tertio sic. intellectus quid intendit regimini &amp; prouidentiae aliorum pra 
+        <lb ed="#Ba" n="23"/>cticus est inquantum huiusmodi: sicut patet de intellectu rectoris in ciuitate. intellectus dei 
+        <lb ed="#Ba" n="24"/>est huiusmodi: Est enim in vniuerso sicut princeps in ciuitate. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2584-d1e136">
+        ⁋ In contrarium est: quoniam nihil est deo at  
+        <lb ed="#Ba" n="25"/>tribuendum nisi quod simpliciter in omnibus nobilius &amp; dignius est, vt patet ex supra determinatis. 
+        <lb ed="#Ba" n="26"/>sed simpliciter &amp; absolute in omnibus nobilior &amp; dignior est intellectus speculatiuus quam practicus 
+        <lb ed="#Ba" n="27"/>sicut scientia speculatiua quam practica, vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2584-d1e145">
+        <lb ed="#Ba" n="28"/>⁋ Hic oportet considerare quid faciat quod intellectus aliquis in nobis dicatur esse 
+        <lb ed="#Ba" n="29"/>practicus: &amp; quid quod speculatiuus, vt ab eis quae in nostro intellectu experimur ad cognitionem diuinis 
+        <lb ed="#Ba" n="30"/>intellectus ascendamus. Est igitur intelligendum: quod secundum philosophum. vi. Ethicoru. intellectus speculatiuus &amp; pra 
+        <lb ed="#Ba" n="31"/>cticus diuersae particulae animae sunt in nobis. Quarum diuersitatem declarat ex tribus: &amp; ex parte obie 
+        <lb ed="#Ba" n="32"/>ctorum: &amp; ex parte modi cognoscendi: &amp; ex parte finis. Ex parte obiectorum quoniam (vt dicit) speculatiuo intel 
+        <lb ed="#Ba" n="33"/>lectu speculamur talia entia quorum principia non contingit aliter se hre. Practico autem specula 
+        <lb ed="#Ba" n="34"/>mur contingentia possibilia aliter se habere. Ad ea autem quae sunt altera genere, est animae particularum 
+        <lb ed="#Ba" n="35"/>alterum genere. Ex parte modi cognoscendi: quia (vt dicit) Speculatiuus cognoscit modo scientifico: 
+        <lb ed="#Ba" n="36"/>Practicus vero modo consiliatiuo. Ex parte finis (quoniam vt expressius dicit. iii. de anima) Practicus intelle 
+        <lb ed="#Ba" n="37"/>ctus differt a speculatiuo, fine. Finis enim speculatiui, vt dicit. ii. Metaphysy. est veritatis cognitio. 
+        <lb ed="#Ba" n="38"/>practici vero actus vel operatio. Nunc autem clarum est quod in deo ex parte cognitorum non potest distingui 
+        <lb ed="#Ba" n="39"/>intellectus duplex, respectu aliquorum. scilicet speculatius: &amp; respectu aliorum practicus: quia non intelligit nisi 
+        <lb ed="#Ba" n="40"/>seipsum: et si intelligit alia a se: hoc non est nisi intelligendo se, vt infra videbitur. Seipsum autem 
+        <lb ed="#Ba" n="41"/>non intelligit nisi intellectu pure speculatiuo: quia non est nisi verum cognoscibile, &amp; bonum amabi 
+        <lb ed="#Ba" n="42"/>le: quod inquantum huiusmodi, pertinet ad cognitionem intellectus speculatiui: nullo autem modo bonum 
+        <lb ed="#Ba" n="43"/>operabile: quod proprie pertinet ad cognitionem intellectus practici. Similiter neque ex parte mo-  
+        <lb ed="#Ba" n="44"/>di cognoscendi &amp; intelligendi: quia cognitio eius non est accepta a rebus: neque secundum conditio-  
+        <lb ed="#Ba" n="45"/>nes rerum: quia non cognoscit eas nisi cognoscendo se: et ideo eo modo quo intelligit &amp; cogno  
+        <lb ed="#Ba" n="46"/>scit se cognitione necessaria: non contingibili &amp; alia a se. Vnde Comm. iii. Ethic. excludendo mo 
+        <lb ed="#Ba" n="47"/>dum cognitionis intellectus practici: qui est in nobis secundum cognitionem rei cognitae a deo, qui  
+        <lb ed="#Ba" n="48"/>non cognoscit res nisi secundum conditionem suam, dicit. Quoniam altera specie pars animae circa ne 
+        <lb ed="#Ba" n="49"/>cessariorum cognitionem negotians: &amp; altera circa ea quae contingentium. Cognitio enim co 
+        <lb ed="#Ba" n="50"/>gnitis assimilatur: qualiter vtique erit necessaria contingentium cognitio, vel contingens ne- 
+        <lb ed="#Ba" n="51"/>cessariorum: secundum veridicam enim rationem, vt habet secundum modum suum res: oportet cognoscere 
+        <lb ed="#Ba" n="52"/>ipsam. Et hoc verum est de nobis: quia notitiam capimus a rebus. Vnde de cognitione dei: quia 
+        <lb ed="#Ba" n="53"/>non capit eam a rebus: continuo subdit. Apud deum dicimus nihil esse futurum: neque con- 
+        <lb ed="#Ba" n="54"/>tingens: vt cognitione ipsius secundum nunc existente &amp; necessaria. Ecce quod non est alia cognitio 
+        <lb ed="#Ba" n="55"/>deo de contingentibus, quam nobis de necessariis: quae proculdubio non nisi speculatiua est. 
+   <!--484.xml-->
+        <pb ed="#Ba" n="235-r"/>
+        <lb ed="#Ba" n="1"/>Similiter idem patet ex parte finis: maxime inquantum intellectus eius ordinatur ad intelligendum seipsum:  
+        <lb ed="#Ba" n="2"/>quia vt dictum est: non est ipse bonum opeabile: sed speculabile tantum. ldem etiam patet inquantum ordinatur ad 
+        <lb ed="#Ba" n="3"/>cognoscibilia alia a se etiam opeabilia: eo quod intellectus aliquis ad hoc quod sit vere practicus: ipse non  
+        <lb ed="#Ba" n="4"/>solum considerat operanda: sed etiam determinat opus tamquam finem cognitionis suae: vt quia ali- 
+        <lb ed="#Ba" n="5"/>quid sit agendum: vel non ita quod illa determinatio qua sic determinat: conueniat ei ex se ab  
+        <lb ed="#Ba" n="6"/>solute &amp; immediate ante omnem actionem voluntatis circa illud: quia voluntas sequitur huius 
+        <lb ed="#Ba" n="7"/>modi intellectus determinationem: tamquam id cuius est exequi opus. Nunc autem ita est, quod circa na- 
+        <lb ed="#Ba" n="8"/>turas &amp; essentias dei, intellectus est potentia pure naturalis: nullo modo sic libera vt possit non  
+        <lb ed="#Ba" n="9"/>intelligere quae intelligit: vel intelligere quae non intelligit: immo necesse est eam &amp; intelligere quaecunque  
+        <lb ed="#Ba" n="10"/>intelligit: &amp; omnia intelligibilia incomplexa intelligere. lgitur quaecumque dei intellectus intelligit: vt sunt 
+        <lb ed="#Ba" n="11"/>naturae &amp; quiditates omnium rerum quae sunt aliquid per essentiam, &amp; ea quae in eis sunt: &amp; hoc non solum quo ad  
+        <lb ed="#Ba" n="12"/>species: sed etiam quo ad infinita indiuidua sub ipsis speciebus: nihil omnino determinat de agendis. 
+        <lb ed="#Ba" n="13"/>lta quod si aliquod agendum determinaret: illud naturali necessitate determinaret: ita quod nullo modo  
+        <lb ed="#Ba" n="14"/>posset illud non determinare: quia intellectus eius non est consiliatiuus, aut inquisitiuus. Vnde 
+        <lb ed="#Ba" n="15"/>si deus intellectu suo tamquam practico determinasset ab aeterno mundum aliquando faciendum, de neces- 
+        <lb ed="#Ba" n="16"/>sitate fuisset factus iuxta eius determinationem. Maxime si sola intelligentia in ipso fuisset causa 
+        <lb ed="#Ba" n="17"/>rerum, vt posuerunt quidam philosophi. secundum quod declarandum est loquendo de creaturis. Si enim non fuisset facturs 
+        <lb ed="#Ba" n="18"/>ipsum iuxta intellectus determinationem: hoc non potuit esse nisi propter voluntatem liberam nolentem 
+        <lb ed="#Ba" n="19"/>exequi quod intellectus faciendum determinauit: vt sic intelligentia dei per se non esset necessaria cau 
+        <lb ed="#Ba" n="20"/>sa factionis: sed cum voluntate. Et tunc aut voluntas ipsa de necessitate consecuta est determinationem 
+        <lb ed="#Ba" n="21"/>eius: &amp; sic absoluta necessitate fierent omnia a dei intellectu, &amp; voluntate, vt dicebant philosophi: Aut volun- 
+        <lb ed="#Ba" n="22"/>tas non de necessitate consecuta est determinationem intellectus. quod si sic: itunc voluntas dei etsi 
+        <lb ed="#Ba" n="23"/>numquam fuit: potuit tamen quantum est de se fuisse contraria determinationi intellectus: &amp; non fuisse execu 
+        <lb ed="#Ba" n="24"/>ta in opus quod intellectus determinasset agendum: quod omnino impossibile est ponere in deo. Scientia 
+        <lb ed="#Ba" n="25"/>igitur vel intellectus dei non determinat opus, neque sententiat aliquid de faciendo vel non faciendo: immo 
+        <lb ed="#Ba" n="26"/>quantum est de se aequaliter se habet ab aeterno ad ea quae deus numquam erat facturus: &amp; ad ea quae aliquandoerat 
+        <lb ed="#Ba" n="27"/>facturus: non magis vnum eorum intelligendo quam alterum: nec magis determinando debere fieri vel non fieri 
+        <lb ed="#Ba" n="28"/>aliquando in actu vnum eorum quam alterum. Hoc enim determinat in ipso sola &amp; mera voluntas: nec aliter in 
+        <lb ed="#Ba" n="29"/>telligit opeanda quam non opeanda. Immo nihil considerat sub ratione qua operandum: sed ratione qua  
+        <lb ed="#Ba" n="30"/>quid est in essentia &amp; natura sua, considerat quicquid considerat: &amp; se habet ad modum intellectus 
+        <lb ed="#Ba" n="31"/>nostri, qui est simplicium intelligentia absque compositione &amp; diuisione, vt infra dicetur. Intellectus 
+        <lb ed="#Ba" n="32"/>ergo dei non est operandorum vt opeandorum: &amp; ideo nullum opus faciendum determinat: sed quod in ipso 
+        <lb ed="#Ba" n="33"/>opus determinat, est sola et libera eius voluntas. Nullus autem intellectus qui vere practicus 
+        <lb ed="#Ba" n="34"/>est, indifferenter se habet ad omnia quae nouit non considerando operanda vt opeanda: neque determi- 
+        <lb ed="#Ba" n="35"/>nando opus circa facienda &amp; non facienda. Immo si practicus, considerat opanda vt operanda: &amp; 
+        <lb ed="#Ba" n="36"/>determinat quid faciendum &amp; non faciendum: &amp; quia faciendum vel non faciendum: secundum quod penes hoc 
+        <lb ed="#Ba" n="37"/>innuit philosophus differentiam inter intellectum speculatiuum &amp; practicum, dicens in iii. de anima: quod ratiocinati 
+        <lb ed="#Ba" n="38"/>ua intelligentia &amp; id quid speculatiuum est in anima, nihil intelligit de agibili &amp; actuali. Vbi dicit 
+        <lb ed="#Ba" n="39"/>Com. i. pars speculatiua nihil considerat de rebus operatiuis. Et propter hoc (vt dicit) philosophus nihil 
+        <lb ed="#Ba" n="40"/>dicit de faciendo vel non faciendo: &amp; ideo non est causa motus per locum: sed intellectus pra- 
+        <lb ed="#Ba" n="41"/>cticus qui speculatiuus est de huiusmodi, de operandis vel non operandis multotiens intelligit 
+        <lb ed="#Ba" n="42"/>timendum aut laetum &amp; non praecipit fugere aut imitari: &amp; sic ex ista prima operatione sua 
+        <lb ed="#Ba" n="43"/>non causat motum. &amp; quod amplius est, cum huiusmodi intellectus a sua speculatione practica iam dicta 
+        <lb ed="#Ba" n="44"/>extendat se per intelligentiam ad id quod operandum est: &amp; dicat atque determinet quia aliquid fugien 
+        <lb ed="#Ba" n="45"/>dum est, aut imitandum: quod est eius opus secundum &amp; completiuum: non adhuc sit motus: quia 
+        <lb ed="#Ba" n="46"/>voluntas bene agit secundum desiderium contra intellectus determinationem, vt patet in continen 
+        <lb ed="#Ba" n="47"/>te, tamquam alterius potentiae: vt voluntatis scilicet &amp; appetitus sit agere secundum scientiam, &amp; non ipsius scien 
+        <lb ed="#Ba" n="48"/>tiae practicae. Quantum ergo est ex parte finis, intellectus dei in sola speculatione &amp; cognitione 
+        <lb ed="#Ba" n="49"/>veritatis consistit: &amp; opus inquantum non considerat, neque determinat, licet omnia intelligat sub 
+        <lb ed="#Ba" n="50"/>ratione eius quod quid est: &amp; fienda &amp; non fienda: &amp; quae malum est fieri: &amp; quae bonum, &amp; quae melius: 
+        <lb ed="#Ba" n="51"/>&amp; vniuersaliter omnia quae fiuntem actione cuiuscunque agentis: vel naturalis, vel voluntarii. Aliter 
+        <lb ed="#Ba" n="52"/>ergo intellectus in deo se habet ad opus quod extra sit immediate ab ipso: &amp; ille intellectus in  
+        <lb ed="#Ba" n="53"/>nobis qui vere practicus est. In nobis enim: (vt iam dictum est, &amp; dicit <name ref="#Averroes">Commentator</name> sexto 
+        <lb ed="#Ba" n="54"/>Ethicorum) opus determinat intellectus practicus: &amp; indicat quid agendum: &amp; quid non: po 
+        <lb ed="#Ba" n="55"/>nens mensuram fugis &amp; electionibus. Voluntas autem siue appetitus est sicut minister libere 
+   <!--485.xml-->
+        <pb ed="#Ba" n="235-v"/>
+        <lb ed="#Ba" n="1"/>exequens. In deo autem intellectus nihil per se opeandum vel non opandum, vel fugiendum, vel eligendum de 
+        <lb ed="#Ba" n="2"/>terminat: sed solum speculatione pura quicquid possibile est fieri vel non fieri, intelligit sine omni deter 
+        <lb ed="#Ba" n="3"/>minatione de fiendo vel non fiendo: fugiendo vel eligendo. Sed deus mera voluntate sua opandum, vel 
+        <lb ed="#Ba" n="4"/>non opandum determinat, vt amplius exponi debet loquendo de creaturis. Practicus igitur intellectus est 
+        <lb ed="#Ba" n="5"/>causa prima &amp; principium operum: tamquam propter quam ipsa fiunt: quia determinat agenda &amp; vt agenda 
+        <lb ed="#Ba" n="6"/>speculatur: &amp; voluntas est principium secundarium exequens determinatum. In deo autem intellectus nullo mo 
+        <lb ed="#Ba" n="7"/>do est principium primum opeandorum vt causa propter quam fiunt: quia non praestituit vel praedeterminat 
+        <lb ed="#Ba" n="8"/>operanda: sed solum est causa sine qua non: quia voluntas non potest determinare nisi quoquo modo  
+        <lb ed="#Ba" n="9"/>cognita. &amp; sic ipsa voluntas est per se &amp; prima &amp; immediata causa &amp; ratio omnium operum quae extra 
+        <lb ed="#Ba" n="10"/>fiunt a deo circa creaturas. Quare cum hoc secundum sit principale in practico intellectu vt practicus est, 
+        <lb ed="#Ba" n="11"/>quod praestituat &amp; praedeterminet opus prius quam voluntas ipsum exequatur: non solum quod consideret opeanda vt 
+        <lb ed="#Ba" n="12"/>opanda: &amp; hoc tamquam finem intellectus: hoc autem nullo modo facit diuinus intellectus, vt visum est: nec 
+        <lb ed="#Ba" n="13"/>respicit ipsas res tamquam finem suum vllo modo, vt infra videbitur: Absolute igitur dicendum quod diuinus intel- 
+        <lb ed="#Ba" n="14"/>lectus pure speculatiuus est: &amp; nullo modo practicus. lta quod non amplius habet practicam scientiam de 
+        <lb ed="#Ba" n="15"/>eis quae fecit vel facturus est: quam de eis quae nec fecit nec facturus est. &amp; sic aeque speculatiuam scientiam 
+        <lb ed="#Ba" n="16"/>habet de operandis sicut de non operandis. Vnde intellectus diuinus licet bene intelligat circa opeanda 
+        <lb ed="#Ba" n="17"/>quid sit melius, &amp; quid sit dignius: &amp; quod minus bonum, &amp; minus dignum fieri: tamen non determinat per 
+        <lb ed="#Ba" n="18"/>se etiam in eis quae ipse deus operaturus est, quia opeandum sit: nec hoc ipse praestituit: neque considerat sub ratione 
+        <lb ed="#Ba" n="19"/>opandi: sed solum sub ratione eius quod quid est: sed solum voluntas. Licet enim voluntas dei non praestituit nec 
+        <lb ed="#Ba" n="20"/>determinat nisi quod intellectu cognitum est: nullo modo tamen ex hoc intellectus eius debet dici practicus 
+        <lb ed="#Ba" n="21"/>nisi forte per accidens: ad modum quo scientia pure speculatiua, per accns potest dici practica: inquantum 
+        <lb ed="#Ba" n="22"/>scilicet vtilis est regimini opeis. secundum quod Comm. super. vi. Ethicorum assignans differentiam inter intellectum practi- 
+        <lb ed="#Ba" n="23"/>cum &amp; speculatiuum ex parte finis dicit. Einis motionis scientifici, veritas, &amp; non opus nisi per accns:  
+        <lb ed="#Ba" n="24"/>vt cum sit scientia in opibus vtilis: vt geometria ad mechanica. Motionis autem ratiocinatiui, non 
+        <lb ed="#Ba" n="25"/>sufficiens est inuenire verum: sed opus est eligere bonum. 
+      </p>
+      <p xml:id="vn58an-d1e2584-d1e393">
+        <lb ed="#Ba" n="26"/>⁋ Ad primum in oppositum: quod intellectus dei est intellectus artificis: &amp; rerum causatiuus 
+        <lb ed="#Ba" n="27"/>Dicendum secundum iam dicta: quod non est verum. licet enim deus operatur per intellectum vt opeanda praecognoscentem, 
+        <lb ed="#Ba" n="28"/>non tamen vt de aliquo tamquam de opeando speculantem: vel quia opeandum est, determinantem: sicut dictum 
+        <lb ed="#Ba" n="29"/>est. Vnde ideae in deo non sunt rationes cognitionis practicae: sed pure speculatiuae. Habet enim 
+        <lb ed="#Ba" n="30"/>aequaliter ideas tam illorum quae numquam est facturus: sicut eorum quae aliquando fecit vel faciet, vt infra declara 
+        <lb ed="#Ba" n="31"/>bitur. Vnde non plus habet deus scientiam practicam de rebus sciendis: immo multo minus, vt sta- 
+        <lb ed="#Ba" n="32"/>tim dicetur: quam aedificator inquantum considerat domum: definiendo quid sit: &amp; ad quem &amp; ad qua-  
+        <lb ed="#Ba" n="33"/>lem vsum valere possit: &amp; diuidendo ex quibus &amp; qualibus &amp; quali modo ordinatis: &amp; ex quali  
+        <lb ed="#Ba" n="34"/>materia fieri possit melior domus. Ista enim consideratio circa opeanda, pure speculatiua est: quia 
+        <lb ed="#Ba" n="35"/>non considerat ea inquantum opeabilia, sed inquantum speculabilia sunt: ordinans ea non ad finem 
+        <lb ed="#Ba" n="36"/>qui est opeatio: sed qui est cognitio seu speculatio. Non enim respicit opus nisi per accidens, sicut 
+        <lb ed="#Ba" n="37"/>facit geometrica consideratio, vt dictum est: inquantum. scilicet iuxta speculata in ea regulari possit 
+        <lb ed="#Ba" n="38"/>operatio mechanica. Sed illa consideratio est pure practica: quae (vt dictum est) considerat opanda 
+        <lb ed="#Ba" n="39"/>vt opeanda: &amp; ea determinat esse operanda: quasi applicando per cognitionem, formam speculatiuam ad  
+        <lb ed="#Ba" n="40"/>particularem materiam: non autem resoluendo ipsam in sua prima principia formalia &amp; vniuersalia. 
+      </p>
+      <p xml:id="vn58an-d1e2584-d1e428">
+        <lb ed="#Ba" n="41"/>⁋ Per hoc patet ad id quod arguitur secundo: quod intellectus dei considerat opeanda. Dicendum quod bene 
+        <lb ed="#Ba" n="42"/>verum est: sed hoc non tamquam opeanda &amp; in opus exequenda: sed solum tamquam speculanda: quemadmodum  
+        <lb ed="#Ba" n="43"/>artifex quandoque speculatur opeanda, vt dictum est. Multo tamen amplius consideratio intellectus dei 
+        <lb ed="#Ba" n="44"/>circa creaturas &amp; opeanda, est speculatiua quam consideratio artificis circa domum. 
+      </p>
+      <p xml:id="vn58an-d1e2584-d1e439">
+        ⁋ Ad cuius intel- 
+        <lb ed="#Ba" n="45"/>lectum sciendum quod circa scientias est considerare duplicem finem. Vnum qui est finis scientiae: alterum vero qui 
+        <lb ed="#Ba" n="46"/>est finis scientis. Finis scientiae est ille propter quem ipsa est. finis scientis est ille quem ipse ex scien 
+        <lb ed="#Ba" n="47"/>tia intendit. Einis scientiae duplex est: principalis, &amp; non principalis. Principalis est ille ad quem 
+        <lb ed="#Ba" n="48"/>ordinatur per se &amp; ex se. Non principalis, ad quem non ordinatur ex se: sed potest ordinari ex inten 
+        <lb ed="#Ba" n="49"/>tione scientis. Vnde finis scientiae non principalis, est finis scientiae: quia est finis scientis. Cuius si- 
+        <lb ed="#Ba" n="50"/>militer duplex est finis. Vnus per se inquantum est sciens: &amp; iste est idem cum sine principali scien 
+        <lb ed="#Ba" n="51"/>tiae. Alter vero per accidens: inquantum. scilicet ad aliud intendens quam debet intendere sciens vt sciens. 
+        <lb ed="#Ba" n="52"/>Et iste est duplex: quidam per accidens absolute: quidam accidentaliter per accidens: qui omni- 
+        <lb ed="#Ba" n="53"/>no est contra intentionem scientiae: quemadmodum medici finis est quandoque lucrum ex arte 
+        <lb ed="#Ba" n="54"/>medicinae. Similiter finis per accidens absolute duplex est. Vnus intra scientiam: quemada 
+   <!--486.xml-->
+        <pb ed="#Ba" n="236-r"/>
+        <lb ed="#Ba" n="1"/>modum quando vult homo scire ethicam: non vt operetur secundum scita: sed vt solum sciat ope- 
+        <lb ed="#Ba" n="2"/>randa: alius extra scientiam: quemadmodum metaphysicus vult scire geometriam propter regimen 
+        <lb ed="#Ba" n="3"/>suae artis. Est igitur sciendum quod a solo fine scientiae ad quem ipsa est principaliter vt est scientia: dicitur 
+        <lb ed="#Ba" n="4"/>scientia speculatiua vel practica: non autem a fine ad quem est non principaliter, neque a quocumque fine 
+        <lb ed="#Ba" n="5"/>quem circa scientiam intendit sciens, praeter illum quem intendit per se vt est sciens illius scientiae. Vnde scientia illa quae  
+        <lb ed="#Ba" n="6"/>per se vt scientia est, non est nisi ad speculationem &amp; veri cognitionem habendam ex ipsa, pure spe 
+        <lb ed="#Ba" n="7"/>culatiua est: sicut geometria: etsi manu operans poterit ea vti, et speculatis in ea ad regimen 
+        <lb ed="#Ba" n="8"/>sui opeis: vt metaphysicus vtitur quandoque speculatis in geometria. Et sic geometria quae est spe 
+        <lb ed="#Ba" n="9"/>culatiua simpliciter &amp; per se: ratione qua scientia est: quia finis eius per se est speculatio veri: vt in ea 
+        <lb ed="#Ba" n="10"/>sit status: &amp; non applicetur vlterius ad opus: per accidens vero est practica, ratione scilicet scientis: cuius fi 
+        <lb ed="#Ba" n="11"/>nis intentus in addiscendo eam est regimen opeis alterius scientiae: vt forte stereometriae secundum  
+        <lb ed="#Ba" n="12"/>regulas geometriae: super quod fundatur vnus modus subalternandi, vt habitum est supra. Scientia vero 
+        <lb ed="#Ba" n="13"/>illa quae per se vt scientia est: non est nisi ad operationem: &amp; non speculatur verum circa opeanda nisi vt sciens 
+        <lb ed="#Ba" n="14"/>secundum ipsum speculatum operetur: illa est pure practica, sicut Ethica: quia ipsa, vt dicit philosophus, non est vt 
+        <lb ed="#Ba" n="15"/>sciamus: sed vt boni fiamus, operando scilicet secundum scita: etsi aliquis non intendens opari poterit studere 
+        <lb ed="#Ba" n="16"/>ethicae propter solam veritatis speculationem. Et sic ethica est practica simpliciter &amp; per se ratione 
+        <lb ed="#Ba" n="17"/>qua scientia est: quia finis eius est opeatio boni: &amp; non speculatio veri: vt in ea sit status: per accns 
+        <lb ed="#Ba" n="18"/>vero est speculatiua: ratione scilicet scientis: cuius finis est principalis in addiscendo eam vt stet in  
+        <lb ed="#Ba" n="19"/>speculatione. Et per hunc modum dicta speculatio artificis circa domum est speculatiua: &amp; ita per acci 
+        <lb ed="#Ba" n="20"/>dens &amp; secundum quid: speculatio vero dei circa opeanda, simpliciter est speculatiua &amp; non practica 
+        <lb ed="#Ba" n="21"/>nisi per accidens: vt scilicet per voluntatem suam iuxta rationem speculationis opeatur speculatiua: ad mo-  
+        <lb ed="#Ba" n="22"/>dum quo geometria per accidens est practica, vt dictum est. Et per hunc modum theologia quam su 
+        <lb ed="#Ba" n="23"/>pra determinauimus esse scientiam simpliciter speculatiuam: per accidens est practica: inquantum 
+        <lb ed="#Ba" n="24"/>bonus fidelis addiscit eam ordinando eam in finem charitatis: vt charitas regul etur iuxta eius 
+        <lb ed="#Ba" n="25"/>regulas &amp; documenta. Quae tamen principaliter ex intentione ipsius scientiae non ordinatur ad  
+        <lb ed="#Ba" n="26"/>aliquam operationem aut affectionem: sed ad veri circa supernaturaliter credenda speculationem- 
+        <lb ed="#Ba" n="27"/>vt speculatio hic inchoata per fidem, in futuro euacuata fide terminetur, &amp; perficiatur per aptam 
+        <lb ed="#Ba" n="28"/>visionem. Vnde theologia inquantum scientia est pertinens ad intellectum creditorum, supponit perfectionem 
+        <lb ed="#Ba" n="29"/>fidei opeantis per dilectionem: vt fides operans per dilectionem potius ordinetur ad theologicam speculationem 
+        <lb ed="#Ba" n="30"/>cor purgando vt idoneum fiat ad ipsam percipiendam, quam econuerso: vt scilicet per speculationem opera 
+        <lb ed="#Ba" n="31"/>dirigantur. Ad hoc enim sufficit nuda instructio fidei. Vnde iste est ordo. Primo enim debet homo 
+        <lb ed="#Ba" n="32"/>esse illustratus in credendis per fidem. Secundo perfectus in opandis per charitatem. Deinde de- 
+        <lb ed="#Ba" n="33"/>ditus theologicis speculationibus. Et sicut diuersitas dicta secundum speculatiuum &amp; practicum secundum  
+        <lb ed="#Ba" n="34"/>iam dictum modum assignanda est circa scientias quae sunt habitus intellectus: similiter &amp; cir 
+        <lb ed="#Ba" n="35"/>ca intellectus. Ex quo patet quod multo amplius consideratione diuinus intellectus circa opeanda 
+        <lb ed="#Ba" n="36"/>est speculatiuus, quam cuiuscumque artificis vel considerantis artificiatum, in speculando solummodo  
+        <lb ed="#Ba" n="37"/>veritates circa illud. Quia enim artifex speculetur operanda propter solam veri notitiam, hoc 
+        <lb ed="#Ba" n="38"/>omnino accidit ei inquantum artifex est: &amp; est finis considerationis illius scientiae secundum quam verum 
+        <lb ed="#Ba" n="39"/>illud speculatur: non principalis vt dictum est. Sed quod intellectus diuinus speculetur verum circa 
+        <lb ed="#Ba" n="40"/>opanda in sola notitia veri stando, nihil de opeandis determinando vel praestituendo: &amp; ita nullum 
+        <lb ed="#Ba" n="41"/>finem vlteriorem ex speculatione illa intendendo: hoc essentiale est ei inquantum est intelle- 
+        <lb ed="#Ba" n="42"/>ctus diuinus: &amp; est iste finis principalis suae considerationis, vt iam dictum est. Vnde vanum est 
+        <lb ed="#Ba" n="43"/>quod quidam distinguunt in proposita quaestione directa ad scientiam dei, an sit speculatiua an practi 
+        <lb ed="#Ba" n="44"/>ca: quod scientia dicitur &amp; speculatiua &amp; practica vel ex parte rei scitae: vel ex parte modi conside- 
+        <lb ed="#Ba" n="45"/>randi: vel ex parte finis: &amp; quod scientia dicitur simpliciter speculatiua vel practica ex parte finis: secundum  
+        <lb ed="#Ba" n="46"/>quid autem ex parte rei scitae vel modi considerandi: &amp; quod idcirco scientia dei de seipso est speculatiua 
+        <lb ed="#Ba" n="47"/>tantum: quia ipse solum speculabilis, &amp; nullo modo operabilis est. De omnibus vero aliis non habet 
+        <lb ed="#Ba" n="48"/>scientiam speculatiuam: vel quo ad modum considerandi: sicut artifex de domo, vt dictum est 
+        <lb ed="#Ba" n="49"/>sed habet practicam: vel quo ad rem consideratam et modum considerationis simul, &amp; hoc quo adilla quae 
+        <lb ed="#Ba" n="50"/>ipse disposuerit se esse facturum: vel quo ad rem consideratam tantum: &amp; hoc quo ad illa quae non disposuit 
+        <lb ed="#Ba" n="51"/>vnquam se esse facturum. Patet eni ex iam dictis quod non distinguuntur intellectus practicus &amp; speculatiuus 
+        <lb ed="#Ba" n="52"/>ex parte obiectorum siue intellectorum: quia iste est speculandorum tantum: ille vero opeandorum: sed  
+        <lb ed="#Ba" n="53"/>quia hic est eorum quorum principia non contingit aliter se habere: ille vero eorum quorum prin 
+        <lb ed="#Ba" n="54"/>cipia contingit aliter se habere. Vnde quaecumque non contingit aliter se hre vt cadunt in consideratione 
+        <lb ed="#Ba" n="55"/>intellectus: consideratio illorum speculatiua est scientia speculatiua: &amp; intellectu speculatiuo. Talia 
+   <!--487.xml-->
+        <pb ed="#Ba" n="236-v"/>
+        <lb ed="#Ba" n="1"/>sunt operanda omnia inquantum cadunt in eius intellectum, vt dictum est: &amp; amplius patebit infra. Ex 
+        <lb ed="#Ba" n="2"/>parte ergo. scitorum inquantum operanda vel non opeanda: non dicitur scientia practica vel speculatiua:  
+        <lb ed="#Ba" n="3"/>neque intellectus speculatiuus vel practicus: nisi quia illa non contigit aliter se habere vt cadunt in  
+        <lb ed="#Ba" n="4"/>considerationem intellectus: ista autem contingit. Similiter patet quod non distinguuntur intellectus specula 
+        <lb ed="#Ba" n="5"/>tiuus &amp; practicus: &amp; per consequens neque scientia speculatiua, &amp; practica, ex parte modi considerandi: quia ille 
+        <lb ed="#Ba" n="6"/>considerat stando in speculatione: iste vero vlterius procedit applicando ad opus: sed quia ille quod  
+        <lb ed="#Ba" n="7"/>speculatur, modo scientisico speculatur: ille vero modo consiliatiuo. Vnde consideratio illa quae sit mo 
+        <lb ed="#Ba" n="8"/>do scientisico, est speculatiua, &amp; intellectus sic considerans speculatiuus: illa vero quae sit modo  
+        <lb ed="#Ba" n="9"/>consiliatiuo practica est: &amp; intellectus sic considerans practicus est: modo autem scientifico deus 
+        <lb ed="#Ba" n="10"/>intelligit quaecumque etiam circa opeabilia intelligit: &amp; sic adhuc intellectus eius circa opeabilia non nisi 
+        <lb ed="#Ba" n="11"/>speculatiuus est: non quia cognoscit operabilia definiendo &amp; diuidendo: sed quia illa quae nos circa 
+        <lb ed="#Ba" n="12"/>corporalia cognoscimus consiliando: ipse cognoscit modo scientifico. Eundem enim modum intel 
+        <lb ed="#Ba" n="13"/>ligendi habent contingentia &amp; necessaria. Sed patet clare ex praedictis, quod solummodo distinguuntur in  
+        <lb ed="#Ba" n="14"/>tellectus speculatiuus, &amp; practicus ex parte finis: &amp; quia. scilicet speculatio determinat opus praestituendo  
+        <lb ed="#Ba" n="15"/>aliquid esse operandum, vel non opeandum: &amp; quia ipsa speculatio finaliter est propter opus: quod non  
+        <lb ed="#Ba" n="16"/>contingit intellectui vel scientiae dei, vt dictum est. Et quia propter opus est illa quae est consiliationis 
+        <lb ed="#Ba" n="17"/>&amp; non illa quae est scientifica, ideo contingit quod etsi in scientia practica considerantur aliqua modo scientifico, 
+        <lb ed="#Ba" n="18"/>sicut in Ethicis consideratur de virtutibus definiendo &amp; diuidendo ipsas, ille modus est ei acci- 
+        <lb ed="#Ba" n="19"/>dentalis: sed solum essentialis est ille ei qui considerat opeanda modo consiliatiuo. 
+      </p>
+      <p xml:id="vn58an-d1e2584-d1e633">
+        ⁋ Ad tertium quod  
+        <lb ed="#Ba" n="20"/>intellectus dei intendit prouidentiae &amp; regimini aliorum: Dicendum quod intentio dupliciter potest sumi: 
+        <lb ed="#Ba" n="21"/>proprie scilicet &amp; communiter. Intentio proprie accepta est directio alicuius in finem per hoc quod praestituit 
+        <lb ed="#Ba" n="22"/>aliquid tamquam opeabile: aut per opeationem nostram consequibile: &amp; hoc maxime quando talis praestitutio 
+        <lb ed="#Ba" n="23"/>est a voluntatem. secundum quod intentio definitur quod est voluntas directa in finem. Hoc modo deus nihil 
+        <lb ed="#Ba" n="24"/>agit circa creaturas per intentionem: quia nihil ex actione circa creaturas sibi intendit acquirere: nec 
+        <lb ed="#Ba" n="25"/>aliquid operabile ab ipso praestituit sibi tamquam finem: &amp; hoc neque per intellectum, neque per voluntatem. 
+        <lb ed="#Ba" n="26"/>Vnde dicit Auic. ix. Meta. Ordo bonitatis est dilectus ab eo accidentaliter: Sed non mouetur ad  
+        <lb ed="#Ba" n="27"/>eum dilectione, non concupiscit aliquid, neque inquirit. Immo vt dicit in eodem. c. xxx. Ipse est bo- 
+        <lb ed="#Ba" n="28"/>nitas pura quam desiderat omnino quicquid est. Et ibidem. c. li. Volitum primi non est secundum vo 
+        <lb ed="#Ba" n="29"/>litum nostrum: ita vt in eo quod est ex eo sit intentio, quoniam, vt dicit li. ix. c. xxv. omnis intentio 
+        <lb ed="#Ba" n="30"/>est propter illud quod intenditur. Et est intendens minoris esse quam id quod intenditur. Omne autem pro 
+        <lb ed="#Ba" n="31"/>pter quod est aliud, est perfectioris esse. Et ibidem. c. xxvi. dicit. Omnis intentio aliquid intendit 
+        <lb ed="#Ba" n="32"/>sed quae est intelligibilis est illa cum id quod intenditur ab intendente dignius est intendenti 
+        <lb ed="#Ba" n="33"/>esse quam non esse ab eo. Et talis est intentio quae facit intellectum practicum qui in nobis est prin 
+        <lb ed="#Ba" n="34"/>cipium operum. Vnde dicit Auic. ibidem. c. xxxvi. Non potest esse vt esse omnium ab illo sit secundum  
+        <lb ed="#Ba" n="35"/>viam intentionis ab illo: quemadmodum est nobis intentio in his omnibus quae sunt a nobis. Tunc 
+        <lb ed="#Ba" n="36"/>enim ipse esset intendens propter aliquid aliud praeter se. Intentio vero communiter accepta est 
+        <lb ed="#Ba" n="37"/>ex parte voluntatis determinatio operandorum: non propter aliquod bonum intendentis, sed ope 
+        <lb ed="#Ba" n="38"/>rati: &amp; ex parte intellectus est simplex apprehensio operandorum secundum modum quo opeanda sunt. 
+        <lb ed="#Ba" n="39"/>Hoc modo intentio est in deo prouidentiae &amp; regiminis aliorum. Vnde dicit Auic. ix. Meta. Opor 
+        <lb ed="#Ba" n="40"/>tet vt scientias quod cura horum est quod primum scit seipsum: &amp; intelligit ordinem bonitatis. secundum quod possibile 
+        <lb ed="#Ba" n="41"/>est esse melius. Et secundum quod intelligit eam siuit ipsa tali fuxu quo perfectius peruenitur ad ordi 
+        <lb ed="#Ba" n="42"/>nem secundum possibilitatem: &amp; haec est intentio de cura. Sed de hoc amplior debet esse sermo infe 
+        <lb ed="#Ba" n="43"/>rius. Talis autem intentio &amp; cura prouidentiae &amp; regiminis pure speculatiuo intellectu est in  
+        <lb ed="#Ba" n="44"/>deo, non practico. Etsi enim intelligit res secundum quod fsuunt ab eo: non tamen fluxum determinat &amp; 
+        <lb ed="#Ba" n="45"/>praestituit: sed solum voluntas, vt habitum est supra: licet etiam hoc negarent philosophi: dicentes deum 
+        <lb ed="#Ba" n="46"/>producere res per essentiam suam: &amp; naturali necessitate iuxta meliorem ordinem comprehen- 
+        <lb ed="#Ba" n="47"/>sum ab intellectu: &amp; non per aliquam libertatem voluntatis. secundum quod inferius habet perscrutari 
+        <lb ed="#Ba" n="48"/>de hoc quinto articulo quaest. iiii. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

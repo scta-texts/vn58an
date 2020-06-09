@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="117-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe32069"> <!-- alias="vn58an-a57q1" -->
+      <head xml:id="vn58an-fe32069-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe32069-d1e107">
+        <lb ed="#Bb" n="39"/>Irca primum arguitur quod ingenitum non possit dici proprietas patris, Primo sic. si- 
+        <lb ed="#Bb" n="40"/>cut solus pater est a nullo &amp; a quo alii, sic solus spiritus sanctus est a quo nullus, &amp; ips 
+        <lb ed="#Bb" n="41"/>est ab aliis. cum ergo hoc non est proprietas spiritus sancti, ergo nec illud patris. 
+        <lb ed="#Bb" n="42"/>Illud autem est patrem esse ingenitum, vt iam patebit, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e118">
+        ⁋ Secundo sic. sicut 
+        <lb ed="#Bb" n="43"/>ater est a nullo per generationem, propter quod dicitur ingenitus, sic pater &amp; filius 
+        <lb ed="#Bb" n="44"/>sunt a nullo per spirationem. sed hoc non est proprietas filii &amp; patris communis, 
+        <lb ed="#Bb" n="45"/>ergo nec illud patris solius. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e127">
+        ⁋ Tertio sic, quod est aliis commune non est proprie- 
+        <lb ed="#Bb" n="46"/>tas patris solius. ingenitum est commune essentiae &amp; spiritui sancto, &amp; mundo, &amp; materiae: quia non  
+        <lb ed="#Bb" n="47"/>sunt genita. dicente Ambrosio. iiii. de Trinitate contra haereticos. Spiritus sanctus quia genitus non 
+        <lb ed="#Bb" n="48"/>est, ingenitus secundum vestram sententiam nominandus. &amp; infra. Multa possunt &amp; innumera 
+        <lb ed="#Bb" n="49"/>exempla suppetere de eo quod id quod genitum non sit, dicatur ingenitum. Nam &amp; mundum pleri 
+        <lb ed="#Bb" n="50"/>quod ingenitum esse dixerunt, &amp; materiam rerum omnium. Videant ergo in hoc verbo praerogatiuam 
+        <lb ed="#Bb" n="51"/>quandam potestatis esse posse, nisi forte hoc verbo sibi honorare deum videntur, quomodo philoso- 
+        <lb ed="#Bb" n="52"/>phi mundum putauerunt esse donandum. &amp; infra. Nihil ergo praeciosum deo in eo sermone qui communis 
+        <lb ed="#Bb" n="53"/>possit esse cum caeteris. De natura vero patris quod sit ingenita, dicit Hil. in principio secundi de Trini. 
+        <lb ed="#Bb" n="54"/>sic. Ex his quae ingenita: in se erant genuit. &amp; in fine de Trinita. sic. Eilius tuus ex te vero deo patrae 
+   <!--249.xml-->
+        <pb ed="#Bb" n="117-v"/>
+        <lb ed="#Bb" n="1"/>est deus verus, &amp; a te in naturae tuae ingenitae genitus potestate. Et de spiritu scton Hierony. dicit. Spiritus 
+        <lb ed="#Bb" n="2"/>sanctus pater non est: sed ingenitus. quod autem alteri conuenit, non est, proprium vni. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e159">
+        ⁋ Quar  
+        <lb ed="#Bb" n="3"/>to sic. Ambrosius de incarnatione verbi, quid est. A. de trinitate, reprehendit eos qui ingenitum proprium 
+        <lb ed="#Bb" n="4"/>dicunt patri, dicens sic. Quidam dicentibus nobis filium dei qui generatus sit patri qui generauit in  
+        <lb ed="#Bb" n="5"/>aequalem esse non posse. &amp; infra. Putant mutationem fieri quaestionis mutatione sermonis, dicentes: quo  
+        <lb ed="#Bb" n="6"/>modo possunt ingenitus &amp; genitus esse vnius naturae &amp; substantiae: Ergo vt respondeam clementis- 
+        <lb ed="#Bb" n="7"/>sime imperator, primum omnium ingenitum in scripturis diuinis nusquam inuenio, non legi, non au-  
+        <lb ed="#Bb" n="8"/>dio. sed non reprehenderet eos in hoc, aut male reprehenderet si esset proprium patri. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e175">
+        <lb ed="#Bb" n="9"/>⁋ Quinto sic. <name ref="#Augustine">Augustinus</name> dicit. Cum pater dicitur ingenitus, ostenditur non quid sit, sed quid non sit. sed  
+        <lb ed="#Bb" n="10"/>non esse non est proprietas entis, nec notificat ens, neque ad dignitatem eius pertinet, sicut ad personae di 
+        <lb ed="#Bb" n="11"/>gnitatem in diuinis debet pertinere eius proprietas. ergo &amp;c. Si vero dicatur quod licet non notificat 
+        <lb ed="#Bb" n="12"/>neque ad dignitatem pertinet ratione qua est negatio, pertinet tamen ad dignitatem &amp; notificat ratio 
+        <lb ed="#Bb" n="13"/>ne positiui subtracti: Si illud, ergo aut est substantia patris, aut relatio ad filium &amp; spiritum sanctum 
+        <lb ed="#Bb" n="14"/>quia plura positiua non sunt in eo. Non substantia: quia ipsa est communis tribus personis: &amp; ideo quic 
+        <lb ed="#Bb" n="15"/>quod dignitatis ratione eius est in vna persona, &amp; in aliis. Non ratione relationis: quia dicit <name ref="#Augustine">Augustinus</name> v. de trinita. Pa 
+        <lb ed="#Bb" n="16"/>ter si filium non generaret, nihil prohibet ipsum dici igenitum, quare &amp; multo fortius etsi non spira- 
+        <lb ed="#Bb" n="17"/>ret. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e203">
+        ⁋ Vnde ad principale ex eodem arguitur. vi. sic. proprietas propria non potest esse nec esset si non es 
+        <lb ed="#Bb" n="18"/>set id cuius est: nec econuerso: vt homo si non esset risibile: nec econuerso. ingenitum esset etsi non  
+        <lb ed="#Bb" n="19"/>esset pater: &amp; econuerso. dicente Augustino. v. de trinitate. Si filium non generaret, nihil prohiberet 
+        <lb ed="#Bb" n="20"/>ipsum dicere ingenitum sed si filium non generaret non esset pater. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e212">
+        ⁋ Septimo arguitur ad 
+        <lb ed="#Bb" n="21"/>idem sic. quando dignitatis est aliquid de vno affirmare, nullius dignitatis est idem remouere. cum er 
+        <lb ed="#Bb" n="22"/>go esse ingenitum ab alio sit proprietas dignitatis in filio, vt infra patebit: ingenitum quod negat esse ge  
+        <lb ed="#Bb" n="23"/>nitum, in nullo potest esse dignitatis: quare nec in patre. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e221">
+        ⁋ Octauo sic. priuatio siue negatio non po- 
+        <lb ed="#Bb" n="24"/>nit aliquod dignitatis in vno, nisi quia positiuum quod negatur aut priuatur, ponit aliquid indignitatis in alio: vt 
+        <lb ed="#Bb" n="25"/>patet in corruptibili &amp; in incorruptibili, mortali &amp; immortali. sed esse sub alio simpliciter aut per gene 
+        <lb ed="#Bb" n="26"/>rationem aut per spirationem in nullo ponit indignitatem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e230">
+        ⁋ In contrarium est illud quod di-  
+        <lb ed="#Bb" n="27"/>cit Hila. A. de triniitate. cap. xv. Est enim vnigenitus deus: neque consortem vnigeniti nomen admittit: sicut 
+        <lb ed="#Bb" n="28"/>non recipit innascibilis in eo quod innascibilis, participem. est ergo vnus ab vno. Vterque itaque vnus &amp; solus est 
+        <lb ed="#Bb" n="29"/>proprietate videlicet in vnoquoque &amp; innascibilitatis &amp; originis. idem autem est ingenitum &amp; in-  
+        <lb ed="#Bb" n="30"/>nascibile. ergo &amp;c. 
+        <lb ed="#Bb" n="31"/>
+      </p>
+      <p xml:id="vn58an-fe32069-d1e244">
+        ⁋ Quin patri sit proprium ingenitum siue innascibile, de hoc nemo dubitare de 
+        <lb ed="#Bb" n="32"/>bet: cum nec de hoc dubitent haeretici, dicente Hila. A. de trinitate cap. v. Inter caetera addiderunt so- 
+        <lb ed="#Bb" n="33"/>lum se patrem innascibilem cognoscere: tanquam hinc quisquam possit ambigere eum ex quo ille geni- 
+        <lb ed="#Bb" n="34"/>tus sit per quem omnia sunt, id quod ipse est a nemine consecutum. In ipso enim quo pater dici- 
+        <lb ed="#Bb" n="35"/>tur, eius quem genuit auctor ostenditur, id habens nomen quod neque ex alio natum neque ex alio profectum 
+        <lb ed="#Bb" n="36"/>intelligatur, ex quo is qui genitus est substitisse doceatur. lgitur id quid deo proprium est, proprium ei ac se- 
+        <lb ed="#Bb" n="37"/>cretum relinquamus confitentes aeternae virtutis innascibilem potestatem. Nemini autem dubium esse 
+        <lb ed="#Bb" n="38"/>existimo ob eam causam in confessione dei patris quaedam eius quasi peculiaria &amp; priuata me- 
+        <lb ed="#Bb" n="39"/>morari: ne praeter ipsum eorum quisquam particeps relinquatur. De numero autem talium est ingeni- 
+        <lb ed="#Bb" n="40"/>tum, dicente Ricar. v. de trinitate cap. xv. Proprium est solius personae primae procedere a nulla: pro 
+        <lb ed="#Bb" n="41"/>prium est solius alterius procedere ab vna sola: proprium est solius tertiae procedere a gemina. Sola vna 
+        <lb ed="#Bb" n="42"/>a qua nulla, sola a qua vna sola, sola vna a qua procedit gemina. Adhuc autem cum ingenitum 
+        <lb ed="#Bb" n="43"/>negationem siue priuationem importat, &amp; negatio siue priuatio inquantum huiusmodi ex se nihil 
+        <lb ed="#Bb" n="44"/>omnino aut rei, aut modi, aut dignitatis, aut notificationis ponit, &amp; proprietas modum aliquem in re 
+        <lb ed="#Bb" n="45"/>&amp; dignitatis aliquid ponere debet, etiam dubium nulli esse debet, quin igenitum proprietas nec pris 
+        <lb ed="#Bb" n="46"/>nec alterius debet dici ratione purae negationis: licet aliqui hoc ponunt dicendo quod prima &amp; prin- 
+        <lb ed="#Bb" n="47"/>cipia per negationes notificantur: vt punctus dicitur cuius pars non est. Sed manifestum est quod 
+        <lb ed="#Bb" n="48"/>hoc non est verum nisi quia nos simplicium positiuam rationem non possumus attingere, quae sub 
+        <lb ed="#Bb" n="49"/>est negationi, &amp; quam per negationem dare intelligi volumus. Propter quid secundum Dionysium 
+        <lb ed="#Bb" n="50"/>quia de deitate vix capimus aliquid sicut est, in diuinis veriores sunt negationes quam affirmationes. 
+        <lb ed="#Bb" n="51"/>Et sic proculdubio dicendum est in proposito quod ingenitum proprietas patris est non ratione ne- 
+        <lb ed="#Bb" n="52"/>gationis aut priuationis purae, sed potius ratione alicuius positiui substrati: vt ingenitum non im 
+        <lb ed="#Bb" n="53"/>portet negationem extra genus, quae omnino nihil ponit: quam <name ref="#Aristotle">Philosophus</name> tertio metaphysicae ap-  
+        <lb ed="#Bb" n="54"/>pellat absolutionem esse: sed potius importet negationem in genere siue circa aliquod genus entis 
+        <lb ed="#Bb" n="55"/>per quod accedit quoquo modo ad rationem priuationis. iuxta differentiam quam ibidem <name ref="#Aristotle">Philosophus</name> 
+       <!--250.xml-->
+            <pb ed="#Bb" n="118-r"/>
+        <lb ed="#Bb" n="1"/>assignat inter negationem &amp; priuationem. Propter quod etiam exprimitur per notam priuatiuam 
+        <lb ed="#Bb" n="2"/>quae est in, licet non sit vera priuatio, vt iam dicetur. Sed tunc de isto positiuo tali negationi substra 
+        <lb ed="#Bb" n="3"/>to quid sit illud, &amp; an ratio dignitatis &amp; notionis consistat in negatione vt habet esse circa tale po 
+        <lb ed="#Bb" n="4"/>sitiuum, an circa ipsum positiuum vt consideratur sub tali negatione, amplior dubitatio est. Et sunt 
+        <lb ed="#Bb" n="5"/>hic quatuor modi ponendi: quorum tres ponunt quod illud positiuum sit aliquod relatiuum ad principiatum 
+        <lb ed="#Bb" n="6"/>quartus vero quod sit aliquid absolutum. Item primi duo ponunt quod ratio dignitatis &amp; notionis con- 
+        <lb ed="#Bb" n="7"/>sistit in positiuo, vt habet esse sub negatione. Duo vero vltimi ponunt contrarium. Dicunt ergo ali 
+        <lb ed="#Bb" n="8"/>qui quod illud positiuum substratum negationi est fontana deitas qua pater omnium aliorum est princi- 
+        <lb ed="#Bb" n="9"/>pium tanquam subiectum circa quod sit negatio, &amp; quod illud sit ratio principii vniuersalis a quo habet 
+        <lb ed="#Bb" n="10"/>esse omne aliud, &amp; omnis alius, vt sit sensus: pater est ingenitus, idest pater est a quo omnia alia, &amp; 
+        <lb ed="#Bb" n="11"/>omnes alii, qui non est omnino ab alio, vt principium hic intelligatur stare generaliter &amp; ad creaturas 
+        <lb ed="#Bb" n="12"/>&amp; ad diuinas personas. Et sic manifestum est quod soli patri convenit, vt amplius exponetur inferius. Quod  
+        <lb ed="#Bb" n="13"/>non potest stare: quoniam ratio principii vt est ad creaturas, non est nisi rationis tantum relatio vt est 
+        <lb ed="#Bb" n="14"/>in deo: super quam nihil realiter existens in deo, sicut existit omnis notio, fundari potest. Propter quod  
+        <lb ed="#Bb" n="15"/>alii ponunt quod illud positiuum sit ratio principii non vniuersaliter, quia non ad creaturas, sed ad perso 
+        <lb ed="#Bb" n="16"/>nas diuinas tantum, vt sit sensus: pater est ingenitus. i. pater est principium omnium personarum diuina- 
+        <lb ed="#Bb" n="17"/>rum quod non est ab alio. &amp; sic manifestum est quod proprie patri convenit. Sed nec hoc potest stare: quia si inge 
+        <lb ed="#Bb" n="18"/>nitum non esset proprietas in patre nisi quia fundatur super rationem principii quo alii sunt ab ipso, 
+        <lb ed="#Bb" n="19"/>ita quod ratio qua est notio existeret in ipso substrato, &amp; non in negatione, cum nihil in diuinis sit proprie- 
+        <lb ed="#Bb" n="20"/>tas nisi ratione relationis quam importat, vt patet ex praedeterminatis: ingenitum ergo non importaret rela 
+        <lb ed="#Bb" n="21"/>tionem nisi eius in quo fundatur, &amp; sic non esset proprietas distincta ab aliis quae importantur in no 
+        <lb ed="#Bb" n="22"/>mine principii personalis communiter accepti. Propter quod dicunt adhuc alii in parte variando a di- 
+        <lb ed="#Bb" n="23"/>cto istorum, videlicet quod ingenitum dicatur notio ratione talis positiui: non quia in illo positiuo con- 
+        <lb ed="#Bb" n="24"/>stat ratio notionis: quid supponebant primae duae opiniones iam dictae, sed solum quod ratio notionis impor 
+        <lb ed="#Bb" n="25"/>tatur per ingenitum ratione negationis, sed non nisi vt consideratur circa positiuum illud personale con 
+        <lb ed="#Bb" n="26"/>muniter acceptum. Quod non potest stare, quia tunc ingenitum non esset notio absque principio perso- 
+        <lb ed="#Bb" n="27"/>nali substrato: quod falsum est, quia secundum <name ref="#Augustine">Augustinum</name> nihil prohiberet patrem dici ingenitum etsi non  
+        <lb ed="#Bb" n="28"/>genuisset filium, vt infra videbitur. Si autem non genuisset filium, non esset principium personale. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e373">
+        ⁋ Est 
+        <lb ed="#Bb" n="29"/>igitur dicendum aliter, quod sicut est in relationibus positiuis quod ideo reales sunt notiones, quia funda 
+        <lb ed="#Bb" n="30"/>tur ex natura rei in ipsa diuina essentia, sic est &amp; de ista negatiua. Sicut enim ex natura ipsius diui- 
+        <lb ed="#Bb" n="31"/>nae essentiae est quod in aliqua persona est ratio a qua est alia, sic in aliqua est ratio quod ipsa non sit ab alia. 
+        <lb ed="#Bb" n="32"/>Et sic substratum illud negationi non est nisi ipsa diuina essentia: vt sit sensus, pater est ingenitus 
+        <lb ed="#Bb" n="33"/>idest habens in se diuinam essentiam non ab alio. iuxta illud quod loquendo de patre dicit Hil. iii. 
+        <lb ed="#Bb" n="34"/>de Trini. in principio. Ipse est plenus perfectus aeternus, non aliunde quid sumens, sed ad id quod ita ma 
+        <lb ed="#Bb" n="35"/>net sibi ipse sufficiens. Hic ergo ingenitus. Ingenitum ergo positiue dicit plenitudinem &amp; sufficientiam in pa 
+        <lb ed="#Bb" n="36"/>tre ex se: negatiue autem dicit nihil habere ab alio, vt secundum hoc ingenitum sit notio praecise ra- 
+        <lb ed="#Bb" n="37"/>tione negationis quam importat, aliquid tamen dignitatis importans ex hoc quod circa talem affirmationem 
+        <lb ed="#Bb" n="38"/>fundatur. habere enim omnia quae deitatis sunt essentialia ex se formaliter, toti trinitati conuenit, vt 
+        <lb ed="#Bb" n="39"/>supra declaratum est. sed ea habere sic ex se formaliter, quod cum hoc a nullo principiatiue, hoc magnae di 
+        <lb ed="#Bb" n="40"/>gnitatis est. Et resoluuntur isti duo modi habendi ea quae deitatis: quorum vnus est positiuus, scilicet ex se 
+        <lb ed="#Bb" n="41"/>formaliter: &amp; alter negatiuus, scilicet non habere ab alio principiatiue: in vnum modum habendi significa 
+        <lb ed="#Bb" n="42"/>tum positiue, scilicet habere ea libere, quemadmodum rex non ab alio tenens regnum dicitur libere te- 
+        <lb ed="#Bb" n="43"/>nere illud: cum alio modo habere regnum, scilicet ab alio, non sit libere habere. Et iste modus habendi 
+        <lb ed="#Bb" n="44"/>est magnae dignitatis. Vnde &amp; habere ea quae sunt deitatis ab alio simpliciter non est dignitatis in  
+        <lb ed="#Bb" n="45"/>osona filii &amp; spiritus sancti ratione eius quod est habere ab alio simpliciter, sed solummodo ratione iodi ha 
+        <lb ed="#Bb" n="46"/>bendi nobilis: qui est per generationem &amp; spirationem, vt tactum est supra in parte, &amp; inferius am- 
+        <lb ed="#Bb" n="47"/>plius declarabitur. Secundum hunc modum Hil. iiii. de Trini. exponit ingenitum sic inquiens. Nouit ec- 
+        <lb ed="#Bb" n="48"/>clesia vnum innascibilem deum: nouit vnigenitum dei filium: confitetur patrem aeternum ab origine libe 
+        <lb ed="#Bb" n="49"/>rum, confitetur &amp; filii originem ab aeterno. Vnde si ista libertas vno nomine positiuo exprimeretur 
+        <lb ed="#Bb" n="50"/>esset proprietas affirmatiua, secundum modum significandi: &amp; solum daret intelligi respectum nega 
+        <lb ed="#Bb" n="51"/>tiuum, ratione tamen cuius notio esset. 
+        <lb ed="#Bb" n="52"/>
+      </p>
+      <p xml:id="vn58an-fe32069-d1e428">
+        ⁋ Ad primum in oppositum quod spiritum sanctum esse a quo nullus, non est proprie- 
+        <lb ed="#Bb" n="53"/>tas, ergo nec proprietas patris quod sit a nullo: Dicendum quod proprietas non est quodcumque quod vni soli perso A 
+        <lb ed="#Bb" n="54"/>nae convenit, sed quod cum hoc ad dignitatem personae pertinet. Quamquam ergo illud convenit soli spiritui sancto per 
+        <lb ed="#Bb" n="55"/>sicut hoc soli patri: hoc tamen est proprietas patris: quia (vt dictum est) ad dignitatem pertinet: non autem  
+   <!--251.xml-->
+        <pb ed="#Bb" n="118-v"/>
+        <lb ed="#Bb" n="1"/>illud spiritus sancti: quia nullam dignitatem ponit in ipso: sicut neque dignitatem ponit in filio quod nullus 
+        <lb ed="#Bb" n="2"/>est ab eo per generationem: quia tunc contrarium eius, scilicet quod aliquis sit ab alio per generationem, nihil esset di 
+        <lb ed="#Bb" n="3"/>gnitatis: quod falsum est: immo hoc in patre dignitatis est. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e448">
+        ⁋ Ad secundum quod esse a nullo per spiratio- 
+        <lb ed="#Bb" n="4"/>nem, non est communis proprietas patris &amp; filii: quare similiter non est, proprium solius patris non esse 
+        <lb ed="#Bb" n="5"/>ab alio per generationem, quod ponit ingenitum: Dicendum quod in non esse ab alio per spirationem, duo dicuntur, 
+        <lb ed="#Bb" n="6"/>scilicet non esse ab alio, &amp; non esse ab alio per talem modum: quorum primum dignitatis est in significato 
+        <lb ed="#Bb" n="7"/>ingeniti, vt dictum est: &amp; isto modo non conuenit filio. non enim non est ab alio per spirationem: ita quod  
+        <lb ed="#Bb" n="8"/>simpliciter non est ab alio: sed solus pater. Secundum vero non ponit aliquid dignitatis: quia eius oppositum 
+        <lb ed="#Bb" n="9"/>scilicet esse ab alio per spirationem, ratione eius quod est per spirationem, ponit dignitatem &amp; notionem in 
+        <lb ed="#Bb" n="10"/>piritu sancto. &amp; sic esse non ab alio per spirationem, non potest esse communis proprietas. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e466">
+        ⁋ Ad ter 
+        <lb ed="#Bb" n="11"/>tium, quod ingenitum convenit diuinae essentiae, mundo, materiae primae secundum Philosophos, &amp; spiritui 
+        <lb ed="#Bb" n="12"/>sancto secundum Hieronymum: Dicendum quod distinguendum est de ingenito quod potest accipi ne- 
+        <lb ed="#Bb" n="13"/>gatiue pro eo quod est non genitus. dicente Augustino. v. de trinitate. Nihil intellectui demitur 
+        <lb ed="#Bb" n="14"/>si dicatur non filius: quemadmodum etiam si dicatur non genitus pro eo quod dicitur ingenitus. nihil enim 
+        <lb ed="#Bb" n="15"/>aliud dicitur. Et infra. Ingenitus porro quid est nisi non genitum: Vel potest accipi priuatiue: quod proprium 
+        <lb ed="#Bb" n="16"/>est negationi importatae per hanc praepositionem in, quando cadit in compositione. Et hoc modo 
+        <lb ed="#Bb" n="17"/>si proprie accipiatur priuatio, nunquam cadit in diuinis: quia priuatio proprie dicta non est nisi sit re- 
+        <lb ed="#Bb" n="18"/>motiua circa subiectum eius quod est dignitatis in alio: ita quod sit dignius habere illud quam carere eo siue non 
+        <lb ed="#Bb" n="19"/>habere: ita quod habere sit dignitatis, &amp; non habere sit indignitatis: &amp; habens quo ad hoc sit dignius: &amp; 
+        <lb ed="#Bb" n="20"/>non habens minus dignum. Et hoc patet in tribus modis priuationis proprie dictae: qua vno modo secun 
+        <lb ed="#Bb" n="21"/>dum Philosophum. v. metaphysicae dicitur aliquid priuari eo quod non est natum convenire ei secundum suum 
+        <lb ed="#Bb" n="22"/>proprium genus: sed solum secundum genus supremum: quemadmodum lapis dicitur non viuus quia caret 
+        <lb ed="#Bb" n="23"/>vita, quam in nulla specie sui generis natus est habere: sed solummodo secundum aliquam speciem generis 
+        <lb ed="#Bb" n="24"/>superioris, quae in hoc nobilior est omni specie lapidum. Alio modo dicitur aliquid priuari eo quod non  
+        <lb ed="#Bb" n="25"/>est natum convenire ei secundum suam speciem: sed secundum suum proprium genus: quemadmodum tal 
+        <lb ed="#Bb" n="26"/>pa dicitur non videns quia caret visu, qui in nullo indiuiduo suae speciei natus est esse: sed solum se 
+        <lb ed="#Bb" n="27"/>cundum aliquam speciem sui generis: quae in hoc nobilior est specie talpae. Tertio modo dicitur aliquid pri 
+        <lb ed="#Bb" n="28"/>uari eo quod natum est conuenire ei in suo esse indiuiduo: quemadmodum catulus dicitur non videns 
+        <lb ed="#Bb" n="29"/>ost. ix. diem: quia caret visu qui extunc natus est inesse eidem: qui in hoc nobilior esset si visum ha 
+        <lb ed="#Bb" n="30"/>beret: &amp; est ignobilior caeteris catulis suae speciei visum habentibus. Quia ergo in diuinis non potest ab aliquam  
+        <lb ed="#Bb" n="31"/>persona priuari aliquid per quod dignior simpliciter dicatur isin quo reperitur, &amp; indignior is in quo non 
+        <lb ed="#Bb" n="32"/>reperitur: nullo igitur modo proprie accipiendo priuationem, priuatio neque in, priuatiue acceptum 
+        <lb ed="#Bb" n="33"/>potest poni in diuinis. Vnde non bene dicunt aliqui quod pater &amp; spiritus sanctus similiter possunt dici ingeniti 
+        <lb ed="#Bb" n="34"/>priuatiue: quemadmodum talpa non videns: quia. scilicet non habent esse per generationem: sed tamen in natura sua est 
+        <lb ed="#Bb" n="35"/>quod habeant aliquid suppositum, cui conuenit habere esse per generationem. Neque similiter bene dicunt dicen 
+        <lb ed="#Bb" n="36"/>tes quod pater priuatiue dicitur ingenitus: quia dicit priuationem geniti circa principium personale, pro  
+        <lb ed="#Bb" n="37"/>ductium. scilicet personae: quia est aliquod tale quod habet esse genitum. Non igitur dicitur igenitum in diuinis aliter quam ne 
+        <lb ed="#Bb" n="38"/>gatiue, nisi extendendo &amp; communiter accipiendo nomen priuationis. Quae priuatio extenso nomine du- 
+        <lb ed="#Bb" n="39"/>plex est. Vna quae priuat id quod indignitatis est in alio: &amp; est vera priuatio siue defectus secundum rem: quales pri 
+        <lb ed="#Bb" n="40"/>uationes sunt immortale &amp; incorruptibile &amp; infinitum in deo: per quas circumloquuntur verae affirma 
+        <lb ed="#Bb" n="41"/>tiones &amp; rationes positiuae nobis incognitae, &amp; inominatae. Et ideo tales negationes siue priuationes dicuntur fun 
+        <lb ed="#Bb" n="42"/>dari super oppositum eius quod negant aut priuant. Quod non proprie dicitur: immo fundantur super id 
+        <lb ed="#Bb" n="43"/>circa quod intelligitur positiuum quod circumloquuntur: &amp; cuius oppositum priuant. Et ratione illius quod  
+        <lb ed="#Bb" n="44"/>sic dant intelligere &amp; circumloquuntur, huiusmodi negationes important rationem dignitatis non au 
+        <lb ed="#Bb" n="45"/>tem ratione negationis, neque ratione eius circa quid sunt. Hoc modo non priuat aut negat negatioin  
+        <lb ed="#Bb" n="46"/>hoc quod est ingenitum non enim priuat aliquid ponendo aliquod oppositum positiuum circa substratum 
+        <lb ed="#Bb" n="47"/>illud circumloquendo vel dando intelligi: sed est pura negatio circa id quid est substratum ipsi quod priua 
+        <lb ed="#Bb" n="48"/>tur: vt nullo modo possit dici negatio huiusmodi fundari circa suum oppositum, &amp; ratione illius ali 
+        <lb ed="#Bb" n="49"/>quid dignitatis importare: quia tunc ipsum priuatum necessario esset aliquid indignitatis in alio: quod 
+        <lb ed="#Bb" n="50"/>non est verum. Esse enim ab alio nullius est indignitatis in filio &amp; spiritu sancto: licet non esse ab alio 
+        <lb ed="#Bb" n="51"/>sit dignitatis aliquid in patre, quemadmodum secundum Hila. pater dicitur esse maior: filius tamen 
+        <lb ed="#Bb" n="52"/>non dicitur esse minor patre. cuius ratio declarabitur infra loquendo de personarum aequalitate. &amp; in nomine in  
+        <lb ed="#Bb" n="53"/>geniti alia est priuatio quam praecedens: scilicet qua aliquid negatur ab vno quid non est indignitatis in  
+        <lb ed="#Bb" n="54"/>alio, absque eo quod non ponat aliquod contrarium positiuum circa substratum. vt secundum hoc pri- 
+        <lb ed="#Bb" n="55"/>uatio in nomine ingeniti nullo modo fundatur super suum contrarium: vt ratione illius possit dici 
+   <!--252.xml-->
+        <pb ed="#Bb" n="119-r"/>
+        <lb ed="#Bb" n="1"/>importare aliquid dignitatis. Et puto talem modum priuationis in creaturis inueniri non posse. Ne 
+        <lb ed="#Bb" n="2"/>gatiue vero ingenitum potest poni dupliciter: vno modo absolute: alio modo circa subiectum aliquod  
+        <lb ed="#Bb" n="3"/>positiuum. Negatio primo modo est negatio extra genus: &amp; indifferenter convenit enti &amp; non enti: quemad  
+        <lb ed="#Bb" n="4"/>modum non homo vel non iustum dicitur chimaera &amp; tragelaphus, leo &amp; asinus. Sic non genitum siue ingenitum 
+        <lb ed="#Bb" n="5"/>non est proprietas in diuinis. Secundo modo dicitur aliquid ingenitum, quia est secundum aliquem modum  
+        <lb ed="#Bb" n="6"/>essendi: sed non per modum generationis habet illum. &amp; est negatio in genere. Sed hoc contingit tripliciter, 
+        <lb ed="#Bb" n="7"/>quia ingenitum dicitur aliquid vno modo, quia non est terminus generationis per se, habitum tamen in ge 
+        <lb ed="#Bb" n="8"/>nerato per generationem. Sic diuina essentia dicitur esse ingenita: &amp; similiter secundum philosophos ma 
+        <lb ed="#Bb" n="9"/>teria prima. Alio modo quia non est per se terminus generationis, nec habens esse in alio per generatio 
+        <lb ed="#Bb" n="10"/>nem, sed per aliam productionem, quae tamen non est sine generatione. Hoc modo secundum Hieronysius. spiritus sanctus 
+        <lb ed="#Bb" n="11"/>ingenitus dicitur, quia per processionem habet esse a pratre, sed non per natiuitatem: &amp; secundum philoso 
+        <lb ed="#Bb" n="12"/>phos mundus: quia effectus est a deo nec genitus: non tamen sine generatione: quia processio spiritus sctuim &amp; factio mundi  
+        <lb ed="#Bb" n="13"/>non sunt sine generatione verbi praeuia vel quasi praeuia. Tertio modo dicitur aliquid ingenitum, quia 
+        <lb ed="#Bb" n="14"/>a nullo habet esse per generationem, qua. scilicet neque secundum se est terminus generationis, neque esse habet 
+        <lb ed="#Bb" n="15"/>in alio per generationem (dico sicut aliquid geniti) neque per aliam productionem omnino ponentem aut suppo 
+        <lb ed="#Bb" n="16"/>nentem aliquo modo generationem. &amp; per hoc id quid sic abnegatur esse genitum, quia generatio diuina necessario est 
+        <lb ed="#Bb" n="17"/>prima omnium productionum, ipsum dicere ingenitum, idem est cum eo quod est nullo modo esse ab alio. 
+        <lb ed="#Bb" n="18"/>Quod enim sic est ingenitum quod nullo dictorum modorum habet esse per generationem, nec habet etiam 
+        <lb ed="#Bb" n="19"/>esse per spirationem, nec per quemcumque alium modum ab alio. Vnde dicit Ric. vi. de Trini. Solus pater a 
+        <lb ed="#Bb" n="20"/>nullo est: idcirco nulla ratione genitus dici potest: merito ergo ingeniti nomen accepit. Spiritus sanctus 
+        <lb ed="#Bb" n="21"/>genitus non dicitur, ne qui filius non est, filius esse putaretur: nec tamen ingenitus dicitur, ne eo ipso is qui a se- 
+        <lb ed="#Bb" n="22"/>metipso non est, aliunde originem habere negaretur. Et hoc est ingenitum quod conuenit soli patri, &amp; inclu 
+        <lb ed="#Bb" n="23"/>dit inspiratum, quia vt dicit Alexander in summa sua, posterior est habitudo spiratio quam natiuitas. 
+        <lb ed="#Bb" n="24"/>Et quia illa est prior habitudo, illa ablata omnis posterior remouetur. Sed large vtitur nomine prioris &amp; po 
+        <lb ed="#Bb" n="25"/>sterioris, qualiter nos non auderemus vti. Et ideo sumendo ingenitum tam largo modo vt convenit patri 
+        <lb ed="#Bb" n="26"/>&amp; genitum secundum quod conuenit soli filio, spiritus sctuns nec dicitur genitus, quia non est filius: nec igenitus, 
+        <lb ed="#Bb" n="27"/>quia non est pater. secundum <name ref="#Augustine">Augustinum</name> ad Orosium, vt recitat Magister id est sententiarum distinctio. xiii. 
+        <lb ed="#Bb" n="28"/>cap. Nunc considerandum. &amp; tribus capitulis sequentibus. Nec facimus differentiam inter ingenitum &amp; non geni 
+        <lb ed="#Bb" n="29"/>tum: licet aliqui dicant spiritum sanctum dici non genitum, licet non igenitum. vt tagit Magister dist. xxviii. in ca. 
+        <lb ed="#Bb" n="30"/>dem solet, quia vt dictum est ly in, non stat ibi priuatiue loquendo proprie de priuatione, scilicet secun- 
+        <lb ed="#Bb" n="31"/>dum tres modos praedictos. Communiter autem loquendo de priuatione, appellando priuationem quando circa sub 
+        <lb ed="#Bb" n="32"/>iectum existens negatur aliquid quod in alio aut est dignitatis, aut saltem non est alicuius indignita 
+        <lb ed="#Bb" n="33"/>tis, sic ingenitum priuatiue accipitur, vt iam dictum est: nec plus conuenit spiritui sancto dici ingenitum 
+        <lb ed="#Bb" n="34"/>hoc modo priuatiue, quam non genitum negatiue, vt patet ex dictis. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e647">
+        ⁋ Ad quartum quod Ambrosius reprehendit 
+        <lb ed="#Bb" n="35"/>eos qui ingenitum patri attribuunt: Dicendum ad hoc, quod ibi disputat Ambrosius contra haereticos quid ne 
+        <lb ed="#Bb" n="36"/>gabant hoc nomen Homousion debere recipi in diuinis, quia non inuenitur scriptum, vtebantur tamen hoc no 
+        <lb ed="#Bb" n="37"/>mine ingenitum de patre loquendo: ad probandum quod pater &amp; filius non sunt eiusdem substantiae: quia (vt 
+        <lb ed="#Bb" n="38"/>dixerunt) genitum &amp; ingenitum non possunt esse eiusdem substantiae: cum tamen potius inueniatur scriptum illud quod 
+        <lb ed="#Bb" n="39"/>significatur hoc nomine homousion, quid est esse vnius substantiae, patrem scilicet &amp; filium: quam quod pater sit ingenitus. 
+        <lb ed="#Bb" n="40"/>Vnde reprehendit eos non propter nomen ingenitum, quasi non esset conveniens eo vti in diuinis, sed pro 
+        <lb ed="#Bb" n="41"/>pter ipsos vtentes, ad reprimenda. scilicet eorum proteruiam, quia. scilicet nolebant vti hoc nomine homousion contra 
+        <lb ed="#Bb" n="42"/>se: quia scriptum non erat: sed vtebantur hoc nomine ingenitum pro se, quod minime scriptum erat, secundum quod 
+        <lb ed="#Bb" n="43"/>haec patent ex disputatione <name ref="#Augustine">Augustinus</name> in Epistola contra Poscentium Arrianum in principio, &amp; in libro ad Optatum 
+        <lb ed="#Bb" n="44"/>contra Felicianum Arrianum in principio. Vnde postquam dixit Ambrosius, Ingenitum in diuinis scripturis nusque 
+        <lb ed="#Bb" n="45"/>iuenio, non legi, non audiui, continuo subdit. Cuius ergo mutabilitatis sunt homines vt nos dicant ea vsur 
+        <lb ed="#Bb" n="46"/>pare quae non sunt scripta, cum ea quae sunt scripta dicamus: &amp; ipsi obiiciant quid scriptum non sit: immo sibiipsis ad  
+        <lb ed="#Bb" n="47"/>uersantur, &amp; auctoritati calumniae suae derogant. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e682">
+        ⁋ Ad quintum dicendum secundum quod iam expositum est, quod ingenitum 
+        <lb ed="#Bb" n="48"/>non notificat ratione qua est negatio pura, sed ratione qua est circa positiuum substratum. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e687">
+        ⁋ Ad sciendum 
+        <lb ed="#Bb" n="49"/>autem distincte quid sit illud positiuum substratum: Sciendum quod ingenitum dupliciter potest considerari: vno modo  
+        <lb ed="#Bb" n="50"/>simpliciter &amp; secundum se: alio modo vt consideratur circa naturam diuinam. Si primo modo sic substratum non est 
+        <lb ed="#Bb" n="51"/>uisi essentia. Ingenitum ei dicitur suppositum quodcumque siue absolutum siue respectiuum habens essentiam aliquam ex se 
+        <lb ed="#Bb" n="52"/>formaliter ita quod a nuilo principiatiue. &amp; secundum hoc persona patris si per impossibile posset esse persona, aut hy 
+        <lb ed="#Bb" n="53"/>postasis absque proprietate paternitatis quae essentiam deitatis non haberet ab alio, ingenita esset, absque eo quod  
+        <lb ed="#Bb" n="54"/>negatio huiusmodi haberet aliquod relatiuum substratum, vt iam amplius patebit. Si Secundo modo, sic 
+        <lb ed="#Bb" n="55"/>substratum est illi negationi aliquid tripliciter. Vno modo vt in quo habet fundari: alio modo vt quo  
+   <!--253.xml-->
+        <pb ed="#Bb" n="119-v"/>
+        <lb ed="#Bb" n="1"/>habet fundari in illo: tertio modo vt cuius est. Primo modo secundum praedicta non est nisi diuina 
+        <lb ed="#Bb" n="2"/>essentia. Secundo modo est ipsa proprietas paterna siue generare. Eo enim quod generare in diuinis 
+        <lb ed="#Bb" n="3"/>prima productio, necessarium est quod generans non ab alio principiatiue habeat diuinam essentiam. 
+        <lb ed="#Bb" n="4"/>Tertio modo est ipsum suppositum constitutum. ex essentia cum proprietate paternitatis siue genera 
+        <lb ed="#Bb" n="5"/>tionis actiuae. Et habet negatio importata nomine ingeniti rationem notificandi suppositum vt subie 
+        <lb ed="#Bb" n="6"/>ctum cuius est: non ratione illa qua est circa ipsum vt circa subiectum: quia tunc esset seipso ratio notifi 
+        <lb ed="#Bb" n="7"/>candi &amp; dignificandi seipsum: quod est impossibile: neque ratione illa qua est circa proprietatem generandi:  
+        <lb ed="#Bb" n="8"/>quia non est circa ipsam vt qua formaliter habet esse in subiecto: sed solum vt qua quasi dispositi 
+        <lb ed="#Bb" n="9"/>formaliter enim habet esse circa essentiam: sed praecise vt est in patre sub proprietate paternitatis 
+        <lb ed="#Bb" n="10"/>de essentia diuina vt est in patre sub proprietate paternitatis, est ratio formalis qua pater fo 
+        <lb ed="#Bb" n="11"/>maliter est ingenitus: &amp; quae ingenitum habet rationem dignitatis notificantis. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e733">
+        ⁋ Quia ergo obii 
+        <lb ed="#Bb" n="12"/>ficat ratione substantiae, quia illa est communis: Dicendum quod licet notificet ratione solius substantiae formali- 
+        <lb ed="#Bb" n="13"/>ter: non tamen nisi vt est sub tali proprietate: &amp; hoc specialiter in natura diuina, vt iam infra ampliu 
+        <lb ed="#Bb" n="14"/>declarabitur. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e742">
+        ⁋ Et quod arguitur contra hoc &amp;. vi. ad principale, quod ingenitum non est proprietas patris: quia 
+        <lb ed="#Bb" n="15"/>esset ingenitus etsi non esset pater: Dicendum quod pater si filium non genuisset non esset persona in di 
+        <lb ed="#Bb" n="16"/>uinis, quia in diuinis pater non est persona nisi paternitate, vt dicetur ins si. quaestione sequente. Si autem non 
+        <lb ed="#Bb" n="17"/>genuisset, non conveniret ei proprietas paterna, vt infra declarabitur. Et ideo si non genuisset, idem ipse 
+        <lb ed="#Bb" n="18"/>non esset ingenitus: sed si aliquis esset ingenitus, ille esset secundum imaginationem infidelium perso- 
+        <lb ed="#Bb" n="19"/>na vnica absoluta in diuinis. Vnde hoc dixit Augustins ponendo siue supponendo per impossibile quod ille 
+        <lb ed="#Bb" n="20"/>qui est pater in diuinis, esset persona, etsi non genuisset. &amp; hoc habendo respectum ad illa a quibus 
+        <lb ed="#Bb" n="21"/>nomina sunt translata ad diuina sub hoc sensu, pater etiam si filium non genuisset, &amp; cum hoc esset ali- 
+        <lb ed="#Bb" n="22"/>qua persona, nihil prohiberet eum dicere ingenitum, quia. scilicet non ex eo quod generauit filium, sed ex eo quod est existens 
+        <lb ed="#Bb" n="23"/>ex se formaliter &amp; a nullo principiatiue, dicitur igenitum: &amp; hoc siue sit persona absoluta siue relatiua 
+        <lb ed="#Bb" n="24"/>Vnde ipsemet praemittit dicens. Non enim ex hoc dicitur ingenitum quod est patrem dicere: quia ex eo quod ge- 
+        <lb ed="#Bb" n="25"/>nerauit filium, dicitur ad genitum: ex eo vero quod est ingenitus, nequaquam: sed ad non genitorem. vt ex- 
+        <lb ed="#Bb" n="26"/>ponit consequenter. Vnde exemplum quod ibi subditur in creaturis: etsi gignat quisque filium non ex eo ipse 
+        <lb ed="#Bb" n="27"/>est ingenitus: quia geniti homines ex aliis hominibus gignuntur &amp; ipsi alios gignunt: non valet ad pro 
+        <lb ed="#Bb" n="28"/>bandum quod aliquis in diuinis posset generare aut esse pater: etiam si non esset ingenitus: aut esse igenitus. 
+        <lb ed="#Bb" n="29"/>etiam si non generaret: sed solum ad ostendendum quod non generat ex eo quod est ingenitus, &amp; quod non esti- 
+        <lb ed="#Bb" n="30"/>genitus ex hoc quod generat. Et propter hoc Alexander in summa sua exponendo <name ref="#Augustine">Augustinum</name> dicit, quod 
+        <lb ed="#Bb" n="31"/>Augustinus non habuit respectum ad naturam essendi, sed ad naturam intelligendi. Concedimus enim quod si pitur non 
+        <lb ed="#Bb" n="32"/>genuisset non esset. Si intelligit quod non genuit, bene potest intelligi quod sit igenitus: quia intellecta inascibilitate 
+        <lb ed="#Bb" n="33"/>non intelligitur paternitas. Vnde dicit Praepositinus sic. Si attendas proprietatem verbi, falsa est loquutio 
+        <lb ed="#Bb" n="34"/>quia gratia impossibilitatis dicitur haeretico respectu ad ea a quibus haec nomina translata sunt ad crea- 
+        <lb ed="#Bb" n="35"/>torem. Vnde neutrum istorum est verum: si aliquis est pitur est igenitus, &amp; si est igenitus est pitoe. sed in prse aeterno be- 
+        <lb ed="#Bb" n="36"/>ne sequitur gratia termini. Ex quibus patet clare quod positiuum substratum ingenito non est ratio ali- 
+        <lb ed="#Bb" n="37"/>ua printipii. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e798">
+        ⁋ Ad formam ergo argumenti quo dicitur: si proprietas patris non posset esse si non esset pi, &amp; 
+        <lb ed="#Bb" n="38"/>hoc neque per possibile neque per impossibile: sed solum per incompossibile: sicut si non esset aliquis homo non  
+        <lb ed="#Bb" n="39"/>posset esse risibile sicut non posset esse rationale: Dicendum quod quaedam est proprietas quae secundum suam 
+        <lb ed="#Bb" n="40"/>formam ad vnam speciem siue rationem subiecti determinata est, vt habere tres triagulo. Est vero alia 
+        <lb ed="#Bb" n="41"/>proprietas quae secundum formam suam non est determinata ad vnam speciem siue rationem subiecti 
+        <lb ed="#Bb" n="42"/>vt commutata proportio: quae secundum <name ref="#Aristotle">Philosophum</name> in libris posteriorum, convenit nuneris &amp; magnitudinibus. Depri- 
+        <lb ed="#Bb" n="43"/>ma proprietate verum est quod proprietas non potest esse nisi esset id cuius est. Secunda vero bene potest esse in vno subiecto 
+        <lb ed="#Bb" n="44"/>secundum vnam rationem etsi non esset in alio: non tamen si in neutro illorum esset. De primo modo proprietatum 
+        <lb ed="#Bb" n="45"/>non est ingenitum ratione significati per terminum cum consideratur in diuinis: quia alibi confide 
+        <lb ed="#Bb" n="46"/>rari non potest in significatione illa qua proprietas est secundum modum praeexpositum: quia subiectum 
+        <lb ed="#Bb" n="47"/>sibi determinat personam siue suppositum. &amp; hoc quantum est de ratione suae formae siue signifi- 
+        <lb ed="#Bb" n="48"/>cati indifferenter, siue fuerit absolutum siue respectiuum: ita tamen quod suppositum absolutum non potest sibi deter 
+        <lb ed="#Bb" n="49"/>minare in diuinis nisi per impossibile: supponendo aliquod tale esse in diuinis: sed tamen absque omni positione incompossi 
+        <lb ed="#Bb" n="50"/>bilitatis: quia ingenitum ex sua significatione etiam circa diuina nihil includit per quod necesse est poni quod ingenitus 
+        <lb ed="#Bb" n="51"/>sit pater. Propter quod ingenitus per impossibile posset esse aliquis etiam in diuinis: etsi non esset 
+        <lb ed="#Bb" n="52"/>pater nec generaret: &amp; econuerso, quantum est de ratione formae paternitatis &amp; significato termini 
+        <lb ed="#Bb" n="53"/>simpliciter, quod indifferenter habet considerari circa diuina &amp; circa creaturas, licet non ita proprie 
+        <lb ed="#Bb" n="54"/>circa creaturas (vt infra videbitur) pater potest esse etsi non sit ingenitus: &amp; hoc per possibile, vt pa 
+        <lb ed="#Bb" n="55"/>tet in creaturis: Et in diuinis quantum est de significato termini per impossibile, nihil prohibet esse pa- 
+   <!--254.xml-->
+        <pb ed="#Bb" n="120-r"/>
+        <lb ed="#Bb" n="1"/>trem etsi non esset ingenitus. Ratione tamen materiae in diuinis nec est ingenitum nisi sit pater: 
+        <lb ed="#Bb" n="2"/>nec pater nisi sit ingenitus: ita tamen quod paternitas potius sit ratio ingeniti quam econuerso. propter quod  
+        <lb ed="#Bb" n="3"/>paternitas est proprietas constitutiua patris, &amp;: non econuerso: vt ideo ingenitum sit vere proprie- 
+        <lb ed="#Bb" n="4"/>tas patris in diuinis, vt infra amplius patebit. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e856">
+        ⁋ Ad septimum quod genitum esse ponit dignitatem in  
+        <lb ed="#Bb" n="5"/>filio, ergo ingenitum esse quod est eius priuatio siue negatio, nullam ponit dignitatem in patre: Dicen 
+        <lb ed="#Bb" n="6"/>dum quod differt dicere positiue ab alio esse simpliciter &amp; absolute, &amp; ab alio esse modo determinato, 
+        <lb ed="#Bb" n="7"/>scilicet per generationem aut per spirationem. Esse enim ab alio simpliciter, nihil ponit dignitatis in  
+        <lb ed="#Bb" n="8"/>persona quae habet esse ab alia. Esse vero ab alio sic, scilicet per generationem aut per spirationem- 
+        <lb ed="#Bb" n="9"/>rationem dignitatis ponit, vt infra declarabitur. Et propter hoc ingenitum inquantum stricte sumi 
+        <lb ed="#Bb" n="10"/>ur secundum quod etiam conuenit spiritui sancto, scilicet inquantum idem est quod non esse ab alio per ge 
+        <lb ed="#Bb" n="11"/>erationem, nihil dignitatis importat, nec est notio aut proprietas in aliqua persona diuina, simili 
+        <lb ed="#Bb" n="12"/>er nec inspiratum. &amp; hoc modo loquendo de ingenito, bene procedit obiectio. Sed (vt dictum est)  
+        <lb ed="#Bb" n="13"/>ngenitum quod dicitur de patre, idem est quod nullo modo esse ab alio. Sed quia nomen positiuum 
+        <lb ed="#Bb" n="14"/>in est impositum modo essendi ab alio simpliciter: sicut generari est nomen essendi ab alio mo-  
+        <lb ed="#Bb" n="15"/>o determinato, similiter &amp; spirari: ideo proprietas ista sumitur per negationem primi modi proce 
+        <lb ed="#Bb" n="16"/>endi determinati, quia illo negato intelligitur negari omnis alius, vt dictum est, &amp; inferius am- 
+        <lb ed="#Bb" n="17"/>lius dicetur. Et sic nomine ingeniti vt est notio patris, intelligitur non esse ab alio simpliciter, se- 
+        <lb ed="#Bb" n="18"/>undum modum praedictum, &amp; priuat siue negat circa ipsum esse ab alio simpliciter, quod in nullo ra-  
+        <lb ed="#Bb" n="19"/>ionem dignitatis habet. Non enim est dignitatis in filio quod non est ab alio, sed quod est sic ab alio, sci 
+        <lb ed="#Bb" n="20"/>icet per generationem: non tamen sequitur ex hoc quod sit in filio aliquid indignitatis. 
+      </p>
+      <p xml:id="vn58an-fe32069-d1e894">
+        ⁋ Dicendum 
+        <lb ed="#Bb" n="21"/>ergo ad octauum: quod non est verum illud propositum. Priuatio aut negatio non est aliquid dignita- 
+        <lb ed="#Bb" n="22"/>tis in vno, nisi positio sit aliquid indignitatis in alio. hoc enim non est verum nisi vbi positiuum se 
+        <lb ed="#Bb" n="23"/>cundum nomen, priuatiuum est secundum rem, quemadmodum secundum quod assumitur corrupti 
+        <lb ed="#Bb" n="24"/>bile &amp; mortale dicunt defectum virtutis permanendi in esse. Propter quod talis priuatio &amp; habitus ne 
+        <lb ed="#Bb" n="25"/>cessario sunt circa diuersa secundum substantiam. Et est priuatio siue significatum modo priuatiuo cir 
+        <lb ed="#Bb" n="26"/>ca substantiam superioris gradus, &amp; significatum modo positiuo circa substantiam inferioris gra- 
+        <lb ed="#Bb" n="27"/>dus, quae deficit ab aliquo quid est in substantia superioris gradus. Ex quo contingit quod positio indignita 
+        <lb ed="#Bb" n="28"/>tis est: Priuatio vero dignitatis. Vbi autem quod positiuum est secundum nomen, non est secundum rem priuatiuum, li 
+        <lb ed="#Bb" n="29"/>cet non sit dignitatis neque indignitatis, &amp; quod priuatiuum est illius est simpliciter dignitatis, vt in pro  
+        <lb ed="#Bb" n="30"/>posito: non est verum illud quod proponitur. Et quod in proposito priuatiuum sit dignitatis, positiuum 
+        <lb ed="#Bb" n="31"/>vero non sit indignitatis, contingit quia habent esse circa eandem substantiam numero. dicente Hil. ix. 
+        <lb ed="#Bb" n="32"/>de Trinita. cap. xxvii. Si donantis auctoritate pater maior me est, nunquid per doni concessionem mi 
+        <lb ed="#Bb" n="33"/>nor filius est: Maior vtique donans est: sed minor iam non est cui vnum esse donatur. Habes &amp; in 
+        <lb ed="#Bb" n="34"/>donantis auctoritate quia maior est: &amp; in donati concessione quia vnum sunt. &amp; cap. xxviii. Maior ita 
+        <lb ed="#Bb" n="35"/>quod pater est dum pater est: sed filius dum filius est, minor non est. Natiuitas filii patrem constituit maiorem: 
+        <lb ed="#Bb" n="36"/>minorem vero filium esse natiuitatis natura non patitur. Non habet natiuitas itaque ignobilitatem, quia in for 
+        <lb ed="#Bb" n="37"/>madei est qui ex deo nascitur: &amp; cum differre significatione ipsa aestimetur innascibilitas a natiuitate 
+        <lb ed="#Bb" n="38"/>natiuitas tamen non est extra innascibilitatis naturam, quia non sumpsit aliunde quod subsistit. Et si- 
+        <lb ed="#Bb" n="39"/>cut est de natiuitate siue esse ab alio nascendo, quod non ponit minoritatem aut indignitatem in nato, 
+        <lb ed="#Bb" n="40"/>quia nascendo idem esse, &amp; tantum quantum habet pater accepit, &amp; tamen innascibilitas aestimatur 
+        <lb ed="#Bb" n="41"/>alicuius dignitatis a natiuitate, hoc est respectu natiuitatis: sic est de esse ab alio simpliciter: quod  
+        <lb ed="#Bb" n="42"/>nihil ponit indignitatis in eo qui est ab alio propter idem, &amp; tamen non esse ab alio ponit respectu 
+        <lb ed="#Bb" n="43"/>illius rationem dignitatis multo potius quam respectu natiuitatis, quia illa ex se rationem dignitatis 
+        <lb ed="#Bb" n="44"/>importat, vt infra patebit. Quare autem huiusmodi dignitas aut maioritas dignitatis in vna per 
+        <lb ed="#Bb" n="45"/>ona respectu alterius, non ponit in illa alia indignitatem aut aliquam minoritatem, debet declara 
+        <lb ed="#Bb" n="46"/>ri inferius loquendo de aequalitate personarum.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

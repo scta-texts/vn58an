@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="31-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e380"> <!-- alias="vn58an-a4q3" -->
+      <head xml:id="vn58an-d1e380-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e380-Hd1e107" type="question-title">Utrum homo naturaliter appetat scire</head>
+      <p xml:id="vn58an-d1e380-d1e110">
+        <lb ed="#Ba" n="32"/>CIrca. iii. quod homo non appetat scire natura, arguitur primo sic. quod naturaliter de 
+        <lb ed="#Ba" n="33"/>terminatum est ad vnum finem, non naturaliter inclinat ad alium: appetitus naturaliter 
+        <lb ed="#Ba" n="34"/>determinatur ad bonum: quia est proprium obiectum eius. ergo non inclinatur na 
+        <lb ed="#Ba" n="35"/>turaliter ad verum. sed appetitus non appetit naturaliter nisi ad quod naturaliter 
+        <lb ed="#Ba" n="36"/>inclinatur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e380-d1e123">
+        ⁋ Secundo sic. natura determinata est ad vnum solum. Si ergo ho 
+        <lb ed="#Ba" n="37"/>mo naturaliter appeteret scire: non nisi vnum aliquid appeteret scire. Consequens 
+        <lb ed="#Ba" n="38"/>est falsum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e380-d1e131">
+        ⁋ Tertio sic: vt dictum est per <name ref="#Augustine">Augustinus</name> Appetitus non est nisi ex cognitione. Si er 
+        <lb ed="#Ba" n="39"/>go homo natura appeteret scire, homo a natura aliquid sciret. Consequens est falsum secundum praedeterminata. 
+        <lb ed="#Ba" n="40"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e380-d1e141">
+        ⁋ Quarto sic: voluntas distinguitur contra naturam. ii. Ethicorum quare cum homo appetat scire volun 
+        <lb ed="#Ba" n="41"/>tate, non ergo natura. 
+      </p>
+      <p xml:id="vn58an-d1e380-d1e146">
+        ⁋ Contra est quod dicit <name ref="#Aristotle">Philosophus</name> in prin. Metaphy. Dens homines natura scire desiderant.
+      </p>
+      <p xml:id="vn58an-d1e380-d1e152">
+        <lb ed="#Ba" n="42"/>⁋ Ad hoc dicendum secundum Philosophum. ii. Physisiae. quod quaecunque agunt secundum pro  
+        <lb ed="#Ba" n="43"/>positum &amp; secundum naturam, ambo agunt propter aliquid &amp; propter finem: non secundum quod quid 
+        <lb ed="#Ba" n="44"/>dam dixerunt. quod omnia naturalia sunt a casu: &amp; quod solum propter finem agerent, quaecunque agunt 
+        <lb ed="#Ba" n="45"/>per cognitionem. Nunc autem ita est quod quaecunque agunt propter finem: necessario agunt mota a 
+        <lb ed="#Ba" n="46"/>fine: &amp; ideo intendendo finem. secundum quod dicit Philosophous. ii. Metaph. Nihil incipit agere aliquam actio 
+        <lb ed="#Ba" n="47"/>nem nisi intendendo finem. &amp;. iii. eiusdem dicit: quod impossibile est vt ista causa sit in rebus quae non mouent 
+        <lb ed="#Ba" n="48"/>erga perfectionem. Intentio autem &amp; motus erga finem: non est nisi propter appetitum finis. In omnibus ergo agen 
+        <lb ed="#Ba" n="49"/>tibus propter finem necesse est ponere appetitum finis: quare cum non omnia agunt propter finem per cogni- 
+        <lb ed="#Ba" n="50"/>tionem &amp; deliberationem: sed quaedam sine cognitione &amp; deliberatione: vt agentia per naturam: non solum ne 
+        <lb ed="#Ba" n="51"/>cesse habemus ponere appetitum deliberatiuum per cognitionem: sed etiam appetitum naturalem 
+        <lb ed="#Ba" n="52"/>sine cognitione: secundum quod dicit Comment. in fine primi Physicae. Appetitus alius est naturalis sine 
+        <lb ed="#Ba" n="53"/>sensu: vt appetitus plantarum ad alimentum: &amp; alius cum sensu: vt appetitus animalium ad alimentum. Quia 
+        <lb ed="#Ba" n="54"/>igitur appetitus iste qui est animalis, necessario sit per cognitionem: &amp; nulla cognitio naturalis est in homine 
+   <!--78.xml-->
+        <pb ed="#Ba" n="32-r"/>
+        <lb ed="#Ba" n="1"/>zvt dictum est supra: tali appetitu non appetit homo scire naturaliter. Appetitus autem naturalis: quia  
+        <lb ed="#Ba" n="2"/>sit sine notitia, quodam occulto naturae instinctu: per quem fit appetitus qui dicitur animalis: vadit deter 
+        <lb ed="#Ba" n="3"/>minate in finem suum: vt semen tritici ad pullulandum in triticum, &amp; materia mota per agens ten 
+        <lb ed="#Ba" n="4"/>dit ad formam. 
+      </p>
+      <p xml:id="vn58an-d1e380-d1e196">
+        ⁋ Cum igitur vt dictum est supra: homo ex natura sui intellectus est in potentia 
+        <lb ed="#Ba" n="5"/>omnia intelligibilia: &amp; nihil eorum in actu antequam intelligat: &amp; ita naturaliter imperfectus est: 
+        <lb ed="#Ba" n="6"/>perfectibilis tamen per species intelligibilium: vt per eas actu intelligat &amp; sciat: &amp; imperfectum naturaliter tendit 
+        <lb ed="#Ba" n="7"/>in suam perfectionem: absolute ergo dicendum: quod homo ante acquisitionem omnis notitiae appeti 
+        <lb ed="#Ba" n="8"/>tu illo qui non est animalis sed in ipso pure naturalis naturaliter appetit scire simpliciter. Sicut post 
+        <lb ed="#Ba" n="9"/>adeptam aliqualem cognitionem imperfectam appetitu cognitiuo appetit scire hoc vel illud: se- 
+        <lb ed="#Ba" n="10"/>cundum quod imperfectam habet notitiam huius vel illius: vt scientia imperfecta in ipso perficiatur. 
+        <lb ed="#Ba" n="11"/>Et hunc appetitum cognitiuum praecedit ille appetitus naturalis sine omni cognitione. De quo 
+        <lb ed="#Ba" n="12"/>appetitu dicit Tullius in libro de Acad. Mens ipsa quae &amp; sensuum sons est: &amp; ipsa sensus est: natura 
+        <lb ed="#Ba" n="13"/>lem vim habet quam intendit ad ea quibus: mouetur: cum nihil ei est veritatis luce dulcius. 
+      </p>
+      <p xml:id="vn58an-d1e380-d1e218">
+        <lb ed="#Ba" n="14"/>⁋ Ad primum in oppositum: quod appetitus naturaliter determinatus est ad bonum: Dicendum quod  
+        <lb ed="#Ba" n="15"/>verum est: quoniam quod appetit verum: hoc est in ratione qua est bonum intellectus: &amp; ita verum apud 
+        <lb ed="#Ba" n="16"/>voluntatem habet rationem boni: sicut econuerso bonum apud intellectum habet rationem veri: 
+        <lb ed="#Ba" n="17"/>per quae voluntas &amp; intellectus apponendo mutuo sua obiecta mutuo se mouent: vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e380-d1e230">
+        <lb ed="#Ba" n="18"/>⁋ Ad secundum: quod natura determinata est ad vnum: Dicendum quod verum est ad vnum in gene- 
+        <lb ed="#Ba" n="19"/>re: quia sub vna generali ratione appetibilis, scilicet boni: appetit quicquid appetit. Sicut enimima 
+        <lb ed="#Ba" n="20"/>teria secundum quod materia quicquid appetit forma est: non tamen tantum vnam formam: secundum genus 
+        <lb ed="#Ba" n="21"/>vel speciem appetit: sed generaliter omnes: sic &amp; voluntas appetit scire generaliter sub ratione 
+        <lb ed="#Ba" n="22"/>qua est bonum intellectus: &amp; ideo omnem scientiam generaliter: vt infra dicetur: quia intellectus omni 
+        <lb ed="#Ba" n="23"/>scientia natus est perfici: vt dictum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e380-d1e246">
+        ⁋ Ad tertium patet solutio per dicta: quoniam natura 
+        <lb ed="#Ba" n="24"/>lis appetitus purus non est per cognitionem. 
+      </p>
+      <p xml:id="vn58an-d1e380-d1e251">
+        ⁋ Ad quartum: quod voluntas distinguitur contra natu 
+        <lb ed="#Ba" n="25"/>ram: Dicendum secundum quosdam, quod verum est: &amp; quod homo appetit scire voluntate &amp; natura, alio 
+        <lb ed="#Ba" n="26"/>&amp; alio appetitu est. Principium enim appetitus naturalis est in ipsa cognitiua potentia per seminarium 
+        <lb ed="#Ba" n="27"/>scientiae, quo naturaliter ad actum sciendi intellectus inclinatur: de quo dictum est supra. Principi 
+        <lb ed="#Ba" n="28"/>um autem appetitus cognitiui, est ipsa voluntas ex notitia aliquali iam habita: vt dictum est. Sed  
+        <lb ed="#Ba" n="29"/>hoc falsum est forte: quia idem actus specie secundum idem obiectum non est nisi eiusdem virtutis. 
+        <lb ed="#Ba" n="30"/>Cum igitur actus appetendi quocumque modo sit: non est nisi boni sub ratione boni, idem specie est, non  
+        <lb ed="#Ba" n="31"/>est igitur nisi eiusdem virtutis. Voluntas ergo si appetit ex cognitione deliberatiue, etiam ipsa non alia 
+        <lb ed="#Ba" n="32"/>potentia appetit naturaliter sine cognitione. Et sicut ex cognitione appetit bonum sibi &amp; aliis: vt 
+        <lb ed="#Ba" n="33"/>praedictum est: sic &amp; naturaliter sine cognitione. 
+      </p>
+      <p xml:id="vn58an-d1e380-d1e273">
+        ⁋ Dicendum est igitur ad obiectum: quod voluntas vt 
+        <lb ed="#Ba" n="34"/>est deliberatiua ex cognitione praecedenti distinguitur contra naturam: non autem voluntas sim 
+        <lb ed="#Ba" n="35"/>pliciter &amp; in communi accepta. In illa enim bene distinguitur quod est natura: &amp; quod ratio deliberatiua:  
+        <lb ed="#Ba" n="36"/>vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

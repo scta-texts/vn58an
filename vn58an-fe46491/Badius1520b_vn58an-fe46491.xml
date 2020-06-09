@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="170-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe46491"> <!-- alias="vn58an-a60q7" -->
+      <head xml:id="vn58an-fe46491-Hd1e104">Quaestio 7</head>
+      <p xml:id="vn58an-fe46491-d1e107">
+        <lb ed="#Bb" n="21"/>CIrca septimum arguitur quod plures spirantes non sunt vnum principium spirand 
+        <lb ed="#Bb" n="22"/>quia ipsis non attribuitur ratio principii spirandi, nisi quia ab ipsis elicitur actus 
+        <lb ed="#Bb" n="23"/>spirandi, &amp; per illum procedit ab essdem persona spirata. ab ipsis autem non elicitur actus 
+        <lb ed="#Bb" n="24"/>spirandi vt sunt vnum, sed potius vt sunt plures, sicut iam dictum est. ergo &amp;c. 
+        <lb ed="#Bb" n="25"/>
+      </p>
+      <p xml:id="vn58an-fe46491-d1e120">
+        ⁋ Secundo sic. pater est principium spirandi non de principio, quia non habet 
+        <lb ed="#Bb" n="26"/>quod spiret ab alio. filius autem est principium spirandi de principio: quia habet 
+        <lb ed="#Bb" n="27"/>quod spiret ab alio, non est autem idem &amp; vnum principium ab alio, &amp; non ab alio: quia contradictoria 
+        <lb ed="#Bb" n="28"/>non concurrunt in eodem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe46491-d1e129">
+        ⁋ Contra. principium &amp; principiatum sunt relatiua: quare cum 
+        <lb ed="#Bb" n="29"/>principiatum actu spirandi est vnum, scilicet spiritus sanctus: ergo &amp; spirandi principium est vnum. 
+        <lb ed="#Bb" n="30"/>
+      </p>
+      <p xml:id="vn58an-fe46491-d1e137">
+        ⁋ Dico quod in omni actione est considerare agentem siue eum qui agit, &amp; rationem 
+        <lb ed="#Bb" n="31"/>agendi, hoc est vim siue virtutem &amp; potentiam qua agit. Agens autem in omni actione non est nisi 
+        <lb ed="#Bb" n="32"/>suppositum: cuius est aliquid ipsa agendi ratio vt forma qua est aliquid in natura simpliciter, non  
+        <lb ed="#Bb" n="33"/>qua est iste vel ille in supposito: vt declaratum est in praecedentibus. Vnde ratio suppositi qua super 
+        <lb ed="#Bb" n="34"/>positum est iste vel ille etsi non sit ratio agendi &amp; elicitiua actus, est tamen ratio agentis &amp; elicien 
+        <lb ed="#Bb" n="35"/>tis actum, &amp; secundum hoc proxima actui elicito, &amp; proximior quam sit ratio illa quae est vis elicitiua. Quae qui-  
+        <lb ed="#Bb" n="36"/>dem ratio agentis licet sit ratio principii, non tamen est ratio qua ipsum suppositum habet quod sit aut dica 
+        <lb ed="#Bb" n="37"/>tur principium, sed potius illa quae est vis elicitiua. In qua est etiam distinguere rationem propinquam 
+        <lb ed="#Bb" n="38"/>ac remotam, secundum quod distinguitur potentia in propinquam &amp; remotam, non secundum diuersi- 
+        <lb ed="#Bb" n="39"/>tatem rerum, sed secundum diuersitatem rationum in eadem potentia secundum rem: ita quod a vi illa 
+        <lb ed="#Bb" n="40"/>secundum rationem propinquam actui habet suppositum eliciens actum rationem principii propinqui 
+        <lb ed="#Bb" n="41"/>&amp; a vi eadem secundum rationem remotam habet rationem principii primi: &amp; ita principii simpliciter, quia secundum 
+        <lb ed="#Bb" n="42"/>Philosophum, principium &amp; primum idem sunt. Quare &amp; ab vnitate illius rationis remotae habet rationem 
+        <lb ed="#Bb" n="43"/>vnitatis simpliciter: sicut &amp; a bifurcatione rationis illius remotae habet rationem pluralitatis spirato- 
+        <lb ed="#Bb" n="44"/>ris duplicis: &amp; vlterius a ratione illarum proprietatum qua plurificantur personae, habet rationem 
+        <lb ed="#Bb" n="45"/>duplicis spirantis. Quemadmodum enim a ratione spiratiua remota sumitur vnitas principii: &amp; a 
+        <lb ed="#Bb" n="46"/>ratione illa bifurcata, sumitur ratio duplicis spiratoris: sic etiam &amp; a ratione duplicis proprietatis per- 
+        <lb ed="#Bb" n="47"/>sonalis sumitur ratio duplicis spirantis vel potius duorum spirantium: &amp; similiter a ratione triplicis 
+        <lb ed="#Bb" n="48"/>proprietatis personalis sumitur ratio triplicis creantis vel potius trium creantium, prout infra am- 
+        <lb ed="#Bb" n="49"/>plius declarabitur. Propter quod dico quod simpliciter pater &amp; filius qui sunt plures spirantes &amp; plures 
+        <lb ed="#Bb" n="50"/>spiratores, sunt vnum principium spiritus sancti. 
+        <lb ed="#Bb" n="51"/>
+      </p>
+      <p xml:id="vn58an-fe46491-d1e185">
+        ⁋ Ad primum in oppositum quod plures spiratores non sunt vnum principium spiram 
+        <lb ed="#Bb" n="52"/>di &amp;c. Dico quod ratio spirandi non attribuitur spirantibus quia ab ipsis elicitur actus spirandi: sed  
+        <lb ed="#Bb" n="53"/>potius elicitur actus spirandi, quia ipsis convenit ratio spirandi. Propter quod licet ab ipsis non eli- 
+        <lb ed="#Bb" n="54"/>ciatur actus spirandi nisi vt sunt plures quo ad propinquam &amp; proximam rationem spirandi, 
+   <!--355.xml-->
+        <pb ed="#Bb" n="170-v"/>
+        <lb ed="#Bb" n="1"/>procedit tamen ab ipsis vt sunt vnum quo ad primam &amp; remotam rationem spirandi, quae bene po 
+        <lb ed="#Bb" n="2"/>test esse plurium absque omni inconueniente in diuinis, immo hoc necesse est secundum praedicta. 
+      </p>
+      <p xml:id="vn58an-fe46491-d1e203">
+        <lb ed="#Bb" n="3"/>⁋ Ad secundum quod pater est principium spirandi non de principio &amp;c. Dico quod idem siue vnum 
+        <lb ed="#Bb" n="4"/>rincipium in deo possunt fumi vel masculine, vel neutraliter. Si primo modo, dico quod nullo mo-  
+        <lb ed="#Bb" n="5"/>do est idem siue vnum ab alio &amp; non ab alio: sed contra tale vnum omnino repugnant, quia impossi 
+        <lb ed="#Bb" n="6"/>bile est vnum &amp; idem in supposito esse ab alio, &amp; non ab alio. Si secundo modo, dico quod illud bene 
+        <lb ed="#Bb" n="7"/>est possibile sine omni repugnantia. sic enim in diuinis pater &amp; filius sunt vnus deus: &amp; pater est 
+        <lb ed="#Bb" n="8"/>deus non de deo, nec ab alio, &amp; filius est deus de deo &amp; ab alio. Vel potest distingui de esse ab alio, 
+        <lb ed="#Bb" n="9"/>&amp; non esse ab alio: quia hoc potest esse proprie vel improprie. Primo enim modo non est ab alio ni 
+        <lb ed="#Bb" n="10"/>si ipsa persona: &amp; hoc modo non est idem ab alio &amp; non ab alio, propter contradictionem circa idem 
+        <lb ed="#Bb" n="11"/>proprie &amp; per se. Secundo autem modo est ab alio ipsa diuina essentia in filio: &amp; similiter ratio spiram 
+        <lb ed="#Bb" n="12"/>di prima &amp; remota. &amp; hoc modo non est inconueniens quod aliquid vnum &amp; idem sit ab alio &amp; non  
+        <lb ed="#Bb" n="13"/>ab alio, absque contradictione: quia non in eodem est ab alio, &amp; non ab alio, quia in patre non est ab alio, 
+        <lb ed="#Bb" n="14"/>licet in filio sit ab alio, &amp; contradictio debet esse circa idem eodem modo se habens. 
+      </p>
+      <p xml:id="vn58an-fe46491-d1e232">
+        ⁋ Argumentum in  
+        <lb ed="#Bb" n="15"/>oppositum bene procedit ex parte principii de vno in natura specifica in creaturis, &amp; in diuinis ra- 
+        <lb ed="#Bb" n="16"/>tione materiae de natura numerali. Si enim in creaturis principiatum est vnum, necesse est quod princi 
+        <lb ed="#Bb" n="17"/>pium sit vnum in specie simplici: quemadmodum in eadem specie est vnum principiatum ex mas 
+        <lb ed="#Bb" n="18"/>culo &amp; foemina: vel in composito: quemadmodum ex equo &amp; asino generatur mulus. commixtum 
+        <lb ed="#Bb" n="19"/>enim ex semine vtriusque est quasi mulus secundum philosophum. vii. Metaphi. eo quod coniunctae sunt illae species. 
+        <lb ed="#Bb" n="20"/>In diuinis autem vbi principiatum est vnum, principium est in singulari natura deitatis &amp; spirandi 
+        <lb ed="#Bb" n="21"/>ratione vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

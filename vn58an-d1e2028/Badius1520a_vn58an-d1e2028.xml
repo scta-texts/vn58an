@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="170-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e2028"> <!-- alias="vn58an-a29q1" -->
+      <head xml:id="vn58an-d1e2028-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e2028-Hd1e107" type="question-title">Utrum Deus habeat componi cum alio: ut forma cum materia</head>
+      <p xml:id="vn58an-d1e2028-d1e110">
+        <lb ed="#Ba" n="38"/>CIrca Primum arguitur: quod deus habeat compositionem cum alio vt forma cum materia 
+        <lb ed="#Ba" n="39"/>Primo sic. dicit Dio. iiii. c. de caele hier. Esse omnium est super esse diuinitatis. &amp; vt di 
+        <lb ed="#Ba" n="40"/>cit de di. no. c. i. Eorum quae sunt, essentia. Et. c. v. Ipse est esse existentibus. Sed nihil 
+        <lb ed="#Ba" n="41"/>est esse vel essentia alicuius: quod non sit principium formale in eo: quia aforma sunt 
+        <lb ed="#Ba" n="42"/>esse &amp; essentia rei. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2028-d1e123">
+        ⁋ Secundo sic. omnis potentia passiua reducitur ad poten- 
+        <lb ed="#Ba" n="43"/>tiam primae materiae: &amp; omnis potentia actiua ad potentiam primi agentis. secundum philosophum:  
+        <lb ed="#Ba" n="44"/>&amp; Comm. v. &amp;. ix. Meta. Sed potentia passiua in entibus sic reducitur ad potentiam primae materiae: quod non 
+        <lb ed="#Ba" n="45"/>est in aliquo nisi quia in ipso principium materiale est ipsa prima materia. ergo omnis potentia actiua in en 
+        <lb ed="#Ba" n="46"/>tibus sic reducitur ad potentiam primi agentis: quod non est in aliquo nisi quia in ipso est principium formale 
+        <lb ed="#Ba" n="47"/>primum agens. Pati enim est, proprium materiae. agere autem est alterius potentiae scilicet formae. secundum philosophum id i. de genera. 
+        <lb ed="#Ba" n="48"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2028-d1e140">
+        ⁋ In contrarium est: quia quod de se est principium formale in constitutione alicuius compositi cum 
+        <lb ed="#Ba" n="49"/>materia, est vt pars respectu totius, &amp; ita vt imperfectum quid. In deo autem nulla potest cadere 
+        <lb ed="#Ba" n="50"/>imperfectio, vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e2028-d1e147">
+        <lb ed="#Ba" n="51"/>⁋ Dicendum ad hoc, quod secundum quod recitat <name ref="#Augustine">Augustinus</name> iiii. de civitate dei, quorundam erat opinio quod  
+        <lb ed="#Ba" n="52"/>deus esset animus mundi: cui mundus ipse totus sicut corpus est: &amp; sicut materia. vt sit mundus ipse 
+        <lb ed="#Ba" n="53"/>vnum animal magnum constans ex anima &amp; corpore: ac si deus ipse sinu quodam naturae in seipso continens sit 
+        <lb ed="#Ba" n="54"/>omnia: &amp; ex ipso quasi ex ipsius totius mundi anima qua ipse viuificatur animae cunctorum viuentium pro cuiusque  
+   <!--356.xml-->
+        <pb ed="#Ba" n="171-r"/>
+        <lb ed="#Ba" n="1"/>nascentis sorte sumantur. In quam sententiam incidit error Manichaeorum dicentium omnium corpo- 
+        <lb ed="#Ba" n="2"/>ra esse a deo malo tenebrarum, qui cum luctam habuit cum deo lucis, in bello commixtae sunt par 
+        <lb ed="#Ba" n="3"/>tes dei lucis cum omnibus rebus corporalibus. Vnde &amp; dicebant omnibus vitam inesse ex commixtio- 
+        <lb ed="#Ba" n="4"/>ne portionis diuinae substantiae cum eis. Propter quod &amp; dicebant nullum virgultum carpendum esse, neque ani 
+        <lb ed="#Ba" n="5"/>mal: aliquod occidendum, ne diuina portio oecidatur vel contingatur in illo: &amp; alia absurda quam plu- 
+        <lb ed="#Ba" n="6"/>rima. secundum quod recitat <name ref="#Augustine">Augustinus</name> in libro contra epistolam funda. Vnde quia forma in vnoquoque est prin 
+        <lb ed="#Ba" n="7"/>cipium essendi, ex iam dicta opinione oritur opinio dicentium, quod esse dei est esse formale cuiusli- 
+        <lb ed="#Ba" n="8"/>bet entis: &amp; cum esse dei est ipse deus, vt habitum est supra, vlterius ex hoc consecutus est error 
+        <lb ed="#Ba" n="9"/>idololatriae hominum, putantium quod totus mundus &amp; quaelibet pars mundi deus est. Vnde &amp; diuer- 
+        <lb ed="#Ba" n="10"/>si diuersis partibus mundi cultum diuinum exhibebant. secundum quod diuersimode diuersi in eis 
+        <lb ed="#Ba" n="11"/>aestimabant praecellere diuinum esse. secundum quod recitatur <name ref="#Augustine">Augustinus</name> i de doct. Christia. Et est hic aduer- 
+        <lb ed="#Ba" n="12"/>tendum: quod licet causaliter ex eo quod deus ponitur esse principium formale omnium, consequitur quod esse 
+        <lb ed="#Ba" n="13"/>dei sit esse omnium aliorum, &amp; vlterius quod omnia sunt quasi portio quaedam diuini esse vt dictum est: 
+        <lb ed="#Ba" n="14"/>deceptio tamen circa vtrumque eorum ortum habuit circa esse dei &amp; creaturae, credendo scilicet esse 
+        <lb ed="#Ba" n="15"/>dei fore esse formale cuiuslibet creaturae. Cum enim videbant rem quancunque denominari esse simpli 
+        <lb ed="#Ba" n="16"/>citer, &amp; esse tale vel tale, vt hominem vel album, sicut esse tale attribuitur ei ab entitate tali quae  
+        <lb ed="#Ba" n="17"/>est in ea, vt humanitatis vel albedinis, sic &amp; esse simpliciter dicebant ei attribui ab entitate aliqua  
+        <lb ed="#Ba" n="18"/>simpliciter quae est in ea. Quare cum entitas simpliciter nullo determinata aut specificata non con 
+        <lb ed="#Ba" n="19"/>uenit nisi diuinae entitati, vt habitum est supra: credebant igitur quod diuina entitas inesset cuilibet 
+        <lb ed="#Ba" n="20"/>creaturae: a qua denominaretur esse simpliciter. Hoc autem non esset nisi diuina natura esset for- 
+        <lb ed="#Ba" n="21"/>ma in ea. Secundum hunc igitur modum ponebant quod deitas esset forma vniuersi entis, dans esse sima 
+        <lb ed="#Ba" n="22"/>pliciter cuilibet enti tanquam principium formale cadens in eius compositione cum eius propria na- 
+        <lb ed="#Ba" n="23"/>tura tanquam cum principio materiali, quo vnumquodque habet esse suum particulare quo differt ab alio:  
+        <lb ed="#Ba" n="24"/>Dicendo quod esse in quo res communicant sit diuinum esse a diuina natura existente in eis: esse vero 
+        <lb ed="#Ba" n="25"/>quo vna res differt ab alia, sit esse proprium cuiusque a natura sibi propria qua vna res differt ab  
+        <lb ed="#Ba" n="26"/>alia, secundum quam esse diuinum obumbratur in rebus secundum plus &amp; minus: &amp; cadit a sua syna 
+        <lb ed="#Ba" n="27"/>ceritate quam habet in se. Et secundum hoc forte dixit idololatra ille Trimegistus quod deus est 
+        <lb ed="#Ba" n="28"/>omne quod est, &amp; quod omnia plena sunt deo. 
+      </p>
+      <p xml:id="vn58an-d1e2028-d1e233">
+        ⁋ Hic ergo oportet primo dictam deceptionem dissolue- 
+        <lb ed="#Ba" n="29"/>re, &amp; deinde falsitatem ipsius positionis in se ostendere. Deceptio autem illa in qua erantur paralogi- 
+        <lb ed="#Ba" n="30"/>zati, processit secundum fallaciam aequiuocationis, quasi arguendo sic. Homo non solum est ens ta- 
+        <lb ed="#Ba" n="31"/>le: sed etiam ens simpliciter, &amp; similiter quodlibet aliud. Cum ergo singulum dicitur esse ens tale ab eo 
+        <lb ed="#Ba" n="32"/>quod est in eo entitas &amp; natura talis: ergo consimiliter vnumquodque dicetur ens simpliciter ab eo quod in  
+        <lb ed="#Ba" n="33"/>ipso est natura aliqua &amp; entitas simpliciter, quod non est nisi diuina essentia. ergo &amp;c. Quod non se 
+        <lb ed="#Ba" n="34"/>quitur, quoniam esse simpliciter dicitur dupliciter. Vno modo esse in sua communitate dictum. Alio 
+        <lb ed="#Ba" n="35"/>modo esse primum &amp; princi paliter dictum, secundum quod in ente creato ens simpliciter dicitur 
+        <lb ed="#Ba" n="36"/>vno modo ens analogum ad substantiam &amp; accidens, alio modo ens substantia respectu accidentis. 
+        <lb ed="#Ba" n="37"/>Secundo modo esse simpliciter soli deo conuenit: quia est esse per essentiam, &amp; non nisi esse quod est 
+        <lb ed="#Ba" n="38"/>necesse esse, vt habitum est supra, a quo omnia alia habent esse suum per participationem. Et est il 
+        <lb ed="#Ba" n="39"/>lud esse dei incommunicabile secundum personas absolutas &amp; singulare, sicut &amp; ipsa diuina 
+        <lb ed="#Ba" n="40"/>essentia. vt supra determinatum est. Esse autem simpliciter primo modo est commune analogum 
+        <lb ed="#Ba" n="41"/>creaturae &amp; creatori, non continendo in se diuinam essentiam vt partem suam formalem, sicut illi ponebant:  
+        <lb ed="#Ba" n="42"/>sed participando esse diuinae essentiae in similitudine rei creatae ad effigiem diuinae naturae. vt expo 
+        <lb ed="#Ba" n="43"/>situm est supra, &amp; infra amplius exponetur. Illi autem non distinguebant inter esse simpliciter primo modo &amp; 
+        <lb ed="#Ba" n="44"/>secundo, credentes non dici esse simpliciter, nisi secundo modo, quod non est verum. Esse enim simpliciter dicitur 
+        <lb ed="#Ba" n="45"/>quia indeterminate &amp; absolute acceptum. sed tale potest esse, quia nec est determiatum: nec aliqua intentione 
+        <lb ed="#Ba" n="46"/>determinabile, cuiusmodi est esse diuinum, quia ipsum non est nisi esse. secundum quod dicit btuns Dionyy. aut quia non  
+        <lb ed="#Ba" n="47"/>est determinatum: est tamen determinabile per aliam intentionem sibi aduenientem, quemadmodum enim dictum est 
+        <lb ed="#Ba" n="48"/>supra, in omni creatura compositio est ex essentia &amp; esse. Errori praedictorum prope sunt, licet non perci- 
+        <lb ed="#Ba" n="49"/>piant, illi qui dicunt quod esse in creatutis sit aliquid re diuersum ab ipsa essentia creaturae. Cum enim 
+        <lb ed="#Ba" n="50"/>res illa de qua dicunt quod sit ipsum esse, sit. praeter essentiam rei: &amp; non potest esse accidens verum &amp; absolu 
+        <lb ed="#Ba" n="51"/>tum in re: quia tunc substantia non haberet esse nisi per suum accidens: cum tamen debet esse econ 
+        <lb ed="#Ba" n="52"/>uerso, eo quod accidens non habet esse nisi per substantiam: quia accidentis esse est inesse: Necesse ergo est 
+        <lb ed="#Ba" n="53"/>eam esse substantiam. Quare cum non potest esse substantia alterius creaturae, quia substantia vnius 
+        <lb ed="#Ba" n="54"/>creaturae non dat esse alteri: eo quod vna creatura per substantiam suam habet esse aliod ab altera: necesse igitur ha-  
+        <lb ed="#Ba" n="55"/>bent ponere quod sit substantia creatoris: quod omnino est impossibile. quia ipsa non dat eis esse: communicando eis 
+   <!--357.xml-->
+        <pb ed="#Ba" n="171-v"/>
+        <lb ed="#Ba" n="1"/>suum esse in naturae identitate, sicut deus pater communicat esse suum filio: &amp; non potest esse crea- 
+        <lb ed="#Ba" n="2"/>tura cui sic esse diuinum conmunicetur, sed solum creator deus, sed deus dat esse creaturae ad imitatio- 
+        <lb ed="#Ba" n="3"/>nem suam quamlibet creaturam in esse producendo. Quod quia ad imitationem esse dei procedit, vt proprius es- 
+        <lb ed="#Ba" n="4"/>fectus eius, quodammodo esse diuinum est. &amp; secundum hoc esse dei proprium inquantum causat esse quodam 
+        <lb ed="#Ba" n="5"/>modo sibi simile in creatura, dicitur esse quodammodo creaturae. cuiuslibet enim esse creaturae nihil aliud  
+        <lb ed="#Ba" n="6"/>est in creatura quam respectus ad deum, inquantum sub ratione similis, est eius effectus. vt sicut veritas 
+        <lb ed="#Ba" n="7"/>in creatura non est nisi respectus in ea ad deum, vt ad causam formalem exemplarem: bonitas vero 
+        <lb ed="#Ba" n="8"/>vt ad causam finalem perfectiuam quemadmodum determinabitur inferius, sic entitas in creatura non 
+        <lb ed="#Ba" n="9"/>est nisi respectus in ea ad deum, vt ad causam eius efficientem, quemadmodum expositum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e2028-d1e318">
+        <lb ed="#Ba" n="10"/>⁋ Et secundum hoc exponendae sunt auctoritates Dionyus. adductae in primo argumen 
+        <lb ed="#Ba" n="11"/>toio vnde Diony. A. ca. caelestis Hierarchiae inducit eas sic. Bonitatem vniuersali superessentialis diuinis 
+        <lb ed="#Ba" n="12"/>tas eorum quae sunt essentias esse substituens adduxit. est enim hoc omnium causae &amp; super omnia bonitatis proprium 
+        <lb ed="#Ba" n="13"/>ad communionem suam ea quae sunt vocare, vt vnicuique eorum quae sunt ex propria definitur analogia. Ex 
+        <lb ed="#Ba" n="14"/>quo concludit intentum, &amp; in argumento assumptum subdens. Existentia igitur omnia esse eius participant. 
+        <lb ed="#Ba" n="15"/>esse enim omnium est super esse diuinitatis. Super quo dicit Hu. in commen. Quia per esse dei quod est super omne 
+        <lb ed="#Ba" n="16"/>esse, esse habet quod subsistit quicquod est. Esse dico aliud, quam sit esse dei, sed causatum ab illo. secundum quod di  
+        <lb ed="#Ba" n="17"/>cit <name ref="#Augustine">Augustinus</name> super Ion ser. xxviii. Si omnia quae sunt per te facta sunt, quid est quod tibi proprium tenuisti: ipsum  
+        <lb ed="#Ba" n="18"/>esse, quod aliis non dedisti. Et ideo dicit Diony. ca i. i. de diui. no. Oim quidem est quae sunt causale: ipsum 
+        <lb ed="#Ba" n="19"/>autem nihil in omnibus quae sunt, superessentialiter exaltatum. &amp; sequitur post aliqua interposita. Et omnia 
+        <lb ed="#Ba" n="20"/>quae sunt, &amp; nihil eorum quae sunt. Cui concordat illud quod dicit Auic. viii. Metaph. Ome quod est ab ipso 
+        <lb ed="#Ba" n="21"/>est, &amp; non est communicans ei quod ab ipso est. lpse vero est omne quod est, &amp; tamen non est aliquid ex his. Vn  
+        <lb ed="#Ba" n="22"/>de Dionysius. vbi assumpta fuit secunda auctoritas, dicit sic. Simpliciter dicendum viuentium vita, &amp; eo- 
+        <lb ed="#Ba" n="23"/>rum quae sunt essentia, omnis vitae &amp; essentiae principium, &amp; causa per suam vt sint quae sunt acti 
+        <lb ed="#Ba" n="24"/>uam, &amp; continentem bonitatem. Vnde &amp; de di. no. ca. v. vbi ponit tertiam auctoritatem bene exponit 
+        <lb ed="#Ba" n="25"/>seipsum dicens. Deus non est ens, sed simpliciter &amp; incircunfinite totum in seipso coambiens &amp; peram- 
+        <lb ed="#Ba" n="26"/>biens, &amp; non erat nec erit magis, neque est, sed ipse est esse existentibus. Quod exponit subdens. Omnis vtcum 
+        <lb ed="#Ba" n="27"/>quod entis qui est ante ens, principium &amp; causa, &amp; omnia ipsum participant, &amp; a nullo existentium re- 
+        <lb ed="#Ba" n="28"/>cedit. 
+      </p>
+      <p xml:id="vn58an-d1e2028-d1e365">
+        ⁋ Ad secundum quod potentia actiua in creaturis reducitur ad potentiam primi agentis, sicut potentia passi 
+        <lb ed="#Ba" n="29"/>ua ad potentiam materiae: Dicendum sicut patet ex praedictis, quod potentia proprie passiua in re est ex 
+        <lb ed="#Ba" n="30"/>defectu &amp; imperfectione qua habet posse esse, &amp; non esse. Et ideo cum quaelibet creatura ex se defectibilis est 
+        <lb ed="#Ba" n="31"/>&amp; ex nihilo: naturae creaturae vt creatura est, non repugnat primum principium potentiale, cuiusmodi  
+        <lb ed="#Ba" n="32"/>est materia, quin possit esse de natura &amp; substantia eius. Potentia autem actiua in re, est ex actualitate &amp; per 
+        <lb ed="#Ba" n="33"/>fectione eius, &amp; ideo summe &amp; primo habet esse in summe actuali &amp; perfecto ente, &amp; in aliis ex actua 
+        <lb ed="#Ba" n="34"/>litatis &amp; perfectionis eius participatione, quibus ex eo quod sunt ex nihilo repugnat summa actuali- 
+        <lb ed="#Ba" n="35"/>tas &amp; perfectio quae est in diuina substantia. propter quod licet de essentia creaturae potest esse id quod est primo 
+        <lb ed="#Ba" n="36"/>in potentia passiua, ad quod habet reduci omnis potentia passiua, non tamen potest esse de eius essentia id quod  
+        <lb ed="#Ba" n="37"/>est primo in potentia actiua, ad quod habet reduci omnis alia potentia actiua. vnde deficit simile-
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

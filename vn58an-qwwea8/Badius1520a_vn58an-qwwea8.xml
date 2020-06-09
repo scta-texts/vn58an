@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Praeambulum</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Praeambulum</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="63-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-qwwea8"> <!-- alias="vn58an-a8prae" -->
+      <head xml:id="vn58an-qwwea8-Hd1e104">Praeambulum</head>
+      <p xml:id="vn58an-qwwea8-d1e107">
+   <!--141.xml-->
+            <pb ed="#Ba" n="63-v"/>
+        <lb ed="#Ba" n="1"/>Articu. VIll. De causa finali Theologiae. 
+        <lb ed="#Ba" n="2"/>Via non scimus rem absque eo quod sciamus causam eius, viso 
+        <lb ed="#Ba" n="3"/>de scientia Theologiae in se: &amp; in comparatione ad alias scientias: Viden 
+        <lb ed="#Ba" n="4"/>dum est de ea in suis causis. Et quia finis mouet efficientem: &amp; efficiens 
+        <lb ed="#Ba" n="5"/>intendit formam inducere in materia: Ideo circa hoc quaeruntur qua-  
+        <lb ed="#Ba" n="6"/>tuor. Primum de fine. Secundum de causa efficiente. Tertium de forma. 
+        <lb ed="#Ba" n="7"/>Quartum de materia. Etiam quia a fine est scientiarum vtilitas: &amp; per fi 
+        <lb ed="#Ba" n="8"/>nem distinguuntur scientiae in theoricas &amp; practicas: &amp; ex fine est earum 
+        <lb ed="#Ba" n="9"/>necessitas: &amp; conscribendi eas opportunitas: Ideo circa finem quaerun- 
+        <lb ed="#Ba" n="10"/>tur. vi. 
+        <lb ed="#Ba" n="11"/>Primum: vtrum haec scientia sit vtilis. 
+        <lb ed="#Ba" n="12"/>Secundum: vtrum sit necessaria homini. 
+        <lb ed="#Ba" n="13"/>Tertium: vtrum sit theorica an practica. 
+        <lb ed="#Ba" n="14"/>Quartum: vtrum literis erat conscribenda. 
+        <lb ed="#Ba" n="15"/>Quintum: vtrum simul tota erat conscribenda. 
+        <lb ed="#Ba" n="16"/>Sextum: vtrum perfecte conscripta est in duobus testamentis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

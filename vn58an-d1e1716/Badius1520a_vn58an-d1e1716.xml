@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1716"> <!-- alias="vn58an-a23q2" -->
+      <head xml:id="vn58an-d1e1716-Hd1e104">Quaestio 2</head>
+      <head xml:id="vn58an-d1e1716-Hd1e107" type="question-title">Utrum Deus ipse sit sua quidditas et essentia</head>
+      <p xml:id="vn58an-d1e1716-d1e110">
+        <lb ed="#Ba" n="14"/>lrca secundum arguitur, quoddeus non sit sua quiditas. Primo sic. Hila. dicit. vii. de 
+        <lb ed="#Ba" n="15"/>trinitate. Non est idem ens natura &amp; res naturae: vt homo, &amp; quod est hominis. Deus 
+        <lb ed="#Ba" n="16"/>est ens natura, quiditas autem vel essentia eius est res naturae quae ipse est. ergo  
+        <lb ed="#Ba" n="17"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1716-d1e121">
+        ⁋ Secundo sic. Nihil est id quod est aliquid sui. essentia vel quiditas dei est aliquid  
+        <lb ed="#Ba" n="18"/>eius: quia forma in ipso. ergo deus non est sua essentia. 
+      </p>
+      <p xml:id="vn58an-d1e1716-d1e127">
+        ⁋ Contra est illud quod dicit 
+        <lb ed="#Ba" n="19"/>Boethius libro de hebd. Naturae simplici idem est quod est &amp; quo est, quod est, deus est: 
+        <lb ed="#Ba" n="20"/>quo est: eius essentia est. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1716-d1e134">
+        <lb ed="#Ba" n="21"/>⁋ Dicendum ad hoc, quod quandocumque aliquid non est sua essentia: oportet quod sit in eo ali 
+        <lb ed="#Ba" n="22"/>quid praeter suam essentiam. Si enim nihil est in re praeter suam essentiam: totum quod res est: est eius essen 
+        <lb ed="#Ba" n="23"/>tia. in deo autem non potest aliquid esse praeter eius essentiam: quoniam tunc essentia esset in deo per mo 
+        <lb ed="#Ba" n="24"/>dum partis: &amp; esset in eo compositio, quod est impossibile. vt infra videbitur. Absolute ergo concedere opor 
+        <lb ed="#Ba" n="25"/>tet quod deus ipse sit sua essentia. vnde cum superius ostensum est, quod essentia dei est esse eius: absolu- 
+        <lb ed="#Ba" n="26"/>te tenendum est quod etiam deus est suum esse, &amp; nihil aliud omnino praeter esse suum purum. 
+      </p>
+      <p xml:id="vn58an-d1e1716-d1e150">
+        <lb ed="#Ba" n="27"/>⁋ Ad primum quod arguitur in oppositum secundum Hila. Dicendum secundum magistrum 
+        <lb ed="#Ba" n="28"/>primo senten. dist. xxxiiii. quod illud dixit Hila. respiciendo ad naturas creaturarum. vnde non habet lo- 
+        <lb ed="#Ba" n="29"/>cum dictum eius circa deum. 
+      </p>
+      <p xml:id="vn58an-d1e1716-d1e159">
+        ⁋ Per simile dicendum ad secundum, quod in compositis illud solum habet ve 
+        <lb ed="#Ba" n="30"/>ritatem quod res non est id quod est aliquid sui: quia res non est nisi id quod totam naturam suam complectitur. in simplicis 
+        <lb ed="#Ba" n="31"/>simo autem sicut est deus: vbi idipsum est tota natura rei, idipsum est res ipsa: &amp; magis proprie res di- 
+        <lb ed="#Ba" n="32"/>citur esse ipsa: quam dicatur esse ipsius: &amp; non dicitur eius nisi propter proprietatem: &amp; modum significandi. Essen 
+        <lb ed="#Ba" n="33"/>tia enim significat vt forma: Deus autem vt suppositum formae.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

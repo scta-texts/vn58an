@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="165-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1952"> <!-- alias="vn58an-a28q1" -->
+      <head xml:id="vn58an-d1e1952-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1952-Hd1e107" type="question-title">Utrum in Deo sit compositio ex partibus quantitativus</head>
+      <p xml:id="vn58an-d1e1952-d1e110">
+        <lb ed="#Ba" n="17"/>CIrca primum arguitur primo sic. In quo sunt longum latum &amp; profundum est con 
+        <lb ed="#Ba" n="18"/>mpositio ex partibus quantitatiuis: quia hae sunt dimensiones secundum quas corpus 
+        <lb ed="#Ba" n="19"/>Adiuiditur in partes quantitatiuas. deus est huiusmodi. secundum illud lob. xi. Profundior  
+        <lb ed="#Ba" n="20"/>linferno, longior terra mensura eius &amp; latior mari. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1952-d1e121">
+        ⁋ Secundo sic. in eo quod a 
+        <lb ed="#Ba" n="21"/>mensuratur partibus loci est compositio ex partibus quantitatiuis: quia eadem 
+        <lb ed="#Ba" n="22"/>est diuisio partium loci &amp; eius quod est in loco. secundum <name ref="#Aristotle">Philosophum</name> in praedi 
+        <lb ed="#Ba" n="23"/>camentis. Deus est huiusmodi. secundum illud Esa. Ixvi. Caelum mihi sedes est, &amp; terra sca 
+        <lb ed="#Ba" n="24"/>bellum pedum meorum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1952-d1e136">
+        ⁋ Tertio sic. in quo est quantitas in eo est compositio ex partibus i 
+        <lb ed="#Ba" n="25"/>quantitatiuis: quia ratio quantitatis est habere partes ex quibus componitur, Deus est huiusmodi: quia in eo 
+        <lb ed="#Ba" n="26"/>est magnitudo, quae est species quantitatis. secundum illud Psal. Magnus dominus &amp; laudabilis nimis. 
+        <lb ed="#Ba" n="27"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1952-d1e145">
+        ⁋ In oppositum est <name ref="#Augustine">Augustinus</name> cum dicit in libro de diuinis proprietatibus. Deus incorporeus est: &amp; i 
+        <lb ed="#Ba" n="28"/>nullis membrorum lineamentis compositus consistit. Quia deus spiritus est: Ioan. 4. &amp; eadem de cau 
+        <lb ed="#Ba" n="29"/>sa neque alia partium quantitatiuarum compositione componitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1952-d1e155">
+        <lb ed="#Ba" n="30"/>⁋ Hic circa simplicitatem dei in principio intelligendum est quod omnes quaestiones 
+        <lb ed="#Ba" n="31"/>de dei simplicitate pertinent ad eius vnitatem: ad aliam tamen quam sit illa de qua habitum est supra. 
+        <lb ed="#Ba" n="32"/>est enim vnitas duplex in deo: vna singularitatis quae opponitur multitudini siue pluralitati. alia vero sim- 
+        <lb ed="#Ba" n="33"/>plicitatis: quae opponitur multo siue compositioni ex pluribus. De prima habitus est sermo supra: ex 
+        <lb ed="#Ba" n="34"/>qua apparuit quod deus est ita vnus: &amp; in natura singularis: quod nec sunt nec esse possunt plures dei.  
+        <lb ed="#Ba" n="35"/>Ex ista vero patebit hic quod deus ita est vnus &amp; in natura simplex quod nullo modo mltus: nec possit vllo modo 
+        <lb ed="#Ba" n="36"/>dici compositus. Hanc duplicem vnitatem in deo insinuat Dionysius. in cap. vii. cae. Hierar. cum dicit 
+        <lb ed="#Ba" n="37"/>de deo quia monas est: &amp; vnitas. Super quo dicit Hu. in commen. suo. Sane quod monas &amp; vnitas cum 
+        <lb ed="#Ba" n="38"/>idem esse videatur, geminato nomine positum est, pro graeco factum est: in quo duo nomina 
+        <lb ed="#Ba" n="39"/>sunt monas &amp; enas: quae quamuis vnam habeant apud nos interpretationem (vtrumque enim vnitas sonat) hoc tamen 
+        <lb ed="#Ba" n="40"/>dictum esse videtur quod monas magis vnitatem significat quae secundum distinctionem dicitur. Enas ve- 
+        <lb ed="#Ba" n="41"/>ro illam quae secundum simplicitatem vocatur. omne enim quod simplex est vnum est. Non autem omne quid  
+        <lb ed="#Ba" n="42"/>vnum est simplex est. Vtrumque etiam horum modorum exprimit Auicen. cum dicit. viii. metaphysi- 
+        <lb ed="#Ba" n="43"/>cae suae de deo. Cum dicitur vnus: non intelligitur nisi ipsum esse negata ab eo diuisione per quantita 
+        <lb ed="#Ba" n="44"/>tem &amp; per essentiam: &amp; negato ab eo comite. Cum dicit negata diuisione, insinuat vnitatem simpli- 
+        <lb ed="#Ba" n="45"/>citatis: cum dicit negato comite, dat intelligere vnitatem singularitatis. 
+      </p>
+      <p xml:id="vn58an-d1e1952-d1e192">
+        ⁋ Secundo est hic intelligen 
+        <lb ed="#Ba" n="46"/>dum quod compositiones tactae in dictis sex quaestionibus se habent secundum gradus &amp; ordinem: quia prior 
+        <lb ed="#Ba" n="47"/>in illis semper est maior sequente &amp; includit eam &amp; non econuerso. Illa enim nunc proposita ex par 
+        <lb ed="#Ba" n="48"/>tibus quantitatiuis per maxima est: &amp; minimum habet in se vnitatis. Vnde &amp; includit in se illam quae  
+        <lb ed="#Ba" n="49"/>est ex materia &amp; forma: &amp; per illam omnes alias. Dicitur enim in primo de Gna. quod materia non est pun- 
+        <lb ed="#Ba" n="50"/>ctus neque linea, sed cuius haec sunt vltima. Quantum ergo ad quaestionem de isto articulo, primo scien 
+        <lb ed="#Ba" n="51"/>dum quod licet responsio ad ipsam sicut &amp; ad plures sequentes plana est, vt quasi friuole induci videam 
+        <lb ed="#Ba" n="52"/>tur: propter tamen errores hominum animalium &amp; carnalium contraria veritati de deo in huiusmodi compo- 
+        <lb ed="#Ba" n="53"/>sitionibus opinantium, expedit singulariter cognoscere quomodo huiusmodi tanquam indigna deo ab ipso 
+        <lb ed="#Ba" n="54"/>remouenda sunt. Licet enim vt dicit <name ref="#Augustine">Augustinus</name> i de doct. Christia deus ab omnibus ita cogitatur vt ali- 
+        <lb ed="#Ba" n="55"/>quid sit quo nihil melius sit atque sublimius, ad quod illa cogitatio conetur attingere: tamen quia diuersis 
+   <!--345.xml-->
+        <pb ed="#Ba" n="165-v"/>
+        <lb ed="#Ba" n="1"/>bonis mouentur illi qui dediti sunt sensibus corporum, &amp; imaginationem transcendere non possunt, ipsum  
+        <lb ed="#Ba" n="2"/>coelum, aut quod in eo fulgentissimum vident, aut ipsum mundum deum esse arbitrantur: aut si extra 
+        <lb ed="#Ba" n="3"/>mundum ire conte: dunt, aliquid lucidum imaginantur, idque vel infinitum, vel ei formam quae opti- 
+        <lb ed="#Ba" n="4"/>ma videtur inani suspicatione constituunt, aut corporis humani ifiguram cogitant si eam caeteris anteponunt. In  
+        <lb ed="#Ba" n="5"/>quo errore erant antiquiores philosophi, qui non putabant esse nisi corporalia, deum ponentes ignem 
+        <lb ed="#Ba" n="6"/>esse, aut corpus cceleste aut aliquod compositum ex quatuor elementis, &amp; hoc vsque ad Anaxatgs qui primo 
+        <lb ed="#Ba" n="7"/>posuit deum esse intellectum simplicem &amp; impermixtum &amp; omnia mouentem, vt recitat <name ref="#Aristotle">Philosophus</name> in primo Me 
+        <lb ed="#Ba" n="8"/>taph. In quo errore erant plures haeretici christianorum maxime Manichaei, quid quandam lucis corporeae sub 
+        <lb ed="#Ba" n="9"/>stantiam per infinitum spatium distentam deum esse ponebant. vt recitat <name ref="#Augustine">Augustinus</name> in li. contra epistolam fun 
+        <lb ed="#Ba" n="10"/>da. Sed omnium horum opinio erronea fuit, nec poterant in praedicta quaestione veritatem attingere stan- 
+        <lb ed="#Ba" n="11"/>do in corporis imaginatione: quia vt dicit <name ref="#Augustine">Augustinus</name> i de docina christiana, illi soli possunt non absurda &amp; 
+        <lb ed="#Ba" n="12"/>indigna aestimare de deo, qui vitam ipsam cogitant, &amp; quaecumque illis forma occurrit corporis eam viuere 
+        <lb ed="#Ba" n="13"/>non nisi vita statuunt: &amp; viuentem non viuenti anteponunt. Deinde vitam ipsam pergunt attinge- 
+        <lb ed="#Ba" n="14"/>re: &amp; si eam vegetantem fine sensu inueniunt qualis est arborum, praeponunt ei sentientem, qualis est pecorum: 
+        <lb ed="#Ba" n="15"/>&amp; illi rursus intelligentem, qualis est hominium: quam cum adhuc mutabilem viderint, etiam huic immutabilem co- 
+        <lb ed="#Ba" n="16"/>guntur praeponere. iuxta illa quae tacta sunt circa gradus vitae in quaestione praecedenti. 
+      </p>
+      <p xml:id="vn58an-d1e1952-d1e268">
+        ⁋ Et simpliciter est dicen 
+        <lb ed="#Ba" n="17"/>dum ad quaestionem istam: quod deus omnino compositus ex partibus quantitatiuis esse non potest: quia secundum <name ref="#Augustine">Augustinus</name> vt 
+        <lb ed="#Ba" n="18"/>dictum est: corpus omnino esse non potest. Quod probat multipliciter Io. Dam. lib. i. c. iiii. Probat enim primo 
+        <lb ed="#Ba" n="19"/>quod non possit esse corpus simpliciter, &amp; hoc ratione suae infinitatis. cum secundum Phici. i. coe. &amp; mun. 
+        <lb ed="#Ba" n="20"/>omne corpus finitum est, &amp; in corpore finito non potest esse virtus infinita. vt probat ibidem, &amp; in  
+        <lb ed="#Ba" n="21"/>viii. physicae. Dicit enim Dam. Quia incorporeum quid deus est manifestum est, qualiter enim corpus est quod infini 
+        <lb ed="#Ba" n="22"/>tum est &amp; interminatum: Secundo probat quod non est corpus elementare, vel ex elementis compositum 
+        <lb ed="#Ba" n="23"/>&amp; hoc ratione suae impassibilitatis, dicens. Qualiter est impassibile quid ex elementis compositum est: Ter 
+        <lb ed="#Ba" n="24"/>tio probat quod non est corpus coeleste, &amp; hoc ratione suae immutabilitatis, dicens. Si vt quidam dicunt 
+        <lb ed="#Ba" n="25"/>immateriale est corpus, mobile erit omnino sicut coelum. quid ergo mouet hoc: Omne enim quod mouetur 
+        <lb ed="#Ba" n="26"/>ab alio mouetur, donec deueniamus ad immobile quod deus est. Ex quo concludit. Incorporeum igitur deum 
+        <lb ed="#Ba" n="27"/>aestimandum. compositus igitur ex partibus quantitatiuis esse non potest: sed simplex est priuatione omnium 
+        <lb ed="#Ba" n="28"/>talium partium. 
+      </p>
+      <p xml:id="vn58an-d1e1952-d1e300">
+        <lb ed="#Ba" n="29"/>⁋ Ad duo prima obiecta in oppositum &amp; ad consimilia quae possent induci: dicen- 
+        <lb ed="#Ba" n="30"/>dum: quod in scripturis vbicumque deo attribuuntur ea quae ad corporum circunscriptionem &amp; lineamenta pertinent 
+        <lb ed="#Ba" n="31"/>non secundum propriam sed secundum mysticam &amp; symbolicam locutionem ei attribuuntur: ex qua argumen 
+        <lb ed="#Ba" n="32"/>ta capi non possunt. secundum enim quod dicit <name ref="#Augustine">Augustinus</name> i. de Tri. a rebus quae in creaturis reperiuntur solet diuina 
+        <lb ed="#Ba" n="33"/>scriptura velut infantilia oblectamenta formare, quibus infirmorum ad quaerenda superiora &amp; inferiora de 
+        <lb ed="#Ba" n="34"/>serenda pro suo modulo tanquam passibus moueretur affectus. Hinc dicit Dio. ii. c. cae. hier. de materia. 
+        <lb ed="#Ba" n="35"/>quod per omnem sui materialem dispositionem imagines quasdam intellectualis pulchritudinis ha-  
+        <lb ed="#Ba" n="36"/>bet: &amp; possibile per eas reduci ad immateriales primas formas. Vnde ad significandum diuinam 
+        <lb ed="#Ba" n="37"/>immensitatem &amp; incircunscriptibilitatem proposita sunt illa dicta lob &amp; Esaiae, &amp; consimilia. secundum 
+        <lb ed="#Ba" n="38"/>quod dicit Aug. lib. de di. proprie. Vnde de eius immensitate in lib. beati lob scriptum est. Excelsior coelo &amp;c 
+        <lb ed="#Ba" n="39"/>&amp; sic de caeteris huiusmodi. vt ibidem Augusg. exponit inducendo de pluribus. 
+      </p>
+      <p xml:id="vn58an-d1e1952-d1e331">
+        ⁋ Ad tertium de Psal. 
+        <lb ed="#Ba" n="40"/>dicendum quod nomina rerum praedicamentalium transferuntur ad diuina non quia res primo significata per 
+        <lb ed="#Ba" n="41"/>ipsa secundum primam nominis impositionem reperiatur in deo: sed quia aliquid in deo reperitur cui 
+        <lb ed="#Ba" n="42"/>illa res cui huiusmodi nomen in creaturis primo imponitur, quoquo modo similis est &amp; proportio 
+        <lb ed="#Ba" n="43"/>nalis, quod de deo nomine illius rei exprimitur, cum ipsum ad deum transfertur. Habent enim causata causa- 
+        <lb ed="#Ba" n="44"/>lium receptiuas imagines. vt dicit Dio. c. ii. de di. no. Magnitudo ergo dicitur esse in deo, non quia 
+        <lb ed="#Ba" n="45"/>sit ibi aliqua moles quantitatis ad quam significandam nomen primo erat impositum creaturis: sed quia 
+        <lb ed="#Ba" n="46"/>in eo est abundantia virtutis, quae in spiritibus respondet magnitudini molis in corporalibus. di- 
+        <lb ed="#Ba" n="47"/>cente Augu. vii. de Tri. ca. viii. In his rebus quae non mole magnae sunt, hoc est maius esse quod est 
+        <lb ed="#Ba" n="48"/>melius esse. &amp; hoc ideo, quia in corporalibus proportionabiliter secundum quantitatem corporis aliis eisdem 
+        <lb ed="#Ba" n="49"/>retentis: semper est magnitudo virtutis. secundum quod magnitudine finita necessario est virtus fini- 
+        <lb ed="#Ba" n="50"/>ta: &amp; in infinita magnitudine est virtus infinita. vt vult Philosophus. i. coe. &amp; mundo. &amp;. viii. phyae. Et sic 
+        <lb ed="#Ba" n="51"/>intelligendum est de aliis rebus &amp; nominibus a creaturis ad creatorem translatis. Sufficit enim sa- 
+        <lb ed="#Ba" n="52"/>pientibus vnius significatiuae imaginis diiudicatio in proximarum simili modo declaratione, vt dicit 
+        <lb ed="#Ba" n="53"/>Dio. de coe. Hier. c. v
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1114"> <!-- alias="vn58an-a13q1" -->
+      <head xml:id="vn58an-d1e1114-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1114-Hd1e107" type="question-title">Utrum theologia possit addisci ab homine</head>
+      <p xml:id="vn58an-d1e1114-d1e110">
+        <lb ed="#Ba" n="16"/>CIrca primum arguitur quod haec scientia non possit disci ab homine. Primo sic: addiscens 
+        <lb ed="#Ba" n="17"/>debet habere aliquid notitiae eius quod debet addiscere: vt patet ex praedetermina 
+        <lb ed="#Ba" n="18"/>tis. sed homo de se ante addiscere nihil habet huius scientiae: quoniam est omnino su 
+        <lb ed="#Ba" n="19"/>pernaturalis: vt infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1114-d1e121">
+        ⁋ Secundo sic: si id quod magis natum est 
+        <lb ed="#Ba" n="20"/>sciri ab homine non potest sciri ab ipso per aliquam operationem eius: sed solo mu- 
+        <lb ed="#Ba" n="21"/>nere diuino: neque id quod minus natum est sciri ab ipso. sed in omni scientia principia 
+        <lb ed="#Ba" n="22"/>magis nata sunt sciri ab homine &amp; a quocumque sciente naturaliter: quam ea quae sunt post principia: quia ea 
+        <lb ed="#Ba" n="23"/>quae sunt post principia nata sunt cognosci per principia. sed principia prima huius scientiae scilicet prima cre- 
+        <lb ed="#Ba" n="24"/>dibilia, non possunt sciri ab homine aliqua eius operatione: sed solo diuino munere: non ergo potest 
+        <lb ed="#Ba" n="25"/>homo ea addiscere. Non autem addisceret hanc scientiam nisi illa discendo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1114-d1e138">
+        ⁋ Contra est illud quod 
+        <lb ed="#Ba" n="26"/>dicitur Deut. v. Audi lfrael cerimonias atque iudicia quae ego loquor in auribus tuis hodie: discite 
+        <lb ed="#Ba" n="27"/>ea, &amp; ope complete. discere autem illa est discere hanc scientiam. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1114-d1e145">
+        ⁋ Item Dauid in Psal. dicit. Di- 
+        <lb ed="#Ba" n="28"/>dici iudicia iustitiae tuae.  
+      </p>
+      <p xml:id="vn58an-d1e1114-d1e150">
+        <lb ed="#Ba" n="29"/> ⁋ Dicendum ad hoc quod discere nihil aliud est: quam ex iam cognito studio &amp; inuesti- 
+        <lb ed="#Ba" n="30"/>gatione vel per se: vel ex alterius admonitione ad vlteriora cognoscenda procedere: secundum quod ha 
+        <lb ed="#Ba" n="31"/>bitum est ex supra determinatis. Prima autem cognita in hac scientia fidei sunt articuli primi, qui sta 
+        <lb ed="#Ba" n="32"/>tim cum proponuntur habenti lumen fidei, ipso lumine cognoscuntur esse vera: vt ratio assentiat eorum veri 
+        <lb ed="#Ba" n="33"/>tati. sicut cum, proponuntur prima principia scientiarum speculatiuarum statim cognoscuntur esse vera in  
+        <lb ed="#Ba" n="34"/>lumine naturalis rationis. Si ergo possibile sit hominem discere hanc scientiam: cuius prima principia 
+        <lb ed="#Ba" n="35"/>sunt credendorum articuli: discere eam est ex illis primo cognitis in lumine fidei: vel ex auditu: vel 
+        <lb ed="#Ba" n="36"/>ex diuina inspiratione, posteriorum cognitionem studio: vel per se: vel alterius instructione inuesti 
+        <lb ed="#Ba" n="37"/>gare. Et tunc iuxta opinionem illorum qui dicebant quod non esset studendum inuestigationi sacrae scri- 
+        <lb ed="#Ba" n="38"/>pturae: sed eius intellectus diuino munere esset expectandus: Dicendum esset: quod homo non posset aut 
+        <lb ed="#Ba" n="39"/>non deberet studio suo addiscere istam scientiam: sed solo diuino munere eius notitiam expectare. Sed ho 
+        <lb ed="#Ba" n="40"/>rum opinio sufficienter improbata est supra in quaestione tertia: de studio hominis ad sciendum. Vnde secun 
+        <lb ed="#Ba" n="41"/>dum modum quo ibi concessum est quod studendum est homini ad inuestigandum scibilia super scientias philosophicas: quae  
+        <lb ed="#Ba" n="42"/>principaliter pertinent ad istam scientiam: secundum eundem modum dicendum est hic quod possibile est hominem addi 
+        <lb ed="#Ba" n="43"/>scere hanc scientiam ad illorum notitiam quae sunt super philosophiam nostro studio inuestigandam: &amp; hoc ideo: 
+        <lb ed="#Ba" n="44"/>quia appetitus quo homo studio horum &amp; inuestigationi intendit, non est ponendus esse frustra: fru- 
+        <lb ed="#Ba" n="45"/>stra autem esset nisi homo per ipsum scientiam istam addiscere posset. 
+      </p>
+      <p xml:id="vn58an-d1e1114-d1e189">
+        <lb ed="#Ba" n="46"/>⁋ Ad primum in oppositum quod homo de se nihil habet huius scientiae: Dicendum 
+        <lb ed="#Ba" n="47"/>quod verum est ex naturali cognitione. Sed ex lumine fidei, assentit primis articulis fidei: antequam aliquid po 
+        <lb ed="#Ba" n="48"/>terit huius scientiae addiscere: vt statim videbitur: &amp; illis sic cognitis potest vlteriora inuestigare:  
+        <lb ed="#Ba" n="49"/>vel ipsorum intellectui studere: &amp; sic ea quae sunt huius scientiae addiscere: vt dictum est supra. 
+      </p>
+      <p xml:id="vn58an-d1e1114-d1e200">
+        <lb ed="#Ba" n="50"/>⁋ Ad secundum quod homo prima credibilia non potest scire opere suo: Dicendum quod verum est in pu 
+        <lb ed="#Ba" n="51"/>ris naturalibus constitutus: adiutus tamen dono gratiae fidei opere intellectus ipsis assentit. Et con- 
+        <lb ed="#Ba" n="52"/>similiter bene verum est quod ex puris naturalibus opere rationis non posset istam scientiam addisce 
+        <lb ed="#Ba" n="53"/>re: adiutus tamen lumine fidei manuduci potest ad vlteriora credibilia inuestiganda: vel ad iam cre- 
+        <lb ed="#Ba" n="54"/>dita intelligenda: vt infra dicetur.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

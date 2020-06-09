@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 12</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 12</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="21-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e195"> <!-- alias="vn58an-a1q12" -->
+      <head xml:id="vn58an-d1e195-Hd1e104">Quaestio 12</head>
+      <head xml:id="vn58an-d1e195-Hd1e107" type="question-title">Utrum contingat hominem aeque primo sine discursu cuiuslibet rei scientiam acqirere</head>
+      <p xml:id="vn58an-d1e195-d1e110">
+        <lb ed="#Ba" n="20"/>AD duodecimum arguitur quod homo aeque primo fine discursu potest sibi notitiam 
+        <lb ed="#Ba" n="21"/>singulorum acquirere. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e117">
+        ⁋ Primo sic. homo scientiam acquirit per speciem acceptam 
+        <lb ed="#Ba" n="22"/>a sensu. sed cuiuslibet speciem aeque primo natus est per sensum acquirere. ergo  
+        <lb ed="#Ba" n="23"/>&amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e125">
+        ⁋ Secundo sic. Sicut se habet sensibile ad sensum: sic intelligibile ad intellectum: 
+        <lb ed="#Ba" n="24"/>sed sensus aeque primo natus est acquirere notitiam cuiuslibet sensibilis: &amp; statim 
+        <lb ed="#Ba" n="25"/>in ipso cognoscere quicquod est ipsi cognoscibile fine discursu. ergo &amp; intellectus 
+        <lb ed="#Ba" n="26"/>aeque primo natus est acquirere notitiam cuiullibet intelligibilis: &amp; statim in ipso cogno  
+        <lb ed="#Ba" n="27"/>scere quicquid est ipsi cognoscibile sine omni discursu. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e136">
+        ⁋ Tertio sic, quorum est eadem ratio agen- 
+        <lb ed="#Ba" n="28"/>di: aeque primo nata sunt agere in proprium passibile. vt quilibet ignis ratione qua est calidus ca- 
+        <lb ed="#Ba" n="29"/>lefacere calefactibile. Eadem est ratio cuilibet vero inquantum est verum, agendi in intellectum: &amp; mo 
+        <lb ed="#Ba" n="30"/>uendi ipsum: quia non mouet intellectum nisi sub ratione qua est verum. ergo omne verum sub ratio- 
+        <lb ed="#Ba" n="31"/>ne veri mouet intellectum aeque primo. &amp; ita sine discursu natum est ipsum mouere. Per hoc au-  
+        <lb ed="#Ba" n="32"/>tem acquirit scientiam. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e149">
+        ⁋ Quarto sic. facilius res quaelibet nata est procedere in actum 
+        <lb ed="#Ba" n="33"/>ab habitu incompleto quam a priuatione pura: quia plus distat actus a priuatione quam a potentia. sed  
+        <lb ed="#Ba" n="34"/>anima in pura carentia &amp; priuatione de se ad habitus principiorum, vt dictum est: est in potentia 
+        <lb ed="#Ba" n="35"/>&amp; habitu incompleto per principiorum notitiam ad habitus conclusionum. ergo facilius est transire a prin 
+        <lb ed="#Ba" n="36"/>cipiis ad cognitionem conclusionum: quam per se ad cognitionem principiorum. sed ad illam vadit statim 
+        <lb ed="#Ba" n="37"/>naturaliter sine discursu: vt dictum est supra. ergo &amp; ad istam. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e162">
+        ⁋ Contra. eorum quorum vnum na- 
+        <lb ed="#Ba" n="38"/>tum est sciri &amp; intelligi per alterum &amp; non econuerso: non est intellectus aeque primo natus acqui 
+        <lb ed="#Ba" n="39"/>rere scientiam: sed vnius primo: &amp; alterius per discursum ab vno in alterum. Sic se habent intelle- 
+        <lb ed="#Ba" n="40"/>ctus principiorum &amp; conclusionum. ergo non aeque primo: sed per deductionem ab vno in aliud est 
+        <lb ed="#Ba" n="41"/>intellectus natus acquirere eorum scientiam. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e173">
+        <lb ed="#Ba" n="42"/>⁋ Ad hoc primo intelligendum, quod scientia siue notitia est de vltima hominis perfe 
+        <lb ed="#Ba" n="43"/>ctione: &amp; etiam cuiuslibet intellectualis naturae: vnde &amp; in ipsa consistit felicitas vitae contemplati 
+        <lb ed="#Ba" n="44"/>uae hominis. secundum philosophum. x. Ethcorum Nunc autem ita est iuxta determinationem philosophi. ii. cae. &amp; mun. 
+        <lb ed="#Ba" n="45"/>quod res omnino perfecta perfectionem suam habet a se ipsa absque omni operatione sua: qua acquirat  
+        <lb ed="#Ba" n="46"/>eam. Et ideo deus scientiam &amp; notitiam omnem de se &amp; rebus aliis habet absque omni acquisitione a 
+        <lb ed="#Ba" n="47"/>rebus scitis: &amp; absque omni conuersione super eas: &amp; absque omni discursu ab vno in aliud: sed vno  
+        <lb ed="#Ba" n="48"/>simplici intuitu in seipso aeque primo &amp; simul omnia cognoscit: quia scientia sua non est causata a 
+        <lb ed="#Ba" n="49"/>rebus. Res autem quaelibet alia: quia perfectionem suam in scientia non habet de se sed ab alio: quia 
+        <lb ed="#Ba" n="50"/>habet eam a rebus: ideo eam non nisi sua operatione acquirit. Sed ea quae primo perfecto propinqua 
+        <lb ed="#Ba" n="51"/>sunt in ordine rerum operatione simpliciore eam acquirunt: quae vero sunt remotiora, operatio- 
+        <lb ed="#Ba" n="52"/>ne possibili. &amp; ideo angeli qui primo sunt propinquiores conuertendo se ad principia scientia- 
+        <lb ed="#Ba" n="53"/>rum sibi innata, ex illis sibi statim scientiam acquirunt omnium aliorum: sine discursu causalita- 
+        <lb ed="#Ba" n="54"/>tis intelligendi vnum ex altero: vt ex notitia vnius tanquam prius noti deueniant in notitiam alte- 
+   <!--58.xml-->
+        <pb ed="#Ba" n="22-r"/>
+        <lb ed="#Ba" n="1"/>rius posterius noti: vt sic per vnum inuestigent notitiam alterius: sed singula aeque primo intelligunt: 
+        <lb ed="#Ba" n="2"/>non tamen vno simul intuitu simplici singula intelligendo, sicut deus facit: sed vnum post alterum. 
+        <lb ed="#Ba" n="3"/>secundum quod super res se convertunt. Homo autem cum sit in vltimo ordine intelligentiarum post primum: 
+        <lb ed="#Ba" n="4"/>qui non habet aliquam notitiam sibi innatam nisi in potentia solum: vt dictum est: primo sibi naturaliter 
+        <lb ed="#Ba" n="5"/>acquirit notitiam principiorum incomplexorum sub esse incompletissimo: &amp; confuso magis. secundum  
+        <lb ed="#Ba" n="6"/>quod congruit humanae naturae. Quia innata est nobis via sciendi ex notioribus nobis quae sunt confusa 
+        <lb ed="#Ba" n="7"/>magis procedendo in notiora naturae quae sunt distincta &amp; determinata magis: &amp; hoc per hunc mo 
+        <lb ed="#Ba" n="8"/>dum. Homo enim sibi acquirit notitiam primo de terminis &amp; quidditatibus rerum in generali, primo co 
+        <lb ed="#Ba" n="9"/>gnoscendo &amp; considerando quid dicitur per nomen. ex quibus terminis componendo &amp; diuidendo secun 
+        <lb ed="#Ba" n="10"/>do concipit prima principia complexa sub esse confuso. &amp; secundum quod homo magis est dispositus 
+        <lb ed="#Ba" n="11"/>in lumine naturalis intellectus: &amp; ingenii subtilitate: tanto perfectius prima principia tam complexa 
+        <lb ed="#Ba" n="12"/>quam incomplexa ab initio concipit. omnes tamen generaliter ab initio ea sub esse confuso concipiunt: li- 
+        <lb ed="#Ba" n="13"/>cet vnus magis distincte &amp; minus confuse quam alter. Sed postmodum paulatim determinant ea omnes 
+        <lb ed="#Ba" n="14"/>semper magis: &amp; magis. secundum enim quod dicitur in principio Physiie, pueri prima appellant omnes viros pa 
+        <lb ed="#Ba" n="15"/>tres &amp; mulieres matres. Posterius autem cum vigoratur intellectus eorum determinant vnumquenque 
+        <lb ed="#Ba" n="16"/>horum: &amp; cognoscit puer patrem suum inter caeteros viros: &amp; matrem suam inter caeteras mulie 
+        <lb ed="#Ba" n="17"/>res. &amp; haec confusa notitia principiorum inquantum huiusmodi habetur primo via sensus memoriae 
+        <lb ed="#Ba" n="18"/>&amp; experientiae: quae consistit in singularibus: in quorum notitia non consistit ars aut scientia. artifex enim vniuer 
+        <lb ed="#Ba" n="19"/>sale &amp; causam cognoscit: expertus autem noscit singulare tantum: &amp; causam ignorat. vt dicitur in princi- 
+        <lb ed="#Ba" n="20"/>pio Metaphysi. Sed solum consistit in eis principium artis &amp; scientiae. principium dico extra terminos artis 
+        <lb ed="#Ba" n="21"/>consistens: antequam intellectus ex ipsis vniuersale abstrahat: quod existens in anima vnum praeter multa, est pri 
+        <lb ed="#Ba" n="22"/>mun principium artis &amp; scientiae: intra terminos artis consistens. vt dicitur in fi. poste. Et tunc maxime 
+        <lb ed="#Ba" n="23"/>quando intellectus in illo vniuer sali abstracto naturam &amp; causam rei cognoscit: &amp; veritatem videt. Tunc 
+        <lb ed="#Ba" n="24"/>enim primo determinatam notitiam principii habet. sed tamen ante ipsam ab eius notitia confusa tam in complexis, quam in  
+        <lb ed="#Ba" n="25"/>incomplexis incipit rationis discursus, primo ad cognoscendum veritatem quidditatis terminorum in  
+        <lb ed="#Ba" n="26"/>principiis incomplexis: quorum notitia determinata acquiritur inquirendo via definitiua ex confusa 
+        <lb ed="#Ba" n="27"/>cognitione definiti in significato nominis eliciendo cognitionem eius determinatam in definitiua ra 
+        <lb ed="#Ba" n="28"/>tione. Indefinitum enim quiddam significat nomen vt circulus. 
+      </p>
+      <!-- fuzzy break ; review -->
+      <p xml:id="vn58an-d1e195-d1e272">
+   Definitio autem ipsius diuiditur in  
+        <lb ed="#Ba" n="29"/>singularia id est in singulas partes definiti. vt dicitur in principio Physi. Et tunc primo quando termi 
+        <lb ed="#Ba" n="30"/>ni sic cognoscuntur in definitiua ratione intelligitur veritas &amp; quidditas rerum: &amp; ex ipsis concipitur intelle- 
+        <lb ed="#Ba" n="31"/>ctus determinatus primorum principiorum complexorum: sicut prius eorum intellectus indeterminatus con- 
+        <lb ed="#Ba" n="32"/>cipiebatur ex ipsis terminis cognitis in confusa nominis significatione. Et sunt principia ista defini 
+        <lb ed="#Ba" n="33"/>te intellecta tam complexa quam incomplexa principia artis &amp; scientiae infra terminos intellectualis co- 
+        <lb ed="#Ba" n="34"/>gnitionis: &amp; de numero talium principiorum illa sunt prima principia simpliciter: quae de primis 
+        <lb ed="#Ba" n="35"/>et vniuersalioribus magis concipiuntur. vt in incomplexis principiis primum principium &amp; primus 
+        <lb ed="#Ba" n="36"/>conceptus est conceptus entis inquantum est ens: sub quo sunt omnes alii conceptus incomplexi: &amp; ex 
+        <lb ed="#Ba" n="37"/>ipso &amp; post ipsum concipiuntur. Ex conceptu enim entis via deductionis ratione definitiua eliciun- 
+        <lb ed="#Ba" n="38"/>tur omnes alii conceptus sequentes incomplexi. vnde dicit Auicen. i. Metaphy. suae. Res &amp; ens talia sunt quae sta 
+        <lb ed="#Ba" n="39"/>tim imprimuntur in anima prima impressione, quae non acquiritur ex aliis notioribus se: &amp; alia acqui 
+        <lb ed="#Ba" n="40"/>runtur ab eis, quae enim promptiora sunt ad imaginandum per seipsa: sunt ea quae communia sunt 
+        <lb ed="#Ba" n="41"/>omnibus rebus: sicut res &amp; ens: &amp; vnum. &amp;c. Et ideo non potest manifestari horum aliquod probatio-  
+        <lb ed="#Ba" n="42"/>ne: quae non sit circularis, vel per aliquid quid non sit notius: seu quod est ignotius illis. secundum quem mo-  
+        <lb ed="#Ba" n="43"/>dum a primo philosophou, cuius subiectum est ens inquantum ens: omnis alius artifex subiectum suum su 
+        <lb ed="#Ba" n="44"/>mit tanquam aliquod ens particulare sub ente simpliciter. In complexis vero primum principium: &amp; primus 
+        <lb ed="#Ba" n="45"/>conceptus est: qui primo fundatur super conceptus entis: inquantum ens est: &amp; est ille: de quolibet 
+        <lb ed="#Ba" n="46"/>affirmatio vel negatio: &amp; non simul de eodem: quia fundatur super entis intentionem: in compara- 
+        <lb ed="#Ba" n="47"/>tione ad suum contrarium: quod est non ens: priusquam sub ente consideretur descensus ad aliquam par-  
+        <lb ed="#Ba" n="48"/>tem entis. Sub hoc enim conceptu complexo sunt omnes alii conceptus complexi: &amp; ex ipso: &amp; post ipsum con 
+        <lb ed="#Ba" n="49"/>cipiuntur. ex conceptu enim huiusmodi principii: de quolibet affirmatio vel negatio &amp; non simul de eodem 
+        <lb ed="#Ba" n="50"/>via deductionis ratione syllogistica eliciuntur omnes alii conceptus complexi sequentes. Vnde &amp; ipso 
+        <lb ed="#Ba" n="51"/>interempto omnes alii interimuntur. vt vult philosophus in iiii. Metaphy. Et per ipsum omnes alii proban- 
+        <lb ed="#Ba" n="52"/>tur: &amp; etiam primi conceptus principiorum syllogismi. vt patet per totum ex analeticis philosophi. Et ideo qui  
+        <lb ed="#Ba" n="53"/>cumque aliquid intelligit, ens intelligit primo inter incomplexa: nec de hoc aliquis dubitare potest: quia 
+        <lb ed="#Ba" n="54"/>nihil potest intelligi nisi verum: &amp; non est verum nisi ens. Et illud principium de quolibet affirmatio vel 
+        <lb ed="#Ba" n="55"/>negatio &amp;c. primo intelligit inter complexa. secundum quod de hoc principio dicit philosophus in iiii. Metaphysi. Necesse 
+   <!--59.xml-->
+        <pb ed="#Ba" n="22-v"/>
+        <lb ed="#Ba" n="1"/>est vt illud principium sit valde manifestum &amp; notum: &amp; de necessitate oportet concedere illud quid habet 
+        <lb ed="#Ba" n="2"/>cognitionem entis. vnde dicit commen. Quemadmodum oportet philosophum attribuere quiodlibet genus entium alicui 
+        <lb ed="#Ba" n="3"/>primo: &amp; scire quid est illud primum: &amp; hoc quo ad incomplexa: ita oportet ipsum cum considera- 
+        <lb ed="#Ba" n="4"/>uit de primis propositionibus, attribuere omnia alicui primo. Vnde philosophus contra negantes eam exterius 
+        <lb ed="#Ba" n="5"/>quod tamen negari non potest quo ad interius rationem, non procedit per aliquod principium complexum 
+        <lb ed="#Ba" n="6"/>sed solum ex terminorum incomplexorum significatione: quae solum praecedit hoc principium conplexum. com 
+        <lb ed="#Ba" n="7"/>plexum enim primum nisi per incomplexa cognoscere non possumus. Licet enim aliqua propositio sit per 
+        <lb ed="#Ba" n="8"/>se nota: &amp; primo quantum est de se: vt est illa cuius praedicatum includitur in subiecto: ignoranti ta- 
+        <lb ed="#Ba" n="9"/>men subiectum quid est: &amp; eius definitionem, talis propositio non est nota. lgnorans enim quod homo 
+        <lb ed="#Ba" n="10"/>est animal rationale mortale, potest ignorare an homo sit animal: &amp; alius non. vt dicit Augsitinus in logica sua 
+        <lb ed="#Ba" n="11"/>Secundum interius rationem dico: quia qui scit quod homo est animal rationale mortale, scit praedicatum inclu- 
+        <lb ed="#Ba" n="12"/>di in subiecto: cum dicitur homo est animal. Vnde dicit Auicen. i. Metaphysicae suae. Non potest cognosci 
+        <lb ed="#Ba" n="13"/>quid sit vere enunciari: nisi de vnoquoque eorum dicatur quia res est, vel aliquid, vel quid. &amp; philosophus. vi. 
+        <lb ed="#Ba" n="14"/>Metaphysi. Oportet non ignorare illud quod significat aliquid quid sit secundum essentiam &amp; definitionem, quia  
+        <lb ed="#Ba" n="15"/>quaerere absque hoc est facere nihil. cognitio enim eius quod quid est, est principium omnis cognitionis perfecte 
+        <lb ed="#Ba" n="16"/>habendae de re: &amp; ad eam omnis cognitio tam in complexis, quam in incomplexis reducenda est. Vnde 
+        <lb ed="#Ba" n="17"/>illa propositio est omnibus per se nota: cuius omnes terminos cognoscunt: illa vero solum sapien- 
+        <lb ed="#Ba" n="18"/>tibus: cuius terminos soli sapientes cognoscunt. secundum quod <name ref="#Boethius">Boethius</name> . Ii. de Hebdo. distiguit duplex genus 
+        <lb ed="#Ba" n="19"/>communium conceptionum animi. Quarum omnium prima est illa: de quolibet affirmatio &amp;c. Ex qua 
+        <lb ed="#Ba" n="20"/>via deductionis argumentatione demonstratiua eliciuntur omnes alii conceptus complexi siue illo 
+        <lb ed="#Ba" n="21"/>rum qui sunt principia in aliquibus scientiis specialibus, siue conclusionum vltimarum. Et ex hoc phi 
+        <lb ed="#Ba" n="22"/>losophus cuius est considerare quidditates rerum, habet probare prima principia particularium scien- 
+        <lb ed="#Ba" n="23"/>tiarum. Et per hunc modum quicquid homo cognoscit post simpliciter prima principia naturaliter 
+        <lb ed="#Ba" n="24"/>cognita: via rationalis deductionis cognoscit: non solum intelligendo vnum post alterum: quod facit &amp; an 
+        <lb ed="#Ba" n="25"/>gelus: sed etiam intelligendo vnum ex altero, tanquam incognitum actu ex actu cognito in quo illud 
+        <lb ed="#Ba" n="26"/>est cognitum in potentia solum. Qui modus cognoscendi angelo non conuenit.
+      </p>
+      <!-- fuzzy break; review -->
+      <p xml:id="vn58an-d1e195-d1e399">
+   Vnde &amp; modus in-  
+        <lb ed="#Ba" n="27"/>telligendi angelorum proprie intellectualis dicitur: hominum vero rationalis. secundum quod dicit 
+        <lb ed="#Ba" n="28"/>Damasceneus de duabus naturis: &amp; vna persona Christianua Operatio intellectualis est in angelis &amp; in omni 
+        <lb ed="#Ba" n="29"/>bus incorporeis simplici apprehensione intelligentibus: rationalis vero in hominibus: qui ex anima &amp; cor 
+        <lb ed="#Ba" n="30"/>pore componuntur: non simplici: sed varia &amp; ratiocinatiua apprehensione intelligentibus. Et nota quod est ordo in il 
+        <lb ed="#Ba" n="31"/>lis posterius cognitis ab homine: quia quaedam posteriorum sunt in potentia priori in illo primo prin- 
+        <lb ed="#Ba" n="32"/>cipio tam incomplexo quam complexo prius ex eo nata cognosci: quaedam in posteriori nata posterius 
+        <lb ed="#Ba" n="33"/>cognosci ex eodem. &amp; sic per ordinem vsque ad vltima incomplexa: &amp; vltimas conclusiones complexas. 
+        <lb ed="#Ba" n="34"/>Et secundum hunc ordinem debet procedere ordinata scientia in cognoscendo: sicut natura proce 
+        <lb ed="#Ba" n="35"/>dit ordinate in generando: quia non sunt omnia aeque primo in potentia in primis principiis, vt scentian 
+        <lb ed="#Ba" n="36"/>tur ex ipsis: sed necesse est quaedam sciri mediantibus aliis: sicut non sunt omnia aeque primo in potentia 
+        <lb ed="#Ba" n="37"/>in materia, vt generentur ex ea: sed necesse est quaedam generari mediantibus aliis primo generatis. Et 
+        <lb ed="#Ba" n="38"/>ideo sicut natura non potest primo &amp; immediate ex pane generare hominem: sed oportet vt pri- 
+        <lb ed="#Ba" n="39"/>mo ex pane generetur sanguis: &amp; ex sanguine sperma, &amp; ex spermate homo: Sic ratio ex primis principii 
+        <lb ed="#Ba" n="40"/>non potest scire immediate ea quae mediata sunt, siue complexa, siue incomplexa: sed oportet eam cur 
+        <lb ed="#Ba" n="41"/>rere per omnia intermedia priusquam mediata poterit per prima cognoscere. Et qui hunc ordinem 
+        <lb ed="#Ba" n="42"/>non obseruant in addiscendo modicum proficiunt: &amp; saepius errant. Absolute ergo dicendum quod homo 
+        <lb ed="#Ba" n="43"/>non potest aeque primo deuenire in notitiam singulorum: immo in quolibet genere principiorum 
+        <lb ed="#Ba" n="44"/>oportet eum prius scire confusa: quam determinata: &amp; deinde ex confusis via discursus rationalis in-  
+        <lb ed="#Ba" n="45"/>uestigare determinata, vel definitiue, vel demonstratiue: &amp; hoc per ordinem: semper primo cognoscendo 
+        <lb ed="#Ba" n="46"/>principia incomplexa: &amp; deinde ex incomplexis complexa: &amp; tam in his quam in illis primo confusa &amp; 
+        <lb ed="#Ba" n="47"/>indeterminata: deinde distincta &amp; determinata vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e447">
+        ⁋ Ad primum in oppositum: quod speciem 
+        <lb ed="#Ba" n="48"/>cuiuslibet rei aeque primo mens nata est acquirere: Dicendum quod licet ita sit: non tamen nata est 
+        <lb ed="#Ba" n="49"/>per illam intelligere omnia intelligibilia de ipsa re: aeque primo &amp; eodem modo: sed primo con- 
+        <lb ed="#Ba" n="50"/>ceptus confusos primarum intentionum: &amp; deinde ex determinatione definitiua conceptus ea- 
+        <lb ed="#Ba" n="51"/>rum determinatos: &amp; per illos omnes conceptus sequentes tam complexos quam incomplexos, secun- 
+        <lb ed="#Ba" n="52"/>dum quod apparet in pueris, qui primo omnes viros appellant patres. vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e460">
+        ⁋ Ad secundum quod  
+        <lb ed="#Ba" n="53"/>quod sensus aeque primo apprehendit omnia sensibilia: Dicendum secundum dicta superius quod non est 
+        <lb ed="#Ba" n="54"/>simile de sensu &amp; intellectu: quia sensus simpliciter &amp; superficie tenus exterius rem per suam speciem 
+        <lb ed="#Ba" n="55"/>apprehendit: sed non ipsam rem interius: neque ipsius rei, veritatem in qua plura contingit discer- 
+   <!--60.xml-->
+        <pb ed="#Ba" n="23-r"/>
+        <lb ed="#Ba" n="1"/>ni: sicut facit intellectus, vt dictum est secundum Auicen. Propter quod dicit philosophus: Qui vnum dicit 
+        <lb ed="#Ba" n="2"/>quodam modo multa dicit. ad quae multa cognoscenda non potest intellectus humanus aeque pri 
+        <lb ed="#Ba" n="3"/>mo. Sed quaedam latent in potentia in quibusdam quae operatione rationis oportet in actum deducere, 
+        <lb ed="#Ba" n="4"/>quod et facit non nisi discurrendo: quia propter debilitatem luminis intellectualis in homine non po 
+        <lb ed="#Ba" n="5"/>test omnia illa statim percipere, quod potest angelus propter luminis actualis fortitudinem in ipso. Sed hoc 
+        <lb ed="#Ba" n="6"/>poterit homo cum euacuatum fuerit in ipso quod ex parte est: &amp; fuerit sicut angelus dei in caelo. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e486">
+        <lb ed="#Ba" n="7"/>⁋ Ad tertium quod omnis veritas est per se obiectum intellectus: Dicendum quod verum est: sed veritas 
+        <lb ed="#Ba" n="8"/>primorum est obiectum eius per se &amp; primo: aliorum autem per se sed non primo. &amp; ideo non  
+        <lb ed="#Ba" n="9"/>potest cognosci veritas in illis nisi per discursum ex primis. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e496">
+        ⁋ Ad quartum quod facilius est animam 
+        <lb ed="#Ba" n="10"/>transire ad notitiam conclusionum ex principiis, quam per se ad notitiam principiorum: Dicendum quod 
+        <lb ed="#Ba" n="11"/>verum est quantum est ex parte recipientis: quia anima humana de se nihil habet habitus prin- 
+        <lb ed="#Ba" n="12"/>cipiorum: in principiis vero in potentia habet habitus conclusionum. Sed quantum est ex parte lumi 
+        <lb ed="#Ba" n="13"/>nis intellectus quo fit iudicium veritatis &amp; principiorum &amp; conclusionum: secus est, quia aliquid suffi 
+        <lb ed="#Ba" n="14"/>cit ad percipiendum statim veritatem magis perspicuam: quod non sufficit ad percipiendum mi 
+        <lb ed="#Ba" n="15"/>nus perspicuam. Quia ergo magis perspicua est veritas principiorum quam conclusionum: ideo cum 
+        <lb ed="#Ba" n="16"/>quidditas terminorum offertur intellectui: statim vis cognitiua naturalis percipit veritatem princi- 
+        <lb ed="#Ba" n="17"/>piorum: licet non conclusionum, quarum etiam veritatem statim perciperet si intantum esset ele- 
+        <lb ed="#Ba" n="18"/>uatum lumen cognoscitiuum in hominibus quantum in angelis. Et sicut est de perceptione veritatis prin 
+        <lb ed="#Ba" n="19"/>cipiorum &amp; conclusionum: ita est de generatione habituum: quia ex talibus actibus percipiendi pri- 
+        <lb ed="#Ba" n="20"/>mo habitus cognitiui concipiuntur, &amp; per actum intelligendi veritatem principiorum habitus prin 
+        <lb ed="#Ba" n="21"/>cipiorum tam complexorum quam incomplexorum concipitur in suo initio: &amp; per talem actum fre- 
+        <lb ed="#Ba" n="22"/>quentatum augmentatur &amp; firmatur: &amp; per actum ratiocinandi concipitur habitus conclusionis:  
+        <lb ed="#Ba" n="23"/>&amp; per ipsum frequentatum habitus conclusionis augetur &amp; firmatur. 
+      </p>
+      <p xml:id="vn58an-d1e195-d1e529">
+        ⁋ Est enim intelligendum 
+        <lb ed="#Ba" n="24"/>quod aliud est principium: &amp; aliud est habitus principii: sicut aliud est conclusio: &amp; aliud habitus con- 
+        <lb ed="#Ba" n="25"/>clusionis. Principium enim est quoddam opus intellectus: velut quaedam notitia actu intelligendi lucens 
+        <lb ed="#Ba" n="26"/>in intellectu tanquam verbum &amp; conceptus eius: quo intellectus informatus in actu intelligendi perfe- 
+        <lb ed="#Ba" n="27"/>ctissime est in actu id quod intelligit: &amp; perfectius quam ex ipsa specie quam habet de re. &amp; ideo ex illa no-  
+        <lb ed="#Ba" n="28"/>titia est perfecta assimilatio intellectus ad intellectum: vt intellectus cum sit de se quodam modo omnia intelligibi 
+        <lb ed="#Ba" n="29"/>lia: actu tamen nihil eorum est antequam intelligat. sicut dicit philosophus tertio de anima. Quod intelligo ipsum dicere non 
+        <lb ed="#Ba" n="30"/>tam propter speciem rei, quae intellectus informatur, vt eliciat actum intelligendi: sed propter ipsam noti- 
+        <lb ed="#Ba" n="31"/>tiam quae lucet in intellectu ex actu intelligendi. licet neutro illorum informetur intellectus: nisi cum 
+        <lb ed="#Ba" n="32"/>est in actu intelligendi. Et est ista notitia conceptus quidditatis rei in intellectu simplici: propositionis 
+        <lb ed="#Ba" n="33"/>vero in intellectu componente vel diuidente: per quem habitus complexus vel incomplexus genera 
+        <lb ed="#Ba" n="34"/>tur &amp; augmentatur: quo vtitur intellectus ad faciliter concipiendum principium postquam genera- 
+        <lb ed="#Ba" n="35"/>tus est habitus in eo. Non est autem idem quod quis agit: &amp; quo agit: sicut habitu grammaticae complexam 
+        <lb ed="#Ba" n="36"/>orationem quis constituit: quae non est habitus ipse. Et similiter in opeatione rationis ex habitu scien 
+        <lb ed="#Ba" n="37"/>tiae concipit quis conclusionem quae non est ipse habitus.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

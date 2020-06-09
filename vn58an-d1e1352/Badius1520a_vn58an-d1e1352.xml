@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 6</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 6</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="108-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1352"> <!-- alias="vn58an-a16q6" -->
+      <head xml:id="vn58an-d1e1352-Hd1e104">Quaestio 6</head>
+      <head xml:id="vn58an-d1e1352-Hd1e107" type="question-title">Utrum omnis expositio vera, sit in ea indifferenter accipienda</head>
+      <p xml:id="vn58an-d1e1352-d1e110">
+        <lb ed="#Ba" n="22"/>CIrca sextum arguitur quod non omnis expositio vera indifferenter est accipienda. Primo sic. 
+        <lb ed="#Ba" n="23"/>Si enim ita esset: cum ergo vbi Christus exponit expositionem veram, quandoque alia 
+        <lb ed="#Ba" n="24"/>potest vera super eodem inueniri: aliter ergo posset exponi quid semel a Christo ex- 
+        <lb ed="#Ba" n="25"/>positum est, cuius contrarium dictum est supra secundum Aguinus 
+      </p>
+      <p xml:id="vn58an-d1e1352-d1e121">
+        ⁋ Secundo sic. <ref xml:id="vn58an-d1e1352-Rd1e123" target="http://scta.info/resource/gd-p1d37-d1e321">Clemens papa 
+        <lb ed="#Ba" n="26"/>dicit dist. xxxvii. c. Relatum.</ref> 
+       <quote xml:id="vn58an-d1e1352-Qd1e128">Multa verba in scriptura diuinis sunt, quae pabet trahi ad  
+        <lb ed="#Ba" n="27"/>eum sensum: quem sibi spoteste vnusquisque praesumpsit, sed non oportet. Non enim sensum 
+        <lb ed="#Ba" n="28"/>solum alienum extrinsecus, &amp; extraneum debetis quaerere, sed quoquo modo ipsum ex scripturis sensum capere 
+        <lb ed="#Ba" n="29"/>veritatis oportet</quote>. Hoc autem non esset verum, si quaelibet expositio vera indifferenter esset accipienda. er 
+        <lb ed="#Ba" n="30"/>go &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1352-d1e141">
+        ⁋ In oppositum est, quoniam vero omnia congruunt vt existentia: vt dicit philosophus in i. Ethicorum. &amp; ita omnia ve- 
+        <lb ed="#Ba" n="31"/>ra. cum ergo vt dictum est huic scientiae non subest nisi verum, omnis ergo vera expositio huic scientiae congruit. 
+      </p>
+      <p xml:id="vn58an-d1e1352-d1e146">
+        <lb ed="#Ba" n="32"/>⁋ Dicendum quod ista quaestio duplicem articulum habet. Vnum, an omnis expositio vera in hac scien- 
+        <lb ed="#Ba" n="33"/>tia est accipienda: Alium, an indifferenter quaelibet illarum accipienda est. Ad primum articulum intel 
+        <lb ed="#Ba" n="34"/>ligendum quod verarum expositionum quaedam est omnino impertinens ad id quod exponendum est. Alia vero est 
+        <lb ed="#Ba" n="35"/>bene pertinens. Impertinens autem potest esse duplex, quia aut impertinens est circunstantiae literae, immo cir- 
+        <lb ed="#Ba" n="36"/>cunstantia litte aliud intelligendum indicat: aut est impertinens intentioni litte, quia non valens ad fidei 
+        <lb ed="#Ba" n="37"/>aedificationem aut morum, ad quae tota expositio sacrae scripturae debet tendere, vt supra dictum est. Ex 
+        <lb ed="#Ba" n="38"/>positio vera primo modo, si tamen ex circunstantia litte deprehendi poterit esse talis, tamquam impertinens respuenda 
+        <lb ed="#Ba" n="39"/>est: vt dicit plane Decretum, vnde argumentum secundum sumptum est. de qua dicit Ambr. Quod aperta: scri- 
+        <lb ed="#Ba" n="40"/>pturarum auctoritate non didici quasi secretum praetereo. Nos inhaereamus scripturarum caelestium magin 
+        <lb ed="#Ba" n="41"/>sterio. Nos scripturarum seriem atque ordinem sequamur: &amp; opus dei desinamus humanae operationis &amp; no-  
+        <lb ed="#Ba" n="42"/>strae contemplationis possibilitate metiri, opus contemplatione aestimemus auctoris, consideremus scripturae 
+        <lb ed="#Ba" n="43"/>verba quae librata sunt, trutinemus examine. Et similiter est in illa quae impetinens est secundo modo. Vnde <name ref="#Augustine">Augustinus</name> i de doc. 
+        <lb ed="#Ba" n="44"/>christiana de vtroque modo simul dicit. Quisquis scripturas diuinas vel quamlibet earum partem intelle 
+        <lb ed="#Ba" n="45"/>xisse sibi videtur: vt in eo intellectu non aedificet istam geminam charitatem dei &amp; proximi, nondum intellexit 
+        <lb ed="#Ba" n="46"/>Quisquis vero inde talem scientiam duxerit: vt hinc aedificandae charitati sit vtilis: nec tamen hoc dixerit 
+        <lb ed="#Ba" n="47"/>quod ille quem legit eo loco sensisse probatur, non perniciose fallitur, at si quis errore deserens viam, eo tamenper agrum 
+        <lb ed="#Ba" n="48"/>pergat, quo etiam illa via perducit, corripiendus est, &amp; quam sit vtilius viam non deserere demonstrandum est, ne as- 
+        <lb ed="#Ba" n="49"/>suetudine deuiandi etiam in transuersum aut paruersum ire cogatur. Sic enim exponi debent dicta sacrae scri- 
+        <lb ed="#Ba" n="50"/>pturae, sicut dicit <name ref="#Augustine">Augustinus</name> de verbis Domni. ser. xxii. vt omnia in vnam rationem concurrant, nihilque in vna parte 
+        <lb ed="#Ba" n="51"/>dicatur quod impediat aliam. Si vero expositio pertinens sit vtroque modo: vt scilicet circunstantia litte eam non refutet, &amp; 
+        <lb ed="#Ba" n="52"/>ad fidei &amp; morum aedificationem ducat, omnis talis expositio vera acceptanda est. Sed tunc distinguendum est 
+        <lb ed="#Ba" n="53"/>in secundo articulo, quoniam si litera habere poterit sensum historicum &amp; literalem, &amp; simiter mysticum: histori 
+        <lb ed="#Ba" n="54"/>ca expositio primo &amp; principaliter attendenda est &amp; accipienda: &amp; deinde mystica: &amp; non primo 
+        <lb ed="#Ba" n="55"/>mystica, nisi cum non poterit haberi literalis. secundum quod dicit Augu. ii. super Gen. contra Manichaeos. 
+   <!--231.xml-->
+        <pb ed="#Ba" n="108-v"/>
+        <lb ed="#Ba" n="1"/>hic sermo totus primo secundum historiam discutiendus est: deinde secundum prophetiam. Secundum 
+        <lb ed="#Ba" n="2"/>historiam facta narrantur. Secundum prophetiam futura praenunciantur. Sane quisquis voluerit omnia quae  
+        <lb ed="#Ba" n="3"/>dicta sunt secundum literam accipere, idest non aliter intelligere quam litera sonat, &amp; potuerit euitare blasphe 
+        <lb ed="#Ba" n="4"/>mias, &amp; omnia congruentia fidei catholicae praedicare, non solum ei non est inuidendum, sed praecipuus mul 
+        <lb ed="#Ba" n="5"/>tumque laudabilis intellector habendus est. Si autem nullus exitus datur, vt pie &amp; digne deo quae scri- 
+        <lb ed="#Ba" n="6"/>pta sunt intelligantur, figuratiue &amp; in aenigmate proposita credamus. Vnde quia apiltsoi in illo dicto 
+        <lb ed="#Ba" n="7"/>Christianu Mat. xv. Non quod intrat in os &amp;c. quaerebant sensum mysticum omittentes literalem, reprehen 
+        <lb ed="#Ba" n="8"/>dit eos dicens. Adhuc vos sine intellectu estis. Glos. Putatis mysterium quod proprie est dictum. 
+        <lb ed="#Ba" n="9"/>Super quo dicit Hieronymus in Glossa. Vitiosus est auditor qui vel obscura manifeste, vel ma 
+        <lb ed="#Ba" n="10"/>nifesta dicta obscure vult intelligere. Vbicunque ergo sensus literalis haberi potest, primo quoque 
+        <lb ed="#Ba" n="11"/>exponendus &amp; intelligendus: deinde mysticus super eum fundandus. secundum quod dicit <name ref="#Augustine">Augustinus</name> in ser. quo-  
+        <lb ed="#Ba" n="12"/>dam de immolatione lsaac. Ante omnia fratres hoc in nomine domini &amp; admonemus quantum possumus, &amp; praeci 
+        <lb ed="#Ba" n="13"/>pimus, vt quando auditis exponi sacramentum scripturae narrantis quae gesta sunt, prius illud quod lectum 
+        <lb ed="#Ba" n="14"/>est credatis sic gestum quomodo lectum est, ne subtracto fundamento rei gestae, quasi in aere quaeratis 
+        <lb ed="#Ba" n="15"/>aedificare. Et sicut dicit. iiii. super Gen, prius omnia quae scripta sunt facta modostrentur: deinde si opus 
+        <lb ed="#Ba" n="16"/>est etiam aliquid spirituale signasse doceantur, ne recedatur a proprietate rerum gestarum, quae primitus 
+        <lb ed="#Ba" n="17"/>in huiusmodi narrationibus cum obseruatione fundanda est: vt dicit lib. vi. 
+      </p>
+      <p xml:id="vn58an-d1e1352-d1e251">
+        ⁋ Est autem aduerten- 
+        <lb ed="#Ba" n="18"/>dum: quod tam in sensu literali quam mystico, cum vtrobique plures congruentes possint haberi, ad co- 
+        <lb ed="#Ba" n="19"/>gnoscendum quis eorum magis sit acceptandus, sentiendum est cum <name ref="#Augustine">Augustinus</name> in eo quod dicit in fi. primi super 
+        <lb ed="#Ba" n="20"/>Gen. ad literam. Cum diuinos (inquit) libros legimus, in tanta multitudine verorum intellectuum quid 
+        <lb ed="#Ba" n="21"/>de paucis verbis eruuntur, &amp; sanitate fidei catholicae muniuntur: id potissimum eligamus quod certum ap-  
+        <lb ed="#Ba" n="22"/>paruerit eum sensisse quem legimus. Si autem hoc latet, id certe quod circunstantia scripturae non impedit, &amp; cum 
+        <lb ed="#Ba" n="23"/>sana fide concordat. Si autem scripturae circunstantia pertractari &amp; discuti non potest, saltem id solum 
+        <lb ed="#Ba" n="24"/>quod sana fides praescribit. Aliud est enim quid potissimum scriptor senserit non dinoscere: aliud autem a 
+        <lb ed="#Ba" n="25"/>regula pietatis errare. Si vtrumque vitetur, perfecte se habet fructus legentis. Si vero vtrumque vitari non potest 
+        <lb ed="#Ba" n="26"/>etiam si voluntas scriptoris incerta sit, sanae fidei congruam non inutile est eruisse sententiam. Cum enim (vt 
+        <lb ed="#Ba" n="27"/>dicitur de vtili. credendi) de rebus obscuris lectio est: si hoc sentimus quod ille quem legimus: rarissimum omni- 
+        <lb ed="#Ba" n="28"/>no est, neque id liquido homo scire potest: sed tantummodo credere potest. In his tamen expositionibus 
+        <lb ed="#Ba" n="29"/>gradus est aliquis. Semper enim illa est potior quae ex alia scripturae litera poterit confirmari. secundum  
+        <lb ed="#Ba" n="30"/>quod dicit. iii. de doctrina christiana. Quando ex scripturae verbis non vnum aliquid sed duo vel plu 
+        <lb ed="#Ba" n="31"/>ra sentiuntur, etsi iam latet quid senserit ille qui scripsit: nihil periculi est: si quodlibet illorum  
+        <lb ed="#Ba" n="32"/>congruere veritati ex aliis locis sanctarum scripturarum doceri potest: id tamen eo conante qui diuina 
+        <lb ed="#Ba" n="33"/>scrutatur eloquia: vt ad veritatem perueniatur auctoris: per quem scripturam illam spiritus operatus 
+        <lb ed="#Ba" n="34"/>est sanctus. Ille quippe auctor in eisdem verbis quae intelligere volumus, &amp; ipsam sententiam forsi- 
+        <lb ed="#Ba" n="35"/>tam vidit, &amp; certe dei spiritus qui per eum operatus est, &amp; iam ipsam obscuram lectori vel auditori si- 
+        <lb ed="#Ba" n="36"/>ne dubio praeuidit: immo vt accurreret: quia ex ipso est veritate subnixa, praeuidit. Nam quid in diui- 
+        <lb ed="#Ba" n="37"/>nis eloquiis largius &amp; vberius potuit diuinitus prouideri, quam vt eadem verba pluribus intelli- 
+        <lb ed="#Ba" n="38"/>gantur modis, quos alia non minus diuina faciant approbari: Vbi autem talis sensus eruitur, cuius in  
+        <lb ed="#Ba" n="39"/>certum certis sanctarum scripturarum testimoniis non possit aperiri, restat vt ratione reddita manife 
+        <lb ed="#Ba" n="40"/>stus appareat, etiam si ille cuius verba intelligere quaerimus, forte aliud sensit. Sed haec consuetudo  
+        <lb ed="#Ba" n="41"/>periculosa est. per scripturas enim diuinas multo ambulatur tutius: quas verbis translatis occupatas 
+        <lb ed="#Ba" n="42"/>cum scrutari volumus, vt hoc inde exeat, quod non habeat controuersiam, aut si habeat, ex eadem scri- 
+        <lb ed="#Ba" n="43"/>ptura vbicumque eius inuentis atque adhibitis testimoniis terminetur. Et ideo dicit i. ist super Ge. ante fi- 
+        <lb ed="#Ba" n="44"/>nem. In rebus obscuris atque a nostris oculis remotissimis siqua in scriptura diuina legimus qua 
+        <lb ed="#Ba" n="45"/>possunt salua fide qua imbuimur alias atque alias parere sententias, in nullam earum nos praecipiti af-  
+        <lb ed="#Ba" n="46"/>fectione ita proiiciamus, vt si forte diligentius discussa veritas eam recte labefactauerit, corruamus 
+        <lb ed="#Ba" n="47"/>non pro snima diuinarum scripturarum: sed pro nra ita dimicantes: vt eam velimus scripturarum esse quae nra est: cum 
+        <lb ed="#Ba" n="48"/>potius eam quae scripturarum est nostram esse velle debeamus. De quo bene dicitur in coli. patrum. coll. viii. De his 
+        <lb ed="#Ba" n="49"/>quae apta explanatione probata sunt, nos quoque constanter possumus definire: auderentque nostram pro 
+        <lb ed="#Ba" n="50"/>ferre sententiam. Ea vero quae meditationi &amp; exercitio nostro reseruatis scripturis sanctis 
+        <lb ed="#Ba" n="51"/>spiritus diuinus inseruit, quibusdam ea volens indiciis &amp; opinionibus colligi, ita pedetentim 
+        <lb ed="#Ba" n="52"/>debent cauteque conferri, vt sit assertio vel confirmatio in disputantis vel suscipientis arbitrio 
+        <lb ed="#Ba" n="53"/>collocata. Nonnunquam enim super vna re diuersa sententia potest vtraque rationabilis iudicari: &amp; si 
+        <lb ed="#Ba" n="54"/>ne detrimento fidei vel fixe vel medie suscipi: vt ei nec plena credulitas, nec absoluta refutatio 
+        <lb ed="#Ba" n="55"/>deputetur, priorique sequens opinio derogare non debeat, cum neutra earum fidei inueniatur obsistere 
+      </p>
+      <p xml:id="vn58an-d1e1352-d1e339">
+   <!--232.xml-->
+            <pb ed="#Ba" n="109-r"/>
+        <lb ed="#Ba" n="1"/>⁋ Ad primum in oppositum: quod in eo quod Christus exposuit non est alia exposi- 
+        <lb ed="#Ba" n="2"/>tio vera accipienda: Dicendum quod verum est tamquam illam quam scriptor intellexit principaliter in illo gene 
+        <lb ed="#Ba" n="3"/>re expositionis. In alio tamen genere expositionis non est inconveniens aliam acceptare sententiam tamquam congruam: 
+        <lb ed="#Ba" n="4"/>licet non tamquam principaliter a scriptore intentam. Vnde non est inconveniens ipsum scriptorem sub eadem 
+        <lb ed="#Ba" n="5"/>litera plures expositiones intellexisse: &amp; vnam aliis excellentiorem &amp; principaliorem: vt dicit <ref xml:id="vn58an-d1e1352-Rd1e356">
+        <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Ba" n="6"/>in fi. xii. contf.</ref> 
+      </p>
+      <p xml:id="vn58an-d1e1352-d1e365">
+        ⁋ Ad secundum: quod sensus alienus extrinsecus non est quaerendus: Dicendum: quod ille proprie 
+        <lb ed="#Ba" n="7"/>est alienus extrinsecus qui impertinens est aliquo duorum praedictorum modorum: qui vt concessum 
+        <lb ed="#Ba" n="8"/>est: non est quaerendus. Quilibet autem alius quoquo modo pertinens esse potest: dum. tamen scripturis circum 
+        <lb ed="#Ba" n="9"/>stantibus congruat: &amp; illae nullum alium expressius indicent. 
+      </p>
+      <p xml:id="vn58an-d1e1352-d1e374">
+        ⁋ Ad tertium: quod omnis expositio ve- 
+        <lb ed="#Ba" n="10"/>ra congruit sacrae scripturae: Dicendum quod verum est non contradicendo ei: quia nulla veritas 
+        <lb ed="#Ba" n="11"/>(vt dictum est supra) contraria est veritati sacrae scripturae. Sed non omnis expositio vera con- 
+        <lb ed="#Ba" n="12"/>gruit ei: se illi conformando: sed solum illa quae pertinens est secundum duas conditiones prae 
+        <lb ed="#Ba" n="13"/>dictas.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

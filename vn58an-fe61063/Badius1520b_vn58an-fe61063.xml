@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="223-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe61063"> <!-- alias="vn58an-a68q2" -->
+      <head xml:id="vn58an-fe61063-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-fe61063-d1e107">
+        <lb ed="#Bb" n="47"/>CIrca secundum arguitur quod dicta tria genera relationum communium non vnifor- 
+        <lb ed="#Bb" n="48"/>miter se habent ad tres diuinas personas, Primo sic. <name ref="#Augustine">Augustinus</name> dicit. i. de Trini. cap 
+        <lb ed="#Bb" n="49"/>iiii. In patre est vnitas, in filio aequalitas, in spiritu sancto vnitatis aequalitatisque con 
+        <lb ed="#Bb" n="50"/>cordia. hoc autem non esset si omnino vniformiter aequalitas esset in patre &amp; fi- 
+        <lb ed="#Bb" n="51"/>lio, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e124">
+        ⁋ Secundo sic. Ad imaginem pertinet aequalitas in diuinis. Dicit enim 
+        <lb ed="#Bb" n="52"/>Augustinus vi. de Trini. cap. vlti. Imago si perfecte implet illud cuius est imago: ipsa 
+        <lb ed="#Bb" n="53"/>cecteg adaequatur ei, quicquid autem pertinet ad imaginem in diuinis proprium est filio, 
+        <lb ed="#Bb" n="54"/>quia ipse proprie est imago, vt habitum est supra. in eo autem quod est proprium vni non est vniformi 
+        <lb ed="#Bb" n="55"/>tas cum altero, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e135">
+        ⁋ Tertio sic. Dionysius dicit de di. no. cap. ix. In causis &amp; causatis non recipi- 
+   <!--461.xml-->
+        <pb ed="#Bb" n="223-v"/>
+        <lb ed="#Bb" n="1"/>mus conuersionem similitudinis &amp; aequalitatis. sed secundum Dam. lib. i. cap. xi. Pater est causasi- 
+        <lb ed="#Bb" n="2"/>lii. ergo inter patrem &amp; filium non recipitur conuersio similitudinis &amp; aequalitatis. Hoc autem non 
+        <lb ed="#Bb" n="3"/> esset si omnino vniformiter haberent esse in patre &amp; filio. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e149">
+        ⁋ Quarto sic. filius dicitur aequa 
+        <lb ed="#Bb" n="4"/>lis aut similis patri: quod dicitur ei adaequatus aut assimilatus, non dicitur autem pater sic aequalis 
+        <lb ed="#Bb" n="5"/>aut similis filio quod dicatur ei aequatus aut assimilatus. hoc autem non esset si vniformiter essent in vtroque.  
+        <lb ed="#Bb" n="6"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e158">
+        ⁋ Quinto sic. pater &amp; filius &amp; spiritus sanctus identitate dicuntur idem in numero singulari. 
+        <lb ed="#Bb" n="7"/>Non dicuntur autem similitudine &amp; aequalitate nisi similes &amp; aequales in plurali: quod non esset si vnifo 
+        <lb ed="#Bb" n="8"/>miter identitas cum aequalitate &amp; similitudine essent in deo. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e165">
+        ⁋ Sexto sic. Hil. dicit. iii. libro 
+        <lb ed="#Bb" n="9"/>de triniitate. Deo simile esse aliquid quod ex ipso non fuerit non potest sed ex deo filio aut ex deo spiritu san 
+        <lb ed="#Bb" n="10"/>cto non est deus pater: nec ex deo spiritu sancto est deus filius. ergo deo filio aut deo spiritui sancto 
+        <lb ed="#Bb" n="11"/>non est similis deus pater: nec deo spiritui sancto est similis deus filius: &amp; tamen deo patri sunt similes 
+        <lb ed="#Bb" n="12"/>deus filius &amp; deus spiritus sanctus: &amp; deo filio est similis deus spiritus sanctus: quia ex patre sunt filius 
+        <lb ed="#Bb" n="13"/>&amp; spiritus sanctus: &amp; ex filio est spiritus sanctus. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e178">
+        ⁋ Septimo sic. sicut fundamenta relationum 
+        <lb ed="#Bb" n="14"/>se habent ad diuinas personas: sic &amp; relationes fundatae in illis. sed fundamenta non se habent vni- 
+        <lb ed="#Bb" n="15"/>formiter ad personas diuinas: quia sunt in patre ex se: in filio autem a patre: in spiritu sancto a patre 
+        <lb ed="#Bb" n="16"/>&amp; filio. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e187">
+        ⁋ Contra. in quibus vniformiter sunt fundamenta, &amp; fundata in illis. fundamenta di 
+        <lb ed="#Bb" n="17"/>ctarum relationum omnino vniformiter sunt in illis: quia sunt penitus vnum in illis. ergo &amp; dictae 
+        <lb ed="#Bb" n="18"/>relationes in illis fundatae. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e194">
+        ⁋ Item relationes illae sunt aequiparantiae: quod non esset nisi vniformiter essent 
+        <lb ed="#Bb" n="19"/>in illis. ergo &amp;c. 
+        <lb ed="#Bb" n="20"/>
+      </p>
+      <p xml:id="vn58an-fe61063-d1e202">
+        ⁋ Dico quod quaelibet diuinarum personarum dupliciter potest considerari. Vno mo 
+        <lb ed="#Bb" n="21"/>do in se. Alio modo in habitudine ad alias. Et secundum hoc duplicem intellectum potest habere quaestio 
+        <lb ed="#Bb" n="22"/>Vnum: vtrum tria genera relationum communium vniformiter se habeant ad singulas diuinas personas 
+        <lb ed="#Bb" n="23"/>secundum se. Alium, vtrum vniformiter se habeant ad singulam personarum in habitudine ad al 
+        <lb ed="#Bb" n="24"/>teram. Si primo modo, dico quod non vniformiter se habent ad singulas personas: quia secundum pri 
+        <lb ed="#Bb" n="25"/>mum modum identitatis quaelibet diuinarum personarum dicitur eadem sibi. nulla tamen earum 
+        <lb ed="#Bb" n="26"/>dicitur aequalis aut similis sibi, vt expositum est supra quaestione secunda articuli praecedentis. Si 
+        <lb ed="#Bb" n="27"/>secundo modo, qui proprie pertinet ad quaestionem praesentem: Dico quod relationes illae vno modo pos- 
+        <lb ed="#Bb" n="28"/>sunt considerari vt sunt in radice sui fundamenti. Alio modo vt sunt in forma propria. Et adhuc pri 
+        <lb ed="#Bb" n="29"/>mo istorum modorum non vniformiter se habent ad personas diuinas: quia fundamentum earum 
+        <lb ed="#Bb" n="30"/>in patre habet esse ex se: in filio autem a patre: in spiritu sancto vero a patre &amp; filio, prout tactum est 
+        <lb ed="#Bb" n="31"/>iam in septimo argumento: &amp; expositum supra in dissolutione secundae rationis quaestionis tertiae 
+        <lb ed="#Bb" n="32"/>articuli praecedentis ad confirmationem ex dictis beati Hilarii. Secundo autem modo proprie intelli 
+        <lb ed="#Bb" n="33"/>gitur quaestio. Quaerit enim non solum an identitas sit in tribus personis diuinis vniformiter aequa-  
+        <lb ed="#Bb" n="34"/>litati &amp; similitudini: sed etiam an singulae relationum illarum vniformiter se habeant ad singulas 
+        <lb ed="#Bb" n="35"/>personas diuinas, puta identitas ad patrem &amp; filium &amp; spiritum sanctum. &amp; sic de aequalitate &amp; si- 
+        <lb ed="#Bb" n="36"/>militudine. Et dico quod vtroque modo vniformiter habent esse in tribus personis, &amp; hoc comparando  
+        <lb ed="#Bb" n="37"/>singularum relationum genera singulis personis diuinis &amp; secundum se consideratis &amp; adinui- 
+        <lb ed="#Bb" n="38"/>cem comparatis. Comparando enim genera singularum relationum singulis diuinis personis secun 
+        <lb ed="#Bb" n="39"/>dum se vt habent esse in suis fundamentis sicut in radice: bene dicitur ex parte substantiae hic pa- 
+        <lb ed="#Bb" n="40"/>ter, hic filius, hic spiritus sanctus: &amp; ex parte quantitatis: quantus pater: quantus filius: quantus spi 
+        <lb ed="#Bb" n="41"/>ritus sanctus: &amp; etiam ex parte qualitatis: qualis pater, qualis filius, qualis spiritus sanctus. Similiter 
+        <lb ed="#Bb" n="42"/>comparatis diuinis personis inter se ex parte fundamentorum, bene dicitur: quod pater hoc filius, hoc 
+        <lb ed="#Bb" n="43"/>spiritus sanctus, &amp; econverso: quod vnus, hoc duo, hoc tres, &amp; econverso: &amp; hoc ex parte fundamenti quod 
+        <lb ed="#Bb" n="44"/>est substantia. Similiter quantus pater, tantus filius, tantus spiritus sanctus, &amp; econuerso: quantus 
+        <lb ed="#Bb" n="45"/>vnus tanti duo, tanti tres, &amp; econverso: &amp; hoc ex parte fundamenti quod est quantitas. Similiter qua-  
+        <lb ed="#Bb" n="46"/>lis pater, talis filius, talis spiritus sanctus: &amp; econuerso: qualis vnus, tales duo, tales tres, &amp; econuer- 
+        <lb ed="#Bb" n="47"/>so: &amp; hoc ex parte fundamenti quod est qualitas. Similiter comparando genera singularum relationum 
+        <lb ed="#Bb" n="48"/>singulis personis consideratis secundum se vt illa habent esse in forma relationis: bene dicitur: ldem pater- 
+        <lb ed="#Bb" n="49"/>idem filius, idem spiritus sanctus: aequalis pater, aequalis filius, aequalis spiritus sanctus: Similis pa- 
+        <lb ed="#Bb" n="50"/>ter, similis filius, similis spiritus sanctus. Similiter comparatis diuinis personis inter se, bene dicitur: idem 
+        <lb ed="#Bb" n="51"/>pater filio &amp; spiritui sancto: idem filius patri &amp; spiritui sancto: idem spiritus sanctus patri &amp; filio. &amp; 
+        <lb ed="#Bb" n="52"/>similiter aequalis &amp; similis. Similiter bene dicitur personis tantum comparatis cum singulis relationibus: si 
+        <lb ed="#Bb" n="53"/>cut idem pater: sic idem filius: sic idem spiritus sanctus: &amp; econuerso. sic &amp; de aequali &amp; de simili: quam 
+        <lb ed="#Bb" n="54"/>tum idem pater, tantum idem filius, tantum idem spiritus sanctus: &amp; econuerso. Similiter bene dicitur compara 
+        <lb ed="#Bb" n="55"/>tis &amp; personis inter se: &amp; relationibus inter se: sicut idem aequalis &amp; similis est pater filio &amp; spiritul 
+   <!--462.xml-->
+        <pb ed="#Bb" n="224-r"/>
+        <lb ed="#Bb" n="1"/>sancto, &amp; filius spiritui sancto, sic econverso. Et quantum idem aequalis &amp; similis est pater filio, &amp; filius spi 
+        <lb ed="#Bb" n="2"/>ritui sancto, tantum econuerso. Rationes ad vtramque partem adductae indigent responsionibus. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e289">
+        <lb ed="#Bb" n="3"/>⁋ Quod ergo in argumento primo dicitur quod in filio est aequalitas: dico quod si illud dixisset 
+        <lb ed="#Bb" n="4"/>Augu. per proprietatem: tunc procederet argumentum: probando videlicet quod aequalitas non esset vni- 
+        <lb ed="#Bb" n="5"/>formiter in patre aut spiritu sancto &amp; in filio: quia non esset omnino in patre aut spiritu sancto, sed in  
+        <lb ed="#Bb" n="6"/>solo filio. Nunc autem non dixit illud nisi per quandam appropriationem. propter convenientiam enim aequa  
+        <lb ed="#Bb" n="7"/>litatis quae est communis relatio ad proprium filii: filio attribuit aequalitatem, non propter aliquid quo aliter 
+        <lb ed="#Bb" n="8"/>aut verius conveniat filio quam aliis personis diuinis. Quia ei pater prima persona est: vnitas autem principium 
+        <lb ed="#Bb" n="9"/>&amp; primum in numeris: ideo in personis diuinis patri appropriatur vnitas. Solet enim vnum quia est principium 
+        <lb ed="#Bb" n="10"/>in numeris, poni pro primo. secundum illud Mat. xvi. Et valde mane vna sabbatorum veniunt ad monumentum 
+        <lb ed="#Bb" n="11"/>Vnai. i. prima: quae secundum Christianos est dies dominica. Vnitas autem primo est in substantia, ad quam per se sequ-  
+        <lb ed="#Bb" n="12"/>tur identitas. Idcirco ergo per hoc quod dicit In patre vnitas, intendit patri appropriari identitatem. Quia 
+        <lb ed="#Bb" n="13"/>autem filius in diuinis secunda persona, in qua primo habetur dualitas: dualitas autem per se &amp; primo 
+        <lb ed="#Bb" n="14"/>est in quantitate numerali, ad quam per se sequitur aequalitas: idcirco aequalitatem appropriat filio. Et po- 
+        <lb ed="#Bb" n="15"/>tuisset etiam appropriando dixisse in filio dualitas, sicut dixit in patre vnitas, &amp; per dualitatem in-  
+        <lb ed="#Bb" n="16"/>tellexisse aequalitatem, sicut per vnitatem intellexit identitatem: quae bene est alicuius ad seipsum, 
+        <lb ed="#Bb" n="17"/>aequalitas autem non est nisi ad alterum. Quia autem spiritus sanctus nexus est patris &amp; filii, vt habitum 
+        <lb ed="#Bb" n="18"/>est supra loquendo de proprietatibus spiritus sancti, &amp; concordia necti solent diuersa &amp; distincta: ideo 
+        <lb ed="#Bb" n="19"/>spiritui sancto appropriatur concordia: concordia autem sequitur similitudinem: similitudo autem 
+        <lb ed="#Bb" n="20"/>concors est, vt infra declarabitur loquendo specialiter de similitudine. Idcirco ergo nomine concordiae 
+        <lb ed="#Bb" n="21"/>intellexit <name ref="#Augustine">Augustinus</name> spiritui sancto appropriari similitudinem, vt secundum hoc dicta appropriatio <name ref="#Augustine">Augustinus</name>  
+        <lb ed="#Bb" n="22"/>respiciat tria genera relationum conmunium. &amp; sic non propter aliquam praerogatiuam aequalitatis aut diffor 
+        <lb ed="#Bb" n="23"/>mitatem eius in filio &amp; in aliis personis, sed propter solam appropriationem dixit <name ref="#Augustine">Augustinus</name> aequalitas in fi- 
+        <lb ed="#Bb" n="24"/>lio. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e349">
+        ⁋ Ad secundum, quod secundum Augu. ad imaginem quae propria est filio pertinet aequalitas, ergo &amp;c. 
+        <lb ed="#Bb" n="25"/>Dico quod licet loquendo de aequalitate quae ad imaginem pertinet, &amp; propria est filio sicut imago, bene procedit a 
+        <lb ed="#Bb" n="26"/>gumentum: de hoc tamen nihil ad aequalitatem quae est relatio communis, de qua est sermo: quia aequiuocatur aequa  
+        <lb ed="#Bb" n="27"/>litas. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e358">
+        ⁋ Ad cuius intellectum &amp; ad maiorem expositionem eorum quae circa imaginem supposita sunt 
+        <lb ed="#Bb" n="28"/>in praecedentibus: Sciendum quod secundum superius exposita filius quia principaliter per modum naturae &amp; se 
+        <lb ed="#Bb" n="29"/>cundum principaliorem modum naturae procedit, cuius est simile ex simili producere, &amp; productum 
+        <lb ed="#Bb" n="30"/>assimilare producenti: idcirco similitudo non tam appropriata quam propria est filio, &amp; est in ipso secundum 
+        <lb ed="#Bb" n="31"/>qualitatem quae consistit in quantitate perfectionali siue virtuali, quam in se habet sicut quaelibet res naturalis, &amp; 
+        <lb ed="#Bb" n="32"/>hoc commensurantem secundum aequalitatem illi cuius est similitudo. Similitudo autem procedens a natura 
+        <lb ed="#Bb" n="33"/>assimilante si est coaequata secundum quantitatem illi a quo existit, imago est. Ad imaginis enim 
+        <lb ed="#Bb" n="34"/>rationem non nisi tria concurrunt, scilicet quod sit ab altero expressa, &amp; secundum quantitatem illi commen- 
+        <lb ed="#Bb" n="35"/>surata, &amp; secundum qualitatem conformata. Vnde si remoues esse ab altero, quantuncumque sit aequa-  
+        <lb ed="#Bb" n="36"/>le aliquid &amp; simile alteri non est illius imago, dicente Hil. lib. de Syne. Neque quisquam ipse sibi imago, sed eum 
+        <lb ed="#Bb" n="37"/>cuius imago est, necesse est vt imago demonstret. &amp; lib.o iii. de Trini. dicit. Imago sola non est. Quantum 
+        <lb ed="#Bb" n="38"/>cumque etiam sit ab altero &amp; simile illi sic quod sit similitudo illius, si tamen non sit illi commensuratum non  
+        <lb ed="#Bb" n="39"/>est eius imago perfecta. Quia vt dicit Augustius vi. de Trini. cap. x. imago si perfecte implet illud cu 
+        <lb ed="#Bb" n="40"/>ius est imago: ipsa coaequatur ei. Quantuncumque etiam sit ab altero &amp; illi commensuratum, si non sit 
+        <lb ed="#Bb" n="41"/>conformatum &amp; simile illi, non est eius imagoras dicente Aug. lxxxiii qiaestioni qiubus quaest xoviii. Omnis imago similis 
+        <lb ed="#Bb" n="42"/>est, quamuis non omne simile sit imago. Vnde illa tria simul explicat Hil. de Sndiem dicens. Imago est rei 
+        <lb ed="#Bb" n="43"/>ad rem coaequata &amp; discreta similitudo. Et sunt commensuratio secundum quantitatem, &amp; conforma 
+        <lb ed="#Bb" n="44"/>tio secundum qualitatem abintra integrantes essentiam imaginis: ab alio autem esse, est ordo quidam  
+        <lb ed="#Bb" n="45"/>ipsius. Et comprehendit illa duo Hil. sub nomine speciei quando dicit speciem esse in imagine. &amp; quam 
+        <lb ed="#Bb" n="46"/>do dicit in libro de Syno. Imago est eius ad quem imaginatur species indifferens. Vnde Augustin. exponen 
+        <lb ed="#Bb" n="47"/>do quid appellauit nomine speciei, dicit vbi supra. In imagine speciem appellauit credo propter pul- 
+        <lb ed="#Bb" n="48"/>chritudinem, vbi est prima aequalitas &amp; prima similitudo, nulla in re differens, &amp; nulla ex parte dis 
+        <lb ed="#Bb" n="49"/>similis, sed ad identitatem respondens ei cuius est imago. Et apparent dicta tria clarius in imagine 
+        <lb ed="#Bb" n="50"/>corporali quae continet in se similitudinem fundatam in qualitate existente in quantitate, quae dici 
+        <lb ed="#Bb" n="51"/>tur forma vel existens figura: continet etiam in se quantitatem commensuratam illi quantitati cu 
+        <lb ed="#Bb" n="52"/>ius est imago. In imagine enim corporali oportet quod totum corpus eius secundum superficiem &amp; li- 
+        <lb ed="#Bb" n="53"/>neamenta sit aequale corpori eius cuius est imago, &amp; hoc secundum quantitatem est. Oportet etiam 
+        <lb ed="#Bb" n="54"/>quod sit eadem forma superficiei secundum concauum &amp; conuexum, siue secundum depressum &amp; ele- 
+   <!--463.xml-->
+        <pb ed="#Bb" n="224-v"/>
+        <lb ed="#Bb" n="1"/>uatum: &amp; eadem sigura lineamentorum circa superficiem: &amp; hoc secundum qualitatem in quantita- 
+        <lb ed="#Bb" n="2"/>te. Quae etsi assunt: tamen si id in quo sunt non sit ad alterius imitationem productum siue ab illo 
+        <lb ed="#Bb" n="3"/>siue ab alio: non dicitur esse eius imago quantuncunque sit illi simile &amp; aequale similitudine &amp; aequa- 
+        <lb ed="#Bb" n="4"/>litate quae sunt relationes communes. Similiter si sit ad alterius imitationem productum, &amp; non sit 
+        <lb ed="#Bb" n="5"/>simile aut aequale: non est imago: aut si in aliquo deficiat a similitudine aut aequalitate non est per- 
+        <lb ed="#Bb" n="6"/>fecta imago. Vlterius etiam si sit omnino aequale aut simile: &amp; ad alterius imitationem productum 
+        <lb ed="#Bb" n="7"/>ab alio aut etiam ab eodem: sed non materialiter, secundum quod imaginarius in ligno facit imaginem 
+        <lb ed="#Bb" n="8"/>sui, ex modo productionis non dicitur similitudo eius cuius est imago: quia solius naturae ex mo-  
+        <lb ed="#Bb" n="9"/>do productionis suae est sibi in natura sua productum assimilare: &amp; tunc solummodo quando pro 
+        <lb ed="#Bb" n="10"/>ductum est simile producenti in natura sua, sicut est proles parenti, dicitur similitudo illius: &amp; ea- 
+        <lb ed="#Bb" n="11"/>dem ratione aequalitas, quoniam similitudo substantialis &amp; aequalitas perfectionalis semper vniformiter 
+        <lb ed="#Bb" n="12"/>sese consequuntur, vt habitum est supra. Propter quod dicit Augustius vi. de trinit. cap. x. de filio. In ipso 
+        <lb ed="#Bb" n="13"/>est prima aequalitas &amp; prima similitudo. Prima dicit ad differentiam secundae: quia haec aequalitas 
+        <lb ed="#Bb" n="14"/>&amp; similitudo ad proprietatem pertinet: quae est constitutiua personae filii. Aequalitas autem &amp; similitu- 
+        <lb ed="#Bb" n="15"/>do communes consequuntur tres personas constitutas: quae idcirco aequalitas secunda &amp; similitudo  
+        <lb ed="#Bb" n="16"/>secunda dici possunt. Sed ista similitudo &amp; ista aequalitas propter identitatem numeralem naturae 
+        <lb ed="#Bb" n="17"/>in parente &amp; prole in diuinis dicitur nulla in re dissidens: quia est aequalitas: &amp; nulla ex parte dissimilis: quia 
+        <lb ed="#Bb" n="18"/>est similitudo: &amp; ad identitatem tantum illius est imago: quia est eiusdem naturae singularis in illo. Sed  
+        <lb ed="#Bb" n="19"/>in creaturis propter diuersitatem naturae numeralem imago in prole in multo dissidens est &amp; dis- 
+        <lb ed="#Bb" n="20"/>similis: &amp; ad diuersitatem illius cuius est imago. Et quia talis similitudo &amp; aequalitas est in produ 
+        <lb ed="#Bb" n="21"/>cto ex modo productionis naturalis: igitur sunt relationes propriae in solo producto: &amp; non sunt re- 
+        <lb ed="#Bb" n="22"/>lationes communes producenti &amp; producto: sed proprie producto: quibus ad omnimodam aequali 
+        <lb ed="#Bb" n="23"/>tatem &amp; conformitatem producens sibi productum commensurat. Propter quod relatio imaginis ad  
+        <lb ed="#Bb" n="24"/>rationem mensurati &amp; mensurae pertinet, quamuis mensura in diuinis non sit mensura secundum gra 
+        <lb ed="#Bb" n="25"/>dum determinatum: sed secundum immensitatem solum. Quae immensitas licet in se sit verissime 
+        <lb ed="#Bb" n="26"/>positiuum quid, tamen respectu intelligentiae nostrae a negatione mensurae gradualis imponitur. Vt 
+        <lb ed="#Bb" n="27"/>enim dicit Ricar. ii. de trinita. cap. vi. Immensum dicitur quod nulla mensura comprehenditur. &amp; ibi 
+        <lb ed="#Bb" n="28"/>dem. Immensum dicitur quod nulli mensurae aequale vel aequabile inuenitur. Et ideo sicut genitum &amp; 
+        <lb ed="#Bb" n="29"/>ingenitum eandem relationem important licet differenter secundum affirmationem &amp; negationem, 
+        <lb ed="#Bb" n="30"/>secundum <name ref="#Augustine">Augustinus</name> de triniitate. v. cap. vii. sic eandem relationem important mensum &amp; immensum si- 
+        <lb ed="#Bb" n="31"/>ue actiue siue passiue dicantur. Mensum enim siue mensuratum non est proprie nisi finitum: neque si 
+        <lb ed="#Bb" n="32"/>militer mensura nisi finiti mensurati, siue ipsa mensura sit finita siue infinita. Immensum autem siue 
+        <lb ed="#Bb" n="33"/>actiue sumatur siue passiue, semper infinitum est: &amp; non nisi infiniti. Et ideo dicitur imago relatio 
+        <lb ed="#Bb" n="34"/>ne reali sicut mensuratum ad imaginatum siue in diuinis siue in creaturis: &amp; econuerso imagina- 
+        <lb ed="#Bb" n="35"/>tum inquantum huiusmodi, relatione tantum secundum rationem ad imaginem: quia. scilicet imago dici- 
+        <lb ed="#Bb" n="36"/>tur ad ipsum: quamquam secundum rationem qua imago est naturaliter producta ab imaginato, est inter ipsos 
+        <lb ed="#Bb" n="37"/>relatio realis in vtroque pertinens ad primum genus relationis, quod est in actiuis &amp; passiuis. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e507">
+        ⁋ Quod ergo dicitur 
+        <lb ed="#Bb" n="38"/>in argumento: aequalitas pertinet ad imaginem &amp;c. Dico quod verum est de aequalitate, propria, de quae procedit argumentum 
+        <lb ed="#Bb" n="39"/>&amp; quae pertinet ad secundum genus relationis. Non est autem verum de aequalitate pertinente ad tertium genus re- 
+        <lb ed="#Bb" n="40"/>lationis de qua est hic sermo. &amp; sic argumentum hoc procedit in aequiuoco sicut &amp; argumentum praecedens. 
+        <lb ed="#Bb" n="41"/>
+      </p>
+      <p xml:id="vn58an-fe61063-d1e518">
+        ⁋ Ad tertium secundum Dionysium quod in causis &amp; causatis non recipimus conversionem similitudinis &amp; aequalitatis:  
+        <lb ed="#Bb" n="42"/>Dico in principio quod ratio ista duplicem potest habere intellectum. Vnum. scilicet quod non recipimus conversionem aequalitatis 
+        <lb ed="#Bb" n="43"/>&amp; similitudinis inter relata vt semper &amp; mutuo &amp; vniformiter modo denominentur ab aequalitate &amp; modo a similitu 
+        <lb ed="#Bb" n="44"/>dine. Alim. scilicet quod non recipimus conversionem aequalitatis &amp; similitudinis inter se vt semper vniformiter con 
+        <lb ed="#Bb" n="45"/>sequuntur sese aequalitas &amp; similitudo secundum tres modos tactos in prima quaestione huius articuli. Rnden 
+        <lb ed="#Bb" n="46"/>dum est ergo primo secundum primum intellectum: deinde secundum alium. Dico ergo prosequendo primum intellectum 
+        <lb ed="#Bb" n="47"/>distinguendo quinque distinctionibus principalibus, quod duplex est conversio in relatiuis. Quaedam proprie dicta: quae 
+        <lb ed="#Bb" n="48"/>est conversio secundum idem nomen omnino &amp; secundum idem nominis significatum: quae fit &amp; contingit solummodo in relatiuis 
+        <lb ed="#Bb" n="49"/>relatione com. scilicet identitatis aequalitatis &amp; similitudinis: vbi vtrumque eorundem aequalium &amp; similium mutuo dicitur idem aequale &amp; 
+        <lb ed="#Bb" n="50"/>simile alteri. Quaedam vero alia est conversio in relatiuis coniter dicta: quae nec est secundum idem nomen penitus: nec se- 
+        <lb ed="#Bb" n="51"/>cundum idem noins significatum: quae contingit in primis duobus generibus relationum. In primo enim genere vnius relationis no 
+        <lb ed="#Bb" n="52"/>men imponitur ab actione, &amp; alterius a passione: &amp; in secundo vnius nomen imponitur a ratione mensurati, &amp; alterius a 
+        <lb ed="#Bb" n="53"/>ratione mensurae. Et sumendo coniter conversionem ad vtrumque modum conversionis, in omnibus relatiuis secundum tria 
+        <lb ed="#Bb" n="54"/>genera relationum &amp; secundum omnes modos illorum recipimus conversionem: &amp; hoc tam in diuinis quam in creatu 
+        <lb ed="#Bb" n="55"/>ris. prout dicit <name ref="#Aristotle">Philosophus</name> in praedicamentis. Dia relatiua ad convertentiam dicuntur. accipiendo scilicet con 
+   <!--464.xml-->
+        <pb ed="#Bb" n="225-r"/>
+        <lb ed="#Bb" n="1"/>uertentiam pro conuersione dicta communiter ad vtrumque dictorum modorum. &amp; hoc siue secundum eosdem 
+        <lb ed="#Bb" n="2"/>casus siue secundum diuersos. Dicitur enim calefactum a calefaciente calefactum: &amp; calefaciens calefa- 
+        <lb ed="#Bb" n="3"/>ctum calefaciens: &amp; similiter pater filii pater: &amp; filius patris filius. &amp; hoc secundum primum genus 
+        <lb ed="#Bb" n="4"/>relationis. Dicitur etiam mensuratum mensura mensuratum: &amp; mensura mensurati mensura: &amp; si- 
+        <lb ed="#Bb" n="5"/>militer dicimus imago imaginati imago: &amp; imaginatum imagine imaginatum. &amp; hoc penes secundum  
+        <lb ed="#Bb" n="6"/>genus relationis. Dicimus etiam idem eidem idem: aequale aequali aequale: simile simili simile: &amp; hoc 
+        <lb ed="#Bb" n="7"/>secundum tertium genus relationis. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e575">
+        ⁋ Loquendo autem de conversione primo modo scilicet proprie dicta: distin 
+        <lb ed="#Bb" n="8"/>guendum est de causa &amp; causato: quia accipiuntur aliquando proprie, prout causa describitur quod est 
+        <lb ed="#Bb" n="9"/>id ad cuius esse sequitur aliud. &amp; semper differunt re absoluta causa &amp; causatum. Aliquando autem acci- 
+        <lb ed="#Bb" n="10"/>piuntur communiter pro principio &amp; principiato: prout in diuinis Damasc.s accipit causam pro prin 
+        <lb ed="#Bb" n="11"/>cipio: &amp; causatum pro principiato, vt tangitur in argumento. Et secundo modo sumendo causam &amp; cau 
+        <lb ed="#Bb" n="12"/>satum: distinguendum est de aequalitate &amp; similitudine prout pertinent ad imaginem &amp; ad secundum  
+        <lb ed="#Bb" n="13"/>genus relationis: &amp; prout pertinent ad tertium genus scilicet relationum conmunium. Secundum enim quod pertinent 
+        <lb ed="#Bb" n="14"/>ad secundum genus: non recipimus in ipsis conuersionem quae est primo modo scilicet secundum idem nomen &amp; 
+        <lb ed="#Bb" n="15"/>idem nominis significatum. Non enim sicut dicitur aequale aequali aequale: aut simile simili simile: sic di 
+        <lb ed="#Bb" n="16"/>citur imago imagini imago: nec vniuersaliter mensuratum mensurati mensuratum. Recipimus tamen 
+        <lb ed="#Bb" n="17"/>in ipsis conuersionem secundo modo scilicet secundum aliud nomen &amp; aliud nominis significatum in ipsis relatio 
+        <lb ed="#Bb" n="18"/>nibus, vt dictum est iam. Secundum vero quod pertinent ad tertium genus relationis, bene recipimus con 
+        <lb ed="#Bb" n="19"/>uersionem in ipsis &amp; in diuinis &amp; in creaturis, sicut dictum est. Sumendo causam &amp; causatum pri- 
+        <lb ed="#Bb" n="20"/>mo modo scilicet proprie, distinguendum est de productione causati a causa. Aut enim est vniuoca &amp; na- 
+        <lb ed="#Bb" n="21"/>turalis scilicet secundum eandem naturam in causa &amp; causato: &amp; aequalem in forma &amp; specie in ambobus. 
+        <lb ed="#Bb" n="22"/>Aut est aequiuoca, &amp; secundum aliam &amp; aliam naturam in eisdem: &amp; inaequalem in forma &amp; specie: quae ple 
+        <lb ed="#Bb" n="23"/>na &amp; perfecta &amp; secundum veritatem est in vno eorum: in altero autem per imitationem &amp; participationem 
+        <lb ed="#Bb" n="24"/>quandam. Si primo modo: aut ergo nomen aequalitatis &amp; similitudinis imponitur principaliter 
+        <lb ed="#Bb" n="25"/>a relatione: aut imponitur principaliter ab actione aut passione, quibus natura communicatur: ad  
+        <lb ed="#Bb" n="26"/>quam sequitur relatio. Primo modo imponuntur haec nomina aequalitas &amp; similitudo: siue aequale 
+        <lb ed="#Bb" n="27"/>&amp; simile. Secundo modo imponuntur haec nomina aequans aequatum: similans similatum. Et primo 
+        <lb ed="#Bb" n="28"/>modo bene adhuc recipimus conuersionem proprie dictam aequalitatis &amp; similitudinis in relatiuis 
+        <lb ed="#Bb" n="29"/>tam in diuinis quam in creaturis. Sicut enim propter naturae vnitatem vnum eorum aequale aut simile est al 
+        <lb ed="#Bb" n="30"/>teri: sic &amp; econuerso: vt Petrus Paulo secundum humanitatem: &amp; pater filio secundum deitatem. Secundo  
+        <lb ed="#Bb" n="31"/>auntem modo in causis &amp; causatis non recipimus conuersionem proprie dictam secundum aequalitatem &amp; simi 
+        <lb ed="#Bb" n="32"/>litudinem neque in diuinis, neque in creaturis, vt procedit quartum argumentum. Non enim sicut dicimus 
+        <lb ed="#Bb" n="33"/>causatum aequatum causae aut similatum: sic dicimus econuerso causam aequatam aut similatam 
+        <lb ed="#Bb" n="34"/>causato. Aequari enim &amp; similari super esse aequale aut simile ponit quendam accessum ad vnitatem 
+        <lb ed="#Bb" n="35"/>perfectam in quantitate &amp; qualitate: &amp; per hoc ad aequalitatem &amp; similitudinem: &amp; aequatum &amp; similatum 
+        <lb ed="#Bb" n="36"/>esse ponit acceptionem aequalitatis &amp; similitudinis super esse simile &amp; aequale: a quo nomen eius 
+        <lb ed="#Bb" n="37"/>principaliter imponitur. Quae scilicet accessus &amp; acceptio, non ponunt aliquod in causa, sed in causato tantum. 
+        <lb ed="#Bb" n="38"/>Propter quod licet accepta aequalitate aut similitudine in causato a causa ambo dicuntur aequalia 
+        <lb ed="#Bb" n="39"/>&amp; similia: causatum tamen tantum dicitur aequatum &amp; similatum: non autem causa: sed ipsa causa potius dicitur 
+        <lb ed="#Bb" n="40"/>aequans &amp; similans. Et sic recipimus conuersionem inter causam &amp; causatum aequalitatis &amp; simi- 
+        <lb ed="#Bb" n="41"/>litudinis secundo modo conversionis: &amp; vniverstale inter relatiua primo genere relationis: quod consistit: in  
+        <lb ed="#Bb" n="42"/>actiuis &amp; passiuis. Sicut enim dicuntur inter se calefaciens &amp; calefactum: sic aequans &amp; aequatum: si- 
+        <lb ed="#Bb" n="43"/>milans &amp; similatum. praeter hoc quod calefactum non dicitur nisi ad calefacientem: aequatum autem &amp; simi- 
+        <lb ed="#Bb" n="44"/>latum non solum dicuntur ad aequantem &amp; similantem, qua. scilicet causat aequalitatem &amp; similitudinem in alio: sed etiam 
+        <lb ed="#Bb" n="45"/>ad illud secundum quod aequatur &amp; similatur. Est enim aequatum aut similatum id quod accipit formam aequalita- 
+        <lb ed="#Bb" n="46"/>tis aut similitudinis ab alio: &amp; hoc ad imitationem alterius: siue illud alterum fuerit ipsum aequans 
+        <lb ed="#Bb" n="47"/>aut similans: siue aliquid aliud. Vnde si quis ad imaginem primo factam aliam faceret aequalem &amp; similem 
+        <lb ed="#Bb" n="48"/>illi &amp; ad illius imitationem, secunda diceretur adaequata &amp; assimilata primae, &amp; non econverso. Et hoc 
+        <lb ed="#Bb" n="49"/>penes secundum genus relationis, quod consistit in commensurationibus: licet mutuo vtraque diceretur esse 
+        <lb ed="#Bb" n="50"/>similis aut aequalis alteri secundum tertium genus relationis: &amp; aequatum &amp; similatum diceretur relatiue 
+        <lb ed="#Bb" n="51"/>ad aequantem &amp; similantem secundum primum genus relationis. Vnde si aliquis sit aequans &amp; similans aliquid  
+        <lb ed="#Bb" n="52"/>ad imitationem suiipsius: tunc aequatum &amp; assimilatum inquantum huiusmodi referuntur ad aequantem &amp; simi- 
+        <lb ed="#Bb" n="53"/>lantem, inquantum est aequans &amp; similans primo genere relationis. Inquantum vero ad imitationem eius 
+        <lb ed="#Bb" n="54"/>aequatur &amp; similatur: referuntur ad eundem secundo genere relationis. Inquantum vero aequatum &amp; similatum 
+        <lb ed="#Bb" n="55"/>facta sunt aequalia &amp; similia: referuntur ad eundem conuersum tertio genere relationis. Et hoc vni 
+   <!--465.xml-->
+        <pb ed="#Bb" n="225-v"/>
+        <lb ed="#Bb" n="1"/>formiter in diuinis &amp; in creaturis: praeter hoc quod in creaturis fit adaequatum &amp; similatum accessu 
+        <lb ed="#Bb" n="2"/>ad vnitatem quantitatis &amp; qualitatis per motum alterationis aut augmenti &amp; diminutionem. Qui mo-  
+        <lb ed="#Bb" n="3"/>tus per se sit in quantitatem aut qualitatem: &amp; per accidens in relationem aequalitatis &amp; similitudinis. 
+        <lb ed="#Bb" n="4"/>Et cum sit in quantitatem aut qualitatem: dicitur augmenti &amp; diminutionis aut alterationis: cum 
+        <lb ed="#Bb" n="5"/>vero sit in relationem: dicitur aequationis aut similationis, licet sit vnus &amp; idem secundum rem. In di- 
+        <lb ed="#Bb" n="6"/>uinis autem sit assimilatum vel aequatum non accessu ad vnitatem quantitatis aut qualitatis per aliquem 
+        <lb ed="#Bb" n="7"/>motum medium inter producentem &amp; productum: qui dicitur actio vt est ab agente &amp; producente: &amp; 
+        <lb ed="#Bb" n="8"/>passio vt recipitur in passum &amp; productum: sicut hoc contingit in creaturis: in quibus non solum 
+        <lb ed="#Bb" n="9"/>est habitudo inter producentem &amp; productum: sed etiam inter vtrumque eorum &amp; motum medium: inquan  
+        <lb ed="#Bb" n="10"/>tum habet esse a producente &amp; recipi in subiectum, de quo productum producitur mediante motu. 
+        <lb ed="#Bb" n="11"/>In diuinis autem ablato motu omnino aufertur omnis habitudo ad motum: in quo consistit reali- 
+        <lb ed="#Bb" n="12"/>ter actionis substantia atque passionis: &amp; remanet tantummodo de ratione actionis &amp; passionis habi- 
+        <lb ed="#Bb" n="13"/>tudo inter producentem &amp; productum secundum duos terminos scilicet a quo, &amp; qui ab. Vt in diuinis non sit 
+        <lb ed="#Bb" n="14"/>aliud aequatio &amp; similatio quam acceptio a producente in productum absque omni successiua accessio- 
+        <lb ed="#Bb" n="15"/>ne eiusdem quantitatis &amp; qualitatis: ad quae sequitur in eis aequalitas &amp; similitudo: &amp; productum 
+        <lb ed="#Bb" n="16"/>similatum producenti: &amp; non econuerso. Si autem productio causati a causa sit aequiuoca secundum  
+        <lb ed="#Bb" n="17"/>aliam &amp; aliam naturam inaequalem forma &amp; specie in producente &amp; producto: quae perfecte &amp; per essentiam 
+        <lb ed="#Bb" n="18"/>est in producente, &amp; per quandam participationem in producto: vt contingit in homine vero producente, &amp; 
+        <lb ed="#Bb" n="19"/>in homine picto: in talibus productum dicitur simile &amp; similatum illi ad cuius imitationem pro 
+        <lb ed="#Bb" n="20"/>ductum est: &amp; non econverso. Vnde in talibus causis &amp; causatis nequaquam recipimus conversionem 
+        <lb ed="#Bb" n="21"/>similitudinis: sicut neque aequalitatis. dicente Augustino. vi. de Trini. vt supra. Imago si perfecte 
+        <lb ed="#Bb" n="22"/>implet id cuius est imago: ipsa coaequatur ei: non illud imagini suae. Et sumit ibi coaequari non  
+        <lb ed="#Bb" n="23"/>pro aequalitate mutua: sed pro adaequari: &amp; hoc siue idem fuerit producens, &amp; ad cuius imitationem 
+        <lb ed="#Bb" n="24"/>producitur: siue aliud &amp; aliud. Sed ad producentem inquantum est producens refertur sicut productum pri 
+        <lb ed="#Bb" n="25"/>mo genere relationis: &amp; hoc secundum rationem causae agentis: ad id vero quod imitatur inquantum huius- 
+        <lb ed="#Bb" n="26"/>modi: secundo genere: &amp; secundum rationem causae formalis exemplaris: per quem modum quaelibet crea- 
+        <lb ed="#Bb" n="27"/>tura refertur ad deum inquantum est imago aut vestigium illius: &amp; hoc non per aliquam aequalitatem 
+        <lb ed="#Bb" n="28"/>quae nulla potest esse in talibus: sed solummodo per quandam longinquam similitudinem, vt expositum 
+        <lb ed="#Bb" n="29"/>est in fine secundae quaestionis praecedentis articuli. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e749">
+        ⁋ Sic ergo ad dictam conuersionem differenter se ha-  
+        <lb ed="#Bb" n="30"/>bent similitudo, aequalitas, &amp; aequatio, aut similatio: quia in aliquibus recipimus conuersionem 
+        <lb ed="#Bb" n="31"/>similitudinis scilicet quando est secundum eandem formam naturae: &amp; in aliquibus non scilicet quando est secundum formam 
+        <lb ed="#Bb" n="32"/>participatam tantum. In omnibus autem recipimus conuersionem aequalitatis: &amp; hoc quia non est nisi 
+        <lb ed="#Bb" n="33"/>secundum eandem. In nullo autem recipimus conuersionem quae est secundum aequationem &amp; similationem: quia 
+        <lb ed="#Bb" n="34"/>includit imitationem &amp; formae receptionem per passionem: quae non possunt esse in eo quod imitatur: neque  
+        <lb ed="#Bb" n="35"/>in eo a quo recipit: quia contraria essent in eodem, &amp; esset idem causa &amp; causatum respectu eiusden- 
+        <lb ed="#Bb" n="36"/>
+      </p>
+      <p xml:id="vn58an-fe61063-d1e767">
+        ⁋ Prosequendo autem intellectum secundum dicti Dionysii: Dico vtendo distinctione secunda principali prae- 
+        <lb ed="#Bb" n="37"/>posita, quod in causis &amp; causatis proprie acceptis nequaquam recipimus vniuersaliter conversionem aequa  
+        <lb ed="#Bb" n="38"/>litatis &amp; similitudinis: quia in creaturis in quibus proprie sunt causa &amp; causatum: loquendo de aequa  
+        <lb ed="#Bb" n="39"/>litate, quantitate molis, &amp; de similitudine, aliquando est aequalitas sine similitudine inter aliqua:  
+        <lb ed="#Bb" n="40"/>&amp; aliquando similitudo sine aequalitate: &amp; aliquando non tanta est similitudo quanta est aequalitas. 
+        <lb ed="#Bb" n="41"/>Et prima duo membra contingunt ex parte similitudinis secundum omnem modum qualitatis &amp; substantia- 
+        <lb ed="#Bb" n="42"/>lis &amp; accidentalis. Vnde secundum quandam speciem qualitatis de qua minus apparet: sigurae angulares scilicet 
+        <lb ed="#Bb" n="43"/>triangulus &amp; quadrangulus dicuntur similes in habendo angulos &amp; latera proportionalia: sed di 
+        <lb ed="#Bb" n="44"/>cuntur inaequales inaequalia spatia continendo inter latera: &amp; econtra dicuntur dissimiles in habendo 
+        <lb ed="#Bb" n="45"/>angulos &amp; latera non proportionalia: sed aequales aequalia spatia continendo. Vnde &amp; in talibus 
+        <lb ed="#Bb" n="46"/>potest fieri augmentum secundum quantitatem absque alteratione secundum qualitatem: quia quadratum addito 
+        <lb ed="#Bb" n="47"/>gnomone creuit: sed non alteratum est. Tertium autem membrum non contingit nisi ex parte similitudinis secundum  
+        <lb ed="#Bb" n="48"/>qualitatem recipientem magis &amp; minus. Propter quid secundum illam contingit esse similitudinem maiorem &amp; mi 
+        <lb ed="#Bb" n="49"/>norem: perfecum. scilicet &amp; imperfectam: Et perfecta ponit aequalitatem: imperfecta vero inaequalitatem. Quartum  
+        <lb ed="#Bb" n="50"/>autem membrum est impossibile: quod scilicet non sit tanta aequalitas quanta est similitudo: si tamen sit aequalitas: quia 
+        <lb ed="#Bb" n="51"/>aequalitas non recipit magis &amp; minus: sicut neque quantitas. Similiter loquendo de aequalitate, quam 
+        <lb ed="#Bb" n="52"/>titate perfectionis seu virtutis, &amp; similitudine, licet possit aliquando esse similitudo absque aequalitate, vt 
+        <lb ed="#Bb" n="53"/>in qualitatibus accidentalibus recipientibus magis &amp; minus: nunquam tamen potest esse aequalitas absque  
+        <lb ed="#Bb" n="54"/>similitudine. secundum quancumque qualitatem similitudo fuerit. Aeque enim calidum &amp; non aeque calidum bene est 
+        <lb ed="#Bb" n="55"/>simile. Vnde in talibus ista tria se habent per ordinem, similitudo, &amp; aequalitas, &amp; adaequatio: &amp; vnum 
+   <!--466.xml-->
+        <pb ed="#Bb" n="226-r"/>
+        <lb ed="#Bb" n="1"/>eorum se habet ad alterum per additionem. Nam aequale praesupponit simile, &amp; addit paritatem in  
+        <lb ed="#Bb" n="2"/>qualitate. Similia enim sunt quaecumque participantia eandem qualitatem specificam, etiam impariter &amp; in  
+        <lb ed="#Bb" n="3"/>aequaliter: sed non sunt aequalia nisi pariter &amp; aequaliter participent illam. Adaequatio autem semper 
+        <lb ed="#Bb" n="4"/>supponit aequalitatem super quancumque quantitatem fuerit fundata: &amp; addit productum esse ad imi- 
+        <lb ed="#Bb" n="5"/>tationem alicuius. Non enim ex hoc quod aliquid est alteri aequale, est ei aequatum, nisi sit ad illius 
+        <lb ed="#Bb" n="6"/>imitationem productum. In causis &amp; causatis communiter acceptis scilicet in diuinis: tantummodo recipi- 
+        <lb ed="#Bb" n="7"/>mus conuersionem aequalitatis &amp; similitudinis secundum vtrumque modum conuersionis in prima di- 
+        <lb ed="#Bb" n="8"/>stinctione principali: dum tamen nomen aequalitatis &amp; similitudinis principaliter imponatur 
+        <lb ed="#Bb" n="9"/>a relatione, vt dicit membrum primum quintae distinctionis: &amp; relatio aequalitatis &amp; similitudi-  
+        <lb ed="#Bb" n="10"/>nis sit relatio communis, non autem, propria filio pertinens ad imaginem, vt tactum est in tertia di- 
+        <lb ed="#Bb" n="11"/>stinctione principali praecedente. Si enim nomen aequalitatis aut similitudinis imponatur prin 
+        <lb ed="#Bb" n="12"/>cipaliter ab imitatione: vt dicitur aequatum &amp; similatum: aut pertinet ad imaginem: tunc in 
+        <lb ed="#Bb" n="13"/>diuinis non recipitur conuersio: sicut nec in creaturis, vt dictum est. Caeterum autem recipitur:  
+        <lb ed="#Bb" n="14"/>&amp; hoc quia in diuinis idem est fundamentum dictarum relationum in tribus personis. Ex illo enim 
+        <lb ed="#Bb" n="15"/>sequitur etiam quod vna persona mutua sit eadem aequalis &amp; similis alteri secundum primum modum  
+        <lb ed="#Bb" n="16"/>intelligendi dictum Dionysii: &amp; quod quaelibet personarum quantum est eadem alteri tantum sit aequalis &amp; 
+        <lb ed="#Bb" n="17"/>similis mutuo, &amp; econverso. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e852">
+        ⁋ Breuiter ergo recolligendo iam dicta pertinentia ad dissolutionem 
+        <lb ed="#Bb" n="18"/>tertiae &amp; quartae rationis simul: Dico quod in casibus in quibus non recipimus conuersionem aequa-  
+        <lb ed="#Bb" n="19"/>litatis aut similitudinis neque secundum primum intellectum dicti beati Dionysii, neque penes secundum  
+        <lb ed="#Bb" n="20"/>vt quando est similitudo imitationis tantum in creaturis: aut nominis impositio est ab actu imitandi:  
+        <lb ed="#Bb" n="21"/>aut relatio non est communis pertinens ad tertium genus relationis, sed potius ad secundum siue in  
+        <lb ed="#Bb" n="22"/>diuinis siue in creaturis: aut quando est relatio communis. Sed cum recipimus conversionem patris secundum  
+        <lb ed="#Bb" n="23"/>intellectum dicti beati Dionysii: quod contingit in creaturis tantum: non habent dictae relationes vnifor 
+        <lb ed="#Bb" n="24"/>miter esse in relatis per ipsas: quia ipsa relatio est in vno eorum tantum: non autem in alio. In casibus vero 
+        <lb ed="#Bb" n="25"/>in quibus recipimus conversionem aequalitatis: vt in creaturis quando est relatio communis significata 
+        <lb ed="#Bb" n="26"/>principaliter nomine aequalitatis &amp; similitudinis: habent dictae relationes esse vniformiter in relatis per  
+        <lb ed="#Bb" n="27"/>ipsas semper. secundum primum intellectum dicti Dionysii: &amp; quandoque secundum secundum: quandoque vero non. In diui 
+        <lb ed="#Bb" n="28"/>nis vero quando est relatio communis significata nomine aequalitatis &amp; similitudinis principaliter, semper 
+        <lb ed="#Bb" n="29"/>habent dictae relationes esse in relatis per illas: &amp; secundum primum intellectum, &amp; secundum secundum. Et sic vni 
+        <lb ed="#Bb" n="30"/>uersaliter quaecumque relationes vere communes sunt diuinis personis: omnino vniformiter habent esse in il 
+        <lb ed="#Bb" n="31"/>lis personis. Et quando conversionem earum in illis recipimus: sic quod mutua relatione identitatis, aequali-  
+        <lb ed="#Bb" n="32"/>tatis, &amp; similitudinis inter se referuntur: aut non sunt de tertio genere relationis cones relationes:  
+        <lb ed="#Bb" n="33"/>sed sunt de primo genere aut de secundo: aut non est impositio nominis principaliter a tali relatione 
+        <lb ed="#Bb" n="34"/>sed ab actu imitandi: secundum quod haec omnia patent ex iam dictis. Et propter istam vniformitatem &amp; conuersio 
+        <lb ed="#Bb" n="35"/>nem mutuam dictarum relationum in personis diuinis: dicit Auinus, xv. de Trini. ca. xiiii. Pater genuit 
+        <lb ed="#Bb" n="36"/>filium per omnia sibi similem &amp; aequalem. Non autem dicit eundem: quia aliqua est identitas sui ad seipsum quae  
+        <lb ed="#Bb" n="37"/>non est filii ad patrem, vt infra patebit, &amp; supra tactum est in parte. Genuit autem pater filium sic per 
+        <lb ed="#Bb" n="38"/>omnia sibi aequalem &amp; similem atque eundem secundum modum identitatis quae in diuinis est personae ad per  
+        <lb ed="#Bb" n="39"/>sonam: quod nec est nec esse potest omnino vna illarum alteri difformis in aequalitate, similitudi- 
+        <lb ed="#Bb" n="40"/>ne, &amp; identitate. Et hoc quia sunt eaedem similes &amp; aequales propter vnam &amp; eandem numero quam 
+        <lb ed="#Bb" n="41"/>titatem, qualitatem, &amp; substantiam in tribus personis absque susceptibilitate eius quod est maius &amp; mi 
+        <lb ed="#Bb" n="42"/>nus: &amp; eius quod est magis &amp; minus. Et dato per impossibile quod quantitas in diuinis augeretur aut di 
+        <lb ed="#Bb" n="43"/>minueretur: &amp; similiter qualitas aut substantia: cum tamen tres personae sint vna essentia, vna ma 
+        <lb ed="#Bb" n="44"/>gnitudo, vna bonitas, vt dicit Augustinus. vi. de Trini. ca. ii. semper singula diuinarum persona 
+        <lb ed="#Bb" n="45"/>rum aliis maneret aequalis similis &amp; eadem qualitercumque fieret transmutatio secundum maius aut mi 
+        <lb ed="#Bb" n="46"/>nus siue secundum magis &amp; minus: sic quod impossibil e sit saltem secundum intellectum imaginari vnam 
+        <lb ed="#Bb" n="47"/>alteri inaequalem aut dissimilem in aliquo: aut non eandem secundo modo identitatis superius tacto, 
+        <lb ed="#Bb" n="48"/>Propter quod etiam in diuinis non est aequale priuatio eius quod est maius aut minus: nec simile pri 
+        <lb ed="#Bb" n="49"/>uatio eius quod est magis &amp; minus: sicut sunt in creaturis propter priuationem annexam illis. Sed in  
+        <lb ed="#Bb" n="50"/>diuinis sunt purae positiones siue affirmationes quibus non sunt annexae priuationes, hoc est pos 
+        <lb ed="#Bb" n="51"/>sibilitates aut habilitates ad contraria, sed negationes purae illorum. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e928">
+        ⁋ Ad quintum: quod pater &amp; filius 
+        <lb ed="#Bb" n="52"/>singulariter dicuntur idem: non autem singulariter dicuntur similis aut aequalis: sed pluraliter tantum si- 
+        <lb ed="#Bb" n="53"/>miles aut aequales: ergo &amp;c. Dico ad huius intellectum: quod quia secundum praedicta, identitas, aequalitas, 
+        <lb ed="#Bb" n="54"/>aut similitudo, non causantur a substantia quantitate &amp; qualitate de proximo ratione substantiae quantita- 
+        <lb ed="#Bb" n="55"/>tis &amp; qualitatis inquantum huiusmodi: sed potius ratione vnius in quolibet illorum: &amp; hoc non solummodo  
+   <!--467.xml-->
+        <pb ed="#Bb" n="226-v"/>
+        <lb ed="#Bb" n="1"/>semel accepti sed pluries secundum pluralitatem relatorum secundum illa: &amp; hoc secundum rem vel secundum rationem: 
+        <lb ed="#Bb" n="2"/>idcirco in quolibet modo relationum conmunium dictarum relatioest alia &amp; alia vel secundum rem vel secundum 
+        <lb ed="#Bb" n="3"/>rationem in diuersis relatis secundum illas: vt alia sit identitas patris siue in patre ad filium, alia econver 
+        <lb ed="#Bb" n="4"/>so filii siue in filio ad patrem: &amp; similiter qualitas alia: &amp; similitudo alia. Propter quod cum accipiuntur 
+        <lb ed="#Bb" n="5"/>secundum se licet adiectiue in praedicationibus, necessario plurificantur secundum plurificationem suppositorum  
+        <lb ed="#Bb" n="6"/>&amp; solum pluraliter praedicantur de relatis: cum tamen alia nomina siue substantiua siue adiectiua absoluta sub 
+        <lb ed="#Bb" n="7"/>stantiae quantitatis &amp; qualitatis, &amp; etiam relatiua ad extrinsecum, quae ab vno &amp; eodem penitus scilicet &amp; secundum 
+        <lb ed="#Bb" n="8"/>rem &amp; secundum rationem vt est in diuersis personis causantur: nequaquam in plurali praedicantur: etiam cum adiectiue 
+        <lb ed="#Bb" n="9"/>accipiuntur secundum se. Vt ecclesia catholica profitendo fidem suam circa absoluta siue substantiue siue adie- 
+        <lb ed="#Bb" n="10"/>ctiue accepta: quae sunt nomina substantiae, quantitatis, &amp; qualitatis: dicit. Pater deus est: filius deus 
+        <lb ed="#Bb" n="11"/>est: spiritus sanctus deus est. Pater immensus est: filius immensus est: spiritus sanctus immensus est. Pater bonus 
+        <lb ed="#Bb" n="12"/>est: filius bonus est: spiritus sanctus bonus est. Et tamen non tres dii, sed vnus est deus: sicut nec tres im 
+        <lb ed="#Bb" n="13"/>mensi, nec tres boni: sed vnus immensus &amp; vnus bonus. Et similiter circa relatiua ad extrinsecum siue 
+        <lb ed="#Bb" n="14"/>substantiue siue adiectiue accepta dicit. Pater omnipotens est: filius omnipotens est: spiritus sanctus omnipotens 
+        <lb ed="#Bb" n="15"/>est: &amp; tamen non tres omnipotentes, sed vnus omnipotens. lta pater domins est: filius domins est: spiritus sanctus domins 
+        <lb ed="#Bb" n="16"/>est: &amp; tamen non tres domini, sed vnus est domins. Similiter creator pater est: creator filius est: creator spiritus san 
+        <lb ed="#Bb" n="17"/>ctus est, non tamen tres creatores, sed vnus creator. Et hoc licet illa quae adiectiue significantur cum super 
+        <lb ed="#Bb" n="18"/>positis pluraliter expressis: pluraliter praedicantur de pluribus: dicendo Pater bonus est: filius bonus est: 
+        <lb ed="#Bb" n="19"/>spiritus sanctus bonus est: &amp; sunt tres bonae personae. Sed hoc non contingit propter aliquam plurificationem 
+        <lb ed="#Bb" n="20"/>circa rem significatam vel re vel ratione: sed solummodo propter modum significandi adiectiue: qui requirit 
+        <lb ed="#Bb" n="21"/>quod adiectiuum conformetur suo substantiuo in genere, numero, &amp; casu. Sed circa nomina relatiua relatione 
+        <lb ed="#Bb" n="22"/>communi adiectiue accepta dicit. ldem pater sibi est &amp; filio &amp; spiritui sancto. ldem filius sibi est &amp; pa 
+        <lb ed="#Bb" n="23"/>tri &amp; spiritui sancto. ldem spiritus sanctus sibi est &amp; filio &amp; patri: &amp; hoc secundum diuersos modos iden- 
+        <lb ed="#Bb" n="24"/>titatis: &amp; tamen non vnus idem: sed tres iidem sunt. Similiter aequalis pater est filio &amp; spiritu sctom: aequalis filius 
+        <lb ed="#Bb" n="25"/>est patri &amp; spiritu sctom: aequalis spiritus sctuns est patri &amp; filio: &amp; tamen non vnus aequalis, sed tres aequas 
+        <lb ed="#Bb" n="26"/>les sunt. Similis est pater filio &amp; spiritu sctom: similis est filius patri &amp; spiritu sctom: spiritus sctuns similis est patri 
+        <lb ed="#Bb" n="27"/>&amp; filio: &amp; tamen non vnus similis, sed tres similes. Et hoc propter identitatum, aequalitatum, &amp; similitudinum 
+        <lb ed="#Bb" n="28"/>pluralitatem in relatis secundum rationem, ad diuersitatem fundamentorum secundum rationem in illis. Et quemad-  
+        <lb ed="#Bb" n="29"/>modum dicimus pater spirator est, filius spirator est: sed tamen non vnus spirator, sed duo spiratores 
+        <lb ed="#Bb" n="30"/>&amp; hoc propter vim spiratiuam: quae non est nisi voluntas vt est duorum: &amp; sic secundum rationem bifurcata, vt 
+        <lb ed="#Bb" n="31"/>habitum est supra, &amp; amplius declarabitur infra. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e1011">
+        ⁋ Quod ergo arguitur quod tres personae dicuntur idem singu- 
+        <lb ed="#Bb" n="32"/>lariter, non autem similis aut aequalis, ergo &amp;c. Dico quod falsum est: immo sicut non dicuntur singulariter 
+        <lb ed="#Bb" n="33"/>similis aut aequalis: sic nec idem. Et sicut non dicuntur nisi pluraliter similes aut aequales, sic nec iidem. Et 
+        <lb ed="#Bb" n="34"/>sicut singulariter dicuntur idem: sic &amp; simile &amp; aequale: quia quodlibet eorum in neutro genere substanti- 
+        <lb ed="#Bb" n="35"/>uatum dicitur singulariter de tribus: &amp; resoluuntur idem simile &amp; aequale neutraliter accepta, in adie- 
+        <lb ed="#Bb" n="36"/>ctiuum masculine, &amp; in substantiuum suum significans essentiam &amp; supponens diuinas personas indefinite 
+        <lb ed="#Bb" n="37"/>dicendo, Pater &amp; filius &amp; spiritus sanctus sunt idem aequale &amp; simile. Pater ille, puta deus: qui est 
+        <lb ed="#Bb" n="38"/>idem aequalis &amp; similis: in diuersis tamen personis: quia nihil est aequale aut simile aut idem sibi secundo  
+        <lb ed="#Bb" n="39"/>modo identitatis, vt habitum est supra. Vnde quod tres personae sint idem masculine per vnum i, literam scri- 
+        <lb ed="#Bb" n="40"/>ptum sine expressione substantiui: non recipitur: sicut non recipitur quod sunt aequalis aut similis: licet quid  
+        <lb ed="#Bb" n="41"/>libet eorum recipiatur expressione substantiui: dicendo masculine quod sunt idem aequalis aut similis 
+        <lb ed="#Bb" n="42"/>deus, sicut dictum est. Et sic recipitur quod sunt idem neutraliter per vnum i, literam, sicut quod similiter 
+        <lb ed="#Bb" n="43"/>aequale &amp; simile. Sed est aequiuocatio in eo quod est idem singulariter scriptum per vnum i, ad mascu 
+        <lb ed="#Bb" n="44"/>linum &amp; neutrum: non sic autem ex parte aequalis &amp; similis. Vnde quod tres personae dicantur iidem 
+        <lb ed="#Bb" n="45"/>in plurali masculine sicut &amp; aequales &amp; similes, hoc non est nisi scribendo iidem per duo ii, li- 
+        <lb ed="#Bb" n="46"/>teras: licet in prolatione modicum distet idem prolatum per vnum i, &amp; per ii, duplex. Et no-  
+        <lb ed="#Bb" n="47"/>ta quod licet non bene dicatur pater &amp; filius &amp; spiritus sanctus singulariter &amp; masculine sunt 
+        <lb ed="#Bb" n="48"/>idem aequalis &amp; similis, sicut dictum est: &amp; hoc quia singulum eorum, scilicet identitas, aequa-  
+        <lb ed="#Bb" n="49"/>litas, &amp; similitudo in tali praedicatione respicit tres personas vt relata tria per singulum, in  
+        <lb ed="#Bb" n="50"/>quae necessario plurificantur saltem secundum rationem secundum superius determinata: Bene ta- 
+        <lb ed="#Bb" n="51"/>men dicitur singulariter &amp; masculine quod pater est idem aequalis &amp; similis filio &amp; spiritui 
+        <lb ed="#Bb" n="52"/>sancto, &amp; econuerso: eo quod in tali praedicatione singulariter singulas personas respiciunt vt re- 
+        <lb ed="#Bb" n="53"/>lata per illa: &amp; vt in singulis fundatur super rationem vnius in substantia, quantitate,  
+        <lb ed="#Bb" n="54"/>aut qualitate semel accepti. Sic ergo iuxta primum intellectum dicti Dionysii superius 
+        <lb ed="#Bb" n="55"/>expositum omnino se habent singula genera relationum communim vniformiter ad sin- 
+   <!--468.xml-->
+        <pb ed="#Bb" n="227-r"/>
+        <lb ed="#Bb" n="1"/>gulas personas diuinas: quia vniformiter idem pater: idem filius: idem spiritus sanctus. Et hoc etiam 
+        <lb ed="#Bb" n="2"/>sibi quo ad primum modum identitatis: &amp; cuilibet aliorum quo ad secundum modum identitatis. Aequalis 
+        <lb ed="#Bb" n="3"/>pater: aequalis filius: aequalis spiritus sanctus: Similis pater: similis filius: similis spiritus sanctus. 
+        <lb ed="#Bb" n="4"/>Et hoc non sibi: sed cuilibet aliorum tantum. Et secundum hoc procedunt duo argumenta in oppositum. 
+        <lb ed="#Bb" n="5"/>Et similiter iuxta secundum intellectum dicti Dionysii, vniformiter se habent singulae relationes trium 
+        <lb ed="#Bb" n="6"/>generum ad tres personas: quia vniformiter idem pater, aequalis pater, similis pater. ldem filius, 
+        <lb ed="#Bb" n="7"/>aequalis filius, similis filius. ldem spiritus sanctus, aequalis spiritus sanctus, similis spiritus san- 
+        <lb ed="#Bb" n="8"/>ctus. Sed hoc non nisi cuilibet aliorum, &amp; penes secundum modum identitatis: quia penes primum mo-  
+        <lb ed="#Bb" n="9"/>dum identitatis non vniformiter idem est pater, &amp; aequalis, &amp; similis. Et sic de filio &amp; spiritu 
+        <lb ed="#Bb" n="10"/>sancto: quia secundum primum modum identitatis quilibet eorum sibiipsi est idem: sed nullus eorum 
+        <lb ed="#Bb" n="11"/>sibiipsi est aequalis aut similis, vt patet ex praedeterminatis. Ex quibus patet quod non aequaliter 
+        <lb ed="#Bb" n="12"/>quaelibet hypostaseon se habet ad alteram &amp; ad seipsam, nec vniformiter: sed potius substantia 
+        <lb ed="#Bb" n="13"/>&amp; quodlibet substantiale attributum existens in quolibet suppositorum, aequaliter &amp; vniformiter 
+        <lb ed="#Bb" n="14"/>per identitatem se habet siue refertur ad alterum, &amp; ad seipsum: licet inter illa attributa sit diffe- 
+        <lb ed="#Bb" n="15"/>rentia secundum rationem: &amp; quo ad hoc differt secundum rationem identitatis cuiuslibet eorum ad alterum &amp; 
+        <lb ed="#Bb" n="16"/>ad seipsum: &amp; quo ad hoc non vniformiter se habet ad alterum &amp; ad seipsum: &amp; minus se habet ad 
+        <lb ed="#Bb" n="17"/>alterum quam ad seipsum, vt inferius amplius declarabitur. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e1108">
+        ⁋ Quod arguitur sexto ex illo dicto Hilarii 
+        <lb ed="#Bb" n="18"/>Deo simile esse aliquid quod ex ipso non fuerit, non potest: Dico quod dictum illud intelligitur de simili 
+        <lb ed="#Bb" n="19"/>tudine vera &amp; perfecta, qua creatura similis deo esse non potest: quae solummodo deo similis esse 
+        <lb ed="#Bb" n="20"/>potest quadam similitudine imaginaria imperfecta, vt tactum est articulo praecedente quaestione. ii. 
+        <lb ed="#Bb" n="21"/>in fine. Vnde &amp; dictum illud non intelligitur nisi de illis quae habent esse a deo vt a principio produ 
+        <lb ed="#Bb" n="22"/>ctiuo comparatis per similitudinem ad deum producentem. Ex quibus deo vt principio productiuo 
+        <lb ed="#Bb" n="23"/>nihil simile esse potest vera similitudine &amp; perfecta: quod non fuerit ex ipso vt ex cuius substantia sicut 
+        <lb ed="#Bb" n="24"/>ex principio quasi materiali producatur: quemadmodum filius producitur a patre &amp; ex patre: &amp; spiritus 
+        <lb ed="#Bb" n="25"/>sanctus a patre &amp; filio: &amp; ex ipsis: quia in vnitate substantiae singularis a patre producitur, &amp; a patre 
+        <lb ed="#Bb" n="26"/>&amp; filio spiritus sanctus. Nunc autem sic producitur creatura a deo trinitate: quod licet producatur ab illo: non 
+        <lb ed="#Bb" n="27"/>tamen ex ipso in vnitate substantiae singularis: sed in diuersitate maxima. Et ideo non producitur a deo 
+        <lb ed="#Bb" n="28"/>vt simile vera &amp; perfecta similitudine: sed solummodo vt simile imaginaria &amp; imperfecta similitudine, vt ex- 
+        <lb ed="#Bb" n="29"/>positum est supra. Ex eo autem quod deo producenti nihil est simile similitudine vera &amp; perfecta nisi dicto mo 
+        <lb ed="#Bb" n="30"/>do fuerit ex ipso: nequaquam sequitur seu excluditur quin deo producto puta filio &amp; spiritu sancto: simi 
+        <lb ed="#Bb" n="31"/>le possit esse dicto modo Deus producens, vt filio deus pater, &amp; spiritui sancto deus pater &amp; deus 
+        <lb ed="#Bb" n="32"/>filius. 
+      </p>
+      <p xml:id="vn58an-fe61063-d1e1143">
+        ⁋ Quod vero arguitur septimo &amp; vltimo, quod fundamenta tria trium relationum conmunium non se ha 
+        <lb ed="#Bb" n="33"/>bent vniformiter ad tres personas diuinas: quare nec ipsae relationes: Dico quod verum est secundum iam dicta 
+        <lb ed="#Bb" n="34"/>prout habent esse in illis vt in radice suorum fundamentorum existentium in illis. Sic enim identitas, aequa- 
+        <lb ed="#Bb" n="35"/>litas, &amp; similitudo, quemadmodum secundum fundamenta in patre habent esse ex se: in filio autem &amp; spiritus sancto 
+        <lb ed="#Bb" n="36"/>a patre: &amp; etiam in spiritu scton a filio. Prout vero habent esse in personis in propria forma relationis communis:  
+        <lb ed="#Bb" n="37"/>vniformiter habent esse in personis: nec aliquo modo existunt in vna personarum ex alia vel aliis: nec aliquo  
+        <lb ed="#Bb" n="38"/>ordine naturae existunt primo in vna quam in aliis aut in alia: licet fundamentaliter ordine naturae 
+        <lb ed="#Bb" n="39"/>fundamenta earum primo sint in vno, &amp; secundo in aliis: quia a prima persona est in secunda &amp; tertia. Et sic 
+        <lb ed="#Bb" n="40"/>in prima persona sunt relationes illae cones primo radicaliter: &amp; secundo in secundua persona, &amp; tertio in ter 
+        <lb ed="#Bb" n="41"/>tia. Licet etiam formaliter non statim existente prima existunt in illa identitas, aqualitas, &amp; similitudo eius 
+        <lb ed="#Bb" n="42"/>ad alias ex eo quod est prima: sed solummodo existente persona secunda: &amp; ex eo quod est secunda, vt iam dictum est su- 
+        <lb ed="#Bb" n="43"/>pra: non tamen aliquo modo est identitas, aequalitas, aut similitudo primo in secunda persona, &amp; secundo in prima 
+        <lb ed="#Bb" n="44"/>ab vtraque aliquo ordine naturae: aut aliter in secunda quam in prima: sed simul &amp; vniformiter in vtraque  
+        <lb ed="#Bb" n="45"/>Et sic de tertia respectu primae &amp; secundae. Licet enim (vt dictum est) radicaliter propter fudamenta non 
+        <lb ed="#Bb" n="46"/>habeant esse vniformiter in tribus personis: sed a persona prima in secunda: &amp; ab vtraque in tertia: &amp; sic or 
+        <lb ed="#Bb" n="47"/>dine quodam naturae penes primum &amp; secundum habent esse in personis: sicut &amp; illarum fudamenta: relatio- 
+        <lb ed="#Bb" n="48"/>nes tamen dictae fundatae in illis vt geminatis secundum rationem: secundum esse suum conpletum &amp; formale conside- 
+        <lb ed="#Bb" n="49"/>ratae non habent esse ordine naturae primo in vna, &amp; secundo in aliis: nec ab vna primo, &amp; deide ab aliis 
+        <lb ed="#Bb" n="50"/>sicut nec ipsa dualitas aut trinitas personarum. Et sic quamquam secundum dicta aspiciendo ad dictum ordinem na 
+        <lb ed="#Bb" n="51"/>turalem quo prima persona habet in se ex se illud vnum a quo causantur dictae relationes identitas, aequali- 
+        <lb ed="#Bb" n="52"/>tas, &amp; similitudo: &amp; aliae personae habent illud a prima, quoquo modo dictae relationes non sint vniformiter 
+        <lb ed="#Bb" n="53"/>in personis diuinis: vt propterea prima persona simpliciter possit dici eadem aequalis &amp; similis secundae personae &amp; tertiae 
+        <lb ed="#Bb" n="54"/>&amp; persona secunda &amp; tertia quoquo modo non simpliciter dicantur eaedem aequales &amp; similes primae: sed potius coeae- 
+        <lb ed="#Bb" n="55"/>dem coaequales &amp; consimiles: vt quasi per quandam imitationem identitatis, aequalitatis, &amp; similitudinis 
+   <!--469.xml-->
+        <pb ed="#Bb" n="227-v"/>
+        <lb ed="#Bb" n="1"/>existentium in prima persona intelliguntur identitas, aequalitas, &amp; similitudo esse in aliis: tamen aspi 
+        <lb ed="#Bb" n="2"/>ciendo ad complementum formale dictarum relationum: nulla difformitate aut ordine naturae ha 
+        <lb ed="#Bb" n="3"/>bent esse in tribus personis diuinis: quia quo ad huiusmodi complementum: nequaquam habet esse vna 
+        <lb ed="#Bb" n="4"/>dictarum relationum aliter in prima persona quam in aliis. Quo ad hoc enim relatiua sunt simul natura:  
+        <lb ed="#Bb" n="5"/>&amp; neutrum est causa alterius vt sit, sicut dicit philosophus in Praedicamentis. Et sic simile est quodammodo 
+        <lb ed="#Bb" n="6"/>de esse vniformi talium relationum in diuinis personis &amp; aeternitatis atque aliorum attributorum. 
+        <lb ed="#Bb" n="7"/>Aeternitas enim licet aeque primo &amp; omnino vniformiter conueniat tribus personis: per quandam 
+        <lb ed="#Bb" n="8"/>tamen appropriationem simpliciter dicitur esse in solo patre: coaeternitas vero &amp; quasi non simplici 
+        <lb ed="#Bb" n="9"/>ter aeternitas in filio &amp; spiritu sancto: &amp; sic de caeteris quae communiter dicuntur in tribus personis. Vnde  
+        <lb ed="#Bb" n="10"/>Augustinus. vi. de Trini. ca. vlti. exponens illud Hilarii. ii. de Trini. Aeternitas in patre. dicit 
+        <lb ed="#Bb" n="11"/>sic. Nonne esse consecutum arbitror in aeternitatis vocabulo: si quod pater non habet patrem de quo  
+        <lb ed="#Bb" n="12"/>sit: filius autem de patre est quod sit: atque coaeternus sit. Quod dicit infinuando quod filius quia per gene 
+        <lb ed="#Bb" n="13"/>rationem a patre accipit quod sit aeternus: idcirco non simpliciter aeternus: sed coaeternus illi dici 
+        <lb ed="#Bb" n="14"/>debeat: &amp; pater non coaeternus: quia aeternitatem a nullo accipit: sed simpliciter aeternus. Et per 
+        <lb ed="#Bb" n="15"/>eundem modum Pater simpliciter idem aequalis &amp; similis filio &amp; spiritui sancto debet dici: non autem  
+        <lb ed="#Bb" n="16"/>coidem coaequalis &amp; consimilis, &amp; econverso filius &amp; spiritus sanctus non simpliciter idem aequalis &amp; 
+        <lb ed="#Bb" n="17"/>similis patri: sed coidem coaequalis &amp; consimilis illi, quamquam ad excludendam omnem difformitatem 
+        <lb ed="#Bb" n="18"/>dictarum relationum conmunium in diuinis personis dicit Athanasius in Symbolo suo de singulis 
+        <lb ed="#Bb" n="19"/>diuinis personis. In hac trinitate nihil prius aut posterius: nihil magis aut minus: sed totae 
+        <lb ed="#Bb" n="20"/>tres personae coaeternae sibi sunt &amp; coaequales. Intellige &amp; easdem &amp; consimiles: quasi non solum 
+        <lb ed="#Bb" n="21"/>filius &amp; spiritus sanctus possint dici coaequales, coiidem, &amp; consimiles patri: sed etiam pater co- 
+        <lb ed="#Bb" n="22"/>aequalis illis, &amp; coidem, &amp; consimilis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

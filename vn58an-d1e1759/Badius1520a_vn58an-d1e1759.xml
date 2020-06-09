@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="138-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1759"> <!-- alias="vn58an-a24q3" -->
+      <head xml:id="vn58an-d1e1759-Hd1e104">Quaestio 3</head>
+      <head xml:id="vn58an-d1e1759-Hd1e107" type="question-title">Utrum eadem cognitione cognoscatur de Deo an sit et quid sit</head>
+      <p xml:id="vn58an-d1e1759-d1e110">
+        <lb ed="#Ba" n="51"/>Irca Tertium arguitur: quod non est eadem cognitio qua cognoscitur de deo si est &amp; quid  
+        <lb ed="#Ba" n="52"/>est. Primo sic: quoniam si ita esset: tunc cum certa cognitio &amp; deteriata potest haberi 
+        <lb ed="#Ba" n="53"/>de deo si est, vt habitum est supra: &amp; certa &amp; determinata potest de eo haberi co 
+        <lb ed="#Ba" n="54"/>gnitio quod est. consequens falsum est per Hu. vt supra. in quid an deum esse sit per se no 
+        <lb ed="#Ba" n="55"/>tum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1759-d1e123">
+        ⁋ Secundo sic. quorum cognitio est eadem, vnum non potest concipi a cogno  
+   <!--291.xml-->
+        <pb ed="#Ba" n="138-v"/>
+        <lb ed="#Ba" n="1"/>i 
+        <lb ed="#Ba" n="2"/>scente sine altero, essentia dei potest cogitari &amp; concipi non concipiendo ipsum esse, vt habitum est supra, er 
+        <lb ed="#Ba" n="3"/>go &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1759-d1e137">
+        ⁋ Contra. sicut vnumquodque se habet ad veritatem, &amp; ad cognitionem: sed eadem veritas omnino 
+        <lb ed="#Ba" n="4"/>indiuisa est ipsius si est &amp; quid est de deo: quia eius esse est eius quod est esse: quia essentia sua est 
+        <lb ed="#Ba" n="5"/>sua quiditas, vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1759-d1e144">
+        <lb ed="#Ba" n="6"/>⁋ Hic primo videndum est quid sciatur de re sciendo si est: &amp; quid sciendo quid est. aliter enim 
+        <lb ed="#Ba" n="7"/>non poterimus scire convenientiam &amp; differentiam ipsorum. Prius enim oportet aliqua cognoscere in se antequam  
+        <lb ed="#Ba" n="8"/>possit cognosci eorum convenientia aut dicituria inter se. Sciendum ergo primo de si est: &amp; similiter de quid est: quod  
+        <lb ed="#Ba" n="9"/>vtrumque vno modo est praecognitio. secundum quod philosophus deteriat de eis in principio primi Post. Alio vero modo est 
+        <lb ed="#Ba" n="10"/>quaestio. secundum quod deteriat de eis in prim. secundi Post. &amp; se habent quod est &amp; si est in omnibus suis acceptionibus adin  
+        <lb ed="#Ba" n="11"/>uicem secundum hunc ordinem. Quid est enim, praecognitio est nuda, &amp; simpliciter cognitio, &amp; intellectus confusus eius 
+        <lb ed="#Ba" n="12"/>quod significatur per nomen: nihil in significato nominis deiminando: neque quod sit eius quod est ens in rerum natura 
+        <lb ed="#Ba" n="13"/>neque quod sit non ens: sed solum quod de se sit conceptus aliquis: &amp; res non a ratitudine, sed a reor reris dicta:  
+        <lb ed="#Ba" n="14"/>quae ex sua intentione non deteriat aliquid esse essentiae, vel existentiae: neque non esse: sed se habet per idif- 
+        <lb ed="#Ba" n="15"/>ferentiam ad id quod purum nihil est: vt Hircoceruus vel Tragelaphus: &amp; quod est essentia &amp; natura aliqua  
+        <lb ed="#Ba" n="16"/>secundum quod supra expositum est. Et ideo ex cognitione eius quod quod est vt est praecognitio, solum quod dicitur per 
+        <lb ed="#Ba" n="17"/>nomen intelligere oportet. vt dicitur in princ. Poste. Et est primum quod per vocem apprehenditur: &amp; praecedens omnem aliam 
+        <lb ed="#Ba" n="18"/>notitiam, &amp; scientiam de re quacumque. Praecedit enim cognitionem de re significata si est aut non est: siue 
+        <lb ed="#Ba" n="19"/>quo ad esse essentiae: siue quo ad esse existentiae. Vnde cognitio eius quod quod est: cum est praecognitio, indiffe 
+        <lb ed="#Ba" n="20"/>renter se habet ad ens &amp; non ens, &amp; neutrum determinat. Significare enim per nomen est &amp; quae non sunt si 
+        <lb ed="#Ba" n="21"/>cut ea quae sunt. vt dicitur. ii. Poste. Vnde istud quod est: nihil aliud est quam ratio nominis: quid scilicet nomen signifi- 
+        <lb ed="#Ba" n="22"/>cet. Quo cognito statim de concepto in ratione nominis: vt quod nomen indicatiuum sit eius quod est aut homo 
+        <lb ed="#Ba" n="23"/>aut Tragelaphus: statim dubitat homo de eo quod ratio nominis de se non determinauit: videlicet si est 
+        <lb ed="#Ba" n="24"/>vel non est res scilicet aut natura aliqua quo ad esse essentiae: &amp; est prima dubitatio fundata super primum conce 
+        <lb ed="#Ba" n="25"/>ptum mentis quid est entis, in respectu ad suum contradictorium: quod est non ens: super quo fundatur prima communis ani 
+        <lb ed="#Ba" n="26"/>mi conceptio. De quolibet affirmatio vniversal negatio, &amp; non simul de eodem. Vnde philosophus. iiii. Met. &amp; Auic. 
+        <lb ed="#Ba" n="27"/>primo Meta. suae: disputant contra negantes hoc ex nominis significato: tamquam nihil aliud sit praecedens huiusmodi 
+        <lb ed="#Ba" n="28"/>principium in humnana cognitione: nisi deteriata nominis significatio &amp; cognitio eius quod quod est: quod dicitur per  
+        <lb ed="#Ba" n="29"/>nomen. Vnde dubitatio de re quaecumque an sit in esse essentiae natura aliqua: an non: debet deteriari in principio 
+        <lb ed="#Ba" n="30"/>cuiuslibet cognitionis scientialis. De quo enim habetur scientia, necesse est: scire quod est, quod enim non est, nullus scit, 
+        <lb ed="#Ba" n="31"/>vt dicitur in. ii. Post. Et est istd scire de primo &amp; simplicissimo conceptu incomplexo entis: quid natus est haberi 
+        <lb ed="#Ba" n="32"/>de eo quid scitur praecognitione eius quod dicitur per nonmem scilicet an ipsum sit res &amp; aliqua natura: quid est primus conceptus 
+        <lb ed="#Ba" n="33"/>simplicissimus: quia de esse absoluto simpliciter dicto non determinando circa ipsum hoc vel illud: siue in genere 
+        <lb ed="#Ba" n="34"/>siue in specie: quid statim, vt dicit Auic. i. Metaph. suae, prima imprssione in anima imprimitur: lta quod omnis alia 
+        <lb ed="#Ba" n="35"/>cognitio de re siue creati: siue increati: siue substantiae: siue accidentis: per additionem se habet ad istam- 
+        <lb ed="#Ba" n="36"/>sicut omnis alia intentio entis se habet per additionem ad esse: &amp; differens est ab illa vniversal secundum rationem: vel secundum 
+        <lb ed="#Ba" n="37"/>intentionem aliquam. Et ita sicut in praecognitione quod est, cognoscitur simpliciter quid dicitur per nomen: non deter 
+        <lb ed="#Ba" n="38"/>minando esse vel non esse: sic in cognitione de re si est incomplexum cognoscitur simpliciter esse de re intelle- 
+        <lb ed="#Ba" n="39"/>cta si est, non determinando circa ipsam an sit hoc vel illud, creator vel creatura, substantia aut ac 
+        <lb ed="#Ba" n="40"/>cidens. &amp; hoc est comprehendere esse de re sub illa ratione quae ens est subiectum metaph. cui quodam modo accidunt 
+        <lb ed="#Ba" n="41"/>substantia &amp; acens, sicut inferiora accidunt supioribus. &amp; vnivlrstlet illud dicitur accns rei, quod est ei adueniens 
+        <lb ed="#Ba" n="42"/>extra suam, propriam intentionem &amp; definitionem. secundum quod dicit <ref xml:id="vn58an-d1e1759-Rd1e226">
+        <name ref="#Avicenna">Auic.</name> in primo Metaph</ref>. De quibus tractatur in aliis 
+        <lb ed="#Ba" n="43"/>scientiis: sunt accntia in hac scientia: quoniam sunt dispositiones quae accidunt ad esse &amp; diuisiones eius. 
+        <lb ed="#Ba" n="44"/>Ens enim talis naturae est: quod praedicatur de omni: siue illud substantia sit: siue aliud. lpsa enim substantia ex hoc 
+        <lb ed="#Ba" n="45"/>quod est ens: nec est substantia: nec spa aliqua. Hic etiam dicit philosophus in. ii. Poster, quod sipnta non est esse simpliciter: sed  
+        <lb ed="#Ba" n="46"/>aliquod eorum quae sunt per se. Et nota quod l talis cognitio de esse sit prima in quaecumque re, respectu omnium aliarum  
+        <lb ed="#Ba" n="47"/>in eadem: ipsa tamen in vna re praecedit seipsam in alia re. Quaedam enim sunt ita prima quod non possunt noti- 
+        <lb ed="#Ba" n="48"/>ficari per alia esse. Alia vero sunt quorum esse per aliorum esse notificatur &amp; probatur. Cognitio de esse si est 
+        <lb ed="#Ba" n="49"/>circa illa quae sunt de primo modo, est praecognitio. Vnde de subiecto scientiae quod est primum in illo genere oportet 
+        <lb ed="#Ba" n="50"/>praecognoscere si est: vt dicitur primo Post. Circa illa vero quae sunt de secundo modo est quaestio: vt si est aut non 
+        <lb ed="#Ba" n="51"/>est Centaurus aut deus: sicut dicitur in principio secundi Post. Cognito autem si est incomplexo de eo quod prae 
+        <lb ed="#Ba" n="52"/>cognitione quod est intelligitur in nominis significato statim postquam de eo conceptum est, esse. dubitat homo 
+        <lb ed="#Ba" n="53"/>de eo quod est simpliciter conceptum non determinatum, dubitat inquam si est substantia vel accns: &amp; est dubi 
+        <lb ed="#Ba" n="54"/>tatio fundata super primam diuisionem esse, quoniam, vt dicit Aui. primo Metap. Quod prius est omnibus diuisionibus 
+        <lb ed="#Ba" n="55"/>eorum quae sunt per essentiam, est: quoniam esse duobus modis est. Vnus quidem est non esse in alio, vt in subiecto cuius estpers. 
+        <lb ed="#Ba" n="56"/>quod est substantiae. alius. dqu est esse in alio: vt in subiecto cuius est pers: &amp;e accntis, &amp; illud quod sic dubitatur, est id quod  
+   <!--292.xml-->
+        <pb ed="#Ba" n="139-r"/>
+        <lb ed="#Ba" n="1"/>quaeritur quaestione quod est: cuius cognitio anmquam possit haberi aut aggredi, necio praesupponit cognitionem 
+        <lb ed="#Ba" n="2"/>si est. Secundum quod dicitur i. ii. Post. Impossibile est scire quid est ignorantes si est: quia de eo quod non est non contigit scire 
+        <lb ed="#Ba" n="3"/>quid est. secundum quod dicit in eodem. Quid est Tragelaphus non contigit scire. Sed intelligendum quod scire si est, contigit 
+        <lb ed="#Ba" n="4"/>dupliciter de re aliqua: aut per cognitionem sui accuntis: quia ei quod non est nihil accidit: et ideo cognoscendo si est 
+        <lb ed="#Ba" n="5"/>de eo quod accns est: necimo scitur in generali quia est aliquid cui accidat: aut per indeteriatam &amp; confusam cognitionem 
+        <lb ed="#Ba" n="6"/>suae naturae: ad modum quo significatur ipso nomine quam deteriat ipsa cognitio quid est: quae exprimitur in definiti 
+        <lb ed="#Ba" n="7"/>ua ratione. De eodem enim sunt quaestio si est &amp; quid est: ad modum quo idem significant nomen &amp; definitiua ratio, vt 
+        <lb ed="#Ba" n="8"/>dicit philosophus in. viii. Met. sie diuersimode. Nomen enim quiddam indefinitum significat, vt circulus. Definitio ant 
+        <lb ed="#Ba" n="9"/>quae dicitur quod est sigura plana vnica linea contenta, diuiditur in singlaria id est in singulas partes rei definitae, vt dicitur in 
+        <lb ed="#Ba" n="10"/>pri. physicae. Scire si est de re primo modo est si est secundum accns, quod non est vere scire de re si est. Scire vero de ea si est 
+        <lb ed="#Ba" n="11"/>secundo modo: est scire de ea si est vere &amp; per se. Vnde postquam philosophus dixit in. ii. Post, quod impossibile est scire quid est igno 
+        <lb ed="#Ba" n="12"/>rantes si est: continuo adiuxit illos duos modos sciendi si est, cum dixit. Hoc ant si est alnm quidem secundum accns 
+        <lb ed="#Ba" n="13"/>hemmus: alum habentes quod ipsius rei. Per quod innuit quod cognitio si est vere &amp; per se, est quodam modo pers cognitionis 
+        <lb ed="#Ba" n="14"/>eius quod quid est: non ant cognitio eius quod est si est, secundum accns. de quo statim subiugit. Sed quaecumque secundum accns sci 
+        <lb ed="#Ba" n="15"/>mus quia sunt, nccem est nullo modo se hre ad quid est: quia nec quia sunt vere scimus. S quaecumque hememus per se quia sunt:  
+        <lb ed="#Ba" n="16"/>facile est de illis per si est inuestigare quid est: quia quantum de eis hemomus, quia est, tantum de eis hmemus quid est, habendo  
+        <lb ed="#Ba" n="17"/>scilicet ex si est, aliquid eius quod est quid est. est enim istud si est, aliqua portio eius quod quid est: quia est indeteriata cognitio generis 
+        <lb ed="#Ba" n="18"/>&amp; naturae rei: nec tamen cadit sub eo quod est quid est, quod distiguitur contra si est. Hoc enim quid est, est quaestio de natu 
+        <lb ed="#Ba" n="19"/>ra rei deteriata, vel secundum genus: et hoc quo ad incompletam cognitionem eius quod quid est: vel secundum definitiuam 
+        <lb ed="#Ba" n="20"/>rationem: &amp; hoc quo ad completam cognitionem eius quod quod est: in quae etiam cognoscendo quod quid est: complete co 
+        <lb ed="#Ba" n="21"/>gnoscitur si est: quod est quaestio de natura rei omnino indeteriata, est secundum genus generalissimum. Vnde sicut imperfecta &amp; in 
+        <lb ed="#Ba" n="22"/>determiata cognitio est principium cognitionis perfectae &amp; deteriatae: sic cognitio ex quaestione si est, est 
+        <lb ed="#Ba" n="23"/>principium cognitionis ex quaestione quod est. &amp; econverso sicut habita perfecta &amp; deteriata cognitione, perficitur 
+        <lb ed="#Ba" n="24"/>quocquid erat imperfectum in cognitione indeteriata, sic hinta cognitione perfecta ex quaestione quid est, hituer perfecta cogni 
+        <lb ed="#Ba" n="25"/>tio eius quod quaerit quaestio si est. Secundum quod docet Comm. cum dicit super cap de vacuo. Pricipium quaestionis per vtrum 
+        <lb ed="#Ba" n="26"/>simplex scilicet vtrum aliquid sit vel non, est exponere nomen per sermonem compositum ex alio quod est genus: &amp; alio 
+        <lb ed="#Ba" n="27"/>quod est dicituria: &amp; tunc vlterius inquirere vtrum sit genus eius quod positum est esse genus: &amp; vtrum sit dicituria eius quod ponitur 
+        <lb ed="#Ba" n="28"/>vt dicituria, quando autem sic esse inuenitur tunc scitur res illa esse. Si ant non inuenitur esse in aliquo genere: tunc scitur quia res non 
+        <lb ed="#Ba" n="29"/>est. &amp; sic perfecta ratio cognitionis ipsius si est: est cognitio eius quod est quod est. Et ideo dicit philosophus in. ii. Post. Scien 
+        <lb ed="#Ba" n="30"/>tes quia est quid sit quaerimus. Cam enim ipsius esse. Quod expressius repetit consequentur cum dicit. Sicut diximus: idem est sci 
+        <lb ed="#Ba" n="31"/>re &amp; quid est: &amp; scire cam ipsius si est. Et nota secundum praedicta de cognitione si est, quod quid est cum est de illis quae 
+        <lb ed="#Ba" n="32"/>sunt omnino prima in natura &amp; essentia sua: quae nec per alia habent probari aut notificari: tunc est praecogni 
+        <lb ed="#Ba" n="33"/>tio: secundum quod de subiecto scientiae oportet praecognoscere quid est, sicut si est. Cum vero est de illis quae non sunt 
+        <lb ed="#Ba" n="34"/>omnino prima in natura &amp; essentia sua, sed habent aliquo modo priora: quibus habent notificari: tunc est quaestio 
+        <lb ed="#Ba" n="35"/>secundum quod dicitur. ii. Poste. Eorum quae sunt: alia sunt sine medio: &amp; principia sunt: quae esse &amp; quid est supponere 
+        <lb ed="#Ba" n="36"/>oportet: Sed habentium medium quorum est quaedam altera cam, per demonstrationem onindere. Cognito autem de re 
+        <lb ed="#Ba" n="37"/>si est de incomplexo: et quod est definitiua ratione: restat dubitatio de si est complexo: vca de inhaeren- 
+        <lb ed="#Ba" n="38"/>tia rei ad rem: &amp; hoc vel essentiali: vt si homo est animal: si deus est bonus: vel accidentali: vt si homo est al- 
+        <lb ed="#Ba" n="39"/>bus vel non. Et differunt si est de incomplexo &amp; de complexo: quia si est de incomplexo, est de esse rei in se 
+        <lb ed="#Ba" n="40"/>quod est sua vera entitas. Si vero est de complexo: est de veritate compotenis: quae est diminuta rei entitas 
+        <lb ed="#Ba" n="41"/>apud animam. Et de isto si est complexo: sciendum quod in eis quae sunt prima &amp; per se nota est praecognitio, vt 
+        <lb ed="#Ba" n="42"/>quoniam omne aut affirmare, aut negare verum est: vt dicitur in principio Post. In eis autem quae non sunt prima nec 
+        <lb ed="#Ba" n="43"/>omnino per se nota, est quaestio quam philosophus in ii. Poste. appellat quaestionem quia est. Cum enim, vt dicit, vtrum aliquod  
+        <lb ed="#Ba" n="44"/>sit hoc aut hoc quaerimus in numerum ponentes: vt vtrum sol deficiat aut non: quia quaerimus. Inuenientes enim quia 
+        <lb ed="#Ba" n="45"/>deficit pausamus: &amp; si in principio sciremus quia deficeret, non quaereremus vtrum. Cum autem sciamus ipsum quia 
+        <lb ed="#Ba" n="46"/>ipsum propter quod quaerimus: vt scientes quia deficit, propter quoid deficit quaerimus: quo teriato finitur humanae inue- 
+        <lb ed="#Ba" n="47"/>stigationis sollicitudo. 
+      </p>
+      <p xml:id="vn58an-d1e1759-d1e369">
+        ⁋ His praelibatis dicendum ad propositum. cum quaeritur: vtrum eadem cognitione cognoscitur 
+        <lb ed="#Ba" n="48"/>de deo si est &amp; quid est: Sciendum quod cognitio cum sit quaedam assimilatio cognoscentis ad cognitum: quaestio de 
+        <lb ed="#Ba" n="49"/>identitate cognitionis praet intelligi vel ex parte cognoscentis, vel ex parte cogniti. Si ex parte cogniti: sic 
+        <lb ed="#Ba" n="50"/>non est dubium quin eadem cognitione vtrumque de deo cognoscitur: quia in deo quantum est ex parte sua dif 
+        <lb ed="#Ba" n="51"/>ferentiam nullam ponunt: sed si aliquam habeant differentiam, hoc est ex parte cognoscentis. Vnde ex par- 
+        <lb ed="#Ba" n="52"/>te cognoscentis solum habet locum quaestio: &amp; dicendum quod si quod est: est praecognitio: quod non eadem cognitio- 
+        <lb ed="#Ba" n="53"/>ne cognoscitur vtrumque de deo: quia bene contingit scire de deo quid dicitur &amp; intelligitur per no 
+        <lb ed="#Ba" n="54"/>men intellectu confuso &amp; indeterminato: non sciendo si sit deus: quocumque modo intelligatur si est praeco- 
+        <lb ed="#Ba" n="55"/>gnitio vel quaestio: siue de incomplexo siue de complexo: quia constat, vt dicit <name ref="#Augustine">Augustinus</name> i de doct. Christiana 
+   <!--293.xml-->
+        <pb ed="#Ba" n="139-v"/>
+        <lb ed="#Ba" n="1"/>quod omnes latinae linguae cum aures eorum sonus iste deus attigerit: mouet ad cogitandum excellentissi- 
+        <lb ed="#Ba" n="2"/>mam quandam naturam: qui tamen bene possunt dubitare an ipsa habeat esse siue in existentia actuali aut  
+        <lb ed="#Ba" n="3"/>in rerum natura: quia quaerens &amp; inuestigans ex creaturis ductu naturalis rationis, an deus habeat  
+        <lb ed="#Ba" n="4"/>esse vel in effectu: vel in rerum natura, necesse habet prius scire quid intelligitur hoc nomine deus. Ali 
+        <lb ed="#Ba" n="5"/>ter enim nesciret quando per rationem inueniret an ipse habeat esse, vt dictum est supra in quaestio- 
+        <lb ed="#Ba" n="6"/>ne: an contingit hominem scire ex creaturis deum esse. Vnde &amp; quod populares idololatrae ponebant 
+        <lb ed="#Ba" n="7"/>deum esse aliquid per essentiam &amp; in effectu: hoc non erat ex aliqua eorum scientia quam habebant de dei essen 
+        <lb ed="#Ba" n="8"/>tia: vel eius existentia: sed ex fide quam habebant philosophis: qui illud per rationes ex creaturis (vt habitum 
+        <lb ed="#Ba" n="9"/>est supra) de deo sciuerunt: a quibus etiam habebant notitiam eius quod dicitur per hoc nomen deus. Et 
+        <lb ed="#Ba" n="10"/>ideo in determinatione eius quod per nomen intellexerunt, errabant: cum vnusqusque eorum illud ponebat deum 
+        <lb ed="#Ba" n="11"/>est: quod caeteris anteposuit: quidam caelum: quidam solem: quidam lunam: &amp; sic diuersi diuersimode. vt dicit <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Ba" n="12"/>iii. de doc. Christana quod numquam fecissent, si aliquid de si est deus: vere sciuissent: quia quod diuinae naturae co 
+        <lb ed="#Ba" n="13"/>gnoscitur esse: non cognoscitur esse eius nisi cognoscendo ipsum excellere omne quid in creatura reperitur. Quod  
+        <lb ed="#Ba" n="14"/>quia bene nouerunt philosophi, etsi adorabant idola cum populo tamquam deos in templis: ostendebant tamen deos non 
+        <lb ed="#Ba" n="15"/>esse in suis scholis: negantes deos esse in scholis: quos sicut deos venerabantur in templis. vt dicit 
+        <lb ed="#Ba" n="16"/>Augustinus de vera reli. Si vero quid est sit quaestio: aut ergo est de natura dei in aliquo eius generali attri- 
+        <lb ed="#Ba" n="17"/>buto: &amp; hoc vel communi cum creaturis, quo intelligitur cognitione indistincta: vel sibi appropriato: 
+        <lb ed="#Ba" n="18"/>quo intelligitur cognitione distincta. secundum quod de his modis cognoscendi quod est deus, infra videbitur. aut 
+        <lb ed="#Ba" n="19"/>in particulari de illa singulari natura: in qua lucet veritas omnium attributorum. Si primo modo: tunc si 
+        <lb ed="#Ba" n="20"/>est: aut est de complexo, aut de incomplexo. Si de complexo: aut ergo possumus loqui de cognitione in  
+        <lb ed="#Ba" n="21"/>actu vel in habitu. Si de cognitione in actu: tunc dicendum quod non est eadem cognitio quae scitur de deo si est 
+        <lb ed="#Ba" n="22"/>&amp; quid est. Potest enim aliquis actuali cognitione concipere in aliquo generali attributo diuino id quod deus est: vel 
+        <lb ed="#Ba" n="23"/>cognitione indistincta: vt intelligendo bonum simpliciter: vel distincta, intelligendo bonum non participatum: sed  
+        <lb ed="#Ba" n="24"/>per essentiam bonum, vt supra expositum est: non concipiendo insimul inhaeretiam esse ad ipsum siue sim- 
+        <lb ed="#Ba" n="25"/>pliciter: siue in actuali existentia: vt habitum est supra. Si vero de cognitione in habitu: dicendum quod  
+        <lb ed="#Ba" n="26"/>est eadem cognitio omnino qua scitur de deo si est aliquid &amp; quid est. Si enim intelligens quod est deus, in eius 
+        <lb ed="#Ba" n="27"/>quantumcumque generali attributo aduertat de eius esse, impossibile est intelligere vel cogitare quid est deus 
+        <lb ed="#Ba" n="28"/>quin simul cogitaretur esse: quia praedicatum cogitatur in subiecto. &amp; secundum hoc deus non potest cogitari non 
+        <lb ed="#Ba" n="29"/>esse. vt infra dicetur. Cogitans enim bonum vel sapiens vel aliquod huiusmodi sub ratione qua convenit deo scilicet co- 
+        <lb ed="#Ba" n="30"/>gnitione distincta qua deo soli convenit illud concipiendo, cogitat sub ratione qua est bonum non parti- 
+        <lb ed="#Ba" n="31"/>cipatum: sed per essentiam: quae est suum esse &amp; sua existentia: &amp; quo maius excogitari non potest. vt habitum 
+        <lb ed="#Ba" n="32"/>est ex supra determinatis. Si vero quid est deus intelligatur in aliquo eius attributo generali cogni- 
+        <lb ed="#Ba" n="33"/>tione indistincta: qua etiam creaturae convenit, de qua infra dicetur: non oportet quod intelligens quod est deus, 
+        <lb ed="#Ba" n="34"/>intelligat eum esse: quia illud quod in ratione sua non includit esse. Si vero si est sit quaestio de incomplexo: &amp; 
+        <lb ed="#Ba" n="35"/>similiter quod est de natura dei in aliquo eius generali attributo: siue communi, siue appropriato: sic omnino  
+        <lb ed="#Ba" n="36"/>est eadem cognitio qua cognoscitur si est: &amp; quid est: quia omnino idipsum sunt in eo essentia &amp; esse. &amp; 
+        <lb ed="#Ba" n="37"/>sic non differt cognoscere si est &amp; quid est: nisi ratione tantum. sicut sola ratione differunt essentia &amp; esse 
+        <lb ed="#Ba" n="38"/>vt habitum est supra. Si vero quid est sit de natura determinata dei in particulari qua est ipsum esse 
+        <lb ed="#Ba" n="39"/>purum simplicissimum: in quo ratio omnium attributorum fundatur: tunc similiter distinguendum vt prius de 
+        <lb ed="#Ba" n="40"/>si est: quod potest esse de complexo vel de incomplexo. Si primo modo: dicendum quod non est eadem cognitio qua  
+        <lb ed="#Ba" n="41"/>de deo cognoscitur quod est &amp; si est: quia homo bene potest cognoscere certitudinaliter &amp; determinate 
+        <lb ed="#Ba" n="42"/>quia vera sit ista propositio qua dicitur deus est: cum tamen non sciat determinate &amp; in particulari na 
+        <lb ed="#Ba" n="43"/>turam ipsius dei quid sit. Illud enim bene potest scire homo ex puris naturalibus: istud autem non: nec in vita ista 
+        <lb ed="#Ba" n="44"/>nec ex gratia communi: vt habitum est supra. Si vero fuerit si est de incomplexo: aut ergo cognitio si 
+        <lb ed="#Ba" n="45"/>est de deo, habetur secundum accidens: aut per se. Primo modo non est eadem cognitio: quia ex creaturis potest 
+        <lb ed="#Ba" n="46"/>cognosci si est deus: nihil cognoscendo de eius quod est in natura sua particulari. Si secundo modo: sic penitus 
+        <lb ed="#Ba" n="47"/>est eadem cognitio: quia si est cognoscere de deo per se, non contingit nisi sciendo quid sit in particulari eius 
+        <lb ed="#Ba" n="48"/>natura: non in aliquo eius attributo. per attributa enim cognoscitur si est: non nisi secundum accidens: vt infra 
+        <lb ed="#Ba" n="49"/>dicendum est. Nec contigit cognoscere de deo in particulari quid sit: nisi simul cognoscendo quia est. Et sic 
+        <lb ed="#Ba" n="50"/>dicendum: quod multo efficacius cognoscendo quid est in particulari, cognoscitur si est incomplexum de deo: quam  
+        <lb ed="#Ba" n="51"/>cognoscendo quid est in aliquo generali eius attributo. 
+      </p>
+      <p xml:id="vn58an-d1e1759-d1e510">
+        ⁋ Per dicta patent obiecta. Primum enim argumen 
+        <lb ed="#Ba" n="52"/>tum solum probat quod cognitio si est deus de complexo &amp; quod in particulari non sunt eadem cognitio: quod bene 
+        <lb ed="#Ba" n="53"/>concessum est. 
+      </p>
+      <p xml:id="vn58an-d1e1759-d1e517">
+        ⁋ Consimiliter in eisdem membris processit secundum argumentum. 
+      </p>
+      <p xml:id="vn58an-d1e1759-d1e520">
+        ⁋ Tertium vero argu 
+        <lb ed="#Ba" n="54"/>mentum procedit de si est incomplexo: &amp; ipso quid quod quaestio est. Et bene concessum est quod in istis 
+        <lb ed="#Ba" n="55"/>membris eadem cognitione cognoscitur de deo si est &amp; quid est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 9</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 9</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="110-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1385"> <!-- alias="vn58an-a16q9" -->
+      <head xml:id="vn58an-d1e1385-Hd1e104">Quaestio 9</head>
+      <head xml:id="vn58an-d1e1385-Hd1e107" type="question-title">Utrum expositio investigata claro sermone proponenda sit</head>
+      <p xml:id="vn58an-d1e1385-d1e110">
+        <lb ed="#Ba" n="9"/>CIrca Nonum arguitur: quod expositio scripturae sermone obscuro proponenda est. 
+        <lb ed="#Ba" n="10"/>Primo sic. Sic sacra scriptura est exponenda vt impios lateat: quia non est sanctum 
+        <lb ed="#Ba" n="11"/>dandum canibus, quod non fit nisi sermone obscuro expositionem proponendo: vt ipsi 
+        <lb ed="#Ba" n="12"/>eam non intelligant. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1385-d1e121">
+        ⁋ Secundo sic. sic exponenda est scriptura ne vile 
+        <lb ed="#Ba" n="13"/>scat. sed expositio clara eam vilescere facit. Ob hoc enim claro sermone ipsa tra 
+        <lb ed="#Ba" n="14"/>dita non est: vt infra dicetur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1385-d1e129">
+        ⁋ In oppositum est,. quoniam si ad hoc scri 
+        <lb ed="#Ba" n="15"/>ptura principaliter exponitur vt intelligatur: sic maxime debet exponi: vt 
+        <lb ed="#Ba" n="16"/>maxime possit intelligi. Maxime autem intelligitur sermone claro. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1385-d1e136">
+        <lb ed="#Ba" n="17"/>⁋ Dicendum: quod expositores cuiusque scientiae non tam sibi laborant vt intellectum 
+        <lb ed="#Ba" n="18"/>in scripturis per expositiones suas editas memoriter habeant: quam aliis: vt quid non per se aut non fine 
+        <lb ed="#Ba" n="19"/>difficultate capere possent, per aliorum expositionem faciliter intelligant. Hoc autem non fieret, nisi ser- 
+        <lb ed="#Ba" n="20"/>mone suo claro expositionem proponerent: Expositio igitur bene edita quaecumque sit: non sermone obscuro 
+        <lb ed="#Ba" n="21"/>sed claro proponenda est: vt expositio vlteriori expositione non indigeat. Et hoc est quod <name ref="#Augustine">Augustinus</name> iiii. de 
+        <lb ed="#Ba" n="22"/>doct. Christiana contra eos quiputarent obscuro sermone a nobis celandos esse diuinos sermones (sicut 
+        <lb ed="#Ba" n="23"/>cut &amp; ab Academicis philosophici sermones obscuritatibus occultati sunt) dicit. Etsi nos de lris 
+        <lb ed="#Ba" n="24"/>eorum quae sine difficultate intelliguntur, nonnulla sumamus: tamen nequaquam putare debemus imitandos eos 
+        <lb ed="#Ba" n="25"/>nobis esse in his quae ad exercitandas &amp; elimandas quodam modo mentes legentium, &amp; ad rumpenda fastidia- 
+        <lb ed="#Ba" n="26"/>atque acuenda studia discere volentium: celandos quoque: siue vt ad pietatem convertantur: siue vt a my 
+        <lb ed="#Ba" n="27"/>steriis secludantur, animos impiorum vtili atque salubri obscuritate dixerunt. Sic quippe illi locuti 
+        <lb ed="#Ba" n="28"/>sunt: vt posteriores qui eos recte intelligerent &amp; exponerent, alteram gratiam disparem quidem veruntam sub 
+        <lb ed="#Ba" n="29"/>sequentem, in dei ecclesia reperirent. Non igitur ita expositores loqui debent tamquam seipsos exponendos 
+        <lb ed="#Ba" n="30"/>simili auctoritate proponant: sed in omnibus sermonibus suis vt intelligantur elaborent ea, quantum pos- 
+        <lb ed="#Ba" n="31"/>sunt, perspicuitate dicendi: vt aut multum tardus sit quid non intelligit: aut in rerum quaes explicare atque osten- 
+        <lb ed="#Ba" n="32"/>dere volumus difficultate ac subtilitate non in nostra locutione sit: qua minus tardius ve possit 
+        <lb ed="#Ba" n="33"/>intelligi. In libris autem quid ita scribuntur vt ipsi quodam modo lectorem teneant cum intelliguntur: cum non intelli 
+        <lb ed="#Ba" n="34"/>guntur, molesti non sunt volentibus legere. Et in collationibus patrum. Non est hoc officium deserendum: vt ve 
+        <lb ed="#Ba" n="35"/>ra quamuis ad intelligendum difficilia quae ipsi iam percepimus cum quantocumque labore dispotonnis ad aliorum intel 
+        <lb ed="#Ba" n="36"/>ligentiam perducamus. Et ex hoc contingit quod illa quae breuiter dicta sunt ab auctoribus, longos tracta- 
+        <lb ed="#Ba" n="37"/>tus habent in expositoribus. secundum quod dicit Aug. parte prima super Ion ser. xxxvii. Quae in sctom euangelio 
+        <lb ed="#Ba" n="38"/>breuiter dicuntur, non breuiter oportet exponi: vt quod auditur, intelligatur. Verba enim pauca sed  
+        <lb ed="#Ba" n="39"/>magna sunt, non numero aestimanda, sed pondere  
+      </p>
+      <p xml:id="vn58an-d1e1385-d1e192">
+        <lb ed="#Ba" n="40"/>⁋ Ad primum in oppositum: quod scriptura impiis est abscondenda: Dicendum quod verum est 
+        <lb ed="#Ba" n="41"/>subtrahendo eis expositionem &amp; verbo &amp; scripto: quod tamen exponitur propter pios erudiendos: siue ver 
+        <lb ed="#Ba" n="42"/>bo siue scripto, clarissimo sermone quantum possibile est: proponendum est. &amp; hoc quantum est ex parte 
+        <lb ed="#Ba" n="43"/>nostra: nisi forte generalis status pro tmpere repugnet: quia profundior expositio propter multitudinem in  
+        <lb ed="#Ba" n="44"/>capacium non expedit. Sed nec tunc profundior expositio omnino celanda est: sed in expositione obscuriori 
+        <lb ed="#Ba" n="45"/>aliqua indicia eius sunt exprimenda: per quae capaces superuenientes eam quoquo modo aduertere poterunt. 
+        <lb ed="#Ba" n="46"/>dicente Greg. Exo. xxxv. in Gl. Plerumque magistri signant: quod ab auctoribus capi non posse 
+        <lb ed="#Ba" n="47"/>considerant. 
+      </p>
+      <p xml:id="vn58an-d1e1385-d1e212">
+        ⁋ Ad secundum: quod clara expositione vilesceret: Dicendum quod non est verum: immo eam magis de 
+        <lb ed="#Ba" n="48"/>siderabilem faceret, viso quod sub simplici &amp; obscuro sermone latet profundissima intelligentia. In sola 
+        <lb ed="#Ba" n="49"/>enim prima scientiae editione sua, solet scientia propter nimiam claritatem suam vilescere: nec diligentia ei ape  
+        <lb ed="#Ba" n="50"/>poni. Propter quod ista scientia ab initio in multis obscure tradita est: intermixtis est quibusdam claris: qui 
+        <lb ed="#Ba" n="51"/>bus obscura patescunt: quae cum primo obscure sunt tradita ne vilescant: &amp; postmodum clarissime ex 
+        <lb ed="#Ba" n="52"/>posita, summe delectant. Et hoc est quod <name ref="#Augustine">Augustinus</name> ii. de doi. chrili. loquens de sacra scriptura dicit: quod legen 
+        <lb ed="#Ba" n="53"/>tes nihil aliud appetunt, quam cognitiones voluntatesque eorum a quibus conscripta est: &amp; per illas voluntatem 
+        <lb ed="#Ba" n="54"/>dei: secundum quam tales homines locutos credimus: sed multis &amp; multiplicibus obscuritatibus &amp; ambi 
+   <!--236.xml-->
+        <pb ed="#Ba" n="111-r"/>
+        <lb ed="#Ba" n="1"/>guitatibus obscure dicta: densissima caligine obducunt. Quod totum prouisum diuinitus non dubito 
+        <lb ed="#Ba" n="2"/>ad edomandam labore superbiam, &amp; intellectum a fastidio reuocandum, cui facile inuestigata plerumque vi 
+        <lb ed="#Ba" n="3"/>lescunt. Quid enim est quaeso, quod si quis dicat sanctos esse homines atque perfectos, quorum vita &amp; moribus 
+        <lb ed="#Ba" n="4"/>Christi ecclesia de quibuslibet superstitionibus praescidit eos quid ad se veniunt, &amp; imitatione bonorum sibimet 
+        <lb ed="#Ba" n="5"/>quoque incorporat: quid boni fideles &amp; veri serui dei deponentes onera seculi ad sanctum baptismi la 
+        <lb ed="#Ba" n="6"/>uacrum venerunt: atque inde ascendentes conceptione spiritus sancti fructum dant geminae charitatis scilicet dei 
+        <lb ed="#Ba" n="7"/>&amp; proximi: Quid est ergo quod si quis hoc dicat minus delectat auditum: quam si ad eum sensum locum illum 
+        <lb ed="#Ba" n="8"/>exponat de Canticis Canticorum: vbi dictum est ecclesiae, cum tamquam pulchra quaedam foemina laudaretur: Den- 
+        <lb ed="#Ba" n="9"/>tes tui tamquam grex tonsarum ascendens de lauacro &amp;c: non aliud habebit quam cum illud planissimis verbis 
+        <lb ed="#Ba" n="10"/>sine similitudinis huius adminiculo audiret, &amp; tamen nescio quam suauius intueor sanctos: cum eos quasi 
+        <lb ed="#Ba" n="11"/>dentes ecclesiae video praescindere ab erroribus homines, atque in eius corpus emollita duritia quasi demor 
+        <lb ed="#Ba" n="12"/>sos mansosque transferre: oues etiam iocundissime agnosco: detonsas omnibus secularibus tamquam velleribus po- 
+        <lb ed="#Ba" n="13"/>sitis: &amp; ascendentes de lauacro id ist de baptismate creare geminos, duo videlicet praecepta dilectionis:  
+        <lb ed="#Ba" n="14"/>&amp; nullam esse ab isto sancto fructu sterilem video. Sed quare suauius videam: quam si nulla de diuinis 
+        <lb ed="#Ba" n="15"/>libris talis similitudo promeretur: cum res eadem sit: sitque eadem cognitio, difficile est dicere. Nunc tamen nemo 
+        <lb ed="#Ba" n="16"/>ambigit: &amp; per similitudines libentius quaeque cognosci: &amp; cum aliqua difficultate quasita multo gratius 
+        <lb ed="#Ba" n="17"/>inueniri. Qui enim prorsus non inueniunt quod quaerunt, fame laborant: qui autem quod quirunt in promptu inue- 
+        <lb ed="#Ba" n="18"/>niunt, fastidio marcescunt. In vtroque autem lamguor cauendus est. Magnifice igitur &amp; salubriter spiritus sctuns 
+        <lb ed="#Ba" n="19"/>ita scripturas sanctas modificauit: vt locis apertioribus fatuis occurreret: obscurioribus autem fasti 
+        <lb ed="#Ba" n="20"/>dia detergeret. nihil enim fere de illis obscuritatibus eruitur: quod non planissime alibi dictum repeiatur. 
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

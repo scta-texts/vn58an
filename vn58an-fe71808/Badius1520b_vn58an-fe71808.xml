@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="262-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe71808"> <!-- alias="vn58an-a72q5" -->
+      <head xml:id="vn58an-fe71808-Hd1e104">Quaestio 5</head>
+      <p xml:id="vn58an-fe71808-d1e107">
+        <lb ed="#Bb" n="37"/>CIrca quintum arguitur quod vnum &amp; idem commune potest pluribus personis ap-  
+        <lb ed="#Bb" n="38"/>propriari, Primo sic. sicut de ratione aeternitatis est quod caret principio: ita de ratio- 
+        <lb ed="#Bb" n="39"/>ne eius est quod caret termino. sed quantum conuenit cum proprio patris inquantum 
+        <lb ed="#Bb" n="40"/>ipse caret principio: quia non est ab alio pater: tantum convenit cum spiritu sancto 
+        <lb ed="#Bb" n="41"/>inquantum ipse caret termino, quia in diuinis a spiritu sancto non est alius. aeter 
+        <lb ed="#Bb" n="42"/>nitas ergo non est plus approprianda patri quam spiritui sancto: &amp; sic aut neutri aut 
+        <lb ed="#Bb" n="43"/>a ambobus, non neutri, quia vt dictum est secundum Hila. aeternitas appropriatur patri. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe71808-d1e125">
+        ⁋ Se 
+        <lb ed="#Bb" n="44"/>cundo sic. <ref xml:id="vn58an-fe71808-Rd1e129">
+        <name ref="#Augustine">Augustinus</name> dicit. vi. de triniitate. ca. v</ref>. Spiritus sanctus siue sit vnitas amborum, siue sancti- 
+        <lb ed="#Bb" n="45"/>tas, siue charitas, siue ideo vnitas quia charitas, &amp; ideo charitas quia sanctitas, manifestum est quod non 
+        <lb ed="#Bb" n="46"/>aliquis duorum est. igitur secundum <name ref="#Augustine">Augustinus</name> Spiritus sanctus aut est vnitas quae est ratio distincta contra 
+        <lb ed="#Bb" n="47"/>charitatem: aut ipsa charitas est: &amp; vtroque modo sequitur quod spiritus sanctus vnitas sit: &amp; hoc non nisi 
+        <lb ed="#Bb" n="48"/>appropriate: quae etiam appropriatur patri. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe71808-d1e148">
+        ⁋ Tertio sic, proprietas communis patris &amp; filii est con 
+        <lb ed="#Bb" n="49"/>cordi voluntate spirare spiritum sanctum, vt habitum est supra. cui summe assimilatur pax siue concordia 
+        <lb ed="#Bb" n="50"/>quae est communis personis diuinis, quare pax &amp; concordia communiter patri &amp; filio appropriantur respe 
+        <lb ed="#Bb" n="51"/>ctu spiritus sancti. &amp; tamen spiritus sanctus appropriatur secundum <name ref="#Augustine">Augustinus</name> in praecedenti quaestione. ergo &amp;c. 
+        <lb ed="#Bb" n="52"/>
+      </p>
+      <p xml:id="vn58an-fe71808-d1e163">
+        ⁋ Contra. secundum praedicta non est appropriatio communis nisi propter maiorem similitudinem eius ad pro  
+        <lb ed="#Bb" n="53"/>prium eius cui appropriatur quam ad proprium alterius. sed ratio cuiuslibet communis cum sit simplex &amp; vni 
+        <lb ed="#Bb" n="54"/>ca, non potest secundum magis similitudinem habere ad plura diuersimode: eo quod nihil diuersimode 
+        <lb ed="#Bb" n="55"/>potest vno modo maiorem similitudinem habere vicissim modo cum vno modo cum alio, nisi sit in 
+   <!--540.xml-->
+        <pb ed="#Bb" n="263-r"/>
+        <lb ed="#Bb" n="1"/>ipsa multiplex ratio, ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe71808-d1e179">
+        <lb ed="#Bb" n="2"/>⁋ Dico quod idem pluribus appropriari potest intelligi dupliciter. Vno mododo inquam 
+        <lb ed="#Bb" n="3"/>tum plures, &amp; omnino secundum propria distincti sunt. Alio modo inquantum in vno communi con 
+        <lb ed="#Bb" n="4"/>currunt, quemadmodum pater &amp; filius concurrunt in vna vi spiratiua, &amp; sunt vnum principium spi 
+        <lb ed="#Bb" n="5"/>ritus sancti. Et secundum primum modum intelligendi quaestionem, quaestio proprie habet locum, non  
+        <lb ed="#Bb" n="6"/>autem penes secundum. Non enim solet appellari appropriatio in diuinis nisi quae fit vni soli per- 
+        <lb ed="#Bb" n="7"/>sonae respectu aliarum duarum: non autem quae sit duabus respectu tertiae. Nullum enim video incon 
+        <lb ed="#Bb" n="8"/>ueniens si propter maiorem similitudinem ad proprium commune ( vt ita loquar) duobus, scilicet 
+        <lb ed="#Bb" n="9"/>patri &amp; filio respectu spiritus sancti, quam ad proprium quod conuenit soli patri, aut soli filio, aut soli spi- 
+        <lb ed="#Bb" n="10"/>ritui sancto: aliquod commune tribus personis approprietur patri &amp; filio communiter, puta concor- 
+        <lb ed="#Bb" n="11"/>dia passiue dicta, quae idem est quod pax &amp; tranquillitas inter se concordantium, quae communis est tri 
+        <lb ed="#Bb" n="12"/>bus personis diuinis. Quaelibet enim illarum pacem &amp; concordiam habet summam cum vtraque alia-  
+        <lb ed="#Bb" n="13"/>rum, sed appropriatur communiter patri &amp; filio respectu spiritus sancti, quia assimilatur communi 
+        <lb ed="#Bb" n="14"/>proprio illorum, vt procedit tertia obiectio: quae secundum hoc concedenda est. Concordia autem 
+        <lb ed="#Bb" n="15"/>actiue dicta qua quaelibet personarum alteram singulam sibi concordat, appropriatur spiritui sancto 
+        <lb ed="#Bb" n="16"/>quia similatur proprio spiritus sancti, quo ex ratione modi procedendi sui proprium est ei quod sit ne 
+        <lb ed="#Bb" n="17"/>xus, secundum superius determinata. Et quia maxima est similitudo inter nexum &amp; talem concor 
+        <lb ed="#Bb" n="18"/>diam, aliquando nexus licet sit proprium, sumitur pro concordia quae est appropriata spiritui san 
+        <lb ed="#Bb" n="19"/>cto. vt vbi dicit <ref xml:id="vn58an-fe71808-Rd1e220">
+        <name ref="#Augustine">Augustinus</name> ii de doc. Christiana. cap. iiii.</ref> In patre vnitas, in filio aequalitas, in spiritu san- 
+        <lb ed="#Bb" n="20"/>cto vnitatis aequalitatisque concordia. Et sequitur continuo. Tria haec vnum omnia propter patrem, 
+        <lb ed="#Bb" n="21"/>aequalia omnia propter filium, connexa omnia propter spiritum sanctum, quod expositum est in praecedenti quae  
+        <lb ed="#Bb" n="22"/>stione. 
+      </p>
+      <p xml:id="vn58an-fe71808-d1e233">
+        ⁋ Secundum primum ergo &amp; principalem modum intelligendi quaestionem respondens dico 
+        <lb ed="#Bb" n="23"/>quod duplex est appropriatio: vna proprie, alia improprie. Proprie autem est appropriatio quando aliquod con- 
+        <lb ed="#Bb" n="24"/>mune ex se absque omni adiuncto ad supponendum determinate pro aliqua trium personarum de- 
+        <lb ed="#Bb" n="25"/>terminatur in aliqua locutione, ita quod pro nulla aliarum, puta cum dicitur Apostolus dixit, hic intel- 
+        <lb ed="#Bb" n="26"/>ligitur Paulus. Improprie autem est appropriatio quando aliquod commune non ex se, sed ex adiuncto ad 
+        <lb ed="#Bb" n="27"/>supponendum determinate pro aliqua personarum in aliqua locutione determinatur, ita quod pro nul- 
+        <lb ed="#Bb" n="28"/>la aliarum. Quod sit quadrupliciter: aut per determinationem, aut per praedicationem, aut per constructio- 
+        <lb ed="#Bb" n="29"/>nem, aut per ordinem. Per determinationem, contrahentem scilicet commune ad proprium, vt cum 
+        <lb ed="#Bb" n="30"/>dicitur sapientia ingenita, ly sapientiam non proprie appropriatur patri per adiunctum quod est inge- 
+        <lb ed="#Bb" n="31"/>nita: sed potius appropriatur quia vna persona proprietate distincta per illa duo circumlcquitur. 
+        <lb ed="#Bb" n="32"/>Per praedicationem, scilicet per praedicatum quod vni soli personae ascribitur, vt cum dicitur Deus est in-  
+        <lb ed="#Bb" n="33"/>carnatus, intelligitur deus filius, quia incarnatio conuenit soli filio. Et per hunc modum cum di- 
+        <lb ed="#Bb" n="34"/>citur: Moyses dixit Exo. iii. Sic dices filiis lfrael, qui est misit me ad vos, quia missio prophetarum 
+        <lb ed="#Bb" n="35"/>sicut &amp; legis datio intelligitur facta fuisse a filio, per ly qui est, intelligitur filius loqui. Si enim prae 
+        <lb ed="#Bb" n="36"/>dicaretur verbum indifferens ad quamlibet trium personarum: nulli appropriaretur sed supponeret 
+        <lb ed="#Bb" n="37"/>pro tota trinitate, dicendo sic. Sic dices filiis lsrael. Qui creauit omnia misit me ad vos. Per con- 
+        <lb ed="#Bb" n="38"/>structionem vero sit appropriatio, vt cum dicitur virtus dei. Licet enim virtus siue potentia per 
+        <lb ed="#Bb" n="39"/>se posita approprietur patri, vt cum dicitur Luc. i. Eecit mihi magna qui potens est, idest deus pa- 
+        <lb ed="#Bb" n="40"/>ter, tamen in constructione passiua cum illo genitiuo dei supponit pro solo filio, &amp; ly dei pro solo 
+        <lb ed="#Bb" n="41"/>patre. Et super illud Genetur. xlix. Sedit in forti arcus eius. Glos. In patre: cuius virtute omnis nequi- 
+        <lb ed="#Bb" n="42"/>tia occiditur. Et super illo quid statim sequitur. Per manum potentis lacob. Glos. Dei patris, in quem cre 
+        <lb ed="#Bb" n="43"/>didit lacob. Quandoque tamen talia dicta glossae appropriant filio ex aliquibus circunstantiis literae. 
+        <lb ed="#Bb" n="44"/>Vnde super illud Sedit in forti, alia glossa. Idest in Christo. Et super illud Qui potens est, glossa. Qui 
+        <lb ed="#Bb" n="45"/>in me carnem sumpsit. Vtroque enim modo ex adiuncto, scilicet constructione &amp; praedicatione vir- 
+        <lb ed="#Bb" n="46"/>tus siue potentia appropriatur spiritui sancto. vt <ref xml:id="vn58an-fe71808-Rd1e287">Luc. i.</ref> Virtus altissimi obumbrabit tibi. Licet enim 
+        <lb ed="#Bb" n="47"/>virtus per se positum approprietur patri soli, &amp; cum genitiuo dei soli filio: tamen ex adiuncto cum 
+        <lb ed="#Bb" n="48"/>genitiuo praedicto quid soli spiritui sancto ascribitur, quod est obumbrabit, appropriatur spiritui sancto 
+        <lb ed="#Bb" n="49"/>Vnde glossa ibidem. Spiritus nominatur virtus altissimi. Et communiter ly altissimi appropriatur 
+        <lb ed="#Bb" n="50"/>patri &amp; filio, &amp; supponit pro ipsis, quia spiritus sanctus est virtus communiter procedens ex ipsis. 
+        <lb ed="#Bb" n="51"/>Per ordinem autem sit appropriatio, vt cum dicitur in <ref xml:id="vn58an-fe71808-Rd1e301">Psal. lxvi.</ref> Benedicat nos deus deus noster: 
+        <lb ed="#Bb" n="52"/>penedicat nos deus. Ratione enim ordinis primum deus supponit pro patre, &amp; illi appropriatur: se 
+        <lb ed="#Bb" n="53"/>cundum pro filio: tertium pro spiritu sancto, &amp; appropriatur eisdem. Hinc dicit Glossa super illud  
+        <lb ed="#Bb" n="54"/>verbum. Benedicat nos deus. Pater. Deus noster, filius. Benedicat nos deus. spiritus sanctus. Per hoc 
+   <!--541.xml-->
+        <pb ed="#Bb" n="263-v"/>
+        <lb ed="#Bb" n="1"/>enim quod ter dicit deus, notatur trinitas personarum. Ex ordinatione vero &amp; praedicatione simul sit 
+        <lb ed="#Bb" n="2"/>appropriatio duabus personis cum dicitur in <ref xml:id="vn58an-fe71808-Rd1e319">Psal. cix.</ref> Dixit dominus domino meo &amp;c. Glos. Domi 
+        <lb ed="#Bb" n="3"/>nus, pater. Dixit domino meo scilicet filio. Sede &amp;c. Hic humanitatis indicium est. 
+      </p>
+      <p xml:id="vn58an-fe71808-d1e325">
+        ⁋ Dico ergo distinguendo  
+        <lb ed="#Bb" n="4"/>appropriationem in illam quae est proprie dicta, &amp; in illam quae est improprie dicta, quod loquendo de ap  
+        <lb ed="#Bb" n="5"/>propriatione proprie dicta, nunquam idem commune pluribus appropriari potest, vt probat bene vlti 
+        <lb ed="#Bb" n="6"/>ma ratio: &amp; causam illi us explicat. Sed si quod vni personae est appropriabile propria appropriatione &amp; ex se 
+        <lb ed="#Bb" n="7"/>&amp; secundum se, approprietur alteri: hoc non est nisi ex appropriatione improprie dicta: quae est ex ali 
+        <lb ed="#Bb" n="8"/>quo adiuncto aliquo dictorum modorum quatuor, diuisim vel coniunctim: inter quos illa appropriatio 
+        <lb ed="#Bb" n="9"/>quae est per determinationem contrahentem commune ad proprium, maxime improprie est appropriatio: 
+        <lb ed="#Bb" n="10"/>quia in illo modo cone non manet commune sicut manet in aliis modis: sed sit proprium amissa ratione communis. 
+        <lb ed="#Bb" n="11"/>
+      </p>
+      <p xml:id="vn58an-fe71808-d1e345">
+        ⁋ Quia arguitur primo in contrarium de aeternitate, quod sit appropriabilis spiritum san- 
+        <lb ed="#Bb" n="12"/>to: quia non habet terminum alicuius productionis a se procedentis: sicut nec aeternitas habet terminum 
+        <lb ed="#Bb" n="13"/>durationis: quemadmodum appropriatur patri quia non habet principium a quo, sicut aeternitas non 
+        <lb ed="#Bb" n="14"/>habet durationis initium: Dico quod non est ita: nec est simile: quia commune appropriabile non est se- 
+        <lb ed="#Bb" n="15"/>cundum dicta, nisi per similitudinem eius ad proprium illius cui debet appropriari. Nunc autem ad pro  
+        <lb ed="#Bb" n="16"/>prium &amp; ad notionem pertinentem ad dignitatem pertinet quod pater non est ab alio principio. Ad di 
+        <lb ed="#Bb" n="17"/>pnitatem autem spiritus sancti non pertinet quod ab ipso non sit alius, vt superius determinatum est. 
+        <lb ed="#Bb" n="18"/>Propter quod per similitudinem ad non habere terminum in spiritu sancto, illi non potest appro- 
+        <lb ed="#Bb" n="19"/>priari aeternitas: sicut appropriatur patri per similitudinem ad non habere principium in patre. 
+        <lb ed="#Bb" n="20"/>
+      </p>
+      <p xml:id="vn58an-fe71808-d1e367">
+        ⁋ Ad secundum quod vnitas quae appropriatur patri etiam appropriatur spiritui sancto: Dico quod falsum 
+        <lb ed="#Bb" n="21"/>est. Ad probationem eius, quod secundum <name ref="#Augustine">Augustinus</name> spiritus sanctus appropriate vnitas est: Dico quod verum 
+        <lb ed="#Bb" n="22"/>est: sed in alia significatione vnitatis. Est enim quaedam vnitas singularitatis qua secundum superius 
+        <lb ed="#Bb" n="23"/>de relationibus communibus determinata intelligitur vnum quod simpliciter &amp; absolute dicitur vnu. 
+        <lb ed="#Bb" n="24"/>Et consistit haec vnitas in simplici &amp; omnino absoluto: &amp; ista est quae in diuinis communis est: &amp; ap  
+        <lb ed="#Bb" n="25"/>propriatur soli patri secundum dictum modum. Alia vero est vnitas vnionis quae consistit in qua  
+        <lb ed="#Bb" n="26"/>dam vnione plurium inter se: quae etiam est communis in diuinis: &amp; appropriatur spiritui sancto:  
+        <lb ed="#Bb" n="27"/>sicut &amp; concordia. Vnde post posita in argumento continue adiungit Augustinus, vt repetendo si 
+        <lb ed="#Bb" n="28"/>nem illius dicamus secundum ipsum. Manifestum est quod non est aliquis duorum (scilicet pater autem  
+        <lb ed="#Bb" n="29"/>filius) id quo vterque coniungitur: quo genitus a gignente diligitur, genitoremque suum diligit: 
+        <lb ed="#Bb" n="30"/>suntque non participatione sed essentia sua, neque dono superioris alicuius sed suo proprio seruantes 
+        <lb ed="#Bb" n="31"/>vnitatem spiritus in vinculo pacis: quod imitari per gratiam: &amp; ad deum &amp; ad nos ipsos nitemur. &amp; in  
+        <lb ed="#Bb" n="32"/>fra post modicum. Spiritus ergo sanctus commune aliquid est patris &amp; filii: &amp;c. vt supra in vlti- 
+        <lb ed="#Bb" n="33"/>mo argumento quaestionis immediate praecedentis.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

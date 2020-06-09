@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="47-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe12816"> <!-- alias="vn58an-a50q1" -->
+      <head xml:id="vn58an-fe12816-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe12816-d1e107">
+        <lb ed="#Bb" n="15"/>CIrca Primum arguitur, quod in deo sit ponere affectio 
+        <lb ed="#Bb" n="16"/>nem. Primo sic. in quo est ponere principium, &amp; prin 
+        <lb ed="#Bb" n="17"/>cipiatum. Amor autem est principium &amp; origo omnium 
+        <lb ed="#Bb" n="18"/>affectionum: quia omnis affectio aut est circa bonum 
+        <lb ed="#Bb" n="19"/>vel iam habitum, vt gaudium, delectatio, &amp; huiusmodi, aut  
+        <lb ed="#Bb" n="20"/>circa adipiscendum, vt spes, aut circa malum iam habi 
+        <lb ed="#Bb" n="21"/>tum, vt dolor vel tristitia, aut circa expectatum, vt timor. &amp; circa ambo non est affectio nisi ex amore,  
+        <lb ed="#Bb" n="22"/>quia non possidetur bonum, neque expectatur nisi ex amore: quia propriunem obiectum: nec detestatur aliquis malum ha 
+        <lb ed="#Bb" n="23"/>bitum, nec refugit expectatum nisi ex amore boni contrarii habiti vel expectati vniversali deperditi. amor autem 
+        <lb ed="#Bb" n="24"/>habet esse in deo, vt habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe12816-d1e131">
+        ⁋ Secundo sic. quid voluntatem expedit in sua actione 
+        <lb ed="#Bb" n="25"/>ponendum est esse in deo: quia ipse habet voluntatem summe expeditam. affectio est huiusmodi: quia 
+        <lb ed="#Bb" n="26"/>in idem tendit cum voluntate recta. Vult enim punire iratus quod vult punire rectus iudex. ergo &amp;c. 
+        <lb ed="#Bb" n="27"/>
+      </p>
+      <p xml:id="vn58an-fe12816-d1e140">
+        ⁋ In contrarium est: quoniam affectiones omnes, passiones sunt absolute: qualem non est ponere in  
+        <lb ed="#Bb" n="28"/>deo secundum superius determinata. ergo &amp;c. 
+        <lb ed="#Bb" n="29"/>
+      </p>
+      <p xml:id="vn58an-fe12816-d1e148">
+        ⁋ Dicendum ad hoc, quod omnis affectio in creaturis siue naturalis siue animalis siue 
+        <lb ed="#Bb" n="30"/>ationalis de genere qualitatis est in tertia specie qualitatis: quia passio dicitur vel passibilis 
+        <lb ed="#Bb" n="31"/>qualitas. Et hoc quia est causatiua passionis de praedicamento passionis, vel causata ab illa vel media 
+        <lb ed="#Bb" n="32"/>te vel immediate: &amp; hoc vel large accepto nomine passionis ad illam quae est salus &amp; receptio, quae est in na 
+        <lb ed="#Bb" n="33"/>tura rei, &amp; per affectionem: vel stricte ad illam quae est abiectio secundum contrarias dispositiones. Et secundum ra 
+        <lb ed="#Bb" n="34"/>tionem nominis dicitur affectio quasi affixio. Et est aduertendum, quod affectio dupliciter potest significari: &amp; hoc 
+        <lb ed="#Bb" n="35"/>vel per modum habitus, vel per modum fieri: &amp; in vtroque modo dupliciter, vel vt firma &amp; de difficili mobi 
+        <lb ed="#Bb" n="36"/>lis: vel vt cito transiens, &amp; de facili mobilis. Affectio significata per modum habitus est vt disposi- 
+        <lb ed="#Bb" n="37"/>tio irrationabilitatis, &amp; verecundiae, &amp; huiusmodi, quae disponunt ad affectiones significatas per modum fie 
+        <lb ed="#Bb" n="38"/>ri: vt sunt irasci, verecundari, &amp; huiusmodi, quae cum sint innatae aut confirmatae quasi innatae ne de facili amo 
+        <lb ed="#Bb" n="39"/>ueantur, cum sunt significatae per modum habitus, neque de facili cessant cum significantur per modum fieri: 
+        <lb ed="#Bb" n="40"/>tunc dicuntur passibiles qualitates. Cum vero insunt a causa transeunte cito, &amp; de facili amouentur cum 
+        <lb ed="#Bb" n="41"/>significantur per modum habitus, nec de facili, neque cito cessant, cum significantur per modum fieri: tunc dicuntur 
+        <lb ed="#Bb" n="42"/>passiones, non passiones de praedicamento passionis: quia illa passio fundatur cum actione in eodem motu aut  
+        <lb ed="#Bb" n="43"/>mutatione siue aliquo se habente per modum alicuius cuius esse consistit in transitu &amp; fieri quid termi 
+        <lb ed="#Bb" n="44"/>natur ad aliquid, vt ad substantiam, quaelitatem, quantitatem, aut vbi, ita quod actio &amp; passio in essentia illius con 
+        <lb ed="#Bb" n="45"/>munis non dicunt nisi diuersos respectus secundum supius determinata: ita etiam quod numquam est passio parti- 
+        <lb ed="#Bb" n="46"/>nens ad praedicamentum passionis sine actione, &amp; econverso, siue large, siue stricte sumantur. Affectiones 
+        <lb ed="#Bb" n="47"/>autem non sunt motus, aut mutationes, aut aliquid existens in fluxu aut transitu, neque dicunt respectus fun 
+        <lb ed="#Bb" n="48"/>datos in tali aliquo: sed dicunt aliquod absolutum cuius esse consistit in facto esse vt per se causatum per mo 
+        <lb ed="#Bb" n="49"/>tum aut mutationem, vt sunt affectiones significatae per modum habitus: aut consequens ad aliquid  
+        <lb ed="#Bb" n="50"/>sic causatum, vt sunt affectiones significatae per modum fieri. Irasci enim vel verecundari totum est 
+        <lb ed="#Bb" n="51"/>simul, &amp; consistit in quodam facto esse manenti ad perseuerantiam alicuius ad quid sequitur, siue me- 
+        <lb ed="#Bb" n="52"/>diate siue immediate: quod est per se terminus alicuius transmutationis. Huiusmodi enim affectiones 
+        <lb ed="#Bb" n="53"/>non fiunt nisi ad modum illarum dispositionum quae sunt termini transmutationum, vel quae fiunt in terio transmu 
+        <lb ed="#Bb" n="54"/>tationum: vt ad modum illuminationis medii, vel ad modum relationum: &amp; hoc per aliquid in quod sit 
+   <!--110.xml-->
+        <pb ed="#Bb" n="48-r"/>
+        <lb ed="#Bb" n="1"/>per setransmutatio. Ad accensionem eni siue inflammationem caloris circa cor, sequitur affectio irascen 
+        <lb ed="#Bb" n="2"/>di siue ira secundum actum aut secundum habitum: quae est dispositio vt de facili quis irascatur secundum actum. 
+        <lb ed="#Bb" n="3"/>&amp; sic de omnibus aliis affectionibus. secundum nullam eni affectionum fit per se alteratio: sicut neque cir 
+        <lb ed="#Bb" n="4"/>ca habitus animae aut corporis. Si igitur loquamur de affectionibus secundum identitatem rei qua sunt 
+        <lb ed="#Bb" n="5"/>in creaturis: Dicendum quod nullo modo habent esse in deo: sicut neque illa quae per proprietatem transfe 
+        <lb ed="#Bb" n="6"/>rimus a creaturis ad deum, vt sunt bonitas, sapientia, &amp; huiusmodi: quae non secundum eandem naturam 
+        <lb ed="#Bb" n="7"/>rei attribuuntur deo quae sunt in creaturis: sed secundum naturam supereminentiorem. Propter quod iuxta deter 
+        <lb ed="#Bb" n="8"/>minationem beati Dionysii, Deus non est dicendus simpliciter bonus aut sapiens: sed superbonus &amp; 
+        <lb ed="#Bb" n="9"/>supersapiens, &amp; caetera huiusmodi. Vnde si secundum eandem naturam rei aliquid quod est in creaturis trans 
+        <lb ed="#Bb" n="10"/>feratur ad diuina, hoc non potest fieri per proprietatem sed per similitudinem quandam. An autem aliqua affe- 
+        <lb ed="#Bb" n="11"/>ctionum deo per proprietatem sit attribuenda: &amp; quae sic, &amp; quae non: considerandum est secundum regulam supra 
+        <lb ed="#Bb" n="12"/>expositam. Quaecumque enim affectiones de ratione sui nominis defectum aliquem aut rationem imperfectionis im 
+        <lb ed="#Bb" n="13"/>portant, per proprietatem deo attribui non possunt: sed solum per quandam similitudinem. Quae vero ratione 
+        <lb ed="#Bb" n="14"/>nominis &amp; impositionis eius ad significandum, nullam rationem defectus aut imperfectionis important:  
+        <lb ed="#Bb" n="15"/>nihil impedit quin per proprietatem ponantur esse in deo: quia simpliciter &amp; absolute illa melius 
+        <lb ed="#Bb" n="16"/>est esse ipsum quam non ipsum. Quia igitur nomen affectionis, quantum est de ratione nominis, dicit quandam affi 
+        <lb ed="#Bb" n="17"/>xionem &amp; adhaerentiam quasi per quandam compositionem cum eo cuius est, quod nullo modo convenit deo: id  
+        <lb ed="#Bb" n="18"/>circo quantum est de ratione nominis, nulla affectio omnino potest deo attribui. Et secundum hoc dicitur 
+        <lb ed="#Bb" n="19"/>quod affectio ratione generis deo attribui non potest. Si autem loquamur de affectione ratione rei cui 
+        <lb ed="#Bb" n="20"/>nomen imponitur, sic ratione speciei, hoc est secundum quod nomine speciei significatur, affectio quaedam  
+        <lb ed="#Bb" n="21"/>potest deo attribui per proprietatem: &amp; quaedam non. Illae enim quae ratione rei significatae in creaturis rationem 
+        <lb ed="#Bb" n="22"/>imperfectionis aut defectus important, deo attribui non possunt nisi per similitudinem, vt sunt ira, tristitia, 
+        <lb ed="#Bb" n="23"/>quia important cruciatum, &amp; habent malum praesens pro obiecto. Cruciatus autem &amp; malum nullo modo per pro 
+        <lb ed="#Bb" n="24"/>prietatem in deo possunt esse. Similiter spes aut desiderium: quia dicunt boni non praesentis expectationem 
+        <lb ed="#Bb" n="25"/>Deus autem nullius boni habet defectum, quia nullum expectat. Similiter timor, quia est respectu mali 
+        <lb ed="#Bb" n="26"/>expectati: quod deo inesse non potest. Similiter poenitentia, quia est respectu mali praeteriti quod deo in  
+        <lb ed="#Bb" n="27"/>esse non potest. Neque inuidia: quia omnibus fauet, &amp; nullius bonum potest ei derogare. Similiter est de ira, &amp; 
+        <lb ed="#Bb" n="28"/>ceteris huiusmodi: quae maxime habent esse in parte sensitiua. Vnde talia si dicuntur esse in deo: hoc solum 
+        <lb ed="#Bb" n="29"/>est metaphorice per similitudinem effectus. Quia enim interdum voluntas ex ordine sapientiae in eundem effe- 
+        <lb ed="#Bb" n="30"/>ctum tendit, in quem &amp; passio siue affectio: quemadmodum iudex punit voluntate tranquilla per iustitiam 
+        <lb ed="#Bb" n="31"/>sicut commotus per iram: idcirco quia deus agit voluntate tramquilla quae nos agimus ex passione, ideo 
+        <lb ed="#Bb" n="32"/>actio sua siue voluntas in talia agendo nominatur nomine passionis. Et hoc modo passiones siue affectio 
+        <lb ed="#Bb" n="33"/>nes praedictae solummodo attribuuntur deo, vt dicatur iratus quia ex ordine iustitiae voluntarie punit. 
+        <lb ed="#Bb" n="34"/>Et similiter misericors, quia miseriis hominum subuenit ad modum: miserentis per beniuolentiam, &amp; 
+        <lb ed="#Bb" n="35"/>sic de aliis. Et per eundem modum attribuuntur ei membra &amp; organa corporis, vt oculus, pes, &amp; manus, 
+        <lb ed="#Bb" n="36"/>quia agit consimilia illis quae per illa organa solent exerceri. Affectiones autem illae quae ratione sui nominis non 
+        <lb ed="#Bb" n="37"/>important defectum aut imperfectionem: neque similiter ratione rei cui nomen imponitur: bene possunt per pro 
+        <lb ed="#Bb" n="38"/>prietatem deo attribui siue in nobis pertineant ad partem sensitiuam, siue ad intellectiuam qualis est dele 
+        <lb ed="#Bb" n="39"/>ctatio, gaudium, &amp; huiusmodi, de quibus erit sermo in quaestione sequenti. 
+        <lb ed="#Bb" n="40"/>
+      </p>
+      <p xml:id="vn58an-fe12816-d1e296">
+        ⁋ Quod ergo arguitur primo, quod omnes affectiones sunt in deo: quia fundamentum 
+        <lb ed="#Bb" n="41"/>omnium in ipso est vt amor, Dicendum quod nomen amoris aequiuocum est. Vno enim modo 
+        <lb ed="#Bb" n="42"/>nominat simplicem actum voluntatis: Et est. idem iste amor quod amatio. Alio vero modo nomi 
+        <lb ed="#Bb" n="43"/>nat habitum qui est principium elicitiuum actus volendi, &amp; radix atque origo &amp; fundamentum vir 
+        <lb ed="#Bb" n="44"/>tutum, de quo locuti sumus in quadam quaestione superius. Tertio modo nominat affectionem 
+        <lb ed="#Bb" n="45"/>siue passionem in sensitiua parte, aut per modum habitus, aut per modum fieri significatam. Isto 
+        <lb ed="#Bb" n="46"/>tertio modo est origo omnium affectionum in sensitiua parte. Secundo modo est origo passionum 
+        <lb ed="#Bb" n="47"/>quae sunt in intellectiua parte: quarum quaedam dicuntur passiones tantum, &amp; non affectiones, vt 
+        <lb ed="#Bb" n="48"/>sunt omnes actiones voluntatis &amp; intellectus, siue rationem perfectionis simpliciter importent, vt in  
+        <lb ed="#Bb" n="49"/>intelligere &amp; velle simpliciter dicta, siue rationem imperfectionis importent, vt sperare, desiderare:  
+        <lb ed="#Bb" n="50"/>quorum esse consistit non in fieri, sed in quodam facto esse, non sicut consistit esse actionis aut factionis. 
+        <lb ed="#Bb" n="51"/>Vnde circa huiusmodi non convenit in nobis alteratio per se: quia sunt vt perfectiones rei. Dicere autem 
+        <lb ed="#Bb" n="52"/>alteratum esse recipientem finem &amp; perfectionem, ridiculum est, vt dicit philosophus. vii. Physicorum. vbi dicit 
+        <lb ed="#Bb" n="53"/>Commentator quod cognitio non sit in cognoscente: ita quod pers cognoscens sit transmutata: sed sit 
+        <lb ed="#Bb" n="54"/>quando aliquid aliud transmutatur: sicut est dispositio in omnibus relatiuis. Et dicuntur passio- 
+   <!--111.xml-->
+        <pb ed="#Bb" n="48-v"/>
+        <lb ed="#Bb" n="1"/>nes: quia sequuntur per se &amp; immediate passionem de genere passionis quocumque modo fiat: non autem  
+        <lb ed="#Bb" n="2"/>affectiones: quia non se habent ad id cuius sunt, per modum impressionis in illis: sed potius per  
+        <lb ed="#Bb" n="3"/>modum expressionis ex illis. propter quod etiam significant per modum actionis: licet non significant 
+        <lb ed="#Bb" n="4"/>aliquid quod est de praedicamento actionis, aut reducibile ad illud. Quaedam vero sunt passiones, 
+        <lb ed="#Bb" n="5"/>&amp; etiam affectiones, vt sunt gaudium, &amp; delectatio, &amp; huiusmodi, secundum quod sunt in intellectiua 
+        <lb ed="#Bb" n="6"/>parte: quorum esse simpliciter non consistit in fieri sed in quodam facto esse. vnde circa huius- 
+        <lb ed="#Bb" n="7"/>modi non contingit alteratio per se in nobis sicut neque circa praedicta. Dicuntur tamen passiones: quia  
+        <lb ed="#Bb" n="8"/>sequuntur aliquam passionem in nobis: sed aliter quam praedicta: quia illa sequuntur immediate passio 
+        <lb ed="#Bb" n="9"/>nem illam quae est de genere passionis, qua sit alteratio aliqua: etsi non illa quae est per qualitates 
+        <lb ed="#Bb" n="10"/>sensibiles, nisi a remotis, vt est alteratio per intelligibile receptum in intelligente: ad quam imme 
+        <lb ed="#Bb" n="11"/>diate sequitur operatio intelligendi in intellectu: &amp; mediante illa, licet non agente illa, operatio 
+        <lb ed="#Bb" n="12"/>volendi in voluntatetier. Ista vero sequuntur non immediate passionem illam de praedicamento pas 
+        <lb ed="#Bb" n="13"/>sionis: sed illam quae consistit in facto esse, &amp; sequitur illam. Delectatio enim intellectualis imme 
+        <lb ed="#Bb" n="14"/>diate sequitur actum intelligendi &amp; volendi. Quae etiam dicitur affectio: quia se habet ad id  
+        <lb ed="#Bb" n="15"/>cuius est, per modum impressionis ab operatione intelligendi &amp; volendi circa suum obiectum: sed  
+        <lb ed="#Bb" n="16"/>principaliter ab ipso obiecto, vt patebit in quaestione sequenti. Patet ergo quomodo amor est prin 
+        <lb ed="#Bb" n="17"/>cipium quasi secundum genus causae efficientis omnium passionum &amp; affectionum etiam illarum quae im 
+        <lb ed="#Bb" n="18"/>portant rationem defectus &amp; imperfectionis: qui bene dicitur in deo, licet non illae affectiones vel passiones, eo quod 
+        <lb ed="#Bb" n="19"/>ratione sui nominis aut rei secundum quod nomen imponitur ad ipsam significandam, nullam rationem defectus aut imperfectionis 
+        <lb ed="#Bb" n="20"/>importat: sicut faciunt illa principiata. hoc enim est praecise quare aliquid dicitur esse per proprietatem in deo  
+        <lb ed="#Bb" n="21"/>vel non: non autem natura rei absolutae. Quia si esset huiusmodi causa in principio, simiter &amp; esset in principiato 
+        <lb ed="#Bb" n="22"/>vt procedit obiectio. 
+      </p>
+      <p xml:id="vn58an-fe12816-d1e381">
+        ⁋ Ad secundum: quod affectiones expediunt actionem: Dicendum quod verum est: vnde propter istam 
+        <lb ed="#Bb" n="23"/>proprietatem affectio quaelibet potius deo esset attribuenda per proprietatem quam non attribuenda. Sed  
+        <lb ed="#Bb" n="24"/>cum aliqua proprietas defectus aut imperfectionis est annexa, illa plus impedit quam multae aliae pos 
+        <lb ed="#Bb" n="25"/>sent conferre. Quia in deo non solum debet esse perfectio omnis: sed etiam debet esse in ipso absque omni 
+        <lb ed="#Bb" n="26"/>defectu &amp; imperfectione annexa. 
+      </p>
+      <p xml:id="vn58an-fe12816-d1e392">
+        ⁋ Ad tertium: quod omnes affectiones sunt absolutae passiones, quae  
+        <lb ed="#Bb" n="27"/>non possunt esse in deo: Dicendum quod verum est secundum quod habent rationem passionum quae sunt de pra 
+        <lb ed="#Bb" n="28"/>dicamento passionis: aut quae sunt a passione quae est de praedicamento passionis, causatae, siue me 
+        <lb ed="#Bb" n="29"/>diate siue immediate. Quia illa quae est de praedicamento passionis, secundum id in quo fundatur nullo 
+        <lb ed="#Bb" n="30"/>modo potest esse in deo: licet sit in ipso secundum rationem puri respectus quem importat, vt habitum 
+        <lb ed="#Bb" n="31"/>est supra. Secundum vero quod habent rationem passionum quasi causatarum immediate &amp; solummodo a  
+        <lb ed="#Bb" n="32"/>passione quae est de praedicamento passionis secundum rationem tantum: quemadmodum in deo actio intelli 
+        <lb ed="#Bb" n="33"/>gendi &amp; volendi quasi sequuntur rationem informationis diuini intellectus a forma suae essen- 
+        <lb ed="#Bb" n="34"/>tiae: vel causatarum ab ista mediate, sed immediate ab illa quae est velle &amp; intelligere: quae habet 
+        <lb ed="#Bb" n="35"/>rationem actionis &amp; passionis tantum secundum rationem sui respectus tantum: non autem eius super quod fundatur 
+        <lb ed="#Bb" n="36"/>in creaturis, vt sunt gaudium, &amp; delectatio: de istis non est verum, quin bene possint esse in deo:  
+        <lb ed="#Bb" n="37"/>quia nullam rationem imperfectionis penitus dicunt.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

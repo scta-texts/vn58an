@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 4</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 4</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="213-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe58384"> <!-- alias="vn58an-a66q4" --> <!-- error in margin which says Quest. III -->
+      <head xml:id="vn58an-fe58384-Hd1e106">Quaestio 4</head>
+      <p xml:id="vn58an-fe58384-d1e109">
+        <lb ed="#Bb" n="19"/>CIrca quartum arguitur quod non singulum genus relationum communium in sin 
+        <lb ed="#Bb" n="20"/>gulo dictorum trium generum praedicamentorum habeat fundari: sed potius singulum 
+        <lb ed="#Bb" n="21"/>in quolibet, primo sic. In illis habent fundari relationes cones secundum quae relata are 
+        <lb ed="#Bb" n="22"/>latione communi denominantur: puta identitas habet fundari in illis secundum quae ali 
+        <lb ed="#Bb" n="23"/>qua dicuntur eadem: aequalitas in illis secundum quae dicuntur aequalia: similitudo in il- 
+        <lb ed="#Bb" n="24"/>lis secundum quae dicuntur similia. Sed secundum singula genera praedicamentorum aliqua de 
+        <lb ed="#Bb" n="25"/>nominantur eadem aequalia &amp; similia. in quolibet enim genere sunt aliqua eadem numero specie &amp; ge 
+        <lb ed="#Bb" n="26"/>nere. sunt etiam aequalia in quolibet genere illa quae sunt sub eadem specie specialissima: quae etiam sunt 
+        <lb ed="#Bb" n="27"/>similia secundum superius determinata. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe58384-d1e131">
+        ⁋ Secundo sic. relationes quae sequuntur differentias &amp; 
+        <lb ed="#Bb" n="28"/>convenientias omnium generum entis, in omnibus generibus fundantur: quia non sequuntur illa nisi ex fundatione sua 
+        <lb ed="#Bb" n="29"/>in illis. singula dicta genera relationum communium consequuntur differentias &amp; convenientias omnium geneum entis: quia 
+        <lb ed="#Bb" n="30"/>quodlibet duorum entium vnum est idem alteri: aut diuersum ab eodem secundum praedicta: aut etiam quaelibet duo 
+        <lb ed="#Bb" n="31"/>entia aut aequalia sunt in gradu entis aut inaequalia, &amp; quaecumque sunt sub eodem genere, aut cadunt sub 
+        <lb ed="#Bb" n="32"/>adem differentia generis, aut sub alia &amp; alia: &amp; ideo aut similia aut dissimilia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe58384-d1e145">
+        ⁋ In contrarium 
+        <lb ed="#Bb" n="33"/>est philosophus, qui non ponit idem &amp; diuersum nisi in substantia: aequale &amp; inaequale nisi in quanti 
+        <lb ed="#Bb" n="34"/>tate: simile autem &amp; dissimile non nisi in qualitate.  
+        <lb ed="#Bb" n="35"/>
+      </p>
+      <p xml:id="vn58an-fe58384-d1e154">
+        ⁋ Dico quod singulum trium praedicamentorum, substantiae scilicet, quantitatis, &amp; qualitatis 
+        <lb ed="#Bb" n="36"/>aut large accipitur, aut stricte. Substantia enim stricte accepta nominat solummodo rem absolutam secundum se &amp; in se 
+        <lb ed="#Bb" n="37"/>existentem: quae est proprie de praedicamento substantiae. Sustantia autem large accepta nominat quancumque rem prout ha-  
+        <lb ed="#Bb" n="38"/>bet modum substantiae scilicet praedicandi de se vel de alio in eo quod quid, vt tactum est in quaestione praecedente. Quantitas 
+        <lb ed="#Bb" n="39"/>autem stricte accepta nominat solummodo rem absolutam de praedicamento quantitatis. Quantitas vero large acce 
+        <lb ed="#Bb" n="40"/>ota nominat quancumque rem prout his modum quantitatis: in praedicando scilicet de aliquo subiecto in eo quod quantum. &amp; 
+        <lb ed="#Bb" n="41"/>hoc siue in eo quod quantum quantitate molis: qualiter praedicantur illa quae pertinent proprie ad praedicamentum quanti 
+        <lb ed="#Bb" n="42"/>tatis: siue in eo quod quantum quantitate perfectionis essentialis aut virtualis: qualiter praedican 
+        <lb ed="#Bb" n="43"/>tur illa quae communiter sunt quantitates. Qualitas etiam stricte accepta nominat solummodo rem abso 
+        <lb ed="#Bb" n="44"/>lutam de praedicamento qualitatis: qualitas vero large accepta nominat quancumque rem habentem in praedican 
+        <lb ed="#Bb" n="45"/>do modum qualitatis: in praedicando scilicet in eo quod quale, &amp; hoc siue in eo quod quale qualitate accidentali 
+        <lb ed="#Bb" n="46"/>qualiter praedicantur de suis illa quae sunt proprie de praedicamento qualitatis: siue in eo quod quale qualitate sub 
+        <lb ed="#Bb" n="47"/>stantiali, qualiter praedicatur differentia constitutiua in quolibet praedicamento de specie quam constituit. Stricte 
+        <lb ed="#Bb" n="48"/>autem sumendo substantiam quantitatem aut qualitatem: Dico quod singulum geners relationum communium in singulo trriun 
+        <lb ed="#Bb" n="49"/>praedicamentorum absolutorum habet fundari. Quia in substantia stricte accepta cuiusmodi sunt indi- 
+        <lb ed="#Bb" n="50"/>uidua species &amp; genera in praedicamento substantiae, non habent fundari nisi idem &amp; diuersum. In quantitate 
+        <lb ed="#Bb" n="51"/>vero stricte accepta vt comparatur ad subiectum, non nisi aequale &amp; inaequale: in qualitate vero 
+        <lb ed="#Bb" n="52"/>stricte accepta, non nisi simile &amp; dissimile: secundum quod procedit vltima ratio. Large autem sumen- 
+        <lb ed="#Bb" n="53"/>do substantiam quantitatem &amp; qualitatem, Dico quod singulum genus relationum communium sun 
+        <lb ed="#Bb" n="54"/>datur in quolibet trium generum praedicamentorum praedictorum, vt procedunt duae primae ra 
+        <lb ed="#Bb" n="55"/>tiones. ldem enim &amp; diuersum non solum fundantur super res existentes in praedicamento sub 
+   <!--442.xml-->
+        <pb ed="#Bb" n="214-r"/>
+        <lb ed="#Bb" n="1"/>stantiae, sed etiam fundantur super res existentes in aliis praedicamentis: &amp; dicuntur eademvel diuersa inter 
+        <lb ed="#Bb" n="2"/>se, existentia in quocumque praedicamento alio vt expositum est superius. Similiter aequale &amp; inaequale non  
+        <lb ed="#Bb" n="3"/>solum fundantur super res existentes in praedicamento quantitatis: nec solum aequalia vel inaequalia dicun 
+        <lb ed="#Bb" n="4"/>tur inter se, vel alia secundum illa quae sunt existentia in praedicamento quantitatis, sed etiam fundantur super 
+        <lb ed="#Bb" n="5"/>res existentes in aliis praedicamentis: vt habent in se rationem quantitatis determinatae secundum gradum perfe 
+        <lb ed="#Bb" n="6"/>ctionis: &amp; dicuntur ipsa aequalia vel inaequalia inter se, vel aliqua secundum illa. Et est speciale in inaequali se 
+        <lb ed="#Bb" n="7"/>quente ad quantitatem perfectionis, quod vniformiter consequitur diuersum secundum specieum &amp; secundum ge- 
+        <lb ed="#Bb" n="8"/>nus. Quaecumque enim sunt diuersa specie specialissima: siue sint eadem genere siue diuersa: semper sunt 
+        <lb ed="#Bb" n="9"/>inaequalia secundum gradum perfectionis naturalis: &amp; tamen inaequale sicut &amp; aequale quid sequitur quantitatem 
+        <lb ed="#Bb" n="10"/>molis: solummodo consequitur diuersum secundum numerum sub eadem specie specialissima. Inaequali autem quid se 
+        <lb ed="#Bb" n="11"/>quitur quantitatem perfectionis, speciale est quod vniformiter consequitur idem secundum speciem diuersum tamen nu 
+        <lb ed="#Bb" n="12"/>mero. Quaecunque enim sunt eadem specie specialissima: &amp; differentia numero solo: sunt aequalia quan  
+        <lb ed="#Bb" n="13"/>titate perfectionis essentialis. Licet enim sint formae quaedam ad quas sub eadem specie specialissima in sub- 
+        <lb ed="#Bb" n="14"/>iecto consequitur magis &amp; minus &amp; aequale: &amp; existentia in eodem gradu intensionis, puta caloris vel 
+        <lb ed="#Bb" n="15"/>frigoris: aut alicuius huiusmodi: dicuntur aequalia secundum illas quantitates perfectionis virtualis propter 
+        <lb ed="#Bb" n="16"/>participationem formae a subiectis aequaliter: &amp; similiter ipsae formae inter se aequales dicuntur: existen- 
+        <lb ed="#Bb" n="17"/>tia autem in diuersis gradibus dicuntur inaequalia secundum illas quantitate perfectionis virtualis 
+        <lb ed="#Bb" n="18"/>propter participationem illius formae a subiecto secundum magis &amp; minus: &amp; similiter ipsae formae in-  
+        <lb ed="#Bb" n="19"/>ter se inaequales dicuntur propter esse ipsarum in subiecto secundum maius &amp; minus: secundum enim <name ref="#Augustine">Augustinus</name>  
+        <lb ed="#Bb" n="20"/>de triniitate. lib. vii. cap. viii. in eis quae non sunt mole magna: idem est maius esse quod est melius esse: bo 
+        <lb ed="#Bb" n="21"/>nitate scilicet perfectionis essentialis aut virtualis: tamen eaedem formae sub ratione suae essentiae 
+        <lb ed="#Bb" n="22"/>secundum se consideratae vt essentia quaedam: sicut indiuidua sub specie specialissima: aequales inter 
+        <lb ed="#Bb" n="23"/>se sunt quantitate perfectionis essentialis. Vnde &amp; si essent separatae: essent ambae aequales &amp; in sum 
+        <lb ed="#Bb" n="24"/>mo gradu perfectionis quae speciei suae nata est convenire. Vna enim albedo separata: nec magis al 
+        <lb ed="#Bb" n="25"/>bedo, nec maior albedo est quam alia, prout alias determinauimus in nostro. xiiii. Quolibet. 
+      </p>
+      <p xml:id="vn58an-fe58384-d1e262">
+        ⁋ Est autem  
+        <lb ed="#Bb" n="26"/>vlterius aduertendum quod secundum tales formas vt simpliciter accipiuntur: subiecta illarum se- 
+        <lb ed="#Bb" n="27"/>cundum ipsas simpliciter denominantur esse similia: siue in aequali siue in inaequali gradu fuerint. 
+        <lb ed="#Bb" n="28"/>Et cum sunt in gradu aequali, tunc secundum illas dicuntur perfecte similia: cum vero sunt in gradu 
+        <lb ed="#Bb" n="29"/>inaequali: tunc respectu illorum quae sunt perfecte similia in gradu aequali: subiecta illarum secun 
+        <lb ed="#Bb" n="30"/>dum illas dicuntur similia secundum magis &amp; minus, secundum quod magis &amp; minus accedunt ad 
+        <lb ed="#Bb" n="31"/>aequale. Et respondent isti gradus perfectionis in quantitate virtutis: gradibus existentibus in quan- 
+        <lb ed="#Bb" n="32"/>titate molis: quae est in continuis &amp; discretis: licet in discretis non dicatur esse quantitas molis pro 
+        <lb ed="#Bb" n="33"/>prie, nec etiam in aliis continuis a corporalibus: in quibus gradus sumuntur in eis quae sunt eius 
+        <lb ed="#Bb" n="34"/>dem speciei secundum accidentia continua, quae sunt longum breue, latum strictum, spissum &amp; te- 
+        <lb ed="#Bb" n="35"/>nue: secundum quod in numeris &amp; discretis quae secundum praedicta sunt proprie eiusdem speciei spe 
+        <lb ed="#Bb" n="36"/>cialissimae, sumuntur gradus secundum plus &amp; minus: &amp; dicuntur aequalia quae sunt in eodem gra 
+        <lb ed="#Bb" n="37"/>du, puta vnum &amp; vnum, duo &amp; duo, tria &amp; tria: &amp; sic deinceps: &amp; inaequalia quae sunt in diuer- 
+        <lb ed="#Bb" n="38"/>sis: puta vnum ad duo: tria &amp; deinceps, scilicet duo ad tria: quatuor &amp; deinceps. Et secundum quod  
+        <lb ed="#Bb" n="39"/>gradus inter se distant secundum magis &amp; minus: puta duo &amp; tria minus distant quam duo &amp; qua-  
+        <lb ed="#Bb" n="40"/>tuor aut quinque &amp; deinceps: similiter duo &amp; quatuor minus distant quam duo &amp; quinque &amp; deinceps:  
+        <lb ed="#Bb" n="41"/>secundum hoc dicuntur inaequalia secundum magis &amp; minus in quantitatibus eiusdem speciei 
+        <lb ed="#Bb" n="42"/>quales sunt quoquo modo omnes numeri secundum superius exposita: sicut &amp; dicuntur similia se 
+        <lb ed="#Bb" n="43"/>cundum magis &amp; minus in qualitatibus eiusdem speciei. 
+      </p>
+      <p xml:id="vn58an-fe58384-d1e304">
+        ⁋ Simile etiam &amp; dissimile non solum fun 
+        <lb ed="#Bb" n="44"/>dantur super res existentes in praedicamento qualitatis: nec solum similia aut dissimilia dicuntur 
+        <lb ed="#Bb" n="45"/>inter se aliqua existentia in praedicamento qualitatis: aut subiecta secundum illa: sed etiam fundam 
+        <lb ed="#Bb" n="46"/>tur super res existentes in aliis praedicamentis vt habent in se rationem qualitatis: sicut habent dif 
+        <lb ed="#Bb" n="47"/>ferentiae diuisiuae generum &amp; constitutiuae specierum. Dicuntur enim illa quorum sunt similia vel 
+        <lb ed="#Bb" n="48"/>dissimilia secundum illa: licet non illa inter se. In hoc enim est differentia quo ad idem &amp; diuer- 
+        <lb ed="#Bb" n="49"/>sum in substantia, aequale &amp; inaequale in quantitate, ad simile &amp; dissimile in qualitate, quod idem &amp; di 
+        <lb ed="#Bb" n="50"/>uersum non solum dicuntur aliqua secundum substantiam quae est aliquid illorum: sed etiam 
+        <lb ed="#Bb" n="51"/>ipsae substantiae inter se dicuntur idem &amp; diuersum secundum se: &amp; similiter aequale &amp; inaequa- 
+        <lb ed="#Bb" n="52"/>le non solum dicuntur aliqua secundum quantitatem quae est aliquid illorum: sed etiam ipsae 
+        <lb ed="#Bb" n="53"/>quantitates inter se dicuntur aequale vel inaequale secundum se. Simile autem &amp; dissimile nullae 
+        <lb ed="#Bb" n="54"/>qualitates dicuntur inter se secundum se: sed solummodo secundum qualitates dicuntur similia 
+        <lb ed="#Bb" n="55"/>aut dissimilia inter se: habentia illas in se. Et est speciale in dissimili tam secundum qualitatem 
+   <!--443.xml-->
+        <pb ed="#Bb" n="214-v"/>
+        <lb ed="#Bb" n="1"/>stricte, quam secundum qualitatem communiter acceptam: quod solummodo secundum ipsam consequi- 
+        <lb ed="#Bb" n="2"/>tur diuersum secundum speciem specialissimam. Quaecumque enim qualitates sunt diuersae genere: puta co 
+        <lb ed="#Bb" n="3"/>lor &amp; sapor, secundum illas non dicuntur aliqua dissimilia: sicut neque similia: sapor enim colori, aut  
+        <lb ed="#Bb" n="4"/>saporabile colorato nec simile nec dissimile dicitur. Similiter rationale &amp; irrationale nec similia 
+        <lb ed="#Bb" n="5"/>nec dissimilia dicuntur inter se: nec subiecta quae habent illa, secundum illa similia aut dissimilia di-  
+        <lb ed="#Bb" n="6"/>cuntur, quia nec talia nec talia nata sunt dici secundum illa. Et commune est etiam simili cum aequa  
+        <lb ed="#Bb" n="7"/>li, quod solummodo consequuntur idem specie &amp; diuersum numero. Quaecumque enim habent easdem qualita 
+        <lb ed="#Bb" n="8"/>tes specie, differentes solo numero, sunt similia: puta duo alba, aut duo rationalia. Quia enim vnus 
+        <lb ed="#Bb" n="9"/>homo dicitur similis alteri substantialiter, non est nisi secundum differentiam rationalitatis: non autem 
+        <lb ed="#Bb" n="10"/>secundum genus animalitatis, neque secundum totalitatem ipsius speciei specialissimae: cuius pars formalis est 
+        <lb ed="#Bb" n="11"/>rationalitas. Similiter quod vnus homo dicitur similis alteri accidentaliter: non est nisi secundum qua-  
+        <lb ed="#Bb" n="12"/>litatem accidentalem specificam: puta albedinem aut nigredinem: non autem secundum qualitatem conem 
+        <lb ed="#Bb" n="13"/>genere: puta colorem aut saporem. sicut quod aliqua dicuntur aequalia siue mole siue perfectione, non est nisi 
+        <lb ed="#Bb" n="14"/>secundum quantitates easdem specie: differentes solum numero, quia in solis illis est vera conformitas qua  
+        <lb ed="#Bb" n="15"/>vere concurrunt per vnionem in vnum: quae non est in eisdem genere differentibus specie specialissima, eo quod dif 
+        <lb ed="#Bb" n="16"/>ferunt formis quae sunt differentiae specisicae: sub quibus etiam diuersificatur ratio &amp; natura generis. Pro- 
+        <lb ed="#Bb" n="17"/>pter quod latent aequiuocationes in genere, vt dicitur. vii. physico. &amp; non est pura vniuocatio nisi in spe 
+        <lb ed="#Bb" n="18"/>cie: vt dicitur ibidem. Est autem proprium dissimili in quo differt ab inaequali quantitate molis aut vir- 
+        <lb ed="#Bb" n="19"/>tutis siue perfectionis virtualis, quod dissimile non est aliquid alteri nisi secundum qualitates substantia 
+        <lb ed="#Bb" n="20"/>les aut accidentales, differentes sola specie specialissima: puta secundum rationale &amp; irrationale. secundum  
+        <lb ed="#Bb" n="21"/>album &amp; nigrum. Non enim secundum qualitates eiusdem speciei specialissimae dicuntur nisi similia. &amp; secundum  
+        <lb ed="#Bb" n="22"/>qualitates differentes genere: puta secundum albedinem &amp; saporem: aut secundum rationale &amp; inaiatum: neque si- 
+        <lb ed="#Bb" n="23"/>milia dicuntur neque dissimilia. 
+      </p>
+      <p xml:id="vn58an-fe58384-d1e387">
+        ⁋ Est autem aliquid alteri inaequale quantitate molis aut virtutis non ni 
+        <lb ed="#Bb" n="24"/>si secundum quantitatem eandem specie specialissima: puta linea est lineae inaequalis secundum alium &amp; alium gra- 
+        <lb ed="#Bb" n="25"/>dum longitudinis, &amp; album albo inaequaliter est album secundum gradum alium &amp; alium albedinis. Quae vero 
+        <lb ed="#Bb" n="26"/>sunt quantitatiue diuersarum specierum. secundum illas neque dicuntur aequalia neque inaequalia. Non enim hnea di- 
+        <lb ed="#Bb" n="27"/>citur aequalis vel inaequalis superficiei aut album nigro: quia in solis illis quae sunt eiusdem speciei est 
+        <lb ed="#Bb" n="28"/>vera secundum gradum eundem conformitas molis aut virtutis: &amp; difformitas secundum gradus diuer- 
+        <lb ed="#Bb" n="29"/>sos: licet secundum quantitatem perfectionis essentialis inaequalitas consequitur in omnibus diuersitatem 
+        <lb ed="#Bb" n="30"/>quaecumque enim sunt diuersa specie aut genere, sunt inaequalia perfectione essentiali sicut dictum est. 
+        <lb ed="#Bb" n="31"/>
+      </p>
+      <p xml:id="vn58an-fe58384-d1e407">
+        ⁋ Sumendo autem substantiam quantitatem aut qualitatem stricte: sic non habent esse in diuinis: sed so- 
+        <lb ed="#Bb" n="32"/>lummodo vt large accipiuntur ad omne se habens modo substantiae quantitatis aut qualitatis in creatu- 
+        <lb ed="#Bb" n="33"/>ris existentis. Deitas enim in diuinis se habet modo substantiae quae nominat quid: persona autem se 
+        <lb ed="#Bb" n="34"/>habet per modum substantiae quae nominat quem. &amp; respondetur deitas vel deus ad interrogationem 
+        <lb ed="#Bb" n="35"/>factam in diuinis per quid, pater aut filius aut spiritus sanctus per interrogationem factam per quis: &amp; in  
+        <lb ed="#Bb" n="36"/>diuinis non fundatur super hoc nisi identitas. Bonitas autem sapientia &amp; huiusmodi in diuinis se habent mo 
+        <lb ed="#Bb" n="37"/>do qualitatis: &amp; respondentur in diuinis ad interrogationem factam per quale. Magnitudo autem aeter- 
+        <lb ed="#Bb" n="38"/>nitas infinitas immensitas &amp; huiusmodi in diuinis se habent modo quantitatis. Respondentur enim ad inter 
+        <lb ed="#Bb" n="39"/>rogationem factam per quantum. Et in diuinis super huiusmodi qualitates &amp; quantitates secundum quod consideran  
+        <lb ed="#Bb" n="40"/>tur secundum se: bene fundatur identitas, sicut in creaturis fundatur super res singulorum praedicamentorum vt 
+        <lb ed="#Bb" n="41"/>secundum se considerantur &amp; in ordine ad illa quae sunt sui generis. Secundum autem quod quantitas aut qualitas 
+        <lb ed="#Bb" n="42"/>huiusmodi considerantur in diuinis in ordine ad id quod in diuinis dicit quid aut quis: cuius sunt sicut dis 
+        <lb ed="#Bb" n="43"/>positiones: super qualitatem non fundatur nisi similitudo, &amp; super quantitatem non nisi aequalitas, etiam cum 
+        <lb ed="#Bb" n="44"/>huiusmodi quantitas incidit in qualitatem: dicendo quod sapientia dei aut bonitas est magna aeterna siue infi- 
+        <lb ed="#Bb" n="45"/>nita. Sic enim bonitate aut sapia personae dicuntur inter se aequales. 
+      </p>
+      <p xml:id="vn58an-fe58384-d1e441">
+        ⁋ Ex dictis patent argumenta ad vtram 
+        <lb ed="#Bb" n="46"/>quod partem adducta: ex quibus etiam in magna parte patet qualiter vniformiter vel difformiter relationes 
+        <lb ed="#Bb" n="47"/>ones habent fundari in dictis tribus: de quo sermo habitus est in secunda quaestione praecedenti huius articuli.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

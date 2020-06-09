@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="23-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe6072"> <!-- alias="vn58an-a46q3" -->
+      <head xml:id="vn58an-fe6072-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe6072-d1e107">
+        <lb ed="#Bb" n="6"/>rca tertium arguitur, quod amor non sit in deo, Primo sic. Amor &amp; odium sunt contraria:  
+        <lb ed="#Bb" n="7"/>uae nata sunt esse circa idem. secundum Philosophum. In deo autem non est odium, quare neque amor.  
+      </p>
+      <p xml:id="vn58an-fe6072-d1e114">
+        <lb ed="#Bb" n="8"/>⁋Secundo sic. Amor determinat voluntatem ad volendum &amp; ad amandum: quia (vt dicit 
+        <lb ed="#Bb" n="9"/>ugu. super Psal. Amor vacare non potest. Voluntas dei omnino libera est, &amp; a nullo 
+        <lb ed="#Bb" n="10"/>determinata, vt. habitum est supra. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe6072-d1e123">
+        ⁋ Tertio sic. Nihil quod recipit magis 
+        <lb ed="#Bb" n="11"/>galaut minus, habet esse in deo, quia est mutabile quid. Amor autem ratione qua amor,  
+        <lb ed="#Bb" n="12"/>recipit magis &amp; minus: quia semper est maior amor ad maius bonum. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe6072-d1e131">
+        ⁋ In contrarium est illud  
+        <lb ed="#Bb" n="13"/>Dionyus. de di. no. Infinitum seipso &amp; carens principio diuinus amor ostenditur. sed talis amor non est nisi 
+        <lb ed="#Bb" n="14"/>in deo, quia quicquid est extra ipsum, finitum est &amp; habens principium. ergo &amp;c. 
+        <lb ed="#Bb" n="15"/>
+      </p>
+      <p xml:id="vn58an-fe6072-d1e140">
+        ⁋ Dicendum quod aliquorum erat opinio, quod amor non est de diuinis nominibus, neque  
+        <lb ed="#Bb" n="16"/>potest poni in deo, &amp; hoc vna ratione, quia sub nomine amoris nihil vnquam deo attribuitur in sacris eloquiis. 
+        <lb ed="#Bb" n="17"/>Contra quos dicit Diony. iiii. de di. no. Audebit &amp; hoc dicere vera ratio, quia ipse omnium causalis per 
+        <lb ed="#Bb" n="18"/>bonitatis excellentiam omnia amat, omnia facit &amp; continet. Et est diuinus amor optimus optimi per optimum. 
+        <lb ed="#Bb" n="19"/>ipse enim benefactor existentium amor in optimo per excellentiam ante subsistens. Et respondet eorum rationi, 
+        <lb ed="#Bb" n="20"/>quod licet sub proprio vocabulo sacra eloquia deo amorem non attribuunt, tamen ei amorem attribuunt sub aliis 
+        <lb ed="#Bb" n="21"/>vocabulis, quibus sententialiter deo attribuitur amor. Stultum enim est vocibus intendere, &amp; non sententiae. 
+        <lb ed="#Bb" n="22"/>dicens esse irrationale arbitrio &amp; stultum, non virtuti intentionis attendere sicut dictionibus: &amp; hoc non 
+        <lb ed="#Bb" n="23"/>esse diuina intelligere volentium, sed sonos leues percipientium &amp;c. Vbi subiugit. Veruntam vt non hoc 
+        <lb ed="#Bb" n="24"/>dicere putemur tamquam diuina eloquia submouentes, audiant hanc amoris nominationem criminantes &amp;c. 
+        <lb ed="#Bb" n="25"/>Vvbi inducit plures snimas sacrae scripturae, quibus significatur &amp; implicatur quod amor sit in deo. Alia vero 
+        <lb ed="#Bb" n="26"/>ratione idem ponebant sumpta ab amore in nobis. Credebant enim quod amor non est in nobis nisi ex passione 
+        <lb ed="#Bb" n="27"/>siue affectione &amp; commotione quadam, quae in deo cadere non pabet omnino: quare neque amor secundum ipsos. 
+        <lb ed="#Bb" n="28"/>Sed ratio ista non cogit, quoniam nomen amoris commune est ad verum amorem, &amp; alium de quo illi loquuntur. 
+        <lb ed="#Bb" n="29"/>Propter quod ad differentiam illius theologi istum appellant verum amorem. dicente Dionysio. Mihi videntur 
+        <lb ed="#Bb" n="30"/>theologi cone quidem dixisse dilectionis &amp; amoris nomen: propterea autem diuinis magis referre vere 
+        <lb ed="#Bb" n="31"/>amorem semper consequentem talium virorum adamationem, cum non sit verus amor sed vmbra, aut magis casus 
+        <lb ed="#Bb" n="32"/>veri amoris. Audendum autem (vt ibidem: dicit) hoc pro veritate dicere: quia omnium causalis bono &amp; opti 
+        <lb ed="#Bb" n="33"/>mo omnium amore. &amp;c. Vbi declarat ex diuinis operationibus circa creaturas, deo inesse amorem, suppo 
+        <lb ed="#Bb" n="34"/>nens quod illa sine amore fieri non habent. Quom autem illud intelligendum sit, in proxima quaestione sequenti vi 
+        <lb ed="#Bb" n="35"/>debitur. Quantum autem ad praesentem pertinet quaestionem, sufficit scire quia amore large accepto omnes actiones qui  
+        <lb ed="#Bb" n="36"/>bus creaturae inter se in ordine vniuersi sociantur, non procedunt ab eis sine amore. dicente Dionysio. 
+        <lb ed="#Bb" n="37"/>Amorem siue diuinum, siue angelicum, siue intellectualem, siue animalem, siue naturalem dicamus, vnitiuam 
+        <lb ed="#Bb" n="38"/>quandam &amp; continuatiuam intelligimus virtutem, superiora quidem monentem in prouidentiam inferiorum, aequi- 
+        <lb ed="#Bb" n="39"/>formia iterum in socialem vicissitudinem: &amp; nouissima subiecta ad meliorum &amp; superpositorum conversionem: 
+        <lb ed="#Bb" n="40"/>t sic secundum. v. modos appetitus supra distinctos in quaestione de libertate voluntatis dei, qui sunt 
+        <lb ed="#Bb" n="41"/>principia omnium opeationum contigentium in creatore &amp; in creaturis, ramindeant. v. modi amoris: inter quos super 
+        <lb ed="#Bb" n="42"/>mus &amp; supereminens est amor diuinus, sicut est diuinus appetitus. Et sicut diuinus appetitus est ad bonum sim 
+        <lb ed="#Bb" n="43"/>pliciter, sic &amp; diuinus amor modo corrundente: vt in hoc differat in deo amor a gaudio, delectatione, &amp; huiusmodi 
+        <lb ed="#Bb" n="44"/>quam sunt in deo: vt gaudium &amp; delectatio in deo sicut &amp; in nobis, tantummodo sint de bono praesenti: deside- 
+        <lb ed="#Bb" n="45"/>rium autem de bono expectato. Sed amor est boni simpliciter &amp; in communi, quem supponit omnis appetens. Vnde &amp; af-  
+        <lb ed="#Bb" n="46"/>fectiones omnes &amp; passiones in quocumque sint, amorem praesupponunt. Gaudium enim &amp; delectatio, desiderium 
+        <lb ed="#Bb" n="47"/>&amp; spes, &amp; caetera huiusmodi, non sunt nisi boni per se amati, quia habetur vel optatur haberi. Ira vero, timor- 
+        <lb ed="#Bb" n="48"/>tristitia, &amp; huiusmodi, non sunt nisi boni non habiti vel amittendi. Vnde nemo timet bonum amittere, nisi 
+        <lb ed="#Bb" n="49"/>quia amat ipsum habere: neque tristatur de malo, nisi quia per ipsum priuatur bono amato vel desiderato.  
+        <lb ed="#Bb" n="50"/>
+      </p>
+      <p xml:id="vn58an-fe6072-d1e218">
+        ⁋ Ad primum in oppositum, quod odium non est natum deo inesse: quare neque amor: dicendum 
+        <lb ed="#Bb" n="51"/>quod secundum expositionem philosophis in postpraedicamentis, illa maxima, Contraria nata sunt fieri circa 
+        <lb ed="#Bb" n="52"/>idem, intelligitur, nisi alterum determinate insit. Nunc autem determinate ex natura suae bonitatis 
+        <lb ed="#Bb" n="53"/>amor in est deo. dicente Dionysio. Dibus est bonum &amp; optimum &amp; concupiscibile, &amp; amabile, &amp; dele 
+        <lb ed="#Bb" n="54"/>ctabile, &amp; per ipsum &amp; propter ipsum, &amp; minora meliora conuersibiliter amant, &amp; sociatiue aequifor- 
+        <lb ed="#Bb" n="55"/>mia, &amp; meliora minora prouide, &amp; haec semetipsa singula quaeque connexione, &amp; esse bonum &amp; 
+   <!--61.xml-->
+        <pb ed="#Bb" n="23-v"/>
+        <lb ed="#Bb" n="1"/>optimum desiderantiam facit &amp; vult omnia quaecumque facit &amp; vult. 
+      </p>
+      <p xml:id="vn58an-fe6072-d1e238">
+        ⁋ Ad secundum quod amor determi 
+        <lb ed="#Bb" n="2"/>nat voluntatem ad amandum &amp; volendum, dicendum est quod differt dicere voluntatem determinare ad vo 
+        <lb ed="#Bb" n="3"/>lendum, &amp; inclinare. Quod enim determinat appetitum, ducit ipsum in actum appetendi determinate id ad 
+        <lb ed="#Bb" n="4"/>quod ipsum determinat: quemadmodum dictum est supra de appetitu brutali. Et sic voluntas nunquam ali- 
+        <lb ed="#Bb" n="5"/>quo ad volendum determinatur. Licet enim determinate vult seipsum ita quod non possit se non velle, non  
+        <lb ed="#Bb" n="6"/>tamen determinatur sua voluntas in volendo seipsum ad seipsum volendum: quia voluntas sua 
+        <lb ed="#Bb" n="7"/>non ducitur necessitate praeueniente vt velit se: sed libere seipsum ducit in volendo, licet necessi 
+        <lb ed="#Bb" n="8"/>tate immutabilitatis concomitante: vt dictum est supra. Quod autem voluntatem inclinat ad volendum, 
+        <lb ed="#Bb" n="9"/>non ducit ipsum in actum: sed tantum quasi allicit vt seipsum ducat: quemadmodum habitus virtutum in  
+        <lb ed="#Bb" n="10"/>voluntate inclinant ipsam ad actus proprios eliciendum, &amp; per consimilem modum quasi trahunt pas- 
+        <lb ed="#Bb" n="11"/>siones. Et per hunc modum amor vacare non potest: sed semper allicit voluntatem ad actum volendi bo- 
+        <lb ed="#Bb" n="12"/>num, quod est amoris obiectum, &amp; hoc vel simpliciter indeterminate, quando amor sumitur vt sima 
+        <lb ed="#Bb" n="13"/>pliciter indeterminate respectu cuiuscumque boni: determinate vero quando est respectu alicuius bo- 
+        <lb ed="#Bb" n="14"/>ni determinati, secundum quod de hoc amplius videbitur in quaestione sequenti. 
+      </p>
+      <p xml:id="vn58an-fe6072-d1e269">
+        ⁋ Ad tertium, quod amo 
+        <lb ed="#Bb" n="15"/>recipit magis &amp; minus, &amp; nihil tale est in deo: Dicendum quod differentia est inter actus pertinentes ad dei 
+        <lb ed="#Bb" n="16"/>voluntatem, &amp; ad dei intellectum: quoniam illi qui pertinent ad intellectum, ad creaturas non terminantur 
+        <lb ed="#Bb" n="17"/>sicut effectus intellectus, sed solum sicut terminus. Actus vero volendi dei, quando est in respectu 
+        <lb ed="#Bb" n="18"/>ad creaturas, non solum respicit eas vt actionis terminum: sed vt eius effectum. Quaecumque enim 
+        <lb ed="#Bb" n="19"/>vult in creaturis, quae pertinent ad ipsarum existentiam in esse &amp; in bene esse, effectus diuinae voluntatis sun 
+        <lb ed="#Bb" n="20"/>vt declarari habet loquendo de emanatione creaturarum a deo. Nunc autem ita est, quod actus aliquis 
+        <lb ed="#Bb" n="21"/>potest deum denominare vel ratione substantiae actus, vel ratione effectus qui ex ipso solet conse 
+        <lb ed="#Bb" n="22"/>qui in creaturis licet non ratione substantiae actus. Verbi gratia, cum deus dicitur diligere creatu- 
+        <lb ed="#Bb" n="23"/>ras, substantia huius actionis est in deo: quia est ipsa diuina essentia. Cum vero dicitur quod deus irasci 
+        <lb ed="#Bb" n="24"/>tur creaturis, substantia huius actus secundum quod nominat passionem, non est aliquid in deo, sed  
+        <lb ed="#Bb" n="25"/>ab hoc actu nominatur quia effectum ad modum irascentis operatur circa creaturas. Et primo modo  
+        <lb ed="#Bb" n="26"/>actus de deo dicitur proprie. Secundo autem modo non nisi transumptiue &amp; metaphorice. Et sicut est 
+        <lb ed="#Bb" n="27"/>de substantia actus, sic est de magis &amp; minus circa ipsum actum. Nam magis &amp; minus possunt intel 
+        <lb ed="#Bb" n="28"/>ligi dici de deo circa aliquem actum dupliciter. Vno modo ex intensione in substantia actionis. Ali 
+        <lb ed="#Bb" n="29"/>modo ex intensione in substantia effectus. Primo modo nulla actio omnino dicitur de deo secundum  
+        <lb ed="#Bb" n="30"/>magis &amp; minus: quia actio sua est sua substantia, in qua non cadunt magis &amp; minus. Secundo modo actio 
+        <lb ed="#Bb" n="31"/>voluntatis terminata ad creaturam vt ad effectum eius, dicitur secundum magis &amp; minus. Dicitur enim deus 
+        <lb ed="#Bb" n="32"/>magis diligere maius bonum: quia maius bonum est quod operatur in vno quam in alio: ad modum illius qui  
+        <lb ed="#Bb" n="33"/>magis de bono facit vni quam alteri: quia magis intensiue secundum substantiam amoris amat vnum quam alte- 
+        <lb ed="#Bb" n="34"/>rum. Et sic non proprie sed metaphorice secundum magis &amp; minus praedicantur de deo actus pertinentes ad  
+        <lb ed="#Bb" n="35"/>voluntatem eius. Quare cum amor sit ratio in voluntate actus volendi &amp; causandi effectus bonitatis 
+        <lb ed="#Bb" n="36"/>in creaturis, dicente beato Dionysio. ca. iiii. de di. no. Ipse benefactor existentium amor in optimo, per 
+        <lb ed="#Bb" n="37"/>excellentiam autem subsistens non sinit ipsum infoecundum in seipso manere. Mouit autem ipsum in agen 
+        <lb ed="#Bb" n="38"/>dum, iuxta omnium genitiuam excellentiam. Secundum hunc igitur modum amor in deo potest dici &amp; vere dicitur 
+        <lb ed="#Bb" n="39"/>secundum magis &amp; minus, non ratione substantiae suae, sed intensionis bonitatis in effectu suo: vt ve- 
+        <lb ed="#Bb" n="40"/>re dicatur deus habere maiorem amorem ad maius bonum, &amp; minorem ad minus bonum.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

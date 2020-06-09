@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 7</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 7</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="82-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e990"> <!-- alias="vn58an-a11q7" -->
+      <head xml:id="vn58an-d1e990-Hd1e104">Quaestio 7</head>
+      <head xml:id="vn58an-d1e990-Hd1e107" type="question-title">Utrum doctores sequentes debeant esse instructi et eruditi in scieentiis secularibus</head>
+      <p xml:id="vn58an-d1e990-d1e110">
+        <lb ed="#Ba" n="46"/>CIrca Septimum arguitur: quod nec doctores posteriores periti debent esse vel instructi 
+        <lb ed="#Ba" n="47"/>sapientia seculari: sed simplices. Primo sic. Vbi eadem est causa, &amp; idem effectus 
+        <lb ed="#Ba" n="48"/>Sed eadem est causa essendi simplices posteriores doctores &amp; priores: vt pa- 
+        <lb ed="#Ba" n="49"/>ltet: quia sicut fidei generatio diuinae virtuti est ascribenda: ita &amp; eius conser- 
+        <lb ed="#Ba" n="50"/>uatio: &amp; sicut illi si sapientes vocarentur conditioni suae possent vocationem 
+        <lb ed="#Ba" n="51"/>suam ascribere: ita &amp; isti. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e990-d1e126">
+        ⁋ Secundo sic. non plus virtutis requiritur ad 
+        <lb ed="#Ba" n="52"/>minus quam ad maius. immo potius minus. Sed plus est fidei initium fundare, quam  
+        <lb ed="#Ba" n="53"/>fundatam multiplicare: quia secundum philosophum, Principium maximum &amp; difficillimum estin vnoquoque. Quare 
+        <lb ed="#Ba" n="54"/>cum ad fidei fundationem non requiritur primos doctores peritos esse &amp; instructos: sed magis contrarium 
+        <lb ed="#Ba" n="55"/>vt dictum est: multo fortius nec sequentes doctores requiritur peritos esse: sed contrarium magis. 
+      </p>
+      <p xml:id="vn58an-d1e990-d1e138">
+   <!--179.xml-->
+            <pb ed="#Ba" n="82-v"/>
+        <lb ed="#Ba" n="1"/>
+        ⁋ In contrarium est illud <name ref="#Augustine">Augustinus</name> iii. de doc. Christia. in fine. Vnusquisque de societate gentilium exiens 
+        <lb ed="#Ba" n="2"/>liberales scientias debet ab eis asserere ad vsum iustum praedicandi euangelii. &amp; super illud Exo. v. Vt 
+        <lb ed="#Ba" n="3"/>eamus viam trium dierum in soli. Gl. Trium dierum iter proficiscimur, si rationalem, moralem, naturalem sapientiam 
+        <lb ed="#Ba" n="4"/>de rebus mundialibus auferentes ad instituta diuina convertimus. Sed post primos doctores multi 
+        <lb ed="#Ba" n="5"/>talium ad fidem de societate gentilium exierunt edocti scientiis liberalibus, facti doctores huius scientiae, vt 
+        <lb ed="#Ba" n="6"/>Dionysius, Victorinus, &amp; caeteri huiusmodi. ergo non simplices esse debebant: sed potius edocti. 
+      </p>
+      <p xml:id="vn58an-d1e990-d1e161">
+        <lb ed="#Ba" n="7"/>⁋ Dicendum ad hoc: quod sicut in cognitione naturali innata est nobis via a causa- 
+        <lb ed="#Ba" n="8"/>tis &amp; compositis rerum naturalium &amp; temporalium ad causas earum simplices: tanquam a nobis notio- 
+        <lb ed="#Ba" n="9"/>ribus in notiora naturae: &amp; hoc propter occultationem causarum rerum naturalium: quarum effectus pa- 
+        <lb ed="#Ba" n="10"/>tent: sic multo fortius in cognitione rerum supernaturalium aeternarum: tum quia elongata sunt a no-  
+        <lb ed="#Ba" n="11"/>stro intellectu: tum quia consuetudine cognitionis temporalium multum impedimur a notitia aeter- 
+        <lb ed="#Ba" n="12"/>norum. Oportet igitur illorum diuinorum notitiam in nobis incipere a notioribus nobis. Illorum autem 
+        <lb ed="#Ba" n="13"/>notitia triplex est: quaedam credendo: quaedam intelligendo: quaedam aperte videndo. Quarum prima 
+        <lb ed="#Ba" n="14"/>est inferior &amp; nobis magis proportionabilis: &amp; disponit ad secundam: quia Esaiae. vii. dicitur. Nisi 
+        <lb ed="#Ba" n="15"/>credideritis, non intelligetis. &amp; ambae disponunt ad tertiam. Primae duae sunt vitae huius: tertia vero 
+        <lb ed="#Ba" n="16"/>est vitae futurae. Nunc autem secundum <name ref="#Augustine">Augustinus</name> quod credimus debetur auctoritati: quod autem intelligimus 
+        <lb ed="#Ba" n="17"/>debetur rationi. auctoritas enim rationi viam praeparat: ratio autem ad intellectum cognitionemque perducit. 
+        <lb ed="#Ba" n="18"/>Scientia ergo ista quae est rerum aeternarum: vel ad aeternitatem relatarum, primo in toto genere hu 
+        <lb ed="#Ba" n="19"/>mano velut in vno homine, debuit per fidei auctoritatem fundari: &amp; deinde per rationem in-  
+        <lb ed="#Ba" n="20"/>tellectus patefieri: quae in futuro per apertam visionem debebit manifestari. Sicut ergo primi do 
+        <lb ed="#Ba" n="21"/>ctores in fundando hanc scientiam fidei solum debebant diuinae auctoritati inniti: &amp; ideo esse 
+        <lb ed="#Ba" n="22"/>simplices &amp; immunes ab omni scientia mundana quae innititur rationi: vt dictum est in proxima 
+        <lb ed="#Ba" n="23"/>quaestione: Sic post eius fundationem in diuina auctoritate doctores eius sequentes ad ducendum  
+        <lb ed="#Ba" n="24"/>credentes in intellectum &amp; cognitionem creditorum, debebant inniti rationi. Sicut enim primo 
+        <lb ed="#Ba" n="25"/>rum doctorum principale opus fuit fidem suadere: sic opus posteriorum principale est fidem persua- 
+        <lb ed="#Ba" n="26"/>sam quantum possibile est homini in via intellectam facere: vt quod mundus per priores doctores cre 
+        <lb ed="#Ba" n="27"/>dit, per posteriores intelligat. &amp; iste erat congruus ordo: quia nisi per rius credidisset: postmodum 
+        <lb ed="#Ba" n="28"/>intelligere non potuisset: secundum illud praedictum Esaiae. vii. Nisi credideritis: non intelligetis. Quod ex- 
+        <lb ed="#Ba" n="29"/>ponens <name ref="#Augustine">Augustinus</name> dicit in ser. xxxvii. super lo. primae partis. Ideo credis quia non capis: sed credendo fis ido  
+        <lb ed="#Ba" n="30"/>neus vt capias. Nam si non credis, nunquam capies: quia minus idoneus remanebis. Eides ergo mun 
+        <lb ed="#Ba" n="31"/>det te: vt intellectus impleat te. Et reuera tunc primo homo fit idoneus vt ad doctoris officium 
+        <lb ed="#Ba" n="32"/>accedat: cum fide purgatus diuinorum intellectum perceperit. dicente Orig. super. xvi. Genes. 
+        <lb ed="#Ba" n="33"/>Si fideliter percipiatis auditu, operatur in vobis lsaac. i. Christus purgat corda vestra a terre- 
+        <lb ed="#Ba" n="34"/>nis sensibus: &amp; videntes mysteria in diuinis scripturis esse latentia, &amp; in intellectu proficitis &amp; 
+        <lb ed="#Ba" n="35"/>in spiritualibus sensibus incipietis etiam ipsi esse doctores: &amp; procedent ex vobis flumina aquae  
+        <lb ed="#Ba" n="36"/>viuae. Quare cum ratio manuducens ad intellectum &amp; cognitionem aeternorum vt plurimum 
+        <lb ed="#Ba" n="37"/>est ex scientiis liberalibus: de rebus creatis: oportet posteriores &amp; modernos auctores instructos 
+        <lb ed="#Ba" n="38"/>esse in scientiis secularibus de creaturis. Inuisibilia eni dei per ea quae creata sunt intellecta conspi 
+        <lb ed="#Ba" n="39"/>ciuntur. vt dicitur Ro. i. Et vt dicit Chrysostomus super illud Matthico. vii. Et ecce Centurio. Scri 
+        <lb ed="#Ba" n="40"/>ptura infallibilis de deo, creatura est rerum omnium: quia nihil creatum est in mundo: per quid non  
+        <lb ed="#Ba" n="41"/>manifestissime deus ostenditur. In quorum consideratione (vt dicit <name ref="#Augustine">Augustinus</name> de vera rei, non 
+        <lb ed="#Ba" n="42"/>vana curiositas exercenda est: sed gradus ad semper manentia faciendus (quod vt dicit de quanti 
+        <lb ed="#Ba" n="43"/>tate animae) his facilius contingit qui bene eruditi ad hoc accedunt: non studio inanis gloriae:  
+        <lb ed="#Ba" n="44"/>sed diuino amore veritatis accensi. Nam exercet animum hoc genus disciplinarum ad subtiliora 
+        <lb ed="#Ba" n="45"/>cernenda: ne luce illorum repercussus ea sustinere non valens, in tenebras quas fugere cupie- 
+        <lb ed="#Ba" n="46"/>bat, refugiat: &amp; affert (ni fallor) argumenta certissima quibus quod fuerit inuentum atque confe 
+        <lb ed="#Ba" n="47"/>ctum impudentem habeat dubitationem. ldem de ordine libro secundo. Ego si quid meos mo 
+        <lb ed="#Ba" n="48"/>nere possum, quantum mihi apparet, quantumque sentio, censeo illos disciplinis omnibus erudien 
+        <lb ed="#Ba" n="49"/>dos. Aliter proprie ista intelligi nullo modo possunt. Philosophia rationem promittit: quae non modo  
+        <lb ed="#Ba" n="50"/>non contennere ista mysteria: sed sola intelligere vt intelligenda sunt, cogit. Nullumque aliud habet 
+        <lb ed="#Ba" n="51"/>officium quae vera, &amp; (vt ita dicam) germana philosophia est, quam vt doceat quod sit omnium re 
+        <lb ed="#Ba" n="52"/>rum principium sine principio: quantus ve in eo maneat intellectus quem vnum deum omnipo- 
+        <lb ed="#Ba" n="53"/>tentem, patrem &amp; filium, &amp; spiritum sanctum docent veneranda mysteria. Oportet igitur se- 
+        <lb ed="#Ba" n="54"/>quentes doctores non simplices esse: &amp; idiotas: sed peritos &amp; instructos. Vnde qui primo elegit 
+        <lb ed="#Ba" n="55"/>simplices &amp; indoctos: pauperes &amp; ignobiles: non reliquit sapientes: diuites: &amp; nobiles: quos 
+   <!--180.xml-->
+        <pb ed="#Ba" n="83-r"/>
+        <lb ed="#Ba" n="1"/>etsi non elegit primos: elegit tamen secundos. Vnde dicit beatus Greg. xxxiii. Moral. Prius collegitur 
+        <lb ed="#Ba" n="2"/>indoctos: &amp; postmodum philosophos: &amp; non per oratores docuit piscatores: sed mira potentia per piscatores 
+        <lb ed="#Ba" n="3"/>subegit oratores. Est tamen distinguendum ex parte eorum quae in secularibus scientiis edocentur: quoniam eorum  
+        <lb ed="#Ba" n="4"/>quae tractantur in secularibus scientiis quaedam sunt quorum notitia etiam pertinet ad istam scientiam: vt 
+        <lb ed="#Ba" n="5"/>est prima rerum creatio: &amp; alia quam plurima quae de creaturis sunt credenda. Alia vero sunt quo  
+        <lb ed="#Ba" n="6"/>rum notitia multum adminiculatur ad declaranda &amp; defendenda ea quae pertinent ad istam scien 
+        <lb ed="#Ba" n="7"/>tiam: vt ea quae considerantur in aliis scientiis de anima &amp; de potentiis eius, &amp; plurima consi 
+        <lb ed="#Ba" n="8"/>milia. Sunt etiam alia quae nec ad istam scientiam pertinent: nec adminiculantur ad eam. vt sunt 
+        <lb ed="#Ba" n="9"/>illa in quibus sentire contraria nihil fidei obest omnino: vt sunt mensura quantitatis solis, lunae,  
+        <lb ed="#Ba" n="10"/>terrae: &amp; quam plurium huiusmodi. Esse peritum in scientiis secularibus quo ad omnia ista, est supereminem 
+        <lb ed="#Ba" n="11"/>tis scientiae in sacro doctore. Non enim necesse est ad hoc quod sit doctor idoneus sacrae scriptu- 
+        <lb ed="#Ba" n="12"/>rae, scire illa quae sunt de tertio genere. secundum quod de notitia talium dicit <name ref="#Augustine">Augustinus</name> in epistola 
+        <lb ed="#Ba" n="13"/>ad Petrum presbyterum de origine animae. Non magnum (inquit) doctrinae arbitror detrimen 
+        <lb ed="#Ba" n="14"/>tum ista nescire: et si de corporum quidem generibus subtiliter disputetur, hoc maiore difficulta 
+        <lb ed="#Ba" n="15"/>te quam vtilitate perdiscitur. Vnde omnium talium notitiam vt de numero, &amp; ordine, &amp; motibus caeli: 
+        <lb ed="#Ba" n="16"/>&amp; caeterorum huiusmodi. secundum quod dicit Ambrosius in Hexam, quia aliena sunt a nostro studio &amp; a di- 
+        <lb ed="#Ba" n="17"/>uinae lectionis serie: his qui foris sunt relinquamus. Videntur igitur mihi multum iniuriari philosophis 
+        <lb ed="#Ba" n="18"/>&amp; sacrae scripturae metas transcendere: qui de talibus quaestiones in scholis theologicis praesumunt mo 
+        <lb ed="#Ba" n="19"/>uere. Hinc dicit Ambrus in Hexam. Quid mihi quaerere quae sit mensura circuitus terrae &amp;c. vt infra de 
+        <lb ed="#Ba" n="20"/>materia istius scientiae. Vnde talia quae sunt a nostro studio aliena: quia modicum aut nihil admini- 
+        <lb ed="#Ba" n="21"/>culantur ad ea quae sunt fidei: &amp; aliena sunt a serie lectionis diuinae: quia sacra scriptura non tenet 
+        <lb ed="#Ba" n="22"/>ea inter credenda: nec adminiculantur principaliter ad illa: non oportet scire doctorem idoneum 
+        <lb ed="#Ba" n="23"/>sacrae scripturae. Scire autem illa quae sunt de primo genere. scilicet quae cadunt de creaturis inter cre 
+        <lb ed="#Ba" n="24"/>denda, licet de eis determinant seculares scientiae: similiter &amp; illa quae sunt de secundo genere:  
+        <lb ed="#Ba" n="25"/>quae licet proprie non pertineant ad materiam sacrae scripturae: nec computantur inter credenda: multum 
+        <lb ed="#Ba" n="26"/>tamen eorum notitia adminiculatur ad declarandum &amp; defendendum ea quae sunt huius scientiae: vel etiam ad  
+        <lb ed="#Ba" n="27"/>impugnandum: quia contrariorum eadem est disciplina: Scire inquam talia pertinet ad idoneum doctorem 
+        <lb ed="#Ba" n="28"/>sacrae scripturae: &amp; quo ad istorum notitiam debet esse peritus in scientiis secularibus quo ad illa quae de eis sci 
+        <lb ed="#Ba" n="29"/>re: non potest ex tractatu huius scientiae. Propter quod dicit <ref xml:id="vn58an-d1e990-Rd1e349">
+        <name ref="#Augustine">Augustinus</name> in prim. iii. de docia christa.n</ref> Homo quid volunta 
+        <lb ed="#Ba" n="30"/>tem dei &amp;c. vt infra de auditore: an debeat esse instructus in scientiis secularibus. Est autem triplex ra 
+        <lb ed="#Ba" n="31"/>tio propter quam isti secundi doctores: non simplices: sed instructi esse debent in scientiis secularibus, vt 
+        <lb ed="#Ba" n="32"/>dictum est. Prima, vt errores sapientiae mundanae contrarii veritati fidei cognoscantur &amp; improbentur. 
+        <lb ed="#Ba" n="33"/>secundum quod dicit Hieronymus de fidelibus scientias philosophicas dicsentibus. Discunt (inquit) non vt sequantur: sed vt 
+        <lb ed="#Ba" n="34"/>iudicent atque convincant. Secunda: vt veritates contentas in eis agnoscant: &amp; in vsum doctrinae fidei conver 
+        <lb ed="#Ba" n="35"/>tant. <ref xml:id="vn58an-d1e990-Rd1e368">Decret. d. xxxvii. S. Cur ergo.</ref> 
+       <quote xml:id="vn58an-d1e990-Qd1e371" source="http://scta.info/resource/gd-p1d37-d1e236">Quidam eas ad eruditionem addiscunt: vt errores gentilium legendo 
+        <lb ed="#Ba" n="36"/>detestentur: &amp; vtilia quae in eis inueniunt ad vsum sacrae eruditionis deuoti inuertant: Tales laudabili 
+        <lb ed="#Ba" n="37"/>ter seculares literas addiscunt</quote>. Tertia: vt postquam circa eos diuinae auctoritatis miracula deficiunt:  
+        <lb ed="#Ba" n="38"/>quae primos doctores &amp; eorum doctrinam honorabiles reddebant: saltem eis peritia rationis assistat:  
+        <lb ed="#Ba" n="39"/>ne despicabiles a sapientibus mundi habeantur: &amp; per eos scientia fidei ab infidelibus blasphemetur 
+        <lb ed="#Ba" n="40"/>quia vt dicit <ref xml:id="vn58an-d1e990-Rd1e385">
+        <name ref="#Augustine">Augustinus</name> de ordine li. ii.</ref> loquens de scientiis secularibus, Quisques (inquit) ista ne 
+        <lb ed="#Ba" n="41"/>sciens: non dico de summo illo deo: sed de anima ipsa sua quaerere aut disputare voluerit: tantum er 
+        <lb ed="#Ba" n="42"/>tabit quantum errari plurimum potestest. Vnde Hieronymus super epistolam ad Tit. Risui patet aduer- 
+        <lb ed="#Ba" n="43"/>sus philosophous disputans si ignorat dogmata philosophorum. Discat ergo ea mente doctrinam Chaldaicam: qua  
+        <lb ed="#Ba" n="44"/>Moyses omnem scientiam Aegyptiorum didicerat. Et Augustinusid est super Ge. ante finem. Plerumque accidit:  
+        <lb ed="#Ba" n="45"/>vt aliquis de caelo: de terra: de caeteris mundi huius elementis: de motu &amp; conversione: vel etiam magni 
+        <lb ed="#Ba" n="46"/>tudine &amp; interuallis syderum: de defectibus solis &amp; lunae: de circuitibus annorum &amp; temporum: de na- 
+        <lb ed="#Ba" n="47"/>turis animalium: fructuum: lapidum: &amp; huiusmodi caeteris etiam non Christianus ita nouerit: vt certissima ratione 
+        <lb ed="#Ba" n="48"/>vel experientia teneat. Turpe autem est nimis &amp; prniciosum: ac maxime cauendum: vt Christianum de his 
+        <lb ed="#Ba" n="49"/>rebus quasi secundum literas Christianas loquentem: ita delirare audiat: vt (quemadmodum dicitur) toto cae 
+        <lb ed="#Ba" n="50"/>lo errare conspiciens risum tenere vix possit. Et non tam molestum est quod errans homo, sed quod aucto 
+        <lb ed="#Ba" n="51"/>res nostri ab eis qui foris sunt: talia sensisse creduntur: &amp; cum eorum exitio, de quorum salute sata 
+        <lb ed="#Ba" n="52"/>gimus, tanquam indocti reprehenduntur atque respuuntur. Cum enim quemquam Christianorum in ea re quam  
+        <lb ed="#Ba" n="53"/>optime norint errare deprehenderint: &amp; vanam sententiam suam de nostris libris asserere: quo pa- 
+        <lb ed="#Ba" n="54"/>cto illis libris credituri sunt de resurrectione mortuorum: de spe vitae aeternae: de regno caelo- 
+        <lb ed="#Ba" n="55"/>rum: cum de his rebus quas experiri: vel percipere potuerunt: fallaciter putauerint esse con- 
+   <!--181.xml-->
+        <pb ed="#Ba" n="83-v"/>
+        <lb ed="#Ba" n="1"/>scriptos: De quo ponit exemplum lib. ii. post principium, dicens. Cauendum ne forte quia scriptum in  
+        <lb ed="#Ba" n="2"/>Psal. est. Fundauit terram super aquas. arbitretur aliquis nostrum aduersus de ponderibus ele- 
+        <lb ed="#Ba" n="3"/>mentorum subtiliter disserentes isti testimonio scripturae esse nitendum: quia illi non retenti au-  
+        <lb ed="#Ba" n="4"/>ctoritate literarum nostrarum: &amp; nescientes quemadmodum dictum sit: libros sanctos facilius 
+        <lb ed="#Ba" n="5"/>irridebunt quam illud repudiabunt: quod vel certis rationibus perceperunt: vel experimentis cer- 
+        <lb ed="#Ba" n="6"/>tissimis probauerunt. Illud nanque in Psal. aut figuratiue dictum recte accipi potest: Terram fi- 
+        <lb ed="#Ba" n="7"/>dem simplicem paruulorum dictam: quae per baptismum solidatur: aut ad literam sublimia ter 
+        <lb ed="#Ba" n="8"/>rarum: vel tegmina speluncarum: quae superiora sunt aquis. Opportunum est ergo doctores 
+        <lb ed="#Ba" n="9"/>posteriores huius scientiae instructos esse literis secularibus: ne contra veritates ibi comper- 
+        <lb ed="#Ba" n="10"/>tas aliquid quasi ex libris nostris proferamus. Quid enim (vt ait Augustinus) molestiae, tristi 
+        <lb ed="#Ba" n="11"/>tiaeve ingerant prudentibus fratribus temerarii praesumptores, satis dici non potest: cum siquam 
+        <lb ed="#Ba" n="12"/>do de praua &amp; falsa opinione sua reprehendi &amp; conuinci coeperint ab eis qui auctoritate li- 
+        <lb ed="#Ba" n="13"/>brorum nostrorum non tenentur: ad defendendum id quod leuissima temeritate vel pertinacissi 
+        <lb ed="#Ba" n="14"/>ma falsitate dixerunt, eos libros sanctos vnde id probent proferre conantur: non intelligentes 
+        <lb ed="#Ba" n="15"/>neque quae loquuntur: neque de quibus affirmant. 
+   
+      </p>
+      <p xml:id="vn58an-d1e990-d1e461">
+        <lb ed="#Ba" n="16"/>⁋ Ad primum in oppositum: quod eadem est causa, posteriores esse simplices &amp; prio 
+        <lb ed="#Ba" n="17"/>res: Dicendum quod falsum est. Priorum enim erat fidem fundare in auctoritate diuina fulgenti 
+        <lb ed="#Ba" n="18"/>bus miraculis. Istorum autem est credita cognita facere perspicuis rationibus. Et ideo sicut mi- 
+        <lb ed="#Ba" n="19"/>racula quae in illis fulserunt: in istis defecerunt: quia fundata fide opus eorum non erat: sic ra- 
+        <lb ed="#Ba" n="20"/>tiones quae in posteris luxerunt: in illis opus non habebant: vt dictum est. Sed dicet aliquis: quod  
+        <lb ed="#Ba" n="21"/>sicut fides diuina virtute sola generata est in principio: sic &amp; in omnes posteros generatur &amp; 
+        <lb ed="#Ba" n="22"/>conseruatur: ergo sicut miracula erant necessaria ad generationem fidei in illis: ita &amp; ad gene 
+        <lb ed="#Ba" n="23"/>rationem &amp; ad conseruationem in istis. Dicendum quod fidei generatio &amp; conseruatio in posterio 
+        <lb ed="#Ba" n="24"/>ribus diuinae virtuti interius operanti per gratiam ascribenda est: sicut &amp; generatio in priori- 
+        <lb ed="#Ba" n="25"/>bus: non tamen operanti exterius per miraculorum splendorem in nostris doctoribus: sed per 
+        <lb ed="#Ba" n="26"/>lucem bonorum operum quae debent succedere miraculis. Secundum quod dicit Chrysostomus in prin 
+        <lb ed="#Ba" n="27"/>cipio. ii. partis super Matthoru. Sacerdotis est vt doceat. Et quia miraculorum faciendorum non est 
+        <lb ed="#Ba" n="28"/>semper necessitas, doctrinam suam bona vita quasi miraculis factis commendat. Idem super 
+        <lb ed="#Ba" n="29"/>illud. Videns lesus turbas ascendit in montem. Bona conuersatio sacerdotis sine verbo tenet quia 
+        <lb ed="#Ba" n="30"/>dem sanctos in sanctitate per suum exemplum: verbum adducere ignorantem ad scientiam ve 
+        <lb ed="#Ba" n="31"/>ritatis sine conuersatione bona potest, tenere autem in fide vel sanctitate absque conuersatione 
+        <lb ed="#Ba" n="32"/>bona non potest: magis vero scandalizat. Nec potest conversatio fidei vel posteriorum doctorum 
+        <lb ed="#Ba" n="33"/>vocatio vllo modo eorum industriae ascribi: quia certum est hoc quod dicunt non esse verum nisi 
+        <lb ed="#Ba" n="34"/>ex auctoritate priorum: quam in scripturis suis nobis reliquerunt. Vnde postquam deus fecit quod in se est 
+        <lb ed="#Ba" n="35"/>fidem fundando: homo debet facere quod in se est ipsam manifestando: &amp; ad hoc totis viribus stude 
+        <lb ed="#Ba" n="36"/>re: vt dictum est supra: quia ipsa sapientia dicit: Qui elucidant me: vitam aeternam habebunt: nec 
+        <lb ed="#Ba" n="37"/>solum sapientiae claritatem elucidando sed &amp; sanctitatem vitae confirmando: vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e990-d1e511">
+        ⁋ Ad  
+        <lb ed="#Ba" n="38"/>secundum: quod plus erat fidem fundare quam declarare vel conseruare: Dicendum quod verum est. &amp; ideo 
+        <lb ed="#Ba" n="39"/>plus virtutis requirebat fundatio, non humanae: sed diuinae vt dictum est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

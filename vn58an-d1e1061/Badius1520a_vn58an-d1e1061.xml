@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 5</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 5</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="86-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1061"> <!-- alias="vn58an-a12q5" -->
+      <head xml:id="vn58an-d1e1061-Hd1e104">Quaestio 5</head>
+      <head xml:id="vn58an-d1e1061-Hd1e107" type="question-title">Utrum non instructus nec eruditus in scientiis secularibus possit esse auditor theologiae</head>
+      <p xml:id="vn58an-d1e1061-d1e110">
+        <lb ed="#Ba" n="12"/>CIrca quintum arguitur: quod auditor huius scientiae debet esse instructus in scientiis secu 
+        <lb ed="#Ba" n="13"/>laribus. Primo sic. Illa notitia quae gradus est ad cognoscendum diuina: sine quo ad  
+        <lb ed="#Ba" n="14"/>diuinorum notitiam homo ascendere non posset, debet esse instructus auditor huius 
+        <lb ed="#Ba" n="15"/>scientiae, quia aliter in ea non proficeret. Scientiae seculares sunt huiusmodi, quia docent no-  
+        <lb ed="#Ba" n="16"/>titiam creaturarum, quae sunt gradus ad cognitionem diuinorum, vt dictum est 
+        <lb ed="#Ba" n="17"/>secundum <name ref="#Augustine">Augustinus</name> in praecedenti quaestione. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1061-d1e129">
+        ⁋ Secundo sic. Illa notitia 
+        <lb ed="#Ba" n="18"/>cuius defectus obtundit acumen auditorum huius scientiae ne in ea proficiant, auditores huius 
+        <lb ed="#Ba" n="19"/>scientiae esse debent instructi. Sed scientiae seculares sunt huiusmodi. secundum quod dicit Beda su- 
+        <lb ed="#Ba" n="20"/>per librum retig. Turbat (inquit) lumen legentium, &amp; deficere cogit, qui eos a legendis seculari 
+        <lb ed="#Ba" n="21"/>bus libris omnino existimat prohibendos. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1061-d1e141">
+        ⁋ Contra. ille non est conueniens auditor 
+        <lb ed="#Ba" n="22"/>huius scientiae, cui non placet deo eam reuelare: quia aliter eam frustra audiret, nisi deo placeret 
+        <lb ed="#Ba" n="23"/>intellectum eius ei reuelare: quia eam non potest intelligere: vt dictum est supra, &amp; infra dicetur. sed  
+        <lb ed="#Ba" n="24"/>deo non placet eam reuelare sapientibus secularium literarum. secundum illud Mat. xi. Abscon- 
+        <lb ed="#Ba" n="25"/>disti haec a sapientibus &amp; prudentibus: &amp; reuelasti ea paruulis. lta pater, quoniam sic placitum fuit an  
+        <lb ed="#Ba" n="26"/>te te. Vbi dicit Glos. Ne quis quaerat cur humiles elegit: sapientes reprobet. 
+      </p>
+      <p xml:id="vn58an-d1e1061-d1e154">
+        <lb ed="#Ba" n="27"/>⁋ Dicendum ad hoc, quod auditor huius scientiae potest ipsi intendere dupliciter. secun 
+        <lb ed="#Ba" n="28"/>dum quod dictum est supra, secundum Augustinum. xiiii. de trinitate. Vno modo: vt solummodo ex ea discat quid  
+        <lb ed="#Ba" n="29"/>credendum &amp; quid agendum quantum sibi ad futuram vitam adipiscendam sufficiat. Alio modo vt 
+        <lb ed="#Ba" n="30"/>ex ea discat quantum hoc ipsum quod in ea discit, piis opituletur, &amp; contra impios defendatur. Audi- 
+        <lb ed="#Ba" n="31"/>torem ergo primo modo non oportet esse instructum scientiis secularibus: quia hic scriptum habet 
+        <lb ed="#Ba" n="32"/>sufficienter in superficie doctrinam simplicem credendorum &amp; agendorum, qua sicut lacte paruu- 
+        <lb ed="#Ba" n="33"/>los nutriat, &amp; quam quilibet sine industria secularium literarum capere potest. Auditor vero se- 
+        <lb ed="#Ba" n="34"/>cundo modo si ad perfectionem &amp; magisterium maxime modernis temporibus huius scientiae 
+        <lb ed="#Ba" n="35"/>tendere velit: necessario debet esse instructus scientiis secularibus ad cognitionem creaturarum, 
+        <lb ed="#Ba" n="36"/>secundum quod supra de doctore dictum est. Aliter enim in multis deficiet, nisi specialiter diuinitus illu- 
+        <lb ed="#Ba" n="37"/>stretur. Abscondita enim mysteria huius scientiae &amp; quaestiones altissimae multa indigent manudu 
+        <lb ed="#Ba" n="38"/>ctione ex propriis creaturarum: vt humanus intellectus illa sine ea capere non valeat. Et ideo di 
+        <lb ed="#Ba" n="39"/>cit <name ref="#Augustine">Augustinus</name> in prim. iii. de doctrina christiana. Hon qui voluntatem dei in scripturis sanctis diligenter in  
+        <lb ed="#Ba" n="40"/>quirit, primitus in cognitione quarundam rerum necessariarum ne vim naturanve earum quae pro- 
+        <lb ed="#Ba" n="41"/>pter similitudinem adhibentur, ignoret, veniat ille instructus ad ambigua scripturarum discutien 
+        <lb ed="#Ba" n="42"/>da atque soluenda. Et ideo praecipit Synodus. xxxvii. dist. ca. De quibusdam. dicens. Ab vniuersis Epsis 
+        <lb ed="#Ba" n="43"/>subiectis plebibus &amp; aliis locis in quibus necessitas occurrerit, omnino cura &amp; diligentia adhi- 
+        <lb ed="#Ba" n="44"/>beatur: vt magistri &amp; doctores constituantur, qui studia literarum liberaliumque artium dogmata 
+        <lb ed="#Ba" n="45"/>assidue doceant: quia in his maxime diuina manifestantur &amp; declarantur mandata. Est autem cui- 
+        <lb ed="#Ba" n="46"/>libet discenti &amp; audienti hanc scientiam in fide &amp; charitate vtilis notitia scientiarum secula- 
+        <lb ed="#Ba" n="47"/>rium &amp; creaturarum ex ipsis propter quatuor. Primum quia ex ipsis ingenium acuitur ad facilius 
+        <lb ed="#Ba" n="48"/>arcana huius scientiae penetrandum. secundum quod dicit Beda super libr. Retins. Turbat acumen 
+        <lb ed="#Ba" n="49"/>legentium qui eos a legendis secularibus libris omnino existimat prohibendos. Nam vt dicit Au 
+        <lb ed="#Ba" n="50"/>gustinus de quanti. animae, exercet animum hoc genus disciplinarum ad subtiliora cernenda: ne 
+        <lb ed="#Ba" n="51"/>luce illorum repercussus, &amp; eam sustinere non valens, in easdem tenebras quas fugere conabatur, re- 
+        <lb ed="#Ba" n="52"/>fugiat. Item Orige. exponens illud Gene. xxvi. Quomodo Abimelechi, Ochozath, &amp; Phicol, vene 
+        <lb ed="#Ba" n="53"/>runt ad lsaac, dicit. Qui tres (vt ego arbitror) imaginem totius philosophiae tenent, quae in tres 
+        <lb ed="#Ba" n="54"/>partes diuiditur, Logicam, Physicam, Ethicam. i. rationalem, naturalem, moralem. Quae postquam ex- 
+   <!--188.xml-->
+        <pb ed="#Ba" n="87-r"/>
+        <lb ed="#Ba" n="1"/>posuit, exponens consequenter quom lsaac fecit eis conuiuium magnum, dicit. Quia hoc conuiuium sa- 
+        <lb ed="#Ba" n="2"/>pientibus exhibet, idcirco dicitur quod non paruum, sed magnum conuiuium fecit. &amp; tu si non  
+        <lb ed="#Ba" n="3"/>sis adhuc paruulus lacte indigens: sed exercitatos deferas sensus, &amp; eruditione plurima prae- 
+        <lb ed="#Ba" n="4"/>missa ad intelligentiam verbi dei capacior venias, sit tibi conuiuium magnum: minister verbi 
+        <lb ed="#Ba" n="5"/>loquitur tibi sapientiam, quae inter perfectos profert sapientiam: de mysteriis absconditam pro- 
+        <lb ed="#Ba" n="6"/>fert tibi. Reuelabit tibi Christum, secundum quod in eo sunt Thesauri sapientiae &amp; scientiae abscon- 
+        <lb ed="#Ba" n="7"/>diti. Sapientia non iugulat hostes suos: tantum est vt nos ingressi conuiuium sapientiae non rur- 
+        <lb ed="#Ba" n="8"/>sum nobis indumenta insipientiae deferamus, non infidelitatis veste circundati, nec peccatorum ma 
+        <lb ed="#Ba" n="9"/>culis fuscati: sed in simplicitate &amp; puritate cordis amplectamur verbum dei, &amp; diuinae sapientiae 
+        <lb ed="#Ba" n="10"/>famulemur. Secundum, quia ex ipsis error secularium magistrorum cognoscitur &amp; declinatur. secun.- 
+        <lb ed="#Ba" n="11"/>dum quod dicit Ambrosius super Luc. Legimus aliqua non vt teneamus, sed vt repudiemus. Tertium, quia ex 
+        <lb ed="#Ba" n="12"/>ipsis cognita veritate naturae creaturarum, errores declinantur in detrimentum fidei catholicae vergen 
+        <lb ed="#Ba" n="13"/>tes. Ignorantes enim creaturarum naturam creaturam deum esse opinati sunt, putantes esse a seipso, quod non 
+        <lb ed="#Ba" n="14"/>habet esse nisi ab alio. De quibus dicitur Sapres. xiii. Ignem aut spiritum, aut citatum aerem, aut gyrum stellarum 
+        <lb ed="#Ba" n="15"/>aut nimiam aquam, aut solem &amp; lunam rectores orbis terrarum deos putauerunt. Quod veri philosophi cognoscen 
+        <lb ed="#Ba" n="16"/>tes creaturarum naturas omnino reprobauerunt. secundum quod dicit <name ref="#Augustine">Augustinus</name> in prin. de vera reli. 
+        <lb ed="#Ba" n="17"/>de Socrate. Admonebat (inquit) illos qui mundum istum visibilem summum deum opinabantur, 
+        <lb ed="#Ba" n="18"/>turpitudinis suae: docens esse consequens: vt quilibet lapis tanquam summi dei particula iure coleretur 
+        <lb ed="#Ba" n="19"/>Quid si execrarentur, mutarent sententiam, &amp; vnum deum colerent, a quo totum mundum istum 
+        <lb ed="#Ba" n="20"/>fabricatum cognoscerent. &amp; hoc non cognouerunt: quia naturam creaturae ignorabant, quod enim 
+        <lb ed="#Ba" n="21"/>natura rei non patitur, non ei attribuitur, nisi quia ipsa ignoratur. Vnde ex ignorantia creatu- 
+        <lb ed="#Ba" n="22"/>rae, creaturae quod dei erat attribuebant. secundum quod dicitur Sape. xiii. Incommunicabile nomen lignis 
+        <lb ed="#Ba" n="23"/>&amp; lapidibus imposuerunt. Vnde &amp; propter idem Manichaei duo rerum ponebant principia, cuius 
+        <lb ed="#Ba" n="24"/>causa non erat nisi ordinis creaturarum ad creatorem ignorantia. propter quod dicit <name ref="#Augustine">Augustinus</name> de orig. 
+        <lb ed="#Ba" n="25"/>animae. Error circa creaturam redundat in falsam de deo aestimationem, &amp; hominum mentes a deo ab-  
+        <lb ed="#Ba" n="26"/>ducit, in quem fides adducere nititur. Quartum est, quia ex creaturarum cognitione facilius ad dei cogni- 
+        <lb ed="#Ba" n="27"/>tionem, ac diuinorum eleuamur. secundum quod dicit <name ref="#Augustine">Augustinus</name> de ordine libro secundo. Ego si quid  
+        <lb ed="#Ba" n="28"/>meos monere possum, quantum mihi apparet, quantumque sentio, censeo illos disciplinis omni- 
+        <lb ed="#Ba" n="29"/>bus erudiendos. Aliter quippe ista sic intelligi vt luce clariora sint, nullo modo possunt. Si au- 
+        <lb ed="#Ba" n="30"/>tem pigriores sunt aut aliis negotiis praeoccupati, aut iam duri ad discendum, fidei sibi praesidia parent. 
+        <lb ed="#Ba" n="31"/>Duplex enim est via quam sequimur cum rerum nos obscuritas mouet: aut rationem, aut certe 
+        <lb ed="#Ba" n="32"/>auctoritatem. Philosophia rationem promittit, &amp; vix paucissimos liberat, quos tamen non modo non con- 
+        <lb ed="#Ba" n="33"/>tennere illa mysteria, sed sola intelligere vt intelligenda sunt, cogit. Nullumque aliud habet nego  
+        <lb ed="#Ba" n="34"/>tium quae vera &amp; (vt ita dicam) germana philosophia est, quam vt doceat quod sit omnium rerum principium 
+        <lb ed="#Ba" n="35"/>sine principio, quantusque in eo maneat intellectus, quidve inde in nostram salutem sine vlla degene 
+        <lb ed="#Ba" n="36"/>ratione manauerit, quem vnum deum omnipotentem, patrem &amp; filium &amp; spiritum sanctum docent ve- 
+        <lb ed="#Ba" n="37"/>neranda mysteria. Hinc est etiam quod dicitur Sapes. xiii. Amagnitudine enim speciei &amp; creaturae 
+        <lb ed="#Ba" n="38"/>cognoscibiliter poterit creator horum videri. Ex magnitudine enim videri potest dei virtus. 
+        <lb ed="#Ba" n="39"/>secundum quod dicitur ibidem. Si virtutem &amp; opera eorum (scilicet creaturarum) mirati sunt, in-  
+        <lb ed="#Ba" n="40"/>telligant ab illis quoniam qui haec fecit est illis fortior. Semper enim virtutem facti excedit virtus fa- 
+        <lb ed="#Ba" n="41"/>cientis. Ex specie vero sapientia dei videri potest. Effudit enim illam super omnia opera sua. Ecclsi. i 
+        <lb ed="#Ba" n="42"/>Et ideo dicit Chrysost. super illud Mat. vi. Considerate lilia agri. Cuius (inquit) rei gratia tan- 
+        <lb ed="#Ba" n="43"/>to etiam haerbas decore vestiuit: vt suam scilicet sapientiam creator ostenderet, copiamque virtutis 
+        <lb ed="#Ba" n="44"/>vt vndique illius gratiam disceremus. Non caeli tantumodo gloriam dei narrant, verumnetiam terra. 
+        <lb ed="#Ba" n="45"/>ld etiam maximas designat diuinae diuitias sapientiae, quando etiam in haec quae sunt visibilia tam 
+        <lb ed="#Ba" n="46"/>tum decoris effudit. Ex ipsa vero creatura videri potest dei bonitas, quicquod enim bonitatis vndique  
+        <lb ed="#Ba" n="47"/>in creatura dispersum est, ab illo necessario est, in quo totum quicquid est bonitatis, vnitum est. Sapes 
+        <lb ed="#Ba" n="48"/>xiii. Etenim cum in operibus illius conuersentur, inquirunt &amp; persuasum habent quoniam bona sunt quae vi 
+        <lb ed="#Ba" n="49"/>dentur. Si enim tantum potuerunt aestimare seculum, quomodo eius dominum facilius non inuenerunte: 
+      </p>
+      <p xml:id="vn58an-d1e1061-d1e340">
+        <lb ed="#Ba" n="50"/>⁋ Per haec patent obiecta. Ad primum quod creaturarum notitia est gradus ad diuina: 
+        <lb ed="#Ba" n="51"/>dicendum quod verum est eis qui ad perfectionem notitiae diuinae ex hac scientia debent ascendere, non autem 
+        <lb ed="#Ba" n="52"/>eis quibus sufficit scire ex hac scientia, quae &amp; in credendis &amp; in agendis sibi sunt necessaria ad 
+        <lb ed="#Ba" n="53"/>salutem. Talibus enim modica notitia ex naturis rerum sufficit. 
+      </p>
+      <p xml:id="vn58an-d1e1061-d1e351">
+        ⁋ Ad secundum quod defectus notitiae illorum ob 
+        <lb ed="#Ba" n="54"/>tundit acumen audientium &amp; deficere cogit, dicendum quod verum est ab apprehensione perfectae notitiae diuinorum 
+        <lb ed="#Ba" n="55"/>secundum quod dictum est. Non tamen tantum obtundit: quin ex hac scientia sine illorum notitia capere possunt, 
+   <!--189.xml-->
+        <pb ed="#Ba" n="87-v"/>
+        <lb ed="#Ba" n="1"/>quae sibi sunt necessaria ad salutem. 
+      </p>
+      <p xml:id="vn58an-d1e1061-d1e364">
+        <lb ed="#Ba" n="2"/>⁋ Ad argumentum in oppositum: quod non placet deo scientiam hanc reuelare sa- 
+        <lb ed="#Ba" n="3"/>pientibus: dicendum quod verum est de sapientia sua superbientibus. Vnde dicit Glossa. 
+        <lb ed="#Ba" n="4"/>Sapientibus &amp; prudentibus non opponit insipientes &amp; hebetes: sed paruulos: vt probet se tu- 
+        <lb ed="#Ba" n="5"/>morem damnare non acumen. Vnde non tam prodest in auditore huius scientiae notitia sapien 
+        <lb ed="#Ba" n="6"/>tiae secularis quam obest elatio ex ipsa. Qui ergo in aliis scientiis farcitus in ista scientia proficere 
+        <lb ed="#Ba" n="7"/>velit, humilis &amp; vt paruulus ad eam veniat: quia vt dicit <name ref="#Augustine">Augustinus</name> v. super Gene. Sacra scriptu 
+        <lb ed="#Ba" n="8"/>ra sic loquitur: vt altitudine superbos irrideat: profunditate attentos terreat: veritate magnos 
+        <lb ed="#Ba" n="9"/>pascat: affabilitate paruulos nutriat. Et ideo dicit in fine secundi de doctrina christiana, loquens 
+        <lb ed="#Ba" n="10"/>de Cypriano, Lactantio, Victorino, &amp; caeteris qui suffarcinati literis secularibus ad fidem christia 
+        <lb ed="#Ba" n="11"/>nam conuersi accesserunt. Sed hoc modo (inquit) instructus diuinarum scripturarum studio-  
+        <lb ed="#Ba" n="12"/>sus cum ad eas perscrutandas accedere coeperit, illud apostolicum cogitare non cesset: scientia in-  
+        <lb ed="#Ba" n="13"/>flat: charitas autem aedificat. &amp; hoc maxime in hac scientia in qua praecipue deus superbis resi- 
+        <lb ed="#Ba" n="14"/>stit: humilibus autem:s dat gratiam, sine qua haec scientia addisci non potest: vt consequenter vi- 
+        <lb ed="#Ba" n="15"/>debitur. Vnde si philosophi in eis quae ductu naturalis rationis percipere potuerunt, stetissent. 
+        <lb ed="#Ba" n="16"/>&amp; quantum naturalis ratio dictauit deum colendo ei gratias egissent, summe dispositi fuissent:  
+        <lb ed="#Ba" n="17"/>vt purgati per fidem notitiam huius scientiae susciperent. secundum quod dicit Glos. Romn. i. Philosophis 
+        <lb ed="#Ba" n="18"/>interrogantes creaturas de creatore, ex omni specie ac dispositione quasi voce respondente ex 
+        <lb ed="#Ba" n="19"/>arte artificem cognouerunt. &amp; infra. Quod vtique illis credendum fuit: vt hoc tenendo quid videre pote- 
+        <lb ed="#Ba" n="20"/>rant, ab illo sanarentur qui dederat vt viderent. Si enim hoc facerent, humilitatem seruarent, 
+        <lb ed="#Ba" n="21"/>&amp; possent purgari, atque illi beatissimae contemplationi inhaerere. Hinc dicit <name ref="#Augustine">Augustinus</name> de philosophis. 
+        <lb ed="#Ba" n="22"/>de vera relii. Illi si reuiuiscerent &amp; inuenirent refertas ecclesias, templa deserta, a cupiditate ten- 
+        <lb ed="#Ba" n="23"/>poralium ad intelligibilia &amp; spiritualia vocari &amp; currere humanum genus, dicerent si fortasse ta- 
+        <lb ed="#Ba" n="24"/>les essent, quales fuisse commemorantur, haec sunt quae nos suadere populis non ausi sumus, &amp; eorum 
+        <lb ed="#Ba" n="25"/>potius consuetudini cessimus quam illos in nostram fidem voluntatemque traduximus. lta si hanc vi- 
+        <lb ed="#Ba" n="26"/>tam illi viri nobiscum rursus agere possent, paucis mutatis verbis atque sententiis christiani fie 
+        <lb ed="#Ba" n="27"/>rent: sicut plerique nostrorumque temporum Platonici fecerunt. Aut si hoc non faterentur, nec facerent, in su- 
+        <lb ed="#Ba" n="28"/>perbia &amp; inuidia remanentes nescio vtrum possent ad ea quae appetenda &amp; desideranda esse di 
+        <lb ed="#Ba" n="29"/>xerant, reuocari. Reuera non possent: quia vt dicit Glos. vbi supra, ingrati illi qui eis praestitit vt vi 
+        <lb ed="#Ba" n="30"/>derent, sibi voluerunt tribuere quod videbant, &amp; facti superbi &amp; dicentes se esse sapientes stulti fa- 
+        <lb ed="#Ba" n="31"/>cti sunt. &amp; tamen audacter ad occulta diuinorum perscrutanda, &amp; ad quae naturalis ratio attin- 
+        <lb ed="#Ba" n="32"/>gere non potest procedentes in errores execrabiles ceciderunt. secundum quod dicit Orig. super Exod. 
+        <lb ed="#Ba" n="33"/>Intelligant diuinae &amp; dispensationis &amp; prouidentiae occultissimas esse rationes. Posuit enim deus 
+        <lb ed="#Ba" n="34"/>tenebras latibulum suum: quas illi audacter &amp; temere perscrutari cupientes, &amp; alia ex aliis as- 
+        <lb ed="#Ba" n="35"/>serentes in crassas &amp; palpabiles errorum tenebras deuoluti sunt.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

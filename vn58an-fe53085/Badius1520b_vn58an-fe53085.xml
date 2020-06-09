@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="194-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe53085"> <!-- alias="vn58an-a63q1" -->
+      <head xml:id="vn58an-fe53085-Hd1e104">Quaestio 1</head>
+      <p xml:id="vn58an-fe53085-d1e107">
+        <lb ed="#Bb" n="20"/>CIrca primum arguitur primo, quod relationes cones non differant ab illis quae sunt in poten- 
+        <lb ed="#Bb" n="21"/>tiis, sic. in actiuis &amp; passiuis secundum potentiam actiuam &amp; passiuam non referuntur aliqua  
+        <lb ed="#Bb" n="22"/>inter se nisi quia forma &amp; dispositio agentis communicata est passo per actionem 
+        <lb ed="#Bb" n="23"/>vnius &amp; passionem alterius, puta calefaciens non refertur ad calefactum per potentiam 
+        <lb ed="#Bb" n="24"/>actiuam &amp; passiuam nisi quia passo communicata sit forma caloris quae fuit in agen 
+        <lb ed="#Bb" n="25"/>te: sicut generans non refertur ad generatum nisi quia generato communicata e for 
+        <lb ed="#Bb" n="26"/>ma generantis. sed ex hoc quod calefacto communicata est forma caloris, non referuntur 
+        <lb ed="#Bb" n="27"/>calefaciens &amp; calefactum nisi secundum similitudinem. ex hoc vero quod genito conicata est forma substantialis generan  
+        <lb ed="#Bb" n="28"/>tis, non refertur generans ad generatum nisi secundum identitatem aut similitudinem essentialem, non est ergo aliud  
+        <lb ed="#Bb" n="29"/>referri per potentias actiuas &amp; passiuas quam per identitatem &amp; similitudinem. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe53085-d1e131">
+        ⁋ Similiter quod cones rela- a 
+        <lb ed="#Bb" n="30"/>tiones etiam non differant ab illis quae sunt in mensuris, arguitur sic. relatio per actum mensurandi non est nisi inter mensu 
+        <lb ed="#Bb" n="31"/>ra &amp; mensuratum: sicut relatio non est nisi inter calefaciens &amp; calefactum per actum calefaciendi. sed inter eadem 
+        <lb ed="#Bb" n="32"/>aequalia &amp; similia non est relatio nisi per actum mensurandi: quia non dicuntur aliqua eadem nisi quia mensurantur 
+        <lb ed="#Bb" n="33"/>vno in substantia: nec aequalia nisi quia mensurantur vno in quantitate: nec similia nisi quia mensurantur 
+        <lb ed="#Bb" n="34"/>vno in qualitate. &amp; econtrario non dicuntur aliqua diuersa inaequalia aut dissimilia nisi quia mensurantur multo, vt 
+        <lb ed="#Bb" n="35"/>infra videbitur. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe53085-d1e147">
+        ⁋ In contrarium est <name ref="#Aristotle">Philosophus</name> in. v. metaphysiy. vt tactum est supra: &amp; con- 
+        <lb ed="#Bb" n="36"/>sequenter amplius exponetur. ergo &amp;c. 
+        <lb ed="#Bb" n="37"/>
+      </p>
+      <p xml:id="vn58an-fe53085-d1e158">
+        ⁋ Supposito ex iam declaratis quod sint aliquae relationes communes: &amp; cum hoc etiam super 
+        <lb ed="#Bb" n="38"/>posito quod sint aliae relationes non cones: dico quod ex his duobus sequitur quod sunt diuersae inter se. Sunt enim di-  
+        <lb ed="#Bb" n="39"/>uersae in eo quod sunt plures: quia ex quo sunt plures, non sunt eaedem: quia idem sequitur ad vnum, vt infra dicetur. 
+        <lb ed="#Bb" n="40"/>Diuersum autem siue aliud &amp; idem dicuntur secundum opposita in situ, vt dicit Philosophus. x. meta. &amp; hoc ideo vt 
+        <lb ed="#Bb" n="41"/>dicit Commet. ibidem: quia cum alterum ponitur, aufertur reliquum. Sed quamuis sunt diuersae, quid satis patet ex pluribus 
+        <lb ed="#Bb" n="42"/>praedicamentis: nec de hoc debet hic fieri quaestio per se: quia tamen omnes conveniunt in genere relationis: ideo sequitur ar 
+        <lb ed="#Bb" n="43"/>ticulus iste ad inuestigandum quibus &amp; quom sub communi genere relationis sunt diuersae: quod importat nomen dif 
+        <lb ed="#Bb" n="44"/>ferentiae. Vt enim dicit Phuins. x. meta, quod differt ab aliquo per aliquid differt. &amp; necesse est vt sit aliquid idem 
+        <lb ed="#Bb" n="45"/>o quod non differant. Diuersum autem non oportet quod in aliquo conveniat: quia vt dicit ibidem exponendo textum 
+        <lb ed="#Bb" n="46"/>Phicoru. Omne. Commen. Idest omnia dico entia: aut est diuersum aut idem. <name ref="#Boethius">Boethius</name>  tamen extendit differentias ad  
+        <lb ed="#Bb" n="47"/>diuersum. vbi dicit de triniitate. ca. x. Vbi nulla est differentia, nulla est omnino pluralitas. 
+      </p>
+      <p xml:id="vn58an-fe53085-d1e185">
+        ⁋ Ad videndum autem dif- 
+        <lb ed="#Bb" n="48"/>ferentiam esse aliquam inter se trium generum relationum continentium omnes relationes, &amp; per hoc relationum conmunium ab  
+        <lb ed="#Bb" n="49"/>aliis esse differentiam aliquam, &amp; quam vel qualem: oportet primo videre ortum &amp; originem generum talium trium re 
+        <lb ed="#Bb" n="50"/>lationum a suis principiis causatiuis &amp; fundamentis, &amp; ordinem illorum inter se. Dico ergo quod cum (vt infe- 
+        <lb ed="#Bb" n="51"/>rius declarabitur) relatio non sit nisi respectus quidam cum habitudine, vel habitudo cum respectu diuersorum 
+        <lb ed="#Bb" n="52"/>relatorum inter se: quia esse relatiuorum est ad aliud se habere: &amp; sic habitudo siue respectus relationis non est 
+        <lb ed="#Bb" n="53"/>nisi plurium inter se relatorum: omnis autem pluralitas siue multitudo procedit ab vno: &amp; omnis processio ab vno 
+        <lb ed="#Bb" n="54"/>siue vnius siue plurium est illius vnius vt a quo, &amp; alterius seu aliorum vt qui ab alio: Talis 
+        <lb ed="#Bb" n="55"/>autem processio necessario est secundum rationem producentis &amp; producti, siue productiui &amp; producibilis: Pri 
+   <!--403.xml-->
+        <pb ed="#Bb" n="194-v"/>
+        <lb ed="#Bb" n="1"/>mum ergo genus relationis necessario est secundum rationem producentis &amp; producti, siue secundum rationem prod  
+        <lb ed="#Bb" n="2"/>ctiui &amp; producibilis. Quod quidem genus relationis est existens in potentiis actiuis &amp; passiuis: de quib 
+        <lb ed="#Bb" n="3"/>stinguens tria genera relationum in exemplis dicit sic in. v. meta. Quoddam dicitur sicut calefaciens 
+        <lb ed="#Bb" n="4"/>calefactum, &amp; abscindens ad abscissum, &amp; omne agens ad patiens. &amp; post pauca. Passiua autem &amp; acti 
+        <lb ed="#Bb" n="5"/>ua per potentiam actiuam &amp; passiuam: &amp; actiones potentiarum: sicut calefaciens quod calefacit 
+        <lb ed="#Bb" n="6"/>quia potest: &amp; esse calefaciens ad illud quod calefacit: &amp; abscindens ad illud quod abscindit. Commentator. 
+        <lb ed="#Bb" n="7"/>ldest quoddam genus relatiuorum est in potentiis actiuis &amp; passiuis, non enim acquirit calefaciens hanc 
+        <lb ed="#Bb" n="8"/>dispositionem nisi respectu illius quod calesit. &amp; infra. Relatiua autem collata in genere actionis &amp; per 
+        <lb ed="#Bb" n="9"/>sionis, sunt relatiua per passiones existentes in eis. Et sumit ibi <name ref="#Aristotle">Philosophus</name> actiuum &amp; passiuum lai 
+        <lb ed="#Bb" n="10"/>ge, vt iam dicetur: &amp; quia modus iste relationis consistit in ordine principii ad principatum, ad ipsum 
+        <lb ed="#Bb" n="11"/>pertinet omnis relatio notionalis in diuinis. In eis autem quae se habent adinuicem sicut principium 
+        <lb ed="#Bb" n="12"/>ad principiatum, cum contingit quod principiatum in creaturis vniversale deficiat naturaliter a perfectione for 
+        <lb ed="#Bb" n="13"/>quae est in ipso principio: nec possit illam attingere: sed ipsa est in principiato respectu esse illius quod habet 
+        <lb ed="#Bb" n="14"/>in principio per modum cuiusdam imitationis &amp; gradus inferioris: ex hoc a primo genere relationis 
+        <lb ed="#Bb" n="15"/>uod scilicet est in actiuis &amp; passiuis, eritur genus relationis secundum, quod consistit in mensurs 
+        <lb ed="#Bb" n="16"/>dicit <name ref="#Aristotle">Philosophus</name> ibidem. Et quoddam dicitur sicut mensuratum ad mensuram, &amp; scitum ad scientiam 
+        <lb ed="#Bb" n="17"/>&amp; sensatum ad sensum. Et fundatur hoc genus relationis realiter in forma producti non ratione qua 
+        <lb ed="#Bb" n="18"/>est forma simpliciter, &amp; conformis formae sui principii: sed ratione gradus determinati in quo est 
+        <lb ed="#Bb" n="19"/>ducta non secundum aequalem: sed secundum inferiorem perfectionem. quam sit in suo principio. Et secundum  
+        <lb ed="#Bb" n="20"/>istum modum in producto ponentem gradum, nulla est realis relatio in diuinis abintra: quia in il 
+        <lb ed="#Bb" n="21"/>nulla est productio nisi per omnimodam aequalitatem producti ad producentem: licet aliqua sit in il 
+        <lb ed="#Bb" n="22"/>lis relatio secundum rationem mensurae &amp; mensurati, vt infra declarabitur. Et quia creatura talem relationem secun 
+        <lb ed="#Bb" n="23"/>dum rem habet ad deum sicut mensuratum ad mensuram: econverso deus habet relationem correspon 
+        <lb ed="#Bb" n="24"/>dentem ad creaturam secundum rationem sicut mensura ad mensuratum. Deus enim est mensura omnium 
+        <lb ed="#Bb" n="25"/>creaturarum, excedens: &amp; hoc inquantum immensa perfectio diuinae formae non est in creaturis nisi per 
+        <lb ed="#Bb" n="26"/>quandam participationem eius in gradu determinato. Et ad instar talis relationis inter deum &amp; crea 
+        <lb ed="#Bb" n="27"/>turam est relatio talis inter diuersas creaturas secundum diuersos gradus, in quibus vna alteri supemi- 
+        <lb ed="#Bb" n="28"/>net. &amp; supereminens semper rationem mensurae naturalis habet respectu illius cui superei 
+        <lb ed="#Bb" n="29"/>absque omni productione mensurati a mensura. Et in creaturis rationem talis mensurae primo &amp; pri 
+        <lb ed="#Bb" n="30"/>cipaliter habet vnum respectu numeri: quia vt dicit <name ref="#Aristotle">Philosophus</name> in. x. metaphy. ex hoc dicitur mensu 
+        <lb ed="#Bb" n="31"/>ra in aliis rebus. Commet. Idest ex hoc vno numerali fuit transumptum hoc nomen mensura ad quod  
+        <lb ed="#Bb" n="32"/>libet eorum quae dicuntur mensurae: sed diuersimode. Vt enim dicit in. v. eiusdem, non vnum in omnibus generi- 
+        <lb ed="#Bb" n="33"/>bus est idem. In quibusdam enim tonus est vnum: &amp; in quibusdam vocale est vnum &amp;c. Commentator. idest 
+        <lb ed="#Bb" n="34"/>vnum in omnibus generibus non est eiusdem naturae: sed in quolibet genere differt a se in alio. Et vt di- 
+        <lb ed="#Bb" n="35"/>cit super. x non est semper vna mensura in quolibet genere: sed inuenitur in vno genere plus quam vna men- 
+        <lb ed="#Bb" n="36"/>sura: sed maior mensuratur per minorem. Et praeter huiusmodi mensuram naturalem est quaedam alia mensu- 
+        <lb ed="#Bb" n="37"/>ra artificialis per hominum institutionem. de qua dicit Commenta. prius in eodem. x. Cum homines vo- 
+        <lb ed="#Bb" n="38"/>luerunt mensurare in istis rebus, posuerunt vnum per institutionem: &amp; inspexerunt quod esset valde si- 
+        <lb ed="#Bb" n="39"/>mile vni numerali: &amp; acceperunt illud quod non recipit maius &amp; minus in sensu: sicut fecerunt in potes 
+        <lb ed="#Bb" n="40"/>deribus quae fundantur super grana hordei: &amp; in omnibus accipiunt vnam mensuram indiuisibilem secun 
+        <lb ed="#Bb" n="41"/>dum sensum, similem mensurae natural scilicet vni numerali. Vnde patet quod omnis mensura rationem vnita 
+        <lb ed="#Bb" n="42"/>tis &amp; simplicitatis habet respectu mensurati: &amp; mensuratum in se semper habet rationem alicuius con 
+        <lb ed="#Bb" n="43"/>positionis &amp; numeri respectu mensurae, sicut &amp; omnis creatura respectu dei. Et sic vniuersaliter iste 
+        <lb ed="#Bb" n="44"/>secunds modus est inter mensuram &amp; mensuratum sicut inter vnitatem &amp; numerum. Omnis enim men 
+        <lb ed="#Bb" n="45"/>sura vnitatem &amp; simplicitatem habet respectu mensurati: &amp; omne mensuratum respectu mensurae compo 
+        <lb ed="#Bb" n="46"/>sitionem &amp; numerum habet in se. Ab isto autem modo secundo relationis quid consistit generaliter inter vnita- 
+        <lb ed="#Bb" n="47"/>tem &amp; numerum, &amp; hoc quo ad substantiam numeri, procedit tertium genus siue modus relationum: quid consistit in 
+        <lb ed="#Bb" n="48"/>comparationibus &amp; accntibus numerorum: quemadmodum accidens procedit a substantia. Et continet hoc tertium 
+        <lb ed="#Bb" n="49"/>genus relationum omnes relationes cones. de quibus dicit Philosophus. v. meta. Quaedam dicuntur relatiua sicut duplum ad  
+        <lb ed="#Bb" n="50"/>dimidium &amp;c. Et distinguendo istos duos modos scilicet secundum &amp; tertiu, subdit. Omnia ista dicuntur relatiua 
+        <lb ed="#Bb" n="51"/>per nunerum &amp; per accidentia nuneri. Commen. Idest omnia relatiua nuneri &amp; vnius sunt relatiua: aut quia sunt in substam 
+        <lb ed="#Bb" n="52"/>tia ipsius numeri: aut quia sunt in accntibus nueri. Et accntia numeri sunt minus, plus, addens, &amp; diminutum: equam 
+        <lb ed="#Bb" n="53"/>le &amp; inaequale &amp; similia. Numeri autem secundum substantiam sunt vnum, duo, tria, quatuor, quinque, &amp; dein- 
+        <lb ed="#Bb" n="54"/>ceps. sub quibus comprehenditur vnitas. Propter quod enumeratis istis relationibus quae sunt in acci 
+        <lb ed="#Bb" n="55"/>dentibus numeri, subdit. Et vnum est principium numerorum &amp; mensura eorum. Commentator. 
+   <!--404.xml-->
+        <pb ed="#Bb" n="195-r"/>
+        <lb ed="#Bb" n="1"/>idest, &amp; vnum quod est principium numerorum, &amp; mensura eorum, concluditur etiam in relatiuis quae sunt in nunero- 
+        <lb ed="#Bb" n="2"/>licet alio &amp; alio modo nunerus &amp; vniversale mensuratum refertur ad vnitatem &amp; mensuram: &amp; econverso vnitas &amp; vniversal 
+        <lb ed="#Bb" n="3"/>mensura ad mensuratum: qua. scilicet vnum &amp; vniversale mensura dicitur relatiue secundum rationem ad mensuratum: quia mensuratum siue 
+        <lb ed="#Bb" n="4"/>numerus dicitur relatiue secundum rem ad illam. Vnde assignando quo ad hoc differentiam aliarum relationum ad  
+        <lb ed="#Bb" n="5"/>illam quae est mensurae ad mensuratum, dicit. Omnia quae dicuntur modo numeri &amp;c. vt supra in praecedenti quaestione. Est 
+        <lb ed="#Bb" n="6"/>autem hic aduertendum quod modus relationum conmunium quem nos iam posuimus tertium, Philosophus. v. meta. ponit 
+        <lb ed="#Bb" n="7"/>primum: sed ipse respicit ad facilitatem doctrinae: quia enim nobis notior est relatio communis quam illa quae est in 
+        <lb ed="#Bb" n="8"/>actiuis aut in mensuris: ideo illam praeposuit. Nos autem aspicientes ad naturam rei secundum ordinem praedictum, prae 
+        <lb ed="#Bb" n="9"/>ponimus relationem quae est in actiuis &amp; passiuis: &amp; sic relatio in mensuris ordine doctrinae vltima est 
+        <lb ed="#Bb" n="10"/>quia difficilior: &amp; ordine naturae media. Quod dixerim ne aliqui aestiment me contraria dixisse in eo quod  
+        <lb ed="#Bb" n="11"/>in quaestionibus de Quolibet sequendo ordinem doctrinae secundum processum Philosophi, dixi quod primus modus 
+        <lb ed="#Bb" n="12"/>relationis est ille qui est modo numerum. scilicet relationum conmunium. Nunc autem dico sequendo naturam rei quod il- 
+        <lb ed="#Bb" n="13"/>le vltimus est seu tertius. 
+      </p>
+      <p xml:id="vn58an-fe53085-d1e370">
+        ⁋ Ad videndum autem clarius quom a dicto genere secundo relationis deriuatur 
+        <lb ed="#Bb" n="14"/>istud tertium, aduertenda sunt primo quaedam de oppositione vnius &amp; multi. Secundo qualiter ab vno &amp; 
+        <lb ed="#Bb" n="15"/>multo quae sunt secundo genere relationis opposita relatiue: deriuantur illa quae sunt relatiua tertio genere. Cir 
+        <lb ed="#Bb" n="16"/>ca oppositionem igitur vnius &amp; multi sciendum est: quod vt dicit <name ref="#Aristotle">Philosophus</name> in. x. meta. vnum &amp; multum 
+        <lb ed="#Bb" n="17"/>opponuntur multis modis. vbi dicit Commen. Intendit quod opponuntur magis quam secundum vnum mo-  
+        <lb ed="#Bb" n="18"/>dum. Ad sciendum autem diuersos modos oppositionis vnius &amp; multi: attendendum est quod vnum siue 
+        <lb ed="#Bb" n="19"/>vnitas secundum rationem sui nominis a negatione imponitur: quia significat rem sub ratione indiuisionis. Mul- 
+        <lb ed="#Bb" n="20"/>tum autem econtrario significat rem sub ratione diuisionis. dicente Philosopho in eodem. Quod diuiditur dicitur 
+        <lb ed="#Bb" n="21"/>multum. Illud autem quod non diuiditur, dicitur vnum secundum quod non diuiditur. Commen. Vnum indiuisibile: multum autem  
+        <lb ed="#Bb" n="22"/>est diuisibile. Et secundum rationem huius diuisionis &amp; indiuisionis vnum &amp; multum opponuntur: &amp; hoc du 
+        <lb ed="#Bb" n="23"/>plici oppositione. Vna. scilicet qua quaeque res in se vna existens diuiditur ab alia re. Alia vero qua res aliqua ab  
+        <lb ed="#Bb" n="24"/>alia diuisa diuiditur infra semetipsam. Prima quidem diuisio est multorum inquantum multa sunt siue plu 
+        <lb ed="#Bb" n="25"/>ra: quae ad nullam vnitatem redacta sunt inquantum huiusmodi: &amp; hoc siue illa plura nata sint in aliquam vni- 
+        <lb ed="#Bb" n="26"/>tatem numeralem naturalem redigi aut per se vt materia &amp; forma in composito: &amp; plures vnitates in nune 
+        <lb ed="#Bb" n="27"/>ro eodem naturali: aut per accidens: vt scientia &amp; accidens in composito ex vtroque: aut plura accidentia in  
+        <lb ed="#Bb" n="28"/>eodem subiecto: siue illa plura non sint nata reduci in vnitatem numeralem naturalem, vt deus &amp; crea 
+        <lb ed="#Bb" n="29"/>tura, quae nullo in vnitatem reducuntur: aut duo angeli: qui tamen reducuntur in vnitatem numeri essentia 
+        <lb ed="#Bb" n="30"/>lis, quid numerus formalis dicitur: licet non reducantur in vnitatem numeri naturalis, qui numerus ma-  
+        <lb ed="#Bb" n="31"/>terialis dicitur. Quae secundum istam primam diuisionem sunt multa: nequaquam sunt vnum aut ens indiuisum: 
+        <lb ed="#Bb" n="32"/>sed est multum continens in se multa abinuicem diuisa: quae sunt multa vna, &amp; multa siue plura entia ab 
+        <lb ed="#Bb" n="33"/>inuicem diuisa: nequaquam sub aliqua indiuisione contenta. Et multitudo inquantum continet sic mul- 
+        <lb ed="#Bb" n="34"/>ta, non opponitur vni neque enti alicui singulari: sicut diuisio indiuisioni: quia omne vnum tale to- 
+        <lb ed="#Bb" n="35"/>to eo quod est, est pars alicuius quod taliter est multum siue multitudo: pars autem id quod pars toti non 
+        <lb ed="#Bb" n="36"/>opponitur. Sed tale multum siue multitudo, opponitur priuatiue vni quod conuertitur cum ente: quod siu- 
+        <lb ed="#Bb" n="37"/>gula entia continet sub ratione illa qua quodlibet eorum est in se indiuisum: licet adinuicem sub nul 
+        <lb ed="#Bb" n="38"/>la indiuisione sunt redacta: sicut non sunt deus &amp; creatura. Et vtrumque eorum vt vnum. scilicet &amp; multa sit 
+        <lb ed="#Bb" n="39"/>opposita, circuit omne genus: &amp; non est aliquo genere determinato. Sic enim in substantia materia se 
+        <lb ed="#Bb" n="40"/>cundum se est vnum: &amp; similiter materia &amp; compositum ex ambobus: &amp; materia &amp; forma secundum  
+        <lb ed="#Bb" n="41"/>se sunt multa: &amp; compositum est vnum. Et isto modo oppositionis loquitur <name ref="#Aristotle">Philosophus</name> vbi dicit. x. meta. Vnum 
+        <lb ed="#Bb" n="42"/>&amp; multum opponuntur multis modis: et vnus eorum est vnum et plura vt diuisio et indiuisio. vbi di- 
+        <lb ed="#Bb" n="43"/>cit Commen. Manifestum est quod vnum opponitur pluri secundum habitum et priuationem. Indi uisi 
+        <lb ed="#Bb" n="44"/>bilitas enim est priuatio diuisibilitatis. Vnde Philosophus. v. meta. loquens de vno quod convertitur cum 
+        <lb ed="#Bb" n="45"/>ente, dicit sic. Prima genera sunt vnum et ens, et oppositum vni est multitudo: et vnum aut erit ne 
+        <lb ed="#Bb" n="46"/>gatio aut priuatio. Commentator. Idest vnum et multum aut opponuntur secundum affirmationem 
+        <lb ed="#Bb" n="47"/>aut secundum habitum et priuationem. et intendit quod secundum habitum et priuationem, sicut determinat in. x. vt iam 
+        <lb ed="#Bb" n="48"/>dictum est. 
+      </p>
+      <p xml:id="vn58an-fe53085-d1e455">
+        ⁋ Secunda diuisio praetacta est non inquantum sunt multa: sed potius vt sunt ad aliquam vnitatem redacta 
+        <lb ed="#Bb" n="49"/>in eo scilicet quod est vnum, vel per accidens: et propter hoc illa diuisio non est proprie multorum: sed multi: quod quidem 
+        <lb ed="#Bb" n="50"/>multum est aliquod vnum contentum sub vno quod conuertitur cum ente: et sic diuisiuum illius. sicut 
+        <lb ed="#Bb" n="51"/>ens diuiditur in vnum et multum: sic et vnum conuertitur cum ente. Et est multum omne illud omnium in quo  
+        <lb ed="#Bb" n="52"/>est aliquis numerus: et vnum quod condiuidit ens, et vnum quod convertitur cum ente contra multum, est vnum in quo  
+        <lb ed="#Bb" n="53"/>nullus aut non talium cadat numerus. Et tale vnum respectu numeri cuiuscumque est vnum quod est principium 
+        <lb ed="#Bb" n="54"/>numeri materiale. Et tale multum est omnis numerus: quia in omni numero est vnitatum talium pluritas sub 
+        <lb ed="#Bb" n="55"/>vnitate aliqua formali contenta: sed deficiente a puritate et simplicitate formae vnius quod est principium 
+   <!--405.xml-->
+        <pb ed="#Bb" n="195-v"/>
+        <lb ed="#Bb" n="1"/>ipsius numenri cum per se consideratur. Propter quod vnum tale quod est principium numeri vt secundum se est 
+        <lb ed="#Bb" n="2"/>consideratum, ratione suae formae est mensura omnium numerorum sequentium ipsum quo ad rationem for- 
+        <lb ed="#Bb" n="3"/>mae vnitatis defectiue existentis in quolibet numero, &amp; opponitur multo, quod est in numero tale: sicut 
+        <lb ed="#Bb" n="4"/>mensura mensurato. De qua oppositione loquitur <name ref="#Aristotle">Philosophus</name> cum dicit. x. metaphysicae. Et opponitur 
+        <lb ed="#Bb" n="5"/>vnum multitudini: sicut cum aliquis dicit vnum &amp; vna, album &amp; alba: &amp; mensurata in respectu mensu- 
+        <lb ed="#Bb" n="6"/>rae: &amp; mensura est vnum: &amp; omne vnum est mensuratum ab vno. Commentator. Idest modus quo vnum 
+        <lb ed="#Bb" n="7"/>ppponitur multitudini est modus quo vnum opponitur multo quod est de specie illius vnius: vt vnum album 
+        <lb ed="#Bb" n="8"/>ppponitur pluribus albis. &amp; ista oppositio non est alia nisi mensurantis ad mensuratum: &amp; numeran- 
+        <lb ed="#Bb" n="9"/>tis ad numeratum: omnis enim multitudo mensuratur per vnum. 
+      </p>
+      <p xml:id="vn58an-fe53085-d1e500">
+        ⁋ De isto vno &amp; multo sibi oppo 
+        <lb ed="#Bb" n="10"/>sito dupliciter: Sciendum est quod licet cum inter se comparantur vnum illorum formaliter est mensura: &amp; 
+        <lb ed="#Bb" n="11"/>alterum mensuratum: tamen quando comparantur ad alia praedicamenta: &amp; etiam ad alias quantitates: am 
+        <lb ed="#Bb" n="12"/>bo se habent vt mensura respectu illorum: quia vnitas mensura est vnius substantiae, vnius magnitu 
+        <lb ed="#Bb" n="13"/>dinis, vnius quantitatis: &amp; similiter denarius decem ex singulis talibus, puta decem substantiarum, de- 
+        <lb ed="#Bb" n="14"/>cem magnitudinum, &amp; decem qualitatum. Et est iste modus mensurandi alias res per vnitatem &amp; numen 
+        <lb ed="#Bb" n="15"/>rum: alius a modo mensurandi numerum per vnitatem. Mensura enim ista numeri per vnitatem semper 
+        <lb ed="#Bb" n="16"/>excedit mensuratum: quia perfectio quam mensura habet per essentiam: &amp; secundum quod est mensura: partici 
+        <lb ed="#Bb" n="17"/>patur in mensurato vt forma vnitatis in binario, ternario, &amp; caeteris, secundum quam mensuratum est men 
+        <lb ed="#Bb" n="18"/>suratum. Non enim sub tanta indiuisione qua vnitas est vna: est numerus vnus: quia semper sub mi 
+        <lb ed="#Bb" n="19"/>nori indiuisione est vnus quilibet numerus quam sit vnitas quae est principium eius: &amp; semper nume 
+        <lb ed="#Bb" n="20"/>rus est sub tanto minori indiuisione: quanto magis elongatus est ab vnitate prima. Illa vero men 
+        <lb ed="#Bb" n="21"/>sura quae est aliarum rerum per vnum &amp; multum: semper aequatur mensurato. Et se habent vnum &amp; mul 
+        <lb ed="#Bb" n="22"/>tum ad sua mensurata non relatiue secundo genere relationis: sed solummodo sicut accidens ad subie- 
+        <lb ed="#Bb" n="23"/>ctum. Et est mensura primo modo mensura essentialis rei mensuratae in suo participato. Secunda ve 
+        <lb ed="#Bb" n="24"/>ro est omnino accidentalis. 
+      </p>
+      <p xml:id="vn58an-fe53085-d1e535">
+        ⁋ De vno autem &amp; multo secundum istum modum intentum mensurandi alia, ad scien 
+        <lb ed="#Bb" n="25"/>dum quomodo a secundo modo relationis procedat tertius: oportet aduertere quod vnum &amp; multum si 
+        <lb ed="#Bb" n="26"/>ue numerus principaliter descendunt in tria praedicamenta absoluta, sub quibus continentur alia inquan- 
+        <lb ed="#Bb" n="27"/>tum mensurantur vno &amp; multo: quae sunt substantia, quantitas, &amp; qualitas. Quantitas enim tam continua as 
+        <lb ed="#Bb" n="28"/>discreta non solum descendit sub ratione mensurantis accidens in substantiam &amp; in qualitatem: sed etiam in se 
+        <lb ed="#Bb" n="29"/>ipsam: &amp; maxime discreta: quae descendit in continuam inquantum magnitudines numeri sunt. vt dicitur 
+        <lb ed="#Bb" n="30"/>primo libro poster. Primo enim vnitas &amp; numerus descendunt in seipsos vt mensura accntalis mensu 
+        <lb ed="#Bb" n="31"/>rans per adaequationem: dicendo vna vnitas, duae vnitates, &amp; sic deinceps: vnus binarius: duo binarii 
+        <lb ed="#Bb" n="32"/>&amp; deinceps: &amp; sic de ternario &amp; quaternario &amp; deinceps. Et secundo in quantitatem continuam: &amp; hoc 
+        <lb ed="#Bb" n="33"/>vel sub ratione qua est continua, vt pedale, bipedale, &amp; deiceps: vel sub ratione qua est discreta, vt vnum 
+        <lb ed="#Bb" n="34"/>pedale duo pedalia: vnum bipedale duo bipedalia: &amp; deinceps: &amp; sic de tripedali &amp; quadripedali &amp;c. 
+        <lb ed="#Bb" n="35"/>Et tertio in substantiam &amp; qualitatem, vt vna, duae, tres substantiae aut qualitates: &amp; sic deinceps. Quod  
+        <lb ed="#Bb" n="36"/>intelligit <name ref="#Aristotle">Philosophus</name> cum dicit in x. metaphysicae. Prima mensura cuiuslibet generis, quantitates 
+        <lb ed="#Bb" n="37"/>discretae: &amp; ex hoc in rebus aliis. Mensura enim est per quod cognoscitur quantitas: &amp; quantitas cognoscitur 
+        <lb ed="#Bb" n="38"/>per hoc quod est quantitas aut per vnum aut per numerum: &amp; omnes numeri cognoscuntur per vnum 
+        <lb ed="#Bb" n="39"/>&amp; omnis quantitas secundum quod est quantitas cognoscitur per vnum: &amp; ideo vnum est principium 
+        <lb ed="#Bb" n="40"/>numeri: &amp; ex hoc dicitur mensura in aliis rebus: per quam scitur quaelibet earum, &amp; actio cuiuslibet, quae 
+        <lb ed="#Bb" n="41"/>est vna. Commet tid est necesse est in vnoquoque genere vt vnum secundum quod est indiuisibile sit prima mensu- 
+        <lb ed="#Bb" n="42"/>ra illorum quae sunt in illo genere. scilicet quod natura vnius est natura mensurae. &amp; praecipue in generibus ha 
+        <lb ed="#Bb" n="43"/>bentibus mensuram primo &amp; essentialiter scilicet in quantitate discreta. hoc enim in eis est prius aliis re 
+        <lb ed="#Bb" n="44"/>bus quibus accidit mensura. Per hoc autem quod vnum &amp; multum quae se habent adinuicem secundo modo relationis, com 
+        <lb ed="#Bb" n="45"/>parantur ad alia mensurata accuntaliter scilicet tria praedicamenta absoluta, ad quae omnia alia reducuntur inquantum ha 
+        <lb ed="#Bb" n="46"/>bent mensuras ab vno &amp; multo, secundum quod infra videbitur, causantur in substantia ab vno &amp; multo idem 
+        <lb ed="#Bb" n="47"/>&amp; diuersum: in quantitate aequale &amp; inaequale: in qualitate simile &amp; dissimile. dicente Philosopho in 
+        <lb ed="#Bb" n="48"/>v. meta. Sunt eadem quorum substantia est vna: &amp; similia quorum qualitas est vna: &amp; aequalia quorum quanti- 
+        <lb ed="#Bb" n="49"/>tas est vna. Quae cum suis contrariis consideratae, quae sunt diuersum, inaequalitas, &amp; dissimile, continent 
+        <lb ed="#Bb" n="50"/>omnes relationes communes secundum tres contrarietates ad quas omnia contraria habent reduci. di 
+        <lb ed="#Bb" n="51"/>cente eodem. iiii. metaphy. Principia contrariorum sunt vnum &amp; multum. &amp; Commnetor eiusdem. Prima contrario 
+        <lb ed="#Bb" n="52"/>rum &amp; eorum genera sunt vnum &amp; multum. Et quia relationes communes secundum hunc modum causantur ab vno &amp; 
+        <lb ed="#Bb" n="53"/>multo scilicet vt vnum &amp; multum accidunt rebus: ideo relationes cones dicuntur esse in accidentibus numero 
+        <lb ed="#Bb" n="54"/>rum: sicut relatio secundum mensuram &amp; mensuratum dicitur esse in substantia nunerorum. &amp; dicuntur etiam omnes relatio 
+        <lb ed="#Bb" n="55"/>nes esse relationes modo numeri: quia accidens tenet quendam modum subiecti sui. Et per hunc modum ab vno 
+   <!--406.xml-->
+        <pb ed="#Bb" n="196-r"/>
+        <lb ed="#Bb" n="1"/>&amp; multo quae se habent adinuicem secundo modo relationis, inquantum applicata sunt ad alia vt mensurantia 
+        <lb ed="#Bb" n="2"/>illa, causantur relationes communes secundo modo relationis communis. 
+      </p>
+      <p xml:id="vn58an-fe53085-d1e618">
+        ⁋ Ex quo patet quid dicendum sit ad quaestio 
+        <lb ed="#Bb" n="3"/>nem, videlicet quod relationes counes quam plurimum differunt ab aliis duobus generibus relationum: secundum  
+        <lb ed="#Bb" n="4"/>quod hoc clare patet ex ortu &amp; origine adinuicem ipsorum praedictis. Quod enim oritur ab alio inquantum huiusmodi, dif 
+        <lb ed="#Bb" n="5"/>ferentiam aut distinctionem necessario habet ab illo. Caeterum de eorum vlteriori differentia, quo scilicet &amp; quom 
+        <lb ed="#Bb" n="6"/>differunt inter se, patebit in quaestionibus duabus sequentibus. Et sic concedenda est vltima ratio. 
+      </p>
+      <p xml:id="vn58an-fe53085-d1e629">
+        <lb ed="#Bb" n="7"/>⁋ Ad primam in oppositum quod genus relationum communium non differt a genere re 
+        <lb ed="#Bb" n="8"/>lationum in actiuis &amp; passiuis: quia non referuntur inter se actiuum &amp; passiuum nisi quia forma vnius  
+        <lb ed="#Bb" n="9"/>alteri conicatur: secundum quam etiam dicuntur iidem, aequales, &amp; similes, ergo &amp;c. Dico quod licet in actiuis &amp; passit 
+        <lb ed="#Bb" n="10"/>uis quae referuntur adinuicem, per eorum actionem &amp; passionem forma vnius alteri conicetur, non tamen propter 
+        <lb ed="#Bb" n="11"/>huiusmodi communitatem adinuicem referuntur. Etenim huiusmodi forma sicut &amp; ipse motus per quem inducitur ab acti- 
+        <lb ed="#Bb" n="12"/>uo in passiuum: non est id per quod vt tanquam per fundamentum vnum eorum referatur ad alterum: sed illud potius sunt 
+        <lb ed="#Bb" n="13"/>potentia actiua &amp; passiua: quae sunt principia ipsius motus &amp; communicationis formae actiui in passiuum 
+        <lb ed="#Bb" n="14"/>llla autem forma inquantum comomunis est: est id per quod fundamentaliter referantur adinuicem secundum relationes 
+        <lb ed="#Bb" n="15"/>communes: quia propter illius communitatem sunt relationes illae communes, secundum quod infra videbitur 
+        <lb ed="#Bb" n="16"/>disputando de relationibus communibus in comparatione ad earum fundamenta. 
+      </p>
+      <p xml:id="vn58an-fe53085-d1e653">
+        ⁋ Ad secundum quod re 
+        <lb ed="#Bb" n="17"/>lationes communes non differunt a relationibus in mensuris: quia non dicuntur aliqua eadem, aequalia, aut simi  
+        <lb ed="#Bb" n="18"/>lia nisi per actum mensurandi: Dico quod aliqua dicuntur relatiua per actum mensurandi dupliciter: &amp; hoc 
+        <lb ed="#Bb" n="19"/>tam ex parte mensurae, quam ex parte mensurati &amp; ipsius relationis consequentis actum mensurandi. Ex parte men 
+        <lb ed="#Bb" n="20"/>surae: quia vt iam dictum est, mensura quae mensurat in secundo genere relationis, qua. scilicet in creaturis vnum 
+        <lb ed="#Bb" n="21"/>mensurat numerum siue multum, est mensura excedens mensuratum essentialis mensurae verae in substam 
+        <lb ed="#Bb" n="22"/>tia sua. Mensura vero quae mensurat in tertio genere relationis, qua. scilicet vnum &amp; multum mensurant substantiam 
+        <lb ed="#Bb" n="23"/>quantitatem aut qualitatem: est mensura aequata mensurato accidentibus mensuris rei exterius: &amp; est omnino  
+        <lb ed="#Bb" n="24"/>extra mensuratum. Illa vero quae est in secundo genere relationis, est in suo mensurato sicut veritas in sua 
+        <lb ed="#Bb" n="25"/>effigie: sed illa de tertio genere est in mensurato sicut accidens in subiecto. Item mensuratum in secundo genere 
+        <lb ed="#Bb" n="26"/>mensuratur ratione gradus perfectionis qui est in sua essentia. Mensuratum vero in tertio genere mensuratur ratio- 
+        <lb ed="#Bb" n="27"/>ne suae essentiae simpliciter. Item relatio in primo modo mensurandi est inter mensuram &amp; mensuratum 
+        <lb ed="#Bb" n="28"/>in secundo vero est inter duo mensurata. Licet ergo relationes in secundo genere &amp; tertio sint secundum 
+        <lb ed="#Bb" n="29"/>actum mensurandi: quia tamen hoc est multum diuersimode: non oportet quod propter illud non distin-  
+        <lb ed="#Bb" n="30"/>guantur inter se: &amp; sic multum differenter per actum mensurandi dicuntur relatiua secundo &amp; ter 
+        <lb ed="#Bb" n="31"/>tio modo: propter quod multum inter se differunt illi duo modi.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

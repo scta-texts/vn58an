@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 2</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 2</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="48-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e620"> <!-- alias="vn58an-a7q2" -->
+      <head xml:id="vn58an-d1e620-Hd1e104">Quaestio 2</head>
+      <p xml:id="vn58an-d1e620-d1e107">
+        <lb ed="#Ba" n="22"/>CIrca secundum arguitur quod ista scientia non sit certissima. Primo sic. Theolo- 
+        <lb ed="#Ba" n="23"/>gia est scientia credibilium. <ref xml:id="vn58an-d1e620-Rd1e113">Ioan. vl.</ref> 
+       <quote xml:id="vn58an-d1e620-Qd1e116" source="http://scta.info/resource/io20_31">Haec autem scripta sunt: vt credatis</quote>. aliae 
+        <lb ed="#Ba" n="24"/>scientiae sunt intelligibilium, secundum philosophum in post. Sed scientia credibilium est 
+        <lb ed="#Ba" n="25"/>minus certa quam intelligibilium, secundum quod dicit Hu. id e. suarum sententiarum per. iiii. Ei 
+        <lb ed="#Ba" n="26"/>des est certitudo de rebus absentibus supra opinionem, &amp; infra scientiam. &amp; lo- 
+        <lb ed="#Ba" n="27"/>quitur de scientia quae est intelligibilium. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e620-d1e129">
+        ⁋ Secundo sic. Illa scientia 
+        <lb ed="#Ba" n="28"/>est incertissima, in qua maxime contingit errare &amp; dubitare: quia incertitudo est causa erroris. 
+        <lb ed="#Ba" n="29"/>Haec scientia est huiusmodi: cum sit de eis quae maxime remota sunt a nobis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e620-d1e136">
+        ⁋ In contra 
+        <lb ed="#Ba" n="30"/>rium videtur illud philosophi primo metaphysicae. Certissimae scientiarum sunt maxime primo- 
+        <lb ed="#Ba" n="31"/>rum. lsta autem scientia est maxime primorum: vt dictum est supra. quid proxima. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e620-d1e144">
+        <lb ed="#Ba" n="32"/>⁋ Dicendum ad hoc iuxta supra determinata: quod ab eodem causatur scientia de aliquo  
+        <lb ed="#Ba" n="33"/>&amp; scientiae certitudo scilicet veritate ipsius rei scitae: quia sic se habet vnumquodque ad scientiam &amp; cognitionem 
+        <lb ed="#Ba" n="34"/>sicut se habet ad veritatem. ii. metaphysicae. Est enim veritas per se obiectum scientiae inquantum sciens 
+        <lb ed="#Ba" n="35"/>est: &amp; quanto est res scita certior &amp; firmior in sua veritate, tanto certior &amp; firmior nata est de ea 
+        <lb ed="#Ba" n="36"/>haberi scientia: vt dictum est supra. Cum igitur veritas sit quaedam adaequatio rei &amp; intellectus: &amp; qua-  
+        <lb ed="#Ba" n="37"/>si mensura vtriusque: comparata ad vtrumque certitudo scientiae potest iudicari vel ex parte rei scitae 
+        <lb ed="#Ba" n="38"/>vel ex parte scientis. Quantum est ex parte rei scitae, dicendum quod huiusmodi scientiae maxima est 
+        <lb ed="#Ba" n="39"/>certitudo: quia res scita in ea firmissima &amp; certissima est in sua veritate, quia aut est ipsa veri- 
+        <lb ed="#Ba" n="40"/>tas prima, aut innitens firmitati &amp; auctoritati veritatis primae. Cum enim secundum ordinem causa- 
+        <lb ed="#Ba" n="41"/>rum semper maior certitudo est in causa prima &amp; ex ipsa, quam in secunda vel ex ipsa, quia causa secunda 
+        <lb ed="#Ba" n="42"/>non habet certitudinem nisi a prima: cum ergo certitudo veritatis huius scientiae est in causa prima 
+        <lb ed="#Ba" n="43"/>&amp; ex ipsa, in ipsa tanquam in formali obiecto &amp; primo fidei, ex ipsa tanquam cuius auctoritati omnis veri- 
+        <lb ed="#Ba" n="44"/>tas credendorum innititur, caeterarum autem scientiarum certitudo innititur solum veritati pri- 
+        <lb ed="#Ba" n="45"/>morum principiorum speculabilium ex rebus creatis acceptorum, vel in ipsis consistit: Necessarium 
+        <lb ed="#Ba" n="46"/>est dicere quod quantum est ex parte rei scitae ista scientia est certissima, quia est maxime primorum prin 
+        <lb ed="#Ba" n="47"/>cipiorum scientia. &amp; dicit philosophus. i. metaphysicae. quod certissimae scientiarum maxime primorum 
+        <lb ed="#Ba" n="48"/>sunt. Et <name ref="#Augustine">Augustinus</name> i de Academica describens scientiam dicit, quod certa scientia non solum rebus apprehen- 
+        <lb ed="#Ba" n="49"/>sis: sed ita incomprehensis constat: vt neque in ea quisquam errare, neque quibuslibet aduersitatibus im- 
+        <lb ed="#Ba" n="50"/>pulsus mutari debeat, qualia maxime sunt quantum est ex parte sui: ea quae sunt huius scientiae. 
+        <lb ed="#Ba" n="51"/>secundum quod dicit <name ref="#Augustine">Augustinus</name> xiii. de trinitate. c. pen. Christus de aeternis nobis exhibet infallibilem veritatem. 
+        <lb ed="#Ba" n="52"/>Reuera enim etsi aliquis ex debilitate fidei &amp; intellectus circa veritatem huius scientiae erret aut nu- 
+        <lb ed="#Ba" n="53"/>tet: hoc non debet facere quantum est ex parte rei scitae. Sicut nullus debet nutare aut errare cir- 
+   <!--112.xml-->
+        <pb ed="#Ba" n="49-r"/>
+        <lb ed="#Ba" n="1"/>in primis principiis scientiarum speculatiuarum, quia sunt notissima in sua veritate, licet aliquis male 
+        <lb ed="#Ba" n="2"/>dispositus secundum intellectum ignorando terminos erret aut nutet circa ea. vnde dicit Chryso. super  
+        <lb ed="#Ba" n="3"/>Mat. Recte si manifestis vis credere, inuisibilibus te oportet magis fidem quam visibilibus commendare. Quamquam  
+        <lb ed="#Ba" n="4"/>admirabile satis &amp; magnum sit quod dicitur, tamen verum est: &amp; habentibus intellectum absque vllo ambiguo  
+        <lb ed="#Ba" n="5"/>confitendum. Oculi carnis saepe falluntur etiam in his quae ipsi videntur aspicere: at vero mentis oculus si 
+        <lb ed="#Ba" n="6"/>diuinum lumen accipiat: multo certius ab omni errore prorsus alienus est. Ex parte vero scientis dupliciter 
+        <lb ed="#Ba" n="7"/>contingit scientiae certitudo. vno modo ex parte securitatis de veritate eorum quae continet haec scientia 
+        <lb ed="#Ba" n="8"/>Alio modo ex parte euidentiae in notitia veritatis, quam sciens de scitis ex hac scientia consequitur. Primo 
+        <lb ed="#Ba" n="9"/>modo adhuc ista scientia est certissima scientiarum, quia per habitum fidei securior est fidelis de veri- 
+        <lb ed="#Ba" n="10"/>tate huius scientiae, &amp; magis immunis ab omni errore, quam sit <name ref="#Aristotle">Philosophus</name> de primis principiis scien- 
+        <lb ed="#Ba" n="11"/>tiarum speculatiuarum ex habitu de eis acquisito. Et appellatur haec securitas certitudo adhaesionis, quae  
+        <lb ed="#Ba" n="12"/>bene potest esse sine omni clara &amp; euidenti notitia. Quoniam aliqui opinionem solum de aliqua re ha-  
+        <lb ed="#Ba" n="13"/>bentes tanta certitudine aliquando ei adhaerent, quanta illi qui de aliqua alia re habent certam scientiam 
+        <lb ed="#Ba" n="14"/>adhaerent illi. Secundum enim quod dicit Philosophus. vii. Ethicorum quidam opinantium non dubitant, sed aestimant 
+        <lb ed="#Ba" n="15"/>se scire: &amp; nihil minus credunt eis quibus opinantur quam alteri quibus sciunt. Et si hoc contingit in no 
+        <lb ed="#Ba" n="16"/>titia opinionis cui potest subesse falsum, multo magis &amp; in notitia fidei, in qua homo prorsus ab er 
+        <lb ed="#Ba" n="17"/>rore alienus est. vt dictum est in auctoritate Chryso. Hinc dicit <name ref="#Augustine">Augustinus</name> de vtilitate credendi. Nihil 
+        <lb ed="#Ba" n="18"/>est certius homini sua fide. &amp; Ricar. de Tri. Quotquot veraciter fideles sumus, nihil certius tenemus 
+        <lb ed="#Ba" n="19"/>nisi quod constanti fide tenemus. Loquendo vero de certitudine huius scientiae ex parte euidentiae ipsius 
+        <lb ed="#Ba" n="20"/>notitiae veritatis de rebus scitis ex ea: tunc intelligendum: cum ista scientia sit scientia credibilium 
+        <lb ed="#Ba" n="21"/>&amp; credibile vno modo consideratur vt est sub forma credibilis: alio modo vt est sub specie intelligi 
+        <lb ed="#Ba" n="22"/>bilis, inquantum credibile iam factum est intelligibile: Aut ergo possumus loqu de certitudine huius scientiae in  
+        <lb ed="#Ba" n="23"/>quantum scitur ex ea credibile sub forma credibilis: aut sub forma intelligibilis. Primo modo ista scientia non est 
+        <lb ed="#Ba" n="24"/>certissima ex rei scitae euidentia: quia ei credibile sub forma credibilis semper habet notitiae obscuritatem in  
+        <lb ed="#Ba" n="25"/>aenigmate, non potest habere talem euidentiam qualem habent intellecta lumine naturalis rationis in  
+        <lb ed="#Ba" n="26"/>aliis scientiis. &amp; ideo quo ad hoc aliae scientiae certiores sunt ista. Sed haec incertitudo huius scien- 
+        <lb ed="#Ba" n="27"/>tiae est incertitudo secundum quid, quia solum proueniens ex indispositione scientis. Sicut enim 
+        <lb ed="#Ba" n="28"/>prima principia scientiarum speculatiuarum quae sunt certissima in sua veritate, alicui male disposito 
+        <lb ed="#Ba" n="29"/>penes intellectum possunt esse dubia: sic infideli propter defectum luminis fidei possunt esse dubia 
+        <lb ed="#Ba" n="30"/>ea quae sunt huius scientiae &amp; cum fide &amp; illustratione luminis superioris possunt omni fideli esse in euidem 
+        <lb ed="#Ba" n="31"/>tia. Vnde sicut quod principia illa sunt incerta alicui est incertitudo eorum secundum quid: sic quod ista scien 
+        <lb ed="#Ba" n="32"/>tia sit incerta, quia non in euidenti notitia, hoc est incertitudo secundum quid. Si autem loquamur de 
+        <lb ed="#Ba" n="33"/>certitudine huius scientiae inquantum credibile in ea factum est scienti intelligibile, tunc distinguendum 
+        <lb ed="#Ba" n="34"/>est de euidentia veritatis rei scitae, quod duplex est: quaedam ex ipsa re in se percepta, alia ex medio ali 
+        <lb ed="#Ba" n="35"/>quo acquisita. verbi gratia, aliquis ex medio cognito per linearum extractionem cognoscit euidenter 
+        <lb ed="#Ba" n="36"/>quod anguli trianguli sunt aequales duobus rectis, qui tamen sine illo medio videndo &amp; intelligendo angu 
+        <lb ed="#Ba" n="37"/>los trianguli ex euidentia veritatis rei in se nunquam cognosceret quod aequales essent duobus rectis: Hoc 
+        <lb ed="#Ba" n="38"/>enim non posset scire nisi statim viso quocumque angulo videret cuius proportionis esset ad angulum 
+        <lb ed="#Ba" n="39"/>rectum. Vnde quia sic ex euidentia rei abstracta non potest homo scire veritates conclusionum rerum na 
+        <lb ed="#Ba" n="40"/>turalium, requirit medium per quod iudicet notitiam earum euidentem. Sed si primo modo pos- 
+        <lb ed="#Ba" n="41"/>set illam immediate accipere, illa multo clarior esset &amp; euidentior: quia media inducta possent esse 
+        <lb ed="#Ba" n="42"/>fallibilia. Aliquando enim credit homo habere medium demonstratiuum, cum tamen non habet nisi topi 
+        <lb ed="#Ba" n="43"/>cum. Sed vbi seipsam res euidenter manifestat, minime potest esse deceptio, quia intellectus per se 
+        <lb ed="#Ba" n="44"/>cognoscit veritates ex se euidentes, &amp; circa eas non requirit aliud testimonium, &amp; ideo illorum no 
+        <lb ed="#Ba" n="45"/>titia quae non possunt habere medium demonstratiuum, nec de natura sua habent euidentiam notitiae,  
+        <lb ed="#Ba" n="46"/>vt sunt maxime scientiae naturales, minime possunt habere certitudinem notitiae ex euidentia. Loquem 
+        <lb ed="#Ba" n="47"/>do ergo de certitudine ex rei euidentia in se: dicendum quod ista scientiatur intellectui depurato a pec- 
+        <lb ed="#Ba" n="48"/>catorum maculis &amp; nebulis phantasmatum per lumen fidei: &amp; super hoc illustrato dono &amp; lumine 
+        <lb ed="#Ba" n="49"/>intellectus quo credibilia fiunt ei intelligibilia cum manuductione fidei &amp; rationum adiutorio ex 
+        <lb ed="#Ba" n="50"/>rebus naturalibus, bene contingit quod homini sic disposito in vita ista scientia ista sit certissima- 
+        <lb ed="#Ba" n="51"/>&amp; certior quam sit aliqua alia scientia: vt quod ex rei euidentia absoluta clarius intelligat quia deus est tri 
+        <lb ed="#Ba" n="52"/>nus &amp; vnus: quam plurimas alias veritates de rebus naturalibus. vnde de inuisibilibus aeternis &amp; permanen 
+        <lb ed="#Ba" n="53"/>tibus dicit <name ref="#Augustine">Augustinus</name> in epistola ad Consen. Inuisibilia intellecta conspiciuntur: ac per hoc &amp; ipsa modo quodam congruo 
+        <lb ed="#Ba" n="54"/>sibi videntur, &amp; cum videntur multo certiora sunt quam ea quae corporis sensus attingit. Sed iste mo-  
+   <!--113.xml-->
+        <pb ed="#Ba" n="49-v"/>
+        <lb ed="#Ba" n="1"/>dus sciendi ex ista scientia paucorum est, et virorum eminentissimorum: quia est maxime primorum &amp; vniversalium 
+        <lb ed="#Ba" n="2"/>remotorum a nobis: &amp; ideo difficillimorum ad cognoscendum: sicut dicit <name ref="#Aristotle">Philosophus</name> primo metaphysicae 
+        <lb ed="#Ba" n="3"/>&amp; secundum quod dicit <name ref="#Augustine">Augustinus</name> in principio contra epistolam Fundamenti. Ad serenissimam sapientiam pauci spiritua- 
+        <lb ed="#Ba" n="4"/>les in hac vita parueniunt, vt eam ex minima parte quia homines sunt: sed tamen sine dubitatione cognoscant: caete 
+        <lb ed="#Ba" n="5"/>ram vero turbam non intelligendi viuacitas: sed credendi simplicitas tutissimam tenet. &amp;. lxxxiii, quaestionibus quaestione xlviii. 
+        <lb ed="#Ba" n="6"/>Quae creduntur primo &amp; postea intelliguntur, sunt ea quae in diuinis rebus non possunt intelligi nisi ab  
+        <lb ed="#Ba" n="7"/>his qui mundo corde sunt, quod sit praeceptis seruatis bene viuendo: quae vt dicit Augustius vii. de trinitate. 
+        <lb ed="#Ba" n="8"/>animalis homo non percipit: non enim potest cogitare nisi moles &amp; spatia vel minuta vel grandia volitanti- 
+        <lb ed="#Ba" n="9"/>bus in eius animo phantasmatibus tamquam imaginibus corporum. ex qua immunditia donec purgetur credat, vt 
+        <lb ed="#Ba" n="10"/>fide scilicet purgetur cor, &amp; aptum fiat ad suscipiendum lumen quo credita intelligat. Et ideo dicitur Esa. 7  
+        <lb ed="#Ba" n="11"/>Nisi credideritis non intelligetis. Loquendo vero de certitudine ex euidentia rei per medium aliud, cum 
+        <lb ed="#Ba" n="12"/>ea quae proprie sunt credibilia sunt diuina, quae non possunt habere medium prius quia sunt prima, nec 
+        <lb ed="#Ba" n="13"/>posterius, quod sufficienter ad illorum notitiam ducit: quale medium possunt habere creata: Di- 
+        <lb ed="#Ba" n="14"/>cendum quod isto modo sciendi ista scientia non est certissima: sed multo sunt certiores philosophicae &amp; ma 
+        <lb ed="#Ba" n="15"/>xime mathematicae. Sed ista certitudo cum sit mendicata ab alio, illa autem prior habetur a natura rei 
+        <lb ed="#Ba" n="16"/>ista quae est per medium est certitudo secundum quid respectu illius quae sit ex natura rei in se. Et ideo sim 
+        <lb ed="#Ba" n="17"/>pliciter &amp; absolute dicendum quod ista est certissima scientiarum: quia est de rebus certissimis in sua ve 
+        <lb ed="#Ba" n="18"/>ritate, &amp; ex parte scientis securissima &amp; euidentissima viro spirituali lumine intellectuali illustra 
+        <lb ed="#Ba" n="19"/>to, prout homini in vita ista est possibile. Per haec patent obiecta. 
+      </p>
+      <p xml:id="vn58an-d1e620-d1e383">
+        <lb ed="#Ba" n="20"/>⁋ Quod arguitur primo quod haec est scientia credibilium &amp; ideo minus certa: dicendum 
+        <lb ed="#Ba" n="21"/>quod verum est certitudine euidentiae: inquantum credibile stat in forma credibilis: quia quo ad euiden  
+        <lb ed="#Ba" n="22"/>tiam fidei notitia est sub scientia intelligibilium. Certitudine tamen rei &amp; adhaesionis ex parte fidelis scientia 
+        <lb ed="#Ba" n="23"/>fidei bene potest esse certior, vt dictum est: nec quo ad hoc fides est sub scientia: sed supra. Inquantum autem 
+        <lb ed="#Ba" n="24"/>credibile factum est viro spirituali intelligibile, sicut natum est fieri quantum est de se cuilibet ni- 
+        <lb ed="#Ba" n="25"/>si sit defectus ex parte sui: hoc modo ex euidentia rei in se haec scientia certior est simpliciter: licet non eui 
+        <lb ed="#Ba" n="26"/>dentia mendicata per medium vt dictum est. 
+      </p>
+      <p xml:id="vn58an-d1e620-d1e401">
+        ⁋ Ad secundum quod in hac scientia contingit facillime errare 
+        <lb ed="#Ba" n="27"/>Dicendum secundum praedicta, quod hoc non contingit ex parte scientiae &amp; rei scitae: sed ex parte scientis: non cuiuscumque:  
+        <lb ed="#Ba" n="28"/>sed male dispositi. Bene enim dispositus per habitum fidei errare non potest: nec esse potest quin sit secu 
+        <lb ed="#Ba" n="29"/>rissimus in veritate credibilium &amp; immunis omnino ab errore. Bene etiam dispositus per lumen superius 
+        <lb ed="#Ba" n="30"/>intellectuale errare minime potest: quia veritatis euidentia omnino assecurat eum.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

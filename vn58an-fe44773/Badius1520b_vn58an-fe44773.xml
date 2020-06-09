@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 3</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 3</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Bb" n="Badius1520b">Badius1520b</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="163-v"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-fe44773"> <!-- alias="vn58an-a60q3" -->
+      <head xml:id="vn58an-fe44773-Hd1e104">Quaestio 3</head>
+      <p xml:id="vn58an-fe44773-d1e107">
+        <lb ed="#Bb" n="37"/>CIrca tertium arguitur quod in diuinis non sit aliquis ordo naturae siue naturalis inter 
+        <lb ed="#Bb" n="38"/>generationem &amp; spirationem, Primo sic. secundum Augu. li. iii. contra Maxi. ordo natu 
+        <lb ed="#Bb" n="39"/>rae in diuinis est non quod alter est prius altero: sed quod alter est ex altero. Spiratio 
+        <lb ed="#Bb" n="40"/>autem non est ex generatione: nec econverso, quia quod alter sit ex altero hoc solum 
+        <lb ed="#Bb" n="41"/>personis conpetit: ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e120">
+        ⁋ Secundo sic. Non est ordo in principiatis nisi ex or- 
+        <lb ed="#Bb" n="42"/>dine in principiis. In hoc enim vnigenea sunt principia principiatis. sed in diui 
+        <lb ed="#Bb" n="43"/>nis inter naturam &amp; voluntatem quae sunt principia emanationum, generationis scilicet &amp; spirationis, non est 
+        <lb ed="#Bb" n="44"/>ordo naturae sed rationis tantum: quia sunt attributa essentialia aeque primo secundum rem fundata in diui 
+        <lb ed="#Bb" n="45"/>na essentia. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e131">
+        ⁋ Tertio sic. Ordo est comparatio illorum quae inter se habent respectus diuersos cum 
+        <lb ed="#Bb" n="46"/>respectu ad aliquod principium determinatum, neutrum autem inuenitur in comparatione generationis ad spi 
+        <lb ed="#Bb" n="47"/>rationem: quia non habent inter se respectus diuersos, eo quod non sunt relatiua inter se vt habent respe- 
+        <lb ed="#Bb" n="48"/>ctum ad vnum principium determinatum in ordine ad quod comparentur inter se, quia etsi generatio respicit vnum 
+        <lb ed="#Bb" n="49"/>principium, non tamen spiratio: sed respicit duo supra patrem &amp; filium. e&amp; &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e143">
+        ⁋ Quarto sic. Ordo naturae i- 
+        <lb ed="#Bb" n="50"/>portat naturalem distinctionem. generatio &amp; spiratio non distiguuntur naturaliter in diuinis: quia ambo sunt in ea- 
+        <lb ed="#Bb" n="51"/>dem natura: &amp; talia inter se non distiguuntur vt sunt in eodem, quia sunt idem re,. es &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e150">
+        ⁋ Quito sic. filio acci 
+        <lb ed="#Bb" n="52"/>dit generari inquantum spirat, quia non genitus generare posset: exemplum in Adam. &amp; similiter patri accidir ge 
+        <lb ed="#Bb" n="53"/>nerare inquantum spirat, quia voluntate artifex producit artificium absque primo generante. Si er- 
+        <lb ed="#Bb" n="54"/>go ordo est inter generationem &amp; spirationem, ille est per accidens. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e159">
+        ⁋ Contra. inter mediatum &amp; im- 
+        <lb ed="#Bb" n="55"/>mediatum secundum naturam necessario est ordo naturae: quia non sunt medium &amp; extremum sine 
+   <!--342.xml-->
+        <pb ed="#Bb" n="164-r"/>
+        <lb ed="#Bb" n="1"/>ordine. sed generatio est processio a patre immediata, spiratio autem non est processio nisi me- 
+        <lb ed="#Bb" n="2"/>diante generatione: quia ad actum voluntatis cuiusmodi est spiratio, necessario praeuius vel qua  
+        <lb ed="#Bb" n="3"/>si praeuius est actus intellectus: cuiusmodi est generatio in diuinis. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e175">
+        ⁋ Secundo sic. illa quae de se &amp; 
+        <lb ed="#Bb" n="4"/>per se &amp; de sua ratione sunt principia ordinis naturalis in aliis, sunt naturaliter ordinata inter se: 
+        <lb ed="#Bb" n="5"/>quia non est ordo in principiatis nisi ab ordine in principiis. talia sunt generatio &amp; spiratio: quia 
+        <lb ed="#Bb" n="6"/>generatione &amp; spiratione ordinantur diuinae personae inter se, vt principiis quibus originantur. 
+        <lb ed="#Bb" n="7"/>ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e186">
+        ⁋ Tertio sic. Sicut se habet generatio ad generatum, sic se habet spiratio ad spiratum. er- 
+        <lb ed="#Bb" n="8"/>go permutatim, sicut se habet generatum ad spiratum, ita se habet generatio ad spirationem. sed  
+        <lb ed="#Bb" n="9"/>generatum sic se habet ad spiratum quod inter illos est ordo naturae. ergo &amp;c. 
+        <lb ed="#Bb" n="10"/>
+      </p>
+      <p xml:id="vn58an-fe44773-d1e195">
+        ⁋ Ante quaestionis huius determinationem tria sunt aduertenda. Primum, vnde oria 
+        <lb ed="#Bb" n="11"/>tur. Secundum, quomodo intelligatur. Tertium, qualis difficultas in ea contineatur. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e201">
+        ⁋ Circa pri- 
+        <lb ed="#Bb" n="12"/>mum istorum sciendum est, quod in praecedentibus duabus quaestionibus inuestigantes distinctio- 
+        <lb ed="#Bb" n="13"/>nem inter generationem &amp; spirationem coniecimus quod distinctionem habent disparationis, 
+        <lb ed="#Bb" n="14"/>quia a disparatis principiis oriuntur &amp; eliciuntur, cuiusmodi sunt natura &amp; voluntas. Distin- 
+        <lb ed="#Bb" n="15"/>ctionem enim omnem realem in diuinis secundum relatiuam oppositionem oportet reduci ad  
+        <lb ed="#Bb" n="16"/>distinctionem realem disparatam. Oppositionem enim relatiuam inter generare &amp; generari, simi 
+        <lb ed="#Bb" n="17"/>liter inter spirare &amp; spirari, oportet reducere ad oppositionem disparationis inter generare &amp; spira 
+        <lb ed="#Bb" n="18"/>re, &amp; hanc oportet reducere ad distinctionem rationis inter intellectum &amp; voluntatem: &amp; sic per ordi- 
+        <lb ed="#Bb" n="19"/>nem omnem distinctionem maiorem oportet reducere ad minorem, quousque tota reducatur, sicut &amp; 
+        <lb ed="#Bb" n="20"/>omnis pluralitas in diuinis ad vnitatem simplicissimam re &amp; ratione simul, cuiusmodi est esse pri- 
+        <lb ed="#Bb" n="21"/>mun diuinorum, simplicissimum scilicet esse, ad quod omnia alia se habent quasi per quandam attri 
+        <lb ed="#Bb" n="22"/>butionem &amp; additionem, secundum quod superius diffusius expositum est. Natura autem &amp; volun 
+        <lb ed="#Bb" n="23"/>tas a quibus generatio &amp; spiratio principiantur in diuinis, non per vniformitatem mutuo se ha 
+        <lb ed="#Bb" n="24"/>bent adinuicem, vt videlicet aequaliter abalterutrum in suo actu inuicem mutuo quasi depen- 
+        <lb ed="#Bb" n="25"/>deant, vel non dependeant: quemadmodum contingit in simul trahentibus nauem: quod scilicet 
+        <lb ed="#Bb" n="26"/>mutuo aequaliter abinuicem dependent in suis tractibus: &amp; sicut contingit in visu &amp; auditu, 
+        <lb ed="#Bb" n="27"/>quorum neutrum ab altero in suo actu eliciendo dependet. Sicut enim visus non requirit omni- 
+        <lb ed="#Bb" n="28"/>no ad actum suum siue simul siue praeuium actum auditus, sic nec econuerso. Sed natura &amp; 
+        <lb ed="#Bb" n="29"/>voluntas in deo difformiter se habent adinuicem: quia voluntas in suo actu exercendo quasi de- 
+        <lb ed="#Bb" n="30"/>pendet ab intellectu &amp; eius actu, &amp; non econuerso. Voluntas enim vt eliciat actum volendi neces- 
+        <lb ed="#Bb" n="31"/>sario requirit quasi praeuium actum intellectus: quemadmodum actus intellectus in hominibus re- 
+        <lb ed="#Bb" n="32"/>quirit praeuium actum phantasiae, quia non intelligimus nisi ex phantasmatibus existentibus in actu. 
+        <lb ed="#Bb" n="33"/>lgitur voluntas necessario requirit quasi praeuium actum intellectus, sed non econverso intellectus 
+        <lb ed="#Bb" n="34"/>quo ad suum actum eliciendum requirit actum voluntatis praeuium. Nunc autem ita est quod vbi duo se habent 
+        <lb ed="#Bb" n="35"/>sic, quod vnum necessario praeuium vel quasi praeuium est ad alterum, inquantum huiusmodi necessario esttor 
+        <lb ed="#Bb" n="36"/>do aliquis inter illa, prout procedit prima ratio ad secundam partem quaestionis inducta. Quare cum 
+        <lb ed="#Bb" n="37"/>generatio in diuinis sit actus intellectus, &amp; spiratio sit actus voluntatis secundum superius declara- 
+        <lb ed="#Bb" n="38"/>ta: generatio ergo in diuinis praeuia est ad spirationem: quare necessario inter generationem &amp; 
+        <lb ed="#Bb" n="39"/>spirationem est aliquis ordo. Propter quod restabat videre quis &amp; qualis ordo esset inter generatio- 
+        <lb ed="#Bb" n="40"/>nem &amp; spirationem. Et quia doctores non signabant in diuinis praeter ordinem rationis in attributis alium 
+        <lb ed="#Bb" n="41"/>ordinem nisi ordinem naturae, &amp; hoc solummodo inter diuinas personas, secundum quod in primo argu- 
+        <lb ed="#Bb" n="42"/>mento propositum est secundum Augu. idcirco restabat dubitatio, Vtrum inter generationem &amp; spirationem quae 
+        <lb ed="#Bb" n="43"/>non sunt personae sed emanationes quibus emanant personae, esset ordo naturae. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e273">
+        ⁋ Circa secundum praedicto 
+        <lb ed="#Bb" n="44"/>rum est aduertendum quod ordo naturae tripliciter accipitur, primo materialiter, secundo elicitiue, tertio 
+        <lb ed="#Bb" n="45"/>subiectiue. In diuinis autem non potest esse ordo naturae materialiter, quia in illis quae materialiter 
+        <lb ed="#Bb" n="46"/>ordinantur ordine naturae: ipsa natura eorum in illis ordinatur &amp; habet esse in illis per ordinem quendam:  
+        <lb ed="#Bb" n="47"/>quemadmodum est ordo naturae inter duas species sub eodem genere: quia in diuisione generis per  
+        <lb ed="#Bb" n="48"/>differentias nobilius est alterum extremum contrarietatis: &amp; nobiliori differentia constituitur nobilior spe 
+        <lb ed="#Bb" n="49"/>cies, quia vt per rationale quam per irrationale in diuisione animalis: per animatum quam per inainatum in diuisione corporis. Et 
+        <lb ed="#Bb" n="50"/>est iste ordo secundum differentias ordinis quae sunt superius &amp; inferius, in gradu dignitatis &amp; perfectionis 
+        <lb ed="#Bb" n="51"/>naturae: quaeles gradus in diuinis inueniri non possunt, in quibus non est nisi vnica natura. Similiter in diuinis: non 
+        <lb ed="#Bb" n="52"/>potest proprie esse ordo naturae elicitiuae: quia in illis quae elicitiue ordinantur ordie naturae ipsa natura eorum in  
+        <lb ed="#Bb" n="53"/>ipsis existens illa ordinat: quemadmodum ordo naturae est inter florem &amp; fructum, quia natura naturaliter ex 
+        <lb ed="#Bb" n="54"/>slore fructum producit. Dico autem quod in diuinis proprie non potest esse ordo iste, &amp; hoc quo ad tres personas. 
+        <lb ed="#Bb" n="55"/>Licet enim natura sit elicitiue principium ordinis inter patrem &amp; filium, quia pater simpliciter produ 
+   <!--343.xml-->
+        <pb ed="#Bb" n="164-v"/>
+        <lb ed="#Bb" n="1"/>cit filium modo naturae, &amp; secundum principaliorem modum naturae, non tamen proprie est 
+        <lb ed="#Bb" n="2"/>principium elicitiue principaliter ordinis inter patrem &amp; filium ex vna parte, &amp; spiritum sanctum 
+        <lb ed="#Bb" n="3"/>ex alia: quia pater &amp; filius producunt spiritum sanctum modo voluntatis, &amp; filium modo naturae 
+        <lb ed="#Bb" n="4"/>quoquo modo, non tamen principaliter, neque secundum principaliorem modum naturae, secundum quod superius de 
+        <lb ed="#Bb" n="5"/>clarauimus. Quia tamen spiritus sanctus aliquo modo producitur modo naturae, &amp; principalior modus na 
+        <lb ed="#Bb" n="6"/>turae quo producitur filius est origo processionis quae est modo non principaliori: ideo diximus superius 
+        <lb ed="#Bb" n="7"/>quod ordo in diuinis personis est modo naturae elicitiue. Sed quia hoc non est omnino proprie quo 
+        <lb ed="#Bb" n="8"/>ad ordinem spiritus sancti ad patrem &amp; filium, ideo distinctioni bimembri ibi positae hic adiunximus 
+        <lb ed="#Bb" n="9"/>tertium, sub quo proprie continetur omnis ordo naturae in diuinis. Sed est in diuinis ordo naturae 
+        <lb ed="#Bb" n="10"/>subiectiue: qui est in illis quae in eadem natura eis quasi subiecta &amp; substrata ordinate subsistunt 
+        <lb ed="#Bb" n="11"/>aut existunt: sed hoc vel in eadem natura secundum speciem, differente autem secundum nu- 
+        <lb ed="#Bb" n="12"/>merum: vel in eadem natura singulari omnino indifferente. Primo enim modo est ordo natu- 
+        <lb ed="#Bb" n="13"/>rae quandoque in diuersis indiuiduis sub eadem specie, puta in diuersis hominibus, quorum vnus 
+        <lb ed="#Bb" n="14"/>est pater alterius. Secundo modo est in diuinis personis inter patrem &amp; filium &amp; spiritum sanctum. Et dif 
+        <lb ed="#Bb" n="15"/>fert ordo in istis tribus modis, quia primus non est secundum superius &amp; inferius in gradu natu- 
+        <lb ed="#Bb" n="16"/>rae: Secundus autem non est natura secundum prius &amp; posterius in tempore: sed tertius prout inuenitur in  
+        <lb ed="#Bb" n="17"/>creaturis, aliquando non est nisi secundum prius &amp; posterius in tempore, sicut pater prior est filio: aliquand 
+        <lb ed="#Bb" n="18"/>autem est sine priori &amp; posteriori in tempore: sed non fine priori &amp; posteriori natura: quemadmodum  
+        <lb ed="#Bb" n="19"/>ordo naturae est in illuminatione aeris a sole, quo ad partem eius superiorem &amp; inferiorem. Pars enim 
+        <lb ed="#Bb" n="20"/>superior natura, id est naturali aptitudine prius illuminatur a sole quam inferior: quia pars superior imme- 
+        <lb ed="#Bb" n="21"/>diate illuminatur a sole: pars autem inferior non recipit illuminationem nisi a parte superiori &amp; median- 
+        <lb ed="#Bb" n="22"/>te illa. Tertius autem modus prout inuenitur in diuinis, est omnino fine superiori &amp; inferiori gra- 
+        <lb ed="#Bb" n="23"/>du naturae, &amp; sine priori &amp; posteriori tempore aut natura: non tamen est sine ratione primi secundi &amp; 
+        <lb ed="#Bb" n="24"/>tertii, vt patet ex diu superius declaratis. Et sicut in primo modo est ordo naturae quia vnum illo 
+        <lb ed="#Bb" n="25"/>rum est superius altero in gradu naturae: sic in isto tertio modo est ordo naturae quia vnum illorum  
+        <lb ed="#Bb" n="26"/>est ab altero. ita quod si esse vnum illorum ab altero amoueretur etiam in creaturis, nullus esset ordo naturae in  
+        <lb ed="#Bb" n="27"/>ter illa omnino: quia inter indiuidua quae sunt sub eadem specie, non est ante similiter neque post, &amp; hoc 
+        <lb ed="#Bb" n="28"/>secundum primum modorum dictorum, prout vult <name ref="#Aristotle">Philosophus</name> in v. Metaph. An autem sit secus in omnibus 
+        <lb ed="#Bb" n="29"/>animalibus, de hoc nihil ad praesens. Sed quia clarum est secundum dicta sanctorum quod in diuinis est ordo  
+        <lb ed="#Bb" n="30"/>naturae inter diuinas personas quod vna est ab altera: prout tactum est supra per Augustiu ian id est argumento: non 
+        <lb ed="#Bb" n="31"/>autem ita clarum est an talis ordo sit inter ipsas diuinas emanationes, quia nequaquam ita potest dici vna 
+        <lb ed="#Bb" n="32"/>earum esse ab altera, eo quod esse ab alio &amp; esse a quo alius, est proprie personarum, sicut &amp; generare &amp; 
+        <lb ed="#Bb" n="33"/>generari, spirare &amp; spirari, eo quod omnis actio notionalis in diuinis procedit a persona, &amp; terminatur 
+        <lb ed="#Bb" n="34"/>in personam, prout procedit primum argumentum: ideo dubium est an sit ordo naturae inter diuinas 
+        <lb ed="#Bb" n="35"/>emanationes quae sunt generatio &amp; spiratio: licet certum sit ex praedeterminatis quod ordo aliquis 
+        <lb ed="#Bb" n="36"/>sit inter illas. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e387">
+        ⁋ Circa tertium est considerandum, quod quaestio ista multum est inuoluta, &amp; mul- 
+        <lb ed="#Bb" n="37"/>tos sinus habet. Generatio enim simpliciter dicta comprehendit &amp; generationem actiuam existentem in  
+        <lb ed="#Bb" n="38"/>solo patre, &amp; generationem passiuam existentem in solo filio, &amp; similiter spiratio comprehendit &amp; 
+        <lb ed="#Bb" n="39"/>spirationem actiuam existentem communiter in patre &amp; filio, &amp; spirationem passiuam existentem 
+        <lb ed="#Bb" n="40"/>in solo spiritu sancto. vt quaestio proposita de ordine inter generationem &amp; spirationem, intelli 
+        <lb ed="#Bb" n="41"/>gatur de generatione &amp; spiratione vt comprehendunt generationem actiuam &amp; passiuam, &amp; si- 
+        <lb ed="#Bb" n="42"/>militer spirationem actiuam &amp; passiuam. Vbi oportet considerare ordinem generationis actiuae in  
+        <lb ed="#Bb" n="43"/>patre ad generationem passiuam in filio, &amp; similiter spirationis actiuae in patre &amp; filio ex vna par 
+        <lb ed="#Bb" n="44"/>te ad spirationem passiuam in spiritu sancto ex altera, &amp; similiter ordinem generationis acti- 
+        <lb ed="#Bb" n="45"/>uae &amp; passiuae ad spirationem tam actiuam quam passiuam, &amp; similiter spirationis actiuae prout est in pa 
+        <lb ed="#Bb" n="46"/>tre ad eandem prout est in filio. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e411">
+        ⁋ Descendendo ergo ad quaestionem dico secundum iam superius 
+        <lb ed="#Bb" n="47"/>in quaestione praecedente inchoata, quod ratio originis qua hoc habet esse ab hoc siue ex hoc, duplici 
+        <lb ed="#Bb" n="48"/>ter habet esse inter aliquos aut aliqua. Vno modo proprie, scilicet quia vnum eorum proprie est 
+        <lb ed="#Bb" n="49"/>principiatum alterius, &amp; ab illo habet emanare per suam actionem: vt terminus actionis illius 
+        <lb ed="#Bb" n="50"/>quod est eius principium. Alio modo communiter &amp; minus proprie secundum vsitatum mo-  
+        <lb ed="#Bb" n="51"/>dum loquendi sanctorum, quia scilicet licet vnum eorum non sit principiatum ab altero per 
+        <lb ed="#Bb" n="52"/>eius actionem vt a suo principio: quia sic omne principiatum &amp; principium solum modo supr 
+        <lb ed="#Bb" n="53"/>positorum est, quorum est elicere actionem &amp; terminare illam: tamen vnum illorum est quasi prae 
+        <lb ed="#Bb" n="54"/>uium vt alterum sit. Primo quidem modo non est ordo originis seu naturae nisi inter tres diui- 
+        <lb ed="#Bb" n="55"/>nas personas: primum se subsistentes, scilicet inter patrem &amp; filium: quia a patre est filius: &amp; sic 
+   <!--344.xml-->
+        <pb ed="#Bb" n="165-r"/>
+        <lb ed="#Bb" n="1"/>inter ipsos est vnus ordo naturae. Et similiter inter patrem &amp; filium ad spiritum sanctum, 
+        <lb ed="#Bb" n="2"/>quia a patre &amp; filio est spiritus sanctus. Et sic. inter ipsos est secundus ordo: de quo nihil ad  
+        <lb ed="#Bb" n="3"/>praesens: sed aliquantulum habitum est supra. Secundo autem modo est ordo naturae inter 
+        <lb ed="#Bb" n="4"/>diuinas emanationes quae sunt generatio &amp; spiratio: de quibus proposita est quaestio. Vna enim 
+        <lb ed="#Bb" n="5"/>non est principiata ab altera: nec habet ab illa emanare per eius actionem, eo quod actionis non est 
+        <lb ed="#Bb" n="6"/>actio: &amp; similiter neque a generatione actiua aut spiratione actiua generatio aut spiratio passi- 
+        <lb ed="#Bb" n="7"/>ua: nec econuerso: tamen vna earum est praeuia ad alteram vt sit, &amp; sic originetur non vt 
+        <lb ed="#Bb" n="8"/>subsistens in se sed vt existens in alio. Sed hoc contingit dupliciter. Vno modo emanatio vna 
+        <lb ed="#Bb" n="9"/>potest esse praeuia ad alteram positiue, &amp; propter quam alia quodammodo habet esse. Alio modo  
+        <lb ed="#Bb" n="10"/>negatiue, &amp; solummodo sine qua alia non habet esse omnino. Primo istorum modorum adhuc con 
+        <lb ed="#Bb" n="11"/>tingit dupliciter: quia emanatio originata vt existens in aliquo subsistente, non vt in se subsistens 
+        <lb ed="#Bb" n="12"/>&amp; hoc ab alia, per hoc quod praeuia est illi, aut est originata in illo alio vt in subsistente per ipsam: aut  
+        <lb ed="#Bb" n="13"/>in non subsistente per ipsam. Et primo istorum duorum modorum est ratio originis &amp; ordinis na- 
+        <lb ed="#Bb" n="14"/>turae ad quatuor secundum duplicem ordinem. Vnum inter generationem actiuam in patre, &amp; passiuam 
+        <lb ed="#Bb" n="15"/>in filio: &amp; per quam in subsistentia constituitur filius. Alium inter spirationem actiuum in patre &amp; filio, &amp; spi 
+        <lb ed="#Bb" n="16"/>rationem passiuam existentem in spiritu sancto, per quam in subsistentia constituitur spiritus sanctus. Procedit 
+        <lb ed="#Bb" n="17"/>enim isto modo generatio passiua a generatione actiua: &amp; similiter spiratio passiua a spiratione 
+        <lb ed="#Bb" n="18"/>actiua: secundum modum quo a philosophis quibus libere loqui licitum fuit, dictum est quod passio &amp; effectus 
+        <lb ed="#Bb" n="19"/>illius quod actionis. Sed hoc non est procedere ab alio proprie, quemadmodum persona procedit a 
+        <lb ed="#Bb" n="20"/>persona in se subsistendo: sed potius proprie haberi per aliud in eo quod subsistit tamquam passio quaedam 
+        <lb ed="#Bb" n="21"/>in ipsa per actionem illius alterius. Proprie enim generari filii in filio est a patre per generationem 
+        <lb ed="#Bb" n="22"/>patris. Secundo autem modo iam dicto est ratio originis inter generationem &amp; spirationem 
+        <lb ed="#Bb" n="23"/>actiuam: per quam spirationem actiuam non subsistit persona, nec substituitur in personalitate 
+        <lb ed="#Bb" n="24"/>secundum quod inferius declarabitur. Habet enim esse in patre &amp; filio spiratio actiua per generatio- 
+        <lb ed="#Bb" n="25"/>nem actiuam patris: quia per hoc quod pater generat communicatur voluntas patris filio: ex quo etiam 
+        <lb ed="#Bb" n="26"/>existit voluntas duorum, quae solius patris erat quantum ex se erat. &amp; per hoc voluntas illa est 
+        <lb ed="#Bb" n="27"/>concors &amp; foecunda ad eliciendum actum productiuum personae spiritus sancti, qui est spira- 
+        <lb ed="#Bb" n="28"/>re. Et sic a generatione actiua habet quoquo modo originari positiue vis spiratiua: &amp; per hoc 
+        <lb ed="#Bb" n="29"/>in sua origine etiam actus spirandi actiue in illis in quibus est illa concors voluntas, scilicet in pa- 
+        <lb ed="#Bb" n="30"/>tre &amp; filio. Et per hoc est ordo quidam naturae generationis ad spirationem actiuam in patre 
+        <lb ed="#Bb" n="31"/>&amp; filio: &amp; vlterius mediante spiratione actiua ad spirationem passiuam in spiritu sancto: quae  
+        <lb ed="#Bb" n="32"/>ab illa procedit secundum dictum modum. Sed dices quod diuina essentia habet esse in filio per gene- 
+        <lb ed="#Bb" n="33"/>rare patris: &amp; tamen non dicitur esse aliquis ordo inter generare patris &amp; essentiam diuinam. 
+        <lb ed="#Bb" n="34"/>Dico quod secus est: quia essentia alias habet esse in patre quam per generare: &amp; ideo vt existens non  
+        <lb ed="#Bb" n="35"/>per generare communicatur filio: &amp; sine ordine ad generare. Spirare autem non habet alias 
+        <lb ed="#Bb" n="36"/>esse in diuinis quam a generare in patre &amp; filio secundum dictum modum. &amp; sic ipsum spirare quoquo  
+        <lb ed="#Bb" n="37"/>modo habet esse a generare: propter quod est ordo inter illa. Loquendo autem de ratione originis ne- 
+        <lb ed="#Bb" n="38"/>gatiue, &amp; sine qua non, penes secundum membrum primae subdiuisionis, Dico quod a generatione passi- 
+        <lb ed="#Bb" n="39"/>ua quae est in filio, qua scilicet filius genitus est, habet esse spiratio actiua communiter in patre &amp; 
+        <lb ed="#Bb" n="40"/>filio. Et est ordo naturae secundum hoc inter generationem passiuam &amp; spirationem actiuam: quia nec per 
+        <lb ed="#Bb" n="41"/>generationem passiuam communicatur voluntas patris filio: nec est concors &amp; foecunda in eis:  
+        <lb ed="#Bb" n="42"/>non tamen sine ipsa praeuia habet filio communicari: quia ipsa est de constitutione filii: qui vt ver 
+        <lb ed="#Bb" n="43"/>bum necessario secundum praedicta praeuius est vt habeant pater &amp; filius vim spiratiuam actiue. Secundum  
+        <lb ed="#Bb" n="44"/>hos ergo modos partim positiue, partim negatiue generatio communis ad actiuam &amp; passiuam 
+        <lb ed="#Bb" n="45"/>est quasi primum &amp; principium respectu spirationis communis ad actiuam &amp; passiuam: &amp; hoc po- 
+        <lb ed="#Bb" n="46"/>sitiue quo ad generationem actiuam: &amp; negatiue quo ad generationem passiuam. Et quia vna &amp; sim 
+        <lb ed="#Bb" n="47"/>plex est spiratio actiua quae conmunis est patri &amp; filio, in ipsa non cadit aliquis ordo prout est pa 
+        <lb ed="#Bb" n="48"/>tris &amp; prout est filii: quia in spirando actiue sunt vnum principium: &amp; ideo absque ordine naturae in spiratio 
+        <lb ed="#Bb" n="49"/>ne actiua vt est patris &amp; vt est filii, generatio actiua &amp; passiua sunt primum &amp; principium spirationis acti 
+        <lb ed="#Bb" n="50"/>uae: vnum positiue vt est patris scilicet generatio actiua: &amp; alterum negatiue vt est filil scilicet generatio passi- 
+        <lb ed="#Bb" n="51"/>ua. secundum quod iam dictum est. Ordinem tamen quendam in principiando spirationem actiuam prout est in patre &amp; 
+        <lb ed="#Bb" n="52"/>in filio, habent inter se generatio actiua in patre &amp; generatio passiua in filio. Eo enim ordine quid est 
+        <lb ed="#Bb" n="53"/>inter generare &amp; generari, procedit spirare ab vtroque prout est in patre &amp; in filio: quia non proce 
+        <lb ed="#Bb" n="54"/>dit ab eis nisi prout pertinet ad actum generationis conmuniter continentis &amp; generationem actiuam 
+        <lb ed="#Bb" n="55"/>&amp; passiuam: ad quem pertinent ordine quodam secundum praedicta. In principiando autem ipsum spirare prout habet 
+   <!--345.xml-->
+        <pb ed="#Bb" n="165-v"/>
+        <lb ed="#Bb" n="1"/>esse in filio, nullum ordinem habent omnino generare &amp; generari. Quod proculdubio verum est po 
+        <lb ed="#Bb" n="2"/>nendo secundum latinos spiritum sanctum procedere communiter a patre &amp; filio. Sed si secundum Graecos spi- 
+        <lb ed="#Bb" n="3"/>ritus sanctus procederet a solo patre, in parte idem esset sentiendum de hoc, &amp; in parte aliud. ldem sen- 
+        <lb ed="#Bb" n="4"/>tiendum esset quo ad hoc videlicet quod generatio esset quasi praeuium &amp; principium respectu spiratio- 
+        <lb ed="#Bb" n="5"/>nis: etiam si spiritus sanctus procederet a solo patre, &amp; principium spiratiuum in ipso esset voluntas 
+        <lb ed="#Bb" n="6"/>vt voluntas simpliciter &amp; solius patris: &amp; non vt concors duorum. Quia voluntas etiam vt solius pa- 
+        <lb ed="#Bb" n="7"/>tris est, sicut non potest exire in actum volendi simpliciter &amp; essentialiter nisi praeuia notitia sim- 
+        <lb ed="#Bb" n="8"/>pliciter &amp; essentiali in intellectu: sic nec eadem voluntas potest exire in actum volendi &amp; incentiue 
+        <lb ed="#Bb" n="9"/>&amp; notionaliter qui est spirare, nisi praeuia notitia declaratiua. In deo enim actus intellectus &amp; vo 
+        <lb ed="#Bb" n="10"/>luntatis communicantes semper sibi correspondent. Et secundum quod dictum est supra, &amp; amplius dicetur 
+        <lb ed="#Bb" n="11"/>adhuc, quod diligere simpliciter est actio simplex siue simpliciter dicta voluntatis vt est libera: spi 
+        <lb ed="#Bb" n="12"/>rare vero siue diligere incentiue est actio eiusdem perfecta: sic &amp; intelligere simpliciter est actio 
+        <lb ed="#Bb" n="13"/>simplex siue simpliciter dicta intellectus vt est natura: generare autem siue dicere est actio eiusdem 
+        <lb ed="#Bb" n="14"/>perfecta. lta quod sicut tali actione perficitur intellectus per notitiam declaratiuam quae est verbum 
+        <lb ed="#Bb" n="15"/>sic dicta actione spirandi siue diligendi incentiue perficitur voluntas per amorem incentiuum, qui  
+        <lb ed="#Bb" n="16"/>est spiritus sanctus. Secus autem esset &amp; aliud sentiendum quo ad hoc, videlicet quod si a solo pa 
+        <lb ed="#Bb" n="17"/>tre procederet spiritus sanctus, generatio communis ad actiuam &amp; passiuam solummodo negatiue esset 
+        <lb ed="#Bb" n="18"/>quasi praeuium &amp; principium ad spirationem nihil operando positiue ad productionem actus spira 
+        <lb ed="#Bb" n="19"/>tionis actiuae a voluntate circa voluntatem: sicut neque operatur circa ipsam in nobis ad produ- 
+        <lb ed="#Bb" n="20"/>cendum actum volendi siue simplicem siue incentiuum, in quibus intellectus suo actu siue intelli 
+        <lb ed="#Bb" n="21"/>gendi siue dicendi non mouet voluntatem: nec quicquam positiue circa eam facit vt fiat in actus 
+        <lb ed="#Bb" n="22"/>sed ipsa sola seipsam facit esse in suo actu: licet non nisi praeuia actione intellectus: secundum quod in quae- 
+        <lb ed="#Bb" n="23"/>stionibus de Quolibet saepius exposuimus. Ipsa enim voluntas in nobis actus suos elicit sola li- 
+        <lb ed="#Bb" n="24"/>bertate sua, &amp; nulla naturalitate siue quam habet ex se in ordine ad actum suum eliciendum, siue quam 
+        <lb ed="#Bb" n="25"/>nata sit recipere ab alio: vt a motu intellectus, secundum quod dicunt aliqui: nisi quatenus voluntati 
+        <lb ed="#Bb" n="26"/>naturale est quod sit libera, sic quod sua libertas sit sua natura, &amp; ita naturale sit ei actum suum eli- 
+        <lb ed="#Bb" n="27"/>cere libere, &amp; suo vltroneo appetitu proprio, &amp; nullo festino a seipso nec violento impulsu neque  
+        <lb ed="#Bb" n="28"/>consentaneo sibi seu conuenienti motu eius ab alio, puta ab intellectu, vt quidam dicunt. Quae  
+        <lb ed="#Bb" n="29"/>omnia excludit libertas voluntatis: quia est, propria conditio potentiae pure actiuae: &amp; nullo mo 
+        <lb ed="#Bb" n="30"/>do passiuae: sicut econverso necessitas naturalitatis virtutis pure passiuae, quae excludit omnem li 
+        <lb ed="#Bb" n="31"/>bertatem. Libertas enim solius virtutis actiuae conditio est, &amp; nequaquam passiuae. Aliquod enim solum 
+        <lb ed="#Bb" n="32"/>modo libere agit &amp; non naturaliter: sed nihil libere patitur: sed quicquid patitur, id quod patitur 
+        <lb ed="#Bb" n="33"/>solum naturaliter siue sola naturalitate patitur. Vt mirum sit quomodo aliqui possunt dicere vo 
+        <lb ed="#Bb" n="34"/>luntatem esse vim passiuam, libere tamen. Siue enim voluntas ponatur pati modo congruenti natu 
+        <lb ed="#Bb" n="35"/>rae suae, qualiter dicunt aliqui ipsam pati ab intellectu: siue modo non congruenti naturae suae: vtro 
+        <lb ed="#Bb" n="36"/>quod modo patitur id quod patitur absque omni libertate: sed sola recipiendi necessitate illata sibi ab  
+        <lb ed="#Bb" n="37"/>alio: quae tamen libertas voluntatis ex parte voluntatis elicientis suum actum nullo modo excludit necessita 
+        <lb ed="#Bb" n="38"/>tem immutabilitatis circa ipsum actum in eliciendo ipsum &amp; in processu eius a voluntate. Ta 
+        <lb ed="#Bb" n="39"/>lis enim necessitas non est nisi modus quidam circa actum &amp; quo ad eius processum ab elicien- 
+        <lb ed="#Bb" n="40"/>te &amp; quo ad eius processum in terminum siue obiectum, vt tactum est in praecedenti quaestione. Quae qui  
+        <lb ed="#Bb" n="41"/>dem necessitas circa actionem voluntatis est coniuncta eius libertati non ratione voluntatis cir 
+        <lb ed="#Bb" n="42"/>ca finem vltimum &amp; summe diligibile: quid sic ad se ligat voluntatem, quod postquam visum &amp; cogni- 
+        <lb ed="#Bb" n="43"/>tum fuerit, nulla voluntas creata aut mutata ab illo se potest diuertere. Sed hoc non quia ob- 
+        <lb ed="#Bb" n="44"/>iectum cognitum aliquid agit in voluntate: sed quia ipsa in illo nata est quiescere naturaliter 
+        <lb ed="#Bb" n="45"/>vt in suo fine: in quo se tenet vi eiusdem libertatis qua se mouit in illud. Sicut autem volun- 
+        <lb ed="#Bb" n="46"/>tas nostra ab actione intellectus siue intelligendi siue dicendi praeuia nullam vim aut immutationem 
+        <lb ed="#Bb" n="47"/>habet ad eliciendum suum actum siue amationis simplicis siue incentiuae: sed solummodo a se 
+        <lb ed="#Bb" n="48"/>ipsa: sic neque voluntas patris si a solo patre procederet spiritus sanctus, suam foecunditatem aut 
+        <lb ed="#Bb" n="49"/>quicquam aliud reciperet ab actione intellectus, siue sit actio intelligendi vel gubernandi, siue dicen 
+        <lb ed="#Bb" n="50"/>di praeuia: quamuis non sine ipsa praesupposita quasi remouente prohibens. Vnde si vniformiter se ha 
+        <lb ed="#Bb" n="51"/>berent inter se voluntas &amp; intellectus in eodem: vt sicut intellectus non requirit praeuiam actionem 
+        <lb ed="#Bb" n="52"/>voluntatis, sic nec econuerso actio voluntatis requireret praeuiam actionem intellectus: sicut se 
+        <lb ed="#Bb" n="53"/>habent in eodem auditus &amp; visus: quia neuter illorum sensuum ad actum suum requirit actio- 
+        <lb ed="#Bb" n="54"/>nem alterius praeuiam: tunc aeque primo naturaliter absque omni ordine rerum si solus pater gene- 
+        <lb ed="#Bb" n="55"/>raret filium, &amp; spiraret spiritum sanctum, non plus ordine naturae esset praeuia spirationi generatio sicut 
+   <!--346.xml-->
+        <pb ed="#Bb" n="166-r"/>
+        <lb ed="#Bb" n="1"/>nec econuerso. Sed quod modo est ordo naturae inter generationem &amp; spirationem si solus pater 
+        <lb ed="#Bb" n="2"/>ponatur spirare: hoc non est nisi quia voluntas ad suam actionem requirit praeuiam voluntatem:  
+        <lb ed="#Bb" n="3"/>&amp; sic ordo naturae intercidit propter solam necessitatem voluntatis, nequaquam intellectus: quia si 
+        <lb ed="#Bb" n="4"/>pater non spiraret, sed solum natus esset spirare, generaret tamen. ita quod licet impossibile esset 
+        <lb ed="#Bb" n="5"/>eum ponere generare &amp; non spirare: quia quicquid est in deo necessario est in ipso, &amp; impossi- 
+        <lb ed="#Bb" n="6"/>bile est non esse in ipso: &amp; quicquid non est in ipso: impossibile est esse in ipso: &amp; hoc propter 
+        <lb ed="#Bb" n="7"/>eius incommutabilitatem: non tamen ponendo quod generaret aut spiraret, in hoc ponerentur in  
+        <lb ed="#Bb" n="8"/>compossibilia: eo quod generatio nulla necessitate requireret spirationem subsequentem: sicut ne 
+        <lb ed="#Bb" n="9"/>quod intelligere in nobis aliqua necessitate requirit quod subsequatur velle. Et sic si postquam solus pater 
+        <lb ed="#Bb" n="10"/>ponatur generare &amp; spirare, necessario est ordo naturae inter generare &amp; spirare: hoc est quia voluntas 
+        <lb ed="#Bb" n="11"/>ratione sui actus ad intellectum aliquem naturalem respectum habet: sed non econverso. Et quod intellectus habet 
+        <lb ed="#Bb" n="12"/>aliquem respectum ad voluntatem: hoc est quia voluntas habet respectum ad ipsum. sicut contingit in scien- 
+        <lb ed="#Bb" n="13"/>tia &amp; scibili. Sine respectu enim mutuo ordinatorum non est ordo quicunque inter aliqua. Qui  
+        <lb ed="#Bb" n="14"/>quidem respectus relatio non est: licet ad praedicamentum relationis habeat reduci, non enim 
+        <lb ed="#Bb" n="15"/>omnis respectus est relatio: puta accidentis ad suum subiectum. Scientia enim respectum 
+        <lb ed="#Bb" n="16"/>quendam habet ad scientem vt ad subiectum in quo est: sed non habet relationem nisi ad sci- 
+        <lb ed="#Bb" n="17"/>bile ad quod est. secundum philosophum. v. Metaphysicae. Sed ponendo quod non solum pater spirat 
+        <lb ed="#Bb" n="18"/>sed &amp; filius: sicut secundum veritatem ponunt latini: ordo naturae est inter generare &amp; spirare non so 
+        <lb ed="#Bb" n="19"/>lum propter necessitatem voluntatis quae ad suum actum requirit praeuium actum intellectus 
+        <lb ed="#Bb" n="20"/>sicut contingeret si solus pater spiraret, vt dictum est: sed etiam propter necessitatem intelle- 
+        <lb ed="#Bb" n="21"/>ctus. Et hoc non propter necessitatem suam qua requirit actum voluntatis subsequentem, quasi 
+        <lb ed="#Bb" n="22"/>illo indigeat aliquo modo: sicut indiget &amp; requirit voluntas ad suum actum eliciendum praeuium 
+        <lb ed="#Bb" n="23"/>actum intellectus: sed potius propter necessitatem suam, ratione scilicet perfectionis suae: qua exigen 
+        <lb ed="#Bb" n="24"/>te in generando filium communicat ei suam voluntatem vt sit concors duorum, &amp; per hoc perfecte 
+        <lb ed="#Bb" n="25"/>specunda ad spirandum spiritum sanctum sicut dictum est. lta quod non solum impossibile esset ponere pa 
+        <lb ed="#Bb" n="26"/>trem generare filium &amp; non spirare spiritum sanctum: immo hoc ponendo ponerentur incom 
+        <lb ed="#Bb" n="27"/>possibilia: quia ex quo voluntas est foecunda, &amp; in ea est potentia ad spirandum, quae est necessi 
+        <lb ed="#Bb" n="28"/>tas: quod (vt dictum est) habet ex generatione: si poneretur quod generaret &amp; non spiraret, esset po 
+        <lb ed="#Bb" n="29"/>nere quod non esset potentia foecunda, ex eo quod non spiraret secundum actum: quia in aeternis non  
+        <lb ed="#Bb" n="30"/>differunt neque distant (secundum philosophum) actus &amp; potentia: &amp; quod esset foecunda, ex eo quod ge- 
+        <lb ed="#Bb" n="31"/>neraret: &amp; sic quod esset foecunda, &amp; non foecunda: &amp; sic contradictoria, quae incompossibilia sunt. 
+        <lb ed="#Bb" n="32"/>Propter quod cum simul spirant pater &amp; filius, non solum voluntas patris ratione sui actus 
+        <lb ed="#Bb" n="33"/>respectum naturalem habet ad eius intellectum, &amp; actum eius quasi praeuium: sed &amp; natura, 
+        <lb ed="#Bb" n="34"/>siue eius intellectus vt est natura, ratione perfectionis sui actus habet naturalem ex se respectum 
+        <lb ed="#Bb" n="35"/>ad voluntatem &amp; actum eius quasi subsequentem, non quia voluntas habet respectum ad illum. 
+        <lb ed="#Bb" n="36"/>
+      </p>
+      <p xml:id="vn58an-fe44773-d1e762">
+        ⁋ Quia ergo arguitur Primo quia secundum <name ref="#Augustine">Augustinum</name> non est ordo naturae in diui- 
+        <lb ed="#Bb" n="37"/>nis nisi quia alter est ex altero: quid solum conuenit personis: Dico quod verum est proprie loquen 
+        <lb ed="#Bb" n="38"/>do secundum quod loquitur Augustinus. &amp; hoc solummodo de ordine naturae inter diuinas perso- 
+        <lb ed="#Bb" n="39"/>nas. De quo licet solummodo expresse loquatur nihil tangendo de ordine emanationum: quia 
+        <lb ed="#Bb" n="40"/>tamen personae non ordinantur quia altera ex altera, nisi per ipsas emanationes: quibus habent 
+        <lb ed="#Bb" n="41"/>esse altera ab altera, impossibile esset ordinem esse in personis nisi esset in emanationibus eo- 
+        <lb ed="#Bb" n="42"/>rum: &amp; propterea licet illum non expressit, per illum tamen quem expressit intellexit de alio:  
+        <lb ed="#Bb" n="43"/>&amp; insinuauit nobis illum intelligendum. Spiritus sanctus enim sic suam ecclesiam ordinauit, 
+        <lb ed="#Bb" n="44"/>ne praecedentes doctores omnia &amp; singula declararent &amp; exponerent quae declaranda &amp; expo- 
+        <lb ed="#Bb" n="45"/>nenda essent in ecclesia: vt aliquid inuenirent declarandum doctores sequentes in quo profi- 
+        <lb ed="#Bb" n="46"/>cerent: vt secundum hoc vsque in finem seculi semper magis &amp; magis declarabitur &amp; cognoscetur 
+        <lb ed="#Bb" n="47"/>doctrina veritatis, secundum quod supra versus principium disputationis nostrae declarauimus. Vn  
+        <lb ed="#Bb" n="48"/>de Gregorius li. xxvii. Moralium super illud lob. xxxvii. Aufert stillas pluuiae, &amp; effundit im 
+        <lb ed="#Bb" n="49"/>bres ad instar gurgitis. dicit sic. An non Moyses astrum pluuiae extitit: An non Esaias, an  
+        <lb ed="#Bb" n="50"/>non Hieremias, &amp; prophetae caeteri astra pluuiae fuerunt: qui in praedicationis culmine ere- 
+        <lb ed="#Bb" n="51"/>cti quasi verborum guttis obcaecationis humanae puluerem rigando praesunt: Cum prophe- 
+        <lb ed="#Bb" n="52"/>tas abstulit, eorum vice dominus apostolos misit, qui in similitudine gurgitum pluerent post 
+        <lb ed="#Bb" n="53"/>quam subductis antiquis patribus exteriora praedicamenta tacuissent. Quia dum praedicatores le- 
+        <lb ed="#Bb" n="54"/>gis ad secreta intima retulit, per dicta sequentium vberior vis praedicationis emicauit. Redu- 
+   <!--347.xml-->
+        <pb ed="#Bb" n="166-v"/>
+        <lb ed="#Bb" n="1"/>ctis etiam ad superna Apostolis, per expositorum sequentium linguas fluenta diuinae scientiae 
+        <lb ed="#Bb" n="2"/>diu abscondita largiori effusione patefecit: qui quod illi sub breultate locuti sunt, hoc exponendo  
+        <lb ed="#Bb" n="3"/>multipliciter auxerunt: quia dum multorum praecedentium dicta colligunt, ipsi in eo quod asse 
+        <lb ed="#Bb" n="4"/>runt profundius dilatantur. Nam dum testimonia testimoniis iungunt, quasi ex guttis gurgi- 
+        <lb ed="#Bb" n="5"/>tes faciunt. Et sicut hic dicit Gregorius de doctoribus, puta Hilario, Augustino, Ambrolio, 
+        <lb ed="#Bb" n="6"/>&amp; caeteris qui secuti sunt apostolos, quo ad ea quae apostoli &amp; praecedentes doctores obscu- 
+        <lb ed="#Bb" n="7"/>ra reliquerunt: sic dici potest de doctoribus qui illos subsecuti, &amp; de caeteris secundum quod suis 
+        <lb ed="#Bb" n="8"/>temporibus succedent post alios. Nequaquam tamen propter hoc debent se posteriores praeferre 
+        <lb ed="#Bb" n="9"/>prioribus: quia nisi ab illis accepissent, nihil amplius protulissent. dicente Gregorio ibidem. Sed ne 
+        <lb ed="#Bb" n="10"/>quaquam se apostolis expositores in scientia praeferant cum exponendo latius loquuntur. Meminisse quip  
+        <lb ed="#Bb" n="11"/>pe incessanter debent per quos eiusdem scientiae inuentiones acceperunt. Quia si ex sanctis apostolis 
+        <lb ed="#Bb" n="12"/>vim intelligentiae non acciperent, nequaquam per ora doctorum largior manaret. Et hoc est quod aper 
+        <lb ed="#Bb" n="13"/>te dicit <name ref="#Augustine">Augustinus</name> in Sermone de assumptione beatae Mariae virginis. Quaedam scriptura sa- 
+        <lb ed="#Bb" n="14"/>cra veris indagationum studiis quaerenda reliquit: quae non sunt superflua aestimanda dum ve 
+        <lb ed="#Bb" n="15"/>ra indagatione fuerint patefacta. Eoecunda est enim veritatis auctoritas: &amp; dum diligenter discu 
+        <lb ed="#Bb" n="16"/>titur, de se gignere quod ipsa est cognoscitur. Saepe enim discussa veram intelligentiam parit, quam 
+        <lb ed="#Bb" n="17"/>manifestis sermonibus abscondit. Quid ergo dicendum est vnde diuina scriptura nihil commen 
+        <lb ed="#Bb" n="18"/>dat, nisi quaerendum ratione quid consentiat veritati: fiatque ipsa veritas auctoritas, sine qua ne 
+        <lb ed="#Bb" n="19"/>cesse est nec valeat auctoritas: 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e855">
+        ⁋ Haec digrediendo diximus ne aliquis miretur si aliqua ex dictis 
+        <lb ed="#Bb" n="20"/>sanctorum declarando inuestigare nitimur quae in scriptis praecedentium inuestigata non in-  
+        <lb ed="#Bb" n="21"/>ueniuntur. Dico ergo reuertendo ad propositum: quod <name ref="#Augustine">Augustinus</name> loquutus est de hoc proprie lo- 
+        <lb ed="#Bb" n="22"/>quendo &amp; circa personas tantum. Communiter tamen loquendo &amp; quodammodo improprie: bene 
+        <lb ed="#Bb" n="23"/>est hoc ex hoc inter emanationes. secundum praedictum modum tactum in prima diuisione praepo- 
+        <lb ed="#Bb" n="24"/>sita. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e873">
+        ⁋ Ad secundum: quod inter naturam &amp; voluntatem in diuinis quae sunt principia emanatio 
+        <lb ed="#Bb" n="25"/>num, non est ordo naturae: sed rationis tantum: quare neque inter emanationes: Dico quod licet hoc 
+        <lb ed="#Bb" n="26"/>verum sit de natura &amp; voluntate in diuinis vt sunt pure essentialia &amp; principia quasi remota 
+        <lb ed="#Bb" n="27"/>emanationum, inquantum tamen sunt contracta ad notionalia &amp; principia emanationum quasi proxima 
+        <lb ed="#Bb" n="28"/>secundum modum superius expositum, inter ipsa bene est ordo naturae. Quia (vt iam dictum est) volun- 
+        <lb ed="#Bb" n="29"/>tas non est foecunda &amp; quasi proximum principium eliciendi actum spirationis nisi praecedente 
+        <lb ed="#Bb" n="30"/>actu notionali naturae. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e889">
+        ⁋ Ad tertium: quod ordo est comparatio duorum per respectus inter se cum 
+        <lb ed="#Bb" n="31"/>respectu ad aliquod principium determinatum: Dico quod quandoque verum est quod ordo aliquorum inter 
+        <lb ed="#Bb" n="32"/>se accipitur in respectu ad aliquod principium ad quod ambo ordinantur: puta in tempore praeterito 
+        <lb ed="#Bb" n="33"/>&amp; futuro est ordo inter praeterita inter se, &amp; similiter inter futura inter se respectu praesentis. 
+        <lb ed="#Bb" n="34"/>Praeteritum eni est prius quod est remotius a praesenti, &amp; posterius quod est proximius praesenti. Econtrario autem  
+        <lb ed="#Bb" n="35"/>futurum est prius quod est proximius praesenti: posterius autem quod est remotius a praesenti. Illud tamen 
+        <lb ed="#Bb" n="36"/>non semper est necessarium: bene enim contingit aliqua esse ordinata inter se: non tamen in respectu 
+        <lb ed="#Bb" n="37"/>ad aliquod tertium: puta duo indiuidua sub eadem specie: quorum vnum est ab altero, vt fi- 
+        <lb ed="#Bb" n="38"/>lius a patre: quae vt comparantur ad tertium, puta ad illam speciem, in respectu illius nullum ha-  
+        <lb ed="#Bb" n="39"/>bent ordinem omnino, sicut dictum est. Et sic est in diuinis absque comparatione ad tertium in-  
+        <lb ed="#Bb" n="40"/>ter tres personas: &amp; similiter inter earum emanationes. Nisi velimus dicere quod emanationes ordi 
+        <lb ed="#Bb" n="41"/>nem habent inter se, &amp; hoc respectu patris qui est principium &amp; origo ambarum emanationum 
+        <lb ed="#Bb" n="42"/>Quamquam enim spiratio actiua sit in respectu ad duo, quia procedit a patre &amp; filio: hoc tamen est per redu 
+        <lb ed="#Bb" n="43"/>ctionem vnius illorum ad alterum: quia quod filius habet vim spiratiuam illam habet a patre.  
+        <lb ed="#Bb" n="44"/>
+      </p>
+      <p xml:id="vn58an-fe44773-d1e922">
+        ⁋ Quia arguitur quod generatio &amp; spiratio nullum respectum habent inter se: quia non sunt rela- 
+        <lb ed="#Bb" n="45"/>tiua: Dicendum secundum praedicta quod non omnis respectus ponit relationem qua respectus haben- 
+        <lb ed="#Bb" n="46"/>tes relatiue dicuntur inter se. Vel possumus dicere quod secundum modum quo est ordo generationis 
+        <lb ed="#Bb" n="47"/>ad spirationem, &amp; hoc ab hoc: eodem modo est relatio inter illa: sed innominata sunt extrema 
+        <lb ed="#Bb" n="48"/>eius: sicut &amp; relationis inter patrem &amp; filium essent extrema innominata si non essent imposi- 
+        <lb ed="#Bb" n="49"/>ta haec omnia, pater &amp; filius, generans &amp; genitus: &amp; reduceretur illa relatio ad tertium ge- 
+        <lb ed="#Bb" n="50"/>nus relationis quod est in actiuis &amp; passiuis: ad quod pertinet relatio inter patrem &amp; filium. Sed  
+        <lb ed="#Bb" n="51"/>relatio illa quantum est ex parte generationis non est alia secundum rem a relatione quae est inter 
+        <lb ed="#Bb" n="52"/>patrem &amp; filium: sicut nec alia actione foecundatur voluntas ad actum spirandi quam qua gene- 
+        <lb ed="#Bb" n="53"/>ratur filius, nec alia est actio qua producitur spiritus sanctus quam spiratio actiua. vt non oporteat 
+        <lb ed="#Bb" n="54"/>ponere plures quam quatuor relationes reales esse notionales. Et secundum hoc generatio &amp; spira- 
+        <lb ed="#Bb" n="55"/>tio non solum distinguuntur vt relationes disparatae: sed quoquo modo vt relatiue oppositae 
+   <!--348.xml-->
+        <pb ed="#Bb" n="167-r"/>
+      </p>
+      <p xml:id="vn58an-fe44773-d1e953">
+        <lb ed="#Bb" n="1"/>⁋ Nquartum, quod generare &amp; spirare non distinguuntur naturaliter: &amp; ideo nec habent ordi- 
+        <lb ed="#Bb" n="2"/>nem naturae: quia ambo sunt in eodem: &amp; ita idem re: Dico quod argumentum hoc procedit secundum  
+        <lb ed="#Bb" n="3"/>illos qui ponunt quod quiditas relationis &amp; distinctio non est nisi in ordine &amp; ex ordine ad alterum 
+        <lb ed="#Bb" n="4"/>ad quod relatiue dicitur. Qui etiam dicunt quod non est distinctio inter relationes disparatas: sed so 
+        <lb ed="#Bb" n="5"/>lum inter relatiue oppositas: ita quod si non consideretur relatio in ordine ad illud sed ad aliud, non 
+        <lb ed="#Bb" n="6"/>distinguitur ab illo secundum rem &amp; proprietatem suam: qualis est consideratio spirationis actiuae 
+        <lb ed="#Bb" n="7"/>ad generationem: quia sunt in eodem. Sed ponendo quod relatio quiditatem habet a fundamento 
+        <lb ed="#Bb" n="8"/>absque operatione rationis: licet non sine opposito &amp; respectu ad illud: non procedit argumentum. quia  
+        <lb ed="#Bb" n="9"/>relationes ad diuersa opposita ex hoc solo quod in eodem fundantur diuersimode, sicut dominium &amp; 
+        <lb ed="#Bb" n="10"/>paternitas fundantur in eodem in ordine ad diuersa opposita, bene distinguuntur inter se vt dis- 
+        <lb ed="#Bb" n="11"/>parata, quia vna comparatio non aufert aliam. Et sic licet in eodem sint generatio &amp; spiratio: &amp; 
+        <lb ed="#Bb" n="12"/>ad diuersa opposita inter se: tamen bene possunt esse re distincta naturaliter &amp; realiter vt dispa 
+        <lb ed="#Bb" n="13"/>rata: &amp; per hoc esse ordo naturae inter illa: sed non ex hoc quia sunt disparata &amp; ad diuersa ope 
+        <lb ed="#Bb" n="14"/>posita: sed quia vnum eorum quoquo modo habet esse ab altero. &amp; per hoc habent quoquo modo 
+        <lb ed="#Bb" n="15"/>relationem licet innominata inter se: quae tamen non distinguitur ex vna parte a relatione quae  
+        <lb ed="#Bb" n="16"/>est inter generare &amp; generari: &amp; ex alia parte quae est inter spirare &amp; spirari, sicut dictum est. 
+        <lb ed="#Bb" n="17"/>
+      </p>
+      <p xml:id="vn58an-fe44773-d1e992">
+        ⁋ Ad quintum quod accidit generanti &amp; generato spirare: ergo ordo per accidens solummodo est in  
+        <lb ed="#Bb" n="18"/>ter praedicta: &amp; non ordo naturae: licet non est per accidens: Dico quod tam patri quam filio non acci- 
+        <lb ed="#Bb" n="19"/>dit generare aut generari: immo est necessarium &amp; naturale secundum praedicta. Et non est simile de 
+        <lb ed="#Bb" n="20"/>homine generante absque eo quod generatus: quia etsi non potest esse generatus, est tamen creatus aut fa- 
+        <lb ed="#Bb" n="21"/>ctus, &amp; ab alio in esse productus: quod generari appellamus quoquo modo. Et sic non solum filio in diuinis ne 
+        <lb ed="#Bb" n="22"/>cessarium est prius generari si debeat spirare: sed etiam cuicumque habenti esse ab alio necesse est generari quo  
+        <lb ed="#Bb" n="23"/>quo modo vt generet. Similiter non est simile de artifice &amp; deo patre: quia artifex non habet vim artis ad  
+        <lb ed="#Bb" n="24"/>producendum artificium ex eo quod generaret, sicut habet deus pater. secundum iam dicta. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e1010">
+        ⁋ Quod dicitur 
+        <lb ed="#Bb" n="25"/>primo arguendo in oppositum: quod inter mediatum &amp; immediatum necessarius est ordo &amp;c. Dico ad in 
+        <lb ed="#Bb" n="26"/>tellectum non ad dissolutionem rationis, quod in emanationibus in diuinis dupliciter habetur mediatum 
+        <lb ed="#Bb" n="27"/>&amp; immediatum. Vno modo inter personas producentes, quia spiritus sanctus immediate procedit a patre &amp; 
+        <lb ed="#Bb" n="28"/>a filio: &amp; etiam mediante filio inquantum vim spiratiuam habet a patre. de quo non procedit ar 
+        <lb ed="#Bb" n="29"/>gumentum. Alio autem modo inter ipsas emanationes in ordine ad personas a quibus procedunt emana 
+        <lb ed="#Bb" n="30"/>tiones. de qua mediatione procedit argumentum. Spiratio enim procedit a patre &amp; filio mediante ge 
+        <lb ed="#Bb" n="31"/>neratione actiua &amp; passiua. 
+      </p>
+      <p xml:id="vn58an-fe44773-d1e1029">
+        ⁋ Alia autem duo argumenta bene &amp; clare procedunt.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>

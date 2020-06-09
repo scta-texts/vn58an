@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+   <fileDesc>
+    <titleStmt>
+      <title>Quaestio 1</title>
+      <author ref="#HenryOfGhent">Henry of Ghent</author>
+      <respStmt>
+       <name>Jeffrey C. Witt</name>
+       <resp>TEI Encoder</resp>
+      </respStmt>
+    </titleStmt>
+    <editionStmt>
+      <edition n="0.0.0-dev">
+       <title>Quaestio 1</title>
+       <date when="2020-06-09">June 09, 2020</date>
+      </edition>
+    </editionStmt>
+    <publicationStmt>
+      <authority>SCTA</authority>
+      <availability status="free">
+       <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+       </p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <listWit>
+       <witness xml:id="Ba" n="Badius1520a">Badius1520a</witness>
+      </listWit>
+    </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+    <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+    <editorialDecl>
+      <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+     guidelines for a diplomatic edition.</p>
+    </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+    <listChange>
+      <change when="2020-06-09" status="draft" n="0.0.0">
+       <p>Created file for the first time.</p>
+      </change>
+    </listChange>
+   </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+   <front>
+    <div xml:id="starts-on">
+           <pb ed="#B" n="104-r"/>
+    </div>
+   </front>
+   <body>
+    <div xml:id="vn58an-d1e1296"> <!-- alias="vn58an-a16q1" -->
+      <head xml:id="vn58an-d1e1296-Hd1e104">Quaestio 1</head>
+      <head xml:id="vn58an-d1e1296-Hd1e107" type="question-title">Utrum expositio profunda sit in theologia investiganda</head>
+      <p xml:id="vn58an-d1e1296-d1e110">
+        <lb ed="#Ba" n="13"/>CIrca primum arguitur quod expositio perofunda in hac scientia non est inuestiganda.  
+        <lb ed="#Ba" n="14"/>primo sic. Illud non debet ab homine inuestigari: quod non potest ab eo inueniri, 
+        <lb ed="#Ba" n="15"/>uia frustra laboraret. profunda expositio in eis quae sunt huius scientiae est huiusmo 
+        <lb ed="#Ba" n="16"/>di. secundum quod vult <name ref="#Augustine">Augustinus</name> in illa auctoritate communi in Epistola ad Volusianum. 
+        <lb ed="#Ba" n="17"/>Tanta est christianarum profunditas literarum &amp;c. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1296-d1e127">
+        ⁋ Secundo sic. <ref xml:id="vn58an-d1e1296-Rd1e129">Ro. xii.</ref>  
+        <lb ed="#Ba" n="18"/>
+       <quote xml:id="vn58an-d1e1296-Qd1e134" source="http://scta.info/resource/rom12_3">Non plus sapere quam oportet sapere</quote>. sed non est plus sapere quam oportet nisi profunda 
+        <lb ed="#Ba" n="19"/>inuestigatione scripturae. hoc enim facit omnes haereticos. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1296-d1e141">
+        ⁋ In oppositum est. 
+        <lb ed="#Ba" n="20"/>quoniam vt dicit <name ref="#Augustine">Augustinus</name> i de Academica Res magna. diligenti digna est inquisitione: ergo res maxima cu- 
+        <lb ed="#Ba" n="21"/>iusmodi est expositio huius scripturae diligentissima digna est inquisitione. haec non est nisi profun 
+        <lb ed="#Ba" n="22"/>da. ergo &amp;c. 
+      </p>
+      <p xml:id="vn58an-d1e1296-d1e153">
+        <lb ed="#Ba" n="23"/>⁋ Dicendum ad hoc, quod cum scripturae cuiuslibet expositio hoc quaerit vt veritas eius elu- 
+        <lb ed="#Ba" n="24"/>cescat discenti, in sacrae scripturae expositione duo sunt attendenda: quorum primum est euidentia veritatis 
+        <lb ed="#Ba" n="25"/>quae quaeritur. Secundum est capacitas discentis quae veritate informari intenditur. Quantum ad primum exponentis intentio 
+        <lb ed="#Ba" n="26"/>cessare non debet quousque ad liquidam veritatem parueniat, &amp; cum eam inuenerit cessare continuo, nec in eodem 
+        <lb ed="#Ba" n="27"/>genere, &amp; modo expositionis inuestigare aliquid vlterius, siue inuestigatione profunda inuenta sit, siue planiori. 
+        <lb ed="#Ba" n="28"/>secundum quod dicit Gre. super illud Ge. xxx. Tollens igitur lacob virgas. Intellectus sacri eloquii inter textum &amp; 
+        <lb ed="#Ba" n="29"/>mysterium tantalibratione pesandus est, vt neque nimiae discussionis potesdus deprimat, neque torpor incuriae 
+        <lb ed="#Ba" n="30"/>vacuum relinquat. Multae enim sententiae tanta allegoriarum conceptione grauidae sunt, vt quisques eam ad  
+        <lb ed="#Ba" n="31"/>solam historiam tenere nititur, earum notitia per incuriam priuetur. Quaedam vero ita exterioribus prae- 
+        <lb ed="#Ba" n="32"/>ceptis inseruiunt, vt si quis subtilius penetrare desiderat nihil intus inueniat, sed sibi etiam quid foris est abs 
+        <lb ed="#Ba" n="33"/>condit. Si ergo liquida veritas quae quaeritur, vltro in litera se offert, profundius inuestiganda expo- 
+        <lb ed="#Ba" n="34"/>sitione non est. Cum vero veritatem litera abscondit, quousque liquida veritas inueniatur expositio profun 
+        <lb ed="#Ba" n="35"/>da quaerenda est. secundum quod dicit <name ref="#Augustine">Augustinus</name> super Ion ser. xxiii. Quodam loco in euangeliocs. Mat. viii. domins ait 
+        <lb ed="#Ba" n="36"/>prudentem auditorem verbi sui similem esse debere homini, qui volens aedificare fodit altius donec peruenit 
+        <lb ed="#Ba" n="37"/>ad fundamentum stabilitatis petrae. Putemus scripturam dei tanquam agrum vbi volumus aliquid aedificare 
+        <lb ed="#Ba" n="38"/>Non simus pigri, nec superficie contenti, fodiamus altius donec perueniamus ad petram. Petra autem er at 
+        <lb ed="#Ba" n="39"/>Christus, in quo vt dicit Apostolus: sunt omnes thesauri scientiae &amp; sapientiae absconditi. Et sic non est 
+        <lb ed="#Ba" n="40"/>cessandum donec ad solidam sapientiae veritatem perueniamus. Sed intelligendum, quod priusquam altius solida  
+        <lb ed="#Ba" n="41"/>veritas inuestigata est in determinando &amp; sententiando de ipsa cautela adhibenda est, in eo scilicet quod liquidum  
+        <lb ed="#Ba" n="42"/>non est nihil temere affirmando dum adhuc dubium est verum falsum ne sit. Quod autem doceri potest 
+        <lb ed="#Ba" n="43"/>rerum apertissima, vel scripturarum certissima auctoritate, sine cunctatione asserendum. secundum quod dicit 
+        <lb ed="#Ba" n="44"/>Augustinus viii. super Ge. in prin. eo tamen moderamine seruato (sicut dicit in li. vi. vt in profundae literae sensu 
+        <lb ed="#Ba" n="45"/>quod certum est sic terminetur, vt magis praestemus diligentiam inquirendi quam affirmandi temeritatem. &amp; vt di- 
+        <lb ed="#Ba" n="46"/>cit in li. x. si non liquidam de qua dubitare non debeat: tamen acceptabilem sententiam nanciscamur 
+        <lb ed="#Ba" n="47"/>tenere eam donec certum aliquod illucescat non sit absurdum. Quia si nec hoc quidem potuerimus documentorum  
+        <lb ed="#Ba" n="48"/>momentis vndique pariterque nutantibus, saltem non videbitur nostra dubitatio laborem deuitare quaerem 
+        <lb ed="#Ba" n="49"/>di, sed affirmandi temeritatem. 
+      </p>
+      <p xml:id="vn58an-d1e1296-d1e217">
+        ⁋ Quantum vero ad secundum semper iuxta discentis capacitatem for 
+        <lb ed="#Ba" n="50"/>manda est expositio. Et ideo cum piures discentium grossi sunt &amp; hebetes, grossa &amp; vsitata expositio prae 
+        <lb ed="#Ba" n="51"/>cipue quaerenda est. Inusitata autem etsi vera sit potius insinuanda quam asserenda est. Si autem tam obscura 
+        <lb ed="#Ba" n="52"/>sit vt vires discentium excedat differenda est. &amp; vsque ad tpres opportunum occultanda. secundum quod Acade 
+        <lb ed="#Ba" n="53"/>mici leguntur occultasse sententias doctrinae Platonis. Et hoc est quod dicit <name ref="#Augustine">Augustinus</name> super euange. li. iii. Boni 
+   <!--223.xml-->
+        <pb ed="#Ba" n="104-v"/>
+        <lb ed="#Ba" n="1"/>catholici qui fidem integram sequuntur &amp; bonos mores, quod ad fidei doctrinam pertinet ita quaerunt, si 
+        <lb ed="#Ba" n="2"/>quid quaerendum est, vt absit concertatio periculosa: vel ei cum quo quaeritur, vel eis qui discentes audiunt. lta 
+        <lb ed="#Ba" n="3"/>autem docent: si quid docendum habent, vt vsitata &amp; confirmata securissime &amp; confidentissime &amp; leuissi 
+        <lb ed="#Ba" n="4"/>me, vt possunt insinuent. Inusitata vero etiam si veritatis manifestatione liquidissima perceperint 
+        <lb ed="#Ba" n="5"/>quaerendi potius quam percipiendi aut affirmandi modo propter audientis infirmitatem. Si enim tantum pon 
+        <lb ed="#Ba" n="6"/>dus habet aliquod verum, vt vires discentis excedat: suspendendum est vt expectet crescentem: non 
+        <lb ed="#Ba" n="7"/>imponendum vt obterat paruulum: aliquando autem &amp; occultandum est: sed cum spe hortatoria, vt non 
+        <lb ed="#Ba" n="8"/>faciat desperatio frigidiores: sed desiderium capaciores. Inde est illud Domni. Multa habeo vobis. dice- 
+        <lb ed="#Ba" n="9"/>re: sed non potestis portare modo. &amp; etiam illud Apostoli. Non potui vobis loqui quasi spiritualibus: sed  
+        <lb ed="#Ba" n="10"/>quasi carnalibus: tanquam paruulis in Christo lac potum dedi vobis non escam: nondum enim poteratis intel- 
+        <lb ed="#Ba" n="11"/>ligere. Perfectis autem &amp; spiritualibus expositio profunda spiritualis est proponenda. Propter quod idem Apo 
+        <lb ed="#Ba" n="12"/>stolus dixit. Sapientiam loquimur inter perfectos. &amp; sequitur. In doctrina spiritus spiritualibus spiritualia comparantes 
+        <lb ed="#Ba" n="13"/>spiritus enim omnia scrutatur etiam profunda dei. Vnde quia intellectus profunda expositione eliciendus est mul 
+        <lb ed="#Ba" n="14"/>tum caute in tali expositione procedendum est ne quid temere asseratur nisi quod iuxta regulam fidei certissimae in 
+        <lb ed="#Ba" n="15"/>uentum cognoscatur: qua cautela omissa haereses omnes in ecclesia contigerunt. dicente <name ref="#Augustine">Augustinus</name> i. par. 
+        <lb ed="#Ba" n="16"/>super loannem. ser. xviii. Neque enim haereses natae sunt: &amp; quaedam documenta paruersitatis illaqueantia animas: &amp; 
+        <lb ed="#Ba" n="17"/>in profundum praecipitantia: nisi dum scripturae bonae intelliguntur non bene: &amp; quod in eis non bene in 
+        <lb ed="#Ba" n="18"/>telligitur: etiam temere &amp; audacter asseritur. lta charissime valde caute audire debemus ad quae ca- 
+        <lb ed="#Ba" n="19"/>pienda sumus paruuli: &amp; corde pio: &amp; cum timore, hanc tenentes regulam sanitatis, vt quid secundum 
+        <lb ed="#Ba" n="20"/>fidem qua imbuti sumus intelligere valuerimus, tanquam de cibo gaudeamus. quod autem secundum 
+        <lb ed="#Ba" n="21"/>sanam fidei regulam intelligere nondum potuerimus, dubitationem auferamus: intelligentiam 
+        <lb ed="#Ba" n="22"/>differamus: hoc est vt etiam si quid sit nescimus, bonum tamen &amp; verum esse minime dubitemus: a quo pror 
+        <lb ed="#Ba" n="23"/>sus fides nostra labi non debet: quae nullis hominum argumentis extorquenda est cordi nostro: ad quam 
+        <lb ed="#Ba" n="24"/>dirigamus ea quae intelligimus: &amp; quae forte non intelligimus, dirigenda ad hanc regulam quando-  
+        <lb ed="#Ba" n="25"/>quod differamus cum idonei fuerimus. Eides enim (vt dicit Glos. super illd Leui. ii. Tollet pugillum similae)- 
+        <lb ed="#Ba" n="26"/>est mensura scientiae. 
+      </p>
+      <p xml:id="vn58an-d1e1296-d1e295">
+        <lb ed="#Ba" n="27"/>⁋ Ad primum in oppositum, quod homo non potest attingere ad profundam exposi 
+        <lb ed="#Ba" n="28"/>tionem dictorum huius scientiae: Dicendum quod verum est omnia eius profunda perscrutando: &amp; maxime 
+        <lb ed="#Ba" n="29"/>quantum perscrutabilia &amp; scibilia sunt homini. hoc enim homini impossibile in vita ista est. secundum 
+        <lb ed="#Ba" n="30"/>quod dicit Orige. super Exo. Si singula diligenter inspicias, plura in quibus haereat intellectus quam in quibus 
+        <lb ed="#Ba" n="31"/>expediri possit inuenies: pro quibus dicere in oratione debeamus. De profundis clamaui ad te do-  
+        <lb ed="#Ba" n="32"/>mine. &amp; ideo studio eius in hac scientia non est terminus ponendus, vt dictum est supra. Multa tamen profun- 
+        <lb ed="#Ba" n="33"/>da huius scientiae potest inuestigare expositione profunda per gratiam dei quae multum. excedit inuestigationem naturalis 
+        <lb ed="#Ba" n="34"/>rationis. secundum quod dicit Apostolus. i. Corinth. ii. Quia oculus non vidit nec auris audiuit nec in cor hominis 
+        <lb ed="#Ba" n="35"/>ascendit quae nobis reuelauit deus per spiritum suum. Spiritus enim omnia scrutatur etiam profunda dei. 
+      </p>
+      <p xml:id="vn58an-d1e1296-d1e317">
+        ⁋ Ad se 
+        <lb ed="#Ba" n="36"/>cundum quod plus sapere quam oportet est profunda inuestigare: Dicendum quod verum est quando profunda inue 
+        <lb ed="#Ba" n="37"/>stigatio excedit moderamen intellectus inuestigantis. Maxime quando cum hoc excedit regulas fi- 
+        <lb ed="#Ba" n="38"/>dei. Sed est alia profunda inuestigatio sub moderamine intellectus inuestigantis: &amp; ductu rectae ra- 
+        <lb ed="#Ba" n="39"/>tionis iuxta regulas fidei: qua inuestigare profunda non est plus sapere quam oportet. Profunda inue- 
+        <lb ed="#Ba" n="40"/>stigatio primo modo praesumptuosa est: &amp; temeraria: &amp; haereticos facit: quia quaerunt altiora se vt 
+        <lb ed="#Ba" n="41"/>dictum est supra. Vnde dicit Esichius super illud Leui. vi. Omnis qui tetigerit illam sanctificabitur 
+        <lb ed="#Ba" n="42"/>Plane ostendit quod disputando de deoi. i. theologizando sufficit nobis tantum tangere. qui enim vult ca- 
+        <lb ed="#Ba" n="43"/>lefieri: si manum in ignem miserit pro calefactione adustionem sustinebit. Profunda vero inuesti- 
+        <lb ed="#Ba" n="44"/>gatio secundo modo charitatiua est &amp; studiosa: quia manet in sobrietate. Et ideo vbi dixit Aposto 
+        <lb ed="#Ba" n="45"/>lus. Non plus sapere quam oportet sape. statim addidit. Sed sapere ad sobrietatem. Glo sid est inuestigare de my- 
+        <lb ed="#Ba" n="46"/>steriis diuinis sine praesumptione &amp; temperate, quod praeceptum transgressi sunt omnes haeretici. vn  
+        <lb ed="#Ba" n="47"/>de profunda inuestigatio non competit nisi viris spiritualibus &amp; perfectis: caeteris autem perniciosa est.
+      </p>
+    </div>
+   </body>
+  </text>
+</TEI>
