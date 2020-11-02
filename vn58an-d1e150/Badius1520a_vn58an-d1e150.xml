@@ -100,12 +100,12 @@
         <lb ed="#Ba" n="19"/>turalis &amp; modo naturali, quo intelligit ea quae sibi naturaliter subsunt: vt naturalia, &amp; ea quae ex 
         <lb ed="#Ba" n="20"/>sensu circa naturalia potest inuestigare, qui est naturalis: quia ex principiis &amp; naturalibus instru- 
         <lb ed="#Ba" n="21"/>mentis potest ad ipsum attingere, &amp; est modo naturali: quia per sensus &amp; sensibilia acceptus. De quo  
-        <lb ed="#Ba" n="22"/>modo sciendi dicit <name ref="#Aristotle">Philosophus</name>: quod deficiente sensu, necesse est deficere scientiam secundum illum 
+        <lb ed="#Ba" n="22"/>modo sciendi dicit <name xml:id="vn58an-d1e150-Nd1e192" ref="#Aristotle">Philosophus</name>: quod deficiente sensu, necesse est deficere scientiam secundum illum 
         <lb ed="#Ba" n="23"/>sensum. Caecus enim natus nihil potest cognoscere de coloribus, neque intelligendo, neque imaginan- 
         <lb ed="#Ba" n="24"/>do. Secundus est partim naturalis, partim supnaturalis: quo intelligit per fidem ea quae sunt fidei, quid est super 
         <lb ed="#Ba" n="25"/>naturalis: quia per lumen aliquod supernaturaliter infusum. Est autem naturalis: quia modo naturali, quia  
         <lb ed="#Ba" n="26"/>per fidem: &amp; ex fide non intelligimus, nisi sub similitudinibus corporalibus inuoluta. propter quod dicit Apo- 
-        <lb ed="#Ba" n="27"/>stolis ist ad Corin. xiii. Videmus nunc per speculum in aenig. &amp; btuns Dionysius. in principio cae. Hie. Impossibile 
+        <lb ed="#Ba" n="27"/>stolis ist <ref xml:id="vn58an-d1e150-Rd1e206">ad Corin. xiii.</ref> <quote xml:id="vn58an-d1e150-Qd1e209" source="http://scta.info/resource/Icor13_12" synch="1-6">Videmus nunc per speculum in aenig.</quote> &amp; btuns Dionysius. in principio cae. Hie. Impossibile 
         <lb ed="#Ba" n="28"/>est aliter lucere nobis diuinum radium: nisi sacrorum velaminum similitudine inuolutum. Ter- 
         <lb ed="#Ba" n="29"/>tius modus est omnino supernaturalis, quo intelligit homo pure spiritualia circa deum, &amp; spiritu 
         <lb ed="#Ba" n="30"/>ales creaturas, qui est supenaturalis: quia de illis ad quae attingere non potest, nisi per lumen su 
@@ -138,7 +138,7 @@
         <lb ed="#Ba" n="54"/>guminos mouendo in eis organa vocum ad loquendum aliquando linguam quam ignorant obsessi: vel sicut 
    <!--50.xml-->
         <pb ed="#Ba" n="18-r"/>
-        <lb ed="#Ba" n="1"/>angelus docuit <name>Balaam</name>, loquens per os asinae. <ref xml:id="vn58an-d1e150-Rd1e283">Nume. xxii.</ref> Sed iste modus docendi non est proprius 
+        <lb ed="#Ba" n="1"/>angelus docuit <name xml:id="vn58an-d1e150-Nd1e285">Balaam</name>, loquens per os asinae. <ref xml:id="vn58an-d1e150-Rd1e283">Nume. xxii.</ref> Sed iste modus docendi non est proprius 
         <lb ed="#Ba" n="2"/>angelo: quia conuenit etiam homini: vnde nec ipsum quaerimus. 
       </p>
       <p xml:id="vn58an-d1e150-d1e290">
@@ -189,7 +189,7 @@
         ⁋ Tertio apparet inconueniens: quia anima hominis vt est principium 
         <lb ed="#Ba" n="35"/>intelligendi in homine, non recipit species nisi a phantasmate: tanquam a suo proprio actiuo: nec ali- 
         <lb ed="#Ba" n="36"/>ter nata est eas recipere, quare cum nihil natum est naturaliter pati nisi a suo actiuo: ab angelo nul- 
-        <lb ed="#Ba" n="37"/>lo modo talem impressionem potest immediate recipere. vnde &amp; <name ref="#Augustine">Augustinus</name> vult. iii. de Tri. quod angeli 
+        <lb ed="#Ba" n="37"/>lo modo talem impressionem potest immediate recipere. vnde &amp; <name xml:id="vn58an-d1e150-Nd1e383" ref="#Augustine">Augustinus</name> vult. iii. de Tri. quod angeli 
         <lb ed="#Ba" n="38"/>nihil agant producendo in rebus naturalibus: nisi mediantibus causis naturalibus. aut igitur ani- 
         <lb ed="#Ba" n="39"/>ma species illas spirituales ab angelo non recipit: aut per illas nullatenus intelligit: &amp; ideo angelus 
         <lb ed="#Ba" n="40"/>per eas hominem omnino docere non poterit. &amp; hoc est quod testatur beatus Bernard. dicens su- 
@@ -220,7 +220,7 @@
         <lb ed="#Ba" n="2"/>lis species imaginabilis non est nata fieri: nisi ab obiecto sensibili, &amp; in organo corporali. Et cum hoc 
         <lb ed="#Ba" n="3"/>si ab alio nata esset fieri per se subsistens: non tamen ab ea intellectus abstraheret species intelligibi- 
         <lb ed="#Ba" n="4"/>les: quia non est natus abstrahere eas nisi a speciebus existentibus in phantasmate: quae se habent ad  
-        <lb ed="#Ba" n="5"/>intellectum, sicut colores ad visum: vt vult <name ref="#Aristotle">Philosophus</name> in. iii. de Anima. 
+        <lb ed="#Ba" n="5"/>intellectum, sicut colores ad visum: vt vult <name xml:id="vn58an-d1e150-Nd1e447" ref="#Aristotle">Philosophus</name> in. iii. de Anima. 
       </p>
       <p xml:id="vn58an-d1e150-d1e445">
         ⁋ Secundus modus po- 
@@ -252,10 +252,10 @@
         <lb ed="#Ba" n="31"/>intelligere possit per species intelligibiles abstractas ab eis: quae nunquam vel qualia numquam intellexit: secun 
         <lb ed="#Ba" n="32"/>dum quod de tali ordine facto imaginibus a natura aliquando videntur in somnis: qualia nunquam fue- 
         <lb ed="#Ba" n="33"/>runt visa in vigilia: vt dicit <ref xml:id="vn58an-d1e150-Rd1e511">
-        <name ref="#Aristotle">Philosophus</name> in de som. &amp; vig.</ref> Vnde de tali potentia angelorum dicit 
+        <name xml:id="vn58an-d1e150-Nd1e519" ref="#Aristotle">Philosophus</name> in de som. &amp; vig.</ref> Vnde de tali potentia angelorum dicit 
         <lb ed="#Ba" n="34"/>
        <ref xml:id="vn58an-d1e150-Rd1e519">
-        <name ref="#Augustine">Aug.</name> li. lxxx. iii. qu.</ref> Daemon serpit per omnes aditus sensuales: dat se figuris: accommodat coloribus: ad  
+        <name xml:id="vn58an-d1e150-Nd1e527" ref="#Augustine">Aug.</name> li. lxxx. iii. qu.</ref> Daemon serpit per omnes aditus sensuales: dat se figuris: accommodat coloribus: ad  
         <lb ed="#Ba" n="35"/>haeret sonis: odoribus se subiicit: infundit saporibus: &amp; ostendit homini formas notas &amp; igno-  
         <lb ed="#Ba" n="36"/>tas: ex quibus facit conceptus complexos &amp; incomplexos: quales nunquam prius conceperat. Intelligen 
         <lb ed="#Ba" n="37"/>dum tamen quod nullam formam per hoc potest repraesentare: cuius imaginem aut speciem extra sen 
