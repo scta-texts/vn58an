@@ -63,7 +63,7 @@
       </p>
       <p xml:id="vn58an-d1e881-d1e126">
         ⁋ Se-  
-        <lb ed="#Ba" n="39"/>cundo sic. <name ref="#Augustine">Augustinus</name> dicit contra epistolam fundamenti. Ego euangelio non crede 
+        <lb ed="#Ba" n="39"/>cundo sic. <name xml:id="vn58an-d1e881-Nd1e130" ref="#Augustine">Augustinus</name> dicit contra epistolam fundamenti. Ego euangelio non crede 
         <lb ed="#Ba" n="40"/>rem nisi me catholicae ecclesiae commoueret auctoritas. sed illi magis est credendum sine quo alteri 
         <lb ed="#Ba" n="41"/>non crederetur. ergo &amp;c. 
       </p>
@@ -99,7 +99,7 @@
         <lb ed="#Ba" n="10"/>mo credere debet, ecclesiae an scripturae. Vbi primo sciendum secundum quod tactum est in praecedenti quaestio- 
         <lb ed="#Ba" n="11"/>ne, quod licet credere debeamus fine ratione reddita de credendis: quia rationem praecedit auctoritas:  
         <lb ed="#Ba" n="12"/>&amp; fides praeterit intellectum: tamen oportet nos considerare quibus hominibus vel libris creden- 
-        <lb ed="#Ba" n="13"/>dum sit ad colendum recte deum. sicut <name ref="#Augustine">Augustinus</name> dicit de vera relig. Ecclesiae ergo vel scriptu- 
+        <lb ed="#Ba" n="13"/>dum sit ad colendum recte deum. sicut <name xml:id="vn58an-d1e881-Nd1e210" ref="#Augustine">Augustinus</name> dicit de vera relig. Ecclesiae ergo vel scriptu- 
         <lb ed="#Ba" n="14"/>rae quantum est ex parte credentis credendum est magis secundum quod recta ratio suaserit rationabi 
         <lb ed="#Ba" n="15"/>liter alteri illorum credendum magis. Aliter enim credere vni potius quam alteri temeritatis &amp; leui 
         <lb ed="#Ba" n="16"/>tatis esset. 
@@ -117,8 +117,8 @@
         <lb ed="#Ba" n="25"/>suadendum: validiora tamen sunt exempla quam verba &amp; plenius est opere docere quam sermone. hoc modo acce 
         <lb ed="#Ba" n="26"/>dens ad fidem magis debet credere auctoritati ecclesiae quam scripturae eius quam apud eam inuenit: quia 
         <lb ed="#Ba" n="27"/>facta possunt eum magis certificare quam nuda verba nondum intellecta. Vnde per hunc modum conver- 
-        <lb ed="#Ba" n="28"/>sus fuit beatus <name ref="#Augustine">Augustinus</name> secundum quod dicit contra epistolam fundamenti. Euangelio non crederem nisi me catho- 
-        <lb ed="#Ba" n="29"/>lica ecclesiae commoueret auctoritas. Quibus obtemperaui dicentibus, Crede euangelio. Vnde quod ad  
+        <lb ed="#Ba" n="28"/>sus fuit <ref xml:id="vn58an-d1e881-Rd1e249" corresp="#vn58an-d1e881-Qd1e254"><name xml:id="vn58an-d1e881-Nd1e250" ref="#Augustine">beatus Augustinus</name> secundum quod dicit contra epistolam fundamenti</ref>. <quote xml:id="vn58an-d1e881-Qd1e254" source="http://scta.info/resource/AgCMfu-sdf83a-d1e185" synch="139-149">Euangelio non crederem nisi me catho- 
+        <lb ed="#Ba" n="29"/>lica ecclesiae commoueret auctoritas</quote>. Quibus obtemperaui dicentibus, Crede euangelio. Vnde quod ad  
         <lb ed="#Ba" n="30"/>praedicationem beati Ambrosius conuersus fuit secundum quod recitat in libro confeli. suarum, hoc non erat  
         <lb ed="#Ba" n="31"/>quia veritatem euangelii praedicauit: sed quia catholicis euangelium praedicantibus prius credidit. vt 
         <lb ed="#Ba" n="32"/>dicit ibidem contra epistolam fundamenti, quibus vt credatur maxime in eis quae sunt fidei, plus 
@@ -131,12 +131,12 @@
         <lb ed="#Ba" n="36"/>scere credendorum veritatem &amp; eis assentire: tamen vt homo cognoscat particularia credenda, opor- 
         <lb ed="#Ba" n="37"/>tet quod ei proponantur vel interius occulta inspiratione, vel exterius ecclesiae praedicatione. In quo ma 
         <lb ed="#Ba" n="38"/>gis valet praedicatio ecclesiae quam inspectio scripturae: quia distincta magis in ea sit articulorum expli 
-        <lb ed="#Ba" n="39"/>catio. Hic est quod dicitur de <name>Cornelio</name> Act. xiii. in Glos. quod fidem habuit, &amp; per eam deuenit ad opera. Quia 
+        <lb ed="#Ba" n="39"/>catio. Hic est quod dicitur de <name xml:id="vn58an-d1e881-Nd1e284">Cornelio</name> Act. xiii. in Glos. quod fidem habuit, &amp; per eam deuenit ad opera. Quia 
         <lb ed="#Ba" n="40"/>tamen quae particulariter credenda erant ignorauit, ad eum imbuendum missus est Petrus: non au  
         <lb ed="#Ba" n="41"/>tem scriptura aliqua ostensa est ei. Quo ad primam igitur fidei generationem &amp; susceptionem ma 
         <lb ed="#Ba" n="42"/>gis valet ecclesiae auctoritas quam scripturae. &amp; ideo rationabile est hominem primo accedentem ad fidem 
         <lb ed="#Ba" n="43"/>primo &amp; magis credere ecclesiae quam scripturae: &amp; propter ecclesiam Christo &amp; eius scripturae. Propter quod di 
-        <lb ed="#Ba" n="44"/>cit <name ref="#Augustine">Augustinus</name> loquens de conuersione sua in libro de vtilis cre. Nullis me video credidisse nisi populorum 
+        <lb ed="#Ba" n="44"/>cit <name xml:id="vn58an-d1e881-Nd1e298" ref="#Augustine">Augustinus</name> loquens de conuersione sua in libro de vtilis cre. Nullis me video credidisse nisi populorum 
         <lb ed="#Ba" n="45"/>atque gentium confirmatae opinioni ac famae admodum celeberrimae. Cur non igitur apud eos po 
         <lb ed="#Ba" n="46"/>tissimum diligentissime requiram quid Christus praeceperit, quorum auctoritate commotus Christum 
         <lb ed="#Ba" n="47"/>aliquid vtile praecepisse iam credidi: Vnde quia ad primam fidei generationem summe valet auctori 
@@ -157,9 +157,9 @@
         <lb ed="#Ba" n="5"/>Sic certe fidelis sacra scriptura cognita, &amp; in ipsa Christo inuento: plus verbis Christin in ea credit quam 
         <lb ed="#Ba" n="6"/>cuicumque praedicatori, quam etiam ecclesiae testificanti: quia propter illam iam credit ecclesiae: et si ipsa quidem 
         <lb ed="#Ba" n="7"/>contraria scripturae diceret ipsi non crederet. &amp; ideo talis robur fidei in auctoritate huius scientiae per- 
-        <lb ed="#Ba" n="8"/>fectissime consistit. Propter quod dicit <name ref="#Augustine">Augustinus</name> i de doct. Christia. Titubabit autem fides: si diuinarum 
+        <lb ed="#Ba" n="8"/>fectissime consistit. Propter quod dicit <name xml:id="vn58an-d1e881-Nd1e349" ref="#Augustine">Augustinus</name> i de doct. Christia. Titubabit autem fides: si diuinarum 
         <lb ed="#Ba" n="9"/>scripturarum vacillat auctoritas. Et ex hoc etiam contingit quod fideles quanto magis in intellectu huius 
-        <lb ed="#Ba" n="10"/>scientiae proficiunt, tanto firmiores in fide &amp; magis catholici fiunt. secundum quod dicit <name ref="#Augustine">Augustinus</name> contra 
+        <lb ed="#Ba" n="10"/>scientiae proficiunt, tanto firmiores in fide &amp; magis catholici fiunt. secundum quod dicit <name xml:id="vn58an-d1e881-Nd1e357" ref="#Augustine">Augustinus</name> contra 
         <lb ed="#Ba" n="11"/>epistolam fundamenti. Intelligentia quanto magis proficiunt, tanto magis catholici esse firmantur. 
       </p>
       <p xml:id="vn58an-d1e881-d1e358">
