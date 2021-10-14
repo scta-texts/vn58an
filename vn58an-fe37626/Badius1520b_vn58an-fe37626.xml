@@ -65,9 +65,9 @@
    <!--289.xml-->
         <pb ed="#Bb" n="137-v"/>
         <lb ed="#Bb" n="1"/>alicui nisi ratione materiae vel quasi, de qua est generatio eius quod est possibile generari. materia autem vel quasi non 
-        <lb ed="#Bb" n="2"/>est in potentia vt aliquid de ea generetur nisi quia in potentia est ad formam rei generandae &amp; edu- 
-        <lb ed="#Bb" n="3"/>cendae de potentia materiae vel quasi per generationem. forma autem praeter essentiam diuinam non est in diui- 
-        <lb ed="#Bb" n="4"/>nis nisi relatio: quae non est per se terminus generationis vel qua generatio terminatur ad aliquid, vt cuius 
+        <lb ed="#Bb" n="2"/>est in potentia vt aliquid de ea generetur nisi quia in potentia est ad formam rei generandae &amp; 
+        edu<lb ed="#Bb" n="3" break="no"/>cendae de potentia materiae vel quasi per generationem. forma autem praeter essentiam diuinam non est in 
+        diui<lb ed="#Bb" n="4" break="no"/>nis nisi relatio: quae non est per se terminus generationis vel qua generatio terminatur ad aliquid, vt cuius 
         <lb ed="#Bb" n="5"/>ipsa est forma. ergo si in diuinis esset potentia generandi passiue, in eis esset aliquid vt materia &amp; in po 
         <lb ed="#Bb" n="6"/>tentia ad diuinam essentiam. consequens falsum est: quia in diuinis nihil est quasi materia aliorum 
         <lb ed="#Bb" n="7"/>nisi ipsa essentia. ergo &amp;c. 
@@ -93,14 +93,14 @@
         <lb ed="#Bb" n="18"/>potius proprietas patris &amp; in patre sic. vt iam dictum est, potentia generandi quia est passiua, non  
         <lb ed="#Bb" n="19"/>est in aliquo neque conuenit ei nisi ratione materiae vel quasi existentis in illo: quae in diuinis non est nisi 
         <lb ed="#Bb" n="20"/>ipsa diuina essentia. sed diuina essentia vt est quasi materia de qua generat pater, est in patre, quia 
-        <lb ed="#Bb" n="21"/>pater non generat nisi de sua substantia, vt patet ex supra determinatis. ergo potentia generandi pas- 
-        <lb ed="#Bb" n="22"/>siua est in patre &amp; non nisi in patre. sed non est proprietas nisi eius in quo est. potentia ergo generan 
+        <lb ed="#Bb" n="21"/>pater non generat nisi de sua substantia, vt patet ex supra determinatis. ergo potentia generandi 
+        pas<lb ed="#Bb" n="22" break="no"/>siua est in patre &amp; non nisi in patre. sed non est proprietas nisi eius in quo est. potentia ergo generan 
         <lb ed="#Bb" n="23"/>di proprietas patris est &amp; in patre: non ergo filii nec in filio. 
       </p>
       <p xml:id="vn58an-fe37626-d1e189">
-        ⁋ Quia etiam pater generat de sua substan- 
-        <lb ed="#Bb" n="24"/>tia siue inquantum sua est, ne dicatur quod generat de substantia quae non sua est, sed vt est filii, deducitur qua-  
-        <lb ed="#Bb" n="25"/>druplici medio. Primo sic. quia si ignis generet ignem de aqua, hoc non est nisi quia generat ignem de 
+        ⁋ Quia etiam pater generat de sua 
+        substan<lb ed="#Bb" n="24" break="no"/>tia siue inquantum sua est, ne dicatur quod generat de substantia quae non sua est, sed vt est filii, deducitur 
+        qua<lb ed="#Bb" n="25" break="no"/>druplici medio. Primo sic. quia si ignis generet ignem de aqua, hoc non est nisi quia generat ignem de 
         <lb ed="#Bb" n="26"/>substantia aquae vt est aqua, quia non est alterius, quare cum bene dicitur pater generat filium de seipso 
         <lb ed="#Bb" n="27"/> hoc non est nisi quia generat de sua substantia vt sua est. 
       </p>
@@ -109,8 +109,8 @@
         <lb ed="#Bb" n="28"/>personarum: non tamen pater generat de illa vt est filii: quia tunc de illa generaret alium filium: quia filius ille 
         <lb ed="#Bb" n="29"/>cuius est ipsa substantia, saltem secundum rationem praecedit generationem eius quid generatur de sua substantia vt sua 
         <lb ed="#Bb" n="30"/>est. Actus enim praecedit secundum rationem semper id quid de eo generatur, nec de substantia eadem 
-        <lb ed="#Bb" n="31"/>vt est spiritus sancti: quia ipsa spiritui sancto per spirationem communicatur: quae supponit generationem se- 
-        <lb ed="#Bb" n="32"/>cundum superius determinata. 
+        <lb ed="#Bb" n="31"/>vt est spiritus sancti: quia ipsa spiritui sancto per spirationem communicatur: quae supponit generationem 
+        se<lb ed="#Bb" n="32" break="no"/>cundum superius determinata. 
       </p>
       <p xml:id="vn58an-fe37626-d1e213">
         ⁋ Tertio sic. sicut proprietate paterna in patre determinatur essentia 
@@ -166,23 +166,23 @@
         <lb ed="#Bb" n="11"/>inter esse &amp; non esse est generatio: ita semper id quod generatur est inter illud quod est ens &amp; non ens. Addiscens 
         <lb ed="#Bb" n="12"/>enim est generatum sciens. Et intendit secundum Commenta. quod sicut addiscens est medius inter omnino  
         <lb ed="#Bb" n="13"/>ignorantem &amp; perfecte scientem: sic quod generatur vt materia, &amp; subiectum, semper medium est inter purum 
-        <lb ed="#Bb" n="14"/>non ens &amp; ens in actu. &amp; hoc ideo quia ipsa est ens in potentia. De secundo autem dicit in vii. me- 
-        <lb ed="#Bb" n="15"/>taphysicae. Omne quod generatur est aliquid &amp; ab aliquo &amp; per aliquid. vbi dicit Commentator. Est aliquid. i. ali- 
-        <lb ed="#Bb" n="16"/>quod praedicamentorum: &amp; ab aliquo, vt materia: &amp; per aliquid: &amp; est agens. Et sumit ibi <name ref="#Aristotle">Philosophus</name> large 
+        <lb ed="#Bb" n="14"/>non ens &amp; ens in actu. &amp; hoc ideo quia ipsa est ens in potentia. De secundo autem dicit in vii. 
+        me<lb ed="#Bb" n="15" break="no"/>taphysicae. Omne quod generatur est aliquid &amp; ab aliquo &amp; per aliquid. vbi dicit Commentator. Est aliquid. i. 
+        ali<lb ed="#Bb" n="16" break="no"/>quod praedicamentorum: &amp; ab aliquo, vt materia: &amp; per aliquid: &amp; est agens. Et sumit ibi <name ref="#Aristotle">Philosophus</name> large 
         <lb ed="#Bb" n="17"/>generationem ad omne fieri alicuius decem praedicamentorum siue fuerit a natura siue a voluntate, vt patet 
         <lb ed="#Bb" n="18"/>ex serie literae suae. Nos autem eam ad praesens amplius extendamus, scilicet ad generationem diuinam &amp; 
         <lb ed="#Bb" n="19"/>ad creationem. Cum igitur dictis duobus modis subiectiue &amp; obiectiue dicitur aliquid esse id quod generatur,  
-        <lb ed="#Bb" n="20"/>consimiliter ergo &amp; generari dicitur aliquid dupliciter: subiectiue scilicet &amp; obiectiue. &amp; eadem ratione consimili- 
-        <lb ed="#Bb" n="21"/>ter etiam dupliciter dicitur potentia generandi passiue siue posse generari: vt ipsa potentia generandi passiue 
+        <lb ed="#Bb" n="20"/>consimiliter ergo &amp; generari dicitur aliquid dupliciter: subiectiue scilicet &amp; obiectiue. &amp; eadem ratione 
+        consimili<lb ed="#Bb" n="21" break="no"/>ter etiam dupliciter dicitur potentia generandi passiue siue posse generari: vt ipsa potentia generandi passiue 
         <lb ed="#Bb" n="22"/>secundum hoc dicatur esse in aliquo dupliciter: aut scilicet vt in eo quod generatur subiectiue: aut in eo quod generatur obiectiue 
         <lb ed="#Bb" n="23"/>Similiter &amp; posse generari dicitur eisdem modis. Primo modo certum est quod posse generari &amp; potentia generandi  
-        <lb ed="#Bb" n="24"/>non sunt nisi materiae vel quasi: sed hoc alio &amp; alio modo in generatione ex materia praecedente, &amp; in crea- 
-        <lb ed="#Bb" n="25"/>tione sine aliquo praecedente, &amp; in generatione diuina. 
+        <lb ed="#Bb" n="24"/>non sunt nisi materiae vel quasi: sed hoc alio &amp; alio modo in generatione ex materia praecedente, &amp; in 
+        crea<lb ed="#Bb" n="25" break="no"/>tione sine aliquo praecedente, &amp; in generatione diuina. 
       </p>
       <p xml:id="vn58an-fe37626-d1e343">
         ⁋ Vt ergo primo prosequamur complete hoc 
-        <lb ed="#Bb" n="26"/>primum membrum in illis tribus productionibus, perscrutando cuius proprietas sit dicta potentia passi- 
-        <lb ed="#Bb" n="27"/>ua, &amp; in quo ponenda sit esse: vt per id quid de hoc videmus in aliis duabus productionibus, pateat no 
+        <lb ed="#Bb" n="26"/>primum membrum in illis tribus productionibus, perscrutando cuius proprietas sit dicta potentia 
+        passi<lb ed="#Bb" n="27" break="no"/>ua, &amp; in quo ponenda sit esse: vt per id quid de hoc videmus in aliis duabus productionibus, pateat no 
         <lb ed="#Bb" n="28"/>bis quid de hoc sentiendum in productione diuina: Sciendum igitur, quod in prima istarum productio 
         <lb ed="#Bb" n="29"/>num scilicet generationis naturalis, duplex est potentia generandi subiectiue, secundum quod duplex est materia 
         <lb ed="#Bb" n="30"/>subiecta: quaedam scilicet remota &amp; quaedam propinqua. Secundum enim quod distiguit <name ref="#Aristotle">Philosophus</name> in. ix. metaphy. &amp; 
@@ -192,14 +192,14 @@
         <lb ed="#Bb" n="34"/>nerat illud quod est in potentia. Verbi gratia: quoniam terra non est idolum in potentia: sed est cuprum, quoniam ter 
         <lb ed="#Bb" n="35"/>ra cum transmutatur a corpore caelesti erit cuprum: &amp; cuprum est in potentia idolum, quia est illud quod ab vno  
         <lb ed="#Bb" n="36"/>motore fit idolum: &amp; materia quae potest simpliciter, exit in actum non nisi vno motore: materia autem quae non dicitur passi 
-        <lb ed="#Bb" n="37"/>ue simpliciter, exit in actum per plures motores vno: propter quod &amp; a materia proxima denominatur res: non autem a re- 
-        <lb ed="#Bb" n="38"/>mota: non enim dicitur quod idolum est terra aut terreum: sed quod est cuprum aut cupreum. Si ergo loquamur de 
+        <lb ed="#Bb" n="37"/>ue simpliciter, exit in actum per plures motores vno: propter quod &amp; a materia proxima denominatur res: non autem a 
+        re<lb ed="#Bb" n="38" break="no"/>mota: non enim dicitur quod idolum est terra aut terreum: sed quod est cuprum aut cupreum. Si ergo loquamur de 
         <lb ed="#Bb" n="39"/>potentia passiua generandi subiectiue remota, illa nullo modo est in generato: sed in suo contrario. sic enim po 
         <lb ed="#Bb" n="40"/>tentia generandi ignem passiue est in aqua quando ignis generatur de aqua. Sed talis potentia generandi nullo modo ha 
-        <lb ed="#Bb" n="41"/>bet esse in diuinis: quia omnis potentia in diuinis habet esse in actu aeterno ab vnico agente: vel si a pluri- 
-        <lb ed="#Bb" n="42"/>bus vt contingit in communi spiratione, hoc non est nisi secundum rationem vnam. est autem aliquo modo in eis quae creantur, 
-        <lb ed="#Bb" n="43"/>vt iam patebit. Si vero loquamur de potentia generandi propinqua, de illa sciendum est quod in naturali generatio-  
-        <lb ed="#Bb" n="44"/>ne duplex est transmutatio simul in eodem instanti temporis scilicet corruptio vnius formae &amp; generatio alterius. Na 
+        <lb ed="#Bb" n="41"/>bet esse in diuinis: quia omnis potentia in diuinis habet esse in actu aeterno ab vnico agente: vel si a 
+        pluri<lb ed="#Bb" n="42" break="no"/>bus vt contingit in communi spiratione, hoc non est nisi secundum rationem vnam. est autem aliquo modo in eis quae creantur, 
+        <lb ed="#Bb" n="43"/>vt iam patebit. Si vero loquamur de potentia generandi propinqua, de illa sciendum est quod in naturali 
+        generatio<lb ed="#Bb" n="44" break="no"/>ne duplex est transmutatio simul in eodem instanti temporis scilicet corruptio vnius formae &amp; generatio alterius. Na 
         <lb ed="#Bb" n="45"/>turaliter tamen prior est corruptio &amp; posterior generatio: ita quod secundum Philosophum. viii. physico. signum illud siue 
         <lb ed="#Bb" n="46"/>instans idem secundum rem in quo fiunt, debet distingui in prius &amp; posterius secundum rationem: &amp; sit corruptio in 
         <lb ed="#Bb" n="47"/>priori, generatio in posteriori: ita quod non dicitur proprie materia esse in potentia propinqua ad generationem nisi pro 
@@ -251,8 +251,8 @@
         <lb ed="#Bb" n="33"/>impossibile &amp; in generatione diuina &amp; in creatione. Sed quia in diuinis ponendum est aliquid neces 
         <lb ed="#Bb" n="34"/>sario de quo generans generat: quia non de nihilo generat, vt supra habitum est: non autem gene 
         <lb ed="#Bb" n="35"/>rat de aliquo nisi per potentiam generandi passiuam quae est in illo: per quam de ipso potest generari ali 
-        <lb ed="#Bb" n="36"/>quis: potentia autem omnis quae est eius de quo generatur, inest illi respectu actus ad quem est: in diuinis au-  
-        <lb ed="#Bb" n="37"/>tem necesse est potentiam esse indistantem secundum rem ab actu, &amp; non posse esse distantem: potentia autem quae  
+        <lb ed="#Bb" n="36"/>quis: potentia autem omnis quae est eius de quo generatur, inest illi respectu actus ad quem est: in diuinis 
+        au<lb ed="#Bb" n="37" break="no"/>tem necesse est potentiam esse indistantem secundum rem ab actu, &amp; non posse esse distantem: potentia autem quae  
         <lb ed="#Bb" n="38"/>nec distat nec distare potest ab actu, necessario est idem cum actu, quia si esset alia ab actu esset simul 
         <lb ed="#Bb" n="39"/>&amp; non esset: quia cum res est in potentia quae est alia ab actu, non est sub actu: quia contrariatur actui: &amp; 
         <lb ed="#Bb" n="40"/>non manet simul cum eo: &amp; si ponatur esse simul, hoc est per incompossibile: &amp; implicantur contradictoria simul 
@@ -263,29 +263,29 @@
         <lb ed="#Bb" n="45"/>Non est ergo in diuinis id de quo generatur genitum nisi secundum rationem tantum, habendo tantummodo rationem sub 
         <lb ed="#Bb" n="46"/>iecti siue materiae &amp; potentiae passiuae. Secundum rem tamen in diuinis reali generatione aliquis generatur de ipso: quia cum 
         <lb ed="#Bb" n="47"/>potentia generandi de quae, vel quasi vt de quae, est generatio, non est secundum se nisi in materia &amp; ipsius materiae 
-        <lb ed="#Bb" n="48"/>licet in diuins non sit in aliquo vel alicuius proprie vt in subiecto &amp; subiecti: sed vt in fundamento &amp; funda- 
-        <lb ed="#Bb" n="49"/>menti, &amp; per ipsum fundamentum inquantum est fundamentum in eo in quo est fundamentum potentiae. Et ideo non est talis po 
+        <lb ed="#Bb" n="48"/>licet in diuins non sit in aliquo vel alicuius proprie vt in subiecto &amp; subiecti: sed vt in fundamento &amp; 
+        funda<lb ed="#Bb" n="49" break="no"/>menti, &amp; per ipsum fundamentum inquantum est fundamentum in eo in quo est fundamentum potentiae. Et ideo non est talis po 
         <lb ed="#Bb" n="50"/>tentia passiua geniti aut in genito, vt dictum est supra in generatione naturali de potentia passiua materiae 
         <lb ed="#Bb" n="51"/>naturalis: sed eo modo quo est potentia non per se nisi eius &amp; in eo de quo generatur, &amp; proprietas eius: sed secundum rationem 
-        <lb ed="#Bb" n="52"/>sicut est potentia secundum rationem. Et quia est secundum rationem solum: quod praecipue ex hoc patet, quod non est per se vnius perso- 
-        <lb ed="#Bb" n="53"/>nae respectu alterius personae: si tantummodo eius de quo generatur respectu eius qui generatur, aut respectu actus quo generatur, quid 
-        <lb ed="#Bb" n="54"/>secundum rationem ab huiusmodi differt potentia, vt dictum est: ideo non est proprietas notionalis, nec ad illam re- 
-        <lb ed="#Bb" n="55"/>ducenda. Quod quomodo sic habeat esse, patet ex modo generationis diuinae. Cumenm secundum supra determinata 
+        <lb ed="#Bb" n="52"/>sicut est potentia secundum rationem. Et quia est secundum rationem solum: quod praecipue ex hoc patet, quod non est per se vnius 
+        perso<lb ed="#Bb" n="53" break="no"/>nae respectu alterius personae: si tantummodo eius de quo generatur respectu eius qui generatur, aut respectu actus quo generatur, quid 
+        <lb ed="#Bb" n="54"/>secundum rationem ab huiusmodi differt potentia, vt dictum est: ideo non est proprietas notionalis, nec ad illam 
+        re<lb ed="#Bb" n="55" break="no"/>ducenda. Quod quomodo sic habeat esse, patet ex modo generationis diuinae. Cumenm secundum supra determinata 
    <!--292.xml-->
         <pb ed="#Bb" n="139-r"/>
-        <lb ed="#Bb" n="1"/>pater generat modo opeationis intellectualis: lpse enim generat inquantum est quaedam simplex intellectualis no-  
-        <lb ed="#Bb" n="2"/>titia, &amp; ita quasi memoria: in quae est considerare tria secundum rationem differentia, intellectum. scilicet in quo est illa no 
+        <lb ed="#Bb" n="1"/>pater generat modo opeationis intellectualis: lpse enim generat inquantum est quaedam simplex intellectualis 
+        no<lb ed="#Bb" n="2" break="no"/>titia, &amp; ita quasi memoria: in quae est considerare tria secundum rationem differentia, intellectum. scilicet in quo est illa no 
         <lb ed="#Bb" n="3"/>titia vt forma eius, &amp; ipsam notitiam vt formam intellectus, &amp; ipsam rem intellectam per notitiam informan 
         <lb ed="#Bb" n="4"/>tem intellectum vt obiectum: quae sic se habent adiuicem quod a re intelligibili inquantum est intelligibile quid vt ab agen 
         <lb ed="#Bb" n="5"/>te, de intellectu vt de possibili quodam formatur notitia: sed actione secundum rationem tantum: Similiter filius siue ver 
         <lb ed="#Bb" n="6"/>bum quod generatur inquantum est quaedam intellectualis notitia declaratiua, &amp; ita quasi intelligentia: in ipso similit 
         <lb ed="#Bb" n="7"/>est considerare tria differentia secundum rationem solum, consimiliter se habentia inter se: intellectum. scilicet ipsam notitiam 
         <lb ed="#Bb" n="8"/>&amp; rem intellectam: &amp; illa tria in patre, istis tribus in filio re sunt eadem, differentia ratione solum, reddendo singu 
-        <lb ed="#Bb" n="9"/>la singulis. In istis autem tribus vt sic considerantur in patre, obiectum se habet in ratione agentis quasi potentia acti- 
-        <lb ed="#Bb" n="10"/>ua: &amp; intellectus in ratione patientis quasi potentia passiua: &amp; notitia simplex in ratione producti: &amp; sic vt ab  
+        <lb ed="#Bb" n="9"/>la singulis. In istis autem tribus vt sic considerantur in patre, obiectum se habet in ratione agentis quasi potentia 
+        acti<lb ed="#Bb" n="10" break="no"/>ua: &amp; intellectus in ratione patientis quasi potentia passiua: &amp; notitia simplex in ratione producti: &amp; sic vt ab  
         <lb ed="#Bb" n="11"/>obiecto agente potens produci obiectiue de intellectu, vt de quo potest quasi produci subiectiue. Et ista omnino 
-        <lb ed="#Bb" n="12"/>sunt secundum rationem nostri intellectus: propter quod de potentia actiue &amp; passiue dicta secundum istos mo-  
-        <lb ed="#Bb" n="13"/>dos non loquimur: quia eodem modo habent esse in filio secundum illa tria in ipso: sed sermo noster est de 
+        <lb ed="#Bb" n="12"/>sunt secundum rationem nostri intellectus: propter quod de potentia actiue &amp; passiue dicta secundum istos 
+        mo<lb ed="#Bb" n="13" break="no"/>dos non loquimur: quia eodem modo habent esse in filio secundum illa tria in ipso: sed sermo noster est de 
         <lb ed="#Bb" n="14"/>potentia passiua qua de aliquo potest generari passiue persona distincta secundum rem a generante. Verbum enim 
         <lb ed="#Bb" n="15"/>siue filius continens dicta tria in se secundum vnam rationem, natum est generari de patre continente eadem tria in 
         <lb ed="#Bb" n="16"/>se secundum aliam rationem. Et generatur verbum vt subsistens in illis tribus secundum vnam rationem, a patre subsistente in il 
@@ -298,8 +298,8 @@
         <lb ed="#Bb" n="23"/>quo eius secundum rationem: &amp; non generat de se nisi quia de illo quod est in se, &amp; sic quodammodo non per se de se: sed  
         <lb ed="#Bb" n="24"/>per aliquid sui: vt secundum hoc simpliciter generat per se: non autem simpliciter generat de se per se: sed per aliquid  
         <lb ed="#Bb" n="25"/>sui de quo generat per se. vt intellectus patris informatus notitia simplici ab obiecto &amp; circa obiectum 
-        <lb ed="#Bb" n="26"/>secundum vnam rationem intellectus notitiae &amp; obiecti est in potentia vt formetur de ipso totum verbum sine no-  
-        <lb ed="#Bb" n="27"/>titia declaratiua secundum rationem totius. i. illorum trium quae in ipso differunt ratione: non autem solum ratione ipsius no 
+        <lb ed="#Bb" n="26"/>secundum vnam rationem intellectus notitiae &amp; obiecti est in potentia vt formetur de ipso totum verbum sine 
+        no<lb ed="#Bb" n="27" break="no"/>titia declaratiua secundum rationem totius. i. illorum trium quae in ipso differunt ratione: non autem solum ratione ipsius no 
         <lb ed="#Bb" n="28"/>titiae: quae est vt aliquid verbi differens ratione ab intellectu vt est in ipso &amp; ab obiecto intelligibili, principiati 
         <lb ed="#Bb" n="29"/>ue tamen a toto pfe secundum rationem omnium quae in eo sunt, licet de solo intellectu sub ratione intellectus, vt iam patebit. 
         <lb ed="#Bb" n="30"/>Vt hic considerare possimus duplicem rationem potentiae: vnam qua ipsum verbum dicitur posse generari obiectiue de pa 
@@ -321,8 +321,8 @@
       </p>
       <p xml:id="vn58an-fe37626-d1e646">
         ⁋ Et est hic primo considerandum ex parte producto 
-        <lb ed="#Bb" n="46"/>rum: Secundo aliquid simiter ex parte potentiae generandi passiue quae ei attribuitur. Circa primum igitur sciendum, quod secundum prae- 
-        <lb ed="#Bb" n="47"/>dictas tres productiones triplex est modus eorum quae producuntur in esse. aliquid enim producitur in esse imperfecte, 
+        <lb ed="#Bb" n="46"/>rum: Secundo aliquid simiter ex parte potentiae generandi passiue quae ei attribuitur. Circa primum igitur sciendum, quod secundum 
+        prae<lb ed="#Bb" n="47" break="no"/>dictas tres productiones triplex est modus eorum quae producuntur in esse. aliquid enim producitur in esse imperfecte, 
         <lb ed="#Bb" n="48"/>aliquod vero perfectius, aliquod autem perfectissime. Primo modo producitur in esse productum per generationem naturalem: quia non 
         <lb ed="#Bb" n="49"/>totaliter et omnino recipit esse suum a generante: sed solummodo recipit ab illo perfectionem suam in esse: quia ge 
         <lb ed="#Bb" n="50"/>nerans naturaliter non generat nisi principio materiali praesupposito in esse in quo generatum praehabuit esse in potem 
@@ -336,12 +336,12 @@
         <lb ed="#Bb" n="1"/>bus modis dandi esse. Quod verum est dandi esse post non esse. Tertio enim modo producitur in esse productum in 
         <lb ed="#Bb" n="2"/>diuinis &amp; modo perfectissimo atque dignissimo, quod totaliter a producente recipit esse, non ex aliquo prae 
         <lb ed="#Bb" n="3"/>cedente, nec post non esse natura aut duratione: quia talis productio praestaret ei esse quod non fuit: sed de 
-        <lb ed="#Bb" n="4"/>aliquo &amp; ab agente aliquo semper existente: a quo &amp; aeque semper &amp; simul natura atque duratione ha-  
-        <lb ed="#Bb" n="5"/>bet esse secundum iam dictum modum, &amp; iam amplius dicendum: &amp; id esse quo ipse producens est: licet secun 
+        <lb ed="#Bb" n="4"/>aliquo &amp; ab agente aliquo semper existente: a quo &amp; aeque semper &amp; simul natura atque duratione 
+        ha<lb ed="#Bb" n="5" break="no"/>bet esse secundum iam dictum modum, &amp; iam amplius dicendum: &amp; id esse quo ipse producens est: licet secun 
         <lb ed="#Bb" n="6"/>dum alium modum habendi illud. dicente Hila. de natiuitate quae in diuinis est productio filii. Semper pa 
         <lb ed="#Bb" n="7"/>trem semper filium praedicantes non post aliqua deum omnium: sed ante omnia esse edocebimus. &amp; infra. lta 
-        <lb ed="#Bb" n="8"/>semper esse vt &amp; natum praedicemus: ita vero natum esse vt semper fuisse manifestemus, quia &amp; natiui- 
-        <lb ed="#Bb" n="9"/>tatis auctorem habeat, neque careat aeternitate diuinitatis. &amp; lib. iii. cap. i. Ex his quae in patre, sunt ea in  
+        <lb ed="#Bb" n="8"/>semper esse vt &amp; natum praedicemus: ita vero natum esse vt semper fuisse manifestemus, quia &amp; 
+        natiui<lb ed="#Bb" n="9" break="no"/>tatis auctorem habeat, neque careat aeternitate diuinitatis. &amp; lib. iii. cap. i. Ex his quae in patre, sunt ea in  
         <lb ed="#Bb" n="10"/>quibus est filius. i. ex toto patre totus filius natus est non aliunde, quia nihil antequam filius: neque ex nihilo, quia 
         <lb ed="#Bb" n="11"/>ex deo filius. Quod in patre est, hoc in filio est, alter ab altero, &amp; vterque vnum. &amp; lib. vi. ca. vi. Non quae non erant 
         <lb ed="#Bb" n="12"/>tenet: sed quae dei manebant &amp; manent obtinuit veritate nascendi. Et est perfectissimus modus dandi esse. de 
@@ -359,10 +359,10 @@
         <lb ed="#Bb" n="24"/>generari de aliquo subiectiue, &amp; ipsum generari alicuius obiectiue, sola ratione differunt: quia ab eo quod non habet esse 
         <lb ed="#Bb" n="25"/>in diuins nisi secundum solam rationem cuiusmodi est posse generari subiectiue, nihil potest differre secundum rem. Et sic sola 
         <lb ed="#Bb" n="26"/>ratione differunt potentiae passiuae qua hoc obiectiue ab illo subiectiue potest produci: licet potentia passiua 
-        <lb ed="#Bb" n="27"/>subiectiue in eo de quo, sit ratio illius passiuae obiectiue in eo qui ab, non enim habet productum obiecti- 
-        <lb ed="#Bb" n="28"/>ue potentiam vt producatur de aliquo, nisi quia illud de quo producitur habet potentiam vt de eo producatur, quemad-  
-        <lb ed="#Bb" n="29"/>modum id de quo producitur non habet potentiam vt de eo producatur nisi quia producens habet potentiam vt de illo il- 
-        <lb ed="#Bb" n="30"/>lud producat. Et sic potentiae passiuae obiectiue ratio est potentia passiua subiectiue: &amp; potentiae passiuae sub 
+        <lb ed="#Bb" n="27"/>subiectiue in eo de quo, sit ratio illius passiuae obiectiue in eo qui ab, non enim habet productum 
+        obiecti<lb ed="#Bb" n="28" break="no"/>ue potentiam vt producatur de aliquo, nisi quia illud de quo producitur habet potentiam vt de eo producatur, 
+        quemad<lb ed="#Bb" n="29" break="no"/>modum id de quo producitur non habet potentiam vt de eo producatur nisi quia producens habet potentiam vt de illo 
+        il<lb ed="#Bb" n="30" break="no"/>lud producat. Et sic potentiae passiuae obiectiue ratio est potentia passiua subiectiue: &amp; potentiae passiuae sub 
         <lb ed="#Bb" n="31"/>iectiue ratio est potentia productiua actiue. Dis enim potentia passiua ad potentiam materiae reducitur: &amp; potentia 
         <lb ed="#Bb" n="32"/>materiae ad potentiam agentis. Et sicut est de potentiis, similiter est &amp; de actibus. Actus enim quo quis generatur ob 
         <lb ed="#Bb" n="33"/>iectiue ratio, est ille actus quo aliquis generatur subiectiue: &amp; illius ratio est actus quo quis generat principiatiue, non  
@@ -371,16 +371,16 @@
         <lb ed="#Bb" n="36"/>ferunt sola ratione: sic &amp; inter se sola ratione differunt posse generare &amp; generare principiatiue, &amp; posse generari 
         <lb ed="#Bb" n="37"/>&amp; generari subiectiue. Et posse generare &amp; generare principiatiue secundum rem differunt a posse genera 
         <lb ed="#Bb" n="38"/>ri &amp; generari obiectiue. Vnde potentia passiua qua productum potest produci ab alio principiatiue, est po 
-        <lb ed="#Bb" n="39"/>tentia secundum rem: quia secundum rem differt a potentia generandi actiue: quae ei rmendet in eo a quo producitur. Quemad-  
-        <lb ed="#Bb" n="40"/>modum enim secundum rem differunt generare &amp; generari, sic &amp; posse generare &amp; posse generari: quia posse generare re- 
-        <lb ed="#Bb" n="41"/>ducitur ad generare: &amp; posse generari obiectiue, reducitur ad generari obiectiue, vt supra dictum, est &amp; infra amplius 
+        <lb ed="#Bb" n="39"/>tentia secundum rem: quia secundum rem differt a potentia generandi actiue: quae ei rmendet in eo a quo producitur. 
+        Quemad<lb ed="#Bb" n="40" break="no"/>modum enim secundum rem differunt generare &amp; generari, sic &amp; posse generare &amp; posse generari: quia posse generare 
+        re<lb ed="#Bb" n="41" break="no"/>ducitur ad generare: &amp; posse generari obiectiue, reducitur ad generari obiectiue, vt supra dictum, est &amp; infra amplius 
         <lb ed="#Bb" n="42"/>dicetur. In diuinis ergo posse generari obiectiue in ordine ad generantem proprietas est, propter distinctionem secundum  
         <lb ed="#Bb" n="43"/>rem personalem generantis &amp; geniti, &amp; similiter generare &amp; generari: non autem in ordie ad id de quo generatur, propter identitatem 
         <lb ed="#Bb" n="44"/>secundum rem ipsius posse generari subiectiue &amp; ipsius posse generari obiectiue: quemadmodum identitas est se 
         <lb ed="#Bb" n="45"/>cundum rem geniti &amp; illius de quo generatur, &amp; differentia secundum solam rationem. Vnde quia generari per se proprietas est filii 
         <lb ed="#Bb" n="46"/>&amp; solius filii &amp; in solo filio: ideo dico quod ista potentia generandi passiue scilicet obiectiue in ordine ad illum a quo  
-        <lb ed="#Bb" n="47"/>generatur aliquis, in filio est &amp; filii proprietas &amp; solius filii &amp; in solo filio. Et similiter est in solo filio secundum or- 
-        <lb ed="#Bb" n="48"/>dinem quem habet ad id de quo generatur: sed non est proprietas: quia solum est secundum rationem differens a potentia quae potest 
+        <lb ed="#Bb" n="47"/>generatur aliquis, in filio est &amp; filii proprietas &amp; solius filii &amp; in solo filio. Et similiter est in solo filio secundum 
+        or<lb ed="#Bb" n="48" break="no"/>dinem quem habet ad id de quo generatur: sed non est proprietas: quia solum est secundum rationem differens a potentia quae potest 
         <lb ed="#Bb" n="49"/>de illo generari. Vnde nulla potentiarum quasi passiuarum in diuina productione proprietas est excepta illa quae persona pro  
         <lb ed="#Bb" n="50"/>duci potest passiue &amp; obiectiue, vt genitum a generante. De potentia autem passiua &amp; quasi subiectiua in eo de 
         <lb ed="#Bb" n="51"/>quo producitur quis, puta in intellectu de quo producitur verbum, clarum est quod eo modo quo est potentia secundum rationem 
@@ -394,16 +394,16 @@
    <!--294.xml-->
         <pb ed="#Bb" n="140-r"/>
         <lb ed="#Bb" n="1"/>se autem esse contrarium est ad necesse esse: Dicendum quod aliquid vel aliquis potest intelligi esse pos 
-        <lb ed="#Bb" n="2"/>sibile esse ab alio, dupliciter: vel formaliter, vel principiatiue. Quod primo modo est possibile esse ab alio, se- 
-        <lb ed="#Bb" n="3"/>cundum se est natura &amp; essentia aliqua quae quantum est ex se caret forma essendi: &amp; ideo oportet 
+        <lb ed="#Bb" n="2"/>sibile esse ab alio, dupliciter: vel formaliter, vel principiatiue. Quod primo modo est possibile esse ab alio, 
+        se<lb ed="#Bb" n="3" break="no"/>cundum se est natura &amp; essentia aliqua quae quantum est ex se caret forma essendi: &amp; ideo oportet 
         <lb ed="#Bb" n="4"/>quod ei esse acquiratur ab alio. &amp; tale solum est in creaturis, &amp; in omnibus creaturis quibus esse acqui 
-        <lb ed="#Bb" n="5"/>ritur non nisi per aliquid existens extra earum essentiam: quia quantum est de se &amp; sua essentia mu- 
-        <lb ed="#Bb" n="6"/>tabiles sunt de non esse in esse: &amp; econuerso. &amp; tale posse esse ab alio, est contrarium necesse esse: vnde nec 
+        <lb ed="#Bb" n="5"/>ritur non nisi per aliquid existens extra earum essentiam: quia quantum est de se &amp; sua essentia 
+        mu<lb ed="#Bb" n="6" break="no"/>tabiles sunt de non esse in esse: &amp; econuerso. &amp; tale posse esse ab alio, est contrarium necesse esse: vnde nec 
         <lb ed="#Bb" n="7"/>ab alio potest esse necesse esse. Quod vero est possibile esse ab alio secundo modo, secundum se est natura &amp; 
         <lb ed="#Bb" n="8"/>essentia aliqua quae ex se formaliter est ipsa forma essendi &amp; ipsum esse: cui idcirco nihil potest acquiri 
         <lb ed="#Bb" n="9"/>ab alio: sed quod ipsum possibile esse tale sit esse secundum actum, hoc habet principiatiue ab alio. Et tale posse esse 
-        <lb ed="#Bb" n="10"/>ab alio non repugnat ei quod est necesse esse: quia ex se formaliter est necesse esse licet ab alio principia- 
-        <lb ed="#Bb" n="11"/>tiue. Quia autem esse formaliter necesse esse non potest esse nisi vnum secundum substantiam, quia est primum ens: a quo  
+        <lb ed="#Bb" n="10"/>ab alio non repugnat ei quod est necesse esse: quia ex se formaliter est necesse esse licet ab alio 
+        principia<lb ed="#Bb" n="11" break="no"/>tiue. Quia autem esse formaliter necesse esse non potest esse nisi vnum secundum substantiam, quia est primum ens: a quo  
         <lb ed="#Bb" n="12"/>autem quis habet quod sit necesse esse ille non potest esse nisi necesse esse: quia possibile esse formaliter cum 
         <lb ed="#Bb" n="13"/>sit posterius esse quam sit necesse esse non potest esse principium eius quod est necesse esse: Patet igitur quod  
         <lb ed="#Bb" n="14"/>ambo sunt eiusdem substantiae, scilicet &amp; ille qui habet quod sit necesse esse ab alio, &amp; ille a quo habet hoc 
@@ -414,12 +414,12 @@
         <lb ed="#Bb" n="19"/>tellectu producentis vt de eo possit produci subiectiue secundum praedictum modum. 
       </p>
       <p xml:id="vn58an-fe37626-d1e842">
-        ⁋ Ad cuius am- 
-        <lb ed="#Bb" n="20"/>pliorem intellectum est aduertendum, quod secundum praedeterminata iam, in deo est tria considerare: scili 
+        ⁋ Ad cuius 
+        am<lb ed="#Bb" n="20" break="no"/>pliorem intellectum est aduertendum, quod secundum praedeterminata iam, in deo est tria considerare: scili 
         <lb ed="#Bb" n="21"/>cet ipsam substantiam diuinam sub ratione intellectus, &amp; ipsam actualem notitiam quasi formam intelle 
         <lb ed="#Bb" n="22"/>ctus secundum formam intelligentis, &amp; ipsam diuinam essentiam vt est quoddam intelligibile obiectum quo  
-        <lb ed="#Bb" n="23"/>intellectus habet esse quasi a quodam actiuo informante intellectum secundum actum intelligendi termina- 
-        <lb ed="#Bb" n="24"/>tum ad ipsam vt ad formale cognitum: quae secundum rationem solummodo differunt, &amp; sunt communiter in tri 
+        <lb ed="#Bb" n="23"/>intellectus habet esse quasi a quodam actiuo informante intellectum secundum actum intelligendi 
+        termina<lb ed="#Bb" n="24" break="no"/>tum ad ipsam vt ad formale cognitum: quae secundum rationem solummodo differunt, &amp; sunt communiter in tri 
         <lb ed="#Bb" n="25"/>bus personis diuinis sub proprietatibus quibus personae illae inter se distinguuntur: &amp; conueniunt singulis 
         <lb ed="#Bb" n="26"/>formaliter ex seipsis: sed ab alio principiatiue sunt in filio &amp; spiritu sancto, &amp; in patre non ab alio. Et 
         <lb ed="#Bb" n="27"/>vt sunt in patre, huiusmodi notitia habet secundum considerationem rationis quasi formari in intellectu vt est intel 
@@ -435,8 +435,8 @@
         <lb ed="#Bb" n="37"/>matur &amp; super obiectum cognitum a quo informatur, generando de ipso &amp; in ipso notitiam sibi simillimam termi 
         <lb ed="#Bb" n="38"/>natam in idipsum a quo generatur vt in obiectum vnicum, licet tria in se contineat secundum rationem. vt non solum illa no 
         <lb ed="#Bb" n="39"/>titia quae verbum est sit similitudo obiecti in simplici notitia: sed &amp; illius notitiae &amp; intellectus in quo est: vt 
-        <lb ed="#Bb" n="40"/>secundum hoc intellectus quid est aspectus secundum actum, est aliquid verbi secundum rationem, hamens in se notitiam illam quae ter- 
-        <lb ed="#Bb" n="41"/>minatur ad illud totum in patre. Et per hoc notitia patris simplex notitia est, terminata ad diuinam essen 
+        <lb ed="#Bb" n="40"/>secundum hoc intellectus quid est aspectus secundum actum, est aliquid verbi secundum rationem, hamens in se notitiam illam quae 
+        ter<lb ed="#Bb" n="41" break="no"/>minatur ad illud totum in patre. Et per hoc notitia patris simplex notitia est, terminata ad diuinam essen 
         <lb ed="#Bb" n="42"/>tiam vt simpliciter cognitum. Notitia vero filil scilicet illa quae verbum est &amp; filius, est declaratiua terminata intui 
         <lb ed="#Bb" n="43"/>tiue non solum ad cognitum illa simplici notitia: vt scilicet id quid illa notitia cognitum erat simpliciter, ista 
         <lb ed="#Bb" n="44"/>notitia cognoscatur discretiue: sed etiam ad ipsam notitiam &amp; ad intellectum in quo est, &amp; per hoc ad ipsum 
@@ -446,36 +446,36 @@
         <lb ed="#Bb" n="48"/>aspectus generando in se notitiam discretiuam. Non enim verbum solummodo generatur a cognito in simplici notitia se 
         <lb ed="#Bb" n="49"/>cundum modum quem declarauimus in praecedenti quaestione: sed etiam a cognoscente, vt ibidem diximus secundum Au 
         <lb ed="#Bb" n="50"/>gustinum. Vt secundum hoc in generatione verbi intellectus simpliciter informatus simplici notitia circa obie 
-        <lb ed="#Bb" n="51"/>ctum simpliciter cognitum totum inquantum hoc vt intelligibile quiddam agat non tam naturaliter vt obiectum co- 
-        <lb ed="#Bb" n="52"/>gnoscibile, quam intellectualiter, vt actualiter intelligens &amp; intellectualis notitia in ipsum intellectum, hoc est in  
+        <lb ed="#Bb" n="51"/>ctum simpliciter cognitum totum inquantum hoc vt intelligibile quiddam agat non tam naturaliter vt obiectum 
+        co<lb ed="#Bb" n="52" break="no"/>gnoscibile, quam intellectualiter, vt actualiter intelligens &amp; intellectualis notitia in ipsum intellectum, hoc est in  
         <lb ed="#Bb" n="53"/>essentiam diuinam sub illa ratione quae est aspectus. Et per hoc habet esse notitiade notitia, intelligentia. scilicet de menoria, de 
         <lb ed="#Bb" n="54"/>claratia de simplici. Et dicitur declaratia ni quia clarius cognoscitur aliquid a deo in declaratia quam in simplici: si quia 
         <lb ed="#Bb" n="55"/>diuina essentia quae in simplici notitia cognoscitur solum sub ratione intelligibilis cogniti simpliciter, in declaratiua co 
    <!--295.xml-->
         <pb ed="#Bb" n="140-v"/>
-        <lb ed="#Bb" n="1"/>gnoscitur, &amp; sub ratione intelligibilis cogniti discretiue, &amp; sub ratione qua est simplex notitia discre- 
-        <lb ed="#Bb" n="2"/>te cognita, &amp; sub ratione qua est intellectus discrete cognitus. Et secundum hoc in creaturis intelli 
+        <lb ed="#Bb" n="1"/>gnoscitur, &amp; sub ratione intelligibilis cogniti discretiue, &amp; sub ratione qua est simplex notitia 
+        discre<lb ed="#Bb" n="2" break="no"/>te cognita, &amp; sub ratione qua est intellectus discrete cognitus. Et secundum hoc in creaturis intelli 
         <lb ed="#Bb" n="3"/>gentibus aliud a se, verbum non solum continet notitiam qua cognoscitur quid est cognitum vel quid  
         <lb ed="#Bb" n="4"/>quid est eius discretiue: sed qua cognoscitur ipse actus cognoscendi illud: qua scilicet cognoscitur sim 
         <lb ed="#Bb" n="5"/>plici notitia. Et quando formatur verbum de notitia qua cognoscit seipsum, illa non solum continet 
         <lb ed="#Bb" n="6"/>notitiam qua cognoscitur quid est: vel quod quid est circa cognitum in simplici notitia: &amp; qua co 
         <lb ed="#Bb" n="7"/>gnoscitur ipsa notitia: sed qua cognoscitur intellectus quo cognoscit cognoscens illa notitia, &amp; per 
-        <lb ed="#Bb" n="8"/>hoc totus ipse cognoscens. Quod verbum in nobis maxime assimilatur verbo diuino, quod est notitia de- 
-        <lb ed="#Bb" n="9"/>claratiua secundum iam dictum modum: in qua secundum rationem (vt dictum est) sunt tria: intel- 
-        <lb ed="#Bb" n="10"/>lectus vt aspectus, notitia vt declaratiua, cognitum vt quid est: quemadmodum tria sunt in notitia 
+        <lb ed="#Bb" n="8"/>hoc totus ipse cognoscens. Quod verbum in nobis maxime assimilatur verbo diuino, quod est notitia 
+        de<lb ed="#Bb" n="9" break="no"/>claratiua secundum iam dictum modum: in qua secundum rationem (vt dictum est) sunt tria: 
+        intel<lb ed="#Bb" n="10" break="no"/>lectus vt aspectus, notitia vt declaratiua, cognitum vt quid est: quemadmodum tria sunt in notitia 
         <lb ed="#Bb" n="11"/>simplici quae pater est, scilicet intellectus vt simpliciter intellectus est, notitia vt simplex, cognitum 
         <lb ed="#Bb" n="12"/>vt aliquid est. Et sunt penitus eadem secundum rem absolutam singula singulis &amp; singula omnibus 
         <lb ed="#Bb" n="13"/>&amp; in patre &amp; in filio, distinctione solummodo habita in eis per habitudines siue respectus qui sunt 
-        <lb ed="#Bb" n="14"/>a quo &amp; qui ab: qui constituunt supposita in quibus illa habent esse. Notitia enim quae sub vna ra- 
-        <lb ed="#Bb" n="15"/>tione differt a seipsa sub alia ratione, ratione illa qua est notitia secundum aliam &amp; aliam rationem 
+        <lb ed="#Bb" n="14"/>a quo &amp; qui ab: qui constituunt supposita in quibus illa habent esse. Notitia enim quae sub vna 
+        ra<lb ed="#Bb" n="15" break="no"/>tione differt a seipsa sub alia ratione, ratione illa qua est notitia secundum aliam &amp; aliam rationem 
         <lb ed="#Bb" n="16"/>non distingueret personas nisi absolutas &amp; secundum rationem tantum. Inquantum etiam consideran  
         <lb ed="#Bb" n="17"/>tur vt absoluta &amp; ratione sola differentia, vna non habet esse de altera vt terminus &amp; principium 
         <lb ed="#Bb" n="18"/>alicuius productionis: quoniam in diuinis nihil absolutum est principiatum neque secundum se neque  
         <lb ed="#Bb" n="19"/>etiam in alio, secundum modum quo forma naturalis dicitur esse principiata: quia scilicet de potem 
         <lb ed="#Bb" n="20"/>tia materiae alicuius a non esse ad esse in composito est producta. Vnde nihil absolutum debet conside 
         <lb ed="#Bb" n="21"/>rari in diuinis vt ab &amp; a: quia nihil in illis est quod est ab, sicut terminus: nec quid est a quo, sicut pri 
-        <lb ed="#Bb" n="22"/>cipium actiuum productionis: sed debent illa absoluta differentia ratione considerari sicut funda- 
-        <lb ed="#Bb" n="23"/>mentum illorum respectuum, &amp; cum singulis respectibus constituentia singulas personas quae per 
+        <lb ed="#Bb" n="22"/>cipium actiuum productionis: sed debent illa absoluta differentia ratione considerari sicut 
+        funda<lb ed="#Bb" n="23" break="no"/>mentum illorum respectuum, &amp; cum singulis respectibus constituentia singulas personas quae per 
         <lb ed="#Bb" n="24"/>se sunt terminus &amp; principium productionis, subsistentes in illis absolutis differentibus secundum 
         <lb ed="#Bb" n="25"/>rationem tantum: quae differentia secundum rationem tantum, est fundamentalis origo distinctionis suppositorum  
         <lb ed="#Bb" n="26"/>secundum rem: ita tamen quod sicut intellectus patris vt est intellectus simpliciter, semper est informa 
@@ -493,11 +493,11 @@
         <lb ed="#Bb" n="38"/>cum tamen ex hoc quod de intellectu formatur simplex notitia ab essentia intellecta, est secundum ratio 
         <lb ed="#Bb" n="39"/>nem tantum. Et similiter quod est ab &amp; id a quo est, habent esse diuersa secundum rationem tantum: quia hoc est es 
         <lb ed="#Bb" n="40"/>se ab secundum rationem tantum: quia absque conuersione. Et secundum hoc magna est differentia inter 
-        <lb ed="#Bb" n="41"/>hanc generationem &amp; illam quae est in creaturis: in qua absolute diuersa sunt secundum rem in ge- 
-        <lb ed="#Bb" n="42"/>nerante &amp; genito, &amp; subiectum de quo, &amp; quoid de ipso educitur, quo constituitur genitum in esse. Sed  
+        <lb ed="#Bb" n="41"/>hanc generationem &amp; illam quae est in creaturis: in qua absolute diuersa sunt secundum rem in 
+        ge<lb ed="#Bb" n="42" break="no"/>nerante &amp; genito, &amp; subiectum de quo, &amp; quoid de ipso educitur, quo constituitur genitum in esse. Sed  
         <lb ed="#Bb" n="43"/>minor est differentia huius generationis verbi in diuinis a generatione verbi in intellectu nostro &amp; 
-        <lb ed="#Bb" n="44"/>angelorum. In verbo enim nostro &amp; angeli quoquo modo diuersitas est secundum rem inter noti- 
-        <lb ed="#Bb" n="45"/>tiam genitam &amp; eam quae generat: propter quod non sine transmutatione verbum in nobis &amp; in  
+        <lb ed="#Bb" n="44"/>angelorum. In verbo enim nostro &amp; angeli quoquo modo diuersitas est secundum rem inter 
+        noti<lb ed="#Bb" n="45" break="no"/>tiam genitam &amp; eam quae generat: propter quod non sine transmutatione verbum in nobis &amp; in  
         <lb ed="#Bb" n="46"/>angelis formatur, vt iam patebit. 
       </p>
       <p xml:id="vn58an-fe37626-d1e1027">
@@ -508,17 +508,17 @@
         <lb ed="#Bb" n="50"/>Est enim nobis modus cognoscendi proprius (secundum dictum Philosophi in principio physicorum) 
         <lb ed="#Bb" n="51"/>incipiendo a confusis. Sunt enim (vt dicit) nobis primum manifesta &amp; cognita confusa magis. &amp; hoc 
         <lb ed="#Bb" n="52"/>in vita praesente prioritate temporis. Vnde cum de compositis in essentia sua complectentibus par 
-        <lb ed="#Bb" n="53"/>tes quae constituunt eorum definitiuas rationes dixisset, Primum nobis nota sunt confusa ma-  
-        <lb ed="#Bb" n="54"/>gis. continuo adiecit. Posterius autem ex his nota fiunt elementa &amp; principia diuidentibus haec. Pro 
+        <lb ed="#Bb" n="53"/>tes quae constituunt eorum definitiuas rationes dixisset, Primum nobis nota sunt confusa 
+        ma<lb ed="#Bb" n="54" break="no"/>gis. continuo adiecit. Posterius autem ex his nota fiunt elementa &amp; principia diuidentibus haec. Pro 
         <lb ed="#Bb" n="55"/>pter quod de talibus prius est verbum formabile in nobis, habendo scilicet de eis confusam cogni- 
    <!--296.xml-->
         <pb ed="#Bb" n="141-r"/>
-        <lb ed="#Bb" n="1"/>tionem sub ratione definiti, quam sit actu formatum habendo de eis cognitionem determinatam &amp; distin- 
-        <lb ed="#Bb" n="2"/>ctam in eorum definitiua ratione. &amp; hoc quemadmodum (vt dicit) pueri confusa cognitione primum 
+        <lb ed="#Bb" n="1"/>tionem sub ratione definiti, quam sit actu formatum habendo de eis cognitionem determinatam &amp; 
+        distin<lb ed="#Bb" n="2" break="no"/>ctam in eorum definitiua ratione. &amp; hoc quemadmodum (vt dicit) pueri confusa cognitione primum 
         <lb ed="#Bb" n="3"/>appellant omnes viros patres, &amp; omnes foeminas matres: postmodum vero vigorato intellectu cognitione dis 
         <lb ed="#Bb" n="4"/>creta determinant horum vnumquodque, distincte cognoscendo patrem inter alios viros, &amp; matrem 
-        <lb ed="#Bb" n="5"/>inter alias foeminas. &amp; etiam quemadmodum cum videmus aliquid alonge, primo mediante visu &amp; phan- 
-        <lb ed="#Bb" n="6"/>tasia intelligimus illud esse aliquam substantiam corpoream: postmodum appropinquando magis &amp; ma 
+        <lb ed="#Bb" n="5"/>inter alias foeminas. &amp; etiam quemadmodum cum videmus aliquid alonge, primo mediante visu &amp; 
+        phan<lb ed="#Bb" n="6" break="no"/>tasia intelligimus illud esse aliquam substantiam corpoream: postmodum appropinquando magis &amp; ma 
         <lb ed="#Bb" n="7"/>gis per motum cognoscimus quod sit animal: deinde per staturam corporis cognoscimus quod sit homo:  
         <lb ed="#Bb" n="8"/>deinde quis homo sit: si tamen eum alias nouerimus. Sed ista cognitio adhuc confusa est apud intellectum 
         <lb ed="#Bb" n="9"/>quousque cognoscamus de homine quid sit in sua ratione definitiua, quae est eadem hominis &amp; huius 
@@ -526,16 +526,16 @@
         <lb ed="#Bb" n="11"/>sa, nisi discursu &amp; intuitione intellectus &amp; irradiatione agentis, secundum supra expositum modum 
         <lb ed="#Bb" n="12"/>Per quae patescunt nobis in definito partes eius essentiales, quemadmodum (vt supra expositum est)  
         <lb ed="#Bb" n="13"/>patescit etiam irradiatione agentis vniuersale in phantasmate. Sunt autem partes illae secundum logicam 
-        <lb ed="#Bb" n="14"/>definitionem genus &amp; differentia, sed ex his duobus primo nobis innotescit genus tanquam magis con- 
-        <lb ed="#Bb" n="15"/>fusum: deinde differentia vt distinguens genus &amp; determinans ipsum ad speciem: ita quod in neutro 
+        <lb ed="#Bb" n="14"/>definitionem genus &amp; differentia, sed ex his duobus primo nobis innotescit genus tanquam magis 
+        con<lb ed="#Bb" n="15" break="no"/>fusum: deinde differentia vt distinguens genus &amp; determinans ipsum ad speciem: ita quod in neutro 
         <lb ed="#Bb" n="16"/>horum secundum se concipiatur verbum perfectum definiti, sed in vtroque simul. Similiter prioritate tem 
-        <lb ed="#Bb" n="17"/>poris, licet forte imperceptibilis nobis, nota sunt confusa magis in eis quae sunt simplicia, non haben- 
-        <lb ed="#Bb" n="18"/>tia partes in essentia sua, neque definitiuas rationes vt sunt vltimae differentiae specierum specialissi- 
-        <lb ed="#Bb" n="19"/>marum. Talia enim cum primo occurrunt intellectui mouent ipsum ad cognoscendum de eis quod sint ali- 
-        <lb ed="#Bb" n="20"/>quid in rerum natura, non tamen quid sit determinate, vt scilicet sit differentia talis vel talis. Semper 
+        <lb ed="#Bb" n="17"/>poris, licet forte imperceptibilis nobis, nota sunt confusa magis in eis quae sunt simplicia, non 
+        haben<lb ed="#Bb" n="18" break="no"/>tia partes in essentia sua, neque definitiuas rationes vt sunt vltimae differentiae specierum 
+        specialissi<lb ed="#Bb" n="19" break="no"/>marum. Talia enim cum primo occurrunt intellectui mouent ipsum ad cognoscendum de eis quod sint 
+        ali<lb ed="#Bb" n="20" break="no"/>quid in rerum natura, non tamen quid sit determinate, vt scilicet sit differentia talis vel talis. Semper 
         <lb ed="#Bb" n="21"/>tamen aut nihil de eis cognoscitur, aut cognoscitur totum quod est in eis cognoscibile quamuis non totaliter. 
-        <lb ed="#Bb" n="22"/>Et hoc contingit in intellectu, quemadmodum contingit in sensu. Cum enim in luce obscura siue modi-  
-        <lb ed="#Bb" n="23"/>ca videmus librum scriptum, statim videmus quod in eo aliquid scriptum sit. Sed quod non videmus dis 
+        <lb ed="#Bb" n="22"/>Et hoc contingit in intellectu, quemadmodum contingit in sensu. Cum enim in luce obscura siue 
+        modi<lb ed="#Bb" n="23" break="no"/>ca videmus librum scriptum, statim videmus quod in eo aliquid scriptum sit. Sed quod non videmus dis 
         <lb ed="#Bb" n="24"/>cretiue quod in eo scriptum sit, hoc fit per duo: quorum primum est lucis intentio, cuius irradiatione cla 
         <lb ed="#Bb" n="25"/>riore patescit visui quid scriptum sit amotione tenebrae obumbrantis. secundum quem modum 
         <lb ed="#Bb" n="26"/>rradiat lux agentis super phantasmata amouendo vmbram particularium circunstantiarum mate 
@@ -545,20 +545,20 @@
         <lb ed="#Bb" n="30"/>lis: qua quasi penetrantur eius interiora: &amp; est in sensu visus illa visio certa &amp; discreta eadem re cum 
         <lb ed="#Bb" n="31"/>illa prius confusa, differens solum secundum magis &amp; minus. Et est illa determinata quasi verbum in sen 
         <lb ed="#Bb" n="32"/>su, sed non proprie est verbum, eo quod non formatur actione sensus: sed tantummodo obiecti. Magis tamen 
-        <lb ed="#Bb" n="33"/>habet de ratione verbi quam illud quod quidam dicunt esse verbum essentiale in diuinis, quia ibi visio cer- 
-        <lb ed="#Bb" n="34"/>ta praesupponit confusam: in diuinis autem notitia essentialis nullam aliam praesupponit. Et notitia decla 
+        <lb ed="#Bb" n="33"/>habet de ratione verbi quam illud quod quidam dicunt esse verbum essentiale in diuinis, quia ibi visio 
+        cer<lb ed="#Bb" n="34" break="no"/>ta praesupponit confusam: in diuinis autem notitia essentialis nullam aliam praesupponit. Et notitia decla 
         <lb ed="#Bb" n="35"/>tatiua quae verbum est, semper supponit notitiam simplicem: vt vbicumque sit verbum qualecumque, requiri 
-        <lb ed="#Bb" n="36"/>tur duplex notitia, &amp; ex parte intellectus ascribitur illa notitia simplicis intelligentiae confusa ipsi me- 
-        <lb ed="#Bb" n="37"/>moriae: quia tunc primo mouet intellectum sub ratione intelligentiae determinata cognitione, quando mouet in  
+        <lb ed="#Bb" n="36"/>tur duplex notitia, &amp; ex parte intellectus ascribitur illa notitia simplicis intelligentiae confusa ipsi 
+        me<lb ed="#Bb" n="37" break="no"/>moriae: quia tunc primo mouet intellectum sub ratione intelligentiae determinata cognitione, quando mouet in  
         <lb ed="#Bb" n="38"/>tellectum ad cognoscendum de cognito quid determinate sit in rerum natura. Quicquod eni intellectus noster ap  
         <lb ed="#Bb" n="39"/>prehendit, primo subito apprehendit quod aliquid sit, &amp; ex hoc intellectus factus quasi attonitus statim aspectum suum 
         <lb ed="#Bb" n="40"/>convertit vi sua actiua super actum suum, &amp; super obiectum confuse cognitum: &amp; mouetur acrius illud diligen 
-        <lb ed="#Bb" n="41"/>tius intuendo, vt discretius ipsum cognoscat. &amp; hoc quemadmodum oculus corporalis cum subito immu- 
-        <lb ed="#Bb" n="42"/>tatus fuerit a luce, aspectum suum acrius intuendo in illam extendit vt perfectius eam videat, &amp; hoc 
+        <lb ed="#Bb" n="41"/>tius intuendo, vt discretius ipsum cognoscat. &amp; hoc quemadmodum oculus corporalis cum subito 
+        immu<lb ed="#Bb" n="42" break="no"/>tatus fuerit a luce, aspectum suum acrius intuendo in illam extendit vt perfectius eam videat, &amp; hoc 
         <lb ed="#Bb" n="43"/>appetitu delectato in eo quod cognoscit intellectus aut sensus, &amp; per hoc mouente intellectum 
         <lb ed="#Bb" n="44"/>aut sensum ad amplius intuendum, vt perfectius cognoscat &amp; perfectius delectetur in cognito. Vnde 
-        <lb ed="#Bb" n="45"/>secundum quod dicit <name ref="#Augustine">Augustinus</name> xiiii. de Trini. cap. v. hinc coniici potest: quod infantis mens lucis haurien- 
-        <lb ed="#Bb" n="46"/>dae sic auida est, vt si quisquam minus caute nesciens quid inde possit accidere, nocturnum lumen posue 
+        <lb ed="#Bb" n="45"/>secundum quod dicit <name ref="#Augustine">Augustinus</name> xiiii. de Trini. cap. v. hinc coniici potest: quod infantis mens lucis 
+        haurien<lb ed="#Bb" n="46" break="no"/>dae sic auida est, vt si quisquam minus caute nesciens quid inde possit accidere, nocturnum lumen posue 
         <lb ed="#Bb" n="47"/>rit vbi iacet infans in ea parte ad quam iacentis oculi possint retorqueri, aut ceruix possit inflecti, 
         <lb ed="#Bb" n="48"/>sic eius inde non remouetur aspectus, vt nonnullos ex hoc etiam strabones fieri nouerimus. Vnde cum obie 
         <lb ed="#Bb" n="49"/>ctum non moratur, sed transuolat, solum confusa &amp; indeterminata notitia permanet, quemadmodum 
@@ -574,19 +574,19 @@
         <lb ed="#Bb" n="2"/>uerberata contremiscat: &amp; quia eum sicuti est videre non potest, aliquatenus videndo cognoscat. Quia 
         <lb ed="#Bb" n="3"/>vt dicit lib. v. ca. xiii. etsi plane non intimat, quiddam tamen de se humanae menti manifestat. Sed vt dicit lib. 
         <lb ed="#Bb" n="4"/>viii. ca. xix. inhaerere diu luci non valet, quia raptim videt. Sic etiam deus se confusa cognitione, qua. scilicet de se quod 
-        <lb ed="#Bb" n="5"/>aliquid sit cognoscitur, intellectui beato in primo instante visionis gloriosae prius naturaliter manife- 
-        <lb ed="#Bb" n="6"/>stat: &amp; subito &amp; in eodem instante forsitan conuertit se super obiectum acrius intuendo ipsum: vbi 
+        <lb ed="#Bb" n="5"/>aliquid sit cognoscitur, intellectui beato in primo instante visionis gloriosae prius naturaliter 
+        manife<lb ed="#Bb" n="6" break="no"/>stat: &amp; subito &amp; in eodem instante forsitan conuertit se super obiectum acrius intuendo ipsum: vbi 
         <lb ed="#Bb" n="7"/>de deo in intellectus aspectu formatur verbum, quo certe cognoscitur de deo quid sit determinate in  
         <lb ed="#Bb" n="8"/>rerum natura, quamuis ipsum videndo non concipiamus de eo verbum indicans quid est secundum 
         <lb ed="#Bb" n="9"/>definitiuam rationem, quia nullam habet propter eius simplicitatem, vt dicit Auicen. Secundum quem  
-        <lb ed="#Bb" n="10"/>modum alias diximus in quaestionibus de Quolibet, quod intellectualiter videndo deum non concipi- 
-        <lb ed="#Bb" n="11"/>mus verbum de ipso: sed cognoscendo quid sit determinate in rerum natura, verbum de ipso con 
+        <lb ed="#Bb" n="10"/>modum alias diximus in quaestionibus de Quolibet, quod intellectualiter videndo deum non 
+        concipi<lb ed="#Bb" n="11" break="no"/>mus verbum de ipso: sed cognoscendo quid sit determinate in rerum natura, verbum de ipso con 
         <lb ed="#Bb" n="12"/>cipiemus. secundum illud primae loannis. 4. Similes ei erimus, quoniam videbimus eum sicuti est. Su 
-        <lb ed="#Bb" n="13"/>per quo dicit Augustinus, xv. de trinitate cap. xvi. Sed tunc quidem verbum nostrum non erit fal- 
-        <lb ed="#Bb" n="14"/>sum, quia neque mentiemur neque fallemur: tamen cum hoc fuerit, formata erit creatura quae formabi- 
-        <lb ed="#Bb" n="15"/>lis fuit, vt nihil iam desit eius formae ad quam peruenire deberet: sed tamen coaequanda non erit illi 
-        <lb ed="#Bb" n="16"/>simplicitati vbi non formabile formatum vel reformatum est: sed forma neque informis neque forma- 
-        <lb ed="#Bb" n="17"/>ta ipsa ibi aeterna est immutabilisque substantia. In quo <name ref="#Augustine">Augustinus</name> tangit vnam differentiam inter ver 
+        <lb ed="#Bb" n="13"/>per quo dicit Augustinus, xv. de trinitate cap. xvi. Sed tunc quidem verbum nostrum non erit 
+        fal<lb ed="#Bb" n="14" break="no"/>sum, quia neque mentiemur neque fallemur: tamen cum hoc fuerit, formata erit creatura quae 
+        formabi<lb ed="#Bb" n="15" break="no"/>lis fuit, vt nihil iam desit eius formae ad quam peruenire deberet: sed tamen coaequanda non erit illi 
+        <lb ed="#Bb" n="16"/>simplicitati vbi non formabile formatum vel reformatum est: sed forma neque informis neque 
+        forma<lb ed="#Bb" n="17" break="no"/>ta ipsa ibi aeterna est immutabilisque substantia. In quo <name ref="#Augustine">Augustinus</name> tangit vnam differentiam inter ver 
         <lb ed="#Bb" n="18"/>bum nostrum &amp; cuiuslibet intellectus creati etiam de deo, &amp; inter verbum dei: videlicet quod ver 
         <lb ed="#Bb" n="19"/>bum intellectus creati prius tempore aut natura formabile est quam formatum. Prius tempore, quo  
         <lb ed="#Bb" n="20"/>ad verbum nostrum in praesenti quod magis cognitum est nobis. Quia vt dicit Augustinus. xiiii. de triniitate. ca. 
@@ -595,13 +595,13 @@
         <lb ed="#Bb" n="23"/>bile nondum formatum &amp;c. vt supra in quaestione de dicere dei. Prius vero natura in intellectu cuiuslibet beati 
         <lb ed="#Bb" n="24"/>verbum de quacunque re formabile est quam formetur. Eormabile intelligo in ipsa confusa cognitione, qua  
         <lb ed="#Bb" n="25"/>primo cognoscitur de re cognita quod aliquid est: de qua cognitione confusa formatur verbum sicut 
-        <lb ed="#Bb" n="26"/>completum de incompleto: vt formatur vir de puero, &amp; cognoscitur eadem res prius incompleta &amp; postea con- 
-        <lb ed="#Bb" n="27"/>pleta cognitione: qua. scilicet cognoscitur de ipsa quid est vel quod quid est. nulla enim notitia verbum est nisi 
-        <lb ed="#Bb" n="28"/>qua cognoscitur determinate de re quid est vel quod quid est: primum in simplicibus non habentibus defi- 
-        <lb ed="#Bb" n="29"/>nitiuam rationem, secundum in compositis habentibus eam. Verbum autem diuinum nec tempo 
+        <lb ed="#Bb" n="26"/>completum de incompleto: vt formatur vir de puero, &amp; cognoscitur eadem res prius incompleta &amp; postea 
+        con<lb ed="#Bb" n="27" break="no"/>pleta cognitione: qua. scilicet cognoscitur de ipsa quid est vel quod quid est. nulla enim notitia verbum est nisi 
+        <lb ed="#Bb" n="28"/>qua cognoscitur determinate de re quid est vel quod quid est: primum in simplicibus non habentibus 
+        defi<lb ed="#Bb" n="29" break="no"/>nitiuam rationem, secundum in compositis habentibus eam. Verbum autem diuinum nec tempo 
         <lb ed="#Bb" n="30"/>re nec natura prius est formabile quam formatum, nec informe esse potest. Vnde differentiam quo ad  
-        <lb ed="#Bb" n="31"/>hoc exprimit <name ref="#Augustine">Augustinus</name> ibidem subdens post iam signata. Quis non videat quanta hic sit dissimi- 
-        <lb ed="#Bb" n="32"/>litudo ab illo dei verbo quid in forma dei sic est vt non antea fuerit formabile quam formatum: nec aliquam 
+        <lb ed="#Bb" n="31"/>hoc exprimit <name ref="#Augustine">Augustinus</name> ibidem subdens post iam signata. Quis non videat quanta hic sit 
+        dissimi<lb ed="#Bb" n="32" break="no"/>litudo ab illo dei verbo quid in forma dei sic est vt non antea fuerit formabile quam formatum: nec aliquam 
         <lb ed="#Bb" n="33"/>do possit esse informe: sed sit forma simplex &amp; simpliciter aequalis ei de quo est, &amp; cui mirabiliter 
         <lb ed="#Bb" n="34"/>coaeterna est: In quo etiam tangit differentiam aliam verbi dei ad verbum intellectus creati: &amp; hoc 
         <lb ed="#Bb" n="35"/>quo ad duo. Quorum primum est, quod licet in intellectu creato eadem secundum rem sit notitia 
@@ -609,13 +609,13 @@
         <lb ed="#Bb" n="37"/>enim actus intelligendi de eadem re cum solo numero differunt, non possunt esse simul in eodem in  
         <lb ed="#Bb" n="38"/>tellectu secundum numerum ) differunt tamen sicut magis perfectum &amp; minus perfectum. semper enim 
         <lb ed="#Bb" n="39"/>perfectior est in intellectu creato notitia cogitatiua &amp; declaratiua de eadem re, quam sit simplex notitia 
-        <lb ed="#Bb" n="40"/>Propter quod dicit <name ref="#Augustine">Augustinus</name> ibidem cap. xxi. Cogitando quid verum inuenimus, hoc maxime intel- 
-        <lb ed="#Bb" n="41"/>ligere dicimus. Secundum vero est quod verbum intellectus creati cum de re superiore se concipitur 
+        <lb ed="#Bb" n="40"/>Propter quod dicit <name ref="#Augustine">Augustinus</name> ibidem cap. xxi. Cogitando quid verum inuenimus, hoc maxime 
+        intel<lb ed="#Bb" n="41" break="no"/>ligere dicimus. Secundum vero est quod verbum intellectus creati cum de re superiore se concipitur 
         <lb ed="#Bb" n="42"/>non aequatur rei de qua formatur. dicente Augustino. x. de trinita. cap. xi. Cum deum nouimus, no 
         <lb ed="#Bb" n="43"/>titia verbum est: fitque aliqua dei similitudo. Illa tamen notitia inferior est. In deo vero notitia quae ver 
         <lb ed="#Bb" n="44"/>bum est, &amp; notitia simplex quae memoriae ascribitur, aeque perfecta est secundum rem &amp; illi aequata de quo  
-        <lb ed="#Bb" n="45"/>est, quia tantum se nouit Deus quantus est: &amp; aeque perfecte cognoscuntur a deo singularia in notitia simplici &amp; es- 
-        <lb ed="#Bb" n="46"/>sentiali, &amp; in notitia declaratiua quae verbum est. Dtur tamen verbum notitia declaratiua &amp; manifestatiua respe 
+        <lb ed="#Bb" n="45"/>est, quia tantum se nouit Deus quantus est: &amp; aeque perfecte cognoscuntur a deo singularia in notitia simplici &amp; 
+        es<lb ed="#Bb" n="46" break="no"/>sentiali, &amp; in notitia declaratiua quae verbum est. Dtur tamen verbum notitia declaratiua &amp; manifestatiua respe 
         <lb ed="#Bb" n="47"/>ctu notitiae simplicis &amp; eorum quae in ipsa cognoscuntur: quia eo quod dicendo procedit, modo manifestatiuo procedit. Ma 
         <lb ed="#Bb" n="48"/>nifestatiuo dico notitiae eius de quae procedit: quemadmodum verbum vocis procedit modo manifestatimo verbi quod  
         <lb ed="#Bb" n="49"/>est in mente. Est autem aspectus iste de quo iam locuti sumus, in intellectu vis eius aliqua qua  
@@ -627,9 +627,9 @@
         <lb ed="#Bb" n="55"/>per loci spatium, sed incorporea conuersione reuocetur. Cum vero non se cogitat, non fit quid in  
    <!--298.xml-->
         <pb ed="#Bb" n="142-r"/>
-        <lb ed="#Bb" n="1"/>conspectu suo, nec de illa suus formatur obtutus, sed tamen nouit se tanquam sibi sit memoria sui. Quic- 
-        <lb ed="#Bb" n="2"/>quid sit de notitia quam mens habet de se: de qua loquitur <name ref="#Augustine">Augustinus</name> certum tamen est quod quicquid sci- 
-        <lb ed="#Bb" n="3"/>mus cogitando, prius simplici notitia non cogitatiua apprehendimus: sed nisi cogitando ad illud  
+        <lb ed="#Bb" n="1"/>conspectu suo, nec de illa suus formatur obtutus, sed tamen nouit se tanquam sibi sit memoria sui. 
+        Quic<lb ed="#Bb" n="2" break="no"/>quid sit de notitia quam mens habet de se: de qua loquitur <name ref="#Augustine">Augustinus</name> certum tamen est quod quicquid 
+        sci<lb ed="#Bb" n="3" break="no"/>mus cogitando, prius simplici notitia non cogitatiua apprehendimus: sed nisi cogitando ad illud  
         <lb ed="#Bb" n="4"/>nos conuertimus, nihil de apprehenso iudicamus. Vnde notitia ista memoriae deputatur, qua mens 
         <lb ed="#Bb" n="5"/>vt cogitet excitatur. Quemadmodum intentus aliunde transeuntes oculis apprehendit, sed de illis non 
         <lb ed="#Bb" n="6"/>iudicat nisi cum per phantasmata eorum excitatus de illis cogitat. Et tunc cum cogitat de notitia praece 
@@ -651,36 +651,36 @@
         <lb ed="#Bb" n="22"/>de ipso cognito quod quid est si sit compositum, vel quid est in rerum natura si sit simplex. Est autem &amp; in  
         <lb ed="#Bb" n="23"/>mente diuina quidam eius aspectus qui ad incommutabilem notitiam essentialem in patre existen 
         <lb ed="#Bb" n="24"/>tem aeternaliter &amp; incommutabiliter conversus est. Propter quod aeternaliter &amp; cinonmutabiliter ab illa for 
-        <lb ed="#Bb" n="25"/>matus est habendo in se formam verbi aeternaliter &amp; incommutabiliter in eo, &amp; de eo, non per potentiam passi- 
-        <lb ed="#Bb" n="26"/>uam quam habeat in seipso aspectus aut ipsum verbum ad aliquod formabile quod esse posset informe prius quam 
+        <lb ed="#Bb" n="25"/>matus est habendo in se formam verbi aeternaliter &amp; incommutabiliter in eo, &amp; de eo, non per potentiam 
+        passi<lb ed="#Bb" n="26" break="no"/>uam quam habeat in seipso aspectus aut ipsum verbum ad aliquod formabile quod esse posset informe prius quam 
         <lb ed="#Bb" n="27"/>formetur siue natura siue duratione: Tunc enim non esset formatum sine mutatione, &amp; tale posse esse contrarium 
         <lb ed="#Bb" n="28"/>est necesse esse: sed per potentiam passiuam quam habet in se aspectus subiectiue, &amp; ipsum verbum obiectiue 
-        <lb ed="#Bb" n="29"/>vt sit aliquid semper ex se formaliter existens forma, quod non habet omnino potentiam ad esse infor- 
-        <lb ed="#Bb" n="30"/>me. Quia tamen sit, &amp; quod in forma verbi sit, habet ab alio principiatiue a quo habet quod ex se sit formaliter 
+        <lb ed="#Bb" n="29"/>vt sit aliquid semper ex se formaliter existens forma, quod non habet omnino potentiam ad esse 
+        infor<lb ed="#Bb" n="30" break="no"/>me. Quia tamen sit, &amp; quod in forma verbi sit, habet ab alio principiatiue a quo habet quod ex se sit formaliter 
         <lb ed="#Bb" n="31"/>necesse esse, sicut est &amp; ille a quo habet hoc. Et tale posse esse nullo modo repugnat ei quod est necesse 
         <lb ed="#Bb" n="32"/>esse. 
       </p>
       <p xml:id="vn58an-fe37626-d1e1392">
         ⁋ Ad secundum quod directe videtur huic dicto obuiare, quod potentia generandi passiue non conue 
         <lb ed="#Bb" n="33"/>nit alicui nisi ratione materiae, vel quasi, quae non est nisi in potentia ad formam eius quod est generandum 
-        <lb ed="#Bb" n="34"/>ex se non habens formam illam: Dicendum quod secundum praedicta bene verum est quod posse generari pas- 
-        <lb ed="#Bb" n="35"/>siue nulli conuenit nisi ratione materiae vel quasi. &amp; hoc inquantum omnis potentia passiua vel quasi ad  
+        <lb ed="#Bb" n="34"/>ex se non habens formam illam: Dicendum quod secundum praedicta bene verum est quod posse generari 
+        pas<lb ed="#Bb" n="35" break="no"/>siue nulli conuenit nisi ratione materiae vel quasi. &amp; hoc inquantum omnis potentia passiua vel quasi ad  
         <lb ed="#Bb" n="36"/>potentiam passiuam materiae vel quasi habet reduci, &amp; hoc in diuinis secundum quod dictum est, quia 
         <lb ed="#Bb" n="37"/>ipsa materia vel quasi in diuinis est ipsa diuina essentia inquantum est intelligens respectu verbi in  
         <lb ed="#Bb" n="38"/>potentia ad formam eius quod est generandum, non quae est absolutum in illo, &amp; pars eius, sed quae est ver 
         <lb ed="#Bb" n="39"/>bum &amp; ipsum totum relatiue generandum, immo semper genitum habens per generationem eandem formam 
         <lb ed="#Bb" n="40"/>absolutam qua ipse pater est necesse esse, &amp; ita qua cum patre ipsum verbum aequaliter habet esse 
-        <lb ed="#Bb" n="41"/>necesse esse. Quod non esset verum si potentia generandi respiceret principaliter aliquid absolutum ac- 
-        <lb ed="#Bb" n="42"/>quisitum producto vt partem eius aliam ab eo de quo subiectiue est, &amp; a quo principiatiue produ- 
-        <lb ed="#Bb" n="43"/>citur, sicut acquiritur forma composito in naturalibus, &amp; hoc iuxta modum iam supra expositum 
+        <lb ed="#Bb" n="41"/>necesse esse. Quod non esset verum si potentia generandi respiceret principaliter aliquid absolutum 
+        ac<lb ed="#Bb" n="42" break="no"/>quisitum producto vt partem eius aliam ab eo de quo subiectiue est, &amp; a quo principiatiue 
+        produ<lb ed="#Bb" n="43" break="no"/>citur, sicut acquiritur forma composito in naturalibus, &amp; hoc iuxta modum iam supra expositum 
         <lb ed="#Bb" n="44"/>immo potentia generandi passiue &amp; subiectiue quae non est nisi materiae vel quasi, principaliter respicit 
         <lb ed="#Bb" n="45"/>ipsum suppositum relatiuum cui per generationem acquiritur esse quod est absolutum in diuinis vt 
-        <lb ed="#Bb" n="46"/>aliquid eius, licet non vt pars, quod in illo productum est siue habitum per productionem: ex quo re- 
-        <lb ed="#Bb" n="47"/>spectus conuenit supposito, quod principaliter intelligitur productum, ita quod in diuinis ipsum ab-  
-        <lb ed="#Bb" n="48"/>solutum potius intelligatur terminus productionis quam ipse respectus: &amp; sic quod est quasi mate- 
-        <lb ed="#Bb" n="49"/>ria, quam id quod est quasi forma: econuerso ei quod contingit in naturalibus, licet principaliter nihil 
-        <lb ed="#Bb" n="50"/>in diuinis intelligatur esse terminus productionis quam ipsum suppositum constitutum quoquomo-  
-        <lb ed="#Bb" n="51"/>do ab absoluto &amp; ipso respectu, vt habitum est supra. 
+        <lb ed="#Bb" n="46"/>aliquid eius, licet non vt pars, quod in illo productum est siue habitum per productionem: ex quo 
+        re<lb ed="#Bb" n="47" break="no"/>spectus conuenit supposito, quod principaliter intelligitur productum, ita quod in diuinis ipsum 
+        ab<lb ed="#Bb" n="48" break="no"/>solutum potius intelligatur terminus productionis quam ipse respectus: &amp; sic quod est quasi 
+        mate<lb ed="#Bb" n="49" break="no"/>ria, quam id quod est quasi forma: econuerso ei quod contingit in naturalibus, licet principaliter nihil 
+        <lb ed="#Bb" n="50"/>in diuinis intelligatur esse terminus productionis quam ipsum suppositum constitutum 
+        quoquomo<lb ed="#Bb" n="51" break="no"/>do ab absoluto &amp; ipso respectu, vt habitum est supra. 
       </p>
       <p xml:id="vn58an-fe37626-d1e1436">
         ⁋ Ad tertium quod proprietas secundum verita 
@@ -693,8 +693,8 @@
         <lb ed="#Bb" n="1"/>in diuinis. In creaturis enim actionum &amp; similiter passionum quaedam est productio, &amp; quaedam non est 
         <lb ed="#Bb" n="2"/>productio: &amp; illa quae est productio, includit in se illam quae non est productio. Actio enim quae in creaturis 
         <lb ed="#Bb" n="3"/>non est productio ( vt aliqui ponunt) non includit in suo significato nisi transmutationem: &amp; simi 
-        <lb ed="#Bb" n="4"/>liter passio quae non est productio: sed sub diuersis respectibus quibus distinguuntur secundum diuer- 
-        <lb ed="#Bb" n="5"/>sa praedicamenta. Et quod idem motus siue transmutatio secundum diuersos respectus dicitur actio &amp; 
+        <lb ed="#Bb" n="4"/>liter passio quae non est productio: sed sub diuersis respectibus quibus distinguuntur secundum 
+        diuer<lb ed="#Bb" n="5" break="no"/>sa praedicamenta. Et quod idem motus siue transmutatio secundum diuersos respectus dicitur actio &amp; 
         <lb ed="#Bb" n="6"/>passio: qui respectus sunt a quo, &amp; in quem. Motus enim vt est ab agente, actio est: vt vero in passum 
         <lb ed="#Bb" n="7"/>recipitur passio est. Generatio autem actiua, est actio productiua actiue alicuius de aliquo. Generatio 
         <lb ed="#Bb" n="8"/>vero passiua est passio productiua passiue alicuius de aliquo. Generatio enim actiua &amp; passiua super 
@@ -703,10 +703,10 @@
         <lb ed="#Bb" n="11"/>est motus aut transmutatio ab agente in passum. Generatio autem actiua &amp; passiua sunt actio &amp; 
         <lb ed="#Bb" n="12"/>passio productiue alicuius de aliquo mediante motu. Nam de actione primo modo quae non est gene 
         <lb ed="#Bb" n="13"/>ratio, dicitur in vi. principiis. Actio non quaerit quid agat, sed in quid. Actio vero quae est generatio 
-        <lb ed="#Bb" n="14"/>necessario requirit cum eo in quo agit etiam quid agat. In diuinis autem omnis notionalis actio est productio acti- 
-        <lb ed="#Bb" n="15"/>ua: &amp; omnis notionalis passio est productio passiua: sed non includunt in suo significato actionem &amp; passionem 
-        <lb ed="#Bb" n="16"/>quae non est productio, neque quo ad motum quid materialiter cadit in significato actionis &amp; passionis circa crea- 
-        <lb ed="#Bb" n="17"/>turas, neque quo ad respectus quibus motus dicitur actio vt ab agente, &amp; passio vt in passo: sed solummodo actionem 
+        <lb ed="#Bb" n="14"/>necessario requirit cum eo in quo agit etiam quid agat. In diuinis autem omnis notionalis actio est productio 
+        acti<lb ed="#Bb" n="15" break="no"/>ua: &amp; omnis notionalis passio est productio passiua: sed non includunt in suo significato actionem &amp; passionem 
+        <lb ed="#Bb" n="16"/>quae non est productio, neque quo ad motum quid materialiter cadit in significato actionis &amp; passionis circa 
+        crea<lb ed="#Bb" n="17" break="no"/>turas, neque quo ad respectus quibus motus dicitur actio vt ab agente, &amp; passio vt in passo: sed solummodo actionem 
         <lb ed="#Bb" n="18"/>&amp; passionem quae est productio. Et sic in diuinis in significatione actionis &amp; passionis notionalis siue generatio 
         <lb ed="#Bb" n="19"/>nis actiuae &amp; passiuae non cadunt nisi productio de aliquo: quemadmodum non caderent in creaturis, si in creatu 
         <lb ed="#Bb" n="20"/>ris posset sine transmutatione educi forma de materia, &amp; sic compositum ex materia &amp; forma producere 
@@ -716,8 +716,8 @@
         <lb ed="#Bb" n="24"/>ctis. Ista etiam productio in diuinis de aliquo, vt respicit ly de aliquo secundum supra determinata, &amp; solum 
         <lb ed="#Bb" n="25"/>secundum rationem, in creaturis est secundum rem: vt secundum hoc in diuinis nihil maneat secundum 
         <lb ed="#Bb" n="26"/>rem de ratione actionis &amp; passionis quae sunt in creaturis, nisi ipsa productio quae est absque omni transmuta 
-        <lb ed="#Bb" n="27"/>tione, &amp; quae nihil ponit absolutum: sed solummodo respectum indefinitum: qui secundum duos respectus deter- 
-        <lb ed="#Bb" n="28"/>minatos ad diuina transferatur a duobus praedicamentis quae sunt actio &amp; passio in creaturis: non qui  
+        <lb ed="#Bb" n="27"/>tione, &amp; quae nihil ponit absolutum: sed solummodo respectum indefinitum: qui secundum duos respectus 
+        deter<lb ed="#Bb" n="28" break="no"/>minatos ad diuina transferatur a duobus praedicamentis quae sunt actio &amp; passio in creaturis: non qui  
         <lb ed="#Bb" n="29"/>bus motus siue transmutatio dicitur esse ab aliquo, sed in aliquid: sed quibus ipsum productum dicitur esse ab ali 
         <lb ed="#Bb" n="30"/>quo, &amp; in aliquem terminari. Productio enim secundum quod est eius a quo est, est actio, quae in diuinis dicitur genera 
         <lb ed="#Bb" n="31"/>tio actiua: secundum vero quod est eius qui ab alio producitur, est passio, quae est generatio passiua in diuinis 
@@ -740,15 +740,15 @@
         <lb ed="#Bb" n="48"/>dum eos denominatur agens: non autem a motu. vt sic praedicamentum actionis omnino transferatur ad diuina quo  
         <lb ed="#Bb" n="49"/>ad rationem respectus qui est ab hoc, licet non quo ad rationem characterizationis realitatis quam a motu tra 
         <lb ed="#Bb" n="50"/>hit, qua constituit praedicamentum actionis: quae si non esset, ad praedicamentum relationis pertineret. Vnde etiam 
-        <lb ed="#Bb" n="51"/>dicunt aliqui quod motus nec est de genere actionis nec de genere passionis, sed quantitatis, vt vult Philo- 
-        <lb ed="#Bb" n="52"/>sophus. v. metaphysicae: sed respectus dicti solummodo a motu characterizantur vt constituant duo prae 
+        <lb ed="#Bb" n="51"/>dicunt aliqui quod motus nec est de genere actionis nec de genere passionis, sed quantitatis, vt vult 
+        Philo<lb ed="#Bb" n="52" break="no"/>sophus. v. metaphysicae: sed respectus dicti solummodo a motu characterizantur vt constituant duo prae 
         <lb ed="#Bb" n="53"/>dicamenta: quemadmodum praedicamentum relationis: &amp; alia . i quae solum in respectibus consistunt, ex 
-        <lb ed="#Bb" n="54"/>eo solummodo quod characteres trahunt accidentales a rebus aliorum praedicamentorum absoluto- 
-        <lb ed="#Bb" n="55"/>rum, sunt praedicamenta accidentium. ita quod plus realitatis non habeant. vii. praedicamenta super mo 
+        <lb ed="#Bb" n="54"/>eo solummodo quod characteres trahunt accidentales a rebus aliorum praedicamentorum 
+        absoluto<lb ed="#Bb" n="55" break="no"/>rum, sunt praedicamenta accidentium. ita quod plus realitatis non habeant. vii. praedicamenta super mo 
    <!--300.xml-->
         <pb ed="#Bb" n="143-r"/>
-        <lb ed="#Bb" n="1"/>dum qui respectus est in ipsis: quam habent ex characterizatione, licet secundum diuersas rationes re- 
-        <lb ed="#Bb" n="2"/>spectuum constituunt diuersa praedicamenta, secundum quod haec omnia declarauimus in quaestione 
+        <lb ed="#Bb" n="1"/>dum qui respectus est in ipsis: quam habent ex characterizatione, licet secundum diuersas rationes 
+        re<lb ed="#Bb" n="2" break="no"/>spectuum constituunt diuersa praedicamenta, secundum quod haec omnia declarauimus in quaestione 
         <lb ed="#Bb" n="3"/>quadam de relatione in ix. Quolibet. Qui respectus cum absoluuntur a characterizatione, pertinent ad  
         <lb ed="#Bb" n="4"/>vnum praedicamentum relationis in diuinis, vt dictum est supra in quaestione de praedicamentis. Non 
         <lb ed="#Bb" n="5"/>ergo dicendum secundum modum iam supra expositum quod motus sit de praedicamento actionis aut pas 
@@ -761,28 +761,28 @@
         <lb ed="#Bb" n="12"/>in suo significato actionem aut passionem quae in creaturis non est productio, neque quo ad ipsum mo 
         <lb ed="#Bb" n="13"/>tum, neque quo ad illos respectus circa motum qui sunt ab hoc, &amp; in illud: neque quo ad eorum characteri 
         <lb ed="#Bb" n="14"/>cationem: sed solummodo includunt in suo significato actionem &amp; passionem quae sunt productiones 
-        <lb ed="#Bb" n="15"/>quo ad illos duos respectus qui sunt a quo alius, &amp; qui ab alio. Vnde aduertimus in generatione na- 
-        <lb ed="#Bb" n="16"/>turali creaturarum duo genera respectuum. Vnum circa motum fiuentem ab agente in passum, qui  
+        <lb ed="#Bb" n="15"/>quo ad illos duos respectus qui sunt a quo alius, &amp; qui ab alio. Vnde aduertimus in generatione 
+        na<lb ed="#Bb" n="16" break="no"/>turali creaturarum duo genera respectuum. Vnum circa motum fiuentem ab agente in passum, qui  
         <lb ed="#Bb" n="17"/>sunt a quo &amp; in quod. Aliud circa productum mediante motu: qui sunt a quo &amp; quod ab. Et ab istis duo  
         <lb ed="#Bb" n="18"/>bus respectibus superadditis praedictis duobus, habent in creaturis actio &amp; passio quod contrahuntur 
-        <lb ed="#Bb" n="19"/>ad species, &amp; sunt generatio actiua &amp; passiua: ita quod si per impossibile in creaturis esset alicuius con- 
-        <lb ed="#Bb" n="20"/>positi generatio absque omni motu &amp; transmutatione de materia educendo formam, absolueretur ra 
+        <lb ed="#Bb" n="19"/>ad species, &amp; sunt generatio actiua &amp; passiua: ita quod si per impossibile in creaturis esset alicuius 
+        con<lb ed="#Bb" n="20" break="no"/>positi generatio absque omni motu &amp; transmutatione de materia educendo formam, absolueretur ra 
         <lb ed="#Bb" n="21"/>tio speciei quae est generatio actiua &amp; passiua, aratione generis quae est actio &amp; passio simpliciter, si 
         <lb ed="#Bb" n="22"/>actio &amp; passio intelligantur constituere praedicamenta ratione motus, aut ratione respectuum prae 
         <lb ed="#Bb" n="23"/>dictorum in motu. ita quod actio &amp; passio secundum rationem generis non essent in illis speciebus quae  
         <lb ed="#Bb" n="24"/>sunt generare &amp; generari, quia non secundum illos respectus circa motum a quo &amp; in quod, a quibus 
-        <lb ed="#Bb" n="25"/>habent rationem generum, sed solummodo manerent in illis secundum rationem ipsarum specie- 
-        <lb ed="#Bb" n="26"/>rum: quoniam secundum illos respectus circa productum a quo &amp; quod ab, differunt omnino illi duo  
+        <lb ed="#Bb" n="25"/>habent rationem generum, sed solummodo manerent in illis secundum rationem ipsarum 
+        specie<lb ed="#Bb" n="26" break="no"/>rum: quoniam secundum illos respectus circa productum a quo &amp; quod ab, differunt omnino illi duo  
         <lb ed="#Bb" n="27"/>respectus in quod &amp; quod ab, sicut penitus diuersi modi respectuum, quoniam alia &amp; alia est ratio respectus 
         <lb ed="#Bb" n="28"/>sed solummodo circa aliud &amp; aliud. Ex quo patet quod cum actionem &amp; passionem transferimus ad  
-        <lb ed="#Bb" n="29"/>diuina, hoc est secundum rationem specierum quae sunt generare &amp; generari: non autem secun- 
-        <lb ed="#Bb" n="30"/>dum rationes generum quae sunt actio &amp; passio fundata in motu. Et sunt in diuinis purae produ- 
-        <lb ed="#Bb" n="31"/>ctiones sine transmutatione alicuius de aliquo ab alio, nec est ipsa transmutatio etiam in creaturis 
+        <lb ed="#Bb" n="29"/>diuina, hoc est secundum rationem specierum quae sunt generare &amp; generari: non autem 
+        secun<lb ed="#Bb" n="30" break="no"/>dum rationes generum quae sunt actio &amp; passio fundata in motu. Et sunt in diuinis purae 
+        produ<lb ed="#Bb" n="31" break="no"/>ctiones sine transmutatione alicuius de aliquo ab alio, nec est ipsa transmutatio etiam in creaturis 
         <lb ed="#Bb" n="32"/>de ratione productionis, sicut nec genus de ratione differentiae qua constituitur species. Sed tamen 
         <lb ed="#Bb" n="33"/>non potest esse naturalis generatio in creaturis sine ipsa transmutatione media, sicut nec sola diffe 
         <lb ed="#Bb" n="34"/>rentia potest constituere speciem sine genere. Si tamen per impossibile absolui posset differentia a 
-        <lb ed="#Bb" n="35"/>ratione generis, se sola constitueret speciem: &amp; similiter si natura posset agere sine motu, produce- 
-        <lb ed="#Bb" n="36"/>ret ex materia sine motu, &amp; absolueret actum productionis ab actu qui est motus: qui in rei verita 
+        <lb ed="#Bb" n="35"/>ratione generis, se sola constitueret speciem: &amp; similiter si natura posset agere sine motu, 
+        produce<lb ed="#Bb" n="36" break="no"/>ret ex materia sine motu, &amp; absolueret actum productionis ab actu qui est motus: qui in rei verita 
         <lb ed="#Bb" n="37"/>te est in generatione naturali creaturarum. Et est in creaturis omnis productio motus aut transmuta 
         <lb ed="#Bb" n="38"/>tio quaedam, aut respectus characterizatus ab illo: sed agens supernaturale actum productionis omni 
         <lb ed="#Bb" n="39"/>no habet absolutum a motu &amp; transmutatione, sicut absolutam &amp; illimitatam habet essentiam. Et 
@@ -811,8 +811,8 @@
         <lb ed="#Bb" n="5"/>Et ideo nec secundum naturam rei &amp; proprietatem nominium, nec secundum vsum eloquii sanctorum &amp; doctorum catho 
         <lb ed="#Bb" n="6"/>licorum generari est vera passio, sicut generare actio. Immo eam repellit <name ref="#Boethius">Boethius</name>  cum dicit primo de triniitate. ca. xii. 
         <lb ed="#Bb" n="7"/>Si tamen passionem recipi in deo non oportet: neque enim vere sunt. Illam vero de actione recipit <name ref="#Augustine">Augustinus</name> sub vo 
-        <lb ed="#Bb" n="8"/>cabulo facere, simul repellens illam de passione, cum dicit. v. de triniitate. ca. x. Quod ad faciendum attinet, for- 
-        <lb ed="#Bb" n="9"/>tassis de solo deo verissime dicatur: solus enim deus facit neque patitur quantum ad eius substantiam parti 
+        <lb ed="#Bb" n="8"/>cabulo facere, simul repellens illam de passione, cum dicit. v. de triniitate. ca. x. Quod ad faciendum attinet, 
+        for<lb ed="#Bb" n="9" break="no"/>tassis de solo deo verissime dicatur: solus enim deus facit neque patitur quantum ad eius substantiam parti 
         <lb ed="#Bb" n="10"/>net. Non ergo propter motum qui magis pertinet ad passionem quam ad actionem, est quod generatio actiua diuina 
         <lb ed="#Bb" n="11"/>vera est generatio &amp; vera actio: generatio vero passiua licet sit vera generatio, non tamen est vera passio 
         <lb ed="#Bb" n="12"/>sed quia respectus qui importatur nomine actionis &amp; ratione generis &amp; ratione speciei transferatur ad generationem acti 
@@ -829,9 +829,9 @@
         ⁋ Ad cuius intellectum sic vtendo nomine actionis &amp; passionis, sciendum est de actione (&amp; idem in  
         <lb ed="#Bb" n="21"/>telligendum de passione) quod actionum quaedam est operatio, vt est illa a qua non relinquitur aliquod operatum. 
         <lb ed="#Bb" n="22"/>Quaedam vero est productio: vt est illa a qua relinquitur operatum. Actionis autem quae est operatio, quaedam  
-        <lb ed="#Bb" n="23"/>est motus vel non sine motu: vt est omnis operatio naturalis in creaturis: sed quandoque est motus corpora- 
-        <lb ed="#Bb" n="24"/>lis, vt est citharizatio: quandoque vero spiritualis, vt est intellectio aut volitio: quaedam vero non motus &amp; omni- 
-        <lb ed="#Bb" n="25"/>no est sine motu, vt est omnis opeatio in diuinis manens intra, vt est diuina intellectio aut volitio. Actio 
+        <lb ed="#Bb" n="23"/>est motus vel non sine motu: vt est omnis operatio naturalis in creaturis: sed quandoque est motus 
+        corpora<lb ed="#Bb" n="24" break="no"/>lis, vt est citharizatio: quandoque vero spiritualis, vt est intellectio aut volitio: quaedam vero non motus &amp; 
+        omni<lb ed="#Bb" n="25" break="no"/>no est sine motu, vt est omnis opeatio in diuinis manens intra, vt est diuina intellectio aut volitio. Actio 
         <lb ed="#Bb" n="26"/>nis autem quae est productio, quaedam est naturalis quae est generatio: &amp; hoc vel simpliciter, vt est 
         <lb ed="#Bb" n="27"/>illa quae est secundum substantiam &amp; in deo &amp; in creaturis: vel aliqualis, vt est illa quae accidentium in solis 
         <lb ed="#Bb" n="28"/>creaturis: quae dicitur alteratio in qualitatibus, augmentum vel diminutio in quantitatibus. Quaedam vero est vo 
@@ -847,13 +847,13 @@
         <lb ed="#Bb" n="35"/>ria: Dicendum secundum praedicta quod posse generari subiectiue per se convenit materiae vel quasi &amp; nulli alii: &amp; sic 
         <lb ed="#Bb" n="36"/>posse generari in diuinis bene verum est quod soli essentiae inest, &amp; proprietas eius est: sed secundum rationem tantum: secundum  
         <lb ed="#Bb" n="37"/>quod est potentia secundum rationem tantum secundum praedictum modum: qualem non est inconveniens attribuere essentiae: quem 
-        <lb ed="#Bb" n="38"/>admodum ei attribuitur bonitas aut sapientia sicut proprietas. Posse vero generari obiectiue inest ipsi geni- 
-        <lb ed="#Bb" n="39"/>to: sed secundum duplicem ordinem secundum praedicta, quia &amp; secundum ordinem ad id de quo generatur, &amp; secundum  
+        <lb ed="#Bb" n="38"/>admodum ei attribuitur bonitas aut sapientia sicut proprietas. Posse vero generari obiectiue inest ipsi 
+        geni<lb ed="#Bb" n="39" break="no"/>to: sed secundum duplicem ordinem secundum praedicta, quia &amp; secundum ordinem ad id de quo generatur, &amp; secundum  
         <lb ed="#Bb" n="40"/>ordinem ad generantem. Et secundum vtrumque ordinem posse generari est in generato vt in filio siue in verbo:  
         <lb ed="#Bb" n="41"/>sed secundum primum ordinem est in ipso secundum ratione tantum: quia est aliquid differens ab eo sola ratione: &amp; ide 
         <lb ed="#Bb" n="42"/>per hunc ordinem est proprietas secundum rationem solum. Secundum ordinem vero secundum est in ipso secundum rem: quia ad  
-        <lb ed="#Bb" n="43"/>eum qui secundum rem ab ipso distinguitur: &amp; ideo secundum hunc ordinem solummodo habet rationem proprietatis no-  
-        <lb ed="#Bb" n="44"/>tionalis, &amp; est solius filii &amp; in solo filio, sicut &amp; posse generare ipsi oppositum est proprietas solius patris &amp; 
+        <lb ed="#Bb" n="43"/>eum qui secundum rem ab ipso distinguitur: &amp; ideo secundum hunc ordinem solummodo habet rationem proprietatis 
+        no<lb ed="#Bb" n="44" break="no"/>tionalis, &amp; est solius filii &amp; in solo filio, sicut &amp; posse generare ipsi oppositum est proprietas solius patris &amp; 
         <lb ed="#Bb" n="45"/>in patre existens. Et reducitur posse generari vt est, proprietas filii, ad generari non secundum ordinem quem habet ge 
         <lb ed="#Bb" n="46"/>nitum &amp; ad id de quo generatur: sed secundum ordinem ad eum a quo generatur. sic enim posse generari obiectiue redu 
         <lb ed="#Bb" n="47"/>citur ad generari sibi respondens. Vnde magna quasi aequiuocatio est in generari &amp; posse generari: quae non  
@@ -863,8 +863,8 @@
         <lb ed="#Bb" n="51"/>generandi possit poni esse in filio, eadem ratione &amp; posse generari potest poni esse in pre. &amp; hoc loquendo de posse siue 
         <lb ed="#Bb" n="52"/>potentia secundum quod est proprietas. illud enim non ponitur nisi quia creditur quod eadem sit potentia generandi actue &amp; passi 
         <lb ed="#Bb" n="53"/>ue sicut eadem est essentia. Sed de hoc expeditum est superius. Specialis autem est difficultas circa posse gnari 
-        <lb ed="#Bb" n="54"/>siue circa potentiam generandi passiue, quae non est circa potentiam generandi actiue: de quo expe- 
-        <lb ed="#Bb" n="55"/>ditum est modo. 
+        <lb ed="#Bb" n="54"/>siue circa potentiam generandi passiue, quae non est circa potentiam generandi actiue: de quo 
+        expe<lb ed="#Bb" n="55" break="no"/>ditum est modo. 
       </p>
       <p xml:id="vn58an-fe37626-d1e1830">
         ⁋ Ad quintum, quod potentia generandi passiue est in patre vt proprietas eius: quia non 
@@ -885,8 +885,8 @@
         <lb ed="#Bb" n="13"/>dens quod est pater, referre relatione simplici, vt pure relatiue construatur cum suo substantiuo, vel 
         <lb ed="#Bb" n="14"/>relatione implicatiua. Si primo modo, sic proculdubio est illa vera, pater generat de sua substantia, 
         <lb ed="#Bb" n="15"/>scilicet de substantia quae est sua: quemadmodum generat de substantia quae est totius trinitatis. Sed ista 
-        <lb ed="#Bb" n="16"/>adhuc triplicem habet intellectum secundum triplicem causam veritatis, quoniam aut quia generat de sub- 
-        <lb ed="#Bb" n="17"/>stantia sua secundum siue inquantum est sua, vel secundum siue inquantum est alterius, puta filii, siue 
+        <lb ed="#Bb" n="16"/>adhuc triplicem habet intellectum secundum triplicem causam veritatis, quoniam aut quia generat de 
+        sub<lb ed="#Bb" n="17" break="no"/>stantia sua secundum siue inquantum est sua, vel secundum siue inquantum est alterius, puta filii, siue 
         <lb ed="#Bb" n="18"/>inquantum est substantia deitatis simpliciter. Et sic restat adhuc dubitatio in quo est illa potentia per ipsam 
         <lb ed="#Bb" n="19"/>essentiam in qua est per se: quod omissum &amp; reseruatum est superius vsque hic. &amp; pertinet hoc ad membrum 
         <lb ed="#Bb" n="20"/>secundum. Si ergo ly sua referat suum antecedens relatione implicatiua, sic continet vnum sensuum 
@@ -896,18 +896,18 @@
         <lb ed="#Bb" n="24"/>tum de ipsa generat est in patre &amp; non in alio, neque in filio, de quo est dubitatio. Et perscrutandum  
         <lb ed="#Bb" n="25"/>est hic quid de hoc sit sentiendum. Et est dicendum secundum praedeterminata, quod non est simpliciter 
         <lb ed="#Bb" n="26"/>potentia subiectiue nisi sit propinqua, &amp; cum hoc distans ab actu, vel secundum rem vel secundum 
-        <lb ed="#Bb" n="27"/>rationem, quemadmodum potentia passiua subiectiue, quandoque est secundum rem, quandoque est secun- 
-        <lb ed="#Bb" n="28"/>dum rationem, quia in creaturis est secundum rem, in diuinis secundum rationem tantum, vt patet ex 
+        <lb ed="#Bb" n="27"/>rationem, quemadmodum potentia passiua subiectiue, quandoque est secundum rem, quandoque est 
+        secun<lb ed="#Bb" n="28" break="no"/>dum rationem, quia in creaturis est secundum rem, in diuinis secundum rationem tantum, vt patet ex 
         <lb ed="#Bb" n="29"/>supra dictis. Vnde cum in diuinis potentia solummodo secundum rationem est distans ab actu, sicut so 
-        <lb ed="#Bb" n="30"/>lummodo secundum rationem differt ab ipso: igitur quemadmodum non est potentia materiae se- 
-        <lb ed="#Bb" n="31"/>cundum rem distans ab actu sub actu suo existens: sic nec potentia secundum rationem distans est 
-        <lb ed="#Bb" n="32"/>secundum rationem ab actu sub actu suo existens. Oportet ergo quod ipsa potentia si sit potentia, ha- 
-        <lb ed="#Bb" n="33"/>beat esse non secundum quod est sub actu illo, &amp; ita non vt est in filio in quo est actus illi respondens: sed  
+        <lb ed="#Bb" n="30"/>lummodo secundum rationem differt ab ipso: igitur quemadmodum non est potentia materiae 
+        se<lb ed="#Bb" n="31" break="no"/>cundum rem distans ab actu sub actu suo existens: sic nec potentia secundum rationem distans est 
+        <lb ed="#Bb" n="32"/>secundum rationem ab actu sub actu suo existens. Oportet ergo quod ipsa potentia si sit potentia, 
+        ha<lb ed="#Bb" n="33" break="no"/>beat esse non secundum quod est sub actu illo, &amp; ita non vt est in filio in quo est actus illi respondens: sed  
         <lb ed="#Bb" n="34"/>secundum quod in se consideratur, aut secundum quod in patre est, quia non vt est in spiritu sancto: quia si 
         <lb ed="#Bb" n="35"/>lius est principium spiritus sancti: non autem secundum quod consideratur in patre, quia in patre est sub 
         <lb ed="#Bb" n="36"/>proprietate opposita quam sit illa sub qua est in filio. Et ideo sicut materia vt est sub forma aquae non est 
-        <lb ed="#Bb" n="37"/>in potentia propinqua ad formam aeris, sed sub remota tantum, sed solummodo est in potentia pro- 
-        <lb ed="#Bb" n="38"/>pinqua vt consideratur secundum se, vt medium inter vtramque formam: sic diuina essentia vt est sub pr 
+        <lb ed="#Bb" n="37"/>in potentia propinqua ad formam aeris, sed sub remota tantum, sed solummodo est in potentia 
+        pro<lb ed="#Bb" n="38" break="no"/>pinqua vt consideratur secundum se, vt medium inter vtramque formam: sic diuina essentia vt est sub pr 
         <lb ed="#Bb" n="39"/>prietate patris, non est in potentia propinqua ad filium de ipsa generandum, sed sub remota: immo 
         <lb ed="#Bb" n="40"/>solummodo est in potentia propinqua subiectiua ad filium, vt consideratur secundum se vt medium inter vtramque pr 
         <lb ed="#Bb" n="41"/>prietatem tantum, vt immediate primo habet esse in patre. Quia vt secundum se consideratur, &amp; non secundum ordinem 
@@ -916,12 +916,12 @@
         <lb ed="#Bb" n="44"/>immediate vt materia propinqua in potentia quasi subiectiua ad filium nisi vt est media inter proprietatem 
         <lb ed="#Bb" n="45"/>patris &amp; filii, &amp; sub neutra earum existens, non tamen nisi sub ordine quodam, vt primo quodammodo sit exi 
         <lb ed="#Bb" n="46"/>stens in patre sub eius natura: vnde sicut vere dicitur quod acetum non generatur nisi de materia vini, quia oportet vt 
-        <lb ed="#Bb" n="47"/>immediate in materia praecedat forma vini si de materia illa debeat generari acetum, licet proprie mate- 
-        <lb ed="#Bb" n="48"/>riae illa non est subiectum &amp; materia generationis aceti, nisi vt est media inter formam vini &amp; formam ace 
+        <lb ed="#Bb" n="47"/>immediate in materia praecedat forma vini si de materia illa debeat generari acetum, licet proprie 
+        mate<lb ed="#Bb" n="48" break="no"/>riae illa non est subiectum &amp; materia generationis aceti, nisi vt est media inter formam vini &amp; formam ace 
         <lb ed="#Bb" n="49"/>ti indifferens ad vtramque: sic vere dicitur quod filius non generatur nisi de substantia patris, quia oportet vt 
-        <lb ed="#Bb" n="50"/>primo ordine naturae immediate diuina essentia habeat esse in patre sub proprietate paternitatis, si de es- 
-        <lb ed="#Bb" n="51"/>sentia illa diuina debeat generari filius, licet proprie diuina essentia non est quasi subiectum &amp; materia ge- 
-        <lb ed="#Bb" n="52"/>nerationis filii, nisi vt est quasi media inter proprietatem paternitatis &amp; filiationis, indifferens ad ambas. 
+        <lb ed="#Bb" n="50"/>primo ordine naturae immediate diuina essentia habeat esse in patre sub proprietate paternitatis, si de 
+        es<lb ed="#Bb" n="51" break="no"/>sentia illa diuina debeat generari filius, licet proprie diuina essentia non est quasi subiectum &amp; materia 
+        ge<lb ed="#Bb" n="52" break="no"/>nerationis filii, nisi vt est quasi media inter proprietatem paternitatis &amp; filiationis, indifferens ad ambas. 
         <lb ed="#Bb" n="53"/>&amp; hoc ideo: quia ipsa diuina essentia sub proprietate patris foecundatur inquantum est materia, &amp; id de 
         <lb ed="#Bb" n="54"/>quo generatur quasi passiue, quemadmodum in ipsa foecundatur inquantum est forma qua quis generat quasi 
         <lb ed="#Bb" n="55"/>actiue. &amp; hoc sub proprietate paternitatis. Et secundum hoc potentia generandi passiue &amp; quasi subiectiue 
@@ -931,8 +931,8 @@
         <lb ed="#Bb" n="2"/>abiicienda. Et sic illa non est, propria &amp; per se, pater generat de sua substantia: nisi sic exponatur, id est de substam 
         <lb ed="#Bb" n="3"/>tia quae est sua. scilicet primo. Vnde cum Magister Sententiarum exponit eam sicid i. de se qui est substantia: quaero ab  
         <lb ed="#Bb" n="4"/>eo an ly de significat circunstantiam quasi materiae, an principii actiui. Si principii, tunc aequiuoce ex 
-        <lb ed="#Bb" n="5"/>ponit: quia ly de sua substantia, non notat ibi nisi circunstantiam quasi materiae. Cum enim haeretici quaere- 
-        <lb ed="#Bb" n="6"/>bant: si pater generat filium: aut ergo de aliquo, aut de nihilo, aut de substantia sua, aut de aliena: non  
+        <lb ed="#Bb" n="5"/>ponit: quia ly de sua substantia, non notat ibi nisi circunstantiam quasi materiae. Cum enim haeretici 
+        quaere<lb ed="#Bb" n="6" break="no"/>bant: si pater generat filium: aut ergo de aliquo, aut de nihilo, aut de substantia sua, aut de aliena: non  
         <lb ed="#Bb" n="7"/>erat eorum intentio quaerere nisi secundum quod ly de notat circunstantiam quasi causae materialis. Si vero 
         <lb ed="#Bb" n="8"/>notet circunstantiam materiae cum dicitur generat de se, hoc non est nisi quia substantia de qua genera 
         <lb ed="#Bb" n="9"/>in ipso est scilicet primo. Proprie tamen &amp; primo generat de ipsa substantia simpliciter: sub ordine tamen vt habet esse in  
@@ -944,10 +944,10 @@
       </p>
       <p xml:id="vn58an-fe37626-d1e1991">
         ⁋ Ad pri 
-        <lb ed="#Bb" n="15"/>mum in oppositum de generatione ignis de aqua: quod ignis non generat ignem nisi de substantia aquae: Di- 
-        <lb ed="#Bb" n="16"/>cendum quod verum est vt de eo quod est in potentia remota vt est aqua: non autem de eo quod est in potentia pro  
-        <lb ed="#Bb" n="17"/>pinqua vt est substantia materiae simpliciter, prius tamen existens sub forma aquae aut alterius ele- 
-        <lb ed="#Bb" n="18"/>menti aut mixti, nullum eorum determinando: quemadmodum materia si de ea debet generari acetum, prius 
+        <lb ed="#Bb" n="15"/>mum in oppositum de generatione ignis de aqua: quod ignis non generat ignem nisi de substantia aquae: 
+        Di<lb ed="#Bb" n="16" break="no"/>cendum quod verum est vt de eo quod est in potentia remota vt est aqua: non autem de eo quod est in potentia pro  
+        <lb ed="#Bb" n="17"/>pinqua vt est substantia materiae simpliciter, prius tamen existens sub forma aquae aut alterius 
+        ele<lb ed="#Bb" n="18" break="no"/>menti aut mixti, nullum eorum determinando: quemadmodum materia si de ea debet generari acetum, prius 
         <lb ed="#Bb" n="19"/>determinat vt sit sub forma vini. 
       </p>
       <p xml:id="vn58an-fe37626-d1e2004">
