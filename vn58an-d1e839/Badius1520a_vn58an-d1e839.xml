@@ -81,8 +81,8 @@
       </p>
       <p xml:id="vn58an-d1e839-d1e150">
         ⁋ Quinto sic. ille non est auctor bonus qui non dat praecepta bona:  
-        <lb ed="#Ba" n="49"/>talis erat auctor vete. test. Exe. xx. Ego dedi eis praecepta non bona, &amp; iudicia in quibus non  
-        <lb ed="#Ba" n="50"/>viuent: &amp; pollui eos in muneribus suis. ergo &amp;c. 
+        <lb ed="#Ba" n="49"/>talis erat auctor vete. test. <ref xml:id="vn58an-d1e839-Rd1e147">Exe. xx.</ref> <quote xml:id="vn58an-d1e839-Qd1e149" source="http://scta.info/resource/ez20_25 http://scta.info/resource/ez20_26@1-6">Ego dedi eis praecepta non bona, &amp; iudicia in quibus non  
+        <lb ed="#Ba" n="50"/>viuent: &amp; pollui eos in muneribus suis</quote>. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e839-d1e157">
         ⁋ Contra. super illud apostoli ad Gali. Abraham 
@@ -90,7 +90,7 @@
         <lb ed="#Ba" n="52"/>duo sunt testamenta: vnus vero vtriusque legis est conditor. 
       </p>
       <p xml:id="vn58an-d1e839-d1e164">
-        <lb ed="#Ba" n="53"/>⁋ Dicendum secundum quod recitat <name ref="#Augustine">Augustinus</name> in li. de haeresibus. Manichaei deum qui legen 
+        <lb ed="#Ba" n="53"/>⁋ Dicendum secundum quod recitat <name xml:id="vn58an-d1e839-Nd1e166" ref="#Augustine">Augustinus</name> in li. de haeresibus. Manichaei deum qui legen 
         <lb ed="#Ba" n="54"/>per Moysem dedit: &amp; Hebraeis locutus est: dicunt non esse verum deum: sed vnum ex principibus tene- 
    <!--155.xml-->
         <pb ed="#Ba" n="70-v"/>
@@ -124,7 +124,7 @@
         <lb ed="#Ba" n="26"/>nulla alia supuentura sunt: vt dictum est supra. Quod vero statuit secundo modo, bene mutat. Sicut 
         me<lb ed="#Ba" n="27" break="no"/>dicus statuit diaetam convalescenti, quam mutat cum convalescens confirmatus est in sanitate: &amp; sic statuit 
         <lb ed="#Ba" n="28"/>deus vetus testamentum tanquam veteri populo congruum: cui non posset conpetere nouum, quod postmodum  
-        <lb ed="#Ba" n="29"/>conpetens fuit nouo ppistso, vt dictum est supra. Et hoc est quod dicit <name ref="#Augustine">Augustinus</name> de vera rel. Quicumque ideo  
+        <lb ed="#Ba" n="29"/>conpetens fuit nouo ppistso, vt dictum est supra. Et hoc est quod dicit <name xml:id="vn58an-d1e839-Nd1e242" ref="#Augustine">Augustinus</name> de vera rel. Quicumque ideo  
         <lb ed="#Ba" n="30"/>negat vtrumque testamentum ab vno deo esse: quia non eisdem sacramentis tenetur populus ntur: quibus ludaei te 
         <lb ed="#Ba" n="31"/>nebantur, potest dicere non posse fieri vt idem paterfamilias iustissimus aliud imperet eis quibus seruitu 
         <lb ed="#Ba" n="32"/>tem duriorem vtilem iudicat, aliud eis quos in filiorum gradum adoptare dignatur. Si autem praece 
@@ -139,7 +139,7 @@
         ⁋ Ad secundum: quod idem non statuit contraria: dicendum quod scri 
         <lb ed="#Ba" n="39"/>ptura in nullo continet contraria. tunc enim contineret falsa: cum contraria non possint simul 
         <lb ed="#Ba" n="40"/>esse vera: licet illud opinati sunt Manichaei: secundum plura capitula quae inducunt, quasi contraria 
-        <lb ed="#Ba" n="41"/>vtriusque legis, quae <name ref="#Augustine">Augustinus</name> ostendit concordantia in i. contra Adamantium &amp; contra Faustum. Vnde quid  
+        <lb ed="#Ba" n="41"/>vtriusque legis, quae <name xml:id="vn58an-d1e839-Nd1e273" ref="#Augustine">Augustinus</name> ostendit concordantia in i. contra Adamantium &amp; contra Faustum. Vnde quid  
         <lb ed="#Ba" n="42"/>ibi praecipitur, oculum pro oculo, non est contrarium illi quod hic dicitur. Si quis te percusserit in  
         <lb ed="#Ba" n="43"/>vna maxilla: praebe. &amp;c. Nam vt dicit Chrysostomus, illud praecepit vt percussori timorem 
         in<lb ed="#Ba" n="44" break="no"/>cuteret: Hoc vero praecepit vt percussum ad tolerantiam praeparet: percussorem supplicio 
@@ -155,7 +155,7 @@
         prae<lb ed="#Ba" n="51" break="no"/>cepta vtriusque testamenti: quam homines ad pacem &amp; ad concordiam trahere: ad quam illos opor 
         <lb ed="#Ba" n="52"/>tebat compellere tanquam induratos peccatis timore pcenae: &amp; ita per dura praecepta: Istos autem 
         <lb ed="#Ba" n="53"/>tanquam virtuti aptos: ad idem competebat trahere amore iustitiae: &amp; ita per praecepta 
-        lenita<lb ed="#Ba" n="54" break="no"/>tis. Vnde &amp; <name ref="#Augustine">Augustinus</name> de vtilitate credendi. Illam legem dicimus vtiliter esse latam: quod  
+        lenita<lb ed="#Ba" n="54" break="no"/>tis. Vnde &amp; <name xml:id="vn58an-d1e839-Nd1e307" ref="#Augustine">Augustinus</name> de vtilitate credendi. Illam legem dicimus vtiliter esse latam: quod  
    <!--156.xml-->
         <pb ed="#Ba" n="71-r"/>
         <lb ed="#Ba" n="1"/>homines qui reuocari a peccatis ratione non poterant, tali lege coercendi erant scilicet poenarum 
