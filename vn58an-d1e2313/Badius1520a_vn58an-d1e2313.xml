@@ -55,17 +55,17 @@
       <head xml:id="vn58an-d1e2313-Hd1e107" type="question-title">Utrum ratio alicuius praedicamenti cadat in Deo</head>
       <p xml:id="vn58an-d1e2313-d1e110">
         <lb ed="#Ba" n="20"/>CIrca quintum arguitur quod ratio aliquorum praedicamentorum possit attribui 
-        <lb ed="#Ba" n="21"/>deo, sic. dicit <name ref="#Augustine">Augustinus</name> v. de triniitate. cap. x. Non participatione magnitudinis deus 
+        <lb ed="#Ba" n="21"/>deo, sic. dicit <ref xml:id="vn58an-d1e2313-Rggvbfh" corresp="#vn58an-d1e2313-Qcmaghf"><name ref="#Augustine">Augustinus</name> v. de triniitate. cap. x.</ref> <quote xml:id="vn58an-d1e2313-Qcmaghf" source="http://scta.info/resource/adt-l5-d1e737@196-233">Non participatione magnitudinis deus 
         <lb ed="#Ba" n="22"/>magnus est: sed seipso magno deus magnus est: quia ipse sua est magnitudo.  
-        <lb ed="#Ba" n="23"/>hoc de bonitate &amp; aeternitate &amp; omnipotentia dei dictum est, omnibusque omnino praedicamen 
-        <lb ed="#Ba" n="24"/>tis quae de deo possunt pronunciari. supponit ergo <name ref="#Augustine">Augustinus</name> quod aliqua praedicamen 
-        <lb ed="#Ba" n="25"/>ta possunt de deo pronunciari. sed nullum praedicamentum de deo potest praedi 
-        <lb ed="#Ba" n="26"/>cari secundum rem praedicamenti: vt habitum est supra, non est autem in praedicamento nisi res aut ra 
-        <lb ed="#Ba" n="27"/>tio praedicamenti. praedicabuntur ergo de ipso saltem secundum rationem praedicamenti. 
+        <lb ed="#Ba" n="23"/>hoc de bonitate &amp; aeternitate &amp; omnipotentia dei dictum est, omnibusque omnino 
+        praedicamen<lb ed="#Ba" n="24" break="no"/>tis quae de deo possunt pronunciari</quote>. supponit ergo <name ref="#Augustine">Augustinus</name> quod aliqua 
+        praedicamen<lb ed="#Ba" n="25" break="no"/>ta possunt de deo pronunciari. sed nullum praedicamentum de deo potest 
+        praedi<lb ed="#Ba" n="26" break="no"/>cari secundum rem praedicamenti: vt habitum est supra, non est autem in praedicamento nisi res aut 
+        ra<lb ed="#Ba" n="27" break="no"/>tio praedicamenti. praedicabuntur ergo de ipso saltem secundum rationem praedicamenti. 
       </p>
       <p xml:id="vn58an-d1e2313-d1e136">
-        ⁋ Quia autem cuiusli 
-        <lb ed="#Ba" n="28"/>bet praedicamenti ratio sit in deo: arguitur sic. verius attribuitur ratio praedicamenti affirmationi 
+        ⁋ Quia autem 
+        cuiusli<lb ed="#Ba" n="28" break="no"/>bet praedicamenti ratio sit in deo: arguitur sic. verius attribuitur ratio praedicamenti affirmationi 
         <lb ed="#Ba" n="29"/>qua affirmatur res sua de aliquo: licet secundum gradum superioris naturae: quam negationi qua omni 
         <lb ed="#Ba" n="30"/>no de aliquo negatur: quia modus rei natus est sequi ipsam rem: &amp; auferri ablata re. sed modus 
         cu<lb ed="#Ba" n="31" break="no"/>iuslibet praedicamenti attribuitur negationi qua negatur res sua de aliquo. dicente <name ref="#Augustine">Augustinus</name> v. de trinitate 
