@@ -249,11 +249,11 @@
         <lb ed="#Ba" n="55"/>essendi ipsum alterum: vt deus per essentiam sit ipsum, quod sibi significatur attribui. Et hoc est quod di 
    <!--409.xml-->
         <pb ed="#Ba" n="197-v"/>
-        <lb ed="#Ba" n="1"/>cit <name ref="#Augustine">Augustinus</name> v. de trinitate. cap. iiii. In rebus quae participatione magnitudinis magnae sunt, in quibus est 
+        <lb ed="#Ba" n="1"/>cit <ref xml:id="vn58an-d1e2313-Rtcq123" corresp="#vn58an-d1e2313-Qcka999 #vn58an-d1e2313-Qbbi111 #vn58an-d1e2313-Qjda111"><name ref="#Augustine">Augustinus</name> v. de trinitate. cap. iiii.</ref> <quote xml:id="vn58an-d1e2313-Qcka999" source="http://scta.info/resource/adt-l5-d1e737@15-52">In rebus quae participatione magnitudinis magnae sunt, in quibus est 
         <lb ed="#Ba" n="2"/>aliud esse, aliud magnum esse, sicut magna domus, magnus mons, magnus animus, in his est aliud  
-        <lb ed="#Ba" n="3"/>magnitudo, aliud quod ab ea magnum dicitur. Et infra. Deus autem ea magnitudine magnus est, quia ipse 
-        <lb ed="#Ba" n="4"/>est eadem magnitudo. &amp; subdit. Hoc de bonitate, &amp; aeternitate, &amp; omnipotentia dei dictum sit, 
-        o<lb ed="#Ba" n="5" break="no"/>mnibusque praedicamentis quae de deo possunt pronunciari, quod ad seipsum dicitur. Nesas enim est vt dictum est, vt 
+        <lb ed="#Ba" n="3"/>magnitudo, aliud quod ab ea magnum dicitur</quote>. Et infra. <quote xml:id="vn58an-d1e2313-Qbbi111" source="http://scta.info/resource/adt-l5-d1e737@121-165">Deus autem ea magnitudine magnus est, quia ipse 
+        <lb ed="#Ba" n="4"/>est eadem magnitudo.</quote> &amp; subdit. <quote xml:id="vn58an-d1e2313-Qjda111" source="http://scta.info/resource/adt-l5-d1e737@213-233">Hoc de bonitate, &amp; aeternitate, &amp; omnipotentia dei dictum sit, 
+        o<lb ed="#Ba" n="5" break="no"/>mnibusque praedicamentis quae de deo possunt pronunciari, quod ad seipsum dicitur</quote>. Nesas enim est vt dictum est, vt 
         <lb ed="#Ba" n="6"/>subsistat &amp; subsit deus suae bonitati. Manet autem in deo praedicamentum substantiae solum quo 
         <lb ed="#Ba" n="7"/>ad rationem &amp; modum essendi in se subsistendo, tanto verius &amp; perfectius quanto est ipsum esse 
         <lb ed="#Ba" n="8"/>purum &amp; simplex per essentiam subsistens: vel potius existens. Quaelibet autem substantia creata ha 
