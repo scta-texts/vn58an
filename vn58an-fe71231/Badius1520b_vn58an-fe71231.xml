@@ -100,15 +100,13 @@
         <lb ed="#Bb" n="55"/>Ad etiam secundum praedeterminata. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-fe71231-d1e198">
-        ⁋ Quia etiam omnia communia approprianda sunt spiritui sancto, ar-  
-   <!--536.xml-->
-        <pb ed="#Bb" n="261-r"/>
-        <lb ed="#Bb" n="1"/>guitur sic. commune dicitur aliquid, quia pluribus est communicatum siue communicabile. Ratio autem com 
-        <lb ed="#Bb" n="2"/>municabilis per se convenit spiritui sancto, quia ipse procedit per modum amoris, qui est virtus communi 
-        <lb ed="#Bb" n="3"/>candi. &amp; <name ref="#Augustine">Augustinus</name> dicit. vi. de Tri. c. v. Spiritus sanctus commune aliquod est patris &amp; filii quicquod illud est, 
-        <lb ed="#Bb" n="4"/>aut ipsa conicatio consubstantialis &amp; aeterna. Quae si amicitia convenienter dici possit dicatur, sed aptius dici 
-        <lb ed="#Bb" n="5"/>potest charitas, &amp; haec quoque substantia: quia deus substantia est, &amp; deus charitas est. Appropriatio autem se 
-        <lb ed="#Bb" n="6"/>cundum praedicta sit per conuenientiam siue similitudinem communis ad proprium. ergo &amp;c. 
+        ⁋ Quia etiam omnia communia approprianda sunt spiritui sancto, 
+        ar<pb ed="#Bb" n="261-r"/><lb ed="#Bb" n="1" break="no"/>guitur sic. commune dicitur aliquid, quia pluribus est communicatum siue communicabile. Ratio autem 
+        com<lb ed="#Bb" n="2" break="no"/>municabilis per se convenit spiritui sancto, quia ipse procedit per modum amoris, qui est virtus 
+        communi<lb ed="#Bb" n="3" break="no"/>candi. &amp; <ref xml:id="vn58an-fe71231-Rash888" corresp="#vn58an-fe71231-Qcn2ddd"><name ref="#Augustine">Augustinus</name> dicit. vi. de Tri. c. v.</ref> <quote xml:id="vn58an-fe71231-Qcn2ddd" source="http://scta.info/resource/adt-l6-d1e804@141-179">Spiritus sanctus commune aliquod est patris &amp; filii quicquod illud est, 
+        <lb ed="#Bb" n="4"/>aut ipsa communicatio consubstantialis &amp; aeterna. Quae si amicitia convenienter dici possit dicatur, sed aptius dici 
+        <lb ed="#Bb" n="5"/>potest charitas, &amp; haec quoque substantia: quia deus substantia est, &amp; deus charitas est</quote>. Appropriatio autem 
+        se<lb ed="#Bb" n="6" break="no"/>cundum praedicta sit per conuenientiam siue similitudinem communis ad proprium. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-fe71231-d1e221">
         <lb ed="#Bb" n="7"/>⁋ Dico secundum quod dicunt mediae rationes inductae, quod in diuinis plura communiam vni 
