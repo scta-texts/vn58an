@@ -369,8 +369,8 @@
         <lb ed="#Bb" n="52"/>differentiam secundum rationem inter dicere notionale &amp; generare. 
       </p>
       <p xml:id="vn58an-fe34631-d1e782">
-        ⁋ Ad tertium: quod generare est agere: &amp; di 
-        <lb ed="#Bb" n="53"/>cere est pati: dicendum quod falsum est: quia dicere est agere siue sit essentiale siue personale. Et quod primo 
+        ⁋ Ad tertium: quod generare est agere: &amp; 
+        di<lb ed="#Bb" n="53" break="no"/>cere est pati: dicendum quod falsum est: quia dicere est agere siue sit essentiale siue personale. Et quod primo 
         <lb ed="#Bb" n="54"/>arguitur quod immo: quia dicere idem est quod intelligere secundum Anselmum, quid secundum veritatem pati quoddam est: 
    <!--272.xml-->
         <pb ed="#Bb" n="129-r"/>
@@ -386,15 +386,15 @@
         <lb ed="#Bb" n="10"/>nam essentiam, vel aliquid ipsa diuina essentia, vel in ipsa diuina essentia absque eo quod intellectus 
         di<lb ed="#Bb" n="11" break="no"/>cat aliquid, proprie loquendo de dicere. Pater etiam licet verum sit quod dicat verbo vt formali ratione secundum  
         <lb ed="#Bb" n="12"/>praedicta: non tamen verum est quod verbo vt formali ratione intelligat: sicut non sapit verbo siue sapientia ge 
-        <lb ed="#Bb" n="13"/>nita: secundum quod dicit <name ref="#Augustine">Augustinus</name> vii. de trinitate mouens super hoc quaestionem, &amp; dicens in principio libri. An  
-        <lb ed="#Bb" n="14"/>ita sit sapiens quomodo dicens: Verbo enim quod genuit, dicens est: quo semper atque incommutabiliter 
-        se<lb ed="#Bb" n="15" break="no"/>ipsum dicit: vt &amp; hoc sit verbum esse quod est esse sapientiam, quasi diceret nequaquam. Et ratio huius diuer 
-        <lb ed="#Bb" n="16"/>sitatis est quod intelligere penitus est absolutum, nullum connotans ordinem siue respectum ad 
-        verbum<lb ed="#Bb" n="17" break="no"/>siue ad alia mediante verbo, sicut facit dicere secundum praedicta. Vnde &amp; creare quia connotat ordinem 
+        <lb ed="#Bb" n="13"/>nita: secundum quod dicit <name ref="#Augustine">Augustinus</name> vii. de trinitate mouens super hoc quaestionem, &amp; dicens in principio libri. <quote xml:id="vn58an-fe34631-Qna8111" source="http://scta.info/resource/adt-l7-d1e845@14-25">An  
+        <lb ed="#Bb" n="14"/>ita sit sapiens quomodo dicens: Verbo enim quod genuit, dicens est</quote>: <quote xml:id="vn58an-fe34631-Qna8x77" source="http://scta.info/resource/adt-l7-d1e845@53-59">quo semper atque incommutabiliter se
+        <lb ed="#Bb" n="15"/>ipsum dicit</quote>: <quote xml:id="vn58an-fe34631-Qna1x71" source="http://scta.info/resource/adt-l7-d1e845@114-122">vt &amp; hoc sit verbum esse quod est esse sapientiam</quote>, quasi diceret nequaquam. Et ratio huius diuer 
+        <lb ed="#Bb" n="16"/>sitatis est quod intelligere penitus est absolutum, nullum connotans ordinem siue respectum ad verbum
+        <lb ed="#Bb" n="17"/>siue ad alia mediante verbo, sicut facit dicere secundum praedicta. Vnde &amp; creare quia connotat ordinem 
         <lb ed="#Bb" n="18"/>ad verbum vt ad operatiuam potentiam: bene dicitur quod pater vt operatiua potentia creat verbo: &amp; hoc 
         <lb ed="#Bb" n="19"/>praeter illum modum quo dicitur creare verbo sicut &amp; intelligere. scilicet per verbum &amp; mediante verbo. Pro 
-        <lb ed="#Bb" n="20"/>tanto enim creat &amp; intelligit per verbum, &amp; mediante verbo: quia quod verbum siue ipse filius creat aut in  
-        <lb ed="#Bb" n="21"/>telligit: hoc habet a patre. Et congruit iste modus intelligendi patris, naturae rei: licet sit inusitatus. 
+        <lb ed="#Bb" n="20"/>tanto enim creat &amp; intelligit per verbum, &amp; mediante verbo: quia quod verbum siue ipse filius creat aut 
+        in<lb ed="#Bb" n="21" break="no"/>telligit: hoc habet a patre. Et congruit iste modus intelligendi patris, naturae rei: licet sit inusitatus. 
         <lb ed="#Bb" n="22"/>Vt ratione autem formali pater verbo nec creat nec intelligit: sed solummodo essentia deitatis: &amp; hoc 
         <lb ed="#Bb" n="23"/>ideo, quia quod aliquis agit aliquo vt ratione formali, eo siue ab eo habet quod agit: quod vero agit aliquo vt opea 
         <lb ed="#Bb" n="24"/>tiua potentia vel mediante illo, non eo habet quod agit: sed potius illi dat quod agat, quae multum 
