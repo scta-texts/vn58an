@@ -65,8 +65,8 @@
         <lb ed="#Ba" n="54"/>mittit in errorem nisi in melioris scientiae vsum assumatur: non est addiscenda 
    <!--134.xml-->
         <pb ed="#Ba" n="60-r"/>
-        <lb ed="#Ba" n="1"/>nisi in vsum melioris scientiae: quia se mittere in errorem illicitum est. omnes scientiae aliae sunt hu 
-        <lb ed="#Ba" n="2"/>iusmodi: in errores enim mittunt de se, vt dictum est supra. secundum Ambro. De ordine vero earum 
+        <lb ed="#Ba" n="1"/>nisi in vsum melioris scientiae: quia se mittere in errorem illicitum est. omnes scientiae aliae sunt 
+        hu<lb ed="#Ba" n="2" break="no"/>iusmodi: in errores enim mittunt de se, vt dictum est supra. secundum Ambro. De ordine vero earum 
         <lb ed="#Ba" n="3"/>in vsum meliorem dicit Hierony. super epistolam ad Titum. Alia (inquit) scientia non est scientia 
         <lb ed="#Ba" n="4"/>pietatis. Proficere autem potest ad vitam, dum fuerit in meliores vsus assumpta. qui secundum 
         <lb ed="#Ba" n="5"/>ipsum non est nisi vsus huius scientiae. ergo &amp;c. 
@@ -88,13 +88,13 @@
         <lb ed="#Ba" n="16"/>pacem ciuitatis. De istis bene verum est, quod addisci bene possunt non in vsum huius scientiae: quia 
         <lb ed="#Ba" n="17"/>mediante suo proprio fine vtiliter ordinatur quaelibet earum ad finem communem humanae via 
         <lb ed="#Ba" n="18"/>tae. Aliae vero sunt quae non ordinantur ad aliquem alium finem operatum per ipsas sibi proprium, 
-        <lb ed="#Ba" n="19"/>praeterquam ad ipsum scire quod acquiritur per eas. vt sunt scientiae philosophicae, maxime pure specu 
-        <lb ed="#Ba" n="20"/>latiuae. de quibus dicit <name ref="#Aristotle">Philosophus</name> primo Metaphysicae, quod inuentae sunt non propter aliquam 
+        <lb ed="#Ba" n="19"/>praeterquam ad ipsum scire quod acquiritur per eas. vt sunt scientiae philosophicae, maxime pure 
+        specu<lb ed="#Ba" n="20" break="no"/>latiuae. de quibus dicit <name ref="#Aristotle">Philosophus</name> primo Metaphysicae, quod inuentae sunt non propter aliquam 
         in<lb ed="#Ba" n="21" break="no"/>uentorum vtilitatem, aut necessitatem, sed suiipsius gratia: &amp; eius quodlest scire. Sed quia 
         quan<lb ed="#Ba" n="22" break="no"/>tuncunque sunt suiipsius gratia &amp; eius quod est scire, vanae tamen essent omnes nisi ad aliquid aliud 
         ordi<lb ed="#Ba" n="23" break="no"/>narentur: &amp; per illud ad finem vltimum humanae vitae: quae est visio dei: cum de se illum non 
-        inclu<lb ed="#Ba" n="24" break="no"/>dant: licet <name ref="#Aristotle">Philosophus</name> in speculatione per scientias speculatiuas finem humanae vitae posuit: &amp; ma 
-        <lb ed="#Ba" n="25"/>le: Scire igitur in istis scientiis cum non ordinetur ad aliquid operari per ipsas: necessario 
+        inclu<lb ed="#Ba" n="24" break="no"/>dant: licet <name ref="#Aristotle">Philosophus</name> in speculatione per scientias speculatiuas finem humanae vitae posuit: &amp; 
+        ma<lb ed="#Ba" n="25" break="no"/>le: Scire igitur in istis scientiis cum non ordinetur ad aliquid operari per ipsas: necessario 
         ordina<lb ed="#Ba" n="26" break="no"/>tur ad aliud scire superioris scientiae: &amp; per illam ad finem vltimum vitae humanae: propter quem 
         so<lb ed="#Ba" n="27" break="no"/>lummodo sunt addiscendae. Sunt enim addiscendae, quatenus ex cognitis per ipsas ratio nostra progredi 
         pos<lb ed="#Ba" n="28" break="no"/>sit a visibilibus ad inuisibilia: &amp; a temporalibus ad aeterna. Non enim vt ait <name ref="#Augustine">Augustinus</name> de vera relig. 
@@ -117,15 +117,15 @@
       <p xml:id="vn58an-d1e710-d1e241">
         ⁋ Per haec patent obiecta. Aliae enim scientiae quae fines proprios non habent, re vera non sunt 
         ho<lb ed="#Ba" n="44" break="no"/>mini concessae nisi propter istam: &amp; ideo vanum est eas discere nisi in vsum istius, nec licet, quia vt 
-        <lb ed="#Ba" n="45"/>dicitur in secundo argumento, qui philosophicis diligit insistere propter se: non potest, vel vix po 
-        <lb ed="#Ba" n="46"/>test errores euadere verae fidei contrarios. Scientiae vero quae habent proprios fines: bene sunt 
+        <lb ed="#Ba" n="45"/>dicitur in secundo argumento, qui philosophicis diligit insistere propter se: non potest, vel vix 
+        po<lb ed="#Ba" n="46" break="no"/>test errores euadere verae fidei contrarios. Scientiae vero quae habent proprios fines: bene sunt 
         ho<lb ed="#Ba" n="47" break="no"/>mini concessae aliter quam ad vsum istius: &amp; licet eas addiscere sine periculo erroris. 
       </p>
       <p xml:id="vn58an-d1e710-d1e252">
-        <lb ed="#Ba" n="48"/>⁋ Quia arguitur in oppositum, quod bonum per se eligendum: Dicendum quod per se dici 
-        <lb ed="#Ba" n="49"/>tur aliquid eligendum finaliter, vel formaliter. Per se formaliter omnis scientia &amp; virtus est eligen 
-        <lb ed="#Ba" n="50"/>da: non autem finaliter. de quo est hic sermo. secundum quod de hoc habitum est supra in quaestione An stu 
-        <lb ed="#Ba" n="51"/>dendum est scientiae propter se. Vnde in scientiis liberalibus stare propter delectationem illius 
+        <lb ed="#Ba" n="48"/>⁋ Quia arguitur in oppositum, quod bonum per se eligendum: Dicendum quod per se 
+        dici<lb ed="#Ba" n="49" break="no"/>tur aliquid eligendum finaliter, vel formaliter. Per se formaliter omnis scientia &amp; virtus est 
+        eligen<lb ed="#Ba" n="50" break="no"/>da: non autem finaliter. de quo est hic sermo. secundum quod de hoc habitum est supra in quaestione An 
+        stu<lb ed="#Ba" n="51" break="no"/>dendum est scientiae propter se. Vnde in scientiis liberalibus stare propter delectationem illius 
         sci<lb ed="#Ba" n="52" break="no"/>re quod in eis inuenitur: non ordinando scire acquisitum ex illis ad aliam vtilitatem: &amp; maxime 
         <lb ed="#Ba" n="53"/>in vsum huius scientiae, omnino illicitum est.
       </p>
