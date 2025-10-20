@@ -78,9 +78,9 @@
         fiagra<lb ed="#Ba" n="35" break="no"/>mus studio discendi: necesse est quod studentes scire aliquid habeamus de scientia. 
       </p>
       <p xml:id="vn58an-d1e173-d1e174">
-        ⁋ Quarto sic: in prin 
-        <lb ed="#Ba" n="36"/>cipio Posterio. dicit Philosophus. Omnis doctrina ex praeexistenti sit cognitione. discens non acqui 
-        <lb ed="#Ba" n="37"/>rit discendo nisi disciplinam. ergo acquirit eam ex praeexistenti cognitione. 
+        ⁋ Quarto sic: in 
+        prin<lb ed="#Ba" n="36" break="no"/>cipio Posterio. dicit Philosophus. Omnis doctrina ex praeexistenti sit cognitione. discens non 
+        acqui<lb ed="#Ba" n="37" break="no"/>rit discendo nisi disciplinam. ergo acquirit eam ex praeexistenti cognitione. 
       </p>
       <p xml:id="vn58an-d1e173-d1e181">
         ⁋ Quinto sic. <name ref="#Augustine">Augustinus</name> iii. 
@@ -95,8 +95,8 @@
       </p>
       <p xml:id="vn58an-d1e173-d1e200">
         ⁋ Secundo sic: ibidem, intellectus de se est omnia in potentia: &amp; 
-        ni<lb ed="#Ba" n="43" break="no"/>hil in actu eorum quae intelligit ante intelligere. Addiscit autem antequam intelligit id quid non intelli 
-        <lb ed="#Ba" n="44"/>git. ergo ante addiscere non est actu aliquid eorum quae postea intelligit. Sed non est notitia nisi 
+        ni<lb ed="#Ba" n="43" break="no"/>hil in actu eorum quae intelligit ante intelligere. Addiscit autem antequam intelligit id quid non 
+        intelli<lb ed="#Ba" n="44" break="no"/>git. ergo ante addiscere non est actu aliquid eorum quae postea intelligit. Sed non est notitia nisi 
         <lb ed="#Ba" n="45"/>sciat homo actu id quod nouit. ergo intellectus ante addiscere nihil nouit. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e173-d1e209">
@@ -107,8 +107,8 @@
       </p>
       <p xml:id="vn58an-d1e173-d1e219">
         <lb ed="#Ba" n="49"/>⁋ Dicendum secundum quod distinguit <name ref="#Aristotle">Philosophus</name> in secundo de Anima: quod homo 
-        <lb ed="#Ba" n="50"/>dicitur sciens dupliciter. Sciens in actu: &amp; sciens in potentia. Sciens in actu est habens habitum sci 
-        <lb ed="#Ba" n="51"/>entiae: &amp; considerans secundum ipsum. qui dicitur sciens proprie: &amp; in rei veritate. ad istum non  
+        <lb ed="#Ba" n="50"/>dicitur sciens dupliciter. Sciens in actu: &amp; sciens in potentia. Sciens in actu est habens habitum 
+        sci<lb ed="#Ba" n="51" break="no"/>entiae: &amp; considerans secundum ipsum. qui dicitur sciens proprie: &amp; in rei veritate. ad istum non  
         <lb ed="#Ba" n="52"/>pertinet addiscere: sed docere: quia est perfectus in scientia: vt dictum est in praecedenti quaestione. Sciens autem in  
         <lb ed="#Ba" n="53"/>potentia dicitur duobus modis. Vno modo quia est innatus scire. Alio modo quia habet scientiam in habi 
    <!--54.xml-->
@@ -116,15 +116,15 @@
         <lb ed="#Ba" n="1"/>tu: sed non vtitur ea: neque considerat secundum eam. Primo modo homo ignorans dicitur esse sciens 
         <lb ed="#Ba" n="2"/>in potentia: quia est sicut materia, inquantum est receptibilis scientiae. Secundo modo dicitur 
         ho<lb ed="#Ba" n="3" break="no"/>mo in potentia sciens: quia habet potentiam considerandi cum vult. Sciens autem in potentia isto 
-        <lb ed="#Ba" n="4"/>secundo modo, qui cum vult, vadit ad actum considerandi, non dicitur addiscens: neque acquirens scien 
-        <lb ed="#Ba" n="5"/>tiam. Sed est alius modus acquirendi scientiam: vt dicit <name ref="#Aristotle">Philosophus</name> in secundo de Anima: qui di 
+        <lb ed="#Ba" n="4"/>secundo modo, qui cum vult, vadit ad actum considerandi, non dicitur addiscens: neque acquirens 
+        scien<lb ed="#Ba" n="5" break="no"/>tiam. Sed est alius modus acquirendi scientiam: vt dicit <name ref="#Aristotle">Philosophus</name> in secundo de Anima: qui di 
         <lb ed="#Ba" n="6"/>citur rememoratio: secundum quem modum Plato posuit addiscere: &amp; non alio modo. Sciens autem in potem 
         <lb ed="#Ba" n="7"/>tia primo modo addiscens est: &amp; accipiens scientiam ab alio: vt a Didascalo: &amp; est in potentia sciens 
         <lb ed="#Ba" n="8"/>isto modo proprie sciens in potentia: quia est sciens in potentia, actum. scilicet contraria: quoniam vt vult 
         Philo<lb ed="#Ba" n="9" break="no"/>sophus, iste quando vadit ad scientiam ex potentia alteratur in actum per doctrinam ex contraria 
         <lb ed="#Ba" n="10"/>dispositione, quae est ignorantia. Sciendum etiam quod potentia huiusmodi duplex est: quaedam pura omnino  
-        <lb ed="#Ba" n="11"/>actu scientiae impermixta. Quaedam autem permixta scientiae imperfecte. secundum quod duplex est igno 
-        <lb ed="#Ba" n="12"/>rantia: quae est cum hac potentia, ex qua transmutatur in actum contrariae dispositionis. Est 
+        <lb ed="#Ba" n="11"/>actu scientiae impermixta. Quaedam autem permixta scientiae imperfecte. secundum quod duplex est 
+        igno<lb ed="#Ba" n="12" break="no"/>rantia: quae est cum hac potentia, ex qua transmutatur in actum contrariae dispositionis. Est 
         <lb ed="#Ba" n="13"/>enim vt dicit <name ref="#Aristotle">Philosophus</name> in lib. Posterio. quaedam ignorantia negationis, quae omnem actum scientiae 
         <lb ed="#Ba" n="14"/>priuat, &amp; perfectum &amp; imperfectum. Est &amp; alia ignorantia dispositionis: quae actum scientiae perfectae 
         <lb ed="#Ba" n="15"/>priuat: aliquem tamen actum scientiae imperfectum ponit: quia post ignorantiam negationis multum homo mutatur 
@@ -135,41 +135,41 @@
       </p>
       <p xml:id="vn58an-d1e173-d1e287">
         ⁋ Cum igitur istis duobus modis itur ad scientiam ex contraria 
-        dispositio<lb ed="#Ba" n="20" break="no"/>ne duplici, si appellemus addiscere coiter omnem motum ab ignorantia in scientiam: siue sit ab igno 
-        <lb ed="#Ba" n="21"/>rantia negationis, siue ab ignorantia dispositionis: Dicendum quod necesse est ponere hominem addiscen 
-        <lb ed="#Ba" n="22"/>tem posse acquirere scientiam nihil praesciendo. Cum enim homo est in pura potentia: &amp; 
+        dispositio<lb ed="#Ba" n="20" break="no"/>ne duplici, si appellemus addiscere coiter omnem motum ab ignorantia in scientiam: siue sit ab 
+        igno<lb ed="#Ba" n="21" break="no"/>rantia negationis, siue ab ignorantia dispositionis: Dicendum quod necesse est ponere hominem 
+        addiscen<lb ed="#Ba" n="22" break="no"/>tem posse acquirere scientiam nihil praesciendo. Cum enim homo est in pura potentia: &amp; 
         ignoran<lb ed="#Ba" n="23" break="no"/>tia negationis: omnino nihil nouit. Sicut oculus qui semper fuit in tenebris, nihil vnquam vidit. Sed hoc 
         <lb ed="#Ba" n="24"/>modo non sumitur addiscere proprie. Addiscens enim proprie dicitur qui per ductum alicuius exterius 
-        <lb ed="#Ba" n="25"/>ad actum scientiae vadit via disciplinae: vel per ductum naturalis rationis interius. Quia igitur quid ni 
-        <lb ed="#Ba" n="26"/>hil nouit: nihil ab alio percipit: quia signa quae doctor proponit, omnino ignorat: nec etiam per se 
-        <lb ed="#Ba" n="27"/>ipsum ad aliquid tendit: &amp; non est proprie discens nisi talis: igitur procedens ab ignorantia nega 
-        <lb ed="#Ba" n="28"/>tionis ad scientiam ille nihil nouit. Sed talis non proprie, immo improprie dicitur addiscens. Discens 
+        <lb ed="#Ba" n="25"/>ad actum scientiae vadit via disciplinae: vel per ductum naturalis rationis interius. Quia igitur quid 
+        ni<lb ed="#Ba" n="26" break="no"/>hil nouit: nihil ab alio percipit: quia signa quae doctor proponit, omnino ignorat: nec etiam per se 
+        <lb ed="#Ba" n="27"/>ipsum ad aliquid tendit: &amp; non est proprie discens nisi talis: igitur procedens ab ignorantia 
+        nega<lb ed="#Ba" n="28" break="no"/>tionis ad scientiam ille nihil nouit. Sed talis non proprie, immo improprie dicitur addiscens. Discens 
         <lb ed="#Ba" n="29"/>enim proprie necesse est quod ipse ea quae proponit doctor apprehendat: &amp; per intellectum ad aliquid  
-        <lb ed="#Ba" n="30"/>quod prius non nouit, apprehendendum tendat. Dicendum igitur quod addiscere proprie sumptum: opor 
-        <lb ed="#Ba" n="31"/>tet quod sit motus, non ab ignorantia negationis ad scientiam: sed ab ignorantia dispositionis. Talis au 
-        <lb ed="#Ba" n="32"/>tem ignorantia ponit aliquid scientiae: &amp; ideo oportet omnem proprie addiscentem scire aliquid. 
-        Pro<lb ed="#Ba" n="33" break="no"/>pter quod <name ref="#Aristotle">Philosophus</name> attendens motum discipuli in scientiam per doctorem, dicit in principio Po 
-        <lb ed="#Ba" n="34"/>sterio. Omnis doctrina &amp; omnis disciplina intellectiua sit ex praeexistenti cognitione. &amp; dicitur mo 
-        <lb ed="#Ba" n="35"/>tus ille, vt est in discipulo disciplina: vt procedit a magistro, dicitur doctrina. Et quia iste motus ad  
+        <lb ed="#Ba" n="30"/>quod prius non nouit, apprehendendum tendat. Dicendum igitur quod addiscere proprie sumptum: 
+        opor<lb ed="#Ba" n="31" break="no"/>tet quod sit motus, non ab ignorantia negationis ad scientiam: sed ab ignorantia dispositionis. Talis 
+        au<lb ed="#Ba" n="32" break="no"/>tem ignorantia ponit aliquid scientiae: &amp; ideo oportet omnem proprie addiscentem scire aliquid. 
+        Pro<lb ed="#Ba" n="33" break="no"/>pter quod <name ref="#Aristotle">Philosophus</name> attendens motum discipuli in scientiam per doctorem, dicit in principio 
+        Po<lb ed="#Ba" n="34" break="no"/>sterio. Omnis doctrina &amp; omnis disciplina intellectiua sit ex praeexistenti cognitione. &amp; dicitur 
+        mo<lb ed="#Ba" n="35" break="no"/>tus ille, vt est in discipulo disciplina: vt procedit a magistro, dicitur doctrina. Et quia iste motus ad  
         <lb ed="#Ba" n="36"/>scientiam est via inuestigationis: &amp; omnis inuestigatio ortum sumit a primis principiis scientiarum: 
         <lb ed="#Ba" n="37"/>idcirco oportet discentem praescire prima scientiarum principia: secundum quod dicit <name ref="#Aristotle">Philosophus</name> in  
         <lb ed="#Ba" n="38"/>iiii. Metaphy. Oportet addiscentem aliquid primum scire ista, &amp; non quaerere ea cum quaeretur ab eo de 
         <lb ed="#Ba" n="39"/>eis. Et ideo horum principiorum notitiam comparauit secundo Metaphysicae loco ianuae in domo 
         <lb ed="#Ba" n="40"/>quem nullus ignorat, qui ad intrandum domum tendit: quia per illam ingreditur homo ad 
-        cogno<lb ed="#Ba" n="41" break="no"/>scendum secretiora domus quae ignorat. vbi dicit Comment. In quolibet genere sunt alia respectu alio 
-        <lb ed="#Ba" n="42"/>rum: quasi ianua respectu domus: &amp; haec non latent aliquem. Et haec sunt prima cognita habita naturaliter 
+        cogno<lb ed="#Ba" n="41" break="no"/>scendum secretiora domus quae ignorat. vbi dicit Comment. In quolibet genere sunt alia respectu 
+        alio<lb ed="#Ba" n="42" break="no"/>rum: quasi ianua respectu domus: &amp; haec non latent aliquem. Et haec sunt prima cognita habita naturaliter 
         <lb ed="#Ba" n="43"/>in quolibet genere entium: &amp; quomodo habita naturaliter, patebit in sequenti quaestione. Quae autem 
         <lb ed="#Ba" n="44"/>discipulus circa principia debeat praecognoscere, nec quaerere ea cum addiscit: <name ref="#Aristotle">Philosophus</name> determinat 
         <lb ed="#Ba" n="45"/>primo Poster. De dignitate enim debet supponere quia est tid i. certam inhaerentiam praedicati ad 
         subie<lb ed="#Ba" n="46" break="no"/>ctum. &amp; sumit ibi dignitatem pro quolibet principio complexo: quod non est conclusio in scientia. 
-        <lb ed="#Ba" n="47"/>De conclusione autem cuius scientiam quaerit, debet habere duplicem notitiam. Vnam quo ad par 
-        <lb ed="#Ba" n="48"/>tes, quae sunt incomplexa. scilicet subiectum &amp; passio. Alteram quo ad inhaerentiam passionis in subiecto, 
+        <lb ed="#Ba" n="47"/>De conclusione autem cuius scientiam quaerit, debet habere duplicem notitiam. Vnam quo ad 
+        par<lb ed="#Ba" n="48" break="no"/>tes, quae sunt incomplexa. scilicet subiectum &amp; passio. Alteram quo ad inhaerentiam passionis in subiecto, 
         <lb ed="#Ba" n="49"/>De subiecto autem oportet praecognoscere quid est: non definitiue: quia hoc bene est quaesitum in  
         <lb ed="#Ba" n="50"/>scientia: vt patebit in sequenti quaestione: Sed quid est quod dicitur per nomen: &amp; similiter si est, non 
         <lb ed="#Ba" n="51"/>in existentia actuali exterius: sed si sit res &amp; natura aliqua alicuius praedicamenti: vt infra patebit. 
         <lb ed="#Ba" n="52"/>De passione autem oportet praecognoscere quid est quod dicitur per nomen tantum: non si est: quia hoc est quod quaeritur 
-        <lb ed="#Ba" n="53"/>scire de ea. Eius esse enim est subiecto inesse: cumnsit accidens: quod verum est cognitione certa &amp; determi 
-        <lb ed="#Ba" n="54"/>nata. Si tamen aliquis ex principiis determinate quaerit scire aliquam conclusionem: vt vtrum angulus ad cir 
+        <lb ed="#Ba" n="53"/>scire de ea. Eius esse enim est subiecto inesse: cumnsit accidens: quod verum est cognitione certa &amp; 
+        determi<lb ed="#Ba" n="54" break="no"/>nata. Si tamen aliquis ex principiis determinate quaerit scire aliquam conclusionem: vt vtrum angulus ad cir 
         <lb ed="#Ba" n="55"/>cunferentiam trianguli descripti in semicirculo sit rectus: necesse est vt prius aliquam eius notitiam habeat: vel 
    <!--55.xml-->
         <pb ed="#Ba" n="20-v"/>
@@ -189,27 +189,27 @@
       </p>
       <p xml:id="vn58an-d1e173-d1e410">
         <lb ed="#Ba" n="14"/>⁋ Per haec patent omnia inducta ad primam partem: quia ad ostendendum quod 
-        ad<lb ed="#Ba" n="15" break="no"/>discens proprie dictus debet habere aliquid de notitia: quod est verum: quia debet habere notitiam princi 
-        <lb ed="#Ba" n="16"/>piorum, &amp; aliam conclusionis: cuius quaerit notitiam, quam perfecte habebit in posterum: quia sine notitia ali 
+        ad<lb ed="#Ba" n="15" break="no"/>discens proprie dictus debet habere aliquid de notitia: quod est verum: quia debet habere notitiam 
+        princi<lb ed="#Ba" n="16" break="no"/>piorum, &amp; aliam conclusionis: cuius quaerit notitiam, quam perfecte habebit in posterum: quia sine notitia ali 
         <lb ed="#Ba" n="17"/>qua illius quod quaerit scire, non desideraret addiscere: &amp; ideo nec moueret se ad addiscendum, sine notitia 
         <lb ed="#Ba" n="18"/>vero principiorum non posset in addiscendo procedere: quia ex illius rationis industria debet eius quod  
         <lb ed="#Ba" n="19"/>quaerit persectam notitiam elicere. 
       </p>
       <p xml:id="vn58an-d1e173-d1e426">
-        ⁋ Argumenta duo prima in oppositum procedunt, non de acqui 
-        <lb ed="#Ba" n="20"/>sitione scientiae proprie dictae, quae sit in addiscente via inuestigationis suppositis principiis, &amp; est 
+        ⁋ Argumenta duo prima in oppositum procedunt, non de 
+        acqui<lb ed="#Ba" n="20" break="no"/>sitione scientiae proprie dictae, quae sit in addiscente via inuestigationis suppositis principiis, &amp; est 
         <lb ed="#Ba" n="21"/>scientia conclusionis: sed de illa scientiae acquisitione qua acquiritur notitia principiorum. De illa 
-        <lb ed="#Ba" n="22"/>enim verum est, quod non habetur ex praeexistenti cognitione notitia: quomodo autem habetur expo 
-        <lb ed="#Ba" n="23"/>nit sequens quaestio. 
+        <lb ed="#Ba" n="22"/>enim verum est, quod non habetur ex praeexistenti cognitione notitia: quomodo autem habetur 
+        expo<lb ed="#Ba" n="23" break="no"/>nit sequens quaestio. 
       </p>
       <p xml:id="vn58an-d1e173-d1e437">
         ⁋ Vltimum argumentum videtur probare quod perfecta notitia intellectus pos 
-        <lb ed="#Ba" n="24"/>sit haberi addiscendo: &amp; nihil praesciendo: quia notitia sensus statimhabetur nihil praesciendo. Dicen 
-        <lb ed="#Ba" n="25"/>dum igitur ad illud secundum <name ref="#Aristotle">Philosophum</name> secundo de Anima. quod sensus comparatur ad 
+        <lb ed="#Ba" n="24"/>sit haberi addiscendo: &amp; nihil praesciendo: quia notitia sensus statimhabetur nihil praesciendo. 
+        Dicen<lb ed="#Ba" n="25" break="no"/>dum igitur ad illud secundum <name ref="#Aristotle">Philosophum</name> secundo de Anima. quod sensus comparatur ad 
         intel<lb ed="#Ba" n="26" break="no"/>lectum qui habet habitum in actu: sed non actu considerat: quia sicut sensus potest exire statim in  
         <lb ed="#Ba" n="27"/>actum sentiendi per sensibilia quae sunt extra: sic intellectus habens habitum scientiae: statim potest 
-        <lb ed="#Ba" n="28"/>procedere in actum considerationis per intelligibilia quae sunt intra: &amp; non differt nisi quod sensus ha 
-        <lb ed="#Ba" n="29"/>bet mouentia particularia extra se. Anima autem habet sua intellecta vniuersalia intra se: propter quod vt 
+        <lb ed="#Ba" n="28"/>procedere in actum considerationis per intelligibilia quae sunt intra: &amp; non differt nisi quod sensus 
+        ha<lb ed="#Ba" n="29" break="no"/>bet mouentia particularia extra se. Anima autem habet sua intellecta vniuersalia intra se: propter quod vt 
         <lb ed="#Ba" n="30"/>dicit: intelligimus cum volumus: non autem sentimus. Si autem comparetur intellectus ante habitum: 
         <lb ed="#Ba" n="31"/>ad sensum non valet comparatio, nisi quo ad simplicem apprehensionem, &amp; conceptum rei per suam speciem. 
         <lb ed="#Ba" n="32"/>Hoc enim intellectui aduenit naturaliter prima cognitio simplicis apprehensionis, sicut &amp; sensui: vt 
