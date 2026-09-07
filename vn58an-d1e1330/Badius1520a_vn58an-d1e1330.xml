@@ -55,7 +55,7 @@
       <head xml:id="vn58an-d1e1330-Hd1e107" type="question-title">Utrum ubique in ea sit multiplex expositio investiganda</head>
       <p xml:id="vn58an-d1e1330-d1e110">
         <lb ed="#Ba" n="15"/>CIrca quartum arguitur quod haec scientia vbique debeat pluribus modis exponi. 
-        Pri<lb ed="#Ba" n="16" break="no"/>mo sic. <name ref="#Augustine">Augustinus</name> dicit in libro de catechizandis rudibus. Quicquid narras ita narra 
+        Pri<lb ed="#Ba" n="16" break="no"/>mo sic. <name xml:id="vn58an-d1e1330-Nd1e109" ref="#Augustine">Augustinus</name> dicit in libro de catechizandis rudibus. Quicquid narras ita narra 
         <lb ed="#Ba" n="17"/>vt ille cui loqueris audiendo credat, credendo speret, sperando amet. Sed ista 
         <lb ed="#Ba" n="18"/>tria vt dictum est, pertinent ad tres modos exponendi huius scientiae praeter modum 
         <lb ed="#Ba" n="19"/>lhistoricum: vt dictum est supra. ergo in omni eo quod narramus secundum hanc 
@@ -66,12 +66,12 @@
        <quote xml:id="vn58an-d1e1330-Qd1e136" source="http://scta.info/resource/IItim3_16">Omnis scientia diuinitus inspirata vtilis est 
         <lb ed="#Ba" n="22"/>ad docendum, ad arguendum, ad corrigendum, ad erudiendum</quote>. In quibus vt dictum est, omnes modi 
         <lb ed="#Ba" n="23"/>exponendi hanc scientiam exprimuntur. sed sacra scriptura vbique est diuinitus inspirata. ii. Pet. ii.
-        <lb ed="#Ba" n="24"/><quote source="http://scta.info/resource/IIpetr1_21@10-17">Spiritu sancto inspirati locuti sunt sancti dei homines</quote>. Glos. Non erat in potestate eorum: vt quaecumque  
+        <lb ed="#Ba" n="24"/><quote xml:id="vn58an-d1e1330-Qd1e137" source="http://scta.info/resource/IIpetr1_21@10-17">Spiritu sancto inspirati locuti sunt sancti dei homines</quote>. Glos. Non erat in potestate eorum: vt quaecumque  
         <lb ed="#Ba" n="25"/>vellent, docerent: sed ea sola docebant quae a spiritu didicerant. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e1330-d1e150">
         ⁋ In oppositum arguitur. 
-        Pri<lb ed="#Ba" n="26" break="no"/>mo sic. <name ref="#Augustine">Augustinus</name> ii. super Gen. contra Manichaeos. Quisquis voluerit omnia quae dicta sunt secundum literam 
+        Pri<lb ed="#Ba" n="26" break="no"/>mo sic. <name xml:id="vn58an-d1e1330-Nd1e149" ref="#Augustine">Augustinus</name> ii. super Gen. contra Manichaeos. Quisquis voluerit omnia quae dicta sunt secundum literam 
         acci<lb ed="#Ba" n="27" break="no"/>pere, &amp; non aliter intelligere quam litera sonat, &amp; potuerit euitare blasphemias, &amp; omnia 
         congruen<lb ed="#Ba" n="28" break="no"/>tia fidei catholicae praedicare: non solum ei non est inuidendum: sed praecipuus multumque laudabilis 
         intel<lb ed="#Ba" n="29" break="no"/>lector habendus est. sed constat quod plurima sunt in scriptura sacra quae sic ad literam exponi possunt, 
@@ -79,7 +79,7 @@
       </p>
       <p xml:id="vn58an-d1e1330-d1e167">
         ⁋ Secundo sic. 
-        <lb ed="#Ba" n="31"/>dicit <name ref="#Augustine">Augustinus</name> in ser. de assumptione virginis, quod sacra scriptura quandoque non habet quaerendum in ea aliud quam  
+        <lb ed="#Ba" n="31"/>dicit <name xml:id="vn58an-d1e1330-Nd1e166" ref="#Augustine">Augustinus</name> in ser. de assumptione virginis, quod sacra scriptura quandoque non habet quaerendum in ea aliud quam  
         <lb ed="#Ba" n="32"/>quid sonat: quandoque habet pariter literam &amp; mysterium: quandoque mysterium tantum. sed cum non habet 
         quaeren<lb ed="#Ba" n="33" break="no"/>dum aliud quam sonat: non habet nisi literalem sensum tantum. ergo &amp;c. 
       </p>
@@ -87,7 +87,7 @@
         <lb ed="#Ba" n="34"/>⁋ Dicendum ad hoc, quod cum secundum apostolum lex spiritualis sit: &amp; bene spirituali 
         in<lb ed="#Ba" n="35" break="no"/>digeat interpretatione: vbicumque historia describitur, non solum sensus literalis: sed etiam spiritualis 
         in<lb ed="#Ba" n="36" break="no"/>dagandus est, quia vt idem dicit apsus, Spiritus est qui viuificat, caro autem non prodest quicquam. i 
-        <lb ed="#Ba" n="37"/>carnalis &amp; literalis expositio: nisi adsit &amp; spiritualis. Propter quod dicit <name ref="#Augustine">Augustinus</name> ii. de doctrina 
+        <lb ed="#Ba" n="37"/>carnalis &amp; literalis expositio: nisi adsit &amp; spiritualis. Propter quod dicit <name xml:id="vn58an-d1e1330-Nd1e184" ref="#Augustine">Augustinus</name> ii. de doctrina 
         chri<lb ed="#Ba" n="38" break="no"/>stiana. In his quae aperte in scripturis posita sunt, inueniuntur illa omnia quae continent fidem, 
         mo<lb ed="#Ba" n="39" break="no"/>resque viuendi, spem scilicet &amp; charitatem. Et Orig. in Homi. de immolatione lsaac. Obserua singula quaeque  
         <lb ed="#Ba" n="40"/>quae scripta sunt. In singulis enim siquis sciuerit in altum fodere, inueniet thesaurum: &amp; fortassis vbi non 
@@ -122,12 +122,12 @@
         satu<lb ed="#Ba" n="11" break="no"/>ritatem. Quam rationem satis euidenter aspicimus in hoc vberrimorum spiritualium scripturarum 
         pa<lb ed="#Ba" n="12" break="no"/>radiso contineri, in quo ita quaedam significatione literae plana ac luculenta resplendent: vt cum 
         <lb ed="#Ba" n="13"/>sublimiore interpretatione non egeant, simplici tantum sono literae abundent, pascant, ac nutriant 
-        <lb ed="#Ba" n="14"/>audientes: vt est illud. Audi Israel, domins deus tuus deus vnus est, &amp; <quote source="http://scta.info/resource/mt22_37@4-21">Diliges dominum deum tuum ex
+        <lb ed="#Ba" n="14"/>audientes: vt est illud. Audi Israel, domins deus tuus deus vnus est, &amp; <quote xml:id="vn58an-d1e1330-Qd1e263" source="http://scta.info/resource/mt22_37@4-21">Diliges dominum deum tuum ex
         <lb ed="#Ba" n="15"/>toto corde tuo, &amp; ex tota anima tua, &amp; ex tota mente tua</quote>. Quaedam autem si allegorica
         explana<lb ed="#Ba" n="16" break="no"/>tione attenuata non fuerint, &amp; spiritualis ignis examinatione mollita, nullo modo ad salutem 
         in<lb ed="#Ba" n="17" break="no"/>terioris hominis sine corruptionis labe peruenerit. Magisque ex eorum perceptione laesio quam 
-        vtili<lb ed="#Ba" n="18" break="no"/>tas aliqua subsequitur: vt est illud. <quote source="http://scta.info/resource/lc12_35@1-7">Sint lumbi vestri praecincti, &amp; lucernae ardentes</quote> in manibus
-        ve<lb ed="#Ba" n="19" break="no"/>stris. &amp; <quote source="http://scta.info/resource/lc22_36@14-22">Qui non habet gladium, vendat tunicam suam &amp; emat gladium</quote>. &amp; <quote source="http://scta.info/resource/mt10_38@1-13">Qui non accipit crucem suam
+        vtili<lb ed="#Ba" n="18" break="no"/>tas aliqua subsequitur: vt est illud. <quote xml:id="vn58an-d1e1330-Qd1e275" source="http://scta.info/resource/lc12_35@1-7">Sint lumbi vestri praecincti, &amp; lucernae ardentes</quote> in manibus
+        ve<lb ed="#Ba" n="19" break="no"/>stris. &amp; <quote xml:id="vn58an-d1e1330-Qd1e280" source="http://scta.info/resource/lc22_36@14-22">Qui non habet gladium, vendat tunicam suam &amp; emat gladium</quote>. &amp; <quote xml:id="vn58an-d1e1330-Qd1e284" source="http://scta.info/resource/mt10_38@1-13">Qui non accipit crucem suam
         <lb ed="#Ba" n="20"/>&amp; sequitur me, non est me dignus</quote>. Quod quidam indiscretissimi monachorum habentes quidem Se 
         <lb ed="#Ba" n="21"/>lum dei: sed non secundum scientiam, simpliciter intelligentes fecerunt sibi cruces ligneas: easque 
         iu<lb ed="#Ba" n="22" break="no"/>giter humeris circunferentes non aedificationem: sed risum cunctis videntibus intulerunt. 

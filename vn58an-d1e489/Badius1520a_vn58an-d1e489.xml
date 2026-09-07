@@ -74,11 +74,11 @@
       </p>
       <p xml:id="vn58an-d1e489-d1e142">
         ⁋ Dicendum ad hoc secundum <ref xml:id="vn58an-d1e489-Rd1e144">
-        <name>Augus.</name> 
+        <name xml:id="vn58an-d1e489-Nd1e139">Augus.</name> 
         <lb ed="#Ba" n="22"/>in principio de doctrina christiana</ref> quod error erat aliquorum: quod praecepta de modo studendi &amp; inuestigandi 
         obscu<lb ed="#Ba" n="23" break="no"/>ra sacrae scripturae non erant necessaria: sed quod intellectus eorum diuino munere esset expectandus: &amp; 
         <lb ed="#Ba" n="24"/>ita negabant quod esset homini studendum ad sciendum scibilia supra scientias philosophicas. Contra 
-        <lb ed="#Ba" n="25"/>quos dicit <name ref="#Augustine">Augustinus</name> loquens suis. <quote xml:id="vn58an-d1e489-Qd1e162" source="http://scta.info/resource/addc-prol-d1e122">Fratres (inquit) moneamus omnes ne paruulos suos ita doceant</quote>. 
+        <lb ed="#Ba" n="25"/>quos dicit <name xml:id="vn58an-d1e489-Nd1e150" ref="#Augustine">Augustinus</name> loquens suis. <quote xml:id="vn58an-d1e489-Qd1e162" source="http://scta.info/resource/addc-prol-d1e122">Fratres (inquit) moneamus omnes ne paruulos suos ita doceant</quote>. 
         Im<lb ed="#Ba" n="26" break="no"/>mo quod per hominem discendum est: sine superbia discant: neque tentemus eum cui credimus: ne talibus 
         <lb ed="#Ba" n="27"/>inimici versutiis decepti ad ipsum quoque audiendum euangelium atque discendum nolimus ire in 
         ec<lb ed="#Ba" n="28" break="no"/>clesias, aut codicem legere. scilicet. studendo per nos, aut doctorem praedicantemque hominem audire: &amp; 
@@ -98,7 +98,7 @@
         con<lb ed="#Ba" n="42" break="no"/>cedatur. Tertius modus est ille quo supernaturalia &amp; diuina hic cognoscuntur per fidem: quorum 
         no<lb ed="#Ba" n="43" break="no"/>titia est supnaturalis: quia per lumen infusum: modo tamen naturali: quia in aenigmate rerum 
         sensibi<lb ed="#Ba" n="44" break="no"/>lium. Non enim in istis complexa &amp; articulos fidei credimus per lumen fidei: nisi prius terminos &amp; 
-        <lb ed="#Ba" n="45"/>incomplexa lumine rationis naturalis adminiculo sensus intelligamus. secundum quod dicit <name ref="#Augustine">Augustinus</name> 8 de trinitate 
+        <lb ed="#Ba" n="45"/>incomplexa lumine rationis naturalis adminiculo sensus intelligamus. secundum quod dicit <name xml:id="vn58an-d1e489-Nd1e200" ref="#Augustine">Augustinus</name> 8 de trinitate 
         <lb ed="#Ba" n="46"/>Credimus dominum lesum Christum natum de virgine: quae Maria vocabatur: quid sit virgo, quid sit 
         <lb ed="#Ba" n="47"/>nasci, &amp; quid sit nomen proprium non credimus: sed prorsus nouimus. &amp; super illud, Da mihi intellectum. Glos. 
         <lb ed="#Ba" n="48"/>Nemo potest credere in deum nisi aliqua intelligat: tamen fide sanatur: vt ampliora intelligat. Circa 
@@ -121,7 +121,7 @@
       </p>
       <p xml:id="vn58an-d1e489-d1e253">
         ⁋ Secundo autem studendum est eis quae sunt fidei: vt credita 
-        <lb ed="#Ba" n="8"/>fiant intellecta. Secundum enim quod dicit <name ref="#Augustine">Augustinus</name> super Ioan. in princi. Sacra lectio ad hoc legitur &amp; 
+        <lb ed="#Ba" n="8"/>fiant intellecta. Secundum enim quod dicit <name xml:id="vn58an-d1e489-Nd1e249" ref="#Augustine">Augustinus</name> super Ioan. in princi. Sacra lectio ad hoc legitur &amp; 
         <lb ed="#Ba" n="9"/>auditur, vt exponatur &amp; intelligatur. hinc dicit in fine de Academi. lta sum affectus: vt quid sit 
         ve<lb ed="#Ba" n="10" break="no"/>rum non credendo solum, sed intelligendo apprehendere impatienter expecto. Non enim cum auditur &amp; 
         <lb ed="#Ba" n="11"/>creditur, statim intelligitur: quia vt dicit Chrysosto. super illud Matth. i. Inuenta est in vtero habens:  
@@ -183,12 +183,12 @@
         cognoscen<lb ed="#Ba" n="10" break="no"/>dum posteriora ex prioribus: &amp; ad intelligendum veritatem rerum naturalium solo lumine 
         ratio<lb ed="#Ba" n="11" break="no"/>nis naturalis adiuti: sic fideles debent studere ad cognoscendum posteriora credibilia ex prioribus 
         <lb ed="#Ba" n="12"/>&amp; ad haec &amp; ad illa intelligenda adiuti illustratione spiritus sancti. Vnde super illud Sapientiae. ix.
-        <lb ed="#Ba" n="13"/><quote source="http://scta.info/resource/sap9_16@1-22">Difficile aestimamus quae in terra sunt: &amp; inuenimus cum labore: quae in caelis autem sunt quis
+        <lb ed="#Ba" n="13"/><quote xml:id="vn58an-d1e489-Qd1e385" source="http://scta.info/resource/sap9_16@1-22">Difficile aestimamus quae in terra sunt: &amp; inuenimus cum labore: quae in caelis autem sunt quis
         <lb ed="#Ba" n="14"/>inuestigabit</quote>: dicit Glos. Ne desperemus, praemissis subiungit consolationem spiritus sancti. vnde se 
         <lb ed="#Ba" n="15"/>quitur. Spiritum autem tuum quis sciet nisi tu dederis sapientiam: &amp; miseris spiritum sanctum 
         <lb ed="#Ba" n="16"/>tuum de altissimis: Et debet esse primum studium fidelis, vt cognoscat quid credendum: deinde 
         <lb ed="#Ba" n="17"/>quomodo intelligat credita: quoniam vt dicitur Esaiae. vii. Nisi credideritis non intelligetis. 
-        Vn<lb ed="#Ba" n="18" break="no"/>de de sapientia legis diuinae dicitur Ecclesiastici. vii. <quote source="http://scta.info/resource/sir6_27@1-15">In omni animo tuo accede ad illam: &amp; in omni
+        Vn<lb ed="#Ba" n="18" break="no"/>de de sapientia legis diuinae dicitur Ecclesiastici. vii. <quote xml:id="vn58an-d1e489-Qd1e399" source="http://scta.info/resource/sir6_27@1-15">In omni animo tuo accede ad illam: &amp; in omni
         <lb ed="#Ba" n="19"/>veritate tua conserua vias eius</quote>. Inuestiga illam, &amp; manifestabitur tibi. Et debet esse ista
         inuestiga<lb ed="#Ba" n="20" break="no"/>tio non solum studio exercendo intellectum: sed etiam bonis operibus mundando affectum. 
         Vn<lb ed="#Ba" n="21" break="no"/>de super verbum illud praecedens. Quibus autem cognita est. dicit Glossa. Qui eam recta fide &amp; 
@@ -206,11 +206,11 @@
         <lb ed="#Ba" n="30"/>gratia creatoris inflammat.</quote> 
       </p>
       <p xml:id="vn58an-d1e489-d1e435">
-        ⁋ Ad secundum. Nolite cogitare &amp;c. Dicendum secundum <ref xml:id="vn58an-d1e489-Rd1e437"><name ref="#Augustine">Augustinus</name> ii. de 
+        ⁋ Ad secundum. Nolite cogitare &amp;c. Dicendum secundum <ref xml:id="vn58an-d1e489-Rd1e437"><name xml:id="vn58an-d1e489-Nd1e441" ref="#Augustine">Augustinus</name> ii. de 
         do<lb ed="#Ba" n="31" break="no"/>ctrina christiana</ref> distinguendo quod est hora deliberationis ad loquendum: &amp; est hora opportunitatis. 
         <lb ed="#Ba" n="32"/>&amp; pro hora opportunitatis in qua non conceditur deliberatio, intelligitur illud dictum euangelii. In hora 
         <lb ed="#Ba" n="33"/>autem deliberationis fortiter studendum est, vt homo faciat quod in se est: vt hora opportuna quantum 
-        <lb ed="#Ba" n="34"/>poterit paratum se inueniat. secundum quod dicit <ref xml:id="vn58an-d1e489-Rd1e451"><name ref="#Augustine">Augustinus</name> iiii. de doctrina christia.</ref> <quote xml:id="vn58an-d1e489-Qd1e458" source="http://scta.info/resource/addc-l4-d1e359">Discat omnia quae doncen 
+        <lb ed="#Ba" n="34"/>poterit paratum se inueniat. secundum quod dicit <ref xml:id="vn58an-d1e489-Rd1e451"><name xml:id="vn58an-d1e489-Nd1e454" ref="#Augustine">Augustinus</name> iiii. de doctrina christia.</ref> <quote xml:id="vn58an-d1e489-Qd1e458" source="http://scta.info/resource/addc-l4-d1e359">Discat omnia quae doncen 
         <lb ed="#Ba" n="35"/>cla sunt: quae &amp; nosse vult &amp; docere. Facultatem discendi vt decet virum ecclesiasticum comparet 
         <lb ed="#Ba" n="36"/>ad horam vero ipsius dictionis illud cogitet bonae menti convenire, quod dominus ait. Nolite cogitare</quote> 
         <lb ed="#Ba" n="37"/>&amp;c. Quisquis autem dicit non esse hominibus praecipiendum quemadmodum doceant, si spiritus 

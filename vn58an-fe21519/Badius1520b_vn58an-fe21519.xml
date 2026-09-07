@@ -77,7 +77,7 @@
         <lb ed="#Bb" n="4"/>est deus aut non est deus. sed neutrum est ponere, ergo &amp;c. Non quod non sit deus: cum productio di 
         <lb ed="#Bb" n="5"/>uina nihil producit nisi in ipsa diuina substantia. In diuina autem substantia nihil potest produci, nisi qui deus 
         <lb ed="#Bb" n="6"/>est. Non quod est deus: quia tunc deus produceret deum, ergo aut se deum, aut alium a se deum. Non 
-        <lb ed="#Bb" n="7"/>se deum, quia nulla res seipsam producit. dicente <name ref="#Augustine">Augustino</name> id eist de Trinita. cap. i. Nulla res est quae 
+        <lb ed="#Bb" n="7"/>se deum, quia nulla res seipsam producit. dicente <name xml:id="vn58an-fe21519-Nd1e148" ref="#Augustine">Augustino</name> id eist de Trinita. cap. i. Nulla res est quae 
         se<lb ed="#Bb" n="8" break="no"/>ipsam gignit vt sit. &amp; per eandem rationem neque alia aliqua actione producit vt sit. Non similiter alium 
         <lb ed="#Bb" n="9"/>a se deum, quia sic non tantum est vnus deus, quod falsum est secundum supra determinata. 
       </p>
@@ -174,8 +174,8 @@
         <lb ed="#Bb" n="8"/>summe actiua: &amp; ideo suiipsius summe diffusiua. Summa autem diffusio non est nisi per 
         emana<lb ed="#Bb" n="9" break="no"/>tionem communicando alteri suam naturam in diuersitate personae. Vnde Ricar. aspiciens ad ema 
         <lb ed="#Bb" n="10"/>nationem in creaturis dicit primo de trinita. cap. ix. Qui huic naturae fructum foecunditatis 
-        dona<lb ed="#Bb" n="11" break="no"/>uit, in se omnino sterilis manebit: quasi dicat nequaquam, quia dicitur Esaiae vltimo. <quote source="http://scta.info/resource/is66_9@1-9">Nunquid ego qui
-        <lb ed="#Bb" n="12"/>alios parere facio: ipse non pariam</quote>: <quote source="http://scta.info/resource/is66_9@12-19">Si ego qui generationem caeteris tribuo sterilis ero</quote>: ait domins deus.
+        dona<lb ed="#Bb" n="11" break="no"/>uit, in se omnino sterilis manebit: quasi dicat nequaquam, quia dicitur Esaiae vltimo. <quote xml:id="vn58an-fe21519-Qd1e314" source="http://scta.info/resource/is66_9@1-9">Nunquid ego qui
+        <lb ed="#Bb" n="12"/>alios parere facio: ipse non pariam</quote>: <quote xml:id="vn58an-fe21519-Qd1e320" source="http://scta.info/resource/is66_9@12-19">Si ego qui generationem caeteris tribuo sterilis ero</quote>: ait domins deus.
         <lb ed="#Bb" n="13"/>
       </p>
       <p xml:id="vn58an-fe21519-d1e328">
@@ -259,7 +259,7 @@
         <lb ed="#Bb" n="24"/>propter diuersitatem in persona. siue quaerendo: aut ergo alium a se deum, aut non alium a se deum 
         <lb ed="#Bb" n="25"/>&amp; est concedenda ista, non alium a se deum, propter identitatem substantiae. Ex quo inoleuit alia regula anti 
         <lb ed="#Bb" n="26"/>quorum praedictae contraria, talis. Non habet locum omnimoda diuisio, vbi non est ex diuersis causis vnio. I 
-        <lb ed="#Bb" n="27"/>lam autem mediam propositionem accipiendam in diuinis expressit <name ref="#Augustine">Augustinus</name> cum dixit de patre in epistola ad  
+        <lb ed="#Bb" n="27"/>lam autem mediam propositionem accipiendam in diuinis expressit <name xml:id="vn58an-fe21519-Nd1e490" ref="#Augustine">Augustinus</name> cum dixit de patre in epistola ad  
         <lb ed="#Bb" n="28"/>Maximinum. Genuit de se alterum se. i. secundum quod exponit Magister primo sententiarum distinctione. iiii. 
         <lb ed="#Bb" n="29"/>in fine, genuit alterum, scilicet in persona, qui est hoc quod ipse est, scilicet in substantia. Nam etsi alius 
         <lb ed="#Bb" n="30"/>pater sit quam filius, non tamen aliud sed vnum: vt hoc quod est qui est hoc quod ipse est, sit expositiuum eius quod est 
@@ -273,7 +273,7 @@
         <lb ed="#Bb" n="38"/>Tornacen. alterum ibi intelligitur esse masculini generis, &amp; ita personale: se vero neutri generis, &amp; ita essentia 
         <lb ed="#Bb" n="39"/>le. &amp; sic inuenitur ibi ex parte sermonis improprietas: sicut ibi, Semini tuo qui est Christus, quia 
         re<lb ed="#Bb" n="40" break="no"/>latiuum non conformatur suo antecedenti in genere. Si autem mutemus hoc masculinum hunc, in hoc 
-        neu<lb ed="#Bb" n="41" break="no"/>trum quod est id, &amp; dicamus pater genuit id quod ipse est, secundum quod dicit <name ref="#Augustine">Augustinus</name> in 
+        neu<lb ed="#Bb" n="41" break="no"/>trum quod est id, &amp; dicamus pater genuit id quod ipse est, secundum quod dicit <name xml:id="vn58an-fe21519-Nd1e524" ref="#Augustine">Augustinus</name> in 
         ser<lb ed="#Bb" n="42" break="no"/>mone de Symbolo, proprie loquendo sermo falsus est: quia sequitur quod genuisset diuinam essentiam 
         <lb ed="#Bb" n="43"/>secundum quod arguit Magister id est sententiarum distinctione. v. cap. iii. Vnde vt veritatem habcat exponendus 
         <lb ed="#Bb" n="44"/>est &amp; extendendus commutando neutrum in masculinum, secundum quod magister exponit, dicendo pater 
@@ -565,12 +565,12 @@
         <lb ed="#Bb" n="33"/>dicitur necessitas coactionis. Et de tali modo necessitatis intelligebant haeretici quando quaerebant 
         <lb ed="#Bb" n="34"/>vtrum pater genuit filium necessitate, vel ambo producerent spiritum sanctum de necessitate. De qua 
         di<lb ed="#Bb" n="35" break="no"/>cit Hila. de Syno. Si quis nolente patre dicat generari filium, anathema sit, non enim nolente patre 
-        <lb ed="#Bb" n="36"/>coactus est pater: vel necessitate naturali ductus cum nollet genuit filium. Et <name ref="#Augustine">Augustinus</name> ad Orosium 
+        <lb ed="#Bb" n="36"/>coactus est pater: vel necessitate naturali ductus cum nollet genuit filium. Et <name xml:id="vn58an-fe21519-Nd1e1145" ref="#Augustine">Augustinus</name> ad Orosium 
         <lb ed="#Bb" n="37"/>quaestione. vii. Necessitas in deo non est. Si vero praedicta tria sumantur aduerbialiter: vt sint idem quod 
         ne<lb ed="#Bb" n="38" break="no"/>cessarie &amp; voluntarie &amp; naturaliter, sic dicunt solummodo productionis modum. Sic in omni modo pro 
         <lb ed="#Bb" n="39"/>ductionis deus producit deum de necessitate non alicuius indigentiae. iuxta quod dicit Hila. de Syno. xl 
         <lb ed="#Bb" n="40"/>Nulla necessitate naturali ductus pater genuit filium, neque consimiliter ambo produxerunt spiritum 
-        <lb ed="#Bb" n="41"/>sanctum aliqua necessitate. De tali autem necessitate quaerebant haeretici. Sed cum secundum <name ref="#Anselm">Anselmus</name> ii. libro 
+        <lb ed="#Bb" n="41"/>sanctum aliqua necessitate. De tali autem necessitate quaerebant haeretici. Sed cum secundum <name xml:id="vn58an-fe21519-Nd1e1159" ref="#Anselm">Anselmus</name> ii. libro 
         <lb ed="#Bb" n="42"/>de libero arbitrio, duplex sit necessitas scilicet quaedam praecedens, quae est causa vt sit res, &amp; necessitas 
         se<lb ed="#Bb" n="43" break="no"/>quens quam res facit: vtroque modo cadit necessitas quae dicit modum productionis, in diuina 
         pro<lb ed="#Bb" n="44" break="no"/>ductione. Dicitur autem praecedens necessitas ab ipso causa vt sit res: quia est modus actus, ex eo 
@@ -588,7 +588,7 @@
    <!--180.xml-->
         <pb ed="#Bb" n="83-r"/>
         <lb ed="#Bb" n="1"/>Primo modo deus preoducit deum de necessitate. &amp; haec necessitas a quibusdam appellatur necessitas 
-        <lb ed="#Bb" n="2"/>immutabilitatis: &amp; ab <name ref="#Anselm">Anselmo</name> appellatur necessitas inuertibilitatis seruandi constantiam. Sed 
+        <lb ed="#Bb" n="2"/>immutabilitatis: &amp; ab <name xml:id="vn58an-fe21519-Nd1e1201" ref="#Anselm">Anselmo</name> appellatur necessitas inuertibilitatis seruandi constantiam. Sed 
         se<lb ed="#Bb" n="3" break="no"/>cundum quod natura &amp; voluntate sumuntur aduerbialiter, hoc modo ambo concurrunt in omni pro 
         <lb ed="#Bb" n="4"/>ductione dei de deo: quia deus deum naturaliter &amp; voluntarie generat, &amp; similiter spirat. Quia enim deus 
         <lb ed="#Bb" n="5"/>nihil agit nisi vt natura intelligens &amp; voluntaria, cuius natura non patitur violentiam aut 
@@ -602,7 +602,7 @@
         vo<lb ed="#Bb" n="13" break="no"/>luntate: quia illa est modo voluntatis, &amp; ista modo naturae &amp; intellectus: vt infra videbitur. Natu 
         <lb ed="#Bb" n="14"/>ra autem &amp; intellectus ratione absolui possent a voluntate &amp; agere sine illa: quia ordine quodam  
         <lb ed="#Bb" n="15"/>rationis natura &amp; intellectus in deo praecedunt voluntatem: vt iam visum est supra, &amp; amplius 
-        vi<lb ed="#Bb" n="16" break="no"/>debitur infra: non econverso. dicente <name ref="#Augustine">Augustino</name> ad Orosium. Praeire voluntas sapientiam non potest 
+        vi<lb ed="#Bb" n="16" break="no"/>debitur infra: non econverso. dicente <name xml:id="vn58an-fe21519-Nd1e1235" ref="#Augustine">Augustino</name> ad Orosium. Praeire voluntas sapientiam non potest 
         <lb ed="#Bb" n="17"/>Propter quod auctores magis sollicite affirmabant productionem filii cum hoc quod est natura &amp; 
         intel<lb ed="#Bb" n="18" break="no"/>lectu etiam esse voluntate. In hoc enim haeretici magis errabant: vt patet per Magistrum. id est sententiarum 
         <lb ed="#Bb" n="19"/>distin. vi. per totum. Hic dicit Hila. de Syno. Eos quid dicunt quod neque consilio, neque voluntate pater genuit 
@@ -643,8 +643,8 @@
         decla<lb ed="#Bb" n="51" break="no"/>rabitur. Quia autem additur quod natura siue necessitas &amp; voluntas ex opposito distiguuntur, &amp; in eadem actione 
         <lb ed="#Bb" n="52"/>non concurrunt, dicendum quod voluntas operatur aut vt libera absolute, aut vt libera arbitrio. Isto secundo modo 
         <lb ed="#Bb" n="53"/>non concurrunt in eadem actione natura siue necessitas &amp; voluntas. sic enim deus nihil opeatur voluntate intra 
-        <lb ed="#Bb" n="54"/>se: siy solum circa creaturas. Et secundum hoc Hila. de Syno. &amp; <name ref="#Anselm">Anselmus</name> ii. cur de. homo, dicunt quod nulla est in  
-        <lb ed="#Bb" n="55"/>deo faciendi vel non faciendi necessitas. Item <name ref="#Anselm">Anselmus</name> ibidem. In deo sola operatur voluntas. Primo autem 
+        <lb ed="#Bb" n="54"/>se: siy solum circa creaturas. Et secundum hoc Hila. de Syno. &amp; <name xml:id="vn58an-fe21519-Nd1e1323" ref="#Anselm">Anselmus</name> ii. cur de. homo, dicunt quod nulla est in  
+        <lb ed="#Bb" n="55"/>deo faciendi vel non faciendi necessitas. Item <name xml:id="vn58an-fe21519-Nd1e1329" ref="#Anselm">Anselmus</name> ibidem. In deo sola operatur voluntas. Primo autem 
    <!--181.xml-->
         <pb ed="#Bb" n="83-v"/>
         <lb ed="#Bb" n="1"/>modo bene concurrunt in eadem actione: vt supra determinatum est disputando de voluntate dei:  
@@ -663,7 +663,7 @@
         princi<lb ed="#Bb" n="11" break="no"/>piatum: sed tempore: intelligendo voluntatem illam non solum antecedentem originaliter: sed etiam 
         anteceden<lb ed="#Bb" n="12" break="no"/>tem de nouo aut ipsi volenti, sicut nos aliquando volumus quod antea non volebamus: aut ipsi operi siue 
         <lb ed="#Bb" n="13"/>rei operatae, sicut deus voluit aliquando creaturam de nouo producere quam antea producere noluit. Quod 
-        <lb ed="#Bb" n="14"/>dixerunt: vt ostenderent filium dei esse creaturam. Contra quos dicit <name ref="#Augustine">Augustinus</name> super epistolam ad Ephesios 
+        <lb ed="#Bb" n="14"/>dixerunt: vt ostenderent filium dei esse creaturam. Contra quos dicit <name xml:id="vn58an-fe21519-Nd1e1369" ref="#Augustine">Augustinus</name> super epistolam ad Ephesios 
         <lb ed="#Bb" n="15"/>super illud ca. i. Praedestinauit nos. De domino nostro lesu Christo dictum est: quia cum patre semper fuit, 
         <lb ed="#Bb" n="16"/>&amp; numquam eum vt esset voluntas paterna praecessit. 
       </p>
@@ -683,7 +683,7 @@
         <lb ed="#Bb" n="28"/>potest dici productum de nihilo in diuinis: quia omne productum in diuinis habet aliquid de quo est &amp; princi 
         <lb ed="#Bb" n="29"/>piatiue, &amp; quansi materialiter: vt iam videbitur. Sed iste modus dicendi aliquid esse de nihilo, non debet 
         vsita<lb ed="#Bb" n="30" break="no"/>ri in diuinis: quia secundum vsum conem non solum praetendit negationem essendi quod non ab alio: sed negationem essendi 
-        <lb ed="#Bb" n="31"/>simpliciter. Vnde dicit <name ref="#Anselm">Anselmus</name> mond. c. vi. Licet summa essentia non sit per aliquod efficiens aut ex aliqua materia, non 
+        <lb ed="#Bb" n="31"/>simpliciter. Vnde dicit <name xml:id="vn58an-fe21519-Nd1e1411" ref="#Anselm">Anselmus</name> mond. c. vi. Licet summa essentia non sit per aliquod efficiens aut ex aliqua materia, non 
         <lb ed="#Bb" n="32"/>tamen per nihil atque ex nihilo, quia per seipsam &amp; ex seipsa est quicquid est. Sic &amp; pater ex seipso &amp; per se 
         <lb ed="#Bb" n="33"/>ipsum est quicquid est, non ex nihilo. Et ita istis duobus modis dicitur ly de nihilo negatiue. Tertio 
         <lb ed="#Bb" n="34"/>modo dicitur de nihilo positiue, &amp; hoc dupliciter. Vno modo, quasi materialiter: vt nihil ingrediatur 
@@ -733,7 +733,7 @@
         <lb ed="#Bb" n="18"/>composito: materia vero tanquam ingenita &amp; incorruptibilis, in composito solum habetur esse per 
         genera<lb ed="#Bb" n="19" break="no"/>tionem: nullo tamen modo generatur in ipso, nisi largissime loquendo de generatione: consimiliter in pro 
         <lb ed="#Bb" n="20"/>ductione diuina quisquis est productus, in deo habet esse suum per actum productionis, &amp;etiam quicquid  
-        <lb ed="#Bb" n="21"/>est in ipso. Propter quod dicit <name ref="#Augustine">Augustinus</name> quod essentiam filio praestat de patre generatio: quemadmodum  
+        <lb ed="#Bb" n="21"/>est in ipso. Propter quod dicit <name xml:id="vn58an-fe21519-Nd1e1519" ref="#Augustine">Augustinus</name> quod essentiam filio praestat de patre generatio: quemadmodum  
         <lb ed="#Bb" n="22"/>compositum in creaturis habet esse suum &amp; quicquid est in ipso, per actum generationis naturalis. Est 
         <lb ed="#Bb" n="23"/>enim persona quid constitutum in diuinis ex essentia cum proprietate: licet absque compositione: vt 
         in<lb ed="#Bb" n="24" break="no"/>fra patebit. Et Hila. dicit quod filius nihil habet hisi natm. id eit quod nascendo accepit: vt exponit Praeposi 
@@ -758,14 +758,14 @@
         <lb ed="#Bb" n="43"/>quod in creaturis est materia: nata vero nominet proprietatem per generationem habitam, qua filius in es 
         <lb ed="#Bb" n="44"/>se generati constituitur, &amp; a patre distinguitur, qui est innata sapientia: cum quo conuenit inquantum 
         <lb ed="#Bb" n="45"/>est sapientia simpliciter &amp; absolute. Sic dicendum est quod deus generat deum de sua substantia. scilicet generantis 
-        <lb ed="#Bb" n="46"/>dicente <name ref="#Augustine">Augustino</name> in sermone de symbolo, Deus cum verbum genuit, id quod ipse. est genuit, nec de ni 
+        <lb ed="#Bb" n="46"/>dicente <name xml:id="vn58an-fe21519-Nd1e1577" ref="#Augustine">Augustino</name> in sermone de symbolo, Deus cum verbum genuit, id quod ipse. est genuit, nec de ni 
         <lb ed="#Bb" n="47"/>hilo nec de aliqua iam facta conditaque matetia: sed de seipso, hoc est de substantia sua. Et de fi. ad Pe. 
         <lb ed="#Bb" n="48"/>Pater de nullo genitus deus semel de sua natura sine initio genuit filium. Ad idem inducit Magister 
         <lb ed="#Bb" n="49"/>sentem. distin. v. cap: Dicitur quoque. plurimas auctoritates. Dico autem de substantia generantis cum 
         redu<lb ed="#Bb" n="50" break="no"/>plicatione inquantum scilicet generans est. licet enim eadem sit in tribus, non tamen habet rationem 
         poten<lb ed="#Bb" n="51" break="no"/>tiae vt de ea generetur aliquis, nisi secundum quod habet esse in patre. vt per hoc excludatur 
         inconue<lb ed="#Bb" n="52" break="no"/>niens quod Magister sententiarum inducit ex dicta auctoritate Augustini de fi. ad Pe. distinctio 
-        <lb ed="#Bb" n="53"/>ne. v. capitulo. Dicitur quoque. vbi dicit sic. Ecce hic dicit <name ref="#Augustine">Augustinus</name> filium genitum de natura 
+        <lb ed="#Bb" n="53"/>ne. v. capitulo. Dicitur quoque. vbi dicit sic. Ecce hic dicit <name xml:id="vn58an-fe21519-Nd1e1595" ref="#Augustine">Augustinus</name> filium genitum de natura 
         <lb ed="#Bb" n="54"/>patris. Est autem eadem natura patris &amp; filii &amp; spiritus sancti. Si ergo de natura patris est genitus 
         <lb ed="#Bb" n="55"/>filius, genitus est de natura filii &amp; spiritus sancti, immo de natura trium personarum. Propter quod 
    <!--183.xml-->
@@ -911,7 +911,7 @@
         <lb ed="#Bb" n="20"/>efficientis siue originantis: quia ex aliquo dicitur siue res sit de illius substantia siue non. Bene enim 
         <lb ed="#Bb" n="21"/>dicitur quia filius est ex patre, et domus ex artifice. De vero solum dicitur quando alterum de substantia 
         <lb ed="#Bb" n="22"/>alterius. vnde proprie dicitur quod filius est de patre: non autem quod domus est de artifice. Hanc distinctionem 
-        po<lb ed="#Bb" n="23" break="no"/>nit <name ref="#Augustine">Augustinus</name> li. de nat. bo. Et habetur distinctione. xxxvi. Ii. i. capIllud etiam. Praeter illos autem modos, de 
+        po<lb ed="#Bb" n="23" break="no"/>nit <name xml:id="vn58an-fe21519-Nd1e1910" ref="#Augustine">Augustinus</name> li. de nat. bo. Et habetur distinctione. xxxvi. Ii. i. capIllud etiam. Praeter illos autem modos, de 
         <lb ed="#Bb" n="24"/>&amp; ex sumuntur ordinaliter solum, vt ex mane vel de mane fit meridies. Sed de hoc nihil ad 
         propo<lb ed="#Bb" n="25" break="no"/>situm in diuinis. 
       </p>
@@ -1006,7 +1006,7 @@
         sem<lb ed="#Bb" n="55" break="no"/>per fuit productus, aut quod semper producetur, siue semper erit producendus: ne per praeteritum intelligamus de- 
    <!--187.xml-->
         <pb ed="#Bb" n="86-v"/>
-        <lb ed="#Bb" n="1"/>fectionem: &amp; per futurum expectationem. dicente <name ref="#Augustine">Augustino</name> super illo: Ego hodie genui te. In aeternitate 
+        <lb ed="#Bb" n="1"/>fectionem: &amp; per futurum expectationem. dicente <name xml:id="vn58an-fe21519-Nd1e2115" ref="#Augustine">Augustino</name> super illo: Ego hodie genui te. In aeternitate 
         <lb ed="#Bb" n="2"/>non praeteritum est quasi esse desierit: nec futurum quasi nondum sit. Sed nec propriissime explicatur per prae 
         <lb ed="#Bb" n="3"/>sens tantum: dicendo semper producitur, ne intelligatur productio fore in fieri. Sicut enim aeternae productioni 
         re<lb ed="#Bb" n="4" break="no"/>pugnat desitio praeteriti, &amp; expectatio futuri: sic repugnat ei fieri praesentis. Vnde etsi perfecte explicar 
@@ -1074,7 +1074,7 @@
         <pb ed="#Bb" n="87-r"/>
         <lb ed="#Bb" n="1"/>patrum spiritualem intelligentiam: &amp; interprstabantur dicta sacrae scripturae corporaliter, quae  
         <lb ed="#Bb" n="2"/>spiritualiter erant interpraetanda: vt quia natiuitas in creaturis praestat esse ei qui prius non erat  
-        <lb ed="#Bb" n="3"/>sic &amp; in deo, &amp; caetera huiusmodi. secundum quod contra ipsos dicit <name ref="#JohnDamascenus">Damascenus</name> li. i. ca. viii. Non fuit 
+        <lb ed="#Bb" n="3"/>sic &amp; in deo, &amp; caetera huiusmodi. secundum quod contra ipsos dicit <name xml:id="vn58an-fe21519-Nd1e2254" ref="#JohnDamascenus">Damascenus</name> li. i. ca. viii. Non fuit 
         <lb ed="#Bb" n="4"/>vnquam pater quando non fuit filius: sed simul pater, simul filius ex ipso genitus. Et ita 
         impassi<lb ed="#Bb" n="5" break="no"/>biliter &amp; sine tempore, &amp; non fluxibiliter generat &amp; sine coitu, neque principium habet. 
       </p>
@@ -1091,7 +1091,7 @@
         <lb ed="#Bb" n="14"/>producendo communicat ei suam essentiam de qua illam producit, &amp; in essentia communicat ei esse 
         <lb ed="#Bb" n="15"/>suum, &amp; omnia quae habet, praeter proprietatem suam qua distinguitur a persona ab ipsa 
         produ<lb ed="#Bb" n="16" break="no"/>cta. Propter quod &amp; ipsa persona producta a se formaliter, hoc est ex forma sua quae est sua 
-        essen<lb ed="#Bb" n="17" break="no"/>tia, habet esse: sicut &amp; ipsa persona producens: quia loannis. xvii. <quote source="http://scta.info/resource/io5_26@1-17">sicut pater habet vitam in semet
+        essen<lb ed="#Bb" n="17" break="no"/>tia, habet esse: sicut &amp; ipsa persona producens: quia loannis. xvii. <quote xml:id="vn58an-fe21519-Qd1e2291" source="http://scta.info/resource/io5_26@1-17">sicut pater habet vitam in semet
         <lb ed="#Bb" n="18"/>ipso: sic dedit &amp; filio habere vitam in semetipso</quote>. Secundo autem modo, persona emanans ab alia 
         <lb ed="#Bb" n="19"/>in diuinis, nullo modo producitur in esse ab alio: quia quid sic in esse producitur ab alio, non 
         ha<lb ed="#Bb" n="20" break="no"/>bet esse ex se formaliter: hoc est ex forma sua, quae est sua essentia: sed in essentia sua recipit esse ab alio 

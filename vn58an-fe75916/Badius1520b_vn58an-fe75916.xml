@@ -84,7 +84,7 @@
       </p>
       <p xml:id="vn58an-fe75916-d1e159">
         ⁋ In contrarium est illud quod di 
-        <lb ed="#Bb" n="12"/>cit <name ref="#Augustine">Augustinus</name> in vltimo argumento quaestionis praecedentis contra Adim. Nulla verba digne deo 
+        <lb ed="#Bb" n="12"/>cit <name xml:id="vn58an-fe75916-Nd1e156" ref="#Augustine">Augustinus</name> in vltimo argumento quaestionis praecedentis contra Adim. Nulla verba digne deo 
         <lb ed="#Bb" n="13"/>congruunt. Sed si deo esset aliquod nomen proprium, illud digne deo congrueret: quia non est 
         pro<lb ed="#Bb" n="14" break="no"/>prium nisi digne congruat illi cui est, proprium. ergo &amp;c. 
         <lb ed="#Bb" n="15"/>
@@ -167,12 +167,12 @@
         <lb ed="#Bb" n="29"/>cum creatura aliqua, propter quam conueniat ei illud nomen, vt hoc nomen ei convenit sapientia aut 
         boni<lb ed="#Bb" n="30" break="no"/>tas &amp;c. quae significant virtutes perfectionis in deo, in quibus est quaedam participatio creaturae. Esset 
         <lb ed="#Bb" n="31"/>enim nomen illud significans diuinam essentiam ratione suae immensitatis, qua est cognoscibilis a seipsa 
-        <lb ed="#Bb" n="32"/>sola. Propter quod dicit domins <name>Moysi</name> Exo. xxxi. Quid quaeris nomen meum quod est ineffabile: Glos. interli. 
+        <lb ed="#Bb" n="32"/>sola. Propter quod dicit domins <name xml:id="vn58an-fe75916-Nd1e331">Moysi</name> Exo. xxxi. Quid quaeris nomen meum quod est ineffabile: Glos. interli. 
         <lb ed="#Bb" n="33"/>Quia incomprehensibilis est deus. Ex doctrina autem interpretationis istarum literarum significatur &amp; 
         intel<lb ed="#Bb" n="34" break="no"/>ligitur quid deus vult per eius nomen (quod a notamine dicitur) nos intelligere. Vt eim dicit Hiero. in epistola 
         <lb ed="#Bb" n="35"/>ad Marcellam de interpretatione hebraearum literarum, lod interpretatur principium, heth vita, vau passio, 
         <lb ed="#Bb" n="36"/>he ista. Quae si coniungantur, sensus est, principium passionis iste. Et si quaeratur quis est iste: Re vera ille 
-        <lb ed="#Bb" n="37"/>de quo dicitur <ref xml:id="vn58an-fe75916-Rd1e352">Exo, xv.</ref> <quote source="http://scta.info/resource/ex15_2@13-18">Iste deus meus, &amp; glorificabo eum</quote>. Deus ergo ab homine tempore legis intelligi
+        <lb ed="#Bb" n="37"/>de quo dicitur <ref xml:id="vn58an-fe75916-Rd1e352">Exo, xv.</ref> <quote xml:id="vn58an-fe75916-Qd1e347" source="http://scta.info/resource/ex15_2@13-18">Iste deus meus, &amp; glorificabo eum</quote>. Deus ergo ab homine tempore legis intelligi
         <lb ed="#Bb" n="38"/>voluit nomine sibi proprio: de quo populus nouit quod quatuor literarum erat, &amp; ideo tetragrammaton 
         <lb ed="#Bb" n="39"/>magistri nomen dei appellant: sed quae erant illae literae, ignorauit, quia hoc scire non nisi perfectos 
         li<lb ed="#Bb" n="40" break="no"/>cuit qui mysterium aduertere possent in interpretatione dictarum literarum. Et in dicto praesagio 

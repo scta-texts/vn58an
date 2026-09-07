@@ -108,7 +108,7 @@
         appre<lb ed="#Ba" n="55" break="no"/>hendente ipsum. Nec de tali esse dei intelligenda est proposita quaestio, sed de esse eius primo modo  
    <!--266.xml-->
         <pb ed="#Ba" n="126-r"/>
-        <lb ed="#Ba" n="1"/>quod conuenit ei in natura &amp; essentia sua, quae est extra intellectum, quia secundum <name ref="#Aristotle">Philosophum</name> vbi supra. v. 
+        <lb ed="#Ba" n="1"/>quod conuenit ei in natura &amp; essentia sua, quae est extra intellectum, quia secundum <name xml:id="vn58an-d1e1586-Nd1e215" ref="#Aristotle">Philosophum</name> vbi supra. v. 
         <lb ed="#Ba" n="2"/>metaphy. diuiditur in ens actu &amp; in ens potentia: ita quod ens simpliciter dictum, vt commune ad  
         <lb ed="#Ba" n="3"/>ens actu &amp; ens potentia, est ens largissimo modo acceptum quod secundum Auicen. est subiectum 
         <lb ed="#Ba" n="4"/>metaphy. &amp; est commune analogum ad creatorem &amp; creaturam, continens sub se ens principium 
@@ -146,7 +146,7 @@
         <lb ed="#Ba" n="36"/>autem hoc necessarium est ponere in creaturis, patet per Philosophum: qui. viii. metaphysiy. de illis 
         en<lb ed="#Ba" n="37" break="no"/>tibus quae secundum ipsum non habent materiam: neque sensibilem neque intelligibilem: dicit quod vnum 
         <lb ed="#Ba" n="38"/>quodque eorum statim est id quod est per suam essentiam: &amp; non est alia causa alicuius istorum vt sit vnum, neque vt sit 
-        <lb ed="#Ba" n="39"/>ens. vbi etiam <name ref="#Averroes">Commentator</name> dicit. i. illa quae non habent materiam non habent aliam causam a se in hoc 
+        <lb ed="#Ba" n="39"/>ens. vbi etiam <name xml:id="vn58an-d1e1586-Nd1e300" ref="#Averroes">Commentator</name> dicit. i. illa quae non habent materiam non habent aliam causam a se in hoc 
         <lb ed="#Ba" n="40"/>quod sint vnum &amp; in hoc quod sint ens, econtrario eis quae sunt in materia, quioniam vnumquodque istorum ex se 
         <lb ed="#Ba" n="41"/>est aliquod vnum: &amp; aliquod ens: quod non est vnum ex alio, neque ens ex alio. Et hoc intendebat cum 
         di<lb ed="#Ba" n="42" break="no"/>xit, statium scilicet non per additum. In habentibus autem materiam sunt composita ex materia &amp; forma 
@@ -156,7 +156,7 @@
         <lb ed="#Ba" n="46"/>esse ab eo quod est aliud re ab ipso cui inhaeret. Vnde si hoc modo res aliqua in sua essentia haberet esse ab alio:  
         <lb ed="#Ba" n="47"/>tunc illud esset quaedam forma essendi qua substratum dicitur esse: ad modum quo corpus dicitur esse 
         al<lb ed="#Ba" n="48" break="no"/>bum vel nigrum recepta forma albedinis aut nigredinis in se. secundum quod Auer. imponit Auce. scilicet quod po 
-        <lb ed="#Ba" n="49"/>suit quod esse esset accidens enti, quod non est verum. Et secundum hoc, vt dicit <name ref="#Aristotle">Philosophus</name> &amp; bene: si sint 
+        <lb ed="#Ba" n="49"/>suit quod esse esset accidens enti, quod non est verum. Et secundum hoc, vt dicit <name xml:id="vn58an-d1e1586-Nd1e325" ref="#Aristotle">Philosophus</name> &amp; bene: si sint 
         <lb ed="#Ba" n="50"/>aliquae formae simplices sine materia, illae ex eo quod sunt essentiae quaedam habent esse non aliquo alio 
         <lb ed="#Ba" n="51"/>inhaerente eis formaliter: &amp; ideo statium scilicet ex eo quod sunt natura quaedam &amp; essentia. Non sic autem 
         <lb ed="#Ba" n="52"/>illa quae habent esse in natura: quia ex eo quod sunt aliquid in materia &amp; essentia materiae non habent 
@@ -171,9 +171,9 @@
         <lb ed="#Ba" n="4"/>quo vt a forma exemplari: quia est prima forma exemplaris omnium. vt similiter infra videbitur. 
         <lb ed="#Ba" n="5"/>Omnis autem res quae creatura est: formaliter habet esse essentiae suae ab alio vt a causa exemplari: 
         <lb ed="#Ba" n="6"/>a qua etiam effectiue habet suum esse existentiae, vt dictum est supra. &amp; hoc vel immediate ex prima 
-        <lb ed="#Ba" n="7"/>creatione. secundum quod in Gene. dicit Moyses. <quote source="http://scta.info/resource/gen1_1@1-7">In principio creauit deus coelum &amp; terram</quote>. hoc est
+        <lb ed="#Ba" n="7"/>creatione. secundum quod in Gene. dicit Moyses. <quote xml:id="vn58an-d1e1586-Qd1e361" source="http://scta.info/resource/gen1_1@1-7">In principio creauit deus coelum &amp; terram</quote>. hoc est
         secun<lb ed="#Ba" n="8" break="no"/>dum Glos. spiritualem &amp; corporalem creaturam. vel mediantibus aliis causis ex rerum creatarum
-        guberna<lb ed="#Ba" n="9" break="no"/>tione. de qua dixit Christus in Io. <quote source="http://scta.info/resource/io5_17@5-12">Pater meus vsque modo operatur, &amp; ego operor</quote>. &amp; hoc quo ad rerum
+        guberna<lb ed="#Ba" n="9" break="no"/>tione. de qua dixit Christus in Io. <quote xml:id="vn58an-d1e1586-Qd1e368" source="http://scta.info/resource/io5_17@5-12">Pater meus vsque modo operatur, &amp; ego operor</quote>. &amp; hoc quo ad rerum
         <lb ed="#Ba" n="10"/>generabilium &amp; corruptibilium propagationem. Effectiuae enim substantiae illae creatae quae sunt formae sim 
         <lb ed="#Ba" n="11"/>plices non habent esse suum a se, sed a deo dante illis esse immediate. vt bene probat Auicen. vi. 
         Me<lb ed="#Ba" n="12" break="no"/>taphy. suae. &amp; hoc dat eis statim, quia totum quod sunt quo ad rationem exemplaris in deo secundum esse 

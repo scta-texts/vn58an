@@ -55,13 +55,13 @@
       <head xml:id="vn58an-d1e763-Hd1e107" type="question-title">Utrum theologia sit utilis</head>
       <p xml:id="vn58an-d1e763-d1e110">
         <lb ed="#Ba" n="17"/>CIrca primum arguitur: quod haec scientia non sit vtilis. Primo sic. Nihil est vtile ni 
-        <lb ed="#Ba" n="18"/>si ex relatione in finem extra, quia secundum <name ref="#Augustine">Augustinus</name> Vti est referre in finem. 
+        <lb ed="#Ba" n="18"/>si ex relatione in finem extra, quia secundum <name xml:id="vn58an-d1e763-Nd1e109" ref="#Augustine">Augustinus</name> Vti est referre in finem. 
         <lb ed="#Ba" n="19"/>Sed inter omnes scientias ista sola non est relata in finem extra se: sed in se conti 
         <lb ed="#Ba" n="20"/>net finem omnium aliarum scientiarum: vt habitum est supra. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e763-d1e124">
         ⁋ Secundo sic. 
-        <lb ed="#Ba" n="21"/>vtile pertinet ad actum voluntatis: quia secundum <name ref="#Augustine">Augustinus</name> vti est assumere 
+        <lb ed="#Ba" n="21"/>vtile pertinet ad actum voluntatis: quia secundum <name xml:id="vn58an-d1e763-Nd1e121" ref="#Augustine">Augustinus</name> vti est assumere 
         <lb ed="#Ba" n="22"/>aliquid in facultatem voluntatis. scientia non pertinet ad voluntatem: sed ad 
         in<lb ed="#Ba" n="23" break="no"/>tellectum. ergo &amp;c. 
       </p>
@@ -90,7 +90,7 @@
         <lb ed="#Ba" n="36"/>mus quae donata sunt nobis. &amp; per istam attingant eam omnes aliae: inquantum ista sumit omnes 
         <lb ed="#Ba" n="37"/>alias in vsum suum: vt supra dictum est. Vtilitatem huius scientiae ad illum finem tangit 
         Aposto<lb ed="#Ba" n="38" break="no"/>lus cum dicit. ii. Timo. iii. Omnis scientia diuinitus inspirata vtilis est ad docendum, ad arguendum, 
-        <lb ed="#Ba" n="39"/>ad corripiendum, ad erudiendum in iustitia: <quote source="http://scta.info/resource/IItim3_17@1-10">vt perfectus sit homo dei ad omne opus bonum in
+        <lb ed="#Ba" n="39"/>ad corripiendum, ad erudiendum in iustitia: <quote xml:id="vn58an-d1e763-Qd1e175" source="http://scta.info/resource/IItim3_17@1-10">vt perfectus sit homo dei ad omne opus bonum in
         <lb ed="#Ba" n="40"/>structus</quote>. &amp; hoc in quatuor conditionibus: respondentibus quatuor generibus hominum: quorum
         <lb ed="#Ba" n="41"/>instructioni vtilis est haec scientia. Est enim vtilis infidelibus, vt in fide informentur &amp; ei obediant. Sic vti 
         <lb ed="#Ba" n="42"/>lis est ad docendum. Glos. ignorantes. Est etiam vtilis rebellibus: vt fidei obediant: ad corrigendum. 

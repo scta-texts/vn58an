@@ -68,7 +68,7 @@
       </p>
       <p xml:id="vn58an-d1e566-d1e135">
         ⁋ Tertio 
-        <lb ed="#Ba" n="29"/>isic. secundum <name ref="#Augustine">Augustinus</name> xiii. &amp;. xiiii. de trinitate. Eides pertinet ad scientiam, non ad sapientiam, quaere cum 
+        <lb ed="#Ba" n="29"/>isic. secundum <name xml:id="vn58an-d1e566-Nd1e131" ref="#Augustine">Augustinus</name> xiii. &amp;. xiiii. de trinitate. Eides pertinet ad scientiam, non ad sapientiam, quaere cum 
         <lb ed="#Ba" n="30"/>scientia ista est scientia fidei, scientia erit proprie, non sapientia. 
       </p>
       <p xml:id="vn58an-d1e566-d1e145">
@@ -84,11 +84,11 @@
       <p xml:id="vn58an-d1e566-d1e159">
         ⁋ Hic est intelligendum primo quod 
         lar<lb ed="#Ba" n="35" break="no"/>ge accipiendo nomen sapientiae &amp; stricte nomen scientiae, &amp; Sapientia potest dici scientia, &amp; scientia potest dici 
-        <lb ed="#Ba" n="36"/>sapientia. Secundum quod dicit <name ref="#Augustine">Augustinus</name> xiii. de trinitate. Nec ista duo sic accipiamus ( scilicet scientiam &amp; sapientiam) quasi non 
+        <lb ed="#Ba" n="36"/>sapientia. Secundum quod dicit <name xml:id="vn58an-d1e566-Nd1e157" ref="#Augustine">Augustinus</name> xiii. de trinitate. Nec ista duo sic accipiamus ( scilicet scientiam &amp; sapientiam) quasi non 
         <lb ed="#Ba" n="37"/>liceat dicere vel istam sapientiam quae est in rebus humanis, vel illam scientiam quae est in diuinis. Latiore 
         <lb ed="#Ba" n="38"/>enim consuetudine vtraque sapientia: vtraque scientia dici potest. Proprie tamen loquendo abinuicem 
         distin<lb ed="#Ba" n="39" break="no"/>guuntur: vt aliqua notitia dicatur communiori nomine scientia, non sapientia: alia vero proprio nomi 
-        <lb ed="#Ba" n="40"/>ne dicatur sapientia &amp; non scientia. Secundum quod <name ref="#Augustine">Augustinus</name> subdit ibidem. Nullo modo tamen scriptum esset 
+        <lb ed="#Ba" n="40"/>ne dicatur sapientia &amp; non scientia. Secundum quod <name xml:id="vn58an-d1e566-Nd1e169" ref="#Augustine">Augustinus</name> subdit ibidem. Nullo modo tamen scriptum esset 
         <lb ed="#Ba" n="41"/>apud Apostolum, Alii datur sermo sapientiae: alii sermo scientiae: nisi &amp; proprie singulis rationibus haec 
         <lb ed="#Ba" n="42"/>singula vocarentur. Vnde vt statim determinat lib. xiiii. Scientia proprie est notitia de humanis 
         <lb ed="#Ba" n="43"/>&amp; temporalibus rebus. Sapientia vero de diuinis &amp; aeternis. Ex quo statim apparet solutio ad 
@@ -128,7 +128,7 @@
         conse<lb ed="#Ba" n="17" break="no"/>quenter contingit quod huiusmodi scientiae necesse est esse principia quae sunt semper in fine veritatis:  
         <lb ed="#Ba" n="18"/>neque habent causam in esse vera, sed sunt causa in hoc aliarum rerum. Vnde &amp; de vtroque dicit 
         <lb ed="#Ba" n="19"/>
-       <name>Augustinus</name> simul in libro suo de Aca. Dico, inquit, haec maxime esse consideranda: initium veri &amp; 
+       <name xml:id="vn58an-d1e566-Nd1e253">Augustinus</name> simul in libro suo de Aca. Dico, inquit, haec maxime esse consideranda: initium veri &amp; 
         <lb ed="#Ba" n="20"/>finem bonorum: nec sapientem esse qui aut cognoscendi initium ignorat: aut extremum expetendi 
         <lb ed="#Ba" n="21"/>vt aut vnde proficiscat ur a ut quo perueniendum sit, nesciat. Et quod ob hanc causam scientia debeat 
         <lb ed="#Ba" n="22"/>dici sapientia: quia. scilicet considerat primas causas &amp; altissimas, specialius inspiciendo: patet dupli 
@@ -171,13 +171,13 @@
    <!--102.xml-->
         <pb ed="#Ba" n="44-r"/>
         <lb ed="#Ba" n="1"/>lus cognitione naturali potest attingere: quae nobis reuelauit per spiritum sanctum, &amp; in hac sacra 
-        scien<lb ed="#Ba" n="2" break="no"/>tia sunt conscripta. Secundum quod dicit Apo. i. Cor. ii. <quote source="http://scta.info/resource/Icor2_7@1-17">Loquimur sapientiam dei in ministerio: quae
+        scien<lb ed="#Ba" n="2" break="no"/>tia sunt conscripta. Secundum quod dicit Apo. i. Cor. ii. <quote xml:id="vn58an-d1e566-Qd1e344" source="http://scta.info/resource/Icor2_7@1-17">Loquimur sapientiam dei in ministerio: quae
         abscon<lb ed="#Ba" n="3" break="no"/>dita est: quam praedestinauit deus ante secula in gloriam nostram</quote>: quam nemo principum huius seculi
-        <lb ed="#Ba" n="4"/>nouit. Sicut scriptum est: <quote source="http://scta.info/resource/Icor2_9@5-23">Quod oculus non vidit, nec auris audiuit, nec in cor hominis ascendit: quae
-        <lb ed="#Ba" n="5"/>praeparauit deus diligentibus se</quote>. <quote source="http://scta.info/resource/Icor2_10@1-14">Nobis autem reuelauit deus per spiritum suum. Spiritus enim
-        scru<lb ed="#Ba" n="6" break="no"/>tatur omnia etiam profunda dei</quote>. <quote source="http://scta.info/resource/Icor2_11@1-24">Quis enim scit hominum quae sunt hominis: nisi spiritus hominis: ita quod
-        <lb ed="#Ba" n="7"/>quae dei sunt nemo cognoscit: nisi spiritus dei</quote>: <quote source="http://scta.info/resource/Icor2_12@1-20">nos autem non spiritum huius mundi accepimus: sed
-        <lb ed="#Ba" n="8"/>spiritum qui ex deo est: vt sciamus quae a deo donata sunt nobis</quote>: <quote source="http://scta.info/resource/Icor2_13@1-13">quae &amp; loquimur, non in
+        <lb ed="#Ba" n="4"/>nouit. Sicut scriptum est: <quote xml:id="vn58an-d1e566-Qd1e351" source="http://scta.info/resource/Icor2_9@5-23">Quod oculus non vidit, nec auris audiuit, nec in cor hominis ascendit: quae
+        <lb ed="#Ba" n="5"/>praeparauit deus diligentibus se</quote>. <quote xml:id="vn58an-d1e566-Qd1e356" source="http://scta.info/resource/Icor2_10@1-14">Nobis autem reuelauit deus per spiritum suum. Spiritus enim
+        scru<lb ed="#Ba" n="6" break="no"/>tatur omnia etiam profunda dei</quote>. <quote xml:id="vn58an-d1e566-Qd1e361" source="http://scta.info/resource/Icor2_11@1-24">Quis enim scit hominum quae sunt hominis: nisi spiritus hominis: ita quod
+        <lb ed="#Ba" n="7"/>quae dei sunt nemo cognoscit: nisi spiritus dei</quote>: <quote xml:id="vn58an-d1e566-Qd1e367" source="http://scta.info/resource/Icor2_12@1-20">nos autem non spiritum huius mundi accepimus: sed
+        <lb ed="#Ba" n="8"/>spiritum qui ex deo est: vt sciamus quae a deo donata sunt nobis</quote>: <quote xml:id="vn58an-d1e566-Qd1e372" source="http://scta.info/resource/Icor2_13@1-13">quae &amp; loquimur, non in
         do<lb ed="#Ba" n="9" break="no"/>ctis humanae sapientiae verbis: sed in doctrina spiritus</quote>.
       </p>
       <p xml:id="vn58an-d1e566-d1e370">
@@ -219,7 +219,7 @@
         <lb ed="#Ba" n="36"/>inquantum est de aeternis. Et quo ad hoc aliqui solebant dicere quod ista scientia, partim est sapientia 
         <lb ed="#Ba" n="37"/>partim scientia: quod verum est: considerando haec &amp; illa, temporalia. scilicet &amp; aeterna in se &amp; absolute. Sed non 
         <lb ed="#Ba" n="38"/>sic cadit consideratio temporalium in hac scientia: sed solum inquantum habent ordinari ad aeterna: &amp; sunt proptei 
-        <lb ed="#Ba" n="39"/>considerationem aeternorum. secundum quod hoc declarat <ref xml:id="vn58an-d1e566-Rsxxhf" corresp="#vn58an-d1e566-Qsdsvhf #vn58an-d1e566-Qirpadf"><name ref="#Augustine">Augustinus</name> xiii. <sic>de ciuitate</sic></ref> in exemplo dicens <quote xml:id="vn58an-d1e566-Qsdsvhf" source="http://scta.info/resource/adt-l13-d1e1504@182-218">Sapientia diuinis, 
+        <lb ed="#Ba" n="39"/>considerationem aeternorum. secundum quod hoc declarat <ref xml:id="vn58an-d1e566-Rsxxhf" corresp="#vn58an-d1e566-Qsdsvhf #vn58an-d1e566-Qirpadf"><name xml:id="vn58an-d1e566-Nd1e454" ref="#Augustine">Augustinus</name> xiii. <sic>de ciuitate</sic></ref> in exemplo dicens <quote xml:id="vn58an-d1e566-Qsdsvhf" source="http://scta.info/resource/adt-l13-d1e1504@182-218">Sapientia diuinis, 
         <lb ed="#Ba" n="40"/>Scientia humanis, attributa sit vtrumque agnosco in Christo in eo quid scriptura dicit. Verbum caro 
         <lb ed="#Ba" n="41"/>factum est. In verbo intelligo dei filium: in carne agnosco verum hominis filium</quote>: <quote xml:id="vn58an-d1e566-Qirpadf" source="http://scta.info/resource/adt-l13-d1e1507@1-28">in rebus per tempus 
         or<lb ed="#Ba" n="42" break="no"/>tis homo coniunctus est deo: in rebus vero aeternis summa veritas attribuitur dei filio</quote>. &amp; sequitur 
@@ -247,7 +247,7 @@
         <lb ed="#Ba" n="5"/>caelestis vitae contemplatio: quae altiora speculatur de primo principio quam capere non potest 
         hu<lb ed="#Ba" n="6" break="no"/>mana aestimatio. respectu cuius ista scientia, &amp; quaelibet alia vix absoluto nomine scientiae 
         me<lb ed="#Ba" n="7" break="no"/>retur appellari: sicut sapiens huius sapientiae respectu illius sapientiae verius stultus quam sapiens 
-        <lb ed="#Ba" n="8"/>reputandus est: Secundum quod dicit Origenes super illud Exo. iiii. <quote source="http://scta.info/resource/ex4_10@5-20">Non sum eloquens ex quo
+        <lb ed="#Ba" n="8"/>reputandus est: Secundum quod dicit Origenes super illud Exo. iiii. <quote xml:id="vn58an-d1e566-Qd1e522" source="http://scta.info/resource/ex4_10@5-20">Non sum eloquens ex quo
         locu<lb ed="#Ba" n="9" break="no"/>tus es ad seruum tuum</quote>. Dum esset Moyses in Aegypto: &amp; erudiretur omni sapientia Aegyptiorum:
         <lb ed="#Ba" n="10"/>nec profitebatur se eloquentem. Erat enim quantum ad Aegyptios eloquentiae incomparabilis. Vbi vocem 
         <lb ed="#Ba" n="11"/>dei audiuit: cum incepit cognoscere verbum quod erat in principio apud deum: se pronunciat mutun: 
@@ -257,8 +257,8 @@
         sapien<lb ed="#Ba" n="15" break="no"/>tissimus in Philiso. Vt iumentum factus sum apud te. Sed quia per intellectum huius scientiae notitia illius 
         <lb ed="#Ba" n="16"/>scientiae quodammodo inchoatur: vnde quodammodo etiam ex comparatione ad illam sapientiam: haec 
         <lb ed="#Ba" n="17"/>potest dici sapientia: quae tamen respectu cuiuslibet alterius scientiae huius vitae verissime 
-        sa<lb ed="#Ba" n="18" break="no"/>pientia dicenda est. Vnde definitio illa sapientiae: quae scribitur. i. de Acadeca. <name ref="#Augustine">Augustinus</name> verissime huic sapiem 
-        <lb ed="#Ba" n="19"/>tiae conuenit. Dicit enim ibi <name ref="#Augustine">Augustinus</name> Sapientia mihi videtur rerum humanarum &amp; diuinarum quae ad beatam 
+        sa<lb ed="#Ba" n="18" break="no"/>pientia dicenda est. Vnde definitio illa sapientiae: quae scribitur. i. de Acadeca. <name xml:id="vn58an-d1e566-Nd1e546" ref="#Augustine">Augustinus</name> verissime huic sapiem 
+        <lb ed="#Ba" n="19"/>tiae conuenit. Dicit enim ibi <name xml:id="vn58an-d1e566-Nd1e552" ref="#Augustine">Augustinus</name> Sapientia mihi videtur rerum humanarum &amp; diuinarum quae ad beatam 
         <lb ed="#Ba" n="20"/>vitam pertinent: non solum scientia, sed &amp; diligens inquisitio: vt homo quantum potest in deum tram 
         <lb ed="#Ba" n="21"/>quillius tendat: &amp; extremo vitae die ad id quod concupiuit adipiscendum reperiatur paratus: 
         frua<lb ed="#Ba" n="22" break="no"/>turque merito diuina beatitudine qui ante sit humana perfruitur.

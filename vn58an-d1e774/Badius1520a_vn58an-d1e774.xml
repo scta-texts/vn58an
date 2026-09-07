@@ -64,9 +64,9 @@
         necessa<lb ed="#Ba" n="13" break="no"/>rium: sine quo potest perfecte attingere suum finem vltimum. Homo sine hac 
         <lb ed="#Ba" n="14"/>scientia potest hoc. ergo &amp;c. Probatio mediae est, quoniam qui facit quod potest ex 
         <lb ed="#Ba" n="15"/>humana ratione, postquam deficit: &amp; non habet quod faciat vlterius, deus eius defectum 
-        <lb ed="#Ba" n="16"/>supplet: nec perire permittit. facere enim quod est in se, consulit Gloss. super illud Matth. v. <quote source="http://scta.info/resource/mt4_6@4-10">Si filius
+        <lb ed="#Ba" n="16"/>supplet: nec perire permittit. facere enim quod est in se, consulit Gloss. super illud Matth. v. <quote xml:id="vn58an-d1e774-Qd1e124" source="http://scta.info/resource/mt4_6@4-10">Si filius
         <lb ed="#Ba" n="17"/>dei es: mitte te deorsum</quote>. Christus autem quod suum est, hora necessitatis apponendum promittit:
-        <lb ed="#Ba" n="18"/>cum dicit Apostolis. Nolite cogitare quomodo aut quid loquamini. vt dicit <name ref="#Augustine">Augustinus</name> quarto de 
+        <lb ed="#Ba" n="18"/>cum dicit Apostolis. Nolite cogitare quomodo aut quid loquamini. vt dicit <name xml:id="vn58an-d1e774-Nd1e132" ref="#Augustine">Augustinus</name> quarto de 
         <lb ed="#Ba" n="19"/>doctrina christiana. cap. xiii. sed illud potest facere homo sine hac scientia. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e774-d1e143">
@@ -144,7 +144,7 @@
         <lb ed="#Ba" n="21"/>hoc supposita extollantur perfectionis excelsa fastigia. Huius autem institutionis fundamina sunt illa quae  
         <lb ed="#Ba" n="22"/>nobis in hac scientia traduntur cognoscenda in praesenti de deo per fidem: vt in futuro 
         cognosca<lb ed="#Ba" n="23" break="no"/>tur a nobis per speciem. Nisi enim illa ex hac scientia haberemus: vnde de eis quae sunt ibi aliquoid cogita 
-        <lb ed="#Ba" n="24"/>remus non haberemus. secundum quod <name ref="#Augustine">Augustinus</name> loquens de scriptoribus huius scientiae sub metaphora 
+        <lb ed="#Ba" n="24"/>remus non haberemus. secundum quod <name xml:id="vn58an-d1e774-Nd1e284" ref="#Augustine">Augustinus</name> loquens de scriptoribus huius scientiae sub metaphora 
         <lb ed="#Ba" n="25"/>modotium, dicit in principio super Ioan. Oculos nostros dum leuamus ad scripturas: quia per 
         homi<lb ed="#Ba" n="26" break="no"/>nes ministratae sunt: leuamus oculos nfos ad montes: vnde veniat nobis auxilium. nisi enim 
         mon<lb ed="#Ba" n="27" break="no"/>tes ista dicerent, vnde omnino cogitaretis non inueniretis. Et licet ista scientia quae sic homini 
@@ -157,7 +157,7 @@
         <lb ed="#Ba" n="34"/>illam quam expectamus per speciem, dixit eisdem. <ref xml:id="vn58an-d1e774-Rd1e316">Ioan. xvi.</ref> 
        <quote xml:id="vn58an-d1e774-Qd1e319" source="http://scta.info/resource/io16_12">Adhuc multa habeo vobis dicere quae non po 
         <lb ed="#Ba" n="35"/>testis portare modo</quote>. Nota autem fecit illa vt ex eis aliquantulum cognoscamus ista: &amp; cognita diligamus:  
-        <lb ed="#Ba" n="36"/>&amp; dilectione proficiendo ad ea quandoque capienda nos praeparemus. Vnde <name ref="#Augustine">Augustinus</name> exponens vtrumque  
+        <lb ed="#Ba" n="36"/>&amp; dilectione proficiendo ad ea quandoque capienda nos praeparemus. Vnde <name xml:id="vn58an-d1e774-Nd1e322" ref="#Augustine">Augustinus</name> exponens vtrumque  
         <lb ed="#Ba" n="37"/>dictorum verborum super Ioannem. ser. xlii. partis secundae dicit sic. Charissimi non a nobis expectetis au  
         <lb ed="#Ba" n="38"/>dire, quae tunc noluit dominus dicere discipulis: quia nondum poterant illa portare: sed potius in 
         cha<lb ed="#Ba" n="39" break="no"/>ritate proficite: vt spiritualia diligentes spiritualem vocem interiori auditu nosse possitis. Non enim dilia 
@@ -192,7 +192,7 @@
       <p xml:id="vn58an-d1e774-d1e395">
         ⁋ Ad primum in oppositum quod haec scientia excedit hominis speciem: dicendum quod verum 
         <lb ed="#Ba" n="8"/>est: ita quod eam ex puris naturalibus possit attingere. Non tamen quin naturaliter sit ordinata: vt ad eam 
-        <lb ed="#Ba" n="9"/>possit attingere per gratiam, vt dictum est. secundum quod dicit <name ref="#Augustine">Augustinus</name> Posse habere fidem &amp; 
+        <lb ed="#Ba" n="9"/>possit attingere per gratiam, vt dictum est. secundum quod dicit <name xml:id="vn58an-d1e774-Nd1e397" ref="#Augustine">Augustinus</name> Posse habere fidem &amp; 
         charita<lb ed="#Ba" n="10" break="no"/>tem naturae est hominium: habere autem gratia est fidelium. 
       </p>
       <p xml:id="vn58an-d1e774-d1e407">
@@ -206,7 +206,7 @@
         ⁋ Ad tertium quod dei perfecta sunt opera, dicendum quod homo est 
         <lb ed="#Ba" n="15"/>opus dei dupliciter. Naturale, &amp; secundum hoc est perfectus quo ad naturalia ad acquirendum ea quae 
         perfi<lb ed="#Ba" n="16" break="no"/>ciunt eum in statu naturae. Et est opus dei gratuitum perfectibile ab eo quo ad gratuita. Primo quo ad  
-        <lb ed="#Ba" n="17"/>gratuita dona huius vitae: deinde futurae. iuxta <name ref="#Augustine">Augustinus</name> Nihil deus in nobis praeter sua dona coronat.  
+        <lb ed="#Ba" n="17"/>gratuita dona huius vitae: deinde futurae. iuxta <name xml:id="vn58an-d1e774-Nd1e422" ref="#Augustine">Augustinus</name> Nihil deus in nobis praeter sua dona coronat.  
       </p>
       <p xml:id="vn58an-d1e774-d1e430">
         <lb ed="#Ba" n="18"/>⁋ Ad quartum quod alia sibi acquirunt necessaria ex naturalibus, dicendum. quod homo non potest acquirere suam 

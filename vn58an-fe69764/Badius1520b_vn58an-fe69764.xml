@@ -86,7 +86,7 @@
       </p>
       <p xml:id="vn58an-fe69764-d1e164">
         ⁋ Quinto sic, quod est occasio errandi impossibile est in diuinis 
-        <lb ed="#Bb" n="11"/>quia error in diuinis maximum est inconueniens. Et secundum <name ref="#Anselm">Anselmus</name> minimum inconueniens in 
+        <lb ed="#Bb" n="11"/>quia error in diuinis maximum est inconueniens. Et secundum <name xml:id="vn58an-fe69764-Nd1e161" ref="#Anselm">Anselmus</name> minimum inconueniens in 
         di<lb ed="#Bb" n="12" break="no"/>uinis maximum est impossibile. Appropriatio communium in diuinis personis est occasio errandi:  
         <lb ed="#Bb" n="13"/>quia ex illa potest intelligi quod appropriatum illi soli conueniat cui appropriatur: aut quod magis &amp; 
         <lb ed="#Bb" n="14"/>verius ac perfectius ei conveniat quam alteri: &amp; ita quod gradus sunt in diuinis: quod erroneum est. ergo &amp;c. 
@@ -148,7 +148,7 @@
         <lb ed="#Bb" n="10"/>autem de Roma: &amp; apsts coniter dicitur de aliis apilersoalis, &amp; solum appropriate de Paulo. Et in diuinis omnia 
         essen<lb ed="#Bb" n="11" break="no"/>tialia dicuntur coniter de illis quibus non appropriantur. Appropriate autem solummodo de illis quibus 
         ap<lb ed="#Bb" n="12" break="no"/>propriantur. Et sic omne cone quod in diuinis dicitur appropriate de aliquo, etiam dicitur proprie de illo. sed  
-        <lb ed="#Bb" n="13"/>non econuerso: ens enim proprie dicitur substantia, sed non appropriate. Vnde <name ref="#Augustine">Augustinus</name> quaestionem de 
+        <lb ed="#Bb" n="13"/>non econuerso: ens enim proprie dicitur substantia, sed non appropriate. Vnde <name xml:id="vn58an-fe69764-Nd1e291" ref="#Augustine">Augustinus</name> quaestionem de 
         appro<lb ed="#Bb" n="14" break="no"/>priatis &amp; appropriatione pertractans, xv. de trinitate. cap. xvii. ostendit appropriatione communium fore in  
         <lb ed="#Bb" n="15"/>diuinis per hoc quod ea quae communia sunt pluribus, &amp; communiter dicuntur de illis, etiam de 
         aliqui<lb ed="#Bb" n="16" break="no"/>bus personis dicuntur proprie: sumens ibi proprie pro appropriate. Et quod aliquid dicitur communiter &amp; 
@@ -157,7 +157,7 @@
         <lb ed="#Bb" n="19"/>in diuinis sunt communia: &amp; dicuntur communiter de tribus: possunt dici proprie &amp; appropriate de 
         ali<lb ed="#Bb" n="20" break="no"/>quo illorum: puta cum sapientia sit communis omnibus diuinis personis: appropriate tamen 
         dici<lb ed="#Bb" n="21" break="no"/>tur de filio, cum ait Apostolus. Praedicamus Christum dei virtutem, &amp; dei sapientiam. Et similiter 
-        <lb ed="#Bb" n="22"/>de illis quae ponuntur in appropriationibus <name ref="#Augustine">Augustinus</name> &amp; Hila. Reuera bene <name ref="#Augustine">Augustinus</name> arguit quod ali 
+        <lb ed="#Bb" n="22"/>de illis quae ponuntur in appropriationibus <name xml:id="vn58an-fe69764-Nd1e313" ref="#Augustine">Augustinus</name> &amp; Hila. Reuera bene <name xml:id="vn58an-fe69764-Nd1e317" ref="#Augustine">Augustinus</name> arguit quod ali 
         <lb ed="#Bb" n="23"/>quid quandoque potest dici communiter: quandoque autem proprie: &amp; hoc in diuinis sicut &amp; in creatu 
         <lb ed="#Bb" n="24"/>ris. Sed ex illis duobus exemplis in quibus bene declarat aliquid dici communiter &amp; proprie, non 
         po<lb ed="#Bb" n="25" break="no"/>test concludere quod in diuinis aliquid possit dici communiter &amp; proprie: sumendo proprie pro appropria 
@@ -182,7 +182,7 @@
         ali<lb ed="#Bb" n="41" break="no"/>quid commune vniuocum scilicet secundum idem nomen, &amp; idem nominis significatum commune 
         plu<lb ed="#Bb" n="42" break="no"/>ribus, quod alicui illorum conuenit proprie: vt sapientia filio: &amp; secundum quod dicit Ioan. in canonica 
         <lb ed="#Bb" n="43"/>sua, Charitas ex deo est. quod appropriate dicitur de spiritu sancto: &amp; hoc prout arguit Augu. ex 
-        di<lb ed="#Bb" n="44" break="no"/>cto loannis vbi supra: quia <quote source="http://scta.info/resource/Iio4_13@5-17">in deo manemus, &amp; ipse est in nobis: quoniam de spiritu suo dedit
+        di<lb ed="#Bb" n="44" break="no"/>cto loannis vbi supra: quia <quote xml:id="vn58an-fe69764-Qd1e370" source="http://scta.info/resource/Iio4_13@5-17">in deo manemus, &amp; ipse est in nobis: quoniam de spiritu suo dedit
         no<lb ed="#Bb" n="45" break="no"/>bis</quote>. ldem etiam dicit loannem. quod charitas deus est: quod communiter dicitur de tribus personis. Sed haec 
         appro<lb ed="#Bb" n="46" break="no"/>priatio qualiter &amp; qua de causa fiat, in sequentibus quaestionibus amplius declarabitur. Quantum 
         <lb ed="#Bb" n="47"/>tamen ad praesentem quaestionem pertinet, sciendum quod secundum iam praetacta aliquid commune 
@@ -373,7 +373,7 @@
         <lb ed="#Bb" n="44"/>ratio proprii: sicut conicatio est quaedam ratiommunis, vt tactum est in tertio argumento praecedente. Sed non intelligitur nomine 
         ap<lb ed="#Bb" n="45" break="no"/>propriationis propriatio modo quo proprietas dicitur propriari: quia sit ita esset: tunc ratio qua vnum cone distinguitur ab 
         <lb ed="#Bb" n="46"/>alio, non solum haberet maiorem convenientiam cum vno proprio quam cum altero: propter quam 
-        appropriare<lb ed="#Bb" n="47" break="no"/>tur: sed esset omnino propria, ita conveniens vni quod non alteri. Quod excludit <name ref="#Augustine">Augustinus</name> vi. de triniitate. ostendens quod sapiem 
+        appropriare<lb ed="#Bb" n="47" break="no"/>tur: sed esset omnino propria, ita conveniens vni quod non alteri. Quod excludit <name xml:id="vn58an-fe69764-Nd1e766" ref="#Augustine">Augustinus</name> vi. de triniitate. ostendens quod sapiem 
         <lb ed="#Bb" n="48"/>tia appropriata filio non est propria illi per hoc quod pater non est sapiens sapientia quam genuit: quasi solus 
         <lb ed="#Bb" n="49"/>filius sit sapientia &amp; non pater nisi per filium: sed vterque per se est sapientia: &amp; ambo simul sunt vna 
         <lb ed="#Bb" n="50"/>sapientia: quae est ipsorum vna essentia. Nec etiam appropriatio est quaedam ratio proprii: sicut conicatio est quaedam 

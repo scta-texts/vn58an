@@ -72,7 +72,7 @@
         <lb ed="#Ba" n="50"/>intentionem ibidem. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e808-d1e152">
-        ⁋ Item Gali. iii. <quote source="http://scta.info/resource/gal3_24@2-11">Lex paedagogus fuit in Christo: vt ex fide
+        ⁋ Item Gali. iii. <quote xml:id="vn58an-d1e808-Qd1e146" source="http://scta.info/resource/gal3_24@2-11">Lex paedagogus fuit in Christo: vt ex fide
         iustifice<lb ed="#Ba" n="51" break="no"/>mur</quote> id est in nouam legem fidei Christianus Sed paedagogus debet praecedere illum cuius est paedagogus.
         <lb ed="#Ba" n="52"/>Vetus ergo testamentum prius debuit conscribi quam nouum, quare cum ambo sint partes huius 
         <lb ed="#Ba" n="53"/>scientiae: non simul debuerunt conscribi: sed partes successiue. 
@@ -120,11 +120,11 @@
         red<lb ed="#Ba" n="38" break="no"/>datur: &amp; hoc quod dominus discipulis dicit: ne pro malo vllum reddatur malum, medium quemdam 
         <lb ed="#Ba" n="39"/>locum tenet: vt tantum reddatur quantum acceptum est. Per quod a summa discordia ad summam 
         con<lb ed="#Ba" n="40" break="no"/>cordiam: pro temporum distributrione transitus factus est: vt homo per legem Moysi adiutus: ipsa 
-        <lb ed="#Ba" n="41"/>tanquam paedagoga vtatur: &amp; ad legis naturae praecepta <quote source="http://scta.info/resource/IIcor3_3@17-24">non in tabulis lapideis: sed in tabulis cordis
+        <lb ed="#Ba" n="41"/>tanquam paedagoga vtatur: &amp; ad legis naturae praecepta <quote xml:id="vn58an-d1e808-Qd1e251" source="http://scta.info/resource/IIcor3_3@17-24">non in tabulis lapideis: sed in tabulis cordis
         scri<lb ed="#Ba" n="42" break="no"/>pta</quote> reuertatur. dicente domino per Hieremiam prophetam: quod &amp; assumit apostolus. Heb. x. Ecce dies
-        ve<lb ed="#Ba" n="43" break="no"/>niunt, &amp; consummabo super domum luda &amp; super domum lsrael testamentum nouum: <quote source="http://scta.info/resource/ier31_32@1-20">non secundum
+        ve<lb ed="#Ba" n="43" break="no"/>niunt, &amp; consummabo super domum luda &amp; super domum lsrael testamentum nouum: <quote xml:id="vn58an-d1e808-Qd1e258" source="http://scta.info/resource/ier31_32@1-20">non secundum
         <lb ed="#Ba" n="44"/>pactum quod pepigi cum pluribus eorum in die qua apprehendi eos: vt educerem eos de terra
-        <lb ed="#Ba" n="45"/>aegypti</quote>: <quote source="http://scta.info/resource/ier31_33@1-26">sed hoc erit pactum meum: dabo legem meam in visceribus eorum: &amp; in corde eorum
+        <lb ed="#Ba" n="45"/>aegypti</quote>: <quote xml:id="vn58an-d1e808-Qd1e265" source="http://scta.info/resource/ier31_33@1-26">sed hoc erit pactum meum: dabo legem meam in visceribus eorum: &amp; in corde eorum
         <lb ed="#Ba" n="46"/>scribam eam</quote>. Esa. xi. Lex mea in corde ipsorum. Glos. interli. Euangelium. Vnde statim
         deficien<lb ed="#Ba" n="47" break="no"/>te lege naturae non erat describenda lex euangelii, sicut nec Christus eam scripsit: quia non erat 
         <lb ed="#Ba" n="48"/>literis conscribenda: vt discatur: sed solum praedicationibus proponenda: vt in cordibus 

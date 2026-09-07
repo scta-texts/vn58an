@@ -162,13 +162,13 @@
         <lb ed="#Bb" n="7"/>est in rebus naturalibus. Generari enim siue esse id quod generatur in naturalibus, vno modo dicitur aliquid  
         <lb ed="#Bb" n="8"/>subiectiue: alio vero modo obiectiue. Primo modo dicitur generari vel esse quod generatur subiectum sustinens 
         <lb ed="#Bb" n="9"/>actum generationis. Secundo autem modo illud quod productum est per actum generationis dicitur generari 
-        <lb ed="#Bb" n="10"/>vel esse quod generatur. Secundum quod de primo dicit <name ref="#Aristotle">Philosophus</name> in secundo metaphysicae. Quemadmodum  
+        <lb ed="#Bb" n="10"/>vel esse quod generatur. Secundum quod de primo dicit <name xml:id="vn58an-fe37626-Nd1e296" ref="#Aristotle">Philosophus</name> in secundo metaphysicae. Quemadmodum  
         <lb ed="#Bb" n="11"/>inter esse &amp; non esse est generatio: ita semper id quod generatur est inter illud quod est ens &amp; non ens. Addiscens 
         <lb ed="#Bb" n="12"/>enim est generatum sciens. Et intendit secundum Commenta. quod sicut addiscens est medius inter omnino  
         <lb ed="#Bb" n="13"/>ignorantem &amp; perfecte scientem: sic quod generatur vt materia, &amp; subiectum, semper medium est inter purum 
         <lb ed="#Bb" n="14"/>non ens &amp; ens in actu. &amp; hoc ideo quia ipsa est ens in potentia. De secundo autem dicit in vii. 
         me<lb ed="#Bb" n="15" break="no"/>taphysicae. Omne quod generatur est aliquid &amp; ab aliquo &amp; per aliquid. vbi dicit Commentator. Est aliquid. i. 
-        ali<lb ed="#Bb" n="16" break="no"/>quod praedicamentorum: &amp; ab aliquo, vt materia: &amp; per aliquid: &amp; est agens. Et sumit ibi <name ref="#Aristotle">Philosophus</name> large 
+        ali<lb ed="#Bb" n="16" break="no"/>quod praedicamentorum: &amp; ab aliquo, vt materia: &amp; per aliquid: &amp; est agens. Et sumit ibi <name xml:id="vn58an-fe37626-Nd1e312" ref="#Aristotle">Philosophus</name> large 
         <lb ed="#Bb" n="17"/>generationem ad omne fieri alicuius decem praedicamentorum siue fuerit a natura siue a voluntate, vt patet 
         <lb ed="#Bb" n="18"/>ex serie literae suae. Nos autem eam ad praesens amplius extendamus, scilicet ad generationem diuinam &amp; 
         <lb ed="#Bb" n="19"/>ad creationem. Cum igitur dictis duobus modis subiectiue &amp; obiectiue dicitur aliquid esse id quod generatur,  
@@ -185,8 +185,8 @@
         passi<lb ed="#Bb" n="27" break="no"/>ua, &amp; in quo ponenda sit esse: vt per id quid de hoc videmus in aliis duabus productionibus, pateat 
         no<lb ed="#Bb" n="28" break="no"/>bis quid de hoc sentiendum in productione diuina: Sciendum igitur, quod in prima istarum productio 
         <lb ed="#Bb" n="29"/>num scilicet generationis naturalis, duplex est potentia generandi subiectiue, secundum quod duplex est materia 
-        <lb ed="#Bb" n="30"/>subiecta: quaedam scilicet remota &amp; quaedam propinqua. Secundum enim quod distiguit <name ref="#Aristotle">Philosophus</name> in. ix. metaphy. &amp; 
-        <lb ed="#Bb" n="31"/>suus <name ref="#Averroes">Commentator</name> ibidem, illud quod est in potentia simpliciter, est materia simpliciter: &amp; hoc est 
+        <lb ed="#Bb" n="30"/>subiecta: quaedam scilicet remota &amp; quaedam propinqua. Secundum enim quod distiguit <name xml:id="vn58an-fe37626-Nd1e349" ref="#Aristotle">Philosophus</name> in. ix. metaphy. &amp; 
+        <lb ed="#Bb" n="31"/>suus <name xml:id="vn58an-fe37626-Nd1e354" ref="#Averroes">Commentator</name> ibidem, illud quod est in potentia simpliciter, est materia simpliciter: &amp; hoc est 
         ma<lb ed="#Bb" n="32" break="no"/>teria propinqua. Remota enim tantum, non est materia simpliciter nec in potentia simpliciter Non est autem materia 
         <lb ed="#Bb" n="33"/>in potentia simpliciter illud cuius est materia, quando indiget in hoc quod exeat in actum alio motore ab eo quod 
         ge<lb ed="#Bb" n="34" break="no"/>nerat illud quod est in potentia. Verbi gratia: quoniam terra non est idolum in potentia: sed est cuprum, quoniam 
@@ -345,7 +345,7 @@
         <lb ed="#Bb" n="10"/>quibus est filius. i. ex toto patre totus filius natus est non aliunde, quia nihil antequam filius: neque ex nihilo, quia 
         <lb ed="#Bb" n="11"/>ex deo filius. Quod in patre est, hoc in filio est, alter ab altero, &amp; vterque vnum. &amp; lib. vi. ca. vi. Non quae non erant 
         <lb ed="#Bb" n="12"/>tenet: sed quae dei manebant &amp; manent obtinuit veritate nascendi. Et est perfectissimus modus dandi esse. de 
-        <lb ed="#Bb" n="13"/>quo dicit Christus Ioan. xvii. <quote source="http://scta.info/resource/io5_26@1-17">Sicut ptr vitam habet in semetipso, sic dedit &amp; filio vitam habere in semetipso</quote>
+        <lb ed="#Bb" n="13"/>quo dicit Christus Ioan. xvii. <quote xml:id="vn58an-fe37626-Qd1e695" source="http://scta.info/resource/io5_26@1-17">Sicut ptr vitam habet in semetipso, sic dedit &amp; filio vitam habere in semetipso</quote>
         <lb ed="#Bb" n="14"/>Circa potentiam vero generandi passiue obiectiue, &amp; circa ipsum productum in tribus dictis productionibus
         <lb ed="#Bb" n="15"/>sciendum est quod ipsa potentia potest attribui alicui obiectiue vt ei quod producitur siue generatur, dupliciter: quia secundum  
         <lb ed="#Bb" n="16"/>duplicem ordinem scilicet &amp; secundum ordinem ad id de quo subiectiue generatur, &amp; secundum ordinem ad id a quo 
@@ -555,7 +555,7 @@
         immu<lb ed="#Bb" n="42" break="no"/>tatus fuerit a luce, aspectum suum acrius intuendo in illam extendit vt perfectius eam videat, &amp; hoc 
         <lb ed="#Bb" n="43"/>appetitu delectato in eo quod cognoscit intellectus aut sensus, &amp; per hoc mouente intellectum 
         <lb ed="#Bb" n="44"/>aut sensum ad amplius intuendum, vt perfectius cognoscat &amp; perfectius delectetur in cognito. Vnde 
-        <lb ed="#Bb" n="45"/>secundum quod dicit <name ref="#Augustine">Augustinus</name> xiiii. de Trini. cap. v. hinc coniici potest: quod infantis mens lucis 
+        <lb ed="#Bb" n="45"/>secundum quod dicit <name xml:id="vn58an-fe37626-Nd1e1143" ref="#Augustine">Augustinus</name> xiiii. de Trini. cap. v. hinc coniici potest: quod infantis mens lucis 
         haurien<lb ed="#Bb" n="46" break="no"/>dae sic auida est, vt si quisquam minus caute nesciens quid inde possit accidere, nocturnum lumen 
         posue<lb ed="#Bb" n="47" break="no"/>rit vbi iacet infans in ea parte ad quam iacentis oculi possint retorqueri, aut ceruix possit inflecti, 
         <lb ed="#Bb" n="48"/>sic eius inde non remouetur aspectus, vt nonnullos ex hoc etiam strabones fieri nouerimus. Vnde cum 
@@ -579,17 +579,17 @@
         <lb ed="#Bb" n="9"/>definitiuam rationem, quia nullam habet propter eius simplicitatem, vt dicit Auicen. Secundum quem  
         <lb ed="#Bb" n="10"/>modum alias diximus in quaestionibus de Quolibet, quod intellectualiter videndo deum non 
         concipi<lb ed="#Bb" n="11" break="no"/>mus verbum de ipso: sed cognoscendo quid sit determinate in rerum natura, verbum de ipso 
-        con<lb ed="#Bb" n="12" break="no"/>cipiemus. secundum illud primae loannis. 4. <quote source="http://scta.info/resource/Iio3_2@15-22">Similes ei erimus, quoniam videbimus eum sicuti est</quote>.
-        Su<lb ed="#Bb" n="13" break="no"/>per quo dicit <ref>Augustinus, xv. de trinitate cap. xvi.</ref> Sed tunc quidem verbum nostrum non erit 
+        con<lb ed="#Bb" n="12" break="no"/>cipiemus. secundum illud primae loannis. 4. <quote xml:id="vn58an-fe37626-Qd1e1198" source="http://scta.info/resource/Iio3_2@15-22">Similes ei erimus, quoniam videbimus eum sicuti est</quote>.
+        Su<lb ed="#Bb" n="13" break="no"/>per quo dicit <ref xml:id="vn58an-fe37626-Rd1e1203">Augustinus, xv. de trinitate cap. xvi.</ref> Sed tunc quidem verbum nostrum non erit 
         fal<lb ed="#Bb" n="14" break="no"/>sum, quia neque mentiemur neque fallemur: tamen cum hoc fuerit, formata erit creatura quae 
         formabi<lb ed="#Bb" n="15" break="no"/>lis fuit, vt nihil iam desit eius formae ad quam peruenire deberet: sed tamen coaequanda non erit illi 
         <lb ed="#Bb" n="16"/>simplicitati vbi non formabile formatum vel reformatum est: sed forma neque informis neque 
-        forma<lb ed="#Bb" n="17" break="no"/>ta ipsa ibi aeterna est immutabilisque substantia. In quo <name ref="#Augustine">Augustinus</name> tangit vnam differentiam inter 
+        forma<lb ed="#Bb" n="17" break="no"/>ta ipsa ibi aeterna est immutabilisque substantia. In quo <name xml:id="vn58an-fe37626-Nd1e1214" ref="#Augustine">Augustinus</name> tangit vnam differentiam inter 
         ver<lb ed="#Bb" n="18" break="no"/>bum nostrum &amp; cuiuslibet intellectus creati etiam de deo, &amp; inter verbum dei: videlicet quod 
         ver<lb ed="#Bb" n="19" break="no"/>bum intellectus creati prius tempore aut natura formabile est quam formatum. Prius tempore, quo  
-        <lb ed="#Bb" n="20"/>ad verbum nostrum in praesenti quod magis cognitum est nobis. Quia vt dicit <ref>Augustinus. xiiii. de triniitate. ca. 
+        <lb ed="#Bb" n="20"/>ad verbum nostrum in praesenti quod magis cognitum est nobis. Quia vt dicit <ref xml:id="vn58an-fe37626-Rd1e1224">Augustinus. xiiii. de triniitate. ca. 
         <lb ed="#Bb" n="21"/>vii.</ref> facilius dignoscitur quod tpere antecedit, vbi parens proleo per spatia tporis antecedit. Quom autem antecedit epore 
-        <lb ed="#Bb" n="22"/>vt formabile quid nondum formatum, exponit <ref>Augustinus, xv. de triniitate. cap, xv.</ref> dicens. Quid est inquam hoc 
+        <lb ed="#Bb" n="22"/>vt formabile quid nondum formatum, exponit <ref xml:id="vn58an-fe37626-Rd1e1231">Augustinus, xv. de triniitate. cap, xv.</ref> dicens. Quid est inquam hoc 
         forma<lb ed="#Bb" n="23" break="no"/>bile nondum formatum &amp;c. vt supra in quaestione de dicere dei. Prius vero natura in intellectu cuiuslibet beati 
         <lb ed="#Bb" n="24"/>verbum de quacunque re formabile est quam formetur. Eormabile intelligo in ipsa confusa cognitione, qua  
         <lb ed="#Bb" n="25"/>primo cognoscitur de re cognita quod aliquid est: de qua cognitione confusa formatur verbum sicut 
@@ -598,7 +598,7 @@
         <lb ed="#Bb" n="28"/>qua cognoscitur determinate de re quid est vel quod quid est: primum in simplicibus non habentibus 
         defi<lb ed="#Bb" n="29" break="no"/>nitiuam rationem, secundum in compositis habentibus eam. Verbum autem diuinum nec 
         tempo<lb ed="#Bb" n="30" break="no"/>re nec natura prius est formabile quam formatum, nec informe esse potest. Vnde differentiam quo ad  
-        <lb ed="#Bb" n="31"/>hoc exprimit <name ref="#Augustine">Augustinus</name> ibidem subdens post iam signata. Quis non videat quanta hic sit 
+        <lb ed="#Bb" n="31"/>hoc exprimit <name xml:id="vn58an-fe37626-Nd1e1253" ref="#Augustine">Augustinus</name> ibidem subdens post iam signata. Quis non videat quanta hic sit 
         dissimi<lb ed="#Bb" n="32" break="no"/>litudo ab illo dei verbo quid in forma dei sic est vt non antea fuerit formabile quam formatum: nec aliquam 
         <lb ed="#Bb" n="33"/>do possit esse informe: sed sit forma simplex &amp; simpliciter aequalis ei de quo est, &amp; cui mirabiliter 
         <lb ed="#Bb" n="34"/>coaeterna est: In quo etiam tangit differentiam aliam verbi dei ad verbum intellectus creati: &amp; hoc 
@@ -607,7 +607,7 @@
         <lb ed="#Bb" n="37"/>enim actus intelligendi de eadem re cum solo numero differunt, non possunt esse simul in eodem 
         in<lb ed="#Bb" n="38" break="no"/>tellectu secundum numerum ) differunt tamen sicut magis perfectum &amp; minus perfectum. semper enim 
         <lb ed="#Bb" n="39"/>perfectior est in intellectu creato notitia cogitatiua &amp; declaratiua de eadem re, quam sit simplex notitia 
-        <lb ed="#Bb" n="40"/>Propter quod dicit <name ref="#Augustine">Augustinus</name> ibidem cap. xxi. Cogitando quid verum inuenimus, hoc maxime 
+        <lb ed="#Bb" n="40"/>Propter quod dicit <name xml:id="vn58an-fe37626-Nd1e1276" ref="#Augustine">Augustinus</name> ibidem cap. xxi. Cogitando quid verum inuenimus, hoc maxime 
         intel<lb ed="#Bb" n="41" break="no"/>ligere dicimus. Secundum vero est quod verbum intellectus creati cum de re superiore se concipitur 
         <lb ed="#Bb" n="42"/>non aequatur rei de qua formatur. dicente Augustino. x. de trinita. cap. xi. Cum deum nouimus, 
         no<lb ed="#Bb" n="43" break="no"/>titia verbum est: fitque aliqua dei similitudo. Illa tamen notitia inferior est. In deo vero notitia quae 
@@ -618,7 +618,7 @@
         Ma<lb ed="#Bb" n="48" break="no"/>nifestatiuo dico notitiae eius de quae procedit: quemadmodum verbum vocis procedit modo manifestatimo verbi quod  
         <lb ed="#Bb" n="49"/>est in mente. Est autem aspectus iste de quo iam locuti sumus, in intellectu vis eius aliqua qua  
         <lb ed="#Bb" n="50"/>spirituali conuersione convertit se super ea quae percipit in se: &amp; est in nobis vis cogitatiua intellectualis. 
-        <lb ed="#Bb" n="51"/>dicente <name ref="#Augustine">Augustino</name> ibidem cap. vi. Tanta est cogitationis vis vt nec ipsa mens quodammodo in 
+        <lb ed="#Bb" n="51"/>dicente <name xml:id="vn58an-fe37626-Nd1e1303" ref="#Augustine">Augustino</name> ibidem cap. vi. Tanta est cogitationis vis vt nec ipsa mens quodammodo in 
         con<lb ed="#Bb" n="52" break="no"/>spectu suo se ponat nisi quando cogitat: ac per hoc nihil in conspectu mentis est nisi vnde cogitatur. Et 
         <lb ed="#Bb" n="53"/>post aliqua interposita quibus probat quod aspectus mentis non sit quicquam aliud a mente, subdit dicens. 
         Pro<lb ed="#Bb" n="54" break="no"/>inde restat vt aliquid pertinens ad eius naturam sit aspectus eius etiam quando se cogitat: non quasi 
@@ -626,15 +626,15 @@
    <!--298.xml-->
         <pb ed="#Bb" n="142-r"/>
         <lb ed="#Bb" n="1"/>conspectu suo, nec de illa suus formatur obtutus, sed tamen nouit se tanquam sibi sit memoria sui. 
-        Quic<lb ed="#Bb" n="2" break="no"/>quid sit de notitia quam mens habet de se: de qua loquitur <name ref="#Augustine">Augustinus</name> certum tamen est quod quicquid 
+        Quic<lb ed="#Bb" n="2" break="no"/>quid sit de notitia quam mens habet de se: de qua loquitur <name xml:id="vn58an-fe37626-Nd1e1323" ref="#Augustine">Augustinus</name> certum tamen est quod quicquid 
         sci<lb ed="#Bb" n="3" break="no"/>mus cogitando, prius simplici notitia non cogitatiua apprehendimus: sed nisi cogitando ad illud  
         <lb ed="#Bb" n="4"/>nos conuertimus, nihil de apprehenso iudicamus. Vnde notitia ista memoriae deputatur, qua mens 
         <lb ed="#Bb" n="5"/>vt cogitet excitatur. Quemadmodum intentus aliunde transeuntes oculis apprehendit, sed de illis non 
         <lb ed="#Bb" n="6"/>iudicat nisi cum per phantasmata eorum excitatus de illis cogitat. Et tunc cum cogitat de notitia 
-        praece<lb ed="#Bb" n="7" break="no"/>dente formata de re intellecta, verbum in cogitatione format. dicente <ref><name ref="#Augustine">Augustinus</name> ibidem</ref>. Nec ita sane 
+        praece<lb ed="#Bb" n="7" break="no"/>dente formata de re intellecta, verbum in cogitatione format. dicente <ref xml:id="vn58an-fe37626-Rd1e1337"><name xml:id="vn58an-fe37626-Nd1e1338" ref="#Augustine">Augustinus</name> ibidem</ref>. Nec ita sane 
         <lb ed="#Bb" n="8"/>gignit istam notitiam suam mens quando cogitando se conspicit tanquam sibi ante incognita fuerit: sed  
         <lb ed="#Bb" n="9"/>ita sibi nota erat, quemadmodum notae sunt res quae memoria continentur. Non dico memoria qua in 
-        ha<lb ed="#Bb" n="10" break="no"/>bitu tantum cognoscuntur res, sed qua actu simplici notitia intelliguntur, secundum quod dicit <ref>cap. xi. in fine</ref>. 
+        ha<lb ed="#Bb" n="10" break="no"/>bitu tantum cognoscuntur res, sed qua actu simplici notitia intelliguntur, secundum quod dicit <ref xml:id="vn58an-fe37626-Rd1e1349">cap. xi. in fine</ref>. 
         Si<lb ed="#Bb" n="11" break="no"/>cut in rebus praeteritis ea memoria dicitur qua sit vt valeat recoli, sic in re praesenti quod sibi mens est 
         <lb ed="#Bb" n="12"/>memoria sine absurditate dicenda est. Respectu autem talis memoriae intellectio cogitatiua 
         intelligen<lb ed="#Bb" n="13" break="no"/>tia dicitur. Vnde de memoria dicitur praedicto cap. vi. Notitia cuiuscunque rei quae inest menti, etiam 
@@ -805,8 +805,8 @@
         re<lb ed="#Bb" n="3" break="no"/>spectus quid est quod ab, mutato quod in qui. Propter quod passio in diuinis nullo modo recipitur secundum  
         <lb ed="#Bb" n="4"/>rationem generis: sed solummodo secundum rationem speciei: cum tamen actio vtroque modo recipiatur. secundum quod iam dictum est. 
         <lb ed="#Bb" n="5"/>Et ideo nec secundum naturam rei &amp; proprietatem nominium, nec secundum vsum eloquii sanctorum &amp; doctorum 
-        catho<lb ed="#Bb" n="6" break="no"/>licorum generari est vera passio, sicut generare actio. Immo eam repellit <name ref="#Boethius">Boethius</name>  cum dicit primo de triniitate. ca. xii. 
-        <lb ed="#Bb" n="7"/>Si tamen passionem recipi in deo non oportet: neque enim vere sunt. Illam vero de actione recipit <name ref="#Augustine">Augustinus</name> sub 
+        catho<lb ed="#Bb" n="6" break="no"/>licorum generari est vera passio, sicut generare actio. Immo eam repellit <name xml:id="vn58an-fe37626-Nd1e1715" ref="#Boethius">Boethius</name>  cum dicit primo de triniitate. ca. xii. 
+        <lb ed="#Bb" n="7"/>Si tamen passionem recipi in deo non oportet: neque enim vere sunt. Illam vero de actione recipit <name xml:id="vn58an-fe37626-Nd1e1720" ref="#Augustine">Augustinus</name> sub 
         vo<lb ed="#Bb" n="8" break="no"/>cabulo facere, simul repellens illam de passione, cum dicit. <ref xml:id="vn58an-fe37626-Rgj1asd" corresp="#vn58an-fe37626-Qud898u">v. de triniitate. ca. x.</ref> <quote xml:id="vn58an-fe37626-Qud898u" source="http://scta.info/resource/adt-l5-d1e721@57-82">Quod ad faciendum attinet, 
         for<lb ed="#Bb" n="9" break="no"/>tassis de solo deo verissime dicatur: solus enim deus facit neque patitur quantum ad eius substantiam 
         perti<lb ed="#Bb" n="10" break="no"/>net</quote>. Non ergo propter motum qui magis pertinet ad passionem quam ad actionem, est quod generatio actiua diuina 

@@ -82,7 +82,7 @@
         <lb ed="#Bb" n="6"/>filius: quia inseparabiles sunt. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-fe83474-d1e161">
-        ⁋ In contrarium est quod dicit <name ref="#Augustine">Augustinus</name> nus. vi. de Trini. ca. ii. 
+        ⁋ In contrarium est quod dicit <name xml:id="vn58an-fe83474-Nd1e156" ref="#Augustine">Augustinus</name> nus. vi. de Trini. ca. ii. 
         <lb ed="#Bb" n="7"/>Verbum solum filius accipitur: non simul pater &amp; filius tanquam vnum verbum. 
       </p>
       <p xml:id="vn58an-fe83474-d1e169">
@@ -135,7 +135,7 @@
         <lb ed="#Bb" n="51"/>se: &amp; aliquis illorum vnus: quia illum solum vna gens coleret. Sed nos ad exclusionem talium  
         <lb ed="#Bb" n="52"/>plurium qui possent aestimari, dicimus solus deus id est vnicus: vt ly vnicus addat super vnus quod  
         <lb ed="#Bb" n="53"/>scilicet sic sit vnus quod nullo modo possint esse plures. Et sic accipitur solus cum dicitur 
-        <lb ed="#Bb" n="54"/>Deuteronomii octauo. <quote source="http://scta.info/resource/lc4_8@8-15 http://scta.info/resource/mt4_10@9-16">Dominum deum tuum adorabis: &amp; illi soli seruies</quote>. idest illi
+        <lb ed="#Bb" n="54"/>Deuteronomii octauo. <quote xml:id="vn58an-fe83474-Qd1e268" source="http://scta.info/resource/lc4_8@8-15 http://scta.info/resource/mt4_10@9-16">Dominum deum tuum adorabis: &amp; illi soli seruies</quote>. idest illi
         vnico<pb ed="#Bb" n="306-r"/><lb ed="#Bb" n="1" break="no"/>quamuis &amp; hic possit ly solus accipi in alia significatione scilicet vt ponitur exclusiue, sub hoc sensu: illi so 
         <lb ed="#Bb" n="2"/>i id est nulli alteri. Non enim est inconveniens quod in vna oratione ly solus possit habere plures 
         signi<lb ed="#Bb" n="3" break="no"/>ficationes: quia cum ly vnus aliquando ponatur pro eo quod est vnicus, non est inconveniens dicere quod in  
@@ -145,7 +145,7 @@
         pos<lb ed="#Bb" n="7" break="no"/>sent esse plures, licet essent alii plures &amp; ab aliis simul colendi. Et secundum hunc intellectum 
         locu<lb ed="#Bb" n="8" break="no"/>tus est dominus, quando dixit Deuter. xxxi. Videte quod ego sum solus. Et vt declararet 
         quomo<lb ed="#Bb" n="9" break="no"/>do solus, addidit. Et non est alius deus praeter me. Et hoc ad differentiam illorum de quibus de 
-        pro<lb ed="#Bb" n="10" break="no"/>ximo praemiserat: <quote source="http://scta.info/resource/deut32_37@3-10">Vbi sunt dii eorum, in quibus habebant fidutiam</quote>: Vnde sic in ista
+        pro<lb ed="#Bb" n="10" break="no"/>ximo praemiserat: <quote xml:id="vn58an-fe83474-Qd1e294" source="http://scta.info/resource/deut32_37@3-10">Vbi sunt dii eorum, in quibus habebant fidutiam</quote>: Vnde sic in ista
         significatio<lb ed="#Bb" n="11" break="no"/>ne diceretur addendo deus, videte quod ego sum solus deus. i. ille praeter quem non est alius deus. 
         <lb ed="#Bb" n="12"/>Si autem lysolus dicat remotionem associationis alterius ab eo cuius est determinatio in forma 
         <lb ed="#Bb" n="13"/>alia, aut secundum aliam rationem: in diuinis autem non est nisi forma eadem: sed secundum aliam &amp; aliam 
@@ -169,7 +169,7 @@
         <lb ed="#Bb" n="31"/>esse solus simpliciter, etsi esset cum multis aliis rebus quae non sunt homines: vt aliquis homo 
         di<lb ed="#Bb" n="32" break="no"/>citur currere solus, licet currat cum multis equis: &amp; monachus dicitur esse solus vbi est cum 
         mul<lb ed="#Bb" n="33" break="no"/>tis laicis absque socio sui ordinis. Sic deus non potest dici solus propter pluralitatem personarum 
-        <lb ed="#Bb" n="34"/>inseparabilem in vnitate essentiae. dicente <ref>Augustius vi. de triniitate. ca. iiii.</ref> <quote source="http://scta.info/resource/adt-l6-d1e817@24-109">Non inuenitur quomodo 
+        <lb ed="#Bb" n="34"/>inseparabilem in vnitate essentiae. dicente <ref xml:id="vn58an-fe83474-Rd1e349">Augustius vi. de triniitate. ca. iiii.</ref> <quote xml:id="vn58an-fe83474-Qd1e351" source="http://scta.info/resource/adt-l6-d1e817@24-109">Non inuenitur quomodo 
         di<lb ed="#Bb" n="35" break="no"/>ci possit aut pater solus, aut filius solus: cum semper atque inseparabiliter sint inuicem, neuter 
         so<lb ed="#Bb" n="36" break="no"/>lus. Solum patrem dicimus patrem, non quia separetur a filio, sed quia non ambo simul sunt pater</quote>. 
         <lb ed="#Bb" n="37"/>Idem autem intelligitur &amp; de spiritu sancto. Et per eundem modum non inuenitur quomodo possit 
@@ -182,7 +182,7 @@
         commu<lb ed="#Bb" n="44" break="no"/>nicando aliquem actum intellectus circa diuina. In ista enim significatione, cum dicitur solus deus, 
         <lb ed="#Bb" n="45"/>aut solus filius, aut aliquid huiusmodi, remouetur ab vno aliquo quod vel qui deus est, 
         associa<lb ed="#Bb" n="46" break="no"/>tio alterius in communicando eundem actum intellectus, significando quod non nisi vni personae, aut  
-        <lb ed="#Bb" n="47"/>non nisi secundum vnam rationem alicui conueniat actus intelligendi. Secundum quem modum dicit <name ref="#Augustine">Augustinus</name>  
+        <lb ed="#Bb" n="47"/>non nisi secundum vnam rationem alicui conueniat actus intelligendi. Secundum quem modum dicit <name xml:id="vn58an-fe83474-Nd1e382" ref="#Augustine">Augustinus</name>  
         <lb ed="#Bb" n="48"/>vii. de triniitate. cap. iii. Non maior essentia est pater &amp; filius simul, quam solus pater aut solus filius. Et 
         <lb ed="#Bb" n="49"/>lib. viii. cap. ii. Filius &amp; spiritus sanctus tam magnum aliquid sunt, quam solus pater. Et isto modo idem 
         <lb ed="#Bb" n="50"/>significat solus quod singulus: &amp; sunt tales propositiones verae. Licet enim personae non sint 
@@ -207,7 +207,7 @@
         <lb ed="#Bb" n="12"/>ascribit propositioni quam iam dicemus pertinere ad modum praecedentem, Magister primo senten. 
         <lb ed="#Bb" n="13"/>distin. xxi. capituld i. in fine, dicens. Cum dicitur tantus est solus pater, quantum simul illi tres: per hoc 
         <lb ed="#Bb" n="14"/>quod dicitur solus pater, non separatur ab aliis: sed hic est sensus: Solus pater. i. pater qui ita est pater 
-        <lb ed="#Bb" n="15"/>quod nec filius nec spiritus sanctus, tantus est &amp;c. Solus ergo pater dicitur (vt ait <name ref="#Augustine">Augustinus</name> lib. vi. 
+        <lb ed="#Bb" n="15"/>quod nec filius nec spiritus sanctus, tantus est &amp;c. Solus ergo pater dicitur (vt ait <name xml:id="vn58an-fe83474-Nd1e440" ref="#Augustine">Augustinus</name> lib. vi. 
         <lb ed="#Bb" n="16"/>cap. ix. de triniitate,) quia non nisi ipse ibi pater est. Sed mihi videtur quod ista expositio non est 
         conue<lb ed="#Bb" n="17" break="no"/>niens in hoc exemplo: eo quod cum sola persona tantum dicitur quantum duae vel tres simul, per hoc quod per 
         si<lb ed="#Bb" n="18" break="no"/>militatem plures coniunguntur in praedicato, in subiecto dicendo solus pater, per ly solus, ipse 
@@ -322,7 +322,7 @@
         sub<lb ed="#Bb" n="4" break="no"/>iectum, dicendo, solus deus vel solus pater est, vel est sapiens: semper falsae sunt propositiones: quia ab 
         <lb ed="#Bb" n="5"/>huiusmodi praedicatis excluderentur creaturae, nisi praedicatio per Antonymiam vel praerogatiuam 
         quan<lb ed="#Bb" n="6" break="no"/>dam intelligatur dici. tunc enim verae sunt, sicut illa Matth. xix. Nemo bonus nisi solus deus. &amp; secundum  
-        <lb ed="#Bb" n="7"/>quod dicit <ref>Augustius vii. de triniitate. cap. v.</ref> Fortassis deum solum oportet dicere essentiam: est enim 
+        <lb ed="#Bb" n="7"/>quod dicit <ref xml:id="vn58an-fe83474-Rd1e679">Augustius vii. de triniitate. cap. v.</ref> Fortassis deum solum oportet dicere essentiam: est enim 
         ve<lb ed="#Bb" n="8" break="no"/>re solus. 
       </p>
       <p xml:id="vn58an-fe83474-d1e682">
@@ -374,7 +374,7 @@
         <lb ed="#Bb" n="45"/>est sapiens, nec masculine nec neutraliter excluditur quaecumque persona singularis, quia tam 
         praedi<lb ed="#Bb" n="46" break="no"/>catum quam subiectum aequaliter singulis conuenit. Dicendo vero, solus pater est sapiens, masculine, 
         ex<lb ed="#Bb" n="47" break="no"/>cluduntur personae filii &amp; spiritus sancti: non autem neutraliter, quia praedicatum aequaliter convenit 
-        sin<lb ed="#Bb" n="48" break="no"/>gulis. Sed quemadmodum dicit <name ref="#Augustine">Augustinus</name> septimo de trinitate, non pater &amp; filius simul 
+        sin<lb ed="#Bb" n="48" break="no"/>gulis. Sed quemadmodum dicit <name xml:id="vn58an-fe83474-Nd1e781" ref="#Augustine">Augustinus</name> septimo de trinitate, non pater &amp; filius simul 
         <lb ed="#Bb" n="49"/>maior essentia est, quam solus pater, vel solus filius. Et Magister primo sententiarum distinctione 
         <lb ed="#Bb" n="50"/>xxi. in principio, Tantus est (inquit) pater solus, vel filius solus, vel spiritus sanctus solus, 
         quan<lb ed="#Bb" n="51" break="no"/>tum illi tres simul. Et duae personae vel tres simul, non sunt maius quam vna sola. Et hoc 
@@ -385,7 +385,7 @@
         <pb ed="#Bb" n="308-r"/>
         <lb ed="#Bb" n="1"/>Augustini sumptum in argumento de praedicatione essentiali, de personali. Vnde in fine assignando  
         <lb ed="#Bb" n="2"/>causam dicti sui, dicit quod inseparabiles sunt. Quia enim masculine ab vna persona respectu communis 
-        <lb ed="#Bb" n="3"/>praedicati bene excludantur aliae, aperte insinuat <name ref="#Augustine">Augustinus</name> quando lib. ii. contra Maximi. cap. iii. dicit sic. 
+        <lb ed="#Bb" n="3"/>praedicati bene excludantur aliae, aperte insinuat <name xml:id="vn58an-fe83474-Nd1e808" ref="#Augustine">Augustinus</name> quando lib. ii. contra Maximi. cap. iii. dicit sic. 
         <lb ed="#Bb" n="4"/>De inuisibili deo cum agerem, admonui vt crederem inuisibilem non solum patrem sed etiam filium in  
         <lb ed="#Bb" n="5"/>diuinitate, non secundum carnem. Vult ergo quod haec sit vera: non solum pater est inuisibilis: non autem  
         <lb ed="#Bb" n="6"/>neutraliter ratione eius quod est pater: quia sic non est nisi deus, &amp; solus deus est inuisibilis. Pro 
@@ -404,7 +404,7 @@
         di<lb ed="#Bb" n="19" break="no"/>ctis: in hoc videlicet, quod dicendo, soli sapienti deo, non oportet distinguere de praedicatione in  
         <lb ed="#Bb" n="20"/>neutro &amp; inrmasculino, quia in vtroque sensu vera est. Dicendo autem soli sapienti patri, vt 
         re<lb ed="#Bb" n="21" break="no"/>cte intelligatur, oportet distinguere quod excludendo masculine vera est, quia non excluditur nisi 
-        <lb ed="#Bb" n="22"/>creatura, sicut neque cum dicitur: soli deo immortali. Super quo mouit <ref><name ref="#Augustine">Augustinus</name> quaestionem 
+        <lb ed="#Bb" n="22"/>creatura, sicut neque cum dicitur: soli deo immortali. Super quo mouit <ref xml:id="vn58an-fe83474-Rd1e853"><name xml:id="vn58an-fe83474-Nd1e854" ref="#Augustine">Augustinus</name> quaestionem 
         <lb ed="#Bb" n="23"/>lib. ii. contra Maximi. cap. iiii.</ref> dicens. Quare solus deus dictus est habere immortalitatem, cum 
         <lb ed="#Bb" n="24"/>&amp; anima pro suo modo sit immortalis, &amp; alia spiritualis caelestisque natura, postea videbimus. 
         <lb ed="#Bb" n="25"/>scilicet lib. iii. cap. xii. vbi dicit sic. Immortalitatem autem deus habere dicitur solus, quia 

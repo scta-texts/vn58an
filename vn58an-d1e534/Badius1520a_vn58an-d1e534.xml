@@ -55,7 +55,7 @@
       <head xml:id="vn58an-d1e534-Hd1e107" type="question-title">Utrum debeat studio suo terminum imponere</head>
       <p xml:id="vn58an-d1e534-d1e110">
         <lb ed="#Ba" n="20"/>CIrca septimum arguitur quod homo studio suo in acquirendo scientiam: terminum aliquando debet 
-        <lb ed="#Ba" n="21"/>limponere. Primo sic. Apo dicit. <quote source="http://scta.info/resource/rom12_3@14-23">Non plus sapere quam oportet sapere: sed sapere
+        <lb ed="#Ba" n="21"/>limponere. Primo sic. Apo dicit. <quote xml:id="vn58an-d1e534-Qd1e109" source="http://scta.info/resource/rom12_3@14-23">Non plus sapere quam oportet sapere: sed sapere
         <lb ed="#Ba" n="22"/>lad sobrietatem</quote>. sed si terminus studio non esset imponendus: numquam contingeret tantum
         <lb ed="#Ba" n="23"/>sapere quin plul oporteret sapere. ergo &amp;c. 
       </p>
@@ -66,13 +66,13 @@
         <lb ed="#Ba" n="26"/>imponendus. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e534-d1e134">
-        ⁋ Contra est illud <ref xml:id="vn58an-d1e534-Rd1e136">Ecclesi. vi.</ref> <quote source="http://scta.info/resource/sir6_18@1-12">Eili a iuuentute excipe
+        ⁋ Contra est illud <ref xml:id="vn58an-d1e534-Rd1e136">Ecclesi. vi.</ref> <quote xml:id="vn58an-d1e534-Qd1e135" source="http://scta.info/resource/sir6_18@1-12">Eili a iuuentute excipe
         do<lb ed="#Ba" n="27" break="no"/>ctrinam: &amp; vsque ad canos inuenies sapientiam</quote>. sic autem facere nunquam esset cessare secundum intentionem
         <lb ed="#Ba" n="28"/>sapientis, ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e534-d1e144">
         ⁋ Item <ref xml:id="vn58an-d1e534-Rd1e146">
-        <name ref="#Augustine">Augustinus</name> i. de Academica</ref> dicit. Philosophia est a cuius vberibus nulla aetas quaerit excludi. 
+        <name xml:id="vn58an-d1e534-Nd1e147" ref="#Augustine">Augustinus</name> i. de Academica</ref> dicit. Philosophia est a cuius vberibus nulla aetas quaerit excludi. 
         <lb ed="#Ba" n="29"/>ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e534-d1e155">
@@ -87,7 +87,7 @@
         <lb ed="#Ba" n="38"/>invia: quousque ad terminum apertae contuitionis perueniatur in patria. Idcirco quantum ad studium sacrae 
         <lb ed="#Ba" n="39"/>scripturae absolute dicendum quod terminus studii in eo ponendus non est, immo dispositus &amp; ordina 
         <lb ed="#Ba" n="40"/>tus ad hoc semper intentionem proficiendi amplius &amp; amplius in ea habere debet. &amp; hoc maxime 
-        <lb ed="#Ba" n="41"/>ideo quia scibile in ipsa est infinitum: circa quod potest profectus procedere in infinitum. Secundum quod dicit <name ref="#Augustine">Augustinus</name> super 
+        <lb ed="#Ba" n="41"/>ideo quia scibile in ipsa est infinitum: circa quod potest profectus procedere in infinitum. Secundum quod dicit <name xml:id="vn58an-d1e534-Nd1e182" ref="#Augustine">Augustinus</name> super 
         <lb ed="#Ba" n="42"/>so. par. ii. ser. ix. Diuini cantici vox est. Quaerite dominum &amp; viuet anima vestra, quaeramus 
         inuenien<lb ed="#Ba" n="43" break="no"/>dum: quaeramus inuentum: vt inueniendus quaeratur, occultus est: vt inuentus quaeratur immensus est. 
         <lb ed="#Ba" n="44"/>Vnde alibi dicitur. Quaerite faciem eius semper. Satiat enim quaerentem: inquantum capit: inuenientem capaciorem 
@@ -117,7 +117,7 @@
         <lb ed="#Ba" n="12"/>sensibus nostris capacitas inest, quando mortificatio lesu circunfertur in corpore mortali. Quanto enim 
         <lb ed="#Ba" n="13"/>quis carne fessus est: tanto erit virtute robustior: &amp; sapientiae complexibus aptior. lgitur ad  
         <lb ed="#Ba" n="14"/>tales nuptias per senectam nullus excluditur: immo maturae aetati plus conveniunt. Propter quod dicit 
-        <lb ed="#Ba" n="15"/>Dauid in Psal. Laetetur cor quaerentium dominum &amp; <quote source="http://scta.info/resource/ps104_4@4-8">confirmamini: quaerite faciem eius semper</quote>. Quod
+        <lb ed="#Ba" n="15"/>Dauid in Psal. Laetetur cor quaerentium dominum &amp; <quote xml:id="vn58an-d1e534-Qd1e250" source="http://scta.info/resource/ps104_4@4-8">confirmamini: quaerite faciem eius semper</quote>. Quod
         Augu<lb ed="#Ba" n="16" break="no"/>stinus exponens. xii. de trinitae in prin. di. Videtur quid semper quaeritur numquam inueniri. &amp; quomodo iam laetabitur 
         <lb ed="#Ba" n="17"/>&amp; non potius contristabitur cor quaerentium, si non potuerint inuenire quod quaerunt: Et quod inueniri possit dum 
         quae<lb ed="#Ba" n="18" break="no"/>ritur: testatur Esa. cum dicit. Quaerite dum: &amp; mox vt inueneritis eum: inuocate illum. an inuentus 
@@ -134,10 +134,10 @@
         in<lb ed="#Ba" n="29" break="no"/>cipit: &amp; hoc totum contingit propter scibilis infinitatem. Secundum quod dicit Hila. de trinitate. Incipe: per 
         <lb ed="#Ba" n="30"/>curre: persiste: etsi non peruenturum: gratulabor tamen profecturum. Qui enim pie infinita pro 
         <lb ed="#Ba" n="31"/>sequitur: etsi non contingat aliquando: semper tamen proficiet: &amp; reuera saltem in futuro 
-        at<lb ed="#Ba" n="32" break="no"/>tinget. Secundum quod dicit <name ref="#Augustine">Augustinus</name> de bono perseuerantiae. Bonae spei est homo, si eum sic 
+        at<lb ed="#Ba" n="32" break="no"/>tinget. Secundum quod dicit <name xml:id="vn58an-d1e534-Nd1e290" ref="#Augustine">Augustinus</name> de bono perseuerantiae. Bonae spei est homo, si eum sic 
         perse<lb ed="#Ba" n="33" break="no"/>uerantem dies vltimus huius vitae inuenerit: vt adiiciantur ei quae proficienti defuerint: &amp; 
         <lb ed="#Ba" n="34"/>perficiendus quam puniendus potius iudicetur. Vnde de profunditate huius scientiae &amp; infinitate 
-        <lb ed="#Ba" n="35"/>scibilis in ea, dicit <name ref="#Augustine">Augustinus</name> in epistola ad Volusianum. Tanta est Christianarum 
+        <lb ed="#Ba" n="35"/>scibilis in ea, dicit <name xml:id="vn58an-d1e534-Nd1e300" ref="#Augustine">Augustinus</name> in epistola ad Volusianum. Tanta est Christianarum 
         profundi<lb ed="#Ba" n="36" break="no"/>tas literarum &amp;c. vsque ibi. Cum consummauerit homo: tunc incipit: longa est auctoritas, sed  
         <lb ed="#Ba" n="37"/>communis. Vnde Origenes exponens illud quod dicitur de lsaac. Gen. xxv. Habitauit iuxta puteum 
         <lb ed="#Ba" n="38"/>nomine viuentis &amp; videntis. Intelligentibus, inquit, grandis est ista benedictio: qui potest 
@@ -156,19 +156,19 @@
         ha<lb ed="#Ba" n="51" break="no"/>bere studendi consequenter in sacra scriptura: ne nimium immorando in aliis in illis tempus 
         con<lb ed="#Ba" n="52" break="no"/>sumat: per quod fructuosius in ista proficere posset, etiam si quis illis intendat: vt ad istam 
         scien<lb ed="#Ba" n="53" break="no"/>tiam veniens amplius &amp; pluribus proficiat: cum residuum temporis vitae suae ad capiendum  
-        <lb ed="#Ba" n="54"/>ea quae sunt huius scientiae non sufficiat. Ridiculum enim est vt dicit <name ref="#Augustine">Augustinus</name> in epistola 
+        <lb ed="#Ba" n="54"/>ea quae sunt huius scientiae non sufficiat. Ridiculum enim est vt dicit <name xml:id="vn58an-d1e534-Nd1e344" ref="#Augustine">Augustinus</name> in epistola 
         <lb ed="#Ba" n="55"/>ad Dioseorum, cum propterea multa superssua didiceris: vt tibi aures hominum ad votum prae- 
    <!--98.xml-->
         <pb ed="#Ba" n="42-r"/>
         <lb ed="#Ba" n="1"/>parentur: ipsa necessaria non tenere: quibus superslua praeparaueris: &amp; dum occuparis vt discas 
-        <lb ed="#Ba" n="2"/>vnde facias intentos nolle, discere quod infundatur intentis. Et <name ref="#Augustine">Augustinus</name> de vtilitate credendi.  
+        <lb ed="#Ba" n="2"/>vnde facias intentos nolle, discere quod infundatur intentis. Et <name xml:id="vn58an-d1e534-Nd1e358" ref="#Augustine">Augustinus</name> de vtilitate credendi.  
         <lb ed="#Ba" n="3"/>Iintelligere superfsua fortasse non nocet. Sed fortasse discere nocuit: cum tempus necessariorum occupa 
         <lb ed="#Ba" n="4"/>rent Et permittit tamen deus curiosos diutius in illis immorari scientiis: ne tempore illo implicent se 
-        <lb ed="#Ba" n="5"/>deterioribus. secundum quod dicitur Ecclesi. iii. <quote source="http://scta.info/resource/qoh3_10@1-11">Vidi afflictionem quam dedit deus filiis hominum: vt
+        <lb ed="#Ba" n="5"/>deterioribus. secundum quod dicitur Ecclesi. iii. <quote xml:id="vn58an-d1e534-Qd1e368" source="http://scta.info/resource/qoh3_10@1-11">Vidi afflictionem quam dedit deus filiis hominum: vt
         disten<lb ed="#Ba" n="6" break="no"/>dantur in ea</quote>. cuncta enim bona in tempore suo, &amp; mundum dedit disputationi eorum. Vbi dicit Glos.
         <lb ed="#Ba" n="7"/>Propterea dedit deus in praesenti etiam peruersorum dogmatum magistros: concessit occupationem: 
         <lb ed="#Ba" n="8"/>ne mens eorum ociosa torpesceret. Deus enim fecit omne bonum quod fecit. Sed in tempore suo bonum 
-        <lb ed="#Ba" n="9"/>bonum est: numquam vlterius quam opus est. Et ideo <name ref="#Augustine">Augustinus</name> loquens de studio scientiarum secularium, dicit 
+        <lb ed="#Ba" n="9"/>bonum est: numquam vlterius quam opus est. Et ideo <name xml:id="vn58an-d1e534-Nd1e379" ref="#Augustine">Augustinus</name> loquens de studio scientiarum secularium, dicit 
         <lb ed="#Ba" n="10"/>ii. de doc. Christ. In doctrinis quae apud gentes inueniuntur, in omnibus tenendum est nequid  
         <lb ed="#Ba" n="11"/>nimis. Et de ordine. L. ii. Talis eruditio si quis ea moderate vtatur (Nam nihil magis quam nimium 
         <lb ed="#Ba" n="12"/>formidandum est) talem philosophiae militem mittit: vt ad summum illum modum vltra quem requirere aliquid 
@@ -180,7 +180,7 @@
         <lb ed="#Ba" n="18"/>illam occupationem vanissimam: &amp; multa detrimenta patiuntur: &amp; cum omni diligentia quod audierint 
         <lb ed="#Ba" n="19"/>memoriae commendant: eaque ad animi sui perniciem infixa custodiunt. His vero vbi loquitur deus 
         <lb ed="#Ba" n="20"/>ne exiguum quidem tempus patienter expectent. Vltim. scilicet senectutis: quod tamen vtile esset multum 
-        <lb ed="#Ba" n="21"/>Secundum quod dicit <name ref="#Augustine">Augustinus</name> ad Hiero. Ad discendum quod opus est: nulla aetas sera videri potest: quia etsi 
+        <lb ed="#Ba" n="21"/>Secundum quod dicit <name xml:id="vn58an-d1e534-Nd1e408" ref="#Augustine">Augustinus</name> ad Hiero. Ad discendum quod opus est: nulla aetas sera videri potest: quia etsi 
         <lb ed="#Ba" n="22"/>senes magis decet docere quam discere, magis tamen discere quam quae doceant ignorare.  
       </p>
       <p xml:id="vn58an-d1e534-d1e409">

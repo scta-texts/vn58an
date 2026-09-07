@@ -69,8 +69,8 @@
       </p>
       <p xml:id="vn58an-fe13133-d1e136">
         ⁋ In contrarium est illud  
-        <lb ed="#Bb" n="49"/>salmi. <quote source="http://scta.info/resource/ps15_10@25-31">Delectationes in dextera tua vsque in finem</quote>. Et Prouerbiorum. ix. dicitur de sapientia
-        incre<lb ed="#Bb" n="50" break="no"/>ata: <quote source="http://scta.info/resource/prov8_30@6-13">Delectabar per singulos dies ludens coram eo</quote>. Et philosophus dicit. vii. Ethicorum. Deus semper
+        <lb ed="#Bb" n="49"/>salmi. <quote xml:id="vn58an-fe13133-Qd1e133" source="http://scta.info/resource/ps15_10@25-31">Delectationes in dextera tua vsque in finem</quote>. Et Prouerbiorum. ix. dicitur de sapientia
+        incre<lb ed="#Bb" n="50" break="no"/>ata: <quote xml:id="vn58an-fe13133-Qd1e138" source="http://scta.info/resource/prov8_30@6-13">Delectabar per singulos dies ludens coram eo</quote>. Et philosophus dicit. vii. Ethicorum. Deus semper
         gau<lb ed="#Bb" n="51" break="no"/>det vna &amp; simplici delectatione. 
       </p>
       <p xml:id="vn58an-fe13133-d1e146">
@@ -99,7 +99,7 @@
         <lb ed="#Bb" n="12"/>
       </p>
       <p xml:id="vn58an-fe13133-d1e190">
-        ⁋ Hic oportet primo videre quid sit delectatio re, &amp; ex hoc iuxta regulam <name ref="#Anselm">Anselmi</name> 
+        ⁋ Hic oportet primo videre quid sit delectatio re, &amp; ex hoc iuxta regulam <name xml:id="vn58an-fe13133-Nd1e191" ref="#Anselm">Anselmi</name> 
         <lb ed="#Bb" n="13"/>videre quom deo summe attribui debet. Est autem delectatio (vt dicit Philo. in i. Rhetoricae) motus quidam 
         <lb ed="#Bb" n="14"/>animae &amp; constitutio simul tota sensibilis in existentem naturam. 
       </p>
@@ -114,7 +114,7 @@
         <lb ed="#Bb" n="21"/>continet dictam suauitatem seu quod potius est ipsa suauitas, secundum genus praedicamenti qua  
         <lb ed="#Bb" n="22"/>litas est in tertia specie qualitatis: &amp; est passibilis qualitas, cum permanens est &amp; de difficili mobilis 
         <lb ed="#Bb" n="23"/>habens causam permanentem. Est autem passio siue affectio cum cito transit &amp; de facili mobilis est. Nec 
-        <lb ed="#Bb" n="24"/>quod hic dicimus, delectationem esse qualitatem, contrariatur illi quod dicit <name ref="#Aristotle">Philosophus</name> decimo 
+        <lb ed="#Bb" n="24"/>quod hic dicimus, delectationem esse qualitatem, contrariatur illi quod dicit <name xml:id="vn58an-fe13133-Nd1e222" ref="#Aristotle">Philosophus</name> decimo 
         Ethi<lb ed="#Bb" n="25" break="no"/>corum, quod neque delectatio, neque virtutis operationes sunt qualitates. Intelligit enim hoc de qualitate 
         <lb ed="#Bb" n="26"/>quae est habitus aut virtus in prima specie qualitatis, vt patet inspicienti: &amp; est id in quo 
         con<lb ed="#Bb" n="27" break="no"/>sistit delectatio, immo re est ipsa delectatio qua delectans delectatur: sicut albedo re est ipsa 
@@ -189,7 +189,7 @@
         <lb ed="#Bb" n="40"/>est verum, sed potius consistit in permanentia &amp; perfecto esse, quod est totum simul, vt iam dicetur: sed  
         <lb ed="#Bb" n="41"/>dicitur motus quia fit per quandam impressionem quae est motus, aut verius quasi subita mutatio 
         <lb ed="#Bb" n="42"/>quaedam: vt iam dicetur. In essentia autem sua ipsa non est nisi passio siue affectio siue passibilis qua  
-        <lb ed="#Bb" n="43"/>litas vt dictum est. Vnde exponendo quid intellexit per motum, dixit <name ref="#Aristotle">Philosophus</name> addens. Et 
+        <lb ed="#Bb" n="43"/>litas vt dictum est. Vnde exponendo quid intellexit per motum, dixit <name xml:id="vn58an-fe13133-Nd1e388" ref="#Aristotle">Philosophus</name> addens. Et 
         con<lb ed="#Bb" n="44" break="no"/>stitutio, vt legamus &amp; pro idest. Et nominatur, qualitas ista delectatio: quemadmodum si albedo di  
         <lb ed="#Bb" n="45"/>ceretur albatio: si non esset nomen hoc impositum, quod est albedo. Et dicitur delectatio secundum ratio 
         <lb ed="#Bb" n="46"/>nem nominis quasi delactatio, vt per metaphoram sensibilis rei a qua nomen imponitur, intelligamus 
@@ -211,7 +211,7 @@
         <lb ed="#Bb" n="5"/>perfecta suo conuenienti in natura sibi coniuncto: ideo exponendo quid dixit animae, subdit. In 
         natu<lb ed="#Bb" n="6" break="no"/>ram existentem. scilicet in suo actu perfecto per sibi conueniens in natura coniunctum: quod proprie 
         <lb ed="#Bb" n="7"/>est esse existentem. Sola enim proprie res illa dicitur existens natura, quae in suo esse perfecto 
-        con<lb ed="#Bb" n="8" break="no"/>sistit. Vnde dicit <name ref="#Aristotle">Philosophus</name> primo Rhetoricae. Necesse est delectabile esse in id quod est 
+        con<lb ed="#Bb" n="8" break="no"/>sistit. Vnde dicit <name xml:id="vn58an-fe13133-Nd1e439" ref="#Aristotle">Philosophus</name> primo Rhetoricae. Necesse est delectabile esse in id quod est 
         secun<lb ed="#Bb" n="9" break="no"/>dum naturam. vt haec sit definitio quam intendit Philosophus. Delectatio est constitutio 
         sensibi<lb ed="#Bb" n="10" break="no"/>lis (idest perceptibilis) in existentem naturam simul tota. Et est l constitutio, loco generis: &amp; 
         dici<lb ed="#Bb" n="11" break="no"/>tur constitutio, quia delectatio consistit in quodam facto esse: &amp; hoc quia non consistit in solo fieri, 
@@ -227,8 +227,8 @@
         <lb ed="#Bb" n="21"/>delectanti. Intelligere autem &amp; velle est quid expressum in intelligente &amp; volente. Propter quod delectari 
         signi<lb ed="#Bb" n="22" break="no"/>ficat modo passionis, intelligere autem &amp; velle modo actionis. Propter quod delectatio dicitur 
         pro<lb ed="#Bb" n="23" break="no"/>prie passio, licet accepto nomine passionis vt dictum est supra: non operatio. Intelligere vero &amp; vel 
-        <lb ed="#Bb" n="24"/>le dicuntur operatio proprie non passio: licet secundum <name ref="#Aristotle">Philosophum</name> in secundo de anima, 
-        intelli<lb ed="#Bb" n="25" break="no"/>gere &amp; velle passiones quaedam sunt: delectatio vero est operatio quaedam, vt dicit <name ref="#Aristotle">Philosophus</name> 
+        <lb ed="#Bb" n="24"/>le dicuntur operatio proprie non passio: licet secundum <name xml:id="vn58an-fe13133-Nd1e477" ref="#Aristotle">Philosophum</name> in secundo de anima, 
+        intelli<lb ed="#Bb" n="25" break="no"/>gere &amp; velle passiones quaedam sunt: delectatio vero est operatio quaedam, vt dicit <name xml:id="vn58an-fe13133-Nd1e482" ref="#Aristotle">Philosophus</name> 
         <lb ed="#Bb" n="26"/>in decimo Ethicorum. Caetera vero in dicta definitione tenent locum differentiae, vt dictum est. 
         <lb ed="#Bb" n="27"/>Per hoc enim quod dicit in existentem naturam, tangit subiectum siue causam materialem, vt 
         di<lb ed="#Bb" n="28" break="no"/>ctum est, quae communis &amp; generalis potest esse ad naturam creatam in sua delectatione, &amp; ad in  
@@ -297,7 +297,7 @@
         in<lb ed="#Bb" n="28" break="no"/>tellecti vnum sint certissime: ideo suiipsius est maximus amator &amp; amatum: &amp; magis delectans &amp; 
         <lb ed="#Bb" n="29"/>delectatum est excellentior apprehensor cum excellentiore apprehensione excellentioris 
         apprehen<lb ed="#Bb" n="30" break="no"/>si, ideo est excellentior delectator cum excellentiore delectatione in excellentiori delectato. &amp; hoc 
-        <lb ed="#Bb" n="31"/>est in quo nihil comparatur ei. Hinc etiam dicit <name ref="#Aristotle">Philosophus</name> septimo Ethicorum. Cuius natura sim 
+        <lb ed="#Bb" n="31"/>est in quo nihil comparatur ei. Hinc etiam dicit <name xml:id="vn58an-fe13133-Nd1e628" ref="#Aristotle">Philosophus</name> septimo Ethicorum. Cuius natura sim 
         <lb ed="#Bb" n="32"/>plex est, semper eadem actio delectabilissima erit. propter quod deus semper vna &amp; simplici gaudet 
         <lb ed="#Bb" n="33"/>delectatione.  
         <lb ed="#Bb" n="34"/>
@@ -310,7 +310,7 @@
         abso<lb ed="#Bb" n="38" break="no"/>lute, quia ipsa simpliciter est bonum cuicumque bene disposito secundum suam naturam. Et quod tali bonum 
         <lb ed="#Bb" n="39"/>est, simpliciter bonum est, sicut simpliciter est sanum, quod est sanum sano. Vnde quod omnia 
         delecta<lb ed="#Bb" n="40" break="no"/>tionem appetunt, hoc signum est non solum quod sit bonum, sed quod sit aliqualiter optimum, vt 
-        di<lb ed="#Bb" n="41" break="no"/>cit <name ref="#Aristotle">Philosophus</name> septimo Ethicorum. Et reuera est aliqualiter optimum: quia (vt ibidem 
+        di<lb ed="#Bb" n="41" break="no"/>cit <name xml:id="vn58an-fe13133-Nd1e656" ref="#Aristotle">Philosophus</name> septimo Ethicorum. Et reuera est aliqualiter optimum: quia (vt ibidem 
         determinat<lb ed="#Bb" n="42" break="no"/>consequitur ad id quid simpliciter est optimum vnicuique: quod quidem optimum principaliter omnia appetunt. De 
         <lb ed="#Bb" n="43"/>quo dicit quod omnia habent quoddam diuinum, quod scilicet est sua vltima perfectio qua attingunt sua na 
         <lb ed="#Bb" n="44"/>turali operatione bonum diuinum vel secundum eius essentiam. vel secundum participationem 
@@ -347,7 +347,7 @@
         per<lb ed="#Bb" n="20" break="no"/>fectionem, sed ad indigentiam. Vnde sunt delectationes naturales circa necessaria in viuere &amp; bene 
         viue<lb ed="#Bb" n="21" break="no"/>re: vt sunt delectationes naturales in cibo &amp; potu necessario, &amp; coitu licito, &amp; huiusmodi, quia per 
         <lb ed="#Bb" n="22"/>delectationes huiusmodi annexas melius proficiunt naturae in sua operatione &amp; in acquisitione finis ad  
-        <lb ed="#Bb" n="23"/>quem sunt quam sine eis. Vnde de talibus dicit <name ref="#Aristotle">Philosophus</name> in vii. Ethicorum: quod sunt medicinae indigentibus &amp; 
+        <lb ed="#Bb" n="23"/>quem sunt quam sine eis. Vnde de talibus dicit <name xml:id="vn58an-fe13133-Nd1e739" ref="#Aristotle">Philosophus</name> in vii. Ethicorum: quod sunt medicinae indigentibus &amp; 
         <lb ed="#Bb" n="24"/>per accidens studiosae. Si autem talis delectatio sequitur excessum, scilicet circa talia assumpta, vltra quam  
         <lb ed="#Bb" n="25"/>sit necessarium naturae, sic illi malae sunt, simpliciter tamen in se bonae, quia per se sequuntur 
         substan<lb ed="#Bb" n="26" break="no"/>tiam actionis: &amp; bonae essent illi qui vsque ad illum excessum indigeret illis quibus sunt annexae. Vnde 
@@ -448,7 +448,7 @@
         <lb ed="#Bb" n="52"/>ardentiori amore fertur in obiectum: &amp; per hoc intendit operationem: &amp; firmat ipsum firmius tenendo  
         <lb ed="#Bb" n="53"/>se per actum in obiectum: &amp; per hoc etiam coauget &amp; firmat btintudinem in beato: quamquam totum simul fiat in eodem 
         <lb ed="#Bb" n="54"/>instanti, &amp; quamquam omnia haec in deo habent considerari: vt sola ratione differentia. Vnde quia sic 
-        con<lb ed="#Bb" n="55" break="no"/>iuncta sunt delectatio &amp; operatio: dicit <name ref="#Aristotle">Philosophus</name> quod delectatio est operatio eius qui secundum 
+        con<lb ed="#Bb" n="55" break="no"/>iuncta sunt delectatio &amp; operatio: dicit <name xml:id="vn58an-fe13133-Nd1e945" ref="#Aristotle">Philosophus</name> quod delectatio est operatio eius qui secundum 
    <!--118.xml-->
         <pb ed="#Bb" n="52-r"/>
         <lb ed="#Bb" n="1"/>naturam habitus. Et in x. dicit, quod delectationes propinquae sunt operationibus &amp; indiscretae, sic vt 
@@ -462,7 +462,7 @@
         qui<lb ed="#Bb" n="9" break="no"/>dam finis superueniens, quasi naturaliter fini principali annexus, quia inquantum distillat in 
         de<lb ed="#Bb" n="10" break="no"/>lectantem, sit sequens actionem, licet quasi a posteriori non in anterius habet rationem finis 
         cu<lb ed="#Bb" n="11" break="no"/>iusdam, inquantum tamen cum distillata fuerit, est principium &amp; dispositio qua efficacius elicitur 
-        <lb ed="#Bb" n="12"/>actus in obiectum. Et sic quamquam <name ref="#Aristotle">Philosophus</name> dimittat in dubio, an delectatio sit propter 
+        <lb ed="#Bb" n="12"/>actus in obiectum. Et sic quamquam <name xml:id="vn58an-fe13133-Nd1e979" ref="#Aristotle">Philosophus</name> dimittat in dubio, an delectatio sit propter 
         operatio<lb ed="#Bb" n="13" break="no"/>nem an econuerso: visis tamen praedictis non amplius manet dubium, quin delectatio sit propter 
         ope<lb ed="#Bb" n="14" break="no"/>rationem intendendam &amp; firmandam, non autem econuerso operatio propter delectationem, licet 
         <lb ed="#Bb" n="15"/>sit per ipsam. Vnde delectatio non est nisi propter aliud intenta, scilicet propter fortiorem finis adeptio 

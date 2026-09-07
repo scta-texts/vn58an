@@ -76,7 +76,7 @@
       <p xml:id="vn58an-d1e1479-d1e145">
         ⁋ 
         Quar<lb ed="#Ba" n="21" break="no"/>to sic. Illud non potest esse subiectum in scientia: cuius non sunt principia, partes, &amp; passiones per se 
-        considera<lb ed="#Ba" n="22" break="no"/>tae in scientia. Secundum enim <name ref="#Aristotle">Philosophum</name> primo posterirum vna scientia est quae est vnius generis subiecti, quaecunque  
+        considera<lb ed="#Ba" n="22" break="no"/>tae in scientia. Secundum enim <name xml:id="vn58an-d1e1479-Nd1e144" ref="#Aristotle">Philosophum</name> primo posterirum vna scientia est quae est vnius generis subiecti, quaecunque  
         <lb ed="#Ba" n="23"/>ex primis componuntur: &amp; partes &amp; passiones horum sunt per se. Dei autem non sunt principia neque partes, neque  
         <lb ed="#Ba" n="24"/>passiones. ergo &amp;c. 
       </p>
@@ -85,7 +85,7 @@
         <lb ed="#Ba" n="25"/>ponere de deo ista scientia: quia in deo quod est dicere est impossibile. vt dicit. Dama id est sententiarum. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e1479-d1e164">
-        <lb ed="#Ba" n="26"/>⁋ Sexto sic. <name ref="#Boethius">Boethius</name>  de trinitate. Eorma simplex nulli subiectum esse potest, Deus est huiusmodi. ergo &amp;c. 
+        <lb ed="#Ba" n="26"/>⁋ Sexto sic. <name xml:id="vn58an-d1e1479-Nd1e161" ref="#Boethius">Boethius</name>  de trinitate. Eorma simplex nulli subiectum esse potest, Deus est huiusmodi. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e1479-d1e172">
         ⁋ Septimo 
@@ -129,7 +129,7 @@
         <lb ed="#Ba" n="47"/>se: dum tamen omnes attribuuntur alicui vni principaliter considerato in scientia: quoniam medicina est scientia vna 
         <lb ed="#Ba" n="48"/>de omnibus attributis sanitati corporis: siue sit indicatiuum sanitatis, vt vrina, siue effectiuum: vt syropus, 
         <lb ed="#Ba" n="49"/>siue conseruatiuum: vt ordinata diaeta. &amp;c. huiusmodi. Sic &amp; caeterorum similium ad idem attributionem habentium est 
-        <lb ed="#Ba" n="50"/>vna scientia: quoniam vt dicit <name ref="#Aristotle">Philosophus</name> in principio. 4. politi. in omnibus artibus &amp; scientiis quae sunt secundum vnum genus aliquod: vnius 
+        <lb ed="#Ba" n="50"/>vna scientia: quoniam vt dicit <name xml:id="vn58an-d1e1479-Nd1e245" ref="#Aristotle">Philosophus</name> in principio. 4. politi. in omnibus artibus &amp; scientiis quae sunt secundum vnum genus aliquod: vnius 
         <lb ed="#Ba" n="51"/>est considerare quod congruit circa vnumquodque genus. ita quod secundu hoc quaelibet scientia considerat aliquid vt genus 
         sub<lb ed="#Ba" n="52" break="no"/>iectum: &amp; alia plura quae congruunt circa illud. In omnibus enim quae sic diuersimode cadunt sub consideratione vnius, 
         <lb ed="#Ba" n="53"/>ita se hius vt dicit. i. 4. Metaphysica. quod scientia in rei veritate &amp; principliciter est illius rei priori per quam aliae res continentur 
@@ -163,7 +163,7 @@
         pri<lb ed="#Ba" n="25" break="no"/>morum principiorum huius scientiae quae sunt articuli fidei. Primi enim articuli fidei ad quos omnes alii 
         re<lb ed="#Ba" n="26" break="no"/>ducuntur, sunt de deo. Vnde &amp; sacramenta ecclesiae virtutem suam non habent nisi in fide trinitatis. ldem 
         au<lb ed="#Ba" n="27" break="no"/>tem est fundamentum &amp; subiectum totius scientiae &amp; principiorum eius. Aliud vero est simpliciter signum: 
-        vide<lb ed="#Ba" n="28" break="no"/>licet nominis intitulatio, quod haec scientia dicitur theologia quasi de deo sermoco. vt dicit <name ref="#Augustine">Augustinus</name> vii. de ciui. dei.  
+        vide<lb ed="#Ba" n="28" break="no"/>licet nominis intitulatio, quod haec scientia dicitur theologia quasi de deo sermoco. vt dicit <name xml:id="vn58an-d1e1479-Nd1e321" ref="#Augustine">Augustinus</name> vii. de ciui. dei.  
       </p>
       <p xml:id="vn58an-d1e1479-d1e332">
         <lb ed="#Ba" n="29"/>⁋ Ad primum in oppositum, quod finis scientiae non est idem cum subiecto: Dicendum quod idem 
@@ -202,8 +202,8 @@
         ⁋ Propter quod dicendum aliter- 
    <!--245.xml-->
         <pb ed="#Ba" n="115-v"/>
-        <lb ed="#Ba" n="1"/>quod cum agens &amp; finis determinant sibi materiam vt vult <name ref="#Aristotle">Philosophus</name> de agente id i. de anima. de fine. ii. Physi. 
-        <lb ed="#Ba" n="2"/>secundum quod duplex est operatio agentis, vt distinguit <name ref="#Aristotle">Philosophus</name> in primo politicae: vna quae dicitur factio: 
+        <lb ed="#Ba" n="1"/>quod cum agens &amp; finis determinant sibi materiam vt vult <name xml:id="vn58an-d1e1479-Nd1e399" ref="#Aristotle">Philosophus</name> de agente id i. de anima. de fine. ii. Physi. 
+        <lb ed="#Ba" n="2"/>secundum quod duplex est operatio agentis, vt distinguit <name xml:id="vn58an-d1e1479-Nd1e405" ref="#Aristotle">Philosophus</name> in primo politicae: vna quae dicitur factio: 
         <lb ed="#Ba" n="3"/>altera quae dicitur actio: &amp; duplex finis, vt distinguit in primo Ethicorum. quorum vnus dicitur 
         operatio<lb ed="#Ba" n="4" break="no"/>alter res operata (nam factio est operatio ex qua derelinquitur aliquid operatum tanquam finis: vt ex 
         <lb ed="#Ba" n="5"/>operatione fabri cultellus: actio vero dicitur operatio illa ex qua nihil operatum relinquitur: sed 
@@ -236,7 +236,7 @@
         <lb ed="#Ba" n="29"/>deum. Scientiae autem philosophicae econtrario primo considerant de creaturis, vltimo autem de deo:  
         <lb ed="#Ba" n="30"/>quia inuestigatio naturalis rationis a posteriori &amp; magis sensibili &amp; composito incipit, tanquam a magis 
         <lb ed="#Ba" n="31"/>notis nobis: &amp; procedit ad simpliciora intelligibilia magis: vt dicitur in principio Physi. Et ideo 
-        vlti<lb ed="#Ba" n="32" break="no"/>mo considerant de deo &amp; de rebus spiritualibus diuinis. <quote source="http://scta.info/resource/rom1_20@1-13">Inuisibilia enim dei per ea quae facta sunt
+        vlti<lb ed="#Ba" n="32" break="no"/>mo considerant de deo &amp; de rebus spiritualibus diuinis. <quote xml:id="vn58an-d1e1479-Qd1e475" source="http://scta.info/resource/rom1_20@1-13">Inuisibilia enim dei per ea quae facta sunt
         in<lb ed="#Ba" n="33" break="no"/>tellecta conspiciuntur</quote>, vt dicitur de scientia philosophorum. Ro. i. Propter quod inter scientias philosophicas vltima est 
         <lb ed="#Ba" n="34"/>Metaphysica: quia finis speculationis in tota philosophia est cognitio dei: &amp; caelestium spirituum. secundum  
         <lb ed="#Ba" n="35"/>quod dicit Auicen. i. Metaphy. suae. Ordo (inquit) huius scientiae est vt discatur post scientias naturales &amp; disci 
@@ -295,12 +295,12 @@
         se<lb ed="#Ba" n="25" break="no"/>cundum quod cantat litera in principio Poster. Dupliciter praecognoscere necessarium est. alia namque quia 
         <lb ed="#Ba" n="26"/>sunt, opinari necesse est: alia vero quid est quod dicitur, intelligere. Et hoc modo bene possibile est 
         dice<lb ed="#Ba" n="27" break="no"/>re de deo, quid scilicet est quod hoc nomine deus dici intelligitur: quoniam tale aliquid, quo maius excogitari non 
-        po<lb ed="#Ba" n="28" break="no"/>test. vt dicit <name ref="#Anselm">Anselmus</name> Vnde dicit <name ref="#Augustine">Augustinus</name> Dens latinae linguae socios cum aures eorum sonus iste tetigerit, 
+        po<lb ed="#Ba" n="28" break="no"/>test. vt dicit <name xml:id="vn58an-d1e1479-Nd1e598" ref="#Anselm">Anselmus</name> Vnde dicit <name xml:id="vn58an-d1e1479-Nd1e601" ref="#Augustine">Augustinus</name> Dens latinae linguae socios cum aures eorum sonus iste tetigerit, 
         <lb ed="#Ba" n="29"/>mouet ad cogitandum excellentissimam quandam immortalemque naturam. 
       </p>
       <p xml:id="vn58an-d1e1479-d1e611">
         ⁋ Ad sextum, quod forma simplex 
-        nul<lb ed="#Ba" n="30" break="no"/>li potest esse iubiectum: Dicendum quod verum est accidentium verorum, quid <name ref="#Boethius">Boethius</name>  intendit. Vnde 
+        nul<lb ed="#Ba" n="30" break="no"/>li potest esse iubiectum: Dicendum quod verum est accidentium verorum, quid <name xml:id="vn58an-d1e1479-Nd1e611" ref="#Boethius">Boethius</name>  intendit. Vnde 
         sta<lb ed="#Ba" n="31" break="no"/>tim subiungit pro causa dicti sui. Eormae vero subiectae esse non possunt. Nam quod caeterae formae subiectae 
         <lb ed="#Ba" n="32"/>accidentibus sunt: hoc facit materia. Considerationi vero &amp; scientiae forma maxime habet esse 
         subie<lb ed="#Ba" n="33" break="no"/>ctum: quia nihil scitur nisi per formam, secundum philosophum. An autem in creaturis: &amp; quomodo 
@@ -339,7 +339,7 @@
         subie<lb ed="#Ba" n="3" break="no"/>ctum huius scientiae ponit Cassiod. Christum totum caput &amp; membra. 
       </p>
       <p xml:id="vn58an-d1e1479-d1e690">
-        ⁋ Ad decimum secundum <name ref="#Augustine">Augustinus</name>  
+        ⁋ Ad decimum secundum <name xml:id="vn58an-d1e1479-Nd1e688" ref="#Augustine">Augustinus</name>  
         <lb ed="#Ba" n="4"/>dicendum, quod loquitur communiter de materia vt subiectum scientiae sub se continet, &amp; etiam ea quae sunt ipsi 
         sub<lb ed="#Ba" n="5" break="no"/>iecto attributa. Res enim sunt &amp; illa quibus fruendum est: vt est ipse deus: &amp; vt sunt tres personae 
         di<lb ed="#Ba" n="6" break="no"/>uinae: quae pertinent ad rationem subiecti huius scientiae. Res sunt illa etiam quibus vtendum est: vt sunt 

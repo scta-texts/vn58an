@@ -83,7 +83,7 @@
       </p>
       <p xml:id="vn58an-d1e106-d1e160">
         ⁋ Quinto sic, puer gradatim &amp; artificiose interrogatus tanquam peritissimus disciplinae, respondet 
-        <lb ed="#Ba" n="21"/>ad omnia interrogata geometrae: vt dicit <name ref="#Augustine">Augustinus</name> auctoritate Platonis. xii. de triniitate. hoc autem non 
+        <lb ed="#Ba" n="21"/>ad omnia interrogata geometrae: vt dicit <name xml:id="vn58an-d1e106-Nd1e157" ref="#Augustine">Augustinus</name> auctoritate Platonis. xii. de triniitate. hoc autem non 
         <lb ed="#Ba" n="22"/>posset facere nisi naturaliter habendo illius artis peritiam. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e106-d1e170">
@@ -139,7 +139,7 @@
    <!--37.xml-->
         <pb ed="#Ba" n="11-v"/>
         <lb ed="#Ba" n="1"/>tamen habitus omnes sciendi in particulari: sed vsum &amp; actum sciendi solum in vniuersali. 
-        secun<lb ed="#Ba" n="2" break="no"/>dum quod dicit <name ref="#Boethius">Boethius</name>  in suo metro in persona animae dicentis. Cum mentem cernerem altam singula 
+        secun<lb ed="#Ba" n="2" break="no"/>dum quod dicit <name xml:id="vn58an-d1e106-Nd1e260" ref="#Boethius">Boethius</name>  in suo metro in persona animae dicentis. Cum mentem cernerem altam singula 
         <lb ed="#Ba" n="3"/>noui. Nunc membrorum condita nube sumam retinui: singula perdidi. Et tunc postmodum ponebant 
         <lb ed="#Ba" n="4"/>animam per vsum &amp; exercitium eius in corpore amouere illud impedimentum. Sicut faciunt in  
         <lb ed="#Ba" n="5"/>recordatiuis positi volentes memorari eorum quorum erant obliti. Et per hunc modum posuit 
@@ -190,7 +190,7 @@
         <lb ed="#Ba" n="41"/>diuinarum homo videbat synceram veritatem: &amp; quod non scientiam certam: sed opinionem solam 
         <lb ed="#Ba" n="42"/>posset acquirere per sensus. in quo verissime locutus est, vt visum est supra. Secundo posuit quod 
         lu<lb ed="#Ba" n="43" break="no"/>cem idearum semper sibi habuit anima praesentem. quod similiter optime dixit. secundum enim quod  
-        <lb ed="#Ba" n="44"/>dicit <name ref="#Augustine">Augustinus</name> secundo de libero arbitrio, illa veritas &amp; sapientiae pulchritudo semper adest omnibus 
+        <lb ed="#Ba" n="44"/>dicit <name xml:id="vn58an-d1e106-Nd1e362" ref="#Augustine">Augustinus</name> secundo de libero arbitrio, illa veritas &amp; sapientiae pulchritudo semper adest omnibus 
         <lb ed="#Ba" n="45"/>proxima est omnibus, sempiterna, in nullo loco est: nusquam deest: foris admonet: intus docet: nullus de 
         il<lb ed="#Ba" n="46" break="no"/>la iudicat: nullus sine ea recte iudicat. Tertio dixit quod deus praesens animam notitia perfecta 
         ve<lb ed="#Ba" n="47" break="no"/>ritatis de necessitate illuminat: &amp; quod hoc non facit modo in nobis, hoc contingit quia illustrationem 
@@ -204,7 +204,7 @@
         quos<lb ed="#Ba" n="55" break="no"/>dam perfecte quosdam nihil. In quibus est lux in tenebris lucens: &amp; tenebrae eam non comprehenderunt. 
    <!--38.xml-->
         <pb ed="#Ba" n="12-r"/>
-        <lb ed="#Ba" n="1"/>Propter quod dicit <name ref="#Augustine">Augustinus</name> i. solius Nouit ista pulchritudo quando se ostendat. illa enim etiam medici fungitur 
+        <lb ed="#Ba" n="1"/>Propter quod dicit <name xml:id="vn58an-d1e106-Nd1e395" ref="#Augustine">Augustinus</name> i. solius Nouit ista pulchritudo quando se ostendat. illa enim etiam medici fungitur 
         mu<lb ed="#Ba" n="2" break="no"/>nere: meliusque intelligit qui sunt sani quam iidem ipsi qui sanantur, quantum enim in se est omnes aequaliter 
         <lb ed="#Ba" n="3"/>illustrat. Quod videns Plato, &amp; cum hoc videns quod anima quantum est de se nisi esset corpore obumbrata 
         per<lb ed="#Ba" n="4" break="no"/>fecte nata est illustrari: bene vidit quod status iste quem modo habet in corpore, quodam modo est ei praeter 
@@ -224,7 +224,7 @@
         de<lb ed="#Ba" n="18" break="no"/>bet synceram veritatem in luce aeterna, sicut vidit in statu innocentiae, modo caecus est: quia nisi 
         <lb ed="#Ba" n="19"/>purgetur aliquantulum in illa nihil videre omnino potest. Oculus autem rationis quo mens cuncta 
         <lb ed="#Ba" n="20"/>rationis deductione per sensus in statu innocentiae intellecta percepisset: nunc lippus factus est, vt 
-        <lb ed="#Ba" n="21"/>ex sensibus nullam certam notitiam accipiat, vt dictum est supra. &amp; dicit <name ref="#Augustine">Augustinus</name> it sol. Dum in hoc 
+        <lb ed="#Ba" n="21"/>ex sensibus nullam certam notitiam accipiat, vt dictum est supra. &amp; dicit <name xml:id="vn58an-d1e106-Nd1e441" ref="#Augustine">Augustinus</name> it sol. Dum in hoc 
         <lb ed="#Ba" n="22"/>corpore est anima etiam si plenissime videat hoc est intelligat, tamen quia corporis sensus vtuntur ope 
         <lb ed="#Ba" n="23"/>re proprio, si nihil quidem valeant ad fallendum, tamen nonnihil valent ad ambigendum. Non ergo  
         <lb ed="#Ba" n="24"/>vera sententia erat dictorum virorum quod scientia inest homini a natura siue ab extra proueniendo  
@@ -299,7 +299,7 @@
         agen<lb ed="#Ba" n="33" break="no"/>tibus aliis operetur quod imperfectum est: &amp; immediate quod perfectum est, vt per hunc modum sine deo 
         nul<lb ed="#Ba" n="34" break="no"/>la natura subsistat, nulla doctrina instruat, nullus vsus expediat, vt dicit Augustinus. iiii. de ciui. 
         <lb ed="#Ba" n="35"/>dei. &amp; sic res quas primo condidit administrare non cessat, vt secundum hoc verificetur quod dixit filius 
-        <lb ed="#Ba" n="36"/>in Euang. <quote source="http://scta.info/resource/io5_17@5-12">Pater meus vsque modo operatur &amp; ego operor</quote>.
+        <lb ed="#Ba" n="36"/>in Euang. <quote xml:id="vn58an-d1e106-Qd1e605" source="http://scta.info/resource/io5_17@5-12">Pater meus vsque modo operatur &amp; ego operor</quote>.
       </p>
       <p xml:id="vn58an-d1e106-d1e612">
         ⁋ Positiones omnium aliorum circa hanc materiam 
@@ -331,7 +331,7 @@
       <p xml:id="vn58an-d1e106-d1e665">
         <lb ed="#Ba" n="3"/>⁋ Quia ergo dicitur primo quod potentia cognitiua est potentia naturalis, ergo 
         na<lb ed="#Ba" n="4" break="no"/>turaliter potest in suam operationem: Dicendum quod potentia naturalis dupliciter dicitur, secundum  
-        <lb ed="#Ba" n="5"/>duos modos naturae: quos ponit <name ref="#Boethius">Boethius</name>  de duabus nat. Vno modo proprie vis insita rebus prim 
+        <lb ed="#Ba" n="5"/>duos modos naturae: quos ponit <name xml:id="vn58an-d1e106-Nd1e670" ref="#Boethius">Boethius</name>  de duabus nat. Vno modo proprie vis insita rebus prim 
         <lb ed="#Ba" n="6"/>cipium mouens per se non per accidens. hoc modo potentia valet ad vnum tantum: vt ignis calefacit. &amp; 
         <lb ed="#Ba" n="7"/> 
         <lb ed="#Ba" n="8"/>sic potentia cognitiua non est potentia naturalis. Alio modo dicitur potentia naturalis 
@@ -341,7 +341,7 @@
         in<lb ed="#Ba" n="12" break="no"/>dita &amp; non ab extrinseco acquisita. respectu vero sui actus maxime illius qui est scire ea quae post 
         prin<lb ed="#Ba" n="13" break="no"/>cipia, non est proprie potentia naturalis: sed rationalis: quia scire conclusiones non contingit 
         homi<lb ed="#Ba" n="14" break="no"/>ni nisi via rationalis inquisitionis &amp; inuestigationis, quae valet ad opposita: quia in ea potest erra 
-        <lb ed="#Ba" n="15"/>re &amp; dirigere. Vnde <name ref="#Aristotle">Philosophus</name> in secundo physicae. diuidit principium operatiuum quod est ratio, 
+        <lb ed="#Ba" n="15"/>re &amp; dirigere. Vnde <name xml:id="vn58an-d1e106-Nd1e695" ref="#Aristotle">Philosophus</name> in secundo physicae. diuidit principium operatiuum quod est ratio, 
         con<lb ed="#Ba" n="16" break="no"/>tra principium operatiuum quod est natura: eo quod rationalis potestas valet ad opposita: natura vero ad  
         <lb ed="#Ba" n="17"/>vnum tantum. 
       </p>
@@ -364,7 +364,7 @@
         <lb ed="#Ba" n="30"/>perfectiorem circa obiectum superius &amp; perfectius in natura: &amp; in modo operandi: quia citius 
         <lb ed="#Ba" n="31"/>actum perfectum suae operationis acquirit. Primo modo intellectiua potentia simpliciter perfectior est 
         <lb ed="#Ba" n="32"/>sensitiua: quia intelligere est actio perfectior quam sentire: quia circa obiectum perfectius. vnde intellectus 
-        <lb ed="#Ba" n="33"/>operatione sua habet iudicare de operatione sensus, non econuerso. sicut dicit <name ref="#Augustine">Augustinus</name> ii. de lib. 
+        <lb ed="#Ba" n="33"/>operatione sua habet iudicare de operatione sensus, non econuerso. sicut dicit <name xml:id="vn58an-d1e106-Nd1e742" ref="#Augustine">Augustinus</name> ii. de lib. 
         arbi<lb ed="#Ba" n="34" break="no"/>trio. De secundo modo perfectionis loquendo intelligendum est quod potentia intellectiua &amp; est ratio, &amp; est 
         <lb ed="#Ba" n="35"/>intellectus. Inquantum est intellectus operatur vt natura circa propria obiecta, intelligendo scilicet 
         <lb ed="#Ba" n="36"/>prima principia tam in speculatiuis quam in actiuis simplici intuitu statim cum ei offertur obiectum sine 
@@ -424,21 +424,21 @@
         <lb ed="#Ba" n="27"/>exeat in actum sicut opinatus est Plato: sed quia ex notitia primorum principiorum incomplexorum 
         <lb ed="#Ba" n="28"/>quam sibi prius acquisiuit per sensus cognoscendo terminos, statim hoc est modico discursu patent ei 
         <lb ed="#Ba" n="29"/>quaecumque proponuntur sub interrogatione per immediata, &amp; hoc maxime quando est homo ingenio 
-        <lb ed="#Ba" n="30"/>perspicax &amp; assistit diuina illustratio ad perceptionem veritatis syncerae cui <name ref="#Augustine">Augustinus</name> attribuit quod  
+        <lb ed="#Ba" n="30"/>perspicax &amp; assistit diuina illustratio ad perceptionem veritatis syncerae cui <name xml:id="vn58an-d1e106-Nd1e868" ref="#Augustine">Augustinus</name> attribuit quod  
         <lb ed="#Ba" n="31"/>sic puer respondet primo libr.o Retra. Sicut enim patent intellectum. scilicet. statim sine omni discursu prima 
         princi<lb ed="#Ba" n="32" break="no"/>pia ex prima notitia terminorum, ita patere possunt ex principiis proximis proximae conclusiones 
         <lb ed="#Ba" n="33"/>ita quod quaestionibus singulis propositis ordinatim &amp; gradatim &amp; per immediata semper sine omni 
-        <lb ed="#Ba" n="34"/>discursu ex praecedentibus patet intellectui veritas sequentium. vnde <name ref="#Augustine">Augustinus</name> xii. de trinitate. Credendum  
+        <lb ed="#Ba" n="34"/>discursu ex praecedentibus patet intellectui veritas sequentium. vnde <name xml:id="vn58an-d1e106-Nd1e880" ref="#Augustine">Augustinus</name> xii. de trinitate. Credendum  
         <lb ed="#Ba" n="35"/>est mentis intellectualis ita conditam esse naturam, vt dictum est supra. Vnde quia scientiae geometricae 
         tra<lb ed="#Ba" n="36" break="no"/>duntur per immediata, ad interrogata geometrae puer bene respondit. Si tamen interrogatus fuisset 
         <lb ed="#Ba" n="37"/>per mediata non sic respondisset: quia veritas mediatorum non patet statim in primis nisi media 
         <lb ed="#Ba" n="38"/>explicentur. Si etiam interrogatus fuisset de rebus aliis: non sic per immediationem ad prima principia 
-        <lb ed="#Ba" n="39"/>connexis nequaquam diserte respondisset. Vnde <name ref="#Augustine">Augustinus</name> ibidem. xii. de trinitate. arguens contra Platonem 
+        <lb ed="#Ba" n="39"/>connexis nequaquam diserte respondisset. Vnde <name xml:id="vn58an-d1e106-Nd1e894" ref="#Augustine">Augustinus</name> ibidem. xii. de trinitate. arguens contra Platonem 
         <lb ed="#Ba" n="40"/>loquens de puero dicit. Non ipse sine magistro alba &amp; nigra discerneret: quia ista iam nouerat an  
         <lb ed="#Ba" n="41"/>quam in rerum natura crearetur: Denique cur de solis rebus intelligibilibus id fieripotest vt bene inter 
         <lb ed="#Ba" n="42"/>rogatus quisque respondeat quod ad quamque pertinet disciplinam etiam si eius ignarus est: cur hoc sacere de 
         <lb ed="#Ba" n="43"/>rebus sensibilibus nemo potest nisi quis ista viderit in corpore constitutus: aut eis qui nouerint indi 
-        <lb ed="#Ba" n="44"/>cantibus crediderit sine literis cuiusque sine verbis: In hac opinione cum Platone suerat aliquando <name ref="#Augustine">Augustinus</name> in  
+        <lb ed="#Ba" n="44"/>cantibus crediderit sine literis cuiusque sine verbis: In hac opinione cum Platone suerat aliquando <name xml:id="vn58an-d1e106-Nd1e908" ref="#Augustine">Augustinus</name> in  
         <lb ed="#Ba" n="45"/>fi. ii. sol. &amp; recitat in prima retra. vbi illud retractat d. In quodam loco dixi quod disciplinis liberalibus eru 
         <lb ed="#Ba" n="46"/>diti sine dubio illas in se obliuione obrutas eruunt discendo &amp; quodammodo refodiunt: sed illud  
         <lb ed="#Ba" n="47"/>quoque improbo. 
@@ -469,7 +469,7 @@
         <lb ed="#Ba" n="12"/>&amp; intellectus est species specierum, quia vt dicit ibi Commentator: anima recipit multas formas vt 
         ma<lb ed="#Ba" n="13" break="no"/>nus omnia instrumenta. Vnde sicut nullum instrumentum artis homo habet naturale: quia habet manus 
         <lb ed="#Ba" n="14"/>quibus potest facere omnia instrumenta &amp; vti eis: ita nullam artem habet naturalem: quia habet 
-        <lb ed="#Ba" n="15"/>rationem qua omnes artes potest sibi acquirere. Et per hunc etiam modum dicit <name ref="#Aristotle">Philosophus</name> quod anima 
+        <lb ed="#Ba" n="15"/>rationem qua omnes artes potest sibi acquirere. Et per hunc etiam modum dicit <name xml:id="vn58an-d1e106-Nd1e974" ref="#Aristotle">Philosophus</name> quod anima 
         <lb ed="#Ba" n="16"/>debet esse immixta &amp; nulli habere aliquid commune nec proprium quatenus omnia intelligat. 
       </p>
       <p xml:id="vn58an-d1e106-d1e983">
@@ -529,7 +529,7 @@
         ar<lb ed="#Ba" n="9" break="no"/>tificiose vt non noscentes artem illam: qui etsi in faciendo regulam artis non habent in se vt puer neque  
         <lb ed="#Ba" n="10"/>etiam aliquid artis percipiunt vt bruta: tamen non nisi per artem regulantur existentem in luce aeterna: quae omnium 
         <lb ed="#Ba" n="11"/>agentium per cognitionem actiones dirigit vel ipsis agentibus impressionem artis percipientibus vel non 
-        perci<lb ed="#Ba" n="12" break="no"/>pientibus. secundum quod dicit <name ref="#Augustine">Augustinus</name> de vera reliolo vbi cum ostendit sic esse in rationem habentibus, ostendit 
+        perci<lb ed="#Ba" n="12" break="no"/>pientibus. secundum quod dicit <name xml:id="vn58an-d1e106-Nd1e1099" ref="#Augustine">Augustinus</name> de vera reliolo vbi cum ostendit sic esse in rationem habentibus, ostendit 
         <lb ed="#Ba" n="13"/>&amp; sic esse in aliis d. Hoc &amp; caeteris animantibus quae ratione carentia sensu tamen non carent animaduerti potest 
         <lb ed="#Ba" n="14"/>nuiium enim horum est quod non in sono vel in caetero motu atque operatione membrorum numerosum aliquid  
         <lb ed="#Ba" n="15"/>&amp; in suo genere moderatum gerat: non aliqua scientia, sed tamen intimis naturae terminis ab illa 

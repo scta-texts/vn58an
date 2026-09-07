@@ -54,7 +54,7 @@
       <head xml:id="vn58an-fe61063-Hd1e104">Quaestio 2</head>
       <p xml:id="vn58an-fe61063-d1e107">
         <lb ed="#Bb" n="47"/>CIrca secundum arguitur quod dicta tria genera relationum communium non 
-        vnifor<lb ed="#Bb" n="48" break="no"/>miter se habent ad tres diuinas personas, Primo sic. <name ref="#Augustine">Augustinus</name> dicit. i. de Trini. cap 
+        vnifor<lb ed="#Bb" n="48" break="no"/>miter se habent ad tres diuinas personas, Primo sic. <name xml:id="vn58an-fe61063-Nd1e106" ref="#Augustine">Augustinus</name> dicit. i. de Trini. cap 
         <lb ed="#Bb" n="49"/>iiii. In patre est vnitas, in filio aequalitas, in spiritu sancto vnitatis aequalitatisque 
         con<lb ed="#Bb" n="50" break="no"/>cordia. hoc autem non esset si omnino vniformiter aequalitas esset in patre &amp; 
         fi<lb ed="#Bb" n="51" break="no"/>lio, ergo &amp;c. 
@@ -157,7 +157,7 @@
         aequa<lb ed="#Bb" n="7" break="no"/>litatis quae est communis relatio ad proprium filii: filio attribuit aequalitatem, non propter aliquid quo aliter 
         <lb ed="#Bb" n="8"/>aut verius conveniat filio quam aliis personis diuinis. Quia ei pater prima persona est: vnitas autem principium 
         <lb ed="#Bb" n="9"/>&amp; primum in numeris: ideo in personis diuinis patri appropriatur vnitas. Solet enim vnum quia est principium 
-        <lb ed="#Bb" n="10"/>in numeris, poni pro primo. secundum illud Mat. xvi. <quote source="http://scta.info/resource/mc16_2@1-8">Et valde mane vna sabbatorum veniunt ad monumentum</quote>
+        <lb ed="#Bb" n="10"/>in numeris, poni pro primo. secundum illud Mat. xvi. <quote xml:id="vn58an-fe61063-Qd1e298" source="http://scta.info/resource/mc16_2@1-8">Et valde mane vna sabbatorum veniunt ad monumentum</quote>
         <lb ed="#Bb" n="11"/>Vnai. i. prima: quae secundum Christianos est dies dominica. Vnitas autem primo est in substantia, ad quam per se 
         sequ<lb ed="#Bb" n="12" break="no"/>tur identitas. Idcirco ergo per hoc quod dicit In patre vnitas, intendit patri appropriari identitatem. Quia 
         <lb ed="#Bb" n="13"/>autem filius in diuinis secunda persona, in qua primo habetur dualitas: dualitas autem per se &amp; primo 
@@ -168,9 +168,9 @@
         <lb ed="#Bb" n="18"/>est supra loquendo de proprietatibus spiritus sancti, &amp; concordia necti solent diuersa &amp; distincta: ideo 
         <lb ed="#Bb" n="19"/>spiritui sancto appropriatur concordia: concordia autem sequitur similitudinem: similitudo autem 
         <lb ed="#Bb" n="20"/>concors est, vt infra declarabitur loquendo specialiter de similitudine. Idcirco ergo nomine concordiae 
-        <lb ed="#Bb" n="21"/>intellexit <name ref="#Augustine">Augustinus</name> spiritui sancto appropriari similitudinem, vt secundum hoc dicta appropriatio <name ref="#Augustine">Augustinus</name>  
+        <lb ed="#Bb" n="21"/>intellexit <name xml:id="vn58an-fe61063-Nd1e325" ref="#Augustine">Augustinus</name> spiritui sancto appropriari similitudinem, vt secundum hoc dicta appropriatio <name xml:id="vn58an-fe61063-Nd1e328" ref="#Augustine">Augustinus</name>  
         <lb ed="#Bb" n="22"/>respiciat tria genera relationum conmunium. &amp; sic non propter aliquam praerogatiuam aequalitatis aut 
-        diffor<lb ed="#Bb" n="23" break="no"/>mitatem eius in filio &amp; in aliis personis, sed propter solam appropriationem dixit <name ref="#Augustine">Augustinus</name> aequalitas in 
+        diffor<lb ed="#Bb" n="23" break="no"/>mitatem eius in filio &amp; in aliis personis, sed propter solam appropriationem dixit <name xml:id="vn58an-fe61063-Nd1e336" ref="#Augustine">Augustinus</name> aequalitas in 
         fi<lb ed="#Bb" n="24" break="no"/>lio. 
       </p>
       <p xml:id="vn58an-fe61063-d1e349">
@@ -237,7 +237,7 @@
         <lb ed="#Bb" n="27"/>enim dicit Ricar. ii. de trinita. cap. vi. Immensum dicitur quod nulla mensura comprehenditur. &amp; ibi 
         <lb ed="#Bb" n="28"/>dem. Immensum dicitur quod nulli mensurae aequale vel aequabile inuenitur. Et ideo sicut genitum &amp; 
         <lb ed="#Bb" n="29"/>ingenitum eandem relationem important licet differenter secundum affirmationem &amp; negationem, 
-        <lb ed="#Bb" n="30"/>secundum <name ref="#Augustine">Augustinus</name> de triniitate. v. cap. vii. sic eandem relationem important mensum &amp; immensum 
+        <lb ed="#Bb" n="30"/>secundum <name xml:id="vn58an-fe61063-Nd1e490" ref="#Augustine">Augustinus</name> de triniitate. v. cap. vii. sic eandem relationem important mensum &amp; immensum 
         si<lb ed="#Bb" n="31" break="no"/>ue actiue siue passiue dicantur. Mensum enim siue mensuratum non est proprie nisi finitum: neque 
         si<lb ed="#Bb" n="32" break="no"/>militer mensura nisi finiti mensurati, siue ipsa mensura sit finita siue infinita. Immensum autem siue 
         <lb ed="#Bb" n="33"/>actiue sumatur siue passiue, semper infinitum est: &amp; non nisi infiniti. Et ideo dicitur imago 
@@ -267,7 +267,7 @@
         no<lb ed="#Bb" n="52" break="no"/>men imponitur ab actione, &amp; alterius a passione: &amp; in secundo vnius nomen imponitur a ratione mensurati, &amp; alterius a 
         <lb ed="#Bb" n="53"/>ratione mensurae. Et sumendo coniter conversionem ad vtrumque modum conversionis, in omnibus relatiuis secundum tria 
         <lb ed="#Bb" n="54"/>genera relationum &amp; secundum omnes modos illorum recipimus conversionem: &amp; hoc tam in diuinis quam in 
-        creatu<lb ed="#Bb" n="55" break="no"/>ris. prout dicit <name ref="#Aristotle">Philosophus</name> in praedicamentis. Dia relatiua ad convertentiam dicuntur. accipiendo scilicet 
+        creatu<lb ed="#Bb" n="55" break="no"/>ris. prout dicit <name xml:id="vn58an-fe61063-Nd1e552" ref="#Aristotle">Philosophus</name> in praedicamentis. Dia relatiua ad convertentiam dicuntur. accipiendo scilicet 
         con<pb ed="#Bb" n="225-r"/><lb ed="#Bb" n="1" break="no"/>uertentiam pro conuersione dicta communiter ad vtrumque dictorum modorum. &amp; hoc siue secundum eosdem 
         <lb ed="#Bb" n="2"/>casus siue secundum diuersos. Dicitur enim calefactum a calefaciente calefactum: &amp; calefaciens 
         calefa<lb ed="#Bb" n="3" break="no"/>ctum calefaciens: &amp; similiter pater filii pater: &amp; filius patris filius. &amp; hoc secundum primum genus 

@@ -59,14 +59,14 @@
         <lb ed="#Ba" n="1"/>CIrca. xiii. arguitur: quod non omnes aliae scientiae concordant in veritate eorum quae  
         <lb ed="#Ba" n="2"/>sunt huius scientiae: neque econuerso: sed quod secundum illas scientias aliqua falsa 
         <lb ed="#Ba" n="3"/>vera sunt iudicanda secundum istam: &amp; econuerso. Primo sic. super illud Psal.
-        <lb ed="#Ba" n="4"/><quote source="http://scta.info/resource/ps30_22@4-10">Mirificauit misericordiam suam mihi in ciuitate munita</quote>. dicit Glos. Mundus
+        <lb ed="#Ba" n="4"/><quote xml:id="vn58an-d1e743-Qd1e117" source="http://scta.info/resource/ps30_22@4-10">Mirificauit misericordiam suam mihi in ciuitate munita</quote>. dicit Glos. Mundus
         <lb ed="#Ba" n="5"/>dicitur ciuitas munita: quia scientia carnali &amp; philosophica traditione armatus 
         <lb ed="#Ba" n="6"/>erat contra dominum, quid esse non posset: nisi veritas mundanae sapientiae 
         contra<lb ed="#Ba" n="7" break="no"/>ria esset veritati huius scientiae, quae est scientia domini: quia: non armatur nisi contrarium contra 
         <lb ed="#Ba" n="8"/>contrarium. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e743-d1e134">
-        ⁋ Secundo sic. super illud. <ref xml:id="vn58an-d1e743-Rd1e136">i. ad Corin. i.</ref> <quote source="http://scta.info/resource/Icor1_17@1-17">Non misit me deus baptizare sed
+        ⁋ Secundo sic. super illud. <ref xml:id="vn58an-d1e743-Rd1e136">i. ad Corin. i.</ref> <quote xml:id="vn58an-d1e743-Qd1e134" source="http://scta.info/resource/Icor1_17@1-17">Non misit me deus baptizare sed
         euange<lb ed="#Ba" n="9" break="no"/>lizare: non in sapientia verbi: vt non euacuetur crux Christianu</quote> dicit Glos. Quasi dicat, misit me 
         euange<lb ed="#Ba" n="10" break="no"/>lizare non in sapientia verb id i. in sapientia philosophorum, quae sapientia verbi dicitur quia verbo 
         <lb ed="#Ba" n="11"/>los facit. Per illam enim sapientiam euacuatur crux Christiana it mors Christi: &amp; impossibile secundum naturam iu 
@@ -76,7 +76,7 @@
       <p xml:id="vn58an-d1e743-d1e152">
         ⁋ Tertio sic. Illae scientiae non concordant in eodem: quae proferunt 
         <lb ed="#Ba" n="14"/>iudicia contraria, &amp; simul vera: immo falsum apud vnam, verum est apud alteram: &amp; econuerso. ista 
-        <lb ed="#Ba" n="15"/>scientia &amp; aliae comparatae huic sunt huiusmodi. ergo &amp;c. Probatio mediae est. <name ref="#Aristotle">Philosophus</name> enim ex 
+        <lb ed="#Ba" n="15"/>scientia &amp; aliae comparatae huic sunt huiusmodi. ergo &amp;c. Probatio mediae est. <name xml:id="vn58an-d1e743-Nd1e156" ref="#Aristotle">Philosophus</name> enim ex 
         scien<lb ed="#Ba" n="16" break="no"/>tia philosophica medicinali vere iudicasset Exechiam moriturum. Theologus autem ex scientia ista si ex ea 
         <lb ed="#Ba" n="17"/>diuini consilii dispositionem vidisset: iudicasset eum &amp; vere non moriturum: sed superuicturum. 
       </p>
@@ -100,7 +100,7 @@
       <p xml:id="vn58an-d1e743-d1e197">
         ⁋ Tertio: sic. secundum quod dicit 
         <lb ed="#Ba" n="30"/>Philosophus secundo Metaphy. Vnumquodque sicut se habet ad esse: sic &amp; ad cognitionem &amp; 
-        verita<lb ed="#Ba" n="31" break="no"/>tem: quia eadem sunt principia essendi &amp; cognoscendi. Et secundum <name ref="#Augustine">Augustinus</name> de vera relims vnumquodque  
+        verita<lb ed="#Ba" n="31" break="no"/>tem: quia eadem sunt principia essendi &amp; cognoscendi. Et secundum <name xml:id="vn58an-d1e743-Nd1e201" ref="#Augustine">Augustinus</name> de vera relims vnumquodque  
         <lb ed="#Ba" n="32"/>verum est in eo quod verum aliquid est, &amp; falsum in eo quod falsum non ens est. &amp; hoc est idem cum eo quod 
         <lb ed="#Ba" n="33"/>solet dici: quod verum, &amp; ens: falsum &amp; non ens convertuntur. sed ita est quod vnum &amp; idem ex eo quod 
         con<lb ed="#Ba" n="34" break="no"/>sideratur a diuersis aut in diuersis scientiis, non potest simul esse ens &amp; non ens: ens respectu 
@@ -111,16 +111,16 @@
       <p xml:id="vn58an-d1e743-d1e218">
         <lb ed="#Ba" n="37"/>⁋ Dicendum ad hoc: quod veritas propria fidei &amp; sacrae scripturae capacitatem 
         natu<lb ed="#Ba" n="38" break="no"/>ralis rationis excedit: nec potest ratio naturalis de se extendere se vt veritates quae sunt propriae 
-        hu<lb ed="#Ba" n="39" break="no"/>ius scientiae, capiat vel percipiat. secundum quod dicit Apostolus. i. Corinth. ii. <quote source="http://scta.info/resource/Icor2_11@17-24">Quae dei sunt, nemo
+        hu<lb ed="#Ba" n="39" break="no"/>ius scientiae, capiat vel percipiat. secundum quod dicit Apostolus. i. Corinth. ii. <quote xml:id="vn58an-d1e743-Qd1e224" source="http://scta.info/resource/Icor2_11@17-24">Quae dei sunt, nemo
         <lb ed="#Ba" n="40"/>cognouit nisi spiritus dei</quote>. Glos. Id est spiritus sanctus &amp; illi quos cognoscere facit. vnde sequitur in Apo
-        <lb ed="#Ba" n="41"/>sto. <quote source="http://scta.info/resource/Icor2_14@1-10">Animalis homo non percipit ea quae sunt spiritus dei</quote>. Gloss. Vt partum virginis &amp;
+        <lb ed="#Ba" n="41"/>sto. <quote xml:id="vn58an-d1e743-Qd1e232" source="http://scta.info/resource/Icor2_14@1-10">Animalis homo non percipit ea quae sunt spiritus dei</quote>. Gloss. Vt partum virginis &amp;
         resurre<lb ed="#Ba" n="42" break="no"/>ctionem. Nihil enim aestimat posse fieri: nisi quod nouit quomodo fiat. Et dicitur animalis animi 
         <lb ed="#Ba" n="43"/>sensus, qui de deo iuxta corporum phantasiam vel rationem philosophicam iudicat. &amp; sequitur in  
-        <lb ed="#Ba" n="44"/>Apostolo. <quote source="http://scta.info/resource/Icor2_14@11-18">Stultitia est illi: &amp; non potest intelligere</quote>. Gloss. Secundum humanum sensum. Et quamuis ita
+        <lb ed="#Ba" n="44"/>Apostolo. <quote xml:id="vn58an-d1e743-Qd1e241" source="http://scta.info/resource/Icor2_14@11-18">Stultitia est illi: &amp; non potest intelligere</quote>. Gloss. Secundum humanum sensum. Et quamuis ita
         <lb ed="#Ba" n="45"/>sit: quaecunque tamen vera sunt iudicio huius scientiae, falsa esse non possunt in recto iudicio naturalis 
         ra<lb ed="#Ba" n="46" break="no"/>tionis: si ad ea capienda posset naturalis ratio eleuari: sicut econuerso quaecunque vera sunt 
         iudi<lb ed="#Ba" n="47" break="no"/>cio vero naturalis rationis in alia scientia, in recto iudicio huius scientiae falsa esse non possunt. 
-        Pro<lb ed="#Ba" n="48" break="no"/>pter quod dicit <name ref="#Aristotle">Philosophus</name> in principio Ethico. Vero omnia consonant existentia. Falso autem 
+        Pro<lb ed="#Ba" n="48" break="no"/>pter quod dicit <name xml:id="vn58an-d1e743-Nd1e253" ref="#Aristotle">Philosophus</name> in principio Ethico. Vero omnia consonant existentia. Falso autem 
         <lb ed="#Ba" n="49"/>cito dissonat verum. Vnde etsi quaedam quae in rei veritate vera sunt, &amp; vera iudicantur recto 
         <lb ed="#Ba" n="50"/>iudicio huius scientiae: iudicio alterius sapientis vt mundani, falsa esse dicuntur: hoc non contingit ni 
         <lb ed="#Ba" n="51"/>si per errorem iudicantis, qui praesumit iudicare quae facultatem suam excedunt: in quibus omnino 
@@ -132,7 +132,7 @@
         <lb ed="#Ba" n="1"/>aspiciendum illa: impossibile est cognoscere vel iudicare in eis quae sunt supernaturalia &amp; propria 
         <lb ed="#Ba" n="2"/>huic scientiae, quid verum, &amp; quid falsum, quae bene cognoscit &amp; iudicat homo spiritualis per 
         lu<lb ed="#Ba" n="3" break="no"/>men fidei &amp; intellectus, lumine superiori illustratus: secundum quod post supra dicta sequitur in Apo 
-        <lb ed="#Ba" n="4"/>sto. <quote source="http://scta.info/resource/Icor2_15@1-9">Spiritualis autem iudicat omnia: &amp; ipse a nemine iudicatur</quote>. vbi dicit Glos. Intelligit &amp; discernit
+        <lb ed="#Ba" n="4"/>sto. <quote xml:id="vn58an-d1e743-Qd1e282" source="http://scta.info/resource/Icor2_15@1-9">Spiritualis autem iudicat omnia: &amp; ipse a nemine iudicatur</quote>. vbi dicit Glos. Intelligit &amp; discernit
         <lb ed="#Ba" n="5"/>omnia quae ad iustitiam &amp; vitam sufficiunt certa fide: &amp; ipse a nullo homine animali intelligitur 
         <lb ed="#Ba" n="6"/>vtrum bene an male intelligat. Quia dicentes se esse sapientes stulti facti sunt: vt dicitur Ro id est vbi 
         <lb ed="#Ba" n="7"/>dicit Gloss. Sapientes in naturis rerum stulti facti sunt in deo. Veritas igitur theologica &amp; philosophica 
@@ -140,7 +140,7 @@
         gra<lb ed="#Ba" n="9" break="no"/>dus ad illam. Vnde rationes quae videntur ex principiis philosophiae constructae contrariae veritati 
         <lb ed="#Ba" n="10"/>fidei &amp; theologiae: non ex veris principiis philosophiae: sed solum per errorem humanae industriae sunt 
         con<lb ed="#Ba" n="11" break="no"/>structae: secundum quod etiam multa sibimet contraria philosophis in philosophia senserunt: quia humanis sensibus 
-        <lb ed="#Ba" n="12"/>&amp; humanis ratiocinationibus ista quaesierunt: vt dicit <name ref="#Augustine">Augustinus</name> ix. de ciui. dei. ca. xli. Et ideo quia non  
+        <lb ed="#Ba" n="12"/>&amp; humanis ratiocinationibus ista quaesierunt: vt dicit <name xml:id="vn58an-d1e743-Nd1e303" ref="#Augustine">Augustinus</name> ix. de ciui. dei. ca. xli. Et ideo quia non  
         <lb ed="#Ba" n="13"/>sunt constructae ex principiis philosophiae omnes vere dissolubiles sunt. Et sicut per errorem 
         natu<lb ed="#Ba" n="14" break="no"/>ralis rationis sunt constructae: vel circa vera principia philosophiae, vel male extendendo principia 
         <lb ed="#Ba" n="15"/>philosophiae vltra id quod extendi deberent: sic per directionem naturalis rationis vel ex se vel 
@@ -155,7 +155,7 @@
         <lb ed="#Ba" n="24"/>ab aliqua virtute supernaturali hoc sit possibile fieri: cum scit esse aliquod agens infinitae virtutis. 
         <lb ed="#Ba" n="25"/>Nec etiam ex philosophia debet asserere quod illud non possit fieri: quia ignorat quomodo fieri possit 
         <lb ed="#Ba" n="26"/>supra consuetum cursum naturae: vt demus deum aliquid posse: quod nos fatemur inuestigare non  
-        <lb ed="#Ba" n="27"/>posse: sicut dicit <name ref="#Augustine">Augustinus</name> in epistola ad Volusianum. Et forte si aliqui praesumant dicere quod extra cur 
+        <lb ed="#Ba" n="27"/>posse: sicut dicit <name xml:id="vn58an-d1e743-Nd1e338" ref="#Augustine">Augustinus</name> in epistola ad Volusianum. Et forte si aliqui praesumant dicere quod extra cur 
         <lb ed="#Ba" n="28"/>sum consuetum naturae primum principium nihil posset agere: hoc re vera humana temeritas 
         confin<lb ed="#Ba" n="29" break="no"/>git: nec recta ratio ex principiis philosophiae dictat. Vnde sicut temerarius theologus ignorans ea 
         <lb ed="#Ba" n="30"/>quae sunt philosophiae: multa potest reputare falsa in scientiis philosophicis quae tamen sunt verissima: &amp; crede 
@@ -164,7 +164,7 @@
         <lb ed="#Ba" n="33"/>philosophicis, in quibus deceptus est, vel quae male ad vera theologica destruenda applicat. sicut Comment. 
         <lb ed="#Ba" n="34"/>ille haereticus Auer. super. xii. Metaph. impossibile reputat deum esse trinum &amp; vnum: quia vt 
         di<lb ed="#Ba" n="35" break="no"/>cit, non possunt esse tres nisi in eis numeretur substantia. &amp; non intellexit quid dixit. Propter quod 
-        di<lb ed="#Ba" n="36" break="no"/>cit <name ref="#Augustine">Augustinus</name> in epistola quadam ad Marcellum. Si ratio contra diuinarum scripturarum auctoritatem redditur: 
+        di<lb ed="#Ba" n="36" break="no"/>cit <name xml:id="vn58an-d1e743-Nd1e361" ref="#Augustine">Augustinus</name> in epistola quadam ad Marcellum. Si ratio contra diuinarum scripturarum auctoritatem redditur: 
         <lb ed="#Ba" n="37"/>quamlibet acuta sit, fallit veri similitudine: nam vera esse non potest. Rursum si manifestae certaeque ratio 
         <lb ed="#Ba" n="38"/>ni velut scripturarum sacrarum obiicitur auctoritas, non intelligit qui hoc facit, &amp; non scripturarum 
         <lb ed="#Ba" n="39"/>illarum sensum, ad quem penetrare non potuit: sed suum potius opponit. veritati. 
@@ -177,12 +177,12 @@
         <lb ed="#Ba" n="43"/>cuius doctrinae quicquod aduersatur, insanum est. 
       </p>
       <p xml:id="vn58an-d1e743-d1e373">
-        ⁋ Item <name ref="#Augustine">Augustinus</name> in epistola ad Consentium. Illa ratio quae per  
+        ⁋ Item <name xml:id="vn58an-d1e743-Nd1e386" ref="#Augustine">Augustinus</name> in epistola ad Consentium. Illa ratio quae per  
         <lb ed="#Ba" n="44"/>suasit in ea trinitate quae deus est, filium non esse patri coaeternum: &amp; alterius esse substantiae: atque ali 
         <lb ed="#Ba" n="45"/>qua parte dissimilem, &amp; ex modo inferiorem: Non ideo quia ratio: sed quia falsa ratio: cauenda &amp; 
         <lb ed="#Ba" n="46"/>detestanda dicenda est. Nam si ratio vera esset, non vtique errasset. Quapropter sicut non ideo debes 
         <lb ed="#Ba" n="47"/>omnem vitare rationem: quia est &amp; falsa ratio: hoc &amp; de sapientia dixerim: neque enim propterea sapiem 
-        <lb ed="#Ba" n="48"/>tia vitanda est: quia est &amp; falsa sapientia. Et dixit <name ref="#Augustine">Augustinus</name> haec contra Consentium: quia ille dixit quod in eis quae sunt 
+        <lb ed="#Ba" n="48"/>tia vitanda est: quia est &amp; falsa sapientia. Et dixit <name xml:id="vn58an-d1e743-Nd1e400" ref="#Augustine">Augustinus</name> haec contra Consentium: quia ille dixit quod in eis quae sunt 
         <lb ed="#Ba" n="49"/>fidei &amp; sacrae scripturae: non rationi sed auctoritati credendum est: quia haeretici non errassent si scripturis 
         <lb ed="#Ba" n="50"/>sacrismagis quam suis rationibus accommodare fidem mallent. Per haec patent in parte obiecta in contrarium. 
         <lb ed="#Ba" n="51"/>Quia ergo arguitur primo quod mundus philosophica traditione armatus erat contra 
@@ -207,8 +207,8 @@
         fal<lb ed="#Ba" n="14" break="no"/>si nominis scientia, quam sibi thesaurizant lingua mendacii, &amp; deficiunt scrutantes scrutinia. 
         Secun<lb ed="#Ba" n="15" break="no"/>dum enim quod dicitur in Psal. Dominus scit cogitationes hominum: quoniam vanae sunt. i. falsae. dicit 
         <lb ed="#Ba" n="16"/>Glos. super illud: Comprehendam. Vnde talem doctrinam hortatur Apostolus fugere cum dicit Co
-        <lb ed="#Ba" n="17"/>lossen. ii. Ne tetigeritis: neque gustaueritis: neque contrectaueritis, <quote source="http://scta.info/resource/col2_22@1-12">quae omnia sunt in interitu ipso
-        <lb ed="#Ba" n="18"/>vsu: secundum praecepta &amp; doctrinas hominum</quote>: <quote source="http://scta.info/resource/col2_23@1-8">quae sunt rationem quidem habentia sapientiae
+        <lb ed="#Ba" n="17"/>lossen. ii. Ne tetigeritis: neque gustaueritis: neque contrectaueritis, <quote xml:id="vn58an-d1e743-Qd1e457" source="http://scta.info/resource/col2_22@1-12">quae omnia sunt in interitu ipso
+        <lb ed="#Ba" n="18"/>vsu: secundum praecepta &amp; doctrinas hominum</quote>: <quote xml:id="vn58an-d1e743-Qd1e462" source="http://scta.info/resource/col2_23@1-8">quae sunt rationem quidem habentia sapientiae
         <lb ed="#Ba" n="19"/>in superstitione</quote>.
       </p>
       <p xml:id="vn58an-d1e743-d1e451">

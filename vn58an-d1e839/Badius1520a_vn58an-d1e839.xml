@@ -75,7 +75,7 @@
       </p>
       <p xml:id="vn58an-d1e839-d1e141">
         ⁋ Quarto 
-        <lb ed="#Ba" n="46"/>sic. Matth. v. <quote source="http://scta.info/resource/mt5_37@1-16">Sit sermo vester est est: non non. quod amplius est a malo est</quote>. sed amplius erat quod in lege erat
+        <lb ed="#Ba" n="46"/>sic. Matth. v. <quote xml:id="vn58an-d1e839-Qd1e138" source="http://scta.info/resource/mt5_37@1-16">Sit sermo vester est est: non non. quod amplius est a malo est</quote>. sed amplius erat quod in lege erat
         <lb ed="#Ba" n="47"/>praeceptum, cum dictum est. Reddes domino iuramenta tua. ergo illud erat a malo. Sed quod a malo est: non est 
         <lb ed="#Ba" n="48"/>a deo bono statutum. ergo &amp;c. 
       </p>
@@ -113,7 +113,7 @@
         testa<lb ed="#Ba" n="17" break="no"/>menti: quia scriptura dei erat sculpta in tabulis. Nos igitur (vt dicit Chrysostomus super Matthicorum  
         <lb ed="#Ba" n="18"/>vnum atque eundem vtriusque testamenti asserimus conditorem: qui ad varias hominum vtilitates 
         <lb ed="#Ba" n="19"/>vtrumque testamentum diuersis tporibus dispensauit. Quod manifeste testatus est Hieremi. xxxi. cum dixit 
-        <lb ed="#Ba" n="20"/>in persona domini. Eeriam domui lsrael, &amp; domui luda fpedus nouum: <quote source="http://scta.info/resource/ier31_32@1-8">non secundum pactum quod
+        <lb ed="#Ba" n="20"/>in persona domini. Eeriam domui lsrael, &amp; domui luda fpedus nouum: <quote xml:id="vn58an-d1e839-Qd1e223" source="http://scta.info/resource/ier31_32@1-8">non secundum pactum quod
         pe<lb ed="#Ba" n="21" break="no"/>pigi cum patribus vestris</quote> &amp;c. Qui ergo pepigit cum patribus in veteri testamento, pactum
         fe<lb ed="#Ba" n="22" break="no"/>cit cum filiis in nouo testamento. 
       </p>

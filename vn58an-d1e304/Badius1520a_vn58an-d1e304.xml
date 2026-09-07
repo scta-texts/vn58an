@@ -55,7 +55,7 @@
       <head xml:id="vn58an-d1e304-Hd1e107" type="question-title">Utrum contingat hominem scire omnia entia</head>
       <p xml:id="vn58an-d1e304-d1e110">
         <lb ed="#Ba" n="12"/>CIrca secundum arguitur, quod contingit hominem scire omnia entia. Primo sic. <ref xml:id="vn58an-d1e304-Rd1e114" target="http://scta.info/resource/aristda-l3">
-        <name>philosophus</name> 
+        <name xml:id="vn58an-d1e304-Nd1e109">philosophus</name> 
         <lb ed="#Ba" n="13"/>dicit. 3 de anima</ref>. quod intellectus est quodam modo omnia intelligibilia: sicut sensus est 
         <lb ed="#Ba" n="14"/>omnia sensibilia. Sensus sic est omnia sensibilia quod potest omnia sentire. ergo 
         intel<lb ed="#Ba" n="15" break="no"/>lectus ita est omnia intelligibilia: quod potest omina intelligere. haec sunt omnia sci 
@@ -64,7 +64,7 @@
       <p xml:id="vn58an-d1e304-d1e129">
         ⁋ Secundo sic. qui potest scire &amp; intelligere magis 
         sci<lb ed="#Ba" n="17" break="no"/>bile &amp; intelligibile: &amp; minus. secundum <ref xml:id="vn58an-d1e304-Rd1e133">
-        <name ref="#Aristotle">philosophum</name>. x. de anima.</ref> homo potest scire &amp; intelligere 
+        <name xml:id="vn58an-d1e304-Nd1e127" ref="#Aristotle">philosophum</name>. x. de anima.</ref> homo potest scire &amp; intelligere 
         <lb ed="#Ba" n="18"/>summe scibile. vt dictum est. Ioannem. . <quote xml:id="vn58an-d1e304-Qd1e141" source="http://scta.info/resource/io17_3">Haec est vita aeterna</quote>. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e304-d1e146">
@@ -107,7 +107,7 @@
         <lb ed="#Ba" n="42"/>Dicendum quod dicitur recedere: quia quanto homo plus inuestigat scientiam lumine naturalis rationis: 
         tan<lb ed="#Ba" n="43" break="no"/>to magis patet ei profunditas. Nihil tamen est scibile in creaturis, si sufficienti lumine illustretur quin  
         <lb ed="#Ba" n="44"/>possit illud scire. Maxime cum illustretur ad hoc vt possit scire summum intelligibile attingendo licet non 
-        con<lb ed="#Ba" n="45" break="no"/>prehendendo. In cuius comparatione cognitionis potest etiam verificari illud Ecclesiastes. 7. <quote source="http://scta.info/resource/qoh7_24@5-13 http://scta.info/resource/qoh7_25@1-10">Dixi sapiens
+        con<lb ed="#Ba" n="45" break="no"/>prehendendo. In cuius comparatione cognitionis potest etiam verificari illud Ecclesiastes. 7. <quote xml:id="vn58an-d1e304-Qd1e220" source="http://scta.info/resource/qoh7_24@5-13 http://scta.info/resource/qoh7_25@1-10">Dixi sapiens
         effi<lb ed="#Ba" n="46" break="no"/>ciar, &amp; ipsa longius recessit a me multo magis quam erat: Et alta profunditas, quis inueniet eam</quote>:
         Quan<lb ed="#Ba" n="47" break="no"/>to enim amplius cognoscitur illud, tanto amplius recedere dicitur cognitio illius ab eo: quoniam semper 
         <lb ed="#Ba" n="48"/>de scibili illo claret 

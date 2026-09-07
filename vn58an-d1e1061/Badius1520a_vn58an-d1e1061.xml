@@ -59,7 +59,7 @@
         <lb ed="#Ba" n="14"/>diuinorum notitiam homo ascendere non posset, debet esse instructus auditor huius 
         <lb ed="#Ba" n="15"/>scientiae, quia aliter in ea non proficeret. Scientiae seculares sunt huiusmodi, quia docent 
         no<lb ed="#Ba" n="16" break="no"/>titiam creaturarum, quae sunt gradus ad cognitionem diuinorum, vt dictum est 
-        <lb ed="#Ba" n="17"/>secundum <name ref="#Augustine">Augustinus</name> in praecedenti quaestione. ergo &amp;c. 
+        <lb ed="#Ba" n="17"/>secundum <name xml:id="vn58an-d1e1061-Nd1e118" ref="#Augustine">Augustinus</name> in praecedenti quaestione. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e1061-d1e129">
         ⁋ Secundo sic. Illa notitia 
@@ -73,7 +73,7 @@
         <lb ed="#Ba" n="22"/>huius scientiae, cui non placet deo eam reuelare: quia aliter eam frustra audiret, nisi deo placeret 
         <lb ed="#Ba" n="23"/>intellectum eius ei reuelare: quia eam non potest intelligere: vt dictum est supra, &amp; infra dicetur. sed  
         <lb ed="#Ba" n="24"/>deo non placet eam reuelare sapientibus secularium literarum. secundum illud Mat. xi.
-        <quote source="http://scta.info/resource/mt11_25@15-24">Abscon<lb ed="#Ba" n="25" break="no"/>disti haec a sapientibus &amp; prudentibus: &amp; reuelasti ea paruulis</quote>. <quote source="http://scta.info/resource/lc10_21@27-33">lta pater, quoniam sic placitum fuit an
+        <quote xml:id="vn58an-d1e1061-Qd1e142" source="http://scta.info/resource/mt11_25@15-24">Abscon<lb ed="#Ba" n="25" break="no"/>disti haec a sapientibus &amp; prudentibus: &amp; reuelasti ea paruulis</quote>. <quote xml:id="vn58an-d1e1061-Qd1e147" source="http://scta.info/resource/lc10_21@27-33">lta pater, quoniam sic placitum fuit an
         <lb ed="#Ba" n="26"/>te te</quote>. Vbi dicit Glos. Ne quis quaerat cur humiles elegit: sapientes reprobet.
       </p>
       <p xml:id="vn58an-d1e1061-d1e154">
@@ -89,7 +89,7 @@
         <lb ed="#Ba" n="36"/>secundum quod supra de doctore dictum est. Aliter enim in multis deficiet, nisi specialiter diuinitus 
         illu<lb ed="#Ba" n="37" break="no"/>stretur. Abscondita enim mysteria huius scientiae &amp; quaestiones altissimae multa indigent manudu 
         <lb ed="#Ba" n="38"/>ctione ex propriis creaturarum: vt humanus intellectus illa sine ea capere non valeat. Et ideo di 
-        <lb ed="#Ba" n="39"/>cit <name ref="#Augustine">Augustinus</name> in prim. iii. de doctrina christiana. Hon qui voluntatem dei in scripturis sanctis diligenter in  
+        <lb ed="#Ba" n="39"/>cit <name xml:id="vn58an-d1e1061-Nd1e183" ref="#Augustine">Augustinus</name> in prim. iii. de doctrina christiana. Hon qui voluntatem dei in scripturis sanctis diligenter in  
         <lb ed="#Ba" n="40"/>quirit, primitus in cognitione quarundam rerum necessariarum ne vim naturanve earum quae 
         pro<lb ed="#Ba" n="41" break="no"/>pter similitudinem adhibentur, ignoret, veniat ille instructus ad ambigua scripturarum 
         discutien<lb ed="#Ba" n="42" break="no"/>da atque soluenda. Et ideo praecipit Synodus. xxxvii. dist. ca. De quibusdam. dicens. Ab vniuersis Epsis 
@@ -120,9 +120,9 @@
         <lb ed="#Ba" n="11"/>dum quod dicit Ambrosius super Luc. Legimus aliqua non vt teneamus, sed vt repudiemus. Tertium, quia ex 
         <lb ed="#Ba" n="12"/>ipsis cognita veritate naturae creaturarum, errores declinantur in detrimentum fidei catholicae 
         vergen<lb ed="#Ba" n="13" break="no"/>tes. Ignorantes enim creaturarum naturam creaturam deum esse opinati sunt, putantes esse a seipso, quod non 
-        <lb ed="#Ba" n="14"/>habet esse nisi ab alio. De quibus dicitur Sapres. xiii. <quote source="http://scta.info/resource/sap13_2@3-23">Ignem aut spiritum, aut citatum aerem, aut gyrum stellarum
+        <lb ed="#Ba" n="14"/>habet esse nisi ab alio. De quibus dicitur Sapres. xiii. <quote xml:id="vn58an-d1e1061-Qd1e253" source="http://scta.info/resource/sap13_2@3-23">Ignem aut spiritum, aut citatum aerem, aut gyrum stellarum
         <lb ed="#Ba" n="15"/>aut nimiam aquam, aut solem &amp; lunam rectores orbis terrarum deos putauerunt</quote>. Quod veri philosophi
-        cognoscen<lb ed="#Ba" n="16" break="no"/>tes creaturarum naturas omnino reprobauerunt. secundum quod dicit <name ref="#Augustine">Augustinus</name> in prin. de vera reli. 
+        cognoscen<lb ed="#Ba" n="16" break="no"/>tes creaturarum naturas omnino reprobauerunt. secundum quod dicit <name xml:id="vn58an-d1e1061-Nd1e260" ref="#Augustine">Augustinus</name> in prin. de vera reli. 
         <lb ed="#Ba" n="17"/>de Socrate. Admonebat (inquit) illos qui mundum istum visibilem summum deum opinabantur, 
         <lb ed="#Ba" n="18"/>turpitudinis suae: docens esse consequens: vt quilibet lapis tanquam summi dei particula iure coleretur 
         <lb ed="#Ba" n="19"/>Quid si execrarentur, mutarent sententiam, &amp; vnum deum colerent, a quo totum mundum istum 
@@ -130,10 +130,10 @@
         <lb ed="#Ba" n="21"/>natura rei non patitur, non ei attribuitur, nisi quia ipsa ignoratur. Vnde ex ignorantia 
         creatu<lb ed="#Ba" n="22" break="no"/>rae, creaturae quod dei erat attribuebant. secundum quod dicitur Sape. xiii. Incommunicabile nomen lignis 
         <lb ed="#Ba" n="23"/>&amp; lapidibus imposuerunt. Vnde &amp; propter idem Manichaei duo rerum ponebant principia, cuius 
-        <lb ed="#Ba" n="24"/>causa non erat nisi ordinis creaturarum ad creatorem ignorantia. propter quod dicit <name ref="#Augustine">Augustinus</name> de orig. 
+        <lb ed="#Ba" n="24"/>causa non erat nisi ordinis creaturarum ad creatorem ignorantia. propter quod dicit <name xml:id="vn58an-d1e1061-Nd1e281" ref="#Augustine">Augustinus</name> de orig. 
         <lb ed="#Ba" n="25"/>animae. Error circa creaturam redundat in falsam de deo aestimationem, &amp; hominum mentes a deo 
         ab<lb ed="#Ba" n="26" break="no"/>ducit, in quem fides adducere nititur. Quartum est, quia ex creaturarum cognitione facilius ad dei 
-        cogni<lb ed="#Ba" n="27" break="no"/>tionem, ac diuinorum eleuamur. secundum quod dicit <name ref="#Augustine">Augustinus</name> de ordine libro secundo. Ego si quid  
+        cogni<lb ed="#Ba" n="27" break="no"/>tionem, ac diuinorum eleuamur. secundum quod dicit <name xml:id="vn58an-d1e1061-Nd1e291" ref="#Augustine">Augustinus</name> de ordine libro secundo. Ego si quid  
         <lb ed="#Ba" n="28"/>meos monere possum, quantum mihi apparet, quantumque sentio, censeo illos disciplinis 
         omni<lb ed="#Ba" n="29" break="no"/>bus erudiendos. Aliter quippe ista sic intelligi vt luce clariora sint, nullo modo possunt. Si 
         au<lb ed="#Ba" n="30" break="no"/>tem pigriores sunt aut aliis negotiis praeoccupati, aut iam duri ad discendum, fidei sibi praesidia parent. 
@@ -154,7 +154,7 @@
         <lb ed="#Ba" n="45"/>ld etiam maximas designat diuinae diuitias sapientiae, quando etiam in haec quae sunt visibilia tam 
         <lb ed="#Ba" n="46"/>tum decoris effudit. Ex ipsa vero creatura videri potest dei bonitas, quicquod enim bonitatis vndique  
         <lb ed="#Ba" n="47"/>in creatura dispersum est, ab illo necessario est, in quo totum quicquid est bonitatis, vnitum est. Sapes 
-        <lb ed="#Ba" n="48"/>xiii. <quote source="http://scta.info/resource/sap13_7@1-15">Etenim cum in operibus illius conuersentur, inquirunt &amp; persuasum habent quoniam bona sunt quae vi
+        <lb ed="#Ba" n="48"/>xiii. <quote xml:id="vn58an-d1e1061-Qd1e339" source="http://scta.info/resource/sap13_7@1-15">Etenim cum in operibus illius conuersentur, inquirunt &amp; persuasum habent quoniam bona sunt quae vi
         <lb ed="#Ba" n="49"/>dentur</quote>. Si enim tantum potuerunt aestimare seculum, quomodo eius dominum facilius non inuenerunte:
       </p>
       <p xml:id="vn58an-d1e1061-d1e340">
@@ -177,7 +177,7 @@
         <lb ed="#Ba" n="4"/>Sapientibus &amp; prudentibus non opponit insipientes &amp; hebetes: sed paruulos: vt probet se 
         tu<lb ed="#Ba" n="5" break="no"/>morem damnare non acumen. Vnde non tam prodest in auditore huius scientiae notitia 
         sapien<lb ed="#Ba" n="6" break="no"/>tiae secularis quam obest elatio ex ipsa. Qui ergo in aliis scientiis farcitus in ista scientia proficere 
-        <lb ed="#Ba" n="7"/>velit, humilis &amp; vt paruulus ad eam veniat: quia vt dicit <name ref="#Augustine">Augustinus</name> v. super Gene. Sacra scriptu 
+        <lb ed="#Ba" n="7"/>velit, humilis &amp; vt paruulus ad eam veniat: quia vt dicit <name xml:id="vn58an-d1e1061-Nd1e384" ref="#Augustine">Augustinus</name> v. super Gene. Sacra scriptu 
         <lb ed="#Ba" n="8"/>ra sic loquitur: vt altitudine superbos irrideat: profunditate attentos terreat: veritate magnos 
         <lb ed="#Ba" n="9"/>pascat: affabilitate paruulos nutriat. Et ideo dicit in fine secundi de doctrina christiana, loquens 
         <lb ed="#Ba" n="10"/>de Cypriano, Lactantio, Victorino, &amp; caeteris qui suffarcinati literis secularibus ad fidem 
@@ -191,7 +191,7 @@
         <lb ed="#Ba" n="18"/>interrogantes creaturas de creatore, ex omni specie ac dispositione quasi voce respondente ex 
         <lb ed="#Ba" n="19"/>arte artificem cognouerunt. &amp; infra. Quod vtique illis credendum fuit: vt hoc tenendo quid videre 
         pote<lb ed="#Ba" n="20" break="no"/>rant, ab illo sanarentur qui dederat vt viderent. Si enim hoc facerent, humilitatem seruarent, 
-        <lb ed="#Ba" n="21"/>&amp; possent purgari, atque illi beatissimae contemplationi inhaerere. Hinc dicit <name ref="#Augustine">Augustinus</name> de philosophis. 
+        <lb ed="#Ba" n="21"/>&amp; possent purgari, atque illi beatissimae contemplationi inhaerere. Hinc dicit <name xml:id="vn58an-d1e1061-Nd1e417" ref="#Augustine">Augustinus</name> de philosophis. 
         <lb ed="#Ba" n="22"/>de vera relii. Illi si reuiuiscerent &amp; inuenirent refertas ecclesias, templa deserta, a cupiditate 
         ten<lb ed="#Ba" n="23" break="no"/>poralium ad intelligibilia &amp; spiritualia vocari &amp; currere humanum genus, dicerent si fortasse 
         ta<lb ed="#Ba" n="24" break="no"/>les essent, quales fuisse commemorantur, haec sunt quae nos suadere populis non ausi sumus, &amp; eorum 

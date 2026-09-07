@@ -93,7 +93,7 @@
         <lb ed="#Ba" n="24"/>nutritus per fidem, ad hoc vt euidenter eas sciat factus sit idoneus. Ille autem solus deus est: de ipso enim pri 
         <lb ed="#Ba" n="25"/>cipaliter est ista scientia: &amp; credenda omnia: &amp; ipse solus seipsum perfecte nouit. Eidem ergo exhibendo  
         <lb ed="#Ba" n="26"/>deo: vt teste veritatis eorum quae dicuntur in hac scientia: oportet addiscere hanc scientiam: vt per si 
-        <lb ed="#Ba" n="27"/>dem primam praeparemur ad eius intelligentiam: cui vt dicit <name ref="#Augustine">Augustinus</name> xi. de civiat dit fidem adhibemus de his rebus quaes 
+        <lb ed="#Ba" n="27"/>dem primam praeparemur ad eius intelligentiam: cui vt dicit <name xml:id="vn58an-d1e1136-Nd1e179" ref="#Augustine">Augustinus</name> xi. de civiat dit fidem adhibemus de his rebus quaes 
         <lb ed="#Ba" n="28"/>ignorare non expedit: nec per nosipsos scire idonei sumus. hoc tamen mediantibus testibus aliis quibus ille 
         <lb ed="#Ba" n="29"/>reuelauit: secundum quod dicit ibidem. Nam si ea sciri possunt testibus nobis quae remota non sunt 
         <lb ed="#Ba" n="30"/>a sensibus nostris siue interioribus siue exterioribus: vnde &amp; praesentia nuncupantur: profecto ea quae re 
@@ -101,7 +101,7 @@
         <lb ed="#Ba" n="32"/>quirimus: eisque credimus qui viderunt: qui haec in illo incorporeo lumine didicerunt: &amp; haec tanquam  
         <lb ed="#Ba" n="33"/>verba nobis proponentibus: non autem tanquam verborum intellectum praebentibus. hoc enim solius dei 
         <lb ed="#Ba" n="34"/>est: secundum quod dicit <ref xml:id="vn58an-d1e1136-Rd1e205">
-        <name>Aug.</name> i. ser. super Ioan.</ref> exponendo illud. In principio erat verbum. &amp; 
+        <name xml:id="vn58an-d1e1136-Nd1e200">Aug.</name> i. ser. super Ioan.</ref> exponendo illud. In principio erat verbum. &amp; 
         vocan<lb ed="#Ba" n="35" break="no"/>do scriptores huius scientiae montes: dicit. Nisi montes ista dicerent: vnde omnino cogitaretis non 
         in<lb ed="#Ba" n="36" break="no"/>ueniretis. ergo ex montibus venit nobis auxilium: vt hoc vel audiretis. Sed nondum potestis intellige 
         <lb ed="#Ba" n="37"/>re quod audistis. Inuocate auxilium a domino qui fecit cae. &amp; ter, quia montes sic poterunt loqui: vt non 
@@ -111,7 +111,7 @@
         <lb ed="#Ba" n="41"/>tibi auxilium: vt inde tanquam calice. id est verbum propinatum acciperes: &amp; tamen quia auxilium tuum a domino qui se. 
         <lb ed="#Ba" n="42"/>cae. &amp; terr. inde impleres pectus vnde ille impleuit. Solus enim ille qui fidem dedit: potest praestare intellectum: 
         <lb ed="#Ba" n="43"/>sed hoc secundum conmunem cursum: non nisi fide praecedente: per quam homo ad intellectum sit idoneus 
-        <lb ed="#Ba" n="44"/>vt videat ex euidentia rei vel rationis quod prius sola fide tenebat. Hic dicit <name ref="#Augustine">Augustinus</name> li. de ordi. ii. Nullus 
+        <lb ed="#Ba" n="44"/>vt videat ex euidentia rei vel rationis quod prius sola fide tenebat. Hic dicit <name xml:id="vn58an-d1e1136-Nd1e225" ref="#Augustine">Augustinus</name> li. de ordi. ii. Nullus 
         <lb ed="#Ba" n="45"/>hominum nisi ex imperito peritus fit. Nullus autem imperitus nouit qualem se debeat praebere docentibus 
         <lb ed="#Ba" n="46"/>&amp; quali vita esse docilis possit. Euenit vt omnibus bona magna &amp; occulta discere cupientibus non  
         <lb ed="#Ba" n="47"/>aperiat nisi auctoritas ianuam: quam quisque ingressus sine dubitatione vitae optimae praecepta sectatur: per  
@@ -136,14 +136,14 @@
       <p xml:id="vn58an-d1e1136-d1e278">
         ⁋ Est etiam aduertendum quod fides quae via est ad intellectum, non est 
         <lb ed="#Ba" n="7"/>fides qua solummodo creditur deo vt testi vero: sed qua credens in ipsum fidit vt in fidei auctore,  
-        <lb ed="#Ba" n="8"/>&amp; remuneratore. Vnde <name ref="#Augustine">Augustinus</name> in ser. xxviii. exponens illud: <quote source="http://scta.info/resource/io6_29@6-16">hoc est opus dei: vt credatis in eum quem
-        il<lb ed="#Ba" n="9" break="no"/>le misit</quote>: ad exponendum illud aliud: <quote source="http://scta.info/resource/io7_17@1-9">Si quis voluerit voluntatem eius facere cognoscet de doctrina
+        <lb ed="#Ba" n="8"/>&amp; remuneratore. Vnde <name xml:id="vn58an-d1e1136-Nd1e276" ref="#Augustine">Augustinus</name> in ser. xxviii. exponens illud: <quote xml:id="vn58an-d1e1136-Qd1e279" source="http://scta.info/resource/io6_29@6-16">hoc est opus dei: vt credatis in eum quem
+        il<lb ed="#Ba" n="9" break="no"/>le misit</quote>: ad exponendum illud aliud: <quote xml:id="vn58an-d1e1136-Qd1e284" source="http://scta.info/resource/io7_17@1-9">Si quis voluerit voluntatem eius facere cognoscet de doctrina
         <lb ed="#Ba" n="10"/>eius</quote> dicit. Quis nesciat esse voluntatem dei operari opus eius: hoc autem opus dei est vt credatis 
         <lb ed="#Ba" n="11"/>in eum: non vt credatis ei. Sed &amp; si credatis in eum, creditis ei. Non autem continuo qui credit ei 
         <lb ed="#Ba" n="12"/>credit in eum. Nam daemones credebant ei &amp; non credebant in eum. Rursus credendum est Paulo: 
         <lb ed="#Ba" n="13"/>sed non credendum in Paulum. Credenti enim in deum reputatur fides ad iustitiam. Et quod sic fidem 
         <lb ed="#Ba" n="14"/>pire intelligentiam in cognitione eorum: quae naturalem rationem excedunt: non sit quasi ex sola 
-        <lb ed="#Ba" n="15"/>legis institutione: sed magis ex rationis naturalis necessitate: ostendit <name ref="#Augustine">Augustinus</name> in epistola ad 
+        <lb ed="#Ba" n="15"/>legis institutione: sed magis ex rationis naturalis necessitate: ostendit <name xml:id="vn58an-d1e1136-Nd1e300" ref="#Augustine">Augustinus</name> in epistola ad 
         Consen<lb ed="#Ba" n="16" break="no"/>tiu dicens. Vt in quibusdam rebus ad doctrinam salutarem pertinentibus: quas ratione percipere non 
         va<lb ed="#Ba" n="17" break="no"/>lemus, sed aliquando valebimus, fides qua cor mundatur praecedat rationem: vt rationis capiat &amp; proferat lucem: 
         <lb ed="#Ba" n="18"/>hoc vtique rationis est. Et ideo rationabiliter dictum est per prophetam: Nisi credideritis non 
@@ -231,7 +231,7 @@
         <lb ed="#Ba" n="37"/>re: oportet quod prius intelligat incomplexa: quae intelligere non potest prius quam ea credat: Sic quodam 
         mo<lb ed="#Ba" n="38" break="no"/>do verum est dicere: intellige vt credas: &amp; quodam modo verum est dicere, crede vt intelligas. Intellige 
         <lb ed="#Ba" n="39"/>re enim debemus incomplexa vt credamus complexa: &amp; credere prius complexa: vt eadem postea 
-        intelliga<lb ed="#Ba" n="40" break="no"/>mus. Et ideo dicit <name ref="#Augustine">Augustinus</name> de verbis Apostoli. ser. xxvi. Intellige vt credas, &amp; crede vt intelligas. Breuiter dico 
+        intelliga<lb ed="#Ba" n="40" break="no"/>mus. Et ideo dicit <name xml:id="vn58an-d1e1136-Nd1e487" ref="#Augustine">Augustinus</name> de verbis Apostoli. ser. xxvi. Intellige vt credas, &amp; crede vt intelligas. Breuiter dico 
         <lb ed="#Ba" n="41"/>quomodo vtrumque sine controuersia accipimus. Intellige vt credas verbum meum: crede vt intelligas verbum dei.
       </p>
     </div>

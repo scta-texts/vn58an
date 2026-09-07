@@ -61,19 +61,19 @@
       </p>
       <p xml:id="vn58an-d1e1254-d1e121">
         ⁋ Secundo  
-        <lb ed="#Ba" n="24"/>sic. <name>Chrysostomus</name> super illud Mat. i. Habens in vtero de spiritu sancto, dicit sic. 
+        <lb ed="#Ba" n="24"/>sic. <name xml:id="vn58an-d1e1254-Nd1e118">Chrysostomus</name> super illud Mat. i. Habens in vtero de spiritu sancto, dicit sic. 
         <lb ed="#Ba" n="25"/>Nequaquam euageris vlterius, nec super ea quae dicta sunt quicquam requiras. suscipe 
         <lb ed="#Ba" n="26"/>quod reuelatum est: noli indagare quod tectum est. sed exponens semper aliquid vlterius 
         <lb ed="#Ba" n="27"/>euagatur, &amp; aliquid requirit super id quid reuelatum est, &amp; indagat quod tectum est. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e1254-d1e136">
         ⁋ Tertio 
-        <lb ed="#Ba" n="28"/>sic. <name>Hieronymus</name> super illud Mat. xiii. Edissere nobis parabolam xizaniorum. dicit in Homilia. Non ei debe 
+        <lb ed="#Ba" n="28"/>sic. <name xml:id="vn58an-d1e1254-Nd1e132">Hieronymus</name> super illud Mat. xiii. Edissere nobis parabolam xizaniorum. dicit in Homilia. Non ei debe 
         <lb ed="#Ba" n="29"/>mus propere intelligendi desiderio ante eius notitiam quaerere quam a domino edisseratur. sed ante quaerit qui  
         <lb ed="#Ba" n="30"/>scripturam quam ipse non exposuit exponit. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e1254-d1e148">
-        ⁋ In contrarium est <name ref="#Augustine">Augustinus</name> dicens de hac scriptura in 
+        ⁋ In contrarium est <name xml:id="vn58an-d1e1254-Nd1e141" ref="#Augustine">Augustinus</name> dicens de hac scriptura in 
         <lb ed="#Ba" n="31"/>principio super Io. Quare auditur si non exponatur: quasi dicat, non esset audienda si non esset exponem 
         <lb ed="#Ba" n="32"/>da. sed constat ex supra determinatis quod sacra scriptura est audienda, erit ergo &amp; exponenda. 
       </p>
@@ -82,12 +82,12 @@
         <lb ed="#Ba" n="34"/>modus traditionis ipsius scientiae. Sic enim tradita &amp; inuoluta est mysteriis vt sensus spiritualis necnon &amp; 
         lite<lb ed="#Ba" n="35" break="no"/>ralis sit frequenter obscurus, &amp; etiam quantum apparet prima facie frequenter sensus literalis absurdus 
         <lb ed="#Ba" n="36"/>sit. Ne ergo in ea absurditas aliqua appareat, &amp; vt veritas eius tecta pateat, attentissime sacta seri 
-        <lb ed="#Ba" n="37"/>ptura exponenda est. Vnde de expositione facienda propter apertionem occultorum dicit <name ref="#Augustine">Augustinus</name> in sermo 
+        <lb ed="#Ba" n="37"/>ptura exponenda est. Vnde de expositione facienda propter apertionem occultorum dicit <name xml:id="vn58an-d1e1254-Nd1e162" ref="#Augustine">Augustinus</name> in sermo 
         <lb ed="#Ba" n="38"/>ne de assumptione beatae virginis. Quia (inquit) quaedam scriptura sacra veris indagationum studiis 
         quae<lb ed="#Ba" n="39" break="no"/>renda reliquit, non sunt supersiua aestimanda dum vera indagatione fuerint patefacta. Foecunda enim 
         <lb ed="#Ba" n="40"/>est veritatis auctoritas: &amp; dum diligenter discutitur, de se gignere quod ipsa est cognoscitur. Saepe eim 
         discuss<lb ed="#Ba" n="41" break="no"/>veram convenientiam parit, quam manifestis sermonibus abscondit. De expositione autem facienda ad intellectum 
-        <lb ed="#Ba" n="42"/>absurdorum, dicit <name ref="#Augustine">Augustinus</name> in principio de moribus ecclesiae. Quis (inquit) mediocriter sanus non facile 
+        <lb ed="#Ba" n="42"/>absurdorum, dicit <name xml:id="vn58an-d1e1254-Nd1e176" ref="#Augustine">Augustinus</name> in principio de moribus ecclesiae. Quis (inquit) mediocriter sanus non facile 
         intelli<lb ed="#Ba" n="43" break="no"/>git scripturarum expositionem ab iis petendam esse qui earum doctores se esse profitentur: fierique posse 
         <lb ed="#Ba" n="44"/>immo id semper accidere: vt multa indoctis videantur absurda, quae cum a doctoribus exponuntur eo laudam 
         <lb ed="#Ba" n="45"/>da videantur elatius quo abiectius aspernanda videbantur, &amp; eo accipiantur aperta dulcius quo clausa 
@@ -104,7 +104,7 @@
         <pb ed="#Ba" n="102-r"/>
         <lb ed="#Ba" n="1"/>Sed nec ad eam exponendam induxisset sacros expositores vna causa vel altera, nisi cum hoc 
         coe<lb ed="#Ba" n="2" break="no"/>gisset haereticorum pertinacia: qui in obscuris male exponendo eam peruerterunt: &amp; propter illa qua 
-        <lb ed="#Ba" n="3"/>in ea videbantur absurda, eam respuebant. Et ideo dicit <name ref="#Augustine">Augustinus</name> i. par. super loannem. sermo. xxxvii. scriptu 
+        <lb ed="#Ba" n="3"/>in ea videbantur absurda, eam respuebant. Et ideo dicit <name xml:id="vn58an-d1e1254-Nd1e216" ref="#Augustine">Augustinus</name> i. par. super loannem. sermo. xxxvii. scriptu 
         <lb ed="#Ba" n="4"/>ras discutiendas non fuisse si fieri posset, nisi haereticorum commenta compellerent. Vt enim dicit in ser. 
         <lb ed="#Ba" n="5"/>praecedenti, multi haeretici abundant, &amp; ad hoc eos deus abundare permisit: ne semper lacte nutriamur. quia enim 
         <lb ed="#Ba" n="6"/>non intellexerunt sapuerunt quomodo voluerunt: non recte autem sapiendo fidelibus catholicis quaestio 
@@ -122,7 +122,7 @@
         <lb ed="#Ba" n="16"/>non tamen supra vel vltra id quod in sensu latet. Quod primo modo est supra vel vltra, non est 
         <lb ed="#Ba" n="17"/>omnino requirendum in expositione: quia est vel impertinens vel contrarium regulis fidei. &amp; in  
         <lb ed="#Ba" n="18"/>hoc casu loquuntur auctoritates illae. Quod secundo modo est supra vel vltra, omnino per 
-        exposi<lb ed="#Ba" n="19" break="no"/>tionem est requirendum. Vnde super illud Gali. i. <quote source="http://scta.info/resource/gal1_9@7-16">Si quis vobis euangelizauerit praeter id quod ac
+        exposi<lb ed="#Ba" n="19" break="no"/>tionem est requirendum. Vnde super illud Gali. i. <quote xml:id="vn58an-d1e1254-Qd1e256" source="http://scta.info/resource/gal1_9@7-16">Si quis vobis euangelizauerit praeter id quod ac
         <lb ed="#Ba" n="20"/>cepistis, anathema sit</quote>. dicit Glos. Attendendum est quod non ait plus quam accepistis: nam qui supplet 
         <lb ed="#Ba" n="21"/>quod minus erat, addit: qui autem praetergreditur fidei regulam non accedit in via. Supra ergo vel 
         <lb ed="#Ba" n="22"/>vltra licet requirere in expositionibus plus aliquid addendo quod non expressum fuit, sed tamen latuit:  

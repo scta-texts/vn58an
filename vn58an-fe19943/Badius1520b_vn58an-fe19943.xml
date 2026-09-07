@@ -63,7 +63,7 @@
         <lb ed="#Bb" n="32"/>per exeundo ab alio, nunquam habet esse in illo: quia esse in, &amp; exire ab, sunt contrariae 
         <lb ed="#Bb" n="33"/>habitudines: quae non possunt esse in eodem respectu vnius. filius habet esse in sem 
         <lb ed="#Bb" n="34"/>per exeundo a patre: quia dicitur loanenis. xvi. Exiui a patre. &amp;. xiii. Adeo exiuit. &amp; 
-        <lb ed="#Bb" n="35"/>Micheae. v. <quote source="http://scta.info/resource/mic5_2@19-26">Egressus eius ab initio a diebus aeternitatis</quote>. qui exitus exponitur de aeterna generatione
+        <lb ed="#Bb" n="35"/>Micheae. v. <quote xml:id="vn58an-fe19943-Qd1e121" source="http://scta.info/resource/mic5_2@19-26">Egressus eius ab initio a diebus aeternitatis</quote>. qui exitus exponitur de aeterna generatione
         <lb ed="#Bb" n="36"/>qua semper filius generatur, &amp; semper generatus est, vt infra videbitur. ergo filius non est in patre 
         <lb ed="#Bb" n="37"/>nec econuerso per consimilem rationem, vt patet intuenti. ergo &amp;c. 
       </p>
@@ -72,7 +72,7 @@
         <lb ed="#Bb" n="38"/>in altera: aut ergo ratione substantiae: aut ratione relationis: aut ratione vtriusque, non ratione substantiae: quia ratione 
         <lb ed="#Bb" n="39"/>substantiae sunt idem: &amp; ratione qua aliqui sunt idem, vnus non est in altero: quia esse in, est nota 
         diffe<lb ed="#Bb" n="40" break="no"/>rentiae siue distinctionis inter illos quorum vnus est in altero. ldem enim inquantum idem non est 
-        <lb ed="#Bb" n="41"/>in seipso: quia tunc aliquid esset in seipso primo &amp; per se: quod est impossibile secundum <name ref="#Aristotle">Philosophum</name> 
+        <lb ed="#Bb" n="41"/>in seipso: quia tunc aliquid esset in seipso primo &amp; per se: quod est impossibile secundum <name xml:id="vn58an-fe19943-Nd1e140" ref="#Aristotle">Philosophum</name> 
         <lb ed="#Bb" n="42"/>iiii. physicorum. Eo autem quo sunt idem non distinguuntur aut differunt. Non ratione relationis 
         <lb ed="#Bb" n="43"/>quia ratione relationis opponuntur: &amp; oppositum non habet esse in opposito inquantum oppositum 
         <lb ed="#Bb" n="44"/>est. ergo non ratione vtriusque secundum Auctorem lib. vi. principiorum. ergo &amp;c. 
@@ -166,7 +166,7 @@
       <p xml:id="vn58an-fe19943-d1e296">
         ⁋ In oppositum est, quoniam qui subsistunt in vno simplici non sepeati aut diuisi, 
         ne<lb ed="#Bb" n="39" break="no"/>cessario insunt sibi inuicem, aut sunt idem omnino: quia non est medium. omnes personae diuinae sunt 
-        <lb ed="#Bb" n="40"/>huiusmodi. ergo &amp;c. Et hoc est quod dicit Saluator Ioan. xiiii. <quote source="http://scta.info/resource/io14_10@4-11 http://scta.info/resource/io14_11@4-11">Ego in patre &amp; pater in me est</quote>.
+        <lb ed="#Bb" n="40"/>huiusmodi. ergo &amp;c. Et hoc est quod dicit Saluator Ioan. xiiii. <quote xml:id="vn58an-fe19943-Qd1e298" source="http://scta.info/resource/io14_10@4-11 http://scta.info/resource/io14_11@4-11">Ego in patre &amp; pater in me est</quote>.
         <lb ed="#Bb" n="41"/>
       </p>
       <p xml:id="vn58an-fe19943-d1e305">
@@ -181,7 +181,7 @@
         ⁋ Ratione essentiae, quia tota essentia vnius personae est in altera. secundum quod dicit 
         Damascen<lb ed="#Bb" n="47" break="no"/>nus. iii. Senten. cap. vi. Confitemur deitatis naturam omnem perfectam esse in vnaquaque suarum per 
         <lb ed="#Bb" n="48"/>sonarum, omnem in patre, omnem in filio, omnem in spiritu sancto: &amp; vbi est substantia seu natura 
-        perso<lb ed="#Bb" n="49" break="no"/>nae, ibi &amp; ipsa est. Per hanc ergo vnitatem naturalem, vt ait <name ref="#Augustine">Augustinus</name> in principio de fide ad Pe. 
+        perso<lb ed="#Bb" n="49" break="no"/>nae, ibi &amp; ipsa est. Per hanc ergo vnitatem naturalem, vt ait <name xml:id="vn58an-fe19943-Nd1e325" ref="#Augustine">Augustinus</name> in principio de fide ad Pe. 
         to<lb ed="#Bb" n="50" break="no"/>tus pater in filio &amp; spiritu sancto est: &amp; totus filius in patre &amp; spiritu sancto: totus spiritus sanctus 
         <lb ed="#Bb" n="51"/>in patre &amp; filio. nullus horum extra quemlibet ipsorum est. Hinc etiam dicit Ambrosius super 
         episto<lb ed="#Bb" n="52" break="no"/>lam ad Corinth. Per hoc intelligitur pater esse in filio &amp; filius in patre: quia vna est eorum substantia. 
@@ -198,7 +198,7 @@
         <lb ed="#Bb" n="3"/>uod pater est vnum cum filio, est idem quod ipse: in eo autem quod aliquid est idem, non est in quia secundum 
         <lb ed="#Bb" n="4"/>
        <ref xml:id="vn58an-fe19943-Rd1e358">
-        <name>Philosophum</name>. 4. physicorum</ref>, alia est ratio eius quod est in quo, &amp; alia illius quod in hoc: &amp; tunc 
+        <name xml:id="vn58an-fe19943-Nd1e359">Philosophum</name>. 4. physicorum</ref>, alia est ratio eius quod est in quo, &amp; alia illius quod in hoc: &amp; tunc 
         pa<lb ed="#Bb" n="5" break="no"/>ter cum non sit minus idem sibiipsi quam filio, consimiliter diceretur esse in seipso sicut &amp; in filio. &amp; hoc 
         <lb ed="#Bb" n="6"/>per se &amp; primo: quia pater per se &amp; primo est idem sibiipsi, non autem per aliquid aliud a se: nec per aliquid  
         <lb ed="#Bb" n="7"/>sui. Hoc autem omnino est impossibile circa corporalia, vt probat Philosophous. iiii. physicorum, nec 
@@ -304,7 +304,7 @@
         <lb ed="#Bb" n="42"/>exprimunt personam esse in persona nisi secundum substantiam, vt patet in primo Sententiarum 
         <lb ed="#Bb" n="43"/>distinctione. xix. cap. Et inde est. vbi ista materia tractatur: etiam exponit vnam personam esse in  
         <lb ed="#Bb" n="44"/>alia secundum relationem, in libro. iii. de trinitate cap. primo, sic inquiens. Cognoscendum itaque est 
-        <lb ed="#Bb" n="45"/>atque intelligendum quid sit illud, <quote source="http://scta.info/resource/io14_10@4-10 http://scta.info/resource/io14_11@4-10">ego in patre, &amp; pater in me</quote>. Si tamen comprehendere ita vt est
+        <lb ed="#Bb" n="45"/>atque intelligendum quid sit illud, <quote xml:id="vn58an-fe19943-Qd1e581" source="http://scta.info/resource/io14_10@4-10 http://scta.info/resource/io14_11@4-10">ego in patre, &amp; pater in me</quote>. Si tamen comprehendere ita vt est
         <lb ed="#Bb" n="46"/>valebimus: vt quod natura rerum non pati posse existimatur, id diuinae veritatis ratio consequatur. &amp; 
         <lb ed="#Bb" n="47"/>post pauca subiugit. Quod in patre est, hoc in filio est: quod in ingenito, hoc in vnigenito, alter ab altero, &amp; 
         <lb ed="#Bb" n="48"/>vterque vnum non duo vnus, sed alius in alio, quia non aliud in vtroque. Ecce vnus in alio est secundum substantiam. &amp; 
@@ -339,7 +339,7 @@
       <p xml:id="vn58an-fe19943-d1e645">
         ⁋ Secundum hoc soluitur difficultas summe disturbans intellectum intelligendo patrem esse in fi 
         <lb ed="#Bb" n="17"/>lio &amp; filium in patre mutuo. secundum quod dicit Hilarius. iii. de trinita. in principio. Affert 
-        pleris<lb ed="#Bb" n="18" break="no"/>quod obscuritatem sermo Domini cum dicit. <quote source="http://scta.info/resource/io14_10@4-11 http://scta.info/resource/io14_11@4-11">Ego in patre, &amp; pater in me est</quote>: &amp; non immerito, natu
+        pleris<lb ed="#Bb" n="18" break="no"/>quod obscuritatem sermo Domini cum dicit. <quote xml:id="vn58an-fe19943-Qd1e652" source="http://scta.info/resource/io14_10@4-11 http://scta.info/resource/io14_11@4-11">Ego in patre, &amp; pater in me est</quote>: &amp; non immerito, natu
         <lb ed="#Bb" n="19"/>ra enim intelligentiae humanae rationem dicti huius non capit. Videtur enim non posse effici vt quod  
         <lb ed="#Bb" n="20"/>in altero sit aeque idipsum sit extra alterum: &amp; cum necesse sit ea de quibus agitur non solitaria sibi es 
         <lb ed="#Bb" n="21"/>se, numerum tamen suum in quo sint conseruantia, non posse se inuicem continere: vt qui aliquid aliud habeat  
@@ -420,7 +420,7 @@
         dicen<lb ed="#Bb" n="25" break="no"/>te Hila. vii. de trinitate cap. xvii. Vnum &amp; absolutum &amp; perfectum fidei sacramentum est deum ex 
         <lb ed="#Bb" n="26"/>deo &amp; deum in deo confiteri, non corporalibus modis, sed virtute naturae. &amp; cap. xviii. Vnigenitus 
         <lb ed="#Bb" n="27"/>cum ipse deus sit, tamen etiam per naturae vnitatem cum eo deus, &amp; per id quod ipse deus est &amp; in  
-        <lb ed="#Bb" n="28"/>eo deus est, habens in se &amp; quod ipse est &amp; quo ipse subsistit. Vt enim per Esaiam loquitur, <quote source="http://scta.info/resource/is45_14@30-40">in te est deus &amp; non est
+        <lb ed="#Bb" n="28"/>eo deus est, habens in se &amp; quod ipse est &amp; quo ipse subsistit. Vt enim per Esaiam loquitur, <quote xml:id="vn58an-fe19943-Qd1e812" source="http://scta.info/resource/is45_14@30-40">in te est deus &amp; non est
         <lb ed="#Bb" n="29"/>alius deus praeter te</quote>: &amp; indiuiduam &amp; inseparabilem patris &amp; filii diuinitatem ita prophetauit. Non
         <lb ed="#Bb" n="30"/>tamen oportet confiteri eundem esse in seipso licet non sit nisi vnus deus: quoniam cum hoc bene 
         <lb ed="#Bb" n="31"/>sunt plures personae quae sunt in inuicem. Licet enim hoc nomen deus significat naturam siue essentiam 
@@ -547,7 +547,7 @@
         distin<lb ed="#Bb" n="20" break="no"/>ctione quam haberent si essent extra se: rationalem vero essentialia. Tunc autem solummodo esset confusio 
         <lb ed="#Bb" n="21"/>si ex eo quod insunt amitteretur distinctio inter id quid inest &amp; cui inest: quemadmodum in chaos confuso 
         se<lb ed="#Bb" n="22" break="no"/>cundum Anaxa. nulla erat distinctio carnis ab osse &amp; ligno aut lapide &amp; caeteris huiusmodi. Qui videt hoc 
-        <lb ed="#Bb" n="23"/>vel aperte vel per speculum in aenigmate (vt dicit <name ref="#Augustine">Augustinus</name> in fine. vi. de trinita, gaudeat 
+        <lb ed="#Bb" n="23"/>vel aperte vel per speculum in aenigmate (vt dicit <name xml:id="vn58an-fe19943-Nd1e1073" ref="#Augustine">Augustinus</name> in fine. vi. de trinita, gaudeat 
         co<lb ed="#Bb" n="24" break="no"/>gnoscens: deum honoret: &amp; gratias agat. Qui autem non videt, tendat per pietatem ad videndum non per  
         <lb ed="#Bb" n="25"/>caecitatem ad calumniandum, quoniam vnus est deus licet trinitas: nec confuse accipiendum ex 
         <lb ed="#Bb" n="26"/>quo omnia, per quem omnia, in quo omnia. 

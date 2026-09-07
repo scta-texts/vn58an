@@ -54,7 +54,7 @@
       <head xml:id="vn58an-d1e923-Hd1e104">Quaestio 1</head>
       <head xml:id="vn58an-d1e923-Hd1e107" type="question-title">Utrum solus deus sit doctor theologiae</head>
       <p xml:id="vn58an-d1e923-d1e110">
-        <lb ed="#Ba" n="46"/>CIrca primum arguitur quod solus deus sit doctor sacrae scripturae. Primo sic. <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Ba" n="46"/>CIrca primum arguitur quod solus deus sit doctor sacrae scripturae. Primo sic. <name xml:id="vn58an-d1e923-Nd1e107" ref="#Augustine">Augustinus</name> 
         <lb ed="#Ba" n="47"/>dicit. iiii. de doct. Christana In ipsis hominibus &amp; angelis nemo recte discit quae 
         per<lb ed="#Ba" n="48" break="no"/>tinent ad viuendum cum deo, nisi fiat a deo docilis. docilis a deo nemo fit nisi 
         <lb ed="#Ba" n="49"/>deo docente quae pertinent ad viuendum cum deo. quae pertinent ad viuendum cum deo sunt 
@@ -73,7 +73,7 @@
         <pb ed="#Ba" n="77-r"/>
         <lb ed="#Ba" n="1"/>tra est illud Eph. iiii. Et ipse dedit alios pastores &amp; doctores in aedificationem corporis id est ecclesiae 
         in<lb ed="#Ba" n="2" break="no"/>structionem. &amp; hoc non nisi in hac scientia de qua ibi loquitur. ergo &amp;c. i. Et. Timo. ii. dicit Apostolus 
-        <lb ed="#Ba" n="3"/>vocans se doctorem huius scientiae. <quote source="http://scta.info/resource/Itim2_7@9-18">Veritatem dico non mentior, doctor gentium in fide &amp; veritate</quote>.
+        <lb ed="#Ba" n="3"/>vocans se doctorem huius scientiae. <quote xml:id="vn58an-d1e923-Qd1e145" source="http://scta.info/resource/Itim2_7@9-18">Veritatem dico non mentior, doctor gentium in fide &amp; veritate</quote>.
       </p>
       <p xml:id="vn58an-d1e923-d1e152">
         <lb ed="#Ba" n="4"/>⁋ In hac quaestione an deus doceat hanc scientiam non est dubium: sed in hoc est 
@@ -108,14 +108,14 @@
         <lb ed="#Ba" n="30"/>iudicio naturalis rationis. In doctrina autem huius scientiae secus est, quamquam enim terminos incomplexos 
         <lb ed="#Ba" n="31"/>credendorum cognoscit homo per se antequam potest aliquod complexum ex illis credere: qui enim prius 
         ni<lb ed="#Ba" n="32" break="no"/>hil intelligit credere non potest: vt qui non intelligit generali notitia quid homo, quid pati, quid  
-        <lb ed="#Ba" n="33"/>Christus, non potest credere Christum hominem passum. secundum quod dicit <name ref="#Augustine">Augustinus</name> A de trinita. 
+        <lb ed="#Ba" n="33"/>Christus, non potest credere Christum hominem passum. secundum quod dicit <name xml:id="vn58an-d1e923-Nd1e218" ref="#Augustine">Augustinus</name> A de trinita. 
         <lb ed="#Ba" n="34"/>Credimus dominum lesum Christum natum de virgine quae Maria vocatur: quid autem sit virgo, &amp; 
         <lb ed="#Ba" n="35"/>quid nasci: &amp; quid sit nomen proprium non credimus: sed prorsus nouimus. Complexiones tamen 
         <lb ed="#Ba" n="36"/>determinatas credibilium particularium non potest homo per se sibi formare, vt in eis discernat 
         ra<lb ed="#Ba" n="37" break="no"/>tio an consentiendum eis sit an non, etiam suscepto habitu fidei. nisi cum hoc articuli ei ab aliquo  
         <lb ed="#Ba" n="38"/>tanquam credendi proponerentur &amp; suaderentur: &amp; hoc vel adeo interius per inspirationem: sicut Paulo 
         <lb ed="#Ba" n="39"/>inspirauit notitiam Euang. aut ab homine vel ab angelo exterius per praedicationem &amp; sacrae 
-        scri<lb ed="#Ba" n="40" break="no"/>pturae instructionem. Et ideo dicit <name ref="#Augustine">Augustinus</name> ser id est super Ioan. Per homines ministratae sunt scripturae 
+        scri<lb ed="#Ba" n="40" break="no"/>pturae instructionem. Et ideo dicit <name xml:id="vn58an-d1e923-Nd1e237" ref="#Augustine">Augustinus</name> ser id est super Ioan. Per homines ministratae sunt scripturae 
         <lb ed="#Ba" n="41"/>nisi enim ista dicerent, vnde omnino cogitaretis non inueniretis. Et licet deus possit interiori 
         inspi<lb ed="#Ba" n="42" break="no"/>ratione sufficienter instruere in eis quae fidei sunt &amp; sacrae scripturae: vult tamen illud fieri per 
         homi<lb ed="#Ba" n="43" break="no"/>nem quantum per ipsum fieri potest. vnde nec vult hoc per angelum facere vt homini reuerentiam 
@@ -125,10 +125,10 @@
         <lb ed="#Ba" n="47"/>aliquo modo hanc scientiam docere sicut &amp; alias. Quia tamen eius non est intellectum ad 
         intelligen<lb ed="#Ba" n="48" break="no"/>dum aliquo modo illuminare: sed solius dei, multo quodminus in hac scientia quam in aliis: quo ad hoc 
         sim<lb ed="#Ba" n="49" break="no"/>pliciter solius dei est docere hanc scientiam: sicut &amp; quamlibet aliam: &amp; multo specialius, vt dictum 
-        <lb ed="#Ba" n="50"/>est. Vnde <name ref="#Augustine">Augustinus</name> postquam dixit quod per homines ministratae sunt scripturae, dicens. Nisi enim ista dicerent 
+        <lb ed="#Ba" n="50"/>est. Vnde <name xml:id="vn58an-d1e923-Nd1e262" ref="#Augustine">Augustinus</name> postquam dixit quod per homines ministratae sunt scripturae, dicens. Nisi enim ista dicerent 
         <lb ed="#Ba" n="51"/>vnde omnino cogitaretis non inueniretis. immediate adiunxit vocando scriptores sacrae scripturae 
         <lb ed="#Ba" n="52"/>montes. Ergo ex modotibus (inquit) venit nobis auxilium vt ista audiretis: sed nondum potestis 
-        intelli<lb ed="#Ba" n="53" break="no"/>gere quod audistis: inuocate <quote source="http://scta.info/resource/ps120_2@1-9">auxilium a domino qui fecit caelum &amp; terram</quote>: quia montes sic potuerunt
+        intelli<lb ed="#Ba" n="53" break="no"/>gere quod audistis: inuocate <quote xml:id="vn58an-d1e923-Qd1e271" source="http://scta.info/resource/ps120_2@1-9">auxilium a domino qui fecit caelum &amp; terram</quote>: quia montes sic potuerunt
         <lb ed="#Ba" n="54"/>loqui vt non possent ipsi illuminare: quia &amp; ipsi illuminati sunt audiendo. loannes qui supra 
         pe<lb ed="#Ba" n="55" break="no"/>ctus domini discubuit, de pectore domini bibit quod nobis propinaret: Sed propinauit verba, intellectum 
    <!--169.xml-->
@@ -140,7 +140,7 @@
       </p>
       <p xml:id="vn58an-d1e923-d1e292">
         ⁋ Dicendum igitur quod simpliciter solus deus docet hanc 
-        <lb ed="#Ba" n="5"/>scientiam, quia ipse solus dat eam intelligi, quod est proprie eam docere. vnde <name ref="#Augustine">Augustinus</name> super loannem. ser. vii. 
+        <lb ed="#Ba" n="5"/>scientiam, quia ipse solus dat eam intelligi, quod est proprie eam docere. vnde <name xml:id="vn58an-d1e923-Nd1e297" ref="#Augustine">Augustinus</name> super loannem. ser. vii. 
         <lb ed="#Ba" n="6"/>Nemo dicat quia alius dedit legem &amp; alius docet eam. Ipse enim illam docet qui eam dedit. Quo ad  
         <lb ed="#Ba" n="7"/>aliquid autem vt dictum est: non solum deus docet eam hominem: immo etiam &amp; homocrio, quod &amp; 
         po<lb ed="#Ba" n="8" break="no"/>test angelus facere, licet alio modo quam deus, vt dictum est supra de modo docendi simpliciter. Et hoc 

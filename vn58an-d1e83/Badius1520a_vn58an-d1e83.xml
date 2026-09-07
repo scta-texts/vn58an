@@ -55,7 +55,7 @@
       <head xml:id="vn58an-d1e83-Hd1e107" type="question-title">Utrum contingat hominem aliquid scire sine divina illustratione</head>
       <p xml:id="vn58an-d1e83-d1e110">
         <lb ed="#Ba" n="42"/>CIrca secundum arguitur quod non contingit hominem aliquid scire ex sola naturali industria 
-        <lb ed="#Ba" n="43"/>sine speciali illustratione diuina. primo sic. ii. Cor. iii. dicit Apostolus <quote source="http://scta.info/resource/IIcor3_5@1-17">Non sumus
+        <lb ed="#Ba" n="43"/>sine speciali illustratione diuina. primo sic. ii. Cor. iii. dicit Apostolus <quote xml:id="vn58an-d1e83-Qd1e109" source="http://scta.info/resource/IIcor3_5@1-17">Non sumus
         suffi<lb ed="#Ba" n="44" break="no"/>cientes cognoscere aliquid ex nobis quasi ex nobis, sed sufficientia nostra ex deo est</quote>, non
         <lb ed="#Ba" n="45"/>est autem perceptio veritatis nisi cognitione: ergo sufficientia ad percipiendum veritatem 
         <lb ed="#Ba" n="46"/>non est nobis nisi ex demo: sed hoc non nisi ex illustratione speciali alicuius luminis di 
@@ -68,7 +68,7 @@
         <lb ed="#Ba" n="50"/>cit. hoc autem non est sine speciali illustratione, ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e83-d1e136">
-        ⁋ Tertio sic. Pri. Soliloquorum dicit <name ref="#Augustine">Augustinus</name> 
+        ⁋ Tertio sic. Pri. Soliloquorum dicit <name xml:id="vn58an-d1e83-Nd1e134" ref="#Augustine">Augustinus</name> 
         Intelli<lb ed="#Ba" n="51" break="no"/>gibilis est deus: intelligibilia sunt &amp; ista disciplinarum spectamina: tamen plurimum differunt. Nam terra visi 
         <lb ed="#Ba" n="52"/>bilis est &amp; lux: sed terra nisi luce illustrata videri non potest. ergo &amp; illa quae in disciplinis traduntur, quae quis 
         <lb ed="#Ba" n="53"/>quod verissima esse nulla dubitatione concedit, credendum est non posse intelligi nisi ab aliquo quasi suo sole 
@@ -85,18 +85,18 @@
         <lb ed="#Ba" n="4"/>gitur. Illa autem lux non est nisi speciealis illustrationis diuinae, ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e83-d1e168">
-        ⁋ Quito sic. <name ref="#Augustine">Augustinus</name> dicit: xii. cons. Si 
+        ⁋ Quito sic. <name xml:id="vn58an-d1e83-Nd1e166" ref="#Augustine">Augustinus</name> dicit: xii. cons. Si 
         am<lb ed="#Ba" n="5" break="no"/>bo videmus verum esse quod dicis, &amp; ambo videmus verum esse quod dico, vbi quaeso id videmus: nec ego vtique  
         <lb ed="#Ba" n="6"/>in te: nec tu in me: sed ambo in ipsa quae supra mentes nostras est incommutabili veritate. sed in illa 
         ni<lb ed="#Ba" n="7" break="no"/>hil videmus nisi speciali illustratione diuina: quia ipsa excedit limites naturae nostrae, ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e83-d1e180">
-        <lb ed="#Ba" n="8"/>⁋ In contrarium arguitur primo sic. <name ref="#Augustine">Augustinus</name> dicit. i. de Acaeca. Quae ducit ad veritatem nulla via melior 
+        <lb ed="#Ba" n="8"/>⁋ In contrarium arguitur primo sic. <name xml:id="vn58an-d1e83-Nd1e180" ref="#Augustine">Augustinus</name> dicit. i. de Acaeca. Quae ducit ad veritatem nulla via melior 
         <lb ed="#Ba" n="9"/>inuenitur quam diligens inquisitio veritatis. frustra autem esset inquisitio nisi homo per ipsam sine speciali diuina 
         <lb ed="#Ba" n="10"/>illustratione ad eam posset attingere, ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e83-d1e192">
-        ⁋ Secundo sic. <name ref="#Aristotle">Philosophus</name> dicit in principio Metaph. Dens homines 
+        ⁋ Secundo sic. <name xml:id="vn58an-d1e83-Nd1e190" ref="#Aristotle">Philosophus</name> dicit in principio Metaph. Dens homines 
         <lb ed="#Ba" n="11"/>natura scire desiderant. sed non desiderant natura, nisi quod per naturam scire possunt: ergo homines per 
         na<lb ed="#Ba" n="12" break="no"/>turam aliquid scire possunt. Ad tale autem non requiritur specialis illustratio diuina, ergo &amp;c. 
       </p>
@@ -119,7 +119,7 @@
         natu<lb ed="#Ba" n="28" break="no"/>ralibus: sed solum ex speciali illustratione diuina. secundum quod hoc inferius determinabitur. Quidam  
         <lb ed="#Ba" n="29"/>autem hunc modum sciendi volunt extendere ad omne scibile: dicendo quod nullum verum 
         con<lb ed="#Ba" n="30" break="no"/>tingit sciri ab homine ex puris naturalibus, sine speciali illustratione diuina lumine aliquo super 
-        <lb ed="#Ba" n="31"/>naturali insuso. Et credunt hoc esse de mente <name ref="#Augustine">Augustinus</name> in omnibus libris suis vbicumque tractat quod quicumque 
+        <lb ed="#Ba" n="31"/>naturali insuso. Et credunt hoc esse de mente <name xml:id="vn58an-d1e83-Nd1e241" ref="#Augustine">Augustinus</name> in omnibus libris suis vbicumque tractat quod quicumque 
         ve<lb ed="#Ba" n="32" break="no"/>rum videt in prima veritate, siue in regulis aeternis, siue in luce aeterna illud videt: secundum quod dicit 
         <lb ed="#Ba" n="33"/>xi. de ciui. dei. ca. x. Non inconvenienter dicatur sic illuminari animam incorporea luce sapientiae simpli 
         <lb ed="#Ba" n="34"/>cis dei: sicut illuminatur aeris corpus luce corporea. Sic dicentes: multum derogant dignitati &amp; 
@@ -187,7 +187,7 @@
         <lb ed="#Ba" n="37"/>veritatem rei certo iudicio percipiendo de ipsa quid sit, vt quod sit verus homo vel verus color. Cuius 
         <lb ed="#Ba" n="38"/>duplex est ratio, vna ex parte ipsius intellectus, alia vero ex parte intelligibili. Ex parte intellectus 
         <lb ed="#Ba" n="39"/>ratio est, quia intellectus veritatem non concipit simplici intelligentia: sed solum compositione &amp; 
-        <lb ed="#Ba" n="40"/>diuisione. vt <name ref="#Aristotle">Philosophus</name> vult. vi. Metaph. &amp; vt inferius habebit declarari. Vnde sicut sensus dicitur 
+        <lb ed="#Ba" n="40"/>diuisione. vt <name xml:id="vn58an-d1e83-Nd1e389" ref="#Aristotle">Philosophus</name> vult. vi. Metaph. &amp; vt inferius habebit declarari. Vnde sicut sensus dicitur 
         <lb ed="#Ba" n="41"/>verus comprehendendo rem sicuti est, non autem comprehendendo eius veritatem: Sic &amp; simplex 
         intelli<lb ed="#Ba" n="42" break="no"/>gentia sequens sensum verum vera dicitur, comprehendendo rem sicuti est, non autem comprehendendo 
         <lb ed="#Ba" n="43"/>eius veritatem. Ex parte autem intelligibilis ratio est, quod alia est intentio rei qua est id quod est: &amp; alia 
@@ -199,7 +199,7 @@
         intelle<lb ed="#Ba" n="49" break="no"/>ctus: non tamen verum in eo quod est ratio intelligendi ens, est obiectum intellectus sicut est ens. 
         Ra<lb ed="#Ba" n="50" break="no"/>tio enim veri est ratio intelligibilitatis in quocunque: obiectum tamen est verum ens, vel verum bonum, 
         <lb ed="#Ba" n="51"/>&amp; sic de aliis rerum intentionibus. Vnde quia intentio entis in omnibus aliis rerum 
-        intentioni<lb ed="#Ba" n="52" break="no"/>bus includitur tam vniuersalibus quam particularibus, quod enim non est ens nihil est: Ideo vult <name ref="#Averroes">commentator</name> 
+        intentioni<lb ed="#Ba" n="52" break="no"/>bus includitur tam vniuersalibus quam particularibus, quod enim non est ens nihil est: Ideo vult <name xml:id="vn58an-d1e83-Nd1e418" ref="#Averroes">commentator</name> 
         <lb ed="#Ba" n="53"/>super primam propositionem de causis quod esse vehementioris est adherentiae cum re quam aliae 
         inten<lb ed="#Ba" n="54" break="no"/>tiones quae sunt in ea. Post intentionem autem entis proximiores sunt in re illae intentiones 
         vni<lb ed="#Ba" n="55" break="no"/>uersales, quae sunt vnum verum &amp; bonum, &amp; hoc diuersimode &amp; secundum ordinem. quoniam quaeli 
@@ -230,8 +230,8 @@
       <p xml:id="vn58an-d1e83-d1e482">
         ⁋ Et est dicendum quod cum vt dictum est iam 
         ve<lb ed="#Ba" n="22" break="no"/>ritas rei non potest cognosci nisi ex cognitione conformitatis rei cognitae ad suum exemplar: quia 
-        se<lb ed="#Ba" n="23" break="no"/>cundum quod dicit <name ref="#Augustine">Augustinus</name> de vera reigii. vera intantum vera sunt inquantum principalis vnius 
-        si<lb ed="#Ba" n="24" break="no"/>milia sunt. &amp; <name ref="#Anselm">Anselmus</name> de veritate: Veritas est rei conformitas ad suum exemplar verissimum. &amp; ibidem 
+        se<lb ed="#Ba" n="23" break="no"/>cundum quod dicit <name xml:id="vn58an-d1e83-Nd1e484" ref="#Augustine">Augustinus</name> de vera reigii. vera intantum vera sunt inquantum principalis vnius 
+        si<lb ed="#Ba" n="24" break="no"/>milia sunt. &amp; <name xml:id="vn58an-d1e83-Nd1e489" ref="#Anselm">Anselmus</name> de veritate: Veritas est rei conformitas ad suum exemplar verissimum. &amp; ibidem 
         <lb ed="#Ba" n="25"/>Quod est vere est inquantum est quod ibi est: Secundum quod duplex est exemplar rei: dupliciter ad duplex 
         <lb ed="#Ba" n="26"/>exemplar veritas rei habet ab homine cognosci. Est enim secundum quod vult Plato in primo Timaei, 
         du<lb ed="#Ba" n="27" break="no"/>plex exemplar: quoddam factum atque elaboratum: quoddam perpetuum atque immutabile. Primum 
@@ -282,14 +282,14 @@
         <lb ed="#Ba" n="9"/>rationem transmutabilis. Vnde quia res naturales magis sunt transmutabiles quam mathematicae: ideo posuit 
         <lb ed="#Ba" n="10"/>Philosophus maiorem haberi certitudinem scientiae de rebus mathematicis quam de naturalibus per species 
         <lb ed="#Ba" n="11"/>earum vniversales: &amp; hoc non nisi propter specierum ipsarum existentium apud animam transmutabilitatem. Vnde hanc 
-        cau<lb ed="#Ba" n="12" break="no"/>sam incertitudinis scientiae rerum naturalium ex sensibilibus acceptam <name ref="#Augustine">Augustinus</name> partractans. lxxxiii, quod quid ix. 
+        cau<lb ed="#Ba" n="12" break="no"/>sam incertitudinis scientiae rerum naturalium ex sensibilibus acceptam <name xml:id="vn58an-d1e83-Nd1e596" ref="#Augustine">Augustinus</name> partractans. lxxxiii, quod quid ix. 
         <lb ed="#Ba" n="13"/>dicit quod a sensibus corporis non est expetenda syncera veritas: &amp; quod saluberrime admonemur a 
         <lb ed="#Ba" n="14"/>uerti ab hoc mundo: &amp; ad deum id e. veritatem quae intelligitur &amp; in interiori mente capitur: quae semper 
         <lb ed="#Ba" n="15"/>manet &amp; eiusdem naturae est, tota alacritate converti. Secunda ratio est quod anima humana quia 
         mu<lb ed="#Ba" n="16" break="no"/>tabilis est &amp; erroris passiua, per nihil quod mutabilitatis aequalis vel maioris est cum ipsa potest rectificari ne 
         <lb ed="#Ba" n="17"/>obliquetur per errorem &amp; in rectitudine veritatis persistat. igitur omne exemplar quod recipit a rebus 
         naturali<lb ed="#Ba" n="18" break="no"/>bus, cum sit inferioris gradus naturae quam ipsa, necessario aequalis vel maioris mutabilitatis est cum 
-        <lb ed="#Ba" n="19"/>ipsa. Non ergo potest eam rectificare vt persistat in infallibili veritate: &amp; est ratio <name ref="#Augustine">Augustinus</name> de vera 
+        <lb ed="#Ba" n="19"/>ipsa. Non ergo potest eam rectificare vt persistat in infallibili veritate: &amp; est ratio <name xml:id="vn58an-d1e83-Nd1e614" ref="#Augustine">Augustinus</name> de vera 
         re<lb ed="#Ba" n="20" break="no"/>li. pre bantis per hoc immutabilem veritatem per quam anima habet certam scientiam, esse super animam d. 
         <lb ed="#Ba" n="21"/>Lex omnium artium cum sit omnino immutabilis: mens vero humana cui talem legem videre 
         conces<lb ed="#Ba" n="22" break="no"/>sum est mutabilitatem pati possit erroris: satis apparet super mentem nostram esse legem quae 
@@ -303,7 +303,7 @@
         exem<lb ed="#Ba" n="30" break="no"/>plar impossibile est certam haberi scientiam &amp; certam notitiam veritatis: &amp; ideo si debeat certa 
         scien<lb ed="#Ba" n="31" break="no"/>tia haberi veritatis oportet mentem auertere a sensibus &amp; sensibilibus &amp; ab omni intentione quantum 
         <lb ed="#Ba" n="32"/>cumque vniuersali &amp; abstracta a sensibilibus ad incommutabilem veritatem supra mentem existentem, quae non  
-        <lb ed="#Ba" n="33"/>habet imaginem falsi a qua discerni non potest, vt dicit <name ref="#Augustine">Augustinus</name> lxxxiii, quod quid ix. vbi pertractat istam 
+        <lb ed="#Ba" n="33"/>habet imaginem falsi a qua discerni non potest, vt dicit <name xml:id="vn58an-d1e83-Nd1e648" ref="#Augustine">Augustinus</name> lxxxiii, quod quid ix. vbi pertractat istam 
         <lb ed="#Ba" n="34"/>rationem. 
       </p>
       <p xml:id="vn58an-d1e83-d1e658">
@@ -313,7 +313,7 @@
         <lb ed="#Ba" n="37"/>sunt &amp; quid sit scire. Patet etiam quod certam scientiam &amp; infallibilem veritatem si contingat hominem cognosce 
         <lb ed="#Ba" n="38"/>re, hoc non contingit ei aspiciendo ad exemplar abstractum a re per sensus quantumcumque sit 
         depura<lb ed="#Ba" n="39" break="no"/>tum &amp; vniuersale factum. Propter quod primi Academici sententiam Platonis imitantes (iidem quippe sunt 
-        <lb ed="#Ba" n="40"/>Academici qui Platonici, vt dicit <name ref="#Augustine">Augustinus</name> in epistola ad Dioscorum) negabant aliquid sciri 
+        <lb ed="#Ba" n="40"/>Academici qui Platonici, vt dicit <name xml:id="vn58an-d1e83-Nd1e669" ref="#Augustine">Augustinus</name> in epistola ad Dioscorum) negabant aliquid sciri 
         omni<lb ed="#Ba" n="41" break="no"/>no contra Stoicos: qui solum ponebant sensibilia in mundo: &amp; hoc intelligendo de notitia veritatis 
         syn<lb ed="#Ba" n="42" break="no"/>cerae, ponendo omnem notitiam veritatis syncerae de quacumque re haberi non posse nisi aspiciendo ad exemplar 
         <lb ed="#Ba" n="43"/>secundum. Qui tamen bene discernebant quod aliqualis notitia veritatis posset percipi per sensus &amp; 
@@ -393,7 +393,7 @@
         <lb ed="#Ba" n="4"/>tanquam vna imagine perfecta diuinae artis: quantum perfectior poterit esse in creaturis: posuerunt philosophi 
         per<lb ed="#Ba" n="5" break="no"/>fectam haberi cognitionem dei quantum ex puris naturalibus haberi poterit, vt infra videbitur. Ad  
         <lb ed="#Ba" n="6"/>talem autem cognitionem diuini exemplaris homo non potest attingere ex puris naturalibus sine 
-        <lb ed="#Ba" n="7"/>speciali illustratione: nec etiam in vita ista lumine communis gratiae. Secundum quod dicit <name ref="#Augustine">Augustinus</name>  
+        <lb ed="#Ba" n="7"/>speciali illustratione: nec etiam in vita ista lumine communis gratiae. Secundum quod dicit <name xml:id="vn58an-d1e83-Nd1e845" ref="#Augustine">Augustinus</name>  
         <lb ed="#Ba" n="8"/>in lise. de fid. catholica loquens ad deum. Tua, inquit, essentia &amp; species potest dici &amp; forma: &amp; est id  
         <lb ed="#Ba" n="9"/>quod est. reliqua autem non sunt id quid sunt. Haec verissime potest dicere ego sum quid sum. haec tanta &amp; talis est 
         <lb ed="#Ba" n="10"/>vt de eius visione nihil in hac vita sibi vsurpare mens humana audeat: quid solis electis tuis praemium in sub 
@@ -406,7 +406,7 @@
         <lb ed="#Ba" n="17"/>homo ex puris naturalibus sine speciali diuina illustratione, neque ad sciendum aliquam veritatem in  
         <lb ed="#Ba" n="18"/>creaturis aspiciendo ad ipsam. Si vero sciatur syncera veritas aspiciendo ad diuinum exemplar vt ad  
         <lb ed="#Ba" n="19"/>rationem cognoscendi, hoc modo posuit Plato omnem veritatem cognosci aspiciendo ad exemplar 
-        aeter<lb ed="#Ba" n="20" break="no"/>num. Secundum quod dicit <name ref="#Augustine">Augustinus</name> inducens ad hoc auctoritatem Tullii, in epistola ad 
+        aeter<lb ed="#Ba" n="20" break="no"/>num. Secundum quod dicit <name xml:id="vn58an-d1e83-Nd1e877" ref="#Augustine">Augustinus</name> inducens ad hoc auctoritatem Tullii, in epistola ad 
         Diosco<lb ed="#Ba" n="21" break="no"/>rum. Illud, inquit, attende quoniam Plato a Cicerone multis modis apertissime ostenditur in sapientia 
         <lb ed="#Ba" n="22"/>non humana, sed plane diuina: vnde humana quodam modo attenditur: in illa vtique sapientia prorsus 
         <lb ed="#Ba" n="23"/>immutabili atque eodem modo semper se habente veritatem constituisse &amp; finem boni &amp; causas rerum 
@@ -456,12 +456,12 @@
         <lb ed="#Ba" n="10"/>⁋ Ratio autem huius ad praesens quae ibi magis declarabitur, est quia ad hoc quod aliqua 
         con<lb ed="#Ba" n="11" break="no"/>ceptio in nobis de veritate rei extra vera sit syncera veritate, oportet quod anima inquantum per 
         <lb ed="#Ba" n="12"/>eam est informata sit similis veritati rei extra: cum veritas sit quaedam adaequatio rei &amp; 
-        intelle<lb ed="#Ba" n="13" break="no"/>ctus. Quare cum vt dicit <name ref="#Augustine">Augustinus</name> secundo de libero arbitrio, anima de se sit mutabilis a 
+        intelle<lb ed="#Ba" n="13" break="no"/>ctus. Quare cum vt dicit <name xml:id="vn58an-d1e83-Nd1e986" ref="#Augustine">Augustinus</name> secundo de libero arbitrio, anima de se sit mutabilis a 
         ve<lb ed="#Ba" n="14" break="no"/>ritate in falsitatem: &amp; ita quantum est de se non sit veritate cuiusquam rei informata, sed informabilis 
         <lb ed="#Ba" n="15"/>nulla autem res seipsam formare potest: quia nulla res potest dare quod non habet: oportet ergo quod ali 
         <lb ed="#Ba" n="16"/>quo alio syncera veritate de re informetur. hoc autem non potest fieri per exemplar aliquod acceptum 
         <lb ed="#Ba" n="17"/>a re ipsa, vt prius ostensum est. Necesse est ergo quod ab exemplari incommutabilis veritatis 
-        forme<lb ed="#Ba" n="18" break="no"/>tur: vt vult <name ref="#Augustine">Augustinus</name> ibidem. Et ideo dicit libro de vera relii. Sicut eius veritate vera sunt quaecumque  
+        forme<lb ed="#Ba" n="18" break="no"/>tur: vt vult <name xml:id="vn58an-d1e83-Nd1e1000" ref="#Augustine">Augustinus</name> ibidem. Et ideo dicit libro de vera relii. Sicut eius veritate vera sunt quaecumque  
         <lb ed="#Ba" n="19"/>vera sunt: ita &amp; eius similitudine similia sunt. Necesse est igitur quod illa veritas increata in 
         conce<lb ed="#Ba" n="20" break="no"/>ptu nostro se imprimat: &amp; ad characterem suum conceptum nostrum transformet: &amp; sic mentem 
         no<lb ed="#Ba" n="21" break="no"/>stram expressa veritatede re informet similitudine illa quam res ipsa habet apud primam veritatem. 
@@ -471,7 +471,7 @@
         <lb ed="#Ba" n="25"/>veritas dicitur: vnde lex omnis iusta describitur: &amp; in cor hominis non migrando, sed tanquam 
         impel<lb ed="#Ba" n="26" break="no"/>lendo transfertur: Sicut imago exanulo &amp; in caeram transit: &amp; anulum non relinquit. Et haec est 
         <lb ed="#Ba" n="27"/>lucis illius informatio qua inquantum lucet homo verax sit in intellectu. Inquantum vero tingit iustus 
-        <lb ed="#Ba" n="28"/>sit in affectu. secundum quod de primo dicit <name ref="#Augustine">Augustinus</name> super loannem sermone. xxxix. Factus est 
+        <lb ed="#Ba" n="28"/>sit in affectu. secundum quod de primo dicit <name xml:id="vn58an-d1e83-Nd1e1025" ref="#Augustine">Augustinus</name> super loannem sermone. xxxix. Factus est 
         <lb ed="#Ba" n="29"/>oculus tuus particeps huius lucis: clausus est: hanc lucem non minuisti: apertus est: hanc 
         <lb ed="#Ba" n="30"/>lucem non auxistians sed est verax anima: est veritas apud deum: cuius est particeps anima: cuius 
         par<lb ed="#Ba" n="31" break="no"/>ticeps si non fuerit anima omnis homo mendax est. De secundo vero dicit in sermone quodam  
@@ -485,7 +485,7 @@
         in<lb ed="#Ba" n="39" break="no"/>formatio veritatis non habetur nisi ex similitudie veritatis menti impressa de re cognoscibili ab  
         <lb ed="#Ba" n="40"/>ipsa prima &amp; exemplari veritate. Omnis enim alia impressa a quocumque exemplari abstracto a re 
         <lb ed="#Ba" n="41"/>ipsa, imperfecta obscura &amp; nebulosa est, vt per ipsam certum iudicium de veritate rei haberi 
-        <lb ed="#Ba" n="42"/>non possit. Propter quod <name ref="#Augustine">Augustinus</name> comparat primam &amp; iudicium per eam sereno aeri super 
+        <lb ed="#Ba" n="42"/>non possit. Propter quod <name xml:id="vn58an-d1e83-Nd1e1059" ref="#Augustine">Augustinus</name> comparat primam &amp; iudicium per eam sereno aeri super 
         nu<lb ed="#Ba" n="43" break="no"/>bem. secundam vero &amp; iudicium per eam aeri nebuloso vniversaliobscuro sub nube. cum dicit. ix. de trini 
         <lb ed="#Ba" n="44"/>ta. c. vi. Claret desuper iudicium veritati ac sui iuris incorruptissimis regulis firmum est, etsi corporalium 
         <lb ed="#Ba" n="45"/>imaginum quasi quodam nubilo subtexitur. Sed interest vtrum ego sub illa vel in illa caligine tanquam a 
@@ -525,7 +525,7 @@
         <lb ed="#Ba" n="22"/>rum ) christianae aetatis exordio rerum inuisibilium atque aeternarum fides per visibilia 
         mira<lb ed="#Ba" n="23" break="no"/>cula salubriter praedicaretur hominibus qui nec videre nec cogitare aliquid praeter corpora po 
         <lb ed="#Ba" n="24"/>terant. Hoc ergo modo qui mente excedente aliquid veritatis syncerae intelligit, in rationibus 
-        <lb ed="#Ba" n="25"/>primae veritatis intelligit. Sed vt dicit <name ref="#Augustine">Augustinus</name> de videndo deum, forte hoc difficile est. 
+        <lb ed="#Ba" n="25"/>primae veritatis intelligit. Sed vt dicit <name xml:id="vn58an-d1e83-Nd1e1146" ref="#Augustine">Augustinus</name> de videndo deum, forte hoc difficile est. 
         Ir<lb ed="#Ba" n="26" break="no"/>ruit enim de consuetudine carnalis vitae in interiores oculos nostros turba phantasmatum: 
         <lb ed="#Ba" n="27"/>quae vt dicit. iii. de Academi. consuetudine rerum corporalium nos etiam cum veritas 
         tene<lb ed="#Ba" n="28" break="no"/>tur &amp; quasi in manibus habetur, decipere atque illudere moliuntur. lgitur vt dicit de videndo deum: 
@@ -557,7 +557,7 @@
         <pb ed="#Ba" n="8-r"/>
         <lb ed="#Ba" n="1"/>lmmanes sunt qui se elatis cognitionibus extollunt. Sed his lux absconditur, quia nimis in 
         cogitationi<lb ed="#Ba" n="2" break="no"/>bus suis superbientibus cognitio veritatis denegatur. Aliis autem omnibus pro sua sanitate 
-        aspi<lb ed="#Ba" n="3" break="no"/>ciendum conceditur. vt dicit <name ref="#Augustine">Augustinus</name> i. sol. Absolute ergo dicendum quod homo synceram 
+        aspi<lb ed="#Ba" n="3" break="no"/>ciendum conceditur. vt dicit <name xml:id="vn58an-d1e83-Nd1e1224" ref="#Augustine">Augustinus</name> i. sol. Absolute ergo dicendum quod homo synceram 
         verita<lb ed="#Ba" n="4" break="no"/>tem de nulla re habere potest ex puris naturalibus eius notitiam acquirendo: sed solum 
         illustra<lb ed="#Ba" n="5" break="no"/>tione luminis diuini: ita quod licet in puris naturalibus constitutus illud attingat: tamen illud ex puris 
         <lb ed="#Ba" n="6"/>naturalibus naturaliter attingere non potest: sed libera voluntate quibus vult seipsum offert. Ad  
@@ -588,7 +588,7 @@
         ⁋ Ad tertium quod scientiarum 
         <lb ed="#Ba" n="25"/>spectamina non possunt intelligi nisi alio quodam quasi suo sole illustrentur: dicendum quod verum est 
         <lb ed="#Ba" n="26"/>syncera veritate &amp; omnino infallibili notitia. Alio tamen modo possunt intelligi in lumine lucis 
-        <lb ed="#Ba" n="27"/>naturalis vt dictum est supra. Propter quod dicit <name ref="#Augustine">Augustinus</name> xii. de trinitate. Credendum est mentis 
+        <lb ed="#Ba" n="27"/>naturalis vt dictum est supra. Propter quod dicit <name xml:id="vn58an-d1e83-Nd1e1287" ref="#Augustine">Augustinus</name> xii. de trinitate. Credendum est mentis 
         intelligibi<lb ed="#Ba" n="28" break="no"/>lis ita conditam esse naturam vt rebus intelligibilibus naturali ordine disponente conditore 
         subie<lb ed="#Ba" n="29" break="no"/>cta: sic videat ista in quadam luce sui generis incorporea quemadmodum oculus carnis videt quae  
         <lb ed="#Ba" n="30"/>in hac luce corporea circumiacent, cuius lucis capax eique congruus est creatus. 
@@ -605,10 +605,10 @@
         <lb ed="#Ba" n="35"/>est ratio videndi tantum vt in sequenti quaestione declarabitur. Primo modo omnis veritas videtur 
         <lb ed="#Ba" n="36"/>in prima veritate, sicut omne bonum in primo bono, quia quicumque videt verum hoc aut verum illud  
         <lb ed="#Ba" n="37"/>videt verum simpliciter in vniuersali quod deus est. Sicut qui videt bonum hoc vel bonum illud in  
-        <lb ed="#Ba" n="38"/>vniuersali videt bonum simpliciter quod deus est: vt dicit <name ref="#Augustine">Augustinus</name> viii. de trinitate. &amp; inferius determinabitur 
+        <lb ed="#Ba" n="38"/>vniuersali videt bonum simpliciter quod deus est: vt dicit <name xml:id="vn58an-d1e83-Nd1e1320" ref="#Augustine">Augustinus</name> viii. de trinitate. &amp; inferius determinabitur 
         <lb ed="#Ba" n="39"/>Secundo autem modo non nisi veritas syncerae visa vt dictum est. Et sunt isti duo modi cognoscendi 
         ve<lb ed="#Ba" n="40" break="no"/>rum bonum pulchrum &amp;c. quae nobilitatis sunt in deo, &amp; conveniunt creaturis, notandi: quia de eis 
-        loqui<lb ed="#Ba" n="41" break="no"/>tur <name ref="#Augustine">Augustinus</name> in diuersis locis, quandoque secundum vnum modum, dicens non cognosci bonum pulchrum verum &amp; huiusmodi 
+        loqui<lb ed="#Ba" n="41" break="no"/>tur <name xml:id="vn58an-d1e83-Nd1e1329" ref="#Augustine">Augustinus</name> in diuersis locis, quandoque secundum vnum modum, dicens non cognosci bonum pulchrum verum &amp; huiusmodi 
         <lb ed="#Ba" n="42"/>in creaturis: nisi per verum pulchrum &amp; bonum in creatore. Quandoque vero loquitur secundum alium. 
         <lb ed="#Ba" n="43"/>sed omnis sua determinatio circa hanc materiam vergit in vnum illorum modorum.  
       </p>

@@ -68,18 +68,18 @@
       </p>
       <p xml:id="vn58an-d1e467-d1e134">
         ⁋ Tertio sic. ad illud non est homini studendum: quod non potest inuenire. 
-        <lb ed="#Ba" n="7"/>notitia rerum omnium est huiusmodi. Ecclesi. iii. <quote source="http://scta.info/resource/qoh3_11@7-25">Mundum tradidit deus dispositioni: vt non inueniat homo opus quod opera
+        <lb ed="#Ba" n="7"/>notitia rerum omnium est huiusmodi. Ecclesi. iii. <quote xml:id="vn58an-d1e467-Qd1e131" source="http://scta.info/resource/qoh3_11@7-25">Mundum tradidit deus dispositioni: vt non inueniat homo opus quod opera
         <lb ed="#Ba" n="8"/>tus est deus ab initio vsque ad finem</quote>. ergo &amp;c.
       </p>
       <p xml:id="vn58an-d1e467-d1e141">
         ⁋ Quarto sic. homo non debet studere minori bono 
-        <lb ed="#Ba" n="9"/>&amp; dimittere maius: scientia minus bonum est quam vita. Ecclsi. iii. <quote source="http://scta.info/resource/qoh3_12@1-14">Cognoui quod non esset melius nisi
+        <lb ed="#Ba" n="9"/>&amp; dimittere maius: scientia minus bonum est quam vita. Ecclsi. iii. <quote xml:id="vn58an-d1e467-Qd1e141" source="http://scta.info/resource/qoh3_12@1-14">Cognoui quod non esset melius nisi
         laeta<lb ed="#Ba" n="10" break="no"/>ri &amp; facere bona in vita sua</quote>. studendo autem scientiae frequenter homo negligit opera vitae. ergo
         <lb ed="#Ba" n="11"/>&amp;c. 
       </p>
       <p xml:id="vn58an-d1e467-d1e150">
         ⁋ Contra est: quoniam illi studendum est quod necessarium est saluti. scire est huiusmodi. Esa. v. Propter 
-        <lb ed="#Ba" n="12"/>ea ductus est populus meus captiuus: quia non habuit scientiam. &amp;. xxvii. <quote source="http://scta.info/resource/is27_11@11-22">Non est populus sapiens:
+        <lb ed="#Ba" n="12"/>ea ductus est populus meus captiuus: quia non habuit scientiam. &amp;. xxvii. <quote xml:id="vn58an-d1e467-Qd1e153" source="http://scta.info/resource/is27_11@11-22">Non est populus sapiens:
         <lb ed="#Ba" n="13"/>propterea non miserebitur eius qui fecit illum</quote>. ergo &amp;c.
    
       </p>
@@ -92,7 +92,7 @@
         <lb ed="#Ba" n="19"/>vno in aliud non potest nisi studendo scientiae: cum homini scientia non contingat nisi per studium 
         <lb ed="#Ba" n="20"/>&amp; inuestigationem: vt dictum est supra. Necessario igitur studendum est homini vt sciat. &amp; ideo dicitur 
         <lb ed="#Ba" n="21"/>Ecclesi. vii. Haec habet eruditio &amp; sapientia quod tribuit vitam possessori suo. &amp; ibidem. vi. Quid amplius 
-        ha<lb ed="#Ba" n="22" break="no"/>bet sapiens a stulto nisi vt pergat vbi est vita: vnde <name ref="#Augustine">Augustinus</name> xix. de Tri. Sine scientia nec virtutes ipsae quam 
+        ha<lb ed="#Ba" n="22" break="no"/>bet sapiens a stulto nisi vt pergat vbi est vita: vnde <name xml:id="vn58an-d1e467-Nd1e180" ref="#Augustine">Augustinus</name> xix. de Tri. Sine scientia nec virtutes ipsae quam 
         <lb ed="#Ba" n="23"/>bus recte viuitur possunt haberi: per quas haec vita misera sic gubernatur: vt ad illam quae vere beata 
         <lb ed="#Ba" n="24"/>est perueniatur aeternam. Et econtra dicitur studere scientiae negligentibus Osee. iiii. Quia tu repulisti 
         sci<lb ed="#Ba" n="25" break="no"/>entiam: &amp; ego repellam te. Hinc etiam Acad, qui negabant verum posse inueniri: dicebant tamen non 
@@ -103,8 +103,8 @@
         <lb ed="#Ba" n="28"/>⁋ Ad primum in oppositum, quod cunctae res sunt homini difficiles: &amp; inexplicabiles: 
         Dicen<lb ed="#Ba" n="29" break="no"/>dum secundum Glos. ibidem. quod verum est, vt ad plenum eas homo explicet: &amp; ad summam scientiae earum perueniat in 
         <lb ed="#Ba" n="30"/>vita ista: quia quanto homo magis sciendo notitiam rerum ingreditur: tanto amplius inuenit eam 
-        profun<lb ed="#Ba" n="31" break="no"/>dam. Propter quod dixit Salomon sapientissimus in rerum naturis, Ecclesi. vii. <quote source="http://scta.info/resource/qoh7_24@5-13">Dixi sapiens efficiar: &amp;
-        <lb ed="#Ba" n="32"/>ipsa longius recessit a me amplius quam erat</quote>. &amp; ibidem. viii. <quote source="http://scta.info/resource/qoh8_16@15-24">Est homo qui diebus ac noctibus somnum
+        profun<lb ed="#Ba" n="31" break="no"/>dam. Propter quod dixit Salomon sapientissimus in rerum naturis, Ecclesi. vii. <quote xml:id="vn58an-d1e467-Qd1e205" source="http://scta.info/resource/qoh7_24@5-13">Dixi sapiens efficiar: &amp;
+        <lb ed="#Ba" n="32"/>ipsa longius recessit a me amplius quam erat</quote>. &amp; ibidem. viii. <quote xml:id="vn58an-d1e467-Qd1e211" source="http://scta.info/resource/qoh8_16@15-24">Est homo qui diebus ac noctibus somnum
         <lb ed="#Ba" n="33"/>non capit oculis</quote>: &amp; quanto plus laborauerit: tanto minus inueniet. vnde Gloss. super illud cap
         <lb ed="#Ba" n="34"/>Quanto ad sapientiam accedis: tanto a te recedit: &amp; altiorem se ostendit. &amp; hoc maxime verum est 
         <lb ed="#Ba" n="35"/>accedendo ad sapientiam quae de deo est. vnde dicit Chryso: super Matthicor. Sicut quanto acutius 
@@ -117,7 +117,7 @@
         <lb ed="#Ba" n="42"/>huiusmodi habitare in ramis eius. Tentabimus igitur pro viribus nostris aliqua disserere: etiam si neque vni 
         <lb ed="#Ba" n="43"/>uersa nobis explicare possibile est: quia &amp; hoc ipsum agnoscere: quod supra vires nras sit horum scientia: non 
         <lb ed="#Ba" n="44"/>paruae arbitror esse peritiae. Nec est mirum quod sit inexplicabilis: quia ad infinitum scibile ducit: vt dictum est 
-        <lb ed="#Ba" n="45"/>Vnde conpetenter potest homo dicere illud Psal. <quote source="http://scta.info/resource/ps138_6@1-14">Mirabilis facta est scientia t. ex me. confor. est &amp; non
+        <lb ed="#Ba" n="45"/>Vnde conpetenter potest homo dicere illud Psal. <quote xml:id="vn58an-d1e467-Qd1e242" source="http://scta.info/resource/ps138_6@1-14">Mirabilis facta est scientia t. ex me. confor. est &amp; non
         pote<lb ed="#Ba" n="46" break="no"/>ro ad eam</quote>. Et nota quod talia dicta sacrae scripturae&amp; de sacra scriptura non sunt vt studiosos 
         terre<lb ed="#Ba" n="47" break="no"/>ant: &amp; a studio in desperantiam sciendi ponendo repellant: sed vt tepidos excitent: &amp; 
         praesumptuo<lb ed="#Ba" n="48" break="no"/>sos confutent. secundum quod dicit Glos. super illud. Cunctae res sunt difficiles. Haec sententia est 
@@ -143,7 +143,7 @@
         ⁋ Ad quartum: quod homo 
         stu<lb ed="#Ba" n="2" break="no"/>dendo negligit opera vitae: Dicendum quod non est verum nisi vane studiosus sit: immo studere 
         ordi<lb ed="#Ba" n="3" break="no"/>nata intentione, studere ipsum est opus meritorium vitae aeternae: quia nec sine scientia dirigi possunt 
-        <lb ed="#Ba" n="4"/>virtutum opera: vt dictum est. propter quod dixit Christus Apostolius. <quote source="http://scta.info/resource/mt10_16@10-18">Estote prudentes sicut serpentes
+        <lb ed="#Ba" n="4"/>virtutum opera: vt dictum est. propter quod dixit Christus Apostolius. <quote xml:id="vn58an-d1e467-Qd1e290" source="http://scta.info/resource/mt10_16@10-18">Estote prudentes sicut serpentes
         <lb ed="#Ba" n="5"/>&amp; simplices sicut columbae</quote>. prudentes studendo scientiae, simplices studendo recta intentione. &amp; Apostinus i
         <lb ed="#Ba" n="6"/>Timo. iiii. Attende tibi &amp; doctrinae. Hoc enim faciens, teipsum saluum facies: &amp; eos qui te audierint.
       </p>

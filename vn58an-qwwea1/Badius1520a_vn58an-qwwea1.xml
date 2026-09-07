@@ -59,7 +59,7 @@
         Articu<lb ed="#Ba" n="2" break="no"/>lus est de scientia &amp; scibili in generali. 
         <lb ed="#Ba" n="3"/>Via Theologia est scientia in qua est sermo de deo, &amp; de rebus diuinis 
         <lb ed="#Ba" n="4"/>vt dicit <ref xml:id="vn58an-qwwea1-Rd1e122">
-        <name ref="#Augustine">Augustinus</name> viii. de ciui. dei</ref>. Dicitur enim theologia quasi deologia: a theos 
+        <name xml:id="vn58an-qwwea1-Nd1e117" ref="#Augustine">Augustinus</name> viii. de ciui. dei</ref>. Dicitur enim theologia quasi deologia: a theos 
         <lb ed="#Ba" n="5"/>graecae quod est deus latinae, &amp; logos quod est sermo vel ratio, quasi sermo vel 
         <lb ed="#Ba" n="6"/>ratio de deo &amp; de rebus diuinis. Ideo quaeritur hic. 
       </p>
@@ -76,7 +76,7 @@
       <p xml:id="vn58an-qwwea1-d1e151">
         <lb ed="#Ba" n="14"/>⁋ Primo de scientia &amp; scibili communiter &amp; in generali. Secundo de scientia &amp; scibili propriis theologiae 
         <lb ed="#Ba" n="15"/>in speciali. Et quia sacra scriptura solummodo ad hominis instructionem tradita est, secundum apostolum 
-        dicen<lb ed="#Ba" n="16" break="no"/>tem: <quote source="http://scta.info/resource/rom15_4@1-9">Quaecumque scripta sunt, ad nostram doctrinam scripta sunt</quote>: Ideo omnia hic discutienda ad scientiam
+        dicen<lb ed="#Ba" n="16" break="no"/>tem: <quote xml:id="vn58an-qwwea1-Qd1e152" source="http://scta.info/resource/rom15_4@1-9">Quaecumque scripta sunt, ad nostram doctrinam scripta sunt</quote>: Ideo omnia hic discutienda ad scientiam
         hu<lb ed="#Ba" n="17" break="no"/>manae instructionis sunt referenda. 
       </p>
       <p xml:id="vn58an-qwwea1-d1e163">

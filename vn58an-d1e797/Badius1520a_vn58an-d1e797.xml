@@ -57,7 +57,7 @@
         <lb ed="#Ba" n="16"/>CIrca quartum arguitur: quod haec scientia literis non erat conscribenda. Primo sic. 
         <lb ed="#Ba" n="17"/>in Cognitio quae solo diuino munere habetur, literis non est conscribenda: quia 
         <lb ed="#Ba" n="18"/>lliteris non conscribitur scientia: nisi vt a nobis addiscatur. Vnde apostolus.
-        <lb ed="#Ba" n="19"/><quote source="http://scta.info/resource/rom15_4@1-9">Quaecumque scripta sunt ad nostram doctrinam scripta sunt</quote>. Scientia ista est
+        <lb ed="#Ba" n="19"/><quote xml:id="vn58an-d1e797-Qd1e112" source="http://scta.info/resource/rom15_4@1-9">Quaecumque scripta sunt ad nostram doctrinam scripta sunt</quote>. Scientia ista est
         hu<lb ed="#Ba" n="20" break="no"/>iusmodi: quia est notitia fidei: quae solo diuino lumine habetur: cum excedit 
         limi<lb ed="#Ba" n="21" break="no"/>tes naturae. &amp;. i. Io. ii. Vnctio docet de omnibus. ergo &amp;c. 
       </p>
@@ -65,8 +65,8 @@
         ⁋ Secundo sic. Illa 
         scien<lb ed="#Ba" n="22" break="no"/>tia non est literis: conscribenda: quae habetur ex dictamine legis naturae: 
         scien<lb ed="#Ba" n="23" break="no"/>tia ista est huiusmodi: quia non continet nisi praecepta legis naturae: vt in principio Decre. &amp; Deutur. 
-        <lb ed="#Ba" n="24"/>xxx. Mandatum quod ego praecipio tibi non est supra te: neque procul positum: <quote source="http://scta.info/resource/deut30_14@1-13">sed iuxta te est in ore
-        <lb ed="#Ba" n="25"/>tuo &amp; in corde tuo</quote>. Quod exponens apostolus. Ronimn. x. dicit. <quote source="http://scta.info/resource/rom10_8@14-19">Hoc est verbum fidei quod praedicamus</quote>.
+        <lb ed="#Ba" n="24"/>xxx. Mandatum quod ego praecipio tibi non est supra te: neque procul positum: <quote xml:id="vn58an-d1e797-Qd1e129" source="http://scta.info/resource/deut30_14@1-13">sed iuxta te est in ore
+        <lb ed="#Ba" n="25"/>tuo &amp; in corde tuo</quote>. Quod exponens apostolus. Ronimn. x. dicit. <quote xml:id="vn58an-d1e797-Qd1e134" source="http://scta.info/resource/rom10_8@14-19">Hoc est verbum fidei quod praedicamus</quote>.
         <lb ed="#Ba" n="26"/>ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e797-d1e140">
@@ -134,7 +134,7 @@
         pecca<lb ed="#Ba" n="27" break="no"/>toribus. secundum quod dicit Chrysostomus super illud Mat. vii. Ecce centurio. Scripturae ad prae 
         <lb ed="#Ba" n="28"/>iudicium peccatorum factae sunt, non ad necessitatem sanctorum: quia rectis &amp; fidelibus 
         scriptu<lb ed="#Ba" n="29" break="no"/>rae necessariae non sunt: sed iniustis. Magistra enim omnis iustitiae ipsa natura est hominum. 
-        Vn<lb ed="#Ba" n="30" break="no"/>de dicit <name ref="#Augustine">Augustinus</name> in sermone quodam. Praesumebant homines de suis viribus: &amp; faciendo  
+        Vn<lb ed="#Ba" n="30" break="no"/>de dicit <name xml:id="vn58an-d1e797-Nd1e277" ref="#Augustine">Augustinus</name> in sermone quodam. Praesumebant homines de suis viribus: &amp; faciendo  
         <lb ed="#Ba" n="31"/>quicquid sibi licere arbitrabantur: peccabant in lege dei occulta. Vnde &amp; lex ista manifesta 
         pro<lb ed="#Ba" n="32" break="no"/>mulgata est eis: qui omnino sibi rei non esse videbantur. Sic ergo nec in statu innocentiae: nec 
         <lb ed="#Ba" n="33"/>statim post peccatum debuit ista scientia scriptis commendari: sed solum tunc cum lege naturali 
@@ -166,7 +166,7 @@
         <lb ed="#Ba" n="3"/>posteros quousque per peccatum fuit obumbrata: vt reparatione egeret per legis literam: sic ab  
         <lb ed="#Ba" n="4"/>ipso notitia huius scientiae quo ad decreta credendorum diffundi potuerit: quousque similiter 
         <lb ed="#Ba" n="5"/>per peccatum fuit obumbrata: vt egeret per legis literam reparatione. Hinc dicit apostolus 
-        <lb ed="#Ba" n="6"/>seoma. vii. in persona illorum quibus lex data erat. <quote source="http://scta.info/resource/rom7_7@16-22">Concupiscentiam nesciebam: nisi lex diceret. Non
+        <lb ed="#Ba" n="6"/>seoma. vii. in persona illorum quibus lex data erat. <quote xml:id="vn58an-d1e797-Qd1e349" source="http://scta.info/resource/rom7_7@16-22">Concupiscentiam nesciebam: nisi lex diceret. Non
         <lb ed="#Ba" n="7"/>concupisces</quote>. Glos. Dicit esse peccatum vel tam magnum peccatum.
       </p>
       <p xml:id="vn58an-d1e797-d1e350">
@@ -199,7 +199,7 @@
         <lb ed="#Ba" n="31"/>quod scimus centurionem Cornelium: quamuis exauditas orationes eius &amp; eleemosynas respectas ei 
         <lb ed="#Ba" n="32"/>angelus nunciauit, Petro tamen traditum imbuendum: per quem non solum sacramenta sus 
         <lb ed="#Ba" n="33"/>ci peret, sed etiam quid credendum, quid sperandum, quid diligendum esset audiret: vt dicit 
-        <lb ed="#Ba" n="34"/><ref xml:id="vn58an-d1e797-Rd1e412"><name>Augustinus</name> i. i. de doctrina christiana</ref>: &amp; tamen per fidem interius a deo prius illustratus fuisse 
+        <lb ed="#Ba" n="34"/><ref xml:id="vn58an-d1e797-Rd1e412"><name xml:id="vn58an-d1e797-Nd1e418">Augustinus</name> i. i. de doctrina christiana</ref>: &amp; tamen per fidem interius a deo prius illustratus fuisse 
         <lb ed="#Ba" n="35"/>creditur. 
       </p>
       <p xml:id="vn58an-d1e797-d1e420">

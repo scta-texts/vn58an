@@ -71,7 +71,7 @@
         <lb ed="#Ba" n="51"/>ordinantur vllo modo ad actiones essentiales: sed solummodo per illa quae sunt eis communia. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e2766-d1e142">
-        <lb ed="#Ba" n="52"/>⁋ Tertio sic. <name ref="#JohnDamascenus">Damascenus</name> dicit. iii. sent. cap, xv. Quorum natura eadem: &amp; actio eadem. sed natura vniformi 
+        <lb ed="#Ba" n="52"/>⁋ Tertio sic. <name xml:id="vn58an-d1e2766-Nd1e139" ref="#JohnDamascenus">Damascenus</name> dicit. iii. sent. cap, xv. Quorum natura eadem: &amp; actio eadem. sed natura vniformi 
         <lb ed="#Ba" n="53"/>ter est eadem omnium diuinarum personarum. ergo &amp; actio. 
       </p>
       <p xml:id="vn58an-d1e2766-d1e152">
@@ -85,7 +85,7 @@
       <p xml:id="vn58an-d1e2766-d1e165">
         ⁋ Secundo sic. qui sic se habent quod vnus agit per alterum &amp; non econverso: illi non agunt 
         vni<lb ed="#Ba" n="2" break="no"/>formiter: quia illud non est sine differentia &amp; diuersitate, personae diuinae sunt huiusmodi. Pater enim agit omnia 
-        <lb ed="#Ba" n="3"/>per filium &amp; ipnium sanctum. loanm. i. Omnia per ipsum facta sunt. &amp; in Psal. <quote source="http://scta.info/resource/ps32_6@1-12">Verbo domini caeli firmati sunt: &amp; spiritu
+        <lb ed="#Ba" n="3"/>per filium &amp; ipnium sanctum. loanm. i. Omnia per ipsum facta sunt. &amp; in Psal. <quote xml:id="vn58an-d1e2766-Qd1e164" source="http://scta.info/resource/ps32_6@1-12">Verbo domini caeli firmati sunt: &amp; spiritu
         <lb ed="#Ba" n="4"/>oris eius omnis virtus eorum</quote>. Non autem econverso filius aut spiritus sanctus aliquid agunt per patrem. ergo &amp;c.
       </p>
       <p xml:id="vn58an-d1e2766-d1e174">
@@ -164,7 +164,7 @@
         <lb ed="#Ba" n="20"/>respectu aliarum diuinarum personarum: quemadmodum esse principium licet sit cone toti trinitati respectu 
         crea<lb ed="#Ba" n="21" break="no"/>turarum: hoc tamen quasi proprium est ei respectu aliarum diuinarum personarum. Vnde Christus 
         attri<lb ed="#Ba" n="22" break="no"/>buens patri suam actionem dicit Ioan. xx. loquens de spiritu sancto. Quem ego mittam vobis a patre. 
-        <lb ed="#Ba" n="23"/>Quod exponens <name ref="#Augustine">Augustinus</name> dicit. iiii. de trinitate. Non dixit quem pater mittet a me: videlicet ostendens quod totius diuinis 
+        <lb ed="#Ba" n="23"/>Quod exponens <name xml:id="vn58an-d1e2766-Nd1e336" ref="#Augustine">Augustinus</name> dicit. iiii. de trinitate. Non dixit quem pater mittet a me: videlicet ostendens quod totius diuinis 
         <lb ed="#Ba" n="24"/>tatis: vel si melius dicatur deitatis, principium pater est. Est enim principium ea ratione qua primum: quia pri 
         <lb ed="#Ba" n="25"/>mun &amp; principium idem secundum philosophum. i. Poster. Est autem primum &amp; principium deitatis in se &amp; ex se: quasi  
         <lb ed="#Ba" n="26"/>primo habendo totam deitatem &amp; essentiales deitatis actiones: quam ab ipso &amp; easdem actiones habent 
@@ -210,7 +210,7 @@
         ⁋ Veruntam circa hoc distinguendum, quod eo quod est per, vtimur. v. modis secundum. v. genera 
         circum<lb ed="#Ba" n="7" break="no"/>stantiarum quae notat circa suum casuale cui deseruit. Aliquando enim notat circunstantiam 
         auctori<lb ed="#Ba" n="8" break="no"/>tatis: quia scilicet ab eo habetur illud quo agit aliquis illud, super quem habet auctoritatem. luxta 
-        il<lb ed="#Ba" n="9" break="no"/>lud quod dicit domins deus. Prouer. viii. <quote source="http://scta.info/resource/prov8_15@1-9">Per me reges regnant, &amp; legum conditores iusta decernunt</quote>. Adeo
+        il<lb ed="#Ba" n="9" break="no"/>lud quod dicit domins deus. Prouer. viii. <quote xml:id="vn58an-d1e2766-Qd1e435" source="http://scta.info/resource/prov8_15@1-9">Per me reges regnant, &amp; legum conditores iusta decernunt</quote>. Adeo
         <lb ed="#Ba" n="10"/>enim est regnandi &amp; decernendi potentia. iuxta illud Ro. xiii. Non est potent a nisi a deo. Penes hunc 
         <lb ed="#Ba" n="11"/>modum dicitur filius agere per patrem quaecumque agit, siue sint actus essentiales, siue notionales, &amp; si 
         <lb ed="#Ba" n="12"/>militer spiritus sanctus per patrem &amp; filium, &amp; non econverso pater dicitur aliquid agere per filium, neque  
@@ -250,9 +250,9 @@
         <lb ed="#Ba" n="46"/>uersaliter causa primaria per secundariam. Hoc modo in diuinis non agit vna persona per aliam: quia 
         <lb ed="#Ba" n="47"/>quaecumque in diuinis coniter habent plures personae, omnino aeque per se &amp; primo habent. &amp; non est 
         diffe<lb ed="#Ba" n="48" break="no"/>rentia in aliquo, nisi quod pater habet illa a se &amp; ex se: filius autem non a se nec ex se: sed a patre &amp; ex 
-        <lb ed="#Ba" n="49"/>patre, &amp; similiter spiritus sctuns a patre &amp; filio. Propter quod dicitur Io. v. <quote source="http://scta.info/resource/io5_26@1-17">Sicut pater habet vitam in semetipsos
+        <lb ed="#Ba" n="49"/>patre, &amp; similiter spiritus sctuns a patre &amp; filio. Propter quod dicitur Io. v. <quote xml:id="vn58an-d1e2766-Qd1e525" source="http://scta.info/resource/io5_26@1-17">Sicut pater habet vitam in semetipsos
         <lb ed="#Ba" n="50"/>sic dedit &amp; filio vitam habere in semetipso</quote>. &amp; propter hoc aeque primo &amp; per se suas actiones cones agunt.
-        <lb ed="#Ba" n="51"/>Vnde <name ref="#Augustine">Augustinus</name> exponens illud Io. vim faciendo in verbis, in Sermo. xxii. dicit. Aliquid intelligere nos 
+        <lb ed="#Ba" n="51"/>Vnde <name xml:id="vn58an-d1e2766-Nd1e532" ref="#Augustine">Augustinus</name> exponens illud Io. vim faciendo in verbis, in Sermo. xxii. dicit. Aliquid intelligere nos 
         <lb ed="#Ba" n="52"/>voluit in eo quod ait in semetipso, vt non participatione viuat, sed incommutabiliter viuat, &amp; omnino ipse 
         <lb ed="#Ba" n="53"/>sit vita. Quid interest: quia ille dedit, iste accepit. secundum quod dicit loannem. vi. Sicut viuens misit me pater, 
         <lb ed="#Ba" n="54"/>&amp; ego viuo propter patrem. Vnde secundus modus locum habet in diuinis, in quibus persona a qua  
@@ -282,7 +282,7 @@
         <lb ed="#Ba" n="16"/>Vnde nisi esset aliqua diuersitas in personis quo ad alios actus, essentiales scilicet, quid sunt intra 
         ma<lb ed="#Ba" n="17" break="no"/>nentes: non autem ad aliquem effectum extra transeuntes, &amp; illos qui transeunt ad effectum extra 
         <lb ed="#Ba" n="18"/>sicut istos vna persona dicitur operari per aliam: vt pater per filium creare &amp; gubernare: similiter 
-        di<lb ed="#Ba" n="19" break="no"/>cetur per eundem intelligere &amp; velle. quod nullo modo conceditur. iuxta illud quod dicit <name ref="#Augustine">Augustinus</name> vii. de trinitate 
+        di<lb ed="#Ba" n="19" break="no"/>cetur per eundem intelligere &amp; velle. quod nullo modo conceditur. iuxta illud quod dicit <name xml:id="vn58an-d1e2766-Nd1e596" ref="#Augustine">Augustinus</name> vii. de trinitate 
         <lb ed="#Ba" n="20"/>cica i. Si hoc est ibi esse quid sapere, non per illam quam genuit sapientiam, sapiens est pater: alioquin non ipse illam: 
         <lb ed="#Ba" n="21"/>sed ipsa eum genuit: quia quae illi causa est vt sapiens sit: ipsa illi causa est vt sit. Sapientia autem quam 
         <lb ed="#Ba" n="22"/>genuit pater siue sapientia genita, verbum siue filius est. vt dicit ibidem ca. ii. Quare cum idem sit 
@@ -418,7 +418,7 @@
         ha<lb ed="#Ba" n="29" break="no"/>bet esse a patre per filium: ex quo nullum inconueniens sequitur. Licet enim idem sit patri esse 
         <lb ed="#Ba" n="30"/>&amp; intelligere seu sapere: quia ambo penitus absoluta sunt: non tamen idem est patri esse, &amp; ab  
         <lb ed="#Ba" n="31"/>ipso actum intelligendi filii esse, quia illud est penitus absolutum, istud autem relatiuum. Esse 
-        <lb ed="#Ba" n="32"/>autem absolutum &amp; respectiuum aliud &amp; aliud sunt in deo. Sicut secundum <name ref="#Augustine">Augustinus</name> patri aliud est 
+        <lb ed="#Ba" n="32"/>autem absolutum &amp; respectiuum aliud &amp; aliud sunt in deo. Sicut secundum <name xml:id="vn58an-d1e2766-Nd1e882" ref="#Augustine">Augustinus</name> patri aliud est 
         <lb ed="#Ba" n="33"/>patrem esse, aliud deum esse. Quia autem actus transeuntes in effectum extra secundum eandem 
         ra<lb ed="#Ba" n="34" break="no"/>tionem praecisam procedant a tribus personis: non autem manentes intra: huius adhuc alia ratio est, quod  
         <lb ed="#Ba" n="35"/>videlicet illae actiones vt transeuntes extra, quia ordine naturae &amp; durationis sequuntur esse trium per 
@@ -452,7 +452,7 @@
         <lb ed="#Ba" n="3"/>liter necesse est vt non solum dicere &amp; verbum differant ratione, sed quod etiam habeant ordinem aliquem 
         <lb ed="#Ba" n="4"/>rationis inter se. In verbo autem vt iam productum est, &amp; existit persona filii per generationem &amp; actum 
         <lb ed="#Ba" n="5"/>dicendi: habentur communicata filio a patre omnia essentialia patris, &amp; quae pertinent ad actiuam spi 
-        <lb ed="#Ba" n="6"/>rationem. iuxta illud loam. xvi. Omnia quaecumque habet pater mea sunt. &amp; Ioan. xvii. <quote source="http://scta.info/resource/io17_10@1-9">Omnia mea tua
+        <lb ed="#Ba" n="6"/>rationem. iuxta illud loam. xvi. Omnia quaecumque habet pater mea sunt. &amp; Ioan. xvii. <quote xml:id="vn58an-d1e2766-Qd1e954" source="http://scta.info/resource/io17_10@1-9">Omnia mea tua
         <lb ed="#Ba" n="7"/>sunt, &amp; tua mea sunt</quote>. Et propter hoc a verbo producto per vim intellectiuam quam habet a
         pa<lb ed="#Ba" n="8" break="no"/>tre, procedit actus intelligendi idem qui a patre, &amp; similiter actus volendi essentialis a voluntate 
         <lb ed="#Ba" n="9"/>sibi communicata a patre: quid necessario (scilicet actus volendi &amp; intelligendi filii) ratione differunt a per 
@@ -602,7 +602,7 @@
         manife<lb ed="#Ba" n="33" break="no"/>stiores dictiones declarare &amp;c. Vnde quia loqui non possumus de diuinis nisi nominibus trans 
         <lb ed="#Ba" n="34"/>latis a creaturis: &amp; illa proprietatem rei non possunt exprimere perfecte: aut omnino oportet nos 
         <lb ed="#Ba" n="35"/>tacere &amp; nihil omnino loqui de diuinis: aut loqui aliquando improprie aliquantulum. iuxta illud quod 
-        <lb ed="#Ba" n="36"/>dicit <name ref="#Augustine">Augustinus</name> super Ion serm. xix. exponendo illud Io. v. Non potest filius a se quicquam facere, dicens. Et si 
+        <lb ed="#Ba" n="36"/>dicit <name xml:id="vn58an-d1e2766-Nd1e1275" ref="#Augustine">Augustinus</name> super Ion serm. xix. exponendo illud Io. v. Non potest filius a se quicquam facere, dicens. Et si 
         <lb ed="#Ba" n="37"/>nec explicatum aliquid dixerimus: quia nec explicatum aliquod intellexerimus: aliquando quippe sermo 
         <lb ed="#Ba" n="38"/>deficit, vbi intellectus proficit: quanto magis sermo patitur defectionem, quando intellectus non habet 
         perfe<lb ed="#Ba" n="39" break="no"/>ctionem: 

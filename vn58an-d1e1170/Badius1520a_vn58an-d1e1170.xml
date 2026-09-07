@@ -64,12 +64,12 @@
         ⁋ Secundo  
         <lb ed="#Ba" n="29"/>sic. cognitio quae est per speculum &amp; in aenigmate non excedit habitum fidei: quia 
         <lb ed="#Ba" n="30"/>speculum &amp; aenigma sunt de essentia fidei. omnis nostra cognitio in praesenti est 
-        <lb ed="#Ba" n="31"/>huiusmodi. <ref>i. Corinth. xiii.</ref> <quote source="http://scta.info/resource/Icor13_12" synch="1-6">Videmus nunc per speculum in aenigmate</quote>. ergo &amp;c. 
+        <lb ed="#Ba" n="31"/>huiusmodi. <ref xml:id="vn58an-d1e1170-Rd1e122">i. Corinth. xiii.</ref> <quote xml:id="vn58an-d1e1170-Qd1e124" source="http://scta.info/resource/Icor13_12" synch="1-6">Videmus nunc per speculum in aenigmate</quote>. ergo &amp;c. 
       </p>
       <p xml:id="vn58an-d1e1170-d1e131">
         ⁋ Tertio sic. omnis 
         <lb ed="#Ba" n="32"/>cognitio quae est nunc ex parte: destruetur. omnis nostra cognitio quae nunc est, ex parte est, vt patet ibidem. Ex 
-        <lb ed="#Ba" n="33"/>parte cognoscimus: &amp; ex parte prophetamus: <quote source="http://scta.info/resource/Icor13_10@1-11">cum autem venerit quod perfectum est: euacuabitur quod ex
+        <lb ed="#Ba" n="33"/>parte cognoscimus: &amp; ex parte prophetamus: <quote xml:id="vn58an-d1e1170-Qd1e135" source="http://scta.info/resource/Icor13_10@1-11">cum autem venerit quod perfectum est: euacuabitur quod ex
         <lb ed="#Ba" n="34"/>parte est</quote>. ergo omnis nostra cognitio quae nunc est destruetur. sed non destruetur adueniente quod 
         per<lb ed="#Ba" n="35" break="no"/>fectum est aliqua cognitio in nobis nisi fidei: &amp; hoc ratione imperfectionis suae &amp; aenigmatis quod 
         ha<lb ed="#Ba" n="36" break="no"/>bet, quia si aliqua alia esset in nobis: magis perficeretur. sicut perficietur charitas. ergo nunc non est nobis alia 
@@ -122,7 +122,7 @@
         assen<lb ed="#Ba" n="19" break="no"/>tiendo eis ex euidentia rationis non ex solo auditu fidei: quas alius non intelligit: sed sola fide 
         te<lb ed="#Ba" n="20" break="no"/>net. Non enim minoris virtutis est lumen supnaturale ad ostendendum intellectui inuestiganti ea quae 
         la<lb ed="#Ba" n="21" break="no"/>tent sub sensibilibus supernaturali colligantia, quam lumen naturale ad ostendendum intellectui 
-        inue<lb ed="#Ba" n="22" break="no"/>stiganti ea quae latent sub aliis naturali colligantia. Vnde hanc inuestigationem <name ref="#Augustine">Augustinus</name> intelligens 
+        inue<lb ed="#Ba" n="22" break="no"/>stiganti ea quae latent sub aliis naturali colligantia. Vnde hanc inuestigationem <name xml:id="vn58an-d1e1170-Nd1e244" ref="#Augustine">Augustinus</name> intelligens 
         fa<lb ed="#Ba" n="23" break="no"/>ciendam in expositione sacrae scripturae, dicit in ser. xxiii. super Ioan. Putemus scripturam dei tanquam  
         <lb ed="#Ba" n="24"/>agrum esse, vbi volumus aliquid aedificare. Non ergo simus pigri, nec superficie contenti: 
         fodia<lb ed="#Ba" n="25" break="no"/>mus altius: donec parueniamus ad petram, de qua dicit apostolus. Petra erat Christus. Qua. scilicet 
@@ -132,11 +132,11 @@
         <lb ed="#Ba" n="29"/>in cognoscendis supernaturalibus: sicut nunquam deest in cognoscendis naturalibus, secundum quod 
         habi<lb ed="#Ba" n="30" break="no"/>tum est supra: si faciamus quod in nobis est: &amp; ad eius susceptionem nos praeparemus. Vnde non 
         pro<lb ed="#Ba" n="31" break="no"/>pter nudum credibilium conceptum sub forma credibilium sacra scriptura exponenda est: sed vt 
-        <lb ed="#Ba" n="32"/>eorum quae creduntur acquiratur intellectus. secundum quod dicit <name ref="#Augustine">Augustinus</name> super Ioan. sermo. primo. 
+        <lb ed="#Ba" n="32"/>eorum quae creduntur acquiratur intellectus. secundum quod dicit <name xml:id="vn58an-d1e1170-Nd1e269" ref="#Augustine">Augustinus</name> super Ioan. sermo. primo. 
         <lb ed="#Ba" n="33"/>Ad quid exponitur si non intelligitur: &amp; sermo. xxii. Ne quis desperet quod possit capere dono dei, quod  
         <lb ed="#Ba" n="34"/>loqui dignatus est filius dei. Ergo quae loqui dignatus est: debemus credere quia voluit vt 
         intelli<lb ed="#Ba" n="35" break="no"/>geremus: sed si non possumus: praestet intellectum rogatus: qui verbum praestitit non rogatus. 
-        <lb ed="#Ba" n="36"/><quote source="http://scta.info/resource/io5_24@6-18">Qui verbum (inquit) meum audit &amp; credit ei qui misit me: habet vitam aeternam</quote>. Nunquid
+        <lb ed="#Ba" n="36"/><quote xml:id="vn58an-d1e1170-Qd1e280" source="http://scta.info/resource/io5_24@6-18">Qui verbum (inquit) meum audit &amp; credit ei qui misit me: habet vitam aeternam</quote>. Nunquid
         igi<lb ed="#Ba" n="37" break="no"/>tur nos audire voluit verbum suum, intelligere noluit: quasi dicat, in audiendo &amp; credendo 
         vi<lb ed="#Ba" n="38" break="no"/>ta aeterna est: multo magis in intelligendo. Sed gradus pietatis est fides. Fidei fructus, intellectus. 
         <lb ed="#Ba" n="39"/>&amp; sermo. xxxix. Hide praecedente quae sanat oculum cordis nostri, quod intelligimus sine 
@@ -144,7 +144,7 @@
         receda<lb ed="#Ba" n="41" break="no"/>mus, vt ad culmen perfectionis veniamus. &amp; sermo. xxxviii. Quisquis ad sciendum verbum dei ad  
         <lb ed="#Ba" n="42"/>huc minus idoneus est, lacte fidei nutriatur. fides enim in meritum est: intellectus praemium. In ipso 
         <lb ed="#Ba" n="43"/>labore intentionis desudat acies mentis nostrae, vt purget sordiculas nebulae humanae: &amp; serenetur 
-        <lb ed="#Ba" n="44"/>ad verbum dei. Et patet plane: quia in omnibus huiusmodi dictis <name ref="#Augustine">Augustinus</name> loquitur de 
+        <lb ed="#Ba" n="44"/>ad verbum dei. Et patet plane: quia in omnibus huiusmodi dictis <name xml:id="vn58an-d1e1170-Nd1e300" ref="#Augustine">Augustinus</name> loquitur de 
         intelli<lb ed="#Ba" n="45" break="no"/>gere huius vitae: contra eos qui exponunt illud Esaiae, Nisi credideritis non intelligetis, solummodo de 
         <lb ed="#Ba" n="46"/>intellectu futurae vitae: ad quem necessario praeambula est fides huius vitae. quamuis enim hoc verum 
         <lb ed="#Ba" n="47"/>sit: tamen non solum hoc verum est. Verum enim simul est &amp; pro intelligere praesentis vitae. quod aper 
@@ -163,7 +163,7 @@
         <pb ed="#Ba" n="95-r"/>
         <lb ed="#Ba" n="1"/>quasi audiendo, deinde assentit motus ab ipsa credibilis veritate vere intelligendo: ita quod id idem 
         <lb ed="#Ba" n="2"/>quod ei primo fuit lacteus potus per fidem, postmodum est ipsi solidus cibus per intelligentiam: &amp; 
-        <lb ed="#Ba" n="3"/>quod vni est potus qui solum tenet fide: alteri est cibus qui capit intellectu. Vnde <name ref="#Augustine">Augustinus</name> 
+        <lb ed="#Ba" n="3"/>quod vni est potus qui solum tenet fide: alteri est cibus qui capit intellectu. Vnde <name xml:id="vn58an-d1e1170-Nd1e341" ref="#Augustine">Augustinus</name> 
         ser<lb ed="#Ba" n="4" break="no"/>mo. xliiii. parte. ii. exponens illud apostoli ad Corinth. Non potui vobis loqui quasi spiritualibus:  
         <lb ed="#Ba" n="5"/>sed quasi carnalibus, quasi paruulis in Christo lac vobis dedi potum: non solidum cibum. dicit. 
         Ea<lb ed="#Ba" n="6" break="no"/>dem in sacra doctrina: non eo modo a carnalibus, quo a spiritualibus cogitantur: quia &amp; illis lac est, 
@@ -178,10 +178,10 @@
         <lb ed="#Ba" n="15"/>cognitio teneretur: ac per hoc ea ipsa credebant quae spirituales insuper &amp; cognoscebant. 
         Diffi<lb ed="#Ba" n="16" break="no"/>cile est vt a me ista intelligat: qui ea in seipso experimento omnino non sentit, quod si non intelligat 
         <lb ed="#Ba" n="17"/>credat: ne se ad spiritualem intellectum peruenire posse desperet: quem quaerit omnis qui 
-        exposi<lb ed="#Ba" n="18" break="no"/>tioni. &amp; studio sacrae scripturae intendit. secundum quod dicit <name ref="#Augustine">Augustinus</name> in sermo. praedicto. Omnis 
+        exposi<lb ed="#Ba" n="18" break="no"/>tioni. &amp; studio sacrae scripturae intendit. secundum quod dicit <name xml:id="vn58an-d1e1170-Nd1e377" ref="#Augustine">Augustinus</name> in sermo. praedicto. Omnis 
         <lb ed="#Ba" n="19"/>de hac re sermo quid agit: nisi vt non solum credatur verum etiam intelligatur &amp; sciatur quod dicitur. Ali 
         <lb ed="#Ba" n="20"/>ter enim vanum esset multo studio insistere expositioni sacrae scripturae, postquam credita sunt illa firmiter 
-        <lb ed="#Ba" n="21"/>circa quorum notitiam laboramus. secundum enim quod dicit <name ref="#Augustine">Augustinus</name> ser. xxxvii. quod breuiter 
+        <lb ed="#Ba" n="21"/>circa quorum notitiam laboramus. secundum enim quod dicit <name xml:id="vn58an-d1e1170-Nd1e386" ref="#Augustine">Augustinus</name> ser. xxxvii. quod breuiter 
         di<lb ed="#Ba" n="22" break="no"/>citur non breuiter potest exponi, vt quod auditur intelligatur. 
       </p>
       <p xml:id="vn58an-d1e1170-d1e389">
@@ -239,7 +239,7 @@
         <lb ed="#Ba" n="10"/>Primo modo ex parte est cognitio fidei. Et ideo oportet eam euacuari cum venerit visio per 
         spe<lb ed="#Ba" n="11" break="no"/>ciem: quia non compatiuntur se: sicut non potest aliquis simul videre alium per imaginem eius in  
         <lb ed="#Ba" n="12"/>speculo, &amp; facie ad faciem: secundum quod vtranque harum cognitionum distinguit apostolus 
-        conse<lb ed="#Ba" n="13" break="no"/>quenter cum subiungit dicens. <quote source="http://scta.info/resource/Icor13_12@1-11">Videmus nunc per speculum in aenigmate: tunc autem facie ad
+        conse<lb ed="#Ba" n="13" break="no"/>quenter cum subiungit dicens. <quote xml:id="vn58an-d1e1170-Qd1e502" source="http://scta.info/resource/Icor13_12@1-11">Videmus nunc per speculum in aenigmate: tunc autem facie ad
         fa<lb ed="#Ba" n="14" break="no"/>ciem</quote>. vbi dicit Glos. Nunc imagines veritatis per fidem videmus: tunc res ipsas a simili sese recto 
         vul<lb ed="#Ba" n="15" break="no"/>tu aspicientium. Secundo modo ex parte est omnis cognitio per intellectum in praesenti respectu 
         in<lb ed="#Ba" n="16" break="no"/>tellectus qui erit in patria: vbi iste intellectus complebitur. sicut etiam ibi complebitur charitas. &amp; 

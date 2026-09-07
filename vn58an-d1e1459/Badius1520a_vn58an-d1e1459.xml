@@ -56,14 +56,14 @@
       <p xml:id="vn58an-d1e1459-d1e110">
         <lb ed="#Ba" n="12"/>CIrca tertium arguitur, quod homo sine speciali illustratione diuina possit 
         scriptu<lb ed="#Ba" n="13" break="no"/>ram istam exponere. Primo sic. Deuter. xxx. dicitur. Mandatum quod ego praecipio 
-        <lb ed="#Ba" n="14"/>tibi non est supra te: neque procul positum: <quote source="http://scta.info/resource/deut30_14@1-13">sed iuxta te in ore tuo &amp; in corde tuo</quote>.
-        <lb ed="#Ba" n="15"/>quod exponens apostolus dicit. Roma. x. <quote source="http://scta.info/resource/rom10_8@14-19">Hoc est verbum fidei quod praedicamus</quote>. sed 
+        <lb ed="#Ba" n="14"/>tibi non est supra te: neque procul positum: <quote xml:id="vn58an-d1e1459-Qd1e111" source="http://scta.info/resource/deut30_14@1-13">sed iuxta te in ore tuo &amp; in corde tuo</quote>.
+        <lb ed="#Ba" n="15"/>quod exponens apostolus dicit. Roma. x. <quote xml:id="vn58an-d1e1459-Qd1e117" source="http://scta.info/resource/rom10_8@14-19">Hoc est verbum fidei quod praedicamus</quote>. sed 
         <lb ed="#Ba" n="16"/>quod non est supra hominem, immo iuxta ipsum: exponi potest ab ipso sine 
         spe<lb ed="#Ba" n="17" break="no"/>ciali illustratione: quia quod talem illustrationem requirit, longe est ab eo. ergo  
         <lb ed="#Ba" n="18"/>&amp;c. 
       </p>
       <p xml:id="vn58an-d1e1459-d1e128">
-        ⁋ Secundo sic. iii. de doctrina christiana dicit <name ref="#Augustine">Augustinus</name> Homo timens deum &amp;c. vt iam dictum 
+        ⁋ Secundo sic. iii. de doctrina christiana dicit <name xml:id="vn58an-d1e1459-Nd1e129" ref="#Augustine">Augustinus</name> Homo timens deum &amp;c. vt iam dictum 
         <lb ed="#Ba" n="19"/>est in praecedenti quaest. Sed illa omnia potest habere homo fidelis ex studio sine speciali gratia. 
         er<lb ed="#Ba" n="20" break="no"/>go &amp;c. 
       </p>
@@ -85,7 +85,7 @@
         limpi<lb ed="#Ba" n="32" break="no"/>dius eam intelligit. Quare cum vt supra determinatum est, intellectus huius scientiae non potest 
         <lb ed="#Ba" n="33"/>haberi sine illustratione diuina speciali lumini fidei superaddita: igitur absolute dicendum est, quod sine 
         <lb ed="#Ba" n="34"/>illustratione speciali diuina fidei superaddita scientiam istam nemo potest exponere: vt eodem spiritu 
-        <lb ed="#Ba" n="35"/>&amp; consimili inspiratione qua editae intelliguntur exponantur. Hinc dicit <name ref="#Augustine">Augustinus</name> in ser. de 
+        <lb ed="#Ba" n="35"/>&amp; consimili inspiratione qua editae intelliguntur exponantur. Hinc dicit <name xml:id="vn58an-d1e1459-Nd1e175" ref="#Augustine">Augustinus</name> in ser. de 
         proprieta<lb ed="#Ba" n="36" break="no"/>tibus verbi. Totius ecclesiae vna sententia est, esse scilicet omnem legem spiritualem: non tamen ea quae  
         <lb ed="#Ba" n="37"/>spirat lex, esse hominibus nota: nisi iis solis quibus gratia spiritus sancti in verbo sapientiae &amp; 
         scien<lb ed="#Ba" n="38" break="no"/>tiae condonatur. Et super illud Ephe. iii. Inuestigabiles diuitias. Glos. Si inuestigabiles sunt diuitiae: quo  
