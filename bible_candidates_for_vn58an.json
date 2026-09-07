@@ -1,0 +1,2619 @@
+{
+  "vn58an-qwwea1": {
+    "vn58an-qwwea1-d1e151": [
+      {
+        "candidate_id": "rom15_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'secundum apostolum dicentem' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e83": {
+    "vn58an-d1e83-d1e110": [
+      {
+        "candidate_id": "IIcor3_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'ii. Cor. iii. dicit Apostolus' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e106": {
+    "vn58an-d1e106-d1e469": [
+      {
+        "candidate_id": "io5_17",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dixit filius in Euang' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e128": {
+    "vn58an-d1e128-d1e205": [
+      {
+        "candidate_id": "Itim2_7",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "wording matches Itim2_7 closely though MS mislabels citation as 'Corin. ii'"
+      }
+    ]
+  },
+  "vn58an-d1e304": {
+    "vn58an-d1e304-d1e218": [
+      {
+        "candidate_id": "qoh7_24",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclesiastes. 7' matches verse wording"
+      },
+      {
+        "candidate_id": "qoh7_25",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclesiastes. 7', continues quote from qoh7_24"
+      }
+    ]
+  },
+  "vn58an-d1e467": {
+    "vn58an-d1e467-d1e134": [
+      {
+        "candidate_id": "qoh3_11",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclesi. iii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e467-d1e141": [
+      {
+        "candidate_id": "qoh3_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclsi. iii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e467-d1e150": [
+      {
+        "candidate_id": "is27_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation '&. xxvii.' matches verse wording"
+      }
+    ],
+    "vn58an-d1e467-d1e193": [
+      {
+        "candidate_id": "ps138_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'illud Psal' matches verse wording"
+      },
+      {
+        "candidate_id": "qoh8_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'ibidem. viii' matches verse wording"
+      },
+      {
+        "candidate_id": "qoh7_24",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclesi. vii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e467-d1e271": [
+      {
+        "candidate_id": "mt10_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dixit Christus' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e478": {
+    "vn58an-d1e478-d1e140": [
+      {
+        "candidate_id": "sir3_22",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclesi. xiii' matches verse wording"
+      },
+      {
+        "candidate_id": "qoh7_1",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclsi. vii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e489": {
+    "vn58an-d1e489-d1e253": [
+      {
+        "candidate_id": "sap9_16",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Sapientiae. ix' matches verse wording"
+      },
+      {
+        "candidate_id": "sir6_27",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclesiastici. vii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e501": {
+    "vn58an-d1e501-d1e157": [
+      {
+        "candidate_id": "rom1_19",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "vn58an-d1e523": {
+    "vn58an-d1e523-d1e142": [
+      {
+        "candidate_id": "Icor13_2",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "vn58an-d1e523-d1e167": [
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "verbatim scholastic quotation of the Pauline formula, no local attribution marker but exact wording match"
+      }
+    ]
+  },
+  "vn58an-d1e534": {
+    "vn58an-d1e534-d1e110": [
+      {
+        "candidate_id": "rom12_3",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'Apo dicit' matches verse wording"
+      }
+    ],
+    "vn58an-d1e534-d1e134": [
+      {
+        "candidate_id": "sir6_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclesi. vi' (tagged as ref) matches verse wording"
+      }
+    ],
+    "vn58an-d1e534-d1e155": [
+      {
+        "candidate_id": "ps104_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Dauid in Psal' matches verse wording"
+      },
+      {
+        "candidate_id": "qoh3_10",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclesi. iii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e555": {
+    "vn58an-d1e555-d1e165": [
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "paraphrase attributed 'dicunt Esa. & Apostolus' matches verse wording"
+      },
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'i. Io. iii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e566": {
+    "vn58an-d1e566-d1e286": [
+      {
+        "candidate_id": "Icor2_13",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'dicit Apo. i. Cor. ii'"
+      },
+      {
+        "candidate_id": "Icor2_12",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'dicit Apo. i. Cor. ii'"
+      },
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'Sicut scriptum est'"
+      },
+      {
+        "candidate_id": "Icor2_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'dicit Apo. i. Cor. ii'"
+      },
+      {
+        "candidate_id": "Icor2_10",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'dicit Apo. i. Cor. ii'"
+      },
+      {
+        "candidate_id": "Icor2_7",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apo. i. Cor. ii' opens the extended quotation"
+      }
+    ],
+    "vn58an-d1e566-d1e463": [
+      {
+        "candidate_id": "ex4_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Origenes super illud Exo. iiii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e589": {
+    "vn58an-d1e589-d1e148": [
+      {
+        "candidate_id": "qoh12_11",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclsin. vlti' matches verse wording"
+      },
+      {
+        "candidate_id": "qoh12_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclsin. vlti', continues quote from qoh12_11"
+      }
+    ],
+    "vn58an-d1e589-d1e336": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicit apsus' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor13_10",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'dicit apsus' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e643": {
+    "vn58an-d1e643-d1e358": [
+      {
+        "candidate_id": "iac4_13",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur laco. iiii' matches verse wording"
+      },
+      {
+        "candidate_id": "iac4_15",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur laco. iiii' matches verse wording"
+      },
+      {
+        "candidate_id": "gen50_20",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation '& cap vlt' (Gen last chapter) matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e665": {
+    "vn58an-d1e665-d1e318": [
+      {
+        "candidate_id": "Icor2_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "wording matches verse though MS mislabels citation as 'i. Col. ii'"
+      }
+    ]
+  },
+  "vn58an-d1e676": {
+    "vn58an-d1e676-d1e221": [
+      {
+        "candidate_id": "sap13_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Sapieieam. xiii' matches verse wording"
+      },
+      {
+        "candidate_id": "prov19_2",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'Prouerb. xix' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e687": {
+    "vn58an-d1e687-d1e164": [
+      {
+        "candidate_id": "sap13_1",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur in eodem. xiii' matches verse wording"
+      },
+      {
+        "candidate_id": "sap9_6",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Sapientiae. ix' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e698": {
+    "vn58an-d1e698-d1e376": [
+      {
+        "candidate_id": "Icor2_4",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostus ist Corin. ii' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor2_5",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostus ist Corin. ii' continues quote"
+      }
+    ]
+  },
+  "vn58an-d1e721": {
+    "vn58an-d1e721-d1e156": [
+      {
+        "candidate_id": "sir42_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclesiastici. xlii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e721-d1e211": [
+      {
+        "candidate_id": "Icor1_21",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "verbatim scriptural tag phrase, though no immediate local attribution marker"
+      }
+    ]
+  },
+  "vn58an-d1e743": {
+    "vn58an-d1e743-d1e110": [
+      {
+        "candidate_id": "ps30_22",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'super illud Psal' matches verse wording"
+      }
+    ],
+    "vn58an-d1e743-d1e134": [
+      {
+        "candidate_id": "Icor1_17",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation ref 'i. ad Corin. i' matches verse wording"
+      }
+    ],
+    "vn58an-d1e743-d1e218": [
+      {
+        "candidate_id": "Icor2_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus. i. Corinth. ii' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor2_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit continuation 'sequitur in Apo sto' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor2_14",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit continuation 'sequitur in Apo sto' / 'in Apostolo' matches verse wording"
+      }
+    ],
+    "vn58an-d1e743-d1e373": [
+      {
+        "candidate_id": "col2_23",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'Colossen. ii' matches verse wording"
+      },
+      {
+        "candidate_id": "col2_22",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'Colossen. ii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e763": {
+    "vn58an-d1e763-d1e154": [
+      {
+        "candidate_id": "IItim3_17",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'ii. Timo. iii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e774": {
+    "vn58an-d1e774-d1e121": [
+      {
+        "candidate_id": "mt4_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Gloss. super illud Matth. v' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e785": {
+    "vn58an-d1e785-d1e110": [
+      {
+        "candidate_id": "IItim3_17",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation continuing 'Tim. iii' quote matches verse wording"
+      }
+    ],
+    "vn58an-d1e785-d1e338": [
+      {
+        "candidate_id": "IItim3_17",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'Et apsus' matches verse wording"
+      },
+      {
+        "candidate_id": "lc10_42",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "verbatim Gospel quote used as closing flourish, no immediate local marker"
+      }
+    ]
+  },
+  "vn58an-d1e797": {
+    "vn58an-d1e797-d1e110": [
+      {
+        "candidate_id": "rom15_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Vnde apostolus' matches verse wording"
+      }
+    ],
+    "vn58an-d1e797-d1e126": [
+      {
+        "candidate_id": "deut30_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'Deutur. xxx' matches verse wording"
+      },
+      {
+        "candidate_id": "rom10_8",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Ronimn. x' matches verse wording"
+      }
+    ],
+    "vn58an-d1e797-d1e156": [
+      {
+        "candidate_id": "mt19_18",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "commandment list is a generic paraphrase of the Decalogue (via Cassian, re patriarchs before the law), not an explicit citation of Mt 19:18; overlap is due to shared formulaic commandment wording"
+      },
+      {
+        "candidate_id": "rom7_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicit apostolus seoma. vii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e808": {
+    "vn58an-d1e808-d1e152": [
+      {
+        "candidate_id": "gal3_24",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Gali. iii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e808-d1e161": [
+      {
+        "candidate_id": "ier31_33",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'per Hieremiam prophetam...Heb. x' matches verse wording"
+      },
+      {
+        "candidate_id": "IIcor3_3",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "verbatim borrowing 'non in tabulis lapideis sed in tabulis cordis', no immediate local marker"
+      },
+      {
+        "candidate_id": "ier31_32",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'per Hieremiam prophetam...Heb. x' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e819": {
+    "vn58an-d1e819-d1e134": [
+      {
+        "candidate_id": "io21_25",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Io. vlti' matches verse wording"
+      },
+      {
+        "candidate_id": "io16_13",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'Io. xvi. dixit Christus' matches verse wording"
+      },
+      {
+        "candidate_id": "io16_12",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Io. xvi. dixit Christus' matches verse wording"
+      }
+    ],
+    "vn58an-d1e819-d1e151": [
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus Gali. i' matches verse wording"
+      }
+    ],
+    "vn58an-d1e819-d1e162": [
+      {
+        "candidate_id": "gal1_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'cum dicit. Gali. i' matches verse wording"
+      },
+      {
+        "candidate_id": "gal1_9",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit continuation 'repetit idem dicens' matches verse wording"
+      }
+    ],
+    "vn58an-d1e819-d1e202": [
+      {
+        "candidate_id": "io14_16",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'dicit loanem. xiiii' matches verse wording"
+      },
+      {
+        "candidate_id": "io14_17",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit continuation 'sequitur' matches verse wording"
+      },
+      {
+        "candidate_id": "io15_26",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Christus. Io., xv' matches verse wording"
+      },
+      {
+        "candidate_id": "lc24_49",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation 'Luc. vlti' matches verse wording"
+      }
+    ],
+    "vn58an-d1e819-d1e236": [
+      {
+        "candidate_id": "hebr10_22",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation continuation matches verse wording"
+      },
+      {
+        "candidate_id": "hebr3_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Heb. iii' matches verse wording"
+      },
+      {
+        "candidate_id": "hebr7_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation '& vii' matches verse wording"
+      },
+      {
+        "candidate_id": "hebr10_20",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation continuation matches verse wording (omits 'velamen')"
+      },
+      {
+        "candidate_id": "hebr10_19",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation '&. x' matches verse wording"
+      },
+      {
+        "candidate_id": "lc21_32",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "wording matches verse though MS attributes it to 'Matth. xxiiii' (synoptic parallel)"
+      }
+    ],
+    "vn58an-d1e819-d1e309": [
+      {
+        "candidate_id": "Icor13_10",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dicit ibidem apsus' matches verse wording"
+      }
+    ],
+    "vn58an-d1e819-d1e368": [
+      {
+        "candidate_id": "mt28_20",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'Matthicoru. vlti' matches verse wording"
+      },
+      {
+        "candidate_id": "ex6_3",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "verbatim quotation embedded in cited Beda passage, matches verse wording"
+      },
+      {
+        "candidate_id": "mt24_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Matth. xxiiii' matches verse wording"
+      },
+      {
+        "candidate_id": "mt5_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dixit Christus. Matth. v' matches verse wording"
+      },
+      {
+        "candidate_id": "io14_26",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'dicit lo. xiiii' matches verse wording (partly abbreviated)"
+      },
+      {
+        "candidate_id": "rom8_4",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'Quod apstse signando dicebat' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e839": {
+    "vn58an-d1e839-d1e141": [
+      {
+        "candidate_id": "mt5_37",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'Matth. v' matches verse wording"
+      }
+    ],
+    "vn58an-d1e839-d1e150": [
+      {
+        "candidate_id": "ez20_25",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "vn58an-d1e839-d1e164": [
+      {
+        "candidate_id": "ier31_32",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'Hieremi. xxxi' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e850": {
+    "vn58an-d1e850-d1e128": [
+      {
+        "candidate_id": "io7_16",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur loannis. vii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e850-d1e164": [
+      {
+        "candidate_id": "mt16_17",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Matth. xvi' matches verse wording"
+      }
+    ],
+    "vn58an-d1e850-d1e291": [
+      {
+        "candidate_id": "mc16_20",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "wording matches verse though MS mislabels citation as 'Matthicorum. vlti'"
+      }
+    ]
+  },
+  "vn58an-d1e881": {
+    "vn58an-d1e881-d1e110": [
+      {
+        "candidate_id": "IItim2_2",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'ii. Timo. ii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e881-d1e266": [
+      {
+        "candidate_id": "rom10_14",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io4_42",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation 'Io. iiii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e903": {
+    "vn58an-d1e903-d1e206": [
+      {
+        "candidate_id": "ps118_85",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'illud Psal' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e923": {
+    "vn58an-d1e923-d1e139": [
+      {
+        "candidate_id": "Itim2_7",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'i. Et. Timo. ii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e923-d1e185": [
+      {
+        "candidate_id": "ps113_23",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive - only shares generic formula 'qui fecit caelum et terram'; wording matches ps120_2 instead"
+      },
+      {
+        "candidate_id": "ps120_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "allusion embedded in cited Augustine passage, matches verse wording (minus 'meum')"
+      }
+    ]
+  },
+  "vn58an-d1e934": {
+    "vn58an-d1e934-d1e178": [
+      {
+        "candidate_id": "Itim2_14",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'id ist Timo. ii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e934-d1e266": [
+      {
+        "candidate_id": "prov4_3",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "author quotes the literal text under discussion ('litera sic iacet') matching verse wording"
+      }
+    ],
+    "vn58an-d1e934-d1e298": [
+      {
+        "candidate_id": "Ipetr4_11",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit continuation 'sequitur ibidem' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e945": {
+    "vn58an-d1e945-d1e142": [
+      {
+        "candidate_id": "rom2_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Ro. ii' matches verse wording"
+      },
+      {
+        "candidate_id": "iob12_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur lob. xii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e945-d1e279": [
+      {
+        "candidate_id": "sap4_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'de qua Sap iiii' matches verse wording"
+      },
+      {
+        "candidate_id": "dan13_48",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "narrative context 'Ad secundum de Dan.' directly quotes the Daniel/Susanna story matching verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e968": {
+    "vn58an-d1e968-d1e121": [
+      {
+        "candidate_id": "phil1_18",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'Philipe. i. dicit apostolus' matches verse wording"
+      }
+    ],
+    "vn58an-d1e968-d1e315": [
+      {
+        "candidate_id": "mt5_13",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'Matthaei. v' matches verse wording"
+      },
+      {
+        "candidate_id": "mt23_3",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Matth. xxiii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e979": {
+    "vn58an-d1e979-d1e151": [
+      {
+        "candidate_id": "Icor1_21",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'Apostolus. i. Corin. i'"
+      },
+      {
+        "candidate_id": "Icor1_20",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'Apostolus. i. Corin. i'"
+      },
+      {
+        "candidate_id": "Icor1_19",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Sequitur in apso' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor1_17",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'assignat Apostolus. i. Corin. i' matches verse wording"
+      }
+    ],
+    "vn58an-d1e979-d1e243": [
+      {
+        "candidate_id": "Icor1_28",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'i. Corin. i'"
+      },
+      {
+        "candidate_id": "hebr2_4",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'apostolus ad Hebr. ii' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor1_27",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'i. Corin. i'"
+      },
+      {
+        "candidate_id": "Icor1_26",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "explicit citation 'cum dicit. i. Corin. i' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor1_29",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'i. Corin. i'"
+      },
+      {
+        "candidate_id": "Icor2_1",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'ipse dicit. i. Corin. ii' matches verse wording (quoted twice in paragraph)"
+      },
+      {
+        "candidate_id": "Icor2_5",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "part of extended quotation matching verse wording"
+      },
+      {
+        "candidate_id": "Icor2_4",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "part of extended quotation matching verse wording"
+      },
+      {
+        "candidate_id": "hebr2_3",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'apostolus ad Hebr. ii' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor2_3",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "part of extended quotation matching verse wording"
+      }
+    ],
+    "vn58an-d1e979-d1e406": [
+      {
+        "candidate_id": "IIcor10_5",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus. ii. Corin. x' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1016": {
+    "vn58an-d1e1016-d1e147": [
+      {
+        "candidate_id": "deut31_12",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Deut. xxxi' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1027": {
+    "vn58an-d1e1027-d1e131": [
+      {
+        "candidate_id": "sir6_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Ecclesi. vi' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1027-d1e140": [
+      {
+        "candidate_id": "hebr5_13",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'consequenter Apostolus' referencing Hebr. v matches verse wording"
+      },
+      {
+        "candidate_id": "hebr5_14",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'consequenter addit Apostolus' matches verse wording"
+      },
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "verbatim scholastic quotation embedded in cited Augustine passage"
+      }
+    ]
+  },
+  "vn58an-d1e1038": {
+    "vn58an-d1e1038-d1e140": [
+      {
+        "candidate_id": "ps118_6",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dixit Dauid in psal' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1050": {
+    "vn58an-d1e1050-d1e110": [
+      {
+        "candidate_id": "Icor2_14",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'i. Corinthi. ii. dicit apostolus' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1050-d1e167": [
+      {
+        "candidate_id": "Icor2_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicit apostolus' matches verse wording"
+      },
+      {
+        "candidate_id": "mt7_6",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'super illud Mat. vi' (mislabeled chapter) matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1061": {
+    "vn58an-d1e1061-d1e141": [
+      {
+        "candidate_id": "lc10_21",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "conflated gospel quotation with mt11_25, matches verse wording"
+      },
+      {
+        "candidate_id": "mt11_25",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'illud Mat. xi' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1061-d1e154": [
+      {
+        "candidate_id": "sap13_7",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'Sapes xiii' matches verse wording"
+      },
+      {
+        "candidate_id": "sap13_2",
+        "intersectionCount": 18,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Sapres. xiii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1072": {
+    "vn58an-d1e1072-d1e123": [
+      {
+        "candidate_id": "rom15_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'apso. Ronimn, xv' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1072-d1e147": [
+      {
+        "candidate_id": "deut6_5",
+        "intersectionCount": 13,
+        "status": "not_found",
+        "note": "false positive - shared Shema vocabulary only; wording matches mt22_37/lc10_27 more closely"
+      },
+      {
+        "candidate_id": "lc10_27",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "conflated Great Commandment quotation, matches verse wording for love-of-neighbor clause"
+      },
+      {
+        "candidate_id": "mc12_30",
+        "intersectionCount": 16,
+        "status": "not_found",
+        "note": "false positive - shared formula only; wording matches mt22_37 more closely (no 'ex tota virtute')"
+      },
+      {
+        "candidate_id": "deut26_16",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive - different content (covenant renewal), only shares 'ex toto corde... ex tota anima' formula"
+      },
+      {
+        "candidate_id": "mt22_37",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "verbatim quotation attributed to Christ ('caelestis vnus magister') matches verse wording"
+      },
+      {
+        "candidate_id": "tit1_9",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus in epistola ad Timo' (mislabeled, actually Titus) matches verse wording"
+      },
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "verbatim scholastic quotation embedded in cited Augustine passage"
+      }
+    ]
+  },
+  "vn58an-d1e1083": {
+    "vn58an-d1e1083-d1e110": [
+      {
+        "candidate_id": "mt5_45",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'Matth. v' matches verse wording"
+      },
+      {
+        "candidate_id": "deut8_3",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Deut. viii' matches verse wording"
+      },
+      {
+        "candidate_id": "mt4_4",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "wording matches mt4_4 more exactly though MS cites 'Deut. viii'"
+      }
+    ],
+    "vn58an-d1e1083-d1e149": [
+      {
+        "candidate_id": "io15_22",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'loananem, xv' matches verse wording"
+      },
+      {
+        "candidate_id": "act13_46",
+        "intersectionCount": 17,
+        "status": "encoded",
+        "note": "explicit citation 'legitur Actu. xiii' continuation matches verse wording"
+      },
+      {
+        "candidate_id": "ier48_12",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive - only shares opening formula 'Ecce dies veniunt dicit Dominus' with the actually-quoted am8_11"
+      },
+      {
+        "candidate_id": "mt15_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Matt. xv' matches verse wording"
+      },
+      {
+        "candidate_id": "rom10_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit continuation 'continuo sequitur' matches verse wording"
+      },
+      {
+        "candidate_id": "act13_45",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'legitur Actu. xiii' matches verse wording"
+      },
+      {
+        "candidate_id": "am8_11",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Amos. viii' matches verse wording"
+      },
+      {
+        "candidate_id": "mt15_27",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "narrative attribution 'respondit mulier Chananaea' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1094": {
+    "vn58an-d1e1094-d1e110": [
+      {
+        "candidate_id": "mt5_15",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit citation 'Matthae. v' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1094-d1e128": [
+      {
+        "candidate_id": "mt5_19",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'illud Matth. v' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1114": {
+    "vn58an-d1e1114-d1e138": [
+      {
+        "candidate_id": "deut5_1",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Deut. v' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1125": {
+    "vn58an-d1e1125-d1e133": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "verbatim quotation embedded in cited Augustine (Confessions) passage"
+      }
+    ],
+    "vn58an-d1e1125-d1e159": [
+      {
+        "candidate_id": "Icor3_7",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "verbatim quotation embedded in cited Augustine passage"
+      }
+    ]
+  },
+  "vn58an-d1e1136": {
+    "vn58an-d1e1136-d1e278": [
+      {
+        "candidate_id": "io6_29",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'Augustinus...exponens illud' matches verse wording"
+      },
+      {
+        "candidate_id": "io7_17",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'ad exponendum illud aliud' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1148": {
+    "vn58an-d1e1148-d1e137": [
+      {
+        "candidate_id": "Icor12_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'i. Corith. xii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1159": {
+    "vn58an-d1e1159-d1e150": [
+      {
+        "candidate_id": "sap8_16",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "explicit citation 'Sapientiae. viii' matches verse wording"
+      },
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "verbatim scholastic quotation embedded in cited Augustine passage"
+      }
+    ]
+  },
+  "vn58an-d1e1170": {
+    "vn58an-d1e1170-d1e131": [
+      {
+        "candidate_id": "Icor13_10",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'vt patet ibidem' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1170-d1e198": [
+      {
+        "candidate_id": "io5_24",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "verbatim quotation embedded in cited Augustine passage"
+      }
+    ],
+    "vn58an-d1e1170-d1e484": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'distinguit apostolus' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1181": {
+    "vn58an-d1e1181-d1e277": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dixit Apostolus. i. Corinth. xii' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "verbatim quotation embedded in cited Augustine passage"
+      },
+      {
+        "candidate_id": "IIcor4_16",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation 'vt dicitur. ii. Corith. iiii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1192": {
+    "vn58an-d1e1192-d1e142": [
+      {
+        "candidate_id": "act8_31",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'habetur Actuum. viii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1192-d1e189": [
+      {
+        "candidate_id": "rom10_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus Roma. x' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1203": {
+    "vn58an-d1e1203-d1e130": [
+      {
+        "candidate_id": "ier4_10",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit citation 'Hier. iiii' matches verse wording"
+      },
+      {
+        "candidate_id": "ier3_17",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit continuation 'Quia supra dixit' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1203-d1e147": [
+      {
+        "candidate_id": "Icor2_12",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit citation 'i. Corinth. ii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1203-d1e245": [
+      {
+        "candidate_id": "Icor2_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'super illud primae Corinth. ii' matches verse wording (quoted twice in text)"
+      }
+    ]
+  },
+  "vn58an-d1e1254": {
+    "vn58an-d1e1254-d1e248": [
+      {
+        "candidate_id": "gal1_9",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'super illud Gali. i' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1265": {
+    "vn58an-d1e1265-d1e198": [
+      {
+        "candidate_id": "mt13_52",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'glos. super illud Mat. xiii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1265-d1e334": [
+      {
+        "candidate_id": "rom7_3",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "paraphrase of the verse attributed 'Apostolus dicit' via cited Origen homily"
+      }
+    ]
+  },
+  "vn58an-d1e1276": {
+    "vn58an-d1e1276-d1e153": [
+      {
+        "candidate_id": "deut6_5",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "too abbreviated ('&c.') to determine which of several near-identical parallel wordings is intended"
+      },
+      {
+        "candidate_id": "lc10_27",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "too abbreviated ('&c.') to determine which of several near-identical parallel wordings is intended"
+      },
+      {
+        "candidate_id": "mc12_30",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "too abbreviated ('&c.') to determine which of several near-identical parallel wordings is intended"
+      },
+      {
+        "candidate_id": "mt22_37",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "too abbreviated ('&c.') to determine which of several near-identical parallel wordings is intended"
+      }
+    ]
+  },
+  "vn58an-d1e1296": {
+    "vn58an-d1e1296-d1e127": [
+      {
+        "candidate_id": "rom12_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "vn58an-d1e1296-d1e217": [
+      {
+        "candidate_id": "Icor2_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'idem Apostolus dixit...sequitur' matches verse wording"
+      },
+      {
+        "candidate_id": "io16_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'illud Domni' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1296-d1e295": [
+      {
+        "candidate_id": "Icor2_10",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus. i. Corinth. ii' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus. i. Corinth. ii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1318": {
+    "vn58an-d1e1318-d1e166": [
+      {
+        "candidate_id": "prov22_21",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'illud Prouerbiorum. xxiii' matches verse wording"
+      },
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "verbatim scholastic quotation embedded in cited Augustine passage"
+      },
+      {
+        "candidate_id": "prov31_21",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Prouer. vlt' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1318-d1e383": [
+      {
+        "candidate_id": "mc2_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "conflated synoptic quotation matches verse wording"
+      },
+      {
+        "candidate_id": "lc6_4",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "conflated synoptic quotation matches verse wording"
+      },
+      {
+        "candidate_id": "mt12_4",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "conflated synoptic quotation matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1330": {
+    "vn58an-d1e1330-d1e129": [
+      {
+        "candidate_id": "IIpetr1_21",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "wording matches verse though MS cites 'ii. Pet. ii' (mislabeled chapter)"
+      },
+      {
+        "candidate_id": "IItim3_16",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "vn58an-d1e1330-d1e179": [
+      {
+        "candidate_id": "mt10_38",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit example 'vt est illud' matches verse wording"
+      },
+      {
+        "candidate_id": "lc10_27",
+        "intersectionCount": 12,
+        "status": "not_found",
+        "note": "abbreviated citation ('&c.') to the Great Commandment, ambiguous among several near-identical parallels; fuller instance in same paragraph matches mt22_37 instead"
+      },
+      {
+        "candidate_id": "deut6_5",
+        "intersectionCount": 13,
+        "status": "not_found",
+        "note": "abbreviated citation ('&c.') to the Great Commandment, ambiguous among several near-identical parallels; fuller instance in same paragraph matches mt22_37 instead"
+      },
+      {
+        "candidate_id": "mc12_30",
+        "intersectionCount": 16,
+        "status": "not_found",
+        "note": "abbreviated citation ('&c.') to the Great Commandment, ambiguous among several near-identical parallels; fuller instance in same paragraph matches mt22_37 instead"
+      },
+      {
+        "candidate_id": "lc12_35",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit example 'vt est illud' matches verse wording"
+      },
+      {
+        "candidate_id": "lc22_36",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit example matches verse wording"
+      },
+      {
+        "candidate_id": "deut26_16",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "abbreviated citation ('&c.') to the Great Commandment, ambiguous among several near-identical parallels; fuller instance in same paragraph matches mt22_37 instead"
+      },
+      {
+        "candidate_id": "mt22_37",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit fuller example within Cassian citation matches verse wording (threefold ex toto corde/anima/mente formula)"
+      }
+    ]
+  },
+  "vn58an-d1e1341": {
+    "vn58an-d1e1341-d1e170": [
+      {
+        "candidate_id": "io18_37",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit attribution 'dixit Christus' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1363": {
+    "vn58an-d1e1363-d1e337": [
+      {
+        "candidate_id": "tit1_9",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "wording matches verse though MS cites 'ad Timoo. i' (mislabeled, actually Titus)"
+      }
+    ]
+  },
+  "vn58an-d1e1405": {
+    "vn58an-d1e1405-d1e110": [
+      {
+        "candidate_id": "mc16_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "wording matches verse though MS cites 'Matthicorum. vlt' (mislabeled, actually Mark)"
+      }
+    ],
+    "vn58an-d1e1405-d1e135": [
+      {
+        "candidate_id": "mt13_47",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation ref 'Matth. xiii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1405-d1e340": [
+      {
+        "candidate_id": "lc10_21",
+        "intersectionCount": 11,
+        "status": "not_found",
+        "note": "this occurrence explicitly cites 'Matth. xi' and lacks the neighbor-love clause distinguishing Luke's version; matches mt11_25 instead"
+      },
+      {
+        "candidate_id": "mt11_25",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'dixit Christus Matth. xi' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1416": {
+    "vn58an-d1e1416-d1e150": [
+      {
+        "candidate_id": "io16_12",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit attribution 'sicut dixit Christus apostolis' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1437": {
+    "vn58an-d1e1437-d1e138": [
+      {
+        "candidate_id": "io16_12",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Augustinus...exponens illud' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1448": {
+    "vn58an-d1e1448-d1e126": [
+      {
+        "candidate_id": "Icor14_30",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit continuation 'dicit Glos. ibidem' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor14_31",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation ref 'primae Corinth. xiiii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1448-d1e154": [
+      {
+        "candidate_id": "hebr5_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'vt dicitur Hebr. v' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1459": {
+    "vn58an-d1e1459-d1e110": [
+      {
+        "candidate_id": "deut30_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Deuter. xxx' matches verse wording"
+      },
+      {
+        "candidate_id": "rom10_8",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'Roma. x' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1479": {
+    "vn58an-d1e1479-d1e461": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Ro. i' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1490": {
+    "vn58an-d1e1490-d1e556": [
+      {
+        "candidate_id": "IIcor3_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus. ii. Corin. iii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1490-d1e673": [
+      {
+        "candidate_id": "eph4_11",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus Ephe. iiii' matches verse wording"
+      },
+      {
+        "candidate_id": "is54_13",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'per Esa. prophetam' matches verse wording"
+      },
+      {
+        "candidate_id": "is8_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicit dominus Esaiae octauo' matches verse wording"
+      },
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'expressius dicit Apostolus' matches verse wording (abbreviated)"
+      },
+      {
+        "candidate_id": "ier31_34",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'per Esa. prophetam' (conflated with Jeremiah) matches verse wording"
+      },
+      {
+        "candidate_id": "is64_4",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'vt enim dicitur in Esa' matches verse wording"
+      },
+      {
+        "candidate_id": "eph4_13",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "continuation of explicit Ephesians citation matches verse wording"
+      },
+      {
+        "candidate_id": "eph4_14",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "continuation of explicit Ephesians citation matches verse wording"
+      },
+      {
+        "candidate_id": "eph4_17",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit continuation 'Et sequitur post modicum' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1510": {
+    "vn58an-d1e1510-d1e190": [
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "allusion using well-known scriptural phrase, matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1544": {
+    "vn58an-d1e1544-d1e143": [
+      {
+        "candidate_id": "ps138_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'quid scriptum est' matches verse wording (used as grammatical example)"
+      }
+    ]
+  },
+  "vn58an-d1e1575": {
+    "vn58an-d1e1575-d1e206": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'vt dicitur Ioan. primo' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1586": {
+    "vn58an-d1e1586-d1e153": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'in Gene. dicit Moyses' matches verse wording"
+      },
+      {
+        "candidate_id": "io5_17",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dixit Christus in Io' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1598": {
+    "vn58an-d1e1598-d1e366": [
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dictum est ad Moysen' matches verse wording, embedded in cited Augustine passage"
+      }
+    ]
+  },
+  "vn58an-d1e1663": {
+    "vn58an-d1e1663-d1e143": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'vt dicit Apostolus' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1793": {
+    "vn58an-d1e1793-d1e148": [
+      {
+        "candidate_id": "sap14_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Saper. xiiii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1857": {
+    "vn58an-d1e1857-d1e201": [
+      {
+        "candidate_id": "mt15_13",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Matth, xv. dicit Christus' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1857-d1e328": [
+      {
+        "candidate_id": "deut3_24",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'Deuter. iii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e1868": {
+    "vn58an-d1e1868-d1e437": [
+      {
+        "candidate_id": "ps95_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'illud Psal' matches verse wording"
+      },
+      {
+        "candidate_id": "ps85_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur in Psal' matches verse wording"
+      }
+    ],
+    "vn58an-d1e1868-d1e1226": [
+      {
+        "candidate_id": "eph6_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Aposto[lus]' matches verse wording"
+      },
+      {
+        "candidate_id": "ex7_15",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Exod. vii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e2050": {
+    "vn58an-d1e2050-d1e147": [
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "vn58an-d1e2095": {
+    "vn58an-d1e2095-d1e145": [
+      {
+        "candidate_id": "qoh7_26",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "wording matches verse though MS cites 'in lii. sapientiae' (mislabeled book)"
+      }
+    ]
+  },
+  "vn58an-d1e2149": {
+    "vn58an-d1e2149-d1e157": [
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'vt ait Dauid' matches verse wording (shared with ps52_1, both same phrase)"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'vt ait Dauid' matches verse wording (shared with ps13_1, both same phrase)"
+      }
+    ],
+    "vn58an-d1e2149-d1e191": [
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'Psal. xiii. habet' matches verse wording"
+      }
+    ],
+    "vn58an-d1e2149-d1e435": [
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cross-reference to earlier discussion ('dictum est iam sufficienter'), not a new quotation instance"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cross-reference to earlier discussion ('dictum est iam sufficienter'), not a new quotation instance"
+      }
+    ]
+  },
+  "vn58an-d1e2225": {
+    "vn58an-d1e2225-d1e366": [
+      {
+        "candidate_id": "rom16_25",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus soius vlti' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e2279": {
+    "vn58an-d1e2279-d1e473": [
+      {
+        "candidate_id": "ps138_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "one of several scriptural examples in a passage explicitly cited to Augustine, matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e2313": {
+    "vn58an-d1e2313-d1e1239": [
+      {
+        "candidate_id": "ps138_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'secundum illud Psalm' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e2344": {
+    "vn58an-d1e2344-d1e222": [
+      {
+        "candidate_id": "ap21_23",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'illud Apocahys. xxi' matches verse wording"
+      }
+    ],
+    "vn58an-d1e2344-d1e997": [
+      {
+        "candidate_id": "io17_21",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit citation 'quod dicitur Io. xvii' matches verse wording"
+      },
+      {
+        "candidate_id": "io17_24",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'Io. xvii'"
+      },
+      {
+        "candidate_id": "io17_22",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'Io. xvii'"
+      },
+      {
+        "candidate_id": "io17_23",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'Io. xvii'"
+      }
+    ]
+  },
+  "vn58an-d1e2386": {
+    "vn58an-d1e2386-d1e656": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "quotation of Johannine prologue in theological discussion of the Word, matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e2431": {
+    "vn58an-d1e2431-d1e152": [
+      {
+        "candidate_id": "Iio1_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit attribution 'vere dictum est' matches verse wording"
+      }
+    ],
+    "vn58an-d1e2431-d1e479": [
+      {
+        "candidate_id": "hebr4_13",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit citation 'Heb. 4' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e2507": {
+    "vn58an-d1e2507-d1e187": [
+      {
+        "candidate_id": "ps65_3",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicit alibi' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e2617": {
+    "vn58an-d1e2617-d1e377": [
+      {
+        "candidate_id": "lc2_52",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "wording matches verse though MS attributes to 'euangelista Io. i.' (misattributed, actually Luke)"
+      }
+    ]
+  },
+  "vn58an-d1e2648": {
+    "vn58an-d1e2648-d1e149": [
+      {
+        "candidate_id": "sap9_9",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Sap. ix' matches verse wording"
+      },
+      {
+        "candidate_id": "ps138_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'propheta in Psal' matches verse wording"
+      },
+      {
+        "candidate_id": "sap9_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "part of extended citation 'dicitur vbi supra Sap ix' matches verse wording"
+      },
+      {
+        "candidate_id": "sap9_7",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur vbi supra Sap ix' matches verse wording"
+      },
+      {
+        "candidate_id": "col2_3",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'loquitur Apostolus cum dicit Col. ii' matches verse wording"
+      },
+      {
+        "candidate_id": "sap8_6",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Sap viii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-d1e2766": {
+    "vn58an-d1e2766-d1e165": [
+      {
+        "candidate_id": "ps32_6",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit citation 'in Psal' matches verse wording"
+      }
+    ],
+    "vn58an-d1e2766-d1e431": [
+      {
+        "candidate_id": "io5_26",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Io. v' matches verse wording"
+      },
+      {
+        "candidate_id": "prov8_15",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dicit domins deus. Prouer. viii' matches verse wording"
+      }
+    ],
+    "vn58an-d1e2766-d1e916": [
+      {
+        "candidate_id": "io17_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Ioan. xvii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe747a": {
+    "vn58an-fe747a-d1e404": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'Io. i' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe2989": {
+    "vn58an-fe2989-d1e185": [
+      {
+        "candidate_id": "ps144_3",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'illud praes[al]' matches verse wording"
+      }
+    ],
+    "vn58an-fe2989-d1e607": [
+      {
+        "candidate_id": "act17_25",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited 'Paulus...cum dixit' (Acts 17 sermon)"
+      },
+      {
+        "candidate_id": "act17_24",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "explicit citation 'Paulus formauit...cum dixit' matches verse wording"
+      },
+      {
+        "candidate_id": "ier51_48",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive - only shares generic formulaic phrase 'caelum et terra et omnia quae in eis sunt', not an actual citation of Jeremiah"
+      },
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "embedded in Gloss commentary on the Acts passage, matches verse wording"
+      },
+      {
+        "candidate_id": "act17_26",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited (Acts 17 sermon)"
+      },
+      {
+        "candidate_id": "act17_27",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "part of extended quotation explicitly cited (Acts 17 sermon)"
+      }
+    ]
+  },
+  "vn58an-fe4610": {
+    "vn58an-fe4610-d1e590": [
+      {
+        "candidate_id": "Icor12_11",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'i. Corin. xii. super illud' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe5502": {
+    "vn58an-fe5502-d1e303": [
+      {
+        "candidate_id": "iob4_17",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'illud lob. iiii' matches verse wording"
+      },
+      {
+        "candidate_id": "ps10_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "verbatim scriptural quotation, though no explicit chapter citation given"
+      }
+    ]
+  },
+  "vn58an-fe10892": {
+    "vn58an-fe10892-d1e595": [
+      {
+        "candidate_id": "io14_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dixit Christus' matches verse wording"
+      },
+      {
+        "candidate_id": "ps132_1",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'iuxta illud' matches verse wording"
+      }
+    ],
+    "vn58an-fe10892-d1e1058": [
+      {
+        "candidate_id": "io14_8",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'de loannis. xiiii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe13133": {
+    "vn58an-fe13133-d1e136": [
+      {
+        "candidate_id": "prov8_30",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Prouerbiorum. ix' (mislabeled chapter) matches verse wording"
+      },
+      {
+        "candidate_id": "ps15_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'illud salmi' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe19943": {
+    "vn58an-fe19943-d1e118": [
+      {
+        "candidate_id": "mic5_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Micheae. v' matches verse wording"
+      }
+    ],
+    "vn58an-fe19943-d1e296": [
+      {
+        "candidate_id": "io14_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Saluator Ioan. xiiii' matches verse wording (repeated clause shared with io14_11)"
+      },
+      {
+        "candidate_id": "io14_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Saluator Ioan. xiiii' matches verse wording (repeated clause shared with io14_10)"
+      }
+    ],
+    "vn58an-fe19943-d1e473": [
+      {
+        "candidate_id": "io14_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "embedded in cited Hilary passage discussing 'ego in patre et pater in me' (shared with io14_11)"
+      },
+      {
+        "candidate_id": "io14_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "embedded in cited Hilary passage discussing 'ego in patre et pater in me' (shared with io14_10)"
+      }
+    ],
+    "vn58an-fe19943-d1e645": [
+      {
+        "candidate_id": "io14_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit attribution 'sermo Domini cum dicit' matches verse wording (shared with io14_11)"
+      },
+      {
+        "candidate_id": "io14_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit attribution 'sermo Domini cum dicit' matches verse wording (shared with io14_10)"
+      }
+    ],
+    "vn58an-fe19943-d1e795": [
+      {
+        "candidate_id": "is45_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'per Esaiam loquitur' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe21519": {
+    "vn58an-fe21519-d1e311": [
+      {
+        "candidate_id": "is66_9",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Esaiae vltimo' matches verse wording"
+      }
+    ],
+    "vn58an-fe21519-d1e2264": [
+      {
+        "candidate_id": "io5_26",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "wording matches verse though MS cites 'loannis. xvii' (mislabeled chapter)"
+      }
+    ]
+  },
+  "vn58an-fe24741": {
+    "vn58an-fe24741-d1e724": [
+      {
+        "candidate_id": "rom8_9",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'Roma. viii' matches verse wording"
+      },
+      {
+        "candidate_id": "io16_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'dixit filius de spiritu sancto Ioan. xvi' matches verse wording"
+      },
+      {
+        "candidate_id": "io7_16",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit attribution 'illud quod ait' matches verse wording"
+      }
+    ],
+    "vn58an-fe24741-d1e972": [
+      {
+        "candidate_id": "io16_12",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'super illud' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe27310": {
+    "vn58an-fe27310-d1e123": [
+      {
+        "candidate_id": "hebr1_3",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dicit Apostolus Hebrae. primo' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe33767": {
+    "vn58an-fe33767-d1e767": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit attribution 'illud est' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe37626": {
+    "vn58an-fe37626-d1e646": [
+      {
+        "candidate_id": "io5_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "wording matches verse though MS cites 'Ioan. xvii' (mislabeled chapter)"
+      }
+    ],
+    "vn58an-fe37626-d1e1027": [
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "wording matches verse though MS cites 'primae loannis. 4' (mislabeled chapter)"
+      }
+    ]
+  },
+  "vn58an-fe41822": {
+    "vn58an-fe41822-d1e1213": [
+      {
+        "candidate_id": "ps67_31",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'super illud Psal. lxxvii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe44773": {
+    "vn58an-fe44773-d1e762": [
+      {
+        "candidate_id": "iob36_27",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'super illud lob. xxxvii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe48518": {
+    "vn58an-fe48518-d1e153": [
+      {
+        "candidate_id": "io14_23",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'super illud euangelii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe50503": {
+    "vn58an-fe50503-d1e286": [
+      {
+        "candidate_id": "io1_12",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur loannem. i' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe61063": {
+    "vn58an-fe61063-d1e289": [
+      {
+        "candidate_id": "mc16_2",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "wording matches verse though MS cites 'Mat. xvi' (mislabeled, actually Mark)"
+      }
+    ]
+  },
+  "vn58an-fe65061": {
+    "vn58an-fe65061-d1e642": [
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'scriptum est' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe69134": {
+    "vn58an-fe69134-d1e583": [
+      {
+        "candidate_id": "prov13_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation 'dicitur Prouerb. xiii' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe69764": {
+    "vn58an-fe69764-d1e364": [
+      {
+        "candidate_id": "Iio4_13",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'ex dicto loannis vbi supra' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe72156": {
+    "vn58an-fe72156-d1e154": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit citation ref 'Io. v' matches verse wording"
+      }
+    ],
+    "vn58an-fe72156-d1e848": [
+      {
+        "candidate_id": "gen2_19",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit continuation 'continue sequitur' matches verse wording"
+      },
+      {
+        "candidate_id": "gen2_18",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "explicit citation 'dixit domins Gen. i' matches verse wording"
+      }
+    ],
+    "vn58an-fe72156-d1e1031": [
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "verbatim quotation embedded in cited Augustine sermon"
+      }
+    ]
+  },
+  "vn58an-fe75916": {
+    "vn58an-fe75916-d1e295": [
+      {
+        "candidate_id": "ex15_2",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit citation 'de quo dicitur Exo, xv' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe79795": {
+    "vn58an-fe79795-d1e604": [
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit attribution 'enarrauit cum ait' matches verse wording"
+      }
+    ]
+  },
+  "vn58an-fe83474": {
+    "vn58an-fe83474-d1e206": [
+      {
+        "candidate_id": "deut32_37",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "explicit continuation 'de quibus de proximo praemiserat' matches verse wording"
+      },
+      {
+        "candidate_id": "lc4_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "wording matches verse though source cites 'Deuteronomii octauo' (shared with mt4_10, multi-source quote)"
+      },
+      {
+        "candidate_id": "mt4_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "wording matches verse though source cites 'Deuteronomii octauo' (shared with lc4_8, multi-source quote)"
+      }
+    ]
+  },
+  "vn58an-fe84497": {
+    "vn58an-fe84497-d1e151": [
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "explicit citation 'communiter dicitur pro tota trinitate' matches verse wording"
+      }
+    ],
+    "vn58an-fe84497-d1e194": [
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'exponens illud Ioan. xiiii' (mislabeled chapter) matches verse wording"
+      }
+    ],
+    "vn58an-fe84497-d1e839": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit citation 'quod sumptum est in argumento' matches verse wording"
+      }
+    ]
+  }
+}
